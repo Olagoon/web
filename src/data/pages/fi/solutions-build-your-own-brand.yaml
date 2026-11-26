@@ -1,110 +1,115 @@
 meta:
-  title: Private Label SUP-valmistus | {SITE}
-  description: Käynnistä oma SUP-merkkisi OLagoonin kanssa. Ideasta markkinoille — täydellinen OEM/ODM-palvelu, joka sisältää suunnittelun, prototyyppien valmistuksen, tuotannon ja maailmanlaajuisen logistiikan.
+  title: 'Private Label pool Manufacturing & Custom Brand Launch | {SITE}'
+  description: 'Private label pool manufacturer for new inflatable pool brands. Launch your own pool brand with OLagoon — full OEM/ODM service including design, prototyping, custom branding, production, and global logistics.'
+
 hero:
-  tagline: Rakenna oma brändisi
-  title: Käynnistä oma<br />SUP-merkisi
-  subtitle: Sinulla on visio. Meillä on tehdas, osaaminen ja toimitusketju. Yhdessä rakennamme erottuvan brändin.
+  tagline: Build Your Own Brand
+  title: 'Launch Your Own<br />pool Brand'
+  subtitle: "You have the vision. We have the factory, the expertise, and the supply chain. Private label pool manufacturing and custom pool brand development — together, we'll build a brand that stands out."
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Mukautettu brändätty SUP-lauta vedessä
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: Custom branded pools on water
+
 process:
-  title: Brändisi matka
-  subtitle: Ideasta markkinoille 5 vaiheessa.
+  title: Your Brand Journey
+  subtitle: 'From idea to market in 5 phases.'
   steps:
-    - phase: Vaihe 1
-      title: Ideointi
-      period: Viikko 1-2
+    - phase: 'Phase 1'
+      title: 'Idea'
+      period: 'Week 1-2'
       items:
-        - Markkinatutkimus ja kilpailija-analyysi
-        - Tavoiteasiakkaan määrittely
-        - Brändiasettelma-työpaja
-        - Tuoterivistä strategia
-    - phase: Vaihe 2
-      title: Suunnittelu
-      period: Viikko 3–6
+        - 'Market research & competitor analysis'
+        - 'Target customer definition'
+        - 'Brand positioning workshop'
+        - 'Product line strategy'
+    - phase: 'Phase 2'
+      title: 'Design'
+      period: 'Week 3-6'
       items:
-        - Laudan muoto ja graafinen suunnittelu
-        - Värien sovitus ja materiaalin valinta
-        - Lisävarusteiden erittely
-        - Pakkaus- ja etikettisuunnittelu
-    - phase: Vaihe 3
-      title: Prototyyppi
-      period: Viikko 7–10
+        - 'Board shape & graphic design'
+        - 'Color matching & material selection'
+        - 'Accessory specification'
+        - 'Packaging & label design'
+    - phase: 'Phase 3'
+      title: 'Prototype'
+      period: 'Week 7-10'
       items:
-        - Otosten tuotanto
-        - Laaduntestaus (paine, kelluvuus, UV)
-        - Suunnittelun mukautukset
-        - Lopullinen hyväksyntä
-    - phase: Vaihe 4
-      title: Tuotanto
-      period: Viikko 11–14
+        - 'Sample production'
+        - 'Quality testing (pressure, buoyancy, UV)'
+        - 'Design adjustments'
+        - 'Final approval'
+    - phase: 'Phase 4'
+      title: 'Production'
+      period: 'Week 11-14'
       items:
-        - Erävalmistus
-        - Laadunvalvontatarkastus (per yksikkö)
-        - Merirahti / lentorahti
-        - Tulliselvitysasiakirjat
-    - phase: Vaihe 5
-      title: Käynnistys
-      period: Viikko 15–16
+        - 'Bulk manufacturing'
+        - 'QC inspection (per unit)'
+        - 'Sea freight / air freight'
+        - 'Customs clearance documents'
+    - phase: 'Phase 5'
+      title: 'Launch'
+      period: 'Week 15-16'
       items:
-        - Tuotekuvaus
-        - Verkkotuotteen syöte
-        - Markkinointimateriaalit
-        - Lanseeraustuki
+        - 'Product photography'
+        - 'Website product feed'
+        - 'Marketing materials'
+        - 'Launch support'
+
 packages:
-  title: Aloituspaketit
-  subtitle: Paketit suunniteltu jokaiselle brändin kasvuvaiheelle.
+  title: Startup Packages
+  subtitle: 'Packages designed for every stage of brand growth.'
   items:
     - name: Starter Brand
-      tagline: 50-100 yksikköä · 2 lautamallia
+      tagline: '50-100 units · 2 board models'
       features:
-        - Peruslogopainatus
-        - Vakiopakkaus
-        - Sähköpostituki
+        - 'Basic logo printing'
+        - 'Standard packaging'
+        - 'Email support'
     - name: Growing Brand
-      tagline: 300–1 000 kpl · 3–5 lautan mallia
+      tagline: '300-1,000 units · 3-5 board models'
       features:
-        - Oma väri + logo
-        - Mukautettu pakkaus
-        - Tuotekuvat
-        - Oma asiakaspäällikkö
+        - 'Custom color + logo'
+        - 'Custom packaging'
+        - 'Product photos'
+        - 'Dedicated manager'
     - name: Established Brand
-      tagline: 1 000+ yksikköä · Täydellinen tuotevalikoima
+      tagline: '1,000+ units · Full product line'
       features:
-        - Täydellinen mukautus
-        - Premium-paketointi
-        - Markkinointimateriaalit
-        - Prioriteettituotanto
+        - 'Full customization'
+        - 'Premium packaging'
+        - 'Marketing collateral'
+        - 'Priority production'
+
 features:
-  title: Miksi brändit valitsevat OLagoonin
-  subtitle: Yli 10 vuoden OEM-kokemus, täydet sertifioinnit ja alan alhaisin MOQ.
+  title: Why Brands Choose OLagoon
+  subtitle: '10+ years of OEM experience, full certification, and the lowest MOQ in the industry.'
   items:
-    - title: Yli 10 vuoden OEM-kokemus
-      description: 2 400+ runkoa toimitettu merkeille maailmanlaajuisesti.
-      icon: tabler:clock
-    - title: Täydellinen sertifiointi
-      description: CE / ISO / UKCA / BSCI / REACH – kaikki sertifioituja.
-      icon: tabler:certificate
-    - title: 30 päivän toimitusaika
-      description: Nopeampi kuin teollisuuden keskiarvo tilauksesta toimitukseen.
-      icon: tabler:truck-delivery
-    - title: Pieni MOQ
-      description: 50 yksiköstä — alhaisin alalla.
-      icon: tabler:package
-    - title: Oma suunnittelu
-      description: Täysi suunnittelutuki konseptista lopullisiin taittoihin.
-      icon: tabler:palette
-    - title: Globaali logistiikka
-      description: Merirahti-, lentorahti- ja tulliselvitystuki.
-      icon: tabler:world
+    - title: '10+ Years OEM Experience'
+      description: '2,400+ hulls delivered to brands worldwide.'
+      icon: 'tabler:clock'
+    - title: 'Full Certification'
+      description: 'CE / ISO / UKCA / BSCI / REACH — all certified.'
+      icon: 'tabler:certificate'
+    - title: 'Tiered Lead Times'
+      description: 'Samples in 15–20 days; production in 8–16 weeks by volume.'
+      icon: 'tabler:truck-delivery'
+    - title: 'Low MOQ'
+      description: 'From 50 units — lowest in the industry.'
+      icon: 'tabler:package'
+    - title: 'In-House Design'
+      description: 'Full design support from concept to final artwork.'
+      icon: 'tabler:palette'
+    - title: 'Global Logistics'
+      description: 'Sea freight, air freight, and customs clearance support.'
+      icon: 'tabler:world'
+
 cta:
-  title: Valmiina lanseeraamaan oman brändisi?
-  subtitle: Aloita brändisi matka tai lataa OEM-oppaamme.
+  title: 'Ready to launch your brand?'
+  subtitle: 'Start your brand journey or download our OEM guide.'
   actions:
-    - text: Aloita merkkisi matka
-      href: /contact/?package=oem
-      variant: primary
-    - text: Lataa OEM-ohje
-      href: /resources/download-catalog/
-      variant: secondary
+    - text: 'Start Your Brand Journey'
+      href: '/contact/?package=oem'
+      variant: 'primary'
+    - text: 'Download OEM Guide'
+      href: '/resources/download-catalog/'
+      variant: 'secondary'

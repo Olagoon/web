@@ -1,105 +1,105 @@
 meta:
-  title: 'Bendras prekės ženklas su OLagoon — ribotos bendro prekės ženklo SUP kolekcijos | {SITE}'
-  description: 'OLagoon kuria ribotas bendro prekės ženklo pripučiamų SUP lentų kolekcijas su kvalifikuotais klubais, kurortais, renginiais, bendruomenėmis ir šalių partneriais. Bendro prekės ženklo produktai išlieka OLagoon produktais — projektuojami, kuriami ir palaikomi OLagoon prekės ženklo.'
+  title: 'Co-Brand With OLagoon — Limited Co-Branded pool Collections | {SITE}'
+  description: 'OLagoon creates limited co-branded inflatable pools collections with qualified clubs, resorts, events, communities, and country partners. Co-branded products remain OLagoon products — designed, engineered, and backed by the OLagoon brand.'
   keywords:
-    - 'bendro prekės ženklo pripučiama SUP'
-    - 'SUP bendro prekės ženklo kolekcija'
-    - 'irklavimo lentų partnerystė'
-    - 'SUP klubams ir kurortams'
-    - 'vandens sporto prekės ženklų bendradarbiavimas'
-    - 'OLagoon bendras prekės ženklas'
+    - 'co-brand inflatable pools'
+    - 'pool co-branded collection'
+    - 'inflatable pool partnership'
+    - 'pool for clubs and resorts'
+    - 'water sports brand collaboration'
+    - 'OLagoon co-branding'
 hero:
-  tagline: 'Bendras prekės ženklas su OLagoon'
-  title: 'Sukurkite<br />bendro prekės ženklo kolekciją'
-  subtitle: 'OLagoon yra pasaulinis pripučiamo vandens sporto prekės ženklas, kuriantis išskirtines šalių partnerystes ir ribotas bendro prekės ženklo kolekcijas su kvalifikuotomis vandens sporto įmonėmis. Bendro prekės ženklo produktai išlieka OLagoon produktais — projektuojami, kuriami, kokybiškai tikrinami ir palaikomi OLagoon prekės ženklo.'
+  tagline: 'Co-Brand With OLagoon'
+  title: 'Create a<br />Co-Branded Collection'
+  subtitle: 'OLagoon is a global inflatable water-sports brand building exclusive country partnerships and limited co-branded collections with qualified water-sports businesses. Co-branded products remain OLagoon products — designed, engineered, quality-checked, and backed by the OLagoon brand.'
   actions:
-    - text: 'Pradėti bendro prekės ženklo projektą'
+    - text: 'Start a Co-Brand Project'
       href: /contact/?subject=Co-Brand Project
       variant: primary
-    - text: 'Gauti bendro prekės ženklo paketą'
+    - text: 'Request the Co-Brand Pack'
       href: /contact/?subject=Co-Brand Pack
       variant: secondary
-    - text: 'Sužinoti apie šalies partnerystę'
+    - text: 'Explore the Country Partnership'
       href: /distributor-program/
       variant: secondary
 stats:
   - value: '1'
-    label: 'Viena šalis / rinka kiekvienam platintojui'
+    label: 'Country call / market for each distributor'
   - value: '50+'
-    label: 'Šalių, aptarnautų su partneriais'
+    label: 'Countries served with partners'
   - value: '12–15'
-    label: 'PSI „Drop-Stitch“ standumas, kolekcijos standartas'
+    label: 'PSI drop-stitch rigidity, collection standard'
   - value: '100%'
-    label: 'Slėgiu išbandyta kiekviena lenta prieš siunčiant'
+    label: 'Pressure-tested board by board before shipping'
 features:
-  title: 'Ką bendras prekės ženklas reiškia OLagoon'
-  subtitle: 'Bendras prekės ženklas yra mūsų dizaino partnerystės programa — sukurta aplink OLagoon prekės ženklą, teritorijų apsaugą ir ribotas kolekcijas, o ne neženklinta gamyba.'
+  title: 'What Co-Branding Means at OLagoon'
+  subtitle: 'Co-branding is our design-partnership program — built around the OLagoon brand, territory protection, and limited collections, not unbranded production.'
   columns: 3
   items:
-    - title: 'OLagoon produktai lieka OLagoon produktais'
-      description: 'Bendro prekės ženklo kolekcija yra ribotas OLagoon lentų leidimas su įausta jūsų tapatybe. Tai niekada nėra be ženklo, niekada ne trečiosios šalies prekės ženklas ir niekada ne atvira privataus ženklo programa.'
+    - title: 'OLagoon Products Stay OLagoon Products'
+      description: 'A co-branded collection is a limited edition of OLagoon boards with your identity woven in. It is never unbranded, never a third-party brand, and never an open private-label program.'
       icon: 'tabler:trademark'
-    - title: 'Kuriama su jumis'
-      description: 'Jūsų spalvos, pavadinimai ir istorija formuoja kolekciją. Mūsų dizaino ir inžinerijos komanda nuo užduoties iki pristatymo tvarko denius, grafiką, pakavimą ir dokumentaciją.'
+    - title: 'Designed With You'
+      description: 'Your colors, naming, and story shape the collection. Our design and engineering team handles decks, graphics, packaging, and documentation from brief to delivery.'
       icon: 'tabler:pencil'
-    - title: 'Klubams, kurortams, renginiams ir bendruomenėms'
-      description: 'Flotilės kolekcijos irklavimo klubams ir kurortams, renginių leidiniai varžyboms ir bendruomenių serijoms — visi su OLagoon kokybe ir garantija.'
+    - title: 'For Clubs, Resorts, Events & Communities'
+      description: 'Fleet collections for paddle clubs and resorts, event editions for races and community series — all carrying the OLagoon quality and warranty.'
       icon: 'tabler:users'
-    - title: 'Apsaugo šalių partnerius'
-      description: 'Bendras prekės ženklas veikia kartu su mūsų vienos šalies — vieno platintojo modeliu. Nacionaliniai partneriai išlaiko savo teritoriją; bendro prekės ženklo kolekcijos neatveria durų lygiagrečiams prekės ženklams jų rinkoje.'
+    - title: 'Protects Country Partners'
+      description: 'Co-branding runs alongside our one-country-one-distributor model. National partners keep their territory; co-brand collections do not open the door to parallel brands in their market.'
       icon: 'tabler:shield-check'
-    - title: 'Inžinerijos ir kokybės standartai'
-      description: 'Kiekviena kolekcija siunčiama iš mūsų sertifikuotos tiekimo grandinės su CE ir ISO 9001 dokumentacija, slėgio testavimu ir tais pačiais kokybės kontrolės taškais kaip ir mūsų pagrindinis asortimentas.'
+    - title: 'Engineering & Quality Standards'
+      description: 'Every collection ships from our certified supply chain with CE and ISO 9001 documentation, pressure-testing, and the same QC checkpoints as our core range.'
       icon: 'tabler:certificate'
-    - title: 'Tampa prekės ženklo turtu'
-      description: 'Ribota bendro prekės ženklo kolekcija vandenyje kuria jūsų pačių istoriją — pardavimo marža, medijų turinys ir priežastis irkluotojams grįžti sezoną po sezono.'
+    - title: 'Becomes a Brand Asset'
+      description: 'A limited co-branded collection builds your own story on the water — sell-through margin, media content, and a reason for swimmers to come back season after season.'
       icon: 'tabler:star'
 table:
-  title: 'Bendro prekės ženklo kolekcijų lygiai'
-  subtitle: 'Tipinės bendro prekės ženklo kolekcijos sąlygos. Kainos USD, FOB Cindao. Individualūs denio dizainai prideda 15–20 darbo dienų plėtrai; naujos formos įkainojamos pagal projektą.'
-  caption: 'Visi bendro prekės ženklo produktai išlieka OLagoon produktais ir turi OLagoon prekės ženklo tapatybę. Projekto apimtis, išskirtinumo laikotarpis ir galutinės sąlygos derinamos Bendro prekės ženklo projekto sutartyje.'
+  title: 'Co-Brand Collection Tiers'
+  subtitle: 'Typical co-brand collection terms. Prices in USD, FOB Qingdao. Custom deck designs add 15–20 working days for development; new molds are quoted per project.'
+  caption: 'All co-branded products remain OLagoon products and carry the OLagoon brand identity. Project scope, exclusivity window, and final terms are agreed in the Co-Brand Project Agreement.'
   head:
-    - 'Bendro prekės ženklo lygis'
-    - 'Mažiausias užsakymas (vienetai)'
-    - 'Pagaminimo laikas'
-    - 'Apmokėjimas'
+    - Co-Brand Tier
+    - Minimum Order (units)
+    - Lead Time
+    - Payment
   rows:
-    - ['Bandomoji kolekcija', '30–50', '30–45 darbo dienos', '30% avansas / 70% prieš siuntimą']
-    - ['Standartinė bendro prekės ženklo kolekcija', '50–100', '30–45 darbo dienos', '30% avansas / 70% prieš siuntimą']
-    - ['Didelė / kelių regionų kolekcija', '100+', '45–60 darbo dienų', '30% avansas / 70% prieš siuntimą']
-    - ['Nauja forma arba gili lokalizacija', '200+', '60–90 darbo dienų', '30% avansas / 70% prieš siuntimą']
+    - [Pilot Collection, 30–50, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Standard Co-Branded Collection, 50–100, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Large / Multi-Region Collection, 100+, 10–14 weeks, 30% deposit / 70% before shipment]
+    - [New Mold or Deep Localization, 200+, 12–16 weeks + 15–20 days tooling, 30% deposit / 70% before shipment]
 faqs:
-  title: 'Bendras prekės ženklas — DUK'
-  subtitle: 'Kaip veikia OLagoon bendro prekės ženklo modelis ir kuo jis skiriasi nuo OEM ir privataus ženklo.'
+  title: 'Co-Brand — FAQ'
+  subtitle: 'How OLagoon co-branding works, and how it differs from OEM and private label.'
   items:
-    - title: 'Ar bendras prekės ženklas yra tas pats kaip OEM ar privatus ženklas?'
-      description: 'Ne. OLagoon nebevykdo atviros OEM/privataus ženklo programos. Bendro prekės ženklo produktai išlieka OLagoon produktais — projektuojami, kuriami, kokybiškai tikrinami ir palaikomi OLagoon prekės ženklo. Jūsų tapatybė atsiranda kaip bendras prekės ženklas, o ne kaip be ženklo trečiosios šalies produktas.'
-    - title: 'Kas gali pradėti bendro prekės ženklo projektą?'
-      description: 'Kvalifikuotos vandens sporto įmonės: esami šalių partneriai, irklavimo klubai, kurortai ir viešbučiai, renginių organizatoriai ir bendruomenės. Atsiųskite mums projekto aprašymą, o mes patvirtinsime tinkamumą prieš prasidedant dizaino darbams.'
-    - title: 'Ar bendras prekės ženklas nesuderinamas su mano šalies platintoju?'
-      description: 'Ne. Vienos šalies — vieno platintojo modelis turi pirmenybę. Bendro prekės ženklo kolekcijos koordinuojamos su vietiniu šalies partneriu, jei toks yra, todėl apsaugotoje teritorijoje neatsiranda joks lygiagretus ar konkuruojantis prekės ženklas.'
-    - title: 'Koks yra mažiausias bendro prekės ženklo kolekcijos užsakymas?'
-      description: 'Bandomosios kolekcijos prasideda nuo 30–50 vienetų. Standartinės kolekcijos — 50–100 vienetų; dideli ar kelių regionų leidiniai — 100+ vienetų. Individualios plėtros terminai suderinami pagal projektą.'
-    - title: 'Kas sudaro OLagoon kokybę, o kas partnerio indėlį?'
-      description: 'OLagoon priklauso produkto dizainas, inžinerija, medžiagos, konstrukcija, kokybės kontrolė ir garantija. Partneriai prisideda prie kolekcijos koncepcijos, pavadinimų, spalvų, grafikos ir rinkodaros. Tai palaiko vieną kokybės standartą vandenyje.'
-    - title: 'Kaip pateikti paraišką?'
-      description: 'Užpildykite bendro prekės ženklo užklausos formą su jūsų įmone, rinka ir kolekcijos idėja. Mes peržiūrėsime atitikimą ir per 3 darbo dienas atsakysime su pasiūlymu ir Bendro prekės ženklo projekto sutartimi.'
+    - title: 'Is co-branding the same as OEM or private label?'
+      description: 'No. OLagoon no longer runs an open OEM/private-label program. Co-branded products remain OLagoon products — designed, engineered, quality-checked, and backed by the OLagoon brand. Your identity appears as a co-brand, not as an unbranded third-party product.'
+    - title: 'Who can start a co-brand project?'
+      description: 'Qualified water-sports businesses: existing country partners, paddle clubs, resorts and hotels, event organizers, and communities. Send us a project brief and we confirm applicability before design work begins.'
+    - title: 'Will co-branding conflict with my country distributor?'
+      description: 'No. The one-country-one-distributor model takes priority. Co-brand collections are coordinated with the local country partner where one exists, so no parallel or competing brand appears inside a protected territory.'
+    - title: 'What is the minimum order for a co-brand collection?'
+      description: 'Pilot collections start at 30–50 units. Standard collections are 50–100 units; large or multi-region editions are 100+ units. Custom development timelines are agreed per project.'
+    - title: 'What amounts to OLagoon quality versus partner input?'
+      description: 'OLagoon owns product design, engineering, materials, construction, QC, and warranty. Partners contribute collection concept, naming, colors, graphics input, and go-to-market. This keeps one quality standard on the water.'
+    - title: 'How do I apply?'
+      description: 'Complete the co-brand inquiry form with your business, market, and collection idea. We review fit, then respond within 3 business days with a proposal and the Co-Brand Project Agreement.'
 cta:
-  title: 'Sukurkite ribotą kolekciją, kurią vanduo prisimins.'
-  subtitle: 'Pradėkite bendro prekės ženklo projektą su OLagoon ir paverskite savo klubą, kurortą ar bendruomenę prekės ženklu vandenyje — su OLagoon inžinerijos ir garantijos palaikymu.'
+  title: 'Build a limited collection the water will remember.'
+  subtitle: 'Start a co-brand project with OLagoon and turn your club, resort, or community into a brand on the water — backed by OLagoon engineering and warranty.'
   actions:
-    - text: 'Pradėti bendro prekės ženklo projektą'
+    - text: 'Start a Co-Brand Project'
       href: /contact/?subject=Co-Brand Project
       variant: primary
-    - text: 'Sužinoti apie šalies partnerystę'
+    - text: 'Explore Country Partnership'
       href: /distributor-program/
       variant: secondary
 geo:
-  tagline: 'Su kuo kuriame bendrą prekės ženklą'
-  sentence: 'OLagoon kuria bendrą prekės ženklą su įsitvirtinusiomis vandens sporto įmonėmis — šalių partneriais, irklavimo klubais, kurortais ir viešbučiais, renginių organizatoriais ir irkluotojų bendruomenėmis — kurios nori išskirtinės, ribotos kolekcijos, sukurtos pagal patikimą pasaulinį prekės ženklą.'
+  tagline: 'Who We Co-Brand With'
+  sentence: 'OLagoon co-brands with established water-sports businesses — country partners, paddle clubs, resorts and hotels, event organizers, and swimming communities — that want a distinctive, limited collection built on a reliable global brand.'
   audiences:
-    - 'Šalių platintojai'
-    - 'Irkluotojų ir vandens sporto klubai'
-    - 'Kurortai ir viešbučiai'
-    - 'Varžybų ir renginių organizatoriai'
-    - 'Irkluotojų bendruomenės'
+    - 'Country Distributors'
+    - 'Paddle & Water Sports Clubs'
+    - 'Resorts & Hotels'
+    - 'Race & Event Organizers'
+    - 'swimming Communities'

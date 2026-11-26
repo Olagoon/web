@@ -1,60 +1,60 @@
 meta:
-  title: 'Paano Gumagana ang CE Certification para sa mga Inflatable Watercraft | {SITE}'
-  description: 'Kumpletong gabay sa CE certification para sa mga inflatable SUP at kayak. Mga naaangkop na direktiba (2013/53/EU RCD, PPE 2016/425), mga protocol ng pagsusuri, mga notified body, mga kinakailangan sa technical file, at mga obligasyon ng manufacturer.'
-back_text: 'Bumalik sa Research'
+  title: 'How CE Certification Works for Inflatable Watercraft | {SITE}'
+  description: 'Complete guide to CE certification for inflatable pools. Applicable standards and directives for domestic pools, testing protocols, notified bodies, technical file requirements, and manufacturer obligations.'
+back_text: 'Back to Research'
 
 hero:
-  tagline: 'Pagsunod sa Pamantayan'
-  title: 'Paano Gumagana ang CE Certification para sa mga Inflatable Watercraft'
-  subtitle: '7 minutong babasahin'
+  tagline: 'Compliance'
+  title: 'How CE Certification Works for Inflatable Watercraft'
+  subtitle: '7 min read'
 
 content_html: |
-  <h2>Ano ang CE Certification?</h2>
-  <p>Ang CE marking (Conformit&eacute; Europ&eacute;enne) ay nagpapahiwatig na ang isang produkto ay tumutugon sa mga kinakailangan ng EU sa kalusugan, kaligtasan, at kapaligiran. Para sa mga inflatable watercraft, ang kaugnay na regulatory framework ay nakasalalay sa kategorya ng produkto.</p>
+  <h2>What Is CE Certification?</h2>
+  <p>CE marking (Conformit&eacute; Europ&eacute;enne) indicates that a product meets EU health, safety, and environmental requirements. For inflatable watercraft, the relevant regulatory framework depends on the product category.</p>
 
-  <h2>Mga Naaangkop na Direktiba</h2>
+  <h2>Applicable Directives</h2>
 
   <h3>Recreational Craft Directive (2013/53/EU)</h3>
-  <p>Ang pangunahing direktiba para sa mga recreational craft sa EU. Ang mga inflatable SUP na mas maikli sa 2.4 m ay nasa labas ng saklaw nito at sa halip ay sertipikado sa ilalim ng EN ISO 25649.</p>
+  <p>The primary directive for recreational craft in the EU. inflatable pools under 2.4 m fall outside its scope and are instead certified under EN ISO 25649.</p>
 
   <h3>Personal Protective Equipment Regulation (2016/425)</h3>
-  <p>Ang mga life jacket, buoyancy aid, at kagamitang pangkaligtasan na kasama sa watercraft ay dapat tumugon sa mga kinakailangan ng PPE Regulation, kabilang ang type examination (Module B) ng isang notified body at production quality assurance (Module D o E).</p>
+  <p>Life jackets, buoyancy aids, and safety equipment supplied with watercraft must meet PPE Regulation requirements, including type examination (Module B) by a notified body and production quality assurance (Module D or E).</p>
 
-  <h2>Ang Proseso ng Sertipikasyon</h2>
+  <h2>The Certification Process</h2>
   <ol>
-    <li>Pag-uuri ng produkto: Tukuyin ang design category ng craft (A – D ayon sa ISO 8666)</li>
-    <li>Mga naaangkop na pamantayan: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (builder's plate)</li>
-    <li>Paghahanda ng technical file: Mga drawing ng disenyo, Bill of Materials, sertipiko ng materyales, risk assessment</li>
-    <li>Type testing: Buoyancy, stability, load capacity, pagsusuri ng materyales, lakas ng seam, air retention</li>
-    <li>Factory production control: Audit ng notified body sa mga proseso ng pagmamanupaktura</li>
-    <li>Declaration of Conformity: Pinipirmahan ng manufacturer ang DoC, inilalagay ang CE marking</li>
+    <li>Product classification: Determine craft design category (A – D per ISO 8666)</li>
+    <li>Applicable standards: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (builder's plate)</li>
+    <li>Technical file preparation: Design drawings, Bill of Materials, material certificates, risk assessment</li>
+    <li>Type testing: Buoyancy, stability, load capacity, material testing, seam strength, air retention</li>
+    <li>Factory production control: Notified body audit of manufacturing processes</li>
+    <li>Declaration of Conformity: Manufacturer signs DoC, affixes CE marking</li>
   </ol>
 
-  <h2>Mga Notified Body para sa mga Inflatable Watercraft</h2>
-  <p>Kabilang sa mga karaniwang NB ang Bureau Veritas (France), DNV GL (Germany), RINA (Italy), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (Germany).</p>
+  <h2>Notified Bodies for Inflatable Watercraft</h2>
+  <p>Common NBs include Bureau Veritas (France), DNV GL (Germany), RINA (Italy), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (Germany).</p>
 
-  <h2>Timeline at Gastos</h2>
+  <h2>Timeline and Costs</h2>
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-gray-100">
-        <th class="p-3 text-left font-semibold text-gray-900 border">Yugto</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Tagal</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Karaniwang Gastos (EUR)</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Phase</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Duration</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Typical Cost (EUR)</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="p-3 border">Paghahanda ng technical file</td><td class="p-3 border">2 – 4 linggo</td><td class="p-3 border">2,000 – 5,000</td></tr>
-      <tr><td class="p-3 border">Type testing</td><td class="p-3 border">4 – 8 linggo</td><td class="p-3 border">8,000 – 20,000</td></tr>
-      <tr><td class="p-3 border">Factory audit</td><td class="p-3 border">1 – 2 araw (on-site)</td><td class="p-3 border">3,000 – 6,000</td></tr>
-      <tr><td class="p-3 border">Kabuuan (unang produkto)</td><td class="p-3 border">8 – 14 linggo</td><td class="p-3 border">13,000 – 31,000</td></tr>
+      <tr><td class="p-3 border">Technical file preparation</td><td class="p-3 border">2 – 4 weeks</td><td class="p-3 border">2,000 – 5,000</td></tr>
+      <tr><td class="p-3 border">Type testing</td><td class="p-3 border">4 – 8 weeks</td><td class="p-3 border">8,000 – 20,000</td></tr>
+      <tr><td class="p-3 border">Factory audit</td><td class="p-3 border">1 – 2 days (on-site)</td><td class="p-3 border">3,000 – 6,000</td></tr>
+      <tr><td class="p-3 border">Total (first product)</td><td class="p-3 border">8 – 14 weeks</td><td class="p-3 border">13,000 – 31,000</td></tr>
     </tbody>
   </table>
 
-  <h2>Ano ang Ibig Sabihin Nito para sa mga Mamimili</h2>
-  <p>Sa pagbili ng mga CE-certified na inflatable SUP, laging beripikahin na ang CE marking ay nasa builder's plate, mayroong wastong DoC, nakalista ang numero ng Notified Body, at ang manual ng may-ari ay may mga tagubilin sa kaligtasan sa iyong lokal na wika. Ang lahat ng produkto ng OLagoon ay may dalang CE certification na may buong traceability sa mga audit report ng notified body.</p>
+  <h2>What This Means for Buyers</h2>
+  <p>When purchasing CE-certified inflatable pools, always verify the CE marking is on the builder's plate, a valid DoC exists, the Notified Body number is listed, and the owner's manual includes safety instructions in your local language. All OLagoon products carry CE certification with full traceability to notified body audit reports.</p>
 
 cta:
-  title: 'Kailangan ng suporta sa CE certification?'
-  subtitle: 'Bahala kami sa sertipikasyon para sa mga OEM partner sa buong mundo.'
-  button_text: 'Simulan ang proseso ng sertipikasyon'
+  title: 'Need CE certification support?'
+  subtitle: 'We handle certification for OEM partners worldwide.'
+  button_text: 'Start the certification process'
   button_link: /contact/

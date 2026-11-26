@@ -1,65 +1,68 @@
 meta:
-  title: Wie Drop Stitch funktioniert — Die Technik hinter aufblasbaren starren Kernen | {SITE}
-  description: 'Tiefgehender Einblick in die Drop-Stitch-Technologie: wie tausende interne Fäden flexibles PVC in einen starren Hochdruckkern verwandeln, der 15-20 PSI aushält. Konstruktionsmethoden, Materialien, Qualitätsindikatoren und Anwendungen bei SUPs und Kajaks.'
-back_text: Zurück zur Forschung
-hero:
-  tagline: Technologie
-  title: Wie Drop Stitch funktioniert — Die Technik hinter aufblasbaren starren Kernen
-  subtitle: 8 Minuten Lesezeit
-content_html: |-
-  <h2>Was ist Drop Stitch?</h2>
-  <p>Drop Stitch (auch "Drop-Stitch-Gewebe" oder "Drop-Stitch-Kern" genannt) ist eine Konstruktionsmethode, bei der Tausende einzelner Polyesterf&auml;den die obere und untere Lage einer Gewebeh&uuml;lle verbinden. Wenn die H&uuml;lle aufgeblasen wird, wirken diese F&auml;den als interne Zugspannungselemente &ndash; sie verhindern, dass sich die oberen und unteren Bahnen nach au&szlig;en w&ouml;lben und eine runde Form annehmen, und zwingen die Bahn, flach und starr zu bleiben.</p>
-  <p>Das Ergebnis ist eine leichte, tragbare Struktur, die einem Innendruck von 15 &ndash; 20 PSI standh&auml;lt &ndash; vergleichbar mit der Steifigkeit eines Hartschalenboards, aber zur Aufbewahrung und zum Transport vollst&auml;ndig entleerbar.</p>
+  title: 'How Drop Stitch Works — The Engineering Behind Inflatable Rigid Cores | {SITE}'
+  description: 'Deep dive into drop stitch technology: how thousands of internal threads turn flexible PVC into a rigid, high-pressure core capable of 15-20 PSI. Construction methods, materials, quality indicators, and applications across the OLagoon pool lineup.'
+back_text: 'Back to Research'
 
-  <h2>So funktioniert es: Die Physik</h2>
-  <p>Bei einer herk&ouml;mmlichen aufblasbaren Struktur (wie einem Ballon oder einer Luftmatratze) dr&uuml;ckt der innere Luftdruck gleichm&auml;&szlig;ig in alle Richtungen. Ohne innere R&uuml;ckhaltung nimmt die Struktur eine zylindrische oder kugelf&ouml;rmige Form an. Drop Stitch l&ouml;st dieses Problem durch eine Zugverst&auml;rkung:</p>
+hero:
+  tagline: 'Technology'
+  title: 'How Drop Stitch Works — The Engineering Behind Inflatable Rigid Cores'
+  subtitle: '8 min read'
+
+content_html: |
+  <h2>What Is Drop Stitch?</h2>
+  <p>Drop stitch (also called "drop-stitch fabric" or "drop-stitch core") is a construction method in which thousands of individual polyester threads connect the top and bottom layers of a fabric shell. When the shell is inflated, these threads act as internal tension members — they prevent the top and bottom panels from bulging outward into a round shape, forcing the panel to remain flat and rigid.</p>
+  <p>The result is a lightweight, portable structure that can withstand 15 – 20 PSI of internal pressure — comparable to the rigidity of a rigid pool wall but fully deflatable for storage and transport.</p>
+
+  <h2>How It Works: The Physics</h2>
+  <p>In a conventional inflatable structure (like a balloon or an air mattress), the internal air pressure pushes equally in all directions. Without internal restraint, the structure becomes cylindrical or spherical. Drop stitch solves this by introducing tensile reinforcement:</p>
   <ul>
-    <li>Tausende von F&auml;den verbinden die oberen und unteren Gewebelagen</li>
-    <li>Beim Aufblasen versucht der Luftdruck, die obere und untere Lage auseinanderzudr&uuml;cken</li>
-    <li>Die F&auml;den widerstehen dieser Trennung und &uuml;bertragen die Last als Zugspannung entlang der Fadenachse</li>
-    <li>Das Ergebnis ist eine flache, starre Bahn, die Biegung widersteht</li>
+    <li>Thousands of threads connect the top and bottom fabric layers</li>
+    <li>When inflated, the air pressure tries to push the top and bottom apart</li>
+    <li>The threads resist this separation, transferring the load into tension along the thread axis</li>
+    <li>The result is a flat, rigid panel that resists bending</li>
   </ul>
 
-  <h2>Herstellungsprozess</h2>
+  <h2>Construction Process</h2>
   <ol>
-    <li><strong>Weben:</strong> Polyesterf&auml;den werden gleichzeitig in zwei separate Lagen des Grundgewebes eingewebt (typischerweise 1,100 DTEX oder 1,680 DTEX PVC-beschichtetes Polyester). Die F&auml;den werden in einem Winkel von 90&deg; zwischen den Lagen eingewebt.</li>
-    <li><strong>Beschichtung:</strong> Das gewebte Grundgewebe wird mit PVC (oder gelegentlich TPU) in einem Rakel- oder Kalanderbeschichtungsverfahren beschichtet. Dies dichtet die F&auml;den ab und erzeugt die luftdichte Membran.</li>
-    <li><strong>Lagenverbindung:</strong> Der Drop-Stitch-Kern wird mit &auml;u&szlig;eren kaschierten Lagen (typischerweise 0.9 mm oder 1.2 mm PVC) mittels Hei&szlig;kaschierung oder Klebstoff verbunden.</li>
-    <li><strong>Schwei&szlig;en:</strong> Railb&auml;nder werden entlang der Kanten mittels Hei&szlig;luftschwei&szlig;en, HF-Schwei&szlig;en oder Hochfrequenzschwei&szlig;en verschwei&szlig;t, um die Seitenw&auml;nde des Boards zu erzeugen.</li>
-    <li><strong>Ventilmontage:</strong> Boston-Ventile oder Halkey-Roberts-Ventile werden eingebaut, typischerweise mit einem Druckentlastungsmechanismus, um &Uuml;berbl&auml;hung zu verhindern.</li>
+    <li><strong>Weaving:</strong> Polyester threads are woven simultaneously into two separate layers of base fabric (typically 1,100 DTEX or 1,680 DTEX PVC-coated polyester). The threads are loop-woven between the layers at a 90&deg; angle.</li>
+    <li><strong>Coating:</strong> The woven base fabric is coated with PVC (or occasionally TPU) using a knife-coating or calendar-coating process. This seals the threads and creates the air-tight membrane.</li>
+    <li><strong>Layer bonding:</strong> The drop-stitch core is bonded to outer laminated layers (typically 0.9 mm or 1.2 mm PVC) using heat lamination or adhesive.</li>
+    <li><strong>Welding:</strong> Rail bands are welded along the edges using hot air welding, RF welding, or high-frequency welding to create the side walls of the pool.</li>
+    <li><strong>Valve installation:</strong> Boston valves or Halkey-Roberts valves are installed, typically with a pressure relief mechanism to prevent over-inflation.</li>
   </ol>
 
-  <h2>Wichtige Qualit&auml;tsindikatoren</h2>
+  <h2>Key Quality Indicators</h2>
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-gray-100">
         <th class="p-3 text-left font-semibold text-gray-900 border">Parameter</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Einstiegsklasse</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Entry Level</th>
         <th class="p-3 text-left font-semibold text-gray-900 border">Premium</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="p-3 border">Fadendichte</td><td class="p-3 border">1 Faden / sq in</td><td class="p-3 border">2 F&auml;den / sq in</td></tr>
-      <tr><td class="p-3 border">Grundgewebe</td><td class="p-3 border">1,100 DTEX</td><td class="p-3 border">1,680 DTEX</td></tr>
-      <tr><td class="p-3 border">Max. Druck</td><td class="p-3 border">12 &ndash; 15 PSI</td><td class="p-3 border">18 &ndash; 22 PSI</td></tr>
-      <tr><td class="p-3 border">PVC-St&auml;rke</td><td class="p-3 border">0.6 &ndash; 0.9 mm</td><td class="p-3 border">1.0 &ndash; 1.2 mm</td></tr>
-      <tr><td class="p-3 border">Rail-Konstruktion</td><td class="p-3 border">Gefaltet &amp; verklebt</td><td class="p-3 border">Verschwei&szlig;t &amp; fusionsverbunden</td></tr>
+      <tr><td class="p-3 border">Thread density</td><td class="p-3 border">1 thread / sq in</td><td class="p-3 border">2 threads / sq in</td></tr>
+      <tr><td class="p-3 border">Base fabric</td><td class="p-3 border">1,100 DTEX</td><td class="p-3 border">1,680 DTEX</td></tr>
+      <tr><td class="p-3 border">Max pressure</td><td class="p-3 border">12 – 15 PSI</td><td class="p-3 border">18 – 22 PSI</td></tr>
+      <tr><td class="p-3 border">PVC thickness</td><td class="p-3 border">0.6 – 0.9 mm</td><td class="p-3 border">1.0 – 1.2 mm</td></tr>
+      <tr><td class="p-3 border">Rail construction</td><td class="p-3 border">Folded &amp; glued</td><td class="p-3 border">Welded &amp; fusion-bonded</td></tr>
     </tbody>
   </table>
 
-  <h2>Anwendungen</h2>
+  <h2>Applications</h2>
   <ul>
-    <li><strong>SUP-Boards:</strong> 4" &ndash; 6" Dicke, 15 &ndash; 20 PSI, 1 &ndash; 2 F&auml;den/sq in</li>
-    <li><strong>Kajaks:</strong> Drop-Stitch-Boden + aufblasbare Seitenkammern, 10 &ndash; 15 PSI Boden</li>
+    <li><strong>pools:</strong> 4" – 6" thickness, 15 – 20 PSI, 1 – 2 threads/sq in</li>
+    <li><strong>Inflatable docks:</strong> Drop-stitch deck + perimeter chambers, 10 – 15 PSI surface</li>
   </ul>
 
-  <h2>Drop Stitch vs. Air Deck (Fiberglas- oder Holzkern)</h2>
-  <p>Hartschalenboards verwenden EPS-Schaumkerne mit Fiberglas- oder Holzstringer-Verst&auml;rkung. Sie sind leichter, steifer und reaktionsfreudiger &ndash; aber sie k&ouml;nnen nicht entleert werden. Drop Stitch tauscht etwas Steifigkeit gegen volle Transportf&auml;higkeit ein. F&uuml;r die meisten Freizeitnutzer sind moderne Drop-Stitch-SUPs mit 20 PSI in ihrer Steifigkeit von Einstiegs-Hartschalenboards kaum zu unterscheiden.</p>
+  <h2>Drop Stitch vs. Air Deck (Fiberglass or Wood Core)</h2>
+  <p>Rigid pools use steel, resin, or composite panels. They are permanent structures that cannot be moved or stored away. Drop stitch trades permanent installation for full portability. For most families, modern drop-stitch pools at 15 PSI are indistinguishable from entry-level rigid pools in everyday rigidity.</p>
 
-  <h2>Wie OLagoon Drop Stitch einsetzt</h2>
-  <p>OLagoon verwendet einen 1,680 DTEX Drop-Stitch-Kern in seiner gesamten SUP-Produktlinie, mit 2 F&auml;den pro Quadratzoll und einem 1.2 mm PVC-Au&szlig;enlaminat. Die Boards sind f&uuml;r 20 PSI ausgelegt und durchlaufen vor dem Versand einen 24–48-st&uuml;ndigen Druckhaltetest bei 1.25x des Nenndrucks. Railb&auml;nder werden hei&szlig;luftverschwei&szlig;t mit dreilagiger Fusion, und Druckentlastungsventile sind bei allen Modellen Standard.</p>
+  <h2>How OLagoon Uses Drop Stitch</h2>
+  <p>OLagoon uses a 1,680 DTEX drop-stitch core across its pool lineup, with 16,000 threads per square metre and a 1.2 mm PVC outer laminate. Pools are rated to 18 PSI and undergo a 24–48 hour pressure hold test at 1.25x rated pressure before shipment. Rail bands are hot-air welded with triple-layer fusion, and pressure relief valves are standard across all models.</p>
+
 cta:
-  title: Willst du mehr über Drop-Stitch lernen?
-  subtitle: Kontaktieren Sie uns für technische Spezifikationen und OEM-Anfragen.
-  button_text: Vertrieb kontaktieren
+  title: 'Want to learn more about drop stitch?'
+  subtitle: 'Contact us for technical specifications and OEM inquiries.'
+  button_text: 'Contact sales'
   button_link: /contact/

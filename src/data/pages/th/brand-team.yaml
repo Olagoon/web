@@ -1,85 +1,85 @@
 meta:
-  title: 'ทีมของเรา — วิศวกรทางทะเลและผู้สร้าง | {SITE}'
-  description: 'ก่อตั้งในปี 2012 ที่เมืองชิงเต่า olagoon ถูกสร้างขึ้นโดยวิศวกรทางทะเล ผู้เชี่ยวชาญด้านวัสดุ และผู้ที่ชื่นชอบกีฬาทางน้ำ พบกับทีมที่อยู่เบื้องหลังโรงงาน'
+  title: 'Our Team — Marine Engineers & Builders | {SITE}'
+  description: 'Founded in 2012 in Qingdao, olagoon was built by marine engineers, material scientists, and water sports enthusiasts. Meet the team behind the factory.'
   keywords:
-    - 'ทีม olagoon'
-    - 'วิศวกรทางทะเล'
-    - 'ผู้ผลิตบอร์ด SUP แบบเป่าลม'
-    - 'ทีมโรงงาน SUP'
+    - 'olagoon team'
+    - 'marine engineers'
+    - 'inflatable pools manufacturer'
+    - 'pool factory team'
 hero:
-  tagline: ทีมของเรา
-  title: ผู้อยู่เบื้องหลัง olagoon<br />— วิศวกรรมอิสระบนผืนน้ำ
-  subtitle: olagoon ก่อตั้งขึ้นในปี 2555 ในเมืองชิงเต่า ประเทศจีน โดยวิศวกรทางทะเล นักวิทยาศาสตร์ด้านวัสดุ และผู้ที่ชื่นชอบกีฬาทางน้ำ ซึ่งเชื่อมั่นในการทำให้ยานน้ำเป่าลมระดับมืออาชีพเข้าถึงได้ทั่วโลก
+  tagline: Our Team
+  title: 'The People Behind olagoon<br />— Engineering Freedom on Water'
+  subtitle: 'Founded in 2012 in Qingdao, China, olagoon was built by marine engineers, material scientists, and water sports enthusiasts who believed in making professional-grade inflatable watercraft accessible worldwide.'
   image:
     src: /images/team-all.webp
-    alt: ภาพทีมงานทั้งหมดของ olagoon — วิศวกรรม การผลิต และผู้บริหาร
+    alt: olagoon full team photo — engineering, production, and leadership
 founding:
-  tagline: จุดเริ่มต้นของเรา
-  title: จากโรงปฏิบัติงานชายฝั่ง<br />ไปจนถึงโรงงานขนาด 12,000 ตร.ม
-  subtitle: olagoon ก่อตั้งขึ้นโดยทีมวิศวกรทางทะเลที่มีประสบการณ์รวมกันหลายทศวรรษในการออกแบบซัพเป่าลม การประดิษฐ์ PVC และการผลิตอุปกรณ์ทางทะเลทั่วโลก
+  tagline: Our Founding
+  title: 'From a Coastal Workshop<br />to a 12,000 m² Facility'
+  subtitle: 'olagoon was founded by a team of marine engineers with decades of combined experience in inflatable pools design, PVC fabrication, and global marine equipment manufacturing.'
   items:
-    - title: 'ก่อตั้ง: 2012'
-      description: ก่อตั้งขึ้นในเมืองชิงเต่า ประเทศจีน ซึ่งเป็นศูนย์กลางทางทะเลที่สำคัญซึ่งมีมรดกด้านการต่อเรืออย่างลึกซึ้ง
+    - title: 'Founded: 2012'
+      description: 'Established in Qingdao, China — a major maritime hub with deep shipbuilding heritage.'
       icon: tabler:calendar
-    - title: พนักงาน 200+ คน
-      description: รวมถึงวิศวกร R&D ผู้เชี่ยวชาญด้านการควบคุมคุณภาพ และช่างเทคนิคการผลิตมากกว่า 50 คน
+    - title: '200+ Employees'
+      description: 'Including 50+ R&D engineers, quality control specialists, and production technicians.'
       icon: tabler:users
-    - title: โรงงานขนาด 12,000 ตร.ม.
-      description: โรงงานผลิตเฉพาะที่มี 6 สายการผลิตสำหรับบอร์ด SUP แบบเป่าลม
+    - title: '12,000 m² Facility'
+      description: 'Dedicated manufacturing plant with 6 production lines for inflatable pools.'
       icon: tabler:building-factory
-    - title: ให้บริการในกว่า 50 ประเทศ
-      description: ส่งออกไปยังยุโรป อเมริกา ตะวันออกกลาง เอเชียแปซิฟิก และแอฟริกา
+    - title: '50+ Countries Served'
+      description: 'Exporting to Europe, Americas, Middle East, Asia-Pacific, and Africa.'
       icon: tabler:globe
 leadership:
-  tagline: ความเป็นผู้นำ
-  title: ความเป็นผู้นำด้านการจัดการและวิศวกรรม
-  subtitle: ทีมผู้นำของเรารวบรวมความเชี่ยวชาญเชิงลึกในด้านวิศวกรรมทางทะเล การค้าระหว่างประเทศ และการจัดการคุณภาพ
+  tagline: Leadership
+  title: 'Management & Engineering Leadership'
+  subtitle: 'Our leadership team brings together deep expertise in marine engineering, international trade, and quality management.'
   columns: 3
   items:
-    - title: ผู้ก่อตั้งและซีอีโอ
-      name: Toby Liu
-      description: ประสบการณ์กว่า 15 ปีในการผลิตสินค้าทางทะเล เคยดำรงตำแหน่งผู้นำฝ่าย R&D ที่ผู้ผลิตอุปกรณ์กีฬาพายรายใหญ่ของจีน และถือสิทธิบัตรหลายรายการในด้านการออกแบบซัพเป่าลม
+    - title: 'Founder & CEO'
+      name: 'Toby Liu'
+      description: '15+ years in marine manufacturing. Previously led R&D at a major Chinese inflatable products manufacturer. Holds multiple patents in inflatable pools design.'
       icon: tabler:crown
       image: https://assets.olagoon.com/images/olagoon/team/olagoon-toby-liu-team.webp
-    - title: หัวหน้าวิศวกร
-      name: Zhang Wei
-      description: ประสบการณ์กว่า 20 ปีในการประดิษฐ์ PVC และการออกแบบโครงสร้างดรอปสติทช์ อดีตผู้อำนวยการฝ่ายเทคนิคของแบรนด์กีฬาพายในยุโรป
+    - title: 'Chief Engineer'
+      name: 'Zhang Wei'
+      description: '20+ years in PVC fabrication and drop-stitch design. Former technical director at a European inflatable products brand.'
       icon: tabler:engine
-      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
-    - title: หัวหน้าฝ่ายวิจัยและพัฒนา
-      name: Chen Ming
-      description: ปริญญาเอกสาขาวัสดุศาสตร์ เชี่ยวชาญด้านเทคโนโลยีดรอปสติทช์และกระบวนการเชื่อมด้วยความถี่สูง กว่า 10 ปีในด้านวัสดุคอมโพสิตสิ่งทอ
+      image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
+    - title: 'Head of R&D'
+      name: 'Chen Ming'
+      description: 'PhD in Materials Science. Specializes in drop-stitch technology and high-frequency welding processes. 10+ years in textile composites.'
       icon: tabler:flask
-      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
-    - title: ผู้อำนวยการฝ่ายผลิต
-      name: Liu Qiang
-      description: ประสบการณ์ 18+ ปี ในระบบการผลิตแบบลีนและการปรับปรุงสายการผลิตให้มีประสิทธิภาพสูงสุด ถือใบรับรอง Six Sigma Black Belt และนำระบบการจัดการคุณภาพ ISO 9001 มาใช้
+      image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
+    - title: 'Production Director'
+      name: 'Liu Qiang'
+      description: '18+ years in lean manufacturing and production line optimization. Six Sigma Black Belt. Implemented ISO 9001 quality systems.'
       icon: tabler:settings
-      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
-    - title: ผู้จัดการฝ่ายคุณภาพ
-      name: Wang Fang
-      description: ประสบการณ์ควบคุมคุณภาพสินค้าทางทะเลกว่า 12 ปี ผ่านการรับรองผู้ตรวจประเมิน CE และ ISO ดูแลการทดสอบทุกชุดการผลิต
+      image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
+    - title: 'Quality Manager'
+      name: 'Wang Fang'
+      description: '12+ years in marine quality control. Certified CE and ISO auditor. Oversees testing for every production batch.'
       icon: tabler:shield-check
-      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
-    - title: ผู้อำนวยการฝ่ายขายและปฏิบัติการ
-      name: Helen Lee
-      description: ประสบการณ์ด้านการค้า B2B ระหว่างประเทศกว่า 15 ปี จัดการความร่วมมือด้านร่วมแบรนด์และการจัดจำหน่ายในกว่า 30 ประเทศ พูดได้ 4 ภาษา
+      image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
+    - title: 'Sales & Operations Director'
+      name: 'Helen Lee'
+      description: '15+ years in international B2B trade. Managed co-brand and distribution partnerships across 30+ countries. Fluent in 4 languages.'
       icon: tabler:briefcase
       image: https://assets.olagoon.com/images/olagoon/team/olagoon-helen-contact-sales.webp
 philosophy:
-  tagline: ปรัชญาการออกแบบ
-  title: การออกแบบที่เน้นด้านวิศวกรรม<br />— ทุกรายละเอียดมีความสำคัญ
-  subtitle: ปรัชญาทางวิศวกรรมของเรามุ่งเน้นไปที่หลักการสามประการที่เป็นแนวทางในทุกผลิตภัณฑ์ที่เราสร้างขึ้น
+  tagline: Design Philosophy
+  title: 'Engineering-Led Design<br />— Every Detail Matters'
+  subtitle: 'Our engineering philosophy centers on three principles that guide every product we build.'
   list:
-    - 'ความน่าเชื่อถือต้องมาก่อน: ผลิตภัณฑ์ olagoon ทุกชิ้นผ่านการทดสอบเพื่อทนทานต่อสภาพการใช้งานจริง — ตั้งแต่ภารกิจกู้ภัยในน้ำเย็นไปจนถึงการให้เช่าที่รีสอร์ทเขตร้อน เราใส่ใจในการออกแบบเหนือมาตรฐานในจุดที่สำคัญที่สุด'
-    - 'ความแม่นยำในการผลิต: โรงงานของเราใช้การตัดด้วย CNC การเชื่อมด้วยคลื่นความถี่สูง และการทดสอบแรงดันแบบอัตโนมัติ ตะเข็บทุกเส้น วาล์วทุกตัว และอุปกรณ์ประกอบทุกชิ้นผ่านข้อกำหนดที่ระบุไว้เป็นเอกสาร'
-    - 'นวัตกรรมต่อเนื่อง: ทีมวิจัยและพัฒนา (R&D) ของเราประเมินวัสดุใหม่ วิธีการผลิต และการปรับปรุงการออกแบบอย่างต่อเนื่อง เราไม่รอให้เกิดปัญหา — เราคาดการณ์ปัญหาล่วงหน้า'
+    - 'Reliability First: Every olagoon product is tested to withstand real-world conditions — from cold-water rescue operations to tropical resort rentals. We over-engineer where it matters most.'
+    - 'Manufacturing Precision: Our facilities use CNC cutting, high-frequency welding, and automated pressure testing. Every seam, every valve, every fitting meets documented specifications.'
+    - 'Continuous Innovation: Our R&D team evaluates new materials, production methods, and design improvements continuously. We do not wait for problems — we anticipate them.'
 cta:
-  title: ต้องการหารือเกี่ยวกับโครงการกับทีมของเราหรือไม่?
-  subtitle: วิศวกรของเราพร้อมให้คำแนะนำในการเลือกผลิตภัณฑ์ การปรับแต่ง และคอลเลคชันร่วมแบรนด์
+  title: 'Want to discuss a project with our team?'
+  subtitle: 'Our engineers are ready to advise on product selection, customization, and co-branded collections.'
   actions:
     - variant: primary
-      text: ติดต่อทีมงานของเรา
+      text: Contact our team
       href: /contact/
-    - text: ดูผลิตภัณฑ์ของเรา
+    - text: View our products
       href: /products/

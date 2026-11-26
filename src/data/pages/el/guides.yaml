@@ -1,25 +1,26 @@
 meta:
-  title: 'Οδηγοί SUP — αγοράστε, επιλέξτε, προπονηθείτε | {SITE}'
-  description: 'Οι οδηγοί SUP της olagoon: πώς να αγοράσετε, να επιλέξετε και να εξασκηθείτε στο paddle boarding. Μεγέθη, υλικά και συμβουλές ειδικών για αρχάριους και επαγγελματίες.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'οδηγός αγοράς SUP'
-    - 'πώς να επιλέξετε SUP'
-    - 'οδηγός μεγεθών SUP'
-    - 'συμβουλές φουσκωτό paddle board'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: Οδηγοί
-  title: Νέοι στο SUP;
-  subtitle: Πρακτικοί οδηγοί που σας βοηθούν να διαλέξετε, να χρησιμοποιήσετε και να απολαύσετε αερόστατες πλεύσεις SUP.
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
+
 size_guide:
-  tagline: Μέγεθος & Προδιαγραφές
-  title: Βρείτε το Σωστό Μέγεθος για τις Ανάγκες Σας
-  desc: Συγκρίνετε διαστάσεις σανίδων SUP, ικανότητες φορτίου και συνιστώμενες χρήσεις. Είτε χρειάζεστε SUP για touring, σανίδα γιόγκα ή SUP γενικής χρήσης — ο οδηγός μεγεθών μας σάς βοηθά να βρείτε τη σωστή επιλογή.
-  link_label: Πλήρης οδηγός μεγεθών με προδιαγραφές προϊόντος →
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: Σανίδες SUP
-      desc: Επιλέξτε το μήκος με βάση το βάρος σας και τη χρήση για την οποία προορίζεται. Οι πιο φαρδιές σανίδες (32"+) προσφέρουν μεγαλύτερη σταθερότητα. Οι μακρύτερες σανίδες (11–12 ft) διατηρούν καλύτερα την πορεία τους στο touring.
-    - title: Σανίδες SUP Touring
-      desc: Μεγαλύτερες σανίδες (11–12 ft) για κάλυψη αποστάσεων και σταθερή πορεία. Αρκετά σταθερές για touring με εξοπλισμό. Ελέγχετε πάντα τη χωρητικότητα βάρους.
-    - title: SUP All-Around
-      desc: Επιλέξτε μήκος ανάλογα με το βάρος του αναβάτη και τη χρήση. Πλατιά πίνακες (32") για σταθερότητα. Πολύχρηστοι για αναψυχή και συντονισμό.
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

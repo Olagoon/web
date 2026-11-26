@@ -1,68 +1,68 @@
 meta:
-  title: 'Kako deluje drop-stitch — inženiring napihljivih togih jeder | {SITE}'
-  description: 'Poglobljeni pogled na tehnologijo drop-stitch: kako tisoči notranjih nitic pretvorijo prožni PVC v togo jedro za visoke tlake, ki zdrži 15–20 PSI. Metode konstrukcije, materiali, kazalniki kakovosti in aplikacije na deskah SUP in kajakih.'
-back_text: 'Nazaj na raziskave'
+  title: 'How Drop Stitch Works — The Engineering Behind Inflatable Rigid Cores | {SITE}'
+  description: 'Deep dive into drop stitch technology: how thousands of internal threads turn flexible PVC into a rigid, high-pressure core capable of 15-20 PSI. Construction methods, materials, quality indicators, and applications across the OLagoon pool lineup.'
+back_text: 'Back to Research'
 
 hero:
-  tagline: 'Tehnologija'
-  title: 'Kako deluje drop-stitch — inženiring napihljivih togih jeder'
-  subtitle: '8 min branja'
+  tagline: 'Technology'
+  title: 'How Drop Stitch Works — The Engineering Behind Inflatable Rigid Cores'
+  subtitle: '8 min read'
 
 content_html: |
-  <h2>Kaj je drop-stitch?</h2>
-  <p>Drop-stitch (imenovan tudi "tkanina drop-stitch" ali "jedro drop-stitch") je konstrukcijska metoda, pri kateri tisoče posameznih poliestrskih nitic povezuje zgornjo in spodnjo plast tkanega ovoja. Ko se ovoj napihne, te nitice delujejo kot notranji vlečni elementi — preprečujejo, da bi se zgornji in spodnji panel izbočila v okroglo obliko, in silita panel, da ostane raven in tog.</p>
-  <p>Rezultat je lahka, prenosljiva konstrukcija, ki zdrži notranji tlak 15–20 PSI — primerljivo s togostjo trde deske, vendar jo je mogoče za shranjevanje in prevoz popolnoma izpustiti.</p>
+  <h2>What Is Drop Stitch?</h2>
+  <p>Drop stitch (also called "drop-stitch fabric" or "drop-stitch core") is a construction method in which thousands of individual polyester threads connect the top and bottom layers of a fabric shell. When the shell is inflated, these threads act as internal tension members — they prevent the top and bottom panels from bulging outward into a round shape, forcing the panel to remain flat and rigid.</p>
+  <p>The result is a lightweight, portable structure that can withstand 15 – 20 PSI of internal pressure — comparable to the rigidity of a rigid pool wall but fully deflatable for storage and transport.</p>
 
-  <h2>Kako deluje: fizika</h2>
-  <p>V običajni napihljivi konstrukciji (kot balon ali zračna vzmetnica) notranji zračni tlak pritiska enakomerno v vse smeri. Brez notranje zadržbe konstrukcija dobi valjasto ali sferično obliko. Drop-stitch to rešuje z uvedbo vlečne ojačitve:</p>
+  <h2>How It Works: The Physics</h2>
+  <p>In a conventional inflatable structure (like a balloon or an air mattress), the internal air pressure pushes equally in all directions. Without internal restraint, the structure becomes cylindrical or spherical. Drop stitch solves this by introducing tensile reinforcement:</p>
   <ul>
-    <li>tisoči nitic povezujejo zgornjo in spodnjo plast tkanine</li>
-    <li>ko je napihnjena, zračni tlak poskuša potisniti zgornjo in spodnjo plast narazen</li>
-    <li>nitice se upirajo temu ločevanju in prenašajo obremenitev v vleko vzdolž osi nitice</li>
-    <li>rezultat je raven, tog panel, ki se upira upogibu</li>
+    <li>Thousands of threads connect the top and bottom fabric layers</li>
+    <li>When inflated, the air pressure tries to push the top and bottom apart</li>
+    <li>The threads resist this separation, transferring the load into tension along the thread axis</li>
+    <li>The result is a flat, rigid panel that resists bending</li>
   </ul>
 
-  <h2>Proces izdelave</h2>
+  <h2>Construction Process</h2>
   <ol>
-    <li><strong>Tkanje:</strong> Poliestrske nitice se istočasno vtkejo v dve ločeni plasti osnovne tkanine (običajno 1.100 DTEX ali 1.680 DTEX poliestr s PVC-prevleko). Nitice se zankasto vtknejo med plasti pod kotom 90&deg;.</li>
-    <li><strong>Prevleka:</strong> Tkana osnovna tkanina se obda s PVC (občasno s TPU) s postopkom prevleke z nožem ali kalendarske prevleke. To zapečati nitice in ustvari zračotesno membrano.</li>
-    <li><strong>Vezanje plasti:</strong> Jedro drop-stitch se s toplotnim laminiranjem ali lepilom veže na zunanje laminirane plasti (običajno 0,9 mm ali 1,2 mm PVC).</li>
-    <li><strong>Varjenje:</strong> Robni pasovi se varijo vzdolž robov z varjenjem z vročim zrakom, VF-varjenjem ali visokofrekvenčnim varjenjem, da nastanejo stenske stene deske.</li>
-    <li><strong>Vgradnja ventilov:</strong> Vgradijo se ventili Boston ali Halkey-Roberts, običajno z mehanizmom za zmanjševanje tlaka proti prekomernemu napihovanju.</li>
+    <li><strong>Weaving:</strong> Polyester threads are woven simultaneously into two separate layers of base fabric (typically 1,100 DTEX or 1,680 DTEX PVC-coated polyester). The threads are loop-woven between the layers at a 90&deg; angle.</li>
+    <li><strong>Coating:</strong> The woven base fabric is coated with PVC (or occasionally TPU) using a knife-coating or calendar-coating process. This seals the threads and creates the air-tight membrane.</li>
+    <li><strong>Layer bonding:</strong> The drop-stitch core is bonded to outer laminated layers (typically 0.9 mm or 1.2 mm PVC) using heat lamination or adhesive.</li>
+    <li><strong>Welding:</strong> Rail bands are welded along the edges using hot air welding, RF welding, or high-frequency welding to create the side walls of the pool.</li>
+    <li><strong>Valve installation:</strong> Boston valves or Halkey-Roberts valves are installed, typically with a pressure relief mechanism to prevent over-inflation.</li>
   </ol>
 
-  <h2>Ključni kazalniki kakovosti</h2>
+  <h2>Key Quality Indicators</h2>
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-gray-100">
         <th class="p-3 text-left font-semibold text-gray-900 border">Parameter</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Vstopni razred</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Entry Level</th>
         <th class="p-3 text-left font-semibold text-gray-900 border">Premium</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="p-3 border">Gostota nitic</td><td class="p-3 border">1 nitica / kv. palec</td><td class="p-3 border">2 nitici / kv. palec</td></tr>
-      <tr><td class="p-3 border">Osnovna tkanina</td><td class="p-3 border">1.100 DTEX</td><td class="p-3 border">1.680 DTEX</td></tr>
-      <tr><td class="p-3 border">Največji tlak</td><td class="p-3 border">12–15 PSI</td><td class="p-3 border">18–22 PSI</td></tr>
-      <tr><td class="p-3 border">Debelina PVC</td><td class="p-3 border">0,6–0,9 mm</td><td class="p-3 border">1,0–1,2 mm</td></tr>
-      <tr><td class="p-3 border">Konstrukcija robov</td><td class="p-3 border">Zloženo &amp; prilepljeno</td><td class="p-3 border">Varjeno &amp; fuzijsko vezano</td></tr>
+      <tr><td class="p-3 border">Thread density</td><td class="p-3 border">1 thread / sq in</td><td class="p-3 border">2 threads / sq in</td></tr>
+      <tr><td class="p-3 border">Base fabric</td><td class="p-3 border">1,100 DTEX</td><td class="p-3 border">1,680 DTEX</td></tr>
+      <tr><td class="p-3 border">Max pressure</td><td class="p-3 border">12 – 15 PSI</td><td class="p-3 border">18 – 22 PSI</td></tr>
+      <tr><td class="p-3 border">PVC thickness</td><td class="p-3 border">0.6 – 0.9 mm</td><td class="p-3 border">1.0 – 1.2 mm</td></tr>
+      <tr><td class="p-3 border">Rail construction</td><td class="p-3 border">Folded &amp; glued</td><td class="p-3 border">Welded &amp; fusion-bonded</td></tr>
     </tbody>
   </table>
 
-  <h2>Aplikacije</h2>
+  <h2>Applications</h2>
   <ul>
-    <li><strong>Deske SUP:</strong> debelina 4"–6", 15–20 PSI, 1–2 nitici/kv. palec</li>
-    <li><strong>Kajaki:</strong> pod drop-stitch + napihljive stranske komore, 10–15 PSI poda</li>
+    <li><strong>pools:</strong> 4" – 6" thickness, 15 – 20 PSI, 1 – 2 threads/sq in</li>
+    <li><strong>Inflatable docks:</strong> Drop-stitch deck + perimeter chambers, 10 – 15 PSI surface</li>
   </ul>
 
-  <h2>Drop-stitch proti zračnemu podu (jedro iz steklenih vlaken ali lesa)</h2>
-  <p>Trde deske uporabljajo jedra iz EPS-pene z ojačitvijo iz steklenih vlaken ali lesenih vzdolžnikov. Lažje so, togejše in odzivnejše — vendar jih ni mogoče izpustiti. Drop-stitch zamenja del togosti za popolno prenosljivost. Za večino rekreacijskih uporabnikov so sodobne deske SUP s drop-stitch pri 20 PSI po togosti neločljive od vstopnih trdih desk.</p>
+  <h2>Drop Stitch vs. Air Deck (Fiberglass or Wood Core)</h2>
+  <p>Rigid pools use steel, resin, or composite panels. They are permanent structures that cannot be moved or stored away. Drop stitch trades permanent installation for full portability. For most families, modern drop-stitch pools at 15 PSI are indistinguishable from entry-level rigid pools in everyday rigidity.</p>
 
-  <h2>Kako OLagoon uporablja drop-stitch</h2>
-  <p>OLagoon v svoji ponudbi desk SUP uporablja jedro drop-stitch 1.680 DTEX z dvema niticama na kvadratni palec in zunanjo laminatno plastjo iz PVC debeline 1,2 mm. Deske so ocenjene na 20 PSI in pred odpošiljanjem prestanejo 24–48-urni preskus zadrževanja tlaka pri 1,25-kratnem nazivnem tlaku. Robni pasovi so varjeni z vročim zrakom s troplastno fuzijo, ventili za zmanjševanje tlaka pa so standard pri vseh modelih.</p>
+  <h2>How OLagoon Uses Drop Stitch</h2>
+  <p>OLagoon uses a 1,680 DTEX drop-stitch core across its pool lineup, with 16,000 threads per square metre and a 1.2 mm PVC outer laminate. Pools are rated to 18 PSI and undergo a 24–48 hour pressure hold test at 1.25x rated pressure before shipment. Rail bands are hot-air welded with triple-layer fusion, and pressure relief valves are standard across all models.</p>
 
 cta:
-  title: 'Želite izvedeti več o tehnologiji drop-stitch?'
-  subtitle: 'Stopite v stik z nami za tehnične specifikacije in povpraševanja OEM.'
-  button_text: 'Stopite v stik s prodajo'
+  title: 'Want to learn more about drop stitch?'
+  subtitle: 'Contact us for technical specifications and OEM inquiries.'
+  button_text: 'Contact sales'
   button_link: /contact/

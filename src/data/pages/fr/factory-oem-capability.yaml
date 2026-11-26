@@ -1,54 +1,58 @@
 meta:
-  title: 'Capacité OEM/ODM — Marque Privée SUP | {SITE}'
-  description: 'Services OEM et ODM complets : moule personnalisé, marque privée, packaging sur mesure. Fabricant de SUP gonflables certifié ISO 9001 et BSCI.'
+  title: 'OEM & Private Label Manufacturing | {SITE}'
+  description: 'From concept to container: customize every detail of your inflatable pools line. Full OEM/ODM service for private label inflatable pool brands.'
   keywords:
-    - 'OEM paddle gonflable'
-    - 'ODM paddle gonflable'
-    - 'SUP marque privée'
-    - 'paddle private label'
-    - 'fabrication SUP OEM'
+    - 'oem pool manufacturing'
+    - 'private label inflatable pool'
+    - 'oem inflatable pools'
+    - 'custom pool factory'
 hero:
-  tagline: Fabrication OEM/ODM
-  title: Fabrication OEM et Marque de Distributeur
-  subtitle: Du concept au conteneur — personnalisez chaque détail de votre gamme SUP gonflable
-intro: olagoon propose des services OEM et ODM complets pour les marques, distributeurs et agences gouvernementales dans le monde entier. Avec plus de 10 ans d'expérience à l'export et une usine certifiée ISO 9001 et BSCI de 12 000 m², nous gérons tout, de la conception de produits et du développement de moules à la production à grande échelle, l'emballage et la logistique.
+  tagline: OEM/ODM Manufacturing
+  title: OEM & Private Label Manufacturing
+  subtitle: From concept to container — customize every detail of your inflatable pools line
+
+intro: olagoon offers comprehensive OEM and ODM services for brands, distributors, and government agencies worldwide. With 10+ years of export experience and a 12,000 m² ISO 9001 & BSCI certified factory, we handle everything from product design and mold development to full-scale production, packaging, and logistics.
+
 highlight:
   - value: 10+
     label: Years OEM experience
-    detail: Depuis 2012
+    detail: Since 2012
   - value: 50+
     label: Export countries
-    detail: Portée mondiale
+    detail: Global reach
   - value: 200+
-    label: Projets personnalisés livrés
-    detail: Dans toutes les gammes de produits
-  - value: 30–45
-    label: Délai standard (jours)
-    detail: From PO to FOB
+    label: Custom projects delivered
+    detail: Across all product lines
+  - value: 12–16
+    label: Standard lead time (weeks)
+    detail: 50–100 units, from PO to FOB
+
 services:
-  - title: Conception et Ingénierie Produit
-    description: Notre équipe R&D interne travaille avec votre concept ou vos spécifications pour développer des dessins CAO, des modèles 3D et des prototypes. Nous proposons la conception de moules, l’optimisation de la forme de coque et des conseils de sélection de matériaux.
-  - title: Personnalisation de Marque et Graphismes
-    description: Impression numérique couleur, sérigraphie, gaufrage et options d’étiquettes. Nous développons des graphiques de pont spécifiques à la marque, du branding sur tubes et un emballage prêt pour la vente au détail.
-  - title: Personnalisation Matériaux et Spécifications
-    description: Choisissez parmi PVC (standard, écologique, ignifugé), drop-stitch et constructions hybrides. Couleurs de tubes personnalisées, grammages de tissu et options de renfort.
-  - title: Emballage et Logistique
-    description: Emballage de vente au détail personnalisé, boîtes marque de distributeur, conditionnement sous vide, palettisation et chargement en conteneur. Conditions FOB Qingdao, CIF ou DDP disponibles.
+  - title: Product Design & Engineering
+    description: Our in-house R&D team works with your concept or spec to develop CAD drawings, 3D models, and prototypes. We offer mold design, hull shape optimization, and material selection guidance.
+  - title: Custom Branding & Graphics
+    description: Full-color digital printing, screen printing, embossing, and label options. We develop brand-specific deck graphics, tube branding, and retail-ready packaging.
+  - title: Material & Specification Customization
+    description: Choose from PVC (standard, eco-friendly, fire-retardant), drop-stitch, and hybrid constructions. Custom tube colors, fabric weights, and reinforcement options.
+  - title: Packaging & Logistics
+    description: Custom retail packaging, private-label boxes, vacuum packing, palletizing, and container loading. FOB Qingdao, CIF, or DDP shipping terms available.
+
 moq_table:
-  - product: Planches SUP Gonflables
-    standard_moq: 5–10 unités
-    custom_moq: 200+ unités
-    lead_time: 30–45 jours
-  - product: Gilets de sauvetage et sécurité
-    standard_moq: 100–200 unités
-    custom_moq: 1 000+ unités
-    lead_time: 20–30 jours
+  - product: inflatable pools
+    standard_moq: 50 units (samples 5–10)
+    custom_moq: 200+ units
+    lead_time: 12–16 weeks
+  - product: Pool Accessories
+    standard_moq: 100–200 units
+    custom_moq: 1,000+ units
+    lead_time: 20–30 days
+
 why_us:
-  - title: Intégration Verticale
-    description: Nous possédons notre usine, nos moules et notre chaîne d’approvisionnement — pas d’intermédiaires, pas de sous-traitants. Cela nous donne le contrôle sur la qualité, les coûts et la livraison.
-  - title: Double Certification
-    description: Gestion de la qualité ISO 9001 et certification de conformité sociale BSCI. Rapports d’audit d’usine disponibles sur demande.
-  - title: Conformité CE
-    description: Tous les modèles standard sont certifiés CE 2013/53/UE. Les modèles personnalisés peuvent être certifiés CE via notre processus établi.
-  - title: MOQ Bas
-    description: Commencez avec seulement 5 unités pour les modèles standard. Nous aidons les marques émergentes à se lancer sans surcharger les stocks.
+  - title: Vertical Integration
+    description: We own our factory, molds, and supply chain — no middlemen, no subcontractors. This gives us control over quality, cost, and delivery.
+  - title: Dual Certification
+    description: ISO 9001 quality management and BSCI social compliance certification. Factory audit reports available upon request.
+  - title: CE Compliance
+    description: All standard models carry CE 2013/53/EU certification. Custom models can be CE certified through our established process.
+  - title: Low MOQ
+    description: Start with samples from 5–10 units; standard production runs from 50 units. We help emerging brands launch without overcommitting inventory.

@@ -1,50 +1,54 @@
 meta:
-  title: SUP-Distributionspartnerprogramm | {SITE}
-  description: Treten Sie OLagoons globalem Vertriebsnetz bei. Exklusive Gebiete, komplettes Produktportfolio, wettbewerbsfähige Großhandelspreise und engagiertes Account-Management.
+  title: 'pool Wholesale Distribution Partner Program | {SITE}'
+  description: "Join OLagoon's global pool wholesale distribution network. Exclusive territories, complete inflatable pools product portfolio, competitive wholesale pricing, and dedicated account management in 50+ countries."
+
 hero:
-  tagline: Vertriebspartner
-  title: Treten Sie unserem globalen<br />Vertriebsnetz bei
-  subtitle: Exklusive Gebiete. Komplettes Produktportfolio. Weltklasse-Support. OLagoon liefert in über 50 Länder und wir suchen etablierte Händler für Marine- und Wassersport.
+  tagline: Distributors
+  title: 'Join Our Global<br />Distribution Network'
+  subtitle: "pool wholesale distribution partner program with exclusive territories, complete inflatable pools product portfolio, and world-class support. OLagoon ships to 50+ countries — we're looking for established marine and water sports distributors."
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: OLagoon globale Vertriebs- und Versandoperationen
+    alt: OLagoon global distribution and shipping operations
+
 benefits:
-  title: Was Distributoren erhalten
-  subtitle: Alles, was Sie benötigen, um in Ihrem Markt erfolgreich zu sein.
+  title: What Distributors Get
+  subtitle: 'Everything you need to succeed in your market.'
   items:
-    - Exklusive Gebietsrechte
-    - Vollständiger Produktkatalog (SUP, Zubehör, Ersatzteile)
-    - Wettbewerbsfähige Großhandelspreise
-    - Marketing- und Verkaufsmaterialien (übersetzt)
-    - Schulungsprogramm (Produkt, Vertrieb, Wartung)
-    - Messeunterstützung
-    - Beispielprogramm
-    - Drop-Shipping-Fähigkeit
-    - Engagierter Vertriebsaccount-Manager
-    - Zahlungsbedingungen 45-60 Tage
+    - 'Exclusive territory rights'
+    - 'Complete product catalog (pool, accessories, parts)'
+    - 'Competitive wholesale pricing'
+    - 'Marketing & sales materials (translated)'
+    - 'Training program (product, sales, maintenance)'
+    - 'Trade show support'
+    - 'Sample program'
+    - 'Drop-ship capability'
+    - 'Dedicated distributor account manager'
+    - '45-60 day payment terms'
+
 coverage:
-  title: Aktuelle Verteilung
-  subtitle: OLagoon bedient derzeit diese Märkte direkt.
+  title: Current Distribution
+  subtitle: 'OLagoon currently serves these markets directly.'
   regions:
-    - name: Europa
-      countries: Frankreich, Deutschland, Vereinigtes Königreich, Spanien, Italien, Niederlande, Schweden, Norwegen, Polen, Griechenland
-    - name: Asien
-      countries: Japan, Südkorea, China, Thailand, Singapur
-    - name: Mittlerer Osten
-      countries: VAE, Saudi-Arabien
-    - name: Amerika
-      countries: USA, Kanada, Brasilien, Mexiko
-    - name: Ozeanien
-      countries: Australien, Neuseeland
-    - name: Afrika
-      countries: Südafrika, Marokko
+    - name: Europe
+      countries: 'France, Germany, UK, Spain, Italy, Netherlands, Sweden, Norway, Poland, Greece'
+    - name: Asia
+      countries: 'Japan, South Korea, China, Thailand, Singapore'
+    - name: Middle East
+      countries: 'UAE, Saudi Arabia'
+    - name: Americas
+      countries: 'USA, Canada, Brazil, Mexico'
+    - name: Oceania
+      countries: 'Australia, New Zealand'
+    - name: Africa
+      countries: 'South Africa, Morocco'
+
 cta:
-  title: Bereit, Distributor zu werden?
-  subtitle: Bewerben Sie sich für unser Distributor-Programm oder laden Sie unser Distributor-Informationspaket herunter.
+  title: 'Ready to become a distributor?'
+  subtitle: 'Apply for our distributor program or download our distributor information kit.'
   actions:
-    - text: Für das Vertriebsprogramm bewerben
-      href: /contact/?partner=distributor
-      variant: primary
-    - text: Distributor-Kit herunterladen
-      href: /resources/download-catalog/
-      variant: secondary
+    - text: 'Apply for Distributor Program'
+      href: '/contact/?partner=distributor'
+      variant: 'primary'
+    - text: 'Download Distributor Kit'
+      href: '/resources/download-catalog/'
+      variant: 'secondary'

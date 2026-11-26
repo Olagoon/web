@@ -1,52 +1,52 @@
 meta:
-  title: 'Производствен процес — от суровината до SUP дъската | {SITE}'
-  description: 'От суровината до готова за вода SUP дъска: всяка стъпка от производствения процес на olagoon под наш контрол — от рязането и заваряването до изпитванията.'
+  title: 'Manufacturing Process — From Raw Material to pool | {SITE}'
+  description: 'From raw material to sea-ready pool: every step of the olagoon manufacturing process under our control, from cutting and welding to testing.'
   keywords:
-    - 'производствен процес за sup'
-    - 'фабрика за надуваеми sup'
-    - 'стъпки в производството на дъски за гребане'
-    - 'pvc заваряване sup'
+    - 'pool manufacturing process'
+    - 'inflatable pools factory'
+    - 'inflatable pool production steps'
+    - 'pvc welding pool'
 hero:
-  tagline: 'Процес'
-  title: 'Производствен процес'
-  subtitle: 'От суровината до готова за вода дъска — всяка стъпка под наш контрол'
-  back_label: 'Обратно към фабриката'
+  tagline: Process
+  title: Manufacturing Process
+  subtitle: From raw material to backyard-ready pool — every step under our control
+  back_label: Back to Factory
   back_link: /factory/
 
-intro: 'За разлика от марки, които възлагат производството на външни фабрики, olagoon притежава и управлява цялата си производствена верига. Тази вертикална интеграция ни позволява да поддържаме строг контрол на качеството на всеки етап, да реагираме бързо на персонализирани изисквания и да доставяме последователно качество на продукта партида след партида. Ето как се изгражда една дъска в нашето предприятие.'
+intro: Unlike brands that outsource production to third-party factories, olagoon owns and operates its entire manufacturing chain. This vertical integration allows us to maintain strict quality control at every stage, respond quickly to custom requirements, and deliver consistent product quality batch after batch. Here is how a pool is built in our facility.
 
 steps:
   - step: '01'
-    title: 'Приемане и инспекция на материали'
-    description: 'Всяка входяща партида PVC тъкан, фибергласово влакно, смола и фурнитура се инспектира спрямо спецификацията. Мостри от тъканта се изпитват за якост на опън, еднородност на дебелината и UV устойчивост, преди да бъдат предадени на производството. Несъответстващите материали се подлагат на карантина и се връщат.'
-    duration: '1–2 дни'
+    title: Material Receipt & Inspection
+    description: Every incoming batch of PVC fabric, fiberglass mat, resin, and hardware is inspected against specification. Fabric samples are tested for tensile strength, thickness uniformity, and UV resistance before release to production. Non-conforming materials are quarantined and returned.
+    duration: 1–2 days
   - step: '02'
-    title: 'Автоматично рязане на PVC'
-    description: 'Одобрените тъкани се поставят на автоматичната CNC машина за рязане и се нарязват с точност под милиметъра. Компютърно оптимизираното подреждане разполага панелите така, че да минимизира отпадъците — обикновено под 5%. Изрязаните панели се етикетират по модел дъска и камера и се пакетират за прехвърляне към заваръчната работилница.'
-    duration: '2–4 часа на комплект дъска'
+    title: Automatic PVC Cutting
+    description: Approved fabrics are laid on the automatic CNC cutting machine and cut with sub-millimetre accuracy. Computer-optimised nesting arranges panels to minimise waste — typically below 5%. Cut panels are labelled by pool model and chamber, then bundled for transfer to the welding workshop.
+    duration: 2–4 hours per pool kit
   - step: '03'
-    title: 'Топлинно запечатване и заваряване на тръбите'
-    description: 'Панелите се фиксиранат предварително и се слепват с машини за топлинно запечатване чрез заваряване с горещ въздух при контролирани температури от 200–300 °C. Основните шевове се подсилват с RF диелектрично заваряване за херметични, високояки съединения. Завършените камери се надуват до 1,5× работното налягане за 30-минутна валидация на задържането на въздуха.'
-    duration: '1–2 дни на дъска'
+    title: Tube Heat Sealing & Welding
+    description: Panels are tacked and bonded using heat sealing machines with hot-air welding at controlled temperatures of 200–300 °C. Main seams are reinforced with RF dielectric welding for airtight, high-strength joints. Completed chambers are inflated to 1.5× working pressure for 30-minute air-retention validation.
+    duration: 1–2 days per pool
   - step: '04'
-    title: 'Печат и декорация на SUP'
-    description: 'Палубните графики на SUP дъските се нанасят чрез цифров печат за пълноцветни дизайни с фото качество и чрез шелкография за трайни лого и повтарящи се шарки. Отпечатъците се втвърдяват и запечатват за UV и износваща устойчивост.'
-    duration: '1–2 дни'
+    title: pool Printing & Decoration
+    description: pools deck graphics are applied using digital printing for full-colour photo-quality designs, and screen printing for durable logos and repeating patterns. Prints are cured and sealed for UV and abrasion resistance.
+    duration: 1–2 days
   - step: '05'
-    title: 'Финално сглобяване и такелаж'
-    description: 'Дъските се оборудват на поточната линия с перки, вентили, EVA палуби и аксесоари. Всяка единица следва 100-точков контролен списък за сглобяване със задължително подписване на всеки етап.'
-    duration: '2–4 дни'
+    title: Final Assembly & Rigging
+    description: Pools are rigged on the assembly line with valves, fittings, and accessories. Each unit follows a 100-point assembly checklist with mandatory sign-off at each stage.
+    duration: 2–4 days
   - step: '06'
-    title: 'Изпитване и инспекция на качеството'
-    description: 'Всяка завършена дъска преминава през задължителна контрольна точка за качество: изпитване на задържане на въздуха в камерите, проверка на функциите на фурнитурата, проверка на момента на затягане на крепежите и козметична инспекция. Персонализираните и прототипните изграждания получават също изпитвания във вода, обхващащи стабилността и управлението.'
-    duration: '1–2 дни'
+    title: Quality Testing & Inspection
+    description: 'Every completed pool undergoes mandatory quality gate: chamber air-retention test, hardware function check, fastener torque verification, and cosmetic inspection. Custom and prototype builds also receive in-water trials covering stability and handling.'
+    duration: 1–2 days
   - step: '07'
-    title: 'Опаковане и изпращане'
-    description: 'Дъските се спускат, сгъват по процедура, опаковат се в здрави тъкани торби или шайби от шперплат и се товарят за изпращане. Всеки пакет е етикетиран с модел, сериен номер и местоназначение. Координираме се с товарните експедитори за контейнерни пратки FCL и LCL по целия свят.'
-    duration: '1 ден'
+    title: Packing & Shipping
+    description: Pools are deflated, folded per procedure, packed in heavy-duty woven bags or plywood crates, and loaded for shipment. Each package is labelled with model, serial number, and destination. We coordinate with freight forwarders for FCL and LCL container shipments worldwide.
+    duration: 1 day
 
 cta:
-  title: 'Вижте нашето оборудване и машини'
-  desc: 'Разгледайте индустриалното оборудване, стоящо зад всяка дъска olagoon.'
-  label: 'Вижте оборудването →'
+  title: See our equipment and machinery
+  desc: Explore the industrial-grade equipment behind every OLagoon pool.
+  label: View equipment →
   link: /factory/equipment/

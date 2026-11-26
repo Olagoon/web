@@ -1,159 +1,158 @@
 meta:
-  title: 'Meie lugu — täispuhutavate supilaudade tootja | {SITE}'
-  description: 'Rannikutöökojast ülemaailmseks meretootjaks: olagoon lugu vabaduse inseneerimisest vees 12,000 m² sertifitseeritud tehase abil.'
+  title: 'Our Story — inflatable pools Manufacturer | {SITE}'
+  description: 'From a coastal workshop to a global marine manufacturer: the olagoon story of engineering freedom on water with a 12,000 m² certified factory.'
   keywords:
-    - 'olagoon ajalugu'
-    - 'olagoon kaubamärk'
-    - 'täispuhutavate supilaudade tootja'
-    - 'täispuhutavate SUP-laudade tootja'
+    - 'olagoon history'
+    - 'olagoon brand'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pools manufacturer'
 hero:
-  tagline: 'Meie lugu'
-  title: 'olagoon — vabaduse inseneerimine vees'
-  subtitle: 'Rannikutöökojast ülemaailmseks meretootjaks — meie teekond põhineb kangekaelsel veendumusel: veesõidukeid tuleb inseneerida nii, nagu nad oleksid olulised, sest nad ongi.'
+  tagline: Our Story
+  title: 'olagoon — Engineering Freedom On Water'
+  subtitle: 'From a coastal workshop to a global marine manufacturer — our journey is built on a stubborn belief: watercraft should be engineered like they matter, because they do.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'olagoon tehas ja merendustootmise rajatis Qingdaos'
+    alt: olagoon factory and marine manufacturing facility in Qingdao
 
 stats:
-  title: 'olagoon arvudes'
+  title: olagoon by the Numbers
   stats:
-    - title: 'Asutatud'
+    - title: Founded
       amount: 2012
-    - title: 'Tehas'
+    - title: Facility
       amount: '12,000 m²'
-    - title: 'Teenindatud riike'
+    - title: Countries Served
       amount: '50+'
-    - title: 'Aastane maht'
-      amount: '15,000+ ühikut'
-    - title: 'Töötajaid'
+    - title: Annual Capacity
+      amount: '15,000+ units'
+    - title: Employees
       amount: '200+'
-    - title: 'U&A-insenerid'
+    - title: R&D Engineers
       amount: '14+'
 
 timeline:
   - year: '2012'
-    title: 'Merendustootmise alus'
-    body: 'olagoon sai alguse spetsialiseeritud veesõidukite töökojana Qingdaos Hiinas, pühendunult merenduse käsitööle ja veesõidukite tootmisele. Varajane fookus oli usaldusväärsete täispuhutavate toodete ehitamine praktilise insenerikogemuse ja tootmisdistsipliini kaudu.'
+    title: 'Marine Manufacturing Foundation'
+    body: 'olagoon began as a specialized watercraft workshop in Qingdao, China, committed to marine craftsmanship and watercraft manufacturing. The early focus was building reliable inflatable products through practical engineering experience and manufacturing discipline.'
   - year: '2015'
-    title: 'Esimene eksport ja CE-sertifikaat'
-    body: 'Esimesed eksporditellimused jõudsid Jaapanisse ja Koreasse. Tuumtootesarjad said CE-sertifikaadi, tähistades olagoon sisenemist rahvusvahelistele turgudele. Ettevõte hakkas teenindama äri- ja vabaajakasutajaid väljaspool Hiinat.'
+    title: 'First Export & CE Certification'
+    body: "Initial export orders reached Japan and Korea. CE certification was achieved for core product lines, marking olagoon's entry into international markets. The company began serving commercial and recreational users beyond China."
   - year: '2018'
-    title: 'Tehase laienemine'
-    body: 'Koliti 12,000 m² tootmishoonesse. Lisandusid RF-keevitusliinid ja Drop-Stitch tootmismaht, võimaldades suuremamahulist tootmist ja täiustatud kvaliteedikontrolli süsteeme.'
+    title: 'Factory Expansion'
+    body: 'Relocated to a 12,000 m² production facility. Added RF welding lines and drop-stitch production capacity, enabling larger-scale manufacturing and improved quality control systems.'
   - year: '2020'
-    title: 'U&A-keskuse asutamine'
-    body: 'Avati pühendatud U&A-keskus koos PVC-kangaslabori, hüdrodünaamilise katsetanki ja CAD/FEA simulatsioonistuudioga. Tootearendus laienes, keskendudes kergele konstruktsioonile, täiustatud vastupidavusele ja kasutajakesksele disainile.'
+    title: 'R&D Center Established'
+    body: 'Opened a dedicated R&D center with PVC fabric lab, hydrodynamic test tank, and CAD/FEA simulation studio. Product development expanded to focus on lightweight construction, improved durability, and user-centered design.'
   - year: '2022'
-    title: 'Sertifitseerimine ja globaalne kasv'
-    body: 'Saavutati ISO 9001 sertifikaat. Laiendati 14 U&A-insenerini ja 200+ töötajani. Tooted jõudsid klientideni kogu Euroopas, Ameerikas ja Aasia ja Vaikse ookeani piirkonnas jaotus- ja kaasmärgi partnerluste kaudu.'
+    title: 'Certification & Global Growth'
+    body: 'Achieved ISO 9001 certification. Expanded to 14 R&D engineers and 200+ workers. Products reached customers across Europe, Americas, and Asia-Pacific through distributor and co-brand partnerships.'
   - year: '2024'
-    title: 'Innovatsiooni ja disaini stuudio'
-    body: 'Käivitati täisteenust pakkuv disaini- ja innovatsioonistuudio kohandatud kaasmärgi projektidele, kontseptsioonist tootmiseni. Tugevdati professionaalseid merendusrakendusi, sealhulgas pääste-, äri- ja valitsuslepinguid.'
+    title: 'Innovation & Design Studio'
+    body: 'Launched full-service design and innovation studio for custom co-brand projects, from concept to production. Strengthened professional marine applications including rescue, commercial, and government contracts.'
   - year: '2026'
-    title: 'Ehitame vee avastamise tulevikku'
-    body: 'Tänapäeval jätkab olagoon SUP-süsteemide ja meretarvikute arendamist — ühendades inimesi ja organisatsioone maailma vetega. Teenindatud riike: 50+, aastane tootmismaht: 15,000+ ühikut.'
+    title: 'Building The Future Of Water Exploration'
+    body: "Today, olagoon continues to develop pool systems and marine accessories — connecting people and organizations with the world's waters. 50+ countries served, 15,000+ units annual capacity."
 
 content_founding:
-  tagline: 'Algus'
-  title: 'Sündinud ranna ääres'
-  subtitle: 'olagoon sai alguse Qingdao rannikutöökojas ühe laua ja nägemusega: ehitada täispuhutavaid veesõidukeid, mis taluksid päris meretingimusi.'
+  tagline: The Beginning
+  title: 'Born on the Waterfront'
+  subtitle: 'OLagoon started in a Qingdao workshop in 2012 with one pool and a vision: to build inflatable pools that could handle real family use, season after season.'
   paragraphs:
-    - '2012. aastal nägid meie asutajad turul lünka — enamik täispuhutavaid veesõidukeid oli kas taskukohased, kuid ebausaldusväärsed, või kvaliteetsed, kuid keelavalt kallid. Nad uskusid, et on ruumi tootjale, kes pakub nii kvaliteeti kui ka väärtust.'
-    - 'Esimene kere ehitati käsitsi, testiti kohalikes vetes ja täiustati kalurite ja väikeste ärioperaatorite tegeliku tagasiside põhjal. See tagasisidetsükkel — ehita, testi, kuula, täiusta — on tänapäevalgi meie insenerifilosoofia tuum.'
-    - '2015. aastaks oli sõna levinud väljapoole Qingdaod. Rahvusvahelised jaotajad hakkasid proove paluma. See, mis algas kohaliku töökojana, sai ülemaailmseks tarnijaks.'
+    - 'In 2012, our founders saw a gap in the market — most inflatable watercraft were either affordable but unreliable, or high-quality but prohibitively expensive. They believed there was room for a manufacturer that delivered both quality and value.'
+    - 'The first hull was built by hand, tested in local waters, and refined based on real feedback from fishermen and small commercial operators. That feedback loop — build, test, listen, improve — remains at the core of our engineering philosophy today.'
+    - 'By 2015, word had spread beyond Qingdao. International distributors began requesting samples. What started as a local workshop was becoming a global supplier.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: 'olagoon varajane tootmistöökoda ja tootmine'
+    alt: olagoon early production workshop and manufacturing
 
 content_growth:
-  tagline: 'Kasv ja innovatsioon'
-  title: 'Töökojast 12,000 m² tehaseks'
-  subtitle: 'Pidev investeering inimestesse, seadmetesse ja protsessidesse on muutnud olagoon kaasaegseks merendustootmise rajatiseks.'
+  tagline: Growth & Innovation
+  title: 'From Workshop to 12,000 m² Facility'
+  subtitle: 'Continuous investment in people, equipment, and process has transformed olagoon into a modern marine manufacturing facility.'
   paragraphs:
-    - 'Kuna nõudlus kasvas, kasvas ka meie rajatis. Laienesime väikesest töökojast 12,000 m² tehaseks, kus on pühendatud tootmisliinid supilaudadele ja tarvikutele.'
-    - 'Investeerisime CNC-lõikuritesse, kõrgsageduskeevitusseadmetesse, Drop-Stitch tootmisliinidesse ja põhjalikesse katsestendidesse — see võimaldab meil kontrollida tootmiskvaliteedi iga aspekti.'
-    - 'Tänapäeval kuulub meie 200+ liikmest meeskonda merainsenere, materjaliteadlasi, kvaliteedikontrolli spetsialiste ja oskuslikke käsitöölisi — paljud neist on olnud olagooniga kaasas algaegadest saadik.'
+    - 'As demand grew, so did our facility. We expanded from a small workshop to a 12,000 m² factory with dedicated production lines for pools and accessories.'
+    - 'We invested in CNC cutting machines, high-frequency welding equipment, drop stitch production lines, and comprehensive testing rigs — allowing us to control every aspect of production quality.'
+    - 'Today, our team of 200+ includes marine engineers, material scientists, quality control specialists, and skilled craftspeople — many of whom have been with olagoon since the early days.'
 
 philosophy:
-  tagline: 'Kaubamärgi filosoofia'
-  title: 'Vabaduse inseneerimine vees'
-  body: 'Vabadus vees ei seisne ainult liikumises. See tähendab uute kohtade avastamist, väliskogemuste loomist, inimeste ühendamist loodusega ja professionaalsete missioonide võimaldamist. Inseneerimine teeb selle vabaduse võimalikuks.'
+  tagline: 'Brand Philosophy'
+  title: 'Engineering Freedom On Water'
+  body: 'Freedom on water is not only about movement. It represents discovering new places, creating outdoor experiences, connecting people with nature, and enabling professional missions. Engineering makes that freedom possible.'
   pillars:
-    - title: 'Usaldusväärsus esikohal'
-      body: 'Vee keskkonnad nõuavad usaldust. olagoon tooted on üles ehitatud stabiilsuse, vastupidavuse, ohutuse ja ühtlase jõudluse ümber.'
-    - title: 'Inimesekeskne disain'
-      body: 'Tooted peaksid teenima inimesi, mitte tehnoloogiat. Iga disainiotsus algab mõistmisest, kuidas inimesed veesõidukeid kasutavad, kus nad liiguvad ja milliste väljakutsetega nad silmitsi seisavad.'
-    - title: 'Kättesaadav avastamine'
-      body: 'Vesi ei tohiks kuuluda ainult ekspertidele. olagoon loob varustust, mis võimaldab rohkematel inimestel ohutult kogeda jõgesid, järvi, ookeane ja rannikukeskkondi.'
-    - title: 'Pidev innovatsioon'
-      body: 'Innovatsioon ei ole ainult uute toodete loomine. See on iga detaili täiustamine — materjalid, konstruktsioonid, tootmine ja kasutajakogemus.'
+    - title: 'Reliability First'
+      body: 'Water environments demand trust. olagoon products are designed around stability, durability, safety, and consistent performance.'
+    - title: 'Human-Centered Design'
+      body: 'Products should serve people, not technology. Every design decision begins with understanding how people use watercraft, where they explore, and what challenges they face.'
+    - title: 'Accessible Exploration'
+      body: 'Water should not belong only to experts. olagoon creates equipment that allows more people to safely experience rivers, lakes, oceans, and coastal environments.'
+    - title: 'Continuous Innovation'
+      body: 'Innovation is not only creating new products. It is improving every detail — materials, structures, manufacturing, and user experience.'
 
 engineeringDna:
-  tagline: 'Inseneerimise DNA'
-  title: 'Kuidas olagoon tooteid loob'
+  tagline: 'Engineering DNA'
+  title: 'How olagoon Creates Products'
   areas:
-    - title: 'Materjaliteadus'
-      body: 'olagoon keskendub erinevatele merikeskkondadele sobivate materjalide valikule. Peamised kaalutlused hõlmavad kulumiskindlust, UV-kindlust, rõhustabiilsust ja pikaajalist vastupidavust.'
-      items: ['Kulumiskindlus', 'UV-kindlus', 'Rõhustabiilsus', 'Pikaajaline vastupidavus']
-    - title: 'Konstruktsiooniinseneerimine'
-      body: 'Täispuhutavad veesõidukid nõuavad täpset tasakaalu jäikuse, kaalu, kaasaskantavuse ja stabiilsuse vahel. olagoon inseneerimine keskendub nende tegurite optimeerimisele Drop-Stitch tuumtehnoloogia ja täiustatud õmbluskonstruktsiooni kaudu.'
-      items: ['Jäikus', 'Kaaloptimeerimine', 'Kaasaskantavus', 'Stabiilsus']
-    - title: 'Tootmise täpsus'
-      body: 'Iga toode läbib kontrollitud protsessid: materjalide ettevalmistus, täpne lõikamine, keevitamine ja liimimine, koostamine, kvaliteediinspektsioon ning jõudluse verifitseerimine.'
-      items:
-        ['Materjalide ettevalmistus', 'Täpne lõikamine', 'Keevitamine ja liimimine', 'Koostamine ja kvaliteedikontroll']
-    - title: 'Kasutusstsenaariumide inseneerimine'
-      body: 'Tooteid arendatakse reaalsete rakenduste ümber — vabaaja, seiklus ja professionaalne kasutus — tagades, et iga disain vastab oma kavandatud keskkonna konkreetsetele nõudmistele.'
-      items: ['Vabaaja', 'Seiklus', 'Professionaalne', 'Äri']
+    - title: 'Material Science'
+      body: 'olagoon focuses on selecting appropriate materials for different marine environments. Key considerations include abrasion resistance, UV resistance, pressure stability, and long-term durability.'
+      items: ['Abrasion Resistance', 'UV Resistance', 'Pressure Stability', 'Long-Term Durability']
+    - title: 'Structural Engineering'
+      body: 'Inflatable watercraft require precise balance between rigidity, weight, portability, and stability. olagoon engineering focuses on optimizing these factors through drop-stitch core technology and advanced seam construction.'
+      items: ['Rigidity', 'Weight Optimization', 'Portability', 'Stability']
+    - title: 'Manufacturing Precision'
+      body: 'Every product goes through controlled processes: material preparation, precision cutting, welding and bonding, assembly, quality inspection, and performance verification.'
+      items: ['Material Prep', 'Precision Cutting', 'Welding & Bonding', 'Assembly & QC']
+    - title: 'User Scenario Engineering'
+      body: 'Products are developed around real applications — recreation, adventure, and professional use — ensuring each design meets the specific demands of its intended environment.'
+      items: ['Recreation', 'Adventure', 'Professional', 'Commercial']
 
 trustSignals:
-  tagline: 'Usaldussignaalid'
-  title: 'Miks olagoon on usaldusväärne partner'
+  tagline: 'Trust Signals'
+  title: 'Why olagoon Is A Reliable Partner'
   manufacturing:
-    title: 'Tootmisvõimekus'
-    body: '12,000 m² tootmisrajatus koos 200+ oskustöölise ja 14+ U&A-inseneriga. ISO 9001 sertifitseeritud kvaliteedijuhtimissüsteem. Aastane toodang 15,000+ veesõidukit, teenindades 50+ riiki.'
+    title: 'Manufacturing Capability'
+    body: '12,000 m² production facility with 200+ skilled workers and 14+ R&D engineers. ISO 9001 certified quality management system. Annual output of 15,000+ watercraft units serving 50+ countries.'
     stats:
-      - label: 'Rajatise suurus'
+      - label: 'Facility Size'
         value: '12,000 m²'
-      - label: 'Tööjõud'
+      - label: 'Workforce'
         value: '200+'
-      - label: 'U&A-insenerid'
+      - label: 'R&D Engineers'
         value: '14+'
-      - label: 'Aastane maht'
+      - label: 'Annual Capacity'
         value: '15,000+'
   quality:
-    title: 'Kvaliteedikohustus'
-    body: 'Materjalide kontrollist kuni lõpliku testimiseni hoiab olagoon ülal süstemaatilisi kvaliteediprotsesse, et pakkuda usaldusväärseid meretooteid. Iga üksus läbib enne saatmist rõhutesti, õmbluste kontrolli ja jõudluse verifitseerimise.'
+    title: 'Quality Commitment'
+    body: 'From material inspection to final testing, olagoon maintains systematic quality processes to deliver dependable marine products. Every unit undergoes pressure testing, seam inspection, and performance verification before shipping.'
     items:
-      - 'CE-sertifitseeritud — kõik tooted vastavad Euroopa ohutusstandarditele'
-      - 'ISO 9001:2015 — sertifitseeritud kvaliteedijuhtimissüsteem'
-      - 'UKCA märgistus — Ühendkuningriigi turu vastavus'
-      - 'FCC vastavus — USA elektroonikakomponentide vastavus'
+      - 'CE Certified — All products meet European safety standards'
+      - 'ISO 9001:2015 — Quality management system certified'
+      - 'UKCA Marked — UK market conformity'
+      - 'FCC Compliant — US electronic component compliance'
   global:
-    title: 'Globaalne kohalolek'
-    body: 'olagoon teenindab kliente paljudel globaalsetel turgudel, toetades jaotajaid, välisbrände ja professionaalseid merenduskasutajaid 50+ riigis kogu Euroopas, Aasia ja Vaikse ookeani piirkonnas, Ameerikas, Lähis-Idas ja Aafrikas.'
+    title: 'Global Presence'
+    body: 'olagoon serves customers across multiple global markets, supporting distributors, outdoor brands, and professional marine users in 50+ countries across Europe, Asia-Pacific, Americas, Middle East, and Africa.'
 
 comparison:
-  tagline: 'Kaubamärgi positsioneerimine'
-  title: 'olagoon turul'
-  position: 'Inseneerimisele keskendunud merespordi kaubamärk, mis ühendab täispuhutavate toodete tootmisekspertiisi kaasmärgikollektsioonide, kohandatud lahenduste ja sügava tootmiskogemusega.'
+  tagline: 'Brand Positioning'
+  title: 'olagoon in the Market'
+  position: 'Engineering-focused marine recreation brand combining inflatable production expertise with co-branded collections, custom solutions, and deep manufacturing experience.'
   strengths:
-    - 'Täispuhutavate veesõidukite inseneerimise ekspertiis'
-    - 'Täielik kaasmärgi ja eramärgi võimekus'
-    - 'Kohandatud tootearendus ja disain'
-    - '12,000 m² ISO 9001 sertifitseeritud tootmisrajatis'
+    - 'Inflatable watercraft engineering expertise'
+    - 'Full co-brand and private-label capability'
+    - 'Custom product development and design'
+    - '12,000 m² ISO 9001 certified production facility'
   bestFor:
-    - 'Välispordi kasutajad, kes otsivad usaldusväärseid täispuhutavaid veesõidukeid'
-    - 'Merendusoperaatorid, kes vajavad äriklassi varustust'
-    - 'Kaubamärgipartnerid, kes otsivad kaasmärgikollektsioone'
-    - 'Professionaalsed pääste- ja patrulliorganisatsioonid'
+    - 'Outdoor recreation users seeking reliable inflatable watercraft'
+    - 'Marine operators requiring commercial-grade equipment'
+    - 'Brand partners seeking co-branded collections'
+    - 'Professional rescue and patrol organizations'
 
 cta:
-  title: 'Valmis partnerluseks tootjaga,<br />kellele on kvaliteet tähtis?'
-  subtitle: 'Võtke ühendust meie meeskonnaga, et arutada oma kaasmärgi või eramärgi projekti — ei minimaaltellimuse survet, ainult aus nõuanne.'
+  title: 'Ready to partner with a manufacturer<br />that cares about quality?'
+  subtitle: 'Contact our team to discuss your co-brand or private-label project — no minimum order pressure, just honest advice.'
   actions:
     - variant: primary
-      text: 'Alusta vestlust'
+      text: Start a conversation
       href: /contact/
-    - text: 'Tutvu meie toodetega'
+    - text: Explore our products
       href: /products/

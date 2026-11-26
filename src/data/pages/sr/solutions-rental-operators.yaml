@@ -1,71 +1,71 @@
 meta:
-  title: 'Добављач опреме за изнајмљивање SUP плоча и решења за флоте | {SITE}'
-  description: 'Добављач опреме за изнајмљивање SUP плоча за оператере изнајмљивања. Комерцијалне SUP плоче високе ротације конструисане за свакодневну употребу — UV отпоран PVC, ојачани шавови, материјали који се брзо суше. Развијте ваш бизнис изнајмљивања са olagoon.'
+  title: 'pool Rental Equipment Supplier & Fleet Solutions | {SITE}'
+  description: 'pool rental equipment supplier for rental operators. High-rotation commercial pools engineered for daily use — UV-resistant PVC, reinforced seams, quick-dry materials. Scale your rental business with OLagoon.'
 
 hero:
-  tagline: 'Оператери изнајмљивања'
-  title: 'Развијте ваш бизнис изнајмљивања<br />са самопоуздањем'
-  subtitle: 'Добављач опреме за изнајмљивање SUP плоча за оператере изнајмљивања. SUP плоче високе ротације конструисане за свакодневно изнајмљивање, 365 дана годишње. Ваш приход никада не одмара.'
+  tagline: Rental Operators
+  title: 'Scale Your Rental Business<br />With Confidence'
+  subtitle: 'pool rental equipment supplier for rental operators. High-rotation pools engineered for daily rental use, 365 days a year. Your revenue never takes a day off.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: 'Заузет киоск за изнајмљивање са SUP плочама спремним за госте'
+    alt: Busy rental kiosk with pools ready for guests
 
 features:
-  title: 'Направљено за тешке услове изнајмљивања'
-  subtitle: 'Свака плоча је конструисана за 500+ циклуса изнајмљивања уз минимално одржавање.'
+  title: Built for the Rental Grind
+  subtitle: 'Every board is engineered for 500+ rental cycles with minimal maintenance.'
   items:
-    - title: '500+ циклуса изнајмљивања'
-      description: 'Тестирано да издржи свакодневну употребу у сланој води, на сунцу и у песку.'
+    - title: '500+ Rental Cycles'
+      description: 'Tested to survive daily use in saltwater, sun, and sand.'
       icon: 'tabler:shield-check'
-    - title: 'Тканина отпорна на UV'
-      description: 'Без блеђења или деградације након 1 године чувања на отвореном.'
+    - title: 'UV-Resistant Fabric'
+      description: 'No fading or degradation after 1 year of outdoor storage.'
       icon: 'tabler:sun'
-    - title: 'Ојачани шавови'
-      description: '3x чвршћи од стандардне конструкције надуваних плоча.'
+    - title: 'Reinforced Seams'
+      description: '3x stronger than standard inflatable board construction.'
       icon: 'tabler:layers-intersect'
-    - title: 'Материјали који се брзо суше'
-      description: 'Плоче спремне за следеће изнајмљивање за мање од 30 минута.'
+    - title: 'Quick-Dry Materials'
+      description: 'Boards ready for next rental in under 30 minutes.'
       icon: 'tabler:droplet'
-    - title: 'Складиштење слагањем'
-      description: 'Дизајн који штеди простор — чувајте 40% више плоча на истој површини.'
+    - title: 'Stackable Storage'
+      description: 'Space-saving design — store 40% more boards in the same area.'
       icon: 'tabler:stack'
-    - title: 'Величине означене бојама'
-      description: 'Особље тренутно узима праву плочу захваљујући величинама означеним бојама.'
+    - title: 'Color-Coded Sizes'
+      description: 'Staff grabs the right board instantly with color-coded sizing.'
       icon: 'tabler:color-swatch'
 
 stats:
-  title: 'Метрике пословања'
+  title: Operations Metrics
   stats:
-    - title: 'Обрт плоче'
+    - title: Board Turnover
       amount: '< 5 min'
-    - title: 'Годишње одржавање'
-      amount: '~15 min/плочи'
-    - title: 'Слање делова'
+    - title: Annual Maintenance
+      amount: '~15 min/board'
+    - title: Parts Dispatch
       amount: '48h'
-    - title: 'Стопа дефеката'
+    - title: Defect Rate
       amount: '< 0.5%'
 
 fleet_guide:
-  title: 'Водич за величину флоте'
-  subtitle: 'Процените величину флоте и потенцијал прихода за ваше операције изнајмљивања.'
+  title: Fleet Sizing Guide
+  subtitle: 'Estimate the fleet size and revenue potential for your rental operation.'
   tiers:
-    - label: 'Мали киоск'
+    - label: Small Kiosk
       boards: '15-20'
-      revenue: 'XX,XXX USD годишње'
-    - label: 'Средња операција'
+      revenue: '$XX,XXX/yr'
+    - label: Mid-Size Operation
       boards: '30-50'
-      revenue: 'XX,XXX USD годишње'
-    - label: 'Велико изнајмљивање на плажи'
+      revenue: '$XX,XXX/yr'
+    - label: Large Beach Rental
       boards: '50-100'
-      revenue: 'XXX,XXX USD годишње'
+      revenue: '$XXX,XXX/yr'
 
 cta:
-  title: 'Спремни да развијете ваш бизнис изнајмљивања?'
-  subtitle: 'Затражите цене за изнајмљивање или упоредите моделе плоча за вашу операцију.'
+  title: 'Ready to scale your rental business?'
+  subtitle: 'Get rental pricing or compare board models for your operation.'
   actions:
-    - text: 'Затражите цене за изнајмљивање'
+    - text: 'Get Rental Pricing'
       href: '/contact/?package=rental'
       variant: 'primary'
-    - text: 'Упоредите моделе плоча'
+    - text: 'Compare Board Models'
       href: '/compare/'
       variant: 'secondary'

@@ -1,80 +1,87 @@
 meta:
-  title: 'อุปกรณ์โรงงาน — การตัด การเชื่อม HF และการพิมพ์ | {SITE}'
-  description: 'อุปกรณ์การผลิตระดับอุตสาหกรรมของ olagoon: การตัดพีวีซี การเชื่อม HF การพิมพ์ดิจิทัล การประกอบ และการทดสอบบอร์ด SUP แบบเป่าลม'
+  title: 'Factory Equipment — Cutting, RF Welding & Printing | {SITE}'
+  description: 'Industrial-grade olagoon manufacturing equipment: PVC cutting, RF welding, digital printing, assembly, and testing for inflatable pools.'
   keywords:
-    - 'อุปกรณ์การผลิต SUP'
-    - 'โรงงาน SUP แบบสูบลม'
-    - 'การเชื่อม HF พีวีซี'
-    - 'การผลิตพายบอร์ด'
+    - 'pool manufacturing equipment'
+    - 'inflatable pools factory'
+    - 'rf welding pvc'
+    - 'inflatable pool production'
 hero:
-  tagline: อุปกรณ์
-  title: เครื่องจักรและอุปกรณ์การผลิต
-  subtitle: อุปกรณ์เกรดอุตสาหกรรมสำหรับการตัด การเชื่อม การพิมพ์ และการประกอบ
-  back_label: กลับไปที่โรงงาน
+  tagline: Equipment
+  title: Manufacturing Equipment & Machinery
+  subtitle: Industrial-grade equipment across cutting, welding, printing, and assembly
+  back_label: Back to Factory
   back_link: /factory/
+
 categories:
-  - title: การตัดและการเตรียมวัสดุ
+  - title: Cutting & Material Preparation
     items:
-      - name: เครื่องตัด PVC อัตโนมัติ
-        spec: ควบคุมด้วย CNC, 6.5 m × 2.5 m, ความแม่นยำ 0.1 mm
-        desc: เครื่องตัดอัตโนมัติควบคุมด้วยคอมพิวเตอร์สำหรับผ้า PVC และ drop-stitch ซอฟต์แวร์จัดวางเพิ่มประสิทธิภาพการใช้วัสดุให้เหลือเศษไม่เกิน 5%
-      - name: เครื่องคลี่ผ้า
-        spec: ความกว้างสูงสุด 3 m, การป้อนควบคุมแรงดึง
-        desc: วางผ้าเป็นชั้นเดียวหรือหลายชั้นด้วยแรงดึงที่ควบคุมเพื่อป้องกันการบิดก่อนตัด
-  - title: การเชื่อมท่อและการประกอบ
+      - name: Automatic PVC Cutting Machine
+        spec: CNC-controlled, 6.5 m × 2.5 m, 0.1 mm accuracy
+        desc: Computer-controlled automatic cutting machine for PVC and drop-stitch fabrics. Nesting software optimises material utilisation to below 5% waste.
+      - name: Fabric Spreader
+        spec: 3 m max width, tension-controlled feed
+        desc: Lays fabric in single or multiple plies with controlled tension to prevent distortion before cutting.
+
+  - title: Tube Welding & Bonding
     items:
-      - name: เครื่องซีลความร้อน
-        spec: การเชื่อมอากาศร้อน, ปรับได้ 200–600 °C, 0.5–5 m/min
-        desc: เครื่องซีลความร้อนด้วยอากาศร้อนสำหรับยึดติดและเชื่อมตะเข็บ PVC และตะเข็บขอบบอร์ด ใช้สำหรับยึด ซีล และหลอมรวมห้องท่อและข้อต่อลอย
-      - name: เครื่องอัด RF ไดอิเล็กตริก
-        spec: 15 kW, แผ่น 2000 × 600 mm
-        desc: เครื่องอัดเชื่อมความถี่วิทยุสำหรับตะเข็บตามยาวหลัก แถบขอบบอร์ด และการผลิตห้องขนาดใหญ่
-      - name: เครื่องเชื่อม RF ควบคุมด้วย CNC
-        spec: 8 kW, โต๊ะ XY 2500 × 1200 mm
-        desc: การเชื่อมตะเข็บโค้งที่ตั้งโปรแกรมได้สำหรับรูปทรงซับซ้อน การปั๊มโลโก้ และการอุดรอยแบบแม่นยำ
-  - title: การผลิตโครงตัวถัง SUP
+      - name: Heat Sealing Machine
+        spec: Hot-air welding, variable 200–600 °C, 0.5–5 m/min
+        desc: Hot-air heat sealing machine for bonding and welding PVC and rail seams. Used for tacking, sealing, and fusing tube chambers and float joints.
+      - name: Dielectric RF Press
+        spec: 15 kW, platen 2000 × 600 mm
+        desc: Radio-frequency welding press for main longitudinal seams, rail bands, and large-chamber fabrication.
+      - name: CNC-Controlled RF Welder
+        spec: 8 kW, XY table 2500 × 1200 mm
+        desc: Programmable curved-seam welding for complex geometries, logo embossing, and precision patchwork.
+
+  - title: pools Manufacturing
     items:
-      - name: เครื่องอัดลามิเนตแกนดรอปสติตช์
-        spec: เครื่องอัดขนาดใหญ่สำหรับแกนบอร์ดความยาวรวม (LOA) สูงสุด 14 ฟุต
-        desc: การเคลือบแกนดรอปสติตช์เข้ากับชั้น PVC ด้านนอกอย่างแม่นยำ แต่ละชั้นถูกยึดติดด้วยแรงดันเพื่อให้ได้คุณภาพและความแข็งแรงที่สม่ำเสมอ
+      - name: Drop-Stitch Core Lamination Press
+        spec: Large-format press for drop-stitch cores up to 5 m length
+        desc: Precision lamination of drop-stitch cores to outer PVC laminates. Each layer is pressure-bonded for consistent quality and strength.
       - name: CNC Router (5-axis)
-        spec: ขนาดพื้นที่ทำงาน 3 ม. × 2 ม. × 1 ม. สปินเดิลระบายความร้อนด้วยน้ำ
-        desc: การขึ้นรูปด้วยเครื่องจักรสำหรับกล่องครีบ (fin box) ช่องเจาะที่จับ และชิ้นส่วนบอร์ดตามข้อกำหนดเฉพาะของลูกค้า
-  - title: การพิมพ์และตกแต่ง SUP
+        spec: 3 m × 2 m × 1 m envelope, water-cooled spindle
+        desc: Machining of valve ports, handle cutouts, and custom pool components.
+
+  - title: pool Printing & Decoration
     items:
-      - name: เครื่องพิมพ์ดิจิทัล
-        spec: อิงค์เจ็ทความละเอียดสูง, ความกว้างพิมพ์ถึง 2 m
-        desc: การพิมพ์ดิจิทัลลงบนผ้าโดยตรงสำหรับกราฟิกบนพื้น SUP สีเต็ม พิมพ์ลวดลายตามสั่ง การไล่ระดับ และภาพคุณภาพถ่ายด้วยหมึกฐานน้ำทนทานต่อ UV
-      - name: เครื่องพิมพ์สกรีน
-        spec: แบบแมนนวลและกึ่งอัตโนมัติ, การลงทะเบียนหลายสี
-        desc: การพิมพ์สกรีนสำหรับโลโก้กระดาน SUP เครื่องหมายแบรนด์ และลวดลายที่ทำซ้ำ ให้งานพิมพ์ที่ทนทาน ทึบแสง ด้วยความอิ่มตัวของสีที่สดใส
-  - title: การประกอบและการติดตั้งอุปกรณ์
+      - name: Digital Printer
+        spec: High-resolution inkjet, up to 2 m print width
+        desc: Direct-to-fabric digital printing for full-colour pool deck graphics. Prints custom patterns, gradients, and photo-quality images with UV-resistant water-based inks.
+      - name: Screen Printing Machine
+        spec: Manual and semi-automatic, multi-colour registration
+        desc: Screen printing for pools logos, brand marks, and repeating patterns. Provides durable, opaque prints with vibrant colour saturation.
+
+  - title: Assembly & Rigging
     items:
-      - name: Board Assembly Station
-        spec: การจัดวางแบบโมดูลาร์ ปรับได้ หลายสถานีงาน
-        desc: การประกอบกล่องครีบ (fin box) ด้ามจับ ห่วง D-ring วาล์ว และแผ่นรองดาดฟ้าลงบนบอร์ด SUP
-      - name: เครื่องอัดติดตั้งวาล์ว
-        spec: ระบบเป่าลม ปรับแรงดันได้
-        desc: การติดตั้งและซีลวาล์ว Halkey-Roberts และ Leafield อย่างแม่นยำ
+      - name: Pool Assembly Station
+        spec: Modular adjustable, multi-station layout
+        desc: Assembly of fin boxes, handles, D-rings, valves, and deck pads onto pools.
+      - name: Valve Installation Press
+        spec: Pneumatic, adjustable pressure
+        desc: Precision installation and sealing of Halkey-Roberts and Leafield valves.
       - name: Deck Pad Laminator
-        spec: 3 ม. × 1.5 ม. ควบคุมอุณหภูมิได้
-        desc: การเคลือบโฟม EVA ดาดฟ้าด้วยความร้อนลงบนผิวบนของบอร์ด SUP ด้วยความแข็งแรงยึดเกาะที่สม่ำเสมอ
-  - title: การทดสอบและการควบคุมคุณภาพ
+        spec: 3 m × 1.5 m, temperature-controlled
+        desc: Heat lamination of EVA foam deck pads to pools tops with consistent bond strength.
+
+  - title: Testing & Quality Control
     items:
-      - name: เครื่องทดสอบแรงดึงสากล
+      - name: Universal Tensile Tester
         spec: 50 kN, ASTM D751
-        desc: การทดสอบแรงดึงจนขาด การยืดเมื่อขาด และการแพร่ของการฉีกขาดสำหรับล็อตผ้า
-      - name: แท่นทดสอบการเก็บอากาศ
-        spec: ตั้งโปรแกรมได้, ความดันคงที่ 30 นาที
-        desc: การทดสอบคงความดันอัตโนมัติสำหรับทุกห้องท่อก่อนประกอบ
-      - name: เครื่องทดสอบการลอกตะเข็บ
-        spec: การลอกแบบมอเตอร์ 180° ที่ 100 mm/min
-        desc: การทดสอบความแข็งแรงในการลอกตะเข็บที่เชื่อมและติดกาวตาม EN ISO 25649
-      - name: ห้องจำลองสภาพอากาศด้วยอาร์กซีนอน
-        spec: 2000 h การสัมผัส
-        desc: การทดสอบความทนทานต่อ UV สำหรับการเปลี่ยนสีและการรักษาความแข็งแรง
+        desc: Breaking force, elongation at break, and tear propagation testing for fabric batches.
+      - name: Air Retention Test Rig
+        spec: Programmable, 30-min pressure-hold
+        desc: Automated pressure-hold test for every tube chamber before assembly.
+      - name: Seam Peel Tester
+        spec: Motorised 180° peel at 100 mm/min
+        desc: Weld and glued-seam peel strength testing per EN ISO 25649.
+      - name: Xenon-Arc Weathering Chamber
+        spec: 2000 h exposure
+        desc: UV resistance testing for colour change and strength retention.
+
 cta:
-  title: สนใจเยี่ยมชมโรงงานไหม?
-  desc: เรายินดีต้อนรับผู้เยี่ยมชมที่โรงงานของเราในชิงเต่า ชมอุปกรณ์และกระบวนการของเราด้วยตนเอง
-  label: จองการเยี่ยมชม →
+  title: Interested in a factory tour?
+  desc: We welcome visitors to our Qingdao facility. See our equipment and processes in person.
+  label: Schedule a visit →
   link: /contact/

@@ -1,44 +1,44 @@
 meta:
-  title: 'Technológia — Drop Stitch és tengeri PVC | {SITE}'
-  description: 'olagoon technológiák: drop stitch szerkezet, tengeri PVC, kétrétegű építés és magas nyomás. Innováció egy professzionális felfújható SUP gyártótól.'
+  title: 'Technology — Drop Stitch & Marine PVC | {SITE}'
+  description: 'olagoon technologies: drop stitch construction, marine PVC, double-layer builds, and high pressure. Innovation from a professional inflatable pools manufacturer.'
   keywords:
-    - 'sup technológia'
-    - 'drop stitch szerkezet'
-    - 'magas nyomású sup'
-    - 'felfújható sup anyagok'
+    - 'pool technology'
+    - 'drop stitch construction'
+    - 'high pressure pool'
+    - 'inflatable pools materials'
 hero:
-  tagline: 'Technológia'
-  title: 'Teljesítményre építve'
-  subtitle: 'Minden afarar felfújható SUP drop-stitch szerkezettel és tengeri minőségű PVC-vel készül — precíziós anyagok és gyártási módszerek, amelyek igényes tengeri környezetekre vannak tesztelve.'
+  tagline: Technology
+  title: Built for Performance
+  subtitle: Every olagoon inflatable pools is engineered with drop-stitch construction and marine-grade PVC — precision materials and manufacturing methods tested for demanding marine environments.
 
 sections:
-  - title: 'Drop-stitch mag'
-    description: 'Több ezer belső poliészter szál köti össze a felső és alsó réteget, merev szerkezetet hozva létre 12-15 PSI-n. Ez ugyanaz a technológia, amelyet professzionális paddle lapokban és felfújható verseny SUP-okban használnak.'
-    imageAlt: 'DS mag diagram'
-  - title: 'Tengeri minőségű PVC'
-    description: 'Több rétegű laminált PVC szövet tengeri környezetekre minősítve. Minden réteg fúziós hegesztéssel kerül összekötésre ragasztás helyett, kizárva a rétegleválás kockázatát. UV-állóságra, sós vízi korrózióra és kopásra tesztelve.'
-    imageAlt: 'PVC réteg'
-  - title: 'Katonai minőségű PVC'
-    description: 'Minden SUP modellen használt prémium PVC kiváló UV- és kémiai ellenállást biztosít. Rugalmasságát szélsőséges hőmérsékleteken is megőrzi és ellenáll a degradációnak.'
-    imageAlt: 'PVC'
-  - title: 'Légpadlós padló'
-    description: 'Magas nyomású felfújható drop-stitch szerkezet, amely kivételes merevséget biztosít álláshoz, horgászathoz és jógához. Csökkenti az előkészítési időt, összsúlyt és tárolási térfogatot.'
-    imageAlt: 'Légpadló'
+  - title: Drop-Stitch Core
+    description: Thousands of internal polyester threads connect the top and bottom layers, creating a rigid structure at 12-15 PSI. This is the same technology used in professional inflatable pool and inflatable racing pools.
+    imageAlt: DS Core Diagram
+  - title: Marine-Grade PVC
+    description: Multi-layer laminated PVC fabric rated for marine environments. Each layer is fusion-welded rather than glued, eliminating delamination risks. Tested for UV resistance, saltwater corrosion, and abrasion.
+    imageAlt: PVC Layer
+  - title: Military-Grade PVC
+    description: Used on all pool models, premium PVC provides superior UV and chemical resistance. Maintains flexibility in extreme temperatures and resists degradation.
+    imageAlt: PVC
+  - title: Air Deck Floor
+    description: High-pressure inflatable drop-stitch construction providing exceptional rigidity for standing, fishing, and yoga. Reduces setup time, overall weight, and storage volume.
+    imageAlt: Air Deck
 
 related:
-  title: 'Kapcsolódó'
+  title: Related
   links:
-    - text: 'Fejlesztőközpont'
+    - text: R&D Center
       url: /randdcenter
-    - text: 'Minőségi tesztelés'
+    - text: Quality Testing
       url: /quality
-    - text: 'Biztonsági szabványok'
+    - text: Safety Standards
       url: /safety
-    - text: 'Garancia'
+    - text: Warranty
       url: /warranty
-    - text: 'Turizmus és szabadidő'
+    - text: Tourism & Recreation
       url: /use-cases/tourism-recreation
-    - text: 'Útmutatók'
+    - text: Guides
       url: /guides
-    - text: 'Termékek'
+    - text: Products
       url: /products

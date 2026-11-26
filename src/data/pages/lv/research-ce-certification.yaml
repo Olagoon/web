@@ -1,60 +1,60 @@
 meta:
-  title: 'Kā darbojas CE sertifikācija piepūšamajiem peldlīdzekļiem | {SITE}'
-  description: 'Pilnīgs ceļvedis CE sertifikācijai piepūšamajiem SUP dēļiem un kajakiem. Piemērojamas direktīvas (2013/53/EU RCD, PPE 2016/425), testēšanas protokoli, paziņotās iestādes, tehniskās datnes prasības un ražotāju pienākumi.'
-back_text: 'Atpakaļ uz Pētījumiem'
+  title: 'How CE Certification Works for Inflatable Watercraft | {SITE}'
+  description: 'Complete guide to CE certification for inflatable pools. Applicable standards and directives for domestic pools, testing protocols, notified bodies, technical file requirements, and manufacturer obligations.'
+back_text: 'Back to Research'
 
 hero:
-  tagline: 'Atbilstība'
-  title: 'Kā darbojas CE sertifikācija piepūšamajiem peldlīdzekļiem'
-  subtitle: '7 min lasīšana'
+  tagline: 'Compliance'
+  title: 'How CE Certification Works for Inflatable Watercraft'
+  subtitle: '7 min read'
 
 content_html: |
-  <h2>Kas ir CE sertifikācija?</h2>
-  <p>CE marķējums (Conformit&eacute; Europ&eacute;enne) norāda, ka produkts atbilst ES veselības, drošības un vides prasībām. Piepūšamajiem peldlīdzekļiem piemērojamais regulatīvais ietvars atkarīgs no produkta kategorijas.</p>
+  <h2>What Is CE Certification?</h2>
+  <p>CE marking (Conformit&eacute; Europ&eacute;enne) indicates that a product meets EU health, safety, and environmental requirements. For inflatable watercraft, the relevant regulatory framework depends on the product category.</p>
 
-  <h2>Piemērojamās direktīvas</h2>
+  <h2>Applicable Directives</h2>
 
-  <h3>Atpūtas peldlīdzekļu direktīva (2013/53/EU)</h3>
-  <p>Galvenā direktīva atpūtas peldlīdzekļiem ES. Piepūšamie SUP dēļi zem 2.4 m neietilpst tās darbības jomā un tiek sertificēti saskaņā ar EN ISO 25649.</p>
+  <h3>Recreational Craft Directive (2013/53/EU)</h3>
+  <p>The primary directive for recreational craft in the EU. inflatable pools under 2.4 m fall outside its scope and are instead certified under EN ISO 25649.</p>
 
-  <h3>Personīgo aizsardzības līdzekļu regula (2016/425)</h3>
-  <p>Glābšanas vestēm, peldspējas līdzekļiem un drošības aprīkojumam, kas tiek piegādāts kopā ar peldlīdzekļiem, jāatbilst Personīgo aizsardzības līdzekļu regulas prasībām, tostarp tipa pārbaudei (B modulis), ko veic paziņotā iestāde, un ražošanas kvalitātes nodrošinājumam (D vai E modulis).</p>
+  <h3>Personal Protective Equipment Regulation (2016/425)</h3>
+  <p>Life jackets, buoyancy aids, and safety equipment supplied with watercraft must meet PPE Regulation requirements, including type examination (Module B) by a notified body and production quality assurance (Module D or E).</p>
 
-  <h2>Sertifikācijas process</h2>
+  <h2>The Certification Process</h2>
   <ol>
-    <li>Produkta klasifikācija: nosaka peldlīdzekļa dizaina kategoriju (A – D saskaņā ar ISO 8666)</li>
-    <li>Piemērojamie standarti: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (ražotāja plāksne)</li>
-    <li>Tehniskās datnes sagatavošana: dizaina rasējumi, materiālu specifikācija, materiālu sertifikāti, riska izvērtējums</li>
-    <li>Tipa testēšana: peldspēja, stabilitāte, kravnesība, materiālu testēšana, šuvju stiprība, gaisa noturība</li>
-    <li>Rūpnīcas ražošanas kontrole: paziņotās iestādes audits ražošanas procesos</li>
-    <li>Atbilstības deklarācija: ražotājs paraksta DoC un piestiprina CE marķējumu</li>
+    <li>Product classification: Determine craft design category (A – D per ISO 8666)</li>
+    <li>Applicable standards: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (builder's plate)</li>
+    <li>Technical file preparation: Design drawings, Bill of Materials, material certificates, risk assessment</li>
+    <li>Type testing: Buoyancy, stability, load capacity, material testing, seam strength, air retention</li>
+    <li>Factory production control: Notified body audit of manufacturing processes</li>
+    <li>Declaration of Conformity: Manufacturer signs DoC, affixes CE marking</li>
   </ol>
 
-  <h2>Paziņotās iestādes piepūšamajiem peldlīdzekļiem</h2>
-  <p>Biežākās paziņotās iestādes ir Bureau Veritas (Francija), DNV GL (Vācija), RINA (Itālija), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (Vācija).</p>
+  <h2>Notified Bodies for Inflatable Watercraft</h2>
+  <p>Common NBs include Bureau Veritas (France), DNV GL (Germany), RINA (Italy), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (Germany).</p>
 
-  <h2>Laika grafiks un izmaksas</h2>
+  <h2>Timeline and Costs</h2>
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-gray-100">
-        <th class="p-3 text-left font-semibold text-gray-900 border">Posms</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Ilgums</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Tipiskās izmaksas (EUR)</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Phase</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Duration</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Typical Cost (EUR)</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="p-3 border">Tehniskās datnes sagatavošana</td><td class="p-3 border">2 – 4 nedēļas</td><td class="p-3 border">2,000 – 5,000</td></tr>
-      <tr><td class="p-3 border">Tipa testēšana</td><td class="p-3 border">4 – 8 nedēļas</td><td class="p-3 border">8,000 – 20,000</td></tr>
-      <tr><td class="p-3 border">Rūpnīcas audits</td><td class="p-3 border">1 – 2 dienas (uz vietas)</td><td class="p-3 border">3,000 – 6,000</td></tr>
-      <tr><td class="p-3 border">Kopā (pirmais produkts)</td><td class="p-3 border">8 – 14 nedēļas</td><td class="p-3 border">13,000 – 31,000</td></tr>
+      <tr><td class="p-3 border">Technical file preparation</td><td class="p-3 border">2 – 4 weeks</td><td class="p-3 border">2,000 – 5,000</td></tr>
+      <tr><td class="p-3 border">Type testing</td><td class="p-3 border">4 – 8 weeks</td><td class="p-3 border">8,000 – 20,000</td></tr>
+      <tr><td class="p-3 border">Factory audit</td><td class="p-3 border">1 – 2 days (on-site)</td><td class="p-3 border">3,000 – 6,000</td></tr>
+      <tr><td class="p-3 border">Total (first product)</td><td class="p-3 border">8 – 14 weeks</td><td class="p-3 border">13,000 – 31,000</td></tr>
     </tbody>
   </table>
 
-  <h2>Ko tas nozīmē pircējiem</h2>
-  <p>Pērkot CE sertificētus piepūšamos SUP dēļus, vienmēr pārbaudiet, ka CE marķējums ir uz ražotāja plāksnes, ka pastāv derīga atbilstības deklarācija, ka ir norādīts paziņotās iestādes numurs un ka lietošanas instrukcijā ir drošības norādījumi jūsu vietējā valodā. Visi OLagoon produkti nes CE sertifikāciju ar pilnu izsekojamību līdz paziņotās iestādes audita atskaitēm.</p>
+  <h2>What This Means for Buyers</h2>
+  <p>When purchasing CE-certified inflatable pools, always verify the CE marking is on the builder's plate, a valid DoC exists, the Notified Body number is listed, and the owner's manual includes safety instructions in your local language. All OLagoon products carry CE certification with full traceability to notified body audit reports.</p>
 
 cta:
-  title: 'Nepieciešams atbalsts CE sertifikācijā?'
-  subtitle: 'Mēs nodrošinām sertifikāciju OEM partneriem visā pasaulē.'
-  button_text: 'Sākt sertifikācijas procesu'
+  title: 'Need CE certification support?'
+  subtitle: 'We handle certification for OEM partners worldwide.'
+  button_text: 'Start the certification process'
   button_link: /contact/

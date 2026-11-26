@@ -1,53 +1,53 @@
 meta:
-  title: 'Lifestyle — Paddle, Pakikipagsapalaran at Paggalugad | {SITE}'
-  description: 'Tuklasin ang lifestyle ng olagoon: mga pakikipagsapalaran sa paddle, paggalugad sa tubig, at mga karanasan sa labas gamit ang mga inflatable SUP at board.'
+  title: 'Lifestyle — Backyard Living & Family Fun | {SITE}'
+  description: 'Explore the OLagoon lifestyle: backyard transformations, family water fun, and outdoor living with inflatable pools.'
   keywords:
-    - 'lifestyle ng sup'
-    - 'mga pakikipagsapalaran sa paddle'
-    - 'inflatable sup sa labas'
-    - 'lifestyle ng water sports'
+    - 'pool lifestyle'
+    - 'backyard living'
+    - 'inflatable pools outdoor'
+    - 'water sports lifestyle'
 hero:
-  tagline: 'Lifestyle'
-  title: 'Ang Lifestyle<br />ng olagoon'
-  subtitle: 'Itinayo para sa mga nakatira sa tubig — mula sa mga weekend explorer hanggang sa mga komersyal na operator na umaasa sa kanilang kagamitan araw-araw.'
+  tagline: Lifestyle
+  title: The olagoon<br />Lifestyle
+  subtitle: Built for those who live on the water — from weekend explorers to commercial operators who depend on their gear every day.
 
 values:
   - icon: 🌊
-    title: 'Ipinanganak sa Tubig'
-    desc: 'Bawat disenyo ay nagsisimula sa pag-unawa kung paano kumikilos ang tubig. Nag-i-engineer kami mula sa gilid ng mga kondisyon papaloob — dahil ang karagatan ang aming guro, hindi ang aming lugar ng trabaho.'
+    title: Born on the Water
+    desc: Every design starts with understanding how water behaves. We engineer from the edge of conditions inward — because the ocean is our teacher, not our workplace.
   - icon: 🔧
-    title: 'Itinayo para Magtagal'
-    desc: 'Ang pinakamainam na produkto sa kalikasan ay ang hindi na kailangang palitan. Marine-grade na materyales, drop-stitch core na rated sa 15 PSI, at mga seam na tumatagal nang lampas sa season.'
+    title: Built to Last
+    desc: The most sustainable product is the one that does not need replacing. Marine-grade materials, drop-stitch cores rated to 15 PSI, and seams that outlast the season.
   - icon: '🏆'
-    title: 'Abot-kaya sa Disenyo'
-    desc: 'Hindi dapat luho ang water sports. Pagganap na propesyonal sa presyong may saysay para sa mga pamilya, gabay, at maliliit na operator — hindi lamang para sa mga komersyal na fleet.'
+    title: Accessible by Design
+    desc: Water sports should not be a luxury. Professional-grade performance at a price that makes sense for families, guides, and small operators — not just commercial fleets.
   - icon: 🌍
-    title: 'Pandaigdigang Komunidad'
-    desc: 'Mula sa dalampasigan ng Qingdao hanggang sa mga lawa sa Europa, mga ilog sa Southeast Asia, at mga look sa Americas — iisa ang bahagi ng aming mga customer: pagmamahal sa pagiging nasa tubig.'
+    title: Global Community
+    desc: 'From the coast of Qingdao to lakes in Europe, rivers in Southeast Asia, and bays in the Americas — our customers share one thing: a love for being on the water.'
   - icon: ♻️
-    title: 'Responsableng Pagmamanupaktura'
-    desc: 'Ang CNC-optimised na nesting ay bumabawas ng basura ng materyales sa mas mababa sa 5%. Ang matibay na konstruksyon ay nagbabawas ng dalas ng pagpapalit. Nagtatayo kami para sa tagal dahil iyon ang pinakamainam na pagpipilian.'
+    title: Responsible Manufacturing
+    desc: CNC-optimised nesting cuts material waste below 5%. Durable construction reduces replacement cycles. We build for longevity because that is the most sustainable choice.
   - icon: 🤝
-    title: 'Suportang Nagtatagal'
-    desc: 'Ang mga hull na dalawampung taon na ay tumatawag pa rin sa amin para sa spare part. Ang aming tugon sa warranty ay karaniwang 24 oras. Hindi kami nawawala pagkatapos ng benta — narito kami habang buhay ang produkto.'
+    title: Support That Lasts
+    desc: Twenty-year-old hulls still call us for spare parts. Our warranty response averages 24 hours. We do not disappear after the sale — we are here for the life of the product.
 
 ethos_section:
-  tagline: 'Aming Ethos'
-  title: 'Higit pa sa isang produkto. Isang pilosopiya.'
-  subtitle: 'Anim na prinsipyong humuhubog sa bawat desisyon na ginagawa namin — mula sa pagpili ng materyales hanggang sa suporta sa customer.'
+  tagline: Our Ethos
+  title: More than a product. A philosophy.
+  subtitle: Six principles that shape every decision we make — from material selection to customer support.
 
 community_section:
-  tagline: 'Komunidad'
-  title: 'Sumali sa Komunidad ng olagoon'
-  subtitle: 'Sundin ang aming paglalakbay at ibahagi ang iyong sariling mga pakikipagsapalaran sa tubig.'
-  instagram: 'Sundin sa Instagram'
-  youtube: 'Mag-subscribe sa YouTube'
-  x: 'Sundin sa X'
+  tagline: Community
+  title: Join the olagoon Community
+  subtitle: Follow our journey and share your own adventures on the water.
+  instagram: Follow on Instagram
+  youtube: Subscribe on YouTube
+  x: Follow on X
 
 cta_section:
-  title: 'Simulan ang iyong paglalakbay'
-  subtitle: 'Bawat produkto ay CE certified. May warranty. Dinisenyo para sa totoong buhay sa tubig.'
-  products_cta: 'Tuklasin ang mga Produkto →'
-  about_cta: 'Tungkol sa Amin'
+  title: Start your journey
+  subtitle: Every product CE certified. Backed by warranty. Designed for real life on the water.
+  products_cta: Explore Products →
+  about_cta: About Us
   products_link: /products/
   about_link: /about/

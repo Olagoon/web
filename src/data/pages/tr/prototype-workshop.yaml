@@ -1,110 +1,95 @@
 meta:
-  title: Prototip Atölyesi — Tam Ölçekli SUP Prototipleme ve Deniz Denemeleri | {SITE}
-  description: CAD'den denize hazır tahtaya 8-12 hafta içinde. Prototip Atölyemiz özel şişme SUP'lar inşa eder, donar ve deniz denemelerini yapar. Prototip projenize bugün başlayın.
-back_text: Ar-Ge Merkezine Dön
-home_label: Ana Sayfa
+  title: 'Prototype Workshop — Full-Scale pool Prototyping & Sea Trials | {SITE}'
+  description: 'From CAD to backyard-ready pool in 8-12 weeks. Our Prototype Workshop builds, rigs, and water-tests custom inflatable pools. Start your prototype project today.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
+
 hero:
-  tagline: Laboratuvar 05
-  title: Prototip Atölyesi
-  subtitle: CAD modelinden denize hazır tahtaya — inşa edilmiş, donatılmış ve kanıtlanmış
-  image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-  image_alt: OLagoon prototip atölyesi tahta üretimi
-intro: >-
-  Bir CAD modeli, ne kadar detaylı olursa olsun, bir tahtanın suyla buluşana kadar gerçekte nasıl davranacağını ortaya koyamaz. Bu nedenle Prototip Atölyemiz, mühendislik verilerini mümkün olan en hızlı ve en doğru şekilde fiziksel, denize hazır bir tahtaya dönüştürmek için tasarlanmıştır. Her
-  yeni OLagoon modeli — ve her önemli özel üretim — üretim kalıplarına geçilmeden önce bu atölyeden geçer.
-content_html: >
-  <h2>Tasarımın gerçeğe dönüştüğü yer</h2>
+  tagline: 'Lab 05'
+  title: 'Prototype Workshop'
+  subtitle: 'From CAD model to water-ready pool — built, fitted, and proven'
+  image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+  image_alt: 'OLagoon prototype workshop pool fabrication'
 
-  <p>Atölye, gövde, kenarlar ve teçhizatın eş zamanlı üretimi için tam donanımlıdır. Bu paralel iş akışı yaklaşımı, prototip sürelerini mühendislik onayından itibaren endüstri standardı olan 16-20 haftaya kıyasla 8-12 haftaya düşürür. Uygulamanız özel bir çözüm gerektirdiğinde, konseptten su
-  üzerindeki doğrulamaya üç aydan kısa sürede ulaşabiliriz.</p>
+intro: 'A CAD model, no matter how detailed, cannot reveal how a pool will actually perform until it meets the water. That is why our Prototype Workshop is designed to translate engineering data into a physical, water-ready pool as quickly and accurately as possible. Every new OLagoon model — and every significant custom build — passes through this workshop before the production tooling is committed.'
 
+content_html: |
+  <h2>Where design becomes reality</h2>
+  <p>The workshop is fully equipped for simultaneous fabrication of hull, rails, and rigging. This parallel-workflow approach cuts prototype lead time to 8-12 weeks from engineering release, compared to the industry norm of 16-20 weeks. When your application demands a specialised solution, we can move from concept to on-water validation in under three months.</p>
 
-  <h2>Atölye olanakları</h2>
-
+  <h2>Workshop capabilities</h2>
   <table>
-    <thead><tr><th>İstasyon</th><th>Ekipman</th><th>Amaç</th></tr></thead>
+    <thead><tr><th>Workstation</th><th>Equipment</th><th>Purpose</th></tr></thead>
     <tbody>
-      <tr><td>Gövde üretimi</td><td>CNC kumaş kesici, ısı laminasyon presi, drop-stitch çekirdek hazırlama istasyonu</td><td>Üç yapı türünde de tam ölçekli gövde üretimi</td></tr>
-      <tr><td>Kenar &amp; odacık montajı</td><td>RF kaynak presi, sıcak hava fikstür istasyonu, şişirme test tezgahı</td><td>Tüm bölmeler ve vanalarla birlikte tam boy kenar ve odacık gruplarının üretimi</td></tr>
-      <tr><td>Teçhizat &amp; donanım</td><td>Yüzgeç kutusu freleme fikstürü, yük montaj ve tutamak kaynak fikstürleri, güverte pedi kesme istasyonu</td><td>Komple donanım: yüzgeçler, yük montaj noktaları, tasma tapaları, tutamaklar, güverte pedleri, vanalar</td></tr>
-      <tr><td>Enstrüman bölmesi</td><td>GPS hız sensörü, basınç transdüserleri, ivme ölçerler, termokuple dizisi, veri kaydedici</td><td>Deniz denemesi enstrümanlarının kurulumu ve kalibrasyonu</td></tr>
+      <tr><td>Hull fabrication</td><td>CNC fabric cutter, heat-lamination press, drop-stitch core preparation station</td><td>Full-scale hull production in all three construction types</td></tr>
+      <tr><td>Rail &amp; chamber assembly</td><td>RF welding press, hot-air tacking station, inflation test jig</td><td>Fabrication of full-size rail and chamber assemblies with all baffles and valves</td></tr>
+      <tr><td>Rigging &amp; fitting</td><td>Fin-box routing jig, cargo-mount and handle welding fixtures, deck-pad cutting station</td><td>Complete outfitting: fins, cargo mounts, leash plugs, handles, deck pads, valves</td></tr>
+      <tr><td>Instrumentation bay</td><td>GPS speed sensor, pressure transducers, accelerometers, thermocouple array, data-logger</td><td>Sea-trial instrumentation installation and calibration</td></tr>
     </tbody>
   </table>
 
-
-  <h2>Prototip yolculuğu — adım adım</h2>
-
+  <h2>The prototype journey — step by step</h2>
   <ol>
-    <li><strong>Mühendislik devri</strong> — Tasarım paketi (3D model, FEA raporu, malzeme listesi, laminasyon programı) atölye sorumlusu ve proje mühendisi tarafından resmi olarak incelenir. Üretime ilişkin endişeler kesim başlamadan önce tespit edilir ve çözülür.</li>
-    <li><strong>Gövde üretimi</strong> — Gövde mühendislik şartnamesine göre üretilir. Tek katmanlı yapı için: drop-stitch çekirdeği belirtilen PVC dış kabukla laminalanır. Çift katmanlı yapı için: ek dış kabuk, kalıp kesilmeden önce baz laminatın üzerine uygulanır. Füzyon yapı için: laminasyon parametreleri onaylı süreç sayfasından yüklenir ve ilk numune üzerinde doğrulanır.</li>
-    <li><strong>Kenar üretimi</strong> — Kumaş CNC kalıp şablonları kullanılarak kesilir, ardından RF ile tam boy kenarlara ve odacıklara kaynatılır. Her odacık test basıncına şişirilir ve ilk stabilizasyon için 24 saat bırakılır.</li>
-    <li><strong>Birleştirme &amp; teçhizat</strong> — Gövde ve kenarlar birleştirilir. Yüzgeç kutuları ve yük montaj noktaları yerleştirilir, tasma tapaları ve taşıma tutamakları takılır, şişirme vanası sıkılarak monte edilir ve güverte pedi uygulanıp hizalanır.</li>
-    <li><strong>Statik testler</strong> — Tahta suya girmeden önce şunlardan geçer: yüzdürme kontrolü (tam yük + %30 yedek), odacık basınç tutma testi, vanta sızıntı testi, tutamak ve montaj noktası çekme testi.</li>
-    <li><strong>Deniz denemesi programı</strong> — Aşağıda ayrıntıları verilen 20 saatlik su içi test.</li>
-    <li><strong>Prototip incelemesi</strong> — Mühendislik, üretim ve kalite ekipleriyle resmi bir kabul toplantısı yapılır. Gerekli tasarım değişiklikleri belgelenir ve üretim sürümüne dahil edilir.</li>
+    <li><strong>Engineering handover</strong> — The design package (3D model, FEA report, bill of materials, layup schedule) is formally reviewed by the workshop lead and the project engineer. Any manufacturing concerns are flagged and resolved before cutting begins.</li>
+    <li><strong>Hull production</strong> — The hull is built according to the engineering specification. For single-layer construction: the drop-stitch core is laminated with the specified PVC skin. For double-layer construction: the additional skin is applied over the base laminate before the pattern is cut. For fused construction: the lamination parameters are loaded from the approved process sheet and verified on a first-off coupon.</li>
+    <li><strong>Rail fabrication</strong> — Fabric is cut using CNC-pattern templates, then RF-welded into full-size rails and chambers. Each chamber is inflated to test pressure and left for 24 h for initial stabilisation.</li>
+    <li><strong>Assembly &amp; rigging</strong> — Hull and rails are mated. Fin boxes and cargo mounts are fitted, leash plugs and carry handles are installed, the inflation valve is torqued in, and the deck pad is applied and aligned.</li>
+    <li><strong>Static tests</strong> — Before the pool is filled, it undergoes: structural check (full water load + 30 % reserve), chamber pressure-hold test, valve leak-down test, handle and mount pull-test.</li>
+    <li><strong>Sea trial programme</strong> — 20 hours of in-water testing, detailed below.</li>
+    <li><strong>Prototype review</strong> — A formal sign-off meeting is held with engineering, production, and quality teams. Any required design changes are documented and incorporated into the production release.</li>
   </ol>
 
-
   <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
-    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20 Saatlik Deniz Denemesi Programı — Test Takvimi</p>
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20-Hour Sea Trial Programme — Test Schedule</p>
     <div class="space-y-2 text-sm">
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
-        <span class="w-12 text-xs font-bold text-blue-600">2 s</span>
-        <span class="flex-1">Durgun su tanışma — düşük hızda rota tutma, dönüş, duruş ve trim kontrolü</span>
+        <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
+        <span class="flex-1">Flat-water familiarisation — low-speed tracking, turning, stance and trim check</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
-        <span class="w-12 text-xs font-bold text-blue-600">4 s</span>
-        <span class="flex-1">Hız denemesi — GPS ile doğrulanmış maksimum hız, seyir hızı, 3 kürek temposunda sürekli hız</span>
+        <span class="w-12 text-xs font-bold text-blue-600">4 h</span>
+        <span class="flex-1">Speed trial — GPS-verified top speed, cruise speed, sustained pace at 3 stroke rates</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
-        <span class="w-12 text-xs font-bold text-blue-600">3 s</span>
-        <span class="flex-1">Dönüş testi — pivot dönüş ve süpürme dönüşü yarıçapı, tahta tepkisi, iskele ve sancak</span>
+        <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
+        <span class="flex-1">Stability test — wall rigidity, floor firmness, and seating comfort under full load</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
-        <span class="w-12 text-xs font-bold text-blue-600">3 s</span>
-        <span class="flex-1">Çırpıntı testi — 0,5–1,0 m çırpıntıdan tekrarlı geçişler; binici duruş pozisyonunda ivme ölçer</span>
+        <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
+        <span class="flex-1">Chop test — repeated runs through 0.5–1.0 m chop; accelerometer at the rider stance position</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
-        <span class="w-12 text-xs font-bold text-blue-600">3 s</span>
-        <span class="flex-1">Stabilite testi — farklı ağırlıklarda 4 biniciyle statik eğim açısı, sancak tarafa kaydırılmış yük</span>
+        <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
+        <span class="flex-1">Stability test — static heel angle with 4 riders of varying weight, offset load to starboard</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
-        <span class="w-12 text-xs font-bold text-blue-600">3 s</span>
-        <span class="flex-1">Dayanıklılık koşusu — seyir temposunda 3 saat kesintisiz; odacık basıncı, kenar sıcaklığı ve binici yorgunluğu izlemesi</span>
+        <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
+        <span class="flex-1">Endurance run — 3 h continuous at cruise pace; monitoring of chamber pressure, rail temperature, and rider fatigue</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
-        <span class="w-12 text-xs font-bold text-blue-600">2 s</span>
-        <span class="flex-1">Son denetim — deneme sonrası tüm bileşenlerin denetimi, tüm bağlantı elemanlarının sıkılması/kontrolü, bulguların belgelenmesi</span>
+        <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
+        <span class="flex-1">Final inspection — post-trial inspection of all components, tighten/check all fasteners, document findings</span>
       </div>
     </div>
   </div>
 
-
-  <h2>Benzersiz uygulamalar için özel prototipleme</h2>
-
-  <p>Prototip Atölyesi, standart üretim tahtalarının karşılayamadığı ihtiyaçları çözdüğümüz yerdir. Son örnekler şunları içermektedir:</p>
-
+  <h2>Custom prototyping for unique applications</h2>
+  <p>The Prototype Workshop is where we solve the problems that standard production pools cannot address. Recent examples include:</p>
   <ul>
-    <li>Bir arama-kurtarma kuruluşu için yüksek görünürlüklü kurtarma SUP'ı; entegre tutamaklar, kurtarma ekipmanı için yük montaj noktaları ve kazazedeyi sudan çıkarmak için yüksek yüzdürmeli gövde gerektiriyordu — tamamı tesisimizde prototiplendi, donatıldı ve test edildi.</li>
-    <li>Bir hidrografik ölçüm yüklenicisi için sefer tur SUP'ı; çıkarılabilir enstrüman direği, sızdırmaz ekipman portları ve sürüklemeyi en aza indirecek şekilde tasarlanmış alçak profilli transdüser montajı ile.</li>
-    <li>Bir tatil köyü filosu için kompakt balıkçılık SUP'ı; prototip, müşteri dört tahtalık bir filo taahhüt etmeden önce stabilite, ekipman donanımı ve günlük kiralama kullanımı altındaki dayanıklılığı doğrulamak için kullanıldı.</li>
+    <li>A high-visibility rescue pool for a search-and-rescue organisation, requiring integrated grab handles, gear mounts for rescue equipment, and a high-buoyancy hull for casualty recovery — all prototyped, fitted, and tested at our facility.</li>
+    <li>An expedition touring pool for a hydrographic survey contractor, with a removable instrument mast, sealed gear ports, and a low-profile transducer mount designed to minimise drag.</li>
+    <li>A compact fishing pool for a resort fleet, where the prototype was used to validate stability, gear rigging, and durability under daily rental use before the client committed to a fleet of four.</li>
   </ul>
 
+  <h2>Our prototyping team</h2>
+  <p>The workshop is staffed by eight multi-skilled marine technicians, each cross-trained in at least two of the three core disciplines (hull, rail, rigging). The team lead is a master fabricator with 16 years of experience spanning custom one-off builds to production series. Every prototype is assigned a dedicated project engineer who serves as the single point of contact for the client throughout the build and trial process.</p>
 
-  <h2>Prototipleme ekibimiz</h2>
+  <h2>Client involvement</h2>
+  <p>We actively encourage our clients to attend key milestones during the prototype build — particularly the initial fit-out review and the sea trial. Your operational feedback during these stages is invaluable in fine-tuning the pool before it enters production. We do not build in a vacuum; we build in partnership with you.</p>
+  <p>The 20-hour water trial is also an opportunity for your team to familiarise themselves with the pool's operation, layout, and maintenance requirements, ensuring a smooth transition to service when the production pools are delivered.</p>
 
-  <p>Atölyede, her biri üç temel disiplinden (gövde, kenar, teçhizat) en az ikisinde çapraz eğitim almış sekiz çok yetenekli deniz teknisyeni görev yapmaktadır. Ekip lideri, özel tek parça üretimlerden seri üretime uzanan 16 yıllık deneyime sahip bir usta üreticidir. Her prototipe, yapım ve deneme
-  süreci boyunca müşteri için tek temas noktası olarak görev yapan özel bir proje mühendisi atanır.</p>
-
-
-  <h2>Müşteri katılımı</h2>
-
-  <p>Müşterilerimizi prototip yapımı sırasında önemli dönüm noktalarına — özellikle ilk donanım incelemesine ve deniz denemesine — katılmaya aktif olarak teşvik ediyoruz. Bu aşamalardaki operasyonel geri bildirimleriniz, tahtanın üretime girmeden önce ince ayar yapılması için paha biçilmezdir.
-  Biz boşlukta değil, sizinle ortaklık içinde üretiyoruz.</p>
-
-  <p>20 saatlik deniz denemesi ayrıca ekibinizin tahtanın kullanımına, güverte düzenine ve bakım gereksinimlerine aşina olması için bir fırsat sunar; üretim tahtaları teslim edildiğinde hizmete sorunsuz bir geçiş sağlar.</p>
 cta:
-  title: Prototip projenizi başlatın
-  subtitle: İhtiyacınız olan tahta hakkında bize bilgi verin, bir prototip geliştirme planı önereceğiz.
-  button_text: Prototipleme ekibimizle iletişime geçin
+  title: 'Start your prototype project'
+  subtitle: 'Tell us about the pool you need and we will propose a prototype development plan.'
+  button_text: 'Contact our prototyping team'
   button_link: /contact/

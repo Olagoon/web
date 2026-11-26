@@ -1,86 +1,86 @@
 meta:
-  title: 'Wereldwijde Aanwezigheid — SUP-fabrikant actief in 50+ Landen | {SITE}'
-  description: 'olagoon exporteert opblaasbare SUPs naar meer dan 50 landen op elk continent. Professionele fabrikant en leverancier voor merken, distributeurs en vloten.'
+  title: 'Global Presence — pool Manufacturer Serving 50+ Countries | {SITE}'
+  description: 'olagoon exports inflatable pools to 50+ countries across every continent. Professional manufacturer and supplier for brands, distributors, and fleets.'
   keywords:
-    - 'wereldwijde SUP-fabrikant'
-    - 'paddle board exporteur'
-    - 'SUP-fabriek China'
-    - 'professionele SUP-leverancier'
+    - 'global pool manufacturer'
+    - 'inflatable pool exporter'
+    - 'pool factory china'
+    - 'professional pool supplier'
 hero:
-  tagline: Wereldwijde aanwezigheid
-  title: Actief in 50+ Landen<br />op Elk Continent
-  subtitle: Van Europese kustpatrouilleoperators tot Australische watersportdistributeurs tot reddingsteams in het Midden-Oosten — olagoon-boards zijn wereldwijd op het water te vinden.
+  tagline: Global Presence
+  title: 'Serving 50+ Countries<br />Across Every Continent'
+  subtitle: 'From European resort operators to Australian outdoor retailers to Middle East hospitality groups — OLagoon pools are in backyards worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: olagoon wereldwijd maritiem productie en distributie
+    alt: olagoon global marine manufacturing and distribution
 stats:
-  title: Wereldwijde Bereik
+  title: Global Reach
   stats:
-    - title: Landen
+    - title: Countries
       amount: '50+'
-    - title: Exportmarkten
-      amount: Europa, Amerika's, Azië, Midden-Oosten, Oceanië
-    - title: Productie
+    - title: Export Markets
+      amount: Europe, Americas, Asia, Middle East, Oceania
+    - title: Production
       amount: Qingdao, China
-    - title: VS-magazijn
+    - title: US Warehouse
       amount: Montclair, CA
 features3_markets:
-  tagline: Belangrijke Markten
-  title: Regionale Expertise<br />voor Lokale Vereisten
-  subtitle: We begrijpen dat verschillende markten verschillende wettelijke vereisten, voorkeuren en gebruikssituaties hebben.
+  tagline: Key Markets
+  title: 'Regional Expertise<br />for Local Requirements'
+  subtitle: 'We understand that different markets have different regulatory requirements, preferences, and use cases.'
   isBeforeContent: false
   columns: 4
   items:
-    - title: Europa & VK
-      description: CE-gecertificeerde producten. Sterke vraag naar SUP-boards in EU-markten. Britse distributeurs waarderen onze snelle doorlooptijd.
+    - title: Europe & UK
+      description: 'CE-certified products. Strong demand for pools across EU markets. UK distributors appreciate our quick turnaround.'
       icon: tabler:map-pin
-    - title: Noord-Amerika
-      description: Door de US Coast Guard goedgekeurde productie. Magazijn in Montclair, CA voor snelle levering aan de westkust. Groeiende vraag naar vissen, redding en recreatieve SUP's.
+    - title: North America
+      description: 'US Coast Guard approved manufacturing. US warehouse in Montclair, CA for fast West Coast delivery. Growing demand for fishing, rescue, and recreational pools.'
       icon: tabler:map-pin
-    - title: Australië & Oceanië
-      description: Sterke markt voor SUP-boards en watersportaccessoires. Australische distributeurs waarderen onze UV-bestendige PVC-constructie onder zware zonneomstandigheden. Snelle verzending vanuit onze faciliteit in Azië.
+    - title: Australia & Oceania
+      description: 'Strong market for pools and water sports accessories. Australian distributors value our UV-resistant PVC construction in harsh sun conditions. Quick shipping from our Asia facility.'
       icon: tabler:map-pin
-    - title: Midden-Oosten
-      description: Groeiende vraag naar wateravontuuruitrusting. Onze SUP's van commerciële kwaliteit en veiligheidsuitrusting zijn populair bij touroperators en verhuurcentra. Aangepaste configuraties voor omgevingen met hoge temperaturen.
+    - title: Middle East
+      description: 'Growing demand for water adventure equipment. Our commercial-grade pools and safety gear are popular with tour operators and rental centers. Custom configurations for high-temperature environments.'
       icon: tabler:map-pin
 features3_distribution:
-  tagline: Distributienetwerk
-  title: Samenwerken met Distributeurs<br />Wereldwijd
-  subtitle: We werken samen met gevestigde distributeurs van maritieme apparatuur, watersportmerken en overheidsinkoopdiensten.
+  tagline: Distribution Network
+  title: 'Partnering with Distributors<br />Worldwide'
+  subtitle: 'We work with established marine equipment distributors, water sports brands, and government procurement agencies.'
   isBeforeContent: false
   columns: 3
   items:
-    - title: Co-brandprogramma's
-      description: Private label productie voor wereldwijde watersportmerken. Wij regelen alles van ontwerp tot productie tot drop-shipping.
+    - title: Co-Brand Programs
+      description: 'Private label manufacturing for global water sports brands. We handle everything from design to production to drop-shipping.'
       icon: tabler:building
-    - title: Distributeursnetwerk
-      description: Geautoriseerde distributeurs in 20+ landen voeren voorraad en bieden lokale ondersteuning. Nieuwe distributeursaanvragen zijn welkom.
+    - title: Distributor Network
+      description: 'Authorized distributors in 20+ countries carry stock and provide local support. New distributor inquiries welcome.'
       icon: tabler:users
-    - title: Overheid & Instellingen
-      description: Directe levering aan kustwachten, zoek- en reddingsorganisaties en militaire inkoopprogramma's. Naleving van institutionele inkoopvereisten.
+    - title: Government & Institutional
+      description: 'Direct supply to coast guards, search and rescue organizations, and military procurement programs. Compliance with institutional procurement requirements.'
       icon: tabler:building-community
 steps2_logistics:
-  title: Wereldwijde Logistiek & Ondersteuning
-  subtitle: Van fabriek tot bestemming — we beheren de hele toeleveringsketen.
+  title: 'Global Logistics & Support'
+  subtitle: 'From factory to destination — we manage the entire supply chain.'
   items:
-    - title: Verzendopties
-      description: Zeevracht (FOB Qingdao), luchtvracht voor spoedorders en expreskoerier voor monsters en reserveonderdelen.
+    - title: Shipping Options
+      description: 'Sea freight (FOB Qingdao), air freight for urgent orders, and express courier for samples and spare parts.'
       icon: tabler:truck-delivery
-    - title: VS-magazijn
-      description: 'Voorraad in Montclair, CA voor snelle levering in Noord-Amerika. Westkust: 2-3 dagen, Centraal: 3-4 dagen, Oostkust: 4-5 dagen.'
+    - title: US Warehouse
+      description: 'Stock held in Montclair, CA for fast delivery across North America. West Coast: 2-3 days, Central: 3-4 days, East Coast: 4-5 days.'
       icon: tabler:building-warehouse
-    - title: Reserveonderdelen
-      description: Echte olagoon-onderdelen en verbruiksartikelen het hele jaar door op voorraad. Veelvoorkomende onderdelen worden binnen 24 uur verzonden.
+    - title: Spare Parts
+      description: 'Genuine olagoon spare parts and consumables stocked year-round. Common parts ship within 24 hours.'
       icon: tabler:package
-    - title: Technische ondersteuning
-      description: Directe lijn naar ons engineeringteam voor technische vragen, reparatieadvies en ondersteuning bij vervangingsonderdelen. We ondersteunen boards die we 20 jaar geleden hebben gebouwd.
+    - title: Technical Support
+      description: 'Direct line to our engineering team for technical questions, repair advice, and replacement-part support. We support every pool generation we have built.'
       icon: tabler:headset
 cta:
-  title: Wilt u distributeur worden?
-  subtitle: We zijn actief ons distributienetwerk aan het uitbreiden. Neem contact op met ons exportteam om samenwerkingsmogelijkheden te bespreken.
+  title: 'Want to become a distributor?'
+  subtitle: 'We are actively expanding our distribution network. Contact our export team to discuss partnership opportunities.'
   actions:
     - variant: primary
-      text: Partnerschapsaanvraag
+      text: Partnership inquiry
       href: /contact/
-    - text: Bekijk ons productassortiment
+    - text: View our product range
       href: /products/

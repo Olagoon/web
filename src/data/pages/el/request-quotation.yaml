@@ -1,99 +1,99 @@
 meta:
-  title: 'Ζητήστε προσφορά — παραγωγή SUP OEM | {SITE}'
-  description: 'Ζητήστε μια λεπτομερή προσφορά για το έργο σας με φουσκωτό SUP. Παραγωγή OEM/ODM, ιδιωτική ετικέτα ή στόλοι κατά παραγγελία — απαντάμε εντός 2 εργάσιμων ημερών.'
+  title: 'Request a Quotation — OEM pool Manufacturing | {SITE}'
+  description: 'Request a detailed quotation for your inflatable pools project. OEM/ODM manufacturing, private label, or custom fleets — we respond within 2 business days.'
   keywords:
-    - 'αίτημα προσφοράς SUP'
-    - 'προσφορά OEM paddle board'
-    - 'προσφορά εργοστασίου SUP'
-    - 'τιμή φουσκωτού SUP'
+    - 'request pool quote'
+    - 'oem inflatable pool quote'
+    - 'pool factory quotation'
+    - 'inflatable pools price'
 hero_text:
-  tagline: Ζητήστε Προσφορά
-  title: Ζητήστε μια Προσφορά<br />για το Έργο σας
-  subtitle: Πείτε μας τις απαιτήσεις σας και η ομάδα μας θα απαντήσει με λεπτομερή προσφορά εντός 2 εργάσιμων ημερών.
+  tagline: Get a Quote
+  title: 'Request a Quotation<br />for Your Project'
+  subtitle: 'Tell us about your requirements and our team will respond with a detailed quotation within 2 business days.'
 steps2_process:
-  title: Πώς Λειτουργεί
-  subtitle: Τέσσερα απλά βήματα από το αίτημα έως την προσφορά.
+  title: How It Works
+  subtitle: 'Four simple steps from inquiry to quotation.'
   items:
-    - title: 'Βήμα 1: Υποβάλετε τις Απαιτήσεις σας'
-      description: Συμπληρώστε την παρακάτω φόρμα με τον τύπο προϊόντος, την ποσότητα και τις προδιαγραφές. Όσο περισσότερες λεπτομέρειες παρέχετε, τόσο πιο ακριβής θα είναι η προσφορά σας.
+    - title: 'Step 1: Submit Your Requirements'
+      description: 'Fill out the form below with your product type, quantity, and specifications. The more detail you provide, the more accurate your quotation.'
       icon: tabler:file-text
-    - title: 'Βήμα 2: Εξετάζουμε & Συμβουλεύουμε'
-      description: Η ομάδα μηχανικών μας εξετάζει τις απαιτήσεις σας και μπορεί να επικοινωνήσει μαζί σας για διευκρινίσεις. Παρέχουμε συστάσεις σχετικά με τη διαμόρφωση και τις επιλογές προϊόντος.
+    - title: 'Step 2: We Review & Advise'
+      description: 'Our engineering team reviews your requirements and may contact you for clarification. We provide recommendations on product configuration and options.'
       icon: tabler:users
-    - title: 'Βήμα 3: Λάβετε την Προσφορά σας'
-      description: Λαμβάνετε μια λεπτομερή προσφορά που περιλαμβάνει τιμολόγηση ανά μονάδα, MOQ, χρόνο παράδοσης, όρους πληρωμής και επιλογές αποστολής. Συνήθως εντός 48 ωρών.
+    - title: 'Step 3: Receive Your Quote'
+      description: 'You receive a detailed quotation including unit pricing, MOQ, lead time, payment terms, and shipping options. Typically within 48 hours.'
       icon: tabler:currency-dollar
-    - title: 'Βήμα 4: Δείγμα & Παραγωγή'
-      description: Μετά την αποδοχή της προσφοράς, προχωράμε σε παραγωγή δείγματος (εάν ισχύει) ή απευθείας σε μαζική παραγωγή. Τακτικές ενημερώσεις σε όλη τη διαδικασία.
+    - title: 'Step 4: Sample & Production'
+      description: 'After quote acceptance, we proceed to sample production (if applicable) or directly to mass production. Regular updates throughout the process.'
       icon: tabler:building-factory
 content_form:
-  tagline: Φόρμα Προσφοράς
-  title: Πείτε Μας για το Έργο σας
-  subtitle: Όλα τα πεδία με * είναι υποχρεωτικά.
+  tagline: Quotation Form
+  title: 'Tell Us About Your Project'
+  subtitle: 'All fields with * are required.'
   contact_fields:
-    firstName: Όνομα
-    lastName: Επώνυμο
-    companyName: Εταιρεία
-    email: Email
+    firstName: First Name
+    lastName: Last Name
+    companyName: Company Name
+    email: E-mail
   fields:
-    - name: Κατηγορία προϊόντος
+    - name: Product Category
       type: select
       options:
-        - Σανίδα SUP
-        - Φουσκωτό SUP
-        - Φουσκωτή Σανίδα SUP
-        - Σωσίβιο Γιλέκο
-        - Ναυτικό Αξεσουάρ
-        - Προσαρμοσμένο OEM/ODM
-    - name: Εφαρμογή
+        - pools
+        - inflatable pools
+        - inflatable pools
+        - Thermal Cover
+        - Marine Accessory
+        - Custom OEM/ODM
+    - name: Application
       type: select
       options:
-        - Κέντρο Κατάδυσης
-        - Ψάρεμα
-        - Θαλάσσιος Τουρισμός / Εστία
-        - Έρευνα & Διάσωση
-        - Κυβέρνηση / Στρατός
-        - OEM / Ιδιωτική Ετικέτα
-        - Προσωπική / Ψυχαγωγική
-        - Άλλο
-    - name: Ποσότητα
+        - Diving Center
+        - Fishing
+        - Marine Tourism / Resort
+        - Search & Rescue
+        - Government / Military
+        - OEM / Private Label
+        - Personal / Recreational
+        - Other
+    - name: Quantity
       type: text
-      placeholder: π.χ. 50 τεμάχια
-    - name: Αγορά-στόχος
+      placeholder: e.g. 50 units
+    - name: Target Market
       type: text
-      placeholder: π.χ. Ευρώπη, Βόρεια Αμερική, Μέση Ανατολή
-    - name: Χώρα παράδοσης
+      placeholder: e.g. Europe, North America, Middle East
+    - name: Delivery Country
       type: text
-      placeholder: π.χ. Ιταλία, ΗΑΕ, ΗΠΑ, Αυστραλία
-    - name: Προτίμηση υλικού
+      placeholder: e.g. Italy, UAE, USA, Australia
+    - name: Material Preference
       type: select
       options:
-        - Χωρίς Προτίμηση
-        - PVC Ναυτιλιακής Ποιότητας (1100 dtex)
-        - Κύτος από Fiberglass
-        - Κύτος Αλουμινίου
-    - name: Απαιτήσεις Κινητήρα
+        - No Preference
+        - Marine-Grade PVC (1100 dtex)
+        - Fiberglass Hull
+        - Aluminum Hull
+    - name: Engine Requirement
       type: text
-      placeholder: π.χ. τυπική διάταξη κουπιού, ηλεκτρική αντλία, προσαρμοσμένα χρώματα
-    - name: Απαιτούμενη προσαρμογή
+      placeholder: e.g. standard filtration package, electric pump, custom colors
+    - name: Customization Required
       type: text
-      placeholder: π.χ. προσαρμοσμένα χρώματα, branding/λογότυπο, συσκευασία, ειδικά εξαρτήματα
-    - name: Χρονοδιάγραμμα
+      placeholder: e.g. custom colors, branding/logo, packaging, special fittings
+    - name: Timeline
       type: text
-      placeholder: π.χ. παράδοση εντός 90 ημερών
-    - name: Πρόσθετες απαιτήσεις
+      placeholder: e.g. delivery within 90 days
+    - name: Additional Requirements
       type: textarea
-      placeholder: Περιγράψτε την εφαρμογή σας, τις τεχνικές προδιαγραφές ή τυχόν ειδικές απαιτήσεις — συμπεριλάβετε σχέδια αναφοράς, προδιαγραφές ή συνδέσμους, εάν διατίθενται
-    - name: Μεταφόρτωση προδιαγραφών
+      placeholder: Describe your application, technical specifications, or any special requirements — include reference drawings, specifications, or links if available
+    - name: Upload Specification
       type: file
-      placeholder: Ανεβάστε το φύλλο προδιαγραφών, το σχέδιο ή το έγγραφο αναφοράς σας (PDF, DWG, DXF)
-    - name: Μεταφόρτωση λογότυπου / γραφικών
+      placeholder: Upload your spec sheet, drawing, or reference document (PDF, DWG, DXF)
+    - name: Upload Logo / Artwork
       type: file
-      placeholder: Ανεβάστε το λογότυπο ή τα γραφικά σας για προσαρμοσμένη σήμανση (AI, EPS, PNG)
+      placeholder: Upload your logo or artwork for custom branding (AI, EPS, PNG)
 cta:
-  title: Προτιμάτε να συζητήσετε μέσω email;
-  subtitle: Στείλτε το αίτημά σας απευθείας στην ομάδα πωλήσεών μας και θα απαντήσουμε εντός 24 ωρών.
+  title: 'Prefer to discuss by email?'
+  subtitle: 'Send your inquiry directly to our sales team and we will respond within 24 hours.'
   actions:
     - variant: primary
-      text: Στείλτε μας email απευθείας
+      text: Email us directly
       href: /contact/

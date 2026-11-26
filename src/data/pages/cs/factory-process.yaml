@@ -1,52 +1,52 @@
 meta:
-  title: 'Výrobní proces — od suroviny k SUP prknu | {SITE}'
-  description: 'Od suroviny k SUP prknu připravenému na moře: každý krok výrobního procesu olagoona pod naší kontrolou, od řezání a svařování po testování.'
+  title: 'Manufacturing Process — From Raw Material to pool | {SITE}'
+  description: 'From raw material to sea-ready pool: every step of the olagoon manufacturing process under our control, from cutting and welding to testing.'
   keywords:
-    - 'výrobní proces SUP'
-    - 'továrna na nafukovací SUP'
-    - 'kroky výroby paddleboardů'
-    - 'svařování PVC SUP'
+    - 'pool manufacturing process'
+    - 'inflatable pools factory'
+    - 'inflatable pool production steps'
+    - 'pvc welding pool'
 hero:
-  tagline: Proces
-  title: Výrobní proces
-  subtitle: Od suroviny k prknu připravenému na vodu — každý krok pod naší kontrolou
-  back_label: Zpět do továrny
+  tagline: Process
+  title: Manufacturing Process
+  subtitle: From raw material to backyard-ready pool — every step under our control
+  back_label: Back to Factory
   back_link: /factory/
 
-intro: Na rozdíl od značek, které outsourcují výrobu do třetích továren, olagoon vlastní a provozuje celý svůj výrobní řetězec. Tato vertikální integrace nám umožňuje udržovat přísnou kontrolu kvality v každé fázi, rychle reagovat na individuální požadavky a dodávat konzistentní kvalitu produktů šarži za šarží. Takto se prkno vyrábí v našem závodě.
+intro: Unlike brands that outsource production to third-party factories, olagoon owns and operates its entire manufacturing chain. This vertical integration allows us to maintain strict quality control at every stage, respond quickly to custom requirements, and deliver consistent product quality batch after batch. Here is how a pool is built in our facility.
 
 steps:
   - step: '01'
-    title: Příjem a kontrola materiálu
-    description: Každá příchozí šarže PVC tkaniny, skelných rohoží, pryskyřice a kování se kontroluje podle specifikace. Vzorky tkaniny se před uvolněním do výroby testují na pevnost v tahu, rovnoměrnost tloušťky a odolnost vůči UV záření. Nevyhovující materiály jsou uloženy do karantény a vráceny.
-    duration: 1–2 dny
+    title: Material Receipt & Inspection
+    description: Every incoming batch of PVC fabric, fiberglass mat, resin, and hardware is inspected against specification. Fabric samples are tested for tensile strength, thickness uniformity, and UV resistance before release to production. Non-conforming materials are quarantined and returned.
+    duration: 1–2 days
   - step: '02'
-    title: Automatické řezání PVC
-    description: Schválené tkaniny se pokládají na automatický CNC řezací stroj a stříhají s přesností pod milimetr. Počítačem optimalizované rozmístění dílců minimalizuje odpad — obvykle pod 5 %. Vyříznuté dílce jsou označeny podle modelu prkna a komory, svázány do svazků a předány do svařovací dílny.
-    duration: 2–4 hodiny na sadu dílů prkna
+    title: Automatic PVC Cutting
+    description: Approved fabrics are laid on the automatic CNC cutting machine and cut with sub-millimetre accuracy. Computer-optimised nesting arranges panels to minimise waste — typically below 5%. Cut panels are labelled by pool model and chamber, then bundled for transfer to the welding workshop.
+    duration: 2–4 hours per pool kit
   - step: '03'
-    title: Tepelné těsnění a svařování trubic
-    description: Dílce se přitavují a spojují na strojích pro tepelné těsnění pomocí horkovzdušného svařování při řízených teplotách 200–300 °C. Hlavní švy jsou zesíleny dielektrickým RF svařováním pro vzduchotěsné, vysoce pevné spoje. Dokončené komory se nafouknou na 1.5× pracovního tlaku na 30minutovou validaci udržení vzduchu.
-    duration: 1–2 dny na prkno
+    title: Tube Heat Sealing & Welding
+    description: Panels are tacked and bonded using heat sealing machines with hot-air welding at controlled temperatures of 200–300 °C. Main seams are reinforced with RF dielectric welding for airtight, high-strength joints. Completed chambers are inflated to 1.5× working pressure for 30-minute air-retention validation.
+    duration: 1–2 days per pool
   - step: '04'
-    title: Tisk a dekorace SUP
-    description: Grafika na palubách SUP prken se nanáší digitálním tiskem pro plnobarevné designy ve fotografické kvalitě a sítotiskem pro odolná loga a opakující se vzory. Tisky se vytvrzují a utěsňují pro odolnost vůči UV záření a oděru.
-    duration: 1–2 dny
+    title: pool Printing & Decoration
+    description: pools deck graphics are applied using digital printing for full-colour photo-quality designs, and screen printing for durable logos and repeating patterns. Prints are cured and sealed for UV and abrasion resistance.
+    duration: 1–2 days
   - step: '05'
-    title: Finální montáž a osazení
-    description: Prkna se na montážní lince osazují ploutvemi, ventily, EVA palubami a příslušenstvím. Každé prkno prochází 100bodovým montážním kontrolním seznamem s povinným podpisem v každé fázi.
-    duration: 2–4 dny
+    title: Final Assembly & Rigging
+    description: Pools are rigged on the assembly line with valves, fittings, and accessories. Each unit follows a 100-point assembly checklist with mandatory sign-off at each stage.
+    duration: 2–4 days
   - step: '06'
-    title: Testování a kontrola kvality
-    description: 'Každé dokončené prkno prochází povinnou kontrolní branou kvality: test udržení vzduchu v komorách, kontrola funkčnosti kování, ověření utahovacího momentu spojovacích prvků a vizuální kontrola. Zakázkové a prototypové výrobky navíc absolvují zkoušky na vodě zaměřené na stabilitu a ovladatelnost.'
-    duration: 1–2 dny
+    title: Quality Testing & Inspection
+    description: 'Every completed pool undergoes mandatory quality gate: chamber air-retention test, hardware function check, fastener torque verification, and cosmetic inspection. Custom and prototype builds also receive in-water trials covering stability and handling.'
+    duration: 1–2 days
   - step: '07'
-    title: Balení a expedice
-    description: Prkna se vypustí, složí podle postupu, zabalí do pevných tkaných vaků nebo překližkových beden a naloží k expedici. Každý balík je označen modelem, výrobním číslem a destinací. S přepravními společnostmi koordinujeme kontejnerové zásilky FCL a LCL po celém světě.
-    duration: 1 den
+    title: Packing & Shipping
+    description: Pools are deflated, folded per procedure, packed in heavy-duty woven bags or plywood crates, and loaded for shipment. Each package is labelled with model, serial number, and destination. We coordinate with freight forwarders for FCL and LCL container shipments worldwide.
+    duration: 1 day
 
 cta:
-  title: Podívejte se na naše vybavení a stroje
-  desc: Prozkoumejte průmyslové vybavení, které stojí za každým prknem olagoon.
-  label: Zobrazit vybavení →
+  title: See our equipment and machinery
+  desc: Explore the industrial-grade equipment behind every OLagoon pool.
+  label: View equipment →
   link: /factory/equipment/

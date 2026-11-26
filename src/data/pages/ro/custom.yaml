@@ -1,85 +1,89 @@
 meta:
-  title: 'Custom Lab — paddle board-uri gonflabile personalizate | {SITE}'
-  description: 'Paddle board-uri gonflabile personalizate: design propriu, logo, formă proprie și producție. Partener de SUP cu marcă privată, MOQ 50 de unități, certificat CE.'
+  title: 'Custom Lab — Custom Inflatable Pool | {SITE}'
+  description: 'Custom inflatable pool: bespoke design, logo, custom mold, and production. Private-label pool partner, MOQ 50 units, CE certified.'
   keywords:
-    - 'producător de paddle board-uri personalizate'
-    - 'SUP gonflabil personalizat'
-    - 'paddle board cu logo'
-    - 'SUP gonflabil cu marcă privată'
-    - 'producție paddle board'
+    - 'custom inflatable pool manufacturer'
+    - 'custom inflatable pools'
+    - 'inflatable pool with logo'
+    - 'private label inflatable pools'
+    - 'inflatable pool manufacturing'
 hero:
   tagline: olagoon Custom Lab
-  title: Proiectează-ți Propria<br />Placă SUP
-  subtitle: Servicii co-brand, private label și branding personalizat pentru companii din întreaga lume. De la un singur prototip până la serii complete de producție.
-  cta: Începeți proiectul dvs.
+  title: Design Your Own<br />pools
+  subtitle: Custom pool partner offering co-brand, private label, and bespoke inflatable pool production for businesses worldwide. From a single prototype to full production runs.
+  cta: Start your project
   footer_link: /contact/
+
 steps_section:
-  tagline: Cum funcționează
-  title: De la concept la producție
-  subtitle: Patru pași de la ideea dumneavoastră până la un produs finit, gata de a ieși pe mare.
+  tagline: How it works
+  title: From concept to production
+  subtitle: Four steps from your idea to a finished, sea-ready product.
   steps:
     - num: '01'
-      title: Alegeți-vă placa
-      desc: Alegeți dintre modelele noastre SUP de bază — all-around, touring, yoga, sport sau copii. Selectați dimensiunea, materialul și culoarea.
+      title: Choose Your Pool
+      desc: Select from our core pool models — all-around, touring, yoga, sport, or kids. Pick size, material, and colour.
     - num: '02'
-      title: Încărcați designul dumneavoastră
-      desc: Trimiteți-ne logo-ul, materialele grafice sau ghidul de brand. Echipa noastră de design pregătește o probă digitală.
+      title: Upload Your Design
+      desc: Send us your logo, artwork, or brand guidelines. Our design team prepares a digital proof.
     - num: '03'
-      title: Revizuire mockup cu AI
-      desc: Vizualizați o machetă fotorrealistă generată de AI a plăcii dvs. personalizate înainte de începerea producției.
+      title: AI Mockup Review
+      desc: View a photorealistic AI-generated mockup of your custom pool before production begins.
     - num: '04'
-      title: Producție și livrare
-      desc: Odată aprobată, comanda dumneavoastră intră în linia noastră de producție. Termene de livrare de la 30 de zile.
+      title: Production & Delivery
+      desc: Once approved, your order enters our production line. Lead times from 30 days.
+
 services_section:
-  tagline: Servicii
-  title: Servicii de producție pentru branduri globale
-  subtitle: Modele flexibile de colaborare — de la fabricație în regim contract manufacturing la construirea completă a unui brand.
+  tagline: Services
+  title: Manufacturing services for global brands
+  subtitle: Flexible engagement models — from contract manufacturing to full-service brand building.
   items:
-    - title: Producție Co-Brand
-      desc: Producem proiectele dvs. conform specificațiilor — proprietatea dvs. intelectuală, desenele dvs., standardele dvs. de calitate. Protecție integrală prin NDA.
+    - title: Co-Brand Production
+      desc: We produce your designs to spec — your IP, your drawings, your quality standards. Full NDA protection.
       icon: ⚙️
-    - title: Soluții de Design
-      desc: Alegeți dintre peste 50 de platforme dovedite și personalizați dimensiunea, culoarea, grafica și ambalajul.
-      icon: 🎨
-    - title: Marcă proprie (Private Label)
-      desc: Marca dumneavoastră pe produsele noastre — logo, ambalaj, etichete de agățat, manuale. Gata pentru retail, direct din cutie.
-      icon: 🎨
-    - title: Branding personalizat
-      desc: Printare pe deck pad, grafică pe carenă, decalcomanii pe tuburi și etichete personalizate — integrare completă a brandului.
+    - title: Design Solutions
+      desc: Choose from 50+ proven platforms and customise size, colour, graphics, and packaging.
+      icon: '🎨'
+    - title: Private Label
+      desc: Your brand on our products — logo, packaging, hang tags, manuals. Retail-ready out of the box.
+      icon: '🎨'
+    - title: Custom Branding
+      desc: Deck pad printing, hull graphics, tube decals, and custom labels — full brand integration.
       icon: ⚙️
+
 capabilities_section:
-  tagline: Capabilități
-  title: Capabilități de producție și personalizare
-  subtitle: Tot ce trebuie să știți înainte de a plasa comanda.
+  tagline: Capabilities
+  title: Production & customisation capabilities
+  subtitle: Everything you need to know before placing your order.
   capabilities:
-    - label: Volumul comenzii
-      value: MOQ 50 unități (SUP)
-    - label: Termen de livrare
-      value: 30–45 zile standard; 15–20 zile pentru prototipuri
-    - label: Personalizare
-      value: Dimensiune, formă, culoare, grafică, ambalaj, accesorii
-    - label: Materiale
-      value: PVC, drop-stitch, EVA, aluminiu
-    - label: Imprimare
-      value: Digital (CMYK), serigrafie, transfer termic, sublimare
-    - label: Certificare
-      value: CE, UKCA, FCC (suport pentru conformitate la nivel global)
+    - label: Order volume
+      value: MOQ 50 units (pool)
+    - label: Lead time
+      value: 12–16 weeks standard (50–100 units); 15–20 days for prototypes
+    - label: Customisation
+      value: Size, shape, colour, graphics, packaging, hardware
+    - label: Materials
+      value: PVC, drop-stitch, EVA, aluminium
+    - label: Printing
+      value: Digital (CMYK), screen printing, heat transfer, sublimation
+    - label: Certification
+      value: CE, UKCA, FCC (support for global compliance)
+
 why_section:
-  tagline: De ce olagoon
-  title: O singură fabrică. Un singur standard. Zero compromisuri.
+  tagline: Why olagoon
+  title: One factory. One standard. Zero compromises.
   points:
-    - text: Unitate de producție integrată de 12.000 mp
-      highlight: 12.000 mp
-    - text: Peste 200 de muncitori calificați și ingineri
+    - text: 12,000 m² integrated manufacturing facility
+      highlight: 12,000 m²
+    - text: 200+ skilled workers and engineers
       highlight: 200+
-    - text: Peste 15.000 de plăci SUP produse anual
+    - text: 15,000+ pools produced annually
       highlight: 15,000+
-    - text: management al calității certificat ISO 9001
+    - text: ISO 9001-certified quality management
       highlight: ISO 9001
-    - text: Produse certificate CE pentru piața UE
+    - text: CE certified products for EU market
       highlight: CE
-  cta: Vezi detalii despre fabrică
+  cta: View factory details
   cta_link: /factory/
   contact:
-    title: Pregătiți să discutăm despre proiectul dumneavoastră?
-    desc: Echipa noastră răspunde în termen de 24 de ore cu o ofertă preliminară.
+    title: Ready to discuss your project?
+    desc: Our team responds within 24 hours with a preliminary quote.

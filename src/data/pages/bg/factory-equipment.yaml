@@ -1,87 +1,87 @@
 meta:
-  title: 'Оборудване на фабриката — рязане, RF заваряване и печат | {SITE}'
-  description: 'Индустриално оборудване на olagoon: рязане на PVC, RF заваряване, цифров печат, сглобяване и изпитвания за надуваеми SUP дъски.'
+  title: 'Factory Equipment — Cutting, RF Welding & Printing | {SITE}'
+  description: 'Industrial-grade olagoon manufacturing equipment: PVC cutting, RF welding, digital printing, assembly, and testing for inflatable pools.'
   keywords:
-    - 'оборудване за производство на sup'
-    - 'фабрика за надуваеми sup'
-    - 'rf заваряване на pvc'
-    - 'производство на дъски за гребане'
+    - 'pool manufacturing equipment'
+    - 'inflatable pools factory'
+    - 'rf welding pvc'
+    - 'inflatable pool production'
 hero:
-  tagline: 'Оборудване'
-  title: 'Производствено оборудване и машини'
-  subtitle: 'Индустриално оборудване за рязане, заваряване, печат и сглобяване'
-  back_label: 'Обратно към фабриката'
+  tagline: Equipment
+  title: Manufacturing Equipment & Machinery
+  subtitle: Industrial-grade equipment across cutting, welding, printing, and assembly
+  back_label: Back to Factory
   back_link: /factory/
 
 categories:
-  - title: 'Рязане и подготовка на материали'
+  - title: Cutting & Material Preparation
     items:
-      - name: 'Автоматична машина за рязане на PVC'
-        spec: 'CNC управлявана, 6,5 m × 2,5 m, точност 0,1 mm'
-        desc: 'Компютърно управлявана автоматична машина за рязане на PVC и Drop-Stitch тъкани. Софтуерът за вложка оптимизира използването на материала до под 5% отпадъци.'
-      - name: 'Разпъвач на тъкан'
-        spec: 'максимална ширина 3 m, подаване с контролирано напрежение'
-        desc: 'Поставя тъканта в един или няколко слоя с контролирано напрежение, за да предотврати деформации преди рязането.'
+      - name: Automatic PVC Cutting Machine
+        spec: CNC-controlled, 6.5 m × 2.5 m, 0.1 mm accuracy
+        desc: Computer-controlled automatic cutting machine for PVC and drop-stitch fabrics. Nesting software optimises material utilisation to below 5% waste.
+      - name: Fabric Spreader
+        spec: 3 m max width, tension-controlled feed
+        desc: Lays fabric in single or multiple plies with controlled tension to prevent distortion before cutting.
 
-  - title: 'Заваряване и слепване на тръби'
+  - title: Tube Welding & Bonding
     items:
-      - name: 'Машина за топлинно запечатване'
-        spec: 'заваряване с горещ въздух, вариращо 200–600 °C, 0,5–5 m/min'
-        desc: 'Машина за топлинно запечатване с горещ въздух за слепване и заваряване на PVC и бордови шевове. Използва се за предварително фиксиране, запечатване и свързване на тръбни камери и съединения на поплавъци.'
-      - name: 'Диелектрична RF преса'
-        spec: '15 kW, плоча 2000 × 600 mm'
-        desc: 'Преса за заваряване с радиочестота за основните надлъжни шевове, бордовите ленти и изработката на големи камери.'
-      - name: 'CNC управляван RF заваръч'
-        spec: '8 kW, XY маса 2500 × 1200 mm'
-        desc: 'Програмируемо заваряване на извити шевове за сложни геометрии, релефни лого и прецизна кръпка работа.'
+      - name: Heat Sealing Machine
+        spec: Hot-air welding, variable 200–600 °C, 0.5–5 m/min
+        desc: Hot-air heat sealing machine for bonding and welding PVC and rail seams. Used for tacking, sealing, and fusing tube chambers and float joints.
+      - name: Dielectric RF Press
+        spec: 15 kW, platen 2000 × 600 mm
+        desc: Radio-frequency welding press for main longitudinal seams, rail bands, and large-chamber fabrication.
+      - name: CNC-Controlled RF Welder
+        spec: 8 kW, XY table 2500 × 1200 mm
+        desc: Programmable curved-seam welding for complex geometries, logo embossing, and precision patchwork.
 
-  - title: 'Производство на SUP дъски'
+  - title: pools Manufacturing
     items:
-      - name: 'Преса за ламиниране на Drop-Stitch сърцевини'
-        spec: 'преса с голям формат за сърцевини на дъски до 14 фута LOA'
-        desc: 'Прецизно ламиниране на Drop-Stitch сърцевини към външни PVC ламинати. Всеки слой е свързан под налягане за последователно качество и якост.'
-      - name: 'CNC фрезов станок (5 оси)'
-        spec: 'работно пространство 3 m × 2 m × 1 m, водно охлаждан вретен'
-        desc: 'Обработка на гнезда за перки, отвори за дръжки и персонализирани компоненти на дъски.'
+      - name: Drop-Stitch Core Lamination Press
+        spec: Large-format press for drop-stitch cores up to 5 m length
+        desc: Precision lamination of drop-stitch cores to outer PVC laminates. Each layer is pressure-bonded for consistent quality and strength.
+      - name: CNC Router (5-axis)
+        spec: 3 m × 2 m × 1 m envelope, water-cooled spindle
+        desc: Machining of valve ports, handle cutouts, and custom pool components.
 
-  - title: 'Печат и декорация на SUP'
+  - title: pool Printing & Decoration
     items:
-      - name: 'Цифров принтер'
-        spec: 'висока резолюция струен печат, ширина на печата до 2 m'
-        desc: 'Дигитален печат директно върху тъкан за пълноцветни палубни графики на SUP. Отпечатва персонализирани шарки, градиенти и изображения с фото качество с UV-устойчиви водни мастила.'
-      - name: 'Машина за шелкография'
-        spec: 'ръчна и полуавтоматична, многоцветна регистрация'
-        desc: 'Шелкография за лого на SUP дъски, маркови знаци и повтарящи се шарки. Осигурява трайни, плътни отпечатъци с наситени цветове.'
+      - name: Digital Printer
+        spec: High-resolution inkjet, up to 2 m print width
+        desc: Direct-to-fabric digital printing for full-colour pool deck graphics. Prints custom patterns, gradients, and photo-quality images with UV-resistant water-based inks.
+      - name: Screen Printing Machine
+        spec: Manual and semi-automatic, multi-colour registration
+        desc: Screen printing for pools logos, brand marks, and repeating patterns. Provides durable, opaque prints with vibrant colour saturation.
 
-  - title: 'Сглобяване и такелаж'
+  - title: Assembly & Rigging
     items:
-      - name: 'Станция за сглобяване на дъски'
-        spec: 'модулна регулируема, многопосилно разположение'
-        desc: 'Сглобяване на гнезда за перки, дръжки, D-пръстени, вентили и палубни подложки върху SUP дъските.'
-      - name: 'Преса за монтиране на вентили'
-        spec: 'пневматична, регулируемо налягане'
-        desc: 'Прецизно монтиране и запечатване на вентили Halkey-Roberts и Leafield.'
-      - name: 'Ламинатор за палубни подложки'
-        spec: '3 m × 1,5 m, с контрол на температурата'
-        desc: 'Топлинно ламиниране на EVA палубни подложки към горната част на SUP дъските с постоянна якост на слепването.'
+      - name: Pool Assembly Station
+        spec: Modular adjustable, multi-station layout
+        desc: Assembly of fin boxes, handles, D-rings, valves, and deck pads onto pools.
+      - name: Valve Installation Press
+        spec: Pneumatic, adjustable pressure
+        desc: Precision installation and sealing of Halkey-Roberts and Leafield valves.
+      - name: Deck Pad Laminator
+        spec: 3 m × 1.5 m, temperature-controlled
+        desc: Heat lamination of EVA foam deck pads to pools tops with consistent bond strength.
 
-  - title: 'Изпитвания и контрол на качеството'
+  - title: Testing & Quality Control
     items:
-      - name: 'Универсален тестер за опън'
-        spec: '50 kN, ASTM D751'
-        desc: 'Изпитване на разривна сила, удължаване при скъсване и разпространение на разкъсване за партиди тъкани.'
-      - name: 'Стенд за изпитване на задържане на въздух'
-        spec: 'програмируем, 30-минутно задържане на налягане'
-        desc: 'Автоматизирано изпитване на задържане на налягане за всяка тръбна камера преди сглобяване.'
-      - name: 'Тестер за отлепване на шевове'
-        spec: 'моторизирано отлепване на 180° при 100 mm/min'
-        desc: 'Изпитване на якостта на отлепване на заварени и слепени шевове съгласно EN ISO 25649.'
-      - name: 'Камера за стареене с ксенонова дъга'
-        spec: '2000 h излагане'
-        desc: 'Изпитване на UV устойчивост за промяна в цвета и запазване на якостта.'
+      - name: Universal Tensile Tester
+        spec: 50 kN, ASTM D751
+        desc: Breaking force, elongation at break, and tear propagation testing for fabric batches.
+      - name: Air Retention Test Rig
+        spec: Programmable, 30-min pressure-hold
+        desc: Automated pressure-hold test for every tube chamber before assembly.
+      - name: Seam Peel Tester
+        spec: Motorised 180° peel at 100 mm/min
+        desc: Weld and glued-seam peel strength testing per EN ISO 25649.
+      - name: Xenon-Arc Weathering Chamber
+        spec: 2000 h exposure
+        desc: UV resistance testing for colour change and strength retention.
 
 cta:
-  title: 'Заинтересовани от обиколка на фабриката?'
-  desc: 'Приветстваме посетители в нашето предприятие в Циндао. Вижте нашето оборудване и процеси на живо.'
-  label: 'Насрочете посещение →'
+  title: Interested in a factory tour?
+  desc: We welcome visitors to our Qingdao facility. See our equipment and processes in person.
+  label: Schedule a visit →
   link: /contact/

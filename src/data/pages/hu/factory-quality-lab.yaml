@@ -1,68 +1,68 @@
 meta:
-  title: 'Minőségi labor — Tesztelés és minőségbiztosítás | {SITE}'
-  description: 'Független minőségi labor ISO 9001 folyamatokkal az afararnál: minden egység tesztelve szállítás előtt a felfújható SUP minőség garantálására.'
+  title: 'Quality Lab — Testing & Quality Assurance | {SITE}'
+  description: 'Independent quality lab with ISO 9001 processes at olagoon: every unit tested before shipment to guarantee inflatable pools quality.'
   keywords:
-    - 'sup minőség-ellenőrzés'
-    - 'paddle lap tesztelő labor'
-    - 'iso 9001 sup gyár'
-    - 'felfújható sup minőség'
+    - 'pool quality control'
+    - 'inflatable pool testing lab'
+    - 'iso 9001 pool factory'
+    - 'inflatable pools quality'
 hero:
-  tagline: 'Minőség-ellenőrzési laboratórium'
-  title: 'Tesztelő laboratórium és minőségbiztosítás'
-  subtitle: 'Független minőségi labor ISO 9001 folyamatokkal — minden egység tesztelve szállítás előtt'
+  tagline: Quality Control Laboratory
+  title: Testing Laboratory & Quality Assurance
+  subtitle: Independent quality lab with ISO 9001 processes — every unit tested before shipment
 
-intro: 'Az afarar dedikált minőség-ellenőrzési laboratóriumot működtet, amely függetlenül működik a gyártástól. Minden nyersanyag tétel és minden kész lap dokumentált ellenőrzési protokollokon megy át a kiadás előtt. Minőség-ellenőrzési csapatunk közvetlenül a vezetésnek jelent, biztosítva a pártatlan minőségi döntéseket.'
+intro: olagoon operates a dedicated quality control laboratory that operates independently from production. Every batch of raw material and every finished pool passes through documented inspection protocols before release. Our QC team reports directly to management, ensuring impartial quality decisions.
 
 highlights:
-  - value: '100%'
-    label: 'Nyomástesztelt egységek'
-    detail: 'Minden kamra, minden lap'
-  - value: '24–48 ó'
-    label: 'Levegőretenció teszt időtartama'
-    detail: 'A névleges nyomás 1,25-szörösén'
+  - value: 100%
+    label: Units pressure-tested
+    detail: Every chamber, every pool
+  - value: 24–48 h
+    label: Air retention test duration
+    detail: At 1.25× rated pressure
   - value: '&lt;5%'
-    label: 'Maximálisan megengedett nyomásesés'
-    detail: 'A 24–48 órás tartási időszak alatt'
-  - value: 'AQL 2.5'
-    label: 'Fő hibaküszöb'
-    detail: 'ISO 2859 mintavétel szerint'
+    label: Max allowed pressure drop
+    detail: Over the 24–48 hour hold period
+  - value: AQL 2.5
+    label: Major defect threshold
+    detail: Per ISO 2859 sampling
 
 test_procedures:
-  - title: 'Nyersanyag-ellenőrzés'
-    description: 'Minden beérkező PVC, drop-stitch szövet és hardver tételt tesztelnek az elfogadás előtt. Húzószilárdság (ASTM D751), szakítószilárdság (ISO 4674) és UV-állóság ellenőrzése. A nem megfelelő anyagok karanténba kerülnek és visszaküldésre.'
+  - title: Raw Material Inspection
+    description: Every incoming batch of PVC, drop-stitch fabric, and hardware is tested before acceptance. Tensile strength (ASTM D751), tear resistance (ISO 4674), and UV resistance are verified. Non-conforming materials are quarantined and returned.
     standards:
-      - 'ASTM D751 (húzó)'
-      - 'ISO 4674 (szakítás)'
-      - 'ISO 4892 (UV)'
-  - title: 'Folyamatos minőség-ellenőrzési ellenőrzőpontok'
-    description: 'A gyártási operátorok önértékelést végeznek minden szakaszban. A minőség-ellenőrök véletlenszerű mintavételt végeznek a műszak során. Hegesztési hámlási teszteket 50 egységenként végeznek. Méretellenőrzések minden 20. panelnél történnek.'
+      - ASTM D751 (tensile)
+      - ISO 4674 (tear)
+      - ISO 4892 (UV)
+  - title: In-Process QC Checkpoints
+    description: Production operators perform self-inspection at each stage. QC auditors conduct random sampling throughout the shift. Weld peel tests are performed every 50 units. Dimensional checks happen every 20th panel.
     standards:
-      - 'ASTM D751 (hámlás)'
-      - 'Belső 100 pontos ellenőrzőlista'
-      - 'ISO 2859 mintavétel'
-  - title: '24–48 órás levegőretenció teszt'
-    description: 'Minden csőkamrát a névleges nyomás 125%-ára fújnak fel és 24–48 órán át tartanak. A nyomásérzékelők folyamatosan naplóznak hőmérséklet-kompenzációval. Az 5%-ot meghaladó nyomásesésű kamra automatikus tétel-újrainspekciót vált ki.'
+      - ASTM D751 (peel)
+      - Internal 100-point checklist
+      - ISO 2859 sampling
+  - title: 24–48 Hour Air Retention Test
+    description: Every tube chamber is inflated to 125% of rated pressure and held for 24–48 hours. Pressure sensors log continuously with temperature compensation. Any chamber exceeding 5% pressure drop triggers automatic batch re-inspection.
     standards:
-      - 'EN ISO 25649'
-      - 'CE 2013/53/EU'
-  - title: 'Terhelés és kiegyensúlyozottság tesztelés'
-    description: 'A kész lapokat maximális névleges kapacitáson tesztelik stabilitásra és merevségre. Minden lap vízi tesztelésen esik át a végső ellenőrzési jóváhagyás előtt.'
+      - EN ISO 25649
+      - CE 2013/53/EU
+  - title: Load & Balance Testing
+    description: Completed pools are tested at maximum rated capacity for stability and rigidity. Each pool undergoes water testing before final inspection approval.
     standards:
-      - 'ISO 12217'
-      - 'CE 2013/53/EU'
+      - ISO 12217
+      - CE 2013/53/EU
 
 equipment:
-  - name: 'Univerzális tesztgép (húzó)'
-    spec: '5 kN, ASTM D751 megfelelő'
-  - name: 'Nyomáscsökkenés tesztelő'
-    spec: 'Többcsatornás, 0–50 psi, adatnaplózás'
-  - name: 'UV állapotvizsgáló kamra'
-    spec: 'ISO 4892, 1 000 órás ciklusok'
-  - name: 'Vastagságmérő (digitális)'
-    spec: '0,01 mm felbontás'
-  - name: 'Hámlasztó tesztelő (hegesztés)'
-    spec: 'Motoros, 50 N kapacitás'
-  - name: 'Hőmérséklet kamra'
-    spec: '-40 °C-tól +100 °C-ig'
-  - name: 'Szivárgásdetektáló tartály'
-    spec: '6 m × 2 m, világított'
+  - name: Universal Testing Machine (tensile)
+    spec: 5 kN, ASTM D751 compliant
+  - name: Pressure Decay Tester
+    spec: Multi-channel, 0–50 psi, datalogging
+  - name: UV Weathering Chamber
+    spec: ISO 4892, 1,000 h cycles
+  - name: Thickness Gauge (digital)
+    spec: 0.01 mm resolution
+  - name: Peel Tester (weld)
+    spec: Motorized, 50 N capacity
+  - name: Temperature Chamber
+    spec: -40 °C to +100 °C
+  - name: Leak Detection Tank
+    spec: 6 m × 2 m, illuminated

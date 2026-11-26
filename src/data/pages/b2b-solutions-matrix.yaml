@@ -16,8 +16,8 @@ solutions:
   items:
     - clientType: Outdoor Startup Founder
       need: Brand Creation
-      solutionPage: Build Your SUP Brand
-      link: /solutions/sup-brand-startup/
+      solutionPage: Build Your pool Brand
+      link: /solutions/pool-brand-startup/
     - clientType: Outdoor Brand Manager
       need: Outdoor Brand Expansion Into Water Sports
       solutionPage: Expand Outdoor Brand Into Water Sports
@@ -29,39 +29,39 @@ solutions:
     - clientType: Amazon Seller
       need: E-commerce Growth
       solutionPage: Product Differentiation & Fast Supply
-      link: /solutions/ecommerce-sup-brand-development/
+      link: /solutions/ecommerce-pool-brand-development/
     - clientType: Fishing Gear Brand
-      need: Fishing SUP
-      solutionPage: Create Your Fishing SUP Brand
-      link: /solutions/create-fishing-sup-brand/
+      need: Fishing pool
+      solutionPage: Create Your Fishing pool Brand
+      link: /solutions/create-fishing-pool-brand/
     - clientType: Yoga & Wellness Brand
       need: Wellness Water Products
-      solutionPage: SUP Yoga Equipment Solutions
-      link: /solutions/sup-yoga-wellness-equipment/
+      solutionPage: pool Yoga Equipment Solutions
+      link: /solutions/pool-yoga-wellness-equipment/
     - clientType: Creator Brand
       need: Influencer Brand
-      solutionPage: Creator Edition SUP Startup
-      link: /solutions/creator-influencer-sup-brand/
+      solutionPage: Creator Edition pool Startup
+      link: /solutions/creator-influencer-pool-brand/
     - clientType: Paddle Club Founder
       need: Club Fleet
-      solutionPage: Commercial SUP Fleet
-      link: /solutions/commercial-sup-fleet/
+      solutionPage: Commercial pool Fleet
+      link: /solutions/commercial-pool-fleet/
     - clientType: Rental Business Owner
       need: Rental Operations
       solutionPage: Durable Rental Fleet Solution
-      link: /solutions/durable-sup-rental-fleet/
+      link: /solutions/durable-pool-rental-fleet/
     - clientType: Resort Activity Manager
       need: Hotel Experience
       solutionPage: Resort Water Activity Package
       link: /solutions/resort-water-activity-package/
     - clientType: Water Sports Academy
       need: Training & Education
-      solutionPage: SUP Academy Equipment Program
-      link: /solutions/sup-academy-equipment-program/
+      solutionPage: pool Academy Equipment Program
+      link: /solutions/pool-academy-equipment-program/
     - clientType: Cruise & Yacht Company
       need: Yacht Experience
-      solutionPage: Luxury Portable SUP Package
-      link: /solutions/luxury-portable-sup-package/
+      solutionPage: Luxury Portable pool Package
+      link: /solutions/luxury-portable-pool-package/
     - clientType: Outdoor Retail Buyer
       need: Retail Channel
       solutionPage: Retail Private Label Program
@@ -72,15 +72,15 @@ solutions:
       link: /solutions/regional-oem-supply-chain-partner/
     - clientType: Corporate Project Buyer
       need: Corporate Events
-      solutionPage: Corporate SUP Event Package
-      link: /solutions/corporate-sup-event-package/
+      solutionPage: Corporate pool Event Package
+      link: /solutions/corporate-pool-event-package/
     - clientType: Water Sports Brand Manager
       need: Water Sports Brand Expansion
       solutionPage: Expand Your Water Sports Portfolio
       link: /solutions/expand-your-water-sports-portfolio/
     - clientType: Pet Adventure Brand Owner
       need: Pet Outdoor
-      solutionPage: Pet-Friendly Paddle Board Program
+      solutionPage: Pet-Friendly inflatable pool Program
       link: /solutions/pet-friendly-paddle-board-program/
     - clientType: Beach Recreation Operator
       need: Beach Entertainment
@@ -88,28 +88,28 @@ solutions:
       link: /solutions/complete-beach-activity-equipment-solutions/
     - clientType: Water Park Developer
       need: Theme Entertainment
-      solutionPage: Commercial Water Park SUP Fleet
-      link: /solutions/commercial-water-park-sup-fleet/
+      solutionPage: Commercial Water Park pool Fleet
+      link: /solutions/commercial-water-park-pool-fleet/
     - clientType: Private Island & Luxury Club Owner
       need: High-End Lifestyle
-      solutionPage: Premium Custom SUP Collection
-      link: /solutions/premium-custom-sup-collection/
+      solutionPage: Premium Custom pool Collection
+      link: /solutions/premium-custom-pool-collection/
     - clientType: Tourism Board & Public Park Operator
       need: Public Tourism Projects
       solutionPage: Destination Water Sports Package
       link: /solutions/destination-water-sports-package/
     - clientType: Kids Adventure & Summer Camp Operator
       need: Youth Education
-      solutionPage: Kids Exploration SUP Program
-      link: /solutions/kids-exploration-sup-program/
+      solutionPage: Kids Exploration pool Program
+      link: /solutions/kids-exploration-pool-program/
     - clientType: Water Rescue & Safety Organization
       need: Professional Rescue
-      solutionPage: Professional Water Rescue SUP System
-      link: /solutions/professional-water-rescue-sup-system/
+      solutionPage: Professional Water Rescue pool System
+      link: /solutions/professional-water-rescue-pool-system/
     - clientType: Marine Conservation & Research Institution
       need: Environmental Research
-      solutionPage: Eco Research & Monitoring SUP Platform
-      link: /solutions/eco-research-monitoring-sup-platform/
+      solutionPage: Eco Research & Monitoring pool Platform
+      link: /solutions/eco-research-monitoring-pool-platform/
 
 cta:
   title: 'Not sure which solution fits your business?'

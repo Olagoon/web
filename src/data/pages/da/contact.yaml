@@ -1,90 +1,91 @@
 meta:
-  title: 'Kontakt — Partnerskabs- & produkthenvendelser | {SITE}'
-  description: 'Kontakt olagoon for partnerskab-, co-brand- og private label-henvendelser eller professionelle flåder. Producent af oppustelige SUP-brædder, vi svarer inden for 2 arbejdsdage.'
+  title: 'Contact — Partnership & Product Inquiries | {SITE}'
+  description: 'Contact olagoon for partnership, co-brand, and private-label inquiries, or professional fleets. inflatable pools brand, we respond within 2 business days.'
   keywords:
-    - 'kontakt olagoon'
-    - 'SUP distributør tilbud'
-    - 'professionel SUP-leverandør'
-    - 'kontakt SUP-producent'
+    - 'pool distributor quote'
+    - 'professional pool supplier'
+    - 'contact pool manufacturer'
 hero_text:
-  tagline: Kontakt
-  title: KONTAKT OS
+  tagline: Contact
+  title: GET IN TOUCH
 contact_form:
   id: form
-  title: Send os en besked
-  subtitle: Tilbud, tekniske spørgsmål eller partnerskabshenvendelser — skriv til os. Vi svarer inden for én arbejdsdag.
+  title: Send us a message
+  subtitle: For quotes, technical questions or partnership enquiries, drop us a line. We reply within one business day.
   email_to: info@olagoon.com
-  submit_button: Send forespørgsel → Få et tilbud
-  success_message: Tak! Din besked er landet i vores indbakke. Vi svarer inden for én arbejdsdag.
-  error_message: Noget gik galt ved afsendelse af din besked. Prøv igen eller send os en e-mail direkte.
+  submit_button: Send Inquiry → Get a Quote
+  success_message: Thanks! Your message has landed in our inbox. We will reply within one business day.
+  error_message: Something went wrong sending your message. Please try again or email us directly.
   default_country_code: '+1'
   captcha:
-    label: 'Anti-spam: løs venligst følgende'
+    label: 'Anti-spam: please solve the following'
   fields:
     - name: country
-      label: Land
+      label: Country
       row: 1
       type: select
       optionsKey: countries
       step: 1
     - name: orderVolume
-      label: Forventet ordremængde
+      label: Estimated Order Volume
       row: 2
       type: select
       options:
         - value: ''
-          label: Vælg dit forventede volumen...
+          label: Select your estimated volume...
         - value: sample
-          label: Kun prøver/prototyper
+          label: Samples / Prototypes only
         - value: '5-10'
-          label: 5–10 enheder (standard-MOQ)
+          label: 5–10 units (Samples / Trial)
+        - value: '50-100'
+          label: 50–100 units
         - value: '100-500'
-          label: 100–500 enheder
+          label: 100–500 units
         - value: '500-plus'
-          label: 500+ enheder (mængdepriser)
+          label: 500+ units (Volume pricing)
       step: 1
     - name: customization
-      label: Brug for tilpasning?
+      label: Customization Needed?
       row: 3
       type: select
       options:
         - value: ''
-          label: Vælg tilpasningstype...
+          label: Select customization type...
         - value: none
-          label: Standardprodukt (uden tilpasning)
+          label: Standard product (no customization)
         - value: logo
-          label: Kun tilpasset logo / branding
+          label: Custom Logo / Branding only
         - value: full
-          label: Fuld co-brand (størrelse, farve, grafik, emballage)
+          label: Full Co-Brand (size, color, graphics, packaging)
         - value: consultation
-          label: Ikke sikker — har brug for rådgivning
+          label: Not sure — need consultation
       step: 1
     - name: productInterest
-      label: Produktkategorier af interesse
+      label: Product Categories of Interest
       row: 4
       type: select
       options:
         - value: ''
-          label: Vælg produktkategori...
+          label: Select product category...
         - value: all
-          label: Alle produkter / Fuld katalog
-        - value: sup
-          label: SUP-boards / paddleboards
+          label: All products / Full catalog
+        - value: pool
+          label: pools / inflatable pool
         - value: safety
-          label: Sikkerhedsudstyr / redningsveste
+          label: Pool Accessories & Spare Parts
         - value: accessory
-          label: Tilbehør (pumper, årer, tasker)
+          label: Accessories (pumps, oars, bags)
       step: 1
     - name: firstName
-      label: Fornavn
+      label: First Name
       row: 1
       step: 2
     - name: lastName
-      label: Efternavn
+      label: Last Name
       row: 1
       step: 2
     - name: companyName
-      label: Virksomhedsnavn
+      label: Company Name
       row: 2
       step: 2
     - name: email
@@ -93,53 +94,53 @@ contact_form:
       type: email
       step: 2
     - name: tel
-      label: Telefon
+      label: TEL
       row: 3
       type: tel
       withCountryCode: true
       step: 2
     - name: address
-      label: Adresse
+      label: Address
       row: 4
       step: 2
     - name: zip
-      label: Postnummer
+      label: Zip / Postal Code
       row: 5
       step: 2
     - name: subject
-      label: Emne
+      label: Subject
       row: 1
       step: 3
     - name: message
-      label: Besked
+      label: Message
       row: 2
       type: textarea
       rows: 6
       step: 3
 features2_other_ways:
-  title: Andre måder at kontakte os
+  title: Other ways to reach us
   columns: 3
   items:
-    - title: Salgshenvendelser
-      description: Tilbud, konfigurationer, forhandleransøgninger og bulkordrer.
+    - title: Sales enquiries
+      description: Quotes, configurations, dealer applications and bulk orders.
       icon: tabler:shopping-bag
-    - title: Teknisk support
-      description: Garanti, reparationer, reservedele og driftsrelaterede spørgsmål.
+    - title: Technical support
+      description: Warranty, repairs, spare parts and operating questions.
       icon: tabler:tool
-    - title: Presse og partnerskaber
-      description: Mediesæt, sponsorater og branchesamarbejde.
+    - title: Press & partnerships
+      description: Media kits, sponsorship and industry collaboration.
       icon: tabler:news
-    - title: Telefon
-      description: +1 279 732 3333
+    - title: Phone
+      description: '+1 279 732 3333'
       icon: tabler:headset
-    - title: E-mail
+    - title: Email
       description: info@olagoon.com
       icon: tabler:mail
-    - title: Hovedkontor
+    - title: Headquarters
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
       icon: tabler:map-pin
 map:
-  title: Vores beliggenhed
-  subtitle: Besøg os på hovedkontoret
+  title: Our Location
+  subtitle: Visit us at our headquarters
   address: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
   zoom: 15

@@ -1,44 +1,44 @@
 meta:
-  title: 'Teknolohiya — Drop Stitch at Marine PVC | {SITE}'
-  description: 'Mga teknolohiya ng olagoon: konstruksyong drop stitch, marine PVC, double-layer na build, at mataas na presyon. Innovation mula sa isang propesyonal na manufacturer ng inflatable SUP.'
+  title: 'Technology — Drop Stitch & Marine PVC | {SITE}'
+  description: 'olagoon technologies: drop stitch construction, marine PVC, double-layer builds, and high pressure. Innovation from a professional inflatable pools manufacturer.'
   keywords:
-    - 'teknolohiya ng sup'
-    - 'konstruksyong drop stitch'
-    - 'high pressure sup'
-    - 'mga materyales ng inflatable sup'
+    - 'pool technology'
+    - 'drop stitch construction'
+    - 'high pressure pool'
+    - 'inflatable pools materials'
 hero:
-  tagline: 'Teknolohiya'
-  title: 'Itinayo para sa Pagganap'
-  subtitle: 'Bawat inflatable SUP ng olagoon ay ini-engineer na may drop-stitch construction at marine-grade PVC — precision na materyales at paraan ng pagmamanupaktura na sinubukan para sa mapaghamong marine na kapaligiran.'
+  tagline: Technology
+  title: Built for Performance
+  subtitle: Every olagoon inflatable pools is engineered with drop-stitch construction and marine-grade PVC — precision materials and manufacturing methods tested for demanding marine environments.
 
 sections:
-  - title: 'Drop-Stitch Core'
-    description: 'Libu-libong internal na polyester thread ang nagdudugtong sa itaas at ilalim na layer, na lumilikha ng rigid na istruktura sa 12-15 PSI. Ito ang parehong teknolohiyang ginagamit sa mga propesyonal na paddle board at inflatable racing SUP.'
-    imageAlt: 'Dayagram ng DS Core'
-  - title: 'Marine-Grade PVC'
-    description: 'Multi-layer na laminated PVC fabric na rated para sa marine na kapaligiran. Bawat layer ay fusion-welded sa halip na idinikit, na inaalis ang panganib ng delamination. Sinusubukan para sa UV resistance, kaagnasan ng saltwater, at abrasion.'
-    imageAlt: 'Layer ng PVC'
-  - title: 'Military-Grade PVC'
-    description: 'Ginagamit sa lahat ng modelo ng SUP, ang premium na PVC ay nagbibigay ng higit na paglaban sa UV at kemikal. Pinapanatili ang flexibility sa matinding temperatura at lumalaban sa pagkasira.'
-    imageAlt: 'PVC'
-  - title: 'Air Deck Floor'
-    description: 'High-pressure na inflatable drop-stitch construction na nagbibigay ng natatanging rigidity para sa pagtayo, pangingisda, at yoga. Binabawasan ang oras ng paghahanda, kabuuang timbang, at volume ng pag-iimbak.'
-    imageAlt: 'Air Deck'
+  - title: Drop-Stitch Core
+    description: Thousands of internal polyester threads connect the top and bottom layers, creating a rigid structure at 12-15 PSI. This is the same technology used in professional inflatable pool and inflatable racing pools.
+    imageAlt: DS Core Diagram
+  - title: Marine-Grade PVC
+    description: Multi-layer laminated PVC fabric rated for marine environments. Each layer is fusion-welded rather than glued, eliminating delamination risks. Tested for UV resistance, saltwater corrosion, and abrasion.
+    imageAlt: PVC Layer
+  - title: Military-Grade PVC
+    description: Used on all pool models, premium PVC provides superior UV and chemical resistance. Maintains flexibility in extreme temperatures and resists degradation.
+    imageAlt: PVC
+  - title: Air Deck Floor
+    description: High-pressure inflatable drop-stitch construction providing exceptional rigidity for standing, fishing, and yoga. Reduces setup time, overall weight, and storage volume.
+    imageAlt: Air Deck
 
 related:
-  title: 'Kaugnay'
+  title: Related
   links:
-    - text: 'R&D Center'
+    - text: R&D Center
       url: /randdcenter
-    - text: 'Quality Testing'
+    - text: Quality Testing
       url: /quality
-    - text: 'Mga Pamantayan sa Kaligtasan'
+    - text: Safety Standards
       url: /safety
-    - text: 'Warranty'
+    - text: Warranty
       url: /warranty
-    - text: 'Turismo at Recreation'
+    - text: Tourism & Recreation
       url: /use-cases/tourism-recreation
-    - text: 'Mga Gabay'
+    - text: Guides
       url: /guides
-    - text: 'Mga Produkto'
+    - text: Products
       url: /products

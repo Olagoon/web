@@ -1,80 +1,87 @@
 meta:
-  title: 'Vybavení továrny — řezání, HF svařování a tisk | {SITE}'
-  description: 'Průmyslové výrobní vybavení olagoona: řezání PVC, HF svařování, digitální tisk, montáž a testování nafukovacích SUP prken.'
+  title: 'Factory Equipment — Cutting, RF Welding & Printing | {SITE}'
+  description: 'Industrial-grade olagoon manufacturing equipment: PVC cutting, RF welding, digital printing, assembly, and testing for inflatable pools.'
   keywords:
-    - 'vybavení pro výrobu SUP'
-    - 'továrna na nafukovací SUP'
-    - 'HF svařování PVC'
-    - 'výroba paddleboardů'
+    - 'pool manufacturing equipment'
+    - 'inflatable pools factory'
+    - 'rf welding pvc'
+    - 'inflatable pool production'
 hero:
-  tagline: Vybavení
-  title: Výrobní zařízení a stroje
-  subtitle: Průmyslové vybavení pro řezání, svařování, tisk a montáž
-  back_label: Zpět do továrny
+  tagline: Equipment
+  title: Manufacturing Equipment & Machinery
+  subtitle: Industrial-grade equipment across cutting, welding, printing, and assembly
+  back_label: Back to Factory
   back_link: /factory/
+
 categories:
-  - title: Řezání a příprava materiálu
+  - title: Cutting & Material Preparation
     items:
-      - name: Automatický řezací stroj PVC
-        spec: Řízeno CNC, 6.5 m × 2.5 m, přesnost 0.1 mm
-        desc: Počítačem řízený automatický řezací stroj pro tkaniny PVC a drop-stitch. Nestingový software optimalizuje využití materiálu pod 5 % odpadu.
-      - name: Rozkladač tkaniny
-        spec: Max. šířka 3 m, podávání s kontrolovaným napětím
-        desc: Klade tkaninu v jedné nebo více vrstvách s kontrolovaným napětím, aby se zabránilo deformaci před řezáním.
-  - title: Svařování trubek a lepení
+      - name: Automatic PVC Cutting Machine
+        spec: CNC-controlled, 6.5 m × 2.5 m, 0.1 mm accuracy
+        desc: Computer-controlled automatic cutting machine for PVC and drop-stitch fabrics. Nesting software optimises material utilisation to below 5% waste.
+      - name: Fabric Spreader
+        spec: 3 m max width, tension-controlled feed
+        desc: Lays fabric in single or multiple plies with controlled tension to prevent distortion before cutting.
+
+  - title: Tube Welding & Bonding
     items:
-      - name: Stroj na horkovzdušné svařování
-        spec: Horkovzdušné svařování, variabilní 200–600 °C, 0.5–5 m/min
-        desc: Stroj na horkovzdušné tepelné svařování pro spojování a svařování švů PVC a bočnic. Používá se pro fixování, utěsňování a slévání komor a spojů plováků.
-      - name: Dielektrický lis RF
-        spec: 15 kW, deska 2000 × 600 mm
-        desc: Lis na vysokofrekvenční svařování pro hlavní podélné švy, boční pásy a výrobu velkých komor.
-      - name: RF svařovací stroj řízený CNC
-        spec: 8 kW, stůl XY 2500 × 1200 mm
-        desc: Programovatelné svařování zakřivených švů pro složité tvary, ražení log a přesné záplaty.
-  - title: Výroba SUP prken
+      - name: Heat Sealing Machine
+        spec: Hot-air welding, variable 200–600 °C, 0.5–5 m/min
+        desc: Hot-air heat sealing machine for bonding and welding PVC and rail seams. Used for tacking, sealing, and fusing tube chambers and float joints.
+      - name: Dielectric RF Press
+        spec: 15 kW, platen 2000 × 600 mm
+        desc: Radio-frequency welding press for main longitudinal seams, rail bands, and large-chamber fabrication.
+      - name: CNC-Controlled RF Welder
+        spec: 8 kW, XY table 2500 × 1200 mm
+        desc: Programmable curved-seam welding for complex geometries, logo embossing, and precision patchwork.
+
+  - title: pools Manufacturing
     items:
-      - name: Laminovací lis na drop-stitch jádra
-        spec: Velkoformátový lis pro jádra prken až do 14 ft LOA
-        desc: Přesná laminace jader drop-stitch na vnější PVC lamináty. Každá vrstva je spojena pod tlakem pro konzistentní kvalitu a pevnost.
+      - name: Drop-Stitch Core Lamination Press
+        spec: Large-format press for drop-stitch cores up to 5 m length
+        desc: Precision lamination of drop-stitch cores to outer PVC laminates. Each layer is pressure-bonded for consistent quality and strength.
       - name: CNC Router (5-axis)
-        spec: Pracovní prostor 3 m × 2 m × 1 m, vodou chlazené vřeteno
-        desc: Obrábění kýlových boxů, výřezy pro držadla a komponenty prken na míru.
-  - title: Tisk a dekorace SUP
+        spec: 3 m × 2 m × 1 m envelope, water-cooled spindle
+        desc: Machining of valve ports, handle cutouts, and custom pool components.
+
+  - title: pool Printing & Decoration
     items:
-      - name: Digitální tiskárna
-        spec: Inkoustová tiskárna s vysokým rozlišením, šířka tisku do 2 m
-        desc: Přímý digitální tisk na tkaninu pro plnobarevné grafiky palub SUP. Tiskne vlastní vzory, přechody a fotorealistické obrázky s UV odolnými vodou ředitelnými barvami.
-      - name: Stroj na sítotisk
-        spec: Ruční a poloautomatický, vícebarevné registrování
-        desc: Sítotisk pro loga prken SUP, značky a opakující se vzory. Poskytuje odolné, neprůhledné tisky s živým barevným sycením.
-  - title: Montáž a osazování
+      - name: Digital Printer
+        spec: High-resolution inkjet, up to 2 m print width
+        desc: Direct-to-fabric digital printing for full-colour pool deck graphics. Prints custom patterns, gradients, and photo-quality images with UV-resistant water-based inks.
+      - name: Screen Printing Machine
+        spec: Manual and semi-automatic, multi-colour registration
+        desc: Screen printing for pools logos, brand marks, and repeating patterns. Provides durable, opaque prints with vibrant colour saturation.
+
+  - title: Assembly & Rigging
     items:
-      - name: Board Assembly Station
-        spec: Modulární nastavitelné uspořádání s více pracovními stanovišti
-        desc: Montáž pouzder pro ploutve, držadel, D-kroužků, ventilů a palubních podložek na prkna SUP.
-      - name: Lis pro montáž ventilů
-        spec: Pneumatické, s nastavitelným tlakem
-        desc: Přesná instalace a utěsnění ventilů Halkey-Roberts a Leafield.
+      - name: Pool Assembly Station
+        spec: Modular adjustable, multi-station layout
+        desc: Assembly of fin boxes, handles, D-rings, valves, and deck pads onto pools.
+      - name: Valve Installation Press
+        spec: Pneumatic, adjustable pressure
+        desc: Precision installation and sealing of Halkey-Roberts and Leafield valves.
       - name: Deck Pad Laminator
-        spec: 3 m × 1.5 m, s regulovanou teplotou
-        desc: Tepelná laminace EVA pěnových deck padů na horní stranu SUP prken se stálou pevností spoje.
-  - title: Testování a kontrola kvality
+        spec: 3 m × 1.5 m, temperature-controlled
+        desc: Heat lamination of EVA foam deck pads to pools tops with consistent bond strength.
+
+  - title: Testing & Quality Control
     items:
-      - name: Univerzální trhačka
+      - name: Universal Tensile Tester
         spec: 50 kN, ASTM D751
-        desc: Testování trhací síly, protažení při přetržení a šíření trhlin pro šarže tkanin.
-      - name: Zkušební stav pro retenci vzduchu
-        spec: Programovatelné, 30minutové držení tlaku
-        desc: Automatizovaný test držení tlaku pro každou komoru trubky před montáží.
-      - name: Přístroj na odlupování švů
-        spec: Motorizované 180° odlupování při 100 mm/min
-        desc: Testování pevnosti odlupování svařených a lepených švů dle EN ISO 25649.
-      - name: Komora pro stárnutí s xenonovou výbojkou
-        spec: 2000 h expozice
-        desc: Testování UV odolnosti pro změnu barvy a zachování pevnosti.
+        desc: Breaking force, elongation at break, and tear propagation testing for fabric batches.
+      - name: Air Retention Test Rig
+        spec: Programmable, 30-min pressure-hold
+        desc: Automated pressure-hold test for every tube chamber before assembly.
+      - name: Seam Peel Tester
+        spec: Motorised 180° peel at 100 mm/min
+        desc: Weld and glued-seam peel strength testing per EN ISO 25649.
+      - name: Xenon-Arc Weathering Chamber
+        spec: 2000 h exposure
+        desc: UV resistance testing for colour change and strength retention.
+
 cta:
-  title: Máte zájem o prohlídku továrny?
-  desc: Vítáme návštěvníky v našem zařízení v Qingdao. Podívejte se na naše vybavení a procesy na vlastní oči.
-  label: Naplánovat návštěvu →
+  title: Interested in a factory tour?
+  desc: We welcome visitors to our Qingdao facility. See our equipment and processes in person.
+  label: Schedule a visit →
   link: /contact/

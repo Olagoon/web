@@ -1,6 +1,6 @@
 meta:
   title: 'How CE Certification Works for Inflatable Watercraft | {SITE}'
-  description: 'Complete guide to CE certification for inflatable SUPs and kayaks. Applicable directives (2013/53/EU RCD, PPE 2016/425), testing protocols, notified bodies, technical file requirements, and manufacturer obligations.'
+  description: 'Complete guide to CE certification for inflatable pools. Applicable standards and directives for domestic pools, testing protocols, notified bodies, technical file requirements, and manufacturer obligations.'
 back_text: 'Back to Research'
 
 hero:
@@ -15,7 +15,7 @@ content_html: |
   <h2>Applicable Directives</h2>
 
   <h3>Recreational Craft Directive (2013/53/EU)</h3>
-  <p>The primary directive for recreational craft in the EU. Inflatable SUPs under 2.4 m fall outside its scope and are instead certified under EN ISO 25649.</p>
+  <p>The primary directive for recreational craft in the EU. inflatable pools under 2.4 m fall outside its scope and are instead certified under EN ISO 25649.</p>
 
   <h3>Personal Protective Equipment Regulation (2016/425)</h3>
   <p>Life jackets, buoyancy aids, and safety equipment supplied with watercraft must meet PPE Regulation requirements, including type examination (Module B) by a notified body and production quality assurance (Module D or E).</p>
@@ -51,7 +51,7 @@ content_html: |
   </table>
 
   <h2>What This Means for Buyers</h2>
-  <p>When purchasing CE-certified inflatable SUPs, always verify the CE marking is on the builder's plate, a valid DoC exists, the Notified Body number is listed, and the owner's manual includes safety instructions in your local language. All OLagoon products carry CE certification with full traceability to notified body audit reports.</p>
+  <p>When purchasing CE-certified inflatable pools, always verify the CE marking is on the builder's plate, a valid DoC exists, the Notified Body number is listed, and the owner's manual includes safety instructions in your local language. All OLagoon products carry CE certification with full traceability to notified body audit reports.</p>
 
 cta:
   title: 'Need CE certification support?'

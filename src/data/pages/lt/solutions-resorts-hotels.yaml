@@ -1,117 +1,117 @@
 meta:
-  title: 'Kurortų ir viešbučių SUP įrangos tiekėjas | Kurortų parkų sprendimai | {SITE}'
-  description: 'Kurortų SUP įrangos tiekėjas viešbučiams ir kurortams visame pasaulyje. Komercinės klasės pripučiamų SUP parkai, pasirinktinis prekės ženklas, personalo mokymai ir ROI optimizuoti paketai nuo 20 iki 100+ lentų.'
+  title: 'Resort & Hotel pool Equipment Supplier | Resort Fleet Solutions | {SITE}'
+  description: 'Resort pool equipment supplier for hotels and resorts worldwide. Commercial-grade inflatable pools fleets, custom branding, staff training, and ROI-optimized packages from 20 to 100+ boards.'
 
 hero:
-  tagline: 'Kurortai ir viešbučiai'
-  title: 'Paverskite savo pakrantę pajamų centru<br />su kokybiškomis SUP parkomis'
-  subtitle: 'OLagoon aprūpina kurortus visame pasaulyje komercinės klasės pripučiamų SUP parkais — nuo 20 lentų pradžios paketų iki 100+ lentų flagmano programų. Pasirinktinis prekės ženklas, personalo mokymai ir atsarginės dalys įtrauktos.'
+  tagline: Resorts & Hotels
+  title: 'Turn Your Waterfront Into a Revenue Centre<br />With Premium pool Fleets'
+  subtitle: 'OLagoon equips resorts worldwide with commercial-grade inflatable pools fleets — from 20-board starter packages to 100+ board flagship programs. Custom branding, staff training, and replacement parts included.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: 'Kurortų svečiai mėgaujasi SUP lentomis tyrą paplūdimyje'
+    alt: Resort guests enjoying poolsing on a pristine beach
 
 roi_section:
-  title: 'Kurortų SUP pajamų modelis'
-  subtitle: 'Kaip kurortai generuoja 50 000 – 200 000+ USD metinių SUP nuomos pajamų su vienkartine investicija.'
+  title: 'The Resort pool Revenue Model'
+  subtitle: 'How resorts generate $50,000 - $200,000+ annual pool rental income with a single investment.'
   metrics:
-    - metric: '50–200 tūkst. USD+'
-      label: 'Metinės SUP pajamos'
-      detail: 'Vienam kurortui, atsižvelgiant į parko dydį ir užimtumą'
-    - metric: '4–6 mėnesiai'
-      label: 'Vidutinis atsipirkimo laikotarpis'
-      detail: 'Visa parko investicija atsiperka per vieną sezoną'
+    - metric: '$50K–$200K+'
+      label: Annual pool Revenue
+      detail: Per resort, based on fleet size and occupancy
+    - metric: '4–6 Months'
+      label: Average Payback Period
+      detail: Recoup full fleet investment within one season
     - metric: '40%'
-      label: 'Pajamų padidėjimas'
-      detail: 'Vidutinis augimas perėjus prie OLagoon parkų'
+      label: Revenue Increase
+      detail: Average boost after switching to OLagoon fleets
     - metric: '500+'
-      label: 'Nuomos ciklų vienai lentai'
-      detail: 'Komercinės klasės patvarumas kasdieniniam naudojimui'
+      label: Rental Cycles Per Board
+      detail: Commercial-grade durability for daily use
 
 packages:
-  title: 'Kurortų paketų sistema'
-  subtitle: 'Pasirinkite paketą, atitinkantį jūsų svečių pajėgumą ir pajamų tikslus. Visi paketai apima 12 mėnesių garantiją ir CE sertifikatą.'
+  title: Resort Package System
+  subtitle: 'Choose the package that fits your guest capacity and revenue goals. All packages include 12-month warranty and CE certification.'
   items:
-    - name: 'Pradinis paketas'
-      tagline: 'Mažiems kurortams, iki 20 svečių per dieną'
+    - name: Starter Package
+      tagline: 'For boutique resorts, up to 20 guests/day'
       features:
-        - '20 SUP lentų (3 dydžiai suaugusiems ir vaikams)'
-        - '20 irklų (reguliuojamų) + 20 gelbėjimo liemenių'
-        - '4 dviejų veiksmų siurbliai (elektriniai pasirinktinai)'
-        - '2 saugojimo stovai + remonto rinkinys'
-        - 'Pasirinktinis logotipo spausdinimas ant lentų'
-        - '12 mėnesių garantija + CE sertifikuota'
-      revenue: '50–80 tūkst. USD metinių pajamų potencialas'
-      cta_text: 'Gauti pradinį paketą'
-    - name: 'Premium paketas'
-      tagline: 'Dideliems kurortams, 50–100 svečių per dieną'
+        - '20 pools (3 sizes for adults/kids)'
+        - '20 paddles (adjustable) + 20 life vests'
+        - '4 dual-action pumps (electric optional)'
+        - '2 storage racks + repair kit'
+        - 'Custom logo print on boards'
+        - '12-month warranty + CE certified'
+      revenue: '$50K–$80K annual revenue potential'
+      cta_text: 'Get Starter Package'
+    - name: Premium Package
+      tagline: 'For large resorts, 50-100 guests/day'
       features:
-        - '50 SUP lentų (5 dydžiai, mišrus parkas)'
-        - '50 irklų + 50 gelbėjimo liemenių'
-        - '10 dviejų veiksmų siurblių + 2 elektriniai siurbliai'
-        - '5 saugojimo stovai + 2 vežimėliai'
-        - 'Visiškas pasirinktinis prekės ženklas (lentos, irklai, maišai)'
-        - 'Personalo mokymų seansas (internetu)'
-        - 'Atsarginių dalių išsiuntimas per 48 valandas'
-        - '12 mėnesių garantija + CE sertifikuota'
-      revenue: '120–200 tūkst. USD+ metinių pajamų potencialas'
+        - '50 pools (5 sizes, mixed fleet)'
+        - '50 paddles + 50 life vests'
+        - '10 dual-action pumps + 2 electric pumps'
+        - '5 storage racks + 2 roller carts'
+        - 'Full custom branding (boards, paddles, bags)'
+        - 'Staff training session (online)'
+        - '48-hour replacement parts dispatch'
+        - '12-month warranty + CE certified'
+      revenue: '$120K–$200K+ annual revenue potential'
       popular: true
-      cta_text: 'Gauti Premium paketą'
-    - name: 'Flagmano paketas'
-      tagline: 'Itin prabangiems kurortams, 100+ svečių per dieną'
+      cta_text: 'Get Premium Package'
+    - name: Flagship Package
+      tagline: 'For ultra-premium resorts, 100+ guests/day'
       features:
-        - '100+ SUP lentų (visas dydžių diapazonas)'
-        - 'Visiškas priedų rinkinys (irklu, liemenės, siurbliai, vežimėliai)'
-        - 'Personalo mokymai vietoje (2 dienos)'
-        - 'Skiriamasis sąskaitų vadybininkas'
-        - 'Prioritetinės atsarginės dalys (išsiuntimas per 24 val.)'
-        - 'Visiškas pasirinktinis prekės ženklas (lentos + priedai)'
-        - 'Rinkodaros foto/vaizdo įrašų paketas'
-        - '24 mėnesių garantija + CE sertifikuota'
-      revenue: '200 tūkst. USD+ metinių pajamų potencialas'
-      cta_text: 'Gauti Flagmano paketą'
+        - '100+ pools (full size range)'
+        - 'Complete accessory set (paddles, vests, pumps, carts)'
+        - 'On-site staff training (2 days)'
+        - 'Dedicated account manager'
+        - 'Priority replacement parts (24h dispatch)'
+        - 'Full custom branding (boards + accessories)'
+        - 'Marketing photo/video package'
+        - '24-month warranty + CE certified'
+      revenue: '$200K+ annual revenue potential'
+      cta_text: 'Get Flagship Package'
 
 case_study:
-  quote: 'Nuo perėjimo prie OLagoon mūsų SUP nuomos pajamos išaugo 40 %. Lentų pakeitimo išlaidos sumažėjo 60 %. Visa parko investicija mums atsiperka per 4 mėnesius.'
-  author: 'Vandens veiklų vadybininkas'
-  location: '5 žvaigždučių kurortas, Maldyvai'
+  quote: 'Since switching to OLagoon, our pool rental revenue increased 40%. Board replacement costs dropped 60%. We recouped our full fleet investment in 4 months.'
+  author: 'Water Activities Manager'
+  location: '5-star resort, Maldives'
   results:
-    - label: 'Pajamų augimas'
+    - label: 'Revenue Growth'
       value: '+40%'
-    - label: 'Išlaidų sumažėjimas'
+    - label: 'Cost Reduction'
       value: '-60%'
-    - label: 'Atsipirkimo laikotarpis'
-      value: '4 mėnesiai'
+    - label: 'Payback Period'
+      value: '4 Months'
 
 features:
-  title: 'Kodėl kurortai renkasi OLagoon'
-  subtitle: 'Komercinės klasės patvarumas, pasaulinė logistika ir partneris, suprantantis svetingumą.'
+  title: Why Resorts Choose OLagoon
+  subtitle: 'Commercial-grade durability, global logistics, and a partner who understands hospitality.'
   items:
-    - title: '500+ nuomos ciklų'
-      description: 'Kiekviena lenta yra išbandyta, kad išgyventų 500+ nuomos ciklų sūriame vandenyje, saulėje ir smėlyje.'
+    - title: '500+ Rental Cycles'
+      description: 'Every board is tested to survive 500+ rental cycles in saltwater, sun, and sand.'
       icon: 'tabler:shield-check'
-    - title: 'Dalių išsiuntimas per 48 val.'
-      description: 'Atsarginės dalys išsiunčiamos per 48 valandas — jūsų nuomos pajamos niekada nesustoja.'
+    - title: '48h Parts Dispatch'
+      description: 'Replacement parts shipped within 48 hours — your rental revenue never stops.'
       icon: 'tabler:truck-delivery'
-    - title: 'Pasirinktinis prekės ženklas'
-      description: 'Atitinkite savo kurorto tapatybę su pasirinktinėmis spalvomis ir logotipu ant kiekvienos lentos.'
+    - title: 'Custom Branding'
+      description: 'Match your resort identity with custom colors and logo on every board.'
       icon: 'tabler:palette'
-    - title: 'Personalo mokymai'
-      description: 'Internetiniai ir vietos mokymų programos jūsų veiklų komandai.'
+    - title: 'Staff Training'
+      description: 'Online and on-site training programs for your activities team.'
       icon: 'tabler:school'
-    - title: 'Pasaulinė logistika'
-      description: 'Siuntimas į 50+ šalių su konsoliduoto krovinio parinktimis.'
+    - title: 'Global Logistics'
+      description: 'Shipping to 50+ countries with consolidated freight options.'
       icon: 'tabler:world'
-    - title: 'CE sertifikuota'
-      description: 'Visa įranga CE sertifikuota, ISO 9001:2015 — sauga ir kokybė garantuota.'
+    - title: 'CE Certified'
+      description: 'All equipment CE certified, ISO 9001:2015 — safety and quality guaranteed.'
       icon: 'tabler:certificate'
 
 cta:
-  title: 'Pasirengę paversti savo pakrantę pajamų centru?'
-  subtitle: 'Gaukite savo kurortų paketo pasiūlymą arba atsisiųskite mūsų visą kurortų katalogą.'
+  title: 'Ready to turn your waterfront into a revenue centre?'
+  subtitle: 'Get your resort package quote or download our complete resort catalog.'
   actions:
-    - text: 'Gauti kurortų paketą'
+    - text: 'Get Resort Package'
       href: '/contact/?package=resort'
       variant: 'primary'
-    - text: 'Atsisiųsti kurortų katalogą'
+    - text: 'Download Resort Catalog'
       href: '/resources/download-catalog/'
       variant: 'secondary'

@@ -1,62 +1,52 @@
 meta:
-  title: 'Produktionsproces — Fra råmateriale til SUP | {SITE}'
-  description: 'Fra råmateriale til søklar SUP: hvert trin i olagoons produktionsproces under vores kontrol, fra skæring og svejsning til testning.'
+  title: 'Manufacturing Process — From Raw Material to pool | {SITE}'
+  description: 'From raw material to sea-ready pool: every step of the olagoon manufacturing process under our control, from cutting and welding to testing.'
   keywords:
-    - 'SUP produktionsproces'
-    - 'oppustelig SUP fabrik'
-    - 'paddle board produktionstrin'
-    - 'PVC-svejsning SUP'
+    - 'pool manufacturing process'
+    - 'inflatable pools factory'
+    - 'inflatable pool production steps'
+    - 'pvc welding pool'
 hero:
-  tagline: Proces
-  title: Produktionsproces
-  subtitle: Fra råmateriale til vandklar board — hvert trin under vores kontrol
-  back_label: Tilbage til fabrikken
+  tagline: Process
+  title: Manufacturing Process
+  subtitle: From raw material to backyard-ready pool — every step under our control
+  back_label: Back to Factory
   back_link: /factory/
-intro: >-
-  I modsætning til brands, der outsourcer produktionen til tredjepartsfabrikker, ejer og driver olagoon hele sin produktionskæde. Denne vertikale integration gør os i stand til at opretholde streng kvalitetskontrol i alle faser, reagere hurtigt på kundetilpassede krav og levere ensartet
-  produktkvalitet batch efter batch. Sådan bygges et board i vores fabrik.
+
+intro: Unlike brands that outsource production to third-party factories, olagoon owns and operates its entire manufacturing chain. This vertical integration allows us to maintain strict quality control at every stage, respond quickly to custom requirements, and deliver consistent product quality batch after batch. Here is how a pool is built in our facility.
+
 steps:
   - step: '01'
-    title: Modtagelse & inspektion af materialer
-    description: >-
-      Hver indkommende batch af PVC-stof, fiberglasmatte, harpiks og beslag inspiceres i forhold til specifikationen. Stofprøver testes for trækstyrke, ensartet tykkelse og UV-bestandighed, før de frigives til produktion. Materialer, der ikke lever op til specifikationerne,
-      isoleres og returneres.
-    duration: 1–2 dage
+    title: Material Receipt & Inspection
+    description: Every incoming batch of PVC fabric, fiberglass mat, resin, and hardware is inspected against specification. Fabric samples are tested for tensile strength, thickness uniformity, and UV resistance before release to production. Non-conforming materials are quarantined and returned.
+    duration: 1–2 days
   - step: '02'
-    title: Automatisk PVC-skæring
-    description: >-
-      Godkendte stoffer lægges på den automatiske CNC-klipemaskine og klippes med sub-millimeter præcision. Computeroptimeret nesting placerer panelerne, så spildet minimeres — typisk under 5%. De klippede paneler mærkes med boardmodel og kammer og bundtes til transport til
-      svejseværkstedet.
-    duration: 2–4 timer pr. boardkit
+    title: Automatic PVC Cutting
+    description: Approved fabrics are laid on the automatic CNC cutting machine and cut with sub-millimetre accuracy. Computer-optimised nesting arranges panels to minimise waste — typically below 5%. Cut panels are labelled by pool model and chamber, then bundled for transfer to the welding workshop.
+    duration: 2–4 hours per pool kit
   - step: '03'
-    title: Varmforsegling & svejsning af rør
-    description: >-
-      Paneler hæftes og samles på varmforseglingsmaskiner med varmluftssvejsning ved kontrollerede temperaturer på 200–300 °C. Hovedsømmene forstærkes med RF-dielektrisk svejsning for lufttætte samlinger med høj styrke. Færdige kamre oppustes til 1.5× arbejdstryk for 30 minutters
-      validering af luftfasthed.
-    duration: 1–2 dage pr. board
+    title: Tube Heat Sealing & Welding
+    description: Panels are tacked and bonded using heat sealing machines with hot-air welding at controlled temperatures of 200–300 °C. Main seams are reinforced with RF dielectric welding for airtight, high-strength joints. Completed chambers are inflated to 1.5× working pressure for 30-minute air-retention validation.
+    duration: 1–2 days per pool
   - step: '04'
-    title: SUP-print & dekoration
-    description: >-
-      Grafik på SUP-boardets dæk påføres med digitaltryk til fotorealistiske designs i fuld farve og silketryk til holdbare logoer og gentagne mønstre. Trykkene hærdes og forsegles for UV- og slidbestandighed.
-    duration: 1–2 dage
+    title: pool Printing & Decoration
+    description: pools deck graphics are applied using digital printing for full-colour photo-quality designs, and screen printing for durable logos and repeating patterns. Prints are cured and sealed for UV and abrasion resistance.
+    duration: 1–2 days
   - step: '05'
-    title: Endelig montering & udrustning
-    description: >-
-      Boards udrustes på samlebåndet med finner, ventiler, EVA-dæk og tilbehør. Hver enhed følger en 100-punkts monteringscheckliste med obligatorisk godkendelse ved hvert trin.
-    duration: 2–4 dage
+    title: Final Assembly & Rigging
+    description: Pools are rigged on the assembly line with valves, fittings, and accessories. Each unit follows a 100-point assembly checklist with mandatory sign-off at each stage.
+    duration: 2–4 days
   - step: '06'
-    title: Kvalitetstest & inspektion
-    description: >-
-      Hvert færdigt board gennemgår en obligatorisk kvalitetsport: lufttæthedstest af kamre, funktionstjek af beslag, verifikation af tilspændingsmoment på fastgørelser samt kosmetisk inspektion. Skræddersyede boards og prototyper gennemfører desuden prøver på vandet, der dækker
-      stabilitet og manøvreevne.
-    duration: 1–2 dage
+    title: Quality Testing & Inspection
+    description: 'Every completed pool undergoes mandatory quality gate: chamber air-retention test, hardware function check, fastener torque verification, and cosmetic inspection. Custom and prototype builds also receive in-water trials covering stability and handling.'
+    duration: 1–2 days
   - step: '07'
-    title: Pakning & forsendelse
-    description: >-
-      Boards luftes ud, foldes efter proceduren, pakkes i kraftige vævede tasker eller krydsfinerkasser og lastes til forsendelse. Hver pakke mærkes med model, serienummer og destination. Vi koordinerer med speditører for FCL- og LCL-containersendinger over hele verden.
-    duration: 1 dag
+    title: Packing & Shipping
+    description: Pools are deflated, folded per procedure, packed in heavy-duty woven bags or plywood crates, and loaded for shipment. Each package is labelled with model, serial number, and destination. We coordinate with freight forwarders for FCL and LCL container shipments worldwide.
+    duration: 1 day
+
 cta:
-  title: Se vores udstyr og maskiner
-  desc: Udforsk det industrielle udstyr bag hvert eneste olagoon board.
-  label: Se udstyret →
+  title: See our equipment and machinery
+  desc: Explore the industrial-grade equipment behind every OLagoon pool.
+  label: View equipment →
   link: /factory/equipment/

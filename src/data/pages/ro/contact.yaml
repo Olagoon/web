@@ -1,90 +1,91 @@
 meta:
-  title: 'Contact — întrebări despre parteneriat și produse SUP | {SITE}'
-  description: 'Contactați olagoon pentru întrebări despre parteneriat, co-brand și private label sau flote profesionale. Brand de plăci de SUP gonflabile, răspundem în 2 zile lucrătoare.'
+  title: 'Contact — Partnership & Product Inquiries | {SITE}'
+  description: 'Contact olagoon for partnership, co-brand, and private-label inquiries, or professional fleets. inflatable pools brand, we respond within 2 business days.'
   keywords:
-    - 'contact olagoon'
-    - 'întrebare distribuitor SUP'
-    - 'furnizor profesionist SUP'
-    - 'contact producător SUP'
+    - 'pool distributor quote'
+    - 'professional pool supplier'
+    - 'contact pool manufacturer'
 hero_text:
   tagline: Contact
-  title: CONTACTAȚI-NE
+  title: GET IN TOUCH
 contact_form:
   id: form
-  title: Trimiteți-ne un mesaj
-  subtitle: Pentru oferte, întrebări tehnice sau solicitări de parteneriat, scrieți-ne. Răspundem într-o zi lucrătoare.
+  title: Send us a message
+  subtitle: For quotes, technical questions or partnership enquiries, drop us a line. We reply within one business day.
   email_to: info@olagoon.com
-  submit_button: Trimite solicitarea → Obține o ofertă
-  success_message: Mulțumim! Mesajul dvs. a ajuns în căsuța noastră poștală. Vom răspunde într-o zi lucrătoare.
-  error_message: Ceva a mers greșit la trimiterea mesajului. Încercați din nou sau trimiteți-ne un e-mail direct.
+  submit_button: Send Inquiry → Get a Quote
+  success_message: Thanks! Your message has landed in our inbox. We will reply within one business day.
+  error_message: Something went wrong sending your message. Please try again or email us directly.
   default_country_code: '+1'
   captcha:
-    label: 'Anti-spam: rezolvați următoarea cerință'
+    label: 'Anti-spam: please solve the following'
   fields:
     - name: country
-      label: Țară
+      label: Country
       row: 1
       type: select
       optionsKey: countries
       step: 1
     - name: orderVolume
-      label: Volum estimat al comenzii
+      label: Estimated Order Volume
       row: 2
       type: select
       options:
         - value: ''
-          label: Selectați volumul estimat...
+          label: Select your estimated volume...
         - value: sample
-          label: Doar mostre / prototipuri
+          label: Samples / Prototypes only
         - value: '5-10'
-          label: 5–10 unități (MOQ standard)
+          label: 5–10 units (Samples / Trial)
+        - value: '50-100'
+          label: 50–100 units
         - value: '100-500'
-          label: 100–500 de unități
+          label: 100–500 units
         - value: '500-plus'
-          label: 500+ unități (prețuri de volum)
+          label: 500+ units (Volume pricing)
       step: 1
     - name: customization
-      label: Aveți nevoie de personalizare?
+      label: Customization Needed?
       row: 3
       type: select
       options:
         - value: ''
-          label: Selectați tipul de personalizare...
+          label: Select customization type...
         - value: none
-          label: Produs standard (fără personalizare)
+          label: Standard product (no customization)
         - value: logo
-          label: Doar logo / branding personalizat
+          label: Custom Logo / Branding only
         - value: full
-          label: Co-Brand complet (dimensiune, culoare, grafică, ambalaj)
+          label: Full Co-Brand (size, color, graphics, packaging)
         - value: consultation
-          label: Nu sunt sigur — am nevoie de consultanță
+          label: Not sure — need consultation
       step: 1
     - name: productInterest
-      label: Categorii de produse de interes
+      label: Product Categories of Interest
       row: 4
       type: select
       options:
         - value: ''
-          label: Selectați categoria de produse...
+          label: Select product category...
         - value: all
-          label: Toate produsele / Catalog complet
-        - value: sup
-          label: Plăci SUP / Paddleboard-uri
+          label: All products / Full catalog
+        - value: pool
+          label: pools / inflatable pool
         - value: safety
-          label: Echipament de siguranță / Veste de salvare
+          label: Pool Accessories & Spare Parts
         - value: accessory
-          label: Accesorii (pompe, vâsle, saci)
+          label: Accessories (pumps, oars, bags)
       step: 1
     - name: firstName
-      label: Prenume
+      label: First Name
       row: 1
       step: 2
     - name: lastName
-      label: Nume
+      label: Last Name
       row: 1
       step: 2
     - name: companyName
-      label: Numele companiei
+      label: Company Name
       row: 2
       step: 2
     - name: email
@@ -93,53 +94,53 @@ contact_form:
       type: email
       step: 2
     - name: tel
-      label: Telefon
+      label: TEL
       row: 3
       type: tel
       withCountryCode: true
       step: 2
     - name: address
-      label: Adresă
+      label: Address
       row: 4
       step: 2
     - name: zip
-      label: Cod poștal
+      label: Zip / Postal Code
       row: 5
       step: 2
     - name: subject
-      label: Subiect
+      label: Subject
       row: 1
       step: 3
     - name: message
-      label: Mesaj
+      label: Message
       row: 2
       type: textarea
       rows: 6
       step: 3
 features2_other_ways:
-  title: Alte modalități de a ne contacta
+  title: Other ways to reach us
   columns: 3
   items:
-    - title: Întrebări despre vânzări
-      description: Oferte, configurații, cereri de distribuitor și comenzi în vrac.
+    - title: Sales enquiries
+      description: Quotes, configurations, dealer applications and bulk orders.
       icon: tabler:shopping-bag
-    - title: Suport tehnic
-      description: Garanție, reparații, piese de schimb și întrebări de operare.
+    - title: Technical support
+      description: Warranty, repairs, spare parts and operating questions.
       icon: tabler:tool
-    - title: Presă și parteneriate
-      description: Kituri media, sponsorizări și colaborare industrială.
+    - title: Press & partnerships
+      description: Media kits, sponsorship and industry collaboration.
       icon: tabler:news
-    - title: Telefon
-      description: +1 279 732 3333
+    - title: Phone
+      description: '+1 279 732 3333'
       icon: tabler:headset
-    - title: E-mail
+    - title: Email
       description: info@olagoon.com
       icon: tabler:mail
-    - title: Sediu central
+    - title: Headquarters
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
       icon: tabler:map-pin
 map:
-  title: Locația noastră
-  subtitle: Vizitați-ne la sediul central
+  title: Our Location
+  subtitle: Visit us at our headquarters
   address: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
   zoom: 15

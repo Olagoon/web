@@ -1,61 +1,64 @@
 meta:
-  title: 'Κέντρο τύπου — μέσα και πόροι olagoon | {SITE}'
-  description: 'Το κέντρο τύπου olagoon: δελτία τύπου, υλικό μάρκας και πόροι από την εταιρεία μας που κατασκευάζει φουσκωτές σανίδες SUP.'
+  title: 'Media Center — Press & olagoon Resources | {SITE}'
+  description: 'The olagoon media center: press releases, brand assets, and resources from our inflatable pools manufacturing company.'
   keywords:
-    - 'τύπος olagoon'
-    - 'μέσα κατασκευαστή SUP'
-    - 'press kit paddle board'
-    - 'ναυτικές εταιρικές ειδήσεις'
+    - 'olagoon press'
+    - 'pool manufacturer media'
+    - 'inflatable pool press kit'
+    - 'nautical company news'
 hero:
-  tagline: Πόροι
-  title: Κέντρο πολυμέσων
-  subtitle: Κατέβασε υλικό μάρκας, φωτογραφίες προϊόντων, καταλόγους και βίντεο
+  tagline: Resources
+  title: Media Center
+  subtitle: Download brand assets, product imagery, catalogs, and videos
+
 sections:
   - id: product-images
-    title: Φωτογραφίες προϊόντων
-    desc: Φωτογραφίες προϊόντων υψηλής ανάλυσης για χρήση στο διαδίκτυο, εκτύπωση και λιανικό εμπόριο.
+    title: Product Images
+    desc: High-resolution product photos for web, print, and retail use.
     items:
-      - Γκαλερί Σανίδων SUP
-      - Γκαλερί Drop-Stitch SUP
-      - Γκαλερί Φουσκωτών SUP
-      - Αξεσουάρ και εξοπλισμός ασφαλείας
+      - pools Gallery
+      - Drop-Stitch pools Gallery
+      - inflatable pools Gallery
+      - Accessories & Safety Gear
   - id: logo-brand-kit
-    title: Λογότυπο και κιτ μάρκας
-    desc: Επίσημα αρχεία λογότυπου olagoon, χρωματική παλέτα, τυπογραφία και οδηγίες μάρκας.
+    title: Logo & Brand Kit
+    desc: Official olagoon logo files, colour palette, typography, and brand guidelines.
     items:
-      - Βασικό λογότυπο (PNG/SVG/EPS)
-      - Εικονικό σήμα
-      - Χρωματική παλέτα
-      - Προδιαγραφή τυπογραφίας
-      - Οδηγίες μάρκας PDF
+      - Primary Logo (PNG/SVG/EPS)
+      - Icon Mark
+      - Colour Palette
+      - Typography Specs
+      - Brand Guidelines PDF
   - id: catalogs
-    title: Κατάλογοι PDF
-    desc: Κατάλογοι προϊόντων, φύλλα προδιαγραφών και τεχνική τεκμηρίωση προς λήψη.
+    title: PDF Catalogs
+    desc: Product catalogs, spec sheets, and technical documentation for download.
     items:
-      - Κατάλογος προϊόντων 2026
-      - Παρουσίαση δυνατοτήτων OEM/ODM
-      - Φυλλάδιο σειράς SUP
-      - Τεχνικές προδιαγραφές
+      - 2026 Product Catalog
+      - OEM/ODM Capability Deck
+      - pool Series Brochure
+      - Technical Specifications
   - id: videos
-    title: Βίντεο
-    desc: Παρουσιάσεις προϊόντων, ξεναγήσεις στο εργοστάσιο, βίντεο μάρκας και μαρτυρίες πελατών.
+    title: Videos
+    desc: Product demos, factory tours, brand films, and customer testimonials.
     items:
-      - Παρουσιάσεις προϊόντων
-      - Ξενάγηση στο εργοστάσιο
-      - Βίντεο μάρκας
-      - Ιστορίες πελατών
-      - Οδηγοί
-request_access: Ζήτησε πρόσβαση →
+      - Product Demos
+      - Factory Tour
+      - Brand Film
+      - Customer Stories
+      - How-To Guides
+
+request_access: Request access →
+
 cta:
-  title: Χρειάζεσαι βοήθεια για να βρεις υλικό;
-  desc: Επικοινώνησε με την ομάδα μάρκας μας για προσαρμοσμένες παραγγελίες υλικού, συνεργασίες μέσων ή δημοσιογραφικά αιτήματα.
+  title: Need help finding assets?
+  desc: Contact our brand team for custom asset requests, media partnerships, or press inquiries.
   links:
-    - label: Επισκέψου το εργοστάσιό μας
+    - label: Visit our factory
       href: /factory/
-      desc: Δες την παραγωγική μας μονάδα 12.000 m²
-    - label: Οδηγίες μάρκας
+      desc: See our 12,000 sqm manufacturing facility
+    - label: Brand guidelines
       href: /brand/
-      desc: Γνώρισε τη μάρκα olagoon
-    - label: Συνεργάσου μαζί μας
+      desc: Learn about the olagoon brand
+    - label: Partner with us
       href: /contact/
-      desc: Αιτήματα OEM, ODM και διανομής
+      desc: OEM, ODM, and distribution inquiries

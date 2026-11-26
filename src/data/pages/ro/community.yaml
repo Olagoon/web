@@ -1,86 +1,91 @@
 meta:
-  title: 'Comunitate — aventuri SUP și sportul vâslitului | {SITE}'
-  description: 'Comunitatea olagoon: cluburi de paddle, evenimente SUP, aventuri nautice și povești de la pasionații plăcilor de stand up paddle gonflabile.'
+  title: 'Community — Pool Owners & Family Stories | {SITE}'
+  description: 'The OLagoon community: pool owners, family fun, backyard transformations, and stories from inflatable pool enthusiasts.'
   keywords:
-    - 'comunitate paddle'
-    - 'club SUP'
-    - 'evenimente paddle'
-    - 'aventuri SUP'
+    - 'pool owner community'
+    - 'backyard pool club'
+    - 'pool meetups'
+    - 'backyard pool adventures'
 hero:
-  tagline: Comunitate
-  title: Comunitatea olagoon
+  tagline: 'Community'
+  title: 'The OLagoon Community'
   subtitle: |
-    Oameni reali, apă reală, aventuri reale. De la vâslașii de weekend la<br />
-    operatorii profesioniști — descoperiți cum comunitatea noastră explorează lumea pe apă.
-  image: https://assets.olagoon.com/images/olagoon/team/olagoon-paddle-girls-team.webp
-  imageAlt: comunitatea olagoon vâslind pe ape calme
+    Real people, real backyards, real summers. From first-time owners to<br />
+    hospitality operators — discover how our community makes the most of their pools.
+  image: 'https://assets.olagoon.com/images/olagoon/team/olagoon-helen-contact-sales.webp'
+  imageAlt: 'OLagoon community enjoying a backyard pool'
+
 stats:
-  title: Comunitatea în cifre
+  title: 'Community by the numbers'
   stats:
-    - title: 40+
-      description: Țări cu clienți olagoon
-    - title: 12+
-      description: Ani de aventuri comunitare
-    - title: 10.000+
-      description: Vâslași fericiți la nivel global
-    - title: 98%
-      description: Ar recomanda olagoon
+    - title: '50+'
+      description: 'Countries with OLagoon customers'
+    - title: '12+'
+      description: 'Years of backyard fun'
+    - title: '10,000+'
+      description: 'Happy families worldwide'
+    - title: '98%'
+      description: 'Would recommend OLagoon'
+
 stories:
-  tagline: Povești ale Exploratorilor
-  title: Aventuri reale de la oameni reali
-  subtitle: Ascultați poveștile vâslașilor, familiilor și profesioniștilor care folosesc echipamente olagoon pe apă.
+  tagline: 'Owner Stories'
+  title: 'Real backyards from real people'
+  subtitle: 'Hear from families, swimmers, and operators who use OLagoon pools every summer.'
   items:
-    - name: Sarah & Mike
-      title: Proprietari SUP Explorer 11, Canada
-      content: Ne-am luat Explorer 11-urile într-o excursie de o săptămână prin Parcul Algonquin. Au gestionat portajele și traversările lacurilor superb. Construcția drop-stitch a însemnat că am putut umfla la 15 PSI și obține performanță de placă rigidă dintr-o placă portabilă.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
-      location: Parcul Algonquin, Canada
-    - name: Carlos R.
-      title: Călăreț Cheetah Surge, Spania
-      content: Cheetah Surge este alegerea mea pentru croaziere de coastă. Designul vibrant atrage atenția pe plajă, iar stabilitatea îmi dă încredere în valuri ușoare. Se manevrează superb, fie că sunt în tur sau doar mă bucur de apus.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
-      location: Costa Brava, Spania
-    - name: Lina și familia
-      title: Vâslași Flowing Lotus, Suedia
-      content: Aventuri de familie în weekend în arhipelag. Flowing Lotus este suficient de stabil încât fiica mea să stea în picioare pe el în timp ce eu vâslesc. Se umflă în mai puțin de 10 minute — fără remorcă, doar distracție pură de familie pe apă.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-flowing-lotus-1-1200w.webp
-      location: Arhipelagul Stockholm, Suedia
-    - name: Lt. Cmdr. Andres
-      title: Explorator Ocean Voyager, Filipine
-      content: Folosesc Ocean Voyager-ul meu pentru tururi de coastă pe distanțe lungi în jurul Palawanului. După luni de utilizare zilnică în condiții tropicale, placa încă funcționează ca nouă. Forma de touring taie valurile care ar opri plăci mai puțin performante.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      location: Palawan, Filipine
-    - name: Emma T.
-      title: Începătoare Tropical Breeze, Australia
-      content: Nu fusesem niciodată pe un SUP înainte. Tropical Breeze este atât de stabil încât m-am simțit încrezătoare din prima încercare. Acum vâslesc în fiecare weekend. Curba de învățare este practic zero — și placa arată uimitor pe apă.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp
-      location: Gold Coast, Australia
+    - name: 'Sarah & Mike'
+      title: 'Family Oasis owners, Canada'
+      content: 'We set up our Family Oasis at the lake cabin for a week. The kids swam every single day. The drop-stitch construction meant the 20 cm walls stayed rock-solid at full fill — a real pool experience from a box that fits in the trunk.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/family-oasis.webp'
+      location: 'Algonquin Park, Canada'
+    - name: 'Carlos R.'
+      title: 'Family Oasis owner, Spain'
+      content: 'The Family Oasis is our go-to for hot summers. The integrated seating is perfect for relaxing while the kids play, and the included sand-filter pump keeps the water crystal clear with barely any maintenance.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/family-oasis.webp'
+      location: 'Costa Brava, Spain'
+    - name: 'Lina & family'
+      title: 'Compact Plunge owners, Sweden'
+      content: 'Weekend fun in our small garden. The Compact Plunge fits our terrace perfectly and still fits the whole family for a cool-down. Sets up in about 30 minutes — no construction needed, just pure family fun all summer.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/compact-plunge.webp'
+      location: 'Stockholm, Sweden'
+    - name: 'Marco & Ana'
+      title: 'Grand Lagoon owners, Philippines'
+      content: 'We use our Grand Lagoon for daily swimming and weekend gatherings. After months of daily use in tropical conditions, the pool still performs like new. The 5 m length is enough for real laps — that would be impossible with lesser pools.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+      location: 'Palawan, Philippines'
+    - name: 'Emma T.'
+      title: 'Compact Plunge owner, Australia'
+      content: 'I had never owned a pool before. The Compact Plunge is so easy to set up that I felt confident on my first try. Now I soak every evening after work. The learning curve is basically zero — and the pool looks amazing on the deck.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/compact-plunge.webp'
+      location: 'Gold Coast, Australia'
+
 adventures_cta:
-  tagline: Împărtășește-ți aventura
-  title: Povestea ta ar putea fi aici
-  subtitle: 'Etichetați @olagoon_watersports pe Instagram sau folosiți #olagoonAdventure pentru șansa de a fi prezentat.'
-  instagram: Urmărește pe Instagram
-  youtube: Abonează-te pe YouTube
-  facebook: Alătură-te pe Facebook
+  tagline: 'Share Your Backyard'
+  title: 'Your story could be here'
+  subtitle: 'Follow OLagoon on Facebook or YouTube and tag your setup with #MyOlagoon for a chance to be featured.'
+  instagram: 'Join on Facebook'
+  youtube: 'Subscribe on YouTube'
+  facebook: 'Join on Facebook'
+
 locations:
-  tagline: Comunitate Globală
-  title: Unde călătorește olagoon
-  subtitle: De la lacurile europene la coastele Asiei de Sud-Est — comunitatea noastră vâslește peste tot.
+  tagline: 'Global Community'
+  title: 'Where OLagoon lives'
+  subtitle: 'Follow OLagoon on Facebook or YouTube and tag your setup with #MyOlagoon for a chance to be featured.'
   regions:
-    - title: Europa
-      description: Lacul Como · Arhipelagul Stockholm · Costa Brava · Coasta Croației · Loch-urile Scoțiene
-    - title: Asia-Pacific
-      description: Palawan · Gold Coast · Golful Ha Long · Lacul Yamanaka · Coasta Bali
-    - title: Americi
-      description: Parcul Algonquin · Marile Lacuri · Florida Keys · Lacul Tahoe · Patagonia
-    - title: Orientul Mijlociu și Africa
-      description: Coasta Mării Roșii · Lacul Victoria · Peninsula Capului · Marea Galileii
+    - title: 'Europe'
+      description: 'Stockholm · Lisbon · Costa Brava · Lake Como · Scottish Highlands'
+    - title: 'Asia Pacific'
+      description: 'Palawan · Gold Coast · Bali · Auckland · Okinawa'
+    - title: 'Americas'
+      description: 'Austin · Toronto · Florida Keys · Lake Tahoe · New Mexico'
+    - title: 'Middle East & Africa'
+      description: 'Dubai · Cape Town · Nairobi · Red Sea Coast · Amman'
+
 cta:
-  title: Gata să te alături comunității?
-  subtitle: Fiecare produs olagoon este certificat CE, acoperit de garanție și proiectat pentru aventuri reale. Găsește-l pe al tău astăzi.
+  title: 'Ready to join the community?'
+  subtitle: 'Every OLagoon pool is CE certified, backed by a 2-year warranty, and designed for real families. Find yours today.'
   actions:
     - variant: primary
-      text: Explorează produse
-      href: /products/
-    - text: Împărtășește povestea ta
-      href: /contact/
+      text: 'Explore products'
+      href: '/products/'
+    - text: 'Share your story'
+      href: '/contact/'

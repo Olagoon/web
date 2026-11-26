@@ -1,122 +1,122 @@
 meta:
-  title: 'Az OLagoon-ről — Felfújható SUP és vízisport márka | {SITE}'
-  description: 'Az OLagoon globális felfújható SUP és vízisport márka, amelyet az Olagoon LLC működtet és a csingtaói operációs csapatunk épít. Ismerje meg történetünket, mérnökségünket, tanúsított minőségünket és országos partnerprogramjainkat.'
+  title: 'About OLagoon — inflatable pools & Water Sports Brand | {SITE}'
+  description: 'OLagoon is a global inflatable pools and water sports brand, operated by Olagoon LLC and built by our Qingdao Operation Team. Discover our story, engineering, certified quality, and country partner programs.'
   keywords:
-    - 'felfújható SUP márka'
-    - 'vízisport márka'
-    - 'országos sup forgalmazó'
-    - 'közös márkás sup kollekciók'
+    - 'inflatable pools brand'
+    - 'water sports brand'
+    - 'country pool distributor'
+    - 'co-branded pool collections'
 hero:
-  tagline: 'Rólunk'
+  tagline: About us
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: afarar gyár és műhely
+    alt: olagoon factory and workshop
   title: |
-    Tengeri mérnökség, <br />
-    az <span class="text-accent dark:text-white">olagoon</span> módszerrel építve
-  subtitle: 'Egy parti műhelyben kezdtük egy lappal és egy makacs meggyőződéssel: a tengeri termékeket úgy kell megtervezni, mintha számítanának, mert számítanak. Ma több mint 40 országba szállítunk, de minden hajótest ugyanazokon a kezeken megy át, amelyek elindították a vállalatot.'
+    Marine engineering, <br />
+    built the <span class="text-accent dark:text-white">olagoon</span> way
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
 
 stats:
-  title: 'Számokban'
+  title: By the numbers
   columns: 4
   stats:
-    - title: 'Leszállított hajótestek'
-      amount: '2 400+'
-    - title: 'Szállított országok'
+    - title: Hulls delivered
+      amount: '2,400+'
+    - title: Countries shipped
       amount: '40'
-    - title: 'Összesített tapasztalati évek'
+    - title: Years of combined experience
       amount: '60'
-    - title: 'Átlagos garanciális válaszidő (óra)'
+    - title: Average warranty response (hours)
       amount: '24'
 
 features3_what_we_build:
-  title: 'Amit építünk'
-  subtitle: 'Egy parti műhelyben kezdtük egy lappal és egy makacs meggyőződéssel: a tengeri termékeket úgy kell megtervezni, mintha számítanának, mert számítanak. Ma több mint 40 országba szállítunk, de minden hajótest ugyanazokon a kezeken megy át, amelyek elindították a vállalatot.'
+  title: What we build
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
   columns: 3
   isBeforeContent: true
   items:
-    - title: 'SUP lapok'
-      description: 'Felfújható SUP lapok 9 lábtól 12 lábig. Túrázásra, jógára, horgászatra és családi használatra tervezve.'
+    - title: pools
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:ship
-    - title: 'Felfújható SUP-ok'
-      description: 'PVC felfújható SUP lapok 9 lábtól 12 lábig. Könnyű, strapabíró és könnyen tárolható.'
+    - title: inflatable pools
+      description: PVC inflatable pools from 9 ft to 12 ft. Light, tough and easy to stow.
       icon: tabler:rowing
-    - title: 'Prémium SUP csomagok'
-      description: 'Kompakt, magas specifikációjú SUP-ok egyedi megépítéssel a márkájához vagy flottaigényeihez igazítva.'
+    - title: Premium pool packages
+      description: Compact, high-spec pools custom-built to match your brand or fleet requirements.
       icon: tabler:crown
 
 features3_more:
   columns: 3
   isAfterContent: true
   items:
-    - title: 'Kiegészítők'
-      description: 'Evezők, szivattyúk, borítók, száraz zsákok és elektronika. Mind a lapjainkhoz igazodva.'
+    - title: Accessories
+      description: Filters, pumps, covers, and accessories. All matched to our pools.
       icon: tabler:package
-    - title: 'Javítás és szerviz'
-      description: 'Házon belüli lapjavítás, burkolatcsere és kiegészítő fejlesztések.'
+    - title: Repair & service
+      description: In-house pool repair, liner replacement and accessory upgrades.
       icon: tabler:tool
-    - title: 'Egyedi gyártások'
-      description: 'Projektenkénti tervezés kereskedelmi, tudományos és katonai ügyfeleknek.'
+    - title: Custom builds
+      description: Project-by-project design for commercial, scientific and military customers.
       icon: tabler:hammer
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-    alt: 'Laptervezési és mérnöki megbeszélés'
+    alt: Pool design and engineering discussion
 
 steps2_values:
-  title: 'Értékeink'
-  subtitle: 'Három elv, amely minden terméket formált az első naptól.'
+  title: Our values
+  subtitle: Three principles that have shaped every product since day one.
   items:
-    - title: 'Úgy építs, mintha a családod vinné'
-      description: 'Minden hajótestet, hegesztést és csavart úgy kezelünk, mintha a saját családjaink használnák.'
+    - title: Build like it carries your family
+      description: Every hull, weld and fastener is treated as if our own families will use it.
       icon: tabler:heart
-    - title: 'Előbb tervezés, aztán értékesítés'
-      description: 'Felfújható SUP lapok 9 lábtól 12 lábig. Túrázásra, jógára, horgászatra és családi használatra tervezve.'
+    - title: Engineer before we sell
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:settings
-    - title: 'Támogatás, amely túlélje a garanciát'
-      description: 'Húsz éves hajótestek ma is hívnak minket alkatrészért, és mi még mindig felvesszük.'
+    - title: Support that outlasts the warranty
+      description: Twenty-year-old hulls still call us for spare parts, and we still pick up.
       icon: tabler:headset
 
 steps2_milestones:
-  title: 'Mérföldkövek'
-  subtitle: 'Az afarar történetének rövid változata.'
+  title: Milestones
+  subtitle: A short version of the olagoon story.
   isReversed: true
   items:
-    - title: 'Parti műhelyben alapítva'
-      description: 'Két tengeri mérnök indította egy CNC-marógéppel és egy makacs ötlettel.'
+    - title: Founded in a coastal workshop
+      description: Started by two marine engineers with a CNC mill and a stubborn idea.
       icon: tabler:building-factory
-    - title: 'Az első 1 000 hajótest leszállítva'
-      description: 'A hetedik évünkben értük el, főként ajánlások és visszatérő ügyfelek révén.'
+    - title: First 1,000 hulls delivered
+      description: Reached in our seventh year, mostly through word of mouth and repeat customers.
       icon: tabler:circle-check
-    - title: 'Nemzetközi exportprogram'
-      description: 'Ma már 40+ országba szállítunk lokalizált támogatási partnerekkel öt kontinensen.'
+    - title: International export programme
+      description: Now shipping to 40+ countries with localised support partners on five continents.
       icon: tabler:world
 
 features2_locations:
-  title: 'Helyszíneink'
-  tagline: 'Találjon meg minket'
+  title: Our locations
+  tagline: Find us
   columns: 3
   items:
-    - title: 'Székhely és műhely'
-      description: 'Felfújható SUP lapok 9 lábtól 12 lábig. Túrázásra, jógára, horgászatra és családi használatra tervezve.'
-    - title: 'EU szervizközpont'
-      description: 'Felfújható SUP lapok 9 lábtól 12 lábig. Túrázásra, jógára, horgászatra és családi használatra tervezve.'
-    - title: 'APAC partnerhálózat'
-      description: 'Jogosított szervizpartnerek Ausztráliában, Japánban, Szingapúrban és Hongkongban.'
+    - title: Headquarters & workshop
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: EU service centre
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: APAC partner network
+      description: Authorised service partners in Australia, Japan, Singapore and Hong Kong.
 
-brand_hub_tagline: 'Márka'
-brand_hub_title: 'Fedezze fel márkánkat'
-brand_hub_subtitle: 'Merüljön mélyebbre SUP mérnöki szakértelmünkben, globális jelenlétünkben és az elveinkben, amelyek vezetnek minket.'
+brand_hub_tagline: Brand
+brand_hub_title: Explore Our Brand
+brand_hub_subtitle: Dive deeper into our pool engineering expertise, global presence, and the principles that drive us.
 
 brand_hub_cards:
-  - title: 'Tengeri szakértelem'
-    desc: 'Évtizedek anyagtudománya, precíziós gyártás és valós körülmények közötti tesztelés — a PVC gyártástól a mély-V hajótesttervezésig és a drop-stitch technológiáig.'
+  - title: Marine Expertise
+    desc: Decades of material science, precision manufacturing, and real-world testing — from PVC fabrication to deep-V hull design and drop-stitch technology.
     link: /brand-marine-expertise/
-    link_label: 'Tudjon meg többet →'
-  - title: 'Globális jelenlét'
-    desc: '50+ országba szállítás a csingtaói létesítményünkből jogosított szervizpartnerekkel Európában, Ázsiában-Csendes-óceáni térségben és Amerikában.'
+    link_label: 'Learn more →'
+  - title: Global Presence
+    desc: Shipping to 50+ countries from our Qingdao facility with authorized service partners across Europe, Asia-Pacific, and the Americas.
     link: /brand-global-presence/
-    link_label: 'Tudjon meg többet →'
-  - title: 'Miért olagoon'
-    desc: 'Márka, amely igazolt minőségre épül — kettős tanúsítás (ISO 9001 + BSCI), CE-megfelelőség és kizárólagos országos partnerségek korlátozott közös márkás kollekciókkal vízisport vállalkozásoknak.'
+    link_label: 'Learn more →'
+  - title: Why olagoon
+    desc: A brand built on verified quality — dual certification (ISO 9001 + BSCI), CE compliance, and exclusive country partnerships with limited co-branded collections for water-sports businesses.
     link: /brand-why-olagoon/
-    link_label: 'Tudjon meg többet →'
+    link_label: 'Learn more →'

@@ -1,110 +1,115 @@
 meta:
-  title: Private label SUP-produktion | {SITE}
-  description: Lancer dit eget SUP-brand med OLagoon. Fra idé til marked — fuld OEM/ODM-service inklusive design, prototyping, produktion og global logistik.
+  title: 'Private Label pool Manufacturing & Custom Brand Launch | {SITE}'
+  description: 'Private label pool manufacturer for new inflatable pool brands. Launch your own pool brand with OLagoon — full OEM/ODM service including design, prototyping, custom branding, production, and global logistics.'
+
 hero:
-  tagline: Byg dit eget brand
-  title: Lancer dit eget<br />SUP-brand
-  subtitle: Du har visionen. Vi har fabrikken, ekspertisen og forsyningskæden. Sammen bygger vi et brand, der skiller sig ud.
+  tagline: Build Your Own Brand
+  title: 'Launch Your Own<br />pool Brand'
+  subtitle: "You have the vision. We have the factory, the expertise, and the supply chain. Private label pool manufacturing and custom pool brand development — together, we'll build a brand that stands out."
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Specialtilpasset brandet SUP-board på vandet
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: Custom branded pools on water
+
 process:
-  title: Din brandrejse
-  subtitle: Fra idé til marked i 5 faser.
+  title: Your Brand Journey
+  subtitle: 'From idea to market in 5 phases.'
   steps:
-    - phase: Fase 1
-      title: Idé
-      period: Uge 1-2
+    - phase: 'Phase 1'
+      title: 'Idea'
+      period: 'Week 1-2'
       items:
-        - Markedsundersøgelser & konkurrentanalyse
-        - Definition af målgruppen
-        - Workshop om brandpositionering
-        - Produktlinjestrategi
-    - phase: Fase 2
-      title: Design
-      period: Uge 3-6
+        - 'Market research & competitor analysis'
+        - 'Target customer definition'
+        - 'Brand positioning workshop'
+        - 'Product line strategy'
+    - phase: 'Phase 2'
+      title: 'Design'
+      period: 'Week 3-6'
       items:
-        - Boardets form & grafisk design
-        - Farveafstemning og materialevalg
-        - Specifikation af tilbehør
-        - Emballage- og labeledesign
-    - phase: Fase 3
-      title: Prototype
-      period: Uge 7-10
+        - 'Board shape & graphic design'
+        - 'Color matching & material selection'
+        - 'Accessory specification'
+        - 'Packaging & label design'
+    - phase: 'Phase 3'
+      title: 'Prototype'
+      period: 'Week 7-10'
       items:
-        - Prøveproduktion
-        - Kvalitetstest (tryk, opdrift, UV)
-        - Designtilpasninger
-        - Endelig godkendelse
-    - phase: Fase 4
-      title: Produktion
-      period: Uge 11-14
+        - 'Sample production'
+        - 'Quality testing (pressure, buoyancy, UV)'
+        - 'Design adjustments'
+        - 'Final approval'
+    - phase: 'Phase 4'
+      title: 'Production'
+      period: 'Week 11-14'
       items:
-        - Bulkproduktion
-        - QC-inspektion (pr. enhed)
-        - Havfragt / luftfragt
-        - Toldklaringsdokumenter
-    - phase: Fase 5
-      title: Lancering
-      period: Uge 15-16
+        - 'Bulk manufacturing'
+        - 'QC inspection (per unit)'
+        - 'Sea freight / air freight'
+        - 'Customs clearance documents'
+    - phase: 'Phase 5'
+      title: 'Launch'
+      period: 'Week 15-16'
       items:
-        - Produktfotografering
-        - Produktfeed til hjemmesiden
-        - Markedsføringsmaterialer
-        - Lanceringssupport
+        - 'Product photography'
+        - 'Website product feed'
+        - 'Marketing materials'
+        - 'Launch support'
+
 packages:
-  title: Startup-pakker
-  subtitle: Pakker designet til alle faser af brandets vækst.
+  title: Startup Packages
+  subtitle: 'Packages designed for every stage of brand growth.'
   items:
     - name: Starter Brand
-      tagline: 50-100 enheder · 2 board-modeller
+      tagline: '50-100 units · 2 board models'
       features:
-        - Grundlæggende logotryk
-        - Standardemballage
-        - E-mail-support
+        - 'Basic logo printing'
+        - 'Standard packaging'
+        - 'Email support'
     - name: Growing Brand
-      tagline: 300-1.000 enheder · 3-5 boardmodeller
+      tagline: '300-1,000 units · 3-5 board models'
       features:
-        - Tilpasset farve + logo
-        - Tilpasset emballage
-        - Produktfotos
-        - Dedikeret projektleder
+        - 'Custom color + logo'
+        - 'Custom packaging'
+        - 'Product photos'
+        - 'Dedicated manager'
     - name: Established Brand
-      tagline: 1.000+ enheder · Komplet produktsortiment
+      tagline: '1,000+ units · Full product line'
       features:
-        - Fuld tilpasning
-        - Premium-emballage
-        - Markedsføringsmateriale
-        - Prioriteret produktion
+        - 'Full customization'
+        - 'Premium packaging'
+        - 'Marketing collateral'
+        - 'Priority production'
+
 features:
-  title: Hvorfor brands vælger OLagoon
-  subtitle: 10+ års OEM-erfaring, fuld certificering og den laveste MOQ i branchen.
+  title: Why Brands Choose OLagoon
+  subtitle: '10+ years of OEM experience, full certification, and the lowest MOQ in the industry.'
   items:
-    - title: 10+ års OEM-erfaring
-      description: 2.400+ skrog leveret til brands verden over.
-      icon: tabler:clock
-    - title: Fuld certificering
-      description: CE / ISO / UKCA / BSCI / REACH — alt certificeret.
-      icon: tabler:certificate
-    - title: 30 dages leveringstid
-      description: Hurtigere end branchegennemsnittet fra ordre til forsendelse.
-      icon: tabler:truck-delivery
-    - title: Lav MOQ
-      description: Fra 50 enheder — det laveste i branchen.
-      icon: tabler:package
-    - title: Internt design
-      description: Fuld designstøtte fra koncept til endelig grafik.
-      icon: tabler:palette
-    - title: Global logistik
-      description: Support med søfragt, luftfragt og fortoldning.
-      icon: tabler:world
+    - title: '10+ Years OEM Experience'
+      description: '2,400+ hulls delivered to brands worldwide.'
+      icon: 'tabler:clock'
+    - title: 'Full Certification'
+      description: 'CE / ISO / UKCA / BSCI / REACH — all certified.'
+      icon: 'tabler:certificate'
+    - title: 'Tiered Lead Times'
+      description: 'Samples in 15–20 days; production in 8–16 weeks by volume.'
+      icon: 'tabler:truck-delivery'
+    - title: 'Low MOQ'
+      description: 'From 50 units — lowest in the industry.'
+      icon: 'tabler:package'
+    - title: 'In-House Design'
+      description: 'Full design support from concept to final artwork.'
+      icon: 'tabler:palette'
+    - title: 'Global Logistics'
+      description: 'Sea freight, air freight, and customs clearance support.'
+      icon: 'tabler:world'
+
 cta:
-  title: Klar til at lancere dit brand?
-  subtitle: Start din brandrejse, eller hent vores OEM-guide.
+  title: 'Ready to launch your brand?'
+  subtitle: 'Start your brand journey or download our OEM guide.'
   actions:
-    - text: Start din brandrejse
-      href: /contact/?package=oem
-      variant: primary
-    - text: Hent OEM-guide
-      href: /resources/download-catalog/
-      variant: secondary
+    - text: 'Start Your Brand Journey'
+      href: '/contact/?package=oem'
+      variant: 'primary'
+    - text: 'Download OEM Guide'
+      href: '/resources/download-catalog/'
+      variant: 'secondary'

@@ -1,112 +1,122 @@
 meta:
-  title: 'เกี่ยวกับ OLagoon — แบรนด์บอร์ด SUP แบบเป่าลมและกีฬาทางน้ำ | {SITE}'
-  description: 'OLagoon คือแบรนด์บอร์ด SUP แบบเป่าลมและกีฬาทางน้ำระดับโลก ดำเนินงานโดย Olagoon LLC (สหรัฐอเมริกา) และสร้างสรรค์โดยทีมปฏิบัติการชิงเต่าของเรา ค้นพบเรื่องราวของเรา วิศวกรรม คุณภาพที่ได้รับการรับรอง และโปรแกรมพันธมิตรรายประเทศ'
+  title: 'About OLagoon — inflatable pools & Water Sports Brand | {SITE}'
+  description: 'OLagoon is a global inflatable pools and water sports brand, operated by Olagoon LLC and built by our Qingdao Operation Team. Discover our story, engineering, certified quality, and country partner programs.'
   keywords:
-    - 'แบรนด์บอร์ด SUP แบบเป่าลม'
-    - 'แบรนด์กีฬาทางน้ำ'
-    - 'ตัวแทนจำหน่าย SUP รายประเทศ'
-    - 'คอลเลกชัน SUP โคแบรนด์'
+    - 'inflatable pools brand'
+    - 'water sports brand'
+    - 'country pool distributor'
+    - 'co-branded pool collections'
 hero:
-  tagline: เกี่ยวกับเรา
+  tagline: About us
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: โรงงานและเวิร์กช็อปของ olagoon
-  title: เกี่ยวกับ olagoon
-  subtitle: เราเริ่มต้นจากเวิร์กช็อปริมชายฝั่งด้วยบอร์ดเพียงลำเดียวและความเชื่ออันแน่วแน่ว่า ผลิตภัณฑ์ทางทะเลควรได้รับการออกแบบอย่างใส่ใจจริงจัง เพราะมันสำคัญจริง ๆ วันนี้เราจัดส่งไปยังกว่า 40 ประเทศ แต่ตัวเรือทุกลำยังคงผ่านมือของคนกลุ่มเดียวกับที่เริ่มก่อตั้งบริษัท
+    alt: olagoon factory and workshop
+  title: |
+    Marine engineering, <br />
+    built the <span class="text-accent dark:text-white">olagoon</span> way
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
+
 stats:
-  title: ตัวเลขสำคัญ
+  title: By the numbers
   columns: 4
   stats:
-    - title: ตัวเรือที่จัดส่งแล้ว
-      amount: 2,400+
-    - title: ประเทศที่จัดส่งไป
+    - title: Hulls delivered
+      amount: '2,400+'
+    - title: Countries shipped
       amount: '40'
-    - title: ประสบการณ์การทำงานรวมหลายปี
+    - title: Years of combined experience
       amount: '60'
-    - title: เวลาตอบสนองการเคลมประกันโดยเฉลี่ย (ชั่วโมง)
+    - title: Average warranty response (hours)
       amount: '24'
+
 features3_what_we_build:
-  title: สิ่งที่เราผลิต
-  subtitle: เราเริ่มต้นจากเวิร์กช็อปริมชายฝั่งที่มีบอร์ดเพียงลำเดียวและความเชื่ออันแน่วแน่ที่ว่า สินค้าทางทะเลควรได้รับการออกแบบอย่างใส่ใจจริงจัง เพราะมันสำคัญจริง ๆ ทุกวันนี้เราจัดส่งไปยังกว่า 40 ประเทศ แต่ตัวเรือทุกลำยังคงผ่านมือของคนกลุ่มเดียวกับที่เริ่มก่อตั้งบริษัท
+  title: What we build
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
   columns: 3
   isBeforeContent: true
   items:
-    - title: กระดาน SUP
-      description: บอร์ดพาย SUP แบบเป่าลมขนาด 9 ฟุต ถึง 12 ฟุต ออกแบบสำหรับทัวร์ริ่ง โยคะ ตกปลา และการใช้ในครอบครัว
+    - title: pools
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:ship
-    - title: ซัพเป่าลม
-      description: บอร์ด SUP แบบเป่าลมจาก PVC ขนาด 9 ฟุต ถึง 12 ฟุต น้ำหนักเบา แข็งแรงทนทาน และจัดเก็บง่าย
+    - title: inflatable pools
+      description: PVC inflatable pools from 9 ft to 12 ft. Light, tough and easy to stow.
       icon: tabler:rowing
-    - title: แพ็คเกจ SUP ระดับพรีเมียม
-      description: ซัพขนาดกะทัดรัด สเปกสูง สร้างขึ้นเฉพาะตามความต้องการของแบรนด์หรือฝูงเรือของคุณ
+    - title: Premium pool packages
+      description: Compact, high-spec pools custom-built to match your brand or fleet requirements.
       icon: tabler:crown
+
 features3_more:
   columns: 3
   isAfterContent: true
   items:
-    - title: อุปกรณ์เสริม
-      description: ไม้พาย ปั๊มลม ฝาครอบ กระเป๋ากันน้ำ และอุปกรณ์อิเล็กทรอนิกส์ ทั้งหมดออกแบบให้เข้ากันกับบอร์ดของเรา
+    - title: Accessories
+      description: Filters, pumps, covers, and accessories. All matched to our pools.
       icon: tabler:package
-    - title: การปรับปรุงและซ่อมแซม
-      description: บริการซ่อมบอร์ด การเปลี่ยนแผ่นรองเท้า (deck pad) และการอัปเกรดอุปกรณ์เสริมภายในโรงงานของเรา
+    - title: Repair & service
+      description: In-house pool repair, liner replacement and accessory upgrades.
       icon: tabler:tool
-    - title: การผลิตตามสั่งพิเศษ
-      description: ออกแบบเฉพาะรายโครงการสำหรับลูกค้าภาคธุรกิจ วิทยาศาสตร์ และการทหาร
+    - title: Custom builds
+      description: Project-by-project design for commercial, scientific and military customers.
       icon: tabler:hammer
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-    alt: หารือด้านการออกแบบและวิศวกรรมบอร์ด
+    alt: Pool design and engineering discussion
+
 steps2_values:
-  title: ค่านิยมของเรา
-  subtitle: หลักการสามประการที่หล่อหลอมทุกผลิตภัณฑ์ตั้งแต่วันแรก
+  title: Our values
+  subtitle: Three principles that have shaped every product since day one.
   items:
-    - title: สร้างมาอย่างแข็งแรงราว๊าต้องแบกรับครอบครัวของคุณ
-      description: ตัวเรือ รอยเชื่อม และชิ้นส่วนยึดทุกชิ้นได้รับการดูแลราวกับว่าครอบครัวของเราเองจะได้ใช้งาน
+    - title: Build like it carries your family
+      description: Every hull, weld and fastener is treated as if our own families will use it.
       icon: tabler:heart
-    - title: ออกแบบโดยวิศวกรก่อนวางจำหน่าย
-      description: บอร์ดพาย SUP แบบเป่าลมขนาด 9 ฟุต ถึง 12 ฟุต ออกแบบสำหรับทัวร์ริ่ง โยคะ ตกปลา และการใช้ในครอบครัว
+    - title: Engineer before we sell
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:settings
-    - title: บริการดูแลที่ยาวนานเกินอายุการรับประกัน
-      description: เรือที่มีอายุใช้งานยี่สิบปียังคงติดต่อเรามาเพื่อขออะไหล่ และเรายังคงรับสายเสมอ
+    - title: Support that outlasts the warranty
+      description: Twenty-year-old hulls still call us for spare parts, and we still pick up.
       icon: tabler:headset
+
 steps2_milestones:
-  title: เหตุการณ์สำคัญ
-  subtitle: เรื่องราวของ olagoon ฉบับย่อ
+  title: Milestones
+  subtitle: A short version of the olagoon story.
   isReversed: true
   items:
-    - title: ก่อตั้งจากเวิร์กช็อปริมชายฝั่ง
-      description: เริ่มต้นโดยวิศวกรทางทะเลสองคน พร้อมเครื่องกัด CNC และไอเดียที่มุ่งมั่นไม่ยอมแพ้
+    - title: Founded in a coastal workshop
+      description: Started by two marine engineers with a CNC mill and a stubborn idea.
       icon: tabler:building-factory
-    - title: ตัวเรือ 1,000 ลำแรกที่ส่งมอบ
-      description: เราก้าวเข้าสู่ปีที่ 7 ของการดำเนินงาน โดยอาศัยการบอกต่อและลูกค้าประจำเป็นหลัก
+    - title: First 1,000 hulls delivered
+      description: Reached in our seventh year, mostly through word of mouth and repeat customers.
       icon: tabler:circle-check
-    - title: โครงการส่งออกระหว่างประเทศ
-      description: จัดส่งไปยังกว่า 40 ประเทศ พร้อมพันธมิตรสนับสนุนในพื้นที่ครอบคลุมห้าทวีป
+    - title: International export programme
+      description: Now shipping to 40+ countries with localised support partners on five continents.
       icon: tabler:world
+
 features2_locations:
-  title: ที่ตั้งของเรา
-  tagline: ค้นหาเรา
+  title: Our locations
+  tagline: Find us
   columns: 3
   items:
-    - title: สำนักงานใหญ่และโรงงาน
-      description: บอร์ดพาย SUP แบบเป่าลมขนาด 9 ฟุต ถึง 12 ฟุต ออกแบบสำหรับทัวร์ริ่ง โยคะ ตกปลา และการใช้ในครอบครัว
-    - title: ศูนย์บริการในสหภาพยุโรป (EU)
-      description: บอร์ดพาย SUP แบบเป่าลมขนาด 9 ฟุต ถึง 12 ฟุต ออกแบบสำหรับทัวร์ริ่ง โยคะ ตกปลา และการใช้ในครอบครัว
-    - title: เครือข่ายพันธมิตรในภูมิภาคเอเชียแปซิฟิก (APAC)
-      description: พันธมิตรศูนย์บริการที่ได้รับอนุญาตในออสเตรเลีย ญี่ปุ่น สิงคโปร์ และฮ่องกง
-brand_hub_tagline: แบรนด์
-brand_hub_title: ทำความรู้จักแบรนด์ของเรา
-brand_hub_subtitle: สำรวจความเชี่ยวชาญด้านวิศวกรรม SUP การมีตัวตนระดับโลก และหลักการที่ขับเคลื่อนเราให้ลึกยิ่งขึ้น
+    - title: Headquarters & workshop
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: EU service centre
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: APAC partner network
+      description: Authorised service partners in Australia, Japan, Singapore and Hong Kong.
+
+brand_hub_tagline: Brand
+brand_hub_title: Explore Our Brand
+brand_hub_subtitle: Dive deeper into our pool engineering expertise, global presence, and the principles that drive us.
+
 brand_hub_cards:
-  - title: ความเชี่ยวชาญด้านทะเล
-    desc: หลายสิบปีของวิทยาศาสตร์วัสดุ การผลิตที่แม่นยำ และการทดสอบใช้งานจริง — ตั้งแต่การขึ้นรูป PVC ไปจนถึงการออกแบบตัวเรือ deep-V และเทคโนโลยี drop-stitch
+  - title: Marine Expertise
+    desc: Decades of material science, precision manufacturing, and real-world testing — from PVC fabrication to deep-V hull design and drop-stitch technology.
     link: /brand-marine-expertise/
-    link_label: เรียนรู้เพิ่มเติม →
-  - title: การดำเนินงานทั่วโลก
-    desc: จัดส่งไปยังกว่า 50 ประเทศจากโรงงานของเราที่ชิงเต่า (Qingdao) พร้อมพันธมิตรด้านบริการที่ได้รับอนุญาตในยุโรป เอเชีย-แปซิฟิก และอเมริกา
+    link_label: 'Learn more →'
+  - title: Global Presence
+    desc: Shipping to 50+ countries from our Qingdao facility with authorized service partners across Europe, Asia-Pacific, and the Americas.
     link: /brand-global-presence/
-    link_label: เรียนรู้เพิ่มเติม →
-  - title: ทำไมต้องเลือก olagoon
-    desc: แบรนด์ที่สร้างบนคุณภาพที่ได้รับการยืนยัน — การรับรองคู่ (ISO 9001 + BSCI), การปฏิบัติตาม CE และความร่วมมือเฉพาะรายประเทศพร้อมคอลเลกชันโคแบรนด์แบบจำนวนจำกัดสำหรับธุรกิจกีฬาทางน้ำ
+    link_label: 'Learn more →'
+  - title: Why olagoon
+    desc: A brand built on verified quality — dual certification (ISO 9001 + BSCI), CE compliance, and exclusive country partnerships with limited co-branded collections for water-sports businesses.
     link: /brand-why-olagoon/
-    link_label: เรียนรู้เพิ่มเติม →
+    link_label: 'Learn more →'

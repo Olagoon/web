@@ -1,117 +1,117 @@
 meta:
-  title: 'Dobavljač SUP opreme za odmarališta i hotele | Rješenja za flote | {SITE}'
-  description: 'Dobavljač SUP opreme za hotele i odmarališta diljem svijeta. Flote napuhivih SUP dasaka komercijalne klase, prilagođeno brendiranje, obuka osoblja i paketi optimizirani za povrat ulaganja od 20 do 100+ dasaka.'
+  title: 'Resort & Hotel pool Equipment Supplier | Resort Fleet Solutions | {SITE}'
+  description: 'Resort pool equipment supplier for hotels and resorts worldwide. Commercial-grade inflatable pools fleets, custom branding, staff training, and ROI-optimized packages from 20 to 100+ boards.'
 
 hero:
-  tagline: 'Odmarališta i hoteli'
-  title: 'Pretvorite svoju obalu u centar prihoda<br />vrhunskim flotama SUP dasaka'
-  subtitle: 'OLagoon oprema odmarališta diljem svijeta flotama napuhivih SUP dasaka komercijalne klase — od početnih paketa s 20 dasaka do vodećih programa sa 100+ dasaka. Uključeni su prilagođeno brendiranje, obuka osoblja i rezervni dijelovi.'
+  tagline: Resorts & Hotels
+  title: 'Turn Your Waterfront Into a Revenue Centre<br />With Premium pool Fleets'
+  subtitle: 'OLagoon equips resorts worldwide with commercial-grade inflatable pools fleets — from 20-board starter packages to 100+ board flagship programs. Custom branding, staff training, and replacement parts included.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: 'Gosti odmarališta uživaju u SUP daskama na netaknutoj plaži'
+    alt: Resort guests enjoying poolsing on a pristine beach
 
 roi_section:
-  title: 'Prihodovni model SUP dasaka u odmaralištima'
-  subtitle: 'Kako odmarališta ostvaruju 50,000 - 200,000+ USD godišnjeg prihoda od iznajmljivanja SUP dasaka jednom jedinom investicijom.'
+  title: 'The Resort pool Revenue Model'
+  subtitle: 'How resorts generate $50,000 - $200,000+ annual pool rental income with a single investment.'
   metrics:
-    - metric: '50K–200K+ USD'
-      label: 'Godišnji prihod od SUP dasaka'
-      detail: 'Po odmaralištu, ovisno o veličini flote i popunjenosti'
-    - metric: '4–6 mjeseci'
-      label: 'Prosječno razdoblje povrata ulaganja'
-      detail: 'Povrat cijele investicije u flotu unutar jedne sezone'
+    - metric: '$50K–$200K+'
+      label: Annual pool Revenue
+      detail: Per resort, based on fleet size and occupancy
+    - metric: '4–6 Months'
+      label: Average Payback Period
+      detail: Recoup full fleet investment within one season
     - metric: '40%'
-      label: 'Povećanje prihoda'
-      detail: 'Prosječno povećanje nakon prelaska na OLagoon flote'
+      label: Revenue Increase
+      detail: Average boost after switching to OLagoon fleets
     - metric: '500+'
-      label: 'Ciklusa iznajmljivanja po dasci'
-      detail: 'Trajnost komercijalne klase za svakodnevnu upotrebu'
+      label: Rental Cycles Per Board
+      detail: Commercial-grade durability for daily use
 
 packages:
-  title: 'Sustav paketa za odmarališta'
-  subtitle: 'Odaberite paket koji odgovara kapacitetu vaših gostiju i ciljevima prihoda. Svi paketi uključuju 12-mjesečno jamstvo i CE certifikat.'
+  title: Resort Package System
+  subtitle: 'Choose the package that fits your guest capacity and revenue goals. All packages include 12-month warranty and CE certification.'
   items:
-    - name: 'Početni paket'
-      tagline: 'Za butik odmarališta, do 20 gostiju dnevno'
+    - name: Starter Package
+      tagline: 'For boutique resorts, up to 20 guests/day'
       features:
-        - '20 SUP dasaka (3 veličine za odrasle i djecu)'
-        - '20 vesala (podesiva) + 20 spasilačkih prsluka'
-        - '4 dvostruke pumpe (električne po želji)'
-        - '2 stalka za pohranu + komplet za popravak'
-        - 'Tisak prilagođenog logotipa na daskama'
-        - '12-mjesečno jamstvo + CE certifikat'
-      revenue: 'Potencijal godišnjeg prihoda 50K–80K USD'
-      cta_text: 'Nabavite početni paket'
-    - name: 'Premium paket'
-      tagline: 'Za velika odmarališta, 50-100 gostiju dnevno'
+        - '20 pools (3 sizes for adults/kids)'
+        - '20 paddles (adjustable) + 20 life vests'
+        - '4 dual-action pumps (electric optional)'
+        - '2 storage racks + repair kit'
+        - 'Custom logo print on boards'
+        - '12-month warranty + CE certified'
+      revenue: '$50K–$80K annual revenue potential'
+      cta_text: 'Get Starter Package'
+    - name: Premium Package
+      tagline: 'For large resorts, 50-100 guests/day'
       features:
-        - '50 SUP dasaka (5 veličina, miješana flota)'
-        - '50 vesala + 50 spasilačkih prsluka'
-        - '10 dvostrukih pumpi + 2 električne pumpe'
-        - '5 stalaka za pohranu + 2 kolica'
-        - 'Potpuno prilagođeno brendiranje (daske, vesla, torbe)'
-        - 'Obuka osoblja (online)'
-        - 'Otprema rezervnih dijelova u 48 sati'
-        - '12-mjesečno jamstvo + CE certifikat'
-      revenue: 'Potencijal godišnjeg prihoda 120K–200K+ USD'
+        - '50 pools (5 sizes, mixed fleet)'
+        - '50 paddles + 50 life vests'
+        - '10 dual-action pumps + 2 electric pumps'
+        - '5 storage racks + 2 roller carts'
+        - 'Full custom branding (boards, paddles, bags)'
+        - 'Staff training session (online)'
+        - '48-hour replacement parts dispatch'
+        - '12-month warranty + CE certified'
+      revenue: '$120K–$200K+ annual revenue potential'
       popular: true
-      cta_text: 'Nabavite premium paket'
-    - name: 'Flagship paket'
-      tagline: 'Za ultra-premium odmarališta, 100+ gostiju dnevno'
+      cta_text: 'Get Premium Package'
+    - name: Flagship Package
+      tagline: 'For ultra-premium resorts, 100+ guests/day'
       features:
-        - '100+ SUP dasaka (puni raspon veličina)'
-        - 'Kompletan set dodataka (vesla, prsluci, pumpe, kolica)'
-        - 'Obuka osoblja na licu mjesta (2 dana)'
-        - 'Namjenski voditelj računa'
-        - 'Prioritetni rezervni dijelovi (otprema u 24 sata)'
-        - 'Potpuno prilagođeno brendiranje (daske + dodaci)'
-        - 'Marketinški foto/video paket'
-        - '24-mjesečno jamstvo + CE certifikat'
-      revenue: 'Potencijal godišnjeg prihoda 200K+ USD'
-      cta_text: 'Nabavite flagship paket'
+        - '100+ pools (full size range)'
+        - 'Complete accessory set (paddles, vests, pumps, carts)'
+        - 'On-site staff training (2 days)'
+        - 'Dedicated account manager'
+        - 'Priority replacement parts (24h dispatch)'
+        - 'Full custom branding (boards + accessories)'
+        - 'Marketing photo/video package'
+        - '24-month warranty + CE certified'
+      revenue: '$200K+ annual revenue potential'
+      cta_text: 'Get Flagship Package'
 
 case_study:
-  quote: 'Od prelaska na OLagoon prihod od iznajmljivanja SUP dasaka porastao nam je 40%. Troškovi zamjene dasaka pali su 60%. Cijelu investiciju u flotu vratili smo za 4 mjeseca.'
-  author: 'Voditelj aktivnosti na vodi'
-  location: 'odmaralište s 5 zvjezdica, Maldivi'
+  quote: 'Since switching to OLagoon, our pool rental revenue increased 40%. Board replacement costs dropped 60%. We recouped our full fleet investment in 4 months.'
+  author: 'Water Activities Manager'
+  location: '5-star resort, Maldives'
   results:
-    - label: 'Rast prihoda'
+    - label: 'Revenue Growth'
       value: '+40%'
-    - label: 'Smanjenje troškova'
+    - label: 'Cost Reduction'
       value: '-60%'
-    - label: 'Razdoblje povrata'
-      value: '4 mjeseca'
+    - label: 'Payback Period'
+      value: '4 Months'
 
 features:
-  title: 'Zašto odmarališta odabiru OLagoon'
-  subtitle: 'Trajnost komercijalne klase, globalna logistika i partner koji razumije ugostiteljstvo.'
+  title: Why Resorts Choose OLagoon
+  subtitle: 'Commercial-grade durability, global logistics, and a partner who understands hospitality.'
   items:
-    - title: '500+ ciklusa iznajmljivanja'
-      description: 'Svaka se daska ispituje da preživi 500+ ciklusa iznajmljivanja u slanoj vodi, suncu i pijesku.'
+    - title: '500+ Rental Cycles'
+      description: 'Every board is tested to survive 500+ rental cycles in saltwater, sun, and sand.'
       icon: 'tabler:shield-check'
-    - title: 'Otprema dijelova u 48 h'
-      description: 'Rezervni dijelovi šalju se u roku od 48 sati — vaš prihod od iznajmljivanja nikada ne staje.'
+    - title: '48h Parts Dispatch'
+      description: 'Replacement parts shipped within 48 hours — your rental revenue never stops.'
       icon: 'tabler:truck-delivery'
-    - title: 'Prilagođeno brendiranje'
-      description: 'Uskladite identitet svog odmarališta prilagođenim bojama i logotipom na svakoj dasci.'
+    - title: 'Custom Branding'
+      description: 'Match your resort identity with custom colors and logo on every board.'
       icon: 'tabler:palette'
-    - title: 'Obuka osoblja'
-      description: 'Online programi obuke i obuka na licu mjesta za vaš tim za aktivnosti.'
+    - title: 'Staff Training'
+      description: 'Online and on-site training programs for your activities team.'
       icon: 'tabler:school'
-    - title: 'Globalna logistika'
-      description: 'Otprema u 50+ zemalja s opcijama konsolidiranog tereta.'
+    - title: 'Global Logistics'
+      description: 'Shipping to 50+ countries with consolidated freight options.'
       icon: 'tabler:world'
-    - title: 'CE certifikat'
-      description: 'Sva oprema nosi CE certifikat, ISO 9001:2015 — zajamčena sigurnost i kvaliteta.'
+    - title: 'CE Certified'
+      description: 'All equipment CE certified, ISO 9001:2015 — safety and quality guaranteed.'
       icon: 'tabler:certificate'
 
 cta:
-  title: 'Spremni pretvoriti svoju obalu u centar prihoda?'
-  subtitle: 'Zatražite ponudu za paket za odmaralište ili preuzmite naš potpuni katalog za odmarališta.'
+  title: 'Ready to turn your waterfront into a revenue centre?'
+  subtitle: 'Get your resort package quote or download our complete resort catalog.'
   actions:
-    - text: 'Nabavite paket za odmaralište'
+    - text: 'Get Resort Package'
       href: '/contact/?package=resort'
       variant: 'primary'
-    - text: 'Preuzmite katalog za odmarališta'
+    - text: 'Download Resort Catalog'
       href: '/resources/download-catalog/'
       variant: 'secondary'

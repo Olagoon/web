@@ -1,158 +1,158 @@
 meta:
-  title: 'Kisah Kami — Produsen SUP Tiup | {SITE}'
-  description: 'Dari workshop pesisir menjadi produsen marinir global: kisah olagoon merancang kebebasan di air dengan pabrik bersertifikat seluas 12.000 m².'
+  title: 'Our Story — inflatable pools Manufacturer | {SITE}'
+  description: 'From a coastal workshop to a global marine manufacturer: the olagoon story of engineering freedom on water with a 12,000 m² certified factory.'
   keywords:
-    - 'sejarah olagoon'
-    - 'merek olagoon'
-    - 'produsen sup tiup'
-    - 'produsen SUP tiup'
+    - 'olagoon history'
+    - 'olagoon brand'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pools manufacturer'
 hero:
-  tagline: 'Kisah Kami'
-  title: 'olagoon — Merancang Kebebasan Di Atas Air'
-  subtitle: 'Dari workshop pesisir menjadi produsen marinir global — perjalanan kami dibangun di atas keyakinan yang teguh: kendaraan air harus direkayasa seolah-olah penting, karena memang demikian.'
+  tagline: Our Story
+  title: 'olagoon — Engineering Freedom On Water'
+  subtitle: 'From a coastal workshop to a global marine manufacturer — our journey is built on a stubborn belief: watercraft should be engineered like they matter, because they do.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: pabrik olagoon dan fasilitas manufaktur marinir di Qingdao
+    alt: olagoon factory and marine manufacturing facility in Qingdao
 
 stats:
-  title: 'olagoon dalam Angka'
+  title: olagoon by the Numbers
   stats:
-    - title: 'Didirikan'
+    - title: Founded
       amount: 2012
-    - title: 'Fasilitas'
-      amount: '12.000 m²'
-    - title: 'Negara yang Dilayani'
+    - title: Facility
+      amount: '12,000 m²'
+    - title: Countries Served
       amount: '50+'
-    - title: 'Kapasitas Tahunan'
-      amount: '15.000+ unit'
-    - title: 'Karyawan'
+    - title: Annual Capacity
+      amount: '15,000+ units'
+    - title: Employees
       amount: '200+'
-    - title: 'Insinyur R&D'
+    - title: R&D Engineers
       amount: '14+'
 
 timeline:
   - year: '2012'
-    title: 'Fondasi Manufaktur Marinir'
-    body: 'olagoon berawal sebagai workshop kendaraan air khusus di Qingdao, Tiongkok, yang berkomitmen pada keahlian kerajinan marinir dan manufaktur kendaraan air. Fokus awal adalah membangun produk tiup yang andal melalui pengalaman rekayasa praktis dan disiplin manufaktur.'
+    title: 'Marine Manufacturing Foundation'
+    body: 'olagoon began as a specialized watercraft workshop in Qingdao, China, committed to marine craftsmanship and watercraft manufacturing. The early focus was building reliable inflatable products through practical engineering experience and manufacturing discipline.'
   - year: '2015'
-    title: 'Ekspor Pertama & Sertifikasi CE'
-    body: 'Pesanan ekspor awal menjangkau Jepang dan Korea. Sertifikasi CE diraih untuk lini produk inti, menandai masuknya olagoon ke pasar internasional. Perusahaan mulai melayani pengguna komersial dan rekreasi di luar Tiongkok.'
+    title: 'First Export & CE Certification'
+    body: "Initial export orders reached Japan and Korea. CE certification was achieved for core product lines, marking olagoon's entry into international markets. The company began serving commercial and recreational users beyond China."
   - year: '2018'
-    title: 'Ekspansi Pabrik'
-    body: 'Pindah ke fasilitas produksi seluas 12.000 m². Menambahkan lini las RF dan kapasitas produksi drop-stitch, memungkinkan manufaktur skala lebih besar dan sistem pengendalian kualitas yang lebih baik.'
+    title: 'Factory Expansion'
+    body: 'Relocated to a 12,000 m² production facility. Added RF welding lines and drop-stitch production capacity, enabling larger-scale manufacturing and improved quality control systems.'
   - year: '2020'
-    title: 'Pusat R&D Didirikan'
-    body: 'Membuka pusat R&D khusus dengan laboratorium kain PVC, tangki uji hidrodinamika, dan studio simulasi CAD/FEA. Pengembangan produk diperluas dengan fokus pada konstruksi ringan, daya tahan yang lebih baik, dan desain berpusat pada pengguna.'
+    title: 'R&D Center Established'
+    body: 'Opened a dedicated R&D center with PVC fabric lab, hydrodynamic test tank, and CAD/FEA simulation studio. Product development expanded to focus on lightweight construction, improved durability, and user-centered design.'
   - year: '2022'
-    title: 'Sertifikasi & Pertumbuhan Global'
-    body: 'Meraih sertifikasi ISO 9001. Berkembang menjadi 14 insinyur R&D dan 200+ pekerja. Produk menjangkau pelanggan di Eropa, Amerika, dan Asia-Pasifik melalui kemitraan distributor dan ko-brand.'
+    title: 'Certification & Global Growth'
+    body: 'Achieved ISO 9001 certification. Expanded to 14 R&D engineers and 200+ workers. Products reached customers across Europe, Americas, and Asia-Pacific through distributor and co-brand partnerships.'
   - year: '2024'
-    title: 'Studio Inovasi & Desain'
-    body: 'Meluncurkan studio desain dan inovasi layanan penuh untuk proyek ko-brand kustom, dari konsep hingga produksi. Memperkuat aplikasi marinir profesional termasuk penyelamatan, komersial, dan kontrak pemerintah.'
+    title: 'Innovation & Design Studio'
+    body: 'Launched full-service design and innovation studio for custom co-brand projects, from concept to production. Strengthened professional marine applications including rescue, commercial, and government contracts.'
   - year: '2026'
-    title: 'Membangun Masa Depan Eksplorasi Air'
-    body: 'Saat ini, olagoon terus mengembangkan sistem SUP dan aksesori marinir — menghubungkan orang dan organisasi dengan perairan dunia. 50+ negara dilayani, kapasitas tahunan 15.000+ unit.'
+    title: 'Building The Future Of Water Exploration'
+    body: "Today, olagoon continues to develop pool systems and marine accessories — connecting people and organizations with the world's waters. 50+ countries served, 15,000+ units annual capacity."
 
 content_founding:
-  tagline: 'Awal Mula'
-  title: 'Lahir di Tepi Laut'
-  subtitle: 'olagoon dimulai dari workshop pesisir di Qingdao dengan satu papan dan sebuah visi: membangun kendaraan air tiup yang mampu menghadapi kondisi marinir sesungguhnya.'
+  tagline: The Beginning
+  title: 'Born on the Waterfront'
+  subtitle: 'OLagoon started in a Qingdao workshop in 2012 with one pool and a vision: to build inflatable pools that could handle real family use, season after season.'
   paragraphs:
-    - 'Pada 2012, pendiri kami melihat celah di pasar — sebagian besar kendaraan air tiup terjangkau namun tidak dapat diandalkan, atau berkualitas tinggi namun sangat mahal. Mereka percaya ada ruang bagi produsen yang menghadirkan kualitas sekaligus nilai.'
-    - 'Lambung pertama dibangun dengan tangan, diuji di perairan lokal, dan disempurnakan berdasarkan masukan nyata dari nelayan dan operator komersial kecil. Siklus masukan itu — membangun, menguji, mendengarkan, memperbaiki — tetap menjadi inti filosofi rekayasa kami hingga hari ini.'
-    - 'Pada 2015, kabar menyebar melampaui Qingdao. Distributor internasional mulai meminta sampel. Yang berawal sebagai workshop lokal mulai menjadi pemasok global.'
+    - 'In 2012, our founders saw a gap in the market — most inflatable watercraft were either affordable but unreliable, or high-quality but prohibitively expensive. They believed there was room for a manufacturer that delivered both quality and value.'
+    - 'The first hull was built by hand, tested in local waters, and refined based on real feedback from fishermen and small commercial operators. That feedback loop — build, test, listen, improve — remains at the core of our engineering philosophy today.'
+    - 'By 2015, word had spread beyond Qingdao. International distributors began requesting samples. What started as a local workshop was becoming a global supplier.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: workshop produksi awal olagoon dan manufaktur
+    alt: olagoon early production workshop and manufacturing
 
 content_growth:
-  tagline: 'Pertumbuhan & Inovasi'
-  title: 'Dari Workshop menjadi Fasilitas 12.000 m²'
-  subtitle: 'Investasi berkelanjutan dalam manusia, peralatan, dan proses telah mengubah olagoon menjadi fasilitas manufaktur marinir modern.'
+  tagline: Growth & Innovation
+  title: 'From Workshop to 12,000 m² Facility'
+  subtitle: 'Continuous investment in people, equipment, and process has transformed olagoon into a modern marine manufacturing facility.'
   paragraphs:
-    - 'Seiring meningkatnya permintaan, fasilitas kami ikut berkembang. Kami berevolusi dari workshop kecil menjadi pabrik seluas 12.000 m² dengan lini produksi khusus untuk papan SUP dan aksesori.'
-    - 'Kami berinvestasi dalam mesin potong CNC, peralatan las frekuensi tinggi, lini produksi drop stitch, dan rangkaian pengujian yang komprehensif — memungkinkan kami mengendalikan setiap aspek kualitas produksi.'
-    - 'Saat ini, tim kami yang beranggotakan 200+ orang mencakup insinyur marinir, ilmuwan material, spesialis pengendalian kualitas, dan pengrajin terampil — banyak yang telah bersama olagoon sejak hari-hari awal.'
+    - 'As demand grew, so did our facility. We expanded from a small workshop to a 12,000 m² factory with dedicated production lines for pools and accessories.'
+    - 'We invested in CNC cutting machines, high-frequency welding equipment, drop stitch production lines, and comprehensive testing rigs — allowing us to control every aspect of production quality.'
+    - 'Today, our team of 200+ includes marine engineers, material scientists, quality control specialists, and skilled craftspeople — many of whom have been with olagoon since the early days.'
 
 philosophy:
-  tagline: 'Filosofi Merek'
-  title: 'Merancang Kebebasan Di Atas Air'
-  body: 'Kebebasan di atas air bukan hanya tentang pergerakan. Ia merepresentasikan penemuan tempat baru, penciptaan pengalaman luar ruangan, koneksi manusia dengan alam, dan memungkinkan misi profesional. Rekayasa membuat kebebasan itu menjadi mungkin.'
+  tagline: 'Brand Philosophy'
+  title: 'Engineering Freedom On Water'
+  body: 'Freedom on water is not only about movement. It represents discovering new places, creating outdoor experiences, connecting people with nature, and enabling professional missions. Engineering makes that freedom possible.'
   pillars:
-    - title: 'Keandalan Utama'
-      body: 'Lingkungan air menuntut kepercayaan. Produk olagoon dirancang mengutamakan stabilitas, daya tahan, keselamatan, dan performa yang konsisten.'
-    - title: 'Desain Berpusat pada Manusia'
-      body: 'Produk harus melayani manusia, bukan teknologi. Setiap keputusan desain dimulai dengan memahami bagaimana orang menggunakan kendaraan air, ke mana mereka menjelajah, dan tantangan apa yang mereka hadapi.'
-    - title: 'Eksplorasi yang Terjangkau'
-      body: 'Air tidak boleh hanya dimiliki para ahli. olagoon menciptakan peralatan yang memungkinkan lebih banyak orang merasakan sungai, danau, laut, dan lingkungan pesisir dengan aman.'
-    - title: 'Inovasi Berkelanjutan'
-      body: 'Inovasi bukan hanya menciptakan produk baru. Inovasi adalah menyempurnakan setiap detail — material, struktur, manufaktur, dan pengalaman pengguna.'
+    - title: 'Reliability First'
+      body: 'Water environments demand trust. olagoon products are designed around stability, durability, safety, and consistent performance.'
+    - title: 'Human-Centered Design'
+      body: 'Products should serve people, not technology. Every design decision begins with understanding how people use watercraft, where they explore, and what challenges they face.'
+    - title: 'Accessible Exploration'
+      body: 'Water should not belong only to experts. olagoon creates equipment that allows more people to safely experience rivers, lakes, oceans, and coastal environments.'
+    - title: 'Continuous Innovation'
+      body: 'Innovation is not only creating new products. It is improving every detail — materials, structures, manufacturing, and user experience.'
 
 engineeringDna:
-  tagline: 'DNA Rekayasa'
-  title: 'Bagaimana olagoon Menciptakan Produk'
+  tagline: 'Engineering DNA'
+  title: 'How olagoon Creates Products'
   areas:
-    - title: 'Ilmu Material'
-      body: 'olagoon berfokus pada pemilihan material yang sesuai untuk berbagai lingkungan marinir. Pertimbangan utama meliputi ketahanan abrasi, ketahanan UV, stabilitas tekanan, dan daya tahan jangka panjang.'
-      items: ['Ketahanan Abrasi', 'Ketahanan UV', 'Stabilitas Tekanan', 'Daya Tahan Jangka Panjang']
-    - title: 'Rekayasa Struktural'
-      body: 'Kendaraan air tiup membutuhkan keseimbangan presisi antara kekakuan, berat, portabilitas, dan stabilitas. Rekayasa olagoon berfokus pada optimalisasi faktor-faktor tersebut melalui teknologi inti drop-stitch dan konstruksi sambungan canggih.'
-      items: ['Kekakuan', 'Optimalisasi Berat', 'Portabilitas', 'Stabilitas']
-    - title: 'Presisi Manufaktur'
-      body: 'Setiap produk melewati proses yang terkendali: penyiapan material, pemotongan presisi, pengelasan dan perekatan, perakitan, inspeksi kualitas, dan verifikasi performa.'
-      items: ['Siap Material', 'Pemotongan Presisi', 'Pengelasan & Perekatan', 'Perakitan & QC']
-    - title: 'Rekayasa Skenario Pengguna'
-      body: 'Produk dikembangkan berdasarkan aplikasi nyata — rekreasi, petualangan, dan penggunaan profesional — memastikan setiap desain memenuhi tuntutan spesifik lingkungan yang dituju.'
-      items: ['Rekreasi', 'Petualangan', 'Profesional', 'Komersial']
+    - title: 'Material Science'
+      body: 'olagoon focuses on selecting appropriate materials for different marine environments. Key considerations include abrasion resistance, UV resistance, pressure stability, and long-term durability.'
+      items: ['Abrasion Resistance', 'UV Resistance', 'Pressure Stability', 'Long-Term Durability']
+    - title: 'Structural Engineering'
+      body: 'Inflatable watercraft require precise balance between rigidity, weight, portability, and stability. olagoon engineering focuses on optimizing these factors through drop-stitch core technology and advanced seam construction.'
+      items: ['Rigidity', 'Weight Optimization', 'Portability', 'Stability']
+    - title: 'Manufacturing Precision'
+      body: 'Every product goes through controlled processes: material preparation, precision cutting, welding and bonding, assembly, quality inspection, and performance verification.'
+      items: ['Material Prep', 'Precision Cutting', 'Welding & Bonding', 'Assembly & QC']
+    - title: 'User Scenario Engineering'
+      body: 'Products are developed around real applications — recreation, adventure, and professional use — ensuring each design meets the specific demands of its intended environment.'
+      items: ['Recreation', 'Adventure', 'Professional', 'Commercial']
 
 trustSignals:
-  tagline: 'Sinyal Kepercayaan'
-  title: 'Mengapa olagoon Adalah Mitra yang Andal'
+  tagline: 'Trust Signals'
+  title: 'Why olagoon Is A Reliable Partner'
   manufacturing:
-    title: 'Kemampuan Manufaktur'
-    body: 'Fasilitas produksi seluas 12.000 m² dengan 200+ pekerja terampil dan 14+ insinyur R&D. Sistem manajemen mutu bersertifikat ISO 9001. Output tahunan 15.000+ unit kendaraan air yang melayani 50+ negara.'
+    title: 'Manufacturing Capability'
+    body: '12,000 m² production facility with 200+ skilled workers and 14+ R&D engineers. ISO 9001 certified quality management system. Annual output of 15,000+ watercraft units serving 50+ countries.'
     stats:
-      - label: 'Luas Fasilitas'
-        value: '12.000 m²'
-      - label: 'Tenaga Kerja'
+      - label: 'Facility Size'
+        value: '12,000 m²'
+      - label: 'Workforce'
         value: '200+'
-      - label: 'Insinyur R&D'
+      - label: 'R&D Engineers'
         value: '14+'
-      - label: 'Kapasitas Tahunan'
-        value: '15.000+'
+      - label: 'Annual Capacity'
+        value: '15,000+'
   quality:
-    title: 'Komitmen Kualitas'
-    body: 'Dari inspeksi material hingga pengujian akhir, olagoon menjalankan proses kualitas yang sistematis untuk menghadirkan produk marinir yang dapat diandalkan. Setiap unit menjalani pengujian tekanan, inspeksi sambungan, dan verifikasi performa sebelum dikirim.'
+    title: 'Quality Commitment'
+    body: 'From material inspection to final testing, olagoon maintains systematic quality processes to deliver dependable marine products. Every unit undergoes pressure testing, seam inspection, and performance verification before shipping.'
     items:
-      - 'Bersertifikat CE — Semua produk memenuhi standar keselamatan Eropa'
-      - 'ISO 9001:2015 — Sistem manajemen mutu tersertifikasi'
-      - 'Berlabel UKCA — Kesesuaian pasar Inggris'
-      - 'Patuh FCC — Kepatuhan komponen elektronik AS'
+      - 'CE Certified — All products meet European safety standards'
+      - 'ISO 9001:2015 — Quality management system certified'
+      - 'UKCA Marked — UK market conformity'
+      - 'FCC Compliant — US electronic component compliance'
   global:
-    title: 'Kehadiran Global'
-    body: 'olagoon melayani pelanggan di berbagai pasar global, mendukung distributor, merek luar ruangan, dan pengguna marinir profesional di 50+ negara di Eropa, Asia-Pasifik, Amerika, Timur Tengah, dan Afrika.'
+    title: 'Global Presence'
+    body: 'olagoon serves customers across multiple global markets, supporting distributors, outdoor brands, and professional marine users in 50+ countries across Europe, Asia-Pacific, Americas, Middle East, and Africa.'
 
 comparison:
-  tagline: 'Posisi Merek'
-  title: 'olagoon di Pasar'
-  position: 'Merek rekreasi marinir berfokus rekayasa yang memadukan keahlian produksi tiup dengan koleksi ko-brand, solusi kustom, dan pengalaman manufaktur yang mendalam.'
+  tagline: 'Brand Positioning'
+  title: 'olagoon in the Market'
+  position: 'Engineering-focused marine recreation brand combining inflatable production expertise with co-branded collections, custom solutions, and deep manufacturing experience.'
   strengths:
-    - 'Keahlian rekayasa kendaraan air tiup'
-    - 'Kemampuan ko-brand dan private-label penuh'
-    - 'Pengembangan dan desain produk kustom'
-    - 'Fasilitas produksi 12.000 m² bersertifikat ISO 9001'
+    - 'Inflatable watercraft engineering expertise'
+    - 'Full co-brand and private-label capability'
+    - 'Custom product development and design'
+    - '12,000 m² ISO 9001 certified production facility'
   bestFor:
-    - 'Pengguna rekreasi luar ruangan yang mencari kendaraan air tiup yang andal'
-    - 'Operator marinir yang membutuhkan peralatan kelas komersial'
-    - 'Mitra merek yang mencari koleksi ko-brand'
-    - 'Organisasi penyelamatan dan patroli profesional'
+    - 'Outdoor recreation users seeking reliable inflatable watercraft'
+    - 'Marine operators requiring commercial-grade equipment'
+    - 'Brand partners seeking co-branded collections'
+    - 'Professional rescue and patrol organizations'
 
 cta:
-  title: 'Siap bermitra dengan produsen<br />yang peduli kualitas?'
-  subtitle: 'Hubungi tim kami untuk membahas proyek ko-brand atau private-label Anda — tanpa tekanan pesanan minimum, hanya saran yang jujur.'
+  title: 'Ready to partner with a manufacturer<br />that cares about quality?'
+  subtitle: 'Contact our team to discuss your co-brand or private-label project — no minimum order pressure, just honest advice.'
   actions:
     - variant: primary
-      text: 'Mulai percakapan'
+      text: Start a conversation
       href: /contact/
-    - text: 'Jelajahi produk kami'
+    - text: Explore our products
       href: /products/

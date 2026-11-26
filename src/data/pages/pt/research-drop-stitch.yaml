@@ -1,65 +1,68 @@
 meta:
-  title: Como Funciona o Drop Stitch — A Engenharia por Trás dos Núcleos Rígidos Infláveis | {SITE}
-  description: 'Mergulho profundo na tecnologia drop stitch: como milhares de fios internos transformam o PVC flexível em um núcleo rígido e de alta pressão capaz de suportar 15-20 PSI. Métodos de construção, materiais, indicadores de qualidade e aplicações em SUPs e caiaques.'
-back_text: Voltar para Pesquisa
-hero:
-  tagline: Tecnologia
-  title: Como Funciona o Drop Stitch — A Engenharia por Trás dos Núcleos Rígidos Infláveis
-  subtitle: Leitura de 8 min
-content_html: |-
-  <h2>O que é o Drop Stitch?</h2>
-  <p>O drop stitch (também designado "tecido drop-stitch" ou "núcleo drop-stitch") é um método de construção em que milhares de fios individuais de poliéster ligam as camadas superior e inferior de um invólucro de tecido. Quando o invólucro é insuflado, estes fios funcionam como elementos de tração internos — impedem que os painéis superior e inferior se projetem para fora numa forma redonda, forçando o painel a permanecer plano e rígido.</p>
-  <p>O resultado é uma estrutura leve e portátil que suporta 15 – 20 PSI de pressão interna — comparável à rigidez de uma prancha de casco rígido, mas totalmente desinsuflável para armazenamento e transporte.</p>
+  title: 'How Drop Stitch Works — The Engineering Behind Inflatable Rigid Cores | {SITE}'
+  description: 'Deep dive into drop stitch technology: how thousands of internal threads turn flexible PVC into a rigid, high-pressure core capable of 15-20 PSI. Construction methods, materials, quality indicators, and applications across the OLagoon pool lineup.'
+back_text: 'Back to Research'
 
-  <h2>Como Funciona: A Física</h2>
-  <p>Numa estrutura insuflável convencional (como um balão ou um colchão de ar), a pressão interna do ar empurra igualmente em todas as direções. Sem contenção interna, a estrutura torna-se cilíndrica ou esférica. O drop stitch resolve isto através de reforço por tração:</p>
+hero:
+  tagline: 'Technology'
+  title: 'How Drop Stitch Works — The Engineering Behind Inflatable Rigid Cores'
+  subtitle: '8 min read'
+
+content_html: |
+  <h2>What Is Drop Stitch?</h2>
+  <p>Drop stitch (also called "drop-stitch fabric" or "drop-stitch core") is a construction method in which thousands of individual polyester threads connect the top and bottom layers of a fabric shell. When the shell is inflated, these threads act as internal tension members — they prevent the top and bottom panels from bulging outward into a round shape, forcing the panel to remain flat and rigid.</p>
+  <p>The result is a lightweight, portable structure that can withstand 15 – 20 PSI of internal pressure — comparable to the rigidity of a rigid pool wall but fully deflatable for storage and transport.</p>
+
+  <h2>How It Works: The Physics</h2>
+  <p>In a conventional inflatable structure (like a balloon or an air mattress), the internal air pressure pushes equally in all directions. Without internal restraint, the structure becomes cylindrical or spherical. Drop stitch solves this by introducing tensile reinforcement:</p>
   <ul>
-    <li>Milhares de fios ligam as camadas superior e inferior do tecido</li>
-    <li>Quando insuflado, a pressão do ar tenta separar a parte superior da inferior</li>
-    <li>Os fios resistem a essa separação, transferindo a carga para tração ao longo do eixo do fio</li>
-    <li>O resultado é um painel plano e rígido que resiste à flexão</li>
+    <li>Thousands of threads connect the top and bottom fabric layers</li>
+    <li>When inflated, the air pressure tries to push the top and bottom apart</li>
+    <li>The threads resist this separation, transferring the load into tension along the thread axis</li>
+    <li>The result is a flat, rigid panel that resists bending</li>
   </ul>
 
-  <h2>Processo de Construção</h2>
+  <h2>Construction Process</h2>
   <ol>
-    <li><strong>Tecelagem:</strong> Os fios de poliéster são tecidos simultaneamente em duas camadas separadas de tecido base (normalmente poliéster revestido a PVC de 1,100 DTEX ou 1,680 DTEX). Os fios são tecidos em laçada entre as camadas num ângulo de 90&deg;.</li>
-    <li><strong>Revestimento:</strong> O tecido base tecido é revestido com PVC (ou ocasionalmente TPU) através de um processo de revestimento por espátula ou por cilindro. Isto sela os fios e cria a membrana estanque ao ar.</li>
-    <li><strong>Ligação de camadas:</strong> O núcleo drop-stitch é ligado a camadas exteriores laminadas (normalmente PVC de 0.9 mm ou 1.2 mm) através de laminação a quente ou adesivo.</li>
-    <li><strong>Soldadura:</strong> As cintas laterais (rail bands) são soldadas ao longo dos rebordos com soldadura a ar quente, soldadura RF ou soldadura de alta frequência, para criar as paredes laterais da prancha.</li>
-    <li><strong>Instalação de válvulas:</strong> São instaladas válvulas Boston ou válvulas Halkey-Roberts, normalmente com um mecanismo de alívio de pressão para evitar a sobre-insuflação.</li>
+    <li><strong>Weaving:</strong> Polyester threads are woven simultaneously into two separate layers of base fabric (typically 1,100 DTEX or 1,680 DTEX PVC-coated polyester). The threads are loop-woven between the layers at a 90&deg; angle.</li>
+    <li><strong>Coating:</strong> The woven base fabric is coated with PVC (or occasionally TPU) using a knife-coating or calendar-coating process. This seals the threads and creates the air-tight membrane.</li>
+    <li><strong>Layer bonding:</strong> The drop-stitch core is bonded to outer laminated layers (typically 0.9 mm or 1.2 mm PVC) using heat lamination or adhesive.</li>
+    <li><strong>Welding:</strong> Rail bands are welded along the edges using hot air welding, RF welding, or high-frequency welding to create the side walls of the pool.</li>
+    <li><strong>Valve installation:</strong> Boston valves or Halkey-Roberts valves are installed, typically with a pressure relief mechanism to prevent over-inflation.</li>
   </ol>
 
-  <h2>Principais Indicadores de Qualidade</h2>
+  <h2>Key Quality Indicators</h2>
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-gray-100">
-        <th class="p-3 text-left font-semibold text-gray-900 border">Parâmetro</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Nível de Entrada</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Parameter</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Entry Level</th>
         <th class="p-3 text-left font-semibold text-gray-900 border">Premium</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="p-3 border">Densidade de fios</td><td class="p-3 border">1 fio / sq in</td><td class="p-3 border">2 fios / sq in</td></tr>
-      <tr><td class="p-3 border">Tecido base</td><td class="p-3 border">1,100 DTEX</td><td class="p-3 border">1,680 DTEX</td></tr>
-      <tr><td class="p-3 border">Pressão máxima</td><td class="p-3 border">12 – 15 PSI</td><td class="p-3 border">18 – 22 PSI</td></tr>
-      <tr><td class="p-3 border">Espessura do PVC</td><td class="p-3 border">0.6 – 0.9 mm</td><td class="p-3 border">1.0 – 1.2 mm</td></tr>
-      <tr><td class="p-3 border">Construção da cinta</td><td class="p-3 border">Dobrada &amp; colada</td><td class="p-3 border">Soldada &amp; fusionada</td></tr>
+      <tr><td class="p-3 border">Thread density</td><td class="p-3 border">1 thread / sq in</td><td class="p-3 border">2 threads / sq in</td></tr>
+      <tr><td class="p-3 border">Base fabric</td><td class="p-3 border">1,100 DTEX</td><td class="p-3 border">1,680 DTEX</td></tr>
+      <tr><td class="p-3 border">Max pressure</td><td class="p-3 border">12 – 15 PSI</td><td class="p-3 border">18 – 22 PSI</td></tr>
+      <tr><td class="p-3 border">PVC thickness</td><td class="p-3 border">0.6 – 0.9 mm</td><td class="p-3 border">1.0 – 1.2 mm</td></tr>
+      <tr><td class="p-3 border">Rail construction</td><td class="p-3 border">Folded &amp; glued</td><td class="p-3 border">Welded &amp; fusion-bonded</td></tr>
     </tbody>
   </table>
 
-  <h2>Aplicações</h2>
+  <h2>Applications</h2>
   <ul>
-    <li><strong>Pranchas de SUP:</strong> 4" – 6" de espessura, 15 – 20 PSI, 1 – 2 fios/sq in</li>
-    <li><strong>Caiaques:</strong> Piso em drop stitch + câmaras laterais insufláveis, piso de 10 – 15 PSI</li>
+    <li><strong>pools:</strong> 4" – 6" thickness, 15 – 20 PSI, 1 – 2 threads/sq in</li>
+    <li><strong>Inflatable docks:</strong> Drop-stitch deck + perimeter chambers, 10 – 15 PSI surface</li>
   </ul>
 
-  <h2>Drop Stitch vs. Deck de Ar (Núcleo de Fibra de Vidro ou Madeira)</h2>
-  <p>As pranchas de casco rígido usam núcleos de espuma EPS com reforço de fibra de vidro ou longarinas de madeira. São mais leves, mais rígidas e mais responsivas — mas não podem ser desinsufladas. O drop stitch troca alguma rigidez por portabilidade total. Para a maioria dos utilizadores recreativos, os SUPs modernos em drop stitch a 20 PSI são indistinguíveis, em rigidez, das pranchas rígidas de nível de entrada.</p>
+  <h2>Drop Stitch vs. Air Deck (Fiberglass or Wood Core)</h2>
+  <p>Rigid pools use steel, resin, or composite panels. They are permanent structures that cannot be moved or stored away. Drop stitch trades permanent installation for full portability. For most families, modern drop-stitch pools at 15 PSI are indistinguishable from entry-level rigid pools in everyday rigidity.</p>
 
-  <h2>Como a OLagoon Utiliza o Drop Stitch</h2>
-  <p>A OLagoon utiliza um núcleo drop-stitch de 1,680 DTEX em toda a sua linha de SUPs, com 2 fios por polegada quadrada e um laminado exterior de PVC de 1.2 mm. As pranchas estão classificadas para 20 PSI e são submetidas a um teste de retenção de pressão de 24–48 horas a 1.25x a pressão nominal antes do envio. As cintas laterais são soldadas a ar quente com fusão de três camadas, e as válvulas de alívio de pressão são padrão em todos os modelos.</p>
+  <h2>How OLagoon Uses Drop Stitch</h2>
+  <p>OLagoon uses a 1,680 DTEX drop-stitch core across its pool lineup, with 16,000 threads per square metre and a 1.2 mm PVC outer laminate. Pools are rated to 18 PSI and undergo a 24–48 hour pressure hold test at 1.25x rated pressure before shipment. Rail bands are hot-air welded with triple-layer fusion, and pressure relief valves are standard across all models.</p>
+
 cta:
-  title: Quer aprender mais sobre ponto rasgado?
-  subtitle: Entre em contato conosco para especificações técnicas e consultas de OEM.
-  button_text: Contate as vendas
+  title: 'Want to learn more about drop stitch?'
+  subtitle: 'Contact us for technical specifications and OEM inquiries.'
+  button_text: 'Contact sales'
   button_link: /contact/

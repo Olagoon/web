@@ -1,123 +1,123 @@
 meta:
-  title: 'B2B kliendilahenduste maatriks | {SITE}'
-  description: 'Täielik OLagoon B2B kliendilahenduste maatriks, mis hõlmab 24 klienditüüpi — välistingimuste idufirmadest merekaitse instituutideni.'
+  title: 'B2B Client Solutions Matrix | {SITE}'
+  description: 'Complete OLagoon B2B client solutions matrix covering 24 customer types — from outdoor startups to marine conservation institutions.'
 
 hero:
-  tagline: 'B2B kliendilahendused'
-  title: '24 B2B lahendust<br />teie äriga sobivad'
-  subtitle: 'Idufirma asutajatest globaalsete levitajateni — leidke täpne OLagoon lahendus, mis on disainitud teie ärimudelile, tööstusele ja eesmärkidele.'
+  tagline: B2B Client Solutions
+  title: '24 B2B Solutions<br />Matched to Your Business'
+  subtitle: 'From startup founders to global distributors — find the exact OLagoon solution designed for your business model, industry, and goals.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
-    alt: 'OLagoon tehas ja tootmisüksus'
+    alt: OLagoon factory and manufacturing facility
 
 solutions:
-  title: 'Kliendilahenduste maatriks'
-  subtitle: 'Iga klienditüüp, nende põhivajadus ja neile disainitud OLagoon lahenduse lehekülg.'
+  title: Client Solutions Matrix
+  subtitle: 'Every customer type, their core need, and the OLagoon solution page designed for them.'
   items:
-    - clientType: 'Välistingimuste idufirma asutaja'
-      need: 'Brändi loomine'
-      solutionPage: 'Ehita oma SUP-bränd'
-      link: /solutions/sup-brand-startup/
-    - clientType: 'Välistingimuste brändihaldur'
-      need: 'Välistingimuste brändi laienemine veespordi turule'
-      solutionPage: 'Laienda välistingimuste bränd veespordi turule'
+    - clientType: Outdoor Startup Founder
+      need: Brand Creation
+      solutionPage: Build Your pool Brand
+      link: /solutions/pool-brand-startup/
+    - clientType: Outdoor Brand Manager
+      need: Outdoor Brand Expansion Into Water Sports
+      solutionPage: Expand Outdoor Brand Into Water Sports
       link: /solutions/expand-outdoor-brand-water-sports/
-    - clientType: 'Surfipoe omanik'
-      need: 'Surfiäri uuendus'
-      solutionPage: 'Too täispuhutav tehnoloogia surfiärisse'
+    - clientType: Surf Shop Owner
+      need: Surf Business Upgrade
+      solutionPage: Bring Inflatable Technology Into Surf Business
       link: /solutions/inflatable-technology-for-surf-business/
-    - clientType: 'Amazoni müüja'
-      need: 'E-kaubanduse kasv'
-      solutionPage: 'Toodete diferentseerimine ja kiire varustus'
-      link: /solutions/ecommerce-sup-brand-development/
-    - clientType: 'Kalapüügivarustuse bränd'
-      need: 'Kalapüügi SUP'
-      solutionPage: 'Loo oma kalapüügi SUP bränd'
-      link: /solutions/create-fishing-sup-brand/
-    - clientType: 'Jooga ja tervise bränd'
-      need: 'Tervisepõhised veetooted'
-      solutionPage: 'SUP-jooga varustuse lahendused'
-      link: /solutions/sup-yoga-wellness-equipment/
-    - clientType: 'Sisulooja bränd'
-      need: 'Influenceri bränd'
-      solutionPage: 'Sisulooja väljaande SUP idufirma'
-      link: /solutions/creator-influencer-sup-brand/
-    - clientType: 'Sõudeklubi asutaja'
-      need: 'Klubilaevastik'
-      solutionPage: 'Kommertslaevastiku SUP'
-      link: /solutions/commercial-sup-fleet/
-    - clientType: 'Rendiäri omanik'
-      need: 'Rendioperatsioonid'
-      solutionPage: 'Vastupidava rendilaevastiku lahendus'
-      link: /solutions/durable-sup-rental-fleet/
-    - clientType: 'Kuurordi tegevuste haldur'
-      need: 'Hotellielamus'
-      solutionPage: 'Kuurordi veetegevuste pakett'
+    - clientType: Amazon Seller
+      need: E-commerce Growth
+      solutionPage: Product Differentiation & Fast Supply
+      link: /solutions/ecommerce-pool-brand-development/
+    - clientType: Fishing Gear Brand
+      need: Fishing pool
+      solutionPage: Create Your Fishing pool Brand
+      link: /solutions/create-fishing-pool-brand/
+    - clientType: Yoga & Wellness Brand
+      need: Wellness Water Products
+      solutionPage: pool Yoga Equipment Solutions
+      link: /solutions/pool-yoga-wellness-equipment/
+    - clientType: Creator Brand
+      need: Influencer Brand
+      solutionPage: Creator Edition pool Startup
+      link: /solutions/creator-influencer-pool-brand/
+    - clientType: Paddle Club Founder
+      need: Club Fleet
+      solutionPage: Commercial pool Fleet
+      link: /solutions/commercial-pool-fleet/
+    - clientType: Rental Business Owner
+      need: Rental Operations
+      solutionPage: Durable Rental Fleet Solution
+      link: /solutions/durable-pool-rental-fleet/
+    - clientType: Resort Activity Manager
+      need: Hotel Experience
+      solutionPage: Resort Water Activity Package
       link: /solutions/resort-water-activity-package/
-    - clientType: 'Veespordi akadeemia'
-      need: 'Koolitus ja haridus'
-      solutionPage: 'SUP akadeemia varustuse programm'
-      link: /solutions/sup-academy-equipment-program/
-    - clientType: 'Kruiisi- ja jahtlaevakompanii'
-      need: 'Jahtlaeva kogemus'
-      solutionPage: 'Luksuslik kaasaskantav SUP-pakett'
-      link: /solutions/luxury-portable-sup-package/
-    - clientType: 'Välistingimuste jaemüüja ostja'
-      need: 'Jaemüügikanal'
-      solutionPage: 'Jaemüügi eramärgise programm'
+    - clientType: Water Sports Academy
+      need: Training & Education
+      solutionPage: pool Academy Equipment Program
+      link: /solutions/pool-academy-equipment-program/
+    - clientType: Cruise & Yacht Company
+      need: Yacht Experience
+      solutionPage: Luxury Portable pool Package
+      link: /solutions/luxury-portable-pool-package/
+    - clientType: Outdoor Retail Buyer
+      need: Retail Channel
+      solutionPage: Retail Private Label Program
       link: /solutions/retail-private-label-program/
-    - clientType: 'Levitaja ja importija'
-      need: 'Piirkondlik levitamine'
-      solutionPage: 'Piirkondlik OEM ja tarneahela partner'
+    - clientType: Distributor & Importer
+      need: Regional Distribution
+      solutionPage: Regional OEM & Supply Chain Partner
       link: /solutions/regional-oem-supply-chain-partner/
-    - clientType: 'Ettevõtte projektiostja'
-      need: 'Ettevõtte üritused'
-      solutionPage: 'Ettevõtte SUP-ürituste pakett'
-      link: /solutions/corporate-sup-event-package/
-    - clientType: 'Veespordi brändihaldur'
-      need: 'Veespordi brändi laienemine'
-      solutionPage: 'Laienda oma veespordi portfelli'
+    - clientType: Corporate Project Buyer
+      need: Corporate Events
+      solutionPage: Corporate pool Event Package
+      link: /solutions/corporate-pool-event-package/
+    - clientType: Water Sports Brand Manager
+      need: Water Sports Brand Expansion
+      solutionPage: Expand Your Water Sports Portfolio
       link: /solutions/expand-your-water-sports-portfolio/
-    - clientType: 'Lemmikloomade seiklusbrändi omanik'
-      need: 'Lemmikloomad välitingimustes'
-      solutionPage: 'Lemmikloomasõbralike sõudelaudade programm'
+    - clientType: Pet Adventure Brand Owner
+      need: Pet Outdoor
+      solutionPage: Pet-Friendly inflatable pool Program
       link: /solutions/pet-friendly-paddle-board-program/
-    - clientType: 'Ranna-vabaaja operaator'
-      need: 'Rannahuvitused'
-      solutionPage: 'Täielikud rannategevuste varustuse lahendused'
+    - clientType: Beach Recreation Operator
+      need: Beach Entertainment
+      solutionPage: Complete Beach Activity Equipment Solutions
       link: /solutions/complete-beach-activity-equipment-solutions/
-    - clientType: 'Veepargi arendaja'
-      need: 'Teemahuvitused'
-      solutionPage: 'Kommertsveepargi SUP-laevastik'
-      link: /solutions/commercial-water-park-sup-fleet/
-    - clientType: 'Privaatsaare ja luksusklubi omanik'
-      need: 'Kõrgklassi eluviis'
-      solutionPage: 'Premium-kohandatud SUP kollektsioon'
-      link: /solutions/premium-custom-sup-collection/
-    - clientType: 'Turismiamet ja avaliku pargi operaator'
-      need: 'Avalikud turismiprojektid'
-      solutionPage: 'Sihtkoha veespordi pakett'
+    - clientType: Water Park Developer
+      need: Theme Entertainment
+      solutionPage: Commercial Water Park pool Fleet
+      link: /solutions/commercial-water-park-pool-fleet/
+    - clientType: Private Island & Luxury Club Owner
+      need: High-End Lifestyle
+      solutionPage: Premium Custom pool Collection
+      link: /solutions/premium-custom-pool-collection/
+    - clientType: Tourism Board & Public Park Operator
+      need: Public Tourism Projects
+      solutionPage: Destination Water Sports Package
       link: /solutions/destination-water-sports-package/
-    - clientType: 'Lasteseikluse ja suvelaagri operaator'
-      need: 'Noorte haridus'
-      solutionPage: 'Lastele avastamise SUP programm'
-      link: /solutions/kids-exploration-sup-program/
-    - clientType: 'Veepääste ja ohutusorganisatsioon'
-      need: 'Professionaalne pääste'
-      solutionPage: 'Professionaalne veepääste SUP süsteem'
-      link: /solutions/professional-water-rescue-sup-system/
-    - clientType: 'Merekaitse ja uurimisinstitutsioon'
-      need: 'Keskkonnauuringud'
-      solutionPage: 'Öko-uuringute ja jälgimise SUP platvorm'
-      link: /solutions/eco-research-monitoring-sup-platform/
+    - clientType: Kids Adventure & Summer Camp Operator
+      need: Youth Education
+      solutionPage: Kids Exploration pool Program
+      link: /solutions/kids-exploration-pool-program/
+    - clientType: Water Rescue & Safety Organization
+      need: Professional Rescue
+      solutionPage: Professional Water Rescue pool System
+      link: /solutions/professional-water-rescue-pool-system/
+    - clientType: Marine Conservation & Research Institution
+      need: Environmental Research
+      solutionPage: Eco Research & Monitoring pool Platform
+      link: /solutions/eco-research-monitoring-pool-platform/
 
 cta:
-  title: 'Pole kindel, milline lahendus teie äriks sobib?'
-  subtitle: 'Kirjeldage oma projekti meie B2B meeskonnale ja me soovitame õige konfiguratsiooni ja hinnad.'
+  title: 'Not sure which solution fits your business?'
+  subtitle: 'Describe your project to our B2B team and we will recommend the right configuration and pricing.'
   actions:
     - variant: primary
-      text: 'Rääkige meie B2B meeskonnaga'
+      text: Talk to Our B2B Team
       href: /contact/?subject=b2b-solutions
     - variant: secondary
-      text: 'Laadige alla kataloog'
+      text: Download Catalog
       href: /resources/download-catalog/

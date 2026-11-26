@@ -1,61 +1,64 @@
 meta:
-  title: 'Centre Média — Presse & Ressources olagoon | {SITE}'
-  description: 'Centre média olagoon : communiqués, photos de presse, logos et ressources pour journalistes de notre entreprise de fabrication de SUP gonflables.'
+  title: 'Media Center — Press & olagoon Resources | {SITE}'
+  description: 'The olagoon media center: press releases, brand assets, and resources from our inflatable pools manufacturing company.'
   keywords:
-    - 'centre média olagoon'
-    - 'presse paddle'
-    - 'communiqués SUP'
-    - 'photos paddle gonflable'
+    - 'olagoon press'
+    - 'pool manufacturer media'
+    - 'inflatable pool press kit'
+    - 'nautical company news'
 hero:
-  tagline: Ressources
-  title: Centre Média
-  subtitle: Télécharger les actifs de marque, images produits, catalogues et vidéos
+  tagline: Resources
+  title: Media Center
+  subtitle: Download brand assets, product imagery, catalogs, and videos
+
 sections:
   - id: product-images
-    title: Images Produits
-    desc: Photos produit haute résolution pour le web, l'impression et la vente au détail.
+    title: Product Images
+    desc: High-resolution product photos for web, print, and retail use.
     items:
-      - Galerie de Planches SUP
-      - Galerie SUP Drop-Stitch
-      - Galerie des SUP Gonflables
-      - Accessoires et Équipements de Sécurité
+      - pools Gallery
+      - Drop-Stitch pools Gallery
+      - inflatable pools Gallery
+      - Accessories & Safety Gear
   - id: logo-brand-kit
-    title: Kit Logo et Marque
-    desc: Fichiers logo olagoon officiels, palette de couleurs, typographie et charte graphique.
+    title: Logo & Brand Kit
+    desc: Official olagoon logo files, colour palette, typography, and brand guidelines.
     items:
-      - Logo Principal (PNG/SVG/EPS)
+      - Primary Logo (PNG/SVG/EPS)
       - Icon Mark
-      - Palette de Couleurs
-      - Spécifications Typographiques
-      - PDF des Directives de Marque
+      - Colour Palette
+      - Typography Specs
+      - Brand Guidelines PDF
   - id: catalogs
-    title: Catalogues PDF
-    desc: Catalogues produits, fiches techniques et documentation technique à télécharger.
+    title: PDF Catalogs
+    desc: Product catalogs, spec sheets, and technical documentation for download.
     items:
-      - Catalogue Produits 2026
-      - Fiche de Capacité OEM/ODM
-      - Brochure Série SUP
-      - Spécifications techniques
+      - 2026 Product Catalog
+      - OEM/ODM Capability Deck
+      - pool Series Brochure
+      - Technical Specifications
   - id: videos
-    title: Vidéos
-    desc: Démos produits, visites d’usine, films de marque et témoignages clients.
+    title: Videos
+    desc: Product demos, factory tours, brand films, and customer testimonials.
     items:
-      - Démo Produits
-      - Visite de l'Usine
+      - Product Demos
+      - Factory Tour
       - Brand Film
-      - Histoires de Clients
-      - Guides Pratiques
-request_access: Demander l'accès →
+      - Customer Stories
+      - How-To Guides
+
+request_access: Request access →
+
 cta:
-  title: Besoin d'aide pour trouver des ressources ?
-  desc: Contactez notre équipe marque pour les demandes d'actifs, partenariats médias ou presse.
+  title: Need help finding assets?
+  desc: Contact our brand team for custom asset requests, media partnerships, or press inquiries.
   links:
     - label: Visit our factory
       href: /factory/
-      desc: Voir notre installation de fabrication de 12 000 m²
+      desc: See our 12,000 sqm manufacturing facility
     - label: Brand guidelines
       href: /brand/
-      desc: Découvrir la marque olagoon
+      desc: Learn about the olagoon brand
     - label: Partner with us
       href: /contact/
-      desc: Demandes OEM, ODM et distribution
+      desc: OEM, ODM, and distribution inquiries

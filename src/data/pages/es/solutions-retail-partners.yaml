@@ -1,97 +1,103 @@
 meta:
-  title: Programa de Socios Minoristas SUP | {SITE}
-  description: Programa de socios de mayoreo SUP para minoristas y tiendas de artículos deportivos. Línea completa de productos, opciones de dropshipping, márgenes mayoristas competitivos del 20–35% y MOQ bajo para comenzar.
+  title: 'pool Wholesale & Retail Partner Program | {SITE}'
+  description: 'pool wholesale partner program for retailers and sporting goods stores. Full product line, dropshipping options, competitive wholesale margins from 20–35%, and low MOQ to start.'
+
 hero:
-  tagline: Socios minoristas
-  title: Vende tablas SUP inflables premium<br />con márgenes que funcionan
-  subtitle: Conviértase en socio minorista de OLagoon — lleve la marca SUP de mayor crecimiento en su mercado con precios de mayoreo completos, dropshipping, materiales de marketing profesionales y soporte dedicado.
+  tagline: Retail Partners
+  title: 'Sell Premium inflatable pools<br />With Margins That Work'
+  subtitle: 'Become an OLagoon retail partner — carry the fastest-growing pool brand in your market with full wholesale pricing, dropshipping, professional marketing materials, and dedicated support.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Tablas SUP de OLagoon exhibidas en una tienda minorista
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools displayed in a retail store
+
 margin_section:
-  title: Márgenes Minoristas y MOQ
-  subtitle: Niveles de precios al por mayor diseñados para la rentabilidad minorista.
+  title: 'Retail Margins & MOQ'
+  subtitle: 'Wholesale pricing tiers designed for retail profitability.'
   items:
-    - tier: Socio Básico
-      discount: 20%
-      moq: 500 unidades/año
-      margin_note: ~$150–250 de ganancia por tablero
+    - tier: 'Basic Partner'
+      discount: '20%'
+      moq: '500 units/yr'
+      margin_note: '~$150–250 profit per board'
       features:
-        - Acceso a la línea completa de productos
-        - Paquete de materiales de marketing
-        - Soporte por correo electrónico
-        - Acceso al catálogo de productos
-    - tier: Socio Premium
-      discount: 30%
-      moq: 2,000 unidades/año
-      margin_note: ~$250–400 de ganancia por tablero
+        - 'Access to full product line'
+        - 'Marketing materials package'
+        - 'Email support'
+        - 'Product catalog access'
+    - tier: 'Premium Partner'
+      discount: '30%'
+      moq: '2,000+ units/yr'
+      margin_note: '~$250–400 profit per board'
       features:
-        - Gerente de cuenta dedicado
-        - Protección de territorio exclusivo
-        - Soporte de marketing personalizado
-        - Primer acceso a nuevos productos
-        - Sesiones de capacitación del personal
-    - tier: Socio Principal
-      discount: 35%
-      moq: 5,000 unidades/año
-      margin_note: ~$350–500 de ganancia por tabla
+        - 'Dedicated account manager'
+        - 'Exclusive territory protection'
+        - 'Custom marketing support'
+        - 'First access to new products'
+        - 'Staff training sessions'
+    - tier: 'Flagship Partner'
+      discount: '35%+'
+      moq: '5,000+ units/yr'
+      margin_note: '~$350–500+ profit per board'
       features:
-        - Campañas de marketing co-marcadas
-        - Soporte para exhibición en tienda
-        - Capacitación del personal en el lugar
-        - Promociones conjuntas en redes sociales
-        - Asignación de producción prioritaria
+        - 'Co-branded marketing campaigns'
+        - 'In-store display support'
+        - 'On-site staff training'
+        - 'Joint social media promotions'
+        - 'Priority production allocation'
+
 product_line:
-  title: Línea de productos completa
-  subtitle: Una tabla de SUP para cada cliente que entre por tu puerta.
+  title: Complete Product Line
+  subtitle: 'A pools for every customer who walks through your door.'
   items:
     - name: All-Round Series
-      description: Más vendido — se adapta al 80% de los clientes
+      description: 'Best seller — fits 80% of customers'
     - name: Touring Series
-      description: Palistas de alto rendimiento — mayor margen
+      description: 'Performance swimmers — higher margin'
     - name: Yoga Series
-      description: Mercado nicho — precios premium
+      description: 'Niche market — premium pricing'
     - name: Kids Series
-      description: 'Clientes familiares: comprador recurrente'
+      description: 'Family customers — repeat buyer'
     - name: Racing Series
-      description: Mercado entusiasta — halo de la marca
+      description: 'Enthusiast market — brand halo'
     - name: Accessories
-      description: Complementos de alto margen (paletas, chalecos, bombas, bolsas)
+      description: 'High margin add-ons (paddles, vests, pumps, bags)'
+
 catalog:
-  title: Recursos para Socios Minoristas
-  subtitle: Descargue nuestro completo kit para socios minoristas.
+  title: Retail Partner Resources
+  subtitle: 'Download our comprehensive retail partner kit.'
   items:
-    - name: 2026 Product Catalog
-      desc: Gama completa con especificaciones, precios e información para pedidos
-      icon: tabler:file-text
-      link: /resources/download-catalog/
-    - name: Retail Partner Guide
-      desc: Calculadora de márgenes, consejos de comercialización y mejores prácticas
-      icon: tabler:book
-      link: /resources/download-catalog/
-    - name: Marketing Asset Pack
-      desc: Fotos de productos en alta resolución, imágenes de estilo de vida y materiales de punto de venta
-      icon: tabler:photo
-      link: /media/
+    - name: '2026 Product Catalog'
+      desc: 'Full lineup with specs, pricing, and ordering information'
+      icon: 'tabler:file-text'
+      link: '/resources/download-catalog/'
+    - name: 'Retail Partner Guide'
+      desc: 'Margin calculator, merchandising tips, and best practices'
+      icon: 'tabler:book'
+      link: '/resources/download-catalog/'
+    - name: 'Marketing Asset Pack'
+      desc: 'Hi-res product photos, lifestyle images, and POS materials'
+      icon: 'tabler:photo'
+      link: '/media/'
+
 support:
-  title: Soporte para Socios Minoristas
-  subtitle: Todo lo que necesitas para vender con confianza.
+  title: Retail Partner Support
+  subtitle: 'Everything you need to sell confidently.'
   items:
-    - Imágenes de producto de alta resolución (fotografía profesional)
-    - Fotos de estilo de vida para redes sociales, sitio web y catálogo
-    - Materiales de marketing — carteles, indicadores de estantería, pancartas
-    - Videos de capacitación de productos para la educación del personal
-    - Paquete de contenido para redes sociales (publicaciones semanales)
-    - Descripciones de productos optimizadas para SEO
-    - Opción de dropshipping disponible — sin riesgo de inventario
-    - Términos de pago a 30 días netos
+    - 'High-res product images (professional photography)'
+    - 'Lifestyle photos for social media, website, and catalog'
+    - 'Marketing materials — posters, shelf talkers, banners'
+    - 'Product training videos for staff education'
+    - 'Social media content pack (weekly posts)'
+    - 'SEO-optimized product descriptions'
+    - 'Dropshipping option available — no inventory risk'
+    - 'Net 30 payment terms'
+
 cta:
-  title: ¿Listo para convertirse en socio minorista de OLagoon?
-  subtitle: Solicite la asociación o descargue nuestro catálogo minorista para comenzar.
+  title: 'Ready to become an OLagoon retail partner?'
+  subtitle: 'Apply for partnership or download our retail catalog to get started.'
   actions:
-    - text: Solicitar asociación
-      href: /contact/?partner=retail
-      variant: primary
-    - text: Descargar catálogo minorista
-      href: /resources/download-catalog/
-      variant: secondary
+    - text: 'Apply for Partnership'
+      href: '/contact/?partner=retail'
+      variant: 'primary'
+    - text: 'Download Retail Catalog'
+      href: '/resources/download-catalog/'
+      variant: 'secondary'

@@ -1,71 +1,71 @@
 meta:
-  title: 'Dobavitelj opreme za najem SUP in rešitve za flote | {SITE}'
-  description: 'Dobavitelj opreme za najem SUP za operaterje najema. Komercialne deske SUP za visoko obratno, zasnovane za vsakodnevno uporabo — UV-odporen PVC, ojačeni šivi, hitro sušeči materiali. Povečajte svoje najemno podjetje z OLagoon.'
+  title: 'pool Rental Equipment Supplier & Fleet Solutions | {SITE}'
+  description: 'pool rental equipment supplier for rental operators. High-rotation commercial pools engineered for daily use — UV-resistant PVC, reinforced seams, quick-dry materials. Scale your rental business with OLagoon.'
 
 hero:
-  tagline: 'Operaterji najema'
-  title: 'Povečajte svoje najemno podjetje<br />z zaupanjem'
-  subtitle: 'Dobavitelj opreme za najem SUP za operaterje najema. Deske SUP za visoko obratno, zasnovane za vsakodnevni najem, 365 dni na leto. Vaši prihodki si nikoli ne vzamejo prostega dneva.'
+  tagline: Rental Operators
+  title: 'Scale Your Rental Business<br />With Confidence'
+  subtitle: 'pool rental equipment supplier for rental operators. High-rotation pools engineered for daily rental use, 365 days a year. Your revenue never takes a day off.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: 'Prometna najemna loča s deskami SUP, pripravljenimi za goste'
+    alt: Busy rental kiosk with pools ready for guests
 
 features:
-  title: 'Zgrajeno za najemne razmere'
-  subtitle: 'Vsaka deska je zasnovana za 500+ najemnih ciklov z minimalnim vzdrževanjem.'
+  title: Built for the Rental Grind
+  subtitle: 'Every board is engineered for 500+ rental cycles with minimal maintenance.'
   items:
-    - title: '500+ najemnih ciklov'
-      description: 'Preskušeno za vsakodnevno uporabo v slani vodi, soncu in pesku.'
+    - title: '500+ Rental Cycles'
+      description: 'Tested to survive daily use in saltwater, sun, and sand.'
       icon: 'tabler:shield-check'
-    - title: 'UV-odporna tkanina'
-      description: 'Brez bledenja ali razgradnje po 1 letu shranjevanja na prostem.'
+    - title: 'UV-Resistant Fabric'
+      description: 'No fading or degradation after 1 year of outdoor storage.'
       icon: 'tabler:sun'
-    - title: 'Ojačeni šivi'
-      description: '3x močnejši od standardne konstrukcije napihljivih desk.'
+    - title: 'Reinforced Seams'
+      description: '3x stronger than standard inflatable board construction.'
       icon: 'tabler:layers-intersect'
-    - title: 'Hitro sušeči materiali'
-      description: 'Deske so pripravljene za naslednji najem v manj kot 30 minutah.'
+    - title: 'Quick-Dry Materials'
+      description: 'Boards ready for next rental in under 30 minutes.'
       icon: 'tabler:droplet'
-    - title: 'Skladiščenje v skladih'
-      description: 'Prostorsko varčna zasnova — na istem prostoru shranite 40 % več desk.'
+    - title: 'Stackable Storage'
+      description: 'Space-saving design — store 40% more boards in the same area.'
       icon: 'tabler:stack'
-    - title: 'Barvno kodirane velikosti'
-      description: 'Osebje z barvno kodiranimi velikostmi takoj zgrabi pravo desko.'
+    - title: 'Color-Coded Sizes'
+      description: 'Staff grabs the right board instantly with color-coded sizing.'
       icon: 'tabler:color-swatch'
 
 stats:
-  title: 'Merila obratovanja'
+  title: Operations Metrics
   stats:
-    - title: 'Obrat deske'
+    - title: Board Turnover
       amount: '< 5 min'
-    - title: 'Letno vzdrževanje'
-      amount: '~15 min/deska'
-    - title: 'Odpošiljanje delov'
+    - title: Annual Maintenance
+      amount: '~15 min/board'
+    - title: Parts Dispatch
       amount: '48h'
-    - title: 'Stopnja napak'
+    - title: Defect Rate
       amount: '< 0.5%'
 
 fleet_guide:
-  title: 'Vodnik po velikosti flote'
-  subtitle: 'Ocenite velikost flote in prihodkovni potencial svoje najemne dejavnosti.'
+  title: Fleet Sizing Guide
+  subtitle: 'Estimate the fleet size and revenue potential for your rental operation.'
   tiers:
-    - label: 'Majhna loča'
+    - label: Small Kiosk
       boards: '15-20'
-      revenue: 'XX,XXX USD/leto'
-    - label: 'Srednje veliko obratovanje'
+      revenue: '$XX,XXX/yr'
+    - label: Mid-Size Operation
       boards: '30-50'
-      revenue: 'XX,XXX USD/leto'
-    - label: 'Velik plažni najem'
+      revenue: '$XX,XXX/yr'
+    - label: Large Beach Rental
       boards: '50-100'
-      revenue: 'XXX,XXX USD/leto'
+      revenue: '$XXX,XXX/yr'
 
 cta:
-  title: 'Pripravljeni povečati svoje najemno podjetje?'
-  subtitle: 'Pridobite najemne cene ali primerjajte modele desk za svoje obratovanje.'
+  title: 'Ready to scale your rental business?'
+  subtitle: 'Get rental pricing or compare board models for your operation.'
   actions:
-    - text: 'Pridobite najemne cene'
+    - text: 'Get Rental Pricing'
       href: '/contact/?package=rental'
       variant: 'primary'
-    - text: 'Primerjajte modele desk'
+    - text: 'Compare Board Models'
       href: '/compare/'
       variant: 'secondary'

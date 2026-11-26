@@ -1,34 +1,39 @@
 meta:
-  title: 'Značka olagoon — Námořní inženýrství a partnerství | {SITE}'
-  description: 'olagoon: nafukovací námořní značka spolupracující se značkami vodních sportů, distributory, nautickými kluby a firmami prostřednictvím kolekcí co-brand, privátních značek a programů tuzemské distribuce.'
+  title: 'The olagoon Brand — Marine Engineering & Partnership | {SITE}'
+  description: 'olagoon: an inflatable marine brand partnering with water sports brands, distributors, nautical clubs, and enterprises through co-branded collections, private label, and country distribution programs.'
   keywords:
-    - 'značka olagoon'
-    - 'nafukovací značka SUP'
-    - 'výrobce SUP z Číny'
+    - 'olagoon brand'
+    - 'inflatable pools brand'
+    - 'china pool manufacturer'
 hero:
-  tagline: Značka
+  tagline: Brand
   title: '{BRAND}'
-  subtitle: Oceánský výkon pro každého surfaře
-  cta: Prozkoumat vybavení →
+  subtitle: Ocean Performance for Every Surfer
+  cta: Explore Gear →
   cta_link: /products/
-  secondary_cta: Naučte se surfovat
+  secondary_cta: Explore Pools
   secondary_cta_link: /guides/
+
 position:
-  tagline: Pozice
-  subtitle: Oceánský výkon pro každého surfaře
+  tagline: Position
+  subtitle: Ocean Performance for Every Surfer
+
 products_section:
-  tagline: Produkty
-  cta: Všechny produkty →
+  tagline: Products
+  cta: All Products →
   cta_link: /products/
+
 global_section:
-  tagline: Celosvětově
-  title: Dostupné ve {count} regionech
+  tagline: Global
+  title: Available in {count} Regions
+
 social_section:
-  tagline: Sociální sítě
-  title: Co čtou surfaři
-  read_guide: Přečtěte si průvodce →
+  tagline: Social
+  title: What surfers are reading
+  read_guide: Read guide →
+
 cta_section:
-  title: Vydejte se na svou oceánskou cestu
-  subtitle: Každý produkt je certifikovaný CE. Krytý zárukou. Navržený pro skutečné vlny.
-  cta_suffix: →
-  secondary_cta: O značce {BRAND}
+  title: Start your ocean journey
+  subtitle: Every product CE certified. Backed by warranty. Engineered for real backyards.
+  cta_suffix: '→'
+  secondary_cta: About {BRAND}

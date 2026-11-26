@@ -1,24 +1,24 @@
 meta:
-  title: Kur iegādāties OLagoon piepūšamos SUP dēļus | OLagoon
-  description: Uzziniet, kā iegādāties OLagoon piepūšamo SUP dēli — caur oficiālo izplatītāju savā valstī vai tieši no OLagoon komandas. Pasakiet, kur airējat, un mēs norādīsim jūsu tuvāko tirgotāju.
+  title: Where to Buy OLagoon Inflatable Pools | OLagoon
+  description: Find out how to buy an OLagoon inflatable pool — through an official distributor in your country or directly from the OLagoon team. Tell us where you live and we will point you to your nearest dealer.
 hero:
-  tagline: Kur iegādāties
-  title: Dabūjiet savu OLagoon SUP ūdenī
-  subtitle: OLagoon dēļus izmanto airētāji vairāk nekā 50 valstīs. Atrodiet vienkāršāko veidu, kā iegūt savējo — caur tuvumā esošo oficiālo izplatītāju vai tieši no OLagoon komandas.
+  tagline: Where to Buy
+  title: Get Your OLagoon pool on the Water
+  subtitle: OLagoon pools reach families in 50+ countries. Find the simplest way to get yours — through an official distributor near you or directly from the OLagoon team.
 channels:
   items:
-    - title: Oficiālie valstu izplatītāji
-      description: OLagoon sadarbojas ar ekskluzīviem izplatītājiem daudzās valstīs. Pasakiet, kur airējat, un mēs jūs savienosim ar vietējo tirgotāju, cenām un pieejamību.
-      cta: Atrodiet savu vietējo tirgotāju
+    - title: Official Country Distributors
+      description: OLagoon works with exclusive distributors in many countries. Tell us where you live and we will connect you with your local dealer, pricing, and availability.
+      cta: Find Your Local Dealer
       href: /contact/?subject=Where to Buy
-    - title: Pasūtiet tieši no OLagoon
-      description: Jūsu valstī vēl nav izplatītāja? OLagoon komanda var nokārtot tiešos pasūtījumus un piegādi, lai jūs varētu doties ūdenī, kur vien jūs dzīvojat.
-      cta: Vaicāt par pieejamību
+    - title: Order Direct from OLagoon
+      description: No distributor in your country yet? The OLagoon team can arrange direct orders and shipping so you can get on the water wherever you live.
+      cta: Request Availability
       href: /contact/?subject=Where to Buy
 form_intro:
-  title: Vaicājiet par pieejamību
-  subtitle: Atsūtiet mums ziņu ar savu valsti un jūs interesējošo dēli. Mūsu komanda atbildēs vienas darba dienas laikā ar tuvāko tirgotāju vai tieša pasūtījuma iespējām.
+  title: Ask About Availability
+  subtitle: Send us a message with your country and the pool you are interested in. Our team will reply within one business day with your nearest dealer or direct-order options.
 business_note:
-  text: Pērkat klubam, kūrortam vai veikalam? Iepazīstieties ar mūsu biznesa un partnerības programmām.
-  cta: Biznesa partneriem
+  text: Buying for a club, resort, or store? Explore our business and partnership programs.
+  cta: For Business Partners
   href: /solutions/

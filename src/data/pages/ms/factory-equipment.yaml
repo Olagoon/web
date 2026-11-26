@@ -1,87 +1,87 @@
 meta:
-  title: 'Peralatan Kilang — Pemotongan, Kimpalan RF & Percetakan | {SITE}'
-  description: 'Peralatan pembuatan olagoon gred industri: pemotongan PVC, kimpalan RF, percetakan digital, pemasangan dan pengujian bagi SUP boleh tiup.'
+  title: 'Factory Equipment — Cutting, RF Welding & Printing | {SITE}'
+  description: 'Industrial-grade olagoon manufacturing equipment: PVC cutting, RF welding, digital printing, assembly, and testing for inflatable pools.'
   keywords:
-    - 'peralatan pembuatan sup'
-    - 'kilang sup boleh tiup'
-    - 'kimpalan rf pvc'
-    - 'pengeluaran papan dayung'
+    - 'pool manufacturing equipment'
+    - 'inflatable pools factory'
+    - 'rf welding pvc'
+    - 'inflatable pool production'
 hero:
-  tagline: 'Peralatan'
-  title: 'Peralatan & Jentera Pembuatan'
-  subtitle: 'Peralatan gred industri merentasi pemotongan, kimpalan, percetakan dan pemasangan'
-  back_label: 'Kembali ke Kilang'
+  tagline: Equipment
+  title: Manufacturing Equipment & Machinery
+  subtitle: Industrial-grade equipment across cutting, welding, printing, and assembly
+  back_label: Back to Factory
   back_link: /factory/
 
 categories:
-  - title: 'Pemotongan & Penyediaan Bahan'
+  - title: Cutting & Material Preparation
     items:
-      - name: 'Mesin Pemotong PVC Automatik'
-        spec: 'Kawalan CNC, 6.5 m × 2.5 m, ketepatan 0.1 mm'
-        desc: 'Mesin pemotong automatik terkawal komputer bagi fabrik PVC dan drop-stitch. Perisian penyusunan mengoptimumkan penggunaan bahan kepada sisa di bawah 5%.'
-      - name: 'Mesin Sebar Fabrik'
-        spec: 'Lebar maksimum 3 m, suapan terkawal tegangan'
-        desc: 'Menyusun fabrik dalam satu atau berbilang lapisan dengan tegangan terkawal untuk mengelakkan herotan sebelum pemotongan.'
+      - name: Automatic PVC Cutting Machine
+        spec: CNC-controlled, 6.5 m × 2.5 m, 0.1 mm accuracy
+        desc: Computer-controlled automatic cutting machine for PVC and drop-stitch fabrics. Nesting software optimises material utilisation to below 5% waste.
+      - name: Fabric Spreader
+        spec: 3 m max width, tension-controlled feed
+        desc: Lays fabric in single or multiple plies with controlled tension to prevent distortion before cutting.
 
-  - title: 'Kimpalan & Pengikatan Tiub'
+  - title: Tube Welding & Bonding
     items:
-      - name: 'Mesin Perapatan Haba'
-        spec: 'Kimpalan udara panas, boleh ubah 200–600 °C, 0.5–5 m/min'
-        desc: 'Mesin perapatan haba udara panas untuk mengikat dan mengimpal PVC serta jahitan rel. Digunakan untuk penackeran, perapatan dan pelakuran kebuk tiub dan sambungan apung.'
-      - name: 'Mesin Tekan RF Dielektrik'
-        spec: '15 kW, plat 2000 × 600 mm'
-        desc: 'Mesin tekan kimpalan frekuensi radio bagi jahitan membujur utama, jalur rel dan fabrikasi kebuk besar.'
-      - name: 'Pengimpal RF Terkawal CNC'
-        spec: '8 kW, meja XY 2500 × 1200 mm'
-        desc: 'Kimpalan jahitan melengkung boleh atur cara bagi geometri kompleks, timbulan logo dan kerja tampalan berketepatan.'
+      - name: Heat Sealing Machine
+        spec: Hot-air welding, variable 200–600 °C, 0.5–5 m/min
+        desc: Hot-air heat sealing machine for bonding and welding PVC and rail seams. Used for tacking, sealing, and fusing tube chambers and float joints.
+      - name: Dielectric RF Press
+        spec: 15 kW, platen 2000 × 600 mm
+        desc: Radio-frequency welding press for main longitudinal seams, rail bands, and large-chamber fabrication.
+      - name: CNC-Controlled RF Welder
+        spec: 8 kW, XY table 2500 × 1200 mm
+        desc: Programmable curved-seam welding for complex geometries, logo embossing, and precision patchwork.
 
-  - title: 'Pembuatan Papan SUP'
+  - title: pools Manufacturing
     items:
-      - name: 'Mesin Tekan Laminasi Teras Drop-Stitch'
-        spec: 'Mesin tekan format besar bagi teras papan sehingga 14 ft LOA'
-        desc: 'Laminasi berketepatan teras drop-stitch kepada laminat PVC luar. Setiap lapisan diikat dengan tekanan untuk kualiti dan kekuatan konsisten.'
-      - name: 'Penghala CNC (5-paksi)'
-        spec: 'Saiz kerja 3 m × 2 m × 1 m, spindel penyejuk air'
-        desc: 'Pemesinan kotak sirip, potongan pemegang dan komponen papan tersuai.'
+      - name: Drop-Stitch Core Lamination Press
+        spec: Large-format press for drop-stitch cores up to 5 m length
+        desc: Precision lamination of drop-stitch cores to outer PVC laminates. Each layer is pressure-bonded for consistent quality and strength.
+      - name: CNC Router (5-axis)
+        spec: 3 m × 2 m × 1 m envelope, water-cooled spindle
+        desc: Machining of valve ports, handle cutouts, and custom pool components.
 
-  - title: 'Percetakan & Hiasan SUP'
+  - title: pool Printing & Decoration
     items:
-      - name: 'Pencetak Digital'
-        spec: 'Inkjet resolusi tinggi, lebar cetak sehingga 2 m'
-        desc: 'Percetakan digital terus-ke-fabrik bagi grafik dek SUP warna penuh. Mencetak corak tersuai, kecerunan dan imej berkualiti foto dengan dakwa berasaskan air rintang UV.'
-      - name: 'Mesin Cetakan Sutera Saring'
-        spec: 'Manual dan separa automatik, pendaftaran berbilang warna'
-        desc: 'Cetakan sutera saring bagi logo papan SUP, tanda jenama dan corak berulang. Menghasilkan cetakan tahan lama dan legap dengan tepu warna cerah.'
+      - name: Digital Printer
+        spec: High-resolution inkjet, up to 2 m print width
+        desc: Direct-to-fabric digital printing for full-colour pool deck graphics. Prints custom patterns, gradients, and photo-quality images with UV-resistant water-based inks.
+      - name: Screen Printing Machine
+        spec: Manual and semi-automatic, multi-colour registration
+        desc: Screen printing for pools logos, brand marks, and repeating patterns. Provides durable, opaque prints with vibrant colour saturation.
 
-  - title: 'Pemasangan & Kelengkapan'
+  - title: Assembly & Rigging
     items:
-      - name: 'Stesen Pemasangan Papan'
-        spec: 'Modul boleh laras, susun atur berbilang stesen'
-        desc: 'Pemasangan kotak sirip, pemegang, D-ring, injap dan pad dek pada papan SUP.'
-      - name: 'Mesin Tekan Pemasangan Injap'
-        spec: 'Pneumatik, tekanan boleh laras'
-        desc: 'Pemasangan dan perapatan berketepatan injap Halkey-Roberts dan Leafield.'
-      - name: 'Pelaminator Pad Dek'
-        spec: '3 m × 1.5 m, terkawal suhu'
-        desc: 'Laminasi haba pad dek buih EVA ke bahagian atas papan SUP dengan kekuatan ikatan konsisten.'
+      - name: Pool Assembly Station
+        spec: Modular adjustable, multi-station layout
+        desc: Assembly of fin boxes, handles, D-rings, valves, and deck pads onto pools.
+      - name: Valve Installation Press
+        spec: Pneumatic, adjustable pressure
+        desc: Precision installation and sealing of Halkey-Roberts and Leafield valves.
+      - name: Deck Pad Laminator
+        spec: 3 m × 1.5 m, temperature-controlled
+        desc: Heat lamination of EVA foam deck pads to pools tops with consistent bond strength.
 
-  - title: 'Pengujian & Kawalan Kualiti'
+  - title: Testing & Quality Control
     items:
-      - name: 'Penguji Tegangan Universal'
-        spec: '50 kN, ASTM D751'
-        desc: 'Ujian daya pemutusan, pemanjangan semasa putus dan perambatan koyakan bagi kelompok fabrik.'
-      - name: 'Rangka Ujian Pengekalan Udara'
-        spec: 'Boleh atur cara, tahan tekanan 30 minit'
-        desc: 'Ujian tahan tekanan automatik bagi setiap kebuk tiub sebelum pemasangan.'
-      - name: 'Penguji Pengelupasan Jahitan'
-        spec: 'Pengelupasan 180° bermotor pada 100 mm/min'
-        desc: 'Ujian kekuatan pengelupasan jahitan kimpalan dan lekat mengikut EN ISO 25649.'
-      - name: 'Kebuk Luluhawa Arka Xenon'
-        spec: 'Pendedahan 2000 jam'
-        desc: 'Ujian rintangan UV bagi perubahan warna dan pengekalan kekuatan.'
+      - name: Universal Tensile Tester
+        spec: 50 kN, ASTM D751
+        desc: Breaking force, elongation at break, and tear propagation testing for fabric batches.
+      - name: Air Retention Test Rig
+        spec: Programmable, 30-min pressure-hold
+        desc: Automated pressure-hold test for every tube chamber before assembly.
+      - name: Seam Peel Tester
+        spec: Motorised 180° peel at 100 mm/min
+        desc: Weld and glued-seam peel strength testing per EN ISO 25649.
+      - name: Xenon-Arc Weathering Chamber
+        spec: 2000 h exposure
+        desc: UV resistance testing for colour change and strength retention.
 
 cta:
-  title: 'Berminat dengan lawatan kilang?'
-  desc: 'Kami mengalu-alukan pelawat ke kemudahan Qingdao kami. Lihat peralatan dan proses kami secara langsung.'
-  label: 'Jadualkan lawatan →'
+  title: Interested in a factory tour?
+  desc: We welcome visitors to our Qingdao facility. See our equipment and processes in person.
+  label: Schedule a visit →
   link: /contact/

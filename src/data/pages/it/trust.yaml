@@ -1,183 +1,190 @@
 meta:
-  title: 'Fiducia — Qualità, Standard e Reputazione | {SITE}'
-  description: 'Perché fidarsi di olagoon: certificazioni CE e ISO, fabbrica integrata, referenze globali e garanzia. Un produttore professionale di SUP gonfiabili.'
+  title: 'Trust — Quality, Standards & Reputation | {SITE}'
+  description: 'Why trust olagoon: CE and ISO certifications, integrated factory, global references, and warranty. A professional inflatable pools manufacturer.'
   keywords:
-    - 'produttore SUP affidabile'
-    - 'fabbrica paddle board certificata'
-    - 'fornitore SUP affidabile'
-    - 'fabbrica SUP certificata'
+    - 'trusted pool manufacturer'
+    - 'certified inflatable pool factory'
+    - 'reliable pool supplier'
+    - 'certified pool factory'
 hero:
-  tagline: Costruito secondo standard che contano
-  title: Fidati di olagoon
+  tagline: 'Built to standards that matter'
+  title: 'Trust olagoon'
   subtitle: |
-    Ogni prodotto che costruiamo è certificato CE — testato per sicurezza,<br />
-    durata e prestazioni. Niente scorciatoie. Niente eccezioni.
-  taglineSection: Certificato. Testato. Comprovato.
-  image: https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
-  imageAlt: Prodotto olagoon sottoposto a test di qualità
+    Every product we build is CE certified — tested for safety,<br />
+    durability, and performance. No shortcuts. No exceptions.
+  taglineSection: 'Certified. Tested. Proven.'
+  image: 'https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp'
+  imageAlt: 'olagoon product undergoing quality testing'
+
 stats:
-  title: olagoon in numeri
+  title: 'olagoon by the numbers'
   stats:
-    - title: Certificato CE
-      description: Tutti i prodotti ricreativi soddisfano gli standard di sicurezza UE
-    - title: ISO 9001
-      description: Sistema di gestione qualità dal 2012
-    - title: BSCI e REACH
-      description: Produzione etica e conformità dei materiali
-    - title: Garanzia 3 Anni
-      description: Su ogni prodotto olagoon — senza fare domande
+    - title: 'CE Certified'
+      description: 'All recreational products meet EU safety standards'
+    - title: 'ISO 9001'
+      description: 'Quality management system since 2012'
+    - title: 'BSCI & REACH'
+      description: 'Ethical manufacturing and material compliance'
+    - title: '2-Year Warranty'
+      description: 'On every OLagoon product — no questions asked'
+
 features3_certifications:
-  title: Certificazioni & Conformità
-  subtitle: Ogni prodotto è testato e certificato in modo indipendente secondo standard internazionali.
+  title: 'Certifications & Compliance'
+  subtitle: 'Every product is independently tested and certified to international standards.'
   columns: 3
   isBeforeContent: true
   items:
-    - title: Certificazione CE
-      description: Tutti i SUP olagoon soddisfano lo standard di sicurezza CE europeo per uso ricreativo. Ogni prodotto subisce test di pressione, galleggiabilità e carico prima di lasciare la fabbrica.
-      icon: tabler:certificate
-    - title: ISO 9001
-      description: Il nostro impianto di 12.000 m² a Qingdao opera sotto un sistema di gestione qualità ISO 9001. Ogni lotto di produzione è tracciabile, documentato e ispezionato.
-      icon: tabler:clipboard-check
-    - title: Conformità Sociale BSCI
-      description: Siamo certificati BSCI, garantendo pratiche lavorative etiche, condizioni di lavoro sicure e responsabilità ambientale in tutta la nostra catena di fornitura.
-      icon: tabler:users
-    - title: REACH e RoHS
-      description: Tutti i materiali — PVC, schiuma EVA, adesivi — sono conformi ai regolamenti UE REACH e RoHS. Niente sostanze vietate, niente compromessi.
-      icon: tabler:flask
-    - title: Laboratorio Test Materiali
-      description: Il nostro laboratorio interno testa resistenza a trazione, resistenza UV, integrità delle giunture e abrasione per ogni lotto di tessuto prima della produzione.
-      icon: tabler:microscope
-    - title: Garanzia 3 Anni
-      description: Ogni prodotto olagoon viene fornito con una garanzia di tre anni contro difetti di fabbricazione. Sosteniamo ciò che costruiamo.
-      icon: tabler:shield-check
+    - title: 'CE Certification'
+      description: 'All olagoon pools meet the European CE safety standard for recreational use. Each product undergoes pressure, buoyancy, and load testing before leaving the factory.'
+      icon: 'tabler:certificate'
+    - title: 'ISO 9001'
+      description: 'Our 12,000 m² Qingdao facility operates under an ISO 9001 quality management system. Every production batch is traceable, documented, and inspected.'
+      icon: 'tabler:clipboard-check'
+    - title: 'BSCI Social Compliance'
+      description: 'We are BSCI-certified, ensuring ethical labor practices, safe working conditions, and environmental responsibility across our supply chain.'
+      icon: 'tabler:users'
+    - title: 'REACH & RoHS'
+      description: 'All materials — PVC, EVA foam, adhesives — comply with EU REACH and RoHS regulations. No restricted substances, no compromises.'
+      icon: 'tabler:flask'
+    - title: 'Material Testing Lab'
+      description: 'In-house materials lab tests tensile strength, UV resistance, seam integrity, and abrasion for every fabric batch before production.'
+      icon: 'tabler:microscope'
+    - title: '2-Year Warranty'
+      description: 'Every OLagoon product comes with a two-year warranty against manufacturing defects. We stand behind what we build.'
+      icon: 'tabler:shield-check'
+
 testimonials:
-  tagline: Fiducia del Cliente
-  title: Cosa dicono i nostri clienti
-  subtitle: Dai principianti agli operatori di flotte professionali — scopri perché si fidano di olagoon.
+  tagline: 'Customer Trust'
+  title: 'What our customers say'
+  subtitle: 'From first-time swimmers to professional fleet operators — see why they trust olagoon.'
   items:
-    - content: Abbiamo equipaggiato l'intera flotta di noleggio con SUP olagoon. Due stagioni, zero guasti. La certificazione CE ha reso l'approvazione assicurativa senza intoppi.
-      name: Marco V.
-      title: Operatore turistico, Croazia
-    - content: Come acquirente alle prime armi, ero preoccupato per la qualità. La documentazione ISO e i rapporti di test che hanno condiviso mi hanno dato completa fiducia.
-      name: James T.
-      title: Proprietario SUP Explorer 11, Canada
-    - content: Lavoriamo con olagoon per le nostre unità di pattuglia costiera. Il loro processo di controllo qualità è coerente su ogni lotto — quell'affidabilità conta nelle operazioni mission-critical.
-      name: Lt. Cmdr. Andres
-      title: Approvvigionamento governativo, Filippine
+    - content: 'We run OLagoon pools across three holiday properties. Two seasons in, zero failures. The CE certification made our local approvals seamless.'
+      name: 'Marco V.'
+      title: 'Resort operator, Croatia'
+    - content: 'As a first-time buyer, I was nervous about quality. The ISO documentation and test reports they shared gave me complete confidence.'
+      name: 'James T.'
+      title: 'Family Oasis owner, Canada'
+    - content: 'We source our private-label pools from OLagoon. Their QC process is consistent across every batch — that reliability matters when your brand is on the box.'
+      name: 'Andrea S.'
+      title: 'Private-label partner, United States'
+
 steps2_manufacturing:
-  title: Come garantiamo la qualità
-  subtitle: Dall'ispezione delle materie prime al test di pressione finale — ogni prodotto passa attraverso una rigorosa catena di qualità.
+  title: 'How we ensure quality'
+  subtitle: 'From raw material inspection to final pressure testing — every product goes through a rigorous quality chain.'
   items:
-    - title: Ispezione Materie Prime
-      description: Ogni rotolo di tessuto PVC è testato per spessore, resistenza a trazione e resistenza UV prima di entrare in produzione.
-      icon: tabler:search
-    - title: CQ in Corso d'Opera
-      description: Giunture saldate, installazioni valvole e legami delle camere sono ispezionati a ogni stazione durante l'assemblaggio.
-      icon: tabler:eye
-    - title: Test di Pressione
-      description: Ogni prodotto gonfiabile è gonfiato a 1,25x il PSI nominale e mantenuto per 24–48 ore per verificare la ritenzione d'aria e l'integrità delle giunture.
-      icon: tabler:wind
-    - title: Ispezione Finale
-      description: Ogni unità è ispezionata per finitura, ferramenta e imballaggio prima di essere approvata per la spedizione. Campioni di lotto vanno al laboratorio per test distruttivi.
-      icon: tabler:clipboard-check
+    - title: 'Raw Material Inspection'
+      description: 'Every roll of PVC fabric is tested for thickness, tensile strength, and UV resistance before entering production.'
+      icon: 'tabler:search'
+    - title: 'In-Process QC'
+      description: 'Weld seams, valve installations, and chamber bonds are inspected at each station during assembly.'
+      icon: 'tabler:eye'
+    - title: 'Pressure Testing'
+      description: 'Every inflatable product is inflated to 1.25x rated PSI and held for 24–48 hours to verify air retention and seam integrity.'
+      icon: 'tabler:wind'
+    - title: 'Final Inspection'
+      description: 'Each unit is inspected for finish, hardware, and packaging before being approved for shipment. Batch samples go to our lab for destructive testing.'
+      icon: 'tabler:clipboard-check'
+
 factory_audit:
-  title: Verifica della Fabbrica e Conformità Sociale
-  subtitle: La nostra struttura di 12.000 m² a Qingdao è aperta a ispezioni da parte di terzi. Manteniamo la certificazione di conformità sociale BSCI e accogliamo le ispezioni dei clienti.
+  title: 'Factory Audit & Social Compliance'
+  subtitle: 'Our 12,000 m² Qingdao facility is open to third-party audits. We maintain BSCI social compliance certification and welcome customer inspections.'
   stats:
-    - value: 12.000 m²
-      label: Struttura di produzione
+    - value: '12,000 m²'
+      label: 'Production Facility'
     - value: '200+'
-      label: Lavoratori qualificati
-    - value: '15.000+'
-      label: Capacità Unitaria Annuale
-    - value: BSCI
-      label: Conformità sociale
+      label: 'Skilled Workers'
+    - value: '15,000+'
+      label: 'Annual Unit Capacity'
+    - value: 'BSCI'
+      label: 'Social Compliance'
   highlights:
-    - title: Certificato BSCI
-      desc: Certificazione di conformità sociale amfori BSCI — lavoro etico, condizioni sicure, responsabilità ambientale.
-      link: /certifications/
-    - title: Aperto per ispezione
-      desc: Accogliamo controlli in fabbrica da parte dei clienti. Pianifica una visita o un tour virtuale delle nostre linee di produzione a Qingdao.
-      link: /factory/
-    - title: Tracciabilità completa
-      desc: Ogni lotto di produzione è documentato e tracciabile — dai numeri dei lotti di materie prime all'approvazione finale del controllo qualità.
-    - title: ISO 9001:2015
-      desc: Sistema di gestione della qualità certificato da SGS. I nostri processi rispettano gli standard internazionali di produzione.
-      link: /certifications/
+    - title: 'BSCI Certified'
+      desc: 'amfori BSCI social compliance certification — ethical labour, safe conditions, environmental responsibility.'
+      link: '/certifications/'
+    - title: 'Open for Inspection'
+      desc: 'We welcome customer factory audits. Schedule a visit or virtual tour of our Qingdao production lines.'
+      link: '/factory/'
+    - title: 'Full Traceability'
+      desc: 'Every production batch is documented and traceable — from raw material lot numbers to final QC sign-off.'
+    - title: 'ISO 9001:2015'
+      desc: 'Quality management system certified by SGS. Our processes meet international manufacturing standards.'
+      link: '/certifications/'
+
 warranty_section:
-  title: Garanzia e Assistenza Post-Vendita
-  subtitle: Supportiamo ogni prodotto con termini di garanzia chiari, elaborazione rapida delle richieste e parti di ricambio originali.
+  title: 'Warranty & After-Sales Support'
+  subtitle: 'We stand behind every product with clear warranty terms, fast claims processing, and genuine replacement parts.'
   items:
-    - title: Garanzia del prodotto di 3 anni
-      desc: Tutti i prodotti olagoon sono coperti da una garanzia di 3 anni contro i difetti di fabbricazione — rottura delle cuciture, difetti delle valvole e delaminazione del materiale durante l'uso normale.
-    - title: Supporto Parti a Vita
-      desc: Ricambi originali — valvole, kit di riparazione, alette, anelli a D — disponibili per tutti i modelli. Manteniamo stampi e utensili per un minimo di 5 anni dopo la fine della produzione.
-    - title: Risposta alla richiesta entro 48 ore
-      desc: Le richieste di garanzia vengono riconosciute entro 48 ore. Le tavole sostitutive vengono spedite entro 10 giorni lavorativi per le richieste approvate.
-    - title: Rete Globale di Riparazione
-      desc: Centri di riparazione autorizzati in oltre 15 paesi. Kit di riparazione sul campo disponibili per operazioni remote. Guide di riparazione fai-da-te per danni minori.
-    - title: Assistenza Clienti OEM
-      desc: Account manager dedicati per partner B2B. Revisioni aziendali trimestrali, pianificazione dell'inventario e supporto marketing co-branded.
-    - title: Pacchetto di certificazione
-      desc: Documentazione di piena conformità fornita con ogni spedizione — Dichiarazione CE, rapporti di prova, schede di sicurezza dei materiali.
-      link: /contact/
+    - title: '2-Year Product Warranty'
+      desc: 'All OLagoon products carry a 2-year warranty against manufacturing defects — seam failure, valve defects, and material delamination under normal use.'
+    - title: 'Lifetime Parts Support'
+      desc: 'Genuine replacement parts — valves, seals, repair kits, fittings — available for all models. We maintain moulds and tooling for a minimum of 5 years after production end.'
+    - title: '48-Hour Claim Response'
+      desc: 'Warranty claims acknowledged within 48 hours. Replacement units shipped within 10 business days for approved claims.'
+    - title: 'Global Repair Network'
+      desc: 'Authorised repair centres in 15+ countries. Field repair kits available for remote regions. DIY repair guides for minor damage.'
+    - title: 'OEM Customer Support'
+      desc: 'Dedicated account managers for B2B partners. Quarterly business reviews, inventory planning, and co-branded marketing support.'
+    - title: 'Certification Package'
+      desc: 'Full compliance documentation provided with every shipment — CE Declaration, test reports, material safety data sheets.'
+      link: '/contact/'
+
 trust_resources:
-  title: Risorse di fiducia
-  subtitle: Scarica il nostro portfolio di certificazioni, i rapporti QC e la documentazione di conformità.
+  title: 'Trust Resources'
+  subtitle: 'Download our certification portfolio, QC reports, and compliance documentation.'
   items:
-    - title: Portafoglio di certificazioni
-      desc: Certificati CE, ISO 9001, BSCI, REACH, RoHS, AS 1799 in un unico pacchetto.
-    - title: Rapporto sugli Standard di Test QC
-      desc: Test di mantenimento della pressione di 24–48 ore, invecchiamento UV secondo ISO, convalida della resistenza alla trazione — metodologia completa.
-    - title: Profilo della Fabbrica e Rapporto di Verifica
-      desc: Panoramica della struttura di 12.000 m² con foto della linea di produzione e riepilogo dell'audit di terze parti.
-    - title: Documento sulla Politica di Garanzia
-      desc: Termini completi della garanzia, processo di reclamo e prezzo dei pezzi di ricambio.
-  cta_text: Richiedi Risorse di Fiducia
-  cta_link: /contact/
-faqs_sup:
-  title: FAQ SUP
-  subtitle: Domande comuni sulle nostre tavole da stand-up paddle.
+    - title: 'Certification Portfolio'
+      desc: 'CE, ISO 9001, BSCI, REACH, RoHS, AS 1799 certificates in one package.'
+    - title: 'QC Testing Standards Report'
+      desc: '24–48 hour pressure hold tests, UV aging per ISO, tensile strength validation — complete methodology.'
+    - title: 'Factory Profile & Audit Report'
+      desc: '12,000 m² facility overview with production line photos and third-party audit summary.'
+    - title: 'Warranty Policy Document'
+      desc: 'Full warranty terms, claims process, and replacement parts pricing.'
+  cta_text: 'Request Trust Resources'
+  cta_link: '/contact/'
+
+faqs_pool:
+  title: 'pools FAQs'
+  subtitle: 'Common questions about our drop-stitch pool.'
   columns: 2
   items:
-    - title: Quali misure di SUP sono disponibili?
-      description: Offriamo tavole SUP da 9 ft a 12 ft, che coprono tutto, dalle tavole all-around compatte ai design da touring e speciali. Ogni modello è disponibile con multiple opzioni di configurazione.
-    - title: Qual è la differenza tra un SUP gonfiabile e un SUP rigido?
-      description: >-
-        Un SUP gonfiabile utilizza la costruzione drop-stitch con migliaia di fili interni che consentono alta pressione dell'aria, mentre un SUP rigido utilizza epoxy o vetroresina. I SUP gonfiabili offrono portabilità e comodità di stoccaggio senza sacrificare la rigidità.
-    - title: Qual è il limite di peso per le tavole SUP?
-      description: Le nostre tavole SUP supportano fino a 150 kg a seconda del modello e del volume. Ogni pagina del prodotto indica la portata massima del modello specifico.
-    - title: I SUP olagoon sono certificati CE?
-      description: Sì. Tutti i modelli SUP ricreativi sono certificati CE secondo gli standard europei applicabili per l'uso ricreativo.
-    - title: Qual è la garanzia sulle tavole SUP?
-      description: Tutti i SUP olagoon hanno una garanzia standard di tre anni contro difetti di fabbricazione, inclusi cedimento delle giunture, difetti delle valvole e delaminazione dei materiali in condizioni di uso normale.
-    - title: Quanto tempo ci vuole per gonfiare una tavola SUP?
-      description: Usando la pompa manuale inclusa, un gonfiaggio completo a 15 PSI richiede circa 8–12 minuti. Per un gonfiaggio più rapido, raccomandiamo la nostra pompa elettrica olagoon 12V, che gonfia una tavola in meno di 4 minuti.
+    - title: 'What pool sizes does OLagoon offer?'
+      description: 'We offer three pool sizes — Compact Plunge (2 m × 1.5 m), Family Oasis (3 m × 2 m), and Grand Lagoon (5 m × 2.5 m) — all with 20 cm drop-stitch walls. Each model pairs with matched filtration and accessories.'
+    - title: 'What is the difference between an inflatable pool and a rigid pool?'
+      description: 'An inflatable pool uses drop-stitch construction with thousands of internal threads allowing high air pressure, while a rigid pool is built from steel, resin, or concrete. Inflatable pools offer portability, easy storage, and lower cost without sacrificing structural rigidity.'
+    - title: 'How much water do OLagoon pools hold?'
+      description: 'Capacity depends on the model and fill level — from roughly 1,500 L for the Compact Plunge to over 8,000 L for the Grand Lagoon. Each product page lists the recommended fill level for your specific model.'
+    - title: 'Are OLagoon pools CE certified?'
+      description: 'Yes. All pool models are CE certified under applicable European standards for recreational use.'
+    - title: 'What is the warranty on OLagoon pools?'
+      description: 'All OLagoon pools come with a standard 2-year warranty against manufacturing defects, covering seam failure, valve defects, and material delamination under normal use.'
+    - title: 'How long does it take to set up a pool?'
+      description: 'Plan on under 30 minutes from box to filling: unpack, inflate the 20 cm walls with the included pump, connect the filter, and start filling. No tools or professional installation required.'
+
 faqs_materials:
-  title: Materiali SUP e Domande Frequenti sulla Cura
-  subtitle: Domande comuni sui materiali dei nostri SUP gonfiabili, la loro cura e conservazione.
+  title: 'pool Material & Care FAQs'
+  subtitle: 'Common questions about our inflatable pools materials, care, and storage.'
   columns: 2
   items:
-    - title: Quali materiali vengono utilizzati nei SUP gonfiabili OLagoon?
-      description: Utilizziamo PVC di grado militare (1100 denari) con costruzione stabilizzata ai raggi UV e resistente all'abrasione, conforme alle normative UE REACH e RoHS.
-    - title: Quanto durano gli SUP gonfiabili?
-      description: Con la cura adeguata, un SUP gonfiabile in PVC di qualità dura 5-10 anni. La pulizia regolare, la protezione dai raggi UV e la corretta conservazione ne prolungano significativamente la durata.
-    - title: Quale manutenzione è richiesta per un SUP gonfiabile?
-      description: La manutenzione di base include il risciacquo con acqua dolce dopo ogni uso (specialmente in acqua salata), l'asciugatura prima della conservazione, il controllo annuale delle guarnizioni delle valvole e l'evitare esposizioni prolungate al sole quando non in uso.
-    - title: Le tavole SUP gonfiabili possono essere utilizzate in acqua salata?
-      description: Sì. Tutti i SUP gonfiabili OLagoon sono progettati sia per l'uso in acqua dolce che in acqua salata. Si consiglia di risciacquare con acqua dolce e asciugare accuratamente dopo l'esposizione all'acqua salata.
-    - title: Come si conserva un SUP gonfiabile?
-      description: >-
-        Sgonfiare, pulire e asciugare completamente la tavola prima della conservazione. Arrotolare allentatamente (evitare piegature strette), conservare in un luogo fresco e asciutto lontano dalla luce solare diretta e tenere lontano dai pavimenti in cemento per prevenire l'assorbimento di
-        umidità.
-    - title: Qual è la capacità di peso dei SUP gonfiabili OLagoon?
-      description: Le capacità di peso variano da 100 kg per i nostri modelli più piccoli a oltre 200 kg per le tavole più grandi. Ogni pagina del prodotto indica la portata massima del modello specifico.
+    - title: 'What materials are used in OLagoon pools?'
+      description: 'We use marine-grade high-tensile PVC with UV-stabilized, abrasion-resistant drop-stitch construction, compliant with EU REACH and RoHS regulations.'
+    - title: 'How long do inflatable pools last?'
+      description: 'With proper care, a quality drop-stitch pool lasts 5–10 years. Regular cleaning, covered storage, and proper winterization significantly extend service life.'
+    - title: 'What maintenance is required for an inflatable pool?'
+      description: 'Basic maintenance includes running the filter pump daily, testing and balancing water chemistry weekly, rinsing the walls at season end, and using the thermal cover to keep debris out and heat in.'
+    - title: 'Can I use salt-water sanitation in an OLagoon pool?'
+      description: 'Yes. Our PVC materials tolerate salt-water sanitation systems. We recommend rinsing the walls thoroughly with fresh water before off-season storage.'
+    - title: 'How do I store an inflatable pool for winter?'
+      description: 'Drain, clean, and dry the pool completely before storage. Fold loosely (avoid tight creases), store in a cool dry place away from direct sunlight, and keep off concrete floors to prevent moisture wicking.'
+    - title: 'What accessories work with OLagoon pools?'
+      description: 'Matched accessories include the sand-filter pump ($249), thermal cover ($129), ground mat ($89), and entry steps ($199) — all sized to your specific model.'
+
 cta:
-  title: Vuoi vedere le certificazioni di persona?
-  subtitle: Richiedi il nostro portafoglio certificazioni, rapporti di audit di fabbrica o documentazione di conformità materiali. Nessuna NDA richiesta.
+  title: 'Want to see the certifications yourself?'
+  subtitle: 'Request our certification portfolio, factory audit reports, or material compliance documentation. No NDA required.'
   actions:
     - variant: primary
-      text: Richiedi documenti certificazione
-      href: /contact/
-    - text: Visita la nostra pagina fabbrica
-      href: /factory/
+      text: 'Request certification docs'
+      href: '/contact/'
+    - text: 'Visit our factory page'
+      href: '/factory/'

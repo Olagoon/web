@@ -1,53 +1,53 @@
 meta:
-  title: 'Életmód — Evezés, kaland és felfedezés | {SITE}'
-  description: 'Fedezze fel az afarar életmódot: evezős kalandok, vízi felfedezés és szabadtéri élmények felfújható SUP-okkal és lapokkal.'
+  title: 'Lifestyle — Backyard Living & Family Fun | {SITE}'
+  description: 'Explore the OLagoon lifestyle: backyard transformations, family water fun, and outdoor living with inflatable pools.'
   keywords:
-    - 'sup életmód'
-    - 'evezős kalandok'
-    - 'felfújható sup szabadtér'
-    - 'vízisport életmód'
+    - 'pool lifestyle'
+    - 'backyard living'
+    - 'inflatable pools outdoor'
+    - 'water sports lifestyle'
 hero:
-  tagline: 'Életmód'
-  title: 'Az afarar<br />életmód'
-  subtitle: 'Azoknak építve, akik a vízen élnek — hétvégi felfedezőktől azokig a kereskedelmi üzemeltetőkig, akik minden nap támaszkodnak a felszerelésükre.'
+  tagline: Lifestyle
+  title: The olagoon<br />Lifestyle
+  subtitle: Built for those who live on the water — from weekend explorers to commercial operators who depend on their gear every day.
 
 values:
   - icon: 🌊
-    title: 'A vízen születtünk'
-    desc: 'Minden dizájn azzal kezdődik, hogy megértjük, hogyan viselkedik a víz. A körülmények szélétől befelé tervezünk — mert az óceán a tanítónk, nem a munkahelyünk.'
+    title: Born on the Water
+    desc: Every design starts with understanding how water behaves. We engineer from the edge of conditions inward — because the ocean is our teacher, not our workplace.
   - icon: 🔧
-    title: 'Tartósra építve'
-    desc: 'A legfenntarthatóbb termék az, amelyet nem kell cserélni. Tengeri minőségű anyagok, 15 PSI-re minősített drop-stitch magok és a szezont túlélő varratok.'
-  - icon: 🏆
-    title: 'Dizájn által hozzáférhető'
-    desc: 'A vízisport nem szabadna luxus legyen. Professzionális minőségű teljesítmény olyan áron, amely értelmes családoknak, túravezetőknek és kis üzemeltetőknek — nem csak kereskedelmi flottáknak.'
+    title: Built to Last
+    desc: The most sustainable product is the one that does not need replacing. Marine-grade materials, drop-stitch cores rated to 15 PSI, and seams that outlast the season.
+  - icon: '🏆'
+    title: Accessible by Design
+    desc: Water sports should not be a luxury. Professional-grade performance at a price that makes sense for families, guides, and small operators — not just commercial fleets.
   - icon: 🌍
-    title: 'Globális közösség'
-    desc: 'Csingtao partjától az európai tavakon át a délkelet-ázsiai folyókig és az amerikai öblökig — ügyfeleink egy dologban osztoznak: a vízen lét szeretetében.'
+    title: Global Community
+    desc: 'From the coast of Qingdao to lakes in Europe, rivers in Southeast Asia, and bays in the Americas — our customers share one thing: a love for being on the water.'
   - icon: ♻️
-    title: 'Felelős gyártás'
-    desc: 'A CNC-vel optimalizált beágyazás 5% alá csökkenti az anyaghulladékot. A tartós szerkezet csökkenti a csereciklusokat. A hosszú élettartamra építünk, mert ez a legfenntarthatóbb választás.'
+    title: Responsible Manufacturing
+    desc: CNC-optimised nesting cuts material waste below 5%. Durable construction reduces replacement cycles. We build for longevity because that is the most sustainable choice.
   - icon: 🤝
-    title: 'Tartós támogatás'
-    desc: 'Húsz éves hajótestek ma is hívnak minket alkatrészért. Garanciális válaszidejünk átlagosan 24 óra. Nem tűnünk el az eladás után — a termék teljes élettartamára itt vagyunk.'
+    title: Support That Lasts
+    desc: Twenty-year-old hulls still call us for spare parts. Our warranty response averages 24 hours. We do not disappear after the sale — we are here for the life of the product.
 
 ethos_section:
-  tagline: 'Eszmeiségünk'
-  title: 'Több mint termék. Filozófia.'
-  subtitle: 'Hat elv, amely minden döntésünket formálja — az anyagkiválasztástól az ügyféltámogatásig.'
+  tagline: Our Ethos
+  title: More than a product. A philosophy.
+  subtitle: Six principles that shape every decision we make — from material selection to customer support.
 
 community_section:
-  tagline: 'Közösség'
-  title: 'Csatlakozzon az afarar közösséghez'
-  subtitle: 'Kövesse utunkat és ossza meg saját vízi kalandjait.'
-  instagram: 'Követés Instagramon'
-  youtube: 'Feliratkozás YouTube-on'
-  x: 'Követés X-en'
+  tagline: Community
+  title: Join the olagoon Community
+  subtitle: Follow our journey and share your own adventures on the water.
+  instagram: Follow on Instagram
+  youtube: Subscribe on YouTube
+  x: Follow on X
 
 cta_section:
-  title: 'Kezdje el utazását'
-  subtitle: 'Minden termék CE-tanúsítvánnyal. Garanciával alátámasztva. A valódi vízi életre tervezve.'
-  products_cta: 'Termékek felfedezése →'
-  about_cta: 'Rólunk'
+  title: Start your journey
+  subtitle: Every product CE certified. Backed by warranty. Designed for real life on the water.
+  products_cta: Explore Products →
+  about_cta: About Us
   products_link: /products/
   about_link: /about/

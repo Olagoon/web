@@ -1,53 +1,53 @@
 meta:
-  title: 'Življenjski slog — veslanje, avantura in raziskovanje | {SITE}'
-  description: 'Raziščite življenjski slog olagoon: vesalaške avanture, raziskovanje voda in doživetja na prostem z napihljivimi deskami SUP.'
+  title: 'Lifestyle — Backyard Living & Family Fun | {SITE}'
+  description: 'Explore the OLagoon lifestyle: backyard transformations, family water fun, and outdoor living with inflatable pools.'
   keywords:
-    - 'življenjski slog sup'
-    - 'vesalaške avanture'
-    - 'napihljivi sup na prostem'
-    - 'življenjski slog vodnih športov'
+    - 'pool lifestyle'
+    - 'backyard living'
+    - 'inflatable pools outdoor'
+    - 'water sports lifestyle'
 hero:
-  tagline: Življenjski slog
-  title: Življenjski slog<br />olagoon
-  subtitle: Ustvarjeno za tiste, ki živijo na vodi — od vikend raziskovalcev do komercialnih operaterjev, ki se vsak dan zanašajo na svojo opremo.
+  tagline: Lifestyle
+  title: The olagoon<br />Lifestyle
+  subtitle: Built for those who live on the water — from weekend explorers to commercial operators who depend on their gear every day.
 
 values:
   - icon: 🌊
-    title: Rojeno na vodi
-    desc: Vsaka zasnova se začne z razumevanjem, kako se voda obnaša. Inženiring izvajamo od roba razmer navznoter — ker je ocean naš učitelj, ne naš delovni prostor.
+    title: Born on the Water
+    desc: Every design starts with understanding how water behaves. We engineer from the edge of conditions inward — because the ocean is our teacher, not our workplace.
   - icon: 🔧
-    title: Zgrajeno za trajnost
-    desc: Najbolj trajnosten izdelek je tisti, ki ga ni treba zamenjati. Pomorski materiali, drop-stitch jedra z ocenitvijo do 15 PSI in šivi, ki preživijo sezono.
+    title: Built to Last
+    desc: The most sustainable product is the one that does not need replacing. Marine-grade materials, drop-stitch cores rated to 15 PSI, and seams that outlast the season.
   - icon: '🏆'
-    title: Dostopno po zasnovi
-    desc: Vodni športi ne bi smeli biti luksuz. Profesionalne zmogljivosti po ceni, ki ima smisel za družine, vodiče in male operaterje — ne le za komercialne flote.
+    title: Accessible by Design
+    desc: Water sports should not be a luxury. Professional-grade performance at a price that makes sense for families, guides, and small operators — not just commercial fleets.
   - icon: 🌍
-    title: Globalna skupnost
-    desc: 'Od obale Qingdaoa do jezer v Evropi, rek v jugovzhodni Aziji in zalivov v Ameriki — naše stranke povezuje eno: ljubezen do življenja na vodi.'
+    title: Global Community
+    desc: 'From the coast of Qingdao to lakes in Europe, rivers in Southeast Asia, and bays in the Americas — our customers share one thing: a love for being on the water.'
   - icon: ♻️
-    title: Odgovorno proizvodnjo
-    desc: CNC-optimizirana razporeditev zmanjšuje odpadek materiala pod 5 %. Trajna konstrukcija zmanjšuje cikle zamenjav. Gradimo za dolgo življenjsko dobo, ker je to najbolj trajnostna izbira.
+    title: Responsible Manufacturing
+    desc: CNC-optimised nesting cuts material waste below 5%. Durable construction reduces replacement cycles. We build for longevity because that is the most sustainable choice.
   - icon: 🤝
-    title: Podpora, ki traja
-    desc: Lastniki dvajset let starih trupov nas še vedno kličejo po nadomestnih delih. Naš povprečni odziv na garancijske zahteve je 24 ur. Ne izginemo po prodaji — smo tu za celotno življenjsko dobo izdelka.
+    title: Support That Lasts
+    desc: Twenty-year-old hulls still call us for spare parts. Our warranty response averages 24 hours. We do not disappear after the sale — we are here for the life of the product.
 
 ethos_section:
-  tagline: Naša etosa
-  title: Več kot izdelek. Filozofija.
-  subtitle: Šest načel, ki oblikujejo vsako našo odločitev — od izbire materialov do podpore strankam.
+  tagline: Our Ethos
+  title: More than a product. A philosophy.
+  subtitle: Six principles that shape every decision we make — from material selection to customer support.
 
 community_section:
-  tagline: Skupnost
-  title: Pridružite se skupnosti olagoon
-  subtitle: Spremljajte naše potovanje in delite svoje avanture na vodi.
-  instagram: Sledite na Instagramu
-  youtube: Naročite se na YouTube
-  x: Sledite na X
+  tagline: Community
+  title: Join the olagoon Community
+  subtitle: Follow our journey and share your own adventures on the water.
+  instagram: Follow on Instagram
+  youtube: Subscribe on YouTube
+  x: Follow on X
 
 cta_section:
-  title: Začnite svoje potovanje
-  subtitle: Vsak izdelek s certifikatom CE. Podprt z garancijo. Zasnovan za resnično življenje na vodi.
-  products_cta: Raziščite izdelke →
-  about_cta: O nas
+  title: Start your journey
+  subtitle: Every product CE certified. Backed by warranty. Designed for real life on the water.
+  products_cta: Explore Products →
+  about_cta: About Us
   products_link: /products/
   about_link: /about/

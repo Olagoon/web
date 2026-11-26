@@ -1,85 +1,89 @@
 meta:
-  title: 'Custom Lab — räätälöidyt täytettävät paddle boardit | {SITE}'
-  description: 'Räätälöidyt täytettävät paddle boardit: yksilöllinen muotoilu, logo, oma muotti ja tuotanto. Yksityisen etiketin SUP-kumppani, MOQ 50 kpl, CE-sertifioitu.'
+  title: 'Custom Lab — Custom Inflatable Pool | {SITE}'
+  description: 'Custom inflatable pool: bespoke design, logo, custom mold, and production. Private-label pool partner, MOQ 50 units, CE certified.'
   keywords:
-    - 'räätälöity paddle board -valmistaja'
-    - 'räätälöity täytettävä SUP'
-    - 'paddle board logolla'
-    - 'yksityisen etiketin täytettävä SUP'
-    - 'paddle board -valmistus'
+    - 'custom inflatable pool manufacturer'
+    - 'custom inflatable pools'
+    - 'inflatable pool with logo'
+    - 'private label inflatable pools'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: olagoon Räätälöity Lab
-  title: Suunnittele oma<br />SUP-lautasi
-  subtitle: Räätälöity SUP-kumppani, joka tarjoaa co-brand-, yksityisen etiketin ja räätälöidyn paddle board -tuotannon palveluita yrityksille maailmanlaajuisesti. Yhdestä prototyypistä täyteen tuotantosarjaan.
-  cta: Aloita projektisi
+  tagline: olagoon Custom Lab
+  title: Design Your Own<br />pools
+  subtitle: Custom pool partner offering co-brand, private label, and bespoke inflatable pool production for businesses worldwide. From a single prototype to full production runs.
+  cta: Start your project
   footer_link: /contact/
+
 steps_section:
-  tagline: Kuinka se toimii
-  title: Konseptista tuotantoon
-  subtitle: Neljä vaihetta ideastasi valmiiseen, merivalmiiseen tuotteeseen.
+  tagline: How it works
+  title: From concept to production
+  subtitle: Four steps from your idea to a finished, sea-ready product.
   steps:
     - num: '01'
-      title: Valitse lautasi
-      desc: Valitse ydin-SUP-malleistamme — allround, retkeily, jooga, urheilu tai lastenlauta. Valitse koko, materiaali ja väri.
+      title: Choose Your Pool
+      desc: Select from our core pool models — all-around, touring, yoga, sport, or kids. Pick size, material, and colour.
     - num: '02'
-      title: Lähetä suunnitelmasi
-      desc: Lähetä meille logosi, taide tai brändiohjeistus. Suunnittelutiimimme valmistaa digitaalisen vedoksen.
+      title: Upload Your Design
+      desc: Send us your logo, artwork, or brand guidelines. Our design team prepares a digital proof.
     - num: '03'
-      title: AI-mockupin tarkastelu
-      desc: Katso fotorealistinen AI-tuotettu mallinnus räätälöidystä laudastasi ennen tuotannon aloitusta.
+      title: AI Mockup Review
+      desc: View a photorealistic AI-generated mockup of your custom pool before production begins.
     - num: '04'
-      title: Tuotanto ja toimitus
-      desc: Hyväksynnän jälkeen tilauksesi siirtyy ISO-sertifioidulle tuotantolinjalle. Toimitusaika alkaen 30 päivästä.
+      title: Production & Delivery
+      desc: Once approved, your order enters our production line. Lead times from 30 days.
+
 services_section:
-  tagline: Palvelut
-  title: Valmistuspalvelut maailmanlaajuisille brändeille
-  subtitle: Joustavat yhteistyömallit — sopimusvalmistuksesta täyden palvelun brändinrakennukseen.
+  tagline: Services
+  title: Manufacturing services for global brands
+  subtitle: Flexible engagement models — from contract manufacturing to full-service brand building.
   items:
-    - title: Co-brand-tuotanto
-      desc: Tuotamme suunnitelmasi määrittelyjen mukaan — sinun IP:si, piirustuksesi, laatustandardisi. Täysi NDA-suoja.
+    - title: Co-Brand Production
+      desc: We produce your designs to spec — your IP, your drawings, your quality standards. Full NDA protection.
       icon: ⚙️
-    - title: Designratkaisut
-      desc: Valitse yli 50 todistetusta alustasta ja räätälöi koko, väri, grafiikka ja pakkaus.
-      icon: 🎨
-    - title: Yksityinen etiketti
-      desc: Sinun brändisi meidän tuotteissamme — logo, pakkaus, hintalaput, oppaat. Vähittäismyyntivalmis suoraan laatikosta.
-      icon: 🎨
-    - title: Räätälöity brändäys
-      desc: Kansipohjan painatus, runkografiikka, putkidekalit ja räätälöidyt tarrat — täysi brändi-integraatio.
+    - title: Design Solutions
+      desc: Choose from 50+ proven platforms and customise size, colour, graphics, and packaging.
+      icon: '🎨'
+    - title: Private Label
+      desc: Your brand on our products — logo, packaging, hang tags, manuals. Retail-ready out of the box.
+      icon: '🎨'
+    - title: Custom Branding
+      desc: Deck pad printing, hull graphics, tube decals, and custom labels — full brand integration.
       icon: ⚙️
+
 capabilities_section:
-  tagline: Kyvykkyydet
-  title: Tuotanto- ja räätälöintikyvykkyydet
-  subtitle: Kaikki mitä sinun tarvitsee tietää ennen tilauksen tekemistä.
+  tagline: Capabilities
+  title: Production & customisation capabilities
+  subtitle: Everything you need to know before placing your order.
   capabilities:
-    - label: Tilausmäärä
-      value: MOQ 50 yksikköä (SUP)
-    - label: Toimitusaika
-      value: 30–45 päivää vakio; 15–20 päivää prototyypeille
-    - label: Räätälöinti
-      value: Koko, muoto, väri, grafiikka, pakkaus, varusteet
-    - label: Materiaalit
-      value: PVC, drop-stitch, EVA, alumiini
-    - label: Painatus
-      value: Digitaalinen (CMYK), silkkipaino, lämpösiirto, sublimointi
-    - label: Sertifiointi
-      value: CE, UKCA, FCC (tuki maailmanlaajuiselle vaatimustenmukaisuudelle)
+    - label: Order volume
+      value: MOQ 50 units (pool)
+    - label: Lead time
+      value: 12–16 weeks standard (50–100 units); 15–20 days for prototypes
+    - label: Customisation
+      value: Size, shape, colour, graphics, packaging, hardware
+    - label: Materials
+      value: PVC, drop-stitch, EVA, aluminium
+    - label: Printing
+      value: Digital (CMYK), screen printing, heat transfer, sublimation
+    - label: Certification
+      value: CE, UKCA, FCC (support for global compliance)
+
 why_section:
-  tagline: Miksi olagoon
-  title: Yksi tehdas. Yksi standardi. Ei kompromisseja.
+  tagline: Why olagoon
+  title: One factory. One standard. Zero compromises.
   points:
-    - text: 12 000 m² integroitu tuotantolaitos
-      highlight: 12 000 m²
-    - text: 200+ ammattitaitoista työntekijää ja insinööriä
+    - text: 12,000 m² integrated manufacturing facility
+      highlight: 12,000 m²
+    - text: 200+ skilled workers and engineers
       highlight: 200+
-    - text: 15 000+ lautaa valmistetaan vuosittain
-      highlight: 15 000+
-    - text: 'ISO 9001-sertifioitu laadunhallinta'
+    - text: 15,000+ pools produced annually
+      highlight: 15,000+
+    - text: ISO 9001-certified quality management
       highlight: ISO 9001
-    - text: CE-sertifioidut tuotteet EU-markkinoille
+    - text: CE certified products for EU market
       highlight: CE
-  cta: Katso tehdastiedot
+  cta: View factory details
   cta_link: /factory/
   contact:
-    title: Valmiina keskustelemaan projektistasi?
-    desc: Tiimimme vastaa 24 tunnin kuluessa alustavalla tarjouksella.
+    title: Ready to discuss your project?
+    desc: Our team responds within 24 hours with a preliminary quote.

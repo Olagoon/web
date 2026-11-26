@@ -1,78 +1,81 @@
 meta:
-  title: 'Μάθε — SUP & Κωπηλασία | {SITE}'
-  description: 'Μάθε με την olagoon: οδηγοί για φουσκωτά SUP, τεχνικές κωπηλασίας, βασικά εξοπλισμού και ναυτική εκπαίδευση για λάτρεις και εταιρείες.'
+  title: 'Learn — Pool Education | {SITE}'
+  description: 'Learn with OLagoon: inflatable pool tutorials, water care basics, setup guides, and pool education for owners and businesses.'
   keywords:
-    - 'μάθε SUP'
-    - 'εκμάθηση paddle board'
-    - 'εκπαίδευση φουσκωτό SUP'
-    - 'τεχνικές κωπηλασίας'
+    - 'learn pool'
+    - 'inflatable pool tutorial'
+    - 'inflatable pools education'
+    - 'pool maintenance'
 hero:
-  tagline: Γνώση Εξερεύνησης Νερού
-  title: Μάθετε
+  tagline: 'Water Exploration Knowledge'
+  title: 'Learn'
   subtitle: |
-    Οδηγοί, σεμινάρια και βαθιές καταδύσεις — όλα όσα χρειάζεστε για να εξερευνήσετε<br />
-    το νερό με αυτοπεποίθηση. Από την επιλογή του πρώτου σας SUP έως προηγμένες τεχνικές.
-  taglineSection: Γνώση για κάθε κωπηλάτη. Από αρχάριο έως επαγγελματία.
+    Guides, tutorials, and deep dives — everything you need to explore<br />
+    water with confidence. From choosing your first pool to mastering advanced techniques.
+  taglineSection: 'Knowledge for every pool owner. From first-time buyer to seasoned pro.'
+
 featured:
-  tagline: Προτεινόμενα Θέματα
-  title: Ξεκινήστε το μαθησιακό σας ταξίδι
-  subtitle: Είτε είστε νέος στα θαλάσσια σπορ είτε θέλετε να ανεβείτε επίπεδο, οι οδηγοί μας σας καλύπτουν.
+  tagline: 'Featured Topics'
+  title: 'Start your learning journey'
+  subtitle: 'Whether you are new to water sports or looking to level up, our guides have you covered.'
   items:
-    - title: Βασικά SUP
-      description: Όλα όσα πρέπει να γνωρίζει ένας αρχάριος — τύποι σανίδων, μέγεθος κουπιού, στάση και συμβουλές.
-      icon: tabler:lifebuoy
-      href: /learn/water-safety/
-    - title: Φουσκωτό vs Σκληρή Σανίδα
-      description: Ποιο είναι κατάλληλο για εσάς; Συγκρίνουμε φορητότητα, απόδοση και ανθεκτικότητα.
-      icon: tabler:arrows-left-right
-      href: /compare/technology/
-    - title: Ασφάλεια Νερού
-      description: Βασική γνώση ασφαλείας — καιρός, PFD, αυτοδιάσωση και άλλα.
-      icon: tabler:shield
-      href: /learn/water-safety/
-    - title: Οδηγός Υλικών
-      description: Κατηγορίες PVC, τεχνολογία drop-stitch — κατανοήστε από τι είναι φτιαγμένος ο εξοπλισμός σας.
-      icon: tabler:flask
-      href: /learn/materials/
-    - title: Οδηγός Μεγέθους SUP
-      description: Βρείτε το σωστό μήκος, πλάτος και όγκο σανίδας για εσάς.
-      icon: tabler:ruler
-      href: /size-guide/
-    - title: Ενδιάμεσες Τεχνικές
-      description: Ανεβάστε επίπεδο με προηγμένες κινήσεις και τεχνικές στροφής.
-      icon: tabler:droplet
-      href: /learn/intermediate-techniques/
+    - title: 'pool Basics'
+      description: 'Everything a new owner needs to know — pool types, pump operation, water care, and first-day tips.'
+      icon: 'tabler:lifebuoy'
+      href: '/learn/water-safety/'
+    - title: 'Inflatable vs rigid pools'
+      description: 'Which is right for you? We compare portability, performance, durability, and cost side by side.'
+      icon: 'tabler:arrows-left-right'
+      href: '/compare/technology/'
+    - title: 'Water Safety'
+      description: 'Essential safety knowledge every pool owner should have — supervision, filtration, maintenance, and more.'
+      icon: 'tabler:shield'
+      href: '/learn/water-safety/'
+    - title: 'Materials Guide'
+      description: 'PVC grades, drop-stitch technology, denier ratings — understand what your gear is made of.'
+      icon: 'tabler:flask'
+      href: '/learn/materials/'
+    - title: 'pool Size Guide'
+      description: 'Find the right pool length, width, and depth for your space, household, and swimming style.'
+      icon: 'tabler:ruler'
+      href: '/size-guide/'
+    - title: 'Intermediate Techniques'
+      description: 'Step up your swimming with advanced strokes, turning techniques, and rough-water handling.'
+      icon: 'tabler:droplet'
+      href: '/learn/intermediate-techniques/'
+
 categories:
-  tagline: Κατηγορίες
-  title: Εξερευνήστε ανά θέμα
-  subtitle: Όλο το μαθησιακό περιεχόμενο οργανωμένο ανά επίπεδο δεξιοτήτων.
+  tagline: 'Categories'
+  title: 'Explore by topic'
+  subtitle: 'All learning content organized by skill level and interest.'
   columns:
-    - title: Αρχάριος
+    - title: 'Beginner'
       items:
-        - Βασικά SUP — ξεκινήστε εδώ
-        - Φουσκωτό vs Σκληρή Σανίδα
-        - Βασικά Ασφάλειας Νερού
-        - Πώς να Επιλέξετε το SUP σας
-        - Οδηγός Αντλίας & Συσκευασίας
-    - title: Ενδιάμεσος
+        - 'pool Basics — start here'
+        - 'Inflatable vs rigid pools'
+        - 'Water Safety Essentials'
+        - 'How to Choose Your pool'
+        - 'Pump & Pack Guide'
+    - title: 'Intermediate'
       items:
-        - Τεχνικές Κωπηλασίας
-        - Τεχνολογία Φουσκωτών
-        - Αναφορά Υλικών
-        - Σύγκριση Κατηγοριών PVC
-        - Εξήγηση Drop-Stitch Core
-    - title: Προχωρημένος & Επαγγελματίας
+        - 'swimming Techniques'
+        - 'Inflatable Technology'
+        - 'Materials Reference'
+        - 'PVC Grades Comparison'
+        - 'Drop-Stitch Core Explained'
+    - title: 'Advanced & Professional'
       items:
-        - Λειτουργίες Στόλου
-        - Εξοπλισμός Εμπορικής Κατηγορίας
-        - Πρωτόκολλα Ασφάλειας & Διάσωσης
-        - Προσαρμοσμένες Κατασκευές & OEM
+        - 'Fleet Operations'
+        - 'Commercial-Grade Equipment'
+        - 'Safety & Rescue Protocols'
+        - 'Custom Builds & OEM'
+
 cta:
-  title: Ακόμα έχετε ερωτήσεις;
-  subtitle: Ρωτήστε τον οδηγό AI μας για εξατομικευμένες απαντήσεις.
+  title: 'Still have questions?'
+  subtitle: 'Ask our AI guide for personalized answers about gear, safety, and techniques.'
   actions:
     - variant: primary
-      text: Ρωτήστε τον Σύμβουλο Νερού AI
+      text: 'Ask the Water Advisor AI'
       href: '/ai-answer-center/'
-    - text: Περιηγηθείτε σε όλους τους οδηγούς
-      href: /academy/
+    - text: 'Browse all guides'
+      href: '/academy/'

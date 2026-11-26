@@ -1,167 +1,158 @@
 meta:
-  title: 'Ons Verhaal — Fabrikant van Opblaasbare SUPs | {SITE}'
-  description: 'Van een kustwerkplaats tot een wereldwijde maritieme fabrikant: het afaar-verhaal van techniek en vrijheid op het water met een gecertificeerde fabriek van 12.000 m².'
+  title: 'Our Story — inflatable pools Manufacturer | {SITE}'
+  description: 'From a coastal workshop to a global marine manufacturer: the olagoon story of engineering freedom on water with a 12,000 m² certified factory.'
   keywords:
-    - 'olagoon geschiedenis'
-    - 'merk olagoon'
-    - 'fabrikant opblaasbare SUP'
-    - 'fabrikant opblaasbare SUP-boards'
+    - 'olagoon history'
+    - 'olagoon brand'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pools manufacturer'
 hero:
-  tagline: Ons Verhaal
-  title: olagoon — Vrijheid op het Water Ontwerpen
-  subtitle: 'Van een kustwerkplaats tot een wereldwijde maritieme fabrikant — onze reis is gebouwd op een hardnekkige overtuiging: vaartuigen moeten worden ontworpen alsof ze ertoe doen, omdat ze ertoe doen.'
+  tagline: Our Story
+  title: 'olagoon — Engineering Freedom On Water'
+  subtitle: 'From a coastal workshop to a global marine manufacturer — our journey is built on a stubborn belief: watercraft should be engineered like they matter, because they do.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: olagoon fabriek en maritieme productiefaciliteit in Qingdao
+    alt: olagoon factory and marine manufacturing facility in Qingdao
+
 stats:
-  title: olagoon in cijfers
+  title: olagoon by the Numbers
   stats:
-    - title: Opgericht
+    - title: Founded
       amount: 2012
-    - title: Faciliteit
-      amount: 12.000 m²
-    - title: Bediende landen
+    - title: Facility
+      amount: '12,000 m²'
+    - title: Countries Served
       amount: '50+'
-    - title: Jaarlijkse capaciteit
-      amount: 15.000+ eenheden
-    - title: Medewerkers
+    - title: Annual Capacity
+      amount: '15,000+ units'
+    - title: Employees
       amount: '200+'
-    - title: R&D-ingenieurs
+    - title: R&D Engineers
       amount: '14+'
+
 timeline:
-  - year: Twee duizend twaalf
-    title: Maritieme productiebasis
-    body: >-
-      olagoon begon als een gespecialiseerde werkplaats voor opblaasbare vaartuigen in Qingdao, China, toegewijd aan maritiem vakmanschap en de productie van vaartuigen. De vroege focus lag op het bouwen van betrouwbare opblaasbare producten door praktische technische ervaring en
-      productiediscipline.
-  - year: Tweeduizend vijftien
-    title: Eerste export & CE-certificering
-    body: De eerste exportorders bereikten Japan en Korea. CE-certificering werd behaald voor de kernproductlijnen, wat de toetreding van olagoon tot internationale markten markeerde. Het bedrijf begon commerciële en recreatieve gebruikers buiten China te bedienen.
-  - year: Twee duizend achttien
-    title: Fabrieksuitbreiding
-    body: Verhuizing naar een productiefaciliteit van 12.000 m². Toevoeging van HF-laslijnen en drop-stitch productiecapaciteit, waardoor productie op grotere schaal en verbeterde kwaliteitscontrolesystemen mogelijk werden.
-  - year: Twee duizend twintig
-    title: R&D-centrum opgericht
-    body: Opening van een toegewijd R&D-centrum met PVC-stoffenlaboratorium, hydrodynamische testtank en CAD/FEA-simulatiestudio. Productontwikkeling richtte zich op lichtgewicht constructie, verbeterde duurzaamheid en gebruikersgericht ontwerp.
-  - year: Tweeduizendtweeëntwintig
-    title: Certificering & wereldwijde groei
-    body: ISO 9001-certificering behaald. Uitbreiding naar 14 R&D-ingenieurs en 200+ werknemers. Producten bereikten klanten in Europa, Amerika en Azië-Pacific via distributeurs- en co-brand partnerschappen.
-  - year: Tweeduizend vierentwintig
-    title: Innovatie- & designstudio
-    body: Lancering van een volwaardige design- en innovatiestudio voor maatwerk co-brand projecten, van concept tot productie. Versterking van professionele maritieme toepassingen, waaronder reddings-, commerciële en overheidscontracten.
-  - year: Tweeduizend zesentwintig
-    title: De toekomst van waterverkenning bouwen
-    body: Vandaag blijft olagoon SUP-systemen en maritieme accessoires ontwikkelen — mensen en organisaties verbinden met de wateren van de wereld. 50+ landen bediend, 15.000+ eenheden jaarlijkse capaciteit.
+  - year: '2012'
+    title: 'Marine Manufacturing Foundation'
+    body: 'olagoon began as a specialized watercraft workshop in Qingdao, China, committed to marine craftsmanship and watercraft manufacturing. The early focus was building reliable inflatable products through practical engineering experience and manufacturing discipline.'
+  - year: '2015'
+    title: 'First Export & CE Certification'
+    body: "Initial export orders reached Japan and Korea. CE certification was achieved for core product lines, marking olagoon's entry into international markets. The company began serving commercial and recreational users beyond China."
+  - year: '2018'
+    title: 'Factory Expansion'
+    body: 'Relocated to a 12,000 m² production facility. Added RF welding lines and drop-stitch production capacity, enabling larger-scale manufacturing and improved quality control systems.'
+  - year: '2020'
+    title: 'R&D Center Established'
+    body: 'Opened a dedicated R&D center with PVC fabric lab, hydrodynamic test tank, and CAD/FEA simulation studio. Product development expanded to focus on lightweight construction, improved durability, and user-centered design.'
+  - year: '2022'
+    title: 'Certification & Global Growth'
+    body: 'Achieved ISO 9001 certification. Expanded to 14 R&D engineers and 200+ workers. Products reached customers across Europe, Americas, and Asia-Pacific through distributor and co-brand partnerships.'
+  - year: '2024'
+    title: 'Innovation & Design Studio'
+    body: 'Launched full-service design and innovation studio for custom co-brand projects, from concept to production. Strengthened professional marine applications including rescue, commercial, and government contracts.'
+  - year: '2026'
+    title: 'Building The Future Of Water Exploration'
+    body: "Today, olagoon continues to develop pool systems and marine accessories — connecting people and organizations with the world's waters. 50+ countries served, 15,000+ units annual capacity."
+
 content_founding:
-  tagline: Het begin
-  title: Geboren aan het water
-  subtitle: 'olagoon startte in een kustwerkplaats in Qingdao met één board en een visie: opblaasbare vaartuigen bouwen die echte maritieme omstandigheden aankunnen.'
+  tagline: The Beginning
+  title: 'Born on the Waterfront'
+  subtitle: 'OLagoon started in a Qingdao workshop in 2012 with one pool and a vision: to build inflatable pools that could handle real family use, season after season.'
   paragraphs:
-    - In 2012 zagen onze oprichters een gat in de markt — de meeste opblaasbare vaartuigen waren betaalbaar maar onbetrouwbaar, of van hoge kwaliteit maar ontoegankelijk duur. Zij geloofden dat er ruimte was voor een fabrikant die zowel kwaliteit als waarde bood.
-    - De eerste romp werd met de hand gebouwd, getest in lokale wateren en verfijnd op basis van echte feedback van vissers en kleine commerciële gebruikers. Die feedbackloop — bouwen, testen, luisteren, verbeteren — blijft vandaag de kern van onze technische filosofie.
-    - In 2015 had het nieuws zich verspreid voorbij Qingdao. Internationale distributeurs begonnen monsters aan te vragen. Wat begon als een lokale werkplaats, werd een wereldwijde leverancier.
+    - 'In 2012, our founders saw a gap in the market — most inflatable watercraft were either affordable but unreliable, or high-quality but prohibitively expensive. They believed there was room for a manufacturer that delivered both quality and value.'
+    - 'The first hull was built by hand, tested in local waters, and refined based on real feedback from fishermen and small commercial operators. That feedback loop — build, test, listen, improve — remains at the core of our engineering philosophy today.'
+    - 'By 2015, word had spread beyond Qingdao. International distributors began requesting samples. What started as a local workshop was becoming a global supplier.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: Vroege productiewerkplaats en fabricage van olagoon
+    alt: olagoon early production workshop and manufacturing
+
 content_growth:
-  tagline: Groei & innovatie
-  title: Van werkplaats naar 12.000 m² faciliteit
-  subtitle: Continue investering in mensen, apparatuur en processen heeft olagoon getransformeerd tot een moderne maritieme productiefaciliteit.
+  tagline: Growth & Innovation
+  title: 'From Workshop to 12,000 m² Facility'
+  subtitle: 'Continuous investment in people, equipment, and process has transformed olagoon into a modern marine manufacturing facility.'
   paragraphs:
-    - Naarmate de vraag groeide, groeide ook onze faciliteit. We breidden uit van een kleine werkplaats naar een fabriek van 12.000 m² met speciale productielijnen voor SUP-boards en accessoires.
-    - We investeerden in CNC-snijmachines, hoogfrequente lasapparatuur, drop-stitch productielijnen en uitgebreide testopstellingen — zodat we elk aspect van de productiekwaliteit kunnen beheersen.
-    - Vandaag omvat ons team van 200+ medewerkers maritieme ingenieurs, materiaalwetenschappers, kwaliteitscontrolespecialisten en bekwame vakmensen — van wie velen sinds de begindagen bij olagoon werken.
+    - 'As demand grew, so did our facility. We expanded from a small workshop to a 12,000 m² factory with dedicated production lines for pools and accessories.'
+    - 'We invested in CNC cutting machines, high-frequency welding equipment, drop stitch production lines, and comprehensive testing rigs — allowing us to control every aspect of production quality.'
+    - 'Today, our team of 200+ includes marine engineers, material scientists, quality control specialists, and skilled craftspeople — many of whom have been with olagoon since the early days.'
+
 philosophy:
-  tagline: Merkfilosofie
-  title: Vrijheid op het Water Ontwerpen
-  body: Vrijheid op het water gaat niet alleen over beweging. Het vertegenwoordigt het ontdekken van nieuwe plekken, het creëren van buitenervaringen, het verbinden van mensen met de natuur en het mogelijk maken van professionele missies. Techniek maakt die vrijheid mogelijk.
+  tagline: 'Brand Philosophy'
+  title: 'Engineering Freedom On Water'
+  body: 'Freedom on water is not only about movement. It represents discovering new places, creating outdoor experiences, connecting people with nature, and enabling professional missions. Engineering makes that freedom possible.'
   pillars:
-    - title: Betrouwbaarheid voorop
-      body: Wateromgevingen vragen om vertrouwen. olagoon-producten zijn ontworpen voor stabiliteit, duurzaamheid, veiligheid en consistente prestaties.
-    - title: Mensgericht ontwerp
-      body: Producten moeten mensen dienen, niet technologie. Elke ontwerpbeslissing begint met het begrijpen van hoe mensen vaartuigen gebruiken, waar ze verkennen en welke uitdagingen ze tegenkomen.
-    - title: Toegankelijke verkenning
-      body: Water zou niet alleen voor experts moeten zijn. olagoon creëert uitrusting waarmee meer mensen veilig rivieren, meren, oceanen en kustomgevingen kunnen ervaren.
-    - title: Continue innovatie
-      body: Innovatie is niet alleen het creëren van nieuwe producten. Het is het verbeteren van elk detail — materialen, constructies, productie en gebruikerservaring.
+    - title: 'Reliability First'
+      body: 'Water environments demand trust. olagoon products are designed around stability, durability, safety, and consistent performance.'
+    - title: 'Human-Centered Design'
+      body: 'Products should serve people, not technology. Every design decision begins with understanding how people use watercraft, where they explore, and what challenges they face.'
+    - title: 'Accessible Exploration'
+      body: 'Water should not belong only to experts. olagoon creates equipment that allows more people to safely experience rivers, lakes, oceans, and coastal environments.'
+    - title: 'Continuous Innovation'
+      body: 'Innovation is not only creating new products. It is improving every detail — materials, structures, manufacturing, and user experience.'
+
 engineeringDna:
-  tagline: Technische DNA
-  title: Hoe olagoon producten maakt
+  tagline: 'Engineering DNA'
+  title: 'How olagoon Creates Products'
   areas:
-    - title: Materiaalkunde
-      body: olagoon richt zich op het selecteren van geschikte materialen voor verschillende maritieme omgevingen. Belangrijke overwegingen zijn slijtvastheid, UV-bestendigheid, drukstabiliteit en duurzaamheid op lange termijn.
-      items:
-        - Slijtvastheid
-        - UV-bestendigheid
-        - Drukstabiliteit
-        - Duurzaamheid op lange termijn
-    - title: Constructietechniek
-      body: Opblaasbare vaartuigen vereisen een precieze balans tussen stijfheid, gewicht, draagbaarheid en stabiliteit. olagoon-engineering richt zich op het optimaliseren van deze factoren door middel van drop-stitch kerntechnologie en geavanceerde naadconstructie.
-      items:
-        - Stijfheid
-        - Gewichtsoptimalisatie
-        - Draagbaarheid
-        - Stabiliteit
-    - title: Productieprecisie
-      body: 'Elk product doorloopt gecontroleerde processen: materiaalvoorbereiding, precisiesnijden, lassen en verbinden, montage, kwaliteitsinspectie en prestatieverificatie.'
-      items:
-        - Materiaalvoorbereiding
-        - Precisiesnijden
-        - Lassen & Verbinden
-        - Montage & QC
-    - title: Gebruikersscenario-engineering
-      body: Producten worden ontwikkeld rondom echte toepassingen — recreatie, avontuur en professioneel gebruik — zodat elk ontwerp voldoet aan de specifieke eisen van de beoogde omgeving.
-      items:
-        - Recreatie
-        - Avontuur
-        - Professioneel
-        - Commercieel
+    - title: 'Material Science'
+      body: 'olagoon focuses on selecting appropriate materials for different marine environments. Key considerations include abrasion resistance, UV resistance, pressure stability, and long-term durability.'
+      items: ['Abrasion Resistance', 'UV Resistance', 'Pressure Stability', 'Long-Term Durability']
+    - title: 'Structural Engineering'
+      body: 'Inflatable watercraft require precise balance between rigidity, weight, portability, and stability. olagoon engineering focuses on optimizing these factors through drop-stitch core technology and advanced seam construction.'
+      items: ['Rigidity', 'Weight Optimization', 'Portability', 'Stability']
+    - title: 'Manufacturing Precision'
+      body: 'Every product goes through controlled processes: material preparation, precision cutting, welding and bonding, assembly, quality inspection, and performance verification.'
+      items: ['Material Prep', 'Precision Cutting', 'Welding & Bonding', 'Assembly & QC']
+    - title: 'User Scenario Engineering'
+      body: 'Products are developed around real applications — recreation, adventure, and professional use — ensuring each design meets the specific demands of its intended environment.'
+      items: ['Recreation', 'Adventure', 'Professional', 'Commercial']
+
 trustSignals:
-  tagline: Vertrouwenssignalen
-  title: Waarom olagoon een betrouwbare partner is
+  tagline: 'Trust Signals'
+  title: 'Why olagoon Is A Reliable Partner'
   manufacturing:
-    title: Productiecapaciteit
-    body: 12.000 m² productiefaciliteit met 200+ bekwame medewerkers en 14+ R&D-ingenieurs. ISO 9001-gecertificeerd kwaliteitsmanagementsysteem. Jaarlijkse productie van 15.000+ opblaasbare vaartuigen voor 50+ landen.
+    title: 'Manufacturing Capability'
+    body: '12,000 m² production facility with 200+ skilled workers and 14+ R&D engineers. ISO 9001 certified quality management system. Annual output of 15,000+ watercraft units serving 50+ countries.'
     stats:
-      - label: Faciliteitsgrootte
-        value: 12.000 m²
-      - label: Werknemers
+      - label: 'Facility Size'
+        value: '12,000 m²'
+      - label: 'Workforce'
         value: '200+'
-      - label: R&D-ingenieurs
+      - label: 'R&D Engineers'
         value: '14+'
-      - label: Jaarlijkse capaciteit
-        value: 15.000+
+      - label: 'Annual Capacity'
+        value: '15,000+'
   quality:
-    title: Kwaliteitsbelofte
-    body: Van materiaalinspectie tot eindtesten, olagoon handhaaft systematische kwaliteitsprocessen om betrouwbare maritieme producten te leveren. Elke eenheid ondergaat druktesten, naadinspectie en prestatieverificatie vóór verzending.
+    title: 'Quality Commitment'
+    body: 'From material inspection to final testing, olagoon maintains systematic quality processes to deliver dependable marine products. Every unit undergoes pressure testing, seam inspection, and performance verification before shipping.'
     items:
-      - CE Certified — Alle producten voldoen aan Europese veiligheidsnormen
-      - ISO 9001:2015 — Gecertificeerd kwaliteitsmanagementsysteem
-      - UKCA Marked — Conformiteit voor de Britse markt
-      - FCC Compliant — Naleving van Amerikaanse elektronische componenten
+      - 'CE Certified — All products meet European safety standards'
+      - 'ISO 9001:2015 — Quality management system certified'
+      - 'UKCA Marked — UK market conformity'
+      - 'FCC Compliant — US electronic component compliance'
   global:
-    title: Wereldwijde aanwezigheid
-    body: olagoon bedient klanten in meerdere wereldwijde markten en ondersteunt distributeurs, outdoormerken en professionele maritieme gebruikers in 50+ landen in Europa, Azië-Pacific, Amerika, het Midden-Oosten en Afrika.
+    title: 'Global Presence'
+    body: 'olagoon serves customers across multiple global markets, supporting distributors, outdoor brands, and professional marine users in 50+ countries across Europe, Asia-Pacific, Americas, Middle East, and Africa.'
+
 comparison:
-  tagline: Merkpositionering
-  title: olagoon in de markt
-  position: Technisch gericht maritiem recreatiemerk dat expertise in de productie van opblaasbare producten combineert met co-brand collecties, maatwerkoplossingen en diepgaande productie-ervaring.
+  tagline: 'Brand Positioning'
+  title: 'olagoon in the Market'
+  position: 'Engineering-focused marine recreation brand combining inflatable production expertise with co-branded collections, custom solutions, and deep manufacturing experience.'
   strengths:
-    - Technische expertise in opblaasbare vaartuigen
-    - Volledige co-brand- en private-label-capaciteit
-    - Maatwerk productontwikkeling en ontwerp
-    - 12.000 m² ISO 9001-gecertificeerde productiefaciliteit
+    - 'Inflatable watercraft engineering expertise'
+    - 'Full co-brand and private-label capability'
+    - 'Custom product development and design'
+    - '12,000 m² ISO 9001 certified production facility'
   bestFor:
-    - Buitenrecreatiegebruikers die op zoek zijn naar betrouwbare opblaasbare vaartuigen
-    - Maritieme gebruikers die apparatuur van commerciële kwaliteit nodig hebben
-    - Merkpartners die co-brand collecties zoeken
-    - Professionele reddings- en patrouilleorganisaties
+    - 'Outdoor recreation users seeking reliable inflatable watercraft'
+    - 'Marine operators requiring commercial-grade equipment'
+    - 'Brand partners seeking co-branded collections'
+    - 'Professional rescue and patrol organizations'
+
 cta:
-  title: Klaar om samen te werken met een fabrikant<br />die om kwaliteit geeft?
-  subtitle: Neem contact op met ons team om uw co-brand- of private-label-project te bespreken — geen minimale besteldruk, alleen eerlijk advies.
+  title: 'Ready to partner with a manufacturer<br />that cares about quality?'
+  subtitle: 'Contact our team to discuss your co-brand or private-label project — no minimum order pressure, just honest advice.'
   actions:
     - variant: primary
-      text: Start een gesprek
+      text: Start a conversation
       href: /contact/
-    - text: Ontdek onze producten
+    - text: Explore our products
       href: /products/

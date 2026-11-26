@@ -1,108 +1,110 @@
 meta:
-  title: 'Znalosti — průvodci SUP | {SITE}'
-  description: 'Znalostní báze olagoona: průvodci nafukovacími SUP prkny, materiály paddleboardů, výběrem prken a oborovými poznatky pro značky a profesionály.'
+  title: 'Knowledge — Pool Guides | {SITE}'
+  description: 'OLagoon knowledge base: guides on drop-stitch pools, pool materials, water care, and industry insights for owners and professionals.'
   keywords:
-    - 'znalosti o SUP'
-    - 'průvodce nafukovacím SUP'
-    - 'materiály paddleboardů'
-    - 'oborové poznatky SUP'
+    - 'pool knowledge'
+    - 'drop stitch pool guide'
+    - 'inflatable pool materials'
+    - 'pool care insights'
 hero:
-  tagline: Znalostní graf
-  title: Znalosti o objevování vod
+  tagline: 'Knowledge Graph'
+  title: 'Backyard Pool Knowledge'
   subtitle: |
-    Strukturovaná znalostní báze pokrývající technologii nafukovacích SUP,<br />
-    bezpečnost na vodě, inženýrství prken a plánování dobrodružství.
-  taglineSection: Objevujte. Učte se. Jděte s jistotou.
-clusters:
-  tagline: Znalostní klastry
-  title: Objevujte podle tématu
-  subtitle: Hluboké ponory do technologie, bezpečnosti a dovedností za každým produktem olagoon.
-  items:
-    - title: Znalosti o SUP
-      description: Od výběru prvního prkna po pokročilé techniky touringu — vše o paddleboardingu.
-      icon: tabler:lifebuoy
-      topics:
-        - Jak vybrat své první nafukovací SUP
-        - Nejlepší velikost SUP pro začátečníky
-        - Jak náročné je paddleboarding?
-        - Srovnání nafukovacího a pevného prkna
-        - Bezpečnostní checklist pro SUP
-    - title: Inženýrství a technologie SUP
-      description: Technické průvodce o nafukovacích SUP deskách — materiály, konstrukční metody a výrobní procesy.
-      icon: tabler:microscope
-      topics:
-        - Detailní pohled na drop-stitch technologii
-        - Vojenské specifikace PVC
-        - Fúzní laminace vs. lepení
-        - Technologie EVA pěny a metody grafiky
-        - Typy ventilů SUP a systémy ploutví
+    A structured knowledge base covering drop-stitch pool technology,<br />
+    water safety, materials engineering, and seasonal pool care.
+  taglineSection: 'Explore. Learn. Swim with confidence.'
 
-    - title: Bezpečnostní znalosti
-      description: Základní bezpečnostní znalosti pro každého pádlujícího — od výběru PFD po čtení počasí a techniky sebezáchrany.
-      icon: tabler:shield
-      topics:
-        - Bezpečnostní checklist pro SUP
-        - Potřebujete záchrannou vestu?
-        - Bezpečnostní průvodce pádlováním v oceánu
-        - Techniky oprav nafukovacích výrobků
-        - Povědomí o počasí a vodních podmínkách
-    - title: Technologie
-      description: Inženýrství za produkty olagoon — materiály, konstrukční metody a testování kvality.
-      icon: tabler:microscope
-      topics:
-        - Námořní PVC technologie
-        - Drop-stitch jádro vysvětleno
-        - Proč záleží na PSI u nafukovacích SUP
-        - RF svařování vs lepení
-        - Testování kvality a certifikace
-    - title: SUP životní styl a speciální využití
-      description: Specializované SUP aktivity — jóga, rybaření, psi, rodiny a tipy na cestování.
-      icon: tabler:heart
-      topics:
-        - SUP jóga a meditace na vodě
-        - Rybaření z nafukovacího SUP
-        - Paddleboarding se psy a dětmi
-        - Cestování se SUP letadlem a autem
-        - SUP příslušenství a nezbytné vybavení
-    - title: Porovnání SUP prken a reference
-      description: Srovnání vedle sebe, která vám pomohou učinit informované rozhodnutí.
-      icon: tabler:chart-bar
-      topics:
-        - SUP nebo kajak — co je pro vás to pravé?
-        - Vysvětlení materiálových tříd PVC
-        - Jedna komora vs. více komor — bezpečnost
-        - Vysvětlení materiálů SUP prken
-        - UV tisk vs. EVA bloky s potiskem
-featured_guides:
-  tagline: Doporučené průvodce
-  title: Nejoblíbenější znalostní zdroje
+clusters:
+  tagline: 'Knowledge Clusters'
+  title: 'Explore by topic'
+  subtitle: 'Deep dives into the technology, safety, and care behind every OLagoon product.'
   items:
-    - title: Základy SUP
-      href: /learn/water-safety/
-    - title: Nafukovací vs pevné prkno
-      href: /compare/technology/
-    - title: Bezpečnostní průvodce na vodě
-      href: /learn/water-safety/
-    - title: Materiálová reference
-      href: /learn/materials/
-    - title: Průvodce velikostí SUP
-      href: /size-guide/
-    - title: Průvodce velikostí SUP
-      href: /guides/sup-size-guide/
-    - title: SUP technické centrum
-      href: /research/
-    - title: Údržba SUP
-      href: /technology/
-    - title: Průvodce touringem
-      href: /guides/sup-for-touring/
-    - title: Techniky pádlování
-      href: /technology/
+    - title: 'Pool Buying Guides'
+      description: 'From choosing your first pool to comparing sizes — everything about drop-stitch pools.'
+      icon: 'tabler:lifebuoy'
+      topics:
+        - 'How to choose your first drop-stitch pool'
+        - 'Pool size and capacity guide'
+        - 'Compact Plunge vs Family Oasis vs Grand Lagoon'
+        - 'Common pool buying mistakes to avoid'
+        - 'Inflatable vs rigid pool comparison'
+    - title: 'Pool Engineering & Technology'
+      description: 'Technical guides on drop-stitch pools — materials, construction methods, and manufacturing processes.'
+      icon: 'tabler:microscope'
+      topics:
+        - 'Drop-stitch technology deep dive'
+        - 'Marine-grade PVC specifications'
+        - 'Fusion lamination vs adhesive bonding'
+        - 'Reinforced rail and seam engineering'
+        - 'Pool valve types and pressure ratings'
+    - title: 'Pool Safety & Maintenance'
+      description: 'Essential safety knowledge for every pool owner — from supervision rules to water care and repair.'
+      icon: 'tabler:shield'
+      topics:
+        - 'Pool safety checklist and supervision rules'
+        - 'Water care and sanitation basics'
+        - 'Pool inflation PSI guide (10–15 PSI)'
+        - 'Pool storage and winter care'
+        - 'PVC repair techniques'
+    - title: 'Pool Setup & Water Care'
+      description: 'Setup routines, filtration schedules, and water chemistry for a season of clear water.'
+      icon: 'tabler:droplet'
+      topics:
+        - 'First setup: unbox to swim in 30 minutes'
+        - 'Sand filter pump operation and backwashing'
+        - 'Water testing and chemical balance'
+        - 'Algae prevention and troubleshooting'
+        - 'Thermal covers and heat retention'
+    - title: 'Pool Lifestyle & Family'
+      description: 'Getting the most from your pool — family fun, exercise, pets, and entertaining.'
+      icon: 'tabler:heart'
+      topics:
+        - 'Pool games and activities for kids'
+        - 'Water exercise and low-impact fitness'
+        - 'Pool time with dogs and pets'
+        - 'Moving your pool: storage between homes'
+        - 'Pool accessories and gear essentials'
+    - title: 'Pool Comparisons & References'
+      description: 'Side-by-side comparisons to help you make informed decisions.'
+      icon: 'tabler:chart-bar'
+      topics:
+        - 'Inflatable pool vs rigid pool — which is right for you?'
+        - 'PVC material grades explained'
+        - 'Single chamber vs multi-chamber construction'
+        - 'Pool wall heights explained (20 cm standard)'
+        - 'Digital printing vs in-mold graphics'
+
+featured_guides:
+  tagline: 'Featured Guides'
+  title: 'Most popular knowledge resources'
+  items:
+    - title: 'Pool Setup Guide'
+      href: '/guides/pool-setup-guide/'
+    - title: 'Inflatable vs Rigid Pools'
+      href: '/compare/inflatable-vs-hardboard/'
+    - title: 'Water Safety Guide'
+      href: '/learn/water-safety/'
+    - title: 'Materials Reference'
+      href: '/learn/materials/'
+    - title: 'Pool Buying Guide'
+      href: '/guides/choosing-a-drop-stitch-pool/'
+    - title: 'Pool Filtration Guide'
+      href: '/guides/pool-filtration-guide/'
+    - title: 'Pool Tech Center'
+      href: '/research/'
+    - title: 'Pool Water Care'
+      href: '/guides/pool-water-care/'
+    - title: 'Winter Storage Guide'
+      href: '/guides/pool-winter-storage/'
+    - title: 'Site Preparation Guide'
+      href: '/guides/pool-site-preparation/'
+
 cta:
-  title: Začněte objevovat
-  subtitle: Ponořte se do naší znalostní báze a získejte informace, které potřebujete pro své další vodní dobrodružství.
+  title: 'Start exploring'
+  subtitle: 'Dive into our knowledge base and get the information you need for your backyard pool.'
   actions:
     - variant: primary
-      text: Prohlížet všechny průvodce
-      href: /academy/
-    - text: Prozkoumat znalostní graf
-      href: /knowledge/
+      text: 'Browse all guides'
+      href: '/academy/'
+    - text: 'Explore Knowledge Graph'
+      href: '/knowledge/'

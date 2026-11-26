@@ -1,120 +1,120 @@
 meta:
-  title: 'Makmal Kualiti & Pemeriksaan — Ujian & Pensijilan SUP Mematuhi ISO | {SITE}'
-  description: 'Pengesahan kualiti bebas bagi SUP boleh tiup. Ujian tegangan, kitaran pengekalan udara, ujian pengelupasan jahitan dan pensijilan bahan. Hubungi makmal kualiti kami untuk ujian pihak ketiga.'
-back_text: 'Kembali ke Pusat R&D'
-home_label: 'Utama'
+  title: 'Quality & Inspection Lab — ISO-Compliant pool Testing & Certification | {SITE}'
+  description: 'Independent quality verification for inflatable pools. Tensile testing, air-retention cycling, seam peel tests, and material certification. Contact our quality lab for third-party testing.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
 
 hero:
-  tagline: 'Makmal 06'
-  title: 'Makmal Kualiti & Pemeriksaan'
-  subtitle: 'Pengesahan bebas — setiap ujian diluluskan sebelum penyerahan'
+  tagline: 'Lab 06'
+  title: 'Quality & Inspection Lab'
+  subtitle: 'Independent verification — every test passed before delivery'
   image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp'
-  image_alt: 'ujian UV makmal pemeriksaan kualiti OLagoon'
+  image_alt: 'OLagoon quality inspection laboratory UV testing'
 
-intro: 'Setiap papan yang meninggalkan bengkel kami membawa pensijilan bahawa ia telah lulus satu set pemeriksaan kualiti dan ujian bahan yang ditetapkan. Makmal Kualiti & Pemeriksaan kami ialah fungsi bebas dalam organisasi — ia melapor terus kepada pengarah urusan, bukan kepada pengeluaran — memastikan tiada tekanan komersial boleh menjejaskan pintu gerbang pemeriksaan. Jika satu kelompok bahan atau papan siap tidak memenuhi spesifikasi yang diterbitkan, makmal mempunyai kuasa untuk menghentikan penghantaran sehingga ketidakpatuhan itu diselesaikan.'
+intro: 'Every pool that leaves our workshop carries the certification that it has passed a defined set of quality inspections and material tests. Our Quality & Inspection Lab is an independent function within the organisation — it reports directly to the managing director, not to production — ensuring that no commercial pressure can compromise the inspection gate. If a material batch or a completed pool does not meet the published specification, the lab has the authority to halt shipment until the non-conformance is resolved.'
 
 content_html: |
-  <h2>Percayai, tetapi sahkan</h2>
-  <p>Makmal ini beroperasi di bawah sistem pengurusan kualiti yang sejajar dengan prinsip, dan kaedah ujian kami berasaskan piawaian ISO, ASTM dan EN di mana berkenaan. Kami mengekalkan rekod terperinci bagi setiap ujian yang dijalankan, mewujudkan rantaian jejakan penuh daripada penerimaan bahan mentah hingga penyerahan papan akhir.</p>
+  <h2>Trust, but verify</h2>
+  <p>The lab operates under a quality management system aligned with principles, and our test methods are based on ISO, ASTM, and EN standards wherever applicable. We maintain detailed records of every test performed, creating a complete traceability chain from raw material receipt to final pool delivery.</p>
 
-  <h2>Peralatan ujian dan keupayaan</h2>
+  <h2>Test equipment and capabilities</h2>
   <table>
-    <thead><tr><th>Peralatan</th><th>Ujian Dijalankan</th><th>Piawaian / Kaedah</th></tr></thead>
+    <thead><tr><th>Equipment</th><th>Tests Performed</th><th>Standard / Method</th></tr></thead>
     <tbody>
-      <tr><td>Mesin ujian universal (50 kN)</td><td>Kekuatan tegangan (fabrik), rintangan pengelupasan (jahitan), perambatan koyakan</td><td>ISO 1421, ISO 4674</td></tr>
-      <tr><td>Rangka ujian pengekalan udara (boleh atur cara)</td><td>Ketahanan lambung/kempis 1000 kitaran, ujian tahan tekanan 30 minit</td><td>EN ISO 25649 (dalaman)</td></tr>
-      <tr><td>Jig pengelupasan jahitan (pengelupasan 180° bermotor)</td><td>Kekuatan pengelupasan jahitan kimpalan dan jahitan lekat pada 100 mm/min</td><td>ISO 1421 / ASTM D1876</td></tr>
-      <tr><td>Penguji kepala hidrostatik</td><td>Rintangan penembusan air fabrik (0–1000 mbar)</td><td>ISO 811</td></tr>
-      <tr><td>Tolok ketebalan digital &amp; mikrometer</td><td>Ketebalan fabrik, ketebalan dinding rel, ketebalan filem pelekat</td><td>ISO 2286-3</td></tr>
-      <tr><td>Kebuk persekitaran</td><td>Pelarasan suhu (-40 °C hingga +80 °C) bagi ujian retak-sejuk dan penuaan haba</td><td>ISO 188, ISO 4675</td></tr>
-      <tr><td>Spektrofotometer warna</td><td>Pengukuran warna Delta-E selepas pendedahan UV</td><td>ISO 105-A05 / ASTM D2244</td></tr>
+      <tr><td>Universal testing machine (50 kN)</td><td>Tensile strength (fabric), peel resistance (seams), tear propagation</td><td>ISO 1421, ISO 4674</td></tr>
+      <tr><td>Air-retention test rig (programmable)</td><td>1000-cycle inflation/deflation endurance, 30 min pressure-hold test</td><td>EN ISO 25649 (internal)</td></tr>
+      <tr><td>Seam-peel jig (motorised 180° peel)</td><td>Weld and glued-seam peel strength at 100 mm/min</td><td>ISO 1421 / ASTM D1876</td></tr>
+      <tr><td>Hydrostatic head tester</td><td>Water penetration resistance of fabric (0–1000 mbar)</td><td>ISO 811</td></tr>
+      <tr><td>Digital thickness gauge &amp; micrometre</td><td>Fabric thickness, rail wall thickness, adhesive-film thickness</td><td>ISO 2286-3</td></tr>
+      <tr><td>Environmental chamber</td><td>Temperature conditioning (-40 °C to +80 °C) for cold-crack and heat-ageing tests</td><td>ISO 188, ISO 4675</td></tr>
+      <tr><td>Colour spectrophotometer</td><td>Delta-E colour measurement after UV exposure</td><td>ISO 105-A05 / ASTM D2244</td></tr>
     </tbody>
   </table>
 
-  <h2>Pintu gerbang pemeriksaan — daripada bahan hingga penghantaran</h2>
-  <p>Setiap papan mengikut pelan kualiti yang ditetapkan dengan titik pemeriksaan wajib. Tiada papan boleh melangkau pintu gerbang; setiap pintu gerbang mesti disahkan oleh pemeriksa kualiti sebelum peringkat pengeluaran seterusnya bermula.</p>
+  <h2>The inspection gates — from material to delivery</h2>
+  <p>Every pool follows a defined quality plan with mandatory inspection points. No pool can skip a gate; each gate must be signed off by a quality inspector before the next production stage begins.</p>
 
   <div class="not-prose my-8">
     <div class="relative">
       <div class="absolute left-4 top-0 bottom-0 w-0.5 bg-blue-200 dark:bg-blue-800"></div>
       <div class="space-y-6 relative">
         <div class="flex gap-4">
-          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Pintu 1</div>
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 1</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Pemeriksaan bahan masuk</p>
-            <p class="text-xs text-gray-500 mt-1">Kelompok fabrik, kelompok pelekat, perkakasan — semuanya disemak terhadap spesifikasi kemasukan sebelum dilepaskan kepada pengeluaran.</p>
+            <p class="text-sm font-semibold">Incoming material inspection</p>
+            <p class="text-xs text-gray-500 mt-1">Fabric batch, adhesive batch, hardware — all checked against incoming specification before release to production.</p>
           </div>
         </div>
         <div class="flex gap-4">
-          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Pintu 2</div>
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 2</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Pemeriksaan kimpalan dalam proses</p>
-            <p class="text-xs text-gray-500 mt-1">Kupon kimpalan pertama diuji (pengelupasan + visual) pada permulaan setiap syif pengeluaran.</p>
+            <p class="text-sm font-semibold">In-process weld inspection</p>
+            <p class="text-xs text-gray-500 mt-1">First-off weld coupon tested (peel + visual) at start of each production shift.</p>
           </div>
         </div>
         <div class="flex gap-4">
-          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Pintu 3</div>
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 3</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Ujian udara kebuk</p>
-            <p class="text-xs text-gray-500 mt-1">Setiap kebuk diberi tekanan sehingga 1.5 x tekanan kerja, ditahan 30 minit. Data direkod mengikut nombor siri.</p>
+            <p class="text-sm font-semibold">Chamber air test</p>
+            <p class="text-xs text-gray-500 mt-1">Each chamber pressurised to 1.5 x working pressure, held 30 min. Data logged per serial number.</p>
           </div>
         </div>
         <div class="flex gap-4">
-          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Pintu 4</div>
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 4</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Pemeriksaan pra-penghantaran</p>
-            <p class="text-xs text-gray-500 mt-1">Papan lengkap diperiksa: semua pengikat diketatkan, kelengkapan berfungsi, tiada kecacatan kosmetik. Senarai semak 100 perkara.</p>
+            <p class="text-sm font-semibold">Pre-delivery inspection</p>
+            <p class="text-xs text-gray-500 mt-1">Complete pool inspected: all fasteners torqued, fittings functional, no cosmetic defects. 100-point checklist.</p>
           </div>
         </div>
         <div class="flex gap-4">
-          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Pintu 5</div>
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 5</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Pensijilan akhir</p>
-            <p class="text-xs text-gray-500 mt-1">Laporan ujian disusun, rekod pemeriksaan disemak, Sijil Kesesuaian dikeluarkan.</p>
+            <p class="text-sm font-semibold">Final certification</p>
+            <p class="text-xs text-gray-500 mt-1">Test reports compiled, inspection records reviewed, Certificate of Conformance issued.</p>
           </div>
         </div>
       </div>
     </div>
   </div>
 
-  <h2>Metrik kualiti utama (purata bergerak 2025)</h2>
+  <h2>Key quality metrics (2025 rolling average)</h2>
   <div class="not-prose my-8 grid grid-cols-2 md:grid-cols-4 gap-4">
     <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
       <span class="block text-2xl font-bold text-blue-600">99.7 %</span>
-      <span class="text-xs text-gray-500">Hasil lulusan pertama (kelompok fabrik)</span>
+      <span class="text-xs text-gray-500">First-pass yield (fabric batch)</span>
     </div>
     <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
       <span class="block text-2xl font-bold text-blue-600">&lt; 0.2 %</span>
-      <span class="text-xs text-gray-500">Kadar kutipan kimpalan (meter linear)</span>
+      <span class="text-xs text-gray-500">Weld reject rate (linear metre)</span>
     </div>
     <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
       <span class="block text-2xl font-bold text-blue-600">100 %</span>
-      <span class="text-xs text-gray-500">Kebuk diuji udara sebelum pemasangan</span>
+      <span class="text-xs text-gray-500">Chambers air-tested before assembly</span>
     </div>
     <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
       <span class="block text-2xl font-bold text-blue-600">EN ISO 25649</span>
-      <span class="text-xs text-gray-500">Pematuhan kategori reka bentuk</span>
+      <span class="text-xs text-gray-500">Design category compliance</span>
     </div>
   </div>
 
-  <h2>Pasukan kualiti kami</h2>
-  <p>Makmal ini dikendalikan oleh seorang pengurus kualiti (10 tahun dalam QA marin, Jurutera Kualiti Bersijil ASQ), dua pemeriksa kualiti (setiap seorang dengan pensijilan NDT Tahap 2 dalam ujian visual) dan seorang juruteknik bahan yang bertanggungjawab bagi semua ujian fizikal. Pasukan ini menjalani ujian kecekapan tahunan melalui penyedia pihak ketiga bebas untuk memastikan keputusan ujian kami kekal tepat dan boleh dihasilkan semula.</p>
+  <h2>Our quality team</h2>
+  <p>The lab is staffed by a quality manager (10 years in marine QA, ASQ Certified Quality Engineer), two quality inspectors (each with Level 2 NDT certification in visual testing), and a materials technician responsible for all physical testing. The team undergoes annual proficiency testing through an independent third-party provider to ensure that our test results remain accurate and reproducible.</p>
 
-  <h2>Ujian bebas untuk pelanggan</h2>
-  <p>Makmal Kualiti &amp; Pemeriksaan kami tersedia untuk perkhidmatan ujian bebas. Jika anda perlu mengesahkan spesifikasi fabrik, mengesahkan sistem pelekat baharu atau mendapatkan laporan ujian pihak ketiga bagi kelayakan perolehan, kami boleh menjalankan ujian mengikut piawaian yang terpakai dan mengeluarkan laporan ujian bersijil.</p>
-  <p>Contoh kerja ujian pihak ketiga terkini:</p>
+  <h2>Independent testing for clients</h2>
+  <p>Our Quality &amp; Inspection Lab is available for independent testing services. If you need to verify a fabric specification, validate a new adhesive system, or obtain a third-party test report for a procurement qualification, we can perform the tests to the applicable standard and issue a certified test report.</p>
+  <p>Examples of recent third-party testing work:</p>
   <ul>
-    <li>Perbandingan kekuatan pengelupasan lima produk filem pelekat pesaing bagi sebuah program perolehan tentera Eropah.</li>
-    <li>Kajian penuaan dipercepat (UV + kitaran haba) bagi formulasi PVC berpigmen oren baharu, dengan pengukuran sementara berkala pada selang 500 jam.</li>
-    <li>Pengesahan pengekalan udara bagi 50 injap diafragma prototaip untuk reka bentuk kebuk tekanan tinggi baharu.</li>
+    <li>Peel-strength comparison of five competitive adhesive film products for a European military procurement programme.</li>
+    <li>Accelerated ageing study (UV + thermal cycling) for a new orange-pigmented PVC formulation, with regular interim measurements at 500 h intervals.</li>
+    <li>Air-retention validation of 50 prototype baffle valves for a new high-pressure chamber design.</li>
   </ul>
 
-  <h2>Komitmen kami kepada anda</h2>
-  <p>Apabila anda menerima papan OLagoon, anda turut menerima dosir kualitinya — rekod tersusun bagi keputusan ujian yang terpakai kepada papan khusus anda. Sijil kelompok fabrik, ujian pengelupasan kimpalan, log ujian udara kebuk dan senarai semak pemeriksaan pra-penghantaran. Setiap angka boleh dijejak. Setiap pemeriksa dikenal pasti. Ini bukan sekadar kertas kerja — ia adalah janji kami bahawa apa yang kami hantar adalah apa yang kami spesifikasikan.</p>
-  <p>Jika anda mempunyai kebimbangan kualiti pada bila-bila masa, anda boleh menghubungi makmal secara terus — butiran hubungan dicetak pada sijil kesesuaian anda. Kami mengambil setiap pertanyaan dengan serius dan berkomitmen untuk menjalankan siasatan rasmi dalam masa 48 jam.</p>
+  <h2>Our commitment to you</h2>
+  <p>When you receive an OLagoon pool, you also receive its quality dossier — a compiled record of the test results that apply to your specific pool. Fabric batch certificate, weld peel tests, chamber air-test logs, and pre-delivery inspection checklist. Every number is traceable. Every inspector is identified. This is not just paperwork — it is our promise that what we delivered is what we specified.</p>
+  <p>If you ever have a quality concern, you can contact the lab directly — the contact details are printed on your certificate of conformance. We take every query seriously and commit to a formal investigation within 48 hours.</p>
 
 cta:
-  title: 'Perlukan ujian bebas atau pengesahan kualiti?'
-  subtitle: 'Makmal kami menerima kerja ujian pihak ketiga — hubungi kami dengan keperluan anda.'
-  button_text: 'Hubungi makmal kualiti'
+  title: 'Need independent testing or quality verification?'
+  subtitle: 'Our lab accepts third-party testing work — contact us with your requirements.'
+  button_text: 'Contact the quality lab'
   button_link: /contact/

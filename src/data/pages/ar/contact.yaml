@@ -1,145 +1,146 @@
 meta:
-  title: 'اتصل بنا — استفسارات الشراكة والمنتجات | {SITE}'
-  description: 'تواصل مع olagoon للحصول على استفسارات الشراكة والعلامة المشتركة والعلامات الخاصة، أو الأساطيل الاحترافية. علامة ألواح SUP القابلة للنفخ، نرد خلال يومي عمل.'
+  title: 'Contact — Partnership & Product Inquiries | {SITE}'
+  description: 'Contact olagoon for partnership, co-brand, and private-label inquiries, or professional fleets. inflatable pools brand, we respond within 2 business days.'
   keywords:
-    - 'اتصل بـ olagoon'
-    - 'عرض SUP للموزعين'
-    - 'مورّد SUP محترف'
-    - 'التواصل مع مصنّع SUP'
+    - 'pool distributor quote'
+    - 'professional pool supplier'
+    - 'contact pool manufacturer'
 hero_text:
-  tagline: اتصل بنا
-  title: تواصل معنا
+  tagline: Contact
+  title: GET IN TOUCH
 contact_form:
   id: form
-  title: أرسل لنا رسالة
-  subtitle: للاستفسار عن الأسعار أو الأسئلة الفنية أو استفسارات الشراكة، أرسل لنا رسالة. نرد خلال يوم عمل واحد.
+  title: Send us a message
+  subtitle: For quotes, technical questions or partnership enquiries, drop us a line. We reply within one business day.
   email_to: info@olagoon.com
-  submit_button: أرسل الاستفسار → احصل على عرض سعر
-  success_message: شكراً! رسالتك قد وصلت إلى صندوق الوارد لدينا. سنرد خلال يوم عمل واحد.
-  error_message: حدث خطأ أثناء إرسال رسالتك. يرجى المحاولة مرة أخرى أو مراسلتنا مباشرة عبر البريد الإلكتروني.
+  submit_button: Send Inquiry → Get a Quote
+  success_message: Thanks! Your message has landed in our inbox. We will reply within one business day.
+  error_message: Something went wrong sending your message. Please try again or email us directly.
   default_country_code: '+1'
   captcha:
-    label: 'مكافحة البريد المزعج: يرجى حل ما يلي'
+    label: 'Anti-spam: please solve the following'
   fields:
     - name: country
-      label: الدولة
+      label: Country
       row: 1
       type: select
       optionsKey: countries
       step: 1
     - name: orderVolume
-      label: حجم الطلب التقديري
+      label: Estimated Order Volume
       row: 2
       type: select
       options:
         - value: ''
-          label: اختر حجمك التقديري...
+          label: Select your estimated volume...
         - value: sample
-          label: عينات / نماذج أولية فقط
+          label: Samples / Prototypes only
         - value: '5-10'
-          label: 5–10 وحدات (الحد الأدنى للطلب القياسي MOQ)
+          label: 5–10 units (Samples / Trial)
+        - value: '50-100'
+          label: 50–100 units
         - value: '100-500'
-          label: 100–500 وحدة
+          label: 100–500 units
         - value: '500-plus'
-          label: أكثر من 500 وحدة (تسعير حسب الكمية)
+          label: 500+ units (Volume pricing)
       step: 1
     - name: customization
-      label: هل تحتاج إلى تخصيص؟
+      label: Customization Needed?
       row: 3
       type: select
       options:
         - value: ''
-          label: اختر نوع التخصيص...
+          label: Select customization type...
         - value: none
-          label: منتج قياسي (بدون تخصيص)
+          label: Standard product (no customization)
         - value: logo
-          label: شعار مخصص / علامة تجارية فقط
+          label: Custom Logo / Branding only
         - value: full
-          label: علامة مشتركة كاملة (الحجم، اللون، التصاميم، التغليف)
+          label: Full Co-Brand (size, color, graphics, packaging)
         - value: consultation
-          label: غير متأكد — أحتاج إلى استشارة
+          label: Not sure — need consultation
       step: 1
     - name: productInterest
-      label: فئات المنتجات المهمة
+      label: Product Categories of Interest
       row: 4
       type: select
       options:
         - value: ''
-          label: اختر فئة المنتج...
+          label: Select product category...
         - value: all
-          label: جميع المنتجات / الكتالوج الكامل
-        - value: sup
-          label: ألواح SUP / ألواح التجديف
+          label: All products / Full catalog
+        - value: pool
+          label: pools / inflatable pool
         - value: safety
-          label: معدات السلامة / سترات النجاة
+          label: Pool Accessories & Spare Parts
         - value: accessory
-          label: الملحقات (المضخات، المجاديف، الحقائب)
+          label: Accessories (pumps, oars, bags)
       step: 1
     - name: firstName
-      label: الاسم الأول
+      label: First Name
       row: 1
       step: 2
     - name: lastName
-      label: اسم العائلة
+      label: Last Name
       row: 1
       step: 2
     - name: companyName
-      label: اسم الشركة
+      label: Company Name
       row: 2
       step: 2
     - name: email
-      label: البريد الإلكتروني
+      label: E-mail
       row: 3
       type: email
       step: 2
     - name: tel
-      label: الهاتف
+      label: TEL
       row: 3
       type: tel
       withCountryCode: true
       step: 2
     - name: address
-      label: العنوان
+      label: Address
       row: 4
       step: 2
     - name: zip
-      label: الرمز البريدي
+      label: Zip / Postal Code
       row: 5
       step: 2
     - name: subject
-      label: الموضوع
+      label: Subject
       row: 1
       step: 3
     - name: message
-      label: الرسالة
+      label: Message
       row: 2
       type: textarea
       rows: 6
       step: 3
 features2_other_ways:
-  title: طرق أخرى للتواصل معنا
+  title: Other ways to reach us
   columns: 3
   items:
-    - title: استفسارات المبيعات
-      description: عروض الأسعار، التهيئة، طلبات الوكالة والطلبات بالجملة.
+    - title: Sales enquiries
+      description: Quotes, configurations, dealer applications and bulk orders.
       icon: tabler:shopping-bag
-    - title: الدعم الفني
-      description: الضمان، الإصلاحات، قطع الغيار وأسئلة التشغيل.
+    - title: Technical support
+      description: Warranty, repairs, spare parts and operating questions.
       icon: tabler:tool
-    - title: الإعلام والشراكات
-      description: الحزم الإعلامية، الرعاية والتعاون الصناعي.
+    - title: Press & partnerships
+      description: Media kits, sponsorship and industry collaboration.
       icon: tabler:news
-    - title: الهاتف
-      description: +1 279 732 3333
+    - title: Phone
+      description: '+1 279 732 3333'
       icon: tabler:headset
-    - title: البريد الإلكتروني
+    - title: Email
       description: info@olagoon.com
       icon: tabler:mail
-    - title: المقر الرئيسي
+    - title: Headquarters
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
       icon: tabler:map-pin
 map:
-  title: موقعنا
-  subtitle: زرنا في مقرنا الرئيسي
+  title: Our Location
+  subtitle: Visit us at our headquarters
   address: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
   zoom: 15

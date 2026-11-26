@@ -1,71 +1,71 @@
 meta:
-  title: 'Pembekal Peralatan Sewaan SUP & Penyelesaian Armada | {SITE}'
-  description: 'Pembekal peralatan sewaan SUP untuk pengendali sewaan. Papan SUP komersial pusingan tinggi yang direka untuk kegunaan harian — PVC tahan UV, jahitan diperkukuh, bahan kering pantas. Kembangkan perniagaan sewaan anda dengan OLagoon.'
+  title: 'pool Rental Equipment Supplier & Fleet Solutions | {SITE}'
+  description: 'pool rental equipment supplier for rental operators. High-rotation commercial pools engineered for daily use — UV-resistant PVC, reinforced seams, quick-dry materials. Scale your rental business with OLagoon.'
 
 hero:
-  tagline: 'Pengendali Sewaan'
-  title: 'Kembangkan Perniagaan Sewaan<br />Anda Dengan Yakin'
-  subtitle: 'Pembekal peralatan sewaan SUP untuk pengendali sewaan. Papan SUP pusingan tinggi yang direka untuk sewaan harian, 365 hari setahun. Hasil pendapatan anda tidak pernah berehat sehari.'
+  tagline: Rental Operators
+  title: 'Scale Your Rental Business<br />With Confidence'
+  subtitle: 'pool rental equipment supplier for rental operators. High-rotation pools engineered for daily rental use, 365 days a year. Your revenue never takes a day off.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: 'Kaunter sewaan yang sibuk dengan papan SUP sedia untuk tetamu'
+    alt: Busy rental kiosk with pools ready for guests
 
 features:
-  title: 'Dibina untuk Intensiti Sewaan'
-  subtitle: 'Setiap papan direka untuk 500+ kitaran sewaan dengan penyelenggaraan minimum.'
+  title: Built for the Rental Grind
+  subtitle: 'Every board is engineered for 500+ rental cycles with minimal maintenance.'
   items:
-    - title: '500+ Kitaran Sewaan'
-      description: 'Diujikan untuk bertahan kegunaan harian dalam air masin, matahari, dan pasir.'
+    - title: '500+ Rental Cycles'
+      description: 'Tested to survive daily use in saltwater, sun, and sand.'
       icon: 'tabler:shield-check'
-    - title: 'Fabrik Tahan UV'
-      description: 'Tiada pudar atau degradasi selepas 1 tahun penyimpanan di luar.'
+    - title: 'UV-Resistant Fabric'
+      description: 'No fading or degradation after 1 year of outdoor storage.'
       icon: 'tabler:sun'
-    - title: 'Jahitan Diperkukuh'
-      description: '3x lebih kuat daripada binaan papan boleh tiup standard.'
+    - title: 'Reinforced Seams'
+      description: '3x stronger than standard inflatable board construction.'
       icon: 'tabler:layers-intersect'
-    - title: 'Bahan Kering Pantas'
-      description: 'Papan sedia untuk sewaan seterusnya dalam masa kurang 30 minit.'
+    - title: 'Quick-Dry Materials'
+      description: 'Boards ready for next rental in under 30 minutes.'
       icon: 'tabler:droplet'
-    - title: 'Penyimpanan Boleh Ditindih'
-      description: 'Reka bentuk jimat ruang — simpan 40% lebih banyak papan di kawasan yang sama.'
+    - title: 'Stackable Storage'
+      description: 'Space-saving design — store 40% more boards in the same area.'
       icon: 'tabler:stack'
-    - title: 'Saiz Berkod Warna'
-      description: 'Staf mengambil papan yang betul serta-merta dengan saiz berkod warna.'
+    - title: 'Color-Coded Sizes'
+      description: 'Staff grabs the right board instantly with color-coded sizing.'
       icon: 'tabler:color-swatch'
 
 stats:
-  title: 'Metrik Operasi'
+  title: Operations Metrics
   stats:
-    - title: 'Pusing Ganti Papan'
+    - title: Board Turnover
       amount: '< 5 min'
-    - title: 'Penyelenggaraan Tahunan'
-      amount: '~15 min/papan'
-    - title: 'Penghantaran Alat Ganti'
+    - title: Annual Maintenance
+      amount: '~15 min/board'
+    - title: Parts Dispatch
       amount: '48h'
-    - title: 'Kadar Cacat'
+    - title: Defect Rate
       amount: '< 0.5%'
 
 fleet_guide:
-  title: 'Panduan Saiz Armada'
-  subtitle: 'Anggarkan saiz armada dan potensi hasil untuk operasi sewaan anda.'
+  title: Fleet Sizing Guide
+  subtitle: 'Estimate the fleet size and revenue potential for your rental operation.'
   tiers:
-    - label: 'Kaunter Kecil'
+    - label: Small Kiosk
       boards: '15-20'
-      revenue: 'XX,XXX USD/tahun'
-    - label: 'Operasi Bersaiz Sederhana'
+      revenue: '$XX,XXX/yr'
+    - label: Mid-Size Operation
       boards: '30-50'
-      revenue: 'XX,XXX USD/tahun'
-    - label: 'Sewaan Pantai Berskala Besar'
+      revenue: '$XX,XXX/yr'
+    - label: Large Beach Rental
       boards: '50-100'
-      revenue: 'XXX,XXX USD/tahun'
+      revenue: '$XXX,XXX/yr'
 
 cta:
-  title: 'Sedia untuk mengembangkan perniagaan sewaan anda?'
-  subtitle: 'Dapatkan harga sewaan atau bandingkan model papan untuk operasi anda.'
+  title: 'Ready to scale your rental business?'
+  subtitle: 'Get rental pricing or compare board models for your operation.'
   actions:
-    - text: 'Dapatkan Harga Sewaan'
+    - text: 'Get Rental Pricing'
       href: '/contact/?package=rental'
       variant: 'primary'
-    - text: 'Bandingkan Model Papan'
+    - text: 'Compare Board Models'
       href: '/compare/'
       variant: 'secondary'

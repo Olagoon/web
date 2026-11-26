@@ -1,71 +1,71 @@
 meta:
-  title: 'SUP nuomos įrangos tiekėjas ir parkų sprendimai | {SITE}'
-  description: 'SUP nuomos įrangos tiekėjas nuomos operatoriams. Didelės apyvartos komercinės SUP lentos, sukurtos kasdieniniam naudojimui — UV atsparus PVC, sutvirtintos siūlės, greitai džiūstančios medžiagos. Plėskite savo nuomos verslą su OLagoon.'
+  title: 'pool Rental Equipment Supplier & Fleet Solutions | {SITE}'
+  description: 'pool rental equipment supplier for rental operators. High-rotation commercial pools engineered for daily use — UV-resistant PVC, reinforced seams, quick-dry materials. Scale your rental business with OLagoon.'
 
 hero:
-  tagline: 'Nuomos operatoriai'
-  title: 'Plėskite savo nuomos verslą<br />pasitikėdami'
-  subtitle: 'SUP nuomos įrangos tiekėjas nuomos operatoriams. Didelės apyvartos SUP lentos, sukurtos kasdieniniam nuomos naudojimui, 365 dienas per metus. Jūsų pajamos niekada nepailsi.'
+  tagline: Rental Operators
+  title: 'Scale Your Rental Business<br />With Confidence'
+  subtitle: 'pool rental equipment supplier for rental operators. High-rotation pools engineered for daily rental use, 365 days a year. Your revenue never takes a day off.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: 'Užimtas nuomos kioskas su SUP lentomis, paruoštomis svečiams'
+    alt: Busy rental kiosk with pools ready for guests
 
 features:
-  title: 'Sukurta nuomos darbui'
-  subtitle: 'Kiekviena lenta sukurta 500+ nuomos ciklams su minimalia priežiūra.'
+  title: Built for the Rental Grind
+  subtitle: 'Every board is engineered for 500+ rental cycles with minimal maintenance.'
   items:
-    - title: '500+ nuomos ciklų'
-      description: 'Išbandyta, kad atlaikytų kasdieninį naudojimą sūriame vandenyje, saulėje ir smėlyje.'
+    - title: '500+ Rental Cycles'
+      description: 'Tested to survive daily use in saltwater, sun, and sand.'
       icon: 'tabler:shield-check'
-    - title: 'UV atsparus audinys'
-      description: 'Nėra blukimo ar gedimo po 1 metų laikymo lauke.'
+    - title: 'UV-Resistant Fabric'
+      description: 'No fading or degradation after 1 year of outdoor storage.'
       icon: 'tabler:sun'
-    - title: 'Sutvirtintos siūlės'
-      description: '3 kartus stipresnės už standartinę pripučiamų lentų konstrukciją.'
+    - title: 'Reinforced Seams'
+      description: '3x stronger than standard inflatable board construction.'
       icon: 'tabler:layers-intersect'
-    - title: 'Greitai džiūstančios medžiagos'
-      description: 'Lentos paruoštos kitai nuomai per mažiau nei 30 minučių.'
+    - title: 'Quick-Dry Materials'
+      description: 'Boards ready for next rental in under 30 minutes.'
       icon: 'tabler:droplet'
-    - title: 'Sudėtinis saugojimas'
-      description: 'Vietą taupantis dizainas — laikykite 40 % daugiau lentų toje pačioje vietoje.'
+    - title: 'Stackable Storage'
+      description: 'Space-saving design — store 40% more boards in the same area.'
       icon: 'tabler:stack'
-    - title: 'Spalvomis pažymėti dydžiai'
-      description: 'Personalas iš karto paima tinkamą lentą su spalvomis pažymėtais dydžiais.'
+    - title: 'Color-Coded Sizes'
+      description: 'Staff grabs the right board instantly with color-coded sizing.'
       icon: 'tabler:color-swatch'
 
 stats:
-  title: 'Operacijų rodikliai'
+  title: Operations Metrics
   stats:
-    - title: 'Lentų apyvarta'
-      amount: '< 5 min.'
-    - title: 'Metinė priežiūra'
-      amount: '~15 min./lentai'
-    - title: 'Dalių išsiuntimas'
-      amount: '48 val.'
-    - title: 'Defektų rodiklis'
-      amount: '< 0,5%'
+    - title: Board Turnover
+      amount: '< 5 min'
+    - title: Annual Maintenance
+      amount: '~15 min/board'
+    - title: Parts Dispatch
+      amount: '48h'
+    - title: Defect Rate
+      amount: '< 0.5%'
 
 fleet_guide:
-  title: 'Parko dydžio vadovas'
-  subtitle: 'Įvertinkite parko dydį ir pajamų potencialą savo nuomos verslui.'
+  title: Fleet Sizing Guide
+  subtitle: 'Estimate the fleet size and revenue potential for your rental operation.'
   tiers:
-    - label: 'Mažas kioskas'
-      boards: '15–20'
-      revenue: 'XX XXX USD/metus'
-    - label: 'Vidutinio dydžio verslas'
-      boards: '30–50'
-      revenue: 'XX XXX USD/metus'
-    - label: 'Didelė paplūdimio nuoma'
-      boards: '50–100'
-      revenue: 'XXX XXX USD/metus'
+    - label: Small Kiosk
+      boards: '15-20'
+      revenue: '$XX,XXX/yr'
+    - label: Mid-Size Operation
+      boards: '30-50'
+      revenue: '$XX,XXX/yr'
+    - label: Large Beach Rental
+      boards: '50-100'
+      revenue: '$XXX,XXX/yr'
 
 cta:
-  title: 'Pasirengę plėsti savo nuomos verslą?'
-  subtitle: 'Gaukite nuomos kainas arba palyginkite lentų modelius savo verslui.'
+  title: 'Ready to scale your rental business?'
+  subtitle: 'Get rental pricing or compare board models for your operation.'
   actions:
-    - text: 'Gauti nuomos kainas'
+    - text: 'Get Rental Pricing'
       href: '/contact/?package=rental'
       variant: 'primary'
-    - text: 'Palyginti lentų modelius'
+    - text: 'Compare Board Models'
       href: '/compare/'
       variant: 'secondary'

@@ -1,63 +1,63 @@
 meta:
-  title: 'حلول الأعمال — SUP لكل شركة | {SITE}'
-  description: 'حلول أعمال olagoon: أساطيل SUP للمنتجعات، والأندية، والتأجير، والتوزيع، والعلامات الخاصة. مورّد محترف للمعدات البحرية B2B.'
+  title: 'Business Solutions — pool for Every Business | {SITE}'
+  description: 'olagoon business solutions: pool fleets for resorts, clubs, rentals, distribution, and private labels. Professional nautical equipment supplier for B2B.'
   keywords:
-    - 'حلول أعمال SUP'
-    - 'مورّد ألواح التجديف القابلة للنفخ'
-    - 'معدات بحرية B2B'
-    - 'مصنّع ألواح SUP القابلة للنفخ'
+    - 'pool business solutions'
+    - 'inflatable pool supplier'
+    - 'nautical equipment b2b'
+    - 'inflatable pools manufacturer'
 hero:
-  tagline: حلول الأعمال
-  title: حلول SUP<br />لكل الأعمال
-  subtitle: من المنتجعات إلى التجزئة، ومن مشغلي الإيجار إلى الموزعين العالميين — تقدم olagoon حلول SUP كاملة مصممة خصيصًا لنموذج عملك.
+  tagline: Business Solutions
+  title: 'pool Solutions<br />For Every Business'
+  subtitle: 'From resorts to retail, rental operators to global distributors — OLagoon provides complete pool solutions tailored to your business model.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: ألواح SUP من OLagoon للتطبيقات التجارية والمهنية
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools for business and professional applications
 stats:
-  title: olagoon في لمحة
+  title: OLagoon at a Glance
   stats:
-    - title: سنوات من الخبرة
-      amount: منذ عام 2012
-    - title: حلول مخصصة
+    - title: Years Experience
+      amount: Since 2012
+    - title: Custom Solutions
       amount: 100+
-    - title: الأسواق المخدومة
-      amount: أكثر من 50
-    - title: الألواح المسلّمة
-      amount: '15,000+'
+    - title: Markets Served
+      amount: '50+'
+    - title: Boards Delivered
+      amount: 15,000+
 features3_solutions:
-  tagline: حلول حسب نوع النشاط
-  title: ألواح SUP مصممة خصيصًا<br />لعملك
+  tagline: Solutions By Business Type
+  title: 'Purpose-Built pools<br />For Your Business'
   isBeforeContent: false
   columns: 2
   items:
-    - title: المنتجعات والفنادق
-      description: برامج أساطيل SUP كاملة للمنشآت الفندقية — ألواح متينة، وهوية بصرية مخصصة، ودعم تدريب الموظفين.
+    - title: Resorts & Hotels
+      description: 'Complete pool fleet programs for hospitality properties — durable boards, custom branding, and staff training support.'
       icon: tabler:building
       link: /solutions/resorts-hotels/
-    - title: أندية التجديف
-      description: أساطيل ألواح SUP موثوقة لأندية التجديف وبرامج الدروس وعمليات العضويات — ألواح بجودة تجارية وأسعار مخصصة للأندية.
+    - title: Paddle Clubs
+      description: 'Reliable pool fleets for paddle clubs, lesson programs, and membership operations — commercial-grade boards with club pricing.'
       icon: tabler:users
       link: /solutions/resorts-hotels/
-    - title: مشغلو التأجير
-      description: ألواح SUP عالية الاستخدام مصممة هندسيًا للاستخدام اليومي في التأجير. مقاومة للأشعة فوق البنفسجية، سريعة الجفاف، وقابلة للتكديس — صُممت لتتحمل ضغط عمليات التأجير.
+    - title: Rental Operators
+      description: 'High-rotation pools engineered for daily rental use. UV-resistant, quick-dry, stackable — designed for the rental grind.'
       icon: tabler:currency-dollar
       link: /solutions/rental-operators/
-    - title: شركاء التجزئة
-      description: 'بِع أسرع علامات SUP نمواً في سوقك: خط منتجات كامل، مواد تسويقية، شحن مباشر (Dropshipping)، وهوامش ربح تنافسية.'
+    - title: Retail Partners
+      description: 'Sell the fastest-growing pool brand in your market. Full product line, marketing materials, dropshipping, and competitive margins.'
       icon: tabler:shopping-cart
       link: /solutions/retail-partners/
-    - title: الموزعون
-      description: مناطق حصرية، ومجموعة منتجات كاملة، وإدارة حسابات مخصصة. انضم إلى شبكتنا التوزيعية العالمية في أكثر من 50 دولة.
+    - title: Distributors
+      description: 'Exclusive territories, complete product portfolio, dedicated account management. Join our global distribution network in 50+ countries.'
       icon: tabler:world
       link: /solutions/distributors/
-    - title: ابنِ علامتك التجارية الخاصة
-      description: تصنيع ألواح SUP بالكامل وفق معايير OEM/ODM من البداية إلى النهاية — التصميم، والنماذج الأولية، والإنتاج الضخم، والخدمات اللوجستية. أطلق علامتك التجارية مع OLagoon.
+    - title: Build Your Own Brand
+      description: 'End-to-end OEM/ODM pool manufacturing — design, prototyping, mass production, and logistics. Launch your brand with OLagoon.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:
-  title: لست متأكدًا من الحل الذي يناسب احتياجاتك؟
-  subtitle: صف لنا طريقة استخدامك وسنوصي بالتهيئة الأنسب.
+  title: 'Not sure which solution fits your needs?'
+  subtitle: 'Describe your application to our team and we will recommend the right configuration.'
   actions:
     - variant: primary
-      text: احصل على توصية
+      text: Get a recommendation
       href: /contact/

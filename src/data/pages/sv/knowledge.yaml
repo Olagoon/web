@@ -1,108 +1,110 @@
 meta:
-  title: 'Kunskap — SUP-guider | {SITE}'
-  description: 'afars kunskapsbas: guider om uppblåsbara SUP:ar, paddle board-material, brädval och branschinsikter för varumärken och proffs.'
+  title: 'Knowledge — Pool Guides | {SITE}'
+  description: 'OLagoon knowledge base: guides on drop-stitch pools, pool materials, water care, and industry insights for owners and professionals.'
   keywords:
-    - 'SUP kunskap'
-    - 'uppblåsbar SUP guide'
-    - 'paddle board material'
-    - 'SUP branschinsikter'
+    - 'pool knowledge'
+    - 'drop stitch pool guide'
+    - 'inflatable pool materials'
+    - 'pool care insights'
 hero:
-  tagline: Kunskapsgraf
-  title: Vattenutforskningskunskap
+  tagline: 'Knowledge Graph'
+  title: 'Backyard Pool Knowledge'
   subtitle: |
-    En strukturerad kunskapsbas som täcker uppblåsbar SUP-teknik,<br />
-    vattensäkerhet, brädengineering och äventyrsplanering.
-  taglineSection: Utforska. Lär dig. Gå med förtroende.
-clusters:
-  tagline: Kunskapskluster
-  title: Utforska efter ämne
-  subtitle: Djupdyk i tekniken, säkerheten och färdigheterna bakom varje olagoon-produkt.
-  items:
-    - title: SUP-köpguider
-      description: Från att välja ditt första bräde till avancerade turtekniker — allt om paddleboarding.
-      icon: tabler:lifebuoy
-      topics:
-        - Hur du väljer din första uppblåsbara SUP
-        - SUP-storleks- och viktkapacitetsguide
-        - Bästa SUP för nybörjare, touring, yoga och racing
-        - Vanliga SUP-köpmisstag att undvika
-        - Jämförelse uppblåsbart vs hårt bräde
-    - title: SUP-teknik och teknologi
-      description: Tekniska guider om uppblåsbara SUP-brädor — material, konstruktionsmetoder och tillverkningsprocesser.
-      icon: tabler:microscope
-      topics:
-        - Drop-stitch-teknik på djupet
-        - PVC-specifikationer i militär kvalitet
-        - Fusionlaminering vs. limning
-        - EVA-skumteknologi och tryckmetoder
-        - SUP-ventiltyper och finsystem
+    A structured knowledge base covering drop-stitch pool technology,<br />
+    water safety, materials engineering, and seasonal pool care.
+  taglineSection: 'Explore. Learn. Swim with confidence.'
 
-    - title: SUP-säkerhet och underhåll
-      description: Viktig säkerhetskunskap för varje paddlare — från PFD-val till väderavläsning till brädvård och reparation.
-      icon: tabler:shield
-      topics:
-        - SUP-säkerhetschecklista och PFD-krav
-        - Flerkammarsäkerhet för avlägsna vatten
-        - SUP-uppblåsnings-PSI-guide
-        - Brädförvaring och vintervård
-        - Reparationstekniker för uppblåsbara produkter
-    - title: SUP-färdigheter och tekniker
-      description: Padlingstekniker, turfärdigheter och konditionsträning för alla nivåer.
-      icon: tabler:sailboat
-      topics:
-        - Padlingstekniker för nybörjare
-        - Färdighetsträning på mellannivå
-        - Tur- och expeditionsplanering
-        - SUP-kondition och racingträning
-        - Färdigheter för fors och flodpaddling
-    - title: SUP-livsstil och specialanvändningar
-      description: Specialiserade SUP-aktiviteter — yoga, fiske, hundar, familjer och restips.
-      icon: tabler:heart
-      topics:
-        - SUP-yoga och meditation på vatten
-        - Fiske från en uppblåsbar SUP
-        - Paddelbrädåkning med hundar och barn
-        - Resa med din SUP med flyg och bil
-        - SUP-tillbehör och viktigaste utrustningen
-    - title: SUP-jämförelser och referenser
-      description: Sidovis jämförelser för att hjälpa dig fatta välgrundade beslut.
-      icon: tabler:chart-bar
-      topics:
-        - SUP vs kajak — vilken passar dig?
-        - PVC-materialgrader förklarade
-        - Enkelt kammer vs flerkammarsäkerhet
-        - Förklaring av SUP-brädans material
-        - UV-tryck mot EVA-blockgrafik
-featured_guides:
-  tagline: Utvalda guider
-  title: Mest populära kunskapsresurser
+clusters:
+  tagline: 'Knowledge Clusters'
+  title: 'Explore by topic'
+  subtitle: 'Deep dives into the technology, safety, and care behind every OLagoon product.'
   items:
-    - title: SUP-grunderna
-      href: /learn/water-safety/
-    - title: Uppblåsbart vs hårt bräde
-      href: /compare/technology/
-    - title: Vattensäkerhetsguide
-      href: /learn/water-safety/
-    - title: Materialreferens
-      href: /learn/materials/
-    - title: SUP-köpguide
-      href: /technology/
-    - title: SUP-storleksguide
-      href: /guides/sup-size-guide/
-    - title: SUP Tech Center
-      href: /research/
-    - title: SUP-underhåll
-      href: /technology/
-    - title: Turguide
-      href: /guides/sup-for-touring/
-    - title: Paddletekniker
-      href: /technology/
+    - title: 'Pool Buying Guides'
+      description: 'From choosing your first pool to comparing sizes — everything about drop-stitch pools.'
+      icon: 'tabler:lifebuoy'
+      topics:
+        - 'How to choose your first drop-stitch pool'
+        - 'Pool size and capacity guide'
+        - 'Compact Plunge vs Family Oasis vs Grand Lagoon'
+        - 'Common pool buying mistakes to avoid'
+        - 'Inflatable vs rigid pool comparison'
+    - title: 'Pool Engineering & Technology'
+      description: 'Technical guides on drop-stitch pools — materials, construction methods, and manufacturing processes.'
+      icon: 'tabler:microscope'
+      topics:
+        - 'Drop-stitch technology deep dive'
+        - 'Marine-grade PVC specifications'
+        - 'Fusion lamination vs adhesive bonding'
+        - 'Reinforced rail and seam engineering'
+        - 'Pool valve types and pressure ratings'
+    - title: 'Pool Safety & Maintenance'
+      description: 'Essential safety knowledge for every pool owner — from supervision rules to water care and repair.'
+      icon: 'tabler:shield'
+      topics:
+        - 'Pool safety checklist and supervision rules'
+        - 'Water care and sanitation basics'
+        - 'Pool inflation PSI guide (10–15 PSI)'
+        - 'Pool storage and winter care'
+        - 'PVC repair techniques'
+    - title: 'Pool Setup & Water Care'
+      description: 'Setup routines, filtration schedules, and water chemistry for a season of clear water.'
+      icon: 'tabler:droplet'
+      topics:
+        - 'First setup: unbox to swim in 30 minutes'
+        - 'Sand filter pump operation and backwashing'
+        - 'Water testing and chemical balance'
+        - 'Algae prevention and troubleshooting'
+        - 'Thermal covers and heat retention'
+    - title: 'Pool Lifestyle & Family'
+      description: 'Getting the most from your pool — family fun, exercise, pets, and entertaining.'
+      icon: 'tabler:heart'
+      topics:
+        - 'Pool games and activities for kids'
+        - 'Water exercise and low-impact fitness'
+        - 'Pool time with dogs and pets'
+        - 'Moving your pool: storage between homes'
+        - 'Pool accessories and gear essentials'
+    - title: 'Pool Comparisons & References'
+      description: 'Side-by-side comparisons to help you make informed decisions.'
+      icon: 'tabler:chart-bar'
+      topics:
+        - 'Inflatable pool vs rigid pool — which is right for you?'
+        - 'PVC material grades explained'
+        - 'Single chamber vs multi-chamber construction'
+        - 'Pool wall heights explained (20 cm standard)'
+        - 'Digital printing vs in-mold graphics'
+
+featured_guides:
+  tagline: 'Featured Guides'
+  title: 'Most popular knowledge resources'
+  items:
+    - title: 'Pool Setup Guide'
+      href: '/guides/pool-setup-guide/'
+    - title: 'Inflatable vs Rigid Pools'
+      href: '/compare/inflatable-vs-hardboard/'
+    - title: 'Water Safety Guide'
+      href: '/learn/water-safety/'
+    - title: 'Materials Reference'
+      href: '/learn/materials/'
+    - title: 'Pool Buying Guide'
+      href: '/guides/choosing-a-drop-stitch-pool/'
+    - title: 'Pool Filtration Guide'
+      href: '/guides/pool-filtration-guide/'
+    - title: 'Pool Tech Center'
+      href: '/research/'
+    - title: 'Pool Water Care'
+      href: '/guides/pool-water-care/'
+    - title: 'Winter Storage Guide'
+      href: '/guides/pool-winter-storage/'
+    - title: 'Site Preparation Guide'
+      href: '/guides/pool-site-preparation/'
+
 cta:
-  title: Börja utforska
-  subtitle: Dyk in i vår kunskapsbas och få informationen du behöver för ditt nästa vattenäventyr.
+  title: 'Start exploring'
+  subtitle: 'Dive into our knowledge base and get the information you need for your backyard pool.'
   actions:
     - variant: primary
-      text: Bläddra bland alla guider
-      href: /academy/
-    - text: Utforska kunskapsgraf
-      href: /knowledge/
+      text: 'Browse all guides'
+      href: '/academy/'
+    - text: 'Explore Knowledge Graph'
+      href: '/knowledge/'

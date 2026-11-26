@@ -1,102 +1,103 @@
 meta:
-  title: 'Revendeurs — SUP Marque Privée | {SITE}'
-  description: 'Devenez partenaire de vente olagoon : gamme complète, supports marketing, dropshipping et marges compétitives. SUP gonflables en marque privée pour détaillants.'
-  keywords:
-    - 'fournisseur paddle détaillant'
-    - 'SUP marque privée'
-    - 'paddle private label'
-    - 'grossiste paddle'
+  title: 'pool Wholesale & Retail Partner Program | {SITE}'
+  description: 'pool wholesale partner program for retailers and sporting goods stores. Full product line, dropshipping options, competitive wholesale margins from 20–35%, and low MOQ to start.'
+
 hero:
-  tagline: Partenaires de vente au détail
-  title: Vendez des SUP Gonflables Premium<br />Avec des Marges Qui Fonctionnent
-  subtitle: Devenez partenaire de vente olagoon — proposez la marque SUP qui connaît la croissance la plus rapide avec des prix de gros complets, dropshipping, supports marketing professionnels et assistance dédiée.
+  tagline: Retail Partners
+  title: 'Sell Premium inflatable pools<br />With Margins That Work'
+  subtitle: 'Become an OLagoon retail partner — carry the fastest-growing pool brand in your market with full wholesale pricing, dropshipping, professional marketing materials, and dedicated support.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Planches SUP OLagoon exposées dans un magasin de détail
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools displayed in a retail store
+
 margin_section:
-  title: Marges de Détail et MOQ
-  subtitle: Niveaux de prix de gros conçus pour la rentabilité du détail.
+  title: 'Retail Margins & MOQ'
+  subtitle: 'Wholesale pricing tiers designed for retail profitability.'
   items:
-    - tier: Partenaire de base
-      discount: 20%
-      moq: 500 units/yr
-      margin_note: ~$150–250 de profit par planche
+    - tier: 'Basic Partner'
+      discount: '20%'
+      moq: '500 units/yr'
+      margin_note: '~$150–250 profit per board'
       features:
-        - Accès à toute la gamme de produits
-        - Pack de supports marketing
-        - Support par email
-        - Accès au catalogue produits
-    - tier: Partenaire Premium
-      discount: 30%
-      moq: 2 000+ unités/an
-      margin_note: ~$250–400 de profit par planche
+        - 'Access to full product line'
+        - 'Marketing materials package'
+        - 'Email support'
+        - 'Product catalog access'
+    - tier: 'Premium Partner'
+      discount: '30%'
+      moq: '2,000+ units/yr'
+      margin_note: '~$250–400 profit per board'
       features:
-        - Gestionnaire de compte dédié
-        - Protection territoriale exclusive
-        - Support marketing personnalisé
-        - Premier accès aux nouveaux produits
-        - Sessions de formation du personnel
-    - tier: Partenaire phare
-      discount: 35%+
-      moq: 5 000+ unités/an
-      margin_note: ~$350–500+ de profit par planche
+        - 'Dedicated account manager'
+        - 'Exclusive territory protection'
+        - 'Custom marketing support'
+        - 'First access to new products'
+        - 'Staff training sessions'
+    - tier: 'Flagship Partner'
+      discount: '35%+'
+      moq: '5,000+ units/yr'
+      margin_note: '~$350–500+ profit per board'
       features:
-        - Campagnes marketing co-marquées
-        - Support d'affichage en magasin
-        - Formation du personnel sur site
-        - Promotions conjointes sur les réseaux sociaux
-        - Allocation de production prioritaire
+        - 'Co-branded marketing campaigns'
+        - 'In-store display support'
+        - 'On-site staff training'
+        - 'Joint social media promotions'
+        - 'Priority production allocation'
+
 product_line:
-  title: Gamme de Produits Complète
-  subtitle: Une planche SUP pour chaque client qui franchit votre porte.
+  title: Complete Product Line
+  subtitle: 'A pools for every customer who walks through your door.'
   items:
-    - name: Série Polyvalente
-      description: Meilleure vente — convient à 80% des clients
-    - name: Série Randonnée
-      description: Pagayeurs performance — marge plus élevée
-    - name: Série Yoga
-      description: Marché de niche — prix premium
-    - name: Série Enfants
-      description: Clients familiaux — acheteurs réguliers
-    - name: Série Course
-      description: Marché passionné — halo de marque
-    - name: Accessoires
-      description: Accessoires à marge élevée (pagaies, gilets, pompes, sacs)
+    - name: All-Round Series
+      description: 'Best seller — fits 80% of customers'
+    - name: Touring Series
+      description: 'Performance swimmers — higher margin'
+    - name: Yoga Series
+      description: 'Niche market — premium pricing'
+    - name: Kids Series
+      description: 'Family customers — repeat buyer'
+    - name: Racing Series
+      description: 'Enthusiast market — brand halo'
+    - name: Accessories
+      description: 'High margin add-ons (paddles, vests, pumps, bags)'
+
 catalog:
-  title: Ressources Partenaire Détail
-  subtitle: Téléchargez notre kit complet de partenaire de vente.
+  title: Retail Partner Resources
+  subtitle: 'Download our comprehensive retail partner kit.'
   items:
-    - name: Catalogue Produits 2026
-      desc: Gamme complète avec spécifications, prix et informations de commande
-      icon: tabler:file-text
-      link: /resources/download-catalog/
-    - name: Guide du partenaire
-      desc: Calculateur de marge, conseils merchandising et bonnes pratiques
-      icon: tabler:book
-      link: /resources/download-catalog/
-    - name: Pack marketing
-      desc: Photos produits haute résolution, images lifestyle et matériel PLV
-      icon: tabler:photo
-      link: /media/
+    - name: '2026 Product Catalog'
+      desc: 'Full lineup with specs, pricing, and ordering information'
+      icon: 'tabler:file-text'
+      link: '/resources/download-catalog/'
+    - name: 'Retail Partner Guide'
+      desc: 'Margin calculator, merchandising tips, and best practices'
+      icon: 'tabler:book'
+      link: '/resources/download-catalog/'
+    - name: 'Marketing Asset Pack'
+      desc: 'Hi-res product photos, lifestyle images, and POS materials'
+      icon: 'tabler:photo'
+      link: '/media/'
+
 support:
-  title: Support Partenaire Détail
-  subtitle: Tout ce dont vous avez besoin pour vendre en confiance.
+  title: Retail Partner Support
+  subtitle: 'Everything you need to sell confidently.'
   items:
-    - Images produit haute résolution (photographie professionnelle)
-    - Photos lifestyle pour réseaux sociaux, site web et catalogue
-    - Supports marketing — affiches, présentoirs, bannières
-    - Vidéos de formation produit pour l’éducation du personnel
-    - Pack de contenu réseaux sociaux (publications hebdomadaires)
-    - Descriptions produits optimisées SEO
-    - Option dropshipping disponible — aucun risque de stock
-    - Conditions de paiement Net 30
+    - 'High-res product images (professional photography)'
+    - 'Lifestyle photos for social media, website, and catalog'
+    - 'Marketing materials — posters, shelf talkers, banners'
+    - 'Product training videos for staff education'
+    - 'Social media content pack (weekly posts)'
+    - 'SEO-optimized product descriptions'
+    - 'Dropshipping option available — no inventory risk'
+    - 'Net 30 payment terms'
+
 cta:
-  title: Prêt à devenir partenaire de vente au détail OLagoon ?
-  subtitle: Postulez pour un partenariat ou téléchargez notre catalogue de vente.
+  title: 'Ready to become an OLagoon retail partner?'
+  subtitle: 'Apply for partnership or download our retail catalog to get started.'
   actions:
-    - text: Postuler comme Partenaire
-      href: /contact/?partner=retail
-      variant: primary
-    - text: Télécharger le Catalogue Retail
-      href: /resources/download-catalog/
-      variant: secondary
+    - text: 'Apply for Partnership'
+      href: '/contact/?partner=retail'
+      variant: 'primary'
+    - text: 'Download Retail Catalog'
+      href: '/resources/download-catalog/'
+      variant: 'secondary'

@@ -1,72 +1,72 @@
 meta:
-  title: 'Marin Ekspertise — Teknik i hvert skrog | {SITE}'
-  description: 'Årtiers marinteknik i hvert skrog. olagoon mestrer drop stitch, marint PVC og professionelt design af oppustelige SUP-brædder.'
+  title: 'Marine Expertise — Engineering in Every Hull | {SITE}'
+  description: 'Decades of marine engineering in every hull. olagoon masters drop stitch, marine PVC, and professional inflatable pools design.'
   keywords:
-    - 'marinteknik'
-    - 'producent af oppustelige SUP'
-    - 'paddle board produktion'
+    - 'marine engineering'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: Marin ekspertise
-  title: Årtiers marineingeniørarbejde<br />i hvert skrog
-  subtitle: olagoon kombinerer dyb materialvidenskab, præcisionsfremstilling og virkelighedstestning for at producere fartøjer, der yder når det tæller.
+  tagline: Marine Expertise
+  title: 'Decades of Marine Engineering<br />in Every Hull'
+  subtitle: 'olagoon combines deep material science, precision manufacturing, and real-world testing to produce watercraft that perform when it matters.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: olagoons marine engineering- og R&D-team i arbejde
+    alt: olagoon marine engineering and R&D team at work
 expertise_materials:
-  tagline: Materialevidenskab
-  title: Vælg det rigtige materiale<br />til hver anvendelse
-  subtitle: Vi arbejder med to kernematerialer — hver valgt til specifikke anvendelsestilfælde og ydelseskrav.
+  tagline: Material Science
+  title: 'Choosing the Right Material<br />for Every Application'
+  subtitle: 'We work with two core materials — each selected for specific use cases and performance requirements.'
   columns: 3
   items:
-    - title: PVC af marinekvalitet
-      description: 1100 denier PVC-stof — vores mest alsidige materiale. UV-stabiliseret, slidstærkt og REACH-compliant. Ideelt til SUP-brætter, hvor vægt og omkostningseffektivitet er vigtig.
+    - title: Marine-Grade PVC
+      description: '1100 denier PVC fabric — our most versatile material. UV-stabilized, abrasion-resistant, and REACH compliant. Ideal for pools where weight and cost efficiency matter.'
       icon: tabler:droplet
-    - title: Fiberglas og polyethylen
-      description: Fiberglaslaminerede SUP'er til premiumstivhed og glide. Rotationsstøbt polyethylen til krævende udlejnings- og redningsbrug, der kræver maksimal stødbestandighed.
+    - title: Fibreglass & Polyethylene
+      description: 'Fibreglass-laminated pools for premium stiffness and glide. Rotomoulded polyethylene for heavy-duty rental and rescue use requiring maximum impact resistance.'
       icon: tabler:building-arch
 expertise_manufacturing:
-  tagline: Produktionskapacitet
-  title: Præcisionsfremstilling<br />ved hvert trin
-  subtitle: Vores 12.000 m² facilitet er udstyret med specialiseret maskineri til hvert produktionstrin.
+  tagline: Manufacturing Capabilities
+  title: 'Precision Manufacturing<br />at Every Step'
+  subtitle: 'Our 12,000 m² facility is equipped with specialized machinery for every stage of production.'
   columns: 2
   items:
-    - title: CNC-skæring
-      description: Computerstyret skæring sikrer præcise, gentagelige stofpaneler med minimalt spild. Hvert stykke passer nøjagtigt som designet.
+    - title: CNC Cutting
+      description: 'Computer-controlled cutting ensures precise, repeatable fabric panels with minimal waste. Every piece fits exactly as designed.'
       icon: tabler:cpu
-    - title: Højfrekvenssvejsning
-      description: Industriel HF-svejsning skaber sømme stærkere end basismaterialet. Konsekvent temperatur- og trykkontrol sikrer lufttætte forseglinger på tværs af hver produktionskørsel.
+    - title: High-Frequency Welding
+      description: 'Industrial HF welding creates seams stronger than the base material. Consistent temperature and pressure control ensures air-tight seals across every production run.'
       icon: tabler:bolt
-    - title: Samling af drop stitch-kerner
-      description: Tusindvis af polyestertråde forbinder øvre og nedre stoflag, hvilket muliggør højtryksoppustning (15-20 PSI) til stive, stabile SUP-brædder.
+    - title: Drop Stitch Core Assembly
+      description: 'Thousands of polyester threads connect top and bottom fabric layers, allowing high-pressure inflation (15-20 PSI) for rigid, stable pools.'
       icon: tabler:building-arch
-    - title: Tryktestning
-      description: Hvert oppusteligt produkt trykprøves før forsendelse. Boards testes ved 1,25x nominelt tryk — hvis det holder der, vil det præstere på vandet.
+    - title: Pressure Testing
+      description: 'Every inflatable product is pressure-tested before shipping. Pools are tested at 1.25x rated pressure — if it holds there, it will perform on the water.'
       icon: tabler:wind
-    - title: Test af sømstyrke
-      description: Tilfældige prøver fra hver produktionsbatch gennemgår destruktiv sømstyrketestning. Resultater logges og kan spores til specifikke produktionskørsler.
+    - title: Seam Strength Testing
+      description: 'Random samples from each production batch undergo destructive seam strength testing. Results are logged and traceable to specific production runs.'
       icon: tabler:files
-    - title: Vandtest
-      description: Hver SUP-model gennemgår søprøver før certificering. Virkelighedstestning i kystforhold validerer ydelse, håndtering og stabilitet.
+    - title: Water Testing
+      description: 'Every model undergoes sea trials before certification. Real-world testing in coastal conditions validates performance, handling, and stability.'
       icon: tabler:droplet
 expertise_design:
-  tagline: Design & engineering
-  title: Konstrueret til virkelige forhold
-  subtitle: Vores designfilosofi starter med, hvordan boardet skal bruges — derefter bygger vi konstruktionen omkring det anvendelsestilfælde.
+  tagline: Design & Engineering
+  title: 'Engineered for Real Conditions'
+  subtitle: 'Our design philosophy starts with how the pool will be used — then builds the engineering around that use case.'
   items:
-    - title: Ydelsesoptimeret skrogdesign
-      description: Hver skrogform er afstemt til sit anvendelsestilfælde — fortrængningsstævn til touring-glide, ekstra rocker til surf-bevægelighed, flade stabile profiler til fiskeri og yoga.
-    - title: Drop-stitch-sikkerhed
-      description: Hvert board har en stiv drop-stitch-kerne med forstærkede rælinger. Hvis en sektion beskadiges, holder den højtrækstærke drop-stitch-struktur boardet operativt.
-    - title: Ergonomisk dækslayout
-      description: Dækpudezonering, bærehåndtagets placering og monteringspunkter er designet omkring rytterens komfort under længere tids brug — hvad enten det er touring, fiskeri eller patruljering.
-    - title: Specialtilpasset konfiguration
-      description: Rælingsfarver, dækpudekonfiguration, tilbehørsbeslag, udstyrskapacitet — hver model kan tilpasses til at matche specifikke operationelle krav.
+    - title: Performance Hull Design
+      description: 'Each pool is tuned for its use case — compact footprints for plunge soaking, family-sized layouts for play, and generous swim areas for daily laps.'
+    - title: Drop-Stitch Safety
+      description: 'Every pool features a rigid drop-stitch core with reinforced walls. If a section is damaged, the high-tensile drop-stitch structure keeps the pool operational.'
+    - title: Ergonomic Deck Layout
+      description: 'Deck-pad zoning, carry-handle position, and mounting points are designed around rider comfort during extended use — whether touring, fishing, or patrolling.'
+    - title: Custom Configuration
+      description: 'Rail colors, deck pad configuration, accessory mounts, gear capacity — each model can be customized to match specific operational requirements.'
 cta:
-  title: Har du en specifik applikation i tankerne?
-  subtitle: Vores ingeniørteam kan rådgive om materialvalg, design og fremstilling til dit projekt.
+  title: 'Have a specific application in mind?'
+  subtitle: 'Our engineering team can advise on material selection, design, and manufacturing for your project.'
   actions:
     - variant: primary
-      text: Spørg vores ingeniører
+      text: Ask our engineers
       href: /contact/
-    - text: Se produktsortimentet
+    - text: View product range
       href: /products/

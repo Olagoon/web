@@ -1,105 +1,105 @@
 meta:
-  title: 'علامة مشتركة مع أفارير — مجموعات SUP محدودة | {SITE}'
-  description: 'تنشئ أفارير مجموعات SUP قابلة للنفخ محدودة بعلامة مشتركة مع أندية ومنتجعات وفعاليات ومجتمعات وشركاء دول مؤهلين. تبقى منتجات العلامة المشتركة منتجات أفارير — صممتها وهندستها وضمنت العلامة أفارير.'
+  title: 'Co-Brand With OLagoon — Limited Co-Branded pool Collections | {SITE}'
+  description: 'OLagoon creates limited co-branded inflatable pools collections with qualified clubs, resorts, events, communities, and country partners. Co-branded products remain OLagoon products — designed, engineered, and backed by the OLagoon brand.'
   keywords:
-    - 'علامة مشتركة SUP قابل للنفخ'
-    - 'مجموعة SUP بعلامة مشتركة'
-    - 'شراكة ألواح التجديف'
-    - 'SUP للأندية والمنتجعات'
-    - 'تعاون علامات الرياضات المائية'
-    - 'علاممة مشتركة مع أفارير'
+    - 'co-brand inflatable pools'
+    - 'pool co-branded collection'
+    - 'inflatable pool partnership'
+    - 'pool for clubs and resorts'
+    - 'water sports brand collaboration'
+    - 'OLagoon co-branding'
 hero:
-  tagline: 'علامة مشتركة مع أفارير'
-  title: 'أنشئ<br />مجموعة بعلامة مشتركة'
-  subtitle: 'أفارير علامة عالمية للرياضات المائية القابلة للنفخ تبني شراكات حصرية على مستوى الدول ومجموعات محدودة بعلامة مشتركة مع شركات رياضات مائية مؤهلة. تبقى منتجات العلامة المشتركة منتجات أفارير — صممها وهندسها وفتشت جودتها وضمنت العلامة أفارير.'
+  tagline: 'Co-Brand With OLagoon'
+  title: 'Create a<br />Co-Branded Collection'
+  subtitle: 'OLagoon is a global inflatable water-sports brand building exclusive country partnerships and limited co-branded collections with qualified water-sports businesses. Co-branded products remain OLagoon products — designed, engineered, quality-checked, and backed by the OLagoon brand.'
   actions:
-    - text: 'ابدأ مشروع علامة مشتركة'
+    - text: 'Start a Co-Brand Project'
       href: /contact/?subject=Co-Brand Project
       variant: primary
-    - text: 'اطلب حزمة العلامة المشتركة'
+    - text: 'Request the Co-Brand Pack'
       href: /contact/?subject=Co-Brand Pack
       variant: secondary
-    - text: 'استكشف شراكة الدول'
+    - text: 'Explore the Country Partnership'
       href: /distributor-program/
       variant: secondary
 stats:
   - value: '1'
-    label: 'حق بلد واحد / سوق لكل موزع'
+    label: 'Country call / market for each distributor'
   - value: '50+'
-    label: 'دولة نخدمها مع شركاء'
+    label: 'Countries served with partners'
   - value: '12–15'
-    label: 'صلابة drop-stitch بوحدة PSI، معيار المجموعة'
+    label: 'PSI drop-stitch rigidity, collection standard'
   - value: '100%'
-    label: 'اختبار ضغط لوحًا بلوح قبل الشحن'
+    label: 'Pressure-tested board by board before shipping'
 features:
-  title: 'ماذا تعني العلامة المشتركة في أفارير'
-  subtitle: 'العلامة المشتركة هي برنامج شراكتنا التصميمية — مبني على علامة أفارير وحماية الأقاليم والمجموعات المحدودة، لا على إنتاج بلا علامة.'
+  title: 'What Co-Branding Means at OLagoon'
+  subtitle: 'Co-branding is our design-partnership program — built around the OLagoon brand, territory protection, and limited collections, not unbranded production.'
   columns: 3
   items:
-    - title: 'منتجات أفارير تبقى منتجات أفارير'
-      description: 'مجموعة العلامة المشتركة هي إصدار محدود من ألواح أفارير منسوج فيه هويتك. ليست أبدًا بلا علامة، وليست علامة طرف ثالث، وليست برنامج علامة خاصة مفتوحًا.'
+    - title: 'OLagoon Products Stay OLagoon Products'
+      description: 'A co-branded collection is a limited edition of OLagoon boards with your identity woven in. It is never unbranded, never a third-party brand, and never an open private-label program.'
       icon: 'tabler:trademark'
-    - title: 'مصمم معك'
-      description: 'ألوانك وتسمياتك وقصتك تشكل المجموعة. يدير فريق التصميم والهندسة لدينا الألواح والرسومات والتغليف والوثائق من الموجز إلى التسليم.'
+    - title: 'Designed With You'
+      description: 'Your colors, naming, and story shape the collection. Our design and engineering team handles decks, graphics, packaging, and documentation from brief to delivery.'
       icon: 'tabler:pencil'
-    - title: 'للأندية والمنتجعات والفعاليات والمجتمعات'
-      description: 'مجموعات أساطيل لأندية التجديف والمنتجعات، وإصدارات فعاليات للسباقات وسلاسل المجتمعات — كلها تحمل جودة أفارير وضمانها.'
+    - title: 'For Clubs, Resorts, Events & Communities'
+      description: 'Fleet collections for paddle clubs and resorts, event editions for races and community series — all carrying the OLagoon quality and warranty.'
       icon: 'tabler:users'
-    - title: 'يحمي شركاء الدول'
-      description: 'تعمل العلامة المشتركة جنبًا إلى جنب مع نموذجنا بلد واحد موزع واحد. يحتفظ الشركاء الوطنيون بأقاليمهم؛ ولا تفتح مجموعات العلامة المشتركة الباب لعلامات موازية في أسواقهم.'
+    - title: 'Protects Country Partners'
+      description: 'Co-branding runs alongside our one-country-one-distributor model. National partners keep their territory; co-brand collections do not open the door to parallel brands in their market.'
       icon: 'tabler:shield-check'
-    - title: 'الهندسة ومعايير الجودة'
-      description: 'تُشحن كل مجموعة من سلسلة التوريد المعتمدة لدينا مع وثائق CE وISO 9001 واختبارات الضغط ونقاط فحص QC ذاتها التي لمجموعتنا الأساسية.'
+    - title: 'Engineering & Quality Standards'
+      description: 'Every collection ships from our certified supply chain with CE and ISO 9001 documentation, pressure-testing, and the same QC checkpoints as our core range.'
       icon: 'tabler:certificate'
-    - title: 'يصبح أصلًا للعلامة'
-      description: 'تبني المجموعة المحدودة بالعلامة المشتركة قصتك الخاصة على الماء — هامش بيع ومحتوى إعلامي وسبب لعودة المجدفين موسمًا بعد موسم.'
+    - title: 'Becomes a Brand Asset'
+      description: 'A limited co-branded collection builds your own story on the water — sell-through margin, media content, and a reason for swimmers to come back season after season.'
       icon: 'tabler:star'
 table:
-  title: 'مستويات مجموعات العلامة المشتركة'
-  subtitle: 'شروط نموذجية لمجموعة علامة مشتركة. الأسعار بالدولار USD، FOB Qingdao. تضيف تصاميم الألواح المخصصة 15–20 يوم عمل للتطوير؛ وتُسعّر القوالب الجديدة حسب المشروع.'
-  caption: 'تبقى جميع منتجات العلامة المشتركة منتجات أفارير وتحمل هوية العلامة أفارير. يُتفق على نطاق المشروع ونافذة الحصرية والشروط النهائية في Co-Brand Project Agreement.'
+  title: 'Co-Brand Collection Tiers'
+  subtitle: 'Typical co-brand collection terms. Prices in USD, FOB Qingdao. Custom deck designs add 15–20 working days for development; new molds are quoted per project.'
+  caption: 'All co-branded products remain OLagoon products and carry the OLagoon brand identity. Project scope, exclusivity window, and final terms are agreed in the Co-Brand Project Agreement.'
   head:
-    - مستوى العلامة المشتركة
-    - الحد الأدنى للطلب (وحدة)
-    - مدة التنفيذ
-    - الدفع
+    - Co-Brand Tier
+    - Minimum Order (units)
+    - Lead Time
+    - Payment
   rows:
-    - [مجموعة تجريبية, 30–50, 30–45 يوم عمل, إيداع 30% / 70% قبل الشحن]
-    - [مجموعة قياسية بعلامة مشتركة, 50–100, 30–45 يوم عمل, إيداع 30% / 70% قبل الشحن]
-    - [مجموعة كبيرة / متعددة المناطق, 100+, 45–60 يوم عمل, إيداع 30% / 70% قبل الشحن]
-    - [قالب جديد أو توطين عميق, 200+, 60–90 يوم عمل, إيداع 30% / 70% قبل الشحن]
+    - [Pilot Collection, 30–50, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Standard Co-Branded Collection, 50–100, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Large / Multi-Region Collection, 100+, 10–14 weeks, 30% deposit / 70% before shipment]
+    - [New Mold or Deep Localization, 200+, 12–16 weeks + 15–20 days tooling, 30% deposit / 70% before shipment]
 faqs:
-  title: 'العلامة المشتركة — FAQ'
-  subtitle: 'كيف تعمل العلامة المشتركة مع أفارير، وكيف تختلف عن OEM والعلامة الخاصة.'
+  title: 'Co-Brand — FAQ'
+  subtitle: 'How OLagoon co-branding works, and how it differs from OEM and private label.'
   items:
-    - title: 'هل العلامة المشتركة هي نفسها OEM أو العلامة الخاصة؟'
-      description: 'لا. لم تعد أفارير تدير برنامج OEM وعلامة خاصة مفتوحًا. تبقى منتجات العلامة المشتركة منتجات أفارير — صممها وهندسها وفتشت جودتها وضمنت العلامة أفارير. تظهر هويتك كعلامة مشتركة، لا كمنتج طرف ثالث بلا علامة.'
-    - title: 'من يمكنه بدء مشروع علامة مشتركة؟'
-      description: 'شركات رياضات مائية مؤهلة: شركاء دول قائمون، وأندية تجديف، ومنتجعات وفنادق، ومنظمو فعاليات، ومجتمعات. أرسل لنا موجز مشروع وسنؤكد الأهلية قبل بدء التصميم.'
-    - title: 'هل تتعارض العلامة المشتركة مع موزعي في البلد؟'
-      description: 'لا. نموذج بلد واحد موزع واحد له الأولوية. تُنسق مجموعات العلامة المشتركة مع شريك البلد المحلي إن وُجد، فلا تظهر علامة موازية أو منافسة داخل إقليم محمي.'
-    - title: 'ما الحد الأدنى للطلب لمجموعة علامة مشتركة؟'
-      description: 'تبدأ المجموعات التجريبية من 30–50 وحدة. المجموعات القياسية 50–100 وحدة؛ والإصدارات الكبيرة أو متعددة المناطق 100+ وحدة. تُتفق جداول التطوير المخصص حسب المشروع.'
-    - title: 'ما الذي يمثل جودة أفارير مقابل مساهمة الشريك؟'
-      description: 'تملك أفارير تصميم المنتج والهندسة والمواد والبناء وQC والضمان. يساهم الشركاء بمفهوم المجموعة والتسميات والألوان والمدخلات الجرافيكية وإطلاق السوق. هذا يبقي معيار جودة واحدًا على الماء.'
-    - title: 'كيف أتقدم بطلب؟'
-      description: 'أكمل نموذج استعلام العلامة المشتركة مع عملك وسوقك وفكرة المجموعة. نراجع الملاءمة ثم نرد خلال 3 أيام عمل بعرض وCo-Brand Project Agreement.'
+    - title: 'Is co-branding the same as OEM or private label?'
+      description: 'No. OLagoon no longer runs an open OEM/private-label program. Co-branded products remain OLagoon products — designed, engineered, quality-checked, and backed by the OLagoon brand. Your identity appears as a co-brand, not as an unbranded third-party product.'
+    - title: 'Who can start a co-brand project?'
+      description: 'Qualified water-sports businesses: existing country partners, paddle clubs, resorts and hotels, event organizers, and communities. Send us a project brief and we confirm applicability before design work begins.'
+    - title: 'Will co-branding conflict with my country distributor?'
+      description: 'No. The one-country-one-distributor model takes priority. Co-brand collections are coordinated with the local country partner where one exists, so no parallel or competing brand appears inside a protected territory.'
+    - title: 'What is the minimum order for a co-brand collection?'
+      description: 'Pilot collections start at 30–50 units. Standard collections are 50–100 units; large or multi-region editions are 100+ units. Custom development timelines are agreed per project.'
+    - title: 'What amounts to OLagoon quality versus partner input?'
+      description: 'OLagoon owns product design, engineering, materials, construction, QC, and warranty. Partners contribute collection concept, naming, colors, graphics input, and go-to-market. This keeps one quality standard on the water.'
+    - title: 'How do I apply?'
+      description: 'Complete the co-brand inquiry form with your business, market, and collection idea. We review fit, then respond within 3 business days with a proposal and the Co-Brand Project Agreement.'
 cta:
-  title: 'ابنِ مجموعة محدودة لن ينساها الماء.'
-  subtitle: 'ابدأ مشروع علامة مشتركة مع أفارير وحوّل ناديك أو منتجعك أو مجتمعك إلى علامة على الماء — مدعومة بهندسة أفارير وضمانها.'
+  title: 'Build a limited collection the water will remember.'
+  subtitle: 'Start a co-brand project with OLagoon and turn your club, resort, or community into a brand on the water — backed by OLagoon engineering and warranty.'
   actions:
-    - text: 'ابدأ مشروع علامة مشتركة'
+    - text: 'Start a Co-Brand Project'
       href: /contact/?subject=Co-Brand Project
       variant: primary
-    - text: 'استكشف شراكة الدول'
+    - text: 'Explore Country Partnership'
       href: /distributor-program/
       variant: secondary
 geo:
-  tagline: 'مع من نجعل العلامة المشتركة'
-  sentence: 'تجعل أفارير العلامة المشتركة مع شركات رياضات مائية راسخة — شركاء دول وأندية تجديف ومنتجعات وفنادق ومنظمي فعاليات ومجتمعات تجديف — تريد مجموعة مميزة محدودة مبنية على علامة عالمية موثوقة.'
+  tagline: 'Who We Co-Brand With'
+  sentence: 'OLagoon co-brands with established water-sports businesses — country partners, paddle clubs, resorts and hotels, event organizers, and swimming communities — that want a distinctive, limited collection built on a reliable global brand.'
   audiences:
-    - 'موزعو الدول'
-    - 'أندية التجديف والرياضات المائية'
-    - 'المنتجعات والفنادق'
-    - 'منظمو السباقات والفعاليات'
-    - 'مجتمعات التجديف'
+    - 'Country Distributors'
+    - 'Paddle & Water Sports Clubs'
+    - 'Resorts & Hotels'
+    - 'Race & Event Organizers'
+    - 'swimming Communities'

@@ -1,72 +1,72 @@
 meta:
-  title: 'Partner — distribution & partihandel | {SITE}'
-  description: 'Bli en olagoon-partner: distributionsnätverk, partipriser, OEM/privatlabel-program och stöd för paddle board-företag över hela världen.'
+  title: 'Partners — Distribution & Wholesale | {SITE}'
+  description: 'Become an olagoon partner: distribution networks, wholesale pricing, OEM/private label programs, and support for inflatable pool businesses worldwide.'
   keywords:
-    - 'SUP distributionspartner'
-    - 'paddle board partihandel'
-    - 'uppblåsbar SUP distributör'
-    - 'SUP partnerskap'
+    - 'pool distribution partner'
+    - 'inflatable pool wholesale'
+    - 'inflatable pools distributor'
+    - 'pool partnership'
 hero:
-  tagline: Partners och distribution
-  title: Bli en olagoon-partner<br />— Globalt distributionsnätverk
-  subtitle: Gå med i OLagoons globala partnernätverk. Vi samarbetar med marina distributörer, paddelsportsåterförsäljare, utrustningsåterförsäljare och varumärkespartners i 50+ länder.
+  tagline: Partners & Distribution
+  title: 'Become an olagoon Partner<br />— Global Distribution Network'
+  subtitle: "Join olagoon's global partner network. We work with pool and outdoor distributors, specialty retailers, equipment dealers, and brand partners in 50+ countries."
   image:
     src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
-    alt: olagoons globala partner- och distributörnätverk
+    alt: olagoon global partner and distributor network
 content_programs:
-  tagline: Partnerskapsprogram
-  title: Partnerprogram<br />byggda för tillväxt
-  subtitle: Oavsett om du är distributör, återförsäljare eller varumärkespartner erbjuder olagoon program utformade för att stödja din verksamhet.
+  tagline: Partner Programs
+  title: 'Partner Programs<br />Built for Growth'
+  subtitle: 'Whether you are a distributor, dealer, or brand partner, olagoon offers programs designed to support your business.'
   columns: 3
   items:
-    - title: Distributörsprogram
-      description: Exklusiv territoriedistribution med volymprissättning, marknadsföringsstöd och direkt fabrikstillgång. Minimikrav baserat på territoriestorlek.
+    - title: 'Distributor Program'
+      description: 'Exclusive territory distribution with volume pricing, marketing support, and direct factory access. Minimum commitment required based on territory size.'
       icon: tabler:world
-    - title: Återförsäljarprogram
-      description: Direkt återförsäljarprissättning, produktutbildning, marknadsföringsmaterial och garantistöd för butiker och onlinebutiker.
+    - title: 'Dealer Program'
+      description: 'Direct dealer pricing, product training, marketing materials, and warranty support for retail locations and online stores.'
       icon: tabler:building-store
-    - title: OEM/ODM-partnerskap
-      description: Fullservice OEM- och ODM-tillverkning med anpassad branding, förpackning och produktspecifikationer. Från koncept till container.
+    - title: 'OEM/ODM Partnership'
+      description: 'Full-service OEM and ODM manufacturing with custom branding, packaging, and product specifications. From concept to container.'
       icon: tabler:certificate
-    - title: Varumärkes-samarbete
-      description: Co-branding, private label och exklusiva modellprogram för etablerade varumärken inom marin- och friluftsrekreation.
+    - title: 'Brand Partnership'
+      description: 'Co-branding, private label, and exclusive model programs for established brands in the marine and outdoor recreation space.'
       icon: tabler:stars
-    - title: Offentlig och institutionell
-      description: Föredragna leverantörsprogram för myndigheter, kustbevakning, militär och humanitära organisationer. Anbudsklar dokumentation.
+    - title: 'Government & Institutional'
+      description: 'Preferred supplier programs for government agencies, coast guards, military, and humanitarian organizations. Tender-ready documentation.'
       icon: tabler:building-community
-    - title: Resort- och uthyrningspartner
-      description: Flottprissättning, konsekvent kvalitet och anpassad branding för resorter, dykcenter och uthyrningsverksamhet över hela världen.
+    - title: 'Resort & Rental Partner'
+      description: 'Fleet pricing, consistent quality, and custom branding for resorts, diving centers, and rental operations worldwide.'
       icon: tabler:sun
 content_benefits:
-  tagline: Varför samarbeta med oss
-  title: Varför partners väljer olagoon
-  subtitle: Våra partners drar nytta av verklig tillverkningskapacitet, konsekvent kvalitet och lyhörd support.
+  tagline: Why Partner With Us
+  title: 'Why Partners Choose olagoon'
+  subtitle: 'Our partners benefit from real manufacturing capability, consistent quality, and responsive support.'
   list:
-    - 'Direkt fabrikstillgång: Arbeta direkt med vårt tillverkningsteam — inga mellanhänder. Snabbare svar, bättre priser och full insyn i produktionen.'
-    - 'Anpassningsklar: Varumärke dina produkter med anpassade färger, logotyper, förpackningar och specifikationer. Minsta orderkvantiteter anpassade efter din marknad.'
-    - 'Kvalitet garanterad: ISO 9001-certifierad produktion med CE-, UKCA- och BSCI-efterlevnad. Varje produkt testas innan leverans.'
-    - 'Global logistik: Frakt från Qingdao, Kina med FOB-, CIF- och DDP-alternativ. Lager i Montclair, Kalifornien för nordamerikansk distribution.'
-    - 'Marknadsföringsstöd: Produktkataloger, foto, teknisk dokumentation och digitala resurser som stöder er försäljning.'
-    - 'Utbildning och support: Produktutbildning för ditt säljteam, teknisk support för dina kunder och garantiservicekoordinering.'
+    - 'Direct Factory Access: Work directly with our manufacturing team — no middlemen. Get faster responses, better pricing, and full visibility into production.'
+    - 'Customization Ready: Brand your products with custom colors, logos, packaging, and specifications. Minimum order quantities tailored to your market.'
+    - 'Quality Guaranteed: ISO 9001 certified production with CE, UKCA, and BSCI compliance. Every product tested before shipping.'
+    - 'Global Logistics: Shipping from Qingdao, China with FOB, CIF, and DDP options. US warehouse in Montclair, CA for North American distribution.'
+    - 'Marketing Support: Product catalogs, photography, technical documentation, and digital assets to support your sales efforts.'
+    - 'Training & Support: Product training for your sales team, technical support for your customers, and warranty service coordination.'
 content_process:
-  tagline: Så blir du partner
-  title: Enkel partnerskapsprocess
-  subtitle: Vår partnerskapsprocess är okomplicerad — utformad för att få dig att sälja olagoon-produkter snabbt.
+  tagline: How to Become a Partner
+  title: 'Simple Partnership Process'
+  subtitle: 'Our partnership process is straightforward — designed to get you selling olagoon products quickly.'
   items:
-    - title: 'Steg 1: Skicka in ansökan'
-      description: Fyll i vår partneransökningsblankett med din företagsprofil, målmarknad och produktintressen.
-    - title: 'Steg 2: Kvalificeringsgranskning'
-      description: Vårt partnerskapsteam granskar din ansökan och kontaktar dig inom 3 arbetsdagar för att diskutera möjligheter.
-    - title: 'Steg 3: Avtal och installation'
-      description: Skriv ett partnerskapsavtal, skapa ditt konto och få partnerpriser, marknadsföringsmaterial och produktprover.
-    - title: 'Steg 4: Utbildning och lansering'
-      description: Produktutbildning, säljstöd och marknadsföringsmaterial tillhandahålls. Du är redo att börja sälja.
+    - title: 'Step 1: Submit Application'
+      description: 'Complete our partner application form with your company profile, target market, and product interests.'
+    - title: 'Step 2: Qualification Review'
+      description: 'Our partnership team reviews your application and contacts you within 3 business days to discuss opportunities.'
+    - title: 'Step 3: Agreement & Setup'
+      description: 'Sign a partnership agreement, set up your account, and receive partner pricing, marketing materials, and product samples.'
+    - title: 'Step 4: Training & Launch'
+      description: 'Product training, sales support, and marketing collateral provided. You are ready to start selling.'
 cta:
-  title: Redo att bli en olagoon-partner?
-  subtitle: Ansök om partnerskap och vårt team svarar inom 3 arbetsdagar.
+  title: 'Ready to become an olagoon partner?'
+  subtitle: 'Apply for partnership and our team will respond within 3 business days.'
   actions:
     - variant: primary
-      text: Ansök om partnerskap
+      text: Apply for partnership
       href: /contact/
-    - text: Visa våra produkter
+    - text: View our products
       href: /products/

@@ -1,46 +1,46 @@
 meta:
-  title: 'Learn — SUP & Paddle | {SITE}'
-  description: 'Learn with olagoon: inflatable SUP tutorials, paddle techniques, gear basics, and nautical education for enthusiasts and businesses.'
+  title: 'Learn — Pool Education | {SITE}'
+  description: 'Learn with OLagoon: inflatable pool tutorials, water care basics, setup guides, and pool education for owners and businesses.'
   keywords:
-    - 'learn sup'
-    - 'paddle board tutorial'
-    - 'inflatable sup education'
-    - 'paddle techniques'
+    - 'learn pool'
+    - 'inflatable pool tutorial'
+    - 'inflatable pools education'
+    - 'pool maintenance'
 hero:
   tagline: 'Water Exploration Knowledge'
   title: 'Learn'
   subtitle: |
     Guides, tutorials, and deep dives — everything you need to explore<br />
-    water with confidence. From choosing your first SUP to mastering advanced techniques.
-  taglineSection: 'Knowledge for every paddler. From beginner to professional.'
+    water with confidence. From choosing your first pool to mastering advanced techniques.
+  taglineSection: 'Knowledge for every pool owner. From first-time buyer to seasoned pro.'
 
 featured:
   tagline: 'Featured Topics'
   title: 'Start your learning journey'
   subtitle: 'Whether you are new to water sports or looking to level up, our guides have you covered.'
   items:
-    - title: 'SUP Basics'
-      description: 'Everything a beginner needs to know — board types, paddle sizing, stance, and first-day tips.'
+    - title: 'pool Basics'
+      description: 'Everything a new owner needs to know — pool types, pump operation, water care, and first-day tips.'
       icon: 'tabler:lifebuoy'
       href: '/learn/water-safety/'
-    - title: 'Inflatable vs Hard Board'
+    - title: 'Inflatable vs rigid pools'
       description: 'Which is right for you? We compare portability, performance, durability, and cost side by side.'
       icon: 'tabler:arrows-left-right'
       href: '/compare/technology/'
     - title: 'Water Safety'
-      description: 'Essential safety knowledge every paddler should have — weather, PFDs, self-rescue, and more.'
+      description: 'Essential safety knowledge every pool owner should have — supervision, filtration, maintenance, and more.'
       icon: 'tabler:shield'
       href: '/learn/water-safety/'
     - title: 'Materials Guide'
       description: 'PVC grades, drop-stitch technology, denier ratings — understand what your gear is made of.'
       icon: 'tabler:flask'
       href: '/learn/materials/'
-    - title: 'SUP Size Guide'
-      description: 'Find the right board length, width, and volume for your weight, skill, and paddling style.'
+    - title: 'pool Size Guide'
+      description: 'Find the right pool length, width, and depth for your space, household, and swimming style.'
       icon: 'tabler:ruler'
       href: '/size-guide/'
     - title: 'Intermediate Techniques'
-      description: 'Step up your paddling with advanced strokes, turning techniques, and rough-water handling.'
+      description: 'Step up your swimming with advanced strokes, turning techniques, and rough-water handling.'
       icon: 'tabler:droplet'
       href: '/learn/intermediate-techniques/'
 
@@ -51,14 +51,14 @@ categories:
   columns:
     - title: 'Beginner'
       items:
-        - 'SUP Basics — start here'
-        - 'Inflatable vs Hard Board'
+        - 'pool Basics — start here'
+        - 'Inflatable vs rigid pools'
         - 'Water Safety Essentials'
-        - 'How to Choose Your SUP'
+        - 'How to Choose Your pool'
         - 'Pump & Pack Guide'
     - title: 'Intermediate'
       items:
-        - 'Paddling Techniques'
+        - 'swimming Techniques'
         - 'Inflatable Technology'
         - 'Materials Reference'
         - 'PVC Grades Comparison'

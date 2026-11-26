@@ -1,72 +1,72 @@
 meta:
-  title: "Expertise Marine — L'Ingénierie dans Chaque Coque | {SITE}"
-  description: "Des décennies d'ingénierie marine dans chaque coque. olagoon maîtrise le drop stitch, le PVC marine et la conception de SUP gonflables professionnels."
+  title: 'Marine Expertise — Engineering in Every Hull | {SITE}'
+  description: 'Decades of marine engineering in every hull. olagoon masters drop stitch, marine PVC, and professional inflatable pools design.'
   keywords:
-    - 'ingénierie marine'
-    - 'fabricant SUP gonflable'
-    - 'fabrication paddle gonflable'
+    - 'marine engineering'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: Expertise marine
-  title: Des Décennies d'Ingénierie Marine<br />dans Chaque Coque
-  subtitle: olagoon combine une science des matériaux approfondie, une fabrication de précision et des tests en conditions réelles pour produire des embarcations performantes au moment décisif.
+  tagline: Marine Expertise
+  title: 'Decades of Marine Engineering<br />in Every Hull'
+  subtitle: 'olagoon combines deep material science, precision manufacturing, and real-world testing to produce watercraft that perform when it matters.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: Équipe d'ingénierie marine et R&D d'olagoon au travail
+    alt: olagoon marine engineering and R&D team at work
 expertise_materials:
-  tagline: Science des Matériaux
-  title: Choisir le Bon Matériau<br />pour Chaque Application
-  subtitle: Nous travaillons avec deux matériaux principaux — chacun sélectionné pour des cas d'usage spécifiques et des exigences de performance.
+  tagline: Material Science
+  title: 'Choosing the Right Material<br />for Every Application'
+  subtitle: 'We work with two core materials — each selected for specific use cases and performance requirements.'
   columns: 3
   items:
-    - title: PVC qualité marine
-      description: Tissu PVC 1100 deniers — notre matériau le plus polyvalent. Stabilisé UV, résistant à l'abrasion et conforme REACH. Idéal pour les SUP où le poids et le rapport qualité-prix comptent.
+    - title: Marine-Grade PVC
+      description: '1100 denier PVC fabric — our most versatile material. UV-stabilized, abrasion-resistant, and REACH compliant. Ideal for pools where weight and cost efficiency matter.'
       icon: tabler:droplet
-    - title: Fibre de Verre et Polyéthylène
-      description: SUP stratifiés fibre de verre pour une rigidité et un glissement premium. Polyéthylène moulé par rotation pour un usage intensif de location et de sauvetage exigeant une résistance maximale aux chocs.
+    - title: Fibreglass & Polyethylene
+      description: 'Fibreglass-laminated pools for premium stiffness and glide. Rotomoulded polyethylene for heavy-duty rental and rescue use requiring maximum impact resistance.'
       icon: tabler:building-arch
 expertise_manufacturing:
-  tagline: Capacités de Fabrication
-  title: Fabrication de Précision<br />à Chaque Étape
-  subtitle: Notre installation de 12 000 m² est équipée de machines spécialisées pour chaque étape.
+  tagline: Manufacturing Capabilities
+  title: 'Precision Manufacturing<br />at Every Step'
+  subtitle: 'Our 12,000 m² facility is equipped with specialized machinery for every stage of production.'
   columns: 2
   items:
-    - title: Découpe CNC
-      description: La découpe commandée par ordinateur garantit des panneaux de tissu précis et reproductibles avec un minimum de déchets. Chaque pièce s’adapte exactement comme conçu.
+    - title: CNC Cutting
+      description: 'Computer-controlled cutting ensures precise, repeatable fabric panels with minimal waste. Every piece fits exactly as designed.'
       icon: tabler:cpu
-    - title: Soudure Haute Fréquence
-      description: La soudure HF industrielle crée des joints plus résistants que le matériau de base. Un contrôle constant de la température et de la pression garantit des joints étanches sur chaque lot de production.
+    - title: High-Frequency Welding
+      description: 'Industrial HF welding creates seams stronger than the base material. Consistent temperature and pressure control ensures air-tight seals across every production run.'
       icon: tabler:bolt
-    - title: Assemblage du Cœur Drop-Stitch
-      description: Des milliers de fils de polyester relient les couches de tissu supérieure et inférieure, permettant un gonflage haute pression (15-20 PSI) pour des planches SUP rigides et stables.
+    - title: Drop Stitch Core Assembly
+      description: 'Thousands of polyester threads connect top and bottom fabric layers, allowing high-pressure inflation (15-20 PSI) for rigid, stable pools.'
       icon: tabler:building-arch
-    - title: Test de Pression
-      description: Chaque produit gonflable est testé sous pression avant expédition. Les planches sont testées à 1,25 fois la pression nominale — si elles tiennent à cette pression, elles performeront sur l'eau.
+    - title: Pressure Testing
+      description: 'Every inflatable product is pressure-tested before shipping. Pools are tested at 1.25x rated pressure — if it holds there, it will perform on the water.'
       icon: tabler:wind
-    - title: Test de Résistance des Joints
-      description: Des échantillons aléatoires de chaque lot de production subissent des tests destructifs de résistance des joints. Les résultats sont enregistrés et traçables jusqu’aux séries de production spécifiques.
+    - title: Seam Strength Testing
+      description: 'Random samples from each production batch undergo destructive seam strength testing. Results are logged and traceable to specific production runs.'
       icon: tabler:files
-    - title: Tests Nautiques
-      description: Chaque modèle subit des essais en mer avant certification. Des tests en conditions côtières réelles valident la performance, la maniabilité et la stabilité.
+    - title: Water Testing
+      description: 'Every model undergoes sea trials before certification. Real-world testing in coastal conditions validates performance, handling, and stability.'
       icon: tabler:droplet
 expertise_design:
-  tagline: Conception & ingénierie
-  title: Conçu pour des Conditions Réelles
-  subtitle: Notre philosophie de conception commence par la manière dont la planche sera utilisée — puis construit l'ingénierie autour de ce cas d'usage.
+  tagline: Design & Engineering
+  title: 'Engineered for Real Conditions'
+  subtitle: 'Our design philosophy starts with how the pool will be used — then builds the engineering around that use case.'
   items:
-    - title: Conception de Coque Performante
-      description: Chaque forme de coque est ajustée à son usage — prouées à déplacement pour le glissement en touring, rocker accentué pour l'agilité dans les vagues, profils plats et stables pour la pêche et le yoga.
-    - title: Sécurité Drop-Stitch
-      description: Chaque planche intègre un cœur drop-stitch rigide avec des rails renforcés. Si une section est endommagée, la structure drop-stitch à haute résistance maintient la planche opérationnelle.
-    - title: Disposition Ergonomique du Pont
-      description: Le zonage du tapis de pont, la position de la poignée de transport et les points de fixation sont conçus pour le confort du rider lors d'une utilisation prolongée — que ce soit pour le touring, la pêche ou la patrouille.
-    - title: Configuration Personnalisée
-      description: Couleurs des rails, configuration du tapis de pont, supports d'accessoires, capacité d'équipement — chaque modèle peut être personnalisé pour répondre à des exigences opérationnelles spécifiques.
+    - title: Performance Hull Design
+      description: 'Each pool is tuned for its use case — compact footprints for plunge soaking, family-sized layouts for play, and generous swim areas for daily laps.'
+    - title: Drop-Stitch Safety
+      description: 'Every pool features a rigid drop-stitch core with reinforced walls. If a section is damaged, the high-tensile drop-stitch structure keeps the pool operational.'
+    - title: Ergonomic Deck Layout
+      description: 'Deck-pad zoning, carry-handle position, and mounting points are designed around rider comfort during extended use — whether touring, fishing, or patrolling.'
+    - title: Custom Configuration
+      description: 'Rail colors, deck pad configuration, accessory mounts, gear capacity — each model can be customized to match specific operational requirements.'
 cta:
-  title: Vous avez une application spécifique en tête ?
-  subtitle: Notre équipe d'ingénierie peut vous conseiller sur la sélection des matériaux, la conception et la fabrication.
+  title: 'Have a specific application in mind?'
+  subtitle: 'Our engineering team can advise on material selection, design, and manufacturing for your project.'
   actions:
     - variant: primary
-      text: Demandez à nos ingénieurs
+      text: Ask our engineers
       href: /contact/
-    - text: Voir la gamme de produits
+    - text: View product range
       href: /products/

@@ -1,86 +1,86 @@
 meta:
-  title: 'Παγκόσμια παρουσία — κατασκευαστής SUP σε πάνω από 50 χώρες | {SITE}'
-  description: 'Η olagoon εξάγει φουσκωτά SUP σε πάνω από 50 χώρες σε όλες τις ηπείρους. Επαγγελματίας κατασκευαστής και προμηθευτής για μάρκες, διανομείς και στόλους.'
+  title: 'Global Presence — pool Manufacturer Serving 50+ Countries | {SITE}'
+  description: 'olagoon exports inflatable pools to 50+ countries across every continent. Professional manufacturer and supplier for brands, distributors, and fleets.'
   keywords:
-    - 'παγκόσμιος κατασκευαστής SUP'
-    - 'εξαγωγέας paddle board'
-    - 'εργοστάσιο SUP Κίνα'
-    - 'επαγγελματίας προμηθευτής SUP'
+    - 'global pool manufacturer'
+    - 'inflatable pool exporter'
+    - 'pool factory china'
+    - 'professional pool supplier'
 hero:
-  tagline: Παγκόσμια Παρουσία
-  title: Εξυπηρετώντας 50+ Χώρες<br />σε Κάθε Ήπειρο
-  subtitle: Από ευρωπαϊκούς χειριστές παράκτιας περιπολίας έως αυστραλιανούς διανομείς θαλάσσιων σπορ έως ομάδες διάσωσης Μέσης Ανατολής — σανίδες olagoon βρίσκονται στο νερό παγκοσμίως.
+  tagline: Global Presence
+  title: 'Serving 50+ Countries<br />Across Every Continent'
+  subtitle: 'From European resort operators to Australian outdoor retailers to Middle East hospitality groups — OLagoon pools are in backyards worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'olagoon: παγκόσμια ναυτική κατασκευή και διανομή'
+    alt: olagoon global marine manufacturing and distribution
 stats:
-  title: Παγκόσμια Εμβέλεια
+  title: Global Reach
   stats:
-    - title: Χώρες
-      amount: 50+
-    - title: Αγορές Εξαγωγών
-      amount: Ευρώπη, Αμερικές, Ασία, Μέση Ανατολή, Ωκεανία
-    - title: Παραγωγή
+    - title: Countries
+      amount: '50+'
+    - title: Export Markets
+      amount: Europe, Americas, Asia, Middle East, Oceania
+    - title: Production
       amount: Qingdao, China
-    - title: Αποθήκη ΗΠΑ
+    - title: US Warehouse
       amount: Montclair, CA
 features3_markets:
-  tagline: Βασικές Αγορές
-  title: Περιφερειακή Τεχνογνωσία<br />για Τοπικές Απαιτήσεις
-  subtitle: Κατανοούμε ότι διαφορετικές αγορές έχουν διαφορετικές κανονιστικές απαιτήσεις, προτιμήσεις και περιπτώσεις χρήσης.
+  tagline: Key Markets
+  title: 'Regional Expertise<br />for Local Requirements'
+  subtitle: 'We understand that different markets have different regulatory requirements, preferences, and use cases.'
   isBeforeContent: false
   columns: 4
   items:
-    - title: Ευρώπη & Ηνωμένο Βασίλειο
-      description: Πιστοποιημένα προϊόντα CE. Ισχυρή ζήτηση για σανίδες SUP σε αγορές ΕΕ. Οι διανομείς ΗΒ εκτιμούν τον γρήγορο χρόνο ολοκλήρωσής μας.
+    - title: Europe & UK
+      description: 'CE-certified products. Strong demand for pools across EU markets. UK distributors appreciate our quick turnaround.'
       icon: tabler:map-pin
-    - title: Βόρεια Αμερική
-      description: Εγκεκριμένη κατασκευή από Ακτοφυλακή ΗΠΑ. Αποθήκη ΗΠΑ στο Montclair, CA για γρήγορη παράδοση στη Δυτική Ακτή. Αυξανόμενη ζήτηση για SUP ψαρέματος, διάσωσης και αναψυχής.
+    - title: North America
+      description: 'US Coast Guard approved manufacturing. US warehouse in Montclair, CA for fast West Coast delivery. Growing demand for fishing, rescue, and recreational pools.'
       icon: tabler:map-pin
-    - title: Αυστραλία & Ωκεανία
-      description: Ισχυρή αγορά για σανίδες SUP και αξεσουάρ θαλάσσιων σπορ. Οι αυστραλοί διανομείς εκτιμούν την κατασκευή μας από PVC ανθεκτικό σε UV σε συνθήκες έντονου ήλιου. Γρήγορη αποστολή από την εγκατάστασή μας στην Ασία.
+    - title: Australia & Oceania
+      description: 'Strong market for pools and water sports accessories. Australian distributors value our UV-resistant PVC construction in harsh sun conditions. Quick shipping from our Asia facility.'
       icon: tabler:map-pin
-    - title: Μέση Ανατολή
-      description: Αυξανόμενη ζήτηση για εξοπλισμό περιπέτειας στο νερό. Τα SUP εμπορικής κλάσης και ο εξοπλισμός ασφαλείας μας είναι δημοφιλή σε χειριστές περιηγήσεων και κέντρα ενοικίασης. Προσαρμοσμένες διαμορφώσεις για περιβάλλοντα υψηλής θερμοκρασίας.
+    - title: Middle East
+      description: 'Growing demand for water adventure equipment. Our commercial-grade pools and safety gear are popular with tour operators and rental centers. Custom configurations for high-temperature environments.'
       icon: tabler:map-pin
 features3_distribution:
-  tagline: Δίκτυο Κατανομής
-  title: Συνεργασία με Διανομείς<br />Παγκοσμίως
-  subtitle: Συνεργαζόμαστε με καθιερωμένους διανομείς θαλάσσιου εξοπλισμού, μάρκες θαλάσσιων σπορ και κυβερνητικούς οργανισμούς προμηθειών.
+  tagline: Distribution Network
+  title: 'Partnering with Distributors<br />Worldwide'
+  subtitle: 'We work with established marine equipment distributors, water sports brands, and government procurement agencies.'
   isBeforeContent: false
   columns: 3
   items:
-    - title: Co-Brand προγράμματα
-      description: Κατασκευή ιδιωτικής ετικέτας για παγκόσμιες επωνυμίες θαλάσσιων σπορ. Χειριζόμαστε τα πάντα από τον σχεδιασμό έως την παραγωγή έως την απευθείας αποστολή.
+    - title: Co-Brand Programs
+      description: 'Private label manufacturing for global water sports brands. We handle everything from design to production to drop-shipping.'
       icon: tabler:building
-    - title: Δίκτυο Διανομής
-      description: Εξουσιοδοτημένοι διανομείς σε 20+ χώρες διατηρούν απόθεμα και παρέχουν τοπική υποστήριξη. Νέα αιτήματα διανομέων είναι ευπρόσδεκτα.
+    - title: Distributor Network
+      description: 'Authorized distributors in 20+ countries carry stock and provide local support. New distributor inquiries welcome.'
       icon: tabler:users
-    - title: Κυβερνητικό & Θεσμικό
-      description: Άμεση προμήθεια σε ακτοφυλακές, οργανώσεις έρευνας και διάσωσης και στρατιωτικά προγράμματα προμηθειών. Συμμόρφωση με θεσμικές απαιτήσεις προμηθειών.
+    - title: Government & Institutional
+      description: 'Direct supply to coast guards, search and rescue organizations, and military procurement programs. Compliance with institutional procurement requirements.'
       icon: tabler:building-community
 steps2_logistics:
-  title: Παγκόσμια Logistics & Υποστήριξη
-  subtitle: Από το εργοστάσιο έως τον προορισμό — διαχειριζόμαστε ολόκληρη την εφοδιαστική αλυσίδα.
+  title: 'Global Logistics & Support'
+  subtitle: 'From factory to destination — we manage the entire supply chain.'
   items:
-    - title: Επιλογές Αποστολής
-      description: Θαλάσσια μεταφορά (FOB Qingdao), αεροπορική μεταφορά για επείγουσες παραγγελίες και ταχυμεταφορά για δείγματα και ανταλλακτικά.
+    - title: Shipping Options
+      description: 'Sea freight (FOB Qingdao), air freight for urgent orders, and express courier for samples and spare parts.'
       icon: tabler:truck-delivery
-    - title: Αποθήκη ΗΠΑ
-      description: 'Απόθεμα στο Montclair, CA για γρήγορη παράδοση σε όλη τη Βόρεια Αμερική. Δυτική Ακτή: 2-3 ημέρες, Κεντρικά: 3-4 ημέρες, Ανατολική Ακτή: 4-5 ημέρες.'
+    - title: US Warehouse
+      description: 'Stock held in Montclair, CA for fast delivery across North America. West Coast: 2-3 days, Central: 3-4 days, East Coast: 4-5 days.'
       icon: tabler:building-warehouse
-    - title: Ανταλλακτικά
-      description: Γνήσια ανταλλακτικά και αναλώσιμα olagoon σε απόθεμα όλο το χρόνο. Κοινά ανταλλακτικά αποστέλλονται εντός 24 ωρών.
+    - title: Spare Parts
+      description: 'Genuine olagoon spare parts and consumables stocked year-round. Common parts ship within 24 hours.'
       icon: tabler:package
-    - title: Τεχνική Υποστήριξη
-      description: Άμεση γραμμή στην ομάδα μηχανικών μας για τεχνικές ερωτήσεις, συμβουλές επισκευής και υποστήριξη ανταλλακτικών. Υποστηρίζουμε σανίδες που κατασκευάσαμε πριν από 20 χρόνια.
+    - title: Technical Support
+      description: 'Direct line to our engineering team for technical questions, repair advice, and replacement-part support. We support every pool generation we have built.'
       icon: tabler:headset
 cta:
-  title: Θέλετε να γίνετε διανομέας;
-  subtitle: Επεκτείνουμε ενεργά το δίκτυο διανομής μας. Επικοινωνήστε με την ομάδα εξαγωγών μας για να συζητήσετε ευκαιρίες συνεργασίας.
+  title: 'Want to become a distributor?'
+  subtitle: 'We are actively expanding our distribution network. Contact our export team to discuss partnership opportunities.'
   actions:
     - variant: primary
-      text: Αίτημα Συνεργασίας
+      text: Partnership inquiry
       href: /contact/
-    - text: Δείτε τη γκάμα των προϊόντων μας
+    - text: View our product range
       href: /products/

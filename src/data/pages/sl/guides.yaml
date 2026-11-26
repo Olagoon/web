@@ -1,26 +1,26 @@
 meta:
-  title: 'Vodniki SUP — nakup, izbira, vadba | {SITE}'
-  description: 'Vodniki SUP olagoon: kako kupiti, izbrati in vaditi veslanje na deski. Velikosti, materiali in strokovni nasveti za začetnike in profesionalce napihljivih SUP desk.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'nakupovalni vodnik sup'
-    - 'kako izbrati sup'
-    - 'vodnik po velikosti sup'
-    - 'nasveti za napihljive veslaške deske'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: 'Vodniki'
-  title: 'Novi v svetu SUP?'
-  subtitle: 'Praktični vodniki, ki vam pomagajo izbrati, uporabljati in uživati v napihljivih deskah SUP.'
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
 
 size_guide:
-  tagline: 'Velikost in specifikacije'
-  title: 'Poiščite pravo velikost za svoje potrebe'
-  desc: 'Primerjajte mere desk SUP, nosilnosti in priporočene uporabe. Ne glede na to, ali potrebujete turistično desko SUP, joga desko ali vsestransko desko SUP — naš vodnik po velikostih vam pomaga izbrati pravo.'
-  link_label: 'Popoln vodnik po velikostih s specifikacijami izdelkov →'
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: 'Deske SUP'
-      desc: 'Izberite dolžino glede na svojo težo in predvideno uporabo. Širše deske (32"+) ponujajo več stabilnosti. Daljše deske (11–12 ft) se za turizem bolje držijo smeri.'
-    - title: 'Turistične deske SUP'
-      desc: 'Daljše deske (11–12 ft) za prečenje razdalj in ravnost vožnje. Dovolj stabilne za turizem s prtljago. Vedno preverite nosilnost.'
-    - title: 'Vsestranske deske SUP'
-      desc: 'Izberite dolžino glede na težo voznika in uporabo. Širše deske (32"+) za stabilnost. Vsestranske za rekreacijo in kondicijo.'
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

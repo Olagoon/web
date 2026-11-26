@@ -1,176 +1,175 @@
 meta:
-  title: 'Academy — SUP-gidsen & Paddle-training | {SITE}'
-  description: 'olagoon Academy: gidsen voor opblaasbare paddle boards, stand up paddle-technieken, nautische veiligheid en kennis van materialen voor beginners en professionals.'
+  title: 'Academy — Pool Care Guides & Learning Center | {SITE}'
+  description: 'OLagoon Academy: drop-stitch pool guides, setup tutorials, water care, safety essentials, and materials knowledge for pool owners and professionals.'
   keywords:
-    - 'stand up paddle leren'
-    - 'SUP beginnersgids'
-    - 'paddle board basis'
-    - 'SUP-techniek'
-    - 'SUP-lessen'
+    - 'drop stitch pool guide'
+    - 'inflatable pool setup'
+    - 'pool water care'
+    - 'pool safety essentials'
+    - 'pool maintenance'
 hero:
-  tagline: olagoon Academie
-  title: Kenniscentrum
-  subtitle: Handleidingen en tutorials voor elk vaardigheidsniveau — van SUP-basis tot geavanceerde reddingstechnieken
+  tagline: OLagoon Academy
+  title: Learning Center
+  subtitle: Guides and tutorials for every pool owner — from first setup to water care, safety, and seasonal maintenance
+
 categories:
-  - level: Beginner
-    color: van-groen-500 naar-smaragd-600
-    badge: bg-groen-100 tekst-groen-700
+  - level: Getting Started
+    color: from-green-500 to-emerald-600
+    badge: bg-green-100 text-green-700
     guides:
-      - title: SUP-basis
-        desc: Leer de basis van staand peddelen — houding, peddeltechniek en balans.
-        slug: beginner-sup-guide
-      - title: Peddeltechnieken
-        desc: Voorwaarts peddelen, achterwaarts peddelen, trekpeddel en lage steun — beheers de basispeddelbewegingen.
-        slug: sup-paddle-guide
-      - title: Veiligheid voorop
-        desc: Essentiële veiligheidspraktijken, waaronder weerscontrole, PFD-gebruik, leiblijnregels en zelfredding.
-        slug: sup-safety-guide
-  - level: Gemiddeld
-    color: van-blauw-500 naar-indigo-600
-    badge: bg-blauw-100 tekst-blauw-700
+      - title: Choosing Your Pool
+        desc: Size, capacity, and placement — how to pick the right drop-stitch pool for your backyard and family.
+        slug: choosing-a-drop-stitch-pool
+      - title: First Setup
+        desc: Unbox, inflate, fill, and swim — a complete walkthrough of your first pool setup in under 30 minutes.
+        slug: pool-setup-guide
+      - title: Pool Safety Essentials
+        desc: Supervision rules, entry and exit practice, barrier placement, and everyday water safety habits.
+        slug: pool-safety-essentials
+  - level: Water Care
+    color: from-blue-500 to-indigo-600
+    badge: bg-blue-100 text-blue-700
     guides:
-      - title: Touring Essenties
-        desc: Meerdaagse tochten plannen — navigatie, hydratatie, tempo en windvoorspellingen lezen.
-        slug: touring-sup-guide
-      - title: Weer lezen
-        desc: Marinevoorspellingen interpreteren, wolkenpatronen herkennen en de invloed van wind op water begrijpen.
-        slug: weather-planning-water-sports
-      - title: Navigatiebasis
-        desc: Kaartlezen, kompas gebruiken, GPS-waypoints en routeplanning voor kustnavigatie.
-        slug: sup-navigation-guide
-      - title: Getijdenbewustzijn
-        desc: Inzicht in getijdencycli, stromingen en hun invloed op vertrektijd en route.
-        slug: understanding-tides
-  - level: Gevorderd
-    color: van-paars-500 naar-violet-600
-    badge: bg-paars-100 tekst-paars-700
+      - title: Water Care Basics
+        desc: Filtration schedules, sanitizer levels, and testing routines for clear, healthy pool water all season.
+        slug: pool-water-care
+      - title: Filtration & Circulation
+        desc: How your sand filter pump works, when to backwash, and how to keep water circulating efficiently.
+        slug: pool-water-care
+      - title: Preventing Algae & Cloudiness
+        desc: Troubleshooting green or cloudy water — causes, quick fixes, and prevention routines.
+        slug: pool-water-care
+  - level: Technology
+    color: from-purple-500 to-violet-600
+    badge: bg-purple-100 text-purple-700
     guides:
-      - title: Meerdaagse tochten plannen
-        desc: Expeditielogistiek — uitrustingskeuze, maaltijdplanning, veiligheidsprotocollen en noodcontacten.
-        slug: sup-travel-guide
-      - title: Reddingstechnieken
-        desc: Zelfredding, T-redding en sleepprotocollen op open water.
-        slug: sup-self-rescue
-      - title: Nachtpeddelen
-        desc: Navigatie in het donker — verlichtingseisen, routegeheugen, groepscommunicatie en gevarenbewustzijn.
-        slug: ocean-safety-basics
-  - level: Onderhoud
-    color: van-amber-500 naar-oranje-600
+      - title: Drop-Stitch Engineering
+        desc: How thousands of internal threads turn flexible PVC into a rigid, high-pressure pool structure.
+        slug: drop-stitch-pool-engineering
+      - title: Inflatable vs Rigid Pools
+        desc: Cost, setup, storage, durability, and feel — a complete comparison for backyard buyers.
+        slug: inflatable-pool-vs-rigid-pool
+      - title: Materials Deep Dive
+        desc: PVC layers, UV stabilizers, and reinforced rails — what makes a drop-stitch pool last a decade.
+        slug: drop-stitch-pool-engineering
+  - level: Maintenance
+    color: from-amber-500 to-orange-600
     badge: bg-amber-100 text-amber-700
     guides:
-      - title: Reiniging en verzorging
-        desc: Spoelen met zoet water, UV-bescherming, schimmelpreventie en juiste droogtechnieken na elke sessie.
-        slug: inflatable-sup-maintenance
-      - title: Opslag
-        desc: Beste opslagpraktijken voor opblaasbare SUP-boards — leeglaten, opvouwen, temperatuurbeheer en houdbaarheid.
-        slug: inflatable-sup-storage
-      - title: Reparatiebasis
-        desc: Kleine lekken, lekkende naden en klepproblemen repareren met PVC-reparatiesets en patchtechnieken.
-        slug: inflatable-sup-repair
-      - title: Kleponderhoud
-        desc: Identificatie van kleptypen (Halkey-Roberts, Boston, Leafield), reinigen van vuil en vervangen van defecte kleppen.
-        slug: sup-pump-guide
-knowledge_center_tagline: Kenniscentrum
-knowledge_center_title: Marine-uitrusting & industriehandleidingen
-knowledge_center_subtitle: Expertkennis en koopgidsen voor maritieme professionals, vlootbeheerders en watersportliefhebbers.
+      - title: Cleaning & Care
+        desc: Surface cleaning, UV protection, seam inspection, and proper drying before every storage.
+        slug: pool-setup-guide
+      - title: Winter Storage
+        desc: Drain, clean, dry, fold — best practices for storing your pool through the off-season.
+        slug: pool-winter-storage
+      - title: Repairs & Patches
+        desc: Fix small punctures and seam issues with the included PVC repair kit — step by step.
+        slug: pool-setup-guide
+
+knowledge_center_tagline: 'Knowledge Center'
+knowledge_center_title: 'Pool Ownership & Industry Guides'
+knowledge_center_subtitle: 'Expert knowledge and buying guides for pool owners, facilities operators, and retail partners.'
+
 knowledge_sections:
-  - title: SUP Board Kennis
-    tagline: Stand-up paddleboard gidsen
-    desc: Alles over SUP-boards — boardontwerp, materialen, maatkeuze, onderhoud en aankoopadvies voor recreatief en commercieel gebruik.
+  - title: 'Buying Knowledge'
+    tagline: 'Drop-Stitch Pool Guides'
+    desc: 'Everything about drop-stitch pools — sizing, materials, construction, and buying advice for families and commercial buyers.'
     guides:
-      - title: Hoe kies je het juiste SUP-board
-        desc: Complete gids voor het kiezen van een SUP — grootte, volume, materiaal, vorm en beoogd gebruik.
-        href: /learn/water-safety/
-      - title: Opblaasbare vs Harde SUP
-        desc: Opblaasbare SUP versus harde epoxy-plank — draagbaarheid, duurzaamheid, prestaties en waarde vergeleken.
-        href: /compare/technology/
-      - title: Allround vs Touring vs Yoga SUP
-        desc: Verschillende soorten SUP-boards — bouwnormen, vormen, maten en aanbevolen gebruik.
-        href: /learn/water-safety/
-      - title: Drop-Stitch versus traditionele constructie
-        desc: Vergelijk drop-stitch en traditionele constructie voor SUP-boards op het gebied van gewicht, kosten, duurzaamheid en stijfheid.
-        href: /learn/drop-stitch-core/
-  - title: Opblaasbare SUP-gids
-    tagline: Opblaasbare SUP Kennis
-    desc: Uitgebreide handleidingen over opblaasbare SUP's — PVC-materialen, drop-stitch constructie, veiligheidsnormen en beste onderhoudspraktijken.
+      - title: 'How to Choose the Right Pool'
+        desc: 'Complete guide to selecting a drop-stitch pool — size, capacity, material, and intended use.'
+        href: '/v2/choosing-a-drop-stitch-pool/'
+      - title: 'Inflatable vs Rigid Pool'
+        desc: 'Inflatable vs rigid pools — cost, setup, storage, durability, and value compared.'
+        href: '/v2/inflatable-pool-vs-rigid-pool/'
+      - title: 'Compact Plunge vs Family vs Grand Lagoon'
+        desc: 'The three OLagoon pool sizes compared — footprint, capacity, and ideal backyard.'
+        href: '/products/'
+      - title: 'Drop-Stitch vs Traditional Construction'
+        desc: 'Why drop-stitch cores beat vinyl-tube and frame-pool construction in rigidity and lifespan.'
+        href: '/v2/drop-stitch-pool-engineering/'
+  - title: 'Setup & Care Guide'
+    tagline: 'Pool Ownership Knowledge'
+    desc: 'Comprehensive guides on inflatable pool setup, water care, filtration, and maintenance best practices.'
     guides:
-      - title: PVC Materiaalgids
-        desc: Definitieve gids voor PVC-materialen die worden gebruikt bij de constructie van opblaasbare SUP-boards.
-        href: /learn/materials/
-      - title: Hoe opblaasbare SUP's worden gemaakt
-        desc: Productieproces — materiaal snijden, drop-stitch kernlijmen, naadconstructie, druktesten en kwaliteitscontrole.
-        href: /learn/inflatable-technology/
-      - title: SUP Veiligheidsgids
-        desc: Veiligheidsnormen, draagvermogen, juiste ophoging, controles voorafgaand aan vertrek en noodprocedures.
-        href: /learn/water-safety/
-      - title: SUP Onderhoud
-        desc: Reiniging, opslag, UV-bescherming en reparatie van opblaasbare SUP-boards.
-        href: /v2/inflatable-sup-maintenance/
-  - title: SUP Board Kennis
-    tagline: SUP Board Hub
-    desc: Technische handleidingen over SUP-boardtypes, materialen, constructiemethoden, onderhoud en veiligheid.
+      - title: 'PVC Material Guide'
+        desc: 'The PVC materials used in OLagoon pool construction — layers, coatings, and UV resistance.'
+        href: '/learn/materials/'
+      - title: 'How Pools Are Made'
+        desc: 'Manufacturing process — material cutting, drop-stitch bonding, seam welding, pressure testing, and quality control.'
+        href: '/learn/inflatable-technology/'
+      - title: 'Water Safety Guide'
+        desc: 'Safety standards, capacity limits, supervision rules, and emergency procedures.'
+        href: '/learn/water-safety/'
+      - title: 'Seasonal Maintenance'
+        desc: 'Cleaning, water care, and protection routines for a season-long clear pool.'
+        href: '/v2/pool-water-care/'
+  - title: 'Engineering Knowledge'
+    tagline: 'Technology Hub'
+    desc: 'Technical guides covering pool construction, materials, pressure ratings, and structural testing.'
     guides:
-      - title: SUP Boardtypen
-        desc: Allround, touring, yoga, sport- en kind-SUP's — leer de verschillen en kies de juiste.
-        href: /learn/water-safety/
-      - title: Drop-Stitch Technologie
-        desc: Hoe duizenden interne draden stijve, hogedruk-opblaasbare structuren creëren.
-        href: /learn/drop-stitch-core/
-      - title: Materiaalreferentie
-        desc: PVC-denierclassificaties, stofgewichten, UV-bestendigheid en materialen van maritieme kwaliteit uitgelegd.
-        href: /learn/materials/
-      - title: SUP Koopgids
-        desc: Vergelijk verschillende soorten SUP-boards voor verschillende gebruikssituaties en vaardigheidsniveaus.
-        href: /learn/water-safety/
-  - title: SUP Kennis
-    tagline: Stand-up paddleboard gidsen
-    desc: Alles over SUP-boards — opblaasbaar versus stijf, boardafmetingen, materiaaltechnologie en deskundig advies voor alle vaardigheidsniveaus.
+      - title: 'Pool Types Explained'
+        desc: 'Plunge pools, family pools, swim lounges, and custom shapes — learn the differences.'
+        href: '/products/'
+      - title: 'Drop-Stitch Technology'
+        desc: 'How thousands of internal threads create rigid, high-pressure inflatable structures.'
+        href: '/learn/drop-stitch-core/'
+      - title: 'Materials Reference'
+        desc: 'PVC denier ratings, fabric weights, UV resistance, and marine-grade materials explained.'
+        href: '/learn/materials/'
+      - title: 'Pressure & Rigidity'
+        desc: 'Why 10–15 PSI operating pressure keeps 20 cm walls rock-solid under full load.'
+        href: '/learn/inflatable-technology/'
+  - title: 'Safety Knowledge'
+    tagline: 'Water Safety Guides'
+    desc: 'Everything about pool safety — supervision, barriers, first aid, and safe play for all ages.'
     guides:
-      - title: Opblaasbare vs Harde SUP
-        desc: Vergelijk iSUP's en harde epoxyboards op het gebied van draagbaarheid, duurzaamheid, prestaties en waarde.
-        href: /learn/water-safety/
-      - title: SUP Board Afmetingen Gids
-        desc: Hoe lengte, breedte en dikte de stabiliteit, snelheid en wendbaarheid beïnvloeden.
-        href: /learn/water-safety/
-      - title: SUP Onderhoud & Verzorging
-        desc: Schoonmaken, opbergen, UV-bescherming en reparatietips voor opblaasbare SUP-boards.
-        href: /v2/inflatable-sup-maintenance/
-      - title: Je Eerste SUP Kiezen
-        desc: Handleiding voor beginners om het juiste stand-up paddleboard te kiezen op basis van je gewicht, vaardigheidsniveau en beoogd gebruik.
-        href: /learn/water-safety/
-  - title: Gids voor huuractiviteiten
-    tagline: Vlootbeheer voor verhuurbedrijven
-    desc: Gidsen over het opbouwen en beheren van SUP-verhuren voor strandkiosken, watersportcentra en horecaproducten.
+      - title: 'Inflatable vs Rigid Pool Safety'
+        desc: 'Safety trade-offs between inflatable and rigid pools — surfaces, edges, and depth.'
+        href: '/v2/inflatable-pool-vs-rigid-pool/'
+      - title: 'Dimensions & Capacity Guide'
+        desc: 'How length, width, and wall height affect capacity, stability, and safe occupancy.'
+        href: '/products/'
+      - title: 'Safe Setup & Placement'
+        desc: 'Ground preparation, drainage, and placement rules for a safe pool area.'
+        href: '/v2/pool-setup-guide/'
+      - title: 'Choosing Your First Pool'
+        desc: "Beginner's guide to selecting the right drop-stitch pool for your space, budget, and family."
+        href: '/v2/choosing-a-drop-stitch-pool/'
+  - title: 'Rental & Programs Guide'
+    tagline: 'Fleet Management for Rental Businesses'
+    desc: 'Guides on running pool rental and community pool programs for holiday parks, camps, and activity centers.'
     guides:
-      - title: Het opbouwen van uw verhuurvloot
-        desc: Hoe de juiste SUP-boards te kiezen voor uw verhuurbedrijf — duurzaamheid, afmetingen en ROI-overwegingen.
-        href: /solutions/rental-operators/
-      - title: Gids voor Vlootonderhoud
-        desc: Essentiële onderhoudspraktijken om de levensduur van boards te maximaliseren en stilstandtijd voor verhuivloten te minimaliseren.
-        href: /solutions/rental-operators/
-  - title: Resort- en gastvrijheidsgids
-    tagline: Wateractiviteiten voor de horeca
-    desc: Gidsen voor het opstarten en beheren van SUP-programma's voor resorts, hotels en bestemmingen aan het water.
+      - title: 'Building Your Rental Fleet'
+        desc: 'How to choose pools for a rental operation — durability, sizing, and ROI considerations.'
+        href: '/solutions/rental-operators/'
+      - title: 'Fleet Maintenance Guide'
+        desc: 'Essential maintenance practices to maximize pool lifespan and minimize downtime across a fleet.'
+        href: '/solutions/rental-operators/'
+  - title: 'Resort & Hospitality Guide'
+    tagline: 'Pools for Hospitality'
+    desc: 'Guides on adding drop-stitch pool programs for resorts, hotels, and vacation properties.'
     guides:
-      - title: Een SUP-programma starten bij een resort
-        desc: Factoren om rekening mee te houden bij het lanceren van SUP-activiteiten voor gasten — vlootgrootte, personeel en omzetmodellering.
-        href: /solutions/resorts-hotels/
-      - title: SUP versus andere wateractiviteiten
-        desc: Vergelijk SUP-programma's met andere watersporten op het gebied van gastervaring en operationele efficiëntie.
-        href: /learn/water-safety/
-  - title: Retail- en distributiegids
-    tagline: SUP Zakelijke Partnerschappen
-    desc: Gidsen over het worden van een SUP-retailpartner of distributeur — voorraadplanning, marktpositionering en groeistrategieën.
+      - title: 'Starting a Resort Pool Program'
+        desc: 'Factors to consider when adding guest pools — sizing, placement, staffing, and revenue modeling.'
+        href: '/solutions/resorts-hotels/'
+      - title: 'Pools vs Built-In Facilities'
+        desc: 'How drop-stitch pools complement built-in facilities for guest experience and flexibility.'
+        href: '/learn/safety-in-water-sports/'
+  - title: 'Retail & Distribution Guide'
+    tagline: 'Pool Business Partnerships'
+    desc: 'Guides on becoming an OLagoon retail partner or distributor — inventory planning, market positioning, and growth strategies.'
     guides:
-      - title: Worden van een SUP-verkoper
-        desc: Hoe productlijnen te kiezen, voorraad te beheren en SUP-boards in uw winkel te verkopen.
-        href: /solutions/retail-partners/
-      - title: SUP voor Commerciële Operaties
-        desc: Waarom opblaasbare SUP's een veelzijdig product zijn voor commerciële vloten, verhuurbedrijven en professionele operators.
-        href: /solutions/rental-operators/
-read_guide: Lees de handleiding →
+      - title: 'Becoming a Pool Retailer'
+        desc: 'How to choose product lines, manage inventory, and market pools in your retail store.'
+        href: '/solutions/retail-partners/'
+      - title: 'Pools for Commercial Operations'
+        desc: 'Why drop-stitch pools are a versatile product for camps, community centers, and professional operators.'
+        href: '/solutions/rental-operators/'
+
+read_guide: Read guide →
+
 cta:
-  title: Weet je niet waar te beginnen?
-  desc: Doe onze vaardigheidsbeoordelingstest om de juiste handleidingen en uitrusting voor jouw niveau te vinden.
-  label: Neem contact op →
+  title: Not sure where to start?
+  desc: Contact our team and we will help you pick the right pool and accessories for your backyard.
+  label: Contact us →
   link: /contact/

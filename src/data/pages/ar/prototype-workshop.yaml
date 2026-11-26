@@ -1,107 +1,95 @@
 meta:
-  title: ورشة النماذج الأولية — تصنيع نماذج SUP بالحجم الكامل والتجارب البحرية | {SITE}
-  description: من التصميم CAD إلى لوح جاهز للماء خلال 8-12 أسبوعًا. تبني ورشة النماذج الأولية لدينا ألواح SUP القابلة للنفخ المخصصة وتجهّزها وتختبرها في التجارب البحرية. ابدأ مشروع النموذج الأولي اليوم.
-back_text: العودة إلى مركز البحث والتطوير
-home_label: الرئيسية
+  title: 'Prototype Workshop — Full-Scale pool Prototyping & Sea Trials | {SITE}'
+  description: 'From CAD to backyard-ready pool in 8-12 weeks. Our Prototype Workshop builds, rigs, and water-tests custom inflatable pools. Start your prototype project today.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
+
 hero:
-  tagline: المختبر 05
-  title: ورشة النماذج الأولية
-  subtitle: من نموذج CAD إلى لوح جاهز للماء — مبني، ومجهز، ومُثبت الأداء
-  image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-  image_alt: تصنيع الألواح في ورشة النماذج الأولية لدى OLagoon
-intro: لا يمكن لنموذج CAD، مهما كان مفصلاً، أن يكشف كيف سيتعامل اللوح فعلياً مع الماء حتى يلامسه. ولهذا صُممت ورشة النماذج الأولية لدينا لتحويل البيانات الهندسية إلى لوح فعلي جاهز للماء بأسرع وأدق ما يمكن. يمر كل طراز جديد من OLagoon — وكل بنية مخصصة مهمة — عبر هذه الورشة قبل اعتماد قوالب الإنتاج.
-content_html: >-
-  <h2>حيث يتحول التصميم إلى واقع</h2>
+  tagline: 'Lab 05'
+  title: 'Prototype Workshop'
+  subtitle: 'From CAD model to water-ready pool — built, fitted, and proven'
+  image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+  image_alt: 'OLagoon prototype workshop pool fabrication'
 
-  <p>الورشة مجهزة بالكامل للتصنيع المتزامن للهيكل والحواف والتجهيز. يقلص هذا النهج المتوازي مدة تنفيذ النموذج الأولي إلى 8-12 أسبوعًا من إصدار التصميم الهندسي، مقارنة بالمعدل السائد في الصناعة البالغ 16-20 أسبوعًا. وعندما يتطلب تطبيقك حلاً متخصصًا، يمكننا الانتقال من الفكرة إلى التحقق على
-  الماء في أقل من ثلاثة أشهر.</p>
+intro: 'A CAD model, no matter how detailed, cannot reveal how a pool will actually perform until it meets the water. That is why our Prototype Workshop is designed to translate engineering data into a physical, water-ready pool as quickly and accurately as possible. Every new OLagoon model — and every significant custom build — passes through this workshop before the production tooling is committed.'
 
+content_html: |
+  <h2>Where design becomes reality</h2>
+  <p>The workshop is fully equipped for simultaneous fabrication of hull, rails, and rigging. This parallel-workflow approach cuts prototype lead time to 8-12 weeks from engineering release, compared to the industry norm of 16-20 weeks. When your application demands a specialised solution, we can move from concept to on-water validation in under three months.</p>
 
-  <h2>إمكانيات الورشة</h2>
-
+  <h2>Workshop capabilities</h2>
   <table>
-    <thead><tr><th>محطة العمل</th><th>المعدات</th><th>الغرض</th></tr></thead>
+    <thead><tr><th>Workstation</th><th>Equipment</th><th>Purpose</th></tr></thead>
     <tbody>
-      <tr><td>تصنيع الهيكل</td><td>ماكينة قص قماش CNC، ومكبس تصفيح حراري، ومحطة تجهيز نوى الغرزة الساقطة</td><td>إنتاج الهيكل بالحجم الكامل بجميع أنواع البناء الثلاثة</td></tr>
-      <tr><td>تجميع الحواف والحجرات</td><td>مكبس لحام RF، ومحطة تثبيت بالهواء الساخن، وجهاز اختبار النفخ</td><td>تصنيع تجميعات الحواف والحجرات بالحجم الكامل مع جميع الحواجز والصمامات</td></tr>
-      <tr><td>التجهيز &amp; التركيب</td><td>قالب تفريز صناديق الزعانف، وتثبيات لحام حوامل الشحن والمقابض، ومحطة قص وسادات السطح</td><td>التجهيز الكامل: الزعانف، وحوامل الشحن، وسدادات حبل الأمان، والمقابض، ووسائد السطح، والصمامات</td></tr>
-      <tr><td>جناح الأجهزة</td><td>مستشعر سرعة GPS، ومحولات ضغط، وأجهزة قياس تسارع، ومصفوفة مزدوجات حرارية، ومسجل بيانات</td><td>تركيب ومعايرة أجهزة التجارب البحرية</td></tr>
+      <tr><td>Hull fabrication</td><td>CNC fabric cutter, heat-lamination press, drop-stitch core preparation station</td><td>Full-scale hull production in all three construction types</td></tr>
+      <tr><td>Rail &amp; chamber assembly</td><td>RF welding press, hot-air tacking station, inflation test jig</td><td>Fabrication of full-size rail and chamber assemblies with all baffles and valves</td></tr>
+      <tr><td>Rigging &amp; fitting</td><td>Fin-box routing jig, cargo-mount and handle welding fixtures, deck-pad cutting station</td><td>Complete outfitting: fins, cargo mounts, leash plugs, handles, deck pads, valves</td></tr>
+      <tr><td>Instrumentation bay</td><td>GPS speed sensor, pressure transducers, accelerometers, thermocouple array, data-logger</td><td>Sea-trial instrumentation installation and calibration</td></tr>
     </tbody>
   </table>
 
-
-  <h2>رحلة النموذج الأولي — خطوة بخطوة</h2>
-
+  <h2>The prototype journey — step by step</h2>
   <ol>
-    <li><strong>تسليم التصميم الهندسي</strong> — تُراجع حزمة التصميم (النموذج ثلاثي الأبعاد، وتقرير FEA، وقائمة المواد، وجدول الطبقات) رسميًا من قبل مدير الورشة والمهندس المسؤول عن المشروع. تُحدد أي مخاوف تصنيعية وتُحل قبل بدء القطع.</li>
-    <li><strong>إنتاج الهيكل</strong> — يُبنى الهيكل وفق المواصفة الهندسية. بالنسبة إلى البناء أحادي الطبقة: تُصفّح نواة الغرزة الساقطة بالطبقة الخارجية من PVC المحددة. بالنسبة إلى البناء ثنائي الطبقة: تُضاف الطبقة الخارجية الإضافية فوق التصفيح الأساسي قبل قص النموذج. وبالنسبة إلى البناء المصهور: تُحمَّل معلمات التصفيح من ورقة العملية المعتمدة ويُتحقق منها على عينة أولى.</li>
-    <li><strong>تصنيع الحواف</strong> — يُقطع القماش باستخدام قوالب CNC، ثم يُلحم بـ RF ليصبح حوافًا وحجرات بالحجم الكامل. تُنفخ كل حجرة إلى ضغط الاختبار وتُترك لمدة 24 ساعة للتثبيت الأولي.</li>
-    <li><strong>التجميع &amp; التجهيز</strong> — يُوصل الهيكل بالحواف. تُركب صناديق الزعانف وحوامل الشحن، وتُثبت سدادات حبل الأمان ومقابض الحمل، ويُشد صمام النفخ، وتُلصق وسادة السطح وتُضبط محاذاتها.</li>
-    <li><strong>الاختبارات الساكنة</strong> — قبل أن يلمس اللوح الماء، يخضع لما يلي: فحص الطفو (الحمولة الكاملة + 30 % احتياط)، واختبار تثبيت ضغط الحجرات، واختبار تسرب الصمام، واختبار شد المقابض والحوامل.</li>
-    <li><strong>برنامج التجارب البحرية</strong> — 20 ساعة من الاختبارات على الماء، على النحو المفصل أدناه.</li>
-    <li><strong>مراجعة النموذج الأولي</strong> — تُعقد اجتماع اعتماد رسمي مع فرق الهندسة والإنتاج والجودة. تُوثق أي تغييرات مطلوبة في التصميم وتُدرج في إصدار الإنتاج.</li>
+    <li><strong>Engineering handover</strong> — The design package (3D model, FEA report, bill of materials, layup schedule) is formally reviewed by the workshop lead and the project engineer. Any manufacturing concerns are flagged and resolved before cutting begins.</li>
+    <li><strong>Hull production</strong> — The hull is built according to the engineering specification. For single-layer construction: the drop-stitch core is laminated with the specified PVC skin. For double-layer construction: the additional skin is applied over the base laminate before the pattern is cut. For fused construction: the lamination parameters are loaded from the approved process sheet and verified on a first-off coupon.</li>
+    <li><strong>Rail fabrication</strong> — Fabric is cut using CNC-pattern templates, then RF-welded into full-size rails and chambers. Each chamber is inflated to test pressure and left for 24 h for initial stabilisation.</li>
+    <li><strong>Assembly &amp; rigging</strong> — Hull and rails are mated. Fin boxes and cargo mounts are fitted, leash plugs and carry handles are installed, the inflation valve is torqued in, and the deck pad is applied and aligned.</li>
+    <li><strong>Static tests</strong> — Before the pool is filled, it undergoes: structural check (full water load + 30 % reserve), chamber pressure-hold test, valve leak-down test, handle and mount pull-test.</li>
+    <li><strong>Sea trial programme</strong> — 20 hours of in-water testing, detailed below.</li>
+    <li><strong>Prototype review</strong> — A formal sign-off meeting is held with engineering, production, and quality teams. Any required design changes are documented and incorporated into the production release.</li>
   </ol>
 
-
   <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
-    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">برنامج التجارب البحرية لمدة 20 ساعة — جدول الاختبارات</p>
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20-Hour Sea Trial Programme — Test Schedule</p>
     <div class="space-y-2 text-sm">
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">التعرف على المياه الهادئة — التتبع بسرعة منخفضة، والدوران، وفحص الوقفة والارتفاع</span>
+        <span class="flex-1">Flat-water familiarisation — low-speed tracking, turning, stance and trim check</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">4 h</span>
-        <span class="flex-1">اختبار السرعة — السرعة القصوى الموثقة بـ GPS، وسرعة الانطلاق، ووتيرة مستمرة عند 3 معدلات تجديف</span>
+        <span class="flex-1">Speed trial — GPS-verified top speed, cruise speed, sustained pace at 3 stroke rates</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">اختبار الدوران — نصف قطر الدوران المحوري والكنسي، واستجابة اللوح، إلى اليسار واليمين</span>
+        <span class="flex-1">Stability test — wall rigidity, floor firmness, and seating comfort under full load</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">اختبار الأمواج المضطربة — تكرار المرور عبر أمواج مضطربة بارتفاع 0.5–1.0 م، مع مقياس تسارع عند موضع وقفة الراكب</span>
+        <span class="flex-1">Chop test — repeated runs through 0.5–1.0 m chop; accelerometer at the rider stance position</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">اختبار الثبات — زاوية الميلان الساكنة مع 4 راكبين بأوزان متفاوتة، وحمل لامركزي إلى اليمين</span>
+        <span class="flex-1">Stability test — static heel angle with 4 riders of varying weight, offset load to starboard</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">اختبار التحمل — 3 ساعات متواصلة بسرعة الانطلاق، مع مراقبة ضغط الحجرات، ودرجة حرارة الحواف، وإجهاد الراكب</span>
+        <span class="flex-1">Endurance run — 3 h continuous at cruise pace; monitoring of chamber pressure, rail temperature, and rider fatigue</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">الفحص النهائي — فحص ما بعد التجربة لجميع المكونات، وشد وفحص جميع المثبتات، وتوثيق النتائج</span>
+        <span class="flex-1">Final inspection — post-trial inspection of all components, tighten/check all fasteners, document findings</span>
       </div>
     </div>
   </div>
 
-
-  <h2>نماذج أولية مخصصة للتطبيقات الفريدة</h2>
-
-  <p>ورشة النماذج الأولية هي المكان الذي نحل فيه المشكلات التي لا يمكن لألواح الإنتاج القياسية معالجتها. ومن الأمثلة الحديثة:</p>
-
+  <h2>Custom prototyping for unique applications</h2>
+  <p>The Prototype Workshop is where we solve the problems that standard production pools cannot address. Recent examples include:</p>
   <ul>
-    <li>لوح SUP إنقاذ عالي الوضوح لمنظمة بحث وإنقاذ، يتطلب مقابض إمساك مدمجة، وحوامل لمعدات الإنقاذ، وهيكلًا عالي الطفو لاستعادة المصابين — صُنع جميعه كنموذج أولي وجُهز واختُبر في منشأتنا.</li>
-    <li>لوح SUP جولات استكشافي لمقاول مسح هيدروغرافي، بصاري أدوات قابل للإزالة، ومنافذ معدات محكمة، وحامل محولات منخفض البروز مصمم لتقليل السحب.</li>
-    <li>لوح SUP صيد مدمج لأسطول منتجع، حيث استُخدم النموذج الأولي للتحقق من الثبات، وتجهيز المعدات، والمتانة تحت الاستئجار اليومي قبل أن يلتزم العميل بأسطول من أربعة ألواح.</li>
+    <li>A high-visibility rescue pool for a search-and-rescue organisation, requiring integrated grab handles, gear mounts for rescue equipment, and a high-buoyancy hull for casualty recovery — all prototyped, fitted, and tested at our facility.</li>
+    <li>An expedition touring pool for a hydrographic survey contractor, with a removable instrument mast, sealed gear ports, and a low-profile transducer mount designed to minimise drag.</li>
+    <li>A compact fishing pool for a resort fleet, where the prototype was used to validate stability, gear rigging, and durability under daily rental use before the client committed to a fleet of four.</li>
   </ul>
 
+  <h2>Our prototyping team</h2>
+  <p>The workshop is staffed by eight multi-skilled marine technicians, each cross-trained in at least two of the three core disciplines (hull, rail, rigging). The team lead is a master fabricator with 16 years of experience spanning custom one-off builds to production series. Every prototype is assigned a dedicated project engineer who serves as the single point of contact for the client throughout the build and trial process.</p>
 
-  <h2>فريق النماذج الأولية لدينا</h2>
+  <h2>Client involvement</h2>
+  <p>We actively encourage our clients to attend key milestones during the prototype build — particularly the initial fit-out review and the sea trial. Your operational feedback during these stages is invaluable in fine-tuning the pool before it enters production. We do not build in a vacuum; we build in partnership with you.</p>
+  <p>The 20-hour water trial is also an opportunity for your team to familiarise themselves with the pool's operation, layout, and maintenance requirements, ensuring a smooth transition to service when the production pools are delivered.</p>
 
-  <p>تعمل في الورشة ثمانية فنيين بحريين متعددي المهارات، خضع كل منهم لتدريب متقاطع في اثنين على الأقل من التخصصات الأساسية الثلاثة (الهيكل، والحواف، والتجهيز). قائد الفريق صانع ماهر بخبرة 16 عامًا تمتد من الطلبات المخصصة الفردية إلى سلاسل الإنتاج. يُخصص لكل نموذج أولي مهندس مشروع يعمل كنقطة
-  تواصل وحيدة مع العميل طوال عملية البناء والتجربة.</p>
-
-
-  <h2>مشاركة العميل</h2>
-
-  <p>نشجع عملاءنا بنشاط على حضور المراحل الرئيسية أثناء بناء النموذج الأولي — خاصة مراجعة التجهيز الأولية والتجربة البحرية. ملاحظاتكم التشغيلية خلال هذه المراحل لا تقدر بثمن في تحسين اللوح قبل دخوله مرحلة الإنتاج. نحن لا نبني في فراغ؛ بل نبني بشراكة معكم.</p>
-
-  <p>تعد التجربة البحرية التي تمتد 20 ساعة أيضًا فرصة لفريقكم للتعرف على طريقة التعامل مع اللوح، وتخطيط سطحه، ومتطلبات صيانته، بما يضمن انتقالًا سلسًا إلى الخدمة عند تسليم ألواح الإنتاج.</p>
 cta:
-  title: ابدأ مشروع النموذج الأولي
-  subtitle: أخبرنا عن اللوح الذي تحتاجه وسنقترح عليك خطة لتطوير نموذج أولي.
-  button_text: تواصل مع فريق النماذج الأولية لدينا
+  title: 'Start your prototype project'
+  subtitle: 'Tell us about the pool you need and we will propose a prototype development plan.'
+  button_text: 'Contact our prototyping team'
   button_link: /contact/

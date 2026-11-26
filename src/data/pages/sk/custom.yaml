@@ -1,89 +1,89 @@
 meta:
-  title: 'Custom Lab — custom nafukovacie paddle boardy | {SITE}'
-  description: 'Custom nafukovacie paddle boardy: dizajn na mieru, logo, vlastná forma a výroba. Partner private-label SUP, MOQ 50 kusov, certifikácia CE.'
+  title: 'Custom Lab — Custom Inflatable Pool | {SITE}'
+  description: 'Custom inflatable pool: bespoke design, logo, custom mold, and production. Private-label pool partner, MOQ 50 units, CE certified.'
   keywords:
-    - 'výrobca custom paddle boardov'
-    - 'custom nafukovacie sup'
-    - 'paddle board s logom'
-    - 'private label nafukovacie sup'
-    - 'výroba paddle boardov'
+    - 'custom inflatable pool manufacturer'
+    - 'custom inflatable pools'
+    - 'inflatable pool with logo'
+    - 'private label inflatable pools'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: 'olagoon Custom Lab'
-  title: 'Navrhnite si vlastnú<br />dosku SUP'
-  subtitle: 'Partner custom SUP ponúkajúci co-brand, private label a výrobu paddle boardov na mieru pre podniky po celom svete. Od jediného prototypu po plnú sériovú výrobu.'
-  cta: 'Začnite svoj projekt'
+  tagline: olagoon Custom Lab
+  title: Design Your Own<br />pools
+  subtitle: Custom pool partner offering co-brand, private label, and bespoke inflatable pool production for businesses worldwide. From a single prototype to full production runs.
+  cta: Start your project
   footer_link: /contact/
 
 steps_section:
-  tagline: 'Ako to funguje'
-  title: 'Od konceptu po výrobu'
-  subtitle: 'Štyri kroky od vášho nápadu po hotový produkt pripravený na more.'
+  tagline: How it works
+  title: From concept to production
+  subtitle: Four steps from your idea to a finished, sea-ready product.
   steps:
     - num: '01'
-      title: 'Vyberte si dosku'
-      desc: 'Vyberte si z našich základných modelov SUP — all-around, touring, yoga, športové alebo detské. Zvoľte veľkosť, materiál a farbu.'
+      title: Choose Your Pool
+      desc: Select from our core pool models — all-around, touring, yoga, sport, or kids. Pick size, material, and colour.
     - num: '02'
-      title: 'Nahrajte svoj dizajn'
-      desc: 'Pošlite nám svoje logo, grafiku alebo manuál značky. Náš dizajnérsky tím pripraví digitálny návrh.'
+      title: Upload Your Design
+      desc: Send us your logo, artwork, or brand guidelines. Our design team prepares a digital proof.
     - num: '03'
-      title: 'Kontrola AI mockupu'
-      desc: 'Pozrite si fotorealistický AI mockup vašej custom dosky pred začatím výroby.'
+      title: AI Mockup Review
+      desc: View a photorealistic AI-generated mockup of your custom pool before production begins.
     - num: '04'
-      title: 'Výroba a dodanie'
-      desc: 'Po schválení vstúpi vaša objednávka do našej výroby. Dodacie lehoty od 30 dní.'
+      title: Production & Delivery
+      desc: Once approved, your order enters our production line. Lead times from 30 days.
 
 services_section:
-  tagline: 'Služby'
-  title: 'Výrobné služby pre globálne značky'
-  subtitle: 'Flexibilné modely spolupráce — od kontraktnej výroby po budovanie značky s kompletnou službou.'
+  tagline: Services
+  title: Manufacturing services for global brands
+  subtitle: Flexible engagement models — from contract manufacturing to full-service brand building.
   items:
-    - title: 'Co-brand výroba'
-      desc: 'Vyrobíme vaše dizajny podľa špecifikácie — vaše IP, vaše výkresy, vaše štandardy kvality. Kompletná ochrana NDA.'
+    - title: Co-Brand Production
+      desc: We produce your designs to spec — your IP, your drawings, your quality standards. Full NDA protection.
       icon: ⚙️
-    - title: 'Dizajnové riešenia'
-      desc: 'Vyberte si z 50+ overených platforiem a prispôsobte veľkosť, farbu, grafiku a balenie.'
+    - title: Design Solutions
+      desc: Choose from 50+ proven platforms and customise size, colour, graphics, and packaging.
       icon: '🎨'
-    - title: 'Private Label'
-      desc: 'Vaša značka na našich produktoch — logo, balenie, visačky, manuály. Pripravené na predaj priamo z krabice.'
+    - title: Private Label
+      desc: Your brand on our products — logo, packaging, hang tags, manuals. Retail-ready out of the box.
       icon: '🎨'
-    - title: 'Vlastný branding'
-      desc: 'Tlač na deck pad, grafika na trupe, polepy tubusov a custom štítky — kompletná integrácia značky.'
+    - title: Custom Branding
+      desc: Deck pad printing, hull graphics, tube decals, and custom labels — full brand integration.
       icon: ⚙️
 
 capabilities_section:
-  tagline: 'Možnosti'
-  title: 'Výrobné a customizačné schopnosti'
-  subtitle: 'Všetko, čo potrebujete vedieť pred objednávkou.'
+  tagline: Capabilities
+  title: Production & customisation capabilities
+  subtitle: Everything you need to know before placing your order.
   capabilities:
-    - label: 'Objem objednávky'
-      value: 'MOQ 50 kusov (SUP)'
-    - label: 'Dodacia lehota'
-      value: '30–45 dní štandardne; 15–20 dní pre prototypy'
-    - label: 'Customizácia'
-      value: 'Veľkosť, tvar, farba, grafika, balenie, kovania'
-    - label: 'Materiály'
-      value: 'PVC, drop-stitch, EVA, hliník'
-    - label: 'Tlač'
-      value: 'Digitálna (CMYK), sieťotlač, tepelný transfer, sublimácia'
-    - label: 'Certifikácia'
-      value: 'CE, UKCA, FCC (podpora globálnej súladnosti)'
+    - label: Order volume
+      value: MOQ 50 units (pool)
+    - label: Lead time
+      value: 12–16 weeks standard (50–100 units); 15–20 days for prototypes
+    - label: Customisation
+      value: Size, shape, colour, graphics, packaging, hardware
+    - label: Materials
+      value: PVC, drop-stitch, EVA, aluminium
+    - label: Printing
+      value: Digital (CMYK), screen printing, heat transfer, sublimation
+    - label: Certification
+      value: CE, UKCA, FCC (support for global compliance)
 
 why_section:
-  tagline: 'Prečo olagoon'
-  title: 'Jedna továreň. Jeden štandard. Žiadne kompromisy.'
+  tagline: Why olagoon
+  title: One factory. One standard. Zero compromises.
   points:
-    - text: '12 000 m² integrovaná výrobná prevádzka'
-      highlight: '12 000 m²'
-    - text: '200+ skúsených pracovníkov a inžinierov'
-      highlight: '200+'
-    - text: '15 000+ dosiek SUP vyrobených ročne'
-      highlight: '15 000+'
-    - text: 'Manažérstvo kvality certifikované ISO 9001'
-      highlight: 'ISO 9001'
-    - text: 'Produkty s certifikáciou CE pre trh EÚ'
-      highlight: 'CE'
-  cta: 'Zobraziť podrobnosti o továrni'
+    - text: 12,000 m² integrated manufacturing facility
+      highlight: 12,000 m²
+    - text: 200+ skilled workers and engineers
+      highlight: 200+
+    - text: 15,000+ pools produced annually
+      highlight: 15,000+
+    - text: ISO 9001-certified quality management
+      highlight: ISO 9001
+    - text: CE certified products for EU market
+      highlight: CE
+  cta: View factory details
   cta_link: /factory/
   contact:
-    title: 'Pripravení prediskutovať váš projekt?'
-    desc: 'Náš tím odpovie do 24 hodín s predbežnou ponukou.'
+    title: Ready to discuss your project?
+    desc: Our team responds within 24 hours with a preliminary quote.

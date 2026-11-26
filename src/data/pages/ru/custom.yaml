@@ -1,85 +1,89 @@
 meta:
-  title: 'Custom Lab — надувные paddle board на заказ | {SITE}'
-  description: 'Надувные paddle board на заказ: индивидуальный дизайн, логотип, собственная форма и производство. Партнёр по производству под собственной маркой SUP, MOQ 50 штук, сертификат CE.'
+  title: 'Custom Lab — Custom Inflatable Pool | {SITE}'
+  description: 'Custom inflatable pool: bespoke design, logo, custom mold, and production. Private-label pool partner, MOQ 50 units, CE certified.'
   keywords:
-    - 'производитель paddle board на заказ'
-    - 'надувной SUP на заказ'
-    - 'paddle board с логотипом'
-    - 'надувной SUP под собственной маркой'
-    - 'производство paddle board'
+    - 'custom inflatable pool manufacturer'
+    - 'custom inflatable pools'
+    - 'inflatable pool with logo'
+    - 'private label inflatable pools'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: Афарер Кастом Лаб
-  title: Спроектируйте Свою<br />SUP-Доску
-  subtitle: Услуги со-брендинга, private label и индивидуального брендинга для компаний по всему миру. От единичного прототипа до полной производственной серии.
-  cta: Начать проект
+  tagline: olagoon Custom Lab
+  title: Design Your Own<br />pools
+  subtitle: Custom pool partner offering co-brand, private label, and bespoke inflatable pool production for businesses worldwide. From a single prototype to full production runs.
+  cta: Start your project
   footer_link: /contact/
+
 steps_section:
-  tagline: Как это работает
-  title: От концепции до производства
-  subtitle: Четыре шага от вашей идеи до законченного, готового к выходу на воду изделия.
+  tagline: How it works
+  title: From concept to production
+  subtitle: Four steps from your idea to a finished, sea-ready product.
   steps:
     - num: '01'
-      title: Выберите доску
-      desc: Выберите из наших основных моделей SUP — универсальная, туристическая, йога, спортивная или детская. Укажите размер, материал и цвет.
+      title: Choose Your Pool
+      desc: Select from our core pool models — all-around, touring, yoga, sport, or kids. Pick size, material, and colour.
     - num: '02'
-      title: Загрузите дизайн
-      desc: Отправьте нам ваш логотип, графику или бренд-гайд. Наша команда дизайнеров подготовит цифровой пробник.
+      title: Upload Your Design
+      desc: Send us your logo, artwork, or brand guidelines. Our design team prepares a digital proof.
     - num: '03'
-      title: Просмотр AI-макета
-      desc: Посмотрите фотореалистичный макет вашей индивидуальной доски, сгенерированный AI, до начала производства.
+      title: AI Mockup Review
+      desc: View a photorealistic AI-generated mockup of your custom pool before production begins.
     - num: '04'
-      title: Производство и доставка
-      desc: После утверждения ваш заказ поступает на нашу производственную линию. Сроки от 30 дней.
+      title: Production & Delivery
+      desc: Once approved, your order enters our production line. Lead times from 30 days.
+
 services_section:
-  tagline: Услуги
-  title: Производственные услуги для глобальных брендов
-  subtitle: Гибкие модели сотрудничества — от контрактного производства до полного построения бренда.
+  tagline: Services
+  title: Manufacturing services for global brands
+  subtitle: Flexible engagement models — from contract manufacturing to full-service brand building.
   items:
-    - title: Со-бренд производство
-      desc: Мы производим ваши дизайны по спецификации — ваша ИС, ваши чертежи, ваши стандарты качества. Полная защита NDA.
+    - title: Co-Brand Production
+      desc: We produce your designs to spec — your IP, your drawings, your quality standards. Full NDA protection.
       icon: ⚙️
-    - title: Дизайн-решения
-      desc: Выберите из более чем 50 проверенных платформ и настройте размер, цвет, графику и упаковку.
-      icon: 🎨
-    - title: Частная марка
-      desc: Ваш бренд на наших продуктах — логотип, упаковка, бирки, инструкции. Готово к розничной продаже.
-      icon: 🏷️
-    - title: Индивидуальный брендинг
-      desc: Печать на деке, графика корпуса, наклейки на трубы и индивидуальные этикетки — полная интеграция бренда.
-      icon: ✨
+    - title: Design Solutions
+      desc: Choose from 50+ proven platforms and customise size, colour, graphics, and packaging.
+      icon: '🎨'
+    - title: Private Label
+      desc: Your brand on our products — logo, packaging, hang tags, manuals. Retail-ready out of the box.
+      icon: '🎨'
+    - title: Custom Branding
+      desc: Deck pad printing, hull graphics, tube decals, and custom labels — full brand integration.
+      icon: ⚙️
+
 capabilities_section:
-  tagline: Возможности
-  title: Производственные возможности и возможности настройки
-  subtitle: Все, что вам нужно знать перед размещением заказа.
+  tagline: Capabilities
+  title: Production & customisation capabilities
+  subtitle: Everything you need to know before placing your order.
   capabilities:
-    - label: Объем заказа
-      value: MOQ 50 шт. (SUP)
-    - label: Срок поставки
-      value: 30–45 дней стандартно; 15–20 дней для прототипов
-    - label: Настройка
-      value: Размер, форма, цвет, графика, упаковка, фурнитура
-    - label: Материалы
-      value: PVC, drop-stitch, EVA, алюминий
-    - label: Печать
-      value: Цифровая (CMYK), шелкография, термоперенос, сублимация
-    - label: Сертификация
-      value: CE, UKCA, FCC (поддержка глобального соответствия)
+    - label: Order volume
+      value: MOQ 50 units (pool)
+    - label: Lead time
+      value: 12–16 weeks standard (50–100 units); 15–20 days for prototypes
+    - label: Customisation
+      value: Size, shape, colour, graphics, packaging, hardware
+    - label: Materials
+      value: PVC, drop-stitch, EVA, aluminium
+    - label: Printing
+      value: Digital (CMYK), screen printing, heat transfer, sublimation
+    - label: Certification
+      value: CE, UKCA, FCC (support for global compliance)
+
 why_section:
-  tagline: Почему olagoon
-  title: Одна фабрика. Один стандарт. Никаких компромиссов.
+  tagline: Why olagoon
+  title: One factory. One standard. Zero compromises.
   points:
-    - text: Интегрированное производственное предприятие 12 000 м²
-      highlight: 12 000 м²
-    - text: Более 200 квалифицированных рабочих и инженеров
+    - text: 12,000 m² integrated manufacturing facility
+      highlight: 12,000 m²
+    - text: 200+ skilled workers and engineers
       highlight: 200+
-    - text: Более 15 000 SUP-досок производится ежегодно
-      highlight: 15 000+
-    - text: Сертифицированная ISO 9001 система менеджмента качества
+    - text: 15,000+ pools produced annually
+      highlight: 15,000+
+    - text: ISO 9001-certified quality management
       highlight: ISO 9001
-    - text: Продукты с сертификацией CE для рынка ЕС
+    - text: CE certified products for EU market
       highlight: CE
-  cta: Посмотреть детали фабрики
+  cta: View factory details
   cta_link: /factory/
   contact:
-    title: Готовы обсудить ваш проект?
-    desc: Наша команда отвечает в течение 24 часов с предварительной сметой.
+    title: Ready to discuss your project?
+    desc: Our team responds within 24 hours with a preliminary quote.

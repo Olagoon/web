@@ -1,274 +1,274 @@
 meta:
-  title: 'Pabrik & Manufaktur — SUP Tiup OEM | {SITE}'
-  description: 'Jelajahi pabrik olagoon: fasilitas 12,000 m² dengan pemotongan, pengelasan RF, pencetakan, perakitan, dan lab kualitas untuk manufaktur SUP tiup OEM/ODM.'
+  title: 'Factory & Manufacturing — inflatable pools OEM | {SITE}'
+  description: 'Tour the olagoon factory: 12,000 m² plant with cutting, RF welding, printing, assembly, and quality lab for inflatable pools OEM/ODM manufacturing.'
   keywords:
-    - 'pabrik sup tiongkok'
-    - 'pabrik papan dayung tiup'
-    - 'produsen sup oem'
-    - 'manufaktur sup tiup'
+    - 'pool factory china'
+    - 'inflatable pool factory'
+    - 'oem pool manufacturer'
+    - 'inflatable pools manufacturing'
 hero:
-  tagline: 'Pabrik'
-  title: 'Pabrik & Manufaktur'
-  subtitle: '12,000 m² manufaktur terintegrasi — dari material baku hingga papan jadi'
+  tagline: Factory
+  title: Factory & Manufacturing
+  subtitle: 12,000 m² of integrated manufacturing — from raw material to finished pool
 
 intro:
-  - 'Sebagai lengan produksi **Olagoon LLC**, Tim Operasional Qingdao olagoon mengendalikan setiap tahap produksi — dari kedatangan material PVC dan fiberglass hingga inspeksi prapengiriman papan jadi. Fasilitas manufaktur kami di Zona Pengembangan Ekonomi Qingdao membentang seluas 12,000 meter persegi dan menampung workshop khusus untuk pemotongan PVC, penyegelan panas tabung, fabrikasi cetakan FRP, pencetakan digital SUP, perakitan akhir, dan pengujian kualitas.'
-  - 'Dengan mengintegrasikan desain, teknik, prototyping, manufaktur, dan pengujian di bawah satu atap, kami menghilangkan inefisiensi manufaktur kontraktual dan mempertahankan kontrol langsung atas kualitas pembuatan, pemilihan material, dan jadwal pengiriman. Setiap papan yang meninggalkan workshop kami dibangun oleh orang-orang kami, dengan peralatan kami, sesuai standar kami.'
+  - As the production arm of **Olagoon LLC**, olagoon's Qingdao Operation Team controls every stage of production — from the arrival of raw PVC and fiberglass materials to the final pre-delivery inspection of the finished pool. Our manufacturing facility in the Qingdao Economic Development Zone spans 12,000 square metres and houses dedicated workshops for PVC cutting, tube heat sealing, FRP mould fabrication, pool digital printing, final assembly, and quality testing.
+  - By integrating design, engineering, prototyping, manufacturing, and testing under one roof, we eliminate the inefficiencies of contract manufacturing and maintain direct control over build quality, material selection, and delivery timelines. Every pool that leaves our workshop is built by our people, on our equipment, to our standards.
 
 stats:
-  - value: '12,000 m²'
-    label: 'Lantai manufaktur'
-  - value: '200+'
-    label: 'Pekerja terampil'
-  - value: '15,000+'
-    label: 'Papan SUP diproduksi setiap tahun'
-  - value: 'ISO 9001'
-    label: 'Tersertifikasi kualitas'
+  - value: 12,000 m²
+    label: Manufacturing floor
+  - value: 200+
+    label: Skilled workers
+  - value: 15,000+
+    label: pools produced annually
+  - value: ISO 9001
+    label: Quality certified
 
-intelligence_tagline: 'Intelijen Pabrik'
-intelligence_title: 'Jelajahi Kapabilitas Manufaktur Kami'
+intelligence_tagline: Factory Intelligence
+intelligence_title: Explore Our Manufacturing Capabilities
 
 intelligence_cards:
-  - title: 'Kapasitas Produksi'
+  - title: Production Capacity
     icon: C
     icon_bg: blue
-    desc: 'Fasilitas 12,000 m² yang memproduksi 15,000+ SUP per tahun lintas lini papan SUP dan peralatan keselamatan. 200+ pekerja, 2 shift.'
+    desc: '12,000 m² facility producing 15,000+ pools/yr across pools and safety equipment lines. 200+ workers, 2 shifts.'
     metrics:
-      - label: 'MOQ'
-        value: 'SUP: 5–10'
-      - label: 'Waktu Pengerjaan'
-        value: '30–45 hari'
+      - label: MOQ
+        value: 'Samples 5–10 · Bulk 50+'
+      - label: Lead Time
+        value: '12–16 weeks (bulk)'
     link: /factory/capacity/
-    link_label: 'Detail kapasitas selengkapnya →'
-  - title: 'Lab Kualitas & Pengujian'
+    link_label: Full capacity details →
+  - title: Quality Lab & Testing
     icon: Q
     icon_bg: green
-    desc: 'Lab QC independen dengan 4 tahap pengujian: inspeksi material baku (tarik, sobek, UV), penahanan tekanan 24–48 jam pada 1.25x tekanan nominal, pengujian peeling sambungan, dan verifikasi beban/keseimbangan pada setiap papan.'
+    desc: 'Independent QC lab with 4 testing stages: raw material inspection (tensile, tear, UV), 24–48h pressure hold at 1.25x rated pressure on every pool, load/balance verification, and seam peel strength testing by batch sampling every 50 units (ASTM D751).'
     metrics:
-      - label: 'Peralatan Lab'
-        value: 'Alat uji tarik, ruang suhu, tangki kebocoran'
-      - label: 'Standar'
+      - label: Lab Equipment
+        value: 'Tensile tester, temp chamber, leak tank'
+      - label: Standards
         value: 'ISO 9001, CE, AS 1799'
     link: /factory/quality-lab/
-    link_label: 'Prosedur & peralatan lab →'
-  - title: 'Kapabilitas OEM/ODM'
+    link_label: 'Lab procedures & equipment →'
+  - title: OEM/ODM Capability
     icon: O
     icon_bg: purple
-    desc: 'Layanan OEM/ODM menyeluruh: desain cetakan kustom, kemasan label pribadi, warna papan kustom, grafis dek (cetak digital & sablon), dan logistik drop-ship.'
+    desc: 'End-to-end OEM/ODM services: custom mould design, private-label packaging, custom pool colors, deck graphics (digital & screen printing), and drop-ship logistics.'
     metrics:
-      - label: 'Sertifikasi'
+      - label: Certifications
         value: 'ISO 9001, BSCI, CE, REACH'
-      - label: 'Pengiriman'
-        value: 'FOB, CIF, DDP ke 50+ negara'
+      - label: Shipping
+        value: 'FOB, CIF, DDP to 50+ countries'
     link: /factory/oem-capability/
-    link_label: 'Layanan OEM lengkap →'
+    link_label: 'Full OEM services →'
 
 workshops_section:
-  tagline: 'Workshop'
-  title: 'Workshop Manufaktur'
+  tagline: Workshops
+  title: Manufacturing Workshops
   workshops:
-    - title: 'Pemotongan PVC & Persiapan Material'
-      description: 'Mesin pemotong CNC otomatis memproses PVC dan kain drop-stitch dengan presisi sub-milimeter. Penataan panel yang dioptimalkan komputer meminimalkan limbah material dan memastikan setiap panel memenuhi spesifikasi dimensi sebelum pengelasan.'
+    - title: PVC Cutting & Material Preparation
+      description: Automatic CNC cutting machines process PVC and drop-stitch fabrics with sub-millimetre precision. Computer-optimised nesting minimises material waste and ensures every panel meets its dimensional specification before welding.
       image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
-    - title: 'Pengelasan Tabung & Penyegelan Panas'
-      description: 'Workshop pengelasan khusus dengan mesin penyegelan panas dan press dielektrik RF. Alat penyegel udara panas merekatkan dan meleburkan ruang tabung PVC, sementara las RF menghasilkan sambungan kedap udara berkekuatan tinggi yang melampaui persyaratan EN ISO 25649.'
+    - title: Tube Welding & Heat Sealing
+      description: Dedicated welding workshop with heat sealing machines and RF dielectric presses. Hot-air heat sealers bond and fuse PVC tube chambers, while RF welds produce high-strength airtight seams that exceed EN ISO 25649 requirements.
       image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    - title: 'Cetakan FRP & Fabrikasi Komposit'
-      description: 'Cetakan FRP kustom untuk komponen SUP, diproduksi menggunakan pencetakan fiberglass hand-lay-up dengan sistem resin polyester dan vinylester. Setiap lapisan digulung dengan tangan dan vacuum-bagged demi kualitas yang konsisten. Bilik semprot gelcoat menghasilkan finishing marin berkilau tinggi yang tahan UV.'
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
-    - title: 'Pencetakan & Dekorasi SUP'
-      description: 'Papan SUP didekorasi menggunakan cetak digital untuk grafis penuh warna dan sablon untuk logo serta pola berulang. Printer digital menghasilkan desain dek berkualitas foto, sementara sablon menghasilkan tanda merek yang tahan lama dan cerah.'
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
-    - title: 'Perakitan Akhir & Rigging'
-      description: 'Lini perakitan tempat inti drop-stitch diselesaikan dengan rail, dek EVA dipasang, serta sirip, valve, dan aksesori dipasang. Setiap papan mengikuti daftar periksa perakitan 100 titik yang disetujui oleh kepala tim.'
+    - title: FRP Moulds & Composite Fabrication
+      description: Custom FRP moulds for pool components, produced using hand-lay-up fiberglass moulding with polyester and vinylester resin systems. Each layer is hand-rolled and vacuum-bagged for consistent quality. Gelcoat spray booth provides a high-gloss, UV-resistant marine finish.
+      image: https://assets.olagoon.com/images/olagoon/products/family-oasis.webp
+    - title: pool Printing & Decoration
+      description: pools are decorated using digital printing for full-colour graphics and screen printing for logos and repeating patterns. Digital printers produce photo-quality deck designs, while screen printing delivers durable, vivid brand marks.
+      image: https://assets.olagoon.com/images/olagoon/products/family-oasis.webp
+    - title: Final Assembly & Rigging
+      description: Assembly line where drop-stitch cores are finished with rails, wall surfaces are applied, and valves, fittings, and accessories are installed. Each pool follows a 100-point assembly checklist signed off by the team lead.
       image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
-    - title: 'Pengujian & Inspeksi Kualitas'
-      description: 'Setiap papan yang telah selesai menjalani pengujian retensi udara wajib, verifikasi peeling sambungan, dan pemeriksaan sistem menyeluruh sebelum pengiriman. Lab kualitas kami beroperasi independen dari produksi dan melapor langsung kepada manajemen.'
+    - title: Quality Testing & Inspection
+      description: Every completed pool undergoes mandatory air-retention testing and a full systems check before shipping, with seam peel strength verified by batch sampling every 50 units. Our quality lab operates independently from production and reports directly to management.
       image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 
 equipment_section:
-  tagline: 'Peralatan'
-  title: 'Peralatan Manufaktur Utama'
-  view_full: 'Lihat daftar peralatan lengkap →'
+  tagline: Equipment
+  title: Key Manufacturing Equipment
+  view_full: View full equipment list →
   view_full_link: /factory/equipment/
   items:
-    - name: 'Mesin Pemotong PVC Otomatis'
-      spec: 'Kendali CNC, akurasi 0.1 mm'
-    - name: 'Mesin Penyegelan Panas'
-      spec: 'Udara panas, 200–300 °C, untuk perekatan tabung'
-    - name: 'Press Pengelasan Dielektrik RF'
-      spec: '15 kW, pengelasan sambungan kedap udara'
-    - name: 'Cetakan Fiberglass Hand-Lay-Up'
-      spec: 'Cetakan papan SUP hingga 14 ft'
-    - name: 'Printer Digital'
-      spec: 'Grafis dek SUP penuh warna'
-    - name: 'Mesin Sablon'
-      spec: 'Pencetakan logo multi-warna'
+    - name: Automatic PVC Cutting Machine
+      spec: CNC-controlled, 0.1 mm accuracy
+    - name: Heat Sealing Machine
+      spec: Hot-air, 200–300 °C, for tube bonding
+    - name: RF Dielectric Welding Press
+      spec: 15 kW, airtight seam welding
+    - name: Fiberglass Hand-Lay-Up Moulds
+      spec: pools moulds up to 14 ft
+    - name: Digital Printer
+      spec: Full-colour pool deck graphics
+    - name: Screen Printing Machine
+      spec: Multi-colour logo printing
 
 qc_section:
-  tagline: 'Kontrol Kualitas'
-  title: 'Proses Pengujian & Jaminan Kualitas'
-  subtitle: 'Setiap papan menjalani pengujian wajib sebelum pengiriman. Lab kualitas kami beroperasi independen dari produksi dan melapor langsung kepada manajemen.'
+  tagline: Quality Control
+  title: Testing & Quality Assurance Process
+  subtitle: Every pool undergoes mandatory testing before shipping. Our quality lab operates independently from production and reports directly to management.
   steps:
     - step: '1'
-      title: 'Inspeksi Material Baku'
-      desc: 'PVC dan kain drop-stitch menjalani pengujian tarik (ASTM D751), perambatan sobekan, dan verifikasi ketahanan UV sebelum batch mana pun memasuki produksi.'
+      title: Raw Material Inspection
+      desc: PVC and drop-stitch fabrics undergo tensile testing (ASTM D751), tear propagation, and UV resistance verification before any batch enters production.
     - step: '2'
-      title: 'Uji Retensi Udara 24–48 Jam'
-      desc: 'Setiap ruang tabung diinflasi hingga 125% dari tekanan nominal dan ditahan selama 24–48 jam. Penurunan tekanan yang melebihi 5% memicu penolakan otomatis dan inspeksi ulang sambungan.'
+      title: 24–48 Hour Air Retention Test
+      desc: Every tube chamber is inflated to 125% of rated pressure and held for 24–48 hours. Pressure drop exceeding 5% triggers automatic rejection and seam re-inspection.
     - step: '3'
-      title: 'Pengujian Beban & Keseimbangan'
-      desc: 'Papan yang telah selesai dibebani hingga kapasitas nominal maksimum dan diuji kestabilan serta kekakuannya. Setiap papan diuji di air sebelum inspeksi akhir.'
+      title: Load & Balance Testing
+      desc: Completed pools are loaded to maximum rated capacity and tested for stability and rigidity. Each pool is water-tested before final inspection.
 
 oem_section:
-  tagline: 'Proyek OEM'
-  title: 'Studi Kasus Kemitraan Merek & OEM'
-  subtitle: 'Dari konsep hingga kontainer — bagaimana kami membantu merek global meluncurkan dan mengembangkan lini SUP tiup mereka.'
+  tagline: OEM Projects
+  title: Brand & OEM Partnership Case Studies
+  subtitle: From concept to container — how we help global brands launch and scale their inflatable pools lines.
   cases:
-    - challenge: 'Pengecer outdoor Eropa membutuhkan lini SUP label pribadi dengan grafis dek unik, PVC ramah lingkungan, dan kemasan siap ritel — semuanya harus dikirim dalam 60 hari.'
-      solution: 'Mengembangkan file cetak digital kustom, menyediakan PVC yang memenuhi REACH, dan memampatkan sampling dari 3 putaran menjadi 1 dengan menempatkan tim desain di lokasi pabrik Qingdao kami.'
-      result: '55 hari dari PO ditandatangani hingga FOB. 2,400 unit lintas 4 SKU. Pesanan ulang ditempatkan sebelum kontainer pertama tiba.'
-    - challenge: 'Startup watersports AS membutuhkan SUP drop-stitch berkinerja tinggi dengan bentuk kustom, kemasan co-branded, dan sertifikasi BSCI untuk penempatan ritel.'
-      solution: 'Mengadaptasi cetakan SUP yang ada dengan garis luar yang dimodifikasi, mengembangkan artwork kemasan co-branded, dan menyediakan dokumentasi audit BSCI lengkap.'
-      result: 'Berhasil masuk ke 3 jaringan outdoor besar di AS. 5,000+ unit pada tahun pertama dengan tingkat sell-through 98%.'
-    - challenge: 'Distributor Australia memerlukan lini SUP bersertifikat CE dengan warna kustom dan kepatuhan terhadap standar Australia.'
-      solution: 'Memproduksi sampel pra-produksi dengan 4 varian warna dan mengoordinasikan pengujian kepatuhan pihak ketiga.'
-      result: 'Lini SUP 3 model diluncurkan di pasar AU/NZ, disusul kemenangan tender pemerintah untuk 12 SUP patroli.'
+    - challenge: European outdoor retailer needed a private-label pool line with unique deck graphics, eco-friendly PVC, and retail-ready packaging — all delivered in 60 days.
+      solution: Developed custom digital print files, sourced REACH-compliant PVC, and compressed sampling from 3 rounds to 1 by co-locating the design team at our Qingdao factory.
+      result: 55 days from signed PO to FOB. 2,400 units across 4 SKUs. Repeat order placed before first container arrived.
+    - challenge: US watersports startup needed a high-performance drop-stitch pool with custom shape, co-branded packaging, and BSCI certification for retail placement.
+      solution: Adapted existing pool mould with modified outline, developed co-branded packaging artwork, and provided full BSCI audit documentation.
+      result: Successfully listed in 3 major US outdoor chains. 5,000+ units in first year with 98% sell-through rate.
+    - challenge: Australian distributor required a CE-certified pool range with custom colours and compliance with Australian standards.
+      solution: Produced pre-production samples with 4 colour variants and coordinated third-party compliance testing.
+      result: 3-model pool range launched in AU/NZ market. Followed by government tender win for 12 patrol pools.
 
 faq_section:
-  tagline: 'FAQ'
-  title: 'Pertanyaan yang Sering Diajukan B2B & OEM'
+  tagline: FAQ
+  title: B2B & OEM Frequently Asked Questions
   questions:
-    - q: 'Berapa kuantitas pesanan minimum (MOQ) untuk papan SUP tiup OEM?'
-      a: 'MOQ dimulai dari 5–10 unit untuk model OEM standar. Cetakan kustom dan proyek label pribadi memerlukan minimal 200 unit tergantung pada kompleksitasnya. Pesanan uji coba dan produksi sampel tersedia untuk peluncuran merek baru.'
-    - q: 'Apakah olagoon memiliki sertifikasi BSCI?'
-      a: 'Ya. Pabrik kami mempertahankan sertifikasi kepatuhan sosial BSCI yang valid (laporan audit tersedia atas permintaan). Kami juga memegang ISO 9001 untuk manajemen kualitas dan semua produk membawa sertifikasi CE. Dokumentasi kepatuhan REACH dan RoHS disertakan dengan setiap pengiriman OEM.'
-    - q: 'Berapa waktu pengerjaan tipikal untuk pesanan OEM?'
-      a: 'Waktu pengerjaan standar adalah 30–45 hari dari PO yang dikonfirmasi dan deposit untuk produksi OEM massal. Pengembangan cetakan kustom menambah 15–20 hari untuk tooling. Produksi yang dipercepat tersedia untuk pesanan mendesak dan lonjakan musiman. Sampel prototipe umumnya dikirim dalam 15–20 hari.'
-    - q: 'Apakah Anda dapat mengirim FOB Qingdao atau CIF ke pelabuhan kami?'
-      a: 'Ya. Kami mengirim FOB Qingdao, CIF ke pelabuhan-pelabuhan utama dunia, dan DDP untuk mitra yang memenuhi syarat. Tim logistik kami mengelola pemesanan kontainer, dokumentasi ekspor, dan pengurusan bea cukai. Kami mengirim ke 50+ negara di pasar Eropa, AS, Australia, dan Asia.'
+    - q: What is the minimum order quantity (MOQ) for OEM inflatable pools?
+      a: Samples and trial orders start at 5–10 units. Standard production MOQ is 50 units. Custom moulds and private-label projects require a minimum of 200 units depending on complexity.
+    - q: Does olagoon hold BSCI certification?
+      a: Yes. Our factory maintains valid BSCI social compliance certification (audit report available on request). We also hold ISO 9001 for quality management and all products carry CE certification. REACH and RoHS compliance documentation provided with every OEM shipment.
+    - q: What is the typical lead time for an OEM order?
+      a: Production runs take 12–16 weeks for 50–100 units, 10–14 weeks for 300–1,000 units, and 8–12 weeks above 1,000 units, from confirmed PO and deposit to FOB Qingdao. Custom mould development adds 15–20 days for tooling. Expedited production is available for urgent orders and seasonal rushes. Prototype samples typically ship within 15–20 days.
+    - q: Can you ship FOB Qingdao or CIF to our port?
+      a: Yes. We ship FOB Qingdao, CIF major global ports, and DDP for qualified partners. Our logistics team manages container booking, export documentation, and customs clearance. We ship to 50+ countries across EU, US, AU, and Asia markets.
 
-b2b_moq: 'MOQ standar: 5–10 unit per model. Pesanan uji coba dipersilakan untuk kemitraan baru.'
+b2b_moq: 'Samples from 5–10 units. Standard production MOQ: 50 units per model.'
 
 production_flow:
-  tagline: 'Alur Produksi'
-  title: 'Dari Material hingga Papan Jadi'
-  subtitle: 'Setiap papan melewati 6 tahap produksi dengan titik pemeriksaan QC di setiap langkah. Tanpa jalan pintas, tanpa inspeksi yang dilewati.'
+  tagline: Production Flow
+  title: From Material to Finished Pool
+  subtitle: Every pool passes through 6 production stages with QC checkpoints at every step. No shortcuts, no skipped inspections.
   stages:
     - stage: '01'
-      title: 'Penerimaan Material & QC Masuk'
-      description: 'Semua material yang masuk dicatat berdasarkan nomor batch/lot dalam sistem ERP kami. Gulungan kain PVC, inti drop-stitch, valve, perekat, dan perangkat keras dikarantina hingga QC memberikan persetujuan.'
-      qc_check: 'Kekuatan tarik (ASTM D751), ketahanan sobek (ISO 4674), pengukur ketebalan, viskositas perekat, pemindaian cacat visual'
-      qc_threshold: '100% batch diuji. Ditolak jika tarik < 90% dari spesifikasi, sobek < minimum spesifikasi, atau terdapat cacat visual'
-      responsibility: 'Tim QC masuk (3 inspektur)'
+      title: Material Receiving & Incoming QC
+      description: 'All incoming materials are logged by batch/lot number in our ERP system. PVC fabric rolls, drop-stitch cores, valves, adhesives, and hardware are quarantined until QC sign-off.'
+      qc_check: 'Tensile strength (ASTM D751), tear resistance (ISO 4674), thickness gauge, adhesive viscosity, visual defect scan'
+      qc_threshold: '100% of batches tested. Reject if tensile < 90% of spec, tear < spec min, or any visual defect'
+      responsibility: Incoming QC team (3 inspectors)
     - stage: '02'
-      title: 'Pemotongan CNC & Persiapan Material'
-      description: 'Penataan panel yang dioptimalkan komputer memformat panel pada stok PVC untuk meminimalkan limbah. Mesin pemotong CNC otomatis mempertahankan akurasi posisi 0.1 mm.'
-      qc_check: 'Pemeriksaan dimensi terhadap file CAD DXF, inspeksi kualitas tepi, verifikasi jumlah panel'
-      qc_threshold: 'Setiap panel ke-20 diukur. Toleransi ±0.5 mm. Batch ditolak jika >2% di luar toleransi'
-      responsibility: 'Kepala workshop pemotongan'
+      title: CNC Cutting & Material Prep
+      description: 'Computer-optimized nesting lays out panels on PVC stock to minimize waste. Automatic CNC cutting machines maintain 0.1 mm positional accuracy.'
+      qc_check: 'Dimensional check against CAD DXF files, edge quality inspection, panel count verification'
+      qc_threshold: 'Every 20th panel measured. Tolerance ±0.5 mm. Reject batch if >2% out of tolerance'
+      responsibility: Cutting workshop lead
     - stage: '03'
-      title: 'Pengelasan & Perekatan Drop-Stitch'
-      description: 'Inti drop-stitch direkatkan ke laminat PVC luar menggunakan laminasi panas. Ruang tabung dilas dengan RF atau udara panas. Pita rail direkatkan dengan fusi tiga lapis.'
-      qc_check: 'Uji peel setiap 50 unit (ASTM D751), pengukuran lebar las, tinjauan log suhu udara panas, inspeksi visual sambungan di bawah cahaya latar'
-      qc_threshold: 'Kekuatan peel minimal 8 N/cm. Toleransi lebar las ±1 mm. Adanya channeling yang terlihat = tolak'
-      responsibility: 'QC pengelasan (2 inspektur per shift)'
+      title: Welding & Drop-Stitch Bonding
+      description: 'Drop-stitch cores are bonded to outer PVC laminates using heat lamination. Tube chambers are RF-welded or hot-air welded. Rail bands are triple-layer fusion bonded.'
+      qc_check: 'Peel test every 50 units (ASTM D751), weld width measurement, hot-air temperature log review, visual seam inspection under backlight'
+      qc_threshold: 'Peel strength min 8 N/cm. Weld width tolerance ±1 mm. Any visible channeling = reject'
+      responsibility: Welding QC (2 inspectors per shift)
     - stage: '04'
-      title: 'Perakitan & Rigging'
-      description: 'Papan berpindah ke perakitan akhir tempat semua komponen dipasangkan: rail direkatkan dan dilas, valve dipasang, D-ring, pegangan, fin box, serta pemasangan tas jinjing. Setiap unit mengikuti daftar periksa perakitan 100 titik.'
-      qc_check: 'Persetujuan daftar periksa 100 titik per unit, uji fungsi valve (10 siklus buka/tutup), verifikasi torsi perangkat keras, inspeksi visual'
-      qc_threshold: 'Kebijakan nol cacat pada item kritis keselamatan (valve, D-ring, pegangan). Cacat kosmetik minor: AQL 2.5 (ISO 2859)'
-      responsibility: 'Kepala tim perakitan + QC lini'
+      title: Assembly & Rigging
+      description: 'Pools move to final assembly where all components are mated: rails glued and welded, valves installed, D-rings, handles, drain ports, and carry bag fitting. Each unit follows a 100-point assembly checklist.'
+      qc_check: '100-point checklist sign-off per unit, valve function test (10 open/close cycles), hardware torque verification, visual inspection'
+      qc_threshold: 'Zero-defect policy on safety-critical items (valves, D-rings, handles). Minor cosmetic: AQL 2.5 (ISO 2859)'
+      responsibility: Assembly team lead + line QC
     - stage: '05'
-      title: 'Pengujian Tekanan & Penahanan Kualitas'
-      description: 'Setiap ruang diinflasi hingga 1.25× tekanan nominal (umumnya 20–25 PSI) dan ditahan selama 24–48 jam. Sensor tekanan mencatat secara berkelanjutan. Ruang dengan penurunan tekanan melebihi 5% ditolak dan dikirim untuk inspeksi ulang sambungan.'
-      qc_check: 'Log penahanan tekanan 24–48 jam, kalibrasi sensor diverifikasi setiap hari, pembacaan tekanan terkompensasi suhu, uji ulang sambungan setelah perbaikan'
-      qc_threshold: 'Penurunan tekanan maksimal 5% selama 24–48 jam pada suhu stabil. Ruang mana pun yang melampauinya = uji ulang 100% seluruh batch produksi'
-      responsibility: 'Lab kualitas (independen dari produksi, melapor kepada manajemen)'
+      title: Pressure Testing & Quality Hold
+      description: 'Every chamber is inflated to 1.25× rated pressure (typically 20–25 PSI) and held for 24–48 hours. Pressure sensors log continuously. Chambers exceeding 5% pressure drop are rejected and sent for seam re-inspection.'
+      qc_check: '24–48h pressure hold log, sensor calibration verified daily, temperature-compensated pressure reading, seam re-test after repair'
+      qc_threshold: 'Max 5% pressure drop over 24–48h at stable temp. Any chamber exceeding this = 100% re-test of entire production batch'
+      responsibility: Quality lab (independent of production, reports to management)
     - stage: '06'
-      title: 'Inspeksi Akhir & Pengemasan'
-      description: 'Inspeksi visual dan fungsional akhir. Cacat permukaan, konsistensi warna, verifikasi label/BIN, integritas kemasan, dan kelengkapan aksesori. Unit dikemas vakum, dimasukkan ke kotak, dan dipaletkan untuk pemuatan kontainer.'
-      qc_check: 'Inspeksi visual menyeluruh, daftar periksa aksesori per SKU, uji jatuh kemasan (1 m, sampel acak), verifikasi pemindaian label/kode batang'
-      qc_threshold: 'AQL 2.5 untuk cacat mayor, AQL 4.0 untuk cacat minor. Toleransi nol untuk cacat keselamatan. 100% unit diperiksa secara visual'
-      responsibility: 'Tim QC akhir (4 inspektur) + Kepala tim pengemasan'
+      title: Final Inspection & Packing
+      description: 'Final visual and functional inspection. Surface defects, color consistency, label/BIN verification, packaging integrity, and accessory completeness. Units are vacuum-packed, boxed, and palletized for container loading.'
+      qc_check: 'Full visual inspection, accessory checklist per SKU, packaging drop test (1 m, random sample), label/bar code scan verification'
+      qc_threshold: 'AQL 2.5 for major defects, AQL 4.0 for minor. Zero tolerance on safety defects. 100% of units visually inspected'
+      responsibility: Final QC team (4 inspectors) + Packing team lead
 
 workforce:
-  tagline: 'Orang-Orang Kami'
-  title: 'Tenaga Kerja & Keahlian'
+  tagline: Our People
+  title: Workforce & Expertise
   engineers: 25+
-  engineers_detail: 'Insinyur di R&D, desain cetakan, lab material, dan teknik produksi. Rata-rata 7+ tahun di manufaktur produk tiup.'
-  shift_pattern: '2 shift/hari (07:00–15:30, 15:30–00:00). Shift malam opsional untuk pesanan mendesak.'
-  training: 'Pelatihan QC bulanan, latihan keselamatan triwulanan, penilaian keterampilan tahunan. Karyawan baru menyelesaikan induksi 40 jam sebelum bekerja di lini produksi.'
+  engineers_detail: 'Engineers across R&D, mold design, materials lab, and production engineering. Average 7+ years in inflatable manufacturing.'
+  shift_pattern: '2 shifts/day (07:00–15:30, 15:30–00:00). Optional night shift for urgent orders.'
+  training: 'Monthly QC training, quarterly safety drills, annual skills assessment. New hires complete 40-hour induction before working on production line.'
   departments:
-    - name: 'R&D & Teknik'
+    - name: R&D & Engineering
       count: 25+
-      role: 'Desain produk, teknik cetakan, lab material'
-    - name: 'Pemotongan & Persiapan Material'
+      role: Product design, mold engineering, materials lab
+    - name: Cutting & Material Prep
       count: 15
-      role: 'Pemotongan CNC, persiapan panel, penanganan material'
-    - name: 'Pengelasan & Laminasi'
+      role: CNC cutting, panel preparation, material handling
+    - name: Welding & Lamination
       count: 40
-      role: 'Pengelasan RF, las udara panas, perekatan drop-stitch'
-    - name: 'Perekatan Inti SUP'
+      role: RF welding, hot-air welding, drop-stitch bonding
+    - name: pool Core Bonding
       count: 30
-      role: 'Laminasi drop-stitch, perekatan panas, fusi pita rail'
-    - name: 'Perakitan & Rigging'
+      role: Drop-stitch lamination, heat bonding, rail band fusion
+    - name: Assembly & Rigging
       count: 35
-      role: 'Perakitan akhir, pemasangan perangkat keras, pemeriksaan sistem'
-    - name: 'Kontrol Kualitas'
+      role: Final assembly, hardware installation, systems check
+    - name: Quality Control
       count: 12
-      role: 'QC masuk, QC dalam proses, inspeksi akhir, pengujian lab'
-    - name: 'Logistik & Pengemasan'
+      role: Incoming QC, in-process QC, final inspection, lab testing
+    - name: Logistics & Packing
       count: 20
-      role: 'Pengemasan, pemuatan kontainer, dokumentasi ekspor'
-    - name: 'Manajemen & Administrasi'
+      role: Packaging, container loading, export documentation
+    - name: Management & Admin
       count: 15
-      role: 'Penjualan, pengadaan, SDM, keuangan, kepatuhan'
+      role: Sales, procurement, HR, finance, compliance
 
 material_traceability:
-  tagline: 'Keterlacakan'
-  title: 'Pelacakan Material & Kontrol Batch'
-  description: 'Setiap batch material baku diberi nomor lot unik dalam sistem ERP kami. Dari kedatangan, melalui produksi, hingga produk jadi, daftar material setiap papan terhubung kembali ke batch pemasok asal. Hal ini memungkinkan keterlacakan hulu yang lengkap untuk setiap pertanyaan kualitas maupun kepatuhan.'
-  system: 'ERP kustom (sistem internal Qingdao Vatrad Group) + tag batch fisik pada setiap perintah kerja'
-  coverage: '100% material produksi — PVC, kain drop-stitch, perekat, valve, perangkat keras, kemasan'
-  records_retained: '10 tahun (sesuai persyaratan CE 2013/53/EU)'
+  tagline: Traceability
+  title: Material Tracking & Batch Control
+  description: Every batch of raw material is assigned a unique lot number in our ERP system. From arrival through production to the finished product, each pool's bill of materials links back to the original supplier batch. This enables full upstream traceability for any quality or compliance inquiry.
+  system: Custom ERP (Qingdao Vatrad Group internal system) + physical batch tags on each work order
+  coverage: 100% of production materials — PVC, drop-stitch fabric, adhesives, valves, hardware, packaging
+  records_retained: 10 years (per CE 2013/53/EU requirement)
   suppliers:
-    - material: 'PVC kelas marin'
-      source: 'Pemasok Tiongkok dan Korea'
-      certified: 'ISO 9001, REACH, RoHS'
-    - material: 'Kain drop-stitch'
-      source: 'Tenun in-house + mitra eksternal'
-      certified: 'QC internal + ISO 9001 pemasok'
-    - material: 'Valve & Perangkat Keras'
-      source: 'Pemasok OEM Tiongkok'
-      certified: 'ISO 9001, sertifikat material per batch'
+    - material: Marine-grade PVC
+      source: Chinese and Korean suppliers
+      certified: ISO 9001, REACH, RoHS
+    - material: Drop-stitch fabric
+      source: In-house weaving + external partner
+      certified: Internal QC + supplier ISO 9001
+    - material: Valves & Hardware
+      source: Chinese OEM suppliers
+      certified: ISO 9001, material certs per batch
 
 qc_dashboard:
-  tagline: 'QC dalam Angka'
-  title: 'Metrik Kontrol Kualitas'
-  subtitle: 'Data lulus/gagal langsung dari lini produksi kami. Lab kualitas kami beroperasi independen dari produksi dan melapor langsung kepada manajemen.'
+  tagline: QC by the Numbers
+  title: Quality Control Metrics
+  subtitle: Real pass/fail data from our production line. Our quality lab operates independently from production and reports directly to management.
   stats:
-    - value: '100%'
-      label: 'Unit diuji tekanan'
-      detail: 'Setiap papan, setiap ruang, setiap batch'
+    - value: 100%
+      label: Units pressure-tested
+      detail: Every pool, every chamber, every batch
     - value: '<5%'
-      label: 'Penurunan tekanan maksimal yang diizinkan'
-      detail: 'Selama 24–48 jam pada 1.25× tekanan nominal'
-    - value: 'AQL 2.5'
-      label: 'Ambang cacat mayor'
-      detail: 'Sesuai standar pengambilan sampel ISO 2859'
-    - value: '24–48h'
-      label: 'Durasi penahanan tekanan'
-      detail: 'Tergantung pada kategori produk'
-    - value: '1.25×'
-      label: 'Tekanan uji vs nominal'
-      detail: 'Margin keselamatan pada setiap ruang'
-    - value: '0%'
-      label: 'Toleransi untuk cacat keselamatan'
-      detail: 'Valve, D-ring, sambungan, daya apung'
+      label: Max allowable pressure drop
+      detail: Over 24–48h at 1.25× rated pressure
+    - value: AQL 2.5
+      label: Major defect threshold
+      detail: Per ISO 2859 sampling standard
+    - value: 24–48h
+      label: Pressure hold duration
+      detail: Depending on product category
+    - value: 1.25×
+      label: Test pressure vs rated
+      detail: Safety margin on every chamber
+    - value: 0%
+      label: Tolerance on safety defects
+      detail: Valves, D-rings, seams, buoyancy
 
 process_cta:
-  title: 'Lihat proses manufaktur kami'
-  desc: 'Ikuti sebuah papan melalui setiap tahap produksi — dari material baku hingga papan siap ke air.'
-  label: 'Lihat proses produksi →'
+  title: See our manufacturing process
+  desc: Follow a pool through every stage of production — from raw material to backyard-ready pool.
+  label: View production process →
   link: /factory/process/

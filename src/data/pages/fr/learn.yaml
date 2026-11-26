@@ -1,78 +1,81 @@
 meta:
-  title: 'Apprendre — SUP, Paddle & Nautisme | {SITE}'
-  description: "Ressources d'apprentissage olagoon : tutoriels SUP gonflables, techniques de paddle, bases de l'équipement et éducation nautique pour passionnés et entreprises."
+  title: 'Learn — Pool Education | {SITE}'
+  description: 'Learn with OLagoon: inflatable pool tutorials, water care basics, setup guides, and pool education for owners and businesses.'
   keywords:
-    - 'apprendre le SUP'
-    - 'guide paddle débutant'
-    - 'bases du paddle'
-    - 'technique paddle'
+    - 'learn pool'
+    - 'inflatable pool tutorial'
+    - 'inflatable pools education'
+    - 'pool maintenance'
 hero:
-  tagline: Connaissances sur l'Exploration Aquatique
-  title: Apprendre
-  subtitle: |-
-    Guides, tutoriels et analyses approfondies — tout ce dont vous avez besoin pour explorer<br />
-    l'eau en toute confiance. Du choix de votre premier SUP à la maîtrise des techniques avancées.
-  taglineSection: Connaissances pour chaque pagayeur. Du débutant au professionnel.
+  tagline: 'Water Exploration Knowledge'
+  title: 'Learn'
+  subtitle: |
+    Guides, tutorials, and deep dives — everything you need to explore<br />
+    water with confidence. From choosing your first pool to mastering advanced techniques.
+  taglineSection: 'Knowledge for every pool owner. From first-time buyer to seasoned pro.'
+
 featured:
-  tagline: Featured Topics
-  title: Commencer votre apprentissage
-  subtitle: Que vous débutiez dans les sports nautiques ou cherchiez à progresser, nos guides sont là pour vous.
+  tagline: 'Featured Topics'
+  title: 'Start your learning journey'
+  subtitle: 'Whether you are new to water sports or looking to level up, our guides have you covered.'
   items:
-    - title: Bases du SUP
-      description: Tout ce qu'un débutant doit savoir — types de planches, taille de pagaie, position et conseils pour le premier jour.
-      icon: tabler:lifebuoy
-      href: /learn/water-safety/
-    - title: Gonflable vs Planche Rigide
-      description: Quel est le bon choix pour vous ? Nous comparons portabilité, performance, durabilité et coût côte à côte.
-      icon: tabler:arrows-left-right
-      href: /compare/technology/
-    - title: Sécurité Aquatique
-      description: Connaissances de sécurité essentielles pour chaque pagayeur — météo, gilets de sauvetage, auto-sauvetage et plus.
-      icon: tabler:shield
-      href: /learn/water-safety/
-    - title: Guide des matériaux
-      description: Grades de PVC, technologie drop-stitch, indices denier — comprenez de quoi est fait votre équipement.
-      icon: tabler:flask
-      href: /learn/materials/
-    - title: Guide des tailles SUP
-      description: Trouvez la bonne longueur, largeur et volume de planche pour votre poids, niveau et style de pagaie.
-      icon: tabler:ruler
-      href: /size-guide/
-    - title: Techniques Intermédiaires
-      description: Améliorez votre pagaie avec des coups avancés, des techniques de virage et la maîtrise des eaux agitées.
-      icon: tabler:droplet
-      href: /learn/intermediate-techniques/
+    - title: 'pool Basics'
+      description: 'Everything a new owner needs to know — pool types, pump operation, water care, and first-day tips.'
+      icon: 'tabler:lifebuoy'
+      href: '/learn/water-safety/'
+    - title: 'Inflatable vs rigid pools'
+      description: 'Which is right for you? We compare portability, performance, durability, and cost side by side.'
+      icon: 'tabler:arrows-left-right'
+      href: '/compare/technology/'
+    - title: 'Water Safety'
+      description: 'Essential safety knowledge every pool owner should have — supervision, filtration, maintenance, and more.'
+      icon: 'tabler:shield'
+      href: '/learn/water-safety/'
+    - title: 'Materials Guide'
+      description: 'PVC grades, drop-stitch technology, denier ratings — understand what your gear is made of.'
+      icon: 'tabler:flask'
+      href: '/learn/materials/'
+    - title: 'pool Size Guide'
+      description: 'Find the right pool length, width, and depth for your space, household, and swimming style.'
+      icon: 'tabler:ruler'
+      href: '/size-guide/'
+    - title: 'Intermediate Techniques'
+      description: 'Step up your swimming with advanced strokes, turning techniques, and rough-water handling.'
+      icon: 'tabler:droplet'
+      href: '/learn/intermediate-techniques/'
+
 categories:
-  tagline: Catégories
-  title: Explorer par sujet
-  subtitle: Tout le contenu d'apprentissage organisé par niveau et intérêt.
+  tagline: 'Categories'
+  title: 'Explore by topic'
+  subtitle: 'All learning content organized by skill level and interest.'
   columns:
-    - title: Débutant
+    - title: 'Beginner'
       items:
-        - Bases du SUP — commencez ici
-        - Gonflable vs Planche Rigide
-        - Essentiels de Sécurité Aquatique
-        - Comment Choisir Votre SUP
-        - Guide de Gonflage et Emballage
-    - title: Intermédiaire
+        - 'pool Basics — start here'
+        - 'Inflatable vs rigid pools'
+        - 'Water Safety Essentials'
+        - 'How to Choose Your pool'
+        - 'Pump & Pack Guide'
+    - title: 'Intermediate'
       items:
-        - Techniques de Pagaie
-        - Technologie Gonflable
-        - Référence des Matériaux
-        - Comparaison des Grades de PVC
-        - Noyau Drop-Stitch Expliqué
-    - title: Avancé et Professionnel
+        - 'swimming Techniques'
+        - 'Inflatable Technology'
+        - 'Materials Reference'
+        - 'PVC Grades Comparison'
+        - 'Drop-Stitch Core Explained'
+    - title: 'Advanced & Professional'
       items:
-        - Opérations de flotte
-        - Équipement de Qualité Commerciale
-        - Protocoles de Sécurité et Sauvetage
-        - Constructions Personnalisées et OEM
+        - 'Fleet Operations'
+        - 'Commercial-Grade Equipment'
+        - 'Safety & Rescue Protocols'
+        - 'Custom Builds & OEM'
+
 cta:
-  title: Encore des questions ?
-  subtitle: Demandez à notre guide IA des réponses personnalisées sur l'équipement, la sécurité et les techniques.
+  title: 'Still have questions?'
+  subtitle: 'Ask our AI guide for personalized answers about gear, safety, and techniques.'
   actions:
     - variant: primary
-      text: Demandez au Conseiller IA Water Advisor
+      text: 'Ask the Water Advisor AI'
       href: '/ai-answer-center/'
-    - text: Parcourir tous les guides
-      href: /academy/
+    - text: 'Browse all guides'
+      href: '/academy/'

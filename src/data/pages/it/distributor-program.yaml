@@ -1,117 +1,117 @@
 meta:
-  title: 'Partner di Paese — un Paese, un unico Distributore Ufficiale OLagoon | {SITE}'
-  description: 'Candidati a diventare il distributore ufficiale OLagoon del tuo paese. Un unico partner autorizzato per mercato, protezione territoriale, margini diretti di fabbrica, sconti annuali e un programma di supporto in 10 moduli per i distributori globali di SUP e sport acquatici.'
+  title: 'Country Partners — One Country, One Official OLagoon Distributor | {SITE}'
+  description: 'Apply to become the official OLagoon distributor for your country. One authorized partner per market, territory protection, direct-factory margins, annual rebates, and a 10-module country partner support program for global pool and water sports distributors.'
   keywords:
-    - 'programma di partnership di paese'
-    - 'diventa un distributore'
-    - 'distribuzione SUP'
-    - 'un paese un distributore'
-    - 'distributore stand up paddle'
-    - 'distribuzione sport acquatici'
-    - 'candidatura partnership di paese'
+    - 'country partnership program'
+    - 'become a distributor'
+    - 'pool distributorship'
+    - 'one country one distributor'
+    - 'stand up paddle distributor'
+    - 'water sports distribution'
+    - 'country partnership application'
 hero:
-  tagline: 'Partner di Paese'
-  title: 'Un Paese.<br />Un unico Distributore Ufficiale OLagoon.'
-  subtitle: 'OLagoon nomina un unico distributore autorizzato di paese per ogni mercato approvato. Territorio esclusivo, prezzi rivenditore con sconti annuali e un programma completo di supporto ai distributori — in cambio di un accordo firmato e di un impegno reale a far crescere il mercato.'
+  tagline: 'Country Partnership'
+  title: 'One Country.<br />One Official OLagoon Distributor.'
+  subtitle: 'OLagoon appoints a single authorized country distributor for each approved market. Exclusive territory, dealer pricing with annual rebates, and a full distributor support program — in exchange for a signed agreement and a real commitment to build the market.'
   actions:
-    - text: 'Candidati come Partner di Paese'
+    - text: 'Apply for Country Partnership'
       href: /contact/?subject=Country Partnership Application
       variant: primary
-    - text: 'Trova il tuo distributore locale'
+    - text: 'Find Your Local Distributor'
       href: /distributor-program/
       variant: secondary
-    - text: 'Richiedi il Listino Prezzi Rivenditore'
+    - text: 'Request Dealer Price List'
       href: /contact/?subject=Dealer Price List
       variant: secondary
 stats:
   - value: '1'
-    label: 'Distributore ufficiale per paese o regione'
+    label: 'Official distributor per country or region'
   - value: '100–300'
-    label: 'Primo ordine minimo (paese / regionale)'
+    label: 'Minimum first order (Country / Regional)'
   - value: '50+'
-    label: 'Paesi serviti nel mondo'
-  - value: '30–45'
-    label: 'Tempi di consegna standard (FOB Qingdao)'
+    label: 'Countries served globally'
+  - value: '12–16'
+    label: 'Weeks standard lead time (FOB Qingdao)'
 features:
-  title: 'Perché Collaborare con OLagoon'
-  subtitle: 'Un modello un-paese-un-distributore con la struttura di supporto per rendere redditizio il territorio. L’esclusività si conquista e si mantiene — non è un diritto permanente.'
+  title: 'Why Partner With OLagoon'
+  subtitle: 'A one-country-one-distributor model with the support structure to make the territory pay. Exclusivity is earned and maintained — not a permanent right.'
   columns: 3
   items:
-    - title: 'Esclusività Territoriale'
-      description: 'Un unico distributore autorizzato per paese o regione. Niente importazioni parallele, niente concorrenza interna. Il tuo investimento costruisce la tua fossa.'
+    - title: 'Territory Exclusivity'
+      description: 'One authorized distributor per country or region. No parallel imports, no internal competition. Your investment builds your own moat.'
       icon: 'tabler:shield-check'
-    - title: 'Protezione dal Conflitto di Canale'
-      description: 'Gli ordini diretti dalla tua regione passano attraverso di te e i prezzi proteggono il tuo margine. OLagoon non vende aggirando i propri partner di paese.'
+    - title: 'Channel Conflict Protection'
+      description: 'Direct orders from your region are routed through you, and pricing protects your margin. OLagoon does not sell around its country partners.'
       icon: 'tabler:users'
-    - title: 'Margini Diretti di Fabbrica e Sconti'
-      description: 'Listino rivenditore con sconti sui volumi impegnati. Nessun intermediario. Spedizione FOB Qingdao con documentazione export completa.'
+    - title: 'Direct-Factory Margins & Rebates'
+      description: 'Dealer price list with rebates on committed volumes. No middlemen. FOB Qingdao shipping with full export documentation.'
       icon: 'tabler:coins'
-    - title: 'Programma di Supporto Partner in 10 Moduli'
-      description: 'Onboarding, go-to-market, formazione, marketing e fondi comuni di mercato, ricambi e assistenza post-vendita, garanzia, strumenti di ordinazione e portale partner — tutto incluso nel tuo Distribution Agreement.'
+    - title: '10-Module Partner Support Program'
+      description: 'Onboarding, go-to-market, training, marketing and joint market funding, spare parts and after-sales, warranty, ordering tools, and a partner portal — covered in your Distribution Agreement.'
       icon: 'tabler:rocket'
-    - title: 'Marketing e Fondi Comuni di Mercato'
-      description: 'Materiali per campagne localizzati, materiali POS per i rivenditori, kit per eventi, contenuti digitali in più lingue e supporto di co-marketing per le stagioni di lancio.'
+    - title: 'Marketing & Joint Market Funds'
+      description: 'Localized campaign assets, dealer POS materials, event kits, digital content in multiple languages, and co-marketing support for launch seasons.'
       icon: 'tabler:mood-smile'
-    - title: 'Formazione su Prodotto, Vendite e Tecnica'
-      description: 'Sessioni di onboarding strutturate su prodotto, vendite e conoscenze tecniche, con materiali aggiornati man mano che la gamma evolve.'
+    - title: 'Product, Sales & Technical Training'
+      description: 'Structured onboarding sessions on product, sales, and technical knowledge, with updated materials as the range evolves.'
       icon: 'tabler:presentation'
-    - title: 'Ricambi e Assistenza Post-Vendita'
-      description: 'Fornitura di ricambi, registrazione della garanzia e gestione dei reclami, oltre a schede prodotto e manuali per il tuo team di assistenza locale.'
+    - title: 'Spare Parts & After-Sales Support'
+      description: 'Spare parts supply, warranty registration and claims handling, and product datasheets and manuals for your local service team.'
       icon: 'tabler:settings'
-    - title: 'Account Manager Dedicato e Portale Partner'
-      description: 'Un manager personale per i distributori più l’accesso a listini, stato degli ordini e risorse di marketing tramite il portale partner OLagoon.'
+    - title: 'Dedicated Account Manager & Partner Portal'
+      description: 'A personal distributor manager plus access to price lists, order status, and marketing resources through the OLagoon partner portal.'
       icon: 'tabler:user-check'
 table:
-  title: 'Livelli di Partnership, MOQ e Condizioni d’Ordine'
-  subtitle: 'Scegli il livello che corrisponde al potenziale del tuo mercato. Tutti i prezzi in USD, FOB Qingdao.'
-  caption: 'Gli ordini campione e di prova (5–30 unità) non godono di protezione territoriale. L’esclusiva di paese si applica solo agli accordi firmati da Country / Regional Distributor — si mantiene completando il primo ordine, raggiungendo i target annuali di acquisto, mantenendo stock locale, capacità post-vendita e investimento continuo sul mercato, e non costituisce un diritto permanente o perpetuo.'
+  title: 'Partnership Tiers, MOQ & Order Terms'
+  subtitle: 'Choose the tier that matches your market potential. All prices in USD, FOB Qingdao.'
+  caption: 'Sample and trial orders (5–30 units) carry no territorial protection. Country exclusivity applies only to signed Country / Regional Distributor agreements — it is maintained by first-order completion, annual purchase targets, local stock, after-sales capability, and continued market investment, and is not a permanent or perpetual right.'
   head:
-    - Livello del Programma
-    - Ordine Minimo (unità)
-    - Tempi di Consegna
-    - Pagamento
+    - Program Tier
+    - Minimum Order (units)
+    - Lead Time
+    - Payment
   rows:
-    - [Campione / Valutazione Prodotto, 5–10, 15–20 giorni lavorativi, 100% prepaid]
-    - [Ordine di Prova, 10–30, 30–45 giorni lavorativi, 100% prepaid]
-    - [Authorized Dealer, 30–50, 30–45 giorni lavorativi, 30% deposit / 70% before shipment]
-    - [Country / Regional Distributor, 100–300, 30–45 giorni lavorativi, 30% deposit / 70% before shipment]
-    - [Custom & Private Label (standard), 50+, 30–45 giorni lavorativi, 30% deposit / 70% before shipment]
-    - [Deep Custom (nuovi stampi, packaging), 200+, 45–60 giorni lavorativi, 30% deposit / 70% before shipment]
-    - [Full Product Line Rights, '300–1,000', 60–90 giorni lavorativi, 30% deposit / 70% before shipment]
+    - [Sample / Product Evaluation, 5–10, 15–20 working days, 100% prepaid]
+    - [Trial Order, 10–30, 15–20 working days, 100% prepaid]
+    - [Authorized Dealer, 30–50, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Country / Regional Distributor, 100–300, 10–14 weeks, 30% deposit / 70% before shipment]
+    - [Custom & Private Label (standard), 50+, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Deep Custom (new molds, packaging), 200+, 12–16 weeks + 15–20 days tooling, 30% deposit / 70% before shipment]
+    - [Full Product Line Rights, '300–1,000', 10–14 weeks, 30% deposit / 70% before shipment]
 faqs:
-  title: 'Partner di Paese — FAQ'
-  subtitle: 'Le domande che i partner di paese seri si pongono prima di candidarsi.'
+  title: 'Country Partnership — FAQ'
+  subtitle: 'The questions serious country partners ask before applying.'
   items:
-    - title: 'Cosa significa davvero un paese, un distributore?'
-      description: 'OLagoon nomina un unico distributore autorizzato con diritti esclusivi su un territorio definito. Non vendiamo dai nostri canali globali o regionali verso un paese protetto. Il tuo possesso del territorio resta valido finché il Distribution Agreement viene rispettato.'
-    - title: 'Il territorio è esclusivo per sempre?'
-      description: 'No. L’esclusività è condizionata, non perpetua. Si mantiene attraverso un Distribution Agreement firmato, il completamento del primo ordine, target annuali di acquisto, stock locale, capacità post-vendita e investimento continuo sul mercato. Se questi requisiti non vengono rispettati, il territorio può essere rinegoziato o riassegnato.'
-    - title: 'Qual è il primo ordine minimo?'
-      description: 'I distributori di paese e regionali partono da 100–300 unità; i rivenditori autorizzati da 30–50; gli ordini di prova da 10–30 unità ti permettono di validare prima il mercato (gli ordini di prova e campione non hanno protezione territoriale). I programmi Custom e private-label seguono MOQ separati elencati nei livelli sopra indicati.'
-    - title: 'Che cosa comprende il programma di supporto in 10 moduli?'
-      description: 'Livelli e qualifica, protezione territoriale, MOQ / prezzi / sconti annuali, gestione di inventario e ordini, asset marketing e fondi comuni di mercato, formazione su prodotto / vendite / tecnica, ricambi e post-vendita, registrazione della garanzia, portale partner e schede prodotto, libreria degli asset marketing, calendario degli sconti annuali e liste di spedizione e imballaggio.'
-    - title: 'Come mi protegge OLagoon dal conflitto di canale?'
-      description: 'Ogni territorio ha esattamente un distributore autorizzato. Le richieste e gli ordini diretti dalla tua regione passano attraverso di te, i moduli del sito vengono inoltrati al partner locale dove esiste, e il team globale interviene solo se un partner non risponde.'
-    - title: 'Quali sono le condizioni di spedizione e pagamento?'
-      description: 'Gli ordini partono FOB Qingdao con documentazione export completa. Gli ordini di produzione richiedono un acconto del 30% e il 70% prima della spedizione; gli ordini di prova e campione sono pagati in anticipo. Il tempo di consegna standard è di 30–45 giorni lavorativi, con 15–20 giorni lavorativi per le linee campione.'
-    - title: 'Come faccio domanda?'
-      description: 'Invia la tua candidatura tramite il modulo di contatto con i dettagli del mercato. Valutiamo l’adattamento al mercato, la presenza nel retail e la capacità logistica, poi rispondiamo entro 3 giorni lavorativi con i prossimi passi e un Distribution Agreement di esempio.'
+    - title: 'What does one-country-one-distributor really mean?'
+      description: 'OLagoon appoints a single authorized distributor with exclusive rights for a defined territory. We do not sell from our global or regional channels into a protected country. Your territory ownership holds for as long as the Distribution Agreement is met.'
+    - title: 'Is the territory exclusive forever?'
+      description: 'No. Exclusivity is conditional, not perpetual. It is maintained through a signed Distribution Agreement, completion of your first order, annual purchase targets, local stock, after-sales capability, and continued market investment. If these are not met, the territory can be renegotiated or reassigned.'
+    - title: 'What is the minimum first order?'
+      description: 'Country and regional distributors start at 100–300 units; authorized dealers at 30–50 units; trial orders from 10–30 units let you validate the market first (trial and sample orders carry no territory protection). Custom and private-label programs follow separate MOQs listed in the tiers above.'
+    - title: 'What support is included in the 10-module support program?'
+      description: 'Tiers and qualification, territory protection, MOQ / pricing / annual rebates, inventory and order execution, marketing assets and joint market funds, product / sales / technical training, spare parts and after-sales, warranty registration, the partner portal, and product datasheets, marketing asset library, annual rebate schedule, and shipping and packing lists.'
+    - title: 'How does OLagoon protect me from channel conflict?'
+      description: 'Each territory has exactly one authorized distributor. Inquiries and direct orders from your region are routed through you, website forms are forwarded toward the local partner where one exists, and the global team only escalates when a partner does not respond.'
+    - title: 'What are the shipping and payment terms?'
+      description: 'Orders ship FOB Qingdao with full export documentation. Production orders are 30% deposit with 70% before shipment; trial and sample orders are prepaid. Production runs take 12–16 weeks at 50–100 units, 10–14 weeks at 300–1,000 units, and 8–12 weeks above 1,000 units; sample runs ship in 15–20 working days.'
+    - title: 'How do I apply?'
+      description: 'Send your application via the contact form with market details. We review market fit, retail presence, and logistics capability, then respond within 3 business days with next steps and a sample Distribution Agreement.'
 cta:
-  title: 'Possiedi il tuo mercato.'
-  subtitle: 'Candidati come Partner di Paese di OLagoon e ricevi una risposta entro 3 giorni lavorativi.'
+  title: 'Own your market.'
+  subtitle: 'Apply for the OLagoon Country Partnership and get a response within 3 business days.'
   actions:
-    - text: 'Candidati come Partner di Paese'
+    - text: 'Apply for Country Partnership'
       href: /contact/?subject=Country Partnership Application
       variant: primary
-    - text: 'Scarica la panoramica del programma'
+    - text: 'Download the Program Overview'
       href: /distributor-program/
       variant: secondary
 geo:
-  tagline: 'Con Chi Collaboriamo'
-  sentence: 'OLagoon collabora con distributori affermati dei settori nautico, outdoor e sportivo che servono catene retail, flotte a noleggio, scuole di sport acquatici, resort e acquirenti governativi con tavole SUP gonfiabili premium e natanti — e che si impegnano a costruire il marchio OLagoon nel proprio paese.'
+  tagline: 'Who We Partner With'
+  sentence: 'OLagoon partners with established marine, outdoor, and sports distributors who serve retail chains, rental fleets, water sports schools, resorts, and government buyers with premium inflatable pools and watercraft — and who commit to building the OLagoon brand in their country.'
   audiences:
-    - 'Distributori Marini e Nautici'
-    - 'Retail Outdoor e Sport'
-    - 'Operatori di Noleggio e Resort'
-    - 'Scuole di Sport Acquatici'
-    - 'Comunità di Sport Oceanici'
+    - 'Marine & Paddle Sports Distributors'
+    - 'Outdoor & Sports Retail'
+    - 'Rental & Resort Operators'
+    - 'Water Sports Schools'
+    - 'Ocean Sports Communities'

@@ -1,86 +1,86 @@
 meta:
-  title: 'الحضور العالمي — مصنّع SUP في أكثر من 50 دولة | {SITE}'
-  description: 'تصدّر olagoon ألواح SUP القابلة للنفخ إلى أكثر من 50 دولة في جميع القارات. مصنّع ومورّد محترف للعلامات التجارية والموزعين والأساطيل.'
+  title: 'Global Presence — pool Manufacturer Serving 50+ Countries | {SITE}'
+  description: 'olagoon exports inflatable pools to 50+ countries across every continent. Professional manufacturer and supplier for brands, distributors, and fleets.'
   keywords:
-    - 'مصنّع SUP عالمي'
-    - 'مصدّر ألواح التجديف'
-    - 'مصنع SUP الصين'
-    - 'مورّد SUP محترف'
+    - 'global pool manufacturer'
+    - 'inflatable pool exporter'
+    - 'pool factory china'
+    - 'professional pool supplier'
 hero:
-  tagline: الحضور العالمي
-  title: نخدم أكثر من 50 دولة<br />في كل قارة
-  subtitle: من مشغلي الدوريات الساحلية الأوروبية إلى موزعي الرياضات المائية الأستراليين إلى فرق الإنقاذ في الشرق الأوسط، توجد ألواح olagoon على المياه في جميع أنحاء العالم.
+  tagline: Global Presence
+  title: 'Serving 50+ Countries<br />Across Every Continent'
+  subtitle: 'From European resort operators to Australian outdoor retailers to Middle East hospitality groups — OLagoon pools are in backyards worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: تصنيع وتوزيع بحري عالمي
+    alt: olagoon global marine manufacturing and distribution
 stats:
-  title: النطاق العالمي
+  title: Global Reach
   stats:
-    - title: الدول
-      amount: أكثر من 50
-    - title: أسواق التصدير
-      amount: أوروبا والأمريكتين وآسيا والشرق الأوسط وأوقيانوسيا
-    - title: الإنتاج
-      amount: تشينغداو، الصين
-    - title: مستودع الولايات المتحدة
-      amount: مونتكلير، كاليفورنيا
+    - title: Countries
+      amount: '50+'
+    - title: Export Markets
+      amount: Europe, Americas, Asia, Middle East, Oceania
+    - title: Production
+      amount: Qingdao, China
+    - title: US Warehouse
+      amount: Montclair, CA
 features3_markets:
-  tagline: الأسواق الرئيسية
-  title: الخبرة الإقليمية<br />للمتطلبات المحلية
-  subtitle: نحن ندرك أن الأسواق المختلفة لها متطلبات تنظيمية وتفضيلات وحالات استخدام مختلفة.
+  tagline: Key Markets
+  title: 'Regional Expertise<br />for Local Requirements'
+  subtitle: 'We understand that different markets have different regulatory requirements, preferences, and use cases.'
   isBeforeContent: false
   columns: 4
   items:
-    - title: شمال أوروبا والمملكة المتحدة
-      description: منتجات معتمدة من CE. طلب قوي على ألواح SUP عبر أسواق الاتحاد الأوروبي. يقدر الموزعون في المملكة المتحدة سرعة تحولنا.
+    - title: Europe & UK
+      description: 'CE-certified products. Strong demand for pools across EU markets. UK distributors appreciate our quick turnaround.'
       icon: tabler:map-pin
-    - title: أمريكا الشمالية
-      description: وافق خفر السواحل الأمريكي على التصنيع. مستودع أمريكي في مونتكلير، كاليفورنيا للتسليم السريع في الساحل الغربي. تزايد الطلب على ألواح SUP للصيد والإنقاذ والترفيه.
+    - title: North America
+      description: 'US Coast Guard approved manufacturing. US warehouse in Montclair, CA for fast West Coast delivery. Growing demand for fishing, rescue, and recreational pools.'
       icon: tabler:map-pin
-    - title: استراليا/أوقيانوسيا
-      description: سوق قوي لألواح SUP وملحقات الرياضات المائية. يقدر الموزعون الأستراليون بناء PVC لدينا المقاوم للأشعة فوق البنفسجية في ظروف الشمس القاسية. الشحن السريع من منشأتنا في آسيا.
+    - title: Australia & Oceania
+      description: 'Strong market for pools and water sports accessories. Australian distributors value our UV-resistant PVC construction in harsh sun conditions. Quick shipping from our Asia facility.'
       icon: tabler:map-pin
-    - title: الشرق الأوسط
-      description: تزايد الطلب على معدات المغامرات المائية. تحظى ألواح SUP من الدرجة التجارية ومعدات السلامة لدينا بشعبية كبيرة لدى مشغلي الجولات ومراكز التأجير. تكوينات مخصصة لبيئات درجة الحرارة العالية.
+    - title: Middle East
+      description: 'Growing demand for water adventure equipment. Our commercial-grade pools and safety gear are popular with tour operators and rental centers. Custom configurations for high-temperature environments.'
       icon: tabler:map-pin
 features3_distribution:
-  tagline: شبكة التوزيع
-  title: الشراكة مع الموزعين<br />في جميع أنحاء العالم
-  subtitle: نحن نعمل مع موزعي المعدات البحرية المعتمدين، والعلامات التجارية للرياضات المائية، ووكالات المشتريات الحكومية.
+  tagline: Distribution Network
+  title: 'Partnering with Distributors<br />Worldwide'
+  subtitle: 'We work with established marine equipment distributors, water sports brands, and government procurement agencies.'
   isBeforeContent: false
   columns: 3
   items:
-    - title: برامج العلامة المشتركة
-      description: تصنيع العلامات التجارية الخاصة للعلامات التجارية العالمية للرياضات المائية. نحن نتعامل مع كل شيء بدءًا من التصميم وحتى الإنتاج وحتى الشحن.
+    - title: Co-Brand Programs
+      description: 'Private label manufacturing for global water sports brands. We handle everything from design to production to drop-shipping.'
       icon: tabler:building
-    - title: شبكة الموزعين
-      description: يقوم الموزعون المعتمدون في أكثر من 20 دولة بحمل المخزون وتقديم الدعم المحلي. نرحب باستفسارات الموزعين الجدد.
+    - title: Distributor Network
+      description: 'Authorized distributors in 20+ countries carry stock and provide local support. New distributor inquiries welcome.'
       icon: tabler:users
-    - title: الحكومة والمؤسسات
-      description: الإمداد المباشر لخفر السواحل ومنظمات البحث والإنقاذ وبرامج المشتريات العسكرية. الإمتثال لمتطلبات المشتريات المؤسسية.
+    - title: Government & Institutional
+      description: 'Direct supply to coast guards, search and rescue organizations, and military procurement programs. Compliance with institutional procurement requirements.'
       icon: tabler:building-community
 steps2_logistics:
-  title: الخدمات اللوجستية والدعم العالمي
-  subtitle: من المصنع إلى الوجهة، نقوم بإدارة سلسلة التوريد بأكملها.
+  title: 'Global Logistics & Support'
+  subtitle: 'From factory to destination — we manage the entire supply chain.'
   items:
-    - title: خيارات الشحن
-      description: الشحن البحري (FOB Qingdao)، والشحن الجوي للطلبات العاجلة، والبريد السريع للعينات وقطع الغيار.
+    - title: Shipping Options
+      description: 'Sea freight (FOB Qingdao), air freight for urgent orders, and express courier for samples and spare parts.'
       icon: tabler:truck-delivery
-    - title: مستودع الولايات المتحدة
-      description: 'المخزون موجود في مونتكلير، كاليفورنيا للتوصيل السريع في جميع أنحاء أمريكا الشمالية. الساحل الغربي: 2-3 أيام، الوسط: 3-4 أيام، الساحل الشرقي: 4-5 أيام.'
+    - title: US Warehouse
+      description: 'Stock held in Montclair, CA for fast delivery across North America. West Coast: 2-3 days, Central: 3-4 days, East Coast: 4-5 days.'
       icon: tabler:building-warehouse
-    - title: قطع الغيار
-      description: يتم تخزين قطع الغيار والمواد الاستهلاكية الأصلية على مدار العام. يتم شحن الأجزاء المشتركة خلال 24 ساعة.
+    - title: Spare Parts
+      description: 'Genuine olagoon spare parts and consumables stocked year-round. Common parts ship within 24 hours.'
       icon: tabler:package
-    - title: الدعم الفني
-      description: خط مباشر إلى فريقنا الهندسي لطرح الأسئلة الفنية ونصائح الإصلاح ودعم قطع الغيار البديلة. نحن ندعم الألواح التي بنيناها منذ 20 عامًا.
+    - title: Technical Support
+      description: 'Direct line to our engineering team for technical questions, repair advice, and replacement-part support. We support every pool generation we have built.'
       icon: tabler:headset
 cta:
-  title: هل تريد أن تصبح موزعاً؟
-  subtitle: نحن نعمل بنشاط على توسيع شبكة التوزيع لدينا. اتصل بفريق التصدير لدينا لمناقشة فرص الشراكة.
+  title: 'Want to become a distributor?'
+  subtitle: 'We are actively expanding our distribution network. Contact our export team to discuss partnership opportunities.'
   actions:
     - variant: primary
-      text: استعلام الشراكة
+      text: Partnership inquiry
       href: /contact/
-    - text: مجموعة منتجاتنا
+    - text: View our product range
       href: /products/

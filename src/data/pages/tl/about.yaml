@@ -1,122 +1,122 @@
 meta:
-  title: 'Tungkol sa OLagoon — Brand ng Inflatable SUP at Water Sports | {SITE}'
-  description: 'Ang OLagoon ay isang pandaigdigang brand ng inflatable SUP at water sports, na pinapatakbo ng Olagoon LLC at itinayo ng aming Qingdao Operation Team. Tuklasin ang aming kuwento, engineering, sertipikadong kalidad, at mga programang country partner.'
+  title: 'About OLagoon — inflatable pools & Water Sports Brand | {SITE}'
+  description: 'OLagoon is a global inflatable pools and water sports brand, operated by Olagoon LLC and built by our Qingdao Operation Team. Discover our story, engineering, certified quality, and country partner programs.'
   keywords:
-    - 'brand ng inflatable SUP'
-    - 'brand ng water sports'
-    - 'country sup distributor'
-    - 'mga co-branded na koleksyon ng sup'
+    - 'inflatable pools brand'
+    - 'water sports brand'
+    - 'country pool distributor'
+    - 'co-branded pool collections'
 hero:
-  tagline: 'Tungkol sa amin'
+  tagline: About us
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'pabrika at workshop ng olagoon'
+    alt: olagoon factory and workshop
   title: |
     Marine engineering, <br />
-    itinayo sa paraang <span class="text-accent dark:text-white">olagoon</span>
-  subtitle: 'Nagsimula kami sa isang coastal workshop na may isang board at isang matibay na paniniwala: ang mga marine na produkto ay dapat i-engineer na para bang mahalaga ang mga ito, dahil mahalaga nga. Ngayon ay nagpapadala kami sa mahigit 40 bansa, ngunit bawat hull ay dumadaan pa rin sa parehong mga kamay na nagsimula ng kumpanya.'
+    built the <span class="text-accent dark:text-white">olagoon</span> way
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
 
 stats:
-  title: 'Sa mga numero'
+  title: By the numbers
   columns: 4
   stats:
-    - title: 'Mga hull na naihatid'
+    - title: Hulls delivered
       amount: '2,400+'
-    - title: 'Mga bansang pinagpadalaan'
+    - title: Countries shipped
       amount: '40'
-    - title: 'Taon ng pinagsamang karanasan'
+    - title: Years of combined experience
       amount: '60'
-    - title: 'Karaniwang tugon sa warranty (oras)'
+    - title: Average warranty response (hours)
       amount: '24'
 
 features3_what_we_build:
-  title: 'Ano ang aming ginagawa'
-  subtitle: 'Nagsimula kami sa isang coastal workshop na may isang board at isang matibay na paniniwala: ang mga marine na produkto ay dapat i-engineer na para bang mahalaga ang mga ito, dahil mahalaga nga. Ngayon ay nagpapadala kami sa mahigit 40 bansa, ngunit bawat hull ay dumadaan pa rin sa parehong mga kamay na nagsimula ng kumpanya.'
+  title: What we build
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
   columns: 3
   isBeforeContent: true
   items:
-    - title: 'Mga SUP board'
-      description: 'Mga inflatable SUP board mula 9 ft hanggang 12 ft. Dinisenyo para sa touring, yoga, pangingisda at paggamit ng pamilya.'
+    - title: pools
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:ship
-    - title: 'Mga inflatable SUP'
-      description: 'Mga PVC inflatable SUP board mula 9 ft hanggang 12 ft. Magaan, matibay at madaling itago.'
+    - title: inflatable pools
+      description: PVC inflatable pools from 9 ft to 12 ft. Light, tough and easy to stow.
       icon: tabler:rowing
-    - title: 'Mga premium na SUP package'
-      description: 'Compact at high-spec na mga SUP na custom-built upang tumugma sa iyong brand o mga kinakailangan ng fleet.'
+    - title: Premium pool packages
+      description: Compact, high-spec pools custom-built to match your brand or fleet requirements.
       icon: tabler:crown
 
 features3_more:
   columns: 3
   isAfterContent: true
   items:
-    - title: 'Mga Accessory'
-      description: 'Mga sagwan, pump, cover, dry-bag at electronics. Lahat ay tugma sa aming mga board.'
+    - title: Accessories
+      description: Filters, pumps, covers, and accessories. All matched to our pools.
       icon: tabler:package
-    - title: 'Pagkukumpuni at serbisyo'
-      description: 'Pagkukumpuni ng board sa loob, pagpapalit ng pad at pag-upgrade ng accessory.'
+    - title: Repair & service
+      description: In-house pool repair, liner replacement and accessory upgrades.
       icon: tabler:tool
-    - title: 'Mga custom build'
-      description: 'Disenyo bawat proyekto para sa mga komersyal, siyentipiko at military na customer.'
+    - title: Custom builds
+      description: Project-by-project design for commercial, scientific and military customers.
       icon: tabler:hammer
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-    alt: 'Pagtalakay sa disenyo at engineering ng board'
+    alt: Pool design and engineering discussion
 
 steps2_values:
-  title: 'Aming mga pagpapahalaga'
-  subtitle: 'Tatlong prinsipyong humubog sa bawat produkto mula pa noong unang araw.'
+  title: Our values
+  subtitle: Three principles that have shaped every product since day one.
   items:
-    - title: 'Itayo na parang dala-dala mo ang iyong pamilya'
-      description: 'Bawat hull, weld at fastener ay trinato na parang ang aming sariling pamilya ang gagamit.'
+    - title: Build like it carries your family
+      description: Every hull, weld and fastener is treated as if our own families will use it.
       icon: tabler:heart
-    - title: 'I-engineer bago magbenta'
-      description: 'Mga inflatable SUP board mula 9 ft hanggang 12 ft. Dinisenyo para sa touring, yoga, pangingisda at paggamit ng pamilya.'
+    - title: Engineer before we sell
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:settings
-    - title: 'Suportang umaabot nang lampas sa warranty'
-      description: 'Ang mga hull na dalawampung taon na ay tumatawag pa rin sa amin para sa spare parts, at sinasagot pa rin namin.'
+    - title: Support that outlasts the warranty
+      description: Twenty-year-old hulls still call us for spare parts, and we still pick up.
       icon: tabler:headset
 
 steps2_milestones:
-  title: 'Mga Milestone'
-  subtitle: 'Isang maikling bersyon ng kuwento ng olagoon.'
+  title: Milestones
+  subtitle: A short version of the olagoon story.
   isReversed: true
   items:
-    - title: 'Itinatag sa isang coastal workshop'
-      description: 'Sinimulan ng dalawang marine engineer na may isang CNC mill at isang matibay na ideya.'
+    - title: Founded in a coastal workshop
+      description: Started by two marine engineers with a CNC mill and a stubborn idea.
       icon: tabler:building-factory
-    - title: 'Unang 1,000 hull na naihatid'
-      description: 'Nakamit sa aming ikapitong taon, karamihan sa pamamagitan ng word of mouth at mga suki.'
+    - title: First 1,000 hulls delivered
+      description: Reached in our seventh year, mostly through word of mouth and repeat customers.
       icon: tabler:circle-check
-    - title: 'Programa ng pandaigdigang export'
-      description: 'Ngayon ay nagpapadala sa 40+ bansa na may lokal na support partner sa limang kontinente.'
+    - title: International export programme
+      description: Now shipping to 40+ countries with localised support partners on five continents.
       icon: tabler:world
 
 features2_locations:
-  title: 'Aming mga lokasyon'
-  tagline: 'Hanapin kami'
+  title: Our locations
+  tagline: Find us
   columns: 3
   items:
-    - title: 'Headquarters at workshop'
-      description: 'Mga inflatable SUP board mula 9 ft hanggang 12 ft. Dinisenyo para sa touring, yoga, pangingisda at paggamit ng pamilya.'
-    - title: 'EU service centre'
-      description: 'Mga inflatable SUP board mula 9 ft hanggang 12 ft. Dinisenyo para sa touring, yoga, pangingisda at paggamit ng pamilya.'
-    - title: 'APAC partner network'
-      description: 'Mga awtorisadong service partner sa Australia, Japan, Singapore at Hong Kong.'
+    - title: Headquarters & workshop
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: EU service centre
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: APAC partner network
+      description: Authorised service partners in Australia, Japan, Singapore and Hong Kong.
 
-brand_hub_tagline: 'Brand'
-brand_hub_title: 'Tuklasin Ang Aming Brand'
-brand_hub_subtitle: 'Lumalim pa sa aming kaalaman sa SUP engineering, pandaigdigang presensya, at mga prinsipyong nagtutulak sa amin.'
+brand_hub_tagline: Brand
+brand_hub_title: Explore Our Brand
+brand_hub_subtitle: Dive deeper into our pool engineering expertise, global presence, and the principles that drive us.
 
 brand_hub_cards:
-  - title: 'Kaalaman sa Marine'
-    desc: 'Dekada ng material science, precision manufacturing, at pagsubok sa tunay na mundo — mula PVC fabrication hanggang deep-V hull design at drop-stitch technology.'
+  - title: Marine Expertise
+    desc: Decades of material science, precision manufacturing, and real-world testing — from PVC fabrication to deep-V hull design and drop-stitch technology.
     link: /brand-marine-expertise/
-    link_label: 'Alamin pa →'
-  - title: 'Pandaigdigang Presensya'
-    desc: 'Nagpapadala sa 50+ bansa mula sa aming pasilidad sa Qingdao na may awtorisadong service partner sa buong Europa, Asia-Pacific, at Americas.'
+    link_label: 'Learn more →'
+  - title: Global Presence
+    desc: Shipping to 50+ countries from our Qingdao facility with authorized service partners across Europe, Asia-Pacific, and the Americas.
     link: /brand-global-presence/
-    link_label: 'Alamin pa →'
-  - title: 'Bakit olagoon'
-    desc: 'Isang brand na nakabatay sa beripikadong kalidad — dobleng sertipikasyon (ISO 9001 + BSCI), pagsunod sa CE, at mga eksklusibong country partnership na may limitadong co-branded na koleksyon para sa mga negosyo ng water sports.'
+    link_label: 'Learn more →'
+  - title: Why olagoon
+    desc: A brand built on verified quality — dual certification (ISO 9001 + BSCI), CE compliance, and exclusive country partnerships with limited co-branded collections for water-sports businesses.
     link: /brand-why-olagoon/
-    link_label: 'Alamin pa →'
+    link_label: 'Learn more →'

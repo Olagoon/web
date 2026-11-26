@@ -1,85 +1,85 @@
 meta:
-  title: 'Echipa noastră — ingineri marini și constructori | {SITE}'
-  description: 'Fondat în 2012 la Qingdao, olagoon a fost construit de ingineri marini, specialiști în materiale și pasionați de sporturi nautice. Cunoașteți echipa din spatele fabricii.'
+  title: 'Our Team — Marine Engineers & Builders | {SITE}'
+  description: 'Founded in 2012 in Qingdao, olagoon was built by marine engineers, material scientists, and water sports enthusiasts. Meet the team behind the factory.'
   keywords:
-    - 'echipa olagoon'
-    - 'ingineri marini'
-    - 'producător plăci de SUP gonflabile'
-    - 'echipa fabricii SUP'
+    - 'olagoon team'
+    - 'marine engineers'
+    - 'inflatable pools manufacturer'
+    - 'pool factory team'
 hero:
-  tagline: Echipa noastră
-  title: Oamenii din spatele olagoon<br />— ingineria libertății pe apă
-  subtitle: Fondată în 2012 în Qingdao, China, olagoon a fost construită de ingineri marini, oameni de știință în materiale și entuziaști ai sporturilor nautice care au crezut în a face plăcile inflabile de calitate profesională accesibile la nivel mondial.
+  tagline: Our Team
+  title: 'The People Behind olagoon<br />— Engineering Freedom on Water'
+  subtitle: 'Founded in 2012 in Qingdao, China, olagoon was built by marine engineers, material scientists, and water sports enthusiasts who believed in making professional-grade inflatable watercraft accessible worldwide.'
   image:
     src: /images/team-all.webp
-    alt: fotografia întregii echipe olagoon — inginerie, producție și conducere
+    alt: olagoon full team photo — engineering, production, and leadership
 founding:
-  tagline: Începuturile noastre
-  title: De la un atelier de coastă<br />la o facilitate de 12.000 m²
-  subtitle: olagoon a fost fondată de o echipă de ingineri marini cu decenii de experiență combinată în proiectarea plăcilor SUP gonflabile, fabricarea PVC și fabricarea globală de echipamente marine.
+  tagline: Our Founding
+  title: 'From a Coastal Workshop<br />to a 12,000 m² Facility'
+  subtitle: 'olagoon was founded by a team of marine engineers with decades of combined experience in inflatable pools design, PVC fabrication, and global marine equipment manufacturing.'
   items:
-    - title: 'Fondată: 2012'
-      description: Fondată în Qingdao, China — un important hub maritim cu o moștenire profundă în construcții navale.
+    - title: 'Founded: 2012'
+      description: 'Established in Qingdao, China — a major maritime hub with deep shipbuilding heritage.'
       icon: tabler:calendar
-    - title: Peste 200 de angajați
-      description: Inclusiv peste 50 de ingineri R&D, specialiști în controlul calității și tehnicieni de producție.
+    - title: '200+ Employees'
+      description: 'Including 50+ R&D engineers, quality control specialists, and production technicians.'
       icon: tabler:users
-    - title: Facilitate de 12,000 m²
-      description: Uzină de producție dedicată cu 6 linii de producție pentru plăci SUP gonflabile.
+    - title: '12,000 m² Facility'
+      description: 'Dedicated manufacturing plant with 6 production lines for inflatable pools.'
       icon: tabler:building-factory
-    - title: Peste 50 de țări deservite
-      description: Export în Europa, Americi, Orientul Mijlociu, Asia-Pacific și Africa.
+    - title: '50+ Countries Served'
+      description: 'Exporting to Europe, Americas, Middle East, Asia-Pacific, and Africa.'
       icon: tabler:globe
 leadership:
-  tagline: Conducere
-  title: Conducere și leadership ingineresc
-  subtitle: Echipa noastră de conducere reunește expertiză profundă în inginerie marină, comerț internațional și management al calității.
+  tagline: Leadership
+  title: 'Management & Engineering Leadership'
+  subtitle: 'Our leadership team brings together deep expertise in marine engineering, international trade, and quality management.'
   columns: 3
   items:
-    - title: Fondator și CEO
-      name: Toby Liu
-      description: Peste 15 ani în producția nautică. Anterior a condus departamentul R&D la un mare producător chinez de sporturi cu vâsla. Deține mai multe brevete în designul plăcilor SUP gonflabile.
+    - title: 'Founder & CEO'
+      name: 'Toby Liu'
+      description: '15+ years in marine manufacturing. Previously led R&D at a major Chinese inflatable products manufacturer. Holds multiple patents in inflatable pools design.'
       icon: tabler:crown
       image: https://assets.olagoon.com/images/olagoon/team/olagoon-toby-liu-team.webp
-    - title: Inginer șef
-      name: Zhang Wei
-      description: Peste 20 de ani de experiență în fabricația din PVC și proiectarea drop-stitch. Fost director tehnic la o marcă europeană de sporturi cu vâsla.
+    - title: 'Chief Engineer'
+      name: 'Zhang Wei'
+      description: '20+ years in PVC fabrication and drop-stitch design. Former technical director at a European inflatable products brand.'
       icon: tabler:engine
-      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
-    - title: Director R&D
-      name: Chen Ming
-      description: Doctorat în Știința Materialelor. Se specializează în tehnologia drop-stitch și procesele de sudură de înaltă frecvență. Peste 10 ani în compozite textile.
+      image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
+    - title: 'Head of R&D'
+      name: 'Chen Ming'
+      description: 'PhD in Materials Science. Specializes in drop-stitch technology and high-frequency welding processes. 10+ years in textile composites.'
       icon: tabler:flask
-      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
-    - title: Director de producție
-      name: Liu Qiang
-      description: Peste 18 ani în producție lean și optimizarea liniilor de producție. Black Belt Six Sigma. Sisteme de calitate ISO 9001 implementate.
+      image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
+    - title: 'Production Director'
+      name: 'Liu Qiang'
+      description: '18+ years in lean manufacturing and production line optimization. Six Sigma Black Belt. Implemented ISO 9001 quality systems.'
       icon: tabler:settings
-      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
-    - title: Manager de calitate
-      name: Wang Fang
-      description: Peste 12 ani de experiență în controlul calității în domeniul marin. Auditor certificat CE și ISO. Supraveghează testarea fiecărui lot de producție.
+      image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
+    - title: 'Quality Manager'
+      name: 'Wang Fang'
+      description: '12+ years in marine quality control. Certified CE and ISO auditor. Oversees testing for every production batch.'
       icon: tabler:shield-check
-      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
-    - title: Director de vânzări și operațiuni
-      name: Helen Lee
-      description: Peste 15 ani în comerțul internațional B2B. Am gestionat parteneriate co-brand și de distribuție în peste 30 de țări. Fluent în 4 limbi.
+      image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
+    - title: 'Sales & Operations Director'
+      name: 'Helen Lee'
+      description: '15+ years in international B2B trade. Managed co-brand and distribution partnerships across 30+ countries. Fluent in 4 languages.'
       icon: tabler:briefcase
       image: https://assets.olagoon.com/images/olagoon/team/olagoon-helen-contact-sales.webp
 philosophy:
-  tagline: Filosofia de design
-  title: Design condus de inginerie<br />— fiecare detaliu contează
-  subtitle: Filosofia noastră inginerească se concentrează pe trei principii care ghidează fiecare produs pe care îl construim.
+  tagline: Design Philosophy
+  title: 'Engineering-Led Design<br />— Every Detail Matters'
+  subtitle: 'Our engineering philosophy centers on three principles that guide every product we build.'
   list:
-    - 'Fiabilitatea pe primul loc: fiecare produs olagoon este testat să reziste în condiții reale — de la operațiuni de salvare în ape reci până la închirieri în stațiuni tropicale. Supradimensionăm exact acolo unde contează cel mai mult.'
-    - 'Precizie de fabricație: facilitățile noastre utilizează tăiere CNC, sudare de înaltă frecvență și testare automată a presiunii. Fiecare cusătură, fiecare valvă, fiecare racord respectă specificațiile documentate.'
-    - 'Inovație continuă: echipa noastră de cercetare și dezvoltare evaluează constant materiale noi, metode de producție și îmbunătățiri de design. Nu așteptăm să apară problemele — le anticipăm.'
+    - 'Reliability First: Every olagoon product is tested to withstand real-world conditions — from cold-water rescue operations to tropical resort rentals. We over-engineer where it matters most.'
+    - 'Manufacturing Precision: Our facilities use CNC cutting, high-frequency welding, and automated pressure testing. Every seam, every valve, every fitting meets documented specifications.'
+    - 'Continuous Innovation: Our R&D team evaluates new materials, production methods, and design improvements continuously. We do not wait for problems — we anticipate them.'
 cta:
-  title: Doriți să discutați un proiect cu echipa noastră?
-  subtitle: Inginerii noștri sunt gata să consilieze cu privire la selecția produsului, personalizare și co-brand collections.
+  title: 'Want to discuss a project with our team?'
+  subtitle: 'Our engineers are ready to advise on product selection, customization, and co-branded collections.'
   actions:
     - variant: primary
-      text: Contactează echipa noastră
+      text: Contact our team
       href: /contact/
-    - text: Vezi produsele noastre
+    - text: View our products
       href: /products/

@@ -1,86 +1,86 @@
 meta:
-  title: 'Presença Global — Fabricante de SUP que Atende 50+ Países | {SITE}'
-  description: 'A olagoon exporta SUPs infláveis para mais de 50 países em todos os continentes. Fabricante e fornecedor profissional para marcas, distribuidores e frotas.'
+  title: 'Global Presence — pool Manufacturer Serving 50+ Countries | {SITE}'
+  description: 'olagoon exports inflatable pools to 50+ countries across every continent. Professional manufacturer and supplier for brands, distributors, and fleets.'
   keywords:
-    - 'fabricante global de SUP'
-    - 'exportador de paddle board'
-    - 'fábrica de SUP na China'
-    - 'fornecedor profissional de SUP'
+    - 'global pool manufacturer'
+    - 'inflatable pool exporter'
+    - 'pool factory china'
+    - 'professional pool supplier'
 hero:
-  tagline: Presença Global
-  title: Atendendo 50+ Países<br />em Cada Continente
-  subtitle: De operadores de patrulha costeira europeus a distribuidores australianos de esportes aquáticos a equipes de resgate do Oriente Médio — as pranchas olagoon estão na água no mundo todo.
+  tagline: Global Presence
+  title: 'Serving 50+ Countries<br />Across Every Continent'
+  subtitle: 'From European resort operators to Australian outdoor retailers to Middle East hospitality groups — OLagoon pools are in backyards worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: fabricação e distribuição marítima global olagoon
+    alt: olagoon global marine manufacturing and distribution
 stats:
-  title: Alcance Global
+  title: Global Reach
   stats:
-    - title: Países
+    - title: Countries
       amount: '50+'
-    - title: Mercados de Exportação
-      amount: Europa, Américas, Ásia, Oriente Médio, Oceania
-    - title: Produção
+    - title: Export Markets
+      amount: Europe, Americas, Asia, Middle East, Oceania
+    - title: Production
       amount: Qingdao, China
-    - title: Armazém dos EUA
+    - title: US Warehouse
       amount: Montclair, CA
 features3_markets:
-  tagline: Principais Mercados
-  title: Expertise Regional<br />para Requisitos Locais
-  subtitle: Entendemos que mercados têm diferentes requisitos e preferências.
+  tagline: Key Markets
+  title: 'Regional Expertise<br />for Local Requirements'
+  subtitle: 'We understand that different markets have different regulatory requirements, preferences, and use cases.'
   isBeforeContent: false
   columns: 4
   items:
-    - title: Europa e Reino Unido
-      description: Produtos certificados CE. Forte demanda por pranchas SUP nos mercados da UE.
+    - title: Europe & UK
+      description: 'CE-certified products. Strong demand for pools across EU markets. UK distributors appreciate our quick turnaround.'
       icon: tabler:map-pin
-    - title: América do Norte
-      description: Fabricação aprovada pela USCG. Armazém em Montclair, CA.
+    - title: North America
+      description: 'US Coast Guard approved manufacturing. US warehouse in Montclair, CA for fast West Coast delivery. Growing demand for fishing, rescue, and recreational pools.'
       icon: tabler:map-pin
-    - title: Austrália e Oceania
-      description: Mercado forte para pranchas SUP e acessórios de desportos aquáticos. Os distribuidores australianos valorizam a nossa construção em PVC resistente aos UV.
+    - title: Australia & Oceania
+      description: 'Strong market for pools and water sports accessories. Australian distributors value our UV-resistant PVC construction in harsh sun conditions. Quick shipping from our Asia facility.'
       icon: tabler:map-pin
-    - title: Oriente Médio
-      description: Procura crescente de equipamento de desportos aquáticos. Os nossos SUPs de grau comercial e equipamento de segurança são populares entre operadores turísticos e centros de aluguer. Configurações personalizadas para ambientes de alta temperatura.
+    - title: Middle East
+      description: 'Growing demand for water adventure equipment. Our commercial-grade pools and safety gear are popular with tour operators and rental centers. Custom configurations for high-temperature environments.'
       icon: tabler:map-pin
 features3_distribution:
-  tagline: Rede de Distribuição
-  title: Parceria com Distribuidores<br />Mundialmente
-  subtitle: Trabalhamos com distribuidores de equipamentos marinhos, marcas de esportes aquáticos e agências.
+  tagline: Distribution Network
+  title: 'Partnering with Distributors<br />Worldwide'
+  subtitle: 'We work with established marine equipment distributors, water sports brands, and government procurement agencies.'
   isBeforeContent: false
   columns: 3
   items:
-    - title: Programas Co-Brand
-      description: Fabricação de marca própria para marcas globais. Tudo do design ao drop-shipping.
+    - title: Co-Brand Programs
+      description: 'Private label manufacturing for global water sports brands. We handle everything from design to production to drop-shipping.'
       icon: tabler:building
-    - title: Rede de Distribuidores
-      description: Distribuidores autorizados em 20+ países com estoque e suporte local.
+    - title: Distributor Network
+      description: 'Authorized distributors in 20+ countries carry stock and provide local support. New distributor inquiries welcome.'
       icon: tabler:users
-    - title: Governo e Institucional
-      description: Fornecimento direto a guardas costeiras, organizações de resgate e programas militares.
+    - title: Government & Institutional
+      description: 'Direct supply to coast guards, search and rescue organizations, and military procurement programs. Compliance with institutional procurement requirements.'
       icon: tabler:building-community
 steps2_logistics:
-  title: Logística & Suporte Global
-  subtitle: Da fábrica ao destino – gerenciamos toda a cadeia.
+  title: 'Global Logistics & Support'
+  subtitle: 'From factory to destination — we manage the entire supply chain.'
   items:
-    - title: Opções de envio
-      description: Frete marítimo (FOB Qingdao), aéreo para urgências, courier para amostras.
+    - title: Shipping Options
+      description: 'Sea freight (FOB Qingdao), air freight for urgent orders, and express courier for samples and spare parts.'
       icon: tabler:truck-delivery
-    - title: Armazém dos EUA
-      description: Estoque em Montclair, CA para entrega rápida na América do Norte.
+    - title: US Warehouse
+      description: 'Stock held in Montclair, CA for fast delivery across North America. West Coast: 2-3 days, Central: 3-4 days, East Coast: 4-5 days.'
       icon: tabler:building-warehouse
-    - title: Peças de reposição
-      description: Peças originais olagoon em estoque o ano todo.
+    - title: Spare Parts
+      description: 'Genuine olagoon spare parts and consumables stocked year-round. Common parts ship within 24 hours.'
       icon: tabler:package
-    - title: Suporte Técnico
-      description: Linha direta para nossa equipe de engenharia para perguntas técnicas.
+    - title: Technical Support
+      description: 'Direct line to our engineering team for technical questions, repair advice, and replacement-part support. We support every pool generation we have built.'
       icon: tabler:headset
 cta:
-  title: Quer se tornar distribuidor?
-  subtitle: Estamos expandindo ativamente nossa rede de distribuição.
+  title: 'Want to become a distributor?'
+  subtitle: 'We are actively expanding our distribution network. Contact our export team to discuss partnership opportunities.'
   actions:
     - variant: primary
-      text: Consulta de parceria
+      text: Partnership inquiry
       href: /contact/
-    - text: Veja nossa linha de produtos
+    - text: View our product range
       href: /products/

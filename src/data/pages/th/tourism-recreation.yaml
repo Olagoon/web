@@ -1,91 +1,69 @@
 meta:
-  title: 'การท่องเที่ยวและสันทนาการ — SUP แบบเป่าลม | {SITE}'
-  description: 'อุปกรณ์ทางทะเลสำหรับการท่องเที่ยวและสันทนาการ: SUP แบบเป่าลมและอุปกรณ์เสริมสำหรับทะเลสาบ ทะเล และกิจกรรมกลางแจ้ง ตั้งแต่ทริปนำเที่ยวไปจนถึงการล่องเลียบชายฝั่ง'
+  title: 'Pools for Holidays, Vacation Homes & Recreation | {SITE}'
+  description: 'Drop-stitch pools for tourism and recreation: portable backyard pools for vacation homes, holiday parks, and seasonal getaways. Set up anywhere in under 30 minutes.'
   keywords:
-    - 'sup ท่องเที่ยว'
-    - 'sup เป่าลมเพื่อนันทนาการ'
-    - 'sup เป่าลมสำหรับงานอดิเรก'
-    - 'อุปกรณ์เช่า sup'
-label: กรณีการใช้งาน
-headline: แพดเดิลบอร์ดสำหรับวันหยุด การเดินทาง และวันสนุกบนน้ำ
-subtitle: ตั้งแต่ทริปตกปลาพร้อมไกด์ไปจนถึงการล่องเลียบชายฝั่ง olagoon กำหนดมาตรฐานด้านความทนทาน ความปลอดภัย และสมรรถนะของ SUP แบบเป่าลม
+    - 'portable pool'
+    - 'vacation home pool'
+    - 'recreational drop stitch pool'
+    - 'seasonal pool'
+label: 'Use Case'
+headline: 'Pools for Holidays, Vacation Homes & Days in the Sun'
+subtitle: 'From weekend cabins to holiday parks, OLagoon sets the benchmark for durability, safety, and value in drop-stitch portable pools.'
 seo:
-  headline: 'SUP เป่าลมสำหรับท่องเที่ยวและพักผ่อน: คู่มือฉบับสมบูรณ์'
-  description: 'ค้นพบ SUP เป่าลมที่ใช่สำหรับวันหยุดและทริปของคุณ — บอร์ดอเนกประสงค์ บอร์ดทัวริ่ง และบอร์ดตกปลา สำหรับทะเลสาบ แม่น้ำ และชายฝั่ง ใส่กระโปรงหลังรถ ส่งเป็นสัมภาระเครื่องบิน แล้วพายได้ทุกที่'
+  headline: 'Portable Pools for Tourism & Recreation: The Complete Guide'
+  description: 'Discover the right drop-stitch pool for vacation homes, holiday rentals, and seasonal recreation — three sizes, matched filtration, and a 2-year warranty. Set up anywhere in under 30 minutes.'
   datePublished: '2024-06-01'
   dateModified: '2026-06-01'
 faqs:
-  - question: SUP แบบไหนเหมาะกับวันหยุดและการเดินทางที่สุด?
-    answer: สำหรับคนส่วนใหญ่ SUP เป่าลมแบบอเนกประสงค์คือตัวเลือกที่ดีที่สุด — นิ่ง ให้อภัยง่าย และพกพาสะดวก สำหรับทริปยาวหรือผจญภัยหลายวัน บอร์ดทัวริ่งจะได้ทิศทางตรงกว่าและบรรทุกของได้มากกว่า ส่วนบอร์ดตกปลามีที่เสียบคันเบ็ดและแพลตฟอร์มที่นิ่ง
-  - question: olagoon ใช้วัสดุใดในการผลิต SUP แบบเป่าลมระดับการท่องเที่ยว?
-    answer: >-
-      เราใช้ PVC เกรดมารีนที่มีความต้านทานแรงดึงสูงพร้อมชั้นเคลือบหลายชั้น เพื่อความต้านทานรังสี UV ความต้านทานการสึกหรอ และอายุการใช้งานที่ยาวนานอย่างเหนือชั้น ผ้าทุกชนิดมาจากซัพพลายเออร์ระดับโลกที่ได้รับการยอมรับ และผ่านการตรวจสอบขาเข้าอย่างเข้มงวด
-  - question: olagoon มีการรับรอง CE สำหรับ SUP เพื่อนันทนาการหรือไม่?
-    answer: ใช่ ทุกบอร์ด olagoon ได้รับการรับรอง CE และโรงงานของเราได้รับการรับรอง ISO 9001 — ซื้อได้อย่างมั่นใจไม่ว่าคุณจะพายที่ไหน
-  - question: ติดตั้งอุปกรณ์และของใช้กับบอร์ดได้ไหม?
-    answer: ได้ ห่วง D ใช้ร้อยถุงกันน้ำ กล่องเย็น หรือเบาะคายัคได้ และช่องเก็บของแบบยางยืดที่หัวบอร์ดทำให้หยิบของได้สะดวก รุ่นตกปลาเพิ่มที่เสียบคันเบ็ดและจุดยึดอุปกรณ์
-  - question: การรับประกันสำหรับ SUP การท่องเที่ยวและสันทนาการของ olagoon เป็นอย่างไร?
-    answer: SUP เป่าลมของ olagoon มีประกันจำกัด 3 ปีครอบคลุมข้อบกพร่องจากวัสดุและการผลิต พร้อมทีมช่วยเหลือรวดเร็วหากมีปัญหา
-body: >
-  <h2>มาตรฐาน olagoon — ความมุ่งมั่นต่องานฝีมือทางทะเลอันไร้ที่ติ</h2>
+  - question: Which pool size is best for a vacation home?
+    answer: 'For most vacation properties, the Family Oasis (3 m × 2 m) is the best choice — big enough for the whole family, small enough to store in a closet over winter. Couples and small cabins love the Compact Plunge (2 m × 1.5 m), while larger properties host the whole lake house with the Grand Lagoon (5 m × 2.5 m).'
+  - question: What materials does OLagoon use for its pools?
+    answer: 'We use marine-grade high-tensile PVC with multi-layer coatings for superior UV resistance, abrasion resistance, and longevity. All fabrics are sourced from reputable global suppliers and undergo rigorous incoming inspection.'
+  - question: Does OLagoon provide CE certification for its pools?
+    answer: 'Yes. OLagoon pools are built in an ISO 9001 certified facility and meet applicable European safety standards, so you can buy with confidence wherever you install your pool.'
+  - question: How long does setup really take?
+    answer: 'Plan on under 30 minutes from box to filling: roll the pool out on a prepared surface, inflate the 20 cm walls with the included pump, connect the filter, and start filling. No tools and no professional installation are required.'
+  - question: What is the warranty on OLagoon pools?
+    answer: 'OLagoon pools come with a 2-year limited warranty covering defects in materials and workmanship, plus responsive support if anything goes wrong.'
+body: |
+  <h2>The OLagoon Standard — A Commitment to Flawless Drop-Stitch Craftsmanship</h2>
+  <p>In the world of seasonal recreation, the portable drop-stitch pool stands as a testament to versatility, convenience, and accessibility. From weekend cabins to holiday parks and vacation rentals, a pool that sets up in minutes transforms any property into a destination.</p>
+  <p>However, not all portable pools are created equal. The true measure of a pool lies not just in its intended application, but in the integrity of its construction, the quality of its materials, and the precision of its design. OLagoon distinguishes itself as a premier designer and manufacturer, producing drop-stitch pools that are engineered for excellence across every tourism and recreation segment.</p>
 
-  <p>ในโลกอันกว้างใหญ่และเปลี่ยนแปลงตลอดเวลาของกิจกรรมสันทนาการทางทะเล SUP แบบเป่าลมคือพยานถึงความหลากหลาย ความสะดวก และการเข้าถึงได้ง่าย ตั้งแต่การตกปลาอย่างสงบสุขบนทะเลสาบนิ่ง ๆ ไปจนถึงการล่องเลียบชายฝั่งอย่างผ่อนคลาย SUP แบบเป่าลมตอบโจทย์การใช้งานได้นับไม่ถ้วน</p>
-
-  <p>อย่างไรก็ตาม SUP แบบเป่าลมไม่ได้มีคุณภาพเท่ากันทั้งหมด คุณค่าที่แท้จริงของ SUP แบบเป่าลมไม่ได้อยู่เพียงที่การใช้งานที่กำหนดไว้ หากแต่อยู่ที่ความแข็งแรงของโครงสร้าง คุณภาพของวัสดุ และความแม่นยำของการออกแบบ olagoon โดดเด่นในฐานะผู้ออกแบบและผู้ผลิตระดับพรีเมียม ที่สร้าง SUP แบบเป่าลมซึ่งออกแบบมาเพื่อความเป็นเลิศในทุกกลุ่มของการท่องเที่ยวและสันทนาการ</p>
-
-
-  <h2>วิทยาศาสตร์วัสดุ: รากฐานแห่งความทนทาน</h2>
-
-  <p>การเลือกวัสดุเป็นปัจจัยสำคัญที่สุดในการกำหนดอายุการใช้งานและสมรรถนะของ SUP แบบเป่าลม olagoon ลงทุนทรัพยากรอย่างมากในการค้นหา ทดสอบ และจัดหาผ้าและชิ้นส่วนที่ดีที่สุดที่มีอยู่ทั่วโลก</p>
-
+  <h2>Material Science: The Foundation of Durability</h2>
+  <p>The choice of materials is the most critical factor in determining a pool's longevity and performance. OLagoon invests considerable resources in identifying, testing, and procuring the finest fabrics and components available globally.</p>
   <ul>
-    <li><strong>การจัดหาผ้าระดับเหนือชั้น:</strong> PVC เกรดมารีนที่มีความต้านทานแรงดึงสูงพร้อมชั้นเคลือบหลายชั้น คัดเลือกเพื่อความทนทาน ความต้านทานรังสี UV และความต้านทานการสึกหรอที่เหนือกว่า</li>
-    <li><strong>โครงสร้าง Drop-Stitch:</strong> เส้นใยโพลีเอสเทอร์ภายในหลายพันเส้นเชื่อมชั้นบนและชั้นล่างเข้าด้วยกัน สร้างโครงสร้างที่แข็งแรงที่ความดัน 12–15 PSI</li>
-    <li><strong>รอยต่อเชื่อมด้วยความร้อน:</strong> โครงสร้าง PVC ของเราใช้รอยต่อเชื่อมด้วยความร้อนเท่านั้น (การเชื่อม RF) ซึ่งสร้างจุดเชื่อมที่แข็งแรง ป้องกันอากาศรั่วซึม และเหนือกว่าข้อกำหนด ISO</li>
-    <li><strong>การป้องกันรังสี UV แบบขยาย:</strong> ผ้า PVC พร้อมการรับประกันการป้องกัน UV สำหรับ SUP ที่มักสัมผัสแสงแดดจัด</li>
+    <li><strong>Superior Fabric Sourcing:</strong> Marine-grade, high-tensile strength PVC with multi-layer coatings, selected for enhanced durability, UV resistance, and abrasion resistance.</li>
+    <li><strong>Drop-Stitch Construction:</strong> Thousands of internal polyester threads connect top and bottom layers, creating rigid 20 cm walls at 10–15 PSI.</li>
+    <li><strong>Thermo-Welded Seams:</strong> Our PVC constructions exclusively use thermo-welded seams (RF welding) that produce high-strength, airtight bonds exceeding industry requirements.</li>
+    <li><strong>Extended UV Protection:</strong> PVC fabrics with UV stabilization for pools exposed to harsh sunlight all season long.</li>
   </ul>
 
+  <h2>Design Philosophy: Precision Engineering for Every Property</h2>
+  <p>Our design team comprises experienced inflatable engineers and materials specialists who leverage advanced CAD software and real-world testing to create pools that are structurally rigid, exceptionally stable, and robust.</p>
 
-  <h2>ปรัชญาการออกแบบ: วิศวกรรมความแม่นยำสำหรับทุกกลุ่มผลิตภัณฑ์</h2>
+  <h3>Compact Plunge — Cabins & Couples</h3>
+  <p>The 2 m × 1.5 m plunge pool fits the smallest decks and patios. Perfect for cooling off after a hike or a quiet soak at the cabin, it stores in a closet between visits.</p>
 
-  <p>ทีมออกแบบของเราประกอบด้วยผู้ออกแบบบอร์ดผู้ช่ำชองและผู้เชี่ยวชาญด้านเทคโนโลยีแบบเป่าลม ผู้ใช้ซอฟต์แวร์ CAD ขั้นสูงและการทดสอบในสภาพจริง เพื่อสร้างบอร์ดที่มีประสิทธิภาพทางไฮโดรไดนามิก มั่นคงเป็นพิเศษ และแข็งแรงทนทาน</p>
+  <h3>Family Oasis — Vacation Homes & Rentals</h3>
+  <p>The 3 m × 2 m family pool with integrated seating is the sweet spot for vacation properties. Kids play, adults lounge, and the whole thing folds away when the season ends.</p>
 
+  <h3>Grand Lagoon — Lake Houses & Hospitality</h3>
+  <p>The 5 m × 2.5 m flagship swim lounge hosts the whole group. High-density drop-stitch construction rated to 18 PSI keeps the 20 cm walls rock-solid with a full crowd inside.</p>
 
-  <h3>SUP ตกปลา</h3>
+  <h2>Manufacturing Excellence: Precision at Every Step</h2>
+  <p>OLagoon employs highly skilled technicians who are masters of their craft. Our 12,000 m² Qingdao production facility is equipped with state-of-the-art machinery, including automatic CNC cutting machines, RF dielectric welders, hot-air heat sealers, and digital printers. Every pool follows documented procedures with traceability.</p>
+  <p>Our multi-layered quality control system includes stringent checks at each manufacturing step, culminating in comprehensive testing of every finished pool before shipping. This commitment to quality is built in from the very beginning, not merely inspected at the end.</p>
 
-  <p>ออกแบบมาเพื่อความมั่นคงและการใช้งานแบบเงียบ การจัดโครงแบบตกปลารวมถึงจุดติดตั้งที่ยึดคันเบ็ด จุดยึดอุปกรณ์ และแพลตฟอร์มที่เงียบและมั่นคงซึ่งลดการรบกวนปลาให้เหลือน้อยที่สุด</p>
-
-
-  <h3>SUP โยคะและฟิตเนส</h3>
-
-  <p>แพลตฟอร์มกว้างและมั่นคงพร้อมแผ่นรองด้านบนตลอดความยาว สำหรับโยคะบนน้ำ การออกกำลังกาย และการยืดเหยียดแบบกลุ่ม โครงสร้าง drop-stitch ทำให้แพลตฟอร์มแข็งแรงมั่นคงดั่งหินใต้เท้าของคุณ</p>
-
-
-  <h3>SUP All-Around และทัวริง</h3>
-
-  <p>โครงสร้าง drop-stitch ความหนาแน่นสูงด้วย PVC เกรดมิลิทารี รับประกันที่ 18 PSI เพื่อความแข็งแรงเป็นพิเศษ ชุดอุปกรณ์ครบชุดประกอบด้วยปั๊มลม เป้สะพาย เชือกคลาด (leash) ชุดซ่อมแซม และใบพาย</p>
-
-
-  <h2>ความเป็นเลิศด้านการผลิต: ความแม่นยำในทุกขั้นตอน</h2>
-
-  <p>olagoon จ้างช่างเทคนิคที่มีคุณวุฒิสูงซึ่งเป็นปรมาจารย์แห่งงานฝีมือ สถานประกอบการผลิตของเราติดตั้งเครื่องจักรระดับล้ำสมัย รวมถึงเครื่องตัด CNC อัตโนมัติ เครื่องเชื่อม RF แบบไดอิเล็กทริก เครื่องเชื่อมลมร้อน และเครื่องพิมพ์ดิจิทัล SUP ทุกลำเป็นไปตามขั้นตอน ที่บันทึกไว้พร้อมการตรวจสอบย้อนกลับได้</p>
-
-  <p>ระบบควบคุมคุณภาพหลายชั้นของเรารวมถึงการตรวจสอบอย่างเข้มงวดในทุกขั้นตอนการผลิต และพิสูจน์ด้วยการทดสอบอย่างละเอียดกับบอร์ดสำเร็จทุกชิ้นก่อนจัดส่ง ความมุ่งมั่นต่อคุณภาพนี้ถูกสร้างไว้ตั้งแต่ต้น ไม่ใช่เพียงตรวจสอบเมื่อสิ้นสุด</p>
-
-
-  <h2>การควบคุมคุณภาพและการทดสอบ</h2>
-
+  <h2>Quality Control & Testing</h2>
   <ul>
-    <li><strong>ทดสอบการกักเก็บอากาศ 100%:</strong> ทุกช่องลมถูกทดสอบแรงดันเกินขีดจำกัดการใช้งานเพื่อยืนยันว่าไม่มีอากาศรั่วซึม</li>
-    <li><strong>ตรวจสอบการหลุดของรอยต่อ:</strong> ความแข็งแรงของจุดเชื่อมและกาวได้รับการตรวจสอบด้วยการทดสอบการลอกออกจริง</li>
-    <li><strong>ตรวจสอบความต้านทานรังสี UV:</strong> วัสดุถูกทดสอบด้วยแสงแดดจำลองเพื่อประเมินความต้านทานต่อการเสื่อมสภาพ</li>
-    <li><strong>ทดสอบความต้านทานการสึกหรอ:</strong> ตัวอย่างวัสดุถูกทดสอบกับพื้นผิวขรุขระเพื่อวัดความทนทานต่อการสึกหรอ</li>
-    <li><strong>ตรวจสอบระบบโดยละเอียด:</strong> บอร์ดทุกชิ้นผ่านการตรวจสอบขั้นสุดท้ายก่อนอนุมัติการจัดส่ง</li>
+    <li><strong>100% Air-Retention Testing:</strong> Every chamber is pressure-tested beyond operating limits to verify airtightness.</li>
+    <li><strong>Seam Peel Verification:</strong> Weld and glue strength is verified through physical peel testing on batch samples every 50 units (ASTM D751).</li>
+    <li><strong>UV Resistance Validation:</strong> Materials are exposed to simulated sunlight to evaluate degradation resistance.</li>
+    <li><strong>Abrasion Testing:</strong> Material samples are tested against abrasive surfaces for wear resistance.</li>
+    <li><strong>Full Systems Check:</strong> Every pool undergoes final inspection before shipping approval.</li>
   </ul>
 
-
-  <h2>ทำไมนักพายถึงเลือก olagoon</h2>
-
-  <p>ทุกบอร์ด olagoon ผลิตในโรงงานของเราเองด้วยโครงสร้าง drop-stitch รอยเชื่อมด้วยความร้อน และ PVC ระดับทางทะเลที่ตรวจสอบทีละบอร์ดก่อนจัดส่ง — คุณภาพเดียวกันไม่ว่าจะเป็นบอร์ดแรกหรือบอร์ดที่ห้าของคุณ</p>
-
-  <p>ใส่กระโปรงหลังรถ ส่งเป็นสัมภาระเครื่องบิน แล้วเป่าลมได้ทุกที่ในไม่กี่นาที จากการพายครั้งแรกบนทะเลสาบเงียบ ๆ ไปจนถึงเส้นทางชายฝั่งหนึ่งสัปดาห์ — คุณจะพาบอร์ดไปที่ไหน?</p>
+  <h2>Why Owners Choose OLagoon</h2>
+  <p>Every OLagoon pool is built in our own factory with drop-stitch construction, thermo-welded seams, and marine-grade PVC that is tested unit by unit before it ships — the same quality whether it is your first pool or your fifth.</p>
+  <p>Roll it out, inflate the walls, connect the filter, and fill. From a first swim at the cabin to a full season at the lake house — where will you set up yours?</p>

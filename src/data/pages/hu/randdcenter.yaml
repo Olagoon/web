@@ -1,130 +1,130 @@
 meta:
-  title: 'K+F központ | {SITE}'
-  description: 'Kutatás és fejlesztés — PVC szövettesztelés, hajótest-mérnöki munka, RF hegesztés, hidrodinamikai tesztelés és minőségkontroll. Egyedi K+F szolgáltatások elérhetők.'
+  title: 'R&D Center | {SITE}'
+  description: 'Research & Development — PVC fabric testing, hull engineering, RF welding, hydrodynamic testing, and quality control. Custom R&D services available.'
 
 hero:
-  tagline: 'K+F központ'
-  title: 'K + F központ'
-  subtitle: 'A haladásra összpontosítva'
+  tagline: R&D Center
+  title: R & D Center
+  subtitle: Focused on Progress
 
 intro:
-  - 'Az olagoon Kutatási és Fejlesztési (K+F) Központja küldetésünk mozgatórugója, amely a vízisport-felszerelések forradalmasítását tűzte ki célul. A vízisport-rajongókat világszerte biztonságosabb, kényelmesebb és élvezetesebb termékekkel látjuk el a felfújható stand-up paddle deszkák (SUP) terén végzett megállíthatatlan innováció révén. Mérnökeinkből, tervezőinkből és szenvedéllyel bíró vízisport-szakértőinkből álló elkötelezett csapatunk formálja az iparág jövőjét, és folyamatosan emeli a minőségre, a teljesítményre és a fenntarthatóságra vonatkozó elvárásokat.'
-  - 'K+F létesítményünk egy fedél alatt egyesíti az anyagtudósokat, tengerészmérnököket és gyártómérnököket. A szövetformulázástól és hajótest-szimulációtól a hegesztési eljárásfejlesztésen át a méretarányos tengeri próbákig a termékfejlesztés minden szakaszát adatok vezérlik, és teszteléssel validálják.'
+  - olagoon's Research and Development (R&D) Center is the driving force behind our mission to revolutionize water sports equipment. We empower water sports enthusiasts globally with safer, more comfortable, and more enjoyable products through relentless innovation in inflatable drop-stitch pool (pools). Our dedicated team of engineers, designers, and passionate water sports experts are shaping the future of the industry, consistently raising the bar for quality, performance, and sustainability.
+  - Our R&D facility brings together material scientists, marine engineers, and production engineers under one roof. From fabric formulation and hull simulation to welding process development and full-scale sea trials, every stage of product development is driven by data and validated by testing.
 
 mission:
-  tagline: 'Küldetésünk'
-  title: 'A vízisportok jövőjének innoválása'
+  tagline: Our Mission
+  title: Innovating the Future of Water Sports
   pillars:
     - icon: lightning
-      title: 'Technológiai fejlődés'
-      desc: 'Új anyagok, tervek és gyártási eljárások úttörése a kiváló termékteljesítmény és élettartam érdekében.'
+      title: Technological Advancement
+      desc: Pioneering new materials, designs, and manufacturing for superior product performance and longevity.
     - icon: design
-      title: 'Felhasználóközpontú tervezés'
-      desc: 'A felhasználói igények mélyreható megértése és túlszárnyalása ergonómikus és intuitív terméktervezéssel.'
+      title: User-Centric Design
+      desc: Deeply understanding and exceeding user needs through ergonomic and intuitive product design.
     - icon: globe
-      title: 'Fenntartható gyakorlatok'
-      desc: 'Környezeti lábnyomunk minimalizálása környezetbarát anyagok és eljárások alkalmazásával.'
+      title: Sustainable Practices
+      desc: Minimizing our environmental footprint by utilizing eco-friendly materials and processes.
     - icon: shield
-      title: 'Kompromisszummentes biztonság'
-      desc: 'A legmagasabb biztonsági szabványok biztosítása szigorú teszteléssel és tanúsítással.'
+      title: Uncompromising Safety
+      desc: Ensuring the highest safety standards through rigorous testing and certification.
 
 pillars:
-  - title: 'Technológiai fejlődés'
-    desc: 'Új anyagok, tervek és gyártási eljárások úttörése a kiváló termékteljesítmény és élettartam eléréséhez.'
+  - title: Technological Advancement
+    desc: Pioneering new materials, designs, and manufacturing processes to deliver superior product performance and longevity.
     icon: tech
-  - title: 'Fejlett anyagok'
-    desc: 'Élvonalbeli PVC-k, kompozitok és fenntartható alternatívák vizsgálata a jobb terméktulajdonságokért.'
+  - title: Advanced Materials
+    desc: Investigating cutting-edge PVC, composites, and sustainable alternatives for enhanced product characteristics.
     icon: materials
-  - title: 'Fenntarthatóság'
-    desc: 'Alapvető elkötelezettség: Elkötelezettek vagyunk a környezetvédelem iránt a fenntartható gyártás és az újrahasznosítható anyagok révén.'
+  - title: Sustainability
+    desc: 'A Core Commitment: We are dedicated to environmental stewardship through sustainable manufacturing and recyclable materials.'
     icon: sustainability
 
 capabilities:
-  tagline: 'Képességek'
-  title: 'K+F képességek'
-  subtitle: 'Négy alapszakág, amelyek teljes körű ellenőrzést biztosítanak a termékfejlesztés felett — az alapanyag-kutatástól a végső tanúsításig.'
+  tagline: Capabilities
+  title: R&D Capabilities
+  subtitle: Four core disciplines that give us end-to-end control over product development — from raw material research to final certification.
   groups:
-    - title: 'Anyagtudomány és szövettechnológia'
+    - title: Material Science & Fabric Technology
       items:
-        - 'PVC formulázás elemzése és optimalizálása'
-        - 'UV-stabilizálási, lángállósági és antimikrobiális adalékfejlesztés'
-        - 'Többrétegű szövetlaminálás és adhéziós mérnöki munka'
-        - 'Gyorsított öregedési tesztelés (UV, hő, pára, sóköd)'
-    - title: 'Hajótest-mérnöki munka és hidrodinamika'
+        - PVC formulation analysis and optimisation
+        - UV stabilisation, flame retardancy, and anti-microbial additive development
+        - Multi-layer fabric lamination and adhesion engineering
+        - Accelerated ageing testing (UV, thermal, humidity, salt spray)
+    - title: Hull Engineering & Hydrodynamics
       items:
-        - 'Parametrikus 3D hajótesttervezés és CFD-optimalizálás'
-        - 'Véges elemes analízis szerkezeti és ütésterhelésekhez'
-        - 'Méretarányos vontatómedence-tesztelés és teljesítményvalidálás'
-        - 'Egyedi hajótestfejlesztés különleges küldetési profilokhoz'
-    - title: 'Hegesztési és illesztési technológia'
+        - Parametric 3D hull design and CFD optimisation
+        - Finite element analysis for structural and impact loads
+        - Scale-model towing tank testing and performance validation
+        - Custom hull development for special mission profiles
+    - title: Welding & Joining Technology
       items:
-        - 'RF dielektromos hegesztési eljárásfejlesztés és optimalizálás'
-        - 'Forró levegős, melegék és ultrahangos hegesztési módszerek'
-        - 'Ragasztási technológiák és varratszalag-minősítés'
-        - 'Hegesztési szilárdság-modellezés és élettartam-előrejelzés'
-    - title: 'Tesztelés, tanúsítás és megfelelőség'
+        - RF dielectric welding process development and optimisation
+        - Hot-air, hot-wedge, and ultrasonic welding methods
+        - Adhesive bonding and seam tape qualification
+        - Weld strength modelling and lifetime prediction
+    - title: Testing, Certification & Compliance
       items:
-        - 'Minőségirányítás és CE-megfelelőségi tesztelés'
-        - 'Független harmadik fél általi tesztelés és tanúsítási támogatás'
-        - 'Egyedi tesztprotokoll-fejlesztés beszerzési minősítéshez'
-        - 'Üzem közbeni hibaelemzés és kiváltó okok vizsgálata'
+        - Quality management and CE compliance testing
+        - Independent third-party testing and certification support
+        - Custom test protocol development for procurement qualification
+        - In-service failure analysis and root-cause investigation
 
 rd_numbers:
-  tagline: 'Innováció'
-  title: 'K+Fezés számokban'
+  tagline: Innovation
+  title: R&D by the Numbers
   stats:
     - value: '14'
-      label: 'K+F mérnök és kutató'
+      label: R&D engineers & scientists
     - value: '8'
-      label: 'Élő szabadalom és beadvány'
+      label: Active patents & filings
     - value: '6'
-      label: 'Specializált labor'
+      label: Specialised labs
     - value: 12 yr
-      label: 'Átlagos csapat tapasztalat'
+      label: Average team experience
 
 rd_services:
-  tagline: 'Egyedi K+F'
-  title: 'K+F szolgáltatások partnereknek'
+  tagline: Custom R&D
+  title: R&D Services for Partners
   services:
-    - title: 'Egyedi anyagfejlesztés'
-      desc: 'Egyedi szövetformulákat, laminátstruktúrákat és ragasztórendszereket fejlesztünk az Ön üzemeltetési környezetéhez és teljesítménycéljaihoz igazítva.'
-    - title: 'OEM / ODM termék-mérnöki munka'
-      desc: 'Egyedi szövetformulákat, laminátstruktúrákat és ragasztórendszereket fejlesztünk az Ön üzemeltetési környezetéhez és teljesítménycéljaihoz igazítva.'
-    - title: 'Harmadik fél általi tesztelés és tanúsítás'
-      desc: 'Használja ISO-megfelelő tesztlétesítményeinket független anyagtesztelésre, termékvalidálásra és tanúsítási támogatásra.'
-  cta: 'Egyeztessen K+F igényeiről →'
+    - title: Custom Material Development
+      desc: We develop custom fabric formulations, laminate stacks, and adhesive systems tailored to your operating environment and performance targets.
+    - title: OEM / ODM Product Engineering
+      desc: We develop custom fabric formulations, laminate stacks, and adhesive systems tailored to your operating environment and performance targets.
+    - title: Third-Party Testing & Certification
+      desc: Use our ISO-compliant test facilities for independent material testing, product validation, and certification support.
+  cta: Discuss your R&D requirements →
   cta_link: /contact/
 
 vision:
-  tagline: 'Víziónk'
-  title: 'A vízisportok jövőjének formálása'
-  body: 'Az olagoon arra törekszik, hogy a felfújható SUP iparág vezetője legyen a folyamatos innováció, a töretlen minőség valamint a biztonság és a fenntarthatóság iránti rendíthetetlen elkötelezettség révén — végső soron gazdagítva a vízisport-rajongók élményeit világszerte. Az olagoon K+F Központ az a hely, ahol a szenvedély találkozik az innovációval, és új szabványokat állít a vízisport-iparág számára.'
+  tagline: Our Vision
+  title: Shaping the Future of Water Sports
+  body: OLagoon strives to lead the inflatable pool industry through continuous innovation, unwavering quality, and a steadfast commitment to safety and sustainability — ultimately enriching backyard summers for families worldwide. The olagoon R&D Center is where passion meets innovation, setting new standards for the water sports industry.
 
 labs_section:
-  tagline: 'Laborok'
-  title: 'Laboratóriumaink'
+  tagline: Labs
+  title: Our Laboratories
   labs:
     - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
-      title: 'PVC szövetlabor'
-      description: 'A PVC fedélzetszövetek folyamatos kutatása és tesztelése húzószilárdság, UV-állóság, kopásállóság és alacsony hőmérsékletű hajlékonyság szempontjából a tengeri környezetben való hosszú távú megbízhatóság biztosítására.'
+      title: PVC Fabric Lab
+      description: Continuous research and testing of PVC deck fabrics for tensile strength, UV resistance, abrasion, and low-temperature flexibility to ensure long-term reliability in marine environments.
       href: /randdcenter/pvc-fabric-lab/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-      title: 'Hajótest-mérnöki stúdió'
-      description: 'CAD-alapú tervezés és véges elemes analízis HDPE, alumínium és üvegszálas hajótestekhez. Minden hajótestet digitálisan szimulálnak feszültségeloszlás és ütésállóság szempontjából, mielőtt az első prototípus elkészül.'
+      title: Hull Engineering Studio
+      description: CAD-driven design and finite element analysis of HDPE, aluminum, and fiberglass hulls. Every hull is digitally simulated for stress distribution and impact resistance before the first prototype is built.
       href: /technology/
-    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
-      title: 'RF hegesztési központ'
-      description: 'Dedikált rádiófrekvenciás hegesztési létesítmény precíz hőmérséklet- és nyomásszabályozással, amely nagy szilárdságú, légmentes varratokat állít elő, megfelelve a tengeri iparág felfújható járművekre vonatkozó szabványainak.'
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+      title: RF Welding Center
+      description: Dedicated radio-frequency welding facility with precision temperature and pressure control, producing high-strength, airtight seams that meet marine industry standards for inflatable craft.
       href: /randdcenter/rf-welding/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
-      title: 'Hidrodinamikai tesztmedence'
-      description: 'Méretarányos tesztelés házon belüli tesztmedencénkben a hajótestforma, a síklapú menet, a stabilitás és az üzemanyag-hatékonyság optimalizálására különféle terhelési és tengerállapot-feltételek mellett.'
+      title: Hydrodynamic Test Tank
+      description: Scale-model testing in our in-house test tank to optimize hull form, planing performance, stability, and fuel efficiency across a range of load and sea conditions.
       href: /technology/
-    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      title: 'Prototípus-műhely'
-      description: 'Méretarányos prototípuskészítő és felszerelő létesítmény, ahol az új modelleket megépítik, felszerelik és tengeren kipróbálják. Minden prototípus legalább 20 órás vízben végzett tesztprogramon megy át a gyártási jóváhagyás előtt.'
+    - image: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+      title: Prototype Workshop
+      description: Full-scale prototyping and rigging facility where new models are built, fitted, and sea-trialed. Every prototype undergoes a minimum 20-hour in-water test programme before production approval.
       href: /randdcenter/prototype-workshop/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
-      title: 'Minőség- és ellenőrző labor'
-      description: 'Dedikált minőségbiztosítási labor, amely húzóvizsgálatokat, légtartóssági ciklusokat, varmathámozási teszteket és anyagtanúsítást végez, hogy minden, a műhelyből kikerülő deszka megfeleljen közzétett specifikációinknak.'
+      title: Quality & Inspection Lab
+      description: Dedicated quality assurance lab performing tensile testing, air-retention cycling, seam peel tests, and material certification to ensure every pool leaving the workshop meets our published specifications.
       href: /randdcenter/quality-inspection-lab/

@@ -1,274 +1,274 @@
 meta:
-  title: 'Gyár és gyártás — Felfújható SUP OEM | {SITE}'
-  description: 'Tekintse meg az olagoon gyárat: 12 000 m²-es üzem vágással, RF hegesztéssel, nyomtatással, szereléssel és minőségi laborral a felfújható SUP OEM/ODM gyártáshoz.'
+  title: 'Factory & Manufacturing — inflatable pools OEM | {SITE}'
+  description: 'Tour the olagoon factory: 12,000 m² plant with cutting, RF welding, printing, assembly, and quality lab for inflatable pools OEM/ODM manufacturing.'
   keywords:
-    - 'sup gyár kína'
-    - 'felfújható paddle board gyár'
-    - 'oem sup gyártó'
-    - 'felfújható sup gyártás'
+    - 'pool factory china'
+    - 'inflatable pool factory'
+    - 'oem pool manufacturer'
+    - 'inflatable pools manufacturing'
 hero:
-  tagline: 'Gyár'
-  title: 'Gyár és gyártás'
-  subtitle: '12 000 m² integrált gyártás — az alapanyagtól a kész deszkáig'
+  tagline: Factory
+  title: Factory & Manufacturing
+  subtitle: 12,000 m² of integrated manufacturing — from raw material to finished pool
 
 intro:
-  - 'Az **Olagoon LLC** gyártási ágaként az olagoon qingdaói működési csapata a gyártás minden szakaszát ellenőrzi — a nyers PVC és üvegszálas anyagok beérkezésétől a kész deszta szállítás előtti végső ellenőrzéséig. A Qingdaói Gazdasági Fejlesztési Zónában található gyártási létesítményünk 12 000 négyzetméteres, és külön műhelyeket foglal magában a PVC vágáshoz, a cső hőhegesztéshez, az FRPforma-készítéshez, a SUP digitális nyomtatáshoz, a végső szereléshez és a minőségi teszteléshez.'
-  - 'A tervezés, a mérnöki munka, a prototípus-készítés, a gyártás és a tesztelés egy fedél alatti integrálásával megszüntetjük a bérgyártás hatékonysági problémáit, és közvetlen ellenőrzést tartunk a gyártási minőség, az anyagválasztás és a szállítási határidők felett. Minden deszka, amely elhagyja műhelyünket, a mi embereink által, a mi felszereléseinken, a mi szabványaink szerint készül.'
+  - As the production arm of **Olagoon LLC**, olagoon's Qingdao Operation Team controls every stage of production — from the arrival of raw PVC and fiberglass materials to the final pre-delivery inspection of the finished pool. Our manufacturing facility in the Qingdao Economic Development Zone spans 12,000 square metres and houses dedicated workshops for PVC cutting, tube heat sealing, FRP mould fabrication, pool digital printing, final assembly, and quality testing.
+  - By integrating design, engineering, prototyping, manufacturing, and testing under one roof, we eliminate the inefficiencies of contract manufacturing and maintain direct control over build quality, material selection, and delivery timelines. Every pool that leaves our workshop is built by our people, on our equipment, to our standards.
 
 stats:
-  - value: '12 000 m²'
-    label: 'Gyártócsarnok'
-  - value: '200+'
-    label: 'Képzett munkás'
-  - value: '15 000+'
-    label: 'Évente gyártott SUP deszka'
-  - value: 'ISO 9001'
-    label: 'Minőségileg tanúsított'
+  - value: 12,000 m²
+    label: Manufacturing floor
+  - value: 200+
+    label: Skilled workers
+  - value: 15,000+
+    label: pools produced annually
+  - value: ISO 9001
+    label: Quality certified
 
-intelligence_tagline: 'Gyári információk'
-intelligence_title: 'Fedezze fel gyártási képességeinket'
+intelligence_tagline: Factory Intelligence
+intelligence_title: Explore Our Manufacturing Capabilities
 
 intelligence_cards:
-  - title: 'Gyártási kapacitás'
-    icon: 'C'
-    icon_bg: 'blue'
-    desc: '12 000 m²-es létesítmény, amely évente 15 000+ SUP-ot állít elő SUP deszka- és biztonsági berendezési vonalakon. 200+ munkás, 2 műszak.'
+  - title: Production Capacity
+    icon: C
+    icon_bg: blue
+    desc: '12,000 m² facility producing 15,000+ pools/yr across pools and safety equipment lines. 200+ workers, 2 shifts.'
     metrics:
-      - label: 'MOQ'
-        value: 'SUP: 5–10'
-      - label: 'Átfutási idő'
-        value: '30–45 nap'
+      - label: MOQ
+        value: 'Samples 5–10 · Bulk 50+'
+      - label: Lead Time
+        value: '12–16 weeks (bulk)'
     link: /factory/capacity/
-    link_label: 'Teljes kapacitásadatok →'
-  - title: 'Minőségi labor és tesztelés'
-    icon: 'Q'
-    icon_bg: 'green'
-    desc: 'Független QC labor 4 tesztelési szakasszal: alapanyag-ellenőrzés (húzó-, szakító- és UV-teszt), 24–48 órás nyomástartás a névleges nyomás 1,25-szörösén, varrat hámozási teszt és terhelés/egyensúly-ellenőrzés minden deszkán.'
+    link_label: Full capacity details →
+  - title: Quality Lab & Testing
+    icon: Q
+    icon_bg: green
+    desc: 'Independent QC lab with 4 testing stages: raw material inspection (tensile, tear, UV), 24–48h pressure hold at 1.25x rated pressure on every pool, load/balance verification, and seam peel strength testing by batch sampling every 50 units (ASTM D751).'
     metrics:
-      - label: 'Laborfelszerelés'
-        value: 'Húzóerő-tesztelő, hőkamra, tömítettségi tartály'
-      - label: 'Szabványok'
+      - label: Lab Equipment
+        value: 'Tensile tester, temp chamber, leak tank'
+      - label: Standards
         value: 'ISO 9001, CE, AS 1799'
     link: /factory/quality-lab/
-    link_label: 'Laboreljárások és felszerelés →'
-  - title: 'OEM/ODM képesség'
-    icon: 'O'
-    icon_bg: 'purple'
-    desc: 'Komplett OEM/ODM szolgáltatások: egyedi formatervezés, saját márkás csomagolás, egyedi deszkaszínek, fedélzeti grafikák (digitális és szitanyomtatás) valamint közvetlen szállítási logisztika.'
+    link_label: 'Lab procedures & equipment →'
+  - title: OEM/ODM Capability
+    icon: O
+    icon_bg: purple
+    desc: 'End-to-end OEM/ODM services: custom mould design, private-label packaging, custom pool colors, deck graphics (digital & screen printing), and drop-ship logistics.'
     metrics:
-      - label: 'Tanúsítványok'
+      - label: Certifications
         value: 'ISO 9001, BSCI, CE, REACH'
-      - label: 'Szállítás'
-        value: 'FOB, CIF, DDP 50+ országba'
+      - label: Shipping
+        value: 'FOB, CIF, DDP to 50+ countries'
     link: /factory/oem-capability/
-    link_label: 'Teljes OEM szolgáltatások →'
+    link_label: 'Full OEM services →'
 
 workshops_section:
-  tagline: 'Műhelyek'
-  title: 'Gyártóműhelyek'
+  tagline: Workshops
+  title: Manufacturing Workshops
   workshops:
-    - title: 'PVC vágás és anyagelőkészítés'
-      description: 'Automatikus CNC vágógépek dolgozzák fel a PVC- és drop-stitch szöveteket egy milliméternél pontosabban. A számítógéppel optimalizált elrendezés minimalizálja az anyagpazarlást, és biztosítja, hogy minden panel megfeleljen a méretbeli előírásoknak hegesztés előtt.'
+    - title: PVC Cutting & Material Preparation
+      description: Automatic CNC cutting machines process PVC and drop-stitch fabrics with sub-millimetre precision. Computer-optimised nesting minimises material waste and ensures every panel meets its dimensional specification before welding.
       image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
-    - title: 'Csőhegesztés és hőzárás'
-      description: 'Külön hegesztőműhely hőzáró gépekkel és RF dielektromos présekkel. A forró levegős hőzárók összekötik és összekapcsolják a PVC csőkamrákat, míg az RF hegesztések nagy szilárdságú, légmentes varratokat hoznak létre, amelyek túllépik az EN ISO 25649 követelményeit.'
+    - title: Tube Welding & Heat Sealing
+      description: Dedicated welding workshop with heat sealing machines and RF dielectric presses. Hot-air heat sealers bond and fuse PVC tube chambers, while RF welds produce high-strength airtight seams that exceed EN ISO 25649 requirements.
       image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    - title: 'FRP formák és kompozitgyártás'
-      description: 'Egyedi FRP formák SUP alkatrészekhez, kézi üvegszálas laminálással, poliészter- és vinilésztergyantákkal. Minden réteget kézzel hengerelnek és vákuumtasakba helyeznek a következetes minőség érdekében. A zselékétr-fúvóbooth magas fényű, UV-álló tengeri felületet biztosít.'
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
-    - title: 'SUP nyomtatás és dekorálás'
-      description: 'A SUP deszkákat digitális nyomtatással dekoráljuk teljes színes grafikákhoz, illetve szitanyomtatással logókhoz és ismétlődő mintákhoz. A digitális nyomtatók fotóminőségű fedélzeti terveket készítenek, a szitanyomtatás pedig tartós, élénk márkajelzéseket szolgáltat.'
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
-    - title: 'Végső szerelés és felszerelés'
-      description: 'Szerelő sor, ahol a drop-stitch magokat élekkel látnak el, EVA fedélzeteket visznek fel, valamint uszonyokat, szelepeket és tartozékokat szerelnek be. Minden deszka egy 100 pontos szerelési ellenőrzőlistát követ, amelyet a csapatvezető hagy jóvá.'
+    - title: FRP Moulds & Composite Fabrication
+      description: Custom FRP moulds for pool components, produced using hand-lay-up fiberglass moulding with polyester and vinylester resin systems. Each layer is hand-rolled and vacuum-bagged for consistent quality. Gelcoat spray booth provides a high-gloss, UV-resistant marine finish.
+      image: https://assets.olagoon.com/images/olagoon/products/family-oasis.webp
+    - title: pool Printing & Decoration
+      description: pools are decorated using digital printing for full-colour graphics and screen printing for logos and repeating patterns. Digital printers produce photo-quality deck designs, while screen printing delivers durable, vivid brand marks.
+      image: https://assets.olagoon.com/images/olagoon/products/family-oasis.webp
+    - title: Final Assembly & Rigging
+      description: Assembly line where drop-stitch cores are finished with rails, wall surfaces are applied, and valves, fittings, and accessories are installed. Each pool follows a 100-point assembly checklist signed off by the team lead.
       image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
-    - title: 'Minőségi tesztelés és ellenőrzés'
-      description: 'Minden elkészült deszka kötelező légtartóssági tesztelésen, varrat-hámozás ellenőrzésen és teljes rendszervizsgálaton megy át szállítás előtt. Minőségi laborunk független a gyártástól, és közvetlenül a vezetésnek jelent.'
+    - title: Quality Testing & Inspection
+      description: Every completed pool undergoes mandatory air-retention testing and a full systems check before shipping, with seam peel strength verified by batch sampling every 50 units. Our quality lab operates independently from production and reports directly to management.
       image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 
 equipment_section:
-  tagline: 'Felszerelés'
-  title: 'Fő gyártóberendezések'
-  view_full: 'Teljes felszereléslista megtekintése →'
+  tagline: Equipment
+  title: Key Manufacturing Equipment
+  view_full: View full equipment list →
   view_full_link: /factory/equipment/
   items:
-    - name: 'Automatikus PVC vágógép'
-      spec: 'CNC-vezérlésű, 0,1 mm pontosság'
-    - name: 'Hőzáró gép'
-      spec: 'Forró levegős, 200–300 °C, csőragasztáshoz'
-    - name: 'RF dielektromos hegesztő-pác'
-      spec: '15 kW, légmentes varrat hegesztése'
-    - name: 'Kézi üvegszálas formák'
-      spec: 'SUP deszkaformák 14 lábig'
-    - name: 'Digitális nyomtató'
-      spec: 'Teljes színes SUP fedélzeti grafikák'
-    - name: 'Szitanyomtató gép'
-      spec: 'Többszínű logónyomtatás'
+    - name: Automatic PVC Cutting Machine
+      spec: CNC-controlled, 0.1 mm accuracy
+    - name: Heat Sealing Machine
+      spec: Hot-air, 200–300 °C, for tube bonding
+    - name: RF Dielectric Welding Press
+      spec: 15 kW, airtight seam welding
+    - name: Fiberglass Hand-Lay-Up Moulds
+      spec: pools moulds up to 14 ft
+    - name: Digital Printer
+      spec: Full-colour pool deck graphics
+    - name: Screen Printing Machine
+      spec: Multi-colour logo printing
 
 qc_section:
-  tagline: 'Minőségkontroll'
-  title: 'Tesztelési és minőségbiztosítási folyamat'
-  subtitle: 'Minden deszka kötelező tesztelésen megy át szállítás előtt. Minőségi laborunk független a gyártástól, és közvetlenül a vezetésnek jelent.'
+  tagline: Quality Control
+  title: Testing & Quality Assurance Process
+  subtitle: Every pool undergoes mandatory testing before shipping. Our quality lab operates independently from production and reports directly to management.
   steps:
     - step: '1'
-      title: 'Alapanyag-ellenőrzés'
-      desc: 'A PVC- és drop-stitch szövetek húzótesztelésen (ASTM D751), szakításterjedés-vizsgálaton és UV-állóság-ellenőrzésen mennek át, mielőtt bármely tétel a gyártásba kerül.'
+      title: Raw Material Inspection
+      desc: PVC and drop-stitch fabrics undergo tensile testing (ASTM D751), tear propagation, and UV resistance verification before any batch enters production.
     - step: '2'
-      title: '24–48 órás légtartóssági teszt'
-      desc: 'Minden csőkamrát a névleges nyomás 125%-ára fújnak fel, és 24–48 órán át tartanak. Az 5%-ot meghaladó nyomásesés automatikus elutasítást és varrat-újravizsgálatot vált ki.'
+      title: 24–48 Hour Air Retention Test
+      desc: Every tube chamber is inflated to 125% of rated pressure and held for 24–48 hours. Pressure drop exceeding 5% triggers automatic rejection and seam re-inspection.
     - step: '3'
-      title: 'Terhelés és egyensúly tesztelés'
-      desc: 'A kész deszkákat a maximális névleges kapacitásig terhelik, és stabilitásra, valamint merevségre tesztelik. Minden deszkát vízben tesztelnek a végső ellenőrzés előtt.'
+      title: Load & Balance Testing
+      desc: Completed pools are loaded to maximum rated capacity and tested for stability and rigidity. Each pool is water-tested before final inspection.
 
 oem_section:
-  tagline: 'OEM projektek'
-  title: 'Márka- és OEM partnerségi esettanulmányok'
-  subtitle: 'A koncepciótól a konténerig — hogyan segítünk globális márkáknak felfújható SUP vonalaikat elindítani és bővíteni.'
+  tagline: OEM Projects
+  title: Brand & OEM Partnership Case Studies
+  subtitle: From concept to container — how we help global brands launch and scale their inflatable pools lines.
   cases:
-    - challenge: 'Európai szabadidő-kiskereskedőnek saját márkás SUP vonalra volt szüksége egyedi fedélzeti grafikákkal, környezetbarát PVC-vel és kereskedelmi forgalomba lépésre kész csomagolással — mindezt 60 napon belül leszállítva.'
-      solution: 'Egyedi digitális nyomtatási fájlokat fejlesztettünk, REACH-megfelelő PVC-t szereztünk be, és a mintavételt 3 körölről 1-re csökkentettük a tervezőcsapat qingdaói gyárunkban való elhelyezésével.'
-      result: '55 nap a aláírt megrendeléstől az FOB-ig. 2 400 darab 4 SKU-ban. Ismételt megrendelés még az első konténer megérkezése előtt.'
-    - challenge: 'Amerikai vízisport-startupnak nagy teljesítményű drop-stitch SUP-ra volt szüksége egyedi formával, közös márkás csomagolással és BSCI-tanúsítással a kereskedelmi elhelyezéshez.'
-      solution: 'A meglévő SUP formát módosított körvonalakkal alkalmaztuk, közös márkás csomagolástervezést fejlesztettünk, és teljes BSCI auditdokumentációt biztosítottunk.'
-      result: 'Sikeresen bekerült 3 nagy amerikai szabadidő-láncba. 5 000+ darab az első évben, 98%-os értékesítési aránnyal.'
-    - challenge: 'Ausztrál forgalmazó CE-tanúsítványú SUP sort igényelt egyedi színekkel és az ausztrál szabványoknak való megfeleléssel.'
-      solution: 'Gyártás előtti mintákat készítettünk 4 színvariánssal, és harmadik félnek szánt megfelelőségi tesztelést koordináltunk.'
-      result: '3 modellből álló SUP sor indult az AU/NZ piacon. Ezt követte egy kormányzati pályázat megnyerése 12 járőr SUP-ra.'
+    - challenge: European outdoor retailer needed a private-label pool line with unique deck graphics, eco-friendly PVC, and retail-ready packaging — all delivered in 60 days.
+      solution: Developed custom digital print files, sourced REACH-compliant PVC, and compressed sampling from 3 rounds to 1 by co-locating the design team at our Qingdao factory.
+      result: 55 days from signed PO to FOB. 2,400 units across 4 SKUs. Repeat order placed before first container arrived.
+    - challenge: US watersports startup needed a high-performance drop-stitch pool with custom shape, co-branded packaging, and BSCI certification for retail placement.
+      solution: Adapted existing pool mould with modified outline, developed co-branded packaging artwork, and provided full BSCI audit documentation.
+      result: Successfully listed in 3 major US outdoor chains. 5,000+ units in first year with 98% sell-through rate.
+    - challenge: Australian distributor required a CE-certified pool range with custom colours and compliance with Australian standards.
+      solution: Produced pre-production samples with 4 colour variants and coordinated third-party compliance testing.
+      result: 3-model pool range launched in AU/NZ market. Followed by government tender win for 12 patrol pools.
 
 faq_section:
-  tagline: 'GYIK'
-  title: 'B2B és OEM gyakran ismételt kérdések'
+  tagline: FAQ
+  title: B2B & OEM Frequently Asked Questions
   questions:
-    - q: 'Mennyi a minimális rendelési mennyiség (MOQ) OEM felfújható SUP deszkákhoz?'
-      a: 'Az MOQ 5–10 darabnál kezdődik standard OEM modelleknél. Az egyedi formák és saját márkás projektek legalább 200 darabot igényelnek a komplexitástól függően. Próbarendelések és mintamenetek elérhetők új márkaindításokhoz.'
-    - q: 'Rendelkezik-e az olagoon BSCI-tanúsítvánnyal?'
-      a: 'Igen. Gyárunk érvényes BSCI társadalmi megfelelőségi tanúsítvánnyal rendelkezik (auditjelentés kérésre elérhető). Emellett ISO 9001 tanúsítvánnyal rendelkezünk a minőségirányítás terén, és minden termék CE-tanúsítással rendelkezik. REACH- és RoHS-megfelelőségi dokumentációt biztosítunk minden OEM szállításhoz.'
-    - q: 'Mennyi egy OEM rendelés tipikus átfutási ideje?'
-      a: 'A standard átfutási idő 30–45 nap a visszaigazolt megrendeléstől és az előlegtől számítva tömeges OEM gyártás esetén. Az egyedi formafejlesztés 15–20 napot ad a szerszámokhoz. Sürgős megrendelésekhez és szezonális csúcsokhoz gyorsított gyártás érhető el. A prototípus-minták jellemzően 15–20 napon belül szállíthatók.'
-    - q: 'Szállítanak FOB Qingdao vagy CIF feltételekkel a kikötőnkbe?'
-      a: 'Igen. FOB Qingdao, CIF a nagy globális kikötőkbe, valamint DDP a minősített partnereknek szállítunk. Logisztikai csapatunk kezeli a konténerfoglalást, a kiviteli dokumentációt és a vámeljárást. 50+ országba szállítunk az EU, USA, Ausztrália és ázsiai piacokra.'
+    - q: What is the minimum order quantity (MOQ) for OEM inflatable pools?
+      a: Samples and trial orders start at 5–10 units. Standard production MOQ is 50 units. Custom moulds and private-label projects require a minimum of 200 units depending on complexity.
+    - q: Does olagoon hold BSCI certification?
+      a: Yes. Our factory maintains valid BSCI social compliance certification (audit report available on request). We also hold ISO 9001 for quality management and all products carry CE certification. REACH and RoHS compliance documentation provided with every OEM shipment.
+    - q: What is the typical lead time for an OEM order?
+      a: Production runs take 12–16 weeks for 50–100 units, 10–14 weeks for 300–1,000 units, and 8–12 weeks above 1,000 units, from confirmed PO and deposit to FOB Qingdao. Custom mould development adds 15–20 days for tooling. Expedited production is available for urgent orders and seasonal rushes. Prototype samples typically ship within 15–20 days.
+    - q: Can you ship FOB Qingdao or CIF to our port?
+      a: Yes. We ship FOB Qingdao, CIF major global ports, and DDP for qualified partners. Our logistics team manages container booking, export documentation, and customs clearance. We ship to 50+ countries across EU, US, AU, and Asia markets.
 
-b2b_moq: 'Standard MOQ: 5–10 darab modellenként. Próbarendelések szívesen látottak új partnerségekhez.'
+b2b_moq: 'Samples from 5–10 units. Standard production MOQ: 50 units per model.'
 
 production_flow:
-  tagline: 'Gyártási folyamat'
-  title: 'Az anyagtól a kész deszkáig'
-  subtitle: 'Minden deszka 6 gyártási szakaszon megy át, minden lépésben QC ellenőrzési pontokkal. Nincs rövidebb út, nincs kihagyott ellenőrzés.'
+  tagline: Production Flow
+  title: From Material to Finished Pool
+  subtitle: Every pool passes through 6 production stages with QC checkpoints at every step. No shortcuts, no skipped inspections.
   stages:
     - stage: '01'
-      title: 'Anyagbeérkezés és bejövő QC'
-      description: 'Minden beérkező anyagot tétel-/lot-szám szerint rögzítünk ERP rendszerünkben. A PVC szövettekercseket, drop-stitch magokat, szelepeket, ragasztókat és hardvereket karanténba helyezzük a QC jóváhagyásáig.'
-      qc_check: 'Húzószilárdság (ASTM D751), szakítószilárdság (ISO 4674), vastagságmérés, ragasztóviszkozitás, vizuális hibakeresés'
-      qc_threshold: 'A tételek 100%-a tesztelve. Elutasítás, ha a húzószilárdság < a specifikáció 90%-a, a szakítószilárdság < a minimum specifikáció, vagy bármilyen vizuális hiba'
-      responsibility: 'Bejövő QC csapat (3 ellenőr)'
+      title: Material Receiving & Incoming QC
+      description: 'All incoming materials are logged by batch/lot number in our ERP system. PVC fabric rolls, drop-stitch cores, valves, adhesives, and hardware are quarantined until QC sign-off.'
+      qc_check: 'Tensile strength (ASTM D751), tear resistance (ISO 4674), thickness gauge, adhesive viscosity, visual defect scan'
+      qc_threshold: '100% of batches tested. Reject if tensile < 90% of spec, tear < spec min, or any visual defect'
+      responsibility: Incoming QC team (3 inspectors)
     - stage: '02'
-      title: 'CNC vágás és anyagelőkészítés'
-      description: 'A számítógéppel optimalizált elrendezés lapokat helyez el a PVC készleten a hulladék minimalizálása érdekében. Az automatikus CNC vágógépek 0,1 mm pozicionálási pontosságot tartanak fenn.'
-      qc_check: 'Méretellenőrzés a CAD DXF fájlokkal szemben, élminőség-ellenőrzés, panelszám-ellenőrzés'
-      qc_threshold: 'Minden 20. panel megmérve. Tolerancia ±0,5 mm. Tétel elutasítása, ha >2% a tolerancián kívül esik'
-      responsibility: 'Vágóműhely-vezető'
+      title: CNC Cutting & Material Prep
+      description: 'Computer-optimized nesting lays out panels on PVC stock to minimize waste. Automatic CNC cutting machines maintain 0.1 mm positional accuracy.'
+      qc_check: 'Dimensional check against CAD DXF files, edge quality inspection, panel count verification'
+      qc_threshold: 'Every 20th panel measured. Tolerance ±0.5 mm. Reject batch if >2% out of tolerance'
+      responsibility: Cutting workshop lead
     - stage: '03'
-      title: 'Hegesztés és drop-stitch ragasztás'
-      description: 'A drop-stitch magokat külső PVC laminátumokhoz hőlaminálással rögzítik. A csőkamrákat RF-hegesztéssel vagy forró levegős hegesztéssel készítik. Az élsávokat háromrétegű fúziós ragasztással rögzítik.'
-      qc_check: 'Hámozási teszt 50 darabonként (ASTM D751), hegesztésszélesség-mérés, forró levegős hőmérsékletnapló felülvizsgálata, vizuális varratvizsgálat háttérvilágításnál'
-      qc_threshold: 'Hámozási szilárdság minimum 8 N/cm. Hegesztésszélesség-tolerancia ±1 mm. Bármilyen látható csatornaképződés = elutasítás'
-      responsibility: 'Hegesztési QC (2 ellenőr műszakonként)'
+      title: Welding & Drop-Stitch Bonding
+      description: 'Drop-stitch cores are bonded to outer PVC laminates using heat lamination. Tube chambers are RF-welded or hot-air welded. Rail bands are triple-layer fusion bonded.'
+      qc_check: 'Peel test every 50 units (ASTM D751), weld width measurement, hot-air temperature log review, visual seam inspection under backlight'
+      qc_threshold: 'Peel strength min 8 N/cm. Weld width tolerance ±1 mm. Any visible channeling = reject'
+      responsibility: Welding QC (2 inspectors per shift)
     - stage: '04'
-      title: 'Szerelés és felszerelés'
-      description: 'A deszkák a végső szerelésre kerülnek, ahol minden alkatrész összekapcsolódik: élek ragasztása és hegesztése, szelepek beszerelése, D-gyűrűk, fogantyúk, uszonnytokok és hordtáska illesztése. Minden egység 100 pontos szerelési ellenőrzőlistát követ.'
-      qc_check: '100 pontos ellenőrzőlista jóváhagyása egységenként, szelep működési teszt (10 nyitási/zárási ciklus), hardvernyomaték-ellenőrzés, vizuális ellenőrzés'
-      qc_threshold: 'Zéró hiba irányelv a biztonságkritikus elemekre (szelepek, D-gyűrűk, fogantyúk). Kisebb kozmetikai: AQL 2,5 (ISO 2859)'
-      responsibility: 'Szerelőcsapat-vezető + sor QC'
+      title: Assembly & Rigging
+      description: 'Pools move to final assembly where all components are mated: rails glued and welded, valves installed, D-rings, handles, drain ports, and carry bag fitting. Each unit follows a 100-point assembly checklist.'
+      qc_check: '100-point checklist sign-off per unit, valve function test (10 open/close cycles), hardware torque verification, visual inspection'
+      qc_threshold: 'Zero-defect policy on safety-critical items (valves, D-rings, handles). Minor cosmetic: AQL 2.5 (ISO 2859)'
+      responsibility: Assembly team lead + line QC
     - stage: '05'
-      title: 'Nyomástartóssági teszt és minőségi várakozás'
-      description: 'Minden kamrát a névleges nyomás 1,25-szörösére fújnak fel (jellemzően 20–25 PSI), és 24–48 órán át tartanak. A nyomásérzékelők folyamatosan naplóznak. Az 5%-ot meghaladó nyomásesésű kamrák elutasításra kerülnek, és varrat-újravizsgálatra küldik.'
-      qc_check: '24–48 órás nyomástartási napló, érzékelőkalibráció napi ellenőrzése, hőmérséklet-kompenzált nyomásleolvasás, varrat-újrateszt javítás után'
-      qc_threshold: 'Maximum 5% nyomásesés 24–48 óra alatt stabil hőmérsékleten. Bármely kamra, amely ezt túllépi = a teljes gyártási tétel 100%-os újratesztelése'
-      responsibility: 'Minőségi labor (független a gyártástól, a vezetésnek jelent)'
+      title: Pressure Testing & Quality Hold
+      description: 'Every chamber is inflated to 1.25× rated pressure (typically 20–25 PSI) and held for 24–48 hours. Pressure sensors log continuously. Chambers exceeding 5% pressure drop are rejected and sent for seam re-inspection.'
+      qc_check: '24–48h pressure hold log, sensor calibration verified daily, temperature-compensated pressure reading, seam re-test after repair'
+      qc_threshold: 'Max 5% pressure drop over 24–48h at stable temp. Any chamber exceeding this = 100% re-test of entire production batch'
+      responsibility: Quality lab (independent of production, reports to management)
     - stage: '06'
-      title: 'Végső ellenőrzés és csomagolás'
-      description: 'Végső vizuális és működési ellenőrzés. Felületi hibák, színkonzisztencia, címke/BIN ellenőrzése, csomagolás épsége és tartozékok teljessége. Az egységeket vákuumcsomagolják, dobozolják és raklapra helyezik a konténerbe töltéshez.'
-      qc_check: 'Teljes vizuális ellenőrzés, tartozék-ellenőrzőlista SKU-nként, csomagolás-eldobási teszt (1 m, véletlenszerű minta), címke/vonalkód-szkennelés ellenőrzése'
-      qc_threshold: 'AQL 2,5 a jelentős hibákhoz, AQL 4,0 a kisebbekhez. Zéró tolerancia a biztonsági hibákra. Az egységek 100%-a vizuálisan ellenőrizve'
-      responsibility: 'Végső QC csapat (4 ellenőr) + Csomagolócsapat-vezető'
+      title: Final Inspection & Packing
+      description: 'Final visual and functional inspection. Surface defects, color consistency, label/BIN verification, packaging integrity, and accessory completeness. Units are vacuum-packed, boxed, and palletized for container loading.'
+      qc_check: 'Full visual inspection, accessory checklist per SKU, packaging drop test (1 m, random sample), label/bar code scan verification'
+      qc_threshold: 'AQL 2.5 for major defects, AQL 4.0 for minor. Zero tolerance on safety defects. 100% of units visually inspected'
+      responsibility: Final QC team (4 inspectors) + Packing team lead
 
 workforce:
-  tagline: 'Embereink'
-  title: 'Munkaerő és szakértelem'
-  engineers: '25+'
-  engineers_detail: 'Mérnökök az K+F, formatervezés, anyaglabor és gyártásmérnökség területén. Átlagosan 7+ év tapasztalat a felfújható gyártásban.'
-  shift_pattern: '2 műszak/nap (07:00–15:30, 15:30–00:00). Opcionális éjszakai műszak sürgős megrendelésekhez.'
-  training: 'Havi QC képzés, negyedéves biztonsági gyakorlatok, éves készségértékelés. Az újonnan felvettek 40 órás betanításon vesznek részt, mielőtt a gyártósorra kerülnének.'
+  tagline: Our People
+  title: Workforce & Expertise
+  engineers: 25+
+  engineers_detail: 'Engineers across R&D, mold design, materials lab, and production engineering. Average 7+ years in inflatable manufacturing.'
+  shift_pattern: '2 shifts/day (07:00–15:30, 15:30–00:00). Optional night shift for urgent orders.'
+  training: 'Monthly QC training, quarterly safety drills, annual skills assessment. New hires complete 40-hour induction before working on production line.'
   departments:
-    - name: 'K+F és mérnökség'
-      count: '25+'
-      role: 'Terméktervezés, forma-mérnökség, anyaglabor'
-    - name: 'Vágás és anyagelőkészítés'
+    - name: R&D & Engineering
+      count: 25+
+      role: Product design, mold engineering, materials lab
+    - name: Cutting & Material Prep
       count: 15
-      role: 'CNC vágás, panel-előkészítés, anyagkezelés'
-    - name: 'Hegesztés és laminálás'
+      role: CNC cutting, panel preparation, material handling
+    - name: Welding & Lamination
       count: 40
-      role: 'RF hegesztés, forró levegős hegesztés, drop-stitch ragasztás'
-    - name: 'SUP magragasztás'
+      role: RF welding, hot-air welding, drop-stitch bonding
+    - name: pool Core Bonding
       count: 30
-      role: 'Drop-stitch laminálás, hőragasztás, élsáv-fúzió'
-    - name: 'Szerelés és felszerelés'
+      role: Drop-stitch lamination, heat bonding, rail band fusion
+    - name: Assembly & Rigging
       count: 35
-      role: 'Végső szerelés, hardverbeszerelés, rendszervizsgálat'
-    - name: 'Minőségkontroll'
+      role: Final assembly, hardware installation, systems check
+    - name: Quality Control
       count: 12
-      role: 'Bejövő QC, folyamat közbeni QC, végső ellenőrzés, laborvizsgálat'
-    - name: 'Logisztika és csomagolás'
+      role: Incoming QC, in-process QC, final inspection, lab testing
+    - name: Logistics & Packing
       count: 20
-      role: 'Csomagolás, konténerbe töltés, kiviteli dokumentáció'
-    - name: 'Vezetés és adminisztráció'
+      role: Packaging, container loading, export documentation
+    - name: Management & Admin
       count: 15
-      role: 'Értékesítés, beszerzés, HR, pénzügy, megfelelőség'
+      role: Sales, procurement, HR, finance, compliance
 
 material_traceability:
-  tagline: 'Nyomonkövethetőség'
-  title: 'Anyagkövetés és tételkontroll'
-  description: 'Minden alapanyag-tétel egyedi lot-számot kap ERP rendszerünkben. A beérkezéstől a gyártáson át a késztermékig minden deszka anyagjegyzéke visszavezethető az eredeti beszállítói tételhez. Ez lehetővé teszi a teljes felfelé irányuló nyomonkövethetőséget bármilyen minőségi vagy megfelelőségi kérdés esetén.'
-  system: 'Egyedi ERP (a Qingdao Vatrad Group belső rendszere) + fizikai tételcímkék minden munkarendelésen'
-  coverage: 'A gyártási anyagok 100%-a — PVC, drop-stitch szövet, ragasztók, szelepek, hardverek, csomagolás'
-  records_retained: '10 év (a CE 2013/53/EU követelménye szerint)'
+  tagline: Traceability
+  title: Material Tracking & Batch Control
+  description: Every batch of raw material is assigned a unique lot number in our ERP system. From arrival through production to the finished product, each pool's bill of materials links back to the original supplier batch. This enables full upstream traceability for any quality or compliance inquiry.
+  system: Custom ERP (Qingdao Vatrad Group internal system) + physical batch tags on each work order
+  coverage: 100% of production materials — PVC, drop-stitch fabric, adhesives, valves, hardware, packaging
+  records_retained: 10 years (per CE 2013/53/EU requirement)
   suppliers:
-    - material: 'Tengeri minőségű PVC'
-      source: 'Kínai és koreai beszállítók'
-      certified: 'ISO 9001, REACH, RoHS'
-    - material: 'Drop-stitch szövet'
-      source: 'Saját szövés + külső partner'
-      certified: 'Belső QC + beszállítói ISO 9001'
-    - material: 'Szelepek és hardverek'
-      source: 'Kínai OEM beszállítók'
-      certified: 'ISO 9001, anyagtanúsítványok tételenként'
+    - material: Marine-grade PVC
+      source: Chinese and Korean suppliers
+      certified: ISO 9001, REACH, RoHS
+    - material: Drop-stitch fabric
+      source: In-house weaving + external partner
+      certified: Internal QC + supplier ISO 9001
+    - material: Valves & Hardware
+      source: Chinese OEM suppliers
+      certified: ISO 9001, material certs per batch
 
 qc_dashboard:
-  tagline: 'QC számokban'
-  title: 'Minőségkontroll-mutatók'
-  subtitle: 'Valós megfelelési adatok a gyártósorunkról. Minőségi laborunk független a gyártástól, és közvetlenül a vezetésnek jelent.'
+  tagline: QC by the Numbers
+  title: Quality Control Metrics
+  subtitle: Real pass/fail data from our production line. Our quality lab operates independently from production and reports directly to management.
   stats:
-    - value: '100%'
-      label: 'Nyomásterelt egységek'
-      detail: 'Minden deszka, minden kamra, minden tétel'
+    - value: 100%
+      label: Units pressure-tested
+      detail: Every pool, every chamber, every batch
     - value: '<5%'
-      label: 'Maximálisan megengedett nyomásesés'
-      detail: '24–48 óra alatt a névleges nyomás 1,25-szörösén'
-    - value: 'AQL 2,5'
-      label: 'Jelentős hiba küszöb'
-      detail: 'ISO 2859 mintavételi szabvány szerint'
-    - value: '24–48h'
-      label: 'Nyomástartási időtartam'
-      detail: 'A termékkategóriától függően'
-    - value: '1,25×'
-      label: 'Tesztnyomás a névlegeshez képest'
-      detail: 'Biztonsági tartalék minden kamrán'
-    - value: '0%'
-      label: 'Tolerancia a biztonsági hibákra'
-      detail: 'Szelepek, D-gyűrűk, varratok, felhajtóerő'
+      label: Max allowable pressure drop
+      detail: Over 24–48h at 1.25× rated pressure
+    - value: AQL 2.5
+      label: Major defect threshold
+      detail: Per ISO 2859 sampling standard
+    - value: 24–48h
+      label: Pressure hold duration
+      detail: Depending on product category
+    - value: 1.25×
+      label: Test pressure vs rated
+      detail: Safety margin on every chamber
+    - value: 0%
+      label: Tolerance on safety defects
+      detail: Valves, D-rings, seams, buoyancy
 
 process_cta:
-  title: 'Tekintse meg gyártási folyamatunkat'
-  desc: 'Kövessen végig egy deszkát a gyártás minden szakaszán — az alapanyagtól a vízre kész deszkáig.'
-  label: 'Gyártási folyamat megtekintése →'
+  title: See our manufacturing process
+  desc: Follow a pool through every stage of production — from raw material to backyard-ready pool.
+  label: View production process →
   link: /factory/process/

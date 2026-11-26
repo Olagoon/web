@@ -1,89 +1,89 @@
 meta:
-  title: 'Center za varjenje RF — dielektrično spajanje za zrakotesne šive | {SITE}'
-  description: 'Tehnologija varjenja z radiofrekvenco za skladne zrakotesne šive. Preskušanje luščenja, preverjanje zadrževanja zraka in specifikacije šivov po meri.'
-back_text: 'Nazaj na center za raziskave in razvoj'
-home_label: 'Domov'
+  title: 'RF Welding Center — Dielectric Bonding for Airtight Seams | {SITE}'
+  description: 'Radio-frequency welding technology delivering compliant airtight seams. Peel testing, air-retention validation, and custom seam specifications.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
 
 hero:
-  tagline: 'Laboratorij 03'
-  title: 'Center za varjenje RF'
-  subtitle: 'Tehnologija dielektričnega spajanja za vari, ki vzdržijo pod pritiskom'
-  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-1-1200w.webp'
-  image_alt: 'Postopek dielektričnega spajanja z varjenjem RF pri OLagoonju'
+  tagline: 'Lab 03'
+  title: 'RF Welding Center'
+  subtitle: 'Dielectric bonding technology for welds that hold under pressure'
+  image: 'https://assets.olagoon.com/images/olagoon/products/family-oasis.webp'
+  image_alt: 'OLagoon RF welding dielectric bonding process'
 
-intro: 'Napihljiva SUP deska je le toliko zanesljiva, kolikor so njeni šivi. En sam šibek var lahko ogrozi celotno komoro — na morju odpoved komore ni nevšečnost; je varnostno tveganje. V OLagoonju smo investirali v namenski center za varjenje z radiofrekvenco (RF), ki združuje industrijske dielektrične varilne preše s strogim nadzorom postopkov in preskušanjem po varjenju. Vsak šiv, ki ga izdelamo, je dokumentiran, sledljiv in certificiran, da izpolnjuje ali presega zahteve standarda EN ISO 25649 — evropskega standarda za napihljivo opremo za prosti čas.'
+intro: 'An inflatable pool is only as reliable as its seams. A single weak weld can compromise an entire chamber — and at sea, a chamber failure is not an inconvenience; it is a safety hazard. At OLagoon, we have invested in a dedicated Radio-Frequency (RF) Welding Center that combines industrial-grade dielectric welding presses with rigorous process control and post-weld testing. Every seam we produce is documented, traceable, and certified to meet or exceed the requirements of EN ISO 25649 — the European standard for inflatable leisure equipment.'
 
 content_html: |
-  <h2>Znanost za šivom</h2>
-  <p>Varjenje RF uporablja visokofrekvenčno elektromagnetno energijo (običajno 27.12 MHz) za vzbujanje polarnih molekul v tkanini s PVC-prevleko, pri čemer se toplota ustvarja natančno na stiku materialov. Za razliko od varjenja z vročim zrakom ali vročim klinom varjenje RF ustvari pravo molekularno vez — plasti tkanine se stopita v enoten material v coni varjenja in nastane spoj, ki je tako trden kot izvorni material sam.</p>
+  <h2>The science behind the seam</h2>
+  <p>RF welding uses high-frequency electromagnetic energy (typically 27.12 MHz) to excite the polar molecules within PVC-coated fabric, generating heat precisely at the material interface. Unlike hot-air or hot-wedge welding, RF welding creates a true molecular bond — the two fabric layers fuse into a single homogeneous material at the weld zone, producing a joint that is as strong as the parent material itself.</p>
 
-  <h2>Varilna oprema in nadzor postopka</h2>
-  <p>Naš varilni center je opremljen z:</p>
+  <h2>Welding equipment and process control</h2>
+  <p>Our welding centre is equipped with:</p>
   <table>
-    <thead><tr><th>Stroj</th><th>Moč / zmogljivost</th><th>Uporaba</th></tr></thead>
+    <thead><tr><th>Machine</th><th>Power / Capacity</th><th>Application</th></tr></thead>
     <tbody>
-      <tr><td>Dielektrična RF preša 1</td><td>15 kW, plošča 2000 × 600 mm</td><td>Glavni vzdolžni šivi, spoji rob–trup</td></tr>
-      <tr><td>Dielektrična RF preša 2</td><td>10 kW, plošča 1500 × 500 mm</td><td>Vari pregrad, zaključni spoji robov, krpe za ventile</td></tr>
-      <tr><td>RF varilni stroj s krmiljenjem CNC</td><td>8 kW, miza XY 2500 × 1200 mm</td><td>Ukrivljeni šivi, reliefni logotipi in paneli, natančno krpljenje</td></tr>
-      <tr><td>Samodejni varilni stroj z vročim klinom</td><td>Spremenljiva temperatura, največ 1.2 m/min</td><td>Rezervna metoda za debelo robno tkanino PVC in popravila</td></tr>
+      <tr><td>Dielectric RF press 1</td><td>15 kW, platen 2000 × 600 mm</td><td>Main longitudinal seams, rail-to-hull joints</td></tr>
+      <tr><td>Dielectric RF press 2</td><td>10 kW, platen 1500 × 500 mm</td><td>Baffle welds, rail closure joints, valve patches</td></tr>
+      <tr><td>CNC controlled RF welder</td><td>8 kW, XY table 2500 × 1200 mm</td><td>Curved seams, logo/panel embossing, precision patchwork</td></tr>
+      <tr><td>Hot-wedge automatic welder</td><td>Variable temperature, 1.2 m/min max</td><td>Backup method for thick PVC rail fabric and repair work</td></tr>
     </tbody>
   </table>
-  <p>Vsaka RF preša je opremljena z zaprtim krogom nadzora temperature in tlaka. Parametri varjenja — moč, čas stiskanja, čas hlajenja, tlak elektrode — se programirajo glede na vrsto materiala in zapisujejo v naš sistem za vodenje proizvodnje (MES) za popolno sledljivost.</p>
+  <p>Every RF press is equipped with closed-loop temperature and pressure monitoring. Weld parameters — power, press time, cooling time, electrode pressure — are programmed per material type and recorded in our Manufacturing Execution System (MES) for full traceability.</p>
 
-  <h2>Preskusi kakovosti varov — vsak šiv, vsaka deska</h2>
-  <p>Celovitost varov se preverja z obveznim protokolom štirih preskusov:</p>
+  <h2>Weld quality tests — every seam, every pool</h2>
+  <p>Weld integrity is verified through a mandatory four-test protocol:</p>
   <ol>
-    <li><strong>Optični pregled</strong> — 100 % šivov se optično pregleda za pregor, napačno poravnavo, onesnaženje ali nepopolno zlivanje. Prag stopnje zavrnitev: 0.5 % linearnih metrov.</li>
-    <li><strong>Preskus luščenja</strong> — Iz preskusnega vzorca, varjenega z vsako proizvodno serijo, se izreže 25 mm širok trak. Najmanjša sila luščenja: 120 N/25 mm za PVC 1100 dtex.</li>
-    <li><strong>Preskus zadrževanja zraka</strong> — Vsaka končana komora se napihne na 1.5-kratni delovni tlak in ga zadrži 30 minut. Padec tlaka ne sme preseči 2 %.</li>
-    <li><strong>Preskus toplotnega cikliranja</strong> — Vzorčni trakovi se ciklirajo od -20 °C do +60 °C za 50 ciklov, nato se ponovno preskusijo na luščenje. Sprejemljiva izguba trdnosti: &lt; 10 %.</li>
+    <li><strong>Visual inspection</strong> — 100 % of seams are visually inspected for burn-through, misalignment, contamination, or incomplete fusion. Reject rate threshold: 0.5 % of linear metres.</li>
+    <li><strong>Peel test</strong> — A 25 mm wide strip is cut from a test coupon welded with each production batch. Minimum peel force: 120 N/25 mm for PVC 1100 dtex.</li>
+    <li><strong>Air-retention test</strong> — Every completed chamber is pressurised to 1.5 × working pressure and held for 30 minutes. Pressure drop must not exceed 2 %.</li>
+    <li><strong>Thermal cycling test</strong> — Sample coupons are cycled from -20 °C to +60 °C for 50 cycles, then peel-tested again. Acceptable strength loss: &lt; 10 %.</li>
   </ol>
 
   <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
-    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Primerjava trdnosti luščenja — varjenje RF proti varjenju z vročim zrakom (PVC 1100 dtex)</p>
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Peel Strength Comparison — RF vs Hot-Air Welding (PVC 1100 dtex)</p>
     <div class="space-y-3">
       <div class="flex items-center gap-3">
-        <span class="w-24 text-xs font-medium">Var RF</span>
+        <span class="w-24 text-xs font-medium">RF Weld</span>
         <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
           <div class="h-full bg-blue-600 rounded" style="width:92%"></div>
         </div>
         <span class="text-xs font-bold w-12 text-right">184 N</span>
       </div>
       <div class="flex items-center gap-3">
-        <span class="w-24 text-xs font-medium">Vroč zrak</span>
+        <span class="w-24 text-xs font-medium">Hot-Air</span>
         <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
           <div class="h-full bg-gray-400 rounded" style="width:65%"></div>
         </div>
         <span class="text-xs font-bold w-12 text-right">130 N</span>
       </div>
       <div class="flex items-center gap-3">
-        <span class="w-24 text-xs font-medium">Najmanj</span>
+        <span class="w-24 text-xs font-medium">Min</span>
         <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
           <div class="h-full bg-green-500 rounded" style="width:48%"></div>
         </div>
         <span class="text-xs font-bold w-12 text-right">96 N</span>
       </div>
     </div>
-    <p class="text-xs text-gray-400 mt-2">Varjenje RF dosledno doseže 90-95 % trdnosti izvornega materiala, kar je precej nad najmanjšo vrednostjo.</p>
+    <p class="text-xs text-gray-400 mt-2">RF welding consistently achieves 90-95 % of parent-material strength, well above the minimum.</p>
   </div>
 
-  <h2>Strokovnost</h2>
-  <p>Našo varilno ekipo vodi višji inženir postopkov z 11 leti izkušenj z dielektričnim varjenjem prevlečenih tekstilij. Vsak operater pred delom na proizvodnih šivih opravi 6-mesečni interni certifikacijski program. Ponovna certifikacija je zahtevana letno, vključno s praktičnim preskusom varjenja, ki se oceni glede na naš interni standard razreda A (trdnost luščenja ≥ 160 N/25 mm).</p>
+  <h2>Professional expertise</h2>
+  <p>Our welding team is led by a senior process engineer with 11 years of experience in dielectric welding of coated textiles. Each operator completes a 6-month in-house certification programme before being allowed to work on production seams. Recertification is required annually, including a practical weld test evaluated against our internal Grade-A standard (peel strength ≥ 160 N/25 mm).</p>
 
-  <h2>Rešitve varjenja po meri za posebne zahteve</h2>
-  <p>Razumemo, da ena specifikacija varjenja ne ustreza vsaki uporabi. Naš center za varjenje RF redno razvija konfiguracije šivov po meri za stranke s posebnimi zahtevami:</p>
+  <h2>Custom welding solutions for unique requirements</h2>
+  <p>We understand that one welding specification does not fit every application. Our RF Welding Center routinely develops custom seam configurations for clients with special requirements:</p>
   <ul>
-    <li><strong>Večplastne ojačitvene krpe</strong> — za močno obremenjena območja, kot sta premčni in krmeni rob, razvijamo večprehodne vari RF, ki vključujejo obrabi odporen zunanji sloj brez omejevanja prožnosti.</li>
-    <li><strong>Prevodni ali RF-neprepustni šivi</strong> — za vojaške ali nadzorne aplikacije, ki zahtevajo elektromagnetno zaščito, vstavimo prevodne mrežaste sloje v strukturo šiva.</li>
-    <li><strong>Varjenje panelov s spremembo barve</strong> — dvobarvni tkanini panelov (npr. oranžni trup + siva paluba) se zvarita s skritim prekrivanjem, da se ohrani estetika znamke brez vidne črte spoja.</li>
+    <li><strong>Multi-layer reinforcement patches</strong> — for high-wear areas such as the nose and tail rails, we develop multi-pass RF welds that integrate a wear-resistant outer layer without compromising flexibility.</li>
+    <li><strong>Conductive or RF-opaque seams</strong> — for military or surveillance applications requiring electromagnetic shielding, we weld in conductive mesh layers within the seam stack-up.</li>
+    <li><strong>Colour-change panel welding</strong> — dual-colour fabric panels (e.g. orange hull + grey deck) welded with a concealed overlap to maintain brand aesthetics without a visible join line.</li>
   </ul>
 
-  <h2>Naša zaveza vam</h2>
-  <p>Vsaka deska, ki jo dostavimo, nosi našo garancijo kakovosti varov: če kateri koli šiv v običajni uporabi odpove v garancijskem obdobju, prizadeto komoro brezplačno popravimo ali zamenjamo, izvedemo pa tudi analizo vzrokov, da preprečimo ponovitev. To ni zgolj garancija — to je zaveza stalnemu izboljševanju, ki ga poganjajo dejanski obratovalni podatki.</p>
-  <p>Če izberete OLagoon, izberete šive, ki so konstruirani, preskušeni in dokumentirani — ne le zvarjeni. To je razlika med desko, ki plava, in desko, ki deluje.</p>
+  <h2>Our commitment to you</h2>
+  <p>Every pool we deliver carries our weld-quality guarantee: if any seam fails in normal service within the warranty period, we repair or replace the affected chamber at no cost, and a root-cause investigation is performed to prevent recurrence. This is not simply a warranty — it is a commitment to continuous improvement driven by real-world operational data.</p>
+  <p>When you choose OLagoon, you are choosing seams that are engineered, tested, and documented — not just welded. That is the difference between a pool that holds water and a pool that holds up season after season.</p>
 
 cta:
-  title: 'Pogovorite se o svojih zahtevah glede varjenja'
-  subtitle: 'Specifikacije šivov po meri, združljivost materialov ali preverjanje postopkov.'
-  button_text: 'Stopite v stik z našo varilno ekipo'
+  title: 'Discuss your welding requirements'
+  subtitle: 'Custom seam specifications, material compatibility, or process validation.'
+  button_text: 'Contact our welding team'
   button_link: /contact/

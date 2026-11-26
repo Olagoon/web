@@ -1,58 +1,58 @@
 meta:
-  title: 'OEM un privātā zīmola ražošana | {SITE}'
-  description: 'No koncepta līdz konteineram: pielāgojiet katru savas piepūšamo SUP līnijas detaļu. Pilns OEM/ODM serviss privātā zīmola airu dēļu zīmoliem.'
+  title: 'OEM & Private Label Manufacturing | {SITE}'
+  description: 'From concept to container: customize every detail of your inflatable pools line. Full OEM/ODM service for private label inflatable pool brands.'
   keywords:
-    - 'oem sup ražošana'
-    - 'privātā zīmola airu dēlis'
-    - 'oem piepūšamais sup'
-    - 'pielāgotu sup rūpnīca'
+    - 'oem pool manufacturing'
+    - 'private label inflatable pool'
+    - 'oem inflatable pools'
+    - 'custom pool factory'
 hero:
-  tagline: 'OEM/ODM ražošana'
-  title: 'OEM un privātā zīmola ražošana'
-  subtitle: 'No koncepta līdz konteineram — pielāgojiet katru savas piepūšamo SUP līnijas detaļu'
+  tagline: OEM/ODM Manufacturing
+  title: OEM & Private Label Manufacturing
+  subtitle: From concept to container — customize every detail of your inflatable pools line
 
-intro: 'olagoon piedāvā vispusīgus OEM un ODM pakalpojumus zīmoliem, izplatītājiem un valsts iestādēm visā pasaulē. Ar 10+ gadu eksporta pieredzi un 12,000 m² ISO 9001 un BSCI sertificētu rūpnīcu mēs pārvaldām visu — no produktu dizaina un veidņu izstrādes līdz pilna mēroga ražošanai, iepakojumam un loģistikai.'
+intro: olagoon offers comprehensive OEM and ODM services for brands, distributors, and government agencies worldwide. With 10+ years of export experience and a 12,000 m² ISO 9001 & BSCI certified factory, we handle everything from product design and mold development to full-scale production, packaging, and logistics.
 
 highlight:
-  - value: '10+'
-    label: 'Gadu OEM pieredze'
-    detail: 'Kopš 2012. gada'
-  - value: '50+'
-    label: 'Eksporta valstis'
-    detail: 'Globāls sasniegums'
-  - value: '200+'
-    label: 'Realizēti pielāgotie projekti'
-    detail: 'Visās produktu līnijās'
-  - value: '30–45'
-    label: 'Standarta izpildes laiks (dienas)'
-    detail: 'No pasūtījuma līdz FOB'
+  - value: 10+
+    label: Years OEM experience
+    detail: Since 2012
+  - value: 50+
+    label: Export countries
+    detail: Global reach
+  - value: 200+
+    label: Custom projects delivered
+    detail: Across all product lines
+  - value: 12–16
+    label: Standard lead time (weeks)
+    detail: 50–100 units, from PO to FOB
 
 services:
-  - title: 'Produktu dizains un inženierija'
-    description: 'Mūsu pašu pētniecības un izstrādes komanda strādā ar jūsu konceptu vai specifikāciju, lai izstrādātu CAD rasējumus, 3D modeļus un prototipus. Mēs piedāvājam veidņu dizainu, korpusa formas optimizāciju un materiālu izvēles norādījumus.'
-  - title: 'Pielāgots zīmolējums un grafika'
-    description: 'Pilnkrāsu digitālā druka, sitiena druka, reljefs un etiķešu opcijas. Mēs izstrādājam zīmolam specifisku klājuma grafiku, balonu zīmolējumu un mazumtirdzniecībai gatavu iepakojumu.'
-  - title: 'Materiālu un specifikāciju pielāgošana'
-    description: 'Izvēlieties no PVC (standarta, videi draudzīgs, ugunsizturīgs), Drop-Stitch un hibrīda konstrukcijām. Pielāgotas balonu krāsas, auduma svari un pastiprinājuma opcijas.'
-  - title: 'Iepakojums un loģistika'
-    description: 'Pielāgots mazumtirdzniecības iepakojums, privātā zīmola kastes, vakuumpackēšana, paletizēšana un konteineru iekraušana. Pieejami FOB Cindao, CIF vai DDP piegādes nosacījumi.'
+  - title: Product Design & Engineering
+    description: Our in-house R&D team works with your concept or spec to develop CAD drawings, 3D models, and prototypes. We offer mold design, hull shape optimization, and material selection guidance.
+  - title: Custom Branding & Graphics
+    description: Full-color digital printing, screen printing, embossing, and label options. We develop brand-specific deck graphics, tube branding, and retail-ready packaging.
+  - title: Material & Specification Customization
+    description: Choose from PVC (standard, eco-friendly, fire-retardant), drop-stitch, and hybrid constructions. Custom tube colors, fabric weights, and reinforcement options.
+  - title: Packaging & Logistics
+    description: Custom retail packaging, private-label boxes, vacuum packing, palletizing, and container loading. FOB Qingdao, CIF, or DDP shipping terms available.
 
 moq_table:
-  - product: 'Piepūšamie SUP dēļi'
-    standard_moq: '5–10 vienības'
-    custom_moq: '200+ vienības'
-    lead_time: '30–45 dienas'
-  - product: 'Glābšanas vestes un drošība'
-    standard_moq: '100–200 vienības'
-    custom_moq: '1,000+ vienības'
-    lead_time: '20–30 dienas'
+  - product: inflatable pools
+    standard_moq: 50 units (samples 5–10)
+    custom_moq: 200+ units
+    lead_time: 12–16 weeks
+  - product: Pool Accessories
+    standard_moq: 100–200 units
+    custom_moq: 1,000+ units
+    lead_time: 20–30 days
 
 why_us:
-  - title: 'Vertikālā integrācija'
-    description: 'Mēs piederam savai rūpnīcai, veidnēm un piegādes ķēdei — nav starpnieku, nav apakšuzņēmēju. Tas dod mums kontroli pār kvalitāti, izmaksām un piegādi.'
-  - title: 'Dubultā sertifikācija'
-    description: 'ISO 9001 kvalitātes vadības un BSCI sociālās atbilstības sertifikācija. Rūpnīcas audita pārskati pieejami pēc pieprasījuma.'
-  - title: 'CE atbilstība'
-    description: 'Visiem standarta modeļiem ir CE 2013/53/EU sertifikācija. Pielāgotie modeļi var tikt CE sertificēti caur mūsu izveidoto procesu.'
-  - title: 'Zems MOQ'
-    description: 'Sāciet jau ar 5 vienībām standarta modeļiem. Mēs palīdzam topošiem zīmoliem startēt, nepārslogojot krājumus.'
+  - title: Vertical Integration
+    description: We own our factory, molds, and supply chain — no middlemen, no subcontractors. This gives us control over quality, cost, and delivery.
+  - title: Dual Certification
+    description: ISO 9001 quality management and BSCI social compliance certification. Factory audit reports available upon request.
+  - title: CE Compliance
+    description: All standard models carry CE 2013/53/EU certification. Custom models can be CE certified through our established process.
+  - title: Low MOQ
+    description: Start with samples from 5–10 units; standard production runs from 50 units. We help emerging brands launch without overcommitting inventory.

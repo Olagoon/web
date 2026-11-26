@@ -1,72 +1,72 @@
 meta:
-  title: 'Denizcilik Uzmanlığı — Her gövdede mühendislik | {SITE}'
-  description: "Her gövdede onlarca yıllık deniz mühendisliği. olagoon, drop stitch, deniz PVC'si ve profesyonel şişme SUP tasarımında uzmandır."
+  title: 'Marine Expertise — Engineering in Every Hull | {SITE}'
+  description: 'Decades of marine engineering in every hull. olagoon masters drop stitch, marine PVC, and professional inflatable pools design.'
   keywords:
-    - 'denizcilik mühendisliği'
-    - 'şişme SUP tahtası üreticisi'
-    - 'paddle board üretimi'
+    - 'marine engineering'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: Denizcilik Uzmanlığı
-  title: Her Gövdede Onlarca Yıllık Deniz Mühendisliği<br />
-  subtitle: olagoon, önemli olduğunda performans gösteren deniz taşıtları üretmek için derin malzeme bilimini, hassas üretimi ve gerçek dünya testlerini birleştirir.
+  tagline: Marine Expertise
+  title: 'Decades of Marine Engineering<br />in Every Hull'
+  subtitle: 'olagoon combines deep material science, precision manufacturing, and real-world testing to produce watercraft that perform when it matters.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: olagoon deniz mühendisliği ve Ar-Ge ekibi çalışmalarında
+    alt: olagoon marine engineering and R&D team at work
 expertise_materials:
-  tagline: Malzeme Bilimi
-  title: Her Uygulama İçin<br />Doğru Malzemeyi Seçmek
-  subtitle: Her biri özel kullanım durumları ve performans gereksinimlerine göre seçilen iki temel malzemeyle çalışıyoruz.
+  tagline: Material Science
+  title: 'Choosing the Right Material<br />for Every Application'
+  subtitle: 'We work with two core materials — each selected for specific use cases and performance requirements.'
   columns: 3
   items:
-    - title: Deniz Sınıfı PVC
-      description: 1100 denier PVC kumaş — en çok yönlü malzememiz. UV stabilize, aşınmaya dayanıklı ve REACH uyumlu. Ağırlık ve maliyet verimliliğinin önemli olduğu SUP panoları için idealdir.
+    - title: Marine-Grade PVC
+      description: '1100 denier PVC fabric — our most versatile material. UV-stabilized, abrasion-resistant, and REACH compliant. Ideal for pools where weight and cost efficiency matter.'
       icon: tabler:droplet
-    - title: Fiberglas ve Polietilen
-      description: Premium sertlik ve kayma performansı için fiberglas laminalı SUP'lar. Maksimum darbe direnci gerektiren ağır hizmet kiralama ve kurtarma kullanımları için döner kalıplı polietilen.
+    - title: Fibreglass & Polyethylene
+      description: 'Fibreglass-laminated pools for premium stiffness and glide. Rotomoulded polyethylene for heavy-duty rental and rescue use requiring maximum impact resistance.'
       icon: tabler:building-arch
 expertise_manufacturing:
-  tagline: Üretim Yetenekleri
-  title: Her Adımda Hassas Üretim<br />
-  subtitle: 12.000 m²'lik tesisimiz üretimin her aşamasına yönelik özel makinelerle donatılmıştır.
+  tagline: Manufacturing Capabilities
+  title: 'Precision Manufacturing<br />at Every Step'
+  subtitle: 'Our 12,000 m² facility is equipped with specialized machinery for every stage of production.'
   columns: 2
   items:
-    - title: CNC Kesim
-      description: Bilgisayar kontrollü kesim, minimum atıkla hassas, tekrarlanabilir kumaş paneller sağlar. Her parça tam olarak tasarlandığı gibi uyuyor.
+    - title: CNC Cutting
+      description: 'Computer-controlled cutting ensures precise, repeatable fabric panels with minimal waste. Every piece fits exactly as designed.'
       icon: tabler:cpu
-    - title: Yüksek Frekanslı Kaynak
-      description: Endüstriyel HF kaynağı, ana malzemeden daha güçlü dikişler oluşturur. Tutarlı sıcaklık ve basınç kontrolü, her üretim sürecinde hava geçirmez contalar sağlar.
+    - title: High-Frequency Welding
+      description: 'Industrial HF welding creates seams stronger than the base material. Consistent temperature and pressure control ensures air-tight seals across every production run.'
       icon: tabler:bolt
-    - title: Drop Stitch Çekirdek Montajı
-      description: Binlerce polyester iplik, üst ve alt kumaş katmanlarını birbirine bağlayarak sert, stabil SUP tahtaları için yüksek basınçlı şişirmeye (15-20 PSI) olanak tanır.
+    - title: Drop Stitch Core Assembly
+      description: 'Thousands of polyester threads connect top and bottom fabric layers, allowing high-pressure inflation (15-20 PSI) for rigid, stable pools.'
       icon: tabler:building-arch
-    - title: Basınç Testi
-      description: Her şişirilebilir ürün, nakliyeden önce basınç testine tabi tutulur. Tahtalar 1,25x nominal basınçta test edilir — orada tutuyorsa suda performans gösterecektir.
+    - title: Pressure Testing
+      description: 'Every inflatable product is pressure-tested before shipping. Pools are tested at 1.25x rated pressure — if it holds there, it will perform on the water.'
       icon: tabler:wind
-    - title: Dikiş Gücü Testi
-      description: Her üretim partisinden rastgele numuneler yıkıcı dikiş mukavemeti testine tabi tutulur. Sonuçlar günlüğe kaydedilir ve belirli üretim işlemlerine göre izlenebilir.
+    - title: Seam Strength Testing
+      description: 'Random samples from each production batch undergo destructive seam strength testing. Results are logged and traceable to specific production runs.'
       icon: tabler:files
-    - title: Su Testi
-      description: Her SUP modeli sertifikasyondan önce deniz denemelerine tabi tutulur. Kıyı koşullarındaki gerçek dünya testleri performansı, kullanımı ve stabiliteyi doğrular.
+    - title: Water Testing
+      description: 'Every model undergoes sea trials before certification. Real-world testing in coastal conditions validates performance, handling, and stability.'
       icon: tabler:droplet
 expertise_design:
-  tagline: Tasarım ve Mühendislik
-  title: Gerçek Koşullar için Tasarlandı
-  subtitle: Tasarım felsefemiz tahtanın nasıl kullanılacağıyla başlar ve ardından mühendisliği bu kullanım senaryosu etrafında inşa eder.
+  tagline: Design & Engineering
+  title: 'Engineered for Real Conditions'
+  subtitle: 'Our design philosophy starts with how the pool will be used — then builds the engineering around that use case.'
   items:
-    - title: Performans Gövde Tasarımı
-      description: Her gövde şekli kullanım amacına göre ayarlanır — tur kayışı için deplasman burunları, sörf çevikliği için ekstra rocker, balıkçılık ve yoga için düz stabil profiller.
-    - title: Drop-Stitch Güvenliği
-      description: Her tahta, güçlendirilmiş raylı rijit bir drop-stitch çekirdeğe sahiptir. Bir bölüm hasar görürse, yüksek çekme dayanımlı drop-stitch yapısı tahtayı çalışır halde tutar.
-    - title: Ergonomik Deste Düzeni
-      description: Deste pedi bölgelendirmesi, taşıma kulbu konumu ve montaj noktaları, uzun süreli kullanımda sürücü konforu göz önünde bulundurularak tasarlanmıştır — ister tur, ister balıkçılık, ister devriye.
-    - title: Özel Konfigürasyon
-      description: Ray renkleri, deste pedi konfigürasyonu, aksesuar bağlantıları, ekipman kapasitesi — her model, belirli operasyonel gereksinimleri karşılayacak şekilde özelleştirilebilir.
+    - title: Performance Hull Design
+      description: 'Each pool is tuned for its use case — compact footprints for plunge soaking, family-sized layouts for play, and generous swim areas for daily laps.'
+    - title: Drop-Stitch Safety
+      description: 'Every pool features a rigid drop-stitch core with reinforced walls. If a section is damaged, the high-tensile drop-stitch structure keeps the pool operational.'
+    - title: Ergonomic Deck Layout
+      description: 'Deck-pad zoning, carry-handle position, and mounting points are designed around rider comfort during extended use — whether touring, fishing, or patrolling.'
+    - title: Custom Configuration
+      description: 'Rail colors, deck pad configuration, accessory mounts, gear capacity — each model can be customized to match specific operational requirements.'
 cta:
-  title: Belirli bir uygulama mı düşünüyorsunuz?
-  subtitle: Mühendislik ekibimiz projeniz için malzeme seçimi, tasarımı ve üretimi konusunda tavsiyelerde bulunabilir.
+  title: 'Have a specific application in mind?'
+  subtitle: 'Our engineering team can advise on material selection, design, and manufacturing for your project.'
   actions:
     - variant: primary
-      text: Mühendislerimize sorun
+      text: Ask our engineers
       href: /contact/
-    - text: Ürün yelpazesini görüntüle
+    - text: View product range
       href: /products/

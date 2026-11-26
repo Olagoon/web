@@ -1,145 +1,146 @@
 meta:
-  title: 'Kontakt — zapytania o partnerstwo i produkty | {SITE}'
-  description: 'Skontaktuj się z olagoonen w sprawie zapytań o partnerstwo, co-brand i private label lub flot profesjonalnych. Marka nadmuchiwanych desek SUP — odpowiadamy w ciągu 2 dni roboczych.'
+  title: 'Contact — Partnership & Product Inquiries | {SITE}'
+  description: 'Contact olagoon for partnership, co-brand, and private-label inquiries, or professional fleets. inflatable pools brand, we respond within 2 business days.'
   keywords:
-    - 'kontakt olagoon'
-    - 'wycena dystrybutora SUP'
-    - 'profesjonalny dostawca SUP'
-    - 'kontakt producent SUP'
+    - 'pool distributor quote'
+    - 'professional pool supplier'
+    - 'contact pool manufacturer'
 hero_text:
-  tagline: Kontakt
-  title: SKONTAKTUJ SIĘ Z NAMI
+  tagline: Contact
+  title: GET IN TOUCH
 contact_form:
   id: form
-  title: Wyślij wiadomość
-  subtitle: W sprawie wyceny, pytań technicznych lub partnerstwa — napisz do nas. Odpowiadamy w ciągu jednego dnia roboczego.
+  title: Send us a message
+  subtitle: For quotes, technical questions or partnership enquiries, drop us a line. We reply within one business day.
   email_to: info@olagoon.com
-  submit_button: Wyślij zapytanie → Uzyskaj wycenę
-  success_message: Dziękujemy! Twoja wiadomość została odebrana. Odpowiemy w ciągu jednego dnia roboczego.
-  error_message: Wystąpił błąd podczas wysyłania. Spróbuj ponownie lub napisz bezpośrednio na adres e-mail.
+  submit_button: Send Inquiry → Get a Quote
+  success_message: Thanks! Your message has landed in our inbox. We will reply within one business day.
+  error_message: Something went wrong sending your message. Please try again or email us directly.
   default_country_code: '+1'
   captcha:
-    label: 'Antyspam: rozwiąż następujące zadanie'
+    label: 'Anti-spam: please solve the following'
   fields:
     - name: country
-      label: Kraj
+      label: Country
       row: 1
       type: select
       optionsKey: countries
       step: 1
     - name: orderVolume
-      label: Szacowana wielkość zamówienia
+      label: Estimated Order Volume
       row: 2
       type: select
       options:
         - value: ''
-          label: Wybierz szacowaną objętość...
+          label: Select your estimated volume...
         - value: sample
-          label: Tylko próbki / prototypy
+          label: Samples / Prototypes only
         - value: '5-10'
-          label: 5–10 jednostek (Standardowe MOQ)
+          label: 5–10 units (Samples / Trial)
+        - value: '50-100'
+          label: 50–100 units
         - value: '100-500'
-          label: 100–500 jednostek
+          label: 100–500 units
         - value: '500-plus'
-          label: 500+ jednostek (Cennik ilościowy)
+          label: 500+ units (Volume pricing)
       step: 1
     - name: customization
-      label: Potrzebujesz personalizacji?
+      label: Customization Needed?
       row: 3
       type: select
       options:
         - value: ''
-          label: Wybierz typ dostosowania...
+          label: Select customization type...
         - value: none
-          label: Produkt standardowy (bez personalizacji)
+          label: Standard product (no customization)
         - value: logo
-          label: Tylko niestandardowe logo / branding
+          label: Custom Logo / Branding only
         - value: full
-          label: Pełny Co-Brand (rozmiar, kolor, grafika, opakowanie)
+          label: Full Co-Brand (size, color, graphics, packaging)
         - value: consultation
-          label: Nie jestem pewien — potrzebna konsultacja
+          label: Not sure — need consultation
       step: 1
     - name: productInterest
-      label: Interesujące kategorie produktów
+      label: Product Categories of Interest
       row: 4
       type: select
       options:
         - value: ''
-          label: Wybierz kategorię produktu...
+          label: Select product category...
         - value: all
-          label: Wszystkie produkty / Pełny katalog
-        - value: sup
-          label: Deski SUP / Deski do paddle
+          label: All products / Full catalog
+        - value: pool
+          label: pools / inflatable pool
         - value: safety
-          label: Sprzęt ochronny / Kamizelki ratunkowe
+          label: Pool Accessories & Spare Parts
         - value: accessory
-          label: Akcesoria (pompki, wiosła, torby)
+          label: Accessories (pumps, oars, bags)
       step: 1
     - name: firstName
-      label: Imię
+      label: First Name
       row: 1
       step: 2
     - name: lastName
-      label: Nazwisko
+      label: Last Name
       row: 1
       step: 2
     - name: companyName
-      label: Firma
+      label: Company Name
       row: 2
       step: 2
     - name: email
-      label: Email
+      label: E-mail
       row: 3
       type: email
       step: 2
     - name: tel
-      label: Telefon
+      label: TEL
       row: 3
       type: tel
       withCountryCode: true
       step: 2
     - name: address
-      label: Adres
+      label: Address
       row: 4
       step: 2
     - name: zip
-      label: Kod pocztowy
+      label: Zip / Postal Code
       row: 5
       step: 2
     - name: subject
-      label: Temat
+      label: Subject
       row: 1
       step: 3
     - name: message
-      label: Wiadomość
+      label: Message
       row: 2
       type: textarea
       rows: 6
       step: 3
 features2_other_ways:
-  title: Inne sposoby kontaktu
+  title: Other ways to reach us
   columns: 3
   items:
-    - title: Zapytania handlowe
-      description: Wyceny, konfiguracje, zgłoszenia dealerskie i zamówienia hurtowe.
+    - title: Sales enquiries
+      description: Quotes, configurations, dealer applications and bulk orders.
       icon: tabler:shopping-bag
-    - title: Wsparcie techniczne
-      description: Gwarancja, naprawy, części i pytania eksploatacyjne.
+    - title: Technical support
+      description: Warranty, repairs, spare parts and operating questions.
       icon: tabler:tool
-    - title: Prasa i partnerstwa
-      description: Pakiety medialne, sponsoring i współpraca branżowa.
+    - title: Press & partnerships
+      description: Media kits, sponsorship and industry collaboration.
       icon: tabler:news
-    - title: Telefon
+    - title: Phone
       description: '+1 279 732 3333'
       icon: tabler:headset
-    - title: E-mail
+    - title: Email
       description: info@olagoon.com
       icon: tabler:mail
-    - title: Siedziba główna
+    - title: Headquarters
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
       icon: tabler:map-pin
 map:
-  title: Nasza lokalizacja
-  subtitle: Odwiedź nas
+  title: Our Location
+  subtitle: Visit us at our headquarters
   address: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
   zoom: 15

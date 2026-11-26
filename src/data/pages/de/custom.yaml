@@ -1,85 +1,89 @@
 meta:
-  title: 'Custom Lab — Kundenspezifische aufblasbare Paddleboards | {SITE}'
-  description: 'Kundenspezifische aufblasbare Paddleboards: individuelles Design, Logo, eigene Form und Produktion. Private-Label-SUP-Partner, MOQ 50 Einheiten, CE-zertifiziert.'
+  title: 'Custom Lab — Custom Inflatable Pool | {SITE}'
+  description: 'Custom inflatable pool: bespoke design, logo, custom mold, and production. Private-label pool partner, MOQ 50 units, CE certified.'
   keywords:
-    - 'kundenspezifischer Paddleboard-Hersteller'
-    - 'kundenspezifisches aufblasbares SUP'
-    - 'Paddleboard mit Logo'
-    - 'Private-Label aufblasbares SUP'
-    - 'Paddleboard-Fertigung'
+    - 'custom inflatable pool manufacturer'
+    - 'custom inflatable pools'
+    - 'inflatable pool with logo'
+    - 'private label inflatable pools'
+    - 'inflatable pool manufacturing'
 hero:
   tagline: olagoon Custom Lab
-  title: Entwerfen Sie Ihr eigenes<br />Wasserfahrzeug
-  subtitle: Co-Brand-, Private-Label- und maßgeschneiderte Paddleboard-Produktion für Unternehmen weltweit. Vom einzelnen Prototypen bis zur vollständigen Produktionsserie.
-  cta: Starten Sie Ihr Projekt
+  title: Design Your Own<br />pools
+  subtitle: Custom pool partner offering co-brand, private label, and bespoke inflatable pool production for businesses worldwide. From a single prototype to full production runs.
+  cta: Start your project
   footer_link: /contact/
+
 steps_section:
-  tagline: So funktioniert es
-  title: Vom Konzept zur Produktion
-  subtitle: Vier Schritte von Ihrer Idee bis zum fertigen, seereifen Produkt.
+  tagline: How it works
+  title: From concept to production
+  subtitle: Four steps from your idea to a finished, sea-ready product.
   steps:
     - num: '01'
-      title: Wählen Sie Ihr Board
-      desc: Wählen Sie aus unseren Kern-SUP-Modellen — Allround, Touring, Yoga, Sport oder Kids. Wählen Sie Größe, Material und Farbe.
+      title: Choose Your Pool
+      desc: Select from our core pool models — all-around, touring, yoga, sport, or kids. Pick size, material, and colour.
     - num: '02'
-      title: Laden Sie Ihr Design hoch
-      desc: Senden Sie uns Ihr Logo, Ihre Grafiken oder Ihre Markenrichtlinien. Unser Designteam erstellt einen digitalen Proof.
+      title: Upload Your Design
+      desc: Send us your logo, artwork, or brand guidelines. Our design team prepares a digital proof.
     - num: '03'
-      title: KI-Mockup-Prüfung
-      desc: Sehen Sie sich ein fotorealistisches KI-generiertes Mockup Ihres individuellen Boards an, bevor die Produktion beginnt.
+      title: AI Mockup Review
+      desc: View a photorealistic AI-generated mockup of your custom pool before production begins.
     - num: '04'
-      title: Produktion & Lieferung
-      desc: Nach der Freigabe geht Ihre Bestellung in unsere ISO-zertifizierte Produktionslinie. Lieferzeiten ab 30 Tagen.
+      title: Production & Delivery
+      desc: Once approved, your order enters our production line. Lead times from 30 days.
+
 services_section:
-  tagline: Dienstleistungen
-  title: Fertigungsdienstleistungen für globale Marken
-  subtitle: Flexible Engagement-Modelle — von der Auftragsfertigung bis zum Full-Service-Markenaufbau.
+  tagline: Services
+  title: Manufacturing services for global brands
+  subtitle: Flexible engagement models — from contract manufacturing to full-service brand building.
   items:
-    - title: Co-Brand-Fertigung
-      desc: Wir produzieren Ihre Entwürfe nach Spezifikation — Ihr geistiges Eigentum, Ihre Zeichnungen, Ihre Qualitätsstandards. Vollständiger NDA-Schutz.
+    - title: Co-Brand Production
+      desc: We produce your designs to spec — your IP, your drawings, your quality standards. Full NDA protection.
       icon: ⚙️
-    - title: Design-Lösungen
-      desc: Wählen Sie aus über 50 bewährten Plattformen und passen Sie Größe, Farbe, Grafiken und Verpackung an.
-      icon: 🎨
-    - title: Eigenmarke
-      desc: Ihre Marke auf unseren Produkten — Logo, Verpackung, Anhänger, Handbücher. Verkaufsfertig aus der Verpackung.
-      icon: 🎨
-    - title: Individuelles Branding
-      desc: Deckpad-Druck, Rumpfgrafiken, Schlauchaufkleber und individuelle Etiketten — vollständige Markenintegration.
+    - title: Design Solutions
+      desc: Choose from 50+ proven platforms and customise size, colour, graphics, and packaging.
+      icon: '🎨'
+    - title: Private Label
+      desc: Your brand on our products — logo, packaging, hang tags, manuals. Retail-ready out of the box.
+      icon: '🎨'
+    - title: Custom Branding
+      desc: Deck pad printing, hull graphics, tube decals, and custom labels — full brand integration.
       icon: ⚙️
+
 capabilities_section:
-  tagline: Fähigkeiten
-  title: Produktions- & Individualisierungsmöglichkeiten
-  subtitle: Alles, was Sie vor Ihrer Bestellung wissen müssen.
+  tagline: Capabilities
+  title: Production & customisation capabilities
+  subtitle: Everything you need to know before placing your order.
   capabilities:
-    - label: Bestellmenge
-      value: MOQ 50 Einheiten (SUP)
-    - label: Lieferzeit
-      value: 30–45 Tage Standard; 15–20 Tage für Prototypen
-    - label: Individualisierung
-      value: Größe, Form, Farbe, Grafiken, Verpackung, Hardware
-    - label: Materialien
-      value: PVC, Drop-Stitch, EVA, Aluminium
-    - label: Druck
-      value: Digital (CMYK), Siebdruck, Transferdruck, Sublimation
-    - label: Zertifizierung
-      value: CE, UKCA, FCC (Unterstützung für globale Konformität)
+    - label: Order volume
+      value: MOQ 50 units (pool)
+    - label: Lead time
+      value: 12–16 weeks standard (50–100 units); 15–20 days for prototypes
+    - label: Customisation
+      value: Size, shape, colour, graphics, packaging, hardware
+    - label: Materials
+      value: PVC, drop-stitch, EVA, aluminium
+    - label: Printing
+      value: Digital (CMYK), screen printing, heat transfer, sublimation
+    - label: Certification
+      value: CE, UKCA, FCC (support for global compliance)
+
 why_section:
-  tagline: Warum olagoon
-  title: Eine Fabrik. Ein Standard. Keine Kompromisse.
+  tagline: Why olagoon
+  title: One factory. One standard. Zero compromises.
   points:
-    - text: 12.000 m² integrierte Fertigungsanlage
-      highlight: 12.000 m²
-    - text: 200+ Fachkräfte und Ingenieure
-      highlight: '200+'
-    - text: 15.000+ SUP-Boards jährlich produziert
-      highlight: 15.000+
-    - text: ISO 9001-zertifiziertes Qualitätsmanagement
+    - text: 12,000 m² integrated manufacturing facility
+      highlight: 12,000 m²
+    - text: 200+ skilled workers and engineers
+      highlight: 200+
+    - text: 15,000+ pools produced annually
+      highlight: 15,000+
+    - text: ISO 9001-certified quality management
       highlight: ISO 9001
-    - text: CE-zertifizierte Produkte für den EU-Markt
+    - text: CE certified products for EU market
       highlight: CE
-  cta: Fabrikdetails anzeigen
+  cta: View factory details
   cta_link: /factory/
   contact:
-    title: Bereit, über Ihr Projekt zu sprechen?
-    desc: Unser Team antwortet innerhalb von 24 Stunden mit einem vorläufigen Angebot.
+    title: Ready to discuss your project?
+    desc: Our team responds within 24 hours with a preliminary quote.

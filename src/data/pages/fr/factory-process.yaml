@@ -1,52 +1,52 @@
 meta:
-  title: 'Processus de Fabrication — De la Matière Première au SUP | {SITE}'
-  description: 'De la matière première au SUP prêt pour la mer : chaque étape du processus de fabrication olagoon sous notre contrôle, de la découpe et la soudure aux tests.'
+  title: 'Manufacturing Process — From Raw Material to pool | {SITE}'
+  description: 'From raw material to sea-ready pool: every step of the olagoon manufacturing process under our control, from cutting and welding to testing.'
   keywords:
-    - 'processus fabrication SUP'
-    - 'usine SUP gonflable'
-    - 'étapes production paddle'
-    - 'soudure PVC SUP'
+    - 'pool manufacturing process'
+    - 'inflatable pools factory'
+    - 'inflatable pool production steps'
+    - 'pvc welding pool'
 hero:
-  tagline: Processus
-  title: Processus de Fabrication
-  subtitle: De la matière première à la planche prête pour l'eau — chaque étape sous notre contrôle
-  back_label: Retour à l'Usine
+  tagline: Process
+  title: Manufacturing Process
+  subtitle: From raw material to backyard-ready pool — every step under our control
+  back_label: Back to Factory
   back_link: /factory/
 
-intro: Contrairement aux marques qui externalisent la production dans des usines tierces, olagoon possède et opère toute sa chaîne de fabrication. Cette intégration verticale nous permet de maintenir un contrôle qualité strict à chaque étape, de répondre rapidement aux exigences personnalisées et de fournir une qualité produit constante lot après lot. Voici comment une planche est construite dans notre installation.
+intro: Unlike brands that outsource production to third-party factories, olagoon owns and operates its entire manufacturing chain. This vertical integration allows us to maintain strict quality control at every stage, respond quickly to custom requirements, and deliver consistent product quality batch after batch. Here is how a pool is built in our facility.
 
 steps:
   - step: '01'
-    title: Réception et Inspection des Matériaux
-    description: Chaque lot entrant de tissu PVC, de mat de fibres de verre, de résine et de quincaillerie est inspecté par rapport à la spécification. Des échantillons de tissu sont testés pour la résistance à la traction, l'uniformité de l'épaisseur et la résistance aux UV avant leur libération en production. Les matériaux non conformes sont mis en quarantaine et retournés.
-    duration: 1–2 jours
+    title: Material Receipt & Inspection
+    description: Every incoming batch of PVC fabric, fiberglass mat, resin, and hardware is inspected against specification. Fabric samples are tested for tensile strength, thickness uniformity, and UV resistance before release to production. Non-conforming materials are quarantined and returned.
+    duration: 1–2 days
   - step: '02'
-    title: Découpe Automatique du PVC
-    description: Les tissus approuvés sont posés sur la machine de découpe automatique CNC et découpés avec une précision submillimétrique. Le placement optimisé par ordinateur organise les panneaux afin de minimiser les déchets — généralement moins de 5 %. Les panneaux découpés sont étiquetés par modèle de planche et par chambre, puis regroupés pour être transférés vers l'atelier de soudure.
-    duration: 2–4 heures par kit de planche
+    title: Automatic PVC Cutting
+    description: Approved fabrics are laid on the automatic CNC cutting machine and cut with sub-millimetre accuracy. Computer-optimised nesting arranges panels to minimise waste — typically below 5%. Cut panels are labelled by pool model and chamber, then bundled for transfer to the welding workshop.
+    duration: 2–4 hours per pool kit
   - step: '03'
-    title: Thermosoudure et Soudure des Tubes
-    description: Les panneaux sont pointés et assemblés à l'aide de machines de thermosoudure par soudage à air chaud à des températures contrôlées de 200–300 °C. Les coutures principales sont renforcées par soudure diélectrique RF pour des joints étanches à haute résistance. Les chambres terminées sont gonflées à 1.5× la pression de travail pour une validation de rétention d'air de 30 minutes.
-    duration: 1–2 jours par planche
+    title: Tube Heat Sealing & Welding
+    description: Panels are tacked and bonded using heat sealing machines with hot-air welding at controlled temperatures of 200–300 °C. Main seams are reinforced with RF dielectric welding for airtight, high-strength joints. Completed chambers are inflated to 1.5× working pressure for 30-minute air-retention validation.
+    duration: 1–2 days per pool
   - step: '04'
-    title: Impression et Décoration SUP
-    description: Les graphiques de pont des planches SUP sont appliqués par impression numérique pour des designs pleine couleur de qualité photo, et par sérigraphie pour des logos durables et des motifs répétés. Les impressions sont durcies et scellées pour résister aux UV et à l'abrasion.
-    duration: 1–2 jours
+    title: pool Printing & Decoration
+    description: pools deck graphics are applied using digital printing for full-colour photo-quality designs, and screen printing for durable logos and repeating patterns. Prints are cured and sealed for UV and abrasion resistance.
+    duration: 1–2 days
   - step: '05'
-    title: Assemblage Final et Gréement
-    description: Les planches sont gréées sur la chaîne d'assemblage avec les ailerons, valves, ponts EVA et accessoires. Chaque unité suit une liste de contrôle d'assemblage de 100 points avec validation obligatoire à chaque étape.
-    duration: 2–4 jours
+    title: Final Assembly & Rigging
+    description: Pools are rigged on the assembly line with valves, fittings, and accessories. Each unit follows a 100-point assembly checklist with mandatory sign-off at each stage.
+    duration: 2–4 days
   - step: '06'
-    title: Contrôle Qualité et Inspection
-    description: "Chaque planche terminée passe par un contrôle qualité obligatoire : test de rétention d'air des chambres, vérification du fonctionnement de la quincaillerie, contrôle du couple de serrage et inspection esthétique. Les constructions personnalisées et les prototypes font également l'objet d'essais en eau couvrant la stabilité et la maniabilité."
-    duration: 1–2 jours
+    title: Quality Testing & Inspection
+    description: 'Every completed pool undergoes mandatory quality gate: chamber air-retention test, hardware function check, fastener torque verification, and cosmetic inspection. Custom and prototype builds also receive in-water trials covering stability and handling.'
+    duration: 1–2 days
   - step: '07'
-    title: Emballage et Expédition
-    description: Les planches sont dégonflées, pliées selon la procédure, emballées dans des sacs tissés renforcés ou des caisses en contreplaqué, puis chargées pour expédition. Chaque colis est étiqueté avec le modèle, le numéro de série et la destination. Nous coordonnons avec des transitaires les expéditions FCL et LCL vers le monde entier.
-    duration: 1 jour
+    title: Packing & Shipping
+    description: Pools are deflated, folded per procedure, packed in heavy-duty woven bags or plywood crates, and loaded for shipment. Each package is labelled with model, serial number, and destination. We coordinate with freight forwarders for FCL and LCL container shipments worldwide.
+    duration: 1 day
 
 cta:
-  title: Découvrez nos équipements et machines
-  desc: Explorez l'équipement industriel derrière chaque planche olagoon.
-  label: Voir l'équipement →
+  title: See our equipment and machinery
+  desc: Explore the industrial-grade equipment behind every OLagoon pool.
+  label: View equipment →
   link: /factory/equipment/

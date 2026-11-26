@@ -1,97 +1,103 @@
 meta:
-  title: Program de parteneriat retail SUP | {SITE}
-  description: Program de parteneriat en-gros SUP pentru retaileri și magazine de articole sportive. Gamă completă de produse, opțiuni de dropshipping, marje en-gros competitive de 20–35% și MOQ redus pentru început.
+  title: 'pool Wholesale & Retail Partner Program | {SITE}'
+  description: 'pool wholesale partner program for retailers and sporting goods stores. Full product line, dropshipping options, competitive wholesale margins from 20–35%, and low MOQ to start.'
+
 hero:
-  tagline: Parteneri de retail
-  title: Vindeți SUP gonflabile premium<br />cu marje care funcționează
-  subtitle: Deveniți partener de retail OLagoon — aduceți în piața dumneavoastră cel mai rapid crescător brand SUP, cu prețuri en-gros complete, dropshipping, materiale de marketing profesionale și suport dedicat.
+  tagline: Retail Partners
+  title: 'Sell Premium inflatable pools<br />With Margins That Work'
+  subtitle: 'Become an OLagoon retail partner — carry the fastest-growing pool brand in your market with full wholesale pricing, dropshipping, professional marketing materials, and dedicated support.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Plăci SUP olagoon expuse într-un magazin de retail
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools displayed in a retail store
+
 margin_section:
-  title: Marje de retail și MOQ
-  subtitle: Niveluri de preț en-gros concepute pentru profitabilitatea în retail.
+  title: 'Retail Margins & MOQ'
+  subtitle: 'Wholesale pricing tiers designed for retail profitability.'
   items:
-    - tier: Partener de bază
-      discount: 20%
-      moq: 500 de unități/an
-      margin_note: ~$150–250 profit per placă
+    - tier: 'Basic Partner'
+      discount: '20%'
+      moq: '500 units/yr'
+      margin_note: '~$150–250 profit per board'
       features:
-        - Acces la întreaga gamă de produse
-        - Pachet de materiale de marketing
-        - Suport prin e-mail
-        - Acces la catalogul de produse
-    - tier: Partener Premium
-      discount: 30%
-      moq: 2.000+ unități/an
-      margin_note: Profit de ~$250–400 per placă
+        - 'Access to full product line'
+        - 'Marketing materials package'
+        - 'Email support'
+        - 'Product catalog access'
+    - tier: 'Premium Partner'
+      discount: '30%'
+      moq: '2,000+ units/yr'
+      margin_note: '~$250–400 profit per board'
       features:
-        - Manager de cont dedicat
-        - Protecția teritoriilor exclusive
-        - Suport de marketing personalizat
-        - Acces prioritar la produse noi
-        - Sesiuni de instruire a personalului
-    - tier: Partener principal
-      discount: 35%+
-      moq: 5.000+ unități/an
-      margin_note: Profit de ~$350–500+ per placă
+        - 'Dedicated account manager'
+        - 'Exclusive territory protection'
+        - 'Custom marketing support'
+        - 'First access to new products'
+        - 'Staff training sessions'
+    - tier: 'Flagship Partner'
+      discount: '35%+'
+      moq: '5,000+ units/yr'
+      margin_note: '~$350–500+ profit per board'
       features:
-        - Campanii de marketing în co-branding
-        - Suport pentru prezentarea în magazin
-        - Instruirea personalului la fața locului
-        - Promoții comune pe rețelele sociale
-        - Alocare prioritară în producție
+        - 'Co-branded marketing campaigns'
+        - 'In-store display support'
+        - 'On-site staff training'
+        - 'Joint social media promotions'
+        - 'Priority production allocation'
+
 product_line:
-  title: Gamă completă de produse
-  subtitle: O placă SUP pentru fiecare client care îți trece pragul.
+  title: Complete Product Line
+  subtitle: 'A pools for every customer who walks through your door.'
   items:
     - name: All-Round Series
-      description: Best seller — se potrivește pentru 80% dintre clienți
+      description: 'Best seller — fits 80% of customers'
     - name: Touring Series
-      description: Practicanți avansați — marjă mai mare
+      description: 'Performance swimmers — higher margin'
     - name: Yoga Series
-      description: Piață de nișă — prețuri premium
+      description: 'Niche market — premium pricing'
     - name: Kids Series
-      description: Clienți de familie — cumpărători recurenți
+      description: 'Family customers — repeat buyer'
     - name: Racing Series
-      description: Piața entuziaștilor — efect de halo pentru brand
+      description: 'Enthusiast market — brand halo'
     - name: Accessories
-      description: Accesorii cu marjă mare (vâsle, veste, pompe, genți)
+      description: 'High margin add-ons (paddles, vests, pumps, bags)'
+
 catalog:
-  title: Resurse pentru partenerii retail
-  subtitle: Descărcați kitul nostru complet pentru parteneri de retail.
+  title: Retail Partner Resources
+  subtitle: 'Download our comprehensive retail partner kit.'
   items:
-    - name: 2026 Product Catalog
-      desc: Gama completă cu specificații, prețuri și informații de comandă
-      icon: tabler:file-text
-      link: /resources/download-catalog/
-    - name: Retail Partner Guide
-      desc: Calculator de marjă, sfaturi de merchandising și bune practici
-      icon: tabler:book
-      link: /resources/download-catalog/
-    - name: Marketing Asset Pack
-      desc: Fotografii de produs de înaltă rezoluție, imagini lifestyle și materiale POS
-      icon: tabler:photo
-      link: /media/
+    - name: '2026 Product Catalog'
+      desc: 'Full lineup with specs, pricing, and ordering information'
+      icon: 'tabler:file-text'
+      link: '/resources/download-catalog/'
+    - name: 'Retail Partner Guide'
+      desc: 'Margin calculator, merchandising tips, and best practices'
+      icon: 'tabler:book'
+      link: '/resources/download-catalog/'
+    - name: 'Marketing Asset Pack'
+      desc: 'Hi-res product photos, lifestyle images, and POS materials'
+      icon: 'tabler:photo'
+      link: '/media/'
+
 support:
-  title: Suport pentru partenerii de retail
-  subtitle: Tot ce ai nevoie pentru a vinde cu încredere.
+  title: Retail Partner Support
+  subtitle: 'Everything you need to sell confidently.'
   items:
-    - Imagini de produs de înaltă rezoluție (fotografie profesională)
-    - Fotografii lifestyle pentru social media, site web și catalog
-    - Materiale de marketing — postere, expozanți de raft, bannere
-    - Videoclipuri de instruire despre produse pentru educarea personalului
-    - Pachet de conținut pentru social media (postări săptămânale)
-    - Descrieri de produs optimizate SEO
-    - Opțiune de dropshipping disponibilă — fără risc de stocuri
-    - Condiții de plată net 30
+    - 'High-res product images (professional photography)'
+    - 'Lifestyle photos for social media, website, and catalog'
+    - 'Marketing materials — posters, shelf talkers, banners'
+    - 'Product training videos for staff education'
+    - 'Social media content pack (weekly posts)'
+    - 'SEO-optimized product descriptions'
+    - 'Dropshipping option available — no inventory risk'
+    - 'Net 30 payment terms'
+
 cta:
-  title: Sunteți pregătit să deveniți partener de retail OLagoon?
-  subtitle: Aplicați pentru parteneriat sau descărcați catalogul nostru de retail pentru a începe.
+  title: 'Ready to become an OLagoon retail partner?'
+  subtitle: 'Apply for partnership or download our retail catalog to get started.'
   actions:
-    - text: Aplicați pentru parteneriat
-      href: /contact/?partner=retail
-      variant: primary
-    - text: Descărcați catalogul de retail
-      href: /resources/download-catalog/
-      variant: secondary
+    - text: 'Apply for Partnership'
+      href: '/contact/?partner=retail'
+      variant: 'primary'
+    - text: 'Download Retail Catalog'
+      href: '/resources/download-catalog/'
+      variant: 'secondary'

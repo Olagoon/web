@@ -1,87 +1,87 @@
 meta:
-  title: 'Tovarniška oprema — rezanje, VF-varjenje in tiskanje | {SITE}'
-  description: 'Industrijska proizvodna oprema olagoon: rezanje PVC, VF-varjenje, digitalno tiskanje, sestavljanje in preskušanje napihljivih desk SUP.'
+  title: 'Factory Equipment — Cutting, RF Welding & Printing | {SITE}'
+  description: 'Industrial-grade olagoon manufacturing equipment: PVC cutting, RF welding, digital printing, assembly, and testing for inflatable pools.'
   keywords:
-    - 'oprema za proizvodnjo sup'
-    - 'tovarna napihljivih sup'
-    - 'vf-varjenje pvc'
-    - 'proizvodnja desk za veslanje'
+    - 'pool manufacturing equipment'
+    - 'inflatable pools factory'
+    - 'rf welding pvc'
+    - 'inflatable pool production'
 hero:
-  tagline: 'Oprema'
-  title: 'Proizvodna oprema in stroji'
-  subtitle: 'Industrijska oprema za rezanje, varjenje, tiskanje in sestavljanje'
-  back_label: 'Nazaj na tovarno'
+  tagline: Equipment
+  title: Manufacturing Equipment & Machinery
+  subtitle: Industrial-grade equipment across cutting, welding, printing, and assembly
+  back_label: Back to Factory
   back_link: /factory/
 
 categories:
-  - title: 'Rezanje in priprava materialov'
+  - title: Cutting & Material Preparation
     items:
-      - name: 'Avtomatski stroj za rezanje PVC'
-        spec: 'CNC-krmiljen, 6,5 m × 2,5 m, natančnost 0,1 mm'
-        desc: 'Računalniško krmiljen avtomatski stroj za rezanje PVC in tkanin drop-stitch. Programska oprema za gnezdenje optimizira izrabo materiala na manj kot 5 % odpadkov.'
-      - name: 'Razgrnjalnik tkanin'
-        spec: 'največja širina 3 m, napajanje z nadzorom napetosti'
-        desc: 'Polaga tkanino v eni ali več plasteh z nadzorovano napetostjo, da se pred rezanjem prepreči popačenje.'
+      - name: Automatic PVC Cutting Machine
+        spec: CNC-controlled, 6.5 m × 2.5 m, 0.1 mm accuracy
+        desc: Computer-controlled automatic cutting machine for PVC and drop-stitch fabrics. Nesting software optimises material utilisation to below 5% waste.
+      - name: Fabric Spreader
+        spec: 3 m max width, tension-controlled feed
+        desc: Lays fabric in single or multiple plies with controlled tension to prevent distortion before cutting.
 
-  - title: 'Varjenje in spajanje cevi'
+  - title: Tube Welding & Bonding
     items:
-      - name: 'Stroj za toplotno zavarjevanje'
-        spec: 'varjenje z vročim zrakom, nastavljivo 200–600 °C, 0,5–5 m/min'
-        desc: 'Stroj za toplotno zavarjevanje z vročim zrakom za spajanje in varjenje PVC ter šivov robov. Uporablja se za začasno spajkanje, tesnjenje in zlivanje komor cevi in spojev plovcev.'
-      - name: 'Dielektrična VF-presa'
-        spec: '15 kW, pladenj 2000 × 600 mm'
-        desc: 'Radiofrekvenčna varilna presa za glavne vzdolžne šive, robne pasove in izdelavo velikih komor.'
-      - name: 'VF-varilni stroj s krmiljenjem CNC'
-        spec: '8 kW, XY-miza 2500 × 1200 mm'
-        desc: 'Programirljivo varjenje zakrivljenih šivov za kompleksne geometrije, reliefne logotipe in natančno krpanje.'
+      - name: Heat Sealing Machine
+        spec: Hot-air welding, variable 200–600 °C, 0.5–5 m/min
+        desc: Hot-air heat sealing machine for bonding and welding PVC and rail seams. Used for tacking, sealing, and fusing tube chambers and float joints.
+      - name: Dielectric RF Press
+        spec: 15 kW, platen 2000 × 600 mm
+        desc: Radio-frequency welding press for main longitudinal seams, rail bands, and large-chamber fabrication.
+      - name: CNC-Controlled RF Welder
+        spec: 8 kW, XY table 2500 × 1200 mm
+        desc: Programmable curved-seam welding for complex geometries, logo embossing, and precision patchwork.
 
-  - title: 'Izdelava desk SUP'
+  - title: pools Manufacturing
     items:
-      - name: 'Presa za laminiranje jeder drop-stitch'
-        spec: 'presa velikega formata za jedra desk do 14 ft dolžine'
-        desc: 'Natančno laminiranje jeder drop-stitch na zunanje laminate iz PVC. Vsaka plast je prilepljena pod pritiskom za dosledno kakovost in trdnost.'
-      - name: 'CNC-freza (5-osna)'
-        spec: 'delovni prostor 3 m × 2 m × 1 m, vodno hlajeno vreteno'
-        desc: 'Obdelava mest za plavutke, izrezi za ročaje in komponente desk po meri.'
+      - name: Drop-Stitch Core Lamination Press
+        spec: Large-format press for drop-stitch cores up to 5 m length
+        desc: Precision lamination of drop-stitch cores to outer PVC laminates. Each layer is pressure-bonded for consistent quality and strength.
+      - name: CNC Router (5-axis)
+        spec: 3 m × 2 m × 1 m envelope, water-cooled spindle
+        desc: Machining of valve ports, handle cutouts, and custom pool components.
 
-  - title: 'Tiskanje in okraševanje desk SUP'
+  - title: pool Printing & Decoration
     items:
-      - name: 'Digitalni tiskalnik'
-        spec: 'visokoločljivostni brizgalni tisk, širina tiska do 2 m'
-        desc: 'Digitalno tiskanje neposredno na tkanino za polnobarvno grafiko palub SUP. Natisne vzorce po meri, prelive in fotografije kakovosti z vodnimi črnili, odpornimi na UV.'
-      - name: 'Stroj za sitotisk'
-        spec: 'ročno in polavtomatsko, večbarvna registracija'
-        desc: 'Sitotisk logotipov desk SUP, znamk in ponavljajočih se vzorcev. Zagotavlja trajne, pokrivne odtiske z živahno nasičenostjo barv.'
+      - name: Digital Printer
+        spec: High-resolution inkjet, up to 2 m print width
+        desc: Direct-to-fabric digital printing for full-colour pool deck graphics. Prints custom patterns, gradients, and photo-quality images with UV-resistant water-based inks.
+      - name: Screen Printing Machine
+        spec: Manual and semi-automatic, multi-colour registration
+        desc: Screen printing for pools logos, brand marks, and repeating patterns. Provides durable, opaque prints with vibrant colour saturation.
 
-  - title: 'Sestavljanje in opremljanje'
+  - title: Assembly & Rigging
     items:
-      - name: 'Postaja za sestavljanje desk'
-        spec: 'modularna nastavljiva, večpostavna razporeditev'
-        desc: 'Sestavljanje mest za plavutke, ročajev, D-obročev, ventilov in palubnih blazin na deske SUP.'
-      - name: 'Presa za vgradnjo ventilov'
-        spec: 'pnevmatska, nastavljiv tlak'
-        desc: 'Natančna vgradnja in tesnjenje ventilov Halkey-Roberts in Leafield.'
-      - name: 'Laminator palubnih blazin'
-        spec: '3 m × 1,5 m, nadzor temperature'
-        desc: 'Toplotno laminiranje palubnih blazin iz EVA-pene na zgornje ploskve desk SUP z dosledno trdnostjo spoja.'
+      - name: Pool Assembly Station
+        spec: Modular adjustable, multi-station layout
+        desc: Assembly of fin boxes, handles, D-rings, valves, and deck pads onto pools.
+      - name: Valve Installation Press
+        spec: Pneumatic, adjustable pressure
+        desc: Precision installation and sealing of Halkey-Roberts and Leafield valves.
+      - name: Deck Pad Laminator
+        spec: 3 m × 1.5 m, temperature-controlled
+        desc: Heat lamination of EVA foam deck pads to pools tops with consistent bond strength.
 
-  - title: 'Preskušanje in kontrola kakovosti'
+  - title: Testing & Quality Control
     items:
-      - name: 'Univerzalna natezna naprava'
-        spec: '50 kN, ASTM D751'
-        desc: 'Preskušanje pretrgalne sile, raztezka ob pretrgu in širjenja strga za serije tkanin.'
-      - name: 'Naprava za preskus zadrževanja zraka'
-        spec: 'programirljiva, 30-minutno zadrževanje tlaka'
-        desc: 'Avtomatiziran preskus zadrževanja tlaka za vsako komoro cevi pred sestavljanjem.'
-      - name: 'Preizkuševalec luščenja šivov'
-        spec: 'motorizirano luščenje 180° pri 100 mm/min'
-        desc: 'Preskušanje trdnosti luščenja varjenih in lepljenih šivov po EN ISO 25649.'
-      - name: 'Klimatska komora s ksenonsko oblo'
-        spec: 'izpostavljenost 2000 h'
-        desc: 'Preskušanje odpornosti na UV glede spremembe barve in ohranitve trdnosti.'
+      - name: Universal Tensile Tester
+        spec: 50 kN, ASTM D751
+        desc: Breaking force, elongation at break, and tear propagation testing for fabric batches.
+      - name: Air Retention Test Rig
+        spec: Programmable, 30-min pressure-hold
+        desc: Automated pressure-hold test for every tube chamber before assembly.
+      - name: Seam Peel Tester
+        spec: Motorised 180° peel at 100 mm/min
+        desc: Weld and glued-seam peel strength testing per EN ISO 25649.
+      - name: Xenon-Arc Weathering Chamber
+        spec: 2000 h exposure
+        desc: UV resistance testing for colour change and strength retention.
 
 cta:
-  title: 'Zanima vas ogled tovarne?'
-  desc: 'Obiskovalce na našem objektu v Qingdaou z veseljem sprejemamo. Osebno si oglejte našo opremo in procese.'
-  label: 'Dogovorite obisk →'
+  title: Interested in a factory tour?
+  desc: We welcome visitors to our Qingdao facility. See our equipment and processes in person.
+  label: Schedule a visit →
   link: /contact/

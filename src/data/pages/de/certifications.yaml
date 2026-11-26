@@ -1,68 +1,68 @@
 meta:
-  title: 'Zertifizierungen — CE, ISO 9001 & Konformität | {SITE}'
-  description: 'Qualitätszertifizierungen von olagoon: CE (EN ISO 25649), ISO 9001:2015, BSCI. Konformität und Sicherheit für einen Hersteller aufblasbarer SUPs.'
+  title: 'Certifications — CE, ISO 9001 & Compliance | {SITE}'
+  description: 'olagoon quality certifications: CE (EN ISO 25649), ISO 9001:2015, BSCI. Compliance and safety for an inflatable pool manufacturer.'
   keywords:
-    - 'CE-Zertifizierung SUP'
-    - 'ISO 9001 SUP'
-    - 'nautische Konformität'
-    - 'Paddleboard-Zertifizierung'
+    - 'ce certification pool'
+    - 'iso 9001 pool'
+    - 'nautical compliance'
+    - 'inflatable pool certification'
 hero:
-  tagline: Zertifizierungen & Standards
-  title: Qualitätszertifizierungen<br />& Compliance-Standards
-  subtitle: olagoon-Produkte werden nach internationalen maritimen Sicherheitsstandards, Qualitätsmanagementsystemen und Umweltvorschriften hergestellt.
+  tagline: Certifications & Standards
+  title: 'Quality Certifications<br />& Compliance Standards'
+  subtitle: 'olagoon pool manufacturing is certified to international marine safety standards, quality management systems, and environmental regulations — CE, ISO 9001, UKCA, BSCI, and REACH.'
   image:
     src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
-    alt: Seefahrer-Qualitätszertifikate und Konformitätsdokumentation
+    alt: olagoon quality certifications and compliance documentation
 content_certifications:
-  tagline: Unsere Zertifizierungen
-  title: Zertifizierte Qualität,<br />Weltweit anerkannt
-  subtitle: Jedes olagoon-Produkt wird durch Zertifizierungen gestützt, die unser Engagement für Qualität, Sicherheit und Umweltverantwortung belegen.
+  tagline: Our Certifications
+  title: 'Certified Quality,<br />Globally Recognized'
+  subtitle: 'Every olagoon product is backed by certifications that demonstrate our commitment to quality, safety, and environmental responsibility.'
   items:
-    - title: CE-zertifiziert
-      description: Alle olagoon-Produkte erfüllen die CE-Kennzeichnungsanforderungen für Freizeitwasserfahrzeuge.
+    - title: 'CE Certified'
+      description: 'All olagoon products comply with European CE marking requirements for recreational watercraft, ensuring safety, health, and environmental protection standards are met.'
       icon: tabler:certificate
-    - title: ISO 9001:2015
-      description: Unser QMS ist ISO 9001:2015 zertifiziert und deckt Design, Fertigung und Vertrieb aufblasbarer Wasserfahrzeuge und Marineausrüstung ab.
+    - title: 'ISO 9001:2015'
+      description: 'Our quality management system is ISO 9001:2015 certified, covering design, manufacturing, and distribution of inflatable watercraft and marine equipment.'
       icon: tabler:clipboard-check
-    - title: UKCA-gekennzeichnet
-      description: Im UK-Markt verkaufte Produkte tragen die UKCA-Kennzeichnung.
+    - title: 'UKCA Marked'
+      description: 'Products sold in the UK market carry UKCA marking, confirming compliance with UK regulations for marine equipment and personal watercraft.'
       icon: tabler:shield
-    - title: BSCI-konform
-      description: olagoon ist BSCI-auditiert für ethische Fertigung, faire Arbeitsbedingungen und Lieferkettenverantwortung.
+    - title: 'BSCI Compliant'
+      description: 'olagoon is BSCI (Business Social Compliance Initiative) audited, demonstrating ethical manufacturing practices, fair labor conditions, and supply chain responsibility.'
       icon: tabler:heart-handshake
-    - title: REACH-konform
-      description: Alle in olagoon-Produkten verwendeten Materialien entsprechen der EU-REACH-Verordnung
+    - title: 'REACH Compliant'
+      description: 'All materials used in olagoon products comply with EU REACH regulations for chemical safety, ensuring no restricted substances in our PVC, EVA, or components.'
       icon: tabler:flask
-    - title: Materialprüfung
-      description: Gewebe werden auf Zugfestigkeit, Weiterreiß, UV und Kältebruch geprüft. Jede Charge wird beprobt.
+    - title: 'Material Testing'
+      description: 'Fabrics are tested for tensile strength, tear resistance, UV degradation, and cold-crack performance. Every production batch is sampled and verified.'
       icon: tabler:test-pipe
 content_factory:
-  tagline: Werksstandards
-  title: Fertigungsqualität<br />— Nach Spezifikation
-  subtitle: Unsere 12.000 m² Anlage arbeitet nach strengen Qualitätskontrollprotokollen.
+  tagline: Factory Standards
+  title: 'Manufacturing Excellence<br />— Built to Specification'
+  subtitle: 'Our 12,000 m² facility operates under strict quality control protocols at every stage of production.'
   list:
-    - 'Eingangsprüfung: Alle Rohmaterialien – PVC-Gewebe, EVA-Schaum, Klebstoffe, Beschläge – werden vor der Produktion gegen Spezifikationen geprüft'
-    - 'Prozessbegleitende Qualitätskontrolle: Jede Produktionsstufe hat dokumentierte QS-Prüfpunkte'
-    - 'Druckprüfung: Jede aufblasbare Kammer wird bei 1,25-fachem Nenndruck 24–48 Stunden lang geprüft'
-    - 'Endprüfung: Fertigprodukte werden auf Maßgenauigkeit, Oberflächenqualität und Funktionalität geprüft'
-    - 'Chargenrückverfolgbarkeit: Jedes Produkt trägt eine Seriennummer, die mit Produktionschargen verknüpft ist'
+    - 'Incoming Material Inspection: All raw materials — PVC fabric, EVA foam, adhesives, hardware — are tested against specifications before entering production.'
+    - 'In-Process Quality Control: Every production stage has documented QC checkpoints. Weld strength, seam alignment, valve installation, and fitting torque are verified inline.'
+    - 'Pressure Testing: Every inflatable chamber is pressure-tested at 1.25× rated pressure for 24–48 hours. Pressure drop must stay below 5% for a passing grade.'
+    - 'Final Inspection: Completed products are inspected for dimensional accuracy, cosmetic finish, accessory completeness, and packaging integrity before shipping.'
+    - 'Batch Traceability: Every product carries a serial number linked to production batch records, enabling full traceability from raw material to finished goods.'
 content_safety:
-  tagline: Marine Sicherheitsstandards
-  title: Sicherheit zuerst<br />— Für zuverlässigen Betrieb
-  subtitle: olagoon-Produkte werden entwickelt und geprüft, um internationale maritime Sicherheitsstandards zu erfüllen.
+  tagline: Marine Safety Standards
+  title: 'Safety First<br />— Designed for Reliable Operation'
+  subtitle: 'olagoon products are designed and tested to meet international marine safety standards for commercial and recreational use.'
   items:
-    - title: EN ISO 25649
-      description: Aufblasbare SUPs entsprechen EN ISO 25649 für Konstruktion, Stabilität, Auftrieb und Tragfähigkeit.
+    - title: 'EN ISO 25649'
+      description: 'inflatable pools comply with EN ISO 25649 standards for construction, stability, buoyancy, and load capacity.'
       icon: tabler:sailboat
-    - title: SOLAS-Konformität
-      description: Sicherheitsausrüstung und Rettungsgeräte erfüllen SOLAS-Anforderungen.
+    - title: 'SOLAS Compliance'
+      description: 'Safety equipment and life-saving appliances meet SOLAS (Safety of Life at Sea) requirements where applicable.'
       icon: tabler:lifebuoy
 cta:
-  title: Benötigen Sie zertifizierte Produkte?
-  subtitle: Kontaktieren Sie uns für Zertifizierungsanforderungen, Dokumentation und Compliance.
+  title: 'Need certified products for your project?'
+  subtitle: 'Contact our team to discuss certification requirements, documentation, and compliance for your market.'
   actions:
     - variant: primary
-      text: Zertifizierungsunterlagen anfordern
+      text: Request certification docs
       href: /contact/
-    - text: Unsere Qualitätsseite anzeigen
+    - text: View our quality page
       href: /quality/

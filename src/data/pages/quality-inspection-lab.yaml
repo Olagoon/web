@@ -1,6 +1,6 @@
 meta:
-  title: 'Quality & Inspection Lab — ISO-Compliant SUP Testing & Certification | {SITE}'
-  description: 'Independent quality verification for inflatable SUPs. Tensile testing, air-retention cycling, seam peel tests, and material certification. Contact our quality lab for third-party testing.'
+  title: 'Quality & Inspection Lab — ISO-Compliant pool Testing & Certification | {SITE}'
+  description: 'Independent quality verification for inflatable pools. Tensile testing, air-retention cycling, seam peel tests, and material certification. Contact our quality lab for third-party testing.'
 back_text: 'Back to R&D Center'
 home_label: 'Home'
 
@@ -11,11 +11,11 @@ hero:
   image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp'
   image_alt: 'OLagoon quality inspection laboratory UV testing'
 
-intro: 'Every board that leaves our workshop carries the certification that it has passed a defined set of quality inspections and material tests. Our Quality & Inspection Lab is an independent function within the organisation — it reports directly to the managing director, not to production — ensuring that no commercial pressure can compromise the inspection gate. If a material batch or a completed board does not meet the published specification, the lab has the authority to halt shipment until the non-conformance is resolved.'
+intro: 'Every pool that leaves our workshop carries the certification that it has passed a defined set of quality inspections and material tests. Our Quality & Inspection Lab is an independent function within the organisation — it reports directly to the managing director, not to production — ensuring that no commercial pressure can compromise the inspection gate. If a material batch or a completed pool does not meet the published specification, the lab has the authority to halt shipment until the non-conformance is resolved.'
 
 content_html: |
   <h2>Trust, but verify</h2>
-  <p>The lab operates under a quality management system aligned with principles, and our test methods are based on ISO, ASTM, and EN standards wherever applicable. We maintain detailed records of every test performed, creating a complete traceability chain from raw material receipt to final board delivery.</p>
+  <p>The lab operates under a quality management system aligned with principles, and our test methods are based on ISO, ASTM, and EN standards wherever applicable. We maintain detailed records of every test performed, creating a complete traceability chain from raw material receipt to final pool delivery.</p>
 
   <h2>Test equipment and capabilities</h2>
   <table>
@@ -32,7 +32,7 @@ content_html: |
   </table>
 
   <h2>The inspection gates — from material to delivery</h2>
-  <p>Every board follows a defined quality plan with mandatory inspection points. No board can skip a gate; each gate must be signed off by a quality inspector before the next production stage begins.</p>
+  <p>Every pool follows a defined quality plan with mandatory inspection points. No pool can skip a gate; each gate must be signed off by a quality inspector before the next production stage begins.</p>
 
   <div class="not-prose my-8">
     <div class="relative">
@@ -63,7 +63,7 @@ content_html: |
           <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 4</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
             <p class="text-sm font-semibold">Pre-delivery inspection</p>
-            <p class="text-xs text-gray-500 mt-1">Complete board inspected: all fasteners torqued, fittings functional, no cosmetic defects. 100-point checklist.</p>
+            <p class="text-xs text-gray-500 mt-1">Complete pool inspected: all fasteners torqued, fittings functional, no cosmetic defects. 100-point checklist.</p>
           </div>
         </div>
         <div class="flex gap-4">
@@ -110,7 +110,7 @@ content_html: |
   </ul>
 
   <h2>Our commitment to you</h2>
-  <p>When you receive a OLagoon board, you also receive its quality dossier — a compiled record of the test results that apply to your specific board. Fabric batch certificate, weld peel tests, chamber air-test logs, and pre-delivery inspection checklist. Every number is traceable. Every inspector is identified. This is not just paperwork — it is our promise that what we delivered is what we specified.</p>
+  <p>When you receive an OLagoon pool, you also receive its quality dossier — a compiled record of the test results that apply to your specific pool. Fabric batch certificate, weld peel tests, chamber air-test logs, and pre-delivery inspection checklist. Every number is traceable. Every inspector is identified. This is not just paperwork — it is our promise that what we delivered is what we specified.</p>
   <p>If you ever have a quality concern, you can contact the lab directly — the contact details are printed on your certificate of conformance. We take every query seriously and commit to a formal investigation within 48 hours.</p>
 
 cta:

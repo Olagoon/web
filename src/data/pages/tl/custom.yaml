@@ -1,89 +1,89 @@
 meta:
-  title: 'Custom Lab — Mga Custom na Inflatable Paddle Board | {SITE}'
-  description: 'Mga custom na inflatable paddle board: bespoke na disenyo, logo, custom mold, at produksyon. Partner sa private-label SUP, MOQ 50 unit, CE certified.'
+  title: 'Custom Lab — Custom Inflatable Pool | {SITE}'
+  description: 'Custom inflatable pool: bespoke design, logo, custom mold, and production. Private-label pool partner, MOQ 50 units, CE certified.'
   keywords:
-    - 'manufacturer ng custom na paddle board'
-    - 'custom inflatable sup'
-    - 'paddle board with logo'
-    - 'private label na inflatable sup'
-    - 'pagmamanupaktura ng paddle board'
+    - 'custom inflatable pool manufacturer'
+    - 'custom inflatable pools'
+    - 'inflatable pool with logo'
+    - 'private label inflatable pools'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: 'olagoon Custom Lab'
-  title: 'Idisenyo Ang Iyong Sariling<br />SUP Board'
-  subtitle: 'Custom na partner sa SUP na nag-aalok ng co-brand, private label, at bespoke na produksyon ng paddle board para sa mga negosyo sa buong mundo. Mula iisang prototype hanggang buong production run.'
-  cta: 'Simulan ang iyong proyekto'
+  tagline: olagoon Custom Lab
+  title: Design Your Own<br />pools
+  subtitle: Custom pool partner offering co-brand, private label, and bespoke inflatable pool production for businesses worldwide. From a single prototype to full production runs.
+  cta: Start your project
   footer_link: /contact/
 
 steps_section:
-  tagline: 'Paano ito gumagana'
-  title: 'Mula konsepto hanggang produksyon'
-  subtitle: 'Apat na hakbang mula sa iyong ideya hanggang sa tapos na produktong handa sa dagat.'
+  tagline: How it works
+  title: From concept to production
+  subtitle: Four steps from your idea to a finished, sea-ready product.
   steps:
     - num: '01'
-      title: 'Piliin ang Iyong Board'
-      desc: 'Pumili mula sa aming mga pangunahing model ng SUP — all-around, touring, yoga, sport, o pambata. Piliin ang laki, materyal, at kulay.'
+      title: Choose Your Pool
+      desc: Select from our core pool models — all-around, touring, yoga, sport, or kids. Pick size, material, and colour.
     - num: '02'
-      title: 'I-upload ang Iyong Disenyo'
-      desc: 'Ipadala sa amin ang iyong logo, artwork, o brand guidelines. Hahanda ang aming design team ng digital na proof.'
+      title: Upload Your Design
+      desc: Send us your logo, artwork, or brand guidelines. Our design team prepares a digital proof.
     - num: '03'
-      title: 'Pagsusuri sa AI Mockup'
-      desc: 'Tingnan ang photorealistic na AI-generated na mockup ng iyong custom na board bago magsimula ang produksyon.'
+      title: AI Mockup Review
+      desc: View a photorealistic AI-generated mockup of your custom pool before production begins.
     - num: '04'
-      title: 'Produksyon at Delivery'
-      desc: 'Kapag naaprubahan, papasok ang iyong order sa aming production line. Lead time mula 30 araw.'
+      title: Production & Delivery
+      desc: Once approved, your order enters our production line. Lead times from 30 days.
 
 services_section:
-  tagline: 'Mga Serbisyo'
-  title: 'Mga serbisyo sa paggawa para sa mga global na brand'
-  subtitle: 'Maluluwag na modelo ng pakikipagtulungan — mula sa kontratang paggawa hanggang sa buong serbisyong pagbuo ng brand.'
+  tagline: Services
+  title: Manufacturing services for global brands
+  subtitle: Flexible engagement models — from contract manufacturing to full-service brand building.
   items:
-    - title: 'Produksyong Co-Brand'
-      desc: 'Ginagawa namin ang iyong mga disenyo ayon sa spec — ang iyong IP, ang iyong mga guhit, ang iyong mga pamantayan sa kalidad. Kumpletong proteksyon ng NDA.'
-      icon: '⚙️'
-    - title: 'Mga Solusyon sa Disenyo'
-      desc: 'Pumili mula sa 50+ napatunayang platform at i-customize ang laki, kulay, graphics, at packaging.'
+    - title: Co-Brand Production
+      desc: We produce your designs to spec — your IP, your drawings, your quality standards. Full NDA protection.
+      icon: ⚙️
+    - title: Design Solutions
+      desc: Choose from 50+ proven platforms and customise size, colour, graphics, and packaging.
       icon: '🎨'
-    - title: 'Private Label'
-      desc: 'Ang iyong brand sa aming mga produkto — logo, packaging, hang tag, manual. Handa na para sa retail paglabas ng kahon.'
+    - title: Private Label
+      desc: Your brand on our products — logo, packaging, hang tags, manuals. Retail-ready out of the box.
       icon: '🎨'
-    - title: 'Custom Branding'
-      desc: 'Pag-print ng deck pad, graphics ng hull, decal ng tube, at custom na label — buong integrasyon ng brand.'
-      icon: '⚙️'
+    - title: Custom Branding
+      desc: Deck pad printing, hull graphics, tube decals, and custom labels — full brand integration.
+      icon: ⚙️
 
 capabilities_section:
-  tagline: 'Mga Kakayahan'
-  title: 'Mga kakayahan sa produksyon at customization'
-  subtitle: 'Lahat ng kailangan mong malaman bago maglagay ng order.'
+  tagline: Capabilities
+  title: Production & customisation capabilities
+  subtitle: Everything you need to know before placing your order.
   capabilities:
-    - label: 'Dami ng order'
-      value: 'MOQ 50 unit (SUP)'
-    - label: 'Lead time'
-      value: '30–45 araw na karaniwan; 15–20 araw para sa mga prototype'
-    - label: 'Customization'
-      value: 'Laki, hugis, kulay, graphics, packaging, hardware'
-    - label: 'Mga Materyal'
-      value: 'PVC, drop-stitch, EVA, aluminium'
-    - label: 'Pag-print'
-      value: 'Digital (CMYK), pag-print gamit ang screen, paglilipat ng init, sublimasyon'
-    - label: 'Sertipikasyon'
-      value: 'CE, UKCA, FCC (suporta para sa global na pagsunod)'
+    - label: Order volume
+      value: MOQ 50 units (pool)
+    - label: Lead time
+      value: 12–16 weeks standard (50–100 units); 15–20 days for prototypes
+    - label: Customisation
+      value: Size, shape, colour, graphics, packaging, hardware
+    - label: Materials
+      value: PVC, drop-stitch, EVA, aluminium
+    - label: Printing
+      value: Digital (CMYK), screen printing, heat transfer, sublimation
+    - label: Certification
+      value: CE, UKCA, FCC (support for global compliance)
 
 why_section:
-  tagline: 'Bakit olagoon'
-  title: 'Isang pabrika. Isang pamantayan. Walang kompormiso.'
+  tagline: Why olagoon
+  title: One factory. One standard. Zero compromises.
   points:
-    - text: 'Pinagsamang pasilidad ng paggawa na 12,000 m²'
-      highlight: '12,000 m²'
-    - text: '200+ bihasang manggagawa at engineer'
-      highlight: '200+'
-    - text: '15,000+ SUP board na nagagawa taun-taon'
-      highlight: '15,000+'
-    - text: 'Quality management na sertipikado sa ISO 9001'
-      highlight: 'ISO 9001'
-    - text: 'Mga produktong CE certified para sa EU market'
-      highlight: 'CE'
-  cta: 'Tingnan ang mga detalye ng pabrika'
+    - text: 12,000 m² integrated manufacturing facility
+      highlight: 12,000 m²
+    - text: 200+ skilled workers and engineers
+      highlight: 200+
+    - text: 15,000+ pools produced annually
+      highlight: 15,000+
+    - text: ISO 9001-certified quality management
+      highlight: ISO 9001
+    - text: CE certified products for EU market
+      highlight: CE
+  cta: View factory details
   cta_link: /factory/
   contact:
-    title: 'Handa nang talakayin ang iyong proyekto?'
-    desc: 'Tumutugon ang aming team sa loob ng 24 oras na may paunang quote.'
+    title: Ready to discuss your project?
+    desc: Our team responds within 24 hours with a preliminary quote.

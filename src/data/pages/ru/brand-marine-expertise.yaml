@@ -1,72 +1,72 @@
 meta:
-  title: 'Морская экспертиза — инженерия в каждом корпусе | {SITE}'
-  description: 'Десятилетия морской инженерии в каждом корпусе. olagoona владеет конструкцией drop stitch, морским ПВХ и профессиональным проектированием надувных SUP.'
+  title: 'Marine Expertise — Engineering in Every Hull | {SITE}'
+  description: 'Decades of marine engineering in every hull. olagoon masters drop stitch, marine PVC, and professional inflatable pools design.'
   keywords:
-    - 'морская инженерия'
-    - 'производитель надувных SUP-досок'
-    - 'производство paddle board'
+    - 'marine engineering'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: Морская экспертиза
-  title: Десятилетия морского инжиниринга<br />в каждом корпусе
-  subtitle: olagoon сочетает глубокое материаловедение, прецизионное производство и реальные испытания для создания плавсредств, которые работают, когда это важно.
+  tagline: Marine Expertise
+  title: 'Decades of Marine Engineering<br />in Every Hull'
+  subtitle: 'olagoon combines deep material science, precision manufacturing, and real-world testing to produce watercraft that perform when it matters.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: команда морской инженерии и НИОКР OLagoon за работой
+    alt: olagoon marine engineering and R&D team at work
 expertise_materials:
-  tagline: Наука о материалах
-  title: Выбор правильного материала<br />для каждого применения
-  subtitle: Мы работаем с двумя основными материалами — каждый выбран для конкретных случаев использования и требований к производительности.
+  tagline: Material Science
+  title: 'Choosing the Right Material<br />for Every Application'
+  subtitle: 'We work with two core materials — each selected for specific use cases and performance requirements.'
   columns: 3
   items:
-    - title: ПВХ морского класса
-      description: Ткань ПВХ 1100 денье — наш самый универсальный материал. УФ-стабилизированный, износостойкий и соответствующий REACH. Идеален для SUP-досок, где важны вес и экономическая эффективность.
+    - title: Marine-Grade PVC
+      description: '1100 denier PVC fabric — our most versatile material. UV-stabilized, abrasion-resistant, and REACH compliant. Ideal for pools where weight and cost efficiency matter.'
       icon: tabler:droplet
-    - title: Стеклопластик и полиэтилен
-      description: Стеклопластиковые SUP для премиальной жесткости и скольжения. Ротационно-формованный полиэтилен для интенсивного проката и спасательного применения, требующего максимальной ударопрочности.
+    - title: Fibreglass & Polyethylene
+      description: 'Fibreglass-laminated pools for premium stiffness and glide. Rotomoulded polyethylene for heavy-duty rental and rescue use requiring maximum impact resistance.'
       icon: tabler:building-arch
 expertise_manufacturing:
-  tagline: Производственные возможности
-  title: Прецизионное производство<br />на каждом этапе
-  subtitle: Наше предприятие площадью 12 000 м² оснащено специализированным оборудованием для каждого этапа производства.
+  tagline: Manufacturing Capabilities
+  title: 'Precision Manufacturing<br />at Every Step'
+  subtitle: 'Our 12,000 m² facility is equipped with specialized machinery for every stage of production.'
   columns: 2
   items:
-    - title: ЧПУ резка
-      description: Компьютеризированный раскрой обеспечивает точные, повторяемые панели ткани с минимальными отходами. Каждая деталь подходит точно, как задумано.
+    - title: CNC Cutting
+      description: 'Computer-controlled cutting ensures precise, repeatable fabric panels with minimal waste. Every piece fits exactly as designed.'
       icon: tabler:cpu
-    - title: Высокочастотная сварка
-      description: Промышленная ВЧ-сварка создает швы прочнее основного материала. Постоянный контроль температуры и давления обеспечивает герметичные уплотнения в каждом производственном цикле.
+    - title: High-Frequency Welding
+      description: 'Industrial HF welding creates seams stronger than the base material. Consistent temperature and pressure control ensures air-tight seals across every production run.'
       icon: tabler:bolt
-    - title: Сборка сердцевины с пропущенными стежками
-      description: Тысячи полиэфирных нитей соединяют верхний и нижний слои ткани, обеспечивая надув под высоким давлением (15-20 PSI) для жестких, стабильных SUP-досок и полов.
+    - title: Drop Stitch Core Assembly
+      description: 'Thousands of polyester threads connect top and bottom fabric layers, allowing high-pressure inflation (15-20 PSI) for rigid, stable pools.'
       icon: tabler:building-arch
-    - title: Испытание под давлением
-      description: Каждое надувное изделие проходит проверку давлением перед отправкой. Трубы SUP тестируются при давлении в 1,25 раза выше номинального — если выдерживает там, будет работать на воде.
+    - title: Pressure Testing
+      description: 'Every inflatable product is pressure-tested before shipping. Pools are tested at 1.25x rated pressure — if it holds there, it will perform on the water.'
       icon: tabler:wind
-    - title: Испытание прочности шва
-      description: Случайные образцы из каждой производственной партии проходят разрушающий тест прочности швов. Результаты регистрируются и отслеживаются до конкретных производственных серий.
+    - title: Seam Strength Testing
+      description: 'Random samples from each production batch undergo destructive seam strength testing. Results are logged and traceable to specific production runs.'
       icon: tabler:files
-    - title: Тестирование воды
-      description: Каждая модель SUP проходит морские испытания перед сертификацией. Реальное тестирование в прибрежных условиях подтверждает производительность, управляемость и устойчивость.
+    - title: Water Testing
+      description: 'Every model undergoes sea trials before certification. Real-world testing in coastal conditions validates performance, handling, and stability.'
       icon: tabler:droplet
 expertise_design:
-  tagline: Дизайн и инжиниринг
-  title: Спроектировано для реальных условий
-  subtitle: Наша философия дизайна начинается с того, как доска будет использоваться, — затем строит инжиниринг вокруг этого случая использования.
+  tagline: Design & Engineering
+  title: 'Engineered for Real Conditions'
+  subtitle: 'Our design philosophy starts with how the pool will be used — then builds the engineering around that use case.'
   items:
-    - title: Конструкция производительного корпуса
-      description: Каждая форма корпуса настроена под свой сценарий использования — водоизмещающие носы для скольжения в турах, добавленный рокер для маневренности в сёрфе, плоские стабильные профили для рыбалки и йоги.
-    - title: Безопасность drop-stitch
-      description: Каждая доска имеет жесткую сердцевину drop-stitch с усиленными бортами. Если секция повреждена, высокопрочная структура drop-stitch сохраняет доску в рабочем состоянии.
-    - title: Эргономичная компоновка палубы
-      description: Зонирование деки, положение ручки для переноски и точки крепления спроектированы с учетом комфорта райдера при длительном использовании — в турах, на рыбалке или на патрулировании.
-    - title: Пользовательская конфигурация
-      description: Цвета бортов, конфигурация падов, крепления аксессуаров, вместимость снаряжения — каждая модель может быть настроена в соответствии с конкретными эксплуатационными требованиями.
+    - title: Performance Hull Design
+      description: 'Each pool is tuned for its use case — compact footprints for plunge soaking, family-sized layouts for play, and generous swim areas for daily laps.'
+    - title: Drop-Stitch Safety
+      description: 'Every pool features a rigid drop-stitch core with reinforced walls. If a section is damaged, the high-tensile drop-stitch structure keeps the pool operational.'
+    - title: Ergonomic Deck Layout
+      description: 'Deck-pad zoning, carry-handle position, and mounting points are designed around rider comfort during extended use — whether touring, fishing, or patrolling.'
+    - title: Custom Configuration
+      description: 'Rail colors, deck pad configuration, accessory mounts, gear capacity — each model can be customized to match specific operational requirements.'
 cta:
-  title: Есть на примете конкретное применение?
-  subtitle: Наша инженерная команда может проконсультировать по выбору материалов, дизайну и производству для вашего проекта.
+  title: 'Have a specific application in mind?'
+  subtitle: 'Our engineering team can advise on material selection, design, and manufacturing for your project.'
   actions:
     - variant: primary
-      text: Спросите наших инженеров
+      text: Ask our engineers
       href: /contact/
-    - text: Просмотреть ассортимент продукции
+    - text: View product range
       href: /products/

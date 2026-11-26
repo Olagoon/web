@@ -1,176 +1,175 @@
 meta:
-  title: 'Academia — Guías de SUP y Entrenamiento de Remo | {SITE}'
-  description: 'Academia olagoon: guías de paddle surf hinchable, técnicas de stand up paddle, seguridad náutica y conocimiento de materiales para principiantes y profesionales.'
+  title: 'Academy — Pool Care Guides & Learning Center | {SITE}'
+  description: 'OLagoon Academy: drop-stitch pool guides, setup tutorials, water care, safety essentials, and materials knowledge for pool owners and professionals.'
   keywords:
-    - 'aprender stand up paddle'
-    - 'guía para principiantes de SUP'
-    - 'fundamentos del paddle surf'
-    - 'técnica de SUP'
-    - 'clases de SUP'
+    - 'drop stitch pool guide'
+    - 'inflatable pool setup'
+    - 'pool water care'
+    - 'pool safety essentials'
+    - 'pool maintenance'
 hero:
-  tagline: Academia olagoon
-  title: Centro de aprendizaje
-  subtitle: Guías y tutoriales para cada nivel de habilidad — desde los conceptos básicos del SUP hasta técnicas avanzadas de rescate
+  tagline: OLagoon Academy
+  title: Learning Center
+  subtitle: Guides and tutorials for every pool owner — from first setup to water care, safety, and seasonal maintenance
+
 categories:
-  - level: Principiante
-    color: de-verde-500 a-esmeralda-600
-    badge: bg-verde-100 texto-verde-700
+  - level: Getting Started
+    color: from-green-500 to-emerald-600
+    badge: bg-green-100 text-green-700
     guides:
-      - title: Fundamentos del SUP
-        desc: Aprende los fundamentos del paddle surf — postura, técnica de remada y equilibrio.
-        slug: beginner-sup-guide
-      - title: Técnicas de remada
-        desc: Remada frontal, remada de barrido, remada de arrastre y apoyo bajo — domina los movimientos esenciales de la pala.
-        slug: sup-paddle-guide
-      - title: La seguridad primero
-        desc: Prácticas de seguridad esenciales que incluyen comprobación del tiempo, uso del PFD, normas del leash y autorrescate.
-        slug: sup-safety-guide
-  - level: Intermedio
-    color: de-azul-500 a-índigo-600
-    badge: bg-azul-100 texto-azul-700
+      - title: Choosing Your Pool
+        desc: Size, capacity, and placement — how to pick the right drop-stitch pool for your backyard and family.
+        slug: choosing-a-drop-stitch-pool
+      - title: First Setup
+        desc: Unbox, inflate, fill, and swim — a complete walkthrough of your first pool setup in under 30 minutes.
+        slug: pool-setup-guide
+      - title: Pool Safety Essentials
+        desc: Supervision rules, entry and exit practice, barrier placement, and everyday water safety habits.
+        slug: pool-safety-essentials
+  - level: Water Care
+    color: from-blue-500 to-indigo-600
+    badge: bg-blue-100 text-blue-700
     guides:
-      - title: Fundamentos del touring
-        desc: Planificación de travesías de varias horas — navegación, hidratación, ritmo y lectura de pronósticos de viento.
-        slug: touring-sup-guide
-      - title: Lectura del tiempo
-        desc: Interpreta los pronósticos marinos, identifica patrones de nubes y comprende los efectos del viento sobre el agua.
-        slug: weather-planning-water-sports
-      - title: Fundamentos de navegación
-        desc: Lectura de cartas, uso de la brújula, waypoints de GPS y planificación de rutas para remar en la costa.
-        slug: sup-navigation-guide
-      - title: Conciencia de las mareas
-        desc: Comprender los ciclos de las mareas, las corrientes y cómo afectan al momento de salida y a la ruta.
-        slug: understanding-tides
-  - level: Avanzado
-    color: de-púrpura-500 a-violeta-600
+      - title: Water Care Basics
+        desc: Filtration schedules, sanitizer levels, and testing routines for clear, healthy pool water all season.
+        slug: pool-water-care
+      - title: Filtration & Circulation
+        desc: How your sand filter pump works, when to backwash, and how to keep water circulating efficiently.
+        slug: pool-water-care
+      - title: Preventing Algae & Cloudiness
+        desc: Troubleshooting green or cloudy water — causes, quick fixes, and prevention routines.
+        slug: pool-water-care
+  - level: Technology
+    color: from-purple-500 to-violet-600
     badge: bg-purple-100 text-purple-700
     guides:
-      - title: Planificación de travesías de varios días
-        desc: Logística de expedición — selección de equipo, planificación de comidas, protocolos de seguridad y contactos de emergencia.
-        slug: sup-travel-guide
-      - title: Técnicas de rescate
-        desc: Autorrescate, rescate en T, rescate esquimal para SUPs y protocolos de remolque para aguas abiertas.
-        slug: sup-self-rescue
-      - title: Remar de noche
-        desc: Navegación después del anochecer — requisitos de iluminación, memoria de la ruta, comunicación en grupo y conciencia de los peligros.
-        slug: ocean-safety-basics
-  - level: Mantenimiento
-    color: de-ámbar-500 a-naranja-600
-    badge: bg-ámbar-100 texto-ámbar-700
+      - title: Drop-Stitch Engineering
+        desc: How thousands of internal threads turn flexible PVC into a rigid, high-pressure pool structure.
+        slug: drop-stitch-pool-engineering
+      - title: Inflatable vs Rigid Pools
+        desc: Cost, setup, storage, durability, and feel — a complete comparison for backyard buyers.
+        slug: inflatable-pool-vs-rigid-pool
+      - title: Materials Deep Dive
+        desc: PVC layers, UV stabilizers, and reinforced rails — what makes a drop-stitch pool last a decade.
+        slug: drop-stitch-pool-engineering
+  - level: Maintenance
+    color: from-amber-500 to-orange-600
+    badge: bg-amber-100 text-amber-700
     guides:
-      - title: Limpieza y cuidado
-        desc: Enjuague con agua dulce, protección UV, prevención del moho y técnicas de secado adecuadas después de cada sesión.
-        slug: inflatable-sup-maintenance
-      - title: Guía de almacenamiento
-        desc: Mejores prácticas para almacenar tablas inflables de SUP — desinflado, plegado, control de temperatura y vida útil.
-        slug: inflatable-sup-storage
-      - title: Fundamentos de reparación
-        desc: Repara pequeños pinchazos, fugas en las costuras y problemas de válvulas con kits de reparación de PVC y técnicas de parcheo.
-        slug: inflatable-sup-repair
-      - title: Mantenimiento de válvulas
-        desc: Identifica los tipos de válvula (Halkey-Roberts, Boston, Leafield), limpia los residuos y reemplaza los vástagos defectuosos.
-        slug: sup-pump-guide
-knowledge_center_tagline: Centro de Conocimiento
-knowledge_center_title: Equipos Marinos y Guías de la Industria
-knowledge_center_subtitle: Conocimientos expertos y guías de compra para profesionales del sector marítimo, operadores de flotas y entusiastas de los deportes acuáticos.
+      - title: Cleaning & Care
+        desc: Surface cleaning, UV protection, seam inspection, and proper drying before every storage.
+        slug: pool-setup-guide
+      - title: Winter Storage
+        desc: Drain, clean, dry, fold — best practices for storing your pool through the off-season.
+        slug: pool-winter-storage
+      - title: Repairs & Patches
+        desc: Fix small punctures and seam issues with the included PVC repair kit — step by step.
+        slug: pool-setup-guide
+
+knowledge_center_tagline: 'Knowledge Center'
+knowledge_center_title: 'Pool Ownership & Industry Guides'
+knowledge_center_subtitle: 'Expert knowledge and buying guides for pool owners, facilities operators, and retail partners.'
+
 knowledge_sections:
-  - title: Conocimiento sobre la tabla SUP
-    tagline: Guías de Paddleboard de Pie
-    desc: 'Todo sobre las tablas de SUP: diseño de la tabla, materiales, selección de tamaño, mantenimiento y consejos de compra para uso recreativo y comercial.'
+  - title: 'Buying Knowledge'
+    tagline: 'Drop-Stitch Pool Guides'
+    desc: 'Everything about drop-stitch pools — sizing, materials, construction, and buying advice for families and commercial buyers.'
     guides:
-      - title: Cómo elegir la tabla de SUP adecuada
-        desc: 'Guía completa para seleccionar un SUP: tamaño, volumen, material, forma y uso previsto.'
-        href: /learn/water-safety/
-      - title: SUP inflable vs rígido
-        desc: 'SUP inflable vs tabla dura de epoxi: comparación de portabilidad, durabilidad, rendimiento y valor.'
-        href: /compare/technology/
-      - title: SUP All-Around vs Touring vs Yoga
-        desc: 'Diferentes tipos de tablas de SUP: estándares de construcción, formas, tamaños y usos recomendados.'
-        href: /learn/water-safety/
-      - title: Confección Drop-Stitch vs Tradicional
-        desc: Compara la construcción drop-stitch y la tradicional para tablas SUP en cuanto a peso, costo, durabilidad y rigidez.
-        href: /learn/drop-stitch-core/
-  - title: Guía de SUP inflable
-    tagline: Conocimiento sobre SUP inflable
-    desc: 'Guías completas sobre SUP inflables: materiales de PVC, construcción con costura en caída, normas de seguridad y mejores prácticas de mantenimiento.'
+      - title: 'How to Choose the Right Pool'
+        desc: 'Complete guide to selecting a drop-stitch pool — size, capacity, material, and intended use.'
+        href: '/v2/choosing-a-drop-stitch-pool/'
+      - title: 'Inflatable vs Rigid Pool'
+        desc: 'Inflatable vs rigid pools — cost, setup, storage, durability, and value compared.'
+        href: '/v2/inflatable-pool-vs-rigid-pool/'
+      - title: 'Compact Plunge vs Family vs Grand Lagoon'
+        desc: 'The three OLagoon pool sizes compared — footprint, capacity, and ideal backyard.'
+        href: '/products/'
+      - title: 'Drop-Stitch vs Traditional Construction'
+        desc: 'Why drop-stitch cores beat vinyl-tube and frame-pool construction in rigidity and lifespan.'
+        href: '/v2/drop-stitch-pool-engineering/'
+  - title: 'Setup & Care Guide'
+    tagline: 'Pool Ownership Knowledge'
+    desc: 'Comprehensive guides on inflatable pool setup, water care, filtration, and maintenance best practices.'
     guides:
-      - title: Guía de Material PVC
-        desc: Guía definitiva sobre los materiales de PVC utilizados en la construcción de tablas SUP inflables.
-        href: /learn/materials/
-      - title: Cómo se fabrican los SUP inflables
-        desc: 'Proceso de fabricación: corte de material, unión del núcleo de punto de caída, construcción de costuras, prueba de presión y control de calidad.'
-        href: /learn/inflatable-technology/
-      - title: Guía de seguridad de SUP
-        desc: Normas de seguridad, capacidad de carga, inflado adecuado, verificaciones antes de la salida y procedimientos de emergencia.
-        href: /learn/water-safety/
-      - title: Mantenimiento de SUP
-        desc: Limpieza, almacenamiento, protección UV y reparación de tablas SUP inflables.
-        href: /v2/inflatable-sup-maintenance/
-  - title: Conocimiento sobre la tabla SUP
-    tagline: Centro de Tablas SUP
-    desc: Guías técnicas que cubren tipos de tablas de SUP, materiales, métodos de construcción, mantenimiento y seguridad.
+      - title: 'PVC Material Guide'
+        desc: 'The PVC materials used in OLagoon pool construction — layers, coatings, and UV resistance.'
+        href: '/learn/materials/'
+      - title: 'How Pools Are Made'
+        desc: 'Manufacturing process — material cutting, drop-stitch bonding, seam welding, pressure testing, and quality control.'
+        href: '/learn/inflatable-technology/'
+      - title: 'Water Safety Guide'
+        desc: 'Safety standards, capacity limits, supervision rules, and emergency procedures.'
+        href: '/learn/water-safety/'
+      - title: 'Seasonal Maintenance'
+        desc: 'Cleaning, water care, and protection routines for a season-long clear pool.'
+        href: '/v2/pool-water-care/'
+  - title: 'Engineering Knowledge'
+    tagline: 'Technology Hub'
+    desc: 'Technical guides covering pool construction, materials, pressure ratings, and structural testing.'
     guides:
-      - title: Tipos de tablas de SUP
-        desc: 'SUPs para todo uso, de travesía, yoga, deporte y para niños: aprende las diferencias y elige el adecuado.'
-        href: /learn/water-safety/
-      - title: Tecnología de punto caído
-        desc: Cómo miles de hilos internos crean estructuras inflables rígidas de alta presión.
-        href: /learn/drop-stitch-core/
-      - title: Referencia de materiales
-        desc: Clasificaciones de denier de PVC, pesos de tela, resistencia a los rayos UV y materiales de grado marino explicados.
-        href: /learn/materials/
-      - title: Guía de compra de SUP
-        desc: Compara diferentes tipos de tablas de SUP para distintos casos de uso y niveles de habilidad.
-        href: /learn/water-safety/
-  - title: Conocimiento de SUP
-    tagline: Guías de Paddleboard de Pie
-    desc: 'Todo sobre las tablas de SUP: inflables vs rígidas, dimensiones de la tabla, tecnología de materiales y consejos de expertos para todos los niveles de habilidad.'
+      - title: 'Pool Types Explained'
+        desc: 'Plunge pools, family pools, swim lounges, and custom shapes — learn the differences.'
+        href: '/products/'
+      - title: 'Drop-Stitch Technology'
+        desc: 'How thousands of internal threads create rigid, high-pressure inflatable structures.'
+        href: '/learn/drop-stitch-core/'
+      - title: 'Materials Reference'
+        desc: 'PVC denier ratings, fabric weights, UV resistance, and marine-grade materials explained.'
+        href: '/learn/materials/'
+      - title: 'Pressure & Rigidity'
+        desc: 'Why 10–15 PSI operating pressure keeps 20 cm walls rock-solid under full load.'
+        href: '/learn/inflatable-technology/'
+  - title: 'Safety Knowledge'
+    tagline: 'Water Safety Guides'
+    desc: 'Everything about pool safety — supervision, barriers, first aid, and safe play for all ages.'
     guides:
-      - title: SUP inflable vs rígido
-        desc: Compara los iSUP y las tablas duras de epoxi en cuanto a portabilidad, durabilidad, rendimiento y valor.
-        href: /learn/water-safety/
-      - title: Guía de Dimensiones de Tablas SUP
-        desc: Cómo la longitud, el ancho y el grosor afectan la estabilidad, la velocidad y la maniobrabilidad.
-        href: /learn/water-safety/
-      - title: Mantenimiento y cuidado del SUP
-        desc: Consejos para la limpieza, almacenamiento, protección UV y reparación de tablas de SUP inflables.
-        href: /v2/inflatable-sup-maintenance/
-      - title: Elegir tu primer SUP
-        desc: Guía para principiantes para seleccionar la tabla de paddle surf adecuada según tu peso, nivel de habilidad y uso previsto.
-        href: /learn/water-safety/
-  - title: Guía de Operaciones de Alquiler
-    tagline: Gestión de flotas para negocios de alquiler
-    desc: Guías sobre la construcción y gestión de flotas de alquiler de SUP para quioscos de playa, centros de deportes acuáticos y propiedades hoteleras.
+      - title: 'Inflatable vs Rigid Pool Safety'
+        desc: 'Safety trade-offs between inflatable and rigid pools — surfaces, edges, and depth.'
+        href: '/v2/inflatable-pool-vs-rigid-pool/'
+      - title: 'Dimensions & Capacity Guide'
+        desc: 'How length, width, and wall height affect capacity, stability, and safe occupancy.'
+        href: '/products/'
+      - title: 'Safe Setup & Placement'
+        desc: 'Ground preparation, drainage, and placement rules for a safe pool area.'
+        href: '/v2/pool-setup-guide/'
+      - title: 'Choosing Your First Pool'
+        desc: "Beginner's guide to selecting the right drop-stitch pool for your space, budget, and family."
+        href: '/v2/choosing-a-drop-stitch-pool/'
+  - title: 'Rental & Programs Guide'
+    tagline: 'Fleet Management for Rental Businesses'
+    desc: 'Guides on running pool rental and community pool programs for holiday parks, camps, and activity centers.'
     guides:
-      - title: Construyendo su flota de alquiler
-        desc: 'Cómo elegir las tablas de SUP adecuadas para tu negocio de alquiler: durabilidad, tamaño y consideraciones de ROI.'
-        href: /solutions/rental-operators/
-      - title: Guía de Mantenimiento de Flotas
-        desc: Prácticas esenciales de mantenimiento para maximizar la vida útil de las tablas y minimizar el tiempo de inactividad de las flotas de alquiler.
-        href: /solutions/rental-operators/
-  - title: Guía de Resorts y Hospitalidad
-    tagline: Actividades acuáticas para la hospitalidad
-    desc: Guías sobre cómo lanzar y gestionar programas de SUP para resorts, hoteles y destinos frente al agua.
+      - title: 'Building Your Rental Fleet'
+        desc: 'How to choose pools for a rental operation — durability, sizing, and ROI considerations.'
+        href: '/solutions/rental-operators/'
+      - title: 'Fleet Maintenance Guide'
+        desc: 'Essential maintenance practices to maximize pool lifespan and minimize downtime across a fleet.'
+        href: '/solutions/rental-operators/'
+  - title: 'Resort & Hospitality Guide'
+    tagline: 'Pools for Hospitality'
+    desc: 'Guides on adding drop-stitch pool programs for resorts, hotels, and vacation properties.'
     guides:
-      - title: Iniciando un Programa de SUP en un Resort
-        desc: 'Factores a considerar al lanzar actividades de SUP para invitados: dimensionamiento de la flota, personal y modelado de ingresos.'
-        href: /solutions/resorts-hotels/
-      - title: SUP frente a otras actividades acuáticas
-        desc: Compare los programas de SUP con otros deportes acuáticos en cuanto a la experiencia del huésped y la eficiencia operativa.
-        href: /learn/water-safety/
-  - title: Guía de Venta y Distribución
-    tagline: Asociaciones Comerciales SUP
-    desc: 'Guías sobre cómo convertirse en un socio minorista o distribuidor de SUP: planificación de inventario, posicionamiento en el mercado y estrategias de crecimiento.'
+      - title: 'Starting a Resort Pool Program'
+        desc: 'Factors to consider when adding guest pools — sizing, placement, staffing, and revenue modeling.'
+        href: '/solutions/resorts-hotels/'
+      - title: 'Pools vs Built-In Facilities'
+        desc: 'How drop-stitch pools complement built-in facilities for guest experience and flexibility.'
+        href: '/learn/safety-in-water-sports/'
+  - title: 'Retail & Distribution Guide'
+    tagline: 'Pool Business Partnerships'
+    desc: 'Guides on becoming an OLagoon retail partner or distributor — inventory planning, market positioning, and growth strategies.'
     guides:
-      - title: Convertirse en un minorista de SUP
-        desc: Cómo elegir líneas de productos, gestionar el inventario y comercializar tablas SUP en tu tienda minorista.
-        href: /solutions/retail-partners/
-      - title: SUP para Operaciones Comerciales
-        desc: Por qué los SUP inflables son un producto versátil para flotas comerciales, negocios de alquiler y operadores profesionales.
-        href: /solutions/rental-operators/
-read_guide: Leer la guía →
+      - title: 'Becoming a Pool Retailer'
+        desc: 'How to choose product lines, manage inventory, and market pools in your retail store.'
+        href: '/solutions/retail-partners/'
+      - title: 'Pools for Commercial Operations'
+        desc: 'Why drop-stitch pools are a versatile product for camps, community centers, and professional operators.'
+        href: '/solutions/rental-operators/'
+
+read_guide: Read guide →
+
 cta:
-  title: ¿No sabes por dónde empezar?
-  desc: Realiza nuestro cuestionario de evaluación de habilidades para encontrar las guías y el equipo adecuados para tu nivel.
-  label: Contáctanos →
+  title: Not sure where to start?
+  desc: Contact our team and we will help you pick the right pool and accessories for your backyard.
+  label: Contact us →
   link: /contact/

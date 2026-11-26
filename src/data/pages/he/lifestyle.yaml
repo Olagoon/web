@@ -1,53 +1,53 @@
 meta:
-  title: 'אורח חיים — חתירה, הרפתקאות וגילוי | {SITE}'
-  description: 'גלו את אורח החיים של olagoon: הרפתקאות חתירה, גילוי מים וחוויות חוצלות עם לוחות SUP ניפחים.'
+  title: 'Lifestyle — Backyard Living & Family Fun | {SITE}'
+  description: 'Explore the OLagoon lifestyle: backyard transformations, family water fun, and outdoor living with inflatable pools.'
   keywords:
-    - 'אורח חיים sup'
-    - 'הרפתקאות חתירה'
-    - 'sup ניפחים בחיק הטבע'
-    - 'אורח חיים של ספורט מים'
+    - 'pool lifestyle'
+    - 'backyard living'
+    - 'inflatable pools outdoor'
+    - 'water sports lifestyle'
 hero:
-  tagline: 'אורח חיים'
-  title: 'אורח החיים<br />של olagoon'
-  subtitle: 'נבנה עבור אלה שחיים על המים — ממגלי סוף שבוע ועד מפעילים מסחריים שנשענים על הציוד שלהם מדי יום.'
+  tagline: Lifestyle
+  title: The olagoon<br />Lifestyle
+  subtitle: Built for those who live on the water — from weekend explorers to commercial operators who depend on their gear every day.
 
 values:
   - icon: 🌊
-    title: 'נולדנו על המים'
-    desc: 'כל עיצוב מתחיל בהבנת התנהגות המים. אנו מהנדסים מקצה תנאי השטח פנימה — כי האוקיינוס הוא המורה שלנו, לא מקום העבודה שלנו.'
+    title: Born on the Water
+    desc: Every design starts with understanding how water behaves. We engineer from the edge of conditions inward — because the ocean is our teacher, not our workplace.
   - icon: 🔧
-    title: 'בנוי להחזיק'
-    desc: 'המוצר הבר-קיימא ביותר הוא זה שלא צריך החלפה. חומרים בדרגה ימית, ליבות Drop-Stitch מדורגות ל-15 PSI ותפרים שמחזיקים יותר מעונה שלמה.'
-  - icon: 🏆
-    title: 'נגיש מעצם העיצוב'
-    desc: 'ספורט מים לא צריך להיות מותרות. ביצועים בדרגה מקצועית במחיר שהגיוני למשפחות, למדריכים ולמפעילים קטנים — לא רק לציים מסחריים.'
+    title: Built to Last
+    desc: The most sustainable product is the one that does not need replacing. Marine-grade materials, drop-stitch cores rated to 15 PSI, and seams that outlast the season.
+  - icon: '🏆'
+    title: Accessible by Design
+    desc: Water sports should not be a luxury. Professional-grade performance at a price that makes sense for families, guides, and small operators — not just commercial fleets.
   - icon: 🌍
-    title: 'קהילה גלובלית'
-    desc: 'מחוף צ׳ינגדאו דרך אגמים באירופה, נהרות בדרום-מזרח אסיה ומפרצים באמריקות — ללקוחות שלנו יש דבר אחד משותף: אהבה להיות על המים.'
+    title: Global Community
+    desc: 'From the coast of Qingdao to lakes in Europe, rivers in Southeast Asia, and bays in the Americas — our customers share one thing: a love for being on the water.'
   - icon: ♻️
-    title: 'ייצור אחראי'
-    desc: 'קיבול ממוטב CNC מקטין את בזבוז החומרים לפחות מ-5%. מבנה עמיד מפחית מחזורי החלפה. אנו בונים לאורך חיים כי זו הבחירה הבר-קיימא ביותר.'
+    title: Responsible Manufacturing
+    desc: CNC-optimised nesting cuts material waste below 5%. Durable construction reduces replacement cycles. We build for longevity because that is the most sustainable choice.
   - icon: 🤝
-    title: 'תמיכה שנמשכת'
-    desc: 'גופים בני עשרים שנה עדיין מתקשרים אלינו לחלקי חילוף. זמן המענה הממוצע שלנו לאחריות הוא 24 שעות. אנחנו לא נעלמים אחרי המכירה — אנחנו כאן לכל חיי המוצר.'
+    title: Support That Lasts
+    desc: Twenty-year-old hulls still call us for spare parts. Our warranty response averages 24 hours. We do not disappear after the sale — we are here for the life of the product.
 
 ethos_section:
-  tagline: 'האתוס שלנו'
-  title: 'יותר ממוצר. פילוסופיה.'
-  subtitle: 'שישה עקרונות שמעצבים כל החלטה שאנו מקבלים — מבחירת החומרים ועד תמיכת הלקוחות.'
+  tagline: Our Ethos
+  title: More than a product. A philosophy.
+  subtitle: Six principles that shape every decision we make — from material selection to customer support.
 
 community_section:
-  tagline: 'קהילה'
-  title: 'הצטרפו לקהילת olagoon'
-  subtitle: 'עקבו אחר המסע שלנו ושתפו את ההרפתקאות שלכם על המים.'
-  instagram: 'עקבו באינסטגרם'
-  youtube: 'הירשמו ב-YouTube'
-  x: 'עקבו ב-X'
+  tagline: Community
+  title: Join the olagoon Community
+  subtitle: Follow our journey and share your own adventures on the water.
+  instagram: Follow on Instagram
+  youtube: Subscribe on YouTube
+  x: Follow on X
 
 cta_section:
-  title: 'התחילו את המסע שלכם'
-  subtitle: 'כל מוצר מוסמך CE. נתמך באחריות. מעוצב לחיים אמיתיים על המים.'
-  products_cta: 'גלו מוצרים →'
-  about_cta: 'על אודותינו'
+  title: Start your journey
+  subtitle: Every product CE certified. Backed by warranty. Designed for real life on the water.
+  products_cta: Explore Products →
+  about_cta: About Us
   products_link: /products/
   about_link: /about/

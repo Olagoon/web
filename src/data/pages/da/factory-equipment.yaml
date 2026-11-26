@@ -1,80 +1,87 @@
 meta:
-  title: 'Fabriksudstyr — Skæring, HF-svejsning & print | {SITE}'
-  description: 'Industrielt produktionsudstyr fra olagoon: PVC-skæring, HF-svejsning, digitaltryk, montering og testning af oppustelige SUP-brædder.'
+  title: 'Factory Equipment — Cutting, RF Welding & Printing | {SITE}'
+  description: 'Industrial-grade olagoon manufacturing equipment: PVC cutting, RF welding, digital printing, assembly, and testing for inflatable pools.'
   keywords:
-    - 'SUP produktionsudstyr'
-    - 'oppustelig SUP-fabrik'
-    - 'HF-svejsning PVC'
-    - 'paddle board produktion'
+    - 'pool manufacturing equipment'
+    - 'inflatable pools factory'
+    - 'rf welding pvc'
+    - 'inflatable pool production'
 hero:
-  tagline: Udstyr
-  title: Produktionsudstyr og maskiner
-  subtitle: Industrielt udstyr til skæring, svejsning, tryk og montering
-  back_label: Tilbage til fabrikken
+  tagline: Equipment
+  title: Manufacturing Equipment & Machinery
+  subtitle: Industrial-grade equipment across cutting, welding, printing, and assembly
+  back_label: Back to Factory
   back_link: /factory/
+
 categories:
-  - title: Skæring og materialeforberedelse
+  - title: Cutting & Material Preparation
     items:
-      - name: Automatisk PVC-skæremaskine
-        spec: CNC-styret, 6.5 m × 2.5 m, 0.1 mm nøjagtighed
-        desc: Computerstyret automatisk skæremaskine til PVC- og drop-stitch-stoffer. Nesting-software optimerer materialeudnyttelsen til under 5 % spild.
-      - name: Stofudlægger
-        spec: 3 m max. bredde, spændingsstyret tilførsel
-        desc: Lægger stof i enkelt eller flere lag med kontrolleret spænding for at forhindre forvridning før skæring.
-  - title: Rørsvejsning og binding
+      - name: Automatic PVC Cutting Machine
+        spec: CNC-controlled, 6.5 m × 2.5 m, 0.1 mm accuracy
+        desc: Computer-controlled automatic cutting machine for PVC and drop-stitch fabrics. Nesting software optimises material utilisation to below 5% waste.
+      - name: Fabric Spreader
+        spec: 3 m max width, tension-controlled feed
+        desc: Lays fabric in single or multiple plies with controlled tension to prevent distortion before cutting.
+
+  - title: Tube Welding & Bonding
     items:
-      - name: Varmeforseglingsmaskine
-        spec: Varmluftsvejsning, variabel 200–600 °C, 0.5–5 m/min
-        desc: Varmluftsvarmeforseglingsmaskine til samling og svejsning af PVC- og rælingssømme. Bruges til fastgørelse, forsegling og sammensmeltning af rørkamre og svømmeforbindelser.
-      - name: Dielektrisk RF-presse
-        spec: 15 kW, plade 2000 × 600 mm
-        desc: Højfrekvent svejsepresse til hovedlængdesømme, agterstykke-til-rør-forbindelser og fremstilling af store kamre.
-      - name: CNC-styret RF-svejser
-        spec: 8 kW, XY-bord 2500 × 1200 mm
-        desc: Programmerbar krummet-søm-svejsning til komplekse geometrier, logo-prægning og præcist lapning.
-  - title: SUP-skrogproduktion
+      - name: Heat Sealing Machine
+        spec: Hot-air welding, variable 200–600 °C, 0.5–5 m/min
+        desc: Hot-air heat sealing machine for bonding and welding PVC and rail seams. Used for tacking, sealing, and fusing tube chambers and float joints.
+      - name: Dielectric RF Press
+        spec: 15 kW, platen 2000 × 600 mm
+        desc: Radio-frequency welding press for main longitudinal seams, rail bands, and large-chamber fabrication.
+      - name: CNC-Controlled RF Welder
+        spec: 8 kW, XY table 2500 × 1200 mm
+        desc: Programmable curved-seam welding for complex geometries, logo embossing, and precision patchwork.
+
+  - title: pools Manufacturing
     items:
-      - name: Drop-stitch-kernelamineringspresse
-        spec: Storformatpresse til boardkerner på op til 14 ft LOA
-        desc: Præcisionslaminering af drop-stitch-kerner til ydre PVC-laminater. Hvert lag trykbindes for ensartet kvalitet og styrke.
+      - name: Drop-Stitch Core Lamination Press
+        spec: Large-format press for drop-stitch cores up to 5 m length
+        desc: Precision lamination of drop-stitch cores to outer PVC laminates. Each layer is pressure-bonded for consistent quality and strength.
       - name: CNC Router (5-axis)
-        spec: 3 m × 2 m × 1 m arbejdsområde, vandkølet spindel
-        desc: Bearbejdning af finnekasser, udskæringer til håndtag og specialdesignede brætkomponenter.
-  - title: SUP-tryk og dekoration
+        spec: 3 m × 2 m × 1 m envelope, water-cooled spindle
+        desc: Machining of valve ports, handle cutouts, and custom pool components.
+
+  - title: pool Printing & Decoration
     items:
-      - name: Digital printer
-        spec: Inkjet i høj opløsning, op til 2 m printbredde
-        desc: Direkte-til-stof digitaltryk til fuldfarvet SUP-dækgrafik. Udskriver tilpassede mønstre, gradienter og fotokvalitetsbilleder med UV-resistente vandbaserede blæk.
-      - name: Silketryksmaskine
-        spec: Manuel og halvautomatisk, flerfarveregistrering
-        desc: Silketryk til SUP-brætlogoer, varemærker og gentagne mønstre. Giver holdbare, uigennemsigtige tryk med livfuld farvemætning.
-  - title: Montering og udrustning
+      - name: Digital Printer
+        spec: High-resolution inkjet, up to 2 m print width
+        desc: Direct-to-fabric digital printing for full-colour pool deck graphics. Prints custom patterns, gradients, and photo-quality images with UV-resistant water-based inks.
+      - name: Screen Printing Machine
+        spec: Manual and semi-automatic, multi-colour registration
+        desc: Screen printing for pools logos, brand marks, and repeating patterns. Provides durable, opaque prints with vibrant colour saturation.
+
+  - title: Assembly & Rigging
     items:
-      - name: Board Assembly Station
-        spec: Modulær, justerbar opsætning med flere stationer
-        desc: Montering af finnekasser, håndtag, D-ringe, ventiler og dækmåtter på SUP-brædder.
-      - name: Ventilmonteringspresse
-        spec: Pneumatisk, justerbart tryk
-        desc: Præcis installation og forsegling af Halkey-Roberts- og Leafield-ventiler.
+      - name: Pool Assembly Station
+        spec: Modular adjustable, multi-station layout
+        desc: Assembly of fin boxes, handles, D-rings, valves, and deck pads onto pools.
+      - name: Valve Installation Press
+        spec: Pneumatic, adjustable pressure
+        desc: Precision installation and sealing of Halkey-Roberts and Leafield valves.
       - name: Deck Pad Laminator
-        spec: 3 m × 1,5 m, temperaturstyret
-        desc: Varmelaminering af EVA-skumdækspuder på SUP-bræddernes top med ensartet bindingsstyrke.
-  - title: Test og kvalitetskontrol
+        spec: 3 m × 1.5 m, temperature-controlled
+        desc: Heat lamination of EVA foam deck pads to pools tops with consistent bond strength.
+
+  - title: Testing & Quality Control
     items:
-      - name: Universel træktester
+      - name: Universal Tensile Tester
         spec: 50 kN, ASTM D751
-        desc: Brudkraft, forlængelse ved brud og rivningsudbredelsestest for stofpartier.
-      - name: Luftretentionsteststativ
-        spec: Programmerbar, 30 min. trykhold
-        desc: Automatiseret trykholdtest for hvert rørkammer før montering.
-      - name: Søm-afskalningstester
-        spec: Motoriseret 180° afskalning ved 100 mm/min
-        desc: Svejse- og limet-søm afskalningsstyrketest ifølge EN ISO 25649.
-      - name: Xenon-bue-ældningskammer
-        spec: 2000 h eksponering
-        desc: UV-resistens test for farveændring og styrkebevarelse.
+        desc: Breaking force, elongation at break, and tear propagation testing for fabric batches.
+      - name: Air Retention Test Rig
+        spec: Programmable, 30-min pressure-hold
+        desc: Automated pressure-hold test for every tube chamber before assembly.
+      - name: Seam Peel Tester
+        spec: Motorised 180° peel at 100 mm/min
+        desc: Weld and glued-seam peel strength testing per EN ISO 25649.
+      - name: Xenon-Arc Weathering Chamber
+        spec: 2000 h exposure
+        desc: UV resistance testing for colour change and strength retention.
+
 cta:
-  title: Interesseret i en fabrikstur?
-  desc: Vi byder besøgende velkommen i vores anlæg i Qingdao. Se vores udstyr og processer personligt.
-  label: Arranger et besøg →
+  title: Interested in a factory tour?
+  desc: We welcome visitors to our Qingdao facility. See our equipment and processes in person.
+  label: Schedule a visit →
   link: /contact/

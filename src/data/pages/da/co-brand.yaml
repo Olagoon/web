@@ -1,105 +1,105 @@
 meta:
-  title: 'Co-brand med OLagoon — begrænsede co-brand SUP-kollektioner | {SITE}'
-  description: 'OLagoon skaber begrænsede co-brand-kollektioner af oppustelige SUP’er med kvalificerede klubber, resorts, events, fællesskaber og landepartnere. Co-brand-produkter forbliver OLagoon-produkter — designet, konstrueret og båret af OLagoon-brandet.'
+  title: 'Co-Brand With OLagoon — Limited Co-Branded pool Collections | {SITE}'
+  description: 'OLagoon creates limited co-branded inflatable pools collections with qualified clubs, resorts, events, communities, and country partners. Co-branded products remain OLagoon products — designed, engineered, and backed by the OLagoon brand.'
   keywords:
-    - 'co-brand oppustelig SUP'
-    - 'SUP co-brand-kollektion'
-    - 'paddleboard partnerskab'
-    - 'SUP til klubber og resorts'
-    - 'vandsportsbrand samarbejde'
+    - 'co-brand inflatable pools'
+    - 'pool co-branded collection'
+    - 'inflatable pool partnership'
+    - 'pool for clubs and resorts'
+    - 'water sports brand collaboration'
     - 'OLagoon co-branding'
 hero:
-  tagline: 'Co-Brand med OLagoon'
-  title: 'Skab en<br />co-brand-kollektion'
-  subtitle: 'OLagoon er en global oppustelig vandsportsbrand, der bygger eksklusive landepartnerskaber og begrænsede co-brand-kollektioner med kvalificerede vandsportsvirksomheder. Co-brand-produkter forbliver OLagoon-produkter — designet, konstrueret, kvalitetstestet og båret af OLagoon-brandet.'
+  tagline: 'Co-Brand With OLagoon'
+  title: 'Create a<br />Co-Branded Collection'
+  subtitle: 'OLagoon is a global inflatable water-sports brand building exclusive country partnerships and limited co-branded collections with qualified water-sports businesses. Co-branded products remain OLagoon products — designed, engineered, quality-checked, and backed by the OLagoon brand.'
   actions:
-    - text: 'Start et co-brand-projekt'
+    - text: 'Start a Co-Brand Project'
       href: /contact/?subject=Co-Brand Project
       variant: primary
-    - text: 'Anmod om co-brand-pakken'
+    - text: 'Request the Co-Brand Pack'
       href: /contact/?subject=Co-Brand Pack
       variant: secondary
-    - text: 'Udforsk landepartnerskabet'
+    - text: 'Explore the Country Partnership'
       href: /distributor-program/
       variant: secondary
 stats:
   - value: '1'
-    label: 'Ét landsopkald / marked pr. distributør'
+    label: 'Country call / market for each distributor'
   - value: '50+'
-    label: 'Lande betjent med partnere'
+    label: 'Countries served with partners'
   - value: '12–15'
-    label: 'Drop-stitch stivhed i PSI, kollektionsstandard'
+    label: 'PSI drop-stitch rigidity, collection standard'
   - value: '100%'
-    label: 'Tryktestet board for board inden forsendelse'
+    label: 'Pressure-tested board by board before shipping'
 features:
-  title: 'Hvad co-branding betyder hos OLagoon'
-  subtitle: 'Co-branding er vores designsamarbejdsprogram — bygget omkring OLagoon-brandet, territorialbeskyttelse og begrænsede kollektioner, ikke upræget produktion.'
+  title: 'What Co-Branding Means at OLagoon'
+  subtitle: 'Co-branding is our design-partnership program — built around the OLagoon brand, territory protection, and limited collections, not unbranded production.'
   columns: 3
   items:
-    - title: 'OLagoon-produkter forbliver OLagoon-produkter'
-      description: 'En co-brand-kollektion er en begrænset udgave af OLagoon-boards med jeres identitet vævet ind. Aldrig upræget, aldrig et tredjepartsbrand og aldrig et åbent private label-program.'
+    - title: 'OLagoon Products Stay OLagoon Products'
+      description: 'A co-branded collection is a limited edition of OLagoon boards with your identity woven in. It is never unbranded, never a third-party brand, and never an open private-label program.'
       icon: 'tabler:trademark'
-    - title: 'Designet med jer'
-      description: 'Jeres farver, naming og historie former kollektionen. Vores design- og konstruktionsteam håndterer dæk, grafik, emballage og dokumentation fra brief til levering.'
+    - title: 'Designed With You'
+      description: 'Your colors, naming, and story shape the collection. Our design and engineering team handles decks, graphics, packaging, and documentation from brief to delivery.'
       icon: 'tabler:pencil'
-    - title: 'Til klubber, resorts, events & fællesskaber'
-      description: 'Flådekollektioner til paddleklubber og resorts, event-udgaver til løb og fællesskabsserier — alle med OLagoons kvalitet og garanti.'
+    - title: 'For Clubs, Resorts, Events & Communities'
+      description: 'Fleet collections for paddle clubs and resorts, event editions for races and community series — all carrying the OLagoon quality and warranty.'
       icon: 'tabler:users'
-    - title: 'Beskytter landepartnere'
-      description: 'Co-branding kører ved siden af vores model med ét land, én distributør. Nationale partnere beholder deres territorium; co-brand-kollektioner åbner ikke døren for parallelle brands på deres marked.'
+    - title: 'Protects Country Partners'
+      description: 'Co-branding runs alongside our one-country-one-distributor model. National partners keep their territory; co-brand collections do not open the door to parallel brands in their market.'
       icon: 'tabler:shield-check'
-    - title: 'Ingeniørarbejde & kvalitetsstandarder'
-      description: 'Hver kollektion afsendes fra vores certificerede forsyningskæde med CE- og ISO 9001-dokumentation, tryktest og de samme QC-kontrolpunkter som vores kernekollektion.'
+    - title: 'Engineering & Quality Standards'
+      description: 'Every collection ships from our certified supply chain with CE and ISO 9001 documentation, pressure-testing, and the same QC checkpoints as our core range.'
       icon: 'tabler:certificate'
-    - title: 'Bliver en aktiv for jeres brand'
-      description: 'En begrænset co-brand-kollektion bygger jeres egen historie på vandet — dækningsbidrag, medieindhold og en grund til, at paddlere vender tilbage sæson efter sæson.'
+    - title: 'Becomes a Brand Asset'
+      description: 'A limited co-branded collection builds your own story on the water — sell-through margin, media content, and a reason for swimmers to come back season after season.'
       icon: 'tabler:star'
 table:
-  title: 'Co-brand-kollektion niveauer'
-  subtitle: 'Typiske vilkår for en co-brand-kollektion. Priser i USD, FOB Qingdao. Skræddersyet dækdesign tilføjer 15–20 arbejdsdage til udvikling; nye former prissættes pr. projekt.'
-  caption: 'Alle co-brand-produkter forbliver OLagoon-produkter og bærer OLagoon-brandidentiteten. Projektomfang, eksklusivitetsvindue og endelige vilkår aftales i Co-Brand Project Agreement.'
+  title: 'Co-Brand Collection Tiers'
+  subtitle: 'Typical co-brand collection terms. Prices in USD, FOB Qingdao. Custom deck designs add 15–20 working days for development; new molds are quoted per project.'
+  caption: 'All co-branded products remain OLagoon products and carry the OLagoon brand identity. Project scope, exclusivity window, and final terms are agreed in the Co-Brand Project Agreement.'
   head:
-    - Co-brand-niveau
-    - Minimumsordre (stk.)
-    - Leveringstid
-    - Betaling
+    - Co-Brand Tier
+    - Minimum Order (units)
+    - Lead Time
+    - Payment
   rows:
-    - [Pilotkollektion, 30–50, 30–45 arbejdsdage, 30 % depositum / 70 % før forsendelse]
-    - [Standard co-brand-kollektion, 50–100, 30–45 arbejdsdage, 30 % depositum / 70 % før forsendelse]
-    - [Stor / multiregional kollektion, 100+, 45–60 arbejdsdage, 30 % depositum / 70 % før forsendelse]
-    - [Ny form eller dyb lokalisering, 200+, 60–90 arbejdsdage, 30 % depositum / 70 % før forsendelse]
+    - [Pilot Collection, 30–50, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Standard Co-Branded Collection, 50–100, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Large / Multi-Region Collection, 100+, 10–14 weeks, 30% deposit / 70% before shipment]
+    - [New Mold or Deep Localization, 200+, 12–16 weeks + 15–20 days tooling, 30% deposit / 70% before shipment]
 faqs:
-  title: 'Co-brand — FAQ'
-  subtitle: 'Hvordan OLagoon co-branding fungerer, og hvordan det adskiller sig fra OEM og private label.'
+  title: 'Co-Brand — FAQ'
+  subtitle: 'How OLagoon co-branding works, and how it differs from OEM and private label.'
   items:
-    - title: 'Er co-branding det samme som OEM eller private label?'
-      description: 'Nej. OLagoon driver ikke længere et åbent OEM/private label-program. Co-brand-produkter forbliver OLagoon-produkter — designet, konstrueret, kvalitetstestet og båret af OLagoon-brandet. Jeres identitet optræder som et co-brand, ikke som et upræget tredjepartsprodukt.'
-    - title: 'Hvem kan starte et co-brand-projekt?'
-      description: 'Kvalificerede vandsportsvirksomheder: eksisterende landepartnere, paddleklubber, resorts og hoteller, eventarrangører og fællesskaber. Send os en projektkort beskrivelse, og vi bekræfter anvendeligheden, før designarbejdet begynder.'
-    - title: 'Vil co-branding komme i konflikt med min landedistributør?'
-      description: 'Nej. Modellen med ét land, én distributør har forrang. Co-brand-kollektioner koordineres med den lokale landepartner, hvor en sådan findes, så ingen parallel eller konkurrerende brand optræder inden for et beskyttet territorium.'
-    - title: 'Hvad er minimumsordren på en co-brand-kollektion?'
-      description: 'Pilotkollektioner starter ved 30–50 stk. Standardkollektioner er 50–100 stk.; store eller multiregionale udgaver er 100+ stk. Tidsplaner for skræddersyet udvikling aftales pr. projekt.'
-    - title: 'Hvad udgør OLagoon-kvalitet kontra partnerbidrag?'
-      description: 'OLagoon ejer produktdesign, konstruktion, materialer, opbygning, QC og garanti. Partnere bidrager med kollektionskoncept, naming, farver, grafik input og go-to-market. Det holder én kvalitetsstandard på vandet.'
-    - title: 'Hvordan ansøger jeg?'
-      description: 'Udfyld co-brand-forespørgselsformularen med jeres virksomhed, marked og kollektionsidé. Vi gennemgår passende match og svarer inden for 3 hverdage med et forslag og Co-Brand Project Agreement.'
+    - title: 'Is co-branding the same as OEM or private label?'
+      description: 'No. OLagoon no longer runs an open OEM/private-label program. Co-branded products remain OLagoon products — designed, engineered, quality-checked, and backed by the OLagoon brand. Your identity appears as a co-brand, not as an unbranded third-party product.'
+    - title: 'Who can start a co-brand project?'
+      description: 'Qualified water-sports businesses: existing country partners, paddle clubs, resorts and hotels, event organizers, and communities. Send us a project brief and we confirm applicability before design work begins.'
+    - title: 'Will co-branding conflict with my country distributor?'
+      description: 'No. The one-country-one-distributor model takes priority. Co-brand collections are coordinated with the local country partner where one exists, so no parallel or competing brand appears inside a protected territory.'
+    - title: 'What is the minimum order for a co-brand collection?'
+      description: 'Pilot collections start at 30–50 units. Standard collections are 50–100 units; large or multi-region editions are 100+ units. Custom development timelines are agreed per project.'
+    - title: 'What amounts to OLagoon quality versus partner input?'
+      description: 'OLagoon owns product design, engineering, materials, construction, QC, and warranty. Partners contribute collection concept, naming, colors, graphics input, and go-to-market. This keeps one quality standard on the water.'
+    - title: 'How do I apply?'
+      description: 'Complete the co-brand inquiry form with your business, market, and collection idea. We review fit, then respond within 3 business days with a proposal and the Co-Brand Project Agreement.'
 cta:
-  title: 'Byg en begrænset kollektion, vandet husker.'
-  subtitle: 'Start et co-brand-projekt med OLagoon og forvandl jeres klub, resort eller fællesskab til et brand på vandet — med OLagoons ingeniørarbejde og garanti i ryggen.'
+  title: 'Build a limited collection the water will remember.'
+  subtitle: 'Start a co-brand project with OLagoon and turn your club, resort, or community into a brand on the water — backed by OLagoon engineering and warranty.'
   actions:
-    - text: 'Start et co-brand-projekt'
+    - text: 'Start a Co-Brand Project'
       href: /contact/?subject=Co-Brand Project
       variant: primary
-    - text: 'Udforsk landepartnerskabet'
+    - text: 'Explore Country Partnership'
       href: /distributor-program/
       variant: secondary
 geo:
-  tagline: 'Hvem vi co-brander med'
-  sentence: 'OLagoon co-brander med etablerede vandsportsvirksomheder — landepartnere, paddleklubber, resorts og hoteller, eventarrangører og paddelfællesskaber — der ønsker en markant, begrænset kollektion bygget på et pålideligt globalt brand.'
+  tagline: 'Who We Co-Brand With'
+  sentence: 'OLagoon co-brands with established water-sports businesses — country partners, paddle clubs, resorts and hotels, event organizers, and swimming communities — that want a distinctive, limited collection built on a reliable global brand.'
   audiences:
-    - 'Landedistributører'
-    - 'Paddle- og vandsportsklubber'
-    - 'Resorts & hoteller'
-    - 'Løbs- og eventarrangører'
-    - 'Paddelfællesskaber'
+    - 'Country Distributors'
+    - 'Paddle & Water Sports Clubs'
+    - 'Resorts & Hotels'
+    - 'Race & Event Organizers'
+    - 'swimming Communities'

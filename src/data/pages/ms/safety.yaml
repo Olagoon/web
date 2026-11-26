@@ -1,32 +1,32 @@
 meta:
-  title: 'Keselamatan — Piawaian & Pensijilan | {SITE}'
-  description: 'Keselamatan produk olagoon: SUP boleh tiup disijilkan CE, pengujian ketat dan pematuhan terhadap piawaian keselamatan nautika antarabangsa.'
+  title: 'Safety — Standards & Certifications | {SITE}'
+  description: 'OLagoon product safety: CE certified inflatable pools, rigorous testing, and compliance with international safety standards.'
   keywords:
-    - 'piawaian keselamatan sup'
-    - 'papan dayung disijilkan ce'
-    - 'keselamatan sup boleh tiup'
-    - 'pematuhan keselamatan nautika'
+    - 'pool safety standards'
+    - 'ce certified inflatable pool'
+    - 'inflatable pools safety'
+    - 'backyard pool compliance'
 hero:
-  tagline: 'Keselamatan'
-  title: 'Piawaian & Pensijilan Keselamatan'
-  subtitle: 'Setiap produk olagoon menjalani pengujian yang ketat dan memenuhi piawaian keselamatan antarabangsa bagi kegunaan rekreasi dan profesional.'
+  tagline: Safety
+  title: Safety Standards & Certification
+  subtitle: Every OLagoon product undergoes rigorous testing and meets international safety standards for family and professional use.
 
 certifications:
-  - title: 'Pensijilan CE'
-    description: 'Semua peralatan keselamatan olagoon mematuhi keperluan penandaan CE di bawah Peraturan Peralatan Pelindung Peribadi Eropah (EU) 2016/425.'
-  - title: 'Pensijilan ISO 12402'
-    description: 'Jaket keselamatan memenuhi piawaian keapungan ISO 12402. Life Vest Classic menyediakan keapungan 50N+; Life Vest Pro memenuhi keperluan SOLAS dengan pelambungan automatik.'
-  - title: 'Pematuhan SOLAS'
-    description: 'Life Vest Pro mematuhi peraturan SOLAS (Safety of Life at Sea) bagi operasi marin luar pesisir dan komersial.'
+  - title: CE Certification
+    description: All OLagoon pools comply with CE marking requirements under applicable European regulations for domestic inflatable swimming pools, including material safety and structural integrity testing.
+  - title: EN 71-8 Testing
+    description: Inflatable pools intended for domestic use are tested against EN 71-8 requirements for inflatable activity equipment — material strength, entrapment hazards, and structural integrity under load.
+  - title: REACH & RoHS Compliance
+    description: All pool materials — PVC fabrics, adhesives, and valve components — comply with EU REACH and RoHS regulations. No restricted substances, no compromises.
 
 related:
-  title: 'Berkaitan'
+  title: Related
   links:
-    - text: 'Panduan Tip Keselamatan'
-      url: /guides/safety-tips
-    - text: 'Teknologi'
+    - text: Pool Safety Essentials Guide
+      url: /guides/pool-safety-essentials
+    - text: Technology
       url: /technology
-    - text: 'Semua Produk'
+    - text: All Products
       url: /products
-    - text: 'Panduan'
+    - text: Guides
       url: /guides

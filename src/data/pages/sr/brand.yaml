@@ -1,39 +1,39 @@
 meta:
-  title: 'Бренд olagoon — Морски инжењеринг и партнерство | {SITE}'
-  description: 'olagoon: надувни морски бренд који партнерствује са брендовима водених спортова, дистрибутерима, наутичким клубовима и предузећима кроз ко-брендиране колекције, приватну марку и програме дистрибуције по земљама.'
+  title: 'The olagoon Brand — Marine Engineering & Partnership | {SITE}'
+  description: 'olagoon: an inflatable marine brand partnering with water sports brands, distributors, nautical clubs, and enterprises through co-branded collections, private label, and country distribution programs.'
   keywords:
-    - 'olagoon бренд'
-    - 'бренд надувних sup дасака'
-    - 'кинески произвођач sup дасака'
+    - 'olagoon brand'
+    - 'inflatable pools brand'
+    - 'china pool manufacturer'
 hero:
-  tagline: 'Бренд'
+  tagline: Brand
   title: '{BRAND}'
-  subtitle: 'Океанске перформансе за сваког сурфера'
-  cta: 'Истражите опрему →'
+  subtitle: Ocean Performance for Every Surfer
+  cta: Explore Gear →
   cta_link: /products/
-  secondary_cta: 'Научи сурфовање'
+  secondary_cta: Explore Pools
   secondary_cta_link: /guides/
 
 position:
-  tagline: 'Позиција'
-  subtitle: 'Океанске перформансе за сваког сурфера'
+  tagline: Position
+  subtitle: Ocean Performance for Every Surfer
 
 products_section:
-  tagline: 'Производи'
-  cta: 'Сви производи →'
+  tagline: Products
+  cta: All Products →
   cta_link: /products/
 
 global_section:
-  tagline: 'Глобално'
-  title: 'Доступно у {count} региона'
+  tagline: Global
+  title: Available in {count} Regions
 
 social_section:
-  tagline: 'Друштвено'
-  title: 'Шта читају сурфери'
-  read_guide: 'Прочитај водич →'
+  tagline: Social
+  title: What surfers are reading
+  read_guide: Read guide →
 
 cta_section:
-  title: 'Започните своје океанско путовање'
-  subtitle: 'Сваки производ CE сертификован. Подржан гаранцијом. Дизајниран за стварно сурфовање.'
+  title: Start your ocean journey
+  subtitle: Every product CE certified. Backed by warranty. Engineered for real backyards.
   cta_suffix: '→'
-  secondary_cta: 'О {BRAND}'
+  secondary_cta: About {BRAND}

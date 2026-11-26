@@ -1,112 +1,122 @@
 meta:
-  title: 'Despre olagoon — Brand de SUP Gonflabil și Sporturi Nautice | {SITE}'
-  description: 'olagoon este un brand global de SUP-uri gonflabile și sporturi nautice, administrat de Olagoon LLC (SUA) și dezvoltat de echipa noastră operațională din Qingdao. Descoperiți povestea, ingineria, calitatea certificată și programele de parteneriat pe țări.'
+  title: 'About OLagoon — inflatable pools & Water Sports Brand | {SITE}'
+  description: 'OLagoon is a global inflatable pools and water sports brand, operated by Olagoon LLC and built by our Qingdao Operation Team. Discover our story, engineering, certified quality, and country partner programs.'
   keywords:
-    - 'brand de sup gonflabil'
-    - 'brand de sporturi nautice'
-    - 'distribuitor sup pe țări'
-    - 'colecții sup co-branded'
+    - 'inflatable pools brand'
+    - 'water sports brand'
+    - 'country pool distributor'
+    - 'co-branded pool collections'
 hero:
-  tagline: Despre noi
+  tagline: About us
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: Fabrica și atelierul olagoon
-  title: Despre olagoon
-  subtitle: 'Am început într-un atelier de pe coastă, cu o singură placă și o convingere fermă: produsele marine trebuie proiectate ca și cum ar conta cu adevărat, pentru că așa este. Astăzi livrăm în peste 40 de țări, dar fiecare carenă trece în continuare prin aceleași mâini care au fondat compania.'
+    alt: olagoon factory and workshop
+  title: |
+    Marine engineering, <br />
+    built the <span class="text-accent dark:text-white">olagoon</span> way
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
+
 stats:
-  title: În cifre
+  title: By the numbers
   columns: 4
   stats:
-    - title: Cocuri livrate
-      amount: 2.400+
-    - title: Țări deservite
+    - title: Hulls delivered
+      amount: '2,400+'
+    - title: Countries shipped
       amount: '40'
-    - title: Ani de experiență combinată
+    - title: Years of combined experience
       amount: '60'
-    - title: Timp mediu de răspuns la garanție (ore)
+    - title: Average warranty response (hours)
       amount: '24'
+
 features3_what_we_build:
-  title: Ce construim
-  subtitle: 'Am început într-un atelier de pe coastă, cu o singură placă și o convingere fermă: produsele marine trebuie proiectate ca și cum ar conta cu adevărat, pentru că așa este. Astăzi livrăm în peste 40 de țări, dar fiecare carenă trece în continuare prin aceleași mâini care au fondat compania.'
+  title: What we build
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
   columns: 3
   isBeforeContent: true
   items:
-    - title: Plăci SUP
-      description: Plăci SUP gonflabile de la 9 ft la 12 ft. Proiectate pentru touring, yoga, pescuit și uz familial.
+    - title: pools
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:ship
-    - title: SUP-uri gonflabile
-      description: Plăci SUP gonflabile din PVC, de la 9 ft la 12 ft. Ușoare, rezistente și ușor de depozitat.
+    - title: inflatable pools
+      description: PVC inflatable pools from 9 ft to 12 ft. Light, tough and easy to stow.
       icon: tabler:rowing
-    - title: Pachete SUP premium
-      description: SUP-uri compacte, de specificații înalte, fabricate la comandă pentru a corespunde cerințelor mărcii sau flotei dumneavoastră.
+    - title: Premium pool packages
+      description: Compact, high-spec pools custom-built to match your brand or fleet requirements.
       icon: tabler:crown
+
 features3_more:
   columns: 3
   isAfterContent: true
   items:
-    - title: Accesorii
-      description: Padele, pompe, huse, saci impermeabili și componente electronice. Toate perfect adaptate plăcilor noastre.
+    - title: Accessories
+      description: Filters, pumps, covers, and accessories. All matched to our pools.
       icon: tabler:package
-    - title: Reparații și service
-      description: Reparații plăci în fabrică, înlocuire pad-uri și modernizări de accesorii.
+    - title: Repair & service
+      description: In-house pool repair, liner replacement and accessory upgrades.
       icon: tabler:tool
-    - title: Construcții personalizate
-      description: Proiectare realizată proiect cu proiect pentru clienți comerciali, științifici și militari.
+    - title: Custom builds
+      description: Project-by-project design for commercial, scientific and military customers.
       icon: tabler:hammer
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-    alt: Discuții privind proiectarea și ingineria plăcilor
+    alt: Pool design and engineering discussion
+
 steps2_values:
-  title: Valorile noastre
-  subtitle: Trei principii care au modelat fiecare produs încă din prima zi.
+  title: Our values
+  subtitle: Three principles that have shaped every product since day one.
   items:
-    - title: Construit ca și cum ar transporta propria familie
-      description: Fiecare carenă, sudură și element de fixare este tratat ca și cum ar fi folosit de propriile noastre familii.
+    - title: Build like it carries your family
+      description: Every hull, weld and fastener is treated as if our own families will use it.
       icon: tabler:heart
-    - title: Proiectăm înainte de a vinde
-      description: Plăci SUP gonflabile de la 9 ft la 12 ft. Proiectate pentru touring, yoga, pescuit și uz familial.
+    - title: Engineer before we sell
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:settings
-    - title: Suport care depășește perioada de garanție
-      description: Carene de douăzeci de ani încă ne mai cer piese de schimb, iar noi încă răspundem la telefon.
+    - title: Support that outlasts the warranty
+      description: Twenty-year-old hulls still call us for spare parts, and we still pick up.
       icon: tabler:headset
+
 steps2_milestones:
-  title: Momente-cheie
-  subtitle: O versiune scurtă a poveștii olagoon.
+  title: Milestones
+  subtitle: A short version of the olagoon story.
   isReversed: true
   items:
-    - title: Fondată într-un atelier de coastă
-      description: Început de doi ingineri marini, cu o mașină CNC și o idee încăpățânată.
+    - title: Founded in a coastal workshop
+      description: Started by two marine engineers with a CNC mill and a stubborn idea.
       icon: tabler:building-factory
-    - title: Primele 1.000 de carene livrate
-      description: Am ajuns la al șaptelea an de activitate, în principal prin recomandări și clienți fideli.
+    - title: First 1,000 hulls delivered
+      description: Reached in our seventh year, mostly through word of mouth and repeat customers.
       icon: tabler:circle-check
-    - title: Program internațional de export
-      description: Livrăm în peste 40 de țări, cu parteneri locali de asistență pe cinci continente.
+    - title: International export programme
+      description: Now shipping to 40+ countries with localised support partners on five continents.
       icon: tabler:world
+
 features2_locations:
-  title: Locațiile noastre
-  tagline: Găsește-ne
+  title: Our locations
+  tagline: Find us
   columns: 3
   items:
-    - title: Sediul central și atelierul
-      description: Plăci SUP gonflabile de la 9 ft la 12 ft. Proiectate pentru touring, yoga, pescuit și uz familial.
-    - title: Centru de service UE
-      description: Plăci SUP gonflabile de la 9 ft la 12 ft. Proiectate pentru touring, yoga, pescuit și uz familial.
-    - title: Rețea de parteneri APAC
-      description: Parteneri autorizați de service în Australia, Japonia, Singapore și Hong Kong.
+    - title: Headquarters & workshop
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: EU service centre
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: APAC partner network
+      description: Authorised service partners in Australia, Japan, Singapore and Hong Kong.
+
 brand_hub_tagline: Brand
-brand_hub_title: Descoperiți brandul nostru
-brand_hub_subtitle: Aprofundați-vă în expertiza noastră în ingineria SUP, prezența globală și principiile care ne motivează.
+brand_hub_title: Explore Our Brand
+brand_hub_subtitle: Dive deeper into our pool engineering expertise, global presence, and the principles that drive us.
+
 brand_hub_cards:
-  - title: Expertiză maritimă
-    desc: Decenii de știința materialelor, producție de precizie și testare în condiții reale — de la fabricația PVC la designul cocii deep-V și tehnologia drop-stitch.
+  - title: Marine Expertise
+    desc: Decades of material science, precision manufacturing, and real-world testing — from PVC fabrication to deep-V hull design and drop-stitch technology.
     link: /brand-marine-expertise/
-    link_label: Aflați mai multe →
-  - title: Prezență globală
-    desc: Livrăm în peste 50 de țări din unitatea noastră din Qingdao, cu parteneri de service autorizați în Europa, Asia-Pacific și Americi.
+    link_label: 'Learn more →'
+  - title: Global Presence
+    desc: Shipping to 50+ countries from our Qingdao facility with authorized service partners across Europe, Asia-Pacific, and the Americas.
     link: /brand-global-presence/
-    link_label: Aflați mai multe →
-  - title: De ce olagoon
-    desc: 'Un brand construit pe calitate verificată — certificare dublă (ISO 9001 + BSCI), conformitate CE și parteneriate exclusive pe țări cu colecții co-branded limitate pentru companii de sporturi nautice.'
+    link_label: 'Learn more →'
+  - title: Why olagoon
+    desc: A brand built on verified quality — dual certification (ISO 9001 + BSCI), CE compliance, and exclusive country partnerships with limited co-branded collections for water-sports businesses.
     link: /brand-why-olagoon/
-    link_label: Aflați mai multe →
+    link_label: 'Learn more →'

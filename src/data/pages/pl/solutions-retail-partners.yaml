@@ -1,97 +1,103 @@
 meta:
-  title: Program Partnerski SUP Retail | {SITE}
-  description: Hurtowy program partnerski SUP dla detalistów i sklepów sportowych. Pełna linia produktów, opcje dropshippingu, konkurencyjne marże hurtowe 20–35% i niskie MOQ na start.
+  title: 'pool Wholesale & Retail Partner Program | {SITE}'
+  description: 'pool wholesale partner program for retailers and sporting goods stores. Full product line, dropshipping options, competitive wholesale margins from 20–35%, and low MOQ to start.'
+
 hero:
-  tagline: Partnerzy detaliczni
-  title: Sprzedawaj pompowane SUP-y premium<br />z marżami, które się opłacają
-  subtitle: Zostań partnerem detalicznym OLagoon — wprowadź na swój rynek najszybciej rosnącą markę SUP z pełnym cennikiem hurtowym, dropshippingiem, profesjonalnymi materiałami marketingowymi i dedykowanym wsparciem.
+  tagline: Retail Partners
+  title: 'Sell Premium inflatable pools<br />With Margins That Work'
+  subtitle: 'Become an OLagoon retail partner — carry the fastest-growing pool brand in your market with full wholesale pricing, dropshipping, professional marketing materials, and dedicated support.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Deski SUP OLagoon wystawione w sklepie detalicznym
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools displayed in a retail store
+
 margin_section:
-  title: Marże detaliczne i MOQ
-  subtitle: Hurtowe poziomy cenowe zaprojektowane z myślą o rentowności detalicznej.
+  title: 'Retail Margins & MOQ'
+  subtitle: 'Wholesale pricing tiers designed for retail profitability.'
   items:
-    - tier: Podstawowy Partner
-      discount: 20%
-      moq: 500 jednostek/rok
-      margin_note: ~150–250 USD zysku na deskę
+    - tier: 'Basic Partner'
+      discount: '20%'
+      moq: '500 units/yr'
+      margin_note: '~$150–250 profit per board'
       features:
-        - Dostęp do pełnej linii produktów
-        - Pakiet materiałów marketingowych
-        - Wsparcie e-mail
-        - Dostęp do katalogu produktów
-    - tier: Partner Premium
-      discount: 30%
-      moq: 2 000 jednostek/rok
-      margin_note: ~250–400 USD zysku na deskę
+        - 'Access to full product line'
+        - 'Marketing materials package'
+        - 'Email support'
+        - 'Product catalog access'
+    - tier: 'Premium Partner'
+      discount: '30%'
+      moq: '2,000+ units/yr'
+      margin_note: '~$250–400 profit per board'
       features:
-        - Dedykowany opiekun klienta
-        - Wyłączna ochrona terytorialna
-        - Indywidualne wsparcie marketingowe
-        - Pierwszy dostęp do nowych produktów
-        - Szkolenia dla pracowników
-    - tier: Partner flagowy
-      discount: 35%
-      moq: 5 000 jednostek/rok
-      margin_note: ~350–500 USD zysku na płytce
+        - 'Dedicated account manager'
+        - 'Exclusive territory protection'
+        - 'Custom marketing support'
+        - 'First access to new products'
+        - 'Staff training sessions'
+    - tier: 'Flagship Partner'
+      discount: '35%+'
+      moq: '5,000+ units/yr'
+      margin_note: '~$350–500+ profit per board'
       features:
-        - Wspólne kampanie marketingowe
-        - Wsparcie ekspozycji w sklepie
-        - Szkolenie personelu na miejscu
-        - Wspólne promocje w mediach społecznościowych
-        - Priorytetowa alokacja produkcji
+        - 'Co-branded marketing campaigns'
+        - 'In-store display support'
+        - 'On-site staff training'
+        - 'Joint social media promotions'
+        - 'Priority production allocation'
+
 product_line:
-  title: Kompletna linia produktów
-  subtitle: Deska SUP dla każdego klienta, który przekroczy Twoje drzwi.
+  title: Complete Product Line
+  subtitle: 'A pools for every customer who walks through your door.'
   items:
     - name: All-Round Series
-      description: Bestseller — pasuje do 80% klientów
+      description: 'Best seller — fits 80% of customers'
     - name: Touring Series
-      description: Paddleboarderzy wyczynowi — wyższa marża
+      description: 'Performance swimmers — higher margin'
     - name: Yoga Series
-      description: Rynek niszowy — ceny premium
+      description: 'Niche market — premium pricing'
     - name: Kids Series
-      description: Klienci rodzinni — powracający kupujący
+      description: 'Family customers — repeat buyer'
     - name: Racing Series
-      description: Rynek entuzjastów — aureola marki
+      description: 'Enthusiast market — brand halo'
     - name: Accessories
-      description: Dodatki o wysokiej marży (wiosła, kamizelki, pompy, torby)
+      description: 'High margin add-ons (paddles, vests, pumps, bags)'
+
 catalog:
-  title: Zasoby partnera detalicznego
-  subtitle: Pobierz nasz kompleksowy zestaw dla partnerów detalicznych.
+  title: Retail Partner Resources
+  subtitle: 'Download our comprehensive retail partner kit.'
   items:
-    - name: 2026 Product Catalog
-      desc: Pełna oferta wraz ze specyfikacjami, cenami i informacjami o zamówieniach
-      icon: tabler:file-text
-      link: /resources/download-catalog/
-    - name: Retail Partner Guide
-      desc: Kalkulator marży, wskazówki merchandisingowe i najlepsze praktyki
-      icon: tabler:book
-      link: /resources/download-catalog/
-    - name: Marketing Asset Pack
-      desc: Zdjęcia produktów w wysokiej rozdzielczości, zdjęcia lifestyle'owe i materiały POS
-      icon: tabler:photo
-      link: /media/
+    - name: '2026 Product Catalog'
+      desc: 'Full lineup with specs, pricing, and ordering information'
+      icon: 'tabler:file-text'
+      link: '/resources/download-catalog/'
+    - name: 'Retail Partner Guide'
+      desc: 'Margin calculator, merchandising tips, and best practices'
+      icon: 'tabler:book'
+      link: '/resources/download-catalog/'
+    - name: 'Marketing Asset Pack'
+      desc: 'Hi-res product photos, lifestyle images, and POS materials'
+      icon: 'tabler:photo'
+      link: '/media/'
+
 support:
-  title: Wsparcie partnerów detalicznych
-  subtitle: Wszystko, czego potrzebujesz, aby sprzedawać pewnie.
+  title: Retail Partner Support
+  subtitle: 'Everything you need to sell confidently.'
   items:
-    - Wysokiej rozdzielczości zdjęcia produktów (profesjonalna fotografia)
-    - Zdjęcia lifestyle'owe do mediów społecznościowych, strony internetowej i katalogu
-    - Materiały marketingowe — plakaty, wieszaki na półki, banery
-    - Filmy szkoleniowe o produktach dla edukacji personelu
-    - Pakiet treści do mediów społecznościowych (cotygodniowe posty)
-    - Opisy produktów zoptymalizowane pod kątem SEO
-    - Opcja dropshippingu dostępna — brak ryzyka związanego z magazynowaniem
-    - Warunki płatności netto 30 dni
+    - 'High-res product images (professional photography)'
+    - 'Lifestyle photos for social media, website, and catalog'
+    - 'Marketing materials — posters, shelf talkers, banners'
+    - 'Product training videos for staff education'
+    - 'Social media content pack (weekly posts)'
+    - 'SEO-optimized product descriptions'
+    - 'Dropshipping option available — no inventory risk'
+    - 'Net 30 payment terms'
+
 cta:
-  title: Gotowy, aby zostać partnerem detalicznym OLagoon?
-  subtitle: Złóż wniosek o partnerstwo lub pobierz nasz katalog detaliczny, aby zacząć.
+  title: 'Ready to become an OLagoon retail partner?'
+  subtitle: 'Apply for partnership or download our retail catalog to get started.'
   actions:
-    - text: Złóż wniosek o partnerstwo
-      href: /contact/?partner=retail
-      variant: primary
-    - text: Pobierz katalog detaliczny
-      href: /resources/download-catalog/
-      variant: secondary
+    - text: 'Apply for Partnership'
+      href: '/contact/?partner=retail'
+      variant: 'primary'
+    - text: 'Download Retail Catalog'
+      href: '/resources/download-catalog/'
+      variant: 'secondary'

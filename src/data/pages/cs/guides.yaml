@@ -1,25 +1,26 @@
 meta:
-  title: 'SUP průvodci — kup, vybírej, trénuj | {SITE}'
-  description: 'SUP průvodci olagoona: jak koupit, vybrat a trénovat paddleboarding. Rozměry, materiály a tipy odborníků pro začátečníky i profesionály.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'průvodce nákupem SUP'
-    - 'jak vybrat SUP'
-    - 'průvodce velikostí SUP'
-    - 'tipy pro nafukovací paddleboard'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: Průvodci
-  title: Jste v SUP nováčkem?
-  subtitle: Praktické průvodce, které vám pomohou vybrat, používat a vychutnat si nafukovací SUP prkna.
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
+
 size_guide:
-  tagline: Rozměry a specifikace
-  title: Najděte správnou velikost pro vaše potřeby
-  desc: Porovnejte rozměry prken SUP, nosnost a doporučené využití. Ať potřebujete touringové SUP, prkno na jógu nebo univerzální SUP — náš průvodce velikostmi vám pomůže vybrat ten správný model.
-  link_label: Kompletní velikostní průvodce se specifikacemi produktů →
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: SUP prkna
-      desc: Délku zvolte podle své hmotnosti a zamýšleného použití. Širší prkna (32"+) nabízejí vyšší stabilitu. Delší prkna (11–12 ft) lépe drží směr při výletech.
-    - title: Touring SUP prkna
-      desc: Delší desky (11–12 ft) pro zdolávání vzdáleností a přímou jízdu. Dostatečně stabilní pro touring s vybavením. Vždy zkontrolujte nosnost.
-    - title: Univerzální SUP prkna
-      desc: Délku volte podle hmotnosti jezdce a účelu použití. Širší prkna (32"+) zaručí stabilitu. Všestranné pro rekreaci i fitness.
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

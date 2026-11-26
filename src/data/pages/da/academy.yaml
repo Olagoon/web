@@ -1,176 +1,175 @@
 meta:
-  title: 'Akademiet — SUP-guides & padletræning | {SITE}'
-  description: 'olagoon Akademiet: guides til oppustelige paddle boards, stand up paddle-teknikker, nautisk sikkerhed og materialekendskab for begyndere og professionelle.'
+  title: 'Academy — Pool Care Guides & Learning Center | {SITE}'
+  description: 'OLagoon Academy: drop-stitch pool guides, setup tutorials, water care, safety essentials, and materials knowledge for pool owners and professionals.'
   keywords:
-    - 'lære stand up paddle'
-    - 'SUP begynderguide'
-    - 'paddle board grundlag'
-    - 'SUP-teknik'
-    - 'SUP-lektioner'
+    - 'drop stitch pool guide'
+    - 'inflatable pool setup'
+    - 'pool water care'
+    - 'pool safety essentials'
+    - 'pool maintenance'
 hero:
-  tagline: olagoon Akademi
-  title: Læringscenter
-  subtitle: Guides og tutorials til alle niveauer — fra SUP-grundlæggende til avancerede redningsteknikker
+  tagline: OLagoon Academy
+  title: Learning Center
+  subtitle: Guides and tutorials for every pool owner — from first setup to water care, safety, and seasonal maintenance
+
 categories:
-  - level: Begynder
+  - level: Getting Started
     color: from-green-500 to-emerald-600
     badge: bg-green-100 text-green-700
     guides:
-      - title: Grundlæggende om SUP
-        desc: Lær det grundlæggende i stand-up paddleboarding — stilling, padleteknik og balance.
-        slug: beginner-sup-guide
-      - title: Padleteknikker
-        desc: Fremadslag, fejeslag, trækslag og low brace — mestr de vigtigste padletag.
-        slug: sup-paddle-guide
-      - title: Sikkerhed først
-        desc: Vigtige sikkerhedsrutiner, herunder vejrtjek, brug af redningsvest (PFD), leash-regler og selvbjærgning.
-        slug: sup-safety-guide
-  - level: Øvet
+      - title: Choosing Your Pool
+        desc: Size, capacity, and placement — how to pick the right drop-stitch pool for your backyard and family.
+        slug: choosing-a-drop-stitch-pool
+      - title: First Setup
+        desc: Unbox, inflate, fill, and swim — a complete walkthrough of your first pool setup in under 30 minutes.
+        slug: pool-setup-guide
+      - title: Pool Safety Essentials
+        desc: Supervision rules, entry and exit practice, barrier placement, and everyday water safety habits.
+        slug: pool-safety-essentials
+  - level: Water Care
     color: from-blue-500 to-indigo-600
     badge: bg-blue-100 text-blue-700
     guides:
-      - title: Essentielt udstyr til touring
-        desc: Planlægning af flertimers padleture – navigation, væske, tempo og aflæsning af vindudsigter.
-        slug: touring-sup-guide
-      - title: Vejraflæsning
-        desc: Fortolk marine vejrudsigter, genkend skymønstre, og forstå vindens påvirkning af vandet.
-        slug: weather-planning-water-sports
-      - title: Grundlæggende navigation
-        desc: Kortlæsning, brug af kompas, GPS-waypoints og ruteplanlægning til kystpadling.
-        slug: sup-navigation-guide
-      - title: Tidevandsbevidsthed
-        desc: Forståelse af tidevandscyklusser og strømme, og hvordan de påvirker søsætningstidspunktet og ruteplanlægningen.
-        slug: understanding-tides
-  - level: Avanceret
+      - title: Water Care Basics
+        desc: Filtration schedules, sanitizer levels, and testing routines for clear, healthy pool water all season.
+        slug: pool-water-care
+      - title: Filtration & Circulation
+        desc: How your sand filter pump works, when to backwash, and how to keep water circulating efficiently.
+        slug: pool-water-care
+      - title: Preventing Algae & Cloudiness
+        desc: Troubleshooting green or cloudy water — causes, quick fixes, and prevention routines.
+        slug: pool-water-care
+  - level: Technology
     color: from-purple-500 to-violet-600
     badge: bg-purple-100 text-purple-700
     guides:
-      - title: Planlægning af flerdagsture
-        desc: Ekspeditionslogistik — udstyrsvalg, madplanlægning, sikkerhedsprotokoller og nødkontakter.
-        slug: sup-travel-guide
-      - title: Redningsteknikker
-        desc: Selvredning, T-redning og bugseringsprotokoller til åbent vand.
-        slug: sup-self-rescue
-      - title: Nattepadling
-        desc: Navigation i mørke — belysningskrav, rutekendskab, gruppekommunikation og bevidsthed om farer.
-        slug: ocean-safety-basics
-  - level: Vedligeholdelse
+      - title: Drop-Stitch Engineering
+        desc: How thousands of internal threads turn flexible PVC into a rigid, high-pressure pool structure.
+        slug: drop-stitch-pool-engineering
+      - title: Inflatable vs Rigid Pools
+        desc: Cost, setup, storage, durability, and feel — a complete comparison for backyard buyers.
+        slug: inflatable-pool-vs-rigid-pool
+      - title: Materials Deep Dive
+        desc: PVC layers, UV stabilizers, and reinforced rails — what makes a drop-stitch pool last a decade.
+        slug: drop-stitch-pool-engineering
+  - level: Maintenance
     color: from-amber-500 to-orange-600
     badge: bg-amber-100 text-amber-700
     guides:
-      - title: Rengøring og pleje
-        desc: Skylning i ferskvand, UV-beskyttelse, forebyggelse af skimmelsvamp og korrekte tørringsteknikker efter hver tur.
-        slug: inflatable-sup-maintenance
-      - title: Opbevaringsguide
-        desc: Bedste praksis for opbevaring af oppustelige SUP-brædder — tømning, foldning, temperaturkontrol og holdbarhed.
-        slug: inflatable-sup-storage
-      - title: Grundlæggende reparation
-        desc: Udbedr små punkteringer, lækager ved sømme og problemer med ventiler ved hjælp af PVC-reparationssæt og lappeteknikker.
-        slug: inflatable-sup-repair
-      - title: Ventilvedligeholdelse
-        desc: Identificér ventiltyper (Halkey-Roberts, Boston, Leafield), fjern snavs og udskift defekte ventilstængler.
-        slug: sup-pump-guide
-knowledge_center_tagline: Videnscenter
-knowledge_center_title: Marineudstyr & brancheguides
-knowledge_center_subtitle: Ekspertviden og købsguider til marineprofessionelle, flådeoperatører og vandsportsentusiaster.
+      - title: Cleaning & Care
+        desc: Surface cleaning, UV protection, seam inspection, and proper drying before every storage.
+        slug: pool-setup-guide
+      - title: Winter Storage
+        desc: Drain, clean, dry, fold — best practices for storing your pool through the off-season.
+        slug: pool-winter-storage
+      - title: Repairs & Patches
+        desc: Fix small punctures and seam issues with the included PVC repair kit — step by step.
+        slug: pool-setup-guide
+
+knowledge_center_tagline: 'Knowledge Center'
+knowledge_center_title: 'Pool Ownership & Industry Guides'
+knowledge_center_subtitle: 'Expert knowledge and buying guides for pool owners, facilities operators, and retail partners.'
+
 knowledge_sections:
-  - title: Viden om SUP-boards
-    tagline: Guides til stand-up paddleboard
-    desc: Alt om SUP-brædder — brætdesign, materialer, valg af størrelse, vedligeholdelse og købsrådgivning til fritids- og erhvervsbrug.
+  - title: 'Buying Knowledge'
+    tagline: 'Drop-Stitch Pool Guides'
+    desc: 'Everything about drop-stitch pools — sizing, materials, construction, and buying advice for families and commercial buyers.'
     guides:
-      - title: Sådan vælger du den rigtige SUP-board
-        desc: Komplet guide til valg af SUP — størrelse, volumen, materiale, form og tilsigtet anvendelse.
-        href: /learn/water-safety/
-      - title: Oppusteligt vs. hårdt SUP
-        desc: Oppustelig SUP vs. hård epoxy-board — portabilitet, holdbarhed, ydeevne og værdi sammenlignet.
-        href: /compare/technology/
-      - title: Allround vs. touring vs. yoga SUP
-        desc: Forskellige typer SUP-brædder – konstruktionsstandarder, former, størrelser og anbefalede anvendelser.
-        href: /learn/water-safety/
-      - title: Drop-Stitch vs. traditionel konstruktion
-        desc: Sammenlign drop-stitch og traditionel konstruktion til SUP boards med hensyn til vægt, pris, holdbarhed og stivhed.
-        href: /learn/drop-stitch-core/
-  - title: Guide til oppustelige SUP-boards
-    tagline: Viden om oppustelige SUP-boards
-    desc: Omfattende guides om oppustelige SUP-boards — PVC-materialer, drop-stitch-konstruktion, sikkerhedsstandarder og bedste praksis for vedligeholdelse.
+      - title: 'How to Choose the Right Pool'
+        desc: 'Complete guide to selecting a drop-stitch pool — size, capacity, material, and intended use.'
+        href: '/v2/choosing-a-drop-stitch-pool/'
+      - title: 'Inflatable vs Rigid Pool'
+        desc: 'Inflatable vs rigid pools — cost, setup, storage, durability, and value compared.'
+        href: '/v2/inflatable-pool-vs-rigid-pool/'
+      - title: 'Compact Plunge vs Family vs Grand Lagoon'
+        desc: 'The three OLagoon pool sizes compared — footprint, capacity, and ideal backyard.'
+        href: '/products/'
+      - title: 'Drop-Stitch vs Traditional Construction'
+        desc: 'Why drop-stitch cores beat vinyl-tube and frame-pool construction in rigidity and lifespan.'
+        href: '/v2/drop-stitch-pool-engineering/'
+  - title: 'Setup & Care Guide'
+    tagline: 'Pool Ownership Knowledge'
+    desc: 'Comprehensive guides on inflatable pool setup, water care, filtration, and maintenance best practices.'
     guides:
-      - title: PVC-materialeguide
-        desc: Den definitive guide til PVC-materialer til opbygning af oppustelige SUP-brætter.
-        href: /learn/materials/
-      - title: Sådan fremstilles oppustelige SUPs
-        desc: Fremstillingsproces — materialeskæring, bonding af drop-stitch-kernen, sømkonstruktion, tryktestning og kvalitetskontrol.
-        href: /learn/inflatable-technology/
-      - title: SUP-sikkerhedsguide
-        desc: Sikkerhedsstandarder, lastkapacitet, korrekt oppumpning, tjek før afgang og nødprocedure.
-        href: /learn/water-safety/
-      - title: Vedligeholdelse af SUP-board
-        desc: Rengøring, opbevaring, UV-beskyttelse og reparation af oppustelige SUP-brædder.
-        href: /v2/inflatable-sup-maintenance/
-  - title: Viden om SUP-boards
-    tagline: SUP-board-hub
-    desc: Tekniske guides om SUP-brættyper, materialer, konstruktionsmetoder, vedligehold og sikkerhed.
+      - title: 'PVC Material Guide'
+        desc: 'The PVC materials used in OLagoon pool construction — layers, coatings, and UV resistance.'
+        href: '/learn/materials/'
+      - title: 'How Pools Are Made'
+        desc: 'Manufacturing process — material cutting, drop-stitch bonding, seam welding, pressure testing, and quality control.'
+        href: '/learn/inflatable-technology/'
+      - title: 'Water Safety Guide'
+        desc: 'Safety standards, capacity limits, supervision rules, and emergency procedures.'
+        href: '/learn/water-safety/'
+      - title: 'Seasonal Maintenance'
+        desc: 'Cleaning, water care, and protection routines for a season-long clear pool.'
+        href: '/v2/pool-water-care/'
+  - title: 'Engineering Knowledge'
+    tagline: 'Technology Hub'
+    desc: 'Technical guides covering pool construction, materials, pressure ratings, and structural testing.'
     guides:
-      - title: SUP-boardtyper
-        desc: Allround-, touring-, yoga-, sport- og børne-SUPs – lær forskellene at kende, og vælg det rigtige.
-        href: /learn/water-safety/
-      - title: Drop-Stitch-teknologi
-        desc: Hvordan tusindvis af indre tråde skaber stive oppustelige konstruktioner til højt tryk.
-        href: /learn/drop-stitch-core/
-      - title: Materialereference
-        desc: PVC-denier-klassifikationer, stofvægt, UV-bestandighed og materialer i maritim kvalitet forklaret.
-        href: /learn/materials/
-      - title: SUP-købsguide
-        desc: Sammenlign forskellige SUP-brættyper til forskellige anvendelser og færdighedsniveauer.
-        href: /learn/water-safety/
-  - title: SUP-viden
-    tagline: Guides til stand-up paddleboard
-    desc: Alt om SUP-boards — oppustelige vs. stive, boarddimensioner, materialeteknologi og ekspertrådgivning til alle niveauer.
+      - title: 'Pool Types Explained'
+        desc: 'Plunge pools, family pools, swim lounges, and custom shapes — learn the differences.'
+        href: '/products/'
+      - title: 'Drop-Stitch Technology'
+        desc: 'How thousands of internal threads create rigid, high-pressure inflatable structures.'
+        href: '/learn/drop-stitch-core/'
+      - title: 'Materials Reference'
+        desc: 'PVC denier ratings, fabric weights, UV resistance, and marine-grade materials explained.'
+        href: '/learn/materials/'
+      - title: 'Pressure & Rigidity'
+        desc: 'Why 10–15 PSI operating pressure keeps 20 cm walls rock-solid under full load.'
+        href: '/learn/inflatable-technology/'
+  - title: 'Safety Knowledge'
+    tagline: 'Water Safety Guides'
+    desc: 'Everything about pool safety — supervision, barriers, first aid, and safe play for all ages.'
     guides:
-      - title: Oppusteligt vs. hårdt SUP
-        desc: Sammenlign iSUP'er og hårde epoxy-boards med hensyn til portabilitet, holdbarhed, ydeevne og værdi.
-        href: /learn/water-safety/
-      - title: Guide til SUP-brætternes dimensioner
-        desc: Hvordan længde, bredde og tykkelse påvirker stabilitet, hastighed og manøvredygtighed.
-        href: /learn/water-safety/
-      - title: SUP-vedligeholdelse og pleje
-        desc: Rengøring, opbevaring, UV-beskyttelse og reparationstips til oppustelige SUP-brædder.
-        href: /v2/inflatable-sup-maintenance/
-      - title: Vælg din første SUP
-        desc: Begynderguide til at vælge det rigtige stand-up paddleboard ud fra din vægt, dit færdighedsniveau og dit tilsigtede brug.
-        href: /learn/water-safety/
-  - title: Guide til udlejningsdrift
-    tagline: Flådestyring til udlejningsvirksomheder
-    desc: Guides til opbygning og drift af SUP-udlejningsflåder til strandkiosker, vandsportscentre og hotelvirksomheder.
+      - title: 'Inflatable vs Rigid Pool Safety'
+        desc: 'Safety trade-offs between inflatable and rigid pools — surfaces, edges, and depth.'
+        href: '/v2/inflatable-pool-vs-rigid-pool/'
+      - title: 'Dimensions & Capacity Guide'
+        desc: 'How length, width, and wall height affect capacity, stability, and safe occupancy.'
+        href: '/products/'
+      - title: 'Safe Setup & Placement'
+        desc: 'Ground preparation, drainage, and placement rules for a safe pool area.'
+        href: '/v2/pool-setup-guide/'
+      - title: 'Choosing Your First Pool'
+        desc: "Beginner's guide to selecting the right drop-stitch pool for your space, budget, and family."
+        href: '/v2/choosing-a-drop-stitch-pool/'
+  - title: 'Rental & Programs Guide'
+    tagline: 'Fleet Management for Rental Businesses'
+    desc: 'Guides on running pool rental and community pool programs for holiday parks, camps, and activity centers.'
     guides:
-      - title: Opbyg din udlejningsflåde
-        desc: Sådan vælger du de rette SUP-boards til din udlejningsvirksomhed — holdbarhed, størrelser og ROI-overvejelser.
-        href: /solutions/rental-operators/
-      - title: Guide til flådevedligeholdelse
-        desc: Vigtige vedligeholdelsesrutiner, der maksimerer boardets levetid og minimerer nedetid for udlejningsflåder.
-        href: /solutions/rental-operators/
-  - title: Guide til resorts & hoteller
-    tagline: Vandaktiviteter til hotel- og fritidsbranchen
-    desc: Guides til opstart og drift af SUP-programmer for resorts, hoteller og destinationer ved vandet.
+      - title: 'Building Your Rental Fleet'
+        desc: 'How to choose pools for a rental operation — durability, sizing, and ROI considerations.'
+        href: '/solutions/rental-operators/'
+      - title: 'Fleet Maintenance Guide'
+        desc: 'Essential maintenance practices to maximize pool lifespan and minimize downtime across a fleet.'
+        href: '/solutions/rental-operators/'
+  - title: 'Resort & Hospitality Guide'
+    tagline: 'Pools for Hospitality'
+    desc: 'Guides on adding drop-stitch pool programs for resorts, hotels, and vacation properties.'
     guides:
-      - title: Opstart af SUP-program på ferieresort
-        desc: Faktorer at overveje, når du starter SUP-aktiviteter for dine gæster — flådestørrelse, bemanding og omsætningsmodellering.
-        href: /solutions/resorts-hotels/
-      - title: SUP vs. andre vandaktiviteter
-        desc: Sammenlign SUP-programmer med andre vandsportsgrene med henblik på gæsteoplevelse og driftseffektivitet.
-        href: /learn/water-safety/
-  - title: Detail- og distributionsguide
-    tagline: SUP-forretningspartnerskaber
-    desc: Guides om at blive SUP-detailpartner eller -distributør — lagerplanlægning, markedsplacering og vækststrategier.
+      - title: 'Starting a Resort Pool Program'
+        desc: 'Factors to consider when adding guest pools — sizing, placement, staffing, and revenue modeling.'
+        href: '/solutions/resorts-hotels/'
+      - title: 'Pools vs Built-In Facilities'
+        desc: 'How drop-stitch pools complement built-in facilities for guest experience and flexibility.'
+        href: '/learn/safety-in-water-sports/'
+  - title: 'Retail & Distribution Guide'
+    tagline: 'Pool Business Partnerships'
+    desc: 'Guides on becoming an OLagoon retail partner or distributor — inventory planning, market positioning, and growth strategies.'
     guides:
-      - title: Bliv SUP-forhandler
-        desc: Sådan vælger du produktlinjer, styrer lageret og markedsfører SUP-brædder i din butik.
-        href: /solutions/retail-partners/
-      - title: SUP til kommerciel drift
-        desc: Hvorfor oppustelige SUP boards er et alsidigt produkt for kommercielle flåder, udlejningsvirksomheder og professionelle operatører.
-        href: /solutions/rental-operators/
-read_guide: Læs guiden →
+      - title: 'Becoming a Pool Retailer'
+        desc: 'How to choose product lines, manage inventory, and market pools in your retail store.'
+        href: '/solutions/retail-partners/'
+      - title: 'Pools for Commercial Operations'
+        desc: 'Why drop-stitch pools are a versatile product for camps, community centers, and professional operators.'
+        href: '/solutions/rental-operators/'
+
+read_guide: Read guide →
+
 cta:
-  title: Ikke sikker på, hvor du skal starte?
-  desc: Tag vores færdighedstest for at finde de rette guides og det rette udstyr til dit niveau.
-  label: Kontakt os →
+  title: Not sure where to start?
+  desc: Contact our team and we will help you pick the right pool and accessories for your backyard.
+  label: Contact us →
   link: /contact/

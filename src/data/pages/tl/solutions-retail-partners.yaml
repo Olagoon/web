@@ -1,103 +1,103 @@
 meta:
-  title: 'Wholesale ng SUP at Retail Partner Program | {SITE}'
-  description: 'Wholesale partner program ng SUP para sa mga retailer at tindahan ng sporting goods. Buong linya ng produkto, mga opsyon sa dropshipping, mapagkumpitensyang wholesale margin mula 20–35%, at mababang MOQ para magsimula.'
+  title: 'pool Wholesale & Retail Partner Program | {SITE}'
+  description: 'pool wholesale partner program for retailers and sporting goods stores. Full product line, dropshipping options, competitive wholesale margins from 20–35%, and low MOQ to start.'
 
 hero:
-  tagline: 'Mga Retail Partner'
-  title: 'Magbenta ng Premium na Inflatable SUP<br />Na May Gumaganang Margin'
-  subtitle: 'Maging retail partner ng OLagoon — dalhin ang pinakamabilis na lumalagong SUP brand sa iyong merkado na may buong wholesale pricing, dropshipping, propesyonal na marketing material, at nakalaang suporta.'
+  tagline: Retail Partners
+  title: 'Sell Premium inflatable pools<br />With Margins That Work'
+  subtitle: 'Become an OLagoon retail partner — carry the fastest-growing pool brand in your market with full wholesale pricing, dropshipping, professional marketing materials, and dedicated support.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Mga SUP board ng OLagoon na nakadisplay sa isang retail store'
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools displayed in a retail store
 
 margin_section:
-  title: 'Retail Margin at MOQ'
-  subtitle: 'Mga antas ng wholesale pricing na dinisenyo para sa pagiging kumikita ng retail.'
+  title: 'Retail Margins & MOQ'
+  subtitle: 'Wholesale pricing tiers designed for retail profitability.'
   items:
     - tier: 'Basic Partner'
       discount: '20%'
-      moq: '500 unit/taon'
-      margin_note: '~150–250 USD na tubo bawat board'
+      moq: '500 units/yr'
+      margin_note: '~$150–250 profit per board'
       features:
-        - 'Daan sa buong linya ng produkto'
-        - 'Package ng marketing material'
-        - 'Suporta sa email'
-        - 'Daan sa product catalog'
+        - 'Access to full product line'
+        - 'Marketing materials package'
+        - 'Email support'
+        - 'Product catalog access'
     - tier: 'Premium Partner'
       discount: '30%'
-      moq: '2,000+ unit/taon'
-      margin_note: '~250–400 USD na tubo bawat board'
+      moq: '2,000+ units/yr'
+      margin_note: '~$250–400 profit per board'
       features:
-        - 'Nakalaang account manager'
-        - 'Proteksyon ng eksklusibong teritoryo'
-        - 'Custom na marketing support'
-        - 'Unang daan sa mga bagong produkto'
-        - 'Session ng training para sa kawani'
+        - 'Dedicated account manager'
+        - 'Exclusive territory protection'
+        - 'Custom marketing support'
+        - 'First access to new products'
+        - 'Staff training sessions'
     - tier: 'Flagship Partner'
       discount: '35%+'
-      moq: '5,000+ unit/taon'
-      margin_note: '~350–500+ USD na tubo bawat board'
+      moq: '5,000+ units/yr'
+      margin_note: '~$350–500+ profit per board'
       features:
-        - 'Mga co-branded na marketing campaign'
-        - 'Suporta sa display sa loob ng tindahan'
-        - 'Training ng kawani sa lokasyon'
-        - 'Sabay na promosyon sa social media'
-        - 'Priyoridad sa alokasyon ng produksyon'
+        - 'Co-branded marketing campaigns'
+        - 'In-store display support'
+        - 'On-site staff training'
+        - 'Joint social media promotions'
+        - 'Priority production allocation'
 
 product_line:
-  title: 'Kumpletong Linya ng Produkto'
-  subtitle: 'May SUP board para sa bawat customer na pumasok sa iyong pinto.'
+  title: Complete Product Line
+  subtitle: 'A pools for every customer who walks through your door.'
   items:
-    - name: 'All-Round Series'
-      description: 'Pinakamabenta — akma sa 80% ng mga customer'
-    - name: 'Touring Series'
-      description: 'Mga performance paddler — mas mataas na margin'
-    - name: 'Yoga Series'
-      description: 'Niche na merkado — premium na presyo'
-    - name: 'Kids Series'
-      description: 'Mga customer na pamilya — paulit-ulit na mamimili'
-    - name: 'Racing Series'
-      description: 'Merkado ng mga entusiasta — brand halo'
-    - name: 'Mga Accessory'
-      description: 'Mataas na margin na karagdagan (sagwan, vest, pump, bag)'
+    - name: All-Round Series
+      description: 'Best seller — fits 80% of customers'
+    - name: Touring Series
+      description: 'Performance swimmers — higher margin'
+    - name: Yoga Series
+      description: 'Niche market — premium pricing'
+    - name: Kids Series
+      description: 'Family customers — repeat buyer'
+    - name: Racing Series
+      description: 'Enthusiast market — brand halo'
+    - name: Accessories
+      description: 'High margin add-ons (paddles, vests, pumps, bags)'
 
 catalog:
-  title: 'Mga Resource ng Retail Partner'
-  subtitle: 'I-download ang aming komprehensibong retail partner kit.'
+  title: Retail Partner Resources
+  subtitle: 'Download our comprehensive retail partner kit.'
   items:
     - name: '2026 Product Catalog'
-      desc: 'Buong linya na may specs, presyo, at impormasyon sa pag-order'
+      desc: 'Full lineup with specs, pricing, and ordering information'
       icon: 'tabler:file-text'
       link: '/resources/download-catalog/'
-    - name: 'Gabay sa Retail Partner'
-      desc: 'Margin calculator, mga tip sa merchandising, at mga best practice'
+    - name: 'Retail Partner Guide'
+      desc: 'Margin calculator, merchandising tips, and best practices'
       icon: 'tabler:book'
       link: '/resources/download-catalog/'
     - name: 'Marketing Asset Pack'
-      desc: 'Hi-res na larawan ng produkto, lifestyle image, at POS material'
+      desc: 'Hi-res product photos, lifestyle images, and POS materials'
       icon: 'tabler:photo'
       link: '/media/'
 
 support:
-  title: 'Suporta sa Retail Partner'
-  subtitle: 'Lahat ng kailangan mo upang magbenta nang may kumpiyansa.'
+  title: Retail Partner Support
+  subtitle: 'Everything you need to sell confidently.'
   items:
-    - 'High-res na larawan ng produkto (propesyonal na potograpiya)'
-    - 'Mga lifestyle photo para sa social media, website, at catalog'
-    - 'Mga marketing material — poster, shelf talker, banner'
-    - 'Mga video ng product training para sa edukasyon ng kawani'
-    - 'Content pack para sa social media (lingguhang post)'
-    - 'SEO-optimized na paglalarawan ng produkto'
-    - 'Available ang opsyon sa dropshipping — walang panganib sa imbentaryo'
+    - 'High-res product images (professional photography)'
+    - 'Lifestyle photos for social media, website, and catalog'
+    - 'Marketing materials — posters, shelf talkers, banners'
+    - 'Product training videos for staff education'
+    - 'Social media content pack (weekly posts)'
+    - 'SEO-optimized product descriptions'
+    - 'Dropshipping option available — no inventory risk'
     - 'Net 30 payment terms'
 
 cta:
-  title: 'Handa ka na bang maging retail partner ng OLagoon?'
-  subtitle: 'Mag-apply para sa partnership o i-download ang aming retail catalog upang magsimula.'
+  title: 'Ready to become an OLagoon retail partner?'
+  subtitle: 'Apply for partnership or download our retail catalog to get started.'
   actions:
-    - text: 'Mag-apply para sa Partnership'
+    - text: 'Apply for Partnership'
       href: '/contact/?partner=retail'
       variant: 'primary'
-    - text: 'I-download ang Retail Catalog'
+    - text: 'Download Retail Catalog'
       href: '/resources/download-catalog/'
       variant: 'secondary'

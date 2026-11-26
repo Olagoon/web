@@ -1,24 +1,24 @@
 meta:
-  title: Где купить надувные сапборды OLagoon | OLagoon
-  description: Узнайте, как купить надувной сапборд OLagoon — через официального дистрибьютора в вашей стране или напрямую у команды OLagoon.
+  title: Where to Buy OLagoon Inflatable Pools | OLagoon
+  description: Find out how to buy an OLagoon inflatable pool — through an official distributor in your country or directly from the OLagoon team. Tell us where you live and we will point you to your nearest dealer.
 hero:
-  tagline: Где купить
-  title: Выйдите на воду с сапбордом OLagoon
-  subtitle: Сапборды OLagoon достигают райдеров в более чем 50 странах. Найдите самый простой способ получить свой — через официального дистрибьютора рядом с вами или напрямую у команды OLagoon.
+  tagline: Where to Buy
+  title: Get Your OLagoon pool on the Water
+  subtitle: OLagoon pools reach families in 50+ countries. Find the simplest way to get yours — through an official distributor near you or directly from the OLagoon team.
 channels:
   items:
-    - title: Официальные дистрибьюторы по странам
-      description: OLagoon работает с эксклюзивными дистрибьюторами во многих странах. Расскажите, где вы катаетесь, и мы свяжем вас с местным дилером, ценами и наличием.
-      cta: Найти местного дилера
+    - title: Official Country Distributors
+      description: OLagoon works with exclusive distributors in many countries. Tell us where you live and we will connect you with your local dealer, pricing, and availability.
+      cta: Find Your Local Dealer
       href: /contact/?subject=Where to Buy
-    - title: Прямой заказ у OLagoon
-      description: В вашей стране пока нет дистрибьютора? Команда OLagoon может организовать прямой заказ и доставку, чтобы вы вышли на воду, где бы вы ни жили.
-      cta: Узнать о наличии
+    - title: Order Direct from OLagoon
+      description: No distributor in your country yet? The OLagoon team can arrange direct orders and shipping so you can get on the water wherever you live.
+      cta: Request Availability
       href: /contact/?subject=Where to Buy
 form_intro:
-  title: Узнать о наличии
-  subtitle: Отправьте нам сообщение с вашей страной и интересующей доской. Наша команда ответит в течение одного рабочего дня с информацией о ближайшем дилере или вариантах прямого заказа.
+  title: Ask About Availability
+  subtitle: Send us a message with your country and the pool you are interested in. Our team will reply within one business day with your nearest dealer or direct-order options.
 business_note:
-  text: Покупаете для клуба, курорта или магазина? Изучите наши бизнес- и партнёрские программы.
-  cta: Для бизнес-партнёров
+  text: Buying for a club, resort, or store? Explore our business and partnership programs.
+  cta: For Business Partners
   href: /solutions/

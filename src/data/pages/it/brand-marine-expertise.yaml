@@ -1,72 +1,72 @@
 meta:
-  title: 'Competenza Marina — Ingegneria in Ogni Scafo | {SITE}'
-  description: 'Decenni di ingegneria navale in ogni scafo. olagoon padroneggia drop stitch, PVC marino e il design professionale di SUP gonfiabili.'
+  title: 'Marine Expertise — Engineering in Every Hull | {SITE}'
+  description: 'Decades of marine engineering in every hull. olagoon masters drop stitch, marine PVC, and professional inflatable pools design.'
   keywords:
-    - 'ingegneria navale'
-    - 'produttore di SUP gonfiabili'
-    - 'produzione di paddle board'
+    - 'marine engineering'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: Competenza marina
-  title: Decenni di Ingegneria Marina<br />in Ogni Scafo
-  subtitle: OLagoon combina una profonda conoscenza della scienza dei materiali, la produzione di precisione e i test nel mondo reale per produrre natanti che performano quando conta.
+  tagline: Marine Expertise
+  title: 'Decades of Marine Engineering<br />in Every Hull'
+  subtitle: 'olagoon combines deep material science, precision manufacturing, and real-world testing to produce watercraft that perform when it matters.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: team di ingegneria marina e R&S di OLagoon al lavoro
+    alt: olagoon marine engineering and R&D team at work
 expertise_materials:
-  tagline: Scienza dei materiali
-  title: Scegliere il materiale giusto<br />per ogni applicazione
-  subtitle: Lavoriamo con due materiali principali — ciascuno selezionato per specifici casi d'uso e requisiti di prestazione.
+  tagline: Material Science
+  title: 'Choosing the Right Material<br />for Every Application'
+  subtitle: 'We work with two core materials — each selected for specific use cases and performance requirements.'
   columns: 3
   items:
-    - title: PVC di qualità marina
-      description: "Tessuto in PVC da 1100 denari — il nostro materiale più versatile. Stabilizzato ai raggi UV, resistente all'abrasione e conforme REACH. Ideale per tavole SUP dove contano peso ed efficienza dei costi."
+    - title: Marine-Grade PVC
+      description: '1100 denier PVC fabric — our most versatile material. UV-stabilized, abrasion-resistant, and REACH compliant. Ideal for pools where weight and cost efficiency matter.'
       icon: tabler:droplet
-    - title: Vetroresina e Polietilene
-      description: SUP in vetroresina laminata per rigidità e scivolamento premium. Polietilene rotostampato per uso intenso da noleggio e soccorso che richiede la massima resistenza agli urti.
+    - title: Fibreglass & Polyethylene
+      description: 'Fibreglass-laminated pools for premium stiffness and glide. Rotomoulded polyethylene for heavy-duty rental and rescue use requiring maximum impact resistance.'
       icon: tabler:building-arch
 expertise_manufacturing:
-  tagline: Capacità di produzione
-  title: Produzione di Precisione<br />In Ogni Fase
-  subtitle: La nostra struttura di 12.000 m² è dotata di macchinari specializzati per ogni fase della produzione.
+  tagline: Manufacturing Capabilities
+  title: 'Precision Manufacturing<br />at Every Step'
+  subtitle: 'Our 12,000 m² facility is equipped with specialized machinery for every stage of production.'
   columns: 2
   items:
-    - title: Taglio CNC
-      description: Il taglio controllato dal computer garantisce pannelli di tessuto precisi e ripetibili con sprechi minimi. Ogni pezzo si adatta esattamente come progettato.
+    - title: CNC Cutting
+      description: 'Computer-controlled cutting ensures precise, repeatable fabric panels with minimal waste. Every piece fits exactly as designed.'
       icon: tabler:cpu
-    - title: Saldatura ad alta frequenza
-      description: La saldatura HF industriale crea giunzioni più resistenti del materiale di base. Il controllo costante della temperatura e della pressione assicura sigilli ermetici in ogni ciclo di produzione.
+    - title: High-Frequency Welding
+      description: 'Industrial HF welding creates seams stronger than the base material. Consistent temperature and pressure control ensures air-tight seals across every production run.'
       icon: tabler:bolt
-    - title: Assemblaggio del nucleo Drop Stitch
-      description: Migliaia di fili di poliestere collegano gli strati di tessuto superiore e inferiore, permettendo l'inflazione ad alta pressione (15-20 PSI) per tavole SUP rigide e stabili.
+    - title: Drop Stitch Core Assembly
+      description: 'Thousands of polyester threads connect top and bottom fabric layers, allowing high-pressure inflation (15-20 PSI) for rigid, stable pools.'
       icon: tabler:building-arch
-    - title: Prova di pressione
-      description: Ogni prodotto gonfiabile viene collaudato a pressione prima della spedizione. Le tavole vengono testate a 1,25 volte la pressione nominale — se reggono a tale pressione, garantiranno prestazioni affidabili in acqua.
+    - title: Pressure Testing
+      description: 'Every inflatable product is pressure-tested before shipping. Pools are tested at 1.25x rated pressure — if it holds there, it will perform on the water.'
       icon: tabler:wind
-    - title: Test di resistenza delle cuciture
-      description: Campioni casuali di ogni lotto di produzione vengono sottoposti a test distruttivi della resistenza delle cuciture. I risultati vengono registrati e sono rintracciabili a specifici cicli di produzione.
+    - title: Seam Strength Testing
+      description: 'Random samples from each production batch undergo destructive seam strength testing. Results are logged and traceable to specific production runs.'
       icon: tabler:files
-    - title: Prove in acqua
-      description: Ogni modello affronta prove in mare prima della certificazione. I test in condizioni costiere reali convalidano prestazioni, maneggevolezza e stabilità.
+    - title: Water Testing
+      description: 'Every model undergoes sea trials before certification. Real-world testing in coastal conditions validates performance, handling, and stability.'
       icon: tabler:droplet
 expertise_design:
-  tagline: Progettazione e Ingegneria
-  title: Progettato per condizioni reali
-  subtitle: La nostra filosofia di progettazione inizia da come verrà utilizzata la tavola, per poi costruire l'ingegneria attorno a quell'uso.
+  tagline: Design & Engineering
+  title: 'Engineered for Real Conditions'
+  subtitle: 'Our design philosophy starts with how the pool will be used — then builds the engineering around that use case.'
   items:
-    - title: Design dello scafo prestazionale
-      description: Ogni forma dello scafo è ottimizzata per il suo caso d'uso — prue a dislocamento per lo scivolamento in touring, rocker maggiore per l'agilità nel surf, profili piatti e stabili per pesca e yoga.
-    - title: Sicurezza Drop-Stitch
-      description: Ogni tavola presenta un nucleo drop-stitch rigido con longheroni rinforzati. Se una sezione viene danneggiata, la struttura drop-stitch ad alta resistenza a trazione mantiene la tavola operativa.
-    - title: Layout del ponte ergonomico
-      description: La zonizzazione del deck pad, la posizione dell'impugnatura di trasporto e i punti di ancoraggio sono progettati attorno al comfort del rider durante l'uso prolungato — che si tratti di touring, pesca o pattugliamento.
-    - title: Configurazione personalizzata
-      description: 'Colori dei longheroni, configurazione del deck pad, supporti per accessori, capacità di carico: ogni modello può essere personalizzato per corrispondere a requisiti operativi specifici.'
+    - title: Performance Hull Design
+      description: 'Each pool is tuned for its use case — compact footprints for plunge soaking, family-sized layouts for play, and generous swim areas for daily laps.'
+    - title: Drop-Stitch Safety
+      description: 'Every pool features a rigid drop-stitch core with reinforced walls. If a section is damaged, the high-tensile drop-stitch structure keeps the pool operational.'
+    - title: Ergonomic Deck Layout
+      description: 'Deck-pad zoning, carry-handle position, and mounting points are designed around rider comfort during extended use — whether touring, fishing, or patrolling.'
+    - title: Custom Configuration
+      description: 'Rail colors, deck pad configuration, accessory mounts, gear capacity — each model can be customized to match specific operational requirements.'
 cta:
-  title: Hai in mente un'applicazione specifica?
-  subtitle: Il nostro team di ingegneri può offrire consigli sulla selezione dei materiali, sulla progettazione e sulla produzione per il tuo progetto.
+  title: 'Have a specific application in mind?'
+  subtitle: 'Our engineering team can advise on material selection, design, and manufacturing for your project.'
   actions:
     - variant: primary
-      text: Chiedi ai nostri ingegneri
+      text: Ask our engineers
       href: /contact/
-    - text: Visualizza gamma di prodotti
+    - text: View product range
       href: /products/

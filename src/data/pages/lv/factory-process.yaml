@@ -1,52 +1,52 @@
 meta:
-  title: 'Ražošanas process — no izejvielas līdz SUP | {SITE}'
-  description: 'No izejvielas līdz jūras gatavībai: katrs olagoon ražošanas procesa solis zem mūsu kontroles, no griešanas un metināšanas līdz testēšanai.'
+  title: 'Manufacturing Process — From Raw Material to pool | {SITE}'
+  description: 'From raw material to sea-ready pool: every step of the olagoon manufacturing process under our control, from cutting and welding to testing.'
   keywords:
-    - 'sup ražošanas process'
-    - 'piepūšamo sup rūpnīca'
-    - 'airu dēļu ražošanas soļi'
-    - 'pvc metināšana sup'
+    - 'pool manufacturing process'
+    - 'inflatable pools factory'
+    - 'inflatable pool production steps'
+    - 'pvc welding pool'
 hero:
-  tagline: 'Process'
-  title: 'Ražošanas process'
-  subtitle: 'No izejvielas līdz ūdenim gatava dēļa — katrs solis zem mūsu kontroles'
-  back_label: 'Atpakaļ uz Rūpnīcu'
+  tagline: Process
+  title: Manufacturing Process
+  subtitle: From raw material to backyard-ready pool — every step under our control
+  back_label: Back to Factory
   back_link: /factory/
 
-intro: 'Atšķirībā no zīmoliem, kas ražošanu uztic trešo pušu rūpnīcām, olagoon pieder un tiek pārvaldīta visa tā ražošanas ķēde. Šāda vertikālā integrācija ļauj mums uzturēt stingru kvalitātes kontroli katrā posmā, ātri reaģēt uz pielāgotām prasībām un nodrošināt konsekventu produktu kvalitāti partiju pēc partijas. Tātad — kā mūsu ražotnē tiek būvēts dēlis.'
+intro: Unlike brands that outsource production to third-party factories, olagoon owns and operates its entire manufacturing chain. This vertical integration allows us to maintain strict quality control at every stage, respond quickly to custom requirements, and deliver consistent product quality batch after batch. Here is how a pool is built in our facility.
 
 steps:
   - step: '01'
-    title: 'Materiālu saņemšana un pārbaude'
-    description: 'Katra ienākošā PVC auduma, stiklšķiedas paklāja, sveķu un furnitūras partija tiek pārbaudīta pret specifikāciju. Auduma paraugi pirms nodošanas ražošanai tiek testēti uz stiepes stiprību, biezuma viendabīgumu un UV izturību. Neatbilstoši materiāli tiek izolēti un atgriezti.'
-    duration: '1–2 dienas'
+    title: Material Receipt & Inspection
+    description: Every incoming batch of PVC fabric, fiberglass mat, resin, and hardware is inspected against specification. Fabric samples are tested for tensile strength, thickness uniformity, and UV resistance before release to production. Non-conforming materials are quarantined and returned.
+    duration: 1–2 days
   - step: '02'
-    title: 'Automatizēta PVC griešana'
-    description: 'Apstiprinātie audumi tiek uzlikti uz automatizētā CNC griešanas mašīnas un sagriezti ar submilimetra precizitāti. Datoroptimizēta izkārtojuma plānošana izvieto paneļus tā, lai minimizētu atkritumus — parasti zem 5%. Sagrieztie paneļi tiek marķēti pēc dēļa modeļa un kameras, tad sasegti pārvadāšanai uz metināšanas darbnīcu.'
-    duration: '2–4 stundas uz dēļa komplektu'
+    title: Automatic PVC Cutting
+    description: Approved fabrics are laid on the automatic CNC cutting machine and cut with sub-millimetre accuracy. Computer-optimised nesting arranges panels to minimise waste — typically below 5%. Cut panels are labelled by pool model and chamber, then bundled for transfer to the welding workshop.
+    duration: 2–4 hours per pool kit
   - step: '03'
-    title: 'Cauruļu termiskā lodēšana un metināšana'
-    description: 'Paneļi tiek piestiprināti un savienoti, izmantojot termiskās lodēšanas mašīnas ar karstā gaisa metināšanu kontrolētā 200–300 °C temperatūrā. Galvenās šuves tiek pastiprinātas ar RF dielektrisko metināšanu, iegūstot hermētiskus, augstas stiprības savienojumus. Pabeigtās kameras tiek piepūstas līdz 1,5× darba spiedienam 30 minūšu gaisa noturības pārbaudei.'
-    duration: '1–2 dienas uz dēli'
+    title: Tube Heat Sealing & Welding
+    description: Panels are tacked and bonded using heat sealing machines with hot-air welding at controlled temperatures of 200–300 °C. Main seams are reinforced with RF dielectric welding for airtight, high-strength joints. Completed chambers are inflated to 1.5× working pressure for 30-minute air-retention validation.
+    duration: 1–2 days per pool
   - step: '04'
-    title: 'SUP drukāšana un noformējums'
-    description: 'SUP dēļu klāja grafika tiek uzklāta, izmantojot digitālo druku pilnkrāsu fotokvalitātes dizainiem un situ druku izturīgiem logotipiem un atkārtojošiem rakstiem. Drukas tiek sacietētas un aizzīmogotas UV un berzes izturībai.'
-    duration: '1–2 dienas'
+    title: pool Printing & Decoration
+    description: pools deck graphics are applied using digital printing for full-colour photo-quality designs, and screen printing for durable logos and repeating patterns. Prints are cured and sealed for UV and abrasion resistance.
+    duration: 1–2 days
   - step: '05'
-    title: 'Gala montāža un aprīkošana'
-    description: 'Dēļi tiek aprīkoti montāžas līnijā ar spurēm, vārstiem, EVA klājiem un aksesuāriem. Katra vienība seko 100 punktu montāžas kontrolsarakstam ar obligātu apstiprinājumu katrā posmā.'
-    duration: '2–4 dienas'
+    title: Final Assembly & Rigging
+    description: Pools are rigged on the assembly line with valves, fittings, and accessories. Each unit follows a 100-point assembly checklist with mandatory sign-off at each stage.
+    duration: 2–4 days
   - step: '06'
-    title: 'Kvalitātes testēšana un pārbaude'
-    description: 'Katrs pabeigtais dēlis iziet obligāto kvalitātes vārtu pārbaudi: kameras gaisa noturības tests, furnitūras funkcionalitātes pārbaude, stiprinājumu skrūvēšanas momenta verifikācija un vizuālā pārbaude. Pielāgotie un prototipa būvējumi papildus saņem izmēģinājumus ūdenī, pārbaudot stabilitāti un vadāmību.'
-    duration: '1–2 dienas'
+    title: Quality Testing & Inspection
+    description: 'Every completed pool undergoes mandatory quality gate: chamber air-retention test, hardware function check, fastener torque verification, and cosmetic inspection. Custom and prototype builds also receive in-water trials covering stability and handling.'
+    duration: 1–2 days
   - step: '07'
-    title: 'Iepakošana un nosūtīšana'
-    description: 'Dēļi tiek izlaists gaiss, salocīti saskaņā ar procedūru, iepakoti izturīgos auduma maisos vai finiera kastēs un iekrauti nosūtīšanai. Katra pakete ir marķēta ar modeli, sērijas numuru un galamērķi. Mēs sadarbojamies ar kravu ekspeditoriem FCL un LCL konteineru sūtījumiem visā pasaulē.'
-    duration: '1 diena'
+    title: Packing & Shipping
+    description: Pools are deflated, folded per procedure, packed in heavy-duty woven bags or plywood crates, and loaded for shipment. Each package is labelled with model, serial number, and destination. We coordinate with freight forwarders for FCL and LCL container shipments worldwide.
+    duration: 1 day
 
 cta:
-  title: 'Apskatiet mūsu aprīkojumu un mašīnas'
-  desc: 'Iepazīstiet rūpnieciskā līmeņa aprīkojumu, kas atrodas aiz katra olagoon dēļa.'
-  label: 'Apskatīt aprīkojumu →'
+  title: See our equipment and machinery
+  desc: Explore the industrial-grade equipment behind every OLagoon pool.
+  label: View equipment →
   link: /factory/equipment/

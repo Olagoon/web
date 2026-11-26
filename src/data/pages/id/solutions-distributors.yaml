@@ -1,54 +1,54 @@
 meta:
-  title: 'Program Kemitraan Distribusi Grosir SUP | {SITE}'
-  description: 'Bergabunglah dengan jaringan distribusi grosir SUP global OLagoon. Wilayah eksklusif, portofolio produk SUP tiup lengkap, harga grosir kompetitif, dan manajemen akun khusus di 50+ negara.'
+  title: 'pool Wholesale Distribution Partner Program | {SITE}'
+  description: "Join OLagoon's global pool wholesale distribution network. Exclusive territories, complete inflatable pools product portfolio, competitive wholesale pricing, and dedicated account management in 50+ countries."
 
 hero:
-  tagline: Distributor
-  title: 'Bergabunglah dengan Jaringan<br />Distribusi Global Kami'
-  subtitle: 'Program kemitraan distribusi grosir SUP dengan wilayah eksklusif, portofolio produk SUP tiup lengkap, dan dukungan kelas dunia. OLagoon mengirim ke 50+ negara — kami mencari distributor marin dan olahraga air yang telah mapan.'
+  tagline: Distributors
+  title: 'Join Our Global<br />Distribution Network'
+  subtitle: "pool wholesale distribution partner program with exclusive territories, complete inflatable pools product portfolio, and world-class support. OLagoon ships to 50+ countries — we're looking for established marine and water sports distributors."
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: Operasi distribusi dan pengiriman global OLagoon
+    alt: OLagoon global distribution and shipping operations
 
 benefits:
-  title: Apa yang Diterima Distributor
-  subtitle: 'Semua yang Anda butuhkan untuk sukses di pasar Anda.'
+  title: What Distributors Get
+  subtitle: 'Everything you need to succeed in your market.'
   items:
-    - 'Hak wilayah eksklusif'
-    - 'Katalog produk lengkap (SUP, aksesori, suku cadang)'
-    - 'Harga grosir kompetitif'
-    - 'Materi pemasaran & penjualan (diterjemahkan)'
-    - 'Program pelatihan (produk, penjualan, perawatan)'
-    - 'Dukungan pameran dagang'
-    - 'Program sampel'
-    - 'Kemampuan drop-ship'
-    - 'Manajer akun distributor khusus'
-    - 'Syarat pembayaran 45-60 hari'
+    - 'Exclusive territory rights'
+    - 'Complete product catalog (pool, accessories, parts)'
+    - 'Competitive wholesale pricing'
+    - 'Marketing & sales materials (translated)'
+    - 'Training program (product, sales, maintenance)'
+    - 'Trade show support'
+    - 'Sample program'
+    - 'Drop-ship capability'
+    - 'Dedicated distributor account manager'
+    - '45-60 day payment terms'
 
 coverage:
-  title: Distribusi Saat Ini
-  subtitle: 'OLagoon saat ini melayani pasar-pasar ini secara langsung.'
+  title: Current Distribution
+  subtitle: 'OLagoon currently serves these markets directly.'
   regions:
-    - name: Eropa
-      countries: 'Prancis, Jerman, Inggris, Spanyol, Italia, Belanda, Swedia, Norwegia, Polandia, Yunani'
+    - name: Europe
+      countries: 'France, Germany, UK, Spain, Italy, Netherlands, Sweden, Norway, Poland, Greece'
     - name: Asia
-      countries: 'Jepang, Korea Selatan, Tiongkok, Thailand, Singapura'
-    - name: Timur Tengah
-      countries: 'UEA, Arab Saudi'
-    - name: Amerika
-      countries: 'AS, Kanada, Brasil, Meksiko'
-    - name: Oseania
-      countries: 'Australia, Selandia Baru'
-    - name: Afrika
-      countries: 'Afrika Selatan, Maroko'
+      countries: 'Japan, South Korea, China, Thailand, Singapore'
+    - name: Middle East
+      countries: 'UAE, Saudi Arabia'
+    - name: Americas
+      countries: 'USA, Canada, Brazil, Mexico'
+    - name: Oceania
+      countries: 'Australia, New Zealand'
+    - name: Africa
+      countries: 'South Africa, Morocco'
 
 cta:
-  title: 'Siap menjadi distributor?'
-  subtitle: 'Ajukan lamaran program distributor kami atau unduh kit informasi distributor kami.'
+  title: 'Ready to become a distributor?'
+  subtitle: 'Apply for our distributor program or download our distributor information kit.'
   actions:
-    - text: 'Ajukan Program Distributor'
+    - text: 'Apply for Distributor Program'
       href: '/contact/?partner=distributor'
       variant: 'primary'
-    - text: 'Unduh Kit Distributor'
+    - text: 'Download Distributor Kit'
       href: '/resources/download-catalog/'
       variant: 'secondary'

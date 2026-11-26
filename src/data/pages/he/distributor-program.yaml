@@ -1,117 +1,117 @@
 meta:
-  title: 'שותפי מדינה — מדינה אחת, מפיץ רשמי אחד של olagoon | {SITE}'
-  description: 'הגישו מועמדות להיות המפיץ הרשמי של olagoon במדינתכם. שותף מוסמך אחד לכל שוק, הגנה טריטוריאלית, מרווחים ישירים מהמפעל, הנחות שנתיות ותוכנית תמיכה לשותפי מדינה בת 10 מודולים למפיצי SUP וספורט מים גלובליים.'
+  title: 'Country Partners — One Country, One Official OLagoon Distributor | {SITE}'
+  description: 'Apply to become the official OLagoon distributor for your country. One authorized partner per market, territory protection, direct-factory margins, annual rebates, and a 10-module country partner support program for global pool and water sports distributors.'
   keywords:
-    - 'תוכנית שותפות מדינתית'
-    - 'להפוך למפיץ'
-    - 'זכיון הפצת SUP'
-    - 'מדינה אחת מפיץ אחד'
-    - 'מפיץ חתירה בעמידה'
-    - 'הפצת ספורט מים'
-    - 'בקשת שותפות מדינתית'
+    - 'country partnership program'
+    - 'become a distributor'
+    - 'pool distributorship'
+    - 'one country one distributor'
+    - 'stand up paddle distributor'
+    - 'water sports distribution'
+    - 'country partnership application'
 hero:
-  tagline: 'שותפות מדינתית'
-  title: 'מדינה אחת.<br />מפיץ רשמי אחד של olagoon.'
-  subtitle: 'olagoon ממנה מפיץ מדינתי מוסמך אחד לכל שוק מאושר. טריטוריה בלעדית, מחירי סוחנים עם הנחות שנתיות ותוכנית תמיכה מלאה למפיצים — בתמורה להסכם חתום ולמחויבות אמיתית לבנות את השוק.'
+  tagline: 'Country Partnership'
+  title: 'One Country.<br />One Official OLagoon Distributor.'
+  subtitle: 'OLagoon appoints a single authorized country distributor for each approved market. Exclusive territory, dealer pricing with annual rebates, and a full distributor support program — in exchange for a signed agreement and a real commitment to build the market.'
   actions:
-    - text: 'הגישו מועמדות לשותפות מדינתית'
+    - text: 'Apply for Country Partnership'
       href: /contact/?subject=Country Partnership Application
       variant: primary
-    - text: 'מצאו את המפיץ המקומי שלכם'
+    - text: 'Find Your Local Distributor'
       href: /distributor-program/
       variant: secondary
-    - text: 'בקשו את מחירון הסוחנים'
+    - text: 'Request Dealer Price List'
       href: /contact/?subject=Dealer Price List
       variant: secondary
 stats:
   - value: '1'
-    label: 'מפיץ רשמי אחד לכל מדינה או אזור'
+    label: 'Official distributor per country or region'
   - value: '100–300'
-    label: 'הזמנה ראשונה מינימלית (מדינתי / אזורי)'
+    label: 'Minimum first order (Country / Regional)'
   - value: '50+'
-    label: 'מדינות המטופלות ברחבי העולם'
-  - value: '30–45'
-    label: 'ימים, זמן אספקה סטנדרטי (FOB צ׳ינגדאו)'
+    label: 'Countries served globally'
+  - value: '12–16'
+    label: 'Weeks standard lead time (FOB Qingdao)'
 features:
-  title: 'מדוע לשתף פעולה עם olagoon'
-  subtitle: 'מודל של מדינה אחת-מפיץ אחד עם מבנה תמיכה שהופך את הטריטוריה לרווחית. בלעדיות נרכשת ומתוחזקת — אינה זכות קבועה.'
+  title: 'Why Partner With OLagoon'
+  subtitle: 'A one-country-one-distributor model with the support structure to make the territory pay. Exclusivity is earned and maintained — not a permanent right.'
   columns: 3
   items:
-    - title: 'בלעדיות טריטוריאלית'
-      description: 'מפיץ מוסמך אחד לכל מדינה או אזור. ללא יבוא מקביל, ללא תחרות פנימית. ההשקעה שלכם בונה את החפירה שלכם עצמכם.'
+    - title: 'Territory Exclusivity'
+      description: 'One authorized distributor per country or region. No parallel imports, no internal competition. Your investment builds your own moat.'
       icon: 'tabler:shield-check'
-    - title: 'הגנה מפני ניגודי ערוצים'
-      description: 'הזמנות ישירות מהאזור שלכם מנותבות דרככם, והתמחור מגן על המרווח שלכם. olagoon אינו מוכר מעבר לראשם של שותפיו המדינתיים.'
+    - title: 'Channel Conflict Protection'
+      description: 'Direct orders from your region are routed through you, and pricing protects your margin. OLagoon does not sell around its country partners.'
       icon: 'tabler:users'
-    - title: 'מרווחים ישירים מהמפעל והנחות'
-      description: 'מחירון סוחנים עם הנחות על כמויות מחויבות. ללא מתווכים. משלוח FOB צ׳ינגדאו עם תיעוד ייצוא מלא.'
+    - title: 'Direct-Factory Margins & Rebates'
+      description: 'Dealer price list with rebates on committed volumes. No middlemen. FOB Qingdao shipping with full export documentation.'
       icon: 'tabler:coins'
-    - title: 'תוכנית תמיכה לשותפים בת 10 מודולים'
-      description: 'קליטה, יציאה לשוק, הדרכה, שיווק ומימון שוק משותף, חלקי חילוף ושירות לאחר מכירה, אחריות, כלי הזמנה ופורטל שותפים — הכול מכוסה בהסכם ההפצה שלכם.'
+    - title: '10-Module Partner Support Program'
+      description: 'Onboarding, go-to-market, training, marketing and joint market funding, spare parts and after-sales, warranty, ordering tools, and a partner portal — covered in your Distribution Agreement.'
       icon: 'tabler:rocket'
-    - title: 'שיווק וקרנות שוק משותפות'
-      description: 'נכסי קמפיין מותאמים מקומית, חומרי נקודת מכירה לסוחנים, ערכות אירועים, תוכן דיגיטלי במספר שפות ותמיכת שיווק משותף לעונות השקה.'
+    - title: 'Marketing & Joint Market Funds'
+      description: 'Localized campaign assets, dealer POS materials, event kits, digital content in multiple languages, and co-marketing support for launch seasons.'
       icon: 'tabler:mood-smile'
-    - title: 'הדרכת מוצר, מכירות וטכנולוגיה'
-      description: 'מפגשי קליטה מובנים בתחומי המוצר, המכירות והידע הטכני, עם חומרים מעודכנים ככל שמגוון המוצרים מתפתח.'
+    - title: 'Product, Sales & Technical Training'
+      description: 'Structured onboarding sessions on product, sales, and technical knowledge, with updated materials as the range evolves.'
       icon: 'tabler:presentation'
-    - title: 'חלקי חילוף ותמיכה לאחר מכירה'
-      description: 'אספקת חלקי חילוף, רישום אחריות וטיפול בתביעות, וכן גיליונות נתונים ומדריכי מוצר לצוות השירות המקומי שלכם.'
+    - title: 'Spare Parts & After-Sales Support'
+      description: 'Spare parts supply, warranty registration and claims handling, and product datasheets and manuals for your local service team.'
       icon: 'tabler:settings'
-    - title: 'מנהל חשבון ייעודי ופורטל שותפים'
-      description: 'מנהל הפצה אישי בתוספת גישה למחירונים, סטטוס הזמנות ומשאבי שיווק דרך פורטל השותפים של olagoon.'
+    - title: 'Dedicated Account Manager & Partner Portal'
+      description: 'A personal distributor manager plus access to price lists, order status, and marketing resources through the OLagoon partner portal.'
       icon: 'tabler:user-check'
 table:
-  title: 'דרגות שותפות, MOQ ותנאי הזמנה'
-  subtitle: 'בחרו את הדרגה התואמת את פוטנציאל השוק שלכם. כל המחירים ב-USD, FOB צ׳ינגדאו.'
-  caption: 'הזמנות דגימה וניסיון (5–30 יחידות) אינן מקנות הגנה טריטוריאלית. בלעדיות מדינתית חלה רק על הסכמי מפיץ מדינתי / אזורי חתומים — היא מתוחזקת באמצעות השלמת ההזמנה הראשונה, יעדי רכש שנתיים, מלאי מקומי, יכולת שירות לאחר מכירה והמשך השקעה בשוק, ואינה זכות קבועה או צמיתה.'
+  title: 'Partnership Tiers, MOQ & Order Terms'
+  subtitle: 'Choose the tier that matches your market potential. All prices in USD, FOB Qingdao.'
+  caption: 'Sample and trial orders (5–30 units) carry no territorial protection. Country exclusivity applies only to signed Country / Regional Distributor agreements — it is maintained by first-order completion, annual purchase targets, local stock, after-sales capability, and continued market investment, and is not a permanent or perpetual right.'
   head:
-    - 'דרגת תוכנית'
-    - 'הזמנה מינימלית (יחידות)'
-    - 'זמן אספקה'
-    - 'תשלום'
+    - Program Tier
+    - Minimum Order (units)
+    - Lead Time
+    - Payment
   rows:
-    - ['דגימה / הערכת מוצר', '5–10', '15–20 ימי עבודה', '100% בתשלום מראש']
-    - ['הזמנת ניסיון', '10–30', '30–45 ימי עבודה', '100% בתשלום מראש']
-    - ['סוחן מוסמך', '30–50', '30–45 ימי עבודה', '30% מקדמה / 70% לפני משלוח']
-    - ['מפיץ מדינתי / אזורי', '100–300', '30–45 ימי עבודה', '30% מקדמה / 70% לפני משלוח']
-    - ['התאמה אישית ומותג פרטי (סטנדרטי)', '50+', '30–45 ימי עבודה', '30% מקדמה / 70% לפני משלוח']
-    - [התאמה עמוקה (תבניות חדשות, אריזה), 200+, 45–60 ימי עבודה, 30% מקדמה / 70% לפני משלוח]
-    - ['זכויות קו מוצרים מלא', '300–1,000', '60–90 ימי עבודה', '30% מקדמה / 70% לפני משלוח']
+    - [Sample / Product Evaluation, 5–10, 15–20 working days, 100% prepaid]
+    - [Trial Order, 10–30, 15–20 working days, 100% prepaid]
+    - [Authorized Dealer, 30–50, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Country / Regional Distributor, 100–300, 10–14 weeks, 30% deposit / 70% before shipment]
+    - [Custom & Private Label (standard), 50+, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Deep Custom (new molds, packaging), 200+, 12–16 weeks + 15–20 days tooling, 30% deposit / 70% before shipment]
+    - [Full Product Line Rights, '300–1,000', 10–14 weeks, 30% deposit / 70% before shipment]
 faqs:
-  title: 'שותפות מדינתית — שאלות נפוצות'
-  subtitle: 'השאלות ששותפים מדינתיים רציניים שואלים לפני הגשת מועמדות.'
+  title: 'Country Partnership — FAQ'
+  subtitle: 'The questions serious country partners ask before applying.'
   items:
-    - title: 'מה באמת אומר מודל מדינה אחת-מפיץ אחד?'
-      description: 'olagoon ממנה מפיץ מוסמך יחיד עם זכויות בלעדיות לטריטוריה מוגדרת. אנו לא מוכרים מהערוצים הגלובליים או האזוריים שלנו אל תוך מדינה מוגנת. הבעלות שלכם על הטריטוריה תקפה כל עוד תנאי הסכם ההפצה מתקיימים.'
-    - title: 'האם הטריטוריה בלעדית לנצח?'
-      description: 'לא. הבלעדיות מותנית, לא צמיתה. היא מתוחזקת באמצעות הסכם הפצה חתום, השלמת ההזמנה הראשונה שלכם, יעדי רכש שנתיים, מלאי מקומי, יכולת שירות לאחר מכירה והמשך השקעה בשוק. אם אלה אינם מתקיימים, ניתן לדון מחדש בטריטוריה או להקצותה מחדש.'
-    - title: 'מהי ההזמנה הראשונה המינימלית?'
-      description: 'מפיצים מדינתיים ואזוריים מתחילים ב-100–300 יחידות; סוחנים מוסמכים ב-30–50 יחידות; הזמנות ניסיון של 10–30 יחידות מאפשרות לכם לאמת תחילה את השוק (הזמנות ניסיון ודגימה אינן מקנות הגנה טריטוריאלית). תוכניות של התאמה אישית ומותג פרטי פועלות לפי MOQ נפרד המפורט בדרגות לעיל.'
-    - title: 'אילו תמיכה כלולה בתוכנית התמיכה בת 10 המודולים?'
-      description: 'דרגות והסמכה, הגנת טריטוריה, MOQ / תמחור / הנחות שנתיות, מלאי וביצוע הזמנות, נכסי שיווק וקרנות שוק משותפות, הדרכת מוצר / מכירות / הדרכה טכנית, חלקי חילוף ושירות לאחר מכירה, רישום אחריות, פורטל השותפים, וכן גיליונות נתוני מוצר, ספריית נכסי שיווק, לוח הנחות שנתי ורשימות משלוח ואריזה.'
-    - title: 'כיצד olagoon מגן עליי מפני ניגודי ערוצים?'
-      description: 'לכל טריטוריה יש בדיוק מפיץ מוסמך אחד. פניות והזמנות ישירות מהאזור שלכם מנותבות דרככם, טפסים באתר מועברים אל השותף המקומי היכן שקיים, והצוות הגלובלי מטפל בהסלמה רק כאשר שותף אינו מגיב.'
-    - title: 'מהם תנאי המשלוח והתשלום?'
-      description: 'הזמנות נשלחות FOB צ׳ינגדאו עם תיעוד ייצוא מלא. הזמנות ייצור: 30% מקדמה ו-70% לפני המשלוח; הזמנות ניסיון ודגימה בתשלום מראש. זמן אספקה סטנדרטי הוא 30–45 ימי עבודה, ו-15–20 ימי עבודה להרצות דגימה.'
-    - title: 'כיצד אני מגיש מועמדות?'
-      description: 'שלחו את בקשתכם דרך טופס יצירת הקשר עם פרטי השוק. אנו בודקים התאמה לשוק, נוכחות קמעונאית ויכולת לוגיסטית, ואז מגיבים בתוך 3 ימי עסקים עם הצעדים הבאים וטיוטת הסכם הפצה.'
+    - title: 'What does one-country-one-distributor really mean?'
+      description: 'OLagoon appoints a single authorized distributor with exclusive rights for a defined territory. We do not sell from our global or regional channels into a protected country. Your territory ownership holds for as long as the Distribution Agreement is met.'
+    - title: 'Is the territory exclusive forever?'
+      description: 'No. Exclusivity is conditional, not perpetual. It is maintained through a signed Distribution Agreement, completion of your first order, annual purchase targets, local stock, after-sales capability, and continued market investment. If these are not met, the territory can be renegotiated or reassigned.'
+    - title: 'What is the minimum first order?'
+      description: 'Country and regional distributors start at 100–300 units; authorized dealers at 30–50 units; trial orders from 10–30 units let you validate the market first (trial and sample orders carry no territory protection). Custom and private-label programs follow separate MOQs listed in the tiers above.'
+    - title: 'What support is included in the 10-module support program?'
+      description: 'Tiers and qualification, territory protection, MOQ / pricing / annual rebates, inventory and order execution, marketing assets and joint market funds, product / sales / technical training, spare parts and after-sales, warranty registration, the partner portal, and product datasheets, marketing asset library, annual rebate schedule, and shipping and packing lists.'
+    - title: 'How does OLagoon protect me from channel conflict?'
+      description: 'Each territory has exactly one authorized distributor. Inquiries and direct orders from your region are routed through you, website forms are forwarded toward the local partner where one exists, and the global team only escalates when a partner does not respond.'
+    - title: 'What are the shipping and payment terms?'
+      description: 'Orders ship FOB Qingdao with full export documentation. Production orders are 30% deposit with 70% before shipment; trial and sample orders are prepaid. Production runs take 12–16 weeks at 50–100 units, 10–14 weeks at 300–1,000 units, and 8–12 weeks above 1,000 units; sample runs ship in 15–20 working days.'
+    - title: 'How do I apply?'
+      description: 'Send your application via the contact form with market details. We review market fit, retail presence, and logistics capability, then respond within 3 business days with next steps and a sample Distribution Agreement.'
 cta:
-  title: 'היו בעלי השוק שלכם.'
-  subtitle: 'הגישו מועמדות לשותפות המדינתית של olagoon וקבלו מענה בתוך 3 ימי עסקים.'
+  title: 'Own your market.'
+  subtitle: 'Apply for the OLagoon Country Partnership and get a response within 3 business days.'
   actions:
-    - text: 'הגישו מועמדות לשותפות מדינתית'
+    - text: 'Apply for Country Partnership'
       href: /contact/?subject=Country Partnership Application
       variant: primary
-    - text: 'הורידו את סקירת התוכנית'
+    - text: 'Download the Program Overview'
       href: /distributor-program/
       variant: secondary
 geo:
-  tagline: 'עמם אנו משתפים פעולה'
-  sentence: 'olagoon משתף פעולה עם מפיצים מבוססים בתחומי הימייה, פעילויות החוץ והספורט, המשרתים רשתות קמעונאיות, ציי השכרה, בתי ספר לספורט מים, אתרי נופש ורוכשים ממשלתיים בלוחות SUP מתנפחים פרימיום וכלי שיט — ואשר מתחייבים לבנות את מותג olagoon במדינתם.'
+  tagline: 'Who We Partner With'
+  sentence: 'OLagoon partners with established marine, outdoor, and sports distributors who serve retail chains, rental fleets, water sports schools, resorts, and government buyers with premium inflatable pools and watercraft — and who commit to building the OLagoon brand in their country.'
   audiences:
-    - 'מפיצי ספורט ימי וחתירה'
-    - 'קמעונאות חוץ וספורט'
-    - 'מפעילי השכרה ואתרי נופש'
-    - 'בתי ספר לספורט מים'
-    - 'קהילות ספורט אוקייני'
+    - 'Marine & Paddle Sports Distributors'
+    - 'Outdoor & Sports Retail'
+    - 'Rental & Resort Operators'
+    - 'Water Sports Schools'
+    - 'Ocean Sports Communities'

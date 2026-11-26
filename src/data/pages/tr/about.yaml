@@ -1,114 +1,122 @@
 meta:
-  title: 'olagoon Hakkında — Şişme SUP & Su Sporları Markası | {SITE}'
-  description: 'olagoon, Olagoon LLC (ABD) tarafından yönetilen ve Qingdao operasyon ekibimiz tarafından geliştirilen küresel bir şişme SUP ve su sporları markasıdır. Hikayemizi, mühendisliğimizi, sertifikalı kalitemizi ve ülke ortaklık programlarımızı keşfedin.'
+  title: 'About OLagoon — inflatable pools & Water Sports Brand | {SITE}'
+  description: 'OLagoon is a global inflatable pools and water sports brand, operated by Olagoon LLC and built by our Qingdao Operation Team. Discover our story, engineering, certified quality, and country partner programs.'
   keywords:
-    - 'şişme sup markası'
-    - 'su sporları markası'
-    - 'ülke sup distribütörü'
-    - 'co-branded sup koleksiyonları'
+    - 'inflatable pools brand'
+    - 'water sports brand'
+    - 'country pool distributor'
+    - 'co-branded pool collections'
 hero:
-  tagline: Hakkımızda
+  tagline: About us
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: olagoon Atölyesi
+    alt: olagoon factory and workshop
   title: |
-    Deniz mühendisliğini <br />
-    <span class="text-accent dark:text-white">olagoon</span> tarzıyla buluşturuyoruz
-  subtitle: "Bir sahil atölyesinde, tek bir tahta ve sarsılmaz bir inançla başladık: deniz ürünleri, önemliymiş gibi mühendislikle geliştirilmelidir — çünkü öyledir. Bugün 40'tan fazla ülkeye teslimat yapıyoruz, ancak her gövde hâlâ şirketi kuran aynı ellerden geçiyor."
+    Marine engineering, <br />
+    built the <span class="text-accent dark:text-white">olagoon</span> way
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
+
 stats:
-  title: Rakamlarla
+  title: By the numbers
   columns: 4
   stats:
-    - title: Teslim Edilen Gövde
-      amount: 2.400+
-    - title: Teslimat Yapılan Ülke
+    - title: Hulls delivered
+      amount: '2,400+'
+    - title: Countries shipped
       amount: '40'
-    - title: Toplam Deneyim (yıl)
+    - title: Years of combined experience
       amount: '60'
-    - title: Ortalama Yanıt Süresi (s)
+    - title: Average warranty response (hours)
       amount: '24'
+
 features3_what_we_build:
-  title: Ne Üretiyoruz
-  subtitle: "Bir sahil atölyesinde, tek bir tahta ve sarsılmaz bir inançla başladık: deniz ürünleri, önemliymiş gibi mühendislikle geliştirilmelidir — çünkü öyledir. Bugün 40'tan fazla ülkeye teslimat yapıyoruz, ancak her gövde hâlâ şirketi kuran aynı ellerden geçiyor."
+  title: What we build
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
   columns: 3
   isBeforeContent: true
   items:
-    - title: SUP Tahtaları
-      description: 9 ft'den 12 ft'ye kadar şişme SUP tahtaları. Tur, yoga, balıkçılık ve aile kullanımı için tasarlanmıştır.
+    - title: pools
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:ship
-    - title: Şişme SUP'lar
-      description: 9 ft'den 12 ft'ye kadar PVC şişme SUP tahtaları. Hafif, dayanıklı ve kolay saklanabilir.
+    - title: inflatable pools
+      description: PVC inflatable pools from 9 ft to 12 ft. Light, tough and easy to stow.
       icon: tabler:rowing
-    - title: Premium SUP Paketleri
-      description: Markanıza veya filo ihtiyaçlarınıza göre özel üretilmiş kompakt, yüksek spesifikasyonlu SUP'lar.
+    - title: Premium pool packages
+      description: Compact, high-spec pools custom-built to match your brand or fleet requirements.
       icon: tabler:crown
+
 features3_more:
   columns: 3
   isAfterContent: true
   items:
-    - title: Aksesuarlar
-      description: Kürekler, pompalar, örtüler, su geçirmez çantalar ve elektronik. Tamamı tahtalarımızla uyumlu.
+    - title: Accessories
+      description: Filters, pumps, covers, and accessories. All matched to our pools.
       icon: tabler:package
-    - title: Onarım ve Servis
-      description: Atölye içinde tahta onarımı, pad değişimi ve aksesuar yükseltmeleri.
+    - title: Repair & service
+      description: In-house pool repair, liner replacement and accessory upgrades.
       icon: tabler:tool
-    - title: Özel Üretimler
-      description: Ticari, bilimsel ve askeri müşteriler için proje bazında tasarım.
+    - title: Custom builds
+      description: Project-by-project design for commercial, scientific and military customers.
       icon: tabler:hammer
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-    alt: Tahta tasarımı ve mühendislik tartışması
+    alt: Pool design and engineering discussion
+
 steps2_values:
-  title: Değerlerimiz
-  subtitle: İlk günden itibaren her ürünü şekillendiren üç ilke.
+  title: Our values
+  subtitle: Three principles that have shaped every product since day one.
   items:
-    - title: Ailenizi taşıyormuş gibi inşa et
-      description: Her gövde, her kaynak ve her bağlantı elemanı, kendi ailemiz kullanacakmış gibi işlenir.
+    - title: Build like it carries your family
+      description: Every hull, weld and fastener is treated as if our own families will use it.
       icon: tabler:heart
-    - title: Satıştan Önce Mühendislik
-      description: 9 ft'den 12 ft'ye kadar şişme SUP tahtaları. Tur, yoga, balıkçılık ve aile kullanımı için tasarlanmıştır.
+    - title: Engineer before we sell
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:settings
-    - title: Garanti Ötesi Destek
-      description: Yirmi yıllık gövdeler hâlâ yedek parça için arar — biz de hâlâ yanıtlarız.
+    - title: Support that outlasts the warranty
+      description: Twenty-year-old hulls still call us for spare parts, and we still pick up.
       icon: tabler:headset
+
 steps2_milestones:
-  title: Kilometre Taşları
-  subtitle: olagoon hikayesinin kısa versiyonu.
+  title: Milestones
+  subtitle: A short version of the olagoon story.
   isReversed: true
   items:
-    - title: Sahil atölyesinde kuruldu
-      description: Bir CNC freze makinesi ve sarsılmaz bir vizyona sahip iki deniz mühendisi.
+    - title: Founded in a coastal workshop
+      description: Started by two marine engineers with a CNC mill and a stubborn idea.
       icon: tabler:building-factory
-    - title: İlk 1.000 gövde teslimatı
-      description: Yedinci yılda, ağırlıklı olarak ağızdan ağıza ve tekrar eden müşteriler sayesinde ulaşıldı.
+    - title: First 1,000 hulls delivered
+      description: Reached in our seventh year, mostly through word of mouth and repeat customers.
       icon: tabler:circle-check
-    - title: Uluslararası ihracat programı
-      description: Beş kıtada yerel servis ortaklarıyla 40+ ülkeye teslimat.
+    - title: International export programme
+      description: Now shipping to 40+ countries with localised support partners on five continents.
       icon: tabler:world
+
 features2_locations:
-  title: Lokasyonlarımız
-  tagline: Bizi Nerede Bulabilirsiniz
+  title: Our locations
+  tagline: Find us
   columns: 3
   items:
-    - title: Genel Merkez ve Atölye
-      description: 9 ft'den 12 ft'ye kadar şişme SUP tahtaları. Tur, yoga, balıkçılık ve aile kullanımı için tasarlanmıştır.
-    - title: AB Servis Merkezi
-      description: 9 ft'den 12 ft'ye kadar şişme SUP tahtaları. Tur, yoga, balıkçılık ve aile kullanımı için tasarlanmıştır.
-    - title: APAC Ortak Ağı
-      description: Avustralya, Japonya, Singapur ve Hong Kong'da yetkili servis ortakları.
-brand_hub_tagline: Marka
-brand_hub_title: Markamızı Keşfedin
-brand_hub_subtitle: SUP mühendislik uzmanlığımıza, küresel varlığımıza ve bizi yönlendiren ilkelere daha derinlemesine dalın.
+    - title: Headquarters & workshop
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: EU service centre
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: APAC partner network
+      description: Authorised service partners in Australia, Japan, Singapore and Hong Kong.
+
+brand_hub_tagline: Brand
+brand_hub_title: Explore Our Brand
+brand_hub_subtitle: Dive deeper into our pool engineering expertise, global presence, and the principles that drive us.
+
 brand_hub_cards:
-  - title: Denizcilik Uzmanlığı
-    desc: Malzeme bilimi, hassas üretim ve gerçek dünya testlerinde onlarca yıllık deneyim — PVC üretiminden derin-V gövde tasarımına ve drop-stitch teknolojisine kadar.
+  - title: Marine Expertise
+    desc: Decades of material science, precision manufacturing, and real-world testing — from PVC fabrication to deep-V hull design and drop-stitch technology.
     link: /brand-marine-expertise/
-    link_label: Daha Fazla Bilgi →
-  - title: Küresel Varlık
-    desc: Qingdao tesisimizden Avrupa, Asya-Pasifik ve Amerika genelinde yetkili servis ortaklarımızla 50'den fazla ülkeye teslimat yapıyoruz.
+    link_label: 'Learn more →'
+  - title: Global Presence
+    desc: Shipping to 50+ countries from our Qingdao facility with authorized service partners across Europe, Asia-Pacific, and the Americas.
     link: /brand-global-presence/
-    link_label: Daha Fazla Bilgi →
-  - title: Neden olagoon
-    desc: 'Doğrulanmış kalite üzerine kurulu bir marka — çift sertifikasyon (ISO 9001 + BSCI), CE uyumluluğu ve su sporu işletmeleri için sınırlı co-branded koleksiyonlarla ülkeye özel münhasır ortaklıklar.'
+    link_label: 'Learn more →'
+  - title: Why olagoon
+    desc: A brand built on verified quality — dual certification (ISO 9001 + BSCI), CE compliance, and exclusive country partnerships with limited co-branded collections for water-sports businesses.
     link: /brand-why-olagoon/
-    link_label: Daha Fazla Bilgi →
+    link_label: 'Learn more →'

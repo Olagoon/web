@@ -1,89 +1,89 @@
 meta:
-  title: 'Laboratorij po meri — napihljive veslaške deske po meri | {SITE}'
-  description: 'Napihljive veslaške deske po meri: oblikovanje po naročilu, logotip, kalup po meri in proizvodnja. Partner SUP za zasebne znamke, MOQ 50 enot, certifikat CE.'
+  title: 'Custom Lab — Custom Inflatable Pool | {SITE}'
+  description: 'Custom inflatable pool: bespoke design, logo, custom mold, and production. Private-label pool partner, MOQ 50 units, CE certified.'
   keywords:
-    - 'proizvajalec veslaških desk po meri'
-    - 'napihljiva sup po meri'
-    - 'veslaška deska z logotipom'
-    - 'napihljiva sup pod zasebno znamko'
-    - 'proizvodnja veslaških desk'
+    - 'custom inflatable pool manufacturer'
+    - 'custom inflatable pools'
+    - 'inflatable pool with logo'
+    - 'private label inflatable pools'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: 'Laboratorij po meri olagoon'
-  title: 'Oblikujte svojo<br />desko SUP'
-  subtitle: 'Partner SUP po meri, ki ponuja skupno znamko, zasebno znamko in proizvodnjo veslaških desk po naročilu za podjetja po vsem svetu. Od enega samega prototipa do polnih proizvodnih serij.'
-  cta: 'Začnite svoj projekt'
+  tagline: olagoon Custom Lab
+  title: Design Your Own<br />pools
+  subtitle: Custom pool partner offering co-brand, private label, and bespoke inflatable pool production for businesses worldwide. From a single prototype to full production runs.
+  cta: Start your project
   footer_link: /contact/
 
 steps_section:
-  tagline: 'Kako deluje'
-  title: 'Od koncepta do proizvodnje'
-  subtitle: 'Štiri koraki od vaše ideje do končanega, za morje pripravljenega izdelka.'
+  tagline: How it works
+  title: From concept to production
+  subtitle: Four steps from your idea to a finished, sea-ready product.
   steps:
     - num: '01'
-      title: 'Izberite svojo desko'
-      desc: 'Izberite med našimi osnovnimi modeli SUP — vsestranska, turistična, joga, športna ali otroška. Izberite velikost, material in barvo.'
+      title: Choose Your Pool
+      desc: Select from our core pool models — all-around, touring, yoga, sport, or kids. Pick size, material, and colour.
     - num: '02'
-      title: 'Naložite svoje oblikovanje'
-      desc: 'Pošljite nam svoj logotip, grafiko ali smernice znamke. Naša ekipa za oblikovanje pripravi digitalni predogled.'
+      title: Upload Your Design
+      desc: Send us your logo, artwork, or brand guidelines. Our design team prepares a digital proof.
     - num: '03'
-      title: 'Pregled makete z UI'
-      desc: 'Oglejte si fotorealistično z UI ustvarjeno maketo vaše deske po meri, preden se proizvodnja začne.'
+      title: AI Mockup Review
+      desc: View a photorealistic AI-generated mockup of your custom pool before production begins.
     - num: '04'
-      title: 'Proizvodnja in dostava'
-      desc: 'Po odobritvi vaše naročilo vstopi v našo proizvodno linijo. Roki dobave od 30 dni.'
+      title: Production & Delivery
+      desc: Once approved, your order enters our production line. Lead times from 30 days.
 
 services_section:
-  tagline: 'Storitve'
-  title: 'Proizvodne storitve za globalne znamke'
-  subtitle: 'Prilagodljivi modeli sodelovanja — od pogodbene proizvodnje do celovite gradnje znamke.'
+  tagline: Services
+  title: Manufacturing services for global brands
+  subtitle: Flexible engagement models — from contract manufacturing to full-service brand building.
   items:
-    - title: 'Proizvodnja skupne znamke'
-      desc: 'Izdelujemo vaše oblikovne načrte po specifikacijah — vaša intelektualna lastnina, vaši načrti, vaši standardi kakovosti. Popolna zaščita NDA.'
+    - title: Co-Brand Production
+      desc: We produce your designs to spec — your IP, your drawings, your quality standards. Full NDA protection.
       icon: ⚙️
-    - title: 'Oblikovne rešitve'
-      desc: 'Izberite med 50+ preizkušenimi platformami in prilagodite velikost, barvo, grafiko in embalažo.'
+    - title: Design Solutions
+      desc: Choose from 50+ proven platforms and customise size, colour, graphics, and packaging.
       icon: '🎨'
-    - title: 'Zasebna znamka'
-      desc: 'Vaša znamka na naših izdelkih — logotip, embalaža, viseče etikete, priročniki. Pripravljeno za maloprodajo kar iz škatle.'
+    - title: Private Label
+      desc: Your brand on our products — logo, packaging, hang tags, manuals. Retail-ready out of the box.
       icon: '🎨'
-    - title: 'Znamka po meri'
-      desc: 'Tisk blazinice na palubi, grafika na trupu, nalepke na ceveh in etikete po meri — popolna integracija znamke.'
+    - title: Custom Branding
+      desc: Deck pad printing, hull graphics, tube decals, and custom labels — full brand integration.
       icon: ⚙️
 
 capabilities_section:
-  tagline: 'Zmožnosti'
-  title: 'Proizvodne zmožnosti in prilagoditve'
-  subtitle: 'Vse, kar morate vedeti, preden oddate naročilo.'
+  tagline: Capabilities
+  title: Production & customisation capabilities
+  subtitle: Everything you need to know before placing your order.
   capabilities:
-    - label: 'Obseg naročila'
-      value: 'MOQ 50 enot (SUP)'
-    - label: 'Rok dobave'
-      value: '30–45 dni standardno; 15–20 dni za prototipe'
-    - label: 'Prilagoditev'
-      value: 'Velikost, oblika, barva, grafika, embalaža, okovje'
-    - label: 'Materiali'
-      value: 'PVC, drop-stitch, EVA, aluminij'
-    - label: 'Tisk'
-      value: 'Digitalni (CMYK), sitotisk, termo prenos, sublimacija'
-    - label: 'Certifikacija'
-      value: 'CE, UKCA, FCC (podpora za globalno skladnost)'
+    - label: Order volume
+      value: MOQ 50 units (pool)
+    - label: Lead time
+      value: 12–16 weeks standard (50–100 units); 15–20 days for prototypes
+    - label: Customisation
+      value: Size, shape, colour, graphics, packaging, hardware
+    - label: Materials
+      value: PVC, drop-stitch, EVA, aluminium
+    - label: Printing
+      value: Digital (CMYK), screen printing, heat transfer, sublimation
+    - label: Certification
+      value: CE, UKCA, FCC (support for global compliance)
 
 why_section:
-  tagline: 'Zakaj olagoon'
-  title: 'Ena tovarna. En standard. Nič kompromisov.'
+  tagline: Why olagoon
+  title: One factory. One standard. Zero compromises.
   points:
-    - text: 'Integriran proizvodni obrat s 12,000 m²'
-      highlight: '12,000 m²'
-    - text: '200+ usposobljenih delavcev in inženirjev'
-      highlight: '200+'
-    - text: '15,000+ desk SUP proizvedenih letno'
-      highlight: '15,000+'
-    - text: 'Upravljanje kakovosti s certifikatom ISO 9001'
-      highlight: 'ISO 9001'
-    - text: 'Izdelki s certifikatom CE za trg EU'
-      highlight: 'CE'
-  cta: 'Oglejte si podrobnosti tovarne'
+    - text: 12,000 m² integrated manufacturing facility
+      highlight: 12,000 m²
+    - text: 200+ skilled workers and engineers
+      highlight: 200+
+    - text: 15,000+ pools produced annually
+      highlight: 15,000+
+    - text: ISO 9001-certified quality management
+      highlight: ISO 9001
+    - text: CE certified products for EU market
+      highlight: CE
+  cta: View factory details
   cta_link: /factory/
   contact:
-    title: 'Pripravljeni govoriti o svojem projektu?'
-    desc: 'Naša ekipa odgovori v 24 urah s predhodno ponudbo.'
+    title: Ready to discuss your project?
+    desc: Our team responds within 24 hours with a preliminary quote.

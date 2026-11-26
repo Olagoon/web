@@ -1,127 +1,130 @@
 meta:
-  title: T&K-keskus | {SITE}
-  description: Tutkimus ja tuotekehitys — PVC-kangastestaus, rungonsuunnittelu, RF-hitsaus, hydrodynaaminen testaus ja laadunvalvonta. Räätälöityjä T&K-palveluita saatavilla.
+  title: 'R&D Center | {SITE}'
+  description: 'Research & Development — PVC fabric testing, hull engineering, RF welding, hydrodynamic testing, and quality control. Custom R&D services available.'
+
 hero:
-  tagline: T&K-keskus
-  title: Tutkimus- ja kehityskeskus
-  subtitle: Keskittynyt edistymiseen
+  tagline: R&D Center
+  title: R & D Center
+  subtitle: Focused on Progress
+
 intro:
-  - >-
-    olagoonin Tutkimus- ja kehittämiskeskus (R&D) on voima, joka ajaa missiötämme vallankumouksellisesti muuttaa vesilajien välineitä. Autamme vesilajien harrastajia ympäri maailmaa tarjoamalla turvallisempia, mukavampia ja nautittavampia tuotteita jatkuvalla innovaatiolla ilmatäytettävien
-    SUP-lautojen saralla. Innokas insinööri-, suunnittelija- ja asiantuntijatiimimme muotoilee alan tulevaisuutta ja nostaa jatkuvasti rimaa laadun, suorituskyvyn ja kestävyyden osalta.
-  - >-
-    Tuotekehityslaitoksemme kokoaa materiaalitiedemiehiä, meri-insinöörejä ja tuotantoinsinöörejä saman katon alle. Kankaan koostumuksesta ja runkosimulaatiosta hitsausprosessin kehittämiseen ja täysmittaisiin meritestauksiin, jokainen tuotekehityksen vaihe on dataa ohjaama ja testausta
-    vahvistama.
+  - olagoon's Research and Development (R&D) Center is the driving force behind our mission to revolutionize water sports equipment. We empower water sports enthusiasts globally with safer, more comfortable, and more enjoyable products through relentless innovation in inflatable drop-stitch pool (pools). Our dedicated team of engineers, designers, and passionate water sports experts are shaping the future of the industry, consistently raising the bar for quality, performance, and sustainability.
+  - Our R&D facility brings together material scientists, marine engineers, and production engineers under one roof. From fabric formulation and hull simulation to welding process development and full-scale sea trials, every stage of product development is driven by data and validated by testing.
+
 mission:
-  tagline: Meidän missiomme
-  title: Vesiurheilun tulevaisuuden innovointi
+  tagline: Our Mission
+  title: Innovating the Future of Water Sports
   pillars:
     - icon: lightning
-      title: Teknologinen kehitys
-      desc: Uusien materiaalien, suunnittelujen ja valmistusmenetelmien edelläkävijä tuotteiden suorituskyvyn ja kestävyyden parantamiseksi.
+      title: Technological Advancement
+      desc: Pioneering new materials, designs, and manufacturing for superior product performance and longevity.
     - icon: design
-      title: Keskitetty käyttäjän suunnittelu
-      desc: Käyttäjien tarpeiden syvällinen ymmärtäminen ja ylittäminen ergonomisella ja intuitiivisella tuotesuunnittelulla.
+      title: User-Centric Design
+      desc: Deeply understanding and exceeding user needs through ergonomic and intuitive product design.
     - icon: globe
-      title: Kestävät käytännöt
-      desc: Pienennämme ympäristöjalanjälkeämme ympäristöystävällisiä materiaaleja ja prosesseja käyttämällä.
+      title: Sustainable Practices
+      desc: Minimizing our environmental footprint by utilizing eco-friendly materials and processes.
     - icon: shield
-      title: Tinkimätön turvallisuus
-      desc: Turvallisimman tason varmistaminen tiukan testauksen ja sertifioinnin kautta.
+      title: Uncompromising Safety
+      desc: Ensuring the highest safety standards through rigorous testing and certification.
+
 pillars:
-  - title: Teknologinen kehitys
-    desc: Uusien materiaalien, suunnittelujen ja valmistusprosessien edelläkävijä tuotteen erinomaisen suorituskyvyn ja pitkäikäisyyden varmistamiseksi.
+  - title: Technological Advancement
+    desc: Pioneering new materials, designs, and manufacturing processes to deliver superior product performance and longevity.
     icon: tech
-  - title: Edistyneet materiaalit
-    desc: Tutkimelemme edistyneintä PVC:ää, komposiitteja ja kestäviä vaihtoehtoja tuotteiden parantamiseksi.
+  - title: Advanced Materials
+    desc: Investigating cutting-edge PVC, composites, and sustainable alternatives for enhanced product characteristics.
     icon: materials
-  - title: Kestävyys
-    desc: 'Perussitoumus: Omistaudumme ympäristönvastuullisuuteen kestävän tuotannon ja kierrätettävien materiaalien avulla.'
+  - title: Sustainability
+    desc: 'A Core Commitment: We are dedicated to environmental stewardship through sustainable manufacturing and recyclable materials.'
     icon: sustainability
+
 capabilities:
-  tagline: Valmiudet
-  title: Tutkimus- ja kehityskyvyt
-  subtitle: Neljä ydintoimintoa, jotka antavat meille kattavan hallinnan tuotekehitykseen — raaka-ainetutkimuksesta lopulliseen sertifiointiin.
+  tagline: Capabilities
+  title: R&D Capabilities
+  subtitle: Four core disciplines that give us end-to-end control over product development — from raw material research to final certification.
   groups:
-    - title: Materiaalitiede ja kangasteknologia
+    - title: Material Science & Fabric Technology
       items:
-        - PVC-formulaatioiden analyysi ja optimointi
-        - UV-stabiloinnin, palonsuojan ja antimikrobisten lisäaineiden kehitys
-        - Monikerroskangan liimuman ja liimauksen insinööriotos
-        - Kiikeytetty ikääntymistestaus (UV, lämpötila, kosteus, suolalöyly)
-    - title: Rungon suunnittelu ja dynamiikka
+        - PVC formulation analysis and optimisation
+        - UV stabilisation, flame retardancy, and anti-microbial additive development
+        - Multi-layer fabric lamination and adhesion engineering
+        - Accelerated ageing testing (UV, thermal, humidity, salt spray)
+    - title: Hull Engineering & Hydrodynamics
       items:
-        - Parametrinen 3D-rungonsuunnittelu ja CFD-optimoiminen
-        - Raja-elementtianalyysi rakenteellisille ja iskukuormille
-        - Mittakaavamallien vetoallas-testaus ja suorituskyvyn validointi
-        - Mukautetun rungon kehitys erityistehtäville
-    - title: Hitsaus- ja yhdistämistekniikka
+        - Parametric 3D hull design and CFD optimisation
+        - Finite element analysis for structural and impact loads
+        - Scale-model towing tank testing and performance validation
+        - Custom hull development for special mission profiles
+    - title: Welding & Joining Technology
       items:
-        - RF-dielektrisen hitsausprosessin kehittäminen ja optimointi
-        - Kuumailma-, kuumakiila- ja ultraäänihitsausmenetelmät
-        - Liimauksen ja saumanauhan kelpoisuustestaus
-        - Hitsauslujuuden mallintaminen ja käyttöiän ennustaminen
-    - title: Testaus, sertifiointi ja vaatimustenmukaisuus
+        - RF dielectric welding process development and optimisation
+        - Hot-air, hot-wedge, and ultrasonic welding methods
+        - Adhesive bonding and seam tape qualification
+        - Weld strength modelling and lifetime prediction
+    - title: Testing, Certification & Compliance
       items:
-        - Laadunhallinto ja CE-vaatimustenmukaisuustesti
-        - Riippumaton kolmannen osapuolen testaus ja sertifiointituki
-        - Oman testiprotokolan kehittäminen hankintakvalifikaatioon
-        - Käyttövika-analyysi ja juurisyynen tutkimus
+        - Quality management and CE compliance testing
+        - Independent third-party testing and certification support
+        - Custom test protocol development for procurement qualification
+        - In-service failure analysis and root-cause investigation
+
 rd_numbers:
-  tagline: Innovaatio
-  title: Tutkimus ja kehitys lukuina
+  tagline: Innovation
+  title: R&D by the Numbers
   stats:
     - value: '14'
-      label: Tutkimus- ja kehitysinsinöörit ja tutkijat
+      label: R&D engineers & scientists
     - value: '8'
-      label: Voimassa olevat patentit ja patenttihakemukset
+      label: Active patents & filings
     - value: '6'
-      label: Erikoistuneet laboratoriot
-    - value: 12 vuotta
-      label: Tiimin keskimääräinen kokemus
+      label: Specialised labs
+    - value: 12 yr
+      label: Average team experience
+
 rd_services:
-  tagline: Oma tutkimus ja kehitys
-  title: Tutkimus- ja kehityspalvelut kumppaneille
+  tagline: Custom R&D
+  title: R&D Services for Partners
   services:
-    - title: Mukautettu materiaalin kehitys
-      desc: Kehitämme räätälöityjä kangasmuotoiluja, laminaattipinoja ja liimajärjestelmiä, jotka on suunniteltu toimintaympäristöön ja suorituskykytavoitteisi sopivaksi.
-    - title: OEM / ODM -tuotesuunnittelu
-      desc: Kehitämme räätälöityjä kangasmuotoiluja, laminaattipinoja ja liimajärjestelmiä, jotka on suunniteltu toimintaympäristöön ja suorituskykytavoitteisi sopivaksi.
-    - title: Kolmannen osapuolen testaus ja sertifikaatio
-      desc: Käytä ISO-normien mukaisia testauslaitteitamme riippumattomaan materiaalitestaukseen, tuotevahvistukseen ja sertifointitukeen.
-  cta: Keskustele tutkimus- ja kehitystarpeistasi –
+    - title: Custom Material Development
+      desc: We develop custom fabric formulations, laminate stacks, and adhesive systems tailored to your operating environment and performance targets.
+    - title: OEM / ODM Product Engineering
+      desc: We develop custom fabric formulations, laminate stacks, and adhesive systems tailored to your operating environment and performance targets.
+    - title: Third-Party Testing & Certification
+      desc: Use our ISO-compliant test facilities for independent material testing, product validation, and certification support.
+  cta: Discuss your R&D requirements →
   cta_link: /contact/
+
 vision:
-  tagline: Visioimme
-  title: Vesiuheilun tulevaisuuden muovaaminen
-  body: >-
-    olagoon pyrkii johtamaan täytettävien SUP-lautojen toimialaa jatkuvan innovoinnin, horjumattoman laadun sekä lujan turvallisuus- ja kestävyyssitoumuksen kautta — rikastaen lopulta vesiliikuntaharrastajien kokemuksia maailmanlaajuisesti. OLagoonin tutkimus- ja tuotekehityskeskus on
-    paikka, jossa intohimo kohtaa innovaation ja jossa asetetaan uusia standardeja vesiliikunta-alalle.
+  tagline: Our Vision
+  title: Shaping the Future of Water Sports
+  body: OLagoon strives to lead the inflatable pool industry through continuous innovation, unwavering quality, and a steadfast commitment to safety and sustainability — ultimately enriching backyard summers for families worldwide. The olagoon R&D Center is where passion meets innovation, setting new standards for the water sports industry.
+
 labs_section:
-  tagline: Laboratoriot
-  title: Laboratoriomme
+  tagline: Labs
+  title: Our Laboratories
   labs:
     - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
-      title: PVC-kangaslaboratorio
-      description: Jatkuva tutkimus ja testaus PVC-kankauksissa vetolujuuden, UV-säilyvyyden, kohoutuksen ja matalan lämpötilan joustavuuden takaamiseksi meriympäristössä.
+      title: PVC Fabric Lab
+      description: Continuous research and testing of PVC deck fabrics for tensile strength, UV resistance, abrasion, and low-temperature flexibility to ensure long-term reliability in marine environments.
       href: /randdcenter/pvc-fabric-lab/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-      title: Rungon suunnittelustudio
-      description: CAD-ohjaussuunnittelu ja rajattomeen elementtimenetelmään perustuva HDPE-, alumiini- ja lasikuiturunkojen analyysi. Jokainen runko digitaalisimuloidaan jännitysjakauman ja iskunkestävyyden osalta ennen ensimmäisen prototyyppin rakentamista.
+      title: Hull Engineering Studio
+      description: CAD-driven design and finite element analysis of HDPE, aluminum, and fiberglass hulls. Every hull is digitally simulated for stress distribution and impact resistance before the first prototype is built.
       href: /technology/
-    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
-      title: RF-hitsauskeskus
-      description: Oma radiotaajuushitsauslaitos tarkalla lämpötila- ja paineensäädöllä, joka tuottaa korkealujuuisia, tiiviitä liitoksia, jotka täyttävät ilmatäytteisiä vesikulkuneuvoja koskevat meriteollisuuden standardit.
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+      title: RF Welding Center
+      description: Dedicated radio-frequency welding facility with precision temperature and pressure control, producing high-strength, airtight seams that meet marine industry standards for inflatable craft.
       href: /randdcenter/rf-welding/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
-      title: Dynaaminen testiallas
-      description: Mittakaavamallien testaus sisäisessä testialtaassamme runkomuodon, suorituskyvyn, vakauden ja polttoainetehokkuuden optimoimiseksi eri kuormitus- ja merioloissa.
+      title: Hydrodynamic Test Tank
+      description: Scale-model testing in our in-house test tank to optimize hull form, planing performance, stability, and fuel efficiency across a range of load and sea conditions.
       href: /technology/
-    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      title: Prototyyppipaja
-      description: Täysmittakaavan prototyyppi- ja varustuslaitos, jossa uudet mallit rakennetaan, asennetaan ja meritestataan. Jokainen prototyyppi suorittaa vähintään 20 tunnin vesitestiohjelman ennen tuotantohyväksyntää.
+    - image: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+      title: Prototype Workshop
+      description: Full-scale prototyping and rigging facility where new models are built, fitted, and sea-trialed. Every prototype undergoes a minimum 20-hour in-water test programme before production approval.
       href: /randdcenter/prototype-workshop/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
-      title: Laatu- ja tarkastuslaboratorio
-      description: Omistettu laadunvarmistuslaboratorio suorittaa venymätestaus, ilmanpidättesyklit, saumojen irrotustestit ja materiaalisertifikaation, joka varmistaa, että jokainen työpajalta lähtevä lauta täyttää julkaistut erittelymme.
+      title: Quality & Inspection Lab
+      description: Dedicated quality assurance lab performing tensile testing, air-retention cycling, seam peel tests, and material certification to ensure every pool leaving the workshop meets our published specifications.
       href: /randdcenter/quality-inspection-lab/

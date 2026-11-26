@@ -1,108 +1,110 @@
 meta:
-  title: 'المعرفة — أدلة SUP | {SITE}'
-  description: 'قاعدة معرفة olagoon: أدلة عن ألواح SUP القابلة للنفخ، ومواد ألواح التجديف، واختيار الألواح، ورؤى الصناعة للعلامات التجارية والمحترفين.'
+  title: 'Knowledge — Pool Guides | {SITE}'
+  description: 'OLagoon knowledge base: guides on drop-stitch pools, pool materials, water care, and industry insights for owners and professionals.'
   keywords:
-    - 'معرفة SUP'
-    - 'دليل SUP قابل للنفخ'
-    - 'مواد ألواح التجديف'
-    - 'رؤى صناعة SUP'
+    - 'pool knowledge'
+    - 'drop stitch pool guide'
+    - 'inflatable pool materials'
+    - 'pool care insights'
 hero:
-  tagline: مخطط المعرفة
-  title: معرفة استكشاف المياه
+  tagline: 'Knowledge Graph'
+  title: 'Backyard Pool Knowledge'
   subtitle: |
-    قاعدة معرفية منظمة تغطي تقنية SUP القابلة للنفخ،<br />
-    السلامة المائية، هندسة الألواح، وتخطيط المغامرات.
-  taglineSection: استكشف. تعلم. انطلق بثقة.
-clusters:
-  tagline: مجموعات المعرفة
-  title: استكشف حسب الموضوع
-  subtitle: غوص عميق في التكنولوجيا والسلامة والمهارات وراء كل منتج من أفارير.
-  items:
-    - title: معرفة SUP
-      description: من اختيار أول لوح لك إلى تقنيات الجولات المتقدمة — كل شيء عن التجديف الوقوف.
-      icon: tabler:lifebuoy
-      topics:
-        - كيف تختار أول SUP قابل للنفخ لك
-        - أفضل حجم SUP للمبتدئين
-        - ما مدى صعوبة التجديف الوقوف؟
-        - مقارنة القابل للنفخ مقابل اللوح الصلب
-        - قائمة فحص سلامة SUP
-    - title: هندسة وتقنيات SUP
-      description: أدلة تقنية عن ألواح SUP القابلة للنفخ — المواد وطرق التصنيع وعمليات الإنتاج.
-      icon: tabler:microscope
-      topics:
-        - تعمق في تقنية الخياطة المتساقطة
-        - مواصفات PVC عسكرية
-        - الدمج الحراري مقابل الربط اللاصق
-        - تقنية رغوة EVA وطرق الرسم
-        - أنواع صمامات SUP وأنظمة الزعانف
+    A structured knowledge base covering drop-stitch pool technology,<br />
+    water safety, materials engineering, and seasonal pool care.
+  taglineSection: 'Explore. Learn. Swim with confidence.'
 
-    - title: معرفة السلامة
-      description: معرفة سلامة أساسية لكل مجداف — من اختيار سترة النجاة إلى قراءة الطقس إلى تقنيات الإنقاذ الذاتي.
-      icon: tabler:shield
-      topics:
-        - قائمة فحص سلامة SUP
-        - هل تحتاج سترة نجاة؟
-        - دليل سلامة التجديف في المحيط
-        - تقنيات إصلاح المنتجات القابلة للنفخ
-        - الوعي بالطقس وظروف المياه
-    - title: التكنولوجيا
-      description: الهندسة وراء منتجات أفارير — المواد وطرق البناء واختبار الجودة.
-      icon: tabler:microscope
-      topics:
-        - تقنية PVC البحرية
-        - شرح الخياطة المتساقطة
-        - لماذا PSI مهم لـ SUP القابل للنفخ
-        - لحام RF مقابل الربط اللاصق
-        - اختبار الجودة والشهادات
-    - title: نمط حياة ألواح SUP واستخداماتها الخاصة
-      description: أنشطة SUP المتخصصة — اليوغا، والصيد، والكلاب، والعائلات، ونصائح السفر.
-      icon: tabler:heart
-      topics:
-        - اليوغا والتأمل على الماء بألواح SUP
-        - الصيد من SUP قابل للنفخ
-        - التجديف وقوفًا مع الكلاب والأطفال
-        - السفر بلوح SUP الخاص بك جوًا وبالسيارة
-        - إكسسوارات SUP والمعدات الأساسية
-    - title: مقارنات SUP والمراجع
-      description: مقارنات جنبًا إلى جنب لمساعدتك على اتخاذ قرارات مدروسة.
-      icon: tabler:chart-bar
-      topics:
-        - SUP أم الكاياك — أيهما الأنسب لك؟
-        - 'شرح درجات مواد PVC'
-        - 'السلامة: غرفة واحدة مقابل غرف متعددة'
-        - شرح مواد ألواح SUP
-        - الطباعة بالأشعة فوق البنفسجية (UV) مقابل فنون كتلة EVA
-featured_guides:
-  tagline: الأدلة المميزة
-  title: أكثر موارد المعرفة شعبية
+clusters:
+  tagline: 'Knowledge Clusters'
+  title: 'Explore by topic'
+  subtitle: 'Deep dives into the technology, safety, and care behind every OLagoon product.'
   items:
-    - title: أساسيات SUP
-      href: /learn/water-safety/
-    - title: قابل للنفخ مقابل اللوح الصلب
-      href: /compare/technology/
-    - title: دليل السلامة المائية
-      href: /learn/water-safety/
-    - title: مرجع المواد
-      href: /learn/materials/
-    - title: دليل حجم SUP
-      href: /size-guide/
-    - title: دليل مقاسات ألواح SUP
-      href: /guides/sup-size-guide/
-    - title: مركز تقنيات SUP
-      href: /research/
-    - title: الصيانة الفرعية
-      href: /technology/
-    - title: دليل الجولات
-      href: /guides/sup-for-touring/
-    - title: تقنيات التجديف
-      href: /technology/
+    - title: 'Pool Buying Guides'
+      description: 'From choosing your first pool to comparing sizes — everything about drop-stitch pools.'
+      icon: 'tabler:lifebuoy'
+      topics:
+        - 'How to choose your first drop-stitch pool'
+        - 'Pool size and capacity guide'
+        - 'Compact Plunge vs Family Oasis vs Grand Lagoon'
+        - 'Common pool buying mistakes to avoid'
+        - 'Inflatable vs rigid pool comparison'
+    - title: 'Pool Engineering & Technology'
+      description: 'Technical guides on drop-stitch pools — materials, construction methods, and manufacturing processes.'
+      icon: 'tabler:microscope'
+      topics:
+        - 'Drop-stitch technology deep dive'
+        - 'Marine-grade PVC specifications'
+        - 'Fusion lamination vs adhesive bonding'
+        - 'Reinforced rail and seam engineering'
+        - 'Pool valve types and pressure ratings'
+    - title: 'Pool Safety & Maintenance'
+      description: 'Essential safety knowledge for every pool owner — from supervision rules to water care and repair.'
+      icon: 'tabler:shield'
+      topics:
+        - 'Pool safety checklist and supervision rules'
+        - 'Water care and sanitation basics'
+        - 'Pool inflation PSI guide (10–15 PSI)'
+        - 'Pool storage and winter care'
+        - 'PVC repair techniques'
+    - title: 'Pool Setup & Water Care'
+      description: 'Setup routines, filtration schedules, and water chemistry for a season of clear water.'
+      icon: 'tabler:droplet'
+      topics:
+        - 'First setup: unbox to swim in 30 minutes'
+        - 'Sand filter pump operation and backwashing'
+        - 'Water testing and chemical balance'
+        - 'Algae prevention and troubleshooting'
+        - 'Thermal covers and heat retention'
+    - title: 'Pool Lifestyle & Family'
+      description: 'Getting the most from your pool — family fun, exercise, pets, and entertaining.'
+      icon: 'tabler:heart'
+      topics:
+        - 'Pool games and activities for kids'
+        - 'Water exercise and low-impact fitness'
+        - 'Pool time with dogs and pets'
+        - 'Moving your pool: storage between homes'
+        - 'Pool accessories and gear essentials'
+    - title: 'Pool Comparisons & References'
+      description: 'Side-by-side comparisons to help you make informed decisions.'
+      icon: 'tabler:chart-bar'
+      topics:
+        - 'Inflatable pool vs rigid pool — which is right for you?'
+        - 'PVC material grades explained'
+        - 'Single chamber vs multi-chamber construction'
+        - 'Pool wall heights explained (20 cm standard)'
+        - 'Digital printing vs in-mold graphics'
+
+featured_guides:
+  tagline: 'Featured Guides'
+  title: 'Most popular knowledge resources'
+  items:
+    - title: 'Pool Setup Guide'
+      href: '/guides/pool-setup-guide/'
+    - title: 'Inflatable vs Rigid Pools'
+      href: '/compare/inflatable-vs-hardboard/'
+    - title: 'Water Safety Guide'
+      href: '/learn/water-safety/'
+    - title: 'Materials Reference'
+      href: '/learn/materials/'
+    - title: 'Pool Buying Guide'
+      href: '/guides/choosing-a-drop-stitch-pool/'
+    - title: 'Pool Filtration Guide'
+      href: '/guides/pool-filtration-guide/'
+    - title: 'Pool Tech Center'
+      href: '/research/'
+    - title: 'Pool Water Care'
+      href: '/guides/pool-water-care/'
+    - title: 'Winter Storage Guide'
+      href: '/guides/pool-winter-storage/'
+    - title: 'Site Preparation Guide'
+      href: '/guides/pool-site-preparation/'
+
 cta:
-  title: ابدأ الاستكشاف
-  subtitle: اغص في قاعدة معارفنا واحصل على المعلومات التي تحتاجها لمغامرتك المائية القادمة.
+  title: 'Start exploring'
+  subtitle: 'Dive into our knowledge base and get the information you need for your backyard pool.'
   actions:
     - variant: primary
-      text: تصفح جميع الأدلة
-      href: /academy/
-    - text: استكشف مخطط المعرفة
-      href: /knowledge/
+      text: 'Browse all guides'
+      href: '/academy/'
+    - text: 'Explore Knowledge Graph'
+      href: '/knowledge/'

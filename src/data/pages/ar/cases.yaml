@@ -1,100 +1,96 @@
 meta:
-  title: 'دراسات الحالة — مشاريع الشراكة والعلامة المشتركة | {SITE}'
-  description: 'مشاريع حقيقية، نتائج حقيقية: أساطيل SUP للمنتجعات، والعلامات الخاصة، والتوزيع، والإنقاذ. شاهد كيف تدعم olagoon شركاءها.'
+  title: 'Case Studies — Pool Partnership & OEM Projects | {SITE}'
+  description: 'Real projects, real results: resort pool programs, private label lines, dealer distribution, and community pools. See how OLagoon supports its partners.'
   keywords:
-    - 'دراسات حالة SUP'
-    - 'مشاريع شراكة ألواح التجديف'
-    - 'مراجع مصنّع SUP'
-    - 'أمثلة مشاريع بحرية'
+    - 'pool case studies'
+    - 'inflatable pool partnership projects'
+    - 'drop stitch pool brand references'
+    - 'OEM pool project examples'
 hero:
-  tagline: دراسات حالة
-  title: مشاريع حقيقية، نتائج حقيقية<br />— olagoon في العمل
-  subtitle: شاهد كيف تتعاون olagoon مع الموزعين والعلامات التجارية والمشغلين حول العالم لتقديم حلول بحرية مخصصة لكل تطبيق.
+  tagline: Case Studies
+  title: 'Real Projects, Real Results<br />— OLagoon in Action'
+  subtitle: 'See how OLagoon partners with dealers, brands, and operators worldwide to deliver drop-stitch pool solutions for every application.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: دراسات حالة olagoon — مشاريع تصنيع بحرية مخصصة
+    alt: OLagoon case studies — custom pool manufacturing projects
 features3_cases:
-  tagline: حالات مميزة
-  title: حلول مخصصة<br />لتحديات حقيقية
+  tagline: Featured Cases
+  title: 'Custom Solutions<br />For Real Challenges'
   isBeforeContent: false
   columns: 3
   items:
-    - title: أسطول مركز غوص أوروبي
-      customer: مراكز الغوص BlueMed
-      country: اليونان
-      industry: الغوص والسياحة البحرية
-      challenge: مطلوب 12 SUPs مكونة للغوص لسلسلة من مراكز الغوص عبر جزر يونانية متعددة. احتاجت كل لوحة إلى مرفق ترس مخصص، وتخزين لـ 8 خزانات، ومنصة مستقرة لدخول الغواص في المياه المفتوحة. يجب أن يصل الأسطول في غضون 60 يومًا لبدء الموسم السياحي.
-      solution: أنتجت 12 طرازًا من طرازات Voyager Dive مع رفوف تروس مدمجة ومنصات مستقرة وبنية غرز متدلية عريضة للغاية لاستقرار الصعود إلى الطائرة. وصفت كل لوحة بكسوة أسطول العملاء. تم اختبار ضغط جميع الألواح الـ 12 وشحنها من تشينغداو في غضون 55 يومًا.
-      product: سوب فوياجر دايف
-      results: تم تسليم جميع اللوحات الاثني عشر في الوقت المحدد للموسم السياحي. يعمل الأسطول يوميًا منذ أكثر من 18شهرًا دون أي أعطال مادية. طلب العميل 6 وحدات إضافية في السنة الثانية.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      quote: كانت SUP Voyager Dive العمود الفقري لعمليات الغوص اليومية لدينا. الاستقرار ممتاز، ويحافظ تخطيط تخزين التروس على سطح السفينة نظيفًا وآمنًا لضيوفنا.
-      icon: tabler:lifebuoy
-    - title: برنامج العلامة المشتركة للموزع الأسترالي
-      customer: باسيفيك ووترسبورتس بي تي واي ليمت
-      country: أستراليا
-      industry: برنامج العلامة المشتركة والشراكة
-      challenge: احتاج الموزع الأسترالي إلى مجموعة من العلامات التجارية الخاصة بأسعار تنافسية للتنافس مع العلامات التجارية الصينية المباشرة للمستهلك. مطلوب 8 موديلات فريدة من نوعها تغطي المبتدئين حتى المتقدمين، مع رسومات مخصصة، وتغليف مخصص، وتوصيل الشحن إلى منافذ البيع بالتجزئة.
-      solution: >-
-        طورت 8 موديلات (All - Around، Touring، Yoga، Kids، Sport، Ultra - Compact، Ultra - Stable، Whitewater) مع حزمة رسومات أسترالية حصرية. تغليف مخصص للبيع بالتجزئة مع رموز الاستجابة السريعة التي ترتبط بإعداد مقاطع الفيديو. لوجستيات إسقاط السفن التي تم تكوينها من تشينغداو مباشرة إلى متاجر البيع
-        بالتجزئة الأسترالية.
-      product: خط دعم مخصص (8 موديلات)
-      results: مفهوم الشحنة الأولى في 90 يومًا. معدل بيع التجزئة بنسبة 85 ٪ في الموسم الأول. قام الموزع بتوسيع الشراكة لتشمل نماذج دعم إضافية في السنة الثانية.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      quote: سلمت أفارير خط دعم كامل في 90 يومًا - من التصميم الأولي إلى طابق البيع بالتجزئة. تتطابق الجودة مع العلامات التجارية التي تبيع بضعف نقطة السعر.
-      icon: tabler:currency-dollar
-    - title: توريد معدات إنقاذ للشرق الأوسط
-      customer: الهيئة الوطنية للدفاع المدني
-      country: دولة الإمارات العربية المتحدة
-      industry: البحث والإنقاذ
-      challenge: احتاجت منظمة الدفاع المدني إلى 20 قاعدة احتياطية جاهزة للدوريات للبحث والإنقاذ الساحلي وأمن الموانئ والاستجابة للفيضانات. اللوحات عالية الوضوح المطلوبة، ومعدات السلامة الكاملة، والامتثال للوائح البحرية المحلية.
-      solution: زودت 20 طرازًا من طرازات الدوريات مع بنية برتقالية متدلية عالية الوضوح، وحزم أمان كاملة، وشريط عاكس SOLAS، وبناء مقوى. حصل كل مجلس على شهادة CE وتم اختباره وفقًا للمعايير المعمول بها. تضمنت حزمة الوثائق شهادات امتثال للتسجيل المحلي.
-      product: سوب باترول
-      results: انتشر الأسطول عبر 5 محطات ساحلية. تعمل الألواح في درجات حرارة شديدة (45 درجة مئوية+) دون أي تدهور. تجاوز الأداء والمتانة المواصفات.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      quote: تجاوزت دورية SUP متطلباتنا التشغيلية. في ظروف الحرارة الشديدة، لا تظهر الألواح أي علامات على تدهور الأشعة فوق البنفسجية بعد 24 شهرًا من الاستخدام اليومي.
-      icon: tabler:alert-triangle
-    - title: شراكة العلامة المشتركة الأوروبية
-      customer: شركة نورث سي مارين إكويبمنت بي في
-      country: هولندا
-      industry: برنامج العلامة المشتركة والشراكة
-      challenge: أرادت العلامة التجارية البحرية الأوروبية الراسخة التوسع في سوق SUP دون الاستثمار في مرافق التصنيع. بحاجة إلى شريك ذي علامة بيضاء قادر على إنتاج 5 طرازات سوب (9 أقدام إلى 12 قدمًا) مع العلامة التجارية الخاصة، وشهادة CE، وحقوق التوزيع الحصرية للاتحاد الأوروبي.
-      solution: وضع اتفاقية تصنيع للعلامة البيضاء لنماذج 5 SUP. يتميز كل طراز بشعارات العملاء ونظام الألوان. وثائق شهادة CE المعدة لكل نموذج. حقوق التوزيع الحصرية للاتحاد الأوروبي الممنوحة مع التزامات الحد الأدنى للطلب. الوثائق الفنية المقدمة لشبكة الخدمة المحلية.
-      product: خط دعم مخصص (5 موديلات)
-      results: تم توقيع اتفاقية متعددة السنوات. أول عملية إنتاج لـ 50 وحدة يتم شحنها في غضون 75 يومًا. تم إطلاق العلامة التجارية في المعرض التجاري الرئيسي مع استقبال إيجابي للوكلاء.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      quote: أتاح لنا العمل مع olagoon دخول سوق ألواح التجديف القائمة (SUP) دون الحاجة إلى إنشاء مصنع — إذ وفّروا لنا حلاً متكاملاً جاهزاً للاستخدام مع شهادة CE ووثائق دعم الموزعين.
-      icon: tabler:building
-    - title: أسطول منتجع كاريبي
+    - title: Caribbean Resort Pool Program
       customer: Paradise Island Resorts Ltd
-      country: جزر البهاما
-      industry: السياحة البحرية والضيافة
-      challenge: >-
-        احتاج منتجع فاخر إلى أسطول كامل من معدات الرياضات المائية لأنشطة النزلاء: 40 لوح SUP للجولات المصحوبة بمرشدين، و20 لوح SUP إضافياً لاستكشاف البحيرات، و10 ألواح SUP للرحلات الخارجية للنزلاء، بالإضافة إلى الإكسسوارات. وكانت جميع المعدات بحاجة إلى علامة تجارية مخصصة للمنتجع، وكان يجب تسليمها
-        قبل موسم الذروة السياحي.
-      solution: 'أنتجت حزمة SUP كاملة: 40 لوح SUP من نوع Voyager (موديل All-Around)، و20 لوح SUP من نوع Explorer، و10 ألواح SUP من نوع Touring، بالإضافة إلى سترات النجاة (PFDs) والمجداف والمضخات وأطقم الإصلاح. جميع المعدات مطبوعة بشعار المنتجع وألوان استوائية. الشحنة معبأة في حاويات مع قائمة مخزون كاملة.'
-      product: حزمة SUP الكاملة (أكثر من 70 وحدة)
-      results: وصل الأسطول قبل 6 أسابيع من موسم الذروة. ارتفعت درجات رضا النزلاء عن أنشطة الرياضات المائية بنسبة 40% مقارنة بالعام السابق. واستمرت المعدات في الخدمة لمدة 3 مواسم دون سوى الصيانة الدورية.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      quote: نهج الحزمة الكاملة عنى حصولنا على كل ما نحتاجه في شحنة واحدة — ألواح وإكسسوارات تحمل علامتنا التجارية وجاهزة لاستخدام النزلاء. نزلاؤنا يعشقون جودة المعدات.
+      country: Bahamas
+      industry: Hospitality & Resort Operations
+      challenge: 'Luxury resort wanted to add guest swimming capacity without a construction project. Needed 12 pools across three properties, custom resort branding, matched filtration, and delivery before peak season — all within 60 days.'
+      solution: 'Produced 12 Family Oasis pools with custom resort graphics, 8 sand filter pumps, thermal covers, and entry steps. Each pool was pressure-tested and branded with the customer livery. All units shipped from Qingdao within 55 days.'
+      product: Family Oasis Resort Package
+      results: 'All 12 pools delivered on time for peak season. Pools have been in daily operation for 18+ months with zero material failures. The resort ordered 6 additional units in year two.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/family-oasis.webp'
+      quote: 'The Family Oasis pools became our most requested guest amenity. Setup took minutes, water care is simple, and the resort branding looks fantastic.'
       icon: tabler:beach
-    - title: عقد دورية ساحلية أمريكية
-      customer: Atlantic Coastal Security Agency
-      country: الولايات المتحدة
-      industry: الأمن البحري وإنفاذ القانون
-      challenge: طلبت إحدى وكالات الأمن الساحلي الأمريكية ألواح SUP شديدة التحمل للدوريات في المياه المفتوحة، مع الحاجة إلى ألواح عالية الأداء مزوّدة بمعدات بمواصفات عسكرية ومتوافقة مع لوائح خفر السواحل الأمريكي.
-      solution: لوح SUP Patrol هندسي بتركيبة drop-stitch معززة، وألوان عالية الوضوح، وحوامل معدات اتصالات مشفرة، ونقاط تثبيت معدات مدمجة. ألواح معززة للعمليات فائقة الكثافة. تُقدَّم وثائق الامتثال لمعايير USCG.
-      product: سوب باترول
-      results: أفادت الوكالة بنسبة جاهزية للمهام بلغت 95% خلال أول 12 شهرًا، وتم تقديم طلب إضافي لـ 8 وحدات.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      quote: توفر ألواح SUP Patrol لأطقمنا الأداء المطلوب للعمليات في المياه المفتوحة، ويوفر البناء المقوّى متانة بالغة الأهمية دون المساس بسهولة المناورة.
+    - title: Australian Distributor Private-Label Program
+      customer: Pacific Leisure Pty Ltd
+      country: Australia
+      industry: Private Label & Distribution
+      challenge: 'Australian distributor needed a private-label pool range at competitive pricing to compete with direct-to-consumer imports. Required models covering plunge, family, and lounge segments, with custom graphics, retail packaging, and drop-ship fulfillment.'
+      solution: 'Developed a 3-model private-label line (2 m plunge, 3 m family, 5 m lounge) with exclusive Australian graphics package. Custom retail packaging with QR codes linking to setup videos. Drop-ship logistics configured from Qingdao direct to Australian retail stores.'
+      product: Custom Pool Line (3 models)
+      results: 'Concept to first shipment in 90 days. Retail sell-through rate of 85% in first season. Distributor expanded the partnership with accessory SKUs in year two.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+      quote: 'OLagoon delivered a complete pool line in 90 days — from initial design to retail floor. The quality matches brands selling at twice the price point.'
+      icon: tabler:currency-dollar
+    - title: US Community Pool Program
+      customer: Riverside Parks & Recreation
+      country: United States
+      industry: Municipal & Community Programs
+      challenge: 'City parks department needed seasonal swimming capacity for three neighborhood parks without permanent pool construction budgets. Required durable pools, easy staff setup, and ADA-considerate entry options for public programs.'
+      solution: 'Supplied 6 Grand Lagoon pools with sand filter pumps, ground mats, entry steps, and thermal covers. High-visibility safety graphics, reinforced construction, and staff training materials were included with each unit.'
+      product: Grand Lagoon Community Package
+      results: 'Pools deployed across 3 parks for two seasons. Operating in sustained heat and heavy public use with no degradation. Summer program attendance doubled.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+      quote: 'The Grand Lagoon pools survived two summers of daily public use with only routine water care. Our staff can set one up in under 30 minutes.'
+      icon: tabler:building-community
+    - title: European White-Label Partnership
+      customer: NordPool Equipment BV
+      country: Netherlands
+      industry: White Label & Brand Licensing
+      challenge: 'Established European outdoor brand wanted to enter the backyard pool market without investing in manufacturing. Needed a white-label partner capable of producing a 3-model pool line with private branding, CE documentation, and exclusive EU distribution rights.'
+      solution: 'Established white-label manufacturing agreement for a 3-model line. Each model branded with customer logos and color scheme. CE certification documentation prepared per model. Exclusive EU distribution rights granted with minimum order commitments.'
+      product: Custom Pool Line (3 models)
+      results: 'Multi-year agreement signed. First production run of 50 units shipped within 75 days. Brand launched at a major trade show with positive dealer reception.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/family-oasis.webp'
+      quote: 'Working with OLagoon allowed us to enter the pool market without building a factory — they delivered a complete turnkey solution with CE documentation and dealer support.'
+      icon: tabler:building
+    - title: Holiday Park Rental Fleet
+      customer: SunnyFields Holiday Parks
+      country: France
+      industry: Tourism & Rental Operations
+      challenge: 'Chain of 5 holiday parks wanted to offer pool rentals to guests at campsites without permanent infrastructure. Needed a durable fleet with fast turnover, simple water care, and compact off-season storage.'
+      solution: 'Produced a 15-pool fleet of Compact Plunge and Family Oasis models with matched filtration, quick-drain valve configurations, and shared spare-parts kits. Staff training covered setup, water care, and turnover procedures.'
+      product: Rental Fleet (15 units)
+      results: 'Fleet launched across 5 parks in spring. Rental utilization reached 70% in the first season. Pools stack in a storage room over winter with zero winterization cost.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/compact-plunge.webp'
+      quote: 'The complete package approach meant we received everything we needed in one shipment — pools, filters, and spares, all branded and ready for guests.'
+      icon: tabler:sun
+    - title: US Retail Chain Rollout
+      customer: GreatOutdoors Retail Co.
+      country: United States
+      industry: Retail & Distribution
+      challenge: 'National outdoor retailer wanted a premium inflatable pool program for the spring season across 40 stores. Required reliable supply of 800 units, retail-ready packaging, in-store display materials, and a warranty support process.'
+      solution: 'Built a 3-SKU retail program (Compact Plunge, Family Oasis, sand filter pump) with shelf-ready packaging, planogram displays, and a dedicated warranty line. Production scheduled across two runs with QA sampling at each stage. 800 units delivered to regional DCs in phases.'
+      product: Retail Pool Program (800 units)
+      results: 'Program sold through 92% by mid-summer. Warranty claims below 0.5%. Retailer renewed the program for the following season with expanded accessory SKUs.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/sand-filter-pump.webp'
+      quote: 'OLagoon gave us a turnkey seasonal program — the pools sold through fast, and their warranty handling kept our customer service team out of trouble.'
       icon: tabler:shield
 cta:
-  title: هل لديك مشروع تريد مناقشته؟
-  subtitle: كل شراكة مع olagoon تبدأ بمحادثة. أخبرنا بمتطلباتك وسنطور حلاً.
+  title: 'Have a project you want to discuss?'
+  subtitle: 'Every OLagoon partnership starts with a conversation. Tell us about your requirements and we will develop a solution.'
   actions:
     - variant: primary
-      text: ابدأ مشروعك
+      text: Start your project
       href: /contact/
-    - text: عرض قدراتنا
-      href: /brand-marine-expertise/
+    - text: View our capabilities
+      href: /factory/

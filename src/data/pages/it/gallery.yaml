@@ -1,31 +1,33 @@
 meta:
-  title: 'Galleria — SUP Gonfiabili | {SITE}'
-  description: 'Esplora la galleria olagoon: foto di tavole SUP gonfiabili, fabbrica e produzione dalla nostra fabbrica professionale di paddle board.'
+  title: 'Gallery — inflatable pools | {SITE}'
+  description: 'Browse the olagoon gallery: inflatable pools, factory, and production photos from our professional inflatable pool factory.'
   keywords:
-    - 'foto SUP'
-    - 'galleria SUP gonfiabile'
-    - 'immagini paddle board'
-    - 'foto SUP gonfiabili'
+    - 'pool photos'
+    - 'inflatable pools gallery'
+    - 'inflatable pool pictures'
+    - 'inflatable pools photos'
 hero:
-  tagline: Galleria
-  title: Galleria
-  subtitle: Foto dei prodotti, officina della fabbrica e avventure in acqua
+  tagline: Gallery
+  title: Gallery
+  subtitle: Product shots, factory floor, and adventures on the water
+
 albums:
-  - title: Tavole SUP
-    desc: Tavole SUP gonfiabili drop-stitch per touring, surf, yoga e pesca.
+  - title: pools
+    desc: Drop-stitch inflatable pools for families, swim training, and backyard fun.
     images:
-      - https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      - https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
       - https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
       - https://assets.olagoon.com/images/olagoon/hero/olagoon-hero-design-concept.webp
-  - title: Fabbrica e Officina
-    desc: Il nostro stabilimento di produzione di 12.000 m² a Qingdao, in Cina.
+  - title: Factory & Workshop
+    desc: Our 12,000 m² manufacturing facility in Qingdao, China.
     images:
       - https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
       - https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
       - https://assets.olagoon.com/images/olagoon/factory/olagoon-warehouse-storage.webp
       - https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
+
 cta:
-  title: Vuoi vedere di più?
-  desc: Seguici sui social media per le ultime novità sui prodotti, aggiornamenti dalla fabbrica e avventure dei clienti.
+  title: Want to see more?
+  desc: Follow us on social media for the latest product releases, factory updates, and customer adventures.
   instagram: Instagram
   youtube: YouTube

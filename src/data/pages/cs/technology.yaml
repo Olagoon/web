@@ -1,42 +1,44 @@
 meta:
-  title: 'Technologie — drop stitch a námořní PVC | {SITE}'
-  description: 'Technologie olagoona: konstrukce drop stitch, námořní PVC, dvouvrstvé konstrukce a vysoký tlak. Inovace od profesionálního výrobce nafukovacích SUP prken.'
+  title: 'Technology — Drop Stitch & Marine PVC | {SITE}'
+  description: 'olagoon technologies: drop stitch construction, marine PVC, double-layer builds, and high pressure. Innovation from a professional inflatable pools manufacturer.'
   keywords:
-    - 'technologie SUP'
-    - 'konstrukce drop stitch'
-    - 'vysokotlaké SUP'
-    - 'materiály nafukovacích SUP'
+    - 'pool technology'
+    - 'drop stitch construction'
+    - 'high pressure pool'
+    - 'inflatable pools materials'
 hero:
-  tagline: Technologie
-  title: Postaveno pro výkon
-  subtitle: Každé prkno olagoon je navrženo s precizními materiály a výrobními metodami testovanými pro námořní prostředí.
+  tagline: Technology
+  title: Built for Performance
+  subtitle: Every olagoon inflatable pools is engineered with drop-stitch construction and marine-grade PVC — precision materials and manufacturing methods tested for demanding marine environments.
+
 sections:
-  - title: Drop-stitch jádro
-    description: Tisíce vnitřních polyesterových vláken spojují horní a spodní vrstvy a vytvářejí tuhou strukturu při 12-15 PSI. Jedná se o stejnou technologii používanou v profesionálních paddleboardech a nafukovacích závodních SUP.
-    imageAlt: Schéma DS jádra
-  - title: Námořní PVC
-    description: Vícevrstvá laminovaná PVC tkanina dimenzovaná pro námořní prostředí. Každá vrstva je svařena tavením, nikoli lepena, čímž se eliminuje riziko delaminace. Testováno na odolnost proti UV, korozi slanou vodou a oděru.
-    imageAlt: PVC vrstva
-  - title: Vojensky odolné PVC
-    description: Používá se u všech modelů SUP — prémiové PVC poskytuje vynikající odolnost proti UV a chemikáliím. Udržuje flexibilitu v extrémních teplotách a odolává degradaci.
+  - title: Drop-Stitch Core
+    description: Thousands of internal polyester threads connect the top and bottom layers, creating a rigid structure at 12-15 PSI. This is the same technology used in professional inflatable pool and inflatable racing pools.
+    imageAlt: DS Core Diagram
+  - title: Marine-Grade PVC
+    description: Multi-layer laminated PVC fabric rated for marine environments. Each layer is fusion-welded rather than glued, eliminating delamination risks. Tested for UV resistance, saltwater corrosion, and abrasion.
+    imageAlt: PVC Layer
+  - title: Military-Grade PVC
+    description: Used on all pool models, premium PVC provides superior UV and chemical resistance. Maintains flexibility in extreme temperatures and resists degradation.
     imageAlt: PVC
-  - title: Nafukovací podlaha Air Deck
-    description: Vysokotlaká nafukovací konstrukce z drop-stitch poskytující výjimečnou tuhost pro stání, rybaření a jógu. Snižuje dobu přípravy, celkovou hmotnost a objem při skladování.
+  - title: Air Deck Floor
+    description: High-pressure inflatable drop-stitch construction providing exceptional rigidity for standing, fishing, and yoga. Reduces setup time, overall weight, and storage volume.
     imageAlt: Air Deck
+
 related:
-  title: Související
+  title: Related
   links:
-    - text: Výzkumné a vývojové centrum
+    - text: R&D Center
       url: /randdcenter
-    - text: Testování kvality
+    - text: Quality Testing
       url: /quality
-    - text: Bezpečnostní normy
+    - text: Safety Standards
       url: /safety
-    - text: Záruka
+    - text: Warranty
       url: /warranty
-    - text: Cestovní ruch a rekreace
+    - text: Tourism & Recreation
       url: /use-cases/tourism-recreation
-    - text: Průvodci
+    - text: Guides
       url: /guides
-    - text: Produkty
+    - text: Products
       url: /products

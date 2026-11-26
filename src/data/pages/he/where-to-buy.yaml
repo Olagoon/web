@@ -1,24 +1,24 @@
 meta:
-  title: איפה לקנות גלשני פאדל מתנפחים של OLagoon | OLagoon
-  description: גלו כיצד לקנות גלשן פאדל מתנפח של OLagoon — דרך מפיץ רשמי במדינה שלכם או ישירות מצוות OLagoon.
+  title: Where to Buy OLagoon Inflatable Pools | OLagoon
+  description: Find out how to buy an OLagoon inflatable pool — through an official distributor in your country or directly from the OLagoon team. Tell us where you live and we will point you to your nearest dealer.
 hero:
-  tagline: איפה לקנות
-  title: צאו למים עם ה-SUP של OLagoon
-  subtitle: הגלשנים של OLagoon מגיעים לחותרים ביותר מ-50 מדינות. מצאו את הדרך הקלה ביותר להשיג את שלכם — דרך מפיץ רשמי לידכם או ישירות מצוות OLagoon.
+  tagline: Where to Buy
+  title: Get Your OLagoon pool on the Water
+  subtitle: OLagoon pools reach families in 50+ countries. Find the simplest way to get yours — through an official distributor near you or directly from the OLagoon team.
 channels:
   items:
-    - title: מפיצים רשמיים לפי מדינה
-      description: OLagoon עובדת עם מפיצים בלעדיים במדינות רבות. ספרו לנו היכן אתם חותרים ונחבר אתכם למפיץ המקומי שלכם, למחירים ולזמינות.
-      cta: מצאו את המפיץ המקומי שלכם
+    - title: Official Country Distributors
+      description: OLagoon works with exclusive distributors in many countries. Tell us where you live and we will connect you with your local dealer, pricing, and availability.
+      cta: Find Your Local Dealer
       href: /contact/?subject=Where to Buy
-    - title: הזמנה ישירה מ-OLagoon
-      description: אין עדיין מפיץ במדינה שלכם? צוות OLagoon יכול לארגן הזמנות ישירות ומשלוח כדי שתוכלו לצאת למים בכל מקום שבו אתם גרים.
-      cta: בדקו זמינות
+    - title: Order Direct from OLagoon
+      description: No distributor in your country yet? The OLagoon team can arrange direct orders and shipping so you can get on the water wherever you live.
+      cta: Request Availability
       href: /contact/?subject=Where to Buy
 form_intro:
-  title: שאלו על זמינות
-  subtitle: שלחו לנו הודעה עם המדינה שלכם והגלשן שמעניין אתכם. הצוות שלנו ישיב בתוך יום עסקים אחד עם המפיץ הקרוב ביותר או אפשרויות הזמנה ישירה.
+  title: Ask About Availability
+  subtitle: Send us a message with your country and the pool you are interested in. Our team will reply within one business day with your nearest dealer or direct-order options.
 business_note:
-  text: קונים עבור מועדון, אתר נופש או חנות? גלו את תוכניות העסקים והשותפות שלנו.
-  cta: לשותפים עסקיים
+  text: Buying for a club, resort, or store? Explore our business and partnership programs.
+  cta: For Business Partners
   href: /solutions/

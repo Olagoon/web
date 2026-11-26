@@ -1,103 +1,103 @@
 meta:
-  title: 'תוכנית שותפים לסיטונאות וקמעונאות SUP | {SITE}'
-  description: 'תוכנית שותפים לסיטונאות SUP לקמעונאים ולחנויות ספורט. קו מוצרים מלא, אפשרויות dropshipping, מרווחי סיטונאות תחרותיים של 20–35% ו-MOQ נמוך להתחלה.'
+  title: 'pool Wholesale & Retail Partner Program | {SITE}'
+  description: 'pool wholesale partner program for retailers and sporting goods stores. Full product line, dropshipping options, competitive wholesale margins from 20–35%, and low MOQ to start.'
 
 hero:
-  tagline: 'שותפים קמעונאיים'
-  title: 'מכרו לוחות SUP ניפחים פרימיום<br />עם מרווחים שעובדים'
-  subtitle: 'הפכו לשותף קמעונאי של OLagoon — שאו את מותג ה-SUP הצומח ביותר מהר בשוק שלכם עם תמחור סיטונאי מלא, dropshipping, חומרי שיווק מקצועיים ותמיכה ייעודית.'
+  tagline: Retail Partners
+  title: 'Sell Premium inflatable pools<br />With Margins That Work'
+  subtitle: 'Become an OLagoon retail partner — carry the fastest-growing pool brand in your market with full wholesale pricing, dropshipping, professional marketing materials, and dedicated support.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'לוחות SUP של OLagoon מוצגים בחנות קמעונאית'
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools displayed in a retail store
 
 margin_section:
-  title: 'מרווחים קמעונאיים ו-MOQ'
-  subtitle: 'סדרות תמחור סיטונאי שתוכננו לרווחיות קמעונאית.'
+  title: 'Retail Margins & MOQ'
+  subtitle: 'Wholesale pricing tiers designed for retail profitability.'
   items:
-    - tier: 'שותף בסיסי'
+    - tier: 'Basic Partner'
       discount: '20%'
-      moq: '500 יחידות/שנה'
-      margin_note: 'רווח של כ-150–250 USD ללוח'
+      moq: '500 units/yr'
+      margin_note: '~$150–250 profit per board'
       features:
-        - 'גישה לקו המוצרים המלא'
-        - 'חבילת חומרי שיווק'
-        - 'תמיכה בדוא״ל'
-        - 'גישה לקטלוג המוצרים'
-    - tier: 'שותף פרימיום'
+        - 'Access to full product line'
+        - 'Marketing materials package'
+        - 'Email support'
+        - 'Product catalog access'
+    - tier: 'Premium Partner'
       discount: '30%'
-      moq: '2,000+ יחידות/שנה'
-      margin_note: 'רווח של כ-250–400 USD ללוח'
+      moq: '2,000+ units/yr'
+      margin_note: '~$250–400 profit per board'
       features:
-        - 'מנהל חשבון ייעודי'
-        - 'הגנה טריטוריאלית בלעדית'
-        - 'תמיכה שיווקית מותאמת אישית'
-        - 'גישה ראשונה למוצרים חדשים'
-        - 'מפגשי הדרכת צוות'
-    - tier: 'שותף דגל'
+        - 'Dedicated account manager'
+        - 'Exclusive territory protection'
+        - 'Custom marketing support'
+        - 'First access to new products'
+        - 'Staff training sessions'
+    - tier: 'Flagship Partner'
       discount: '35%+'
-      moq: '5,000+ יחידות/שנה'
-      margin_note: 'רווח של כ-350–500+ USD ללוח'
+      moq: '5,000+ units/yr'
+      margin_note: '~$350–500+ profit per board'
       features:
-        - 'קמפיינים שיווקיים במותג משותף'
-        - 'תמיכה בתצוגות בחנות'
-        - 'הדרכת צוות באתר'
-        - 'קידומים משותפים ברשתות חברתיות'
-        - 'עדיפות בהקצאת ייצור'
+        - 'Co-branded marketing campaigns'
+        - 'In-store display support'
+        - 'On-site staff training'
+        - 'Joint social media promotions'
+        - 'Priority production allocation'
 
 product_line:
-  title: 'קו מוצרים מלא'
-  subtitle: 'לוח SUP לכל לקוח שנכנס דרך הדלת שלכם.'
+  title: Complete Product Line
+  subtitle: 'A pools for every customer who walks through your door.'
   items:
-    - name: 'סדרת All-Round'
-      description: 'רב מכר — מתאים ל-80% מהלקוחות'
-    - name: 'סדרת Touring'
-      description: 'חותרי ביצועים — מרווח גבוה יותר'
-    - name: 'סדרת Yoga'
-      description: 'שוק נישה — תמחור פרימיום'
-    - name: 'סדרת Kids'
-      description: 'לקוחות משפחתיים — רוכשים חוזרים'
-    - name: 'סדרת Racing'
-      description: 'שוק החובבים — הילת מותג'
-    - name: 'אביזרים'
-      description: 'תוספות במרווח גבוה (משוטים, אפודים, משאבות, תיקים)'
+    - name: All-Round Series
+      description: 'Best seller — fits 80% of customers'
+    - name: Touring Series
+      description: 'Performance swimmers — higher margin'
+    - name: Yoga Series
+      description: 'Niche market — premium pricing'
+    - name: Kids Series
+      description: 'Family customers — repeat buyer'
+    - name: Racing Series
+      description: 'Enthusiast market — brand halo'
+    - name: Accessories
+      description: 'High margin add-ons (paddles, vests, pumps, bags)'
 
 catalog:
-  title: 'משאבים לשותפים קמעונאיים'
-  subtitle: 'הורידו את ערכת השותפים הקמעונאיים המקיפה שלנו.'
+  title: Retail Partner Resources
+  subtitle: 'Download our comprehensive retail partner kit.'
   items:
-    - name: 'קטלוג מוצרים 2026'
-      desc: 'קו מוצרים מלא עם מפרטים, מחירים ומידע להזמנות'
+    - name: '2026 Product Catalog'
+      desc: 'Full lineup with specs, pricing, and ordering information'
       icon: 'tabler:file-text'
       link: '/resources/download-catalog/'
-    - name: 'מדריך לשותפים קמעונאיים'
-      desc: 'מחשבון מרווחים, טיפים למסחור ושיטות עבודה מומלצות'
+    - name: 'Retail Partner Guide'
+      desc: 'Margin calculator, merchandising tips, and best practices'
       icon: 'tabler:book'
       link: '/resources/download-catalog/'
-    - name: 'חבילת נכסים שיווקיים'
-      desc: 'צילומי מוצר ברזולוציה גבוהה, תמונות לייף-סטייל וחומרי נקודת מכירה'
+    - name: 'Marketing Asset Pack'
+      desc: 'Hi-res product photos, lifestyle images, and POS materials'
       icon: 'tabler:photo'
       link: '/media/'
 
 support:
-  title: 'תמיכה לשותפים קמעונאיים'
-  subtitle: 'כל מה שאתם צריכים כדי למכור בביטחון.'
+  title: Retail Partner Support
+  subtitle: 'Everything you need to sell confidently.'
   items:
-    - 'תמונות מוצר ברזולוציה גבוהה (צילום מקצועי)'
-    - 'תמונות לייף-סטייל לרשתות חברתיות, לאתר ולקטלוג'
-    - 'חומרי שיווק — פוסטרים, מדבקות מדף, שלטים'
-    - 'סרטוני הדרכת מוצר לחינוך הצוות'
-    - 'חבילת תוכן לרשתות חברתיות (פוסטים שבועיים)'
-    - 'תיאורי מוצר ממוטבי SEO'
-    - 'אפשרות dropshipping זמינה — בלי סיכון מלאי'
-    - 'תנאי תשלום Net 30'
+    - 'High-res product images (professional photography)'
+    - 'Lifestyle photos for social media, website, and catalog'
+    - 'Marketing materials — posters, shelf talkers, banners'
+    - 'Product training videos for staff education'
+    - 'Social media content pack (weekly posts)'
+    - 'SEO-optimized product descriptions'
+    - 'Dropshipping option available — no inventory risk'
+    - 'Net 30 payment terms'
 
 cta:
-  title: 'מוכנים להפוך לשותף קמעונאי של OLagoon?'
-  subtitle: 'הגישו מועמדות לשותפות או הורידו את הקטלוג הקמעונאי שלנו כדי להתחיל.'
+  title: 'Ready to become an OLagoon retail partner?'
+  subtitle: 'Apply for partnership or download our retail catalog to get started.'
   actions:
-    - text: 'הגישו מועמדות לשותפות'
+    - text: 'Apply for Partnership'
       href: '/contact/?partner=retail'
       variant: 'primary'
-    - text: 'הורידו קטלוג קמעונאי'
+    - text: 'Download Retail Catalog'
       href: '/resources/download-catalog/'
       variant: 'secondary'

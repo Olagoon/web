@@ -1,108 +1,110 @@
 meta:
-  title: 'Wiedza — poradniki SUP | {SITE}'
-  description: 'Baza wiedzy olagoona: poradniki o nadmuchiwanych deskach SUP, materiałach na paddle boardy, wyborze deski i wiedzy branżowej dla marek i profesjonalistów.'
+  title: 'Knowledge — Pool Guides | {SITE}'
+  description: 'OLagoon knowledge base: guides on drop-stitch pools, pool materials, water care, and industry insights for owners and professionals.'
   keywords:
-    - 'wiedza o SUP'
-    - 'poradnik nadmuchiwany SUP'
-    - 'materiały na paddle boardy'
-    - 'wiedza branżowa SUP'
+    - 'pool knowledge'
+    - 'drop stitch pool guide'
+    - 'inflatable pool materials'
+    - 'pool care insights'
 hero:
-  tagline: Graf wiedzy
-  title: Wiedza o eksploracji wody
+  tagline: 'Knowledge Graph'
+  title: 'Backyard Pool Knowledge'
   subtitle: |
-    Ustrukturyzowana baza wiedzy obejmująca technologię nadmuchiwanych SUP,<br />
-    bezpieczeństwo wodne, inżynierię desek i planowanie przygód.
-  taglineSection: Odkrywaj. Ucz się. Ruszaj z pewnością.
-clusters:
-  tagline: Klastry wiedzy
-  title: Odkrywaj według tematu
-  subtitle: Dogłębne spojrzenie na technologię, bezpieczeństwo i umiejętności stojące za każdym produktem olagoon.
-  items:
-    - title: Wiedza o SUP
-      description: Od wyboru pierwszej deski po zaawansowane techniki turystyczne — wszystko o wiosłowaniu na stojąco.
-      icon: tabler:lifebuoy
-      topics:
-        - Jak wybrać pierwszy nadmuchiwany SUP
-        - Najlepszy rozmiar SUP dla początkujących
-        - Jak trudne jest wiosłowanie na stojąco?
-        - Porównanie nadmuchiwanego i sztywnego SUP
-        - Lista kontrolna bezpieczeństwa SUP
-    - title: Inżynieria i technologia SUP
-      description: Poradniki techniczne dotyczące dmuchanych desk SUP — materiały, metody konstrukcyjne i procesy produkcyjne.
-      icon: tabler:microscope
-      topics:
-        - Dogłębna analiza technologii drop-stitch
-        - Specyfikacje PVC klasy wojskowej
-        - Laminacja fuzyjna vs. klejenie
-        - Technologia pianki EVA i metody grafiki
-        - Typy zaworów SUP i systemy płetw
+    A structured knowledge base covering drop-stitch pool technology,<br />
+    water safety, materials engineering, and seasonal pool care.
+  taglineSection: 'Explore. Learn. Swim with confidence.'
 
-    - title: Wiedza o bezpieczeństwie
-      description: Niezbędna wiedza o bezpieczeństwie dla każdego wioślarza — od wyboru kamizelki ratunkowej po odczytywanie pogody i techniki samoratownicze.
-      icon: tabler:shield
-      topics:
-        - Lista kontrolna bezpieczeństwa SUP
-        - Czy potrzebujesz kamizelki ratunkowej?
-        - Przewodnik bezpieczeństwa wiosłowania oceanicznego
-        - Techniki naprawy produktów nadmuchiwanych
-        - Świadomość pogody i warunków wodnych
-    - title: Technologia
-      description: Inżynieria stojąca za produktami olagoon — materiały, metody konstrukcyjne i testowanie jakości.
-      icon: tabler:microscope
-      topics:
-        - Technologia PVC klasy morskiej
-        - Wyjaśnienie rdzenia drop-stitch
-        - Dlaczego PSI ma znaczenie dla nadmuchiwanych SUP
-        - Zgrzewanie RF vs łączenie klejowe
-        - Testowanie jakości i certyfikacja
-    - title: Styl życia SUP i zastosowania specjalne
-      description: Specjalistyczne aktywności na SUP — joga, wędkarstwo, psy, rodziny i porady dotyczące podróży.
-      icon: tabler:heart
-      topics:
-        - Joga SUP i medytacja na wodzie
-        - Łowienie ryb z dmuchanego SUP
-        - Pływanie na desce z psami i dziećmi
-        - Podróżowanie z twoim SUP samolotem i samochodem
-        - Nieodłączne akcesoria i wyposażenie do SUP
-    - title: Porównania i odniesienia SUP
-      description: Porównania obok siebie, które pomogą Ci podejmować świadome decyzje.
-      icon: tabler:chart-bar
-      topics:
-        - SUP kontra kajak — który jest dla Ciebie odpowiedni?
-        - Wyjaśnienie klas materiałów PVC
-        - Bezpieczeństwo jednoprzegrodowe vs wieloprzedziałowe
-        - Wyjaśnienie materiałów do desek SUP
-        - Druk UV kontra grafika na bloku EVA
-featured_guides:
-  tagline: Polecane przewodniki
-  title: Najpopularniejsze zasoby wiedzy
+clusters:
+  tagline: 'Knowledge Clusters'
+  title: 'Explore by topic'
+  subtitle: 'Deep dives into the technology, safety, and care behind every OLagoon product.'
   items:
-    - title: Podstawy SUP
-      href: /learn/water-safety/
-    - title: Nadmuchiwany vs sztywny SUP
-      href: /compare/technology/
-    - title: Przewodnik bezpieczeństwa wodnego
-      href: /learn/water-safety/
-    - title: Referencje materiałowe
-      href: /learn/materials/
-    - title: Przewodnik rozmiarów SUP
-      href: /size-guide/
-    - title: Przewodnik po rozmiarach SUP
-      href: /guides/sup-size-guide/
-    - title: Centrum Technologii SUP
-      href: /research/
-    - title: Konserwacja SUP
-      href: /technology/
-    - title: Przewodnik turystyczny
-      href: /guides/sup-for-touring/
-    - title: Techniki wiosłowania
-      href: /technology/
+    - title: 'Pool Buying Guides'
+      description: 'From choosing your first pool to comparing sizes — everything about drop-stitch pools.'
+      icon: 'tabler:lifebuoy'
+      topics:
+        - 'How to choose your first drop-stitch pool'
+        - 'Pool size and capacity guide'
+        - 'Compact Plunge vs Family Oasis vs Grand Lagoon'
+        - 'Common pool buying mistakes to avoid'
+        - 'Inflatable vs rigid pool comparison'
+    - title: 'Pool Engineering & Technology'
+      description: 'Technical guides on drop-stitch pools — materials, construction methods, and manufacturing processes.'
+      icon: 'tabler:microscope'
+      topics:
+        - 'Drop-stitch technology deep dive'
+        - 'Marine-grade PVC specifications'
+        - 'Fusion lamination vs adhesive bonding'
+        - 'Reinforced rail and seam engineering'
+        - 'Pool valve types and pressure ratings'
+    - title: 'Pool Safety & Maintenance'
+      description: 'Essential safety knowledge for every pool owner — from supervision rules to water care and repair.'
+      icon: 'tabler:shield'
+      topics:
+        - 'Pool safety checklist and supervision rules'
+        - 'Water care and sanitation basics'
+        - 'Pool inflation PSI guide (10–15 PSI)'
+        - 'Pool storage and winter care'
+        - 'PVC repair techniques'
+    - title: 'Pool Setup & Water Care'
+      description: 'Setup routines, filtration schedules, and water chemistry for a season of clear water.'
+      icon: 'tabler:droplet'
+      topics:
+        - 'First setup: unbox to swim in 30 minutes'
+        - 'Sand filter pump operation and backwashing'
+        - 'Water testing and chemical balance'
+        - 'Algae prevention and troubleshooting'
+        - 'Thermal covers and heat retention'
+    - title: 'Pool Lifestyle & Family'
+      description: 'Getting the most from your pool — family fun, exercise, pets, and entertaining.'
+      icon: 'tabler:heart'
+      topics:
+        - 'Pool games and activities for kids'
+        - 'Water exercise and low-impact fitness'
+        - 'Pool time with dogs and pets'
+        - 'Moving your pool: storage between homes'
+        - 'Pool accessories and gear essentials'
+    - title: 'Pool Comparisons & References'
+      description: 'Side-by-side comparisons to help you make informed decisions.'
+      icon: 'tabler:chart-bar'
+      topics:
+        - 'Inflatable pool vs rigid pool — which is right for you?'
+        - 'PVC material grades explained'
+        - 'Single chamber vs multi-chamber construction'
+        - 'Pool wall heights explained (20 cm standard)'
+        - 'Digital printing vs in-mold graphics'
+
+featured_guides:
+  tagline: 'Featured Guides'
+  title: 'Most popular knowledge resources'
+  items:
+    - title: 'Pool Setup Guide'
+      href: '/guides/pool-setup-guide/'
+    - title: 'Inflatable vs Rigid Pools'
+      href: '/compare/inflatable-vs-hardboard/'
+    - title: 'Water Safety Guide'
+      href: '/learn/water-safety/'
+    - title: 'Materials Reference'
+      href: '/learn/materials/'
+    - title: 'Pool Buying Guide'
+      href: '/guides/choosing-a-drop-stitch-pool/'
+    - title: 'Pool Filtration Guide'
+      href: '/guides/pool-filtration-guide/'
+    - title: 'Pool Tech Center'
+      href: '/research/'
+    - title: 'Pool Water Care'
+      href: '/guides/pool-water-care/'
+    - title: 'Winter Storage Guide'
+      href: '/guides/pool-winter-storage/'
+    - title: 'Site Preparation Guide'
+      href: '/guides/pool-site-preparation/'
+
 cta:
-  title: Rozpocznij odkrywanie
-  subtitle: Zanurz się w naszej bazie wiedzy i zdobądź informacje potrzebne do następnej wodnej przygody.
+  title: 'Start exploring'
+  subtitle: 'Dive into our knowledge base and get the information you need for your backyard pool.'
   actions:
     - variant: primary
-      text: Przeglądaj wszystkie przewodniki
-      href: /academy/
-    - text: Odkryj graf wiedzy
-      href: /knowledge/
+      text: 'Browse all guides'
+      href: '/academy/'
+    - text: 'Explore Knowledge Graph'
+      href: '/knowledge/'

@@ -1,181 +1,175 @@
 meta:
-  title: 'אקדמיה — מדריכי SUP ואימוני חתירה | {SITE}'
-  description: 'אקדמיית olagoon: מדריכים לגלשני פאדל מתנפחים, טכניקות חתירה בעמידה, בטיחות ימית וידע בתחום החומרים למתחילים ולמקצוענים.'
+  title: 'Academy — Pool Care Guides & Learning Center | {SITE}'
+  description: 'OLagoon Academy: drop-stitch pool guides, setup tutorials, water care, safety essentials, and materials knowledge for pool owners and professionals.'
   keywords:
-    - 'למידת חתירה בעמידה'
-    - 'מדריך SUP למתחילים'
-    - 'יסודות גלשן הפאדל'
-    - 'טכניקת SUP'
-    - 'שיעורי SUP'
+    - 'drop stitch pool guide'
+    - 'inflatable pool setup'
+    - 'pool water care'
+    - 'pool safety essentials'
+    - 'pool maintenance'
 hero:
-  tagline: 'אקדמיית olagoon'
-  title: 'מרכז למידה'
-  subtitle: 'מדריכים והדרכות לכל רמת מיומנות — מיסודות ה-SUP ועד טכניקות חילוץ מתקדמות'
+  tagline: OLagoon Academy
+  title: Learning Center
+  subtitle: Guides and tutorials for every pool owner — from first setup to water care, safety, and seasonal maintenance
 
 categories:
-  - level: 'מתחילים'
+  - level: Getting Started
     color: from-green-500 to-emerald-600
     badge: bg-green-100 text-green-700
     guides:
-      - title: 'יסודות ה-SUP'
-        desc: 'למדו את היסודות של חתירה בעמידה — עמידה, טכניקת חתירה ואיזון.'
-        slug: beginner-sup-guide
-      - title: 'טכניקות חתירה'
-        desc: 'חתירה קדימה, חתירה סיבובית, חתירת משיכה ותמיכה נמוכה — שלטו בתנועות המשוט החיוניות.'
-        slug: sup-paddle-guide
-      - title: 'בטיחות קודם הכול'
-        desc: 'נהלי בטיחות חיוניים לרבות בדיקות מזג אוויר, שימוש באפודת הצלה, כללי רצועה והצלה עצמית.'
-        slug: sup-safety-guide
-  - level: 'ביניים'
+      - title: Choosing Your Pool
+        desc: Size, capacity, and placement — how to pick the right drop-stitch pool for your backyard and family.
+        slug: choosing-a-drop-stitch-pool
+      - title: First Setup
+        desc: Unbox, inflate, fill, and swim — a complete walkthrough of your first pool setup in under 30 minutes.
+        slug: pool-setup-guide
+      - title: Pool Safety Essentials
+        desc: Supervision rules, entry and exit practice, barrier placement, and everyday water safety habits.
+        slug: pool-safety-essentials
+  - level: Water Care
     color: from-blue-500 to-indigo-600
     badge: bg-blue-100 text-blue-700
     guides:
-      - title: 'עקרונות טיולים'
-        desc: 'תכנון חתירות של מספר שעות — ניווט, הידרציה, קצב וקריאת תחזיות רוח.'
-        slug: touring-sup-guide
-      - title: 'קריאת מזג אוויר'
-        desc: 'פענחו תחזיות ימיות, זהו דפוסי עננות והבינו את השפעות הרוח על המים.'
-        slug: weather-planning-water-sports
-      - title: 'יסודות ניווט'
-        desc: 'קריאת מפות ימיות, שימוש במצפן, נקודות ציון GPS ותכנון מסלולים לחתירה לאורך החוף.'
-        slug: sup-navigation-guide
-      - title: 'מודעות לגאות ושפל'
-        desc: 'הבנת מחזורי גאות ושפל, זרמים, והשפעתם על תזמון ההשקה ובחירת המסלול.'
-        slug: understanding-tides
-  - level: 'מתקדמים'
+      - title: Water Care Basics
+        desc: Filtration schedules, sanitizer levels, and testing routines for clear, healthy pool water all season.
+        slug: pool-water-care
+      - title: Filtration & Circulation
+        desc: How your sand filter pump works, when to backwash, and how to keep water circulating efficiently.
+        slug: pool-water-care
+      - title: Preventing Algae & Cloudiness
+        desc: Troubleshooting green or cloudy water — causes, quick fixes, and prevention routines.
+        slug: pool-water-care
+  - level: Technology
     color: from-purple-500 to-violet-600
     badge: bg-purple-100 text-purple-700
     guides:
-      - title: 'תכנון טיולים רב-יומיים'
-        desc: 'לוגיסטיקת משלחת — בחירת ציוד, תכנון מזון, נהלי בטיחות ואנשי קשר לשעת חירום.'
-        slug: sup-travel-guide
-      - title: 'טכניקות חילוץ'
-        desc: 'הצלה עצמית, חילוץ ב-T ונהלי גרירה למים פתוחים.'
-        slug: sup-self-rescue
-      - title: 'חתירה לילית'
-        desc: 'ניווט לאחר חשיכה — דרישות תאורה, זיכרון מסלול, תקשורת קבוצתית ומודעות למפגעים.'
-        slug: ocean-safety-basics
-  - level: 'תחזוקה'
+      - title: Drop-Stitch Engineering
+        desc: How thousands of internal threads turn flexible PVC into a rigid, high-pressure pool structure.
+        slug: drop-stitch-pool-engineering
+      - title: Inflatable vs Rigid Pools
+        desc: Cost, setup, storage, durability, and feel — a complete comparison for backyard buyers.
+        slug: inflatable-pool-vs-rigid-pool
+      - title: Materials Deep Dive
+        desc: PVC layers, UV stabilizers, and reinforced rails — what makes a drop-stitch pool last a decade.
+        slug: drop-stitch-pool-engineering
+  - level: Maintenance
     color: from-amber-500 to-orange-600
     badge: bg-amber-100 text-amber-700
     guides:
-      - title: 'ניקוי וטיפול'
-        desc: 'שטיפה במים מתוקים, הגנה מפני UV, מניעת עובש וטכניקות ייבוש נכונות לאחר כל ישיבה על המים.'
-        slug: inflatable-sup-maintenance
-      - title: 'מדריך אחסון'
-        desc: 'שיטות מומלצות לאחסון לוחות SUP מתנפחים — בריקון אוויר, קיפול, בקרת טמפרטורה וחיי מדף.'
-        slug: inflatable-sup-storage
-      - title: 'יסודות התיקון'
-        desc: 'תקנו נקבים קטנים, דליפות תפרים ובעיות שסתום בעזרת ערכות תיקון PVC וטכניקות טלאה.'
-        slug: inflatable-sup-repair
-      - title: 'תחזוקת שסתומים'
-        desc: 'זהו סוגי שסתומים (Halkey-Roberts, Boston, Leafield), נקו לכלוך והחליפו גבעולים פגומים.'
-        slug: sup-pump-guide
+      - title: Cleaning & Care
+        desc: Surface cleaning, UV protection, seam inspection, and proper drying before every storage.
+        slug: pool-setup-guide
+      - title: Winter Storage
+        desc: Drain, clean, dry, fold — best practices for storing your pool through the off-season.
+        slug: pool-winter-storage
+      - title: Repairs & Patches
+        desc: Fix small punctures and seam issues with the included PVC repair kit — step by step.
+        slug: pool-setup-guide
 
-knowledge_center_tagline: 'מרכז הידע'
-knowledge_center_title: 'מדריכי ציוד ימי וענף'
-knowledge_center_subtitle: 'ידע מקצועי ומדריכי קנייה לאנשי מקצוע ימיים, מפעילי ציים וחובבי ספורט מים.'
+knowledge_center_tagline: 'Knowledge Center'
+knowledge_center_title: 'Pool Ownership & Industry Guides'
+knowledge_center_subtitle: 'Expert knowledge and buying guides for pool owners, facilities operators, and retail partners.'
 
 knowledge_sections:
-  - title: 'ידע על לוחות SUP'
-    tagline: 'מדריכי חתירה בעמידה'
-    desc: 'הכול על לוחות SUP — עיצוב הלוח, חומרים, בחירת גודל, תחזוקה וייעוץ קנייה לשימוש פרטי ומסחרי.'
+  - title: 'Buying Knowledge'
+    tagline: 'Drop-Stitch Pool Guides'
+    desc: 'Everything about drop-stitch pools — sizing, materials, construction, and buying advice for families and commercial buyers.'
     guides:
-      - title: 'כיצד לבחור את לוח ה-SUP המתאים'
-        desc: 'מדריך מלא לבחירת SUP — גודל, נפח, חומר, צורה ושימוש מיועד.'
-        href: '/learn/water-safety/'
-      - title: 'SUP מתנפח מול קשיח'
-        desc: 'SUP מתנפח מול לוח אפוקסי קשיח — ניידות, עמידות, ביצועים ותמורה בהשוואה.'
-        href: '/compare/technology/'
-      - title: 'רב-שימושי מול טיולים מול יוגה SUP'
-        desc: 'סוגי לוחות SUP שונים — תקני בנייה, צורות, גדלים ושימושים מומלצים.'
-        href: '/learn/water-safety/'
-      - title: 'בניית Drop-Stitch מול בנייה מסורתית'
-        desc: 'השוו בניית Drop-Stitch ובנייה מסורתית עבור לוחות SUP במשקל, בעלות, בעמידות ובקשיחות.'
-        href: '/learn/drop-stitch-core/'
-  - title: 'מדריך SUP מתנפח'
-    tagline: 'ידע על SUP מתנפח'
-    desc: 'מדריכים מקיפים על SUP מתנפח — חומרי PVC, מבנה Drop-Stitch, תקני בטיחות ושיטות תחזוקה מומלצות.'
+      - title: 'How to Choose the Right Pool'
+        desc: 'Complete guide to selecting a drop-stitch pool — size, capacity, material, and intended use.'
+        href: '/v2/choosing-a-drop-stitch-pool/'
+      - title: 'Inflatable vs Rigid Pool'
+        desc: 'Inflatable vs rigid pools — cost, setup, storage, durability, and value compared.'
+        href: '/v2/inflatable-pool-vs-rigid-pool/'
+      - title: 'Compact Plunge vs Family vs Grand Lagoon'
+        desc: 'The three OLagoon pool sizes compared — footprint, capacity, and ideal backyard.'
+        href: '/products/'
+      - title: 'Drop-Stitch vs Traditional Construction'
+        desc: 'Why drop-stitch cores beat vinyl-tube and frame-pool construction in rigidity and lifespan.'
+        href: '/v2/drop-stitch-pool-engineering/'
+  - title: 'Setup & Care Guide'
+    tagline: 'Pool Ownership Knowledge'
+    desc: 'Comprehensive guides on inflatable pool setup, water care, filtration, and maintenance best practices.'
     guides:
-      - title: 'מדריך חומרי PVC'
-        desc: 'המדריך המקיף לחומרי PVC המשמשים בבניית לוחות SUP מתנפחים.'
+      - title: 'PVC Material Guide'
+        desc: 'The PVC materials used in OLagoon pool construction — layers, coatings, and UV resistance.'
         href: '/learn/materials/'
-      - title: 'כיצד מיוצרים SUP מתנפחים'
-        desc: 'תהליך הייצור — חיתוך חומרים, חיבור ליבת Drop-Stitch, בניית תפרים, בדיקות לחץ ובקרת איכות.'
+      - title: 'How Pools Are Made'
+        desc: 'Manufacturing process — material cutting, drop-stitch bonding, seam welding, pressure testing, and quality control.'
         href: '/learn/inflatable-technology/'
-      - title: 'מדריך בטיחות SUP'
-        desc: 'תקני בטיחות, כושר נשיאה, ניפוח נכון, בדיקות לפני יציאה ונהלי חירום.'
+      - title: 'Water Safety Guide'
+        desc: 'Safety standards, capacity limits, supervision rules, and emergency procedures.'
         href: '/learn/water-safety/'
-      - title: 'תחזוקת SUP'
-        desc: 'ניקוי, אחסון, הגנה מפני UV ותיקון של לוחות SUP מתנפחים.'
-        href: '/v2/inflatable-sup-maintenance/'
-  - title: 'ידע על לוחות SUP'
-    tagline: 'מרכז לוחות SUP'
-    desc: 'מדריכים טכניים העוסקים בסוגי לוחות SUP, חומרים, שיטות בנייה, תחזוקה ובטיחות.'
+      - title: 'Seasonal Maintenance'
+        desc: 'Cleaning, water care, and protection routines for a season-long clear pool.'
+        href: '/v2/pool-water-care/'
+  - title: 'Engineering Knowledge'
+    tagline: 'Technology Hub'
+    desc: 'Technical guides covering pool construction, materials, pressure ratings, and structural testing.'
     guides:
-      - title: 'סוגי לוחות SUP'
-        desc: 'רב-שימושי, טיולים, יוגה, ספורט ו-SUP לילדים — הכירו את ההבדלים ובחרו את המתאים.'
-        href: '/learn/water-safety/'
-      - title: 'טכנולוגיית Drop-Stitch'
-        desc: 'כיצד אלפי חוטים פנימיים יוצרים מבנים מתנפחים קשיחים בלחץ גבוה.'
+      - title: 'Pool Types Explained'
+        desc: 'Plunge pools, family pools, swim lounges, and custom shapes — learn the differences.'
+        href: '/products/'
+      - title: 'Drop-Stitch Technology'
+        desc: 'How thousands of internal threads create rigid, high-pressure inflatable structures.'
         href: '/learn/drop-stitch-core/'
-      - title: 'מדריך חומרים'
-        desc: 'דירוגי דניר של PVC, משקלי בדים, עמידות ל-UV וחומרים בדרגה ימית — מוסברים.'
+      - title: 'Materials Reference'
+        desc: 'PVC denier ratings, fabric weights, UV resistance, and marine-grade materials explained.'
         href: '/learn/materials/'
-      - title: 'מדריך קניית SUP'
-        desc: 'השוו סוגי לוחות SUP שונים עבור מקרי שימוש ורמות מיומנות שונים.'
-        href: '/learn/water-safety/'
-  - title: 'ידע על SUP'
-    tagline: 'מדריכי חתירה בעמידה'
-    desc: 'הכול על לוחות SUP — מתנפח מול קשיח, ממדי לוח, טכנולוגיית חומרים וייעוץ מומחים לכל הרמות.'
+      - title: 'Pressure & Rigidity'
+        desc: 'Why 10–15 PSI operating pressure keeps 20 cm walls rock-solid under full load.'
+        href: '/learn/inflatable-technology/'
+  - title: 'Safety Knowledge'
+    tagline: 'Water Safety Guides'
+    desc: 'Everything about pool safety — supervision, barriers, first aid, and safe play for all ages.'
     guides:
-      - title: 'SUP מתנפח מול קשיח'
-        desc: 'השוו iSUP ולוחות אפוקסי קשיחים בניידות, בעמידות, בביצועים ובתמורה.'
-        href: '/learn/water-safety/'
-      - title: 'מדריך ממדי לוח SUP'
-        desc: 'כיצד אורך, רוחב ועובי משפיעים על יציבות, מהירות ויכולת תמרון.'
-        href: '/learn/water-safety/'
-      - title: 'תחזוקה וטיפול ב-SUP'
-        desc: 'ניקוי, אחסון, הגנה מפני UV וטיפים לתיקון לוחות SUP מתנפחים.'
-        href: '/v2/inflatable-sup-maintenance/'
-      - title: 'בחירת ה-SUP הראשון שלכם'
-        desc: 'מדריך למתחילים לבחירת גלשן החתירה בעמידה המתאים למשקל, לרמת המיומנות ולשימוש המיועד שלכם.'
-        href: '/learn/water-safety/'
-  - title: 'מדריך הפעלת השכרה'
-    tagline: 'ניהול ציים לעסקי השכרה'
-    desc: 'מדריכים על בנייה וניהול של ציי השכרת SUP עבור קיוסקים בחוף, מרכזי ספורט מים ונכסי הארחה.'
+      - title: 'Inflatable vs Rigid Pool Safety'
+        desc: 'Safety trade-offs between inflatable and rigid pools — surfaces, edges, and depth.'
+        href: '/v2/inflatable-pool-vs-rigid-pool/'
+      - title: 'Dimensions & Capacity Guide'
+        desc: 'How length, width, and wall height affect capacity, stability, and safe occupancy.'
+        href: '/products/'
+      - title: 'Safe Setup & Placement'
+        desc: 'Ground preparation, drainage, and placement rules for a safe pool area.'
+        href: '/v2/pool-setup-guide/'
+      - title: 'Choosing Your First Pool'
+        desc: "Beginner's guide to selecting the right drop-stitch pool for your space, budget, and family."
+        href: '/v2/choosing-a-drop-stitch-pool/'
+  - title: 'Rental & Programs Guide'
+    tagline: 'Fleet Management for Rental Businesses'
+    desc: 'Guides on running pool rental and community pool programs for holiday parks, camps, and activity centers.'
     guides:
-      - title: 'בניית צי ההשכרה שלכם'
-        desc: 'כיצד לבחור את לוחות ה-SUP המתאימים לפעילות ההשכרה שלכם — עמידות, מידות ושיקולי החזר השקעה.'
+      - title: 'Building Your Rental Fleet'
+        desc: 'How to choose pools for a rental operation — durability, sizing, and ROI considerations.'
         href: '/solutions/rental-operators/'
-      - title: 'מדריך תחזוקת צי'
-        desc: 'שיטות תחזוקה חיוניות להארכת חיי הלוחות ולמזעור זמן השבתה בציי השכרה.'
+      - title: 'Fleet Maintenance Guide'
+        desc: 'Essential maintenance practices to maximize pool lifespan and minimize downtime across a fleet.'
         href: '/solutions/rental-operators/'
-  - title: 'מדריך נופש והארחה'
-    tagline: 'פעילויות מים לענף ההארחה'
-    desc: 'מדריכים על השקה וניהול של תוכניות SUP עבור אתרי נופש, מלונות ויעדים לחופי מים.'
+  - title: 'Resort & Hospitality Guide'
+    tagline: 'Pools for Hospitality'
+    desc: 'Guides on adding drop-stitch pool programs for resorts, hotels, and vacation properties.'
     guides:
-      - title: 'התחלת תוכנית SUP באתר נופש'
-        desc: 'גורמים שיש לשקול בעת השקת פעילויות SUP לאורחים — גודל צי, כוח אדם ומודל הכנסות.'
+      - title: 'Starting a Resort Pool Program'
+        desc: 'Factors to consider when adding guest pools — sizing, placement, staffing, and revenue modeling.'
         href: '/solutions/resorts-hotels/'
-      - title: 'SUP מול פעילויות מים אחרות'
-        desc: 'השוו תוכניות SUP מול ענפי ספורט מים אחרים מבחינת חוויית האורח והיעילות התפעולית.'
-        href: '/learn/water-safety/'
-  - title: 'מדריך קמעונאות והפצה'
-    tagline: 'שותפויות עסקיות בתחום ה-SUP'
-    desc: 'מדריכים על הפיכה לשותף קמעונאי או מפיץ SUP — תכנון מלאי, מיצוב בשוק ואסטרטגיות צמיחה.'
+      - title: 'Pools vs Built-In Facilities'
+        desc: 'How drop-stitch pools complement built-in facilities for guest experience and flexibility.'
+        href: '/learn/safety-in-water-sports/'
+  - title: 'Retail & Distribution Guide'
+    tagline: 'Pool Business Partnerships'
+    desc: 'Guides on becoming an OLagoon retail partner or distributor — inventory planning, market positioning, and growth strategies.'
     guides:
-      - title: 'הפיכה לקמעונאי SUP'
-        desc: 'כיצד לבחור קווי מוצר, לנהל מלאי ולשווק לוחות SUP בחנות הקמעונאית שלכם.'
+      - title: 'Becoming a Pool Retailer'
+        desc: 'How to choose product lines, manage inventory, and market pools in your retail store.'
         href: '/solutions/retail-partners/'
-      - title: 'SUP לפעילויות מסחריות'
-        desc: 'מדוע SUP מתנפחים הם מוצר רב-שימושי לציים מסחריים, לעסקי השכרה ולמפעילים מקצועיים.'
+      - title: 'Pools for Commercial Operations'
+        desc: 'Why drop-stitch pools are a versatile product for camps, community centers, and professional operators.'
         href: '/solutions/rental-operators/'
 
-read_guide: 'קראו את המדריך →'
+read_guide: Read guide →
 
 cta:
-  title: 'לא בטוחים מאיפה להתחיל?'
-  desc: 'השיבו על שאלון הערכת המיומנות שלנו כדי למצוא את המדריכים והציוד המתאימים לרמה שלכם.'
-  label: 'צרו עמנו קשר →'
+  title: Not sure where to start?
+  desc: Contact our team and we will help you pick the right pool and accessories for your backyard.
+  label: Contact us →
   link: /contact/

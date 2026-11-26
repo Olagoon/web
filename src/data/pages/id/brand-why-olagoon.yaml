@@ -1,72 +1,72 @@
 meta:
-  title: 'Mengapa olagoon — 7 Alasan Merek Global Memilih Kami | {SITE}'
-  description: 'Mengapa merek global memilih olagoon: sertifikasi CE dan ISO, MOQ fleksibel, cetakan kustom, dan waktu tunggu 30 hari dari pabrik SUP tiup profesional.'
+  title: 'Why olagoon — 7 Reasons Global Brands Choose Us | {SITE}'
+  description: 'Why global brands choose olagoon: CE and ISO certifications, flexible MOQ, custom molds, and 30-day lead times from a professional inflatable pools factory.'
   keywords:
-    - 'mengapa memilih olagoon'
-    - 'produsen sup tiup'
-    - 'pabrik sup tiongkok'
-    - 'pemasok papan dayung tiup'
+    - 'why choose olagoon'
+    - 'inflatable pools manufacturer'
+    - 'pool factory china'
+    - 'inflatable pool supplier'
 hero:
-  tagline: 'Mengapa olagoon'
-  title: 'Tujuh Alasan Merek Global<br />Memilih olagoon'
-  subtitle: 'Tidak semua produsen diciptakan setara. Inilah yang membuat olagoon menjadi mitra pilihan bagi distributor, merek, dan operator di seluruh dunia.'
+  tagline: Why olagoon
+  title: 'Seven Reasons Why Global Brands<br />Choose olagoon'
+  subtitle: 'Not all manufacturers are created equal. Here is what makes olagoon the preferred partner for distributors, brands, and operators worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: 'kualitas dan keahlian manufaktur olagoon'
+    alt: olagoon manufacturing quality and expertise
 stats:
-  title: 'Kepercayaan dalam Angka'
+  title: Trust in Numbers
   stats:
-    - title: 'Tahun Beroperasi'
-      amount: 'Sejak 2012'
-    - title: 'Papan Dibangun'
-      amount: '15.000+'
-    - title: 'Pelanggan Berulang'
+    - title: Years in Business
+      amount: Since 2012
+    - title: Pools Built
+      amount: 15,000+
+    - title: Repeat Customers
       amount: '85%'
-    - title: 'Klaim Garansi'
+    - title: Warranty Claims
       amount: '<2%'
 features3_reasons:
-  tagline: 'Mengapa Memilih olagoon'
-  title: 'Tujuh Alasan Bermitra Dengan Kami'
+  tagline: Why Choose olagoon
+  title: 'Seven Reasons to Partner With Us'
   isBeforeContent: false
   columns: 3
   items:
-    - title: '1. Manufaktur Nyata, Bukan Perdagangan'
-      description: 'Kami memiliki dan mengoperasikan pabrik seluas 12.000 m². Saat Anda bermitra dengan olagoon, Anda bekerja langsung dengan orang-orang yang merancang, merekayasa, dan membangun produk Anda — tanpa perantara.'
+    - title: '1. Real Manufacturing, Not Trading'
+      description: 'We own and operate a 12,000 m² factory. When you partner with olagoon, you work directly with the people who design, engineer, and build your products — no middlemen.'
       icon: tabler:building-factory
-    - title: '2. Pendekatan Berbasis Rekayasa'
-      description: 'Proses desain kami dimulai dari kasus penggunaan, bukan kategori produk. Kami mengoptimalkan bentuk lambung, pemilihan material, dan konfigurasi berdasarkan bagaimana papan akan benar-benar digunakan.'
+    - title: '2. Engineering-Led Approach'
+      description: 'Our design process starts with the use case, not the product category. We optimize wall structure, material selection, and configuration for how the pool will actually be used.'
       icon: tabler:engine
-    - title: '3. Kualitas Bersertifikat'
-      description: 'Bersertifikat CE, sistem mutu ISO, patuh BSCI, patuh REACH, disetujui USCG. Setiap produk memenuhi standar internasional — bukan sekadar klaim.'
+    - title: '3. Certified Quality'
+      description: 'CE certified, ISO quality system, BSCI compliant, REACH compliant, USCG approved. Every product meets international standards — not just claims.'
       icon: tabler:certificate
-    - title: '4. Ko-Branding Fleksibel'
-      description: 'Warna rail, tata letak deck, pencitraan merek, pengemasan — kami kustomisasi sesuai spesifikasi Anda. Tanpa tekanan pesanan minimum. Mulai dengan prototipe, kembangkan dengan keyakinan.'
+    - title: '4. Flexible Co-Branding'
+      description: 'Rail colors, deck layout, branding, packaging — we customize to your specifications. No minimum order pressure. Start with a prototype, scale with confidence.'
       icon: tabler:adjustments
-    - title: '5. Logistik Global'
-      description: 'Gudang AS di California, pengiriman langsung dari Qingdao, kargo udara untuk pesanan mendesak. Kami menangani dokumen kepabeanan dan dokumentasi.'
+    - title: '5. Global Logistics'
+      description: 'US warehouse in California, direct shipping from Qingdao, air freight for urgent orders. We handle customs paperwork and documentation.'
       icon: tabler:truck-delivery
-    - title: '6. Dukungan Seumur Hidup'
-      description: 'Kami mendukung papan yang kami bangun 20 tahun lalu. Suku cadang asli, saran teknis, panduan perbaikan — tim kami siap saat Anda membutuhkan.'
+    - title: '6. Lifetime Support'
+      description: 'We support every pool generation we have built. Genuine spare parts, technical advice, repair guidance — our team is available when you need us.'
       icon: tabler:lifebuoy
-    - title: '7. Spesifikasi Jujur'
-      description: 'Rating beban nyata, dimensi nyata, berat nyata. Tanpa pembesaran pemasaran. Apa yang kami publikasikan adalah yang Anda dapatkan — diverifikasi oleh pengujian independen.'
+    - title: '7. Honest Specifications'
+      description: 'Real load ratings, real dimensions, real weight. No marketing inflation. What we publish is what you get — verified by independent testing.'
       icon: tabler:ruler-measure
 testimonials:
-  tagline: 'Dipercaya Merek di Seluruh Dunia'
-  title: 'Apa Kata Mitra Kami'
+  tagline: Trusted by Brands Worldwide
+  title: What Our Partners Say
   items:
-    - content: 'Kami telah bekerja dengan beberapa produsen di Tiongkok, tetapi olagoon menonjol karena dukungan rekayasa dan kualitas konsisten mereka. Mereka memperlakukan merek kami seperti milik mereka sendiri.'
-      name: '— Mitra Ko-Brand, Merek Olahraga Air Eropa'
-    - content: 'Papan SUP mereka telah bertugas di armada kami selama lebih dari 5 tahun. Perawatan minimal, ketahanan UV sangat baik. Garansi 5 tahun memberi kami keyakinan.'
-      name: '— Operator Armada, Grup Resor Timur Tengah'
-    - content: 'Tim olagoon membantu kami mengembangkan desain papan SUP kustom dari konsep hingga produksi dalam 90 hari. Kualitasnya melampaui ekspektasi kami.'
-      name: '— Distributor, Olahraga Air Australia'
+    - content: 'We have worked with several manufacturers in China, but olagoon stands out for their engineering support and consistent quality. They treat our brand as their own.'
+      name: '— Co-Brand Partner, European Water Sports Brand'
+    - content: 'Their pools have been in service with our fleet for over 5 years. Minimal maintenance, excellent UV resistance. The 5-year warranty gives us confidence.'
+      name: '— Fleet Operator, Middle East Resort Group'
+    - content: 'The olagoon team helped us develop a custom pools design from concept to production in 90 days. The quality exceeded our expectations.'
+      name: '— Distributor, Australian Watersports'
 cta:
-  title: 'Siap merasakan bedanya?'
-  subtitle: 'Hubungi tim kami untuk membahas proyek Anda. Tanpa komitmen — hanya saran jujur tentang manufaktur.'
+  title: 'Ready to experience the difference?'
+  subtitle: 'Contact our team to discuss your project. No commitment required — just honest advice about manufacturing.'
   actions:
     - variant: primary
-      text: 'Bicara dengan tim kami'
+      text: Talk to our team
       href: /contact/
-    - text: 'Unduh katalog produk'
+    - text: Download product catalog
       href: /resources/download-catalog/

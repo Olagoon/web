@@ -1,92 +1,92 @@
 meta:
-  title: 'OEM ostja juhend — täispuhutavate veesõidukite hank Aasiast | {SITE}'
-  description: 'Põhjalik juhend täispuhutavate SUP-ide ja süstade hankimiseks Aasia tootjatelt: tehase hindamise kontroll-loend, QC protokollid, vastavuse kontrollimine, MOQ läbirääkimised, saatmistingimused ja levinud vead.'
-back_text: 'Tagasi uurimistöö juurde'
+  title: 'OEM Buyer Guide — Sourcing Inflatable Watercraft from Asia | {SITE}'
+  description: 'Comprehensive guide for sourcing inflatable pools from Asian manufacturers: factory evaluation checklist, QC protocols, compliance verification, MOQ negotiation, shipping terms, and common pitfalls.'
+back_text: 'Back to Research'
 
 hero:
-  tagline: 'Hankimine'
-  title: 'OEM ostja juhend — täispuhutavate veesõidukite hank Aasiast'
-  subtitle: '12 min lugemist'
+  tagline: 'Sourcing'
+  title: 'OEM Buyer Guide — Sourcing Inflatable Watercraft from Asia'
+  subtitle: '12 min read'
 
 content_html: |
-  <h2>1. Eelkvalifikatsioon: mida tehases otsida</h2>
+  <h2>1. Pre-Qualification: What to Look for in a Factory</h2>
 
-  <h3>Vastavussertifikaadid</h3>
+  <h3>Compliance Certificates</h3>
   <ul>
-    <li><strong>ISO 9001:2015</strong> – Kvaliteedijuhtimise süsteem</li>
-    <li><strong>CE sertifikaat</strong> – Kontrollige teavitatud asutuse numbrit</li>
-    <li><strong>BSCI / SMETA / SEDEX</strong> – Sotsiaalse vastavuse auditid</li>
-    <li><strong>REACH / RoHS</strong> – Materjalide vastavuse deklaratsioonid</li>
+    <li><strong>ISO 9001:2015</strong> – Quality management system</li>
+    <li><strong>CE certification</strong> – Verify the Notified Body number</li>
+    <li><strong>BSCI / SMETA / SEDEX</strong> – Social compliance audits</li>
+    <li><strong>REACH / RoHS</strong> – Material compliance declarations</li>
   </ul>
 
-  <h3>Tootmisvõimekused</h3>
+  <h3>Manufacturing Capabilities</h3>
   <ul>
-    <li>Drop-Stitch tuuma kudumine omas või alltööna</li>
-    <li>PVC katmise / lamineerimise liin</li>
-    <li>RF-keevitus- ja kuuma õhu keevitusseadmed</li>
-    <li>Oma vormide valmistamine (CNC töötlemine)</li>
-    <li>Testimislabor (rõhutestimine, UV vananemine, tõmbetestimine)</li>
+    <li>Drop-stitch core weaving in-house vs. outsourced</li>
+    <li>PVC coating / lamination line</li>
+    <li>RF welding and hot air welding equipment</li>
+    <li>In-house mold making (CNC machining)</li>
+    <li>Testing lab (pressure testing, UV aging, tensile testing)</li>
   </ul>
 
-  <h3>Kogemuste kontrollimine</h3>
+  <h3>Experience Verification</h3>
   <ul>
-    <li>Aastaid täispuhutavate veesõidukite tootmises (miinimum 5+ aastat)</li>
-    <li>Inseneride arv koosseisus</li>
-    <li>Olemasolevad OEM/ODM kliendid (küsige soovitusi)</li>
-    <li>Eksport sihtkohad – kas nad saadavad juba teie sihtturule?</li>
+    <li>Years in inflatable watercraft manufacturing (5+ years minimum)</li>
+    <li>Number of engineers on staff</li>
+    <li>Existing OEM/ODM clients (request references)</li>
+    <li>Export destinations – are they already shipping to your target market?</li>
   </ul>
 
-  <h2>2. Kvaliteedikontrolli protokollid</h2>
-  <p>Materjalide sissetuleku QC: tõmbetugevus (ASTM D751 või ISO 1421), rebenevuskindlus (ASTM D2261 või ISO 4674), adhesioonitugevus, UV vananemise valimikontrollid.</p>
-  <p>Protsessis QC: õmblustugevuse jälgimine iga 50 ühiku järel, ventiilide momentide kontroll, Drop-Stitch lõime tiheduse kontrollid, mõõtmete kontroll CAD jooniste suhtes.</p>
-  <p>Lõplik kontroll: 100% täispuhumise hoietest (24 tundi, maks. 5% langus), visuaalne kontroll, ventiilide funktsioonitest, juhuslik valimi testimine (AQL 2,5 või 4,0 vastavalt ISO 2859).</p>
+  <h2>2. Quality Control Protocols</h2>
+  <p>Material incoming QC: tensile strength (ASTM D751 or ISO 1421), tear resistance (ASTM D2261 or ISO 4674), adhesion strength, UV aging spot checks.</p>
+  <p>In-process QC: seam strength monitoring every 50 units, valve torque verification, drop-stitch thread density checks, dimensional checks against CAD drawings.</p>
+  <p>Final inspection: 100% inflation hold test (24 hours, max 5% drop), visual inspection, valve function test, random sample testing (AQL 2.5 or 4.0 per ISO 2859).</p>
 
-  <h2>3. Vastavuse dokumentatsiooni kontroll-loend</h2>
+  <h2>3. Compliance Documentation Checklist</h2>
   <ul>
-    <li>Vastavuse deklaratsioon (DoC), mis viitab õigele EL direktiivile</li>
-    <li>CE sertifikaat teavitatud asutuselt</li>
-    <li>Akrediteeritud labori testiaruanne</li>
-    <li>Materjalide ohutusandmleheded (MSDS)</li>
-    <li>REACH vastavuse deklaratsioon</li>
-    <li>Materjalide loend koos tarnijate jälgitavusega</li>
-    <li>Tehase ülevaatuse aruanne</li>
+    <li>Declaration of Conformity (DoC) referencing correct EU directive</li>
+    <li>CE certificate from notified body</li>
+    <li>Test report from accredited lab</li>
+    <li>Material safety data sheets (MSDS)</li>
+    <li>REACH compliance declaration</li>
+    <li>Bill of Materials with supplier traceability</li>
+    <li>Factory inspection report</li>
   </ul>
 
-  <h2>4. MOQ läbirääkimised</h2>
+  <h2>4. MOQ Negotiation</h2>
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-gray-100">
-        <th class="p-3 text-left font-semibold text-gray-900 border">Toote tüüp</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Standardne MOQ</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Läbiräägitav vahemik</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Product Type</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Standard MOQ</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Negotiable Range</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="p-3 border">SUP-lauad</td><td class="p-3 border">50 – 100 ühikut</td><td class="p-3 border">5 – 10 ühikut (proov)</td></tr>
-      <tr><td class="p-3 border">Süstas</td><td class="p-3 border">50 – 100 ühikut</td><td class="p-3 border">5 – 10 ühikut (proov)</td></tr>
-      <tr><td class="p-3 border">Täispuhutavad SUP-id</td><td class="p-3 border">50 – 100 ühikut</td><td class="p-3 border">2 – 5 ühikut (proov)</td></tr>
-      <tr><td class="p-3 border">Ohutus / tarvikud</td><td class="p-3 border">200 – 500 ühikut</td><td class="p-3 border">50 – 100 ühikut (proov)</td></tr>
+      <tr><td class="p-3 border">pools</td><td class="p-3 border">50 – 100 units</td><td class="p-3 border">5 – 10 units (trial)</td></tr>
+      <tr><td class="p-3 border">Pool accessories</td><td class="p-3 border">200 – 500 units</td><td class="p-3 border">20 – 50 units (trial)</td></tr>
+      <tr><td class="p-3 border">inflatable pools</td><td class="p-3 border">50 – 100 units</td><td class="p-3 border">2 – 5 units (trial)</td></tr>
+      <tr><td class="p-3 border">Safety / Accessories</td><td class="p-3 border">200 – 500 units</td><td class="p-3 border">50 – 100 units (trial)</td></tr>
     </tbody>
   </table>
 
-  <h2>5. Logistika ja saatmine</h2>
-  <p>Levinud Incotermsid: <strong>FOB</strong> (Tehas tarnib väljumissadamasse – kõige levinum), <strong>EXW</strong> (Ostja korraldab kogu transpordi tehasest), <strong>CIF</strong> (Tehas maksab veose ja kindlustuse sihtsadamasse).</p>
-  <p>Täispuhutavad tooted on kerge kaalu ja suure mahuga – mahukaal (DIM) määrab sageli saatmiskulud. Küsige vaakumpakendatud pakendeid, et vähendada mahtu 50–60% võrra. Meretransport Hiinast EL-i: 25–35 päeva; USA läänerannikule: 15–20 päeva.</p>
+  <h2>5. Logistics and Shipping</h2>
+  <p>Common Incoterms: <strong>FOB</strong> (Factory delivers to departure port – most common), <strong>EXW</strong> (Buyer arranges all shipping from factory door), <strong>CIF</strong> (Factory pays freight and insurance to destination port).</p>
+  <p>Inflatable products are low-weight, high-volume – volumetric weight (DIM) often determines shipping cost. Request vacuum-packed packaging to reduce volume by 50–60%. Sea freight from China to EU: 25–35 days; to US West Coast: 15–20 days.</p>
 
-  <h2>6. Levinud vead</h2>
+  <h2>6. Common Pitfalls</h2>
   <ul>
-    <li><strong>Tehase audit puudub:</strong> Tehke alati ise või tellige kolmanda osapoole audit (QIMA, SGS, Bureau Veritas)</li>
-    <li><strong>Ainult suulised spetsifikatsioonid:</strong> Üksikasjalik tehnilise spetsifikatsiooni leht mõlema poole poolt allkirjastatud</li>
-    <li><strong>Proovide heakskiidu vahelejätmine:</strong> Kirjalik kinnitus proovidele enne masstootmist</li>
-    <li><strong>QC puudumine tootmise ajal:</strong> Kolmanda osapoole kontroll tootmise ajal (DUPRO) ja enne saatmist (PSI)</li>
-    <li><strong>Vastavuse eiramine:</strong> Kontrollige CE/UKCA sertifitseerimist enne tootmist</li>
+    <li><strong>No factory audit:</strong> Always perform or commission a third-party audit (QIMA, SGS, Bureau Veritas)</li>
+    <li><strong>Verbal specs only:</strong> Detailed technical specification sheet signed by both parties</li>
+    <li><strong>Skipping sample approval:</strong> Written sign-off on samples before bulk production</li>
+    <li><strong>No QC during production:</strong> Third-party inspection during production (DUPRO) and before shipment (PSI)</li>
+    <li><strong>Ignoring compliance:</strong> Verify CE/UKCA certification before production</li>
   </ul>
 
-  <h2>7. Miks OLagoon</h2>
-  <p>OLagoon on tootnud OEM/ODM täispuhutavaid veesõidukeid alates 2012. aastast. 12 000 m&sup2; ISO 9001 sertifitseeritud objektiga, 25+ inseneriga ja CE sertifitseerimisega kõigis tootesarjades vastame me selle juhendi igale kriteeriumile. Pakume proovi-MOQ-sid uutele partneritele ja täielikke vastavuse dokumentatsiooni pakette.</p>
+  <h2>7. Why OLagoon</h2>
+  <p>OLagoon has been manufacturing OEM/ODM inflatable pools since 2012. With a 12,000 m&sup2; ISO 9001 certified facility, 25+ engineers, and CE certification across all product lines, we meet every criterion in this guide. We offer trial MOQs for new partners and full compliance documentation packages.</p>
 
 cta:
-  title: 'Valmis hankima alustama?'
-  subtitle: 'Võtke ühendust meie OEM meeskonnaga, et arutada oma projekti nõudeid.'
-  button_text: 'Küsi hinnapakkumist'
+  title: 'Ready to start sourcing?'
+  subtitle: 'Contact our OEM team to discuss your project requirements.'
+  button_text: 'Request a quote'
   button_link: /contact/

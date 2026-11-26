@@ -1,48 +1,50 @@
 meta:
-  title: 'Üretim Kapasitesi — 12.000 m² fabrika | {SITE}'
-  description: "olagoon'ın fabrika kapasitesi: 12.000 m² tesis, büyüme alanıyla yılda 15.000'den fazla SUP tahtası üretir. Büyük ölçekli şişme SUP OEM/ODM üretimi."
+  title: 'Production Capacity — 12,000 m² Factory | {SITE}'
+  description: 'olagoon factory capacity: 12,000 m² facility producing 15,000+ pools per year with room to scale. Large-scale OEM/ODM inflatable pools manufacturing.'
   keywords:
-    - 'SUP üretim kapasitesi'
-    - 'şişme SUP fabrikası'
-    - 'paddle board üretimi'
-    - 'SUP fabrikası Çin'
+    - 'pool production capacity'
+    - 'inflatable pools factory'
+    - 'inflatable pool production'
+    - 'pool factory china'
 hero:
-  tagline: Üretim kapasitesi
-  title: Üretim Kapasitesi ve Yıllık Üretim
-  subtitle: 12.000 m² tesis, büyüme alanıyla yılda 15.000'den fazla SUP tahtası üretiyor
-intro: >-
-  olagoon, Çin'in Qingdao kentindeki en büyük özel şişme SUP üretim tesislerinden birini işletmektedir. 12.000 m²'lik fabrikamız paralel çalışan altı özel atölye halinde organize edilmiş olup, bize SUP tahtası ve güvenlik ekipmanı hatlarında yılda 15.000'den fazla SUP tahtası üretme kapasitesi
-  sağlıyor.
+  tagline: Production Capacity
+  title: Manufacturing Capacity & Annual Output
+  subtitle: 12,000 m² facility producing 15,000+ pools per year with room to scale
+
+intro: olagoon operates one of the largest dedicated inflatable pools manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 pools annually across pools and safety equipment lines.
+
 highlights:
-  - value: 12.000 m²
-    label: Toplam üretim alanı
-    detail: 6 uzman atölyede
-  - value: 15.000+
-    label: 'Yılda üretilen SUP tahtaları'
-    detail: SUP tahtaları, kürekler, aksesuarlar
+  - value: 12,000 m²
+    label: Total manufacturing floor
+    detail: Across 6 specialized workshops
+  - value: 15,000+
+    label: pools produced annually
+    detail: pools, filters, accessories
   - value: 200+
-    label: Nitelikli iş gücü
-    detail: 25+ mühendis, 2 vardiya/gün
+    label: Skilled workforce
+    detail: 25+ engineers, 2 shifts/day
   - value: 50+
-    label: İhracat ülkeleri
-    detail: AB, ABD, Avustralya, Orta Doğu, Asya
-  - value: 30–45
-    label: Standart termin süresi (gün)
-    detail: PO onayından FOB'a
+    label: Export countries
+    detail: EU, US, AU, Middle East, Asia
+  - value: 12–16
+    label: Standard lead time (weeks)
+    detail: 50–100 units, from PO confirmation to FOB
   - value: 10+
-    label: Yıllık ihracat deneyimi
-    detail: 2012'den Beri
+    label: Years of export experience
+    detail: Since 2012
+
 workshops:
-  - title: SUP Board Üretimi
-    description: 'Şişirilebilir SUP tahtaları için 4 paralel montaj hattı. Her hat vardiyada 50–80 tahta üretebilir. Dijital baskı ve serigrafi istasyonları eş zamanlı çalışır. Yıllık SUP kapasitesi: 10.000+ tahta.'
-    output: Yılda 10.000+ SUP
-  - title: 'SUP Tahtası Hatları'
-    description: 'Şişme SUP tahtaları için çok amaçlı üretim hatları. Sıcak hava kaynak istasyonları, RF dielektrik presler ve montaj iş istasyonları, sipariş karışımına göre yeniden yapılandırılıyor. Yıllık kapasite: 5.000+ adet.'
-    output: 5.000+ adet/yıl
-  - title: Güvenlik Ekipmanları
-    description: 'Can yelekleri ve güvenlik ekipmanları için ayrı temiz oda üretim alanı. Özel dikiş, köpük yerleştirme ve test istasyonları. Yıllık can yeleği kapasitesi: 50.000+ adet.'
-    output: Yılda 50.000+ can yeleği
+  - title: pools Production
+    description: '4 parallel assembly lines for inflatable pools. Each line can produce 50–80 pools per shift. Digital printing and screen printing stations run concurrently. Annual pool capacity: 15,000+ pools.'
+    output: '10,000+ pools/year'
+  - title: 'pools Lines'
+    description: 'Multi-purpose production lines for inflatable pools. Hot-air welding stations, RF dielectric presses, and assembly workstations are reconfigured based on order mix. Annual capacity: 5,000+ units.'
+    output: '5,000+ units/year'
+  - title: Safety Equipment
+    description: 'Separate clean-room production area for filtration assemblies and pump equipment. Dedicated assembly, calibration, and testing stations. Annual accessory capacity: 50,000+ units.'
+    output: '50,000+ accessories/year'
+
 oem_capacity:
-  moq: "SUP: 50 adet (numune 5–10'dan) | Özel kalıp: 200+ adet"
-  lead_time: Standart 30~45 gün. Örnek 15~20 gün. Acele hizmet mevcut.
-  payment: T/T %30 kaparo + sevkiyat öncesi %70. L/C, Western Union kabul edilir.
+  moq: 'pool: 50 units (samples from 5–10) | Custom mould: 200+ units'
+  lead_time: 'Production 12–16 weeks (50–100 units), 8–12 weeks above 1,000 units. Samples 15–20 days. Rush available.'
+  payment: 'T/T 30% deposit + 70% before shipment. L/C, Western Union accepted.'

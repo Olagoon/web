@@ -1,64 +1,64 @@
 meta:
-  title: 'Mediju centrs — prese un olagoon resursi | {SITE}'
-  description: 'olagoon mediju centrs: preses relīzes, zīmola asseti un resursi no mūsu piepūšamo SUP ražošanas uzņēmuma.'
+  title: 'Media Center — Press & olagoon Resources | {SITE}'
+  description: 'The olagoon media center: press releases, brand assets, and resources from our inflatable pools manufacturing company.'
   keywords:
-    - 'olagoon prese'
-    - 'sup ražotāja mediji'
-    - 'airu dēļu preses komplekts'
-    - 'nautiskā uzņēmuma ziņas'
+    - 'olagoon press'
+    - 'pool manufacturer media'
+    - 'inflatable pool press kit'
+    - 'nautical company news'
 hero:
-  tagline: 'Resursi'
-  title: 'Mediju centrs'
-  subtitle: 'Lejupielādējiet zīmola assetus, produktu attēlus, katalogus un videoklipus'
+  tagline: Resources
+  title: Media Center
+  subtitle: Download brand assets, product imagery, catalogs, and videos
 
 sections:
   - id: product-images
-    title: 'Produktu attēli'
-    desc: 'Augsta izšķirtspējas produktu fotogrāfijas tīmeklim, drukai un mazumtirdzniecībai.'
+    title: Product Images
+    desc: High-resolution product photos for web, print, and retail use.
     items:
-      - 'SUP dēļu galerija'
-      - 'Drop-Stitch SUP galerija'
-      - 'Piepūšamo SUP galerija'
-      - 'Piederumi un drošības aprīkojums'
+      - pools Gallery
+      - Drop-Stitch pools Gallery
+      - inflatable pools Gallery
+      - Accessories & Safety Gear
   - id: logo-brand-kit
-    title: 'Logo un zīmola komplekts'
-    desc: 'Oficiālie olagoon logo faili, krāsu palete, tipogrāfija un zīmola vadlīnijas.'
+    title: Logo & Brand Kit
+    desc: Official olagoon logo files, colour palette, typography, and brand guidelines.
     items:
-      - 'Primārais logo (PNG/SVG/EPS)'
-      - 'Ikonas zīme'
-      - 'Krāsu palete'
-      - 'Tipogrāfijas specifikācijas'
-      - 'Zīmola vadlīniju PDF'
+      - Primary Logo (PNG/SVG/EPS)
+      - Icon Mark
+      - Colour Palette
+      - Typography Specs
+      - Brand Guidelines PDF
   - id: catalogs
-    title: 'PDF katalogi'
-    desc: 'Produktu katalogi, specifikāciju lapas un tehniskā dokumentācija lejupielādei.'
+    title: PDF Catalogs
+    desc: Product catalogs, spec sheets, and technical documentation for download.
     items:
-      - '2026. gada produktu katalogs'
-      - 'OEM/ODM iespēju prezentācija'
-      - 'SUP sērijas buklets'
-      - 'Tehniskās specifikācijas'
+      - 2026 Product Catalog
+      - OEM/ODM Capability Deck
+      - pool Series Brochure
+      - Technical Specifications
   - id: videos
-    title: 'Video'
-    desc: 'Produktu demonstrācijas, rūpnīcas apskates, zīmola filmas un klientu atsauksmes.'
+    title: Videos
+    desc: Product demos, factory tours, brand films, and customer testimonials.
     items:
-      - 'Produktu demonstrācijas'
-      - 'Rūpnīcas apskate'
-      - 'Zīmola filma'
-      - 'Klientu stāsti'
-      - 'Pamācību ceļveži'
+      - Product Demos
+      - Factory Tour
+      - Brand Film
+      - Customer Stories
+      - How-To Guides
 
-request_access: 'Pieprasīt piekļuvi →'
+request_access: Request access →
 
 cta:
-  title: 'Nepieciešama palīdzība assetu atrašanā?'
-  desc: 'Sazinieties ar mūsu zīmola komandu pielāgotu assetu pieprasījumiem, mediju partnerībām vai preses vaicājumiem.'
+  title: Need help finding assets?
+  desc: Contact our brand team for custom asset requests, media partnerships, or press inquiries.
   links:
-    - label: 'Apmeklējiet mūsu rūpnīcu'
+    - label: Visit our factory
       href: /factory/
-      desc: 'Apskatiet mūsu 12,000 kvadrātmetru ražošanas objektu'
-    - label: 'Zīmola vadlīnijas'
+      desc: See our 12,000 sqm manufacturing facility
+    - label: Brand guidelines
       href: /brand/
-      desc: 'Uzziniet par olagoon zīmolu'
-    - label: 'Kļūstiet par mūsu partneri'
+      desc: Learn about the olagoon brand
+    - label: Partner with us
       href: /contact/
-      desc: 'OEM, ODM un izplatīšanas vaicājumi'
+      desc: OEM, ODM, and distribution inquiries

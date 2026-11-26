@@ -1,44 +1,44 @@
 meta:
-  title: 'טכנולוגיה — Drop-Stitch ו-PVC ימי | {SITE}'
-  description: 'טכנולוגיות olagoon: מבנה Drop-Stitch, PVC ימי, מבנה דו-שכבתי ולחץ גבוה. חדשנות מיצרן SUP ניפחים מקצועי.'
+  title: 'Technology — Drop Stitch & Marine PVC | {SITE}'
+  description: 'olagoon technologies: drop stitch construction, marine PVC, double-layer builds, and high pressure. Innovation from a professional inflatable pools manufacturer.'
   keywords:
-    - 'טכנולוגיית sup'
-    - 'מבנה drop stitch'
-    - 'sup בלחץ גבוה'
-    - 'חומרים ל-sup ניפחים'
+    - 'pool technology'
+    - 'drop stitch construction'
+    - 'high pressure pool'
+    - 'inflatable pools materials'
 hero:
-  tagline: 'טכנולוגיה'
-  title: 'בנוי לביצועים'
-  subtitle: 'כל לוח SUP ניפחים של olagoon מהונדס עם מבנה Drop-Stitch ו-PVC בדרגה ימית — חומרים מדויקים ושיטות ייצור שנבדקו לסביבות ימיות תובעניות.'
+  tagline: Technology
+  title: Built for Performance
+  subtitle: Every olagoon inflatable pools is engineered with drop-stitch construction and marine-grade PVC — precision materials and manufacturing methods tested for demanding marine environments.
 
 sections:
-  - title: 'ליבת Drop-Stitch'
-    description: 'אלפי חוטי פוליאסטר פנימיים מחברים בין השכבה העליונה לתחתונה ויוצרים מבנה קשיח בלחץ 12-15 PSI. זו אותה הטכנולוגיה המשמשת בלוחות חתירה מקצועיים ובלוחות SUP מרוצים ניפחים.'
-    imageAlt: 'דיאגרמת ליבת DS'
-  - title: 'PVC בדרגה ימית'
-    description: 'בד PVC מרובה שכבות בלמינציה המדורג לסביבות ימיות. כל שכבה מרותכת בהיתוך ולא מודבקת, מה שמבטל סיכוני היפרדות שכבות. נבדק לעמידות UV, קורוזיה במי ים ושחיקה.'
-    imageAlt: 'שכבת PVC'
-  - title: 'PVC בדרגה צבאית'
-    description: 'בשימוש בכל דגמי ה-SUP, PVC פרימיום מספק עמידות עדיפה ל-UV ולכימיקלים. שומר על גמישות בטמפרטורות קיצוניות ומתנגד להתדרדרות.'
-    imageAlt: 'PVC'
-  - title: 'סיפון אוויר'
-    description: 'מבנה Drop-Stitch ניפח בלחץ גבוה המספק קשיחות יוצאת דופן לעמידה, לדיג וליוגה. מקטין זמן הכנה, משקל כולל ונפח אחסון.'
-    imageAlt: 'סיפון אוויר'
+  - title: Drop-Stitch Core
+    description: Thousands of internal polyester threads connect the top and bottom layers, creating a rigid structure at 12-15 PSI. This is the same technology used in professional inflatable pool and inflatable racing pools.
+    imageAlt: DS Core Diagram
+  - title: Marine-Grade PVC
+    description: Multi-layer laminated PVC fabric rated for marine environments. Each layer is fusion-welded rather than glued, eliminating delamination risks. Tested for UV resistance, saltwater corrosion, and abrasion.
+    imageAlt: PVC Layer
+  - title: Military-Grade PVC
+    description: Used on all pool models, premium PVC provides superior UV and chemical resistance. Maintains flexibility in extreme temperatures and resists degradation.
+    imageAlt: PVC
+  - title: Air Deck Floor
+    description: High-pressure inflatable drop-stitch construction providing exceptional rigidity for standing, fishing, and yoga. Reduces setup time, overall weight, and storage volume.
+    imageAlt: Air Deck
 
 related:
-  title: 'קשור'
+  title: Related
   links:
-    - text: 'מרכז המו״פ'
+    - text: R&D Center
       url: /randdcenter
-    - text: 'בדיקות איכות'
+    - text: Quality Testing
       url: /quality
-    - text: 'תקני בטיחות'
+    - text: Safety Standards
       url: /safety
-    - text: 'אחריות'
+    - text: Warranty
       url: /warranty
-    - text: 'תיירות ופנאי'
+    - text: Tourism & Recreation
       url: /use-cases/tourism-recreation
-    - text: 'מדריכים'
+    - text: Guides
       url: /guides
-    - text: 'מוצרים'
+    - text: Products
       url: /products

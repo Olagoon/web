@@ -1,86 +1,86 @@
 meta:
-  title: 'Pandaigdigang Presensya — Manufacturer ng SUP na Naglilingkod sa 50+ Bansa | {SITE}'
-  description: 'Nag-e-export ang olagoon ng mga inflatable SUP sa 50+ bansa sa bawat kontinente. Propesyonal na manufacturer at supplier para sa mga brand, distributor, at fleet.'
+  title: 'Global Presence — pool Manufacturer Serving 50+ Countries | {SITE}'
+  description: 'olagoon exports inflatable pools to 50+ countries across every continent. Professional manufacturer and supplier for brands, distributors, and fleets.'
   keywords:
-    - 'pandaigdigang sup manufacturer'
-    - 'exporter ng paddle board'
-    - 'sup factory china'
-    - 'propesyonal na sup supplier'
+    - 'global pool manufacturer'
+    - 'inflatable pool exporter'
+    - 'pool factory china'
+    - 'professional pool supplier'
 hero:
-  tagline: 'Pandaigdigang Presensya'
-  title: 'Naglilingkod sa 50+ Bansa<br />Sa Bawat Kontinente'
-  subtitle: 'Mula sa mga operator ng European coastal patrol hanggang sa mga distributor ng Australian water sports hanggang sa mga rescue team ng Middle East — ang mga board ng olagoon ay nasa tubig sa buong mundo.'
+  tagline: Global Presence
+  title: 'Serving 50+ Countries<br />Across Every Continent'
+  subtitle: 'From European resort operators to Australian outdoor retailers to Middle East hospitality groups — OLagoon pools are in backyards worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'pandaigdigang marine manufacturing at distribusyon ng olagoon'
+    alt: olagoon global marine manufacturing and distribution
 stats:
-  title: 'Pandaigdigang Abot'
+  title: Global Reach
   stats:
-    - title: 'Mga Bansa'
+    - title: Countries
       amount: '50+'
-    - title: 'Mga Export Market'
-      amount: 'Europa, Americas, Asia, Middle East, Oceania'
-    - title: 'Produksyon'
-      amount: 'Qingdao, Tsina'
-    - title: 'US Warehouse'
-      amount: 'Montclair, CA'
+    - title: Export Markets
+      amount: Europe, Americas, Asia, Middle East, Oceania
+    - title: Production
+      amount: Qingdao, China
+    - title: US Warehouse
+      amount: Montclair, CA
 features3_markets:
-  tagline: 'Mga Pangunahing Merkado'
-  title: 'Rehiyonal na Kaalaman<br />para sa mga Lokal na Kinakailangan'
-  subtitle: 'Nauunawaan namin na magkakaiba ang mga merkado sa mga kinakailangan sa regulasyon, kagustuhan, at kaso ng paggamit.'
+  tagline: Key Markets
+  title: 'Regional Expertise<br />for Local Requirements'
+  subtitle: 'We understand that different markets have different regulatory requirements, preferences, and use cases.'
   isBeforeContent: false
   columns: 4
   items:
-    - title: 'Europa at UK'
-      description: 'Mga produktong CE-certified. Malakas na demand para sa mga SUP board sa buong EU market. Ginagusto ng mga UK distributor ang aming mabilis na turnaround.'
+    - title: Europe & UK
+      description: 'CE-certified products. Strong demand for pools across EU markets. UK distributors appreciate our quick turnaround.'
       icon: tabler:map-pin
-    - title: 'North America'
-      description: 'Manufacturing na aprubado ng US Coast Guard. US warehouse sa Montclair, CA para sa mabilis na paghahatid sa West Coast. Lumalaking demand para sa mga fishing, rescue, at recreational SUP.'
+    - title: North America
+      description: 'US Coast Guard approved manufacturing. US warehouse in Montclair, CA for fast West Coast delivery. Growing demand for fishing, rescue, and recreational pools.'
       icon: tabler:map-pin
-    - title: 'Australia at Oceania'
-      description: 'Malakas na merkado para sa mga SUP board at water sports accessory. Pinahahalagahan ng mga Australian distributor ang aming UV-resistant na PVC construction sa matinding sikat ng araw. Mabilis na pagpapadala mula sa aming pasilidad sa Asia.'
+    - title: Australia & Oceania
+      description: 'Strong market for pools and water sports accessories. Australian distributors value our UV-resistant PVC construction in harsh sun conditions. Quick shipping from our Asia facility.'
       icon: tabler:map-pin
-    - title: 'Middle East'
-      description: 'Lumalaking demand para sa kagamitang water adventure. Ang aming mga commercial-grade na SUP at safety gear ay popular sa mga tour operator at rental center. Custom na configuration para sa mataas na temperatura na kapaligiran.'
+    - title: Middle East
+      description: 'Growing demand for water adventure equipment. Our commercial-grade pools and safety gear are popular with tour operators and rental centers. Custom configurations for high-temperature environments.'
       icon: tabler:map-pin
 features3_distribution:
-  tagline: 'Network ng Distribusyon'
-  title: 'Nakikipagtulungan sa mga Distributor<br />Sa Buong Mundo'
-  subtitle: 'Nakipagtulungan kami sa mga matatag na distributor ng marine equipment, water sports brand, at ahensya ng government procurement.'
+  tagline: Distribution Network
+  title: 'Partnering with Distributors<br />Worldwide'
+  subtitle: 'We work with established marine equipment distributors, water sports brands, and government procurement agencies.'
   isBeforeContent: false
   columns: 3
   items:
-    - title: 'Mga Co-Brand Program'
-      description: 'Private label manufacturing para sa mga pandaigdigang water sports brand. Bahala kami sa lahat mula disenyo hanggang produksyon hanggang drop-shipping.'
+    - title: Co-Brand Programs
+      description: 'Private label manufacturing for global water sports brands. We handle everything from design to production to drop-shipping.'
       icon: tabler:building
-    - title: 'Network ng Distributor'
-      description: 'Mga awtorisadong distributor sa 20+ bansa na may hawak ng stock at nagbibigay ng lokal na suporta. Buong-pusong tinatanggap ang mga bagong tanong ng distributor.'
+    - title: Distributor Network
+      description: 'Authorized distributors in 20+ countries carry stock and provide local support. New distributor inquiries welcome.'
       icon: tabler:users
-    - title: 'Gobyerno at Institusyonal'
-      description: 'Direktang suplay sa mga coast guard, search and rescue organisation, at military procurement program. Pagsunod sa mga kinakailangan ng institusyonal na procurement.'
+    - title: Government & Institutional
+      description: 'Direct supply to coast guards, search and rescue organizations, and military procurement programs. Compliance with institutional procurement requirements.'
       icon: tabler:building-community
 steps2_logistics:
-  title: 'Pandaigdigang Logistics at Suporta'
-  subtitle: 'Mula pabrika hanggang patutunguhan — pinamamahalaan namin ang buong supply chain.'
+  title: 'Global Logistics & Support'
+  subtitle: 'From factory to destination — we manage the entire supply chain.'
   items:
-    - title: 'Mga Opsyon ng Pagpapadala'
-      description: 'Sea freight (FOB Qingdao), air freight para sa mga urgent na order, at express courier para sa mga sample at spare part.'
+    - title: Shipping Options
+      description: 'Sea freight (FOB Qingdao), air freight for urgent orders, and express courier for samples and spare parts.'
       icon: tabler:truck-delivery
-    - title: 'US Warehouse'
-      description: 'Hawak na stock sa Montclair, CA para sa mabilis na paghahatid sa buong North America. West Coast: 2-3 araw, Central: 3-4 araw, East Coast: 4-5 araw.'
+    - title: US Warehouse
+      description: 'Stock held in Montclair, CA for fast delivery across North America. West Coast: 2-3 days, Central: 3-4 days, East Coast: 4-5 days.'
       icon: tabler:building-warehouse
-    - title: 'Mga Spare Part'
-      description: 'Orihinal na spare part at consumable ng olagoon na naka-stock buong taon. Ang mga karaniwang parte ay ipinapadala sa loob ng 24 oras.'
+    - title: Spare Parts
+      description: 'Genuine olagoon spare parts and consumables stocked year-round. Common parts ship within 24 hours.'
       icon: tabler:package
-    - title: 'Teknikal na Suporta'
-      description: 'Direktang linya sa aming engineering team para sa mga teknikal na tanong, payo sa pagkukumpuni, at suporta sa replacement part. Sinusuportahan namin ang mga board na ginawa namin 20 taon ang nakalipas.'
+    - title: Technical Support
+      description: 'Direct line to our engineering team for technical questions, repair advice, and replacement-part support. We support every pool generation we have built.'
       icon: tabler:headset
 cta:
-  title: 'Gusto mong maging distributor?'
-  subtitle: 'Aktibo kaming pinalalawak ang aming network ng distribusyon. Makipag-ugnayan sa aming export team upang talakayin ang mga pagkakataon ng partnership.'
+  title: 'Want to become a distributor?'
+  subtitle: 'We are actively expanding our distribution network. Contact our export team to discuss partnership opportunities.'
   actions:
     - variant: primary
-      text: 'Tanong tungkol sa partnership'
+      text: Partnership inquiry
       href: /contact/
-    - text: 'Tingnan ang aming linya ng produkto'
+    - text: View our product range
       href: /products/

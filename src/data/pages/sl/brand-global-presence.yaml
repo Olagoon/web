@@ -1,86 +1,86 @@
 meta:
-  title: 'Globalna prisotnost — proizvajalec SUP za več kot 50 držav | {SITE}'
-  description: 'olagoon izvaža napihljive deske SUP v več kot 50 držav po vseh celinah. Profesionalni proizvajalec in dobavitelj za znamke, distributerje in flote.'
+  title: 'Global Presence — pool Manufacturer Serving 50+ Countries | {SITE}'
+  description: 'olagoon exports inflatable pools to 50+ countries across every continent. Professional manufacturer and supplier for brands, distributors, and fleets.'
   keywords:
-    - 'globalni proizvajalec sup'
-    - 'izvoznik desk za veslanje'
-    - 'tovarna sup na kitajskem'
-    - 'profesionalni dobavitelj sup'
+    - 'global pool manufacturer'
+    - 'inflatable pool exporter'
+    - 'pool factory china'
+    - 'professional pool supplier'
 hero:
-  tagline: 'Globalna prisotnost'
-  title: 'Oskrba več kot 50 držav<br />po vseh celinah'
-  subtitle: 'Od evropskih operaterjev obalnega patruljiranja do avstralskih distributerjev vodnih športov in reševalnih ekip z Bližnjega vzhoda — deske olagoon so na vodi po vsem svetu.'
+  tagline: Global Presence
+  title: 'Serving 50+ Countries<br />Across Every Continent'
+  subtitle: 'From European resort operators to Australian outdoor retailers to Middle East hospitality groups — OLagoon pools are in backyards worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'globalna pomorska proizvodnja in distribucija olagoon'
+    alt: olagoon global marine manufacturing and distribution
 stats:
-  title: 'Globalni doseg'
+  title: Global Reach
   stats:
-    - title: 'Države'
+    - title: Countries
       amount: '50+'
-    - title: 'Izvozni trgi'
-      amount: 'Evropa, Amerike, Azija, Bližnji vzhod, Oceanija'
-    - title: 'Proizvodnja'
-      amount: 'Qingdao, Kitajska'
-    - title: 'Skladišče v ZDA'
-      amount: 'Montclair, Kalifornija'
+    - title: Export Markets
+      amount: Europe, Americas, Asia, Middle East, Oceania
+    - title: Production
+      amount: Qingdao, China
+    - title: US Warehouse
+      amount: Montclair, CA
 features3_markets:
-  tagline: 'Ključni trgi'
-  title: 'Regionalno strokovno znanje<br />za lokalne zahteve'
-  subtitle: 'Razumemo, da imajo različni trgi različne regulativne zahteve, preference primere uporabe.'
+  tagline: Key Markets
+  title: 'Regional Expertise<br />for Local Requirements'
+  subtitle: 'We understand that different markets have different regulatory requirements, preferences, and use cases.'
   isBeforeContent: false
   columns: 4
   items:
-    - title: 'Evropa in Združeno kraljestvo'
-      description: 'Izdelki s certifikatom CE. Močno povpraševanje po deskah SUP na trgih EU. Distributerji v Združenem kraljestvu cenijo našo hitro obratno dobo.'
+    - title: Europe & UK
+      description: 'CE-certified products. Strong demand for pools across EU markets. UK distributors appreciate our quick turnaround.'
       icon: tabler:map-pin
-    - title: 'Severna Amerika'
-      description: 'Proizvodnja, odobrena s strani ameriške obalne straže. Skladišče v ZDA v Montclairju v Kaliforniji za hitro dostavo na zahodno obalo. Rastoče povpraševanje po ribiških, reševalnih in rekreacijskih deskah SUP.'
+    - title: North America
+      description: 'US Coast Guard approved manufacturing. US warehouse in Montclair, CA for fast West Coast delivery. Growing demand for fishing, rescue, and recreational pools.'
       icon: tabler:map-pin
-    - title: 'Avstralija in Oceanija'
-      description: 'Močan trg za deske SUP in dodatke za vodne športe. Avstralski distributerji cenijo našo konstrukcijo iz PVC, odporno na UV, v ostrih sončnih razmerah. Hitra odprema iz našega azijskega objekta.'
+    - title: Australia & Oceania
+      description: 'Strong market for pools and water sports accessories. Australian distributors value our UV-resistant PVC construction in harsh sun conditions. Quick shipping from our Asia facility.'
       icon: tabler:map-pin
-    - title: 'Bližnji vzhod'
-      description: 'Rastoče povpraševanje po opremi za vodne dogodivščine. Naše deske SUP komercialnega razreda in varnostna oprema so priljubljene pri operaterjih izletov in najemnih centrih. Konfiguracije po meri za visokotemperaturna okolja.'
+    - title: Middle East
+      description: 'Growing demand for water adventure equipment. Our commercial-grade pools and safety gear are popular with tour operators and rental centers. Custom configurations for high-temperature environments.'
       icon: tabler:map-pin
 features3_distribution:
-  tagline: 'Distribucijsko omrežje'
-  title: 'Partnerstvo z distributerji<br />po vsem svetu'
-  subtitle: 'Sodelujemo z uveljavljenimi distributerji pomorske opreme, znamkami vodnih športov in vladnimi naročniki.'
+  tagline: Distribution Network
+  title: 'Partnering with Distributors<br />Worldwide'
+  subtitle: 'We work with established marine equipment distributors, water sports brands, and government procurement agencies.'
   isBeforeContent: false
   columns: 3
   items:
-    - title: 'Programi skupnih znamk'
-      description: 'Proizvodnja zasebnih znamk za globalne znamke vodnih športov. Poskrbimo za vse od oblikovanja do proizvodnje in neposredne odpošiljanja.'
+    - title: Co-Brand Programs
+      description: 'Private label manufacturing for global water sports brands. We handle everything from design to production to drop-shipping.'
       icon: tabler:building
-    - title: 'Omrežje distributerjev'
-      description: 'Pooblaščeni distributerji v več kot 20 državah hranijo zaloge in zagotavljajo lokalno podporo. Nove povpraševanja distributerjev so dobrodošla.'
+    - title: Distributor Network
+      description: 'Authorized distributors in 20+ countries carry stock and provide local support. New distributor inquiries welcome.'
       icon: tabler:users
-    - title: 'Vladne in institucionalne stranke'
-      description: 'Neposredna oskrba obalnih straž, organizacij za iskanje in reševanje ter vojaških nabavnih programov. Skladnost z institucionalnimi nabavnimi zahtevami.'
+    - title: Government & Institutional
+      description: 'Direct supply to coast guards, search and rescue organizations, and military procurement programs. Compliance with institutional procurement requirements.'
       icon: tabler:building-community
 steps2_logistics:
-  title: 'Globalna logistika in podpora'
-  subtitle: 'Od tovarne do destinacije — upravljamo celotno dobaviteljsko verigo.'
+  title: 'Global Logistics & Support'
+  subtitle: 'From factory to destination — we manage the entire supply chain.'
   items:
-    - title: 'Možnosti odpošiljanja'
-      description: 'Morski prevoz (FOB Qingdao), letalski prevoz za nujna naročila in hitri kuri za vzorce in nadomestne dele.'
+    - title: Shipping Options
+      description: 'Sea freight (FOB Qingdao), air freight for urgent orders, and express courier for samples and spare parts.'
       icon: tabler:truck-delivery
-    - title: 'Skladišče v ZDA'
-      description: 'Zaloge v Montclairju v Kaliforniji za hitro dostavo po Severni Ameriki. Zahodna obala: 2–3 dni, srednji del: 3–4 dni, vzhodna obala: 4–5 dni.'
+    - title: US Warehouse
+      description: 'Stock held in Montclair, CA for fast delivery across North America. West Coast: 2-3 days, Central: 3-4 days, East Coast: 4-5 days.'
       icon: tabler:building-warehouse
-    - title: 'Nadomestni deli'
-      description: 'Originalni nadomestni deli in potrošni material olagoon na zalogi vse leto. Pogosti deli se odpošljejo v 24 urah.'
+    - title: Spare Parts
+      description: 'Genuine olagoon spare parts and consumables stocked year-round. Common parts ship within 24 hours.'
       icon: tabler:package
-    - title: 'Tehnična podpora'
-      description: 'Neposredna linija do naše inženirske ekipe za tehnična vprašanja, nasvete za popravila in podporo nadomestnih delov. Podpiramo deske, ki smo jih izdelali pred 20 leti.'
+    - title: Technical Support
+      description: 'Direct line to our engineering team for technical questions, repair advice, and replacement-part support. We support every pool generation we have built.'
       icon: tabler:headset
 cta:
-  title: 'Želite postati distributer?'
-  subtitle: 'Naše distribucijsko omrežje dejavno širimo. Stopite v stik z našo izvozno ekipo in se pogovorite o priložnostih za partnerstvo.'
+  title: 'Want to become a distributor?'
+  subtitle: 'We are actively expanding our distribution network. Contact our export team to discuss partnership opportunities.'
   actions:
     - variant: primary
-      text: 'Povpraševanje o partnerstvu'
+      text: Partnership inquiry
       href: /contact/
-    - text: 'Poglejte našo ponudbo izdelkov'
+    - text: View our product range
       href: /products/

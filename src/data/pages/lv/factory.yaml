@@ -1,274 +1,274 @@
 meta:
-  title: 'Rūpnīca un ražošana — piepūšamie SUP OEM | {SITE}'
-  description: 'Apmeklējiet olagoon rūpnīcu: 12,000 m² ražotne ar griešanas, RF metināšanas, drukas un montāžas cehiem, kā arī kvalitātes laboratoriju piepūšamo SUP OEM/ODM ražošanai.'
+  title: 'Factory & Manufacturing — inflatable pools OEM | {SITE}'
+  description: 'Tour the olagoon factory: 12,000 m² plant with cutting, RF welding, printing, assembly, and quality lab for inflatable pools OEM/ODM manufacturing.'
   keywords:
-    - 'sup rūpnīca ķīnā'
-    - 'piepūšamo airu dēļu rūpnīca'
-    - 'oem sup ražotājs'
-    - 'piepūšamo sup ražošana'
+    - 'pool factory china'
+    - 'inflatable pool factory'
+    - 'oem pool manufacturer'
+    - 'inflatable pools manufacturing'
 hero:
-  tagline: 'Rūpnīca'
-  title: 'Rūpnīca un ražošana'
-  subtitle: '12,000 m² integrētas ražošanas — no izejmateriāla līdz gatavam dēlim'
+  tagline: Factory
+  title: Factory & Manufacturing
+  subtitle: 12,000 m² of integrated manufacturing — from raw material to finished pool
 
 intro:
-  - 'Kā **Olagoon LLC (ASV)** ražošanas struktūrvienība olagoon Cindao operāciju komanda kontrolē katru ražošanas posmu — no izejvielu PVC un stikla šķiedras materiālu ierašanās līdz gatavā dēļa pēcpiegādes pārbaudei. Mūsu ražošanas objekts Cindao ekonomiskās attīstības zonā aizņem 12,000 kvadrātmetru un ietver specializētus cehus PVC griešanai, balonu termiskai hermetizācijai, FRP veidņu izgatavošanai, SUP digitālajai drukai, galīgajai montāžai un kvalitātes testēšanai.'
-  - 'Integrējot dizainu, inženieriju, prototipu izstrādi, ražošanu un testēšanu zem viena jumta, mēs novēršam līgumražošanas neefektivitāti un saglabājam tiešu kontroli pār izgatavošanas kvalitāti, materiālu izvēli un piegādes termiņiem. Katrs dēlis, kas pamet mūsu darbnīcu, ir uzbūvēts ar mūsu cilvēku rokām, ar mūsu iekārtām un atbilstoši mūsu standartiem.'
+  - As the production arm of **Olagoon LLC**, olagoon's Qingdao Operation Team controls every stage of production — from the arrival of raw PVC and fiberglass materials to the final pre-delivery inspection of the finished pool. Our manufacturing facility in the Qingdao Economic Development Zone spans 12,000 square metres and houses dedicated workshops for PVC cutting, tube heat sealing, FRP mould fabrication, pool digital printing, final assembly, and quality testing.
+  - By integrating design, engineering, prototyping, manufacturing, and testing under one roof, we eliminate the inefficiencies of contract manufacturing and maintain direct control over build quality, material selection, and delivery timelines. Every pool that leaves our workshop is built by our people, on our equipment, to our standards.
 
 stats:
-  - value: '12,000 m²'
-    label: 'Ražošanas platība'
-  - value: '200+'
-    label: 'Kvalificēti strādnieki'
-  - value: '15,000+'
-    label: 'Gadā saražoti SUP dēļi'
-  - value: 'ISO 9001'
-    label: 'Kvalitātes sertifikāts'
+  - value: 12,000 m²
+    label: Manufacturing floor
+  - value: 200+
+    label: Skilled workers
+  - value: 15,000+
+    label: pools produced annually
+  - value: ISO 9001
+    label: Quality certified
 
-intelligence_tagline: 'Rūpnīcas ieskats'
-intelligence_title: 'Iepazīstieties ar mūsu ražošanas iespējām'
+intelligence_tagline: Factory Intelligence
+intelligence_title: Explore Our Manufacturing Capabilities
 
 intelligence_cards:
-  - title: 'Ražošanas jauda'
+  - title: Production Capacity
     icon: C
     icon_bg: blue
-    desc: '12,000 m² ražotne, kas gadā saražo 15,000+ SUP SUP dēļu un drošības aprīkojuma produktu līnijās. 200+ strādnieki, 2 maiņas.'
+    desc: '12,000 m² facility producing 15,000+ pools/yr across pools and safety equipment lines. 200+ workers, 2 shifts.'
     metrics:
-      - label: 'MOQ'
-        value: 'SUP: 5–10'
-      - label: 'Izpildes laiks'
-        value: '30–45 dienas'
+      - label: MOQ
+        value: 'Samples 5–10 · Bulk 50+'
+      - label: Lead Time
+        value: '12–16 weeks (bulk)'
     link: /factory/capacity/
-    link_label: 'Pilna informācija par ražošanas jaudu →'
-  - title: 'Kvalitātes laboratorija un testēšana'
+    link_label: Full capacity details →
+  - title: Quality Lab & Testing
     icon: Q
     icon_bg: green
-    desc: 'Neatkarīga kvalitātes kontroles laboratorija ar 4 testēšanas posmiem: izejmateriālu pārbaude (stiepes, plīsumizturība, UV), 24–48 h spiediena noturēšana pie 1,25x nominālā spiediena, šuvju atdalīšanas testēšana un slodzes/līdzsvara pārbaude katram dēlim.'
+    desc: 'Independent QC lab with 4 testing stages: raw material inspection (tensile, tear, UV), 24–48h pressure hold at 1.25x rated pressure on every pool, load/balance verification, and seam peel strength testing by batch sampling every 50 units (ASTM D751).'
     metrics:
-      - label: 'Laboratorijas iekārtas'
-        value: 'Stiepes testētājs, temperatūras kamera, noplūdes tvertne'
-      - label: 'Standarti'
+      - label: Lab Equipment
+        value: 'Tensile tester, temp chamber, leak tank'
+      - label: Standards
         value: 'ISO 9001, CE, AS 1799'
     link: /factory/quality-lab/
-    link_label: 'Laboratorijas procedūras un iekārtas →'
-  - title: 'OEM/ODM iespējas'
+    link_label: 'Lab procedures & equipment →'
+  - title: OEM/ODM Capability
     icon: O
     icon_bg: purple
-    desc: 'Kompleksi OEM/ODM pakalpojumi: pielāgota veidņu dizaina izstrāde, iepakojums ar privāto zīmolu, pielāgotas dēļu krāsas, klājuma grafika (digitālā un sitiena druka) un drop-ship loģistika.'
+    desc: 'End-to-end OEM/ODM services: custom mould design, private-label packaging, custom pool colors, deck graphics (digital & screen printing), and drop-ship logistics.'
     metrics:
-      - label: 'Sertifikāti'
+      - label: Certifications
         value: 'ISO 9001, BSCI, CE, REACH'
-      - label: 'Piegāde'
-        value: 'FOB, CIF, DDP uz 50+ valstīm'
+      - label: Shipping
+        value: 'FOB, CIF, DDP to 50+ countries'
     link: /factory/oem-capability/
-    link_label: 'Pilns OEM pakalpojumu klāsts →'
+    link_label: 'Full OEM services →'
 
 workshops_section:
-  tagline: 'Cehi'
-  title: 'Ražošanas cehi'
+  tagline: Workshops
+  title: Manufacturing Workshops
   workshops:
-    - title: 'PVC griešana un materiālu sagatavošana'
-      description: 'Automātiskās CNC griešanas mašīnas apstrādā PVC un Drop-Stitch audumus ar precizitāti, kas mazāka par vienu milimetru. Ar datoru optimizēta paneļu izkārtojuma izmantošana samazina materiālu atkritumus un nodrošina, ka katrs panels pirms metināšanas atbilst izmēru specifikācijai.'
+    - title: PVC Cutting & Material Preparation
+      description: Automatic CNC cutting machines process PVC and drop-stitch fabrics with sub-millimetre precision. Computer-optimised nesting minimises material waste and ensures every panel meets its dimensional specification before welding.
       image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
-    - title: 'Balonu metināšana un termiskā hermetizācija'
-      description: 'Specializēta metināšanas darbnīca ar termiskās hermetizācijas mašīnām un RF dielektriskajām presēm. Karstā gaisa hermetizācijas iekārtas savieno un sapludina PVC balonu kameras, savukārt RF metinājumi veido augstas izturības hermētiskas šuves, kas pārsniedz EN ISO 25649 prasības.'
+    - title: Tube Welding & Heat Sealing
+      description: Dedicated welding workshop with heat sealing machines and RF dielectric presses. Hot-air heat sealers bond and fuse PVC tube chambers, while RF welds produce high-strength airtight seams that exceed EN ISO 25649 requirements.
       image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    - title: 'FRP veidnes un kompozītu izgatavošana'
-      description: 'Pielāgotas FRP veidnes SUP komponentiem, kas izgatavotas, izmantojot stikla šķiedras rokas pārklāšanas veidošanu ar poliesteru un vinilesteru sveķu sistēmām. Katrs slānis tiek veltnēts ar rokām un iepakots vakuumā vienmērīgas kvalitātes nodrošināšanai. Želejvirsmas krāsošanas kabīne nodrošina augsta spīduma, UV izturīgu jūras apdari.'
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
-    - title: 'SUP druka un noformējums'
-      description: 'SUP dēļi tiek noformēti, izmantojot digitālo druku pilnkrāsu grafikai un sitiena druku logotipiem un atkārtojošiem rakstiem. Digitālie printeri rada fotokvalitātes klājuma dizainu, savukārt sitiena druka nodrošina izturīgas, košas zīmolu zīmes.'
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
-    - title: 'Galīgā montāža un aprīkošana'
-      description: 'Montāžas līnija, kurā Drop-Stitch kodoli tiek pabeigti ar sānu sliedēm, tiek uzklāti EVA klājumi un uzstādīti spurņi, vārsti un piederumi. Katrs dēlis iziet 100 punktu montāžas kontrolsarakstu, ko apstiprina komandas vadītājs.'
+    - title: FRP Moulds & Composite Fabrication
+      description: Custom FRP moulds for pool components, produced using hand-lay-up fiberglass moulding with polyester and vinylester resin systems. Each layer is hand-rolled and vacuum-bagged for consistent quality. Gelcoat spray booth provides a high-gloss, UV-resistant marine finish.
+      image: https://assets.olagoon.com/images/olagoon/products/family-oasis.webp
+    - title: pool Printing & Decoration
+      description: pools are decorated using digital printing for full-colour graphics and screen printing for logos and repeating patterns. Digital printers produce photo-quality deck designs, while screen printing delivers durable, vivid brand marks.
+      image: https://assets.olagoon.com/images/olagoon/products/family-oasis.webp
+    - title: Final Assembly & Rigging
+      description: Assembly line where drop-stitch cores are finished with rails, wall surfaces are applied, and valves, fittings, and accessories are installed. Each pool follows a 100-point assembly checklist signed off by the team lead.
       image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
-    - title: 'Kvalitātes testēšana un pārbaude'
-      description: 'Katrs pabeigtais dēlis pirms nosūtīšanas iziet obligāto gaisa noturības testēšanu, šuvju atdalīšanas pārbaudi un pilnu sistēmu pārbaudi. Mūsu kvalitātes laboratorija darbojas neatkarīgi no ražošanas un ziņo tieši vadībai.'
+    - title: Quality Testing & Inspection
+      description: Every completed pool undergoes mandatory air-retention testing and a full systems check before shipping, with seam peel strength verified by batch sampling every 50 units. Our quality lab operates independently from production and reports directly to management.
       image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 
 equipment_section:
-  tagline: 'Iekārtas'
-  title: 'Galvenās ražošanas iekārtas'
-  view_full: 'Skatīt pilnu iekārtu sarakstu →'
+  tagline: Equipment
+  title: Key Manufacturing Equipment
+  view_full: View full equipment list →
   view_full_link: /factory/equipment/
   items:
-    - name: 'Automātiskā PVC griešanas mašīna'
-      spec: 'CNC vadība, 0.1 mm precizitāte'
-    - name: 'Termiskās hermetizācijas mašīna'
-      spec: 'Karstais gaiss, 200–300 °C, balonu savienošanai'
-    - name: 'RF dielektriskā metināšanas prese'
-      spec: '15 kW, hermētisku šuvju metināšana'
-    - name: 'Stikla šķiedras rokas pārklājuma veidnes'
-      spec: 'SUP dēļu veidnes līdz 14 ft'
-    - name: 'Digitālais printeris'
-      spec: 'Pilnkrāsu SUP klājuma grafika'
-    - name: 'Sitiena drukas mašīna'
-      spec: 'Daudzkrāsu logotipu druka'
+    - name: Automatic PVC Cutting Machine
+      spec: CNC-controlled, 0.1 mm accuracy
+    - name: Heat Sealing Machine
+      spec: Hot-air, 200–300 °C, for tube bonding
+    - name: RF Dielectric Welding Press
+      spec: 15 kW, airtight seam welding
+    - name: Fiberglass Hand-Lay-Up Moulds
+      spec: pools moulds up to 14 ft
+    - name: Digital Printer
+      spec: Full-colour pool deck graphics
+    - name: Screen Printing Machine
+      spec: Multi-colour logo printing
 
 qc_section:
-  tagline: 'Kvalitātes kontrole'
-  title: 'Testēšanas un kvalitātes nodrošināšanas process'
-  subtitle: 'Katrs dēlis pirms nosūtīšanas iziet obligātu testēšanu. Mūsu kvalitātes laboratorija darbojas neatkarīgi no ražošanas un ziņo tieši vadībai.'
+  tagline: Quality Control
+  title: Testing & Quality Assurance Process
+  subtitle: Every pool undergoes mandatory testing before shipping. Our quality lab operates independently from production and reports directly to management.
   steps:
     - step: '1'
-      title: 'Izejvielu pārbaude'
-      desc: 'PVC un Drop-Stitch audumi pirms jebkuras partijas nonākšanas ražošanā iziet stiepes testēšanu (ASTM D751), plīsuma izplatības un UV izturības pārbaudi.'
+      title: Raw Material Inspection
+      desc: PVC and drop-stitch fabrics undergo tensile testing (ASTM D751), tear propagation, and UV resistance verification before any batch enters production.
     - step: '2'
-      title: '24–48 stundu gaisa noturības tests'
-      desc: 'Katra balonu kamera tiek piepūsta līdz 125% no nominālā spiediena un noturēta 24–48 stundas. Spiediena kritums, kas pārsniedz 5%, izraisa automātisku noraidījumu un šuvju atkārtotu pārbaudi.'
+      title: 24–48 Hour Air Retention Test
+      desc: Every tube chamber is inflated to 125% of rated pressure and held for 24–48 hours. Pressure drop exceeding 5% triggers automatic rejection and seam re-inspection.
     - step: '3'
-      title: 'Slodzes un līdzsvara testēšana'
-      desc: 'Pabeigtie dēļi tiek slodzēti līdz maksimālajai nominālajai ietilpībai un testēti uz stabilitāti un stingrību. Katrs dēlis pirms gala pārbaudes tiek testēts ūdenī.'
+      title: Load & Balance Testing
+      desc: Completed pools are loaded to maximum rated capacity and tested for stability and rigidity. Each pool is water-tested before final inspection.
 
 oem_section:
-  tagline: 'OEM projekti'
-  title: 'Zīmolu un OEM partnerības gadījumu piemēri'
-  subtitle: 'No koncepta līdz konteineram — kā mēs palīdzam globālajiem zīmoliem uzsākt un paplašināt to piepūšamo SUP līnijas.'
+  tagline: OEM Projects
+  title: Brand & OEM Partnership Case Studies
+  subtitle: From concept to container — how we help global brands launch and scale their inflatable pools lines.
   cases:
-    - challenge: 'Eiropas āra aktivitāšu mazumtirgotājam bija nepieciešama SUP līnija ar privāto zīmolu, unikālu klājuma grafiku, videi draudzīgu PVC un tirdzniecībai gatavu iepakojumu — viss jānogādā 60 dienu laikā.'
-      solution: 'Izstrādājām pielāgotus digitālās drukas failus, iegādājāmies REACH atbilstošu PVC un saīsinājām paraugu izstrādi no 3 kārtām uz 1, izvietojot dizaina komandu mūsu Cindao rūpnīcā.'
-      result: '55 dienas no parakstīta pirkuma pasūtījuma līdz FOB. 2,400 vienības 4 SKU klāstā. Atkārtots pasūtījums iesniegts pirms pirmā konteinera ierašanās.'
-    - challenge: 'ASV ūdenssporta jaunuzņēmumam bija nepieciešams augstas veiktspējas Drop-Stitch SUP ar pielāgotu formu, kopīga zīmola iepakojumu un BSCI sertifikātu izvietošanai mazumtirdzniecībā.'
-      solution: 'Pielāgojām esošo SUP veidni ar mainītu kontūru, izstrādājām kopīga zīmola iepakojuma māksliniecisko noformējumu un sniedzām pilnu BSCI audita dokumentāciju.'
-      result: 'Veiksmīgi iekļauts 3 lielu ASV āra aktivitāšu tīklu sortimentā. 5,000+ vienības pirmajā gadā ar 98% realizācijas līmeni.'
-    - challenge: 'Austrālijas izplatītājam bija nepieciešama CE sertificēta SUP līnija ar pielāgotām krāsām un atbilstība Austrālijas standartiem.'
-      solution: 'Izgatavojām pirmsražošanas paraugus ar 4 krāsu variantiem un koordinējām neatkarīgu trešās puses atbilstības testēšanu.'
-      result: '3 modeļu SUP līnija uzsākta AU/NZ tirgū. Vēlāk iegūta uzvara valsts konkursā uz 12 patrūļas SUP.'
+    - challenge: European outdoor retailer needed a private-label pool line with unique deck graphics, eco-friendly PVC, and retail-ready packaging — all delivered in 60 days.
+      solution: Developed custom digital print files, sourced REACH-compliant PVC, and compressed sampling from 3 rounds to 1 by co-locating the design team at our Qingdao factory.
+      result: 55 days from signed PO to FOB. 2,400 units across 4 SKUs. Repeat order placed before first container arrived.
+    - challenge: US watersports startup needed a high-performance drop-stitch pool with custom shape, co-branded packaging, and BSCI certification for retail placement.
+      solution: Adapted existing pool mould with modified outline, developed co-branded packaging artwork, and provided full BSCI audit documentation.
+      result: Successfully listed in 3 major US outdoor chains. 5,000+ units in first year with 98% sell-through rate.
+    - challenge: Australian distributor required a CE-certified pool range with custom colours and compliance with Australian standards.
+      solution: Produced pre-production samples with 4 colour variants and coordinated third-party compliance testing.
+      result: 3-model pool range launched in AU/NZ market. Followed by government tender win for 12 patrol pools.
 
 faq_section:
-  tagline: 'BUJ'
-  title: 'B2B un OEM biežāk uzdotie jautājumi'
+  tagline: FAQ
+  title: B2B & OEM Frequently Asked Questions
   questions:
-    - q: 'Kāds ir minimālais pasūtījuma daudzums (MOQ) OEM piepūšamajiem SUP dēļiem?'
-      a: 'MOQ sākas no 5–10 vienībām standarta OEM modeļiem. Pielāgotu veidņu un privātā zīmola projektiem atkarībā no sarežģītības ir nepieciešamas vismaz 200 vienības. Jaunu zīmolu palaišanai ir pieejami izmēģinājuma pasūtījumi un paraugu partijas.'
-    - q: 'Vai olagoon ir BSCI sertifikāts?'
-      a: 'Jā. Mūsu rūpnīca uztur derīgu BSCI sociālās atbilstības sertifikātu (audita pārskats pieejams pēc pieprasījuma). Mums ir arī ISO 9001 kvalitātes vadības sertifikāts, un visiem produktiem ir CE sertifikāts. Ar katru OEM sūtījumu tiek piegādāta REACH un RoHS atbilstības dokumentācija.'
-    - q: 'Kāds ir tipiskais izpildes laiks OEM pasūtījumam?'
-      a: 'Standarta izpildes laiks lielapjoma OEM ražošanai ir 30–45 dienas no apstiprināta pirkuma pasūtījuma un priekšapmaksas. Pielāgotu veidņu izstrāde pievieno 15–20 dienas. Steidzamiem pasūtījumiem un sezonas pieprasījuma pikiem ir pieejama paātrinātā ražošana. Prototipu paraugi parasti tiek nosūtīti 15–20 dienu laikā.'
-    - q: 'Vai jūs varat nosūtīt kravu FOB Cindao vai CIF uz mūsu ostu?'
-      a: 'Jā. Mēs nosūtām FOB Cindao, CIF uz lielākajām pasaules ostām un DDP kvalificētiem partneriem. Mūsu loģistikas komanda pārvalda konteineru rezervēšanu, eksporta dokumentāciju un muitas formalitātes. Mēs piegādājam uz 50+ valstīm ES, ASV, AU un Āzijas tirgos.'
+    - q: What is the minimum order quantity (MOQ) for OEM inflatable pools?
+      a: Samples and trial orders start at 5–10 units. Standard production MOQ is 50 units. Custom moulds and private-label projects require a minimum of 200 units depending on complexity.
+    - q: Does olagoon hold BSCI certification?
+      a: Yes. Our factory maintains valid BSCI social compliance certification (audit report available on request). We also hold ISO 9001 for quality management and all products carry CE certification. REACH and RoHS compliance documentation provided with every OEM shipment.
+    - q: What is the typical lead time for an OEM order?
+      a: Production runs take 12–16 weeks for 50–100 units, 10–14 weeks for 300–1,000 units, and 8–12 weeks above 1,000 units, from confirmed PO and deposit to FOB Qingdao. Custom mould development adds 15–20 days for tooling. Expedited production is available for urgent orders and seasonal rushes. Prototype samples typically ship within 15–20 days.
+    - q: Can you ship FOB Qingdao or CIF to our port?
+      a: Yes. We ship FOB Qingdao, CIF major global ports, and DDP for qualified partners. Our logistics team manages container booking, export documentation, and customs clearance. We ship to 50+ countries across EU, US, AU, and Asia markets.
 
-b2b_moq: 'Standarta MOQ: 5–10 vienības uz modeli. Jaunām partnerībām laipni gaidāmi izmēģinājuma pasūtījumi.'
+b2b_moq: 'Samples from 5–10 units. Standard production MOQ: 50 units per model.'
 
 production_flow:
-  tagline: 'Ražošanas plūsma'
-  title: 'No materiāla līdz gatavam dēlim'
-  subtitle: 'Katrs dēlis iziet 6 ražošanas posmus ar kvalitātes kontroles punktiem katrā solī. Bez saīsinājumiem, bez izlaistām pārbaudēm.'
+  tagline: Production Flow
+  title: From Material to Finished Pool
+  subtitle: Every pool passes through 6 production stages with QC checkpoints at every step. No shortcuts, no skipped inspections.
   stages:
     - stage: '01'
-      title: 'Materiālu saņemšana un ienākošā kvalitātes kontrole'
-      description: 'Visi ienākošie materiāli tiek reģistrēti pēc partijas numura mūsu ERP sistēmā. PVC auduma ruļļi, Drop-Stitch kodoli, vārsti, līmes un furnitūra tiek turēti karantīnā līdz kvalitātes kontroles apstiprinājumam.'
-      qc_check: 'Stiepes izturība (ASTM D751), plīsumizturība (ISO 4674), biezuma mērījums, līmes viskozitāte, vizuālo defektu skenēšana'
-      qc_threshold: 'Testētas 100% partiju. Noraidīt, ja stiepe < 90% no specifikācijas, plīsums < min. specifikācijas vai konstatēts jebkurš vizuāls defekts'
-      responsibility: 'Ienākošās kvalitātes kontroles komanda (3 pārbaudītāji)'
+      title: Material Receiving & Incoming QC
+      description: 'All incoming materials are logged by batch/lot number in our ERP system. PVC fabric rolls, drop-stitch cores, valves, adhesives, and hardware are quarantined until QC sign-off.'
+      qc_check: 'Tensile strength (ASTM D751), tear resistance (ISO 4674), thickness gauge, adhesive viscosity, visual defect scan'
+      qc_threshold: '100% of batches tested. Reject if tensile < 90% of spec, tear < spec min, or any visual defect'
+      responsibility: Incoming QC team (3 inspectors)
     - stage: '02'
-      title: 'CNC griešana un materiālu sagatavošana'
-      description: 'Ar datoru optimizēts izkārtojums izvieto paneļus uz PVC krājumiem, lai samazinātu atkritumus. Automātiskās CNC griešanas mašīnas uztur 0.1 mm pozicionēšanas precizitāti.'
-      qc_check: 'Izmēru pārbaude pret CAD DXF failiem, šķautnes kvalitātes pārbaude, paneļu skaita verificēšana'
-      qc_threshold: 'Katrs 20. panelis tiek izmērīts. Tolerance ±0.5 mm. Noraidīt partiju, ja >2% ārpus tolerances'
-      responsibility: 'Griešanas ceha vadītājs'
+      title: CNC Cutting & Material Prep
+      description: 'Computer-optimized nesting lays out panels on PVC stock to minimize waste. Automatic CNC cutting machines maintain 0.1 mm positional accuracy.'
+      qc_check: 'Dimensional check against CAD DXF files, edge quality inspection, panel count verification'
+      qc_threshold: 'Every 20th panel measured. Tolerance ±0.5 mm. Reject batch if >2% out of tolerance'
+      responsibility: Cutting workshop lead
     - stage: '03'
-      title: 'Metināšana un Drop-Stitch savienošana'
-      description: 'Drop-Stitch kodoli tiek savienoti ar ārējiem PVC laminātiem, izmantojot termisko lamināciju. Balonu kameras tiek metinātas ar RF vai karstā gaisa metināšanu. Sānu joslas tiek savienotas ar trīsslāņu kausēšanas metodi.'
-      qc_check: 'Atdalīšanas tests ik 50 vienības (ASTM D751), metinājuma platuma mērījums, karstā gaisa temperatūras žurnāla pārskats, vizuāla šuvju pārbaude pret gaismu'
-      qc_threshold: 'Atdalīšanas izturība vismaz 8 N/cm. Metinājuma platuma tolerance ±1 mm. Jebkurš redzams defekts = noraidījums'
-      responsibility: 'Metināšanas kvalitātes kontrole (2 pārbaudītāji maiņā)'
+      title: Welding & Drop-Stitch Bonding
+      description: 'Drop-stitch cores are bonded to outer PVC laminates using heat lamination. Tube chambers are RF-welded or hot-air welded. Rail bands are triple-layer fusion bonded.'
+      qc_check: 'Peel test every 50 units (ASTM D751), weld width measurement, hot-air temperature log review, visual seam inspection under backlight'
+      qc_threshold: 'Peel strength min 8 N/cm. Weld width tolerance ±1 mm. Any visible channeling = reject'
+      responsibility: Welding QC (2 inspectors per shift)
     - stage: '04'
-      title: 'Montāža un aprīkošana'
-      description: 'Dēļi nonāk galīgajā montāžā, kur tiek savienoti visi komponenti: sānu malas tiek pielīmētas un metinātas, uzstādīti vārsti, D-gredzeni, rokturi, spurņu kastes un pārnēsāšanas maisi. Katra vienība iziet 100 punktu montāžas kontrolsarakstu.'
-      qc_check: '100 punktu kontrolsaraksta apstiprinājums katrai vienībai, vārsta darbības tests (10 atvēršanas/aizvēršanas cikli), furnitūras pievilkšanas momenta pārbaude, vizuāla pārbaude'
-      qc_threshold: 'Nulles defektu politika drošībai kritiskajiem elementiem (vārsti, D-gredzeni, rokturi). Nelieli kosmētiskie defekti: AQL 2.5 (ISO 2859)'
-      responsibility: 'Montāžas komandas vadītājs + līnijas kvalitātes kontrole'
+      title: Assembly & Rigging
+      description: 'Pools move to final assembly where all components are mated: rails glued and welded, valves installed, D-rings, handles, drain ports, and carry bag fitting. Each unit follows a 100-point assembly checklist.'
+      qc_check: '100-point checklist sign-off per unit, valve function test (10 open/close cycles), hardware torque verification, visual inspection'
+      qc_threshold: 'Zero-defect policy on safety-critical items (valves, D-rings, handles). Minor cosmetic: AQL 2.5 (ISO 2859)'
+      responsibility: Assembly team lead + line QC
     - stage: '05'
-      title: 'Spiediena testēšana un kvalitātes aizture'
-      description: 'Katra kamera tiek piepūsta līdz 1,25× nominālajam spiedienam (parasti 20–25 PSI) un noturēta 24–48 stundas. Spiediena sensori reģistrē rādījumus nepārtraukti. Kameras ar spiediena kritumu, kas pārsniedz 5%, tiek noraidītas un nosūtītas šuvju atkārtotai pārbaudei.'
-      qc_check: '24–48 h spiediena noturēšanas žurnāls, sensoru kalibrācija pārbaudīta katru dienu, ar temperatūru kompensēts spiediena rādījums, šuvju atkārtots tests pēc remonta'
-      qc_threshold: 'Maksimāli 5% spiediena kritums 24–48 h laikā pie stabila temperatūras režīma. Jebkura kamera, kas pārsniedz šo robežu = 100% atkārtota visas ražošanas partijas testēšana'
-      responsibility: 'Kvalitātes laboratorija (neatkarīga no ražošanas, ziņo vadībai)'
+      title: Pressure Testing & Quality Hold
+      description: 'Every chamber is inflated to 1.25× rated pressure (typically 20–25 PSI) and held for 24–48 hours. Pressure sensors log continuously. Chambers exceeding 5% pressure drop are rejected and sent for seam re-inspection.'
+      qc_check: '24–48h pressure hold log, sensor calibration verified daily, temperature-compensated pressure reading, seam re-test after repair'
+      qc_threshold: 'Max 5% pressure drop over 24–48h at stable temp. Any chamber exceeding this = 100% re-test of entire production batch'
+      responsibility: Quality lab (independent of production, reports to management)
     - stage: '06'
-      title: 'Gala pārbaude un iepakošana'
-      description: 'Gala vizuālā un funkcionālā pārbaude. Virsmas defekti, krāsas viendabīgums, etiķešu/BIN pārbaude, iepakojuma integritāte un piederumu pilnīgums. Vienības tiek iepakotas vakuumā, kastēs un uz paletēm konteineru iekraušanai.'
-      qc_check: 'Pilna vizuālā pārbaude, piederumu kontrolsaraksts katram SKU, iepakojuma kritiena tests (1 m, nejauša izlase), etiķetes/svītrkoda skenēšanas pārbaude'
-      qc_threshold: 'AQL 2.5 lielajiem defektiem, AQL 4.0 nelielajiem. Nulles tolerance drošības defektiem. Vizuāli pārbaudītas 100% vienību'
-      responsibility: 'Gala kvalitātes kontroles komanda (4 pārbaudītāji) + iepakošanas komandas vadītājs'
+      title: Final Inspection & Packing
+      description: 'Final visual and functional inspection. Surface defects, color consistency, label/BIN verification, packaging integrity, and accessory completeness. Units are vacuum-packed, boxed, and palletized for container loading.'
+      qc_check: 'Full visual inspection, accessory checklist per SKU, packaging drop test (1 m, random sample), label/bar code scan verification'
+      qc_threshold: 'AQL 2.5 for major defects, AQL 4.0 for minor. Zero tolerance on safety defects. 100% of units visually inspected'
+      responsibility: Final QC team (4 inspectors) + Packing team lead
 
 workforce:
-  tagline: 'Mūsu cilvēki'
-  title: 'Darbaspēks un kompetence'
+  tagline: Our People
+  title: Workforce & Expertise
   engineers: 25+
-  engineers_detail: 'Inženieri pētniecības un izstrādes, veidņu dizaina, materiālu laboratorijas un ražošanas inženierijas jomās. Vidēji 7+ gadu pieredze piepūšamo produktu ražošanā.'
-  shift_pattern: '2 maiņas dienā (07:00–15:30, 15:30–00:00). Neobligātā nakts maiņa steidzamiem pasūtījumiem.'
-  training: 'Ikmēneša kvalitātes kontroles apmācības, ceturkšņa drošības mācības, ikgadēja prasmju vērtēšana. Jaunie darbinieki pirms darba ražošanas līnijā pabeidz 40 stundu ievadapmācību.'
+  engineers_detail: 'Engineers across R&D, mold design, materials lab, and production engineering. Average 7+ years in inflatable manufacturing.'
+  shift_pattern: '2 shifts/day (07:00–15:30, 15:30–00:00). Optional night shift for urgent orders.'
+  training: 'Monthly QC training, quarterly safety drills, annual skills assessment. New hires complete 40-hour induction before working on production line.'
   departments:
-    - name: 'Pētniecība, izstrāde un inženierija'
+    - name: R&D & Engineering
       count: 25+
-      role: 'Produktu dizains, veidņu inženierija, materiālu laboratorija'
-    - name: 'Griešana un materiālu sagatavošana'
+      role: Product design, mold engineering, materials lab
+    - name: Cutting & Material Prep
       count: 15
-      role: 'CNC griešana, paneļu sagatavošana, materiālu apstrāde'
-    - name: 'Metināšana un laminācija'
+      role: CNC cutting, panel preparation, material handling
+    - name: Welding & Lamination
       count: 40
-      role: 'RF metināšana, karstā gaisa metināšana, Drop-Stitch savienošana'
-    - name: 'SUP kodolu savienošana'
+      role: RF welding, hot-air welding, drop-stitch bonding
+    - name: pool Core Bonding
       count: 30
-      role: 'Drop-Stitch laminācija, termiskā savienošana, sānu joslu kausēšana'
-    - name: 'Montāža un aprīkošana'
+      role: Drop-stitch lamination, heat bonding, rail band fusion
+    - name: Assembly & Rigging
       count: 35
-      role: 'Galīgā montāža, furnitūras uzstādīšana, sistēmu pārbaude'
-    - name: 'Kvalitātes kontrole'
+      role: Final assembly, hardware installation, systems check
+    - name: Quality Control
       count: 12
-      role: 'Ienākošā kontrole, procesa kontrole, gala pārbaude, laboratorijas testēšana'
-    - name: 'Loģistika un iepakošana'
+      role: Incoming QC, in-process QC, final inspection, lab testing
+    - name: Logistics & Packing
       count: 20
-      role: 'Iepakošana, konteineru iekraušana, eksporta dokumentācija'
-    - name: 'Vadība un administrācija'
+      role: Packaging, container loading, export documentation
+    - name: Management & Admin
       count: 15
-      role: 'Pārdošana, iepirkumi, personāla vadība, finanses, atbilstība'
+      role: Sales, procurement, HR, finance, compliance
 
 material_traceability:
-  tagline: 'Izsekojamība'
-  title: 'Materiālu izsekošana un partiju kontrole'
-  description: 'Katrai izejvielu partijai mūsu ERP sistēmā tiek piešķirts unikāls partijas numurs. No ierašanās cauri ražošanai līdz gatavajam produktam katra dēļa materiālu saraksts ir saistīts ar sākotnējā piegādātāja partiju. Tas nodrošina pilnu izsekojamību jebkuram kvalitātes vai atbilstības pieprasījumam.'
-  system: 'Pielāgota ERP sistēma (Cindao Vatrad Group iekšējā sistēma) + fiziskas partiju etiķetes uz katra darba pasūtījuma'
-  coverage: '100% ražošanas materiālu — PVC, Drop-Stitch audums, līmes, vārsti, furnitūra, iepakojums'
-  records_retained: '10 gadi (saskaņā ar CE 2013/53/EU prasību)'
+  tagline: Traceability
+  title: Material Tracking & Batch Control
+  description: Every batch of raw material is assigned a unique lot number in our ERP system. From arrival through production to the finished product, each pool's bill of materials links back to the original supplier batch. This enables full upstream traceability for any quality or compliance inquiry.
+  system: Custom ERP (Qingdao Vatrad Group internal system) + physical batch tags on each work order
+  coverage: 100% of production materials — PVC, drop-stitch fabric, adhesives, valves, hardware, packaging
+  records_retained: 10 years (per CE 2013/53/EU requirement)
   suppliers:
-    - material: 'Jūras lietošanai paredzēts PVC'
-      source: 'Ķīnas un Korejas piegādātāji'
-      certified: 'ISO 9001, REACH, RoHS'
-    - material: 'Drop-Stitch audums'
-      source: 'Pašu ražots + ārējais partneris'
-      certified: 'Iekšējā kvalitātes kontrole + piegādātāja ISO 9001'
-    - material: 'Vārsti un furnitūra'
-      source: 'Ķīnas OEM piegādātāji'
-      certified: 'ISO 9001, materiālu sertifikāti katrai partijai'
+    - material: Marine-grade PVC
+      source: Chinese and Korean suppliers
+      certified: ISO 9001, REACH, RoHS
+    - material: Drop-stitch fabric
+      source: In-house weaving + external partner
+      certified: Internal QC + supplier ISO 9001
+    - material: Valves & Hardware
+      source: Chinese OEM suppliers
+      certified: ISO 9001, material certs per batch
 
 qc_dashboard:
-  tagline: 'Kvalitātes kontrole skaitļos'
-  title: 'Kvalitātes kontroles rādītāji'
-  subtitle: 'Reāli izturēšanas/noraidīšanas dati no mūsu ražošanas līnijas. Mūsu kvalitātes laboratorija darbojas neatkarīgi no ražošanas un ziņo tieši vadībai.'
+  tagline: QC by the Numbers
+  title: Quality Control Metrics
+  subtitle: Real pass/fail data from our production line. Our quality lab operates independently from production and reports directly to management.
   stats:
-    - value: '100%'
-      label: 'Ar spiedienu testētas vienības'
-      detail: 'Katrs dēlis, katra kamera, katra partija'
+    - value: 100%
+      label: Units pressure-tested
+      detail: Every pool, every chamber, every batch
     - value: '<5%'
-      label: 'Maksimālais pieļaujamais spiediena kritums'
-      detail: '24–48 h laikā pie 1,25× nominālā spiediena'
-    - value: 'AQL 2.5'
-      label: 'Lielo defektu robežvērtība'
-      detail: 'Saskaņā ar ISO 2859 izlases standartu'
-    - value: '24–48h'
-      label: 'Spiediena noturēšanas ilgums'
-      detail: 'Atkarībā no produktu kategorijas'
-    - value: '1.25×'
-      label: 'Testa spiediens pret nominālo'
-      detail: 'Drošības rezerve katrai kamerai'
-    - value: '0%'
-      label: 'Tolerance drošības defektiem'
-      detail: 'Vārsti, D-gredzeni, šuves, peldētspēja'
+      label: Max allowable pressure drop
+      detail: Over 24–48h at 1.25× rated pressure
+    - value: AQL 2.5
+      label: Major defect threshold
+      detail: Per ISO 2859 sampling standard
+    - value: 24–48h
+      label: Pressure hold duration
+      detail: Depending on product category
+    - value: 1.25×
+      label: Test pressure vs rated
+      detail: Safety margin on every chamber
+    - value: 0%
+      label: Tolerance on safety defects
+      detail: Valves, D-rings, seams, buoyancy
 
 process_cta:
-  title: 'Apskatiet mūsu ražošanas procesu'
-  desc: 'Sekojiet dēlim cauri katram ražošanas posmam — no izejmateriāla līdz ūdenim gatavam dēlim.'
-  label: 'Skatīt ražošanas procesu →'
+  title: See our manufacturing process
+  desc: Follow a pool through every stage of production — from raw material to backyard-ready pool.
+  label: View production process →
   link: /factory/process/

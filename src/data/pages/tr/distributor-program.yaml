@@ -1,117 +1,117 @@
 meta:
-  title: 'Ülke Ortaklığı — Bir Ülke, Bir Resmi OLagoon Distribütörü | {SITE}'
-  description: 'Ülkeniz için resmi OLagoon distribütörü olmak üzere başvurun. Her pazarda tek yetkili ortak, bölge koruması, doğrudan fabrika marjları, yıllık indirimler ve küresel SUP ve su sporu distribütörleri için 10 modüllü ülke ortaklığı destek programı.'
+  title: 'Country Partners — One Country, One Official OLagoon Distributor | {SITE}'
+  description: 'Apply to become the official OLagoon distributor for your country. One authorized partner per market, territory protection, direct-factory margins, annual rebates, and a 10-module country partner support program for global pool and water sports distributors.'
   keywords:
-    - 'ülke ortaklığı programı'
-    - 'distribütör olun'
-    - 'SUP distribütörlüğü'
-    - 'tek ülke tek distribütör'
-    - 'stand up paddle distribütörü'
-    - 'su sporu dağıtımı'
-    - 'ülke ortaklığı başvurusu'
+    - 'country partnership program'
+    - 'become a distributor'
+    - 'pool distributorship'
+    - 'one country one distributor'
+    - 'stand up paddle distributor'
+    - 'water sports distribution'
+    - 'country partnership application'
 hero:
-  tagline: 'Ülke Ortaklığı'
-  title: 'Bir Ülke.<br />Bir Resmi OLagoon Distribütörü.'
-  subtitle: 'OLagoon, onaylanan her pazar için tek bir yetkili ülke distribütörü atar. Münhasır bölge, yıllık indirimli bayi fiyatları ve eksiksiz bir distribütör destek programı — karşılığında imzalanmış bir anlaşma ve pazarı kurmaya yönelik gerçek bir taahhüt.'
+  tagline: 'Country Partnership'
+  title: 'One Country.<br />One Official OLagoon Distributor.'
+  subtitle: 'OLagoon appoints a single authorized country distributor for each approved market. Exclusive territory, dealer pricing with annual rebates, and a full distributor support program — in exchange for a signed agreement and a real commitment to build the market.'
   actions:
-    - text: 'Ülke Ortaklığı İçin Başvurun'
+    - text: 'Apply for Country Partnership'
       href: /contact/?subject=Country Partnership Application
       variant: primary
-    - text: 'Yerel Distribütörünüzü Bulun'
+    - text: 'Find Your Local Distributor'
       href: /distributor-program/
       variant: secondary
-    - text: 'Bayi Fiyat Listesi Talep Edin'
+    - text: 'Request Dealer Price List'
       href: /contact/?subject=Dealer Price List
       variant: secondary
 stats:
   - value: '1'
-    label: 'Ülke veya bölge başına resmi distribütör'
+    label: 'Official distributor per country or region'
   - value: '100–300'
-    label: 'Minimum ilk sipariş (Ülke / Bölge)'
+    label: 'Minimum first order (Country / Regional)'
   - value: '50+'
-    label: 'Dünya genelinde hizmet verilen ülke'
-  - value: '30–45'
-    label: 'Gün standart teslim süresi (FOB Qingdao)'
+    label: 'Countries served globally'
+  - value: '12–16'
+    label: 'Weeks standard lead time (FOB Qingdao)'
 features:
-  title: 'Neden OLagoon ile Ortaklık'
-  subtitle: 'Bölgeyi kârlı kılacak destek yapısına sahip, tek ülke tek distribütör modeli. Münhasırlık kazanılır ve korunur — kalıcı bir hak değildir.'
+  title: 'Why Partner With OLagoon'
+  subtitle: 'A one-country-one-distributor model with the support structure to make the territory pay. Exclusivity is earned and maintained — not a permanent right.'
   columns: 3
   items:
-    - title: 'Bölgesel Münhasırlık'
-      description: 'Ülke veya bölge başına tek yetkili distribütör. Paralel ithalat yok, iç rekabet yok. Yatırımınız kendi savunma hattınızı oluşturur.'
+    - title: 'Territory Exclusivity'
+      description: 'One authorized distributor per country or region. No parallel imports, no internal competition. Your investment builds your own moat.'
       icon: 'tabler:shield-check'
-    - title: 'Kanal Çakışması Koruması'
-      description: 'Bölgenizden gelen doğrudan siparişler sizin üzerinizden geçer ve fiyatlar marjınızı korur. OLagoon, ülke ortaklarını atlayarak satış yapmaz.'
+    - title: 'Channel Conflict Protection'
+      description: 'Direct orders from your region are routed through you, and pricing protects your margin. OLagoon does not sell around its country partners.'
       icon: 'tabler:users'
-    - title: 'Doğrudan Fabrika Marjları & İndirimler'
-      description: 'Taahhüt edilen hacimlerde indirimli bayi fiyat listesi. Aracı yok. Tam ihracat dokümantasyonu ile FOB Qingdao sevkiyatı.'
+    - title: 'Direct-Factory Margins & Rebates'
+      description: 'Dealer price list with rebates on committed volumes. No middlemen. FOB Qingdao shipping with full export documentation.'
       icon: 'tabler:coins'
-    - title: '10 Modüllü Ortak Destek Programı'
-      description: 'Oryantasyon, pazara giriş, eğitim, pazarlama ve ortak pazar fonu, yedek parça ve satış sonrası hizmet, garanti, sipariş araçları ve ortak portalı — tamamı Distribution Agreement kapsamındadır.'
+    - title: '10-Module Partner Support Program'
+      description: 'Onboarding, go-to-market, training, marketing and joint market funding, spare parts and after-sales, warranty, ordering tools, and a partner portal — covered in your Distribution Agreement.'
       icon: 'tabler:rocket'
-    - title: 'Pazarlama & Ortak Pazar Fonları'
-      description: 'Yerelleştirilmiş kampanya materyalleri, bayi POS materyalleri, etkinlik kitleri, çok dilli dijital içerik ve lansman sezonları için ortak pazarlama desteği.'
+    - title: 'Marketing & Joint Market Funds'
+      description: 'Localized campaign assets, dealer POS materials, event kits, digital content in multiple languages, and co-marketing support for launch seasons.'
       icon: 'tabler:mood-smile'
-    - title: 'Ürün, Satış & Teknik Eğitim'
-      description: 'Ürün, satış ve teknik bilgi üzerine yapılandırılmış oryantasyon oturumları; ürün gamı geliştikçe güncellenen materyaller.'
+    - title: 'Product, Sales & Technical Training'
+      description: 'Structured onboarding sessions on product, sales, and technical knowledge, with updated materials as the range evolves.'
       icon: 'tabler:presentation'
-    - title: 'Yedek Parça & Satış Sonrası Destek'
-      description: 'Yedek parça tedariki, garanti kaydı ve talep yönetimi ile yerel servis ekibiniz için ürün veri sayfaları ve kılavuzlar.'
+    - title: 'Spare Parts & After-Sales Support'
+      description: 'Spare parts supply, warranty registration and claims handling, and product datasheets and manuals for your local service team.'
       icon: 'tabler:settings'
-    - title: 'Özel Hesap Yöneticisi & Ortak Portalı'
-      description: 'Size özel bir distribütör yöneticisi ve OLagoon ortak portalı üzerinden fiyat listelerine, sipariş durumlarına ve pazarlama kaynaklarına erişim.'
+    - title: 'Dedicated Account Manager & Partner Portal'
+      description: 'A personal distributor manager plus access to price lists, order status, and marketing resources through the OLagoon partner portal.'
       icon: 'tabler:user-check'
 table:
-  title: 'Ortaklık Seviyeleri, MOQ & Sipariş Koşulları'
-  subtitle: 'Pazar potansiyelinize uygun seviyeyi seçin. Tüm fiyatlar USD, FOB Qingdao.'
-  caption: 'Numune ve deneme siparişleri (5–30 adet) bölge koruması sağlamaz. Ülke münhasırlığı yalnızca imzalanmış Country / Regional Distributor anlaşmaları için geçerlidir — ilk siparişin tamamlanması, yıllık satın alma hedefleri, yerel stok, satış sonrası yeterlilik ve sürekli pazar yatırımı ile sürdürülür ve kalıcı ya da sürekli bir hak değildir.'
+  title: 'Partnership Tiers, MOQ & Order Terms'
+  subtitle: 'Choose the tier that matches your market potential. All prices in USD, FOB Qingdao.'
+  caption: 'Sample and trial orders (5–30 units) carry no territorial protection. Country exclusivity applies only to signed Country / Regional Distributor agreements — it is maintained by first-order completion, annual purchase targets, local stock, after-sales capability, and continued market investment, and is not a permanent or perpetual right.'
   head:
-    - Program Seviyesi
-    - Minimum Sipariş (adet)
-    - Teslim Süresi
-    - Ödeme
+    - Program Tier
+    - Minimum Order (units)
+    - Lead Time
+    - Payment
   rows:
-    - [Numune / Ürün Değerlendirme, 5–10, 15–20 iş günü, 100% prepaid]
-    - [Deneme Siparişi, 10–30, 30–45 iş günü, 100% prepaid]
-    - [Authorized Dealer, 30–50, 30–45 iş günü, 30% depozito / sevkiyattan önce %70]
-    - [Country / Regional Distributor, 100–300, 30–45 iş günü, 30% depozito / sevkiyattan önce %70]
-    - [Custom & Private Label (standard), 50+, 30–45 iş günü, 30% depozito / sevkiyattan önce %70]
-    - [Deep Custom (new molds, packaging), 200+, 45–60 iş günü, 30% depozito / sevkiyattan önce %70]
-    - [Full Product Line Rights, '300–1,000', 60–90 iş günü, 30% depozito / sevkiyattan önce %70]
+    - [Sample / Product Evaluation, 5–10, 15–20 working days, 100% prepaid]
+    - [Trial Order, 10–30, 15–20 working days, 100% prepaid]
+    - [Authorized Dealer, 30–50, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Country / Regional Distributor, 100–300, 10–14 weeks, 30% deposit / 70% before shipment]
+    - [Custom & Private Label (standard), 50+, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Deep Custom (new molds, packaging), 200+, 12–16 weeks + 15–20 days tooling, 30% deposit / 70% before shipment]
+    - [Full Product Line Rights, '300–1,000', 10–14 weeks, 30% deposit / 70% before shipment]
 faqs:
-  title: 'Ülke Ortaklığı — SSS'
-  subtitle: 'Ciddi ülke ortaklarının başvurmadan önce sorduğu sorular.'
+  title: 'Country Partnership — FAQ'
+  subtitle: 'The questions serious country partners ask before applying.'
   items:
-    - title: 'Tek ülke tek distribütör gerçekte ne anlama gelir?'
-      description: 'OLagoon, tanımlı bir bölge için münhasır haklara sahip tek bir yetkili distribütör atar. Korunan bir ülkeye küresel veya bölgesel kanallarımızdan satış yapmayız. Bölge sahipliğiniz, Distribution Agreement koşulları yerine getirildiği sürece geçerlidir.'
-    - title: 'Bölge sonsuza kadar münhasır mı?'
-      description: 'Hayır. Münhasırlık koşulludur, kalıcı değildir. İmzalanmış bir Distribution Agreement, ilk siparişin tamamlanması, yıllık satın alma hedefleri, yerel stok, satış sonrası yeterlilik ve sürekli pazar yatırımı ile sürdürülür. Bunlar karşılanmazsa bölge yeniden müzakere edilebilir veya başka birine devredilebilir.'
-    - title: 'Minimum ilk sipariş nedir?'
-      description: "Ülke ve bölge distribütörleri 100–300 adetle başlar; yetkili bayiler 30–50 adetle; 10–30 adetlik deneme siparişleri pazarı önce test etmenizi sağlar (deneme ve numune siparişleri bölge koruması sağlamaz). Custom & Private Label programları yukarıdaki seviyelerde listelenen ayrı MOQ'lara tabidir."
-    - title: '10 modüllü destek programı neleri kapsar?'
-      description: 'Seviyeler ve yeterlilik, bölge koruması, MOQ / fiyatlandırma / yıllık indirimler, envanter ve sipariş yürütme, pazarlama varlıkları ve ortak pazar fonları, ürün / satış / teknik eğitim, yedek parça ve satış sonrası servis, garanti kaydı, ortak portalı, ayrıca ürün veri sayfaları, pazarlama varlık kütüphanesi, yıllık indirim takvimi ile sevkiyat ve paketleme listeleri.'
-    - title: 'OLagoon beni kanal çakışmalarından nasıl korur?'
-      description: 'Her bölgede tam olarak bir yetkili distribütör vardır. Bölgenizden gelen sorular ve doğrudan siparişler sizin üzerinizden geçer; web sitesi formları, yerel ortak mevcutsa ona yönlendirilir ve küresel ekip yalnızca ortak yanıt vermediğinde devreye girer.'
-    - title: 'Sevkiyat ve ödeme koşulları nelerdir?'
-      description: "Siparişler tam ihracat dokümantasyonuyla FOB Qingdao olarak gönderilir. Üretim siparişleri %30 depozito ve sevkiyattan önce %70'tir; deneme ve numune siparişleri peşindir. Standart teslim süresi 30–45 iş günüdür, numune serileri için 15–20 iş günüdür."
-    - title: 'Nasıl başvururum?'
-      description: 'Başvurunuzu pazar bilgileriyle birlikte iletişim formu üzerinden gönderin. Pazar uyumunu, perakende varlığını ve lojistik kapasiteyi değerlendirir, ardından 3 iş günü içinde sonraki adımlar ve örnek bir Distribution Agreement ile yanıt veririz.'
+    - title: 'What does one-country-one-distributor really mean?'
+      description: 'OLagoon appoints a single authorized distributor with exclusive rights for a defined territory. We do not sell from our global or regional channels into a protected country. Your territory ownership holds for as long as the Distribution Agreement is met.'
+    - title: 'Is the territory exclusive forever?'
+      description: 'No. Exclusivity is conditional, not perpetual. It is maintained through a signed Distribution Agreement, completion of your first order, annual purchase targets, local stock, after-sales capability, and continued market investment. If these are not met, the territory can be renegotiated or reassigned.'
+    - title: 'What is the minimum first order?'
+      description: 'Country and regional distributors start at 100–300 units; authorized dealers at 30–50 units; trial orders from 10–30 units let you validate the market first (trial and sample orders carry no territory protection). Custom and private-label programs follow separate MOQs listed in the tiers above.'
+    - title: 'What support is included in the 10-module support program?'
+      description: 'Tiers and qualification, territory protection, MOQ / pricing / annual rebates, inventory and order execution, marketing assets and joint market funds, product / sales / technical training, spare parts and after-sales, warranty registration, the partner portal, and product datasheets, marketing asset library, annual rebate schedule, and shipping and packing lists.'
+    - title: 'How does OLagoon protect me from channel conflict?'
+      description: 'Each territory has exactly one authorized distributor. Inquiries and direct orders from your region are routed through you, website forms are forwarded toward the local partner where one exists, and the global team only escalates when a partner does not respond.'
+    - title: 'What are the shipping and payment terms?'
+      description: 'Orders ship FOB Qingdao with full export documentation. Production orders are 30% deposit with 70% before shipment; trial and sample orders are prepaid. Production runs take 12–16 weeks at 50–100 units, 10–14 weeks at 300–1,000 units, and 8–12 weeks above 1,000 units; sample runs ship in 15–20 working days.'
+    - title: 'How do I apply?'
+      description: 'Send your application via the contact form with market details. We review market fit, retail presence, and logistics capability, then respond within 3 business days with next steps and a sample Distribution Agreement.'
 cta:
-  title: 'Pazarınızın sahibi olun.'
-  subtitle: 'OLagoon Ülke Ortaklığı için başvurun ve 3 iş günü içinde yanıt alın.'
+  title: 'Own your market.'
+  subtitle: 'Apply for the OLagoon Country Partnership and get a response within 3 business days.'
   actions:
-    - text: 'Ülke Ortaklığı İçin Başvurun'
+    - text: 'Apply for Country Partnership'
       href: /contact/?subject=Country Partnership Application
       variant: primary
-    - text: 'Program Özetini İndirin'
+    - text: 'Download the Program Overview'
       href: /distributor-program/
       variant: secondary
 geo:
-  tagline: 'Kimlerle Çalışıyoruz'
-  sentence: 'OLagoon; premium şişme SUP board ve su araçlarıyla perakende zincirlerine, kiralama filolarına, su sporu okullarına, tatil köylerine ve devlet alıcılarına hizmet veren ve ülkelerinde OLagoon markasını kurmayı taahhüt eden köklü denizcilik, açık hava ve spor distribütörleriyle çalışır.'
+  tagline: 'Who We Partner With'
+  sentence: 'OLagoon partners with established marine, outdoor, and sports distributors who serve retail chains, rental fleets, water sports schools, resorts, and government buyers with premium inflatable pools and watercraft — and who commit to building the OLagoon brand in their country.'
   audiences:
-    - 'Denizcilik & Kürek Sporları Distribütörleri'
-    - 'Açık Hava & Spor Perakendesi'
-    - 'Kiralama & Tatil Köyü Operatörleri'
-    - 'Su Sporu Okulları'
-    - 'Okyanus Spor Toplulukları'
+    - 'Marine & Paddle Sports Distributors'
+    - 'Outdoor & Sports Retail'
+    - 'Rental & Resort Operators'
+    - 'Water Sports Schools'
+    - 'Ocean Sports Communities'

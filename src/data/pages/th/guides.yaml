@@ -1,25 +1,26 @@
 meta:
-  title: 'คู่มือ SUP — ซื้อ เลือก ฝึกซ้อม | {SITE}'
-  description: 'คู่มือ SUP ของ olagoon: วิธีซื้อ เลือก และฝึกพายบอร์ด ขนาด วัสดุ และเคล็ดลับจากผู้เชี่ยวชาญสำหรับมือใหม่และมืออาชีพ'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'คู่มือการซื้อ SUP'
-    - 'วิธีเลือก SUP'
-    - 'คู่มือขนาด SUP'
-    - 'เคล็ดลับพายบอร์ดแบบสูบลม'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: คู่มือแนะนำ
-  title: เพิ่งเริ่มเล่น SUP ใช่ไหม?
-  subtitle: คู่มือปฏิบัติที่จะช่วยให้คุณเลือกใช้ และเพลิดเพลินกับบอร์ด SUP เป่าลม
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
+
 size_guide:
-  tagline: ขนาดและสเปก
-  title: ค้นหาขนาดที่ใช่สำหรับความต้องการของคุณ
-  desc: เปรียบเทียบขนาดบอร์ด SUP ความจุน้ำหนัก และการใช้งานที่แนะนำ ไม่ว่าคุณจะต้องการ SUP แบบทัวร์ริ่ง บอร์ดโยคะ หรือ SUP แบบอเนกประสงค์ — คู่มือเลือกขนาดของเราช่วยให้คุณเลือกขนาดที่เหมาะสมที่สุด
-  link_label: ดูคู่มือขนาดเต็มพร้อมสเปกผลิตภัณฑ์ →
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: บอร์ด SUP
-      desc: เลือกความยาวตามน้ำหนักตัวและการใช้งานที่ตั้งใจไว้ บอร์ดที่กว้างขึ้น (32"+) ให้ความมั่นคงมากกว่า บอร์ดที่ยาวขึ้น (11–12 ฟุต) แล่นตรงได้ดีกว่าสำหรับการพายทัวร์ริ่ง
-    - title: SUP สำหรับการทัวร์ริ่ง
-      desc: บอร์ดที่ยาวกว่า (11–12 ft) เหมาะสำหรับการพายเป็นระยะทางไกลและวิ่งเป็นเส้นตรง มั่นคงเพียงพอสำหรับการทัวร์ริ่งพร้อมสัมภาระ ควรตรวจสอบความจุน้ำหนักบรรทุกเสมอ
-    - title: SUP อเนกประสงค์
-      desc: เลือกความยาวตามน้ำหนักและลักษณะการใช้งานของผู้ใช้ บอร์ดที่กว้างขึ้น (32"+) ให้ความมั่นคง เหมาะทั้งการพักผ่อนหย่อนใจและการออกกำลังกาย
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

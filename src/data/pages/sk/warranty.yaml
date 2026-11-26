@@ -1,106 +1,106 @@
 meta:
-  title: 'Záruka — nafukovacie dosky SUP | {SITE}'
-  description: 'Záruka olagoon a popredajná podpora pre nafukovacie dosky SUP a doplnky. Náš záväzok ku kvalite pre partnerov a zákazníkov.'
+  title: 'Warranty — inflatable pools | {SITE}'
+  description: 'olagoon warranty and after-sales support for inflatable pools and accessories. Our quality commitment for partners and customers.'
   keywords:
-    - 'záruka sup'
-    - 'záruka na nafukovacie SUP'
-    - 'záruka na paddle board'
-    - 'popredajná podpora'
-label: 'Záruka'
-headline: 'Obmedzená záruka výrobcu olagoon'
-subtitle: 'olagoon ručí za kvalitu každého nafukovacieho morského produktu, ktorý vyrábame. Táto obmedzená záruka stanovuje podmienky a rozsah krytia vášho produktu olagoon.'
+    - 'pool warranty'
+    - 'inflatable pools warranty'
+    - 'inflatable pool guarantee'
+    - 'after-sales support'
+label: 'Warranty'
+headline: 'olagoon Manufacturer Limited Warranty'
+subtitle: 'olagoon stands behind the quality of every inflatable marine product we manufacture. This Limited Warranty sets forth the terms and coverage for your olagoon product.'
 seo:
-  headline: 'Záruka na nafukovacie SUP olagoon — 3-ročná obmedzená záruka | olagoon'
-  description: 'olagoon ponúka 3-ročnú obmedzenú záruku na hlavnú palubnú látku, švy a štrukturálnu integritu drop-stitch jadra. Krytie zahŕňa aj nafukovacie ventily a príslušenstvo inštalované vo výrobe. Kompletné záručné podmienky pre nafukovacie dosky SUP olagoon.'
+  headline: 'olagoon inflatable pools Warranty — 3-Year Limited Warranty | olagoon'
+  description: 'olagoon offers a 3-year limited warranty on primary deck fabric, seams, and drop-stitch core structural integrity. Also covering inflation valves and factory-installed accessories. Full terms and conditions for olagoon inflatable pools warranty.'
   datePublished: '2024-01-01'
   dateModified: '2026-11-18'
 body: |
   <p class="text-lg text-gray-600 dark:text-gray-400 mb-8">
-    Táto obmedzená záruka sa vzťahuje na nové nafukovacie morské produkty značky olagoon zakúpené priamo od spoločnosti olagoon alebo od autorizovaného predajcu či obchodníka olagoon. Dátumom účinnosti je overiteľný dátum pôvodného maloobchodného nákupu.
+    This Limited Warranty applies to new olagoon branded inflatable marine products purchased directly from olagoon or from an authorized olagoon dealer or retailer. The effective date is the verifiable date of original retail purchase.
   </p>
 
   <div class="bg-sky-50 dark:bg-gray-900 border border-sky-200 dark:border-gray-800 rounded-xl p-6 mb-10">
-    <h2 class="text-xl font-bold mb-3">Rozsah a trvanie záruky</h2>
+    <h2 class="text-xl font-bold mb-3">Warranty Coverage & Duration</h2>
     <div class="grid md:grid-cols-2 gap-4">
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 roky</h3>
-        <p class="text-sm text-gray-600 mt-1">Integrita hlavnej látky trubice (CSM/PVC)</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Years</h3>
+        <p class="text-sm text-gray-600 mt-1">Primary tube fabric integrity (CSM/PVC)</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 roky</h3>
-        <p class="text-sm text-gray-600 mt-1">Štrukturálna integrita trupu zo sklolaminátu</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Years</h3>
+        <p class="text-sm text-gray-600 mt-1">Fiberglass hull structural integrity</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 roky</h3>
-        <p class="text-sm text-gray-600 mt-1">Schopnosť švov nafukovacej trubice udržať vzduch</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Years</h3>
+        <p class="text-sm text-gray-600 mt-1">Inflatable tube seam air-holding capability</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 roky</h3>
-        <p class="text-sm text-gray-600 mt-1">Funkčnosť nafukovacieho ventilu</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Years</h3>
+        <p class="text-sm text-gray-600 mt-1">Inflation valve functionality</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">1 rok</h3>
-        <p class="text-sm text-gray-600 mt-1">Príslušenstvo a pomocné armatúry inštalované vo výrobe</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">1 Year</h3>
+        <p class="text-sm text-gray-600 mt-1">Factory-installed accessories and auxiliary fittings</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-amber-700 dark:text-amber-400">1 rok*</h3>
-        <p class="text-sm text-gray-600 mt-1">Komerčné, požičovné alebo flotilové použitie — všetky komponenty</p>
+        <h3 class="font-bold text-amber-700 dark:text-amber-400">1 Year*</h3>
+        <p class="text-sm text-gray-600 mt-1">Commercial, rental, or fleet use — all components</p>
       </div>
     </div>
-    <p class="text-xs text-gray-500 mt-4">*Komerčné, vládne, charterové, požičovné alebo inštruktážne použitie skracuje záruku na 1 rok. Použitie v pretekoch alebo súťažiach záruku úplne ruší.</p>
+    <p class="text-xs text-gray-500 mt-4">*Commercial, governmental, charter, rental, or instructional use reduces warranty to 1 year. Racing or competition use voids warranty entirely.</p>
   </div>
 
-  <h2>Čo je kryté</h2>
-  <h3>Hlavná látka trubice (3 roky)</h3>
-  <p>olagoon ručí za hlavnú palubnú látku proti zhoršeniu porozity, ktoré podstatne ohrozuje schopnosť výrobku udržať prevádzkové nafúknutie. Toto sa vzťahuje na látku potiahnutú PVC a všetky ostatné materiály palubnej látky použité pri výrobe.</p>
+  <h2>What Is Covered</h2>
+  <h3>Primary Tube Fabric (3 Years)</h3>
+  <p>olagoon warrants the principal deck fabric against porosity deterioration that substantially compromises the product's ability to maintain operational inflation. This applies to PVC coated fabric and all other deck fabric materials used in manufacture.</p>
 
-  <h3>Štrukturálna integrita trupu zo sklolaminátu (3 roky)</h3>
-  <p>Pre produkty s trupom z plastu vystuženého sklenenými vláknami (FRP) sa ručí za základnú kompozitnú konštrukciu proti štrukturálnemu poškodeniu spôsobenému vadami materiálov alebo spracovania.</p>
+  <h3>Fiberglass Hull Structural Integrity (3 Years)</h3>
+  <p>For products with a fiberglass-reinforced plastic (FRP) hull, the fundamental composite structure is warranted against structural failure due to defects in materials or workmanship.</p>
 
-  <h3>Schopnosť švov nafukovacej trubice udržať vzduch (3 roky)</h3>
-  <p>Švy nafukovacích trubíc, spojené počas výroby, sú kryté proti výrobným vadám, ktoré spôsobujú podstatný únik vzduchu švom. Periodická kontrola a udržiavanie primeraných nafukovacích tlakov sú podmienkou krytia.</p>
+  <h3>Inflatable Tube Seam Air-Holding Capability (3 Years)</h3>
+  <p>The seams of inflatable tubes, where joined during manufacture, are warranted against manufacturing defects that result in substantial air leakage through the seam. Periodic inspection and maintenance of appropriate inflation pressures are conditions of coverage.</p>
 
-  <h3>Funkčnosť nafukovacieho ventilu (3 roky)</h3>
-  <p>Nafukovacie ventily vzduchu pôvodne inštalované spoločnosťou olagoon sú kryté proti výrobným vadám materiálov alebo spracovania, ktoré bránia ventilu udržať vzduch tak, ako je navrhnuté.</p>
+  <h3>Inflation Valve Functionality (3 Years)</h3>
+  <p>Air inflation valves originally installed by olagoon are warranted against manufacturing defects in materials or workmanship that prevent the valve from holding air as designed.</p>
 
-  <h3>Príslušenstvo inštalované vo výrobe (1 rok)</h3>
-  <p>Komponenty a armatúry vyrobené spoločnosťou olagoon a pôvodne inštalované vo výrobe sú kryté proti vadám materiálu a spracovania počas jedného roka. Nezahŕňa to položky tretích strán, ktoré sú kryté len príslušnými zárukami ich výrobcov.</p>
+  <h3>Factory-Installed Accessories (1 Year)</h3>
+  <p>Components and fittings manufactured by olagoon and originally installed at the factory are warranted against defects in material and workmanship for one year. This excludes third-party items, which are covered only by their respective manufacturer warranties.</p>
 
-  <h2>Čo nie je kryté</h2>
+  <h2>What Is Not Covered</h2>
   <ul>
-    <li>Kozmetické chyby vrátane zoškvrnenia, škvŕn, vyblednutia, zakriedovania alebo akejkoľvek zmeny vzhľadu</li>
-    <li>Prepichnutia, rezy, trhliny, roztrhnutia alebo iné fyzické poškodenia</li>
-    <li>Prasklinky, praskanie, oter, odieranie alebo zhoršenie v dôsledku trenia alebo kontaktu</li>
-    <li>Degradácia v dôsledku expozície UV žiareniu, poveternostným vplyvom alebo atmosférickým podmienkam</li>
-    <li>Poškodenie kontaktom s palivami, rozpúšťadlami, kyselinami, zásadami alebo chemikáliami</li>
-    <li>Poškodenie v dôsledku nedbanlivosti, nesprávneho použitia, zneužitia, nehody alebo bežného opotrebenia</li>
-    <li>Problémy povrchovej úpravy gelcoat alebo náteru (pľuzgierovanie, prasklinky, zoškvrnenie, vyblednutie)</li>
-    <li>Poškodenie nárazom, namáhaním, nesprávnou oporou alebo prepravou na prívese</li>
-    <li>Poškodenie v dôsledku nesprávneho nafúknutia/vypustenia alebo použitia neschválených nafukovacích zariadení</li>
-    <li>Vybavenie, komponenty alebo systémy tretích strán (kryté ich príslušnými výrobcami)</li>
+    <li>Cosmetic flaws including discoloration, staining, fading, chalking, or any alteration in appearance</li>
+    <li>Punctures, cuts, tears, rips, or other physical damage</li>
+    <li>Crazing, cracking, abrasion, scuffing, or deterioration from friction or contact</li>
+    <li>Degradation from UV light exposure, weathering, or atmospheric conditions</li>
+    <li>Damage from contact with fuels, solvents, acids, alkalis, or chemicals</li>
+    <li>Damage from negligence, improper use, abuse, accident, or normal wear and tear</li>
+    <li>Gelcoat or paint surface issues (blistering, crazing, discoloration, fading)</li>
+    <li>Damage from impact, stress, improper support, or trailering</li>
+    <li>Damage from improper inflation/deflation or use of non-approved inflation devices</li>
+    <li>Third-party equipment, components, or systems (covered by their respective manufacturers)</li>
   </ul>
 
-  <h2>Povinnosť výrobcu a náprava</h2>
-  <p>Jedinou a výlučnou povinnosťou spoločnosti olagoon je oprava alebo výmena — podľa uváženia olagoon — akéhokoľvek komponentu, u ktorého boli zistené vady materiálov alebo spracovania a ktorý je krytý touto zárukou. Opravy alebo výmeny vykonáva olagoon alebo ním určené autorizované servisné stredisko. Komponenty opravené alebo vymenené sú kryté len počas zvyšku pôvodnej záručnej lehoty.</p>
+  <h2>Manufacturer's Obligation & Remedy</h2>
+  <p>olagoon's sole and exclusive obligation is the repair or replacement, at olagoon's option, of any component determined to be defective in materials or workmanship and covered under this warranty. Repairs or replacements are performed by olagoon or its designated authorized service facility. Components repaired or replaced are warranted only for the unexpired portion of the original warranty period.</p>
 
-  <h2>Podmienky záruky</h2>
+  <h2>Conditions of Warranty</h2>
   <ul>
-    <li><strong>Registrácia:</strong> Produkt musí byť riadne zaregistrovaný podľa ustanovení záručných podmienok.</li>
-    <li><strong>Údržba:</strong> Produkt musí byť udržiavaný v súlade s publikovanými pokynmi olagoon, vrátane periodických kontrol a udržiavania primeraných nafukovacích tlakov.</li>
-    <li><strong>Spolupráca:</strong> Kupujúci musí plne a bezodkladne spolupracovať so spoločnosťou olagoon vo všetkých záležitostiach týkajúcich sa záručných reklamácií.</li>
-    <li><strong>Pôvodný kupujúci:</strong> Táto záruka sa vzťahuje výlučne na pôvodného koncového používateľa a nie je prenositeľná.</li>
+    <li><strong>Registration:</strong> The product must be properly registered as mandated in the warranty terms.</li>
+    <li><strong>Maintenance:</strong> The product must be maintained in accordance with olagoon's published guidelines, including periodic inspection and maintenance of appropriate inflation pressures.</li>
+    <li><strong>Cooperation:</strong> The purchaser must fully and promptly cooperate with olagoon in all matters pertaining to warranty claims.</li>
+    <li><strong>Original Purchaser:</strong> This warranty is extended exclusively to the original end-user purchaser and is not transferable.</li>
   </ul>
 
-  <h2>Komerčné použitie</h2>
-  <p>Ak sa produkt používa na komerčné, vládne, neziskové, charterové, požičovné, inštruktážne alebo akýkoľvek iný účel než súkromná rekreačná činnosť, záručná lehota pre všetky komponenty sa skracuje na jeden (1) rok od pôvodného dátumu maloobchodného nákupu. Použitie v pretekoch, rýchlostných alebo výdržných súťažiach záruku okamžite a neodvolateľne úplne ruší.</p>
+  <h2>Commercial Use</h2>
+  <p>If the product is used for commercial, governmental, non-profit, charter, rental, instructional, or any purpose other than private recreational use, the warranty period for all components is reduced to one (1) year from the original date of retail purchase. Use in racing, speed or endurance competition immediately and irrevocably voids the warranty entirely.</p>
 
-  <h2>Ako uplatniť záručnú reklamáciu</h2>
-  <p>Kontaktujte spoločnosť olagoon alebo vášho autorizovaného predajcu s dokladom o nákupe a podrobným popisom problému. olagoon preskúma reklamáciu a poskytne pokyny na kontrolu a servis.</p>
-  <p>V prípade otázok týkajúcich sa záručného servisu nás kontaktujte prostredníctvom našej <a href="/contact/" class="text-sky-600 underline">kontaktnej stránky</a> s číslom objednávky a údajmi o produkte.</p>
+  <h2>How to Make a Warranty Claim</h2>
+  <p>Contact olagoon or your authorized dealer with proof of purchase and a detailed description of the issue. olagoon will review the claim and provide instructions for inspection and service.</p>
+  <p>For warranty service inquiries, please contact us through our <a href="/contact/" class="text-sky-600 underline">contact page</a> with your order number and product details.</p>
 
-  <h2>Položky tretích strán</h2>
-  <p>Vybavenie, komponenty alebo systémy vyrobené tretími stranami (aj keď sú inštalované spoločnosťou olagoon) sú kryté výlučne zárukou poskytovanou ich príslušným výrobcom. olagoon výslovne odmieta akúkoľvek záručnú zodpovednosť za takéto položky tretích strán.</p>
+  <h2>Third-Party Items</h2>
+  <p>Equipment, components, or systems manufactured by third parties (even if installed by olagoon) are covered exclusively by any warranty offered by their respective manufacturer. olagoon expressly disclaims any warranty responsibility for such third-party items.</p>
 
   <p class="text-sm text-gray-500 mt-8 border-t border-gray-200 dark:border-gray-800 pt-6">
-    Toto záručné prehlásenie je súhrnom úplnej obmedzenej záruky výrobcu olagoon. Úplný právny záručný dokument upravuje všetky záručné podmienky. Špecifikácie sa môžu zmeniť bez predchádzajúceho upozornenia. olagoon je značka prevádzkovaná spoločnosťou Olagoon LLC.
+    This warranty statement is a summary of the complete olagoon Manufacturer's Limited Warranty. The full legal warranty document governs all warranty terms and conditions. Specifications subject to change without notice. olagoon is a brand operated by Olagoon LLC.
   </p>

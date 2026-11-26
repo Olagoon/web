@@ -1,64 +1,64 @@
 meta:
-  title: 'Media Center — tlač a zdroje olagoon | {SITE}'
-  description: 'Mediálne centrum olagoon: tlačové správy, brand assety a zdroje z našej spoločnosti vyrábajúcej nafukovacie SUP.'
+  title: 'Media Center — Press & olagoon Resources | {SITE}'
+  description: 'The olagoon media center: press releases, brand assets, and resources from our inflatable pools manufacturing company.'
   keywords:
-    - 'olagoon tlač'
-    - 'médiá výrobcu sup'
-    - 'tlačový balík paddle board'
-    - 'správy námornej spoločnosti'
+    - 'olagoon press'
+    - 'pool manufacturer media'
+    - 'inflatable pool press kit'
+    - 'nautical company news'
 hero:
-  tagline: 'Zdroje'
-  title: 'Media Center'
-  subtitle: 'Stiahnite si brand assety, produktové fotografie, katalógy a videá'
+  tagline: Resources
+  title: Media Center
+  subtitle: Download brand assets, product imagery, catalogs, and videos
 
 sections:
   - id: product-images
-    title: 'Produktové fotografie'
-    desc: 'Produktové fotografie vo vysokom rozlíšení pre web, tlač a maloobchod.'
+    title: Product Images
+    desc: High-resolution product photos for web, print, and retail use.
     items:
-      - 'Galéria dosiek SUP'
-      - 'Galéria Drop-Stitch SUP'
-      - 'Galéria nafukovacích SUP'
-      - 'Príslušenstvo a bezpečnostné vybavenie'
+      - pools Gallery
+      - Drop-Stitch pools Gallery
+      - inflatable pools Gallery
+      - Accessories & Safety Gear
   - id: logo-brand-kit
-    title: 'Logo a brand kit'
-    desc: 'Oficiálne súbory loga olagoon, farebná paleta, typografia a manuál značky.'
+    title: Logo & Brand Kit
+    desc: Official olagoon logo files, colour palette, typography, and brand guidelines.
     items:
-      - 'Primárne logo (PNG/SVG/EPS)'
-      - 'Ikonová značka'
-      - 'Farebná paleta'
-      - 'Typografické špecifikácie'
-      - 'Manuál značky PDF'
+      - Primary Logo (PNG/SVG/EPS)
+      - Icon Mark
+      - Colour Palette
+      - Typography Specs
+      - Brand Guidelines PDF
   - id: catalogs
-    title: 'Katalógy PDF'
-    desc: 'Produktové katalógy, technické listy a technická dokumentácia na stiahnutie.'
+    title: PDF Catalogs
+    desc: Product catalogs, spec sheets, and technical documentation for download.
     items:
-      - 'Produktový katalóg 2026'
-      - 'Prezentácia schopností OEM/ODM'
-      - 'Brožúra série SUP'
-      - 'Technické špecifikácie'
+      - 2026 Product Catalog
+      - OEM/ODM Capability Deck
+      - pool Series Brochure
+      - Technical Specifications
   - id: videos
-    title: 'Videá'
-    desc: 'Produktové demá, prehliadky továrne, brand filmy a referencie zákazníkov.'
+    title: Videos
+    desc: Product demos, factory tours, brand films, and customer testimonials.
     items:
-      - 'Produktové demá'
-      - 'Prehliadka továrne'
-      - 'Brand film'
-      - 'Zákaznícke príbehy'
-      - 'Návody'
+      - Product Demos
+      - Factory Tour
+      - Brand Film
+      - Customer Stories
+      - How-To Guides
 
-request_access: 'Vyžiadať prístup →'
+request_access: Request access →
 
 cta:
-  title: 'Potrebujete pomôcť nájsť assety?'
-  desc: 'Kontaktujte náš tímu značky pre custom požiadavky na assety, mediálne partnerstvá alebo tlačové dopyty.'
+  title: Need help finding assets?
+  desc: Contact our brand team for custom asset requests, media partnerships, or press inquiries.
   links:
-    - label: 'Navštívte našu továreň'
+    - label: Visit our factory
       href: /factory/
-      desc: 'Pozrite si našu výrobnú prevádzku s rozlohou 12 000 m²'
-    - label: 'Manuál značky'
+      desc: See our 12,000 sqm manufacturing facility
+    - label: Brand guidelines
       href: /brand/
-      desc: 'Zistite viac o značke olagoon'
-    - label: 'Spojte sa s nami'
+      desc: Learn about the olagoon brand
+    - label: Partner with us
       href: /contact/
-      desc: 'Dopyty OEM, ODM a distribúcie'
+      desc: OEM, ODM, and distribution inquiries

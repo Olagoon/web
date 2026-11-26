@@ -1,110 +1,95 @@
 meta:
-  title: Εργαστήριο Πρωτοτύπων — Πρωτοτυποποίηση SUP Πλήρους Κλίμακας & Θαλάσσιες Δοκιμές | {SITE}
-  description: Από το CAD σε σανίδα έτοιμη για νερό εντός 8-12 εβδομάδων. Το Εργαστήριο Πρωτοτύπων μας κατασκευάζει, εξαρτύει και υποβάλλει σε θαλάσσιες δοκιμές προσαρμοσμένα φουσκωτά SUP. Ξεκινήστε σήμερα το έργο πρωτοτύπου σας.
-back_text: Επιστροφή στο Κέντρο Ε&Α
-home_label: Αρχική
+  title: 'Prototype Workshop — Full-Scale pool Prototyping & Sea Trials | {SITE}'
+  description: 'From CAD to backyard-ready pool in 8-12 weeks. Our Prototype Workshop builds, rigs, and water-tests custom inflatable pools. Start your prototype project today.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
+
 hero:
-  tagline: Lab 05
-  title: Εργαστήριο Πρωτοτύπων
-  subtitle: Από το μοντέλο CAD σε σανίδα έτοιμη για νερό — κατασκευασμένη, εξαρτυμένη και αποδεδειγμένη
-  image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-  image_alt: Κατασκευή σανίδων στο εργαστήριο πρωτοτύπων της OLagoon
-intro: >-
-  Όσο λεπτομερές κι αν είναι ένα μοντέλο CAD, δεν μπορεί να αποκαλύψει πώς θα συμπεριφερθεί πραγματικά μια σανίδα μέχρι να έρθει σε επαφή με το νερό. Γι' αυτό το Εργαστήριο Πρωτοτύπων μας έχει σχεδιαστεί για να μετατρέπει τα μηχανικά δεδομένα σε μια φυσική, έτοιμη για νερό σανίδα όσο το δυνατόν
-  γρηγορότερα και ακριβέστερα. Κάθε νέο μοντέλο OLagoon — και κάθε σημαντική προσαρμοσμένη κατασκευή — περνά από αυτό το εργαστήριο πριν δεσμευτεί ο εξοπλισμός παραγωγής.
-content_html: >
-  <h2>Εκεί όπου ο σχεδιασμός γίνεται πραγματικότητα</h2>
+  tagline: 'Lab 05'
+  title: 'Prototype Workshop'
+  subtitle: 'From CAD model to water-ready pool — built, fitted, and proven'
+  image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+  image_alt: 'OLagoon prototype workshop pool fabrication'
 
-  <p>Το εργαστήριο είναι πλήρως εξοπλισμένο για ταυτόχρονη κατασκευή κύτους, rails και εξαρτυσίας. Αυτή η προσέγγιση παράλληλης ροής εργασίας μειώνει τον χρόνο παράδοσης πρωτοτύπου σε 8-12 εβδομάδες από την έκδοση των μηχανικών μελετών, σε σύγκριση με τον κανόνα του κλάδου των 16-20
-  εβδομάδων. Όταν η εφαρμογή σας απαιτεί εξειδικευμένη λύση, μπορούμε να περάσουμε από την ιδέα στην επικύρωση στο νερό σε λιγότερο από τρεις μήνες.</p>
+intro: 'A CAD model, no matter how detailed, cannot reveal how a pool will actually perform until it meets the water. That is why our Prototype Workshop is designed to translate engineering data into a physical, water-ready pool as quickly and accurately as possible. Every new OLagoon model — and every significant custom build — passes through this workshop before the production tooling is committed.'
 
+content_html: |
+  <h2>Where design becomes reality</h2>
+  <p>The workshop is fully equipped for simultaneous fabrication of hull, rails, and rigging. This parallel-workflow approach cuts prototype lead time to 8-12 weeks from engineering release, compared to the industry norm of 16-20 weeks. When your application demands a specialised solution, we can move from concept to on-water validation in under three months.</p>
 
-  <h2>Δυνατότητες εργαστηρίου</h2>
-
+  <h2>Workshop capabilities</h2>
   <table>
-    <thead><tr><th>Σταθμός εργασίας</th><th>Εξοπλισμός</th><th>Σκοπός</th></tr></thead>
+    <thead><tr><th>Workstation</th><th>Equipment</th><th>Purpose</th></tr></thead>
     <tbody>
-      <tr><td>Κατασκευή κύτους</td><td>Μηχανή κοπής υφάσματος CNC, πρέσα θερμικής πλακόστρωσης, σταθμός προετοιμασίας πυρήνων drop-stitch</td><td>Παραγωγή κύτους πλήρους κλίμακας και στους τρεις τύπους κατασκευής</td></tr>
-      <tr><td>Συναρμολόγηση rails &amp; θαλάμων</td><td>Πρέσα συγκόλλησης RF, σταθμός προκόλλησης θερμού αέρα, εξάρτημα δοκιμής φουσκώματος</td><td>Κατασκευή συγκροτημάτων rails και θαλάμων πλήρους μεγέθους με όλα τα διαφράγματα και τις βαλβίδες</td></tr>
-      <tr><td>Εξάρτυση &amp; τοποθέτηση</td><td>Εξάρτημα φρεζαρίσματος θήκης πτερυγίων, στηρίγματα συγκόλλησης βάσεων φορτίου και λαβών, σταθμός κοπής πατακιών καταστρώματος</td><td>Πλήρης εξοπλισμός: πτερύγια, βάσεις φορτίου, βύσματα λουριού, λαβές, πατάκια καταστρώματος, βαλβίδες</td></tr>
-      <tr><td>Σταθμός οργάνων μέτρησης</td><td>Αισθητήρας ταχύτητας GPS, μετατροπείς πίεσης, επιταχυνσιόμετρα, διάταξη θερμοστοιχείων, καταγραφέας δεδομένων</td><td>Εγκατάσταση και βαθμονόμηση οργάνων θαλάσσιων δοκιμών</td></tr>
+      <tr><td>Hull fabrication</td><td>CNC fabric cutter, heat-lamination press, drop-stitch core preparation station</td><td>Full-scale hull production in all three construction types</td></tr>
+      <tr><td>Rail &amp; chamber assembly</td><td>RF welding press, hot-air tacking station, inflation test jig</td><td>Fabrication of full-size rail and chamber assemblies with all baffles and valves</td></tr>
+      <tr><td>Rigging &amp; fitting</td><td>Fin-box routing jig, cargo-mount and handle welding fixtures, deck-pad cutting station</td><td>Complete outfitting: fins, cargo mounts, leash plugs, handles, deck pads, valves</td></tr>
+      <tr><td>Instrumentation bay</td><td>GPS speed sensor, pressure transducers, accelerometers, thermocouple array, data-logger</td><td>Sea-trial instrumentation installation and calibration</td></tr>
     </tbody>
   </table>
 
-
-  <h2>Το ταξίδι του πρωτοτύπου — βήμα βήμα</h2>
-
+  <h2>The prototype journey — step by step</h2>
   <ol>
-    <li><strong>Παράδοση μηχανικών μελετών</strong> — Το πακέτο σχεδιασμού (τρισδιάστατο μοντέλο, έκθεση FEA, λίστα υλικών, χρονοδιάγραμμα στρώσεων) εξετάζεται επίσημα από τον υπεύθυνο του εργαστηρίου και τον μηχανικό έργου. Τυχόν κατασκευαστικά ζητήματα επισημαίνονται και επιλύονται πριν ξεκινήσει η κοπή.</li>
-    <li><strong>Παραγωγή κύτους</strong> — Το κύτος κατασκευάζεται σύμφωνα με τη μηχανική προδιαγραφή. Για κατασκευή μονής στρώσης: ο πυρήνας drop-stitch πλακοστρώνονται με το καθορισμένο εξωτερικό PVC. Για κατασκευή διπλής στρώσης: η επιπλέον στρώση εφαρμόζεται πάνω στο βασικό laminate πριν κοπεί το πρότυπο. Για συγχωνευμένη κατασκευή (fused): οι παράμετροι πλακόστρωσης φορτώνονται από το εγκεκριμένο φύλλο διαδικασίας και επαληθεύονται σε δοκιμαστικό δείγμα πρώτης κοπής.</li>
-    <li><strong>Κατασκευή rails</strong> — Το ύφασμα κόβεται με πρότυπα σχεδίων CNC και στη συνέχεια συγκολλάται με RF σε rails και θαλάμους πλήρους μεγέθους. Κάθε θάλαμος φουσκώνεται στη δοκιμαστική πίεση και παραμένει για 24 ώρες για αρχική σταθεροποίηση.</li>
-    <li><strong>Συναρμολόγηση &amp; εξάρτυση</strong> — Το κύτος και τα rails ενώνονται. Οι θήκες πτερυγίων και οι βάσεις φορτίου τοποθετούνται, τα βύσματα λουριού και οι λαβές μεταφοράς εγκαθίστανται, η βαλβίδα φουσκώματος σφίγγεται με συγκεκριμένη ροπή και το πατάκι καταστρώματος εφαρμόζεται και ευθυγραμμίζεται.</li>
-    <li><strong>Στατικές δοκιμές</strong> — Πριν η σανίδα αγγίξει το νερό, υποβάλλεται σε: έλεγχο πλευστότητας (πλήρες φορτίο + 30 % απόθεμα), δοκιμή διατήρησης πίεσης θαλάμου, δοκιμή διαρροής βαλβίδας, δοκιμή έλξης λαβών και βάσεων.</li>
-    <li><strong>Πρόγραμμα θαλάσσιων δοκιμών</strong> — 20 ώρες δοκιμών στο νερό, αναλυτικά παρακάτω.</li>
-    <li><strong>Αξιολόγηση πρωτοτύπου</strong> — Πραγματοποιείται επίσημη συνάντηση έγκρισης με τις ομάδες μηχανικής, παραγωγής και ποιότητας. Τυχόν απαραίτητες σχεδιαστικές αλλαγές τεκμηριώνονται και ενσωματώνονται στην έκδοση παραγωγής.</li>
+    <li><strong>Engineering handover</strong> — The design package (3D model, FEA report, bill of materials, layup schedule) is formally reviewed by the workshop lead and the project engineer. Any manufacturing concerns are flagged and resolved before cutting begins.</li>
+    <li><strong>Hull production</strong> — The hull is built according to the engineering specification. For single-layer construction: the drop-stitch core is laminated with the specified PVC skin. For double-layer construction: the additional skin is applied over the base laminate before the pattern is cut. For fused construction: the lamination parameters are loaded from the approved process sheet and verified on a first-off coupon.</li>
+    <li><strong>Rail fabrication</strong> — Fabric is cut using CNC-pattern templates, then RF-welded into full-size rails and chambers. Each chamber is inflated to test pressure and left for 24 h for initial stabilisation.</li>
+    <li><strong>Assembly &amp; rigging</strong> — Hull and rails are mated. Fin boxes and cargo mounts are fitted, leash plugs and carry handles are installed, the inflation valve is torqued in, and the deck pad is applied and aligned.</li>
+    <li><strong>Static tests</strong> — Before the pool is filled, it undergoes: structural check (full water load + 30 % reserve), chamber pressure-hold test, valve leak-down test, handle and mount pull-test.</li>
+    <li><strong>Sea trial programme</strong> — 20 hours of in-water testing, detailed below.</li>
+    <li><strong>Prototype review</strong> — A formal sign-off meeting is held with engineering, production, and quality teams. Any required design changes are documented and incorporated into the production release.</li>
   </ol>
 
-
   <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
-    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Πρόγραμμα Θαλάσσιων Δοκιμών 20 Ωρών — Πρόγραμμα Δοκιμών</p>
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20-Hour Sea Trial Programme — Test Schedule</p>
     <div class="space-y-2 text-sm">
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">Εξοικείωση σε ήρεμα νερά — ευθυγράμμιση σε χαμηλή ταχύτητα, στροφές, έλεγχος στάσης και trim</span>
+        <span class="flex-1">Flat-water familiarisation — low-speed tracking, turning, stance and trim check</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">4 h</span>
-        <span class="flex-1">Δοκιμή ταχύτητας — μέγιστη ταχύτητα επαληθευμένη με GPS, ταχύτητα πλεύσης, διατηρημένος ρυθμός σε 3 ρυθμούς κουπιού</span>
+        <span class="flex-1">Speed trial — GPS-verified top speed, cruise speed, sustained pace at 3 stroke rates</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Δοκιμή στροφής — ακτίνα στροφής άξονα και σάρωσης, απόκριση σανίδας, αριστερά και δεξιά</span>
+        <span class="flex-1">Stability test — wall rigidity, floor firmness, and seating comfort under full load</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Δοκιμή τρικυμίας — επαναλαμβανόμενες διελεύσεις από τρικυμία 0.5–1.0 m· επιταχυνσιόμετρο στη θέση στάσης του αναβάτη</span>
+        <span class="flex-1">Chop test — repeated runs through 0.5–1.0 m chop; accelerometer at the rider stance position</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Δοκιμή ευστάθειας — στατική γωνία κλίσης με 4 αναβάτες διαφορετικού βάρους, έκκεντρο φορτίο προς τα δεξιά</span>
+        <span class="flex-1">Stability test — static heel angle with 4 riders of varying weight, offset load to starboard</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Δοκιμή αντοχής — 3 ώρες συνεχούς πλεύσης σε ταχύτητα πλεύσης· παρακολούθηση πίεσης θαλάμου, θερμοκρασίας rails και κόπωσης αναβάτη</span>
+        <span class="flex-1">Endurance run — 3 h continuous at cruise pace; monitoring of chamber pressure, rail temperature, and rider fatigue</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">Τελική επιθεώρηση — επιθεώρηση όλων των εξαρτημάτων μετά τη δοκιμή, σύσφιξη/έλεγχος όλων των συνδετήρων, καταγραφή ευρημάτων</span>
+        <span class="flex-1">Final inspection — post-trial inspection of all components, tighten/check all fasteners, document findings</span>
       </div>
     </div>
   </div>
 
-
-  <h2>Προσαρμοσμένη δημιουργία πρωτοτύπων για μοναδικές εφαρμογές</h2>
-
-  <p>Το Εργαστήριο Πρωτοτύπων είναι το σημείο όπου επιλύουμε προβλήματα που οι τυποποιημένες σανίδες παραγωγής δεν μπορούν να αντιμετωπίσουν. Πρόσφατα παραδείγματα περιλαμβάνουν:</p>
-
+  <h2>Custom prototyping for unique applications</h2>
+  <p>The Prototype Workshop is where we solve the problems that standard production pools cannot address. Recent examples include:</p>
   <ul>
-    <li>Ένα SUP διάσωσης υψηλής ορατότητας για οργανισμό έρευνας και διάσωσης, που απαιτούσε ενσωματωμένες λαβές αρπαγής, βάσεις για διασωστικό εξοπλισμό και κύτος υψηλής πλευστότητας για ανάρρωση τραυματιών — όλα πρωτοτυποποιημένα, τοποθετημένα και δοκιμασμένα στις εγκαταστάσεις μας.</li>
-    <li>Ένα SUP touring αποστολών για εργολάβο υδρογραφικών ερευνών, με αφαιρούμενο ιστό οργάνων, σφραγισμένες θύρες εξοπλισμού και χαμηλής προφίλ βάση μετατροπέα σχεδιασμένη να ελαχιστοποιεί την αντίσταση.</li>
-    <li>Ένα συμπαγές SUP ψαρέματος για στόλο θέρετρου, όπου το πρωτότυπο χρησιμοποιήθηκε για την επικύρωση της σταθερότητας, του εξαρτισμού εξοπλισμού και της ανθεκτικότητας σε καθημερινή χρήση ενοικίασης πριν ο πελάτης δεσμευτεί για στόλο τεσσάρων.</li>
+    <li>A high-visibility rescue pool for a search-and-rescue organisation, requiring integrated grab handles, gear mounts for rescue equipment, and a high-buoyancy hull for casualty recovery — all prototyped, fitted, and tested at our facility.</li>
+    <li>An expedition touring pool for a hydrographic survey contractor, with a removable instrument mast, sealed gear ports, and a low-profile transducer mount designed to minimise drag.</li>
+    <li>A compact fishing pool for a resort fleet, where the prototype was used to validate stability, gear rigging, and durability under daily rental use before the client committed to a fleet of four.</li>
   </ul>
 
+  <h2>Our prototyping team</h2>
+  <p>The workshop is staffed by eight multi-skilled marine technicians, each cross-trained in at least two of the three core disciplines (hull, rail, rigging). The team lead is a master fabricator with 16 years of experience spanning custom one-off builds to production series. Every prototype is assigned a dedicated project engineer who serves as the single point of contact for the client throughout the build and trial process.</p>
 
-  <h2>Η ομάδα πρωτοτύπων μας</h2>
+  <h2>Client involvement</h2>
+  <p>We actively encourage our clients to attend key milestones during the prototype build — particularly the initial fit-out review and the sea trial. Your operational feedback during these stages is invaluable in fine-tuning the pool before it enters production. We do not build in a vacuum; we build in partnership with you.</p>
+  <p>The 20-hour water trial is also an opportunity for your team to familiarise themselves with the pool's operation, layout, and maintenance requirements, ensuring a smooth transition to service when the production pools are delivered.</p>
 
-  <p>Το εργαστήριο στελεχώνεται από οκτώ πολυειδείς θαλάσσιους τεχνικούς, ο καθένας εκπαιδευμένος σε τουλάχιστον δύο από τους τρεις βασικούς τομείς (κύτος, rails, εξάρτυση). Ο επικεφαλής της ομάδας είναι έμπειρος κατασκευαστής με 16 χρόνια εμπειρίας, από μεμονωμένες προσαρμοσμένες
-  κατασκευές έως σειρές παραγωγής. Κάθε πρωτότυπο ανατίθεται σε αποκλειστικό μηχανικό έργου, ο οποίος αποτελεί το μοναδικό σημείο επικοινωνίας για τον πελάτη σε όλη τη διαδικασία κατασκευής και δοκιμών.</p>
-
-
-  <h2>Συμμετοχή του πελάτη</h2>
-
-  <p>Ενθαρρύνουμε ενεργά τους πελάτες μας να παραστούν στα βασικά ορόσημα κατά την κατασκευή του πρωτοτύπου — ιδιαίτερα στην αρχική ανασκόπηση εξοπλισμού και στη θαλάσσια δοκιμή. Τα λειτουργικά σας σχόλια σε αυτά τα στάδια είναι ανεκτίμητα για τη βελτιστοποίηση της σανίδας πριν
-  εισέλθει στην παραγωγή. Δεν κατασκευάζουμε εν κενώ· κατασκευάζουμε σε συνεργασία μαζί σας.</p>
-
-  <p>Η θαλάσσια δοκιμή των 20 ωρών αποτελεί επίσης ευκαιρία για την ομάδα σας να εξοικειωθεί με τον χειρισμό της σανίδας, τη διάταξη του καταστρώματος και τις απαιτήσεις συντήρησης, διασφαλίζοντας την ομαλή μετάβαση σε λειτουργία όταν παραδοθούν οι σανίδες παραγωγής.</p>
 cta:
-  title: Ξεκινήστε το έργο πρωτοτύπου σας
-  subtitle: Πείτε μας για τη σανίδα που χρειάζεστε και θα προτείνουμε ένα πλάνο ανάπτυξης πρωτοτύπου.
-  button_text: Επικοινωνήστε με την ομάδα πρωτοτύπου μας
+  title: 'Start your prototype project'
+  subtitle: 'Tell us about the pool you need and we will propose a prototype development plan.'
+  button_text: 'Contact our prototyping team'
   button_link: /contact/

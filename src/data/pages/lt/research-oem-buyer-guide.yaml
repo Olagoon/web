@@ -1,92 +1,92 @@
 meta:
-  title: 'OEM pirkėjo vadovas — pripučiamų vandens transporto priemonių pirkimas iš Azijos | {SITE}'
-  description: 'Išsamus vadovas, kaip pirkti pripučiamus SUP ir kajakus iš Azijos gamintojų: gamyklų vertinimo kontrolinis sąrašas, QC protokolai, atitikties patikra, MOQ derybos, siuntimo sąlygos ir dažnos klaidos.'
-back_text: 'Grįžti į tyrimus'
+  title: 'OEM Buyer Guide — Sourcing Inflatable Watercraft from Asia | {SITE}'
+  description: 'Comprehensive guide for sourcing inflatable pools from Asian manufacturers: factory evaluation checklist, QC protocols, compliance verification, MOQ negotiation, shipping terms, and common pitfalls.'
+back_text: 'Back to Research'
 
 hero:
-  tagline: 'Pirkimas'
-  title: 'OEM pirkėjo vadovas — pripučiamų vandens transporto priemonių pirkimas iš Azijos'
-  subtitle: '12 min. skaitymo'
+  tagline: 'Sourcing'
+  title: 'OEM Buyer Guide — Sourcing Inflatable Watercraft from Asia'
+  subtitle: '12 min read'
 
 content_html: |
-  <h2>1. Išanktinis kvalifikavimas: į ką atkreipti dėmesį gamykloje</h2>
+  <h2>1. Pre-Qualification: What to Look for in a Factory</h2>
 
-  <h3>Atitikties sertifikatai</h3>
+  <h3>Compliance Certificates</h3>
   <ul>
-    <li><strong>ISO 9001:2015</strong> – Kokybės vadybos sistema</li>
-    <li><strong>CE sertifikavimas</strong> – Patikrinkite pranešusiojo organo numerį</li>
-    <li><strong>BSCI / SMETA / SEDEX</strong> – Socialinės atitikties auditai</li>
-    <li><strong>REACH / RoHS</strong> – Medžiagų atitikties deklaracijos</li>
+    <li><strong>ISO 9001:2015</strong> – Quality management system</li>
+    <li><strong>CE certification</strong> – Verify the Notified Body number</li>
+    <li><strong>BSCI / SMETA / SEDEX</strong> – Social compliance audits</li>
+    <li><strong>REACH / RoHS</strong> – Material compliance declarations</li>
   </ul>
 
-  <h3>Gamybos galimybės</h3>
+  <h3>Manufacturing Capabilities</h3>
   <ul>
-    <li>„Drop-Stitch" branduolio audimas vietoje arba užsakomasis</li>
-    <li>PVC dengimo / laminavimo linija</li>
-    <li>RF suvirinimo ir karšto oro suvirinimo įranga</li>
-    <li>Vidinė formelių gamyba (CNC apdirbimas)</li>
-    <li>Testavimo laboratorija (slėgio testavimas, UV senėjimas, tempimo testavimas)</li>
+    <li>Drop-stitch core weaving in-house vs. outsourced</li>
+    <li>PVC coating / lamination line</li>
+    <li>RF welding and hot air welding equipment</li>
+    <li>In-house mold making (CNC machining)</li>
+    <li>Testing lab (pressure testing, UV aging, tensile testing)</li>
   </ul>
 
-  <h3>Patirties patikra</h3>
+  <h3>Experience Verification</h3>
   <ul>
-    <li>Metai pripučiamų vandens transporto priemonių gamyboje (mažiausiai 5+ metai)</li>
-    <li>Inžinierių skaičius įmonėje</li>
-    <li>Esami OEM/ODM klientai (paprašykite rekomendacijų)</li>
-    <li>Eksporto kryptys – ar jie jau siunčia į jūsų tikslinę rinką?</li>
+    <li>Years in inflatable watercraft manufacturing (5+ years minimum)</li>
+    <li>Number of engineers on staff</li>
+    <li>Existing OEM/ODM clients (request references)</li>
+    <li>Export destinations – are they already shipping to your target market?</li>
   </ul>
 
-  <h2>2. Kokybės kontrolės protokolai</h2>
-  <p>Medžiagų įeinamoji kontrolė: tempimo stipris (ASTM D751 arba ISO 1421), plyšimo atsparumas (ASTM D2261 arba ISO 4674), sukibimo stipris, UV senėjimo patikros.</p>
-  <p>Proceso metu atliekama kontrolė: siūlių stiprio stebėjimas kas 50 vienetų, vožtuvų sukibimo patikra, „Drop-Stitch" siūlų tankio tikrinimai, matmenų patikros pagal CAD brėžinius.</p>
-  <p>Galutinė patikra: 100 % pūtimo išlaikymo testas (24 valandos, maks. 5 % kritimas), vizualinė patikra, vožtuvų funkcijos testas, atsitiktinis mėginių testavimas (AQL 2,5 arba 4,0 pagal ISO 2859).</p>
+  <h2>2. Quality Control Protocols</h2>
+  <p>Material incoming QC: tensile strength (ASTM D751 or ISO 1421), tear resistance (ASTM D2261 or ISO 4674), adhesion strength, UV aging spot checks.</p>
+  <p>In-process QC: seam strength monitoring every 50 units, valve torque verification, drop-stitch thread density checks, dimensional checks against CAD drawings.</p>
+  <p>Final inspection: 100% inflation hold test (24 hours, max 5% drop), visual inspection, valve function test, random sample testing (AQL 2.5 or 4.0 per ISO 2859).</p>
 
-  <h2>3. Atitikties dokumentacijos kontrolinis sąrašas</h2>
+  <h2>3. Compliance Documentation Checklist</h2>
   <ul>
-    <li>Atitikties deklaracija (DoC), nurodanti teisingą ES direktyvą</li>
-    <li>CE sertifikatas iš pranešusiojo organo</li>
-    <li>Testų ataskaita iš akredituotos laboratorijos</li>
-    <li>Medžiagų saugos duomenų lapai (MSDS)</li>
-    <li>REACH atitikties deklaracija</li>
-    <li>Medžiagų sąrašas su tiekėjų atsekamumu</li>
-    <li>Gamyklos inspekcijos ataskaita</li>
+    <li>Declaration of Conformity (DoC) referencing correct EU directive</li>
+    <li>CE certificate from notified body</li>
+    <li>Test report from accredited lab</li>
+    <li>Material safety data sheets (MSDS)</li>
+    <li>REACH compliance declaration</li>
+    <li>Bill of Materials with supplier traceability</li>
+    <li>Factory inspection report</li>
   </ul>
 
-  <h2>4. MOQ derybos</h2>
+  <h2>4. MOQ Negotiation</h2>
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-gray-100">
-        <th class="p-3 text-left font-semibold text-gray-900 border">Produkto tipas</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Standartinis MOQ</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Deramas diapazonas</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Product Type</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Standard MOQ</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Negotiable Range</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="p-3 border">SUP lentos</td><td class="p-3 border">50 – 100 vienetų</td><td class="p-3 border">5 – 10 vienetų (bandomasis)</td></tr>
-      <tr><td class="p-3 border">Kajakai</td><td class="p-3 border">50 – 100 vienetų</td><td class="p-3 border">5 – 10 vienetų (bandomasis)</td></tr>
-      <tr><td class="p-3 border">Pripučiami SUP</td><td class="p-3 border">50 – 100 vienetų</td><td class="p-3 border">2 – 5 vienetai (bandomasis)</td></tr>
-      <tr><td class="p-3 border">Sauga / priedai</td><td class="p-3 border">200 – 500 vienetų</td><td class="p-3 border">50 – 100 vienetų (bandomasis)</td></tr>
+      <tr><td class="p-3 border">pools</td><td class="p-3 border">50 – 100 units</td><td class="p-3 border">5 – 10 units (trial)</td></tr>
+      <tr><td class="p-3 border">Pool accessories</td><td class="p-3 border">200 – 500 units</td><td class="p-3 border">20 – 50 units (trial)</td></tr>
+      <tr><td class="p-3 border">inflatable pools</td><td class="p-3 border">50 – 100 units</td><td class="p-3 border">2 – 5 units (trial)</td></tr>
+      <tr><td class="p-3 border">Safety / Accessories</td><td class="p-3 border">200 – 500 units</td><td class="p-3 border">50 – 100 units (trial)</td></tr>
     </tbody>
   </table>
 
-  <h2>5. Logistika ir siuntimas</h2>
-  <p>Dažni „Incoterms": <strong>FOB</strong> (Gamykla pristato į išvykimo uostą – dažniausiai paplitęs), <strong>EXW</strong> (Pirkėjas organizuoja visą siuntimą nuo gamyklos durų), <strong>CIF</strong> (Gamykla moka krovinio ir draudimo išlaidas iki paskirties uosto).</p>
-  <p>Pripučiami produktai yra lengvo svorio, didelio tūrio – tūrinis svoris (DIM) dažnai lemia siuntimo kainą. Paprašykite vakuumuotos pakuotės, kad sumažintumėte tūrį 50–60 %. Jūrų kroviniai iš Kinijos į ES: 25–35 dienos; į JAV vakarų pakrantę: 15–20 dienų.</p>
+  <h2>5. Logistics and Shipping</h2>
+  <p>Common Incoterms: <strong>FOB</strong> (Factory delivers to departure port – most common), <strong>EXW</strong> (Buyer arranges all shipping from factory door), <strong>CIF</strong> (Factory pays freight and insurance to destination port).</p>
+  <p>Inflatable products are low-weight, high-volume – volumetric weight (DIM) often determines shipping cost. Request vacuum-packed packaging to reduce volume by 50–60%. Sea freight from China to EU: 25–35 days; to US West Coast: 15–20 days.</p>
 
-  <h2>6. Dažnos klaidos</h2>
+  <h2>6. Common Pitfalls</h2>
   <ul>
-    <li><strong>Jokio gamyklos audito:</strong> Visada atlikite arba užsakykite trečiosios šalies auditą (QIMA, SGS, Bureau Veritas)</li>
-    <li><strong>Tik žodinės specifikacijos:</strong> Išsamus techninės specifikacijos lapas, pasirašytas abiejų šalių</li>
-    <li><strong>Mėginių patvirtinimo praleidimas:</strong> Rašytinis mėginių patvirtinimas prieš masinę gamybą</li>
-    <li><strong>Jokios kontrolės gamybos metu:</strong> Trečiosios šalies inspekcija gamybos metu (DUPRO) ir prieš siuntimą (PSI)</li>
-    <li><strong>Atitikties ignoravimas:</strong> Patikrinkite CE/UKCA sertifikavimą prieš gamybą</li>
+    <li><strong>No factory audit:</strong> Always perform or commission a third-party audit (QIMA, SGS, Bureau Veritas)</li>
+    <li><strong>Verbal specs only:</strong> Detailed technical specification sheet signed by both parties</li>
+    <li><strong>Skipping sample approval:</strong> Written sign-off on samples before bulk production</li>
+    <li><strong>No QC during production:</strong> Third-party inspection during production (DUPRO) and before shipment (PSI)</li>
+    <li><strong>Ignoring compliance:</strong> Verify CE/UKCA certification before production</li>
   </ul>
 
-  <h2>7. Kodėl OLagoon</h2>
-  <p>OLagoon gamina OEM/ODM pripučiamus vandens transporto priemones nuo 2012 m. Su 12 000 m&sup2; ISO 9001 sertifikuota įmone, 25+ inžinieriais ir CE sertifikavimu visose produktų linijose, mes atitinkame kiekvieną šio vadovo kriterijų. Siūlome bandomuosius MOQ naujiems partneriams ir pilnus atitikties dokumentacijos paketus.</p>
+  <h2>7. Why OLagoon</h2>
+  <p>OLagoon has been manufacturing OEM/ODM inflatable pools since 2012. With a 12,000 m&sup2; ISO 9001 certified facility, 25+ engineers, and CE certification across all product lines, we meet every criterion in this guide. We offer trial MOQs for new partners and full compliance documentation packages.</p>
 
 cta:
-  title: 'Pasirengę pradėti pirkimą?'
-  subtitle: 'Susisiekite su mūsų OEM komanda, kad aptartumėte savo projekto reikalavimus.'
-  button_text: 'Užklausti pasiūlymo'
+  title: 'Ready to start sourcing?'
+  subtitle: 'Contact our OEM team to discuss your project requirements.'
+  button_text: 'Request a quote'
   button_link: /contact/

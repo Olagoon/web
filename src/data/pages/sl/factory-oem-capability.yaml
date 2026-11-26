@@ -1,58 +1,58 @@
 meta:
-  title: 'Proizvodnja OEM in zasebnih znamk | {SITE}'
-  description: 'Od koncepta do kontejnerja: prilagodite vsako podrobnost svoje linije napihljivih desk SUP. Popolna storitev OEM/ODM za znamke veslaških desk pod zasebno znamko.'
+  title: 'OEM & Private Label Manufacturing | {SITE}'
+  description: 'From concept to container: customize every detail of your inflatable pools line. Full OEM/ODM service for private label inflatable pool brands.'
   keywords:
-    - 'proizvodnja sup oem'
-    - 'veslaška deska pod zasebno znamko'
-    - 'napihljiva sup oem'
-    - 'tovarna sup po meri'
+    - 'oem pool manufacturing'
+    - 'private label inflatable pool'
+    - 'oem inflatable pools'
+    - 'custom pool factory'
 hero:
-  tagline: 'Proizvodnja OEM/ODM'
-  title: 'Proizvodnja OEM in zasebnih znamk'
-  subtitle: 'Od koncepta do kontejnerja — prilagodite vsako podrobnost svoje linije napihljivih desk SUP'
+  tagline: OEM/ODM Manufacturing
+  title: OEM & Private Label Manufacturing
+  subtitle: From concept to container — customize every detail of your inflatable pools line
 
-intro: 'olagoon ponuja celovite storitve OEM in ODM za znamke, distributerje in vladne ustanove po vsem svetu. Z več kot 10 leti izkušenj z izvozom in tovarno s 12,000 m² s certifikatoma ISO 9001 in BSCI poskrbimo za vse — od oblikovanja izdelka in razvoja kalupov do obsežne proizvodnje, embalaže in logistike.'
+intro: olagoon offers comprehensive OEM and ODM services for brands, distributors, and government agencies worldwide. With 10+ years of export experience and a 12,000 m² ISO 9001 & BSCI certified factory, we handle everything from product design and mold development to full-scale production, packaging, and logistics.
 
 highlight:
   - value: 10+
-    label: 'Let izkušenj z OEM'
-    detail: 'Od leta 2012'
+    label: Years OEM experience
+    detail: Since 2012
   - value: 50+
-    label: 'Držav izvoza'
-    detail: 'Svetovni doseg'
+    label: Export countries
+    detail: Global reach
   - value: 200+
-    label: 'Dostavljenih projektov po meri'
-    detail: 'Čez vse linije izdelkov'
-  - value: 30–45
-    label: 'Standardni rok dobave (dni)'
-    detail: 'Od naročila do FOB'
+    label: Custom projects delivered
+    detail: Across all product lines
+  - value: 12–16
+    label: Standard lead time (weeks)
+    detail: 50–100 units, from PO to FOB
 
 services:
-  - title: 'Oblikovanje in inženirstvo izdelkov'
-    description: 'Naša lastna ekipa za raziskave in razvoj dela z vašim konceptom ali specifikacijo ter razvije risbe CAD, 3D-modele in prototipe. Ponujamo oblikovanje kalupov, optimizacijo oblike trupa in svetovanje pri izbiri materialov.'
-  - title: 'Znamka in grafika po meri'
-    description: 'Celobarvni digitalni tisk, sitotisk, reliefni tisk in možnosti etiket. Razvijamo grafiko palub, znamčenje cevi in maloprodajno embalažo, prilagojeno znamki.'
-  - title: 'Prilagoditev materialov in specifikacij'
-    description: 'Izbirajte med PVC (standardni, okolju prijazen, težko vnetljiv), drop-stitch in hibridnimi konstrukcijami. Barve cevi po meri, teže tkanin in možnosti ojačitve.'
-  - title: 'Embalaža in logistika'
-    description: 'Maloprodajna embalaža po meri, škatle zasebnih znamk, vakuumsko pakiranje, paletizacija in nalaganje kontejnerjev. Na voljo pogoji dostave FOB Qingdao, CIF ali DDP.'
+  - title: Product Design & Engineering
+    description: Our in-house R&D team works with your concept or spec to develop CAD drawings, 3D models, and prototypes. We offer mold design, hull shape optimization, and material selection guidance.
+  - title: Custom Branding & Graphics
+    description: Full-color digital printing, screen printing, embossing, and label options. We develop brand-specific deck graphics, tube branding, and retail-ready packaging.
+  - title: Material & Specification Customization
+    description: Choose from PVC (standard, eco-friendly, fire-retardant), drop-stitch, and hybrid constructions. Custom tube colors, fabric weights, and reinforcement options.
+  - title: Packaging & Logistics
+    description: Custom retail packaging, private-label boxes, vacuum packing, palletizing, and container loading. FOB Qingdao, CIF, or DDP shipping terms available.
 
 moq_table:
-  - product: 'Napihljive deske SUP'
-    standard_moq: '5–10 enot'
-    custom_moq: '200+ enot'
-    lead_time: '30–45 dni'
-  - product: 'Rešilni jopiči in varnost'
-    standard_moq: '100–200 enot'
-    custom_moq: '1.000+ enot'
-    lead_time: '20–30 dni'
+  - product: inflatable pools
+    standard_moq: 50 units (samples 5–10)
+    custom_moq: 200+ units
+    lead_time: 12–16 weeks
+  - product: Pool Accessories
+    standard_moq: 100–200 units
+    custom_moq: 1,000+ units
+    lead_time: 20–30 days
 
 why_us:
-  - title: 'Vertikalna integracija'
-    description: 'Tovarna, kalupi in dobavna veriga so naša — brez posrednikov, brez podizvajalcev. To nam daje nadzor nad kakovostjo, stroški in dostavo.'
-  - title: 'Dvojna certificiranost'
-    description: 'Upravljanje kakovosti ISO 9001 in certifikat socialne skladnosti BSCI. Poročila o reviziji tovarne so na voljo na zahtevo.'
-  - title: 'Skladnost s CE'
-    description: 'Vsi standardni modeli nosijo certifikat CE 2013/53/EU. Modeli po meri je mogoče certificirati po CE prek našega uveljavljenega postopka.'
-  - title: 'Nizek MOQ'
-    description: 'Začnite že z 5 enotami pri standardnih modelih. Pomagamo nastajajočim znamkam pri zagonu brez preveč zaloge.'
+  - title: Vertical Integration
+    description: We own our factory, molds, and supply chain — no middlemen, no subcontractors. This gives us control over quality, cost, and delivery.
+  - title: Dual Certification
+    description: ISO 9001 quality management and BSCI social compliance certification. Factory audit reports available upon request.
+  - title: CE Compliance
+    description: All standard models carry CE 2013/53/EU certification. Custom models can be CE certified through our established process.
+  - title: Low MOQ
+    description: Start with samples from 5–10 units; standard production runs from 50 units. We help emerging brands launch without overcommitting inventory.

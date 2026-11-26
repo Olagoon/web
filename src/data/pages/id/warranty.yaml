@@ -1,106 +1,106 @@
 meta:
-  title: 'Garansi — SUP Tiup | {SITE}'
-  description: 'Garansi olagoon dan dukungan purna jual untuk SUP tiup dan aksesori. Komitmen kualitas kami untuk mitra dan pelanggan.'
+  title: 'Warranty — inflatable pools | {SITE}'
+  description: 'olagoon warranty and after-sales support for inflatable pools and accessories. Our quality commitment for partners and customers.'
   keywords:
-    - 'garansi sup'
-    - 'garansi SUP tiup'
-    - 'jaminan papan dayung'
-    - 'dukungan purna jual'
-label: 'Garansi'
-headline: 'Garansi Terbatas Produsen olagoon'
-subtitle: 'olagoon berdiri di balik kualitas setiap produk marinir tiup yang kami produksi. Garansi Terbatas ini menetapkan syarat dan cakupan untuk produk olagoon Anda.'
+    - 'pool warranty'
+    - 'inflatable pools warranty'
+    - 'inflatable pool guarantee'
+    - 'after-sales support'
+label: 'Warranty'
+headline: 'olagoon Manufacturer Limited Warranty'
+subtitle: 'olagoon stands behind the quality of every inflatable marine product we manufacture. This Limited Warranty sets forth the terms and coverage for your olagoon product.'
 seo:
-  headline: 'Garansi SUP Tiup olagoon — Garansi Terbatas 3 Tahun | olagoon'
-  description: 'olagoon menawarkan garansi terbatas 3 tahun untuk kain deck utama, sambungan, dan integritas struktural inti drop-stitch. Juga mencakup valve tiup dan aksesori terpasang pabrik. Syarat dan ketentuan lengkap garansi SUP tiup olagoon.'
+  headline: 'olagoon inflatable pools Warranty — 3-Year Limited Warranty | olagoon'
+  description: 'olagoon offers a 3-year limited warranty on primary deck fabric, seams, and drop-stitch core structural integrity. Also covering inflation valves and factory-installed accessories. Full terms and conditions for olagoon inflatable pools warranty.'
   datePublished: '2024-01-01'
   dateModified: '2026-11-18'
 body: |
   <p class="text-lg text-gray-600 dark:text-gray-400 mb-8">
-    Garansi Terbatas ini berlaku untuk produk marinir tiup bermerek olagoon baru yang dibeli langsung dari olagoon atau dari dealer atau pengecer olagoon resmi. Tanggal berlaku adalah tanggal pembelian ritel asli yang dapat diverifikasi.
+    This Limited Warranty applies to new olagoon branded inflatable marine products purchased directly from olagoon or from an authorized olagoon dealer or retailer. The effective date is the verifiable date of original retail purchase.
   </p>
 
   <div class="bg-sky-50 dark:bg-gray-900 border border-sky-200 dark:border-gray-800 rounded-xl p-6 mb-10">
-    <h2 class="text-xl font-bold mb-3">Cakupan & Durasi Garansi</h2>
+    <h2 class="text-xl font-bold mb-3">Warranty Coverage & Duration</h2>
     <div class="grid md:grid-cols-2 gap-4">
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Tahun</h3>
-        <p class="text-sm text-gray-600 mt-1">Integritas kain tabung utama (CSM/PVC)</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Years</h3>
+        <p class="text-sm text-gray-600 mt-1">Primary tube fabric integrity (CSM/PVC)</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Tahun</h3>
-        <p class="text-sm text-gray-600 mt-1">Integritas struktural lambung fiberglass</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Years</h3>
+        <p class="text-sm text-gray-600 mt-1">Fiberglass hull structural integrity</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Tahun</h3>
-        <p class="text-sm text-gray-600 mt-1">Kemampuan menahan udara sambungan tabung tiup</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Years</h3>
+        <p class="text-sm text-gray-600 mt-1">Inflatable tube seam air-holding capability</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Tahun</h3>
-        <p class="text-sm text-gray-600 mt-1">Fungsionalitas valve tiup</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Years</h3>
+        <p class="text-sm text-gray-600 mt-1">Inflation valve functionality</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">1 Tahun</h3>
-        <p class="text-sm text-gray-600 mt-1">Aksesori terpasang pabrik dan fitting tambahan</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">1 Year</h3>
+        <p class="text-sm text-gray-600 mt-1">Factory-installed accessories and auxiliary fittings</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-amber-700 dark:text-amber-400">1 Tahun*</h3>
-        <p class="text-sm text-gray-600 mt-1">Penggunaan komersial, rental, atau armada — semua komponen</p>
+        <h3 class="font-bold text-amber-700 dark:text-amber-400">1 Year*</h3>
+        <p class="text-sm text-gray-600 mt-1">Commercial, rental, or fleet use — all components</p>
       </div>
     </div>
-    <p class="text-xs text-gray-500 mt-4">*Penggunaan komersial, pemerintah, charter, rental, atau instruksional mengurangi garansi menjadi 1 tahun. Penggunaan balap atau kompetisi membatalkan garansi sepenuhnya.</p>
+    <p class="text-xs text-gray-500 mt-4">*Commercial, governmental, charter, rental, or instructional use reduces warranty to 1 year. Racing or competition use voids warranty entirely.</p>
   </div>
 
-  <h2>Apa yang Dicakup</h2>
-  <h3>Kain Tabung Utama (3 Tahun)</h3>
-  <p>olagoon menjamin kain deck utama terhadap deteriorasi porositas yang secara substansial mengganggu kemampuan produk mempertahankan tekanan tiup operasional. Ini berlaku untuk kain berlapis PVC dan semua bahan kain deck lainnya yang digunakan dalam produksi.</p>
+  <h2>What Is Covered</h2>
+  <h3>Primary Tube Fabric (3 Years)</h3>
+  <p>olagoon warrants the principal deck fabric against porosity deterioration that substantially compromises the product's ability to maintain operational inflation. This applies to PVC coated fabric and all other deck fabric materials used in manufacture.</p>
 
-  <h3>Integritas Struktural Lambung Fiberglass (3 Tahun)</h3>
-  <p>Untuk produk dengan lambung plastik diperkuat fiberglass (FRP), struktur komposit fundamentalnya dijamin terhadap kegagalan struktural akibat cacat material atau pengerjaan.</p>
+  <h3>Fiberglass Hull Structural Integrity (3 Years)</h3>
+  <p>For products with a fiberglass-reinforced plastic (FRP) hull, the fundamental composite structure is warranted against structural failure due to defects in materials or workmanship.</p>
 
-  <h3>Kemampuan Menahan Udara Sambungan Tabung Tiup (3 Tahun)</h3>
-  <p>Sambungan tabung tiup, yang disambung saat produksi, dijamin terhadap cacat manufaktur yang mengakibatkan kebocoran udara substansial melalui sambungan. Inspeksi berkala dan pemeliharaan tekanan tiup yang tepat merupakan syarat cakupan.</p>
+  <h3>Inflatable Tube Seam Air-Holding Capability (3 Years)</h3>
+  <p>The seams of inflatable tubes, where joined during manufacture, are warranted against manufacturing defects that result in substantial air leakage through the seam. Periodic inspection and maintenance of appropriate inflation pressures are conditions of coverage.</p>
 
-  <h3>Fungsionalitas Valve Tiup (3 Tahun)</h3>
-  <p>Valve tiup udara yang dipasang asli oleh olagoon dijamin terhadap cacat manufaktur pada material atau pengerjaan yang mencegah valve menahan udara sesuai desain.</p>
+  <h3>Inflation Valve Functionality (3 Years)</h3>
+  <p>Air inflation valves originally installed by olagoon are warranted against manufacturing defects in materials or workmanship that prevent the valve from holding air as designed.</p>
 
-  <h3>Aksesori Terpasang Pabrik (1 Tahun)</h3>
-  <p>Komponen dan fitting yang diproduksi oleh olagoon dan dipasang asli di pabrik dijamin terhadap cacat material dan pengerjaan selama satu tahun. Ini tidak mencakup barang pihak ketiga, yang hanya dicakup oleh garansi produsen masing-masing.</p>
+  <h3>Factory-Installed Accessories (1 Year)</h3>
+  <p>Components and fittings manufactured by olagoon and originally installed at the factory are warranted against defects in material and workmanship for one year. This excludes third-party items, which are covered only by their respective manufacturer warranties.</p>
 
-  <h2>Apa yang Tidak Dicakup</h2>
+  <h2>What Is Not Covered</h2>
   <ul>
-    <li>Cacat kosmetik termasuk perubahan warna, noda, pudar, chalking, atau perubahan tampilan lainnya</li>
-    <li>Tusukan, sayatan, sobekan, robekan, atau kerusakan fisik lainnya</li>
-    <li>Crazing, retak, abrasi, scuffing, atau deteriorasi akibat gesekan atau kontak</li>
-    <li>Degradasi akibat paparan sinar UV, pelapukan, atau kondisi atmosfer</li>
-    <li>Kerusakan akibat kontak dengan bahan bakar, pelarut, asam, alkali, atau bahan kimia</li>
-    <li>Kerusakan akibat kelalaian, penggunaan yang tidak tepat, penyalahgunaan, kecelakaan, atau keausan normal</li>
-    <li>Masalah permukaan gelcoat atau cat (menggelembung, crazing, perubahan warna, pudar)</li>
-    <li>Kerusakan akibat benturan, tekanan, penopangan yang tidak tepat, atau transportasi trailer</li>
-    <li>Kerusakan akibat tiup/kempis yang tidak tepat atau penggunaan perangkat tiuk tidak disetujui</li>
-    <li>Peralatan, komponen, atau sistem pihak ketiga (dicakup oleh produsen masing-masing)</li>
+    <li>Cosmetic flaws including discoloration, staining, fading, chalking, or any alteration in appearance</li>
+    <li>Punctures, cuts, tears, rips, or other physical damage</li>
+    <li>Crazing, cracking, abrasion, scuffing, or deterioration from friction or contact</li>
+    <li>Degradation from UV light exposure, weathering, or atmospheric conditions</li>
+    <li>Damage from contact with fuels, solvents, acids, alkalis, or chemicals</li>
+    <li>Damage from negligence, improper use, abuse, accident, or normal wear and tear</li>
+    <li>Gelcoat or paint surface issues (blistering, crazing, discoloration, fading)</li>
+    <li>Damage from impact, stress, improper support, or trailering</li>
+    <li>Damage from improper inflation/deflation or use of non-approved inflation devices</li>
+    <li>Third-party equipment, components, or systems (covered by their respective manufacturers)</li>
   </ul>
 
-  <h2>Kewajiban & Solusi Produsen</h2>
-  <p>Kewajiban tunggal dan eksklusif olagoon adalah memperbaiki atau mengganti, atas keputusan olagoon, komponen mana pun yang ditentukan cacat pada material atau pengerjaan dan dicakup oleh garansi ini. Perbaikan atau penggantian dilakukan oleh olagoon atau fasilitas layanan resmi yang ditunjuknya. Komponen yang diperbaiki atau diganti hanya dijamin untuk sisa masa garansi asli yang belum berakhir.</p>
+  <h2>Manufacturer's Obligation & Remedy</h2>
+  <p>olagoon's sole and exclusive obligation is the repair or replacement, at olagoon's option, of any component determined to be defective in materials or workmanship and covered under this warranty. Repairs or replacements are performed by olagoon or its designated authorized service facility. Components repaired or replaced are warranted only for the unexpired portion of the original warranty period.</p>
 
-  <h2>Syarat Garansi</h2>
+  <h2>Conditions of Warranty</h2>
   <ul>
-    <li><strong>Registrasi:</strong> Produk harus terdaftar dengan benar sesuai ketentuan dalam syarat garansi.</li>
-    <li><strong>Pemeliharaan:</strong> Produk harus dipelihara sesuai pedoman yang dipublikasikan olagoon, termasuk inspeksi berkala dan pemeliharaan tekanan tiup yang tepat.</li>
-    <li><strong>Kooperasi:</strong> Pembeli harus bekerja sama sepenuhnya dan segera dengan olagoon dalam semua hal terkait klaim garansi.</li>
-    <li><strong>Pembeli Asli:</strong> Garansi ini diberikan secara eksklusif kepada pembeli pengguna akhir asli dan tidak dapat dipindahtangankan.</li>
+    <li><strong>Registration:</strong> The product must be properly registered as mandated in the warranty terms.</li>
+    <li><strong>Maintenance:</strong> The product must be maintained in accordance with olagoon's published guidelines, including periodic inspection and maintenance of appropriate inflation pressures.</li>
+    <li><strong>Cooperation:</strong> The purchaser must fully and promptly cooperate with olagoon in all matters pertaining to warranty claims.</li>
+    <li><strong>Original Purchaser:</strong> This warranty is extended exclusively to the original end-user purchaser and is not transferable.</li>
   </ul>
 
-  <h2>Penggunaan Komersial</h2>
-  <p>Jika produk digunakan untuk tujuan komersial, pemerintah, nirlaba, charter, rental, instruksional, atau tujuan lain selain rekreasi pribadi, masa garansi untuk semua komponen dikurangi menjadi satu (1) tahun dari tanggal pembelian ritel asli. Penggunaan dalam balap, kompetisi kecepatan atau ketahanan langsung dan tanpa dapat dibatalkan membatalkan garansi sepenuhnya.</p>
+  <h2>Commercial Use</h2>
+  <p>If the product is used for commercial, governmental, non-profit, charter, rental, instructional, or any purpose other than private recreational use, the warranty period for all components is reduced to one (1) year from the original date of retail purchase. Use in racing, speed or endurance competition immediately and irrevocably voids the warranty entirely.</p>
 
-  <h2>Cara Mengajukan Klaim Garansi</h2>
-  <p>Hubungi olagoon atau dealer resmi Anda dengan bukti pembelian dan deskripsi rinci masalahnya. olagoon akan meninjau klaim tersebut dan memberikan instruksi untuk inspeksi dan layanan.</p>
-  <p>Untuk pertanyaan layanan garansi, silakan hubungi kami melalui <a href="/contact/" class="text-sky-600 underline">halaman kontak</a> kami dengan nomor pesanan dan detail produk Anda.</p>
+  <h2>How to Make a Warranty Claim</h2>
+  <p>Contact olagoon or your authorized dealer with proof of purchase and a detailed description of the issue. olagoon will review the claim and provide instructions for inspection and service.</p>
+  <p>For warranty service inquiries, please contact us through our <a href="/contact/" class="text-sky-600 underline">contact page</a> with your order number and product details.</p>
 
-  <h2>Barang Pihak Ketiga</h2>
-  <p>Peralatan, komponen, atau sistem yang diproduksi oleh pihak ketiga (meskipun dipasang oleh olagoon) secara eksklusif dicakup oleh garansi apa pun yang ditawarkan produsen masing-masing. olagoon secara tegas menolak segala tanggung jawab garansi atas barang pihak ketiga tersebut.</p>
+  <h2>Third-Party Items</h2>
+  <p>Equipment, components, or systems manufactured by third parties (even if installed by olagoon) are covered exclusively by any warranty offered by their respective manufacturer. olagoon expressly disclaims any warranty responsibility for such third-party items.</p>
 
   <p class="text-sm text-gray-500 mt-8 border-t border-gray-200 dark:border-gray-800 pt-6">
-    Pernyataan garansi ini adalah ringkasan dari Garansi Terbatas Produsen olagoon yang lengkap. Dokumen garansi hukum lengkap mengatur semua syarat dan ketentuan garansi. Spesifikasi dapat berubah tanpa pemberitahuan. olagoon adalah merek yang dioperasikan oleh Olagoon LLC (AS).
+    This warranty statement is a summary of the complete olagoon Manufacturer's Limited Warranty. The full legal warranty document governs all warranty terms and conditions. Specifications subject to change without notice. olagoon is a brand operated by Olagoon LLC.
   </p>

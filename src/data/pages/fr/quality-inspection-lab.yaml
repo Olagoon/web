@@ -1,120 +1,120 @@
 meta:
-  title: 'Laboratoire Qualité & Inspection — Tests et Certification SUP Conformes ISO | {SITE}'
-  description: "Vérification de qualité indépendante pour SUP gonflables. Essais de traction, cyclage de rétention d'air, tests de pelage des joints et certification des matériaux. Contactez notre laboratoire qualité pour des tests tiers."
-back_text: Retour au Centre R&D
-home_label: Accueil
+  title: 'Quality & Inspection Lab — ISO-Compliant pool Testing & Certification | {SITE}'
+  description: 'Independent quality verification for inflatable pools. Tensile testing, air-retention cycling, seam peel tests, and material certification. Contact our quality lab for third-party testing.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
 
 hero:
-  tagline: Lab 06
-  title: Laboratoire Qualité et Inspection
-  subtitle: Vérification indépendante — chaque test réussi avant livraison
+  tagline: 'Lab 06'
+  title: 'Quality & Inspection Lab'
+  subtitle: 'Independent verification — every test passed before delivery'
   image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp'
-  image_alt: Test UV en laboratoire d'inspection qualité olagoon
+  image_alt: 'OLagoon quality inspection laboratory UV testing'
 
-intro: "Chaque planche qui quitte notre atelier est certifiée avoir passé un ensemble défini d'inspections qualité et d'essais matériaux. Notre laboratoire qualité et inspection est une fonction indépendante au sein de l'organisation — il rend compte directement au directeur général, et non à la production — garantissant qu'aucune pression commerciale ne peut compromettre le point d'inspection. Si un lot de matériaux ou une planche achevée ne respecte pas la spécification publiée, le laboratoire a l'autorité d'arrêter l'expédition jusqu'à la résolution de la non-conformité."
+intro: 'Every pool that leaves our workshop carries the certification that it has passed a defined set of quality inspections and material tests. Our Quality & Inspection Lab is an independent function within the organisation — it reports directly to the managing director, not to production — ensuring that no commercial pressure can compromise the inspection gate. If a material batch or a completed pool does not meet the published specification, the lab has the authority to halt shipment until the non-conformance is resolved.'
 
 content_html: |
-  <h2>Confiance, mais vérifié</h2>
-  <p>Le laboratoire opère sous un système de management de la qualité aligné sur les principes, et nos méthodes de test sont basées sur les normes ISO, ASTM et EN partout où cela est applicable. Nous conservons des registres détaillés de chaque test effectué, créant une chaîne de traçabilité complète de la réception des matières premières à la livraison finale de la planche.</p>
+  <h2>Trust, but verify</h2>
+  <p>The lab operates under a quality management system aligned with principles, and our test methods are based on ISO, ASTM, and EN standards wherever applicable. We maintain detailed records of every test performed, creating a complete traceability chain from raw material receipt to final pool delivery.</p>
 
-  <h2>Équipements et capacités de test</h2>
+  <h2>Test equipment and capabilities</h2>
   <table>
-    <thead><tr><th>Équipement</th><th>Tests réalisés</th><th>Norme / Méthode</th></tr></thead>
+    <thead><tr><th>Equipment</th><th>Tests Performed</th><th>Standard / Method</th></tr></thead>
     <tbody>
-      <tr><td>Machine d'essai universelle (50 kN)</td><td>Résistance à la traction (tissu), résistance au pelage (joints), propagation de déchirure</td><td>ISO 1421, ISO 4674</td></tr>
-      <tr><td>Banc de test de rétention d'air (programmable)</td><td>Endurance gonflage/dégonflage 1000 cycles, test de maintien en pression 30 min</td><td>EN ISO 25649 (interne)</td></tr>
-      <tr><td>Gabarit de pelage de joints (pelage motorisé à 180°)</td><td>Résistance au pelage des soudures et joints collés à 100 mm/min</td><td>ISO 1421 / ASTM D1876</td></tr>
-      <tr><td>Banc d'essai de charge hydrostatique</td><td>Résistance à la pénétration de l'eau du tissu (0–1000 mbar)</td><td>ISO 811</td></tr>
-      <tr><td>Jauge d'épaisseur numérique &amp; micromètre</td><td>Épaisseur du tissu, épaisseur des parois de rail, épaisseur du film adhésif</td><td>ISO 2286-3</td></tr>
-      <tr><td>Chambre environnementale</td><td>Conditionnement en température (-40 °C à +80 °C) pour tests de fissuration à froid et vieillissement thermique</td><td>ISO 188, ISO 4675</td></tr>
-      <tr><td>Spectrophotomètre couleur</td><td>Mesure de couleur Delta-E après exposition UV</td><td>ISO 105-A05 / ASTM D2244</td></tr>
+      <tr><td>Universal testing machine (50 kN)</td><td>Tensile strength (fabric), peel resistance (seams), tear propagation</td><td>ISO 1421, ISO 4674</td></tr>
+      <tr><td>Air-retention test rig (programmable)</td><td>1000-cycle inflation/deflation endurance, 30 min pressure-hold test</td><td>EN ISO 25649 (internal)</td></tr>
+      <tr><td>Seam-peel jig (motorised 180° peel)</td><td>Weld and glued-seam peel strength at 100 mm/min</td><td>ISO 1421 / ASTM D1876</td></tr>
+      <tr><td>Hydrostatic head tester</td><td>Water penetration resistance of fabric (0–1000 mbar)</td><td>ISO 811</td></tr>
+      <tr><td>Digital thickness gauge &amp; micrometre</td><td>Fabric thickness, rail wall thickness, adhesive-film thickness</td><td>ISO 2286-3</td></tr>
+      <tr><td>Environmental chamber</td><td>Temperature conditioning (-40 °C to +80 °C) for cold-crack and heat-ageing tests</td><td>ISO 188, ISO 4675</td></tr>
+      <tr><td>Colour spectrophotometer</td><td>Delta-E colour measurement after UV exposure</td><td>ISO 105-A05 / ASTM D2244</td></tr>
     </tbody>
   </table>
 
-  <h2>Les portes d'inspection — du matériau à la livraison</h2>
-  <p>Chaque planche suit un plan qualité défini avec des points d'inspection obligatoires. Aucune planche ne peut sauter une porte ; chaque porte doit être validée par un inspecteur qualité avant le début de l'étape de production suivante.</p>
+  <h2>The inspection gates — from material to delivery</h2>
+  <p>Every pool follows a defined quality plan with mandatory inspection points. No pool can skip a gate; each gate must be signed off by a quality inspector before the next production stage begins.</p>
 
   <div class="not-prose my-8">
     <div class="relative">
       <div class="absolute left-4 top-0 bottom-0 w-0.5 bg-blue-200 dark:bg-blue-800"></div>
       <div class="space-y-6 relative">
         <div class="flex gap-4">
-          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Porte 1</div>
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 1</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Inspection des matériaux entrants</p>
-            <p class="text-xs text-gray-500 mt-1">Lot de tissu, lot d'adhésif, quincaillerie — tout est vérifié par rapport à la spécification entrante avant libération pour la production.</p>
+            <p class="text-sm font-semibold">Incoming material inspection</p>
+            <p class="text-xs text-gray-500 mt-1">Fabric batch, adhesive batch, hardware — all checked against incoming specification before release to production.</p>
           </div>
         </div>
         <div class="flex gap-4">
-          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Porte 2</div>
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 2</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Inspection des soudures en cours de production</p>
-            <p class="text-xs text-gray-500 mt-1">Éprouvette de première soudure testée (pelage + visuel) au début de chaque poste de production.</p>
+            <p class="text-sm font-semibold">In-process weld inspection</p>
+            <p class="text-xs text-gray-500 mt-1">First-off weld coupon tested (peel + visual) at start of each production shift.</p>
           </div>
         </div>
         <div class="flex gap-4">
-          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Porte 3</div>
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 3</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Test d'air des chambres</p>
-            <p class="text-xs text-gray-500 mt-1">Chaque chambre mise sous pression à 1,5 x la pression de service, maintien 30 min. Données consignées par numéro de série.</p>
+            <p class="text-sm font-semibold">Chamber air test</p>
+            <p class="text-xs text-gray-500 mt-1">Each chamber pressurised to 1.5 x working pressure, held 30 min. Data logged per serial number.</p>
           </div>
         </div>
         <div class="flex gap-4">
-          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Porte 4</div>
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 4</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Inspection avant livraison</p>
-            <p class="text-xs text-gray-500 mt-1">Planche complète inspectée : toutes les fixations serrées au couple, accessoires fonctionnels, aucun défaut cosmétique. Checklist de 100 points.</p>
+            <p class="text-sm font-semibold">Pre-delivery inspection</p>
+            <p class="text-xs text-gray-500 mt-1">Complete pool inspected: all fasteners torqued, fittings functional, no cosmetic defects. 100-point checklist.</p>
           </div>
         </div>
         <div class="flex gap-4">
-          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Porte 5</div>
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 5</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Certification finale</p>
-            <p class="text-xs text-gray-500 mt-1">Rapports de test compilés, registres d'inspection revus, certificat de conformité émis.</p>
+            <p class="text-sm font-semibold">Final certification</p>
+            <p class="text-xs text-gray-500 mt-1">Test reports compiled, inspection records reviewed, Certificate of Conformance issued.</p>
           </div>
         </div>
       </div>
     </div>
   </div>
 
-  <h2>Indicateurs qualité clés (moyenne mobile 2025)</h2>
+  <h2>Key quality metrics (2025 rolling average)</h2>
   <div class="not-prose my-8 grid grid-cols-2 md:grid-cols-4 gap-4">
     <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
-      <span class="block text-2xl font-bold text-blue-600">99,7 %</span>
-      <span class="text-xs text-gray-500">Rendement au premier passage (lot de tissu)</span>
+      <span class="block text-2xl font-bold text-blue-600">99.7 %</span>
+      <span class="text-xs text-gray-500">First-pass yield (fabric batch)</span>
     </div>
     <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
-      <span class="block text-2xl font-bold text-blue-600">&lt; 0,2 %</span>
-      <span class="text-xs text-gray-500">Taux de rejet de soudure (mètre linéaire)</span>
+      <span class="block text-2xl font-bold text-blue-600">&lt; 0.2 %</span>
+      <span class="text-xs text-gray-500">Weld reject rate (linear metre)</span>
     </div>
     <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
       <span class="block text-2xl font-bold text-blue-600">100 %</span>
-      <span class="text-xs text-gray-500">Chambres testées à l'air avant assemblage</span>
+      <span class="text-xs text-gray-500">Chambers air-tested before assembly</span>
     </div>
     <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
       <span class="block text-2xl font-bold text-blue-600">EN ISO 25649</span>
-      <span class="text-xs text-gray-500">Conformité à la catégorie de conception</span>
+      <span class="text-xs text-gray-500">Design category compliance</span>
     </div>
   </div>
 
-  <h2>Notre équipe qualité</h2>
-  <p>Le laboratoire est doté d'un responsable qualité (10 ans en assurance qualité marine, ingénieur qualité certifié ASQ), de deux inspecteurs qualité (chacun titulaire d'une certification NDT niveau 2 en examen visuel) et d'un technicien matériaux responsable de tous les tests physiques. L'équipe se soumet à des tests d'aptitude annuels via un prestataire tiers indépendant afin de garantir que nos résultats restent exacts et reproductibles.</p>
+  <h2>Our quality team</h2>
+  <p>The lab is staffed by a quality manager (10 years in marine QA, ASQ Certified Quality Engineer), two quality inspectors (each with Level 2 NDT certification in visual testing), and a materials technician responsible for all physical testing. The team undergoes annual proficiency testing through an independent third-party provider to ensure that our test results remain accurate and reproducible.</p>
 
-  <h2>Tests indépendants pour les clients</h2>
-  <p>Notre Laboratoire Qualité &amp; Inspection est disponible pour des prestations de test indépendantes. Si vous devez vérifier une spécification de tissu, valider un nouveau système adhésif ou obtenir un rapport de test tiers pour une qualification d'achat, nous pouvons réaliser les tests selon la norme applicable et émettre un rapport de test certifié.</p>
-  <p>Exemples de travaux de test tiers récents :</p>
+  <h2>Independent testing for clients</h2>
+  <p>Our Quality &amp; Inspection Lab is available for independent testing services. If you need to verify a fabric specification, validate a new adhesive system, or obtain a third-party test report for a procurement qualification, we can perform the tests to the applicable standard and issue a certified test report.</p>
+  <p>Examples of recent third-party testing work:</p>
   <ul>
-    <li>Comparaison de résistance au pelage de cinq films adhésifs concurrents pour un programme d'achat militaire européen.</li>
-    <li>Étude de vieillissement accéléré (UV + cyclage thermique) pour une nouvelle formulation PVC pigmentée orange, avec des mesures intermédiaires régulières à intervalles de 500 h.</li>
-    <li>Validation de rétention d'air de 50 valves de cloison prototypes pour une nouvelle conception de chambre haute pression.</li>
+    <li>Peel-strength comparison of five competitive adhesive film products for a European military procurement programme.</li>
+    <li>Accelerated ageing study (UV + thermal cycling) for a new orange-pigmented PVC formulation, with regular interim measurements at 500 h intervals.</li>
+    <li>Air-retention validation of 50 prototype baffle valves for a new high-pressure chamber design.</li>
   </ul>
 
-  <h2>Notre engagement envers vous</h2>
-  <p>Lorsque vous recevez une planche OLagoon, vous recevez aussi son dossier qualité — un registre compilé des résultats de tests applicables à votre planche spécifique. Certificat de lot de tissu, tests de pelage des soudures, journaux de test d'air des chambres et checklist d'inspection avant livraison. Chaque chiffre est traçable. Chaque inspecteur est identifié. Ce n'est pas de la paperasse — c'est notre promesse que ce que nous avons livré est ce que nous avons spécifié.</p>
-  <p>Si vous avez la moindre préoccupation qualité, vous pouvez contacter le laboratoire directement — les coordonnées sont imprimées sur votre certificat de conformité. Nous prenons chaque demande au sérieux et nous nous engageons à une investigation formelle sous 48 heures.</p>
+  <h2>Our commitment to you</h2>
+  <p>When you receive an OLagoon pool, you also receive its quality dossier — a compiled record of the test results that apply to your specific pool. Fabric batch certificate, weld peel tests, chamber air-test logs, and pre-delivery inspection checklist. Every number is traceable. Every inspector is identified. This is not just paperwork — it is our promise that what we delivered is what we specified.</p>
+  <p>If you ever have a quality concern, you can contact the lab directly — the contact details are printed on your certificate of conformance. We take every query seriously and commit to a formal investigation within 48 hours.</p>
 
 cta:
-  title: Besoin de tests indépendants ou de vérification qualité ?
-  subtitle: Notre laboratoire accepte les travaux de test tiers — contactez-nous avec vos exigences.
-  button_text: Contactez le laboratoire qualité
+  title: 'Need independent testing or quality verification?'
+  subtitle: 'Our lab accepts third-party testing work — contact us with your requirements.'
+  button_text: 'Contact the quality lab'
   button_link: /contact/

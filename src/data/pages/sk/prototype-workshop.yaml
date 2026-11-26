@@ -1,95 +1,95 @@
 meta:
-  title: 'Prototypová dielňa — výroba prototypov SUP v plnom meradle a skúšky na mori | {SITE}'
-  description: 'Od CAD modelu po dosku pripravenú na vodu za 8–12 týždňov. Naša prototypová dielňa vyrába, vybavuje a testuje na mori zákazkové nafukovacie dosky SUP. Začnite svoj prototypový projekt ešte dnes.'
-back_text: 'Späť na centrum R&D'
-home_label: 'Domov'
+  title: 'Prototype Workshop — Full-Scale pool Prototyping & Sea Trials | {SITE}'
+  description: 'From CAD to backyard-ready pool in 8-12 weeks. Our Prototype Workshop builds, rigs, and water-tests custom inflatable pools. Start your prototype project today.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
 
 hero:
-  tagline: 'Laboratórium 05'
-  title: 'Prototypová dielňa'
-  subtitle: 'Od CAD modelu po dosku pripravenú na vodu — postavená, vybavená a overená'
-  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp'
-  image_alt: 'Výroba dosiek v prototypovej dielni OLagoon'
+  tagline: 'Lab 05'
+  title: 'Prototype Workshop'
+  subtitle: 'From CAD model to water-ready pool — built, fitted, and proven'
+  image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+  image_alt: 'OLagoon prototype workshop pool fabrication'
 
-intro: 'CAD model, nech je akokoľvek podrobný, nemôže odhaliť, ako sa bude doska v skutočnosti správať, kým sa nestretne s vodou. Preto je naša prototypová dielňa navrhnutá tak, aby preložila inžinierske údaje do fyzickej dosky pripravenej na vodu čo najrýchlejšie a najpresnejšie. Každý nový model OLagoon — a každá významná zákazková stavba — prechádza touto dielňou, skôr než sa investuje do výrobných nástrojov.'
+intro: 'A CAD model, no matter how detailed, cannot reveal how a pool will actually perform until it meets the water. That is why our Prototype Workshop is designed to translate engineering data into a physical, water-ready pool as quickly and accurately as possible. Every new OLagoon model — and every significant custom build — passes through this workshop before the production tooling is committed.'
 
 content_html: |
-  <h2>Kde sa dizajn stáva realitou</h2>
-  <p>Dielňa je plne vybavená na súbežnú výrobu trupu, bočníc a výstroja. Tento prístup paralelných pracovných postupov skracuje dodaciu lehotu prototypu na 8–12 týždňov od uvoľnenia z vývoja, v porovnaní s priemyselným štandardom 16–20 týždňov. Keď vaša aplikácia vyžaduje špecializované riešenie, dokážeme sa dopracovať od konceptu po overenie na vode do troch mesiacov.</p>
+  <h2>Where design becomes reality</h2>
+  <p>The workshop is fully equipped for simultaneous fabrication of hull, rails, and rigging. This parallel-workflow approach cuts prototype lead time to 8-12 weeks from engineering release, compared to the industry norm of 16-20 weeks. When your application demands a specialised solution, we can move from concept to on-water validation in under three months.</p>
 
-  <h2>Schopnosti dielne</h2>
+  <h2>Workshop capabilities</h2>
   <table>
-    <thead><tr><th>Pracovisko</th><th>Vybavenie</th><th>Účel</th></tr></thead>
+    <thead><tr><th>Workstation</th><th>Equipment</th><th>Purpose</th></tr></thead>
     <tbody>
-      <tr><td>Výroba trupu</td><td>CNC strihačka látok, lis na tepelnú lamináciu, stanica prípravy drop-stitch jadra</td><td>Výroba trupov v plnom meradle vo všetkých troch typoch konštrukcie</td></tr>
-      <tr><td>Montáž bočníc &amp; komôr</td><td>RF zvárací lis, stanica predpínania horúcim vzduchom, skúšobný prípravok na nafúknutie</td><td>Výroba bočníc a komôr v plnej veľkosti so všetkými prepážkami a ventilmi</td></tr>
-      <tr><td>Výstroj &amp; montáž</td><td>Prípravok na frézovanie plutvových boxov, zváracie prípravky na upevnenia batožiny a rukoväte, stanica strihania palubných podložiek</td><td>Kompletná výbava: plutvy, upevnenia batožiny, zátky na leash, rukoväte, palubné podložky, ventily</td></tr>
-      <tr><td>Instrumentačný priestor</td><td>GPS rýchlostný senzor, tlakové snímače, akcelerometre, pole termočlánkov, dátový záznamník</td><td>Inštalácia a kalibrácia prístrojov pre skúšky na mori</td></tr>
+      <tr><td>Hull fabrication</td><td>CNC fabric cutter, heat-lamination press, drop-stitch core preparation station</td><td>Full-scale hull production in all three construction types</td></tr>
+      <tr><td>Rail &amp; chamber assembly</td><td>RF welding press, hot-air tacking station, inflation test jig</td><td>Fabrication of full-size rail and chamber assemblies with all baffles and valves</td></tr>
+      <tr><td>Rigging &amp; fitting</td><td>Fin-box routing jig, cargo-mount and handle welding fixtures, deck-pad cutting station</td><td>Complete outfitting: fins, cargo mounts, leash plugs, handles, deck pads, valves</td></tr>
+      <tr><td>Instrumentation bay</td><td>GPS speed sensor, pressure transducers, accelerometers, thermocouple array, data-logger</td><td>Sea-trial instrumentation installation and calibration</td></tr>
     </tbody>
   </table>
 
-  <h2>Cesta prototypu — krok za krokom</h2>
+  <h2>The prototype journey — step by step</h2>
   <ol>
-    <li><strong>Prevedenie z vývoja</strong> — Dizajnový balík (3D model, FEA správa, kusovník, harmonogram laminácie) je formálne preskúmaný vedúcim dielne a projektovým inžinierom. Akékoľvek výrobné obavy sú označené a vyriešené pred začiatkom strihania.</li>
-    <li><strong>Výroba trupu</strong> — Trup je postavený podľa inžinierskej špecifikácie. Pre jednovrstvovú konštrukciu: drop-stitch jadro je laminované špecifikovaným PVC povrchom. Pre dvojvrstvovú konštrukciu: dodatočná vrstva je nanesená na základnú lamináciu pred strihom vzoru. Pre zletú konštrukciu: parametre laminácie sú načítané zo schváleného procesného listu a overené na prvej vzorke.</li>
-    <li><strong>Výroba bočníc</strong> — Látka je strihaná pomocou CNC šablón, potom RF-zvarená do bočníc a komôr v plnej veľkosti. Každá komora je nafúknutá na skúšobný tlak a ponechaná 24 h na počiatočnú stabilizáciu.</li>
-    <li><strong>Montáž &amp; výstroj</strong> — Trup a bočnice sú spojené. Plutvové boxy a upevnenia batožiny sú namontované, zátky na leash a nosné rukoväte sú inštalované, nafukovací ventil je dotiahnutý a palubná podložka je nanesená a zarovnaná.</li>
-    <li><strong>Statické testy</strong> — Skôr než sa doska dotkne vody, podstupuje: kontrolu vztlaku (plné zaťaženie + 30 % rezervy), test udržania tlaku komôr, test poklesu tlaku ventilu, ťahový test rukovätí a upevnení.</li>
-    <li><strong>Program skúšok na mori</strong> — 20 hodín testovania vo vode, podrobne opísané nižšie.</li>
-    <li><strong>Revízia prototypu</strong> — Koná sa formálne schvaľovacie stretnutie s tímami vývoja, výroby a kvality. Vyžadované zmeny dizajnu sú zdokumentované a zapracované do vydania do výroby.</li>
+    <li><strong>Engineering handover</strong> — The design package (3D model, FEA report, bill of materials, layup schedule) is formally reviewed by the workshop lead and the project engineer. Any manufacturing concerns are flagged and resolved before cutting begins.</li>
+    <li><strong>Hull production</strong> — The hull is built according to the engineering specification. For single-layer construction: the drop-stitch core is laminated with the specified PVC skin. For double-layer construction: the additional skin is applied over the base laminate before the pattern is cut. For fused construction: the lamination parameters are loaded from the approved process sheet and verified on a first-off coupon.</li>
+    <li><strong>Rail fabrication</strong> — Fabric is cut using CNC-pattern templates, then RF-welded into full-size rails and chambers. Each chamber is inflated to test pressure and left for 24 h for initial stabilisation.</li>
+    <li><strong>Assembly &amp; rigging</strong> — Hull and rails are mated. Fin boxes and cargo mounts are fitted, leash plugs and carry handles are installed, the inflation valve is torqued in, and the deck pad is applied and aligned.</li>
+    <li><strong>Static tests</strong> — Before the pool is filled, it undergoes: structural check (full water load + 30 % reserve), chamber pressure-hold test, valve leak-down test, handle and mount pull-test.</li>
+    <li><strong>Sea trial programme</strong> — 20 hours of in-water testing, detailed below.</li>
+    <li><strong>Prototype review</strong> — A formal sign-off meeting is held with engineering, production, and quality teams. Any required design changes are documented and incorporated into the production release.</li>
   </ol>
 
   <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
-    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20-hodinový program skúšok na mori — harmonogram testov</p>
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20-Hour Sea Trial Programme — Test Schedule</p>
     <div class="space-y-2 text-sm">
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">Zoznámenie sa na hladkej vode — sledovanie kurzu pri nízkej rýchlosti, otáčanie, kontrola postoja a trimu</span>
+        <span class="flex-1">Flat-water familiarisation — low-speed tracking, turning, stance and trim check</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">4 h</span>
-        <span class="flex-1">Skúška rýchlosti — GPS overená maximálna rýchlosť, cestovná rýchlosť, udržané tempo pri 3 tempách záberov</span>
+        <span class="flex-1">Speed trial — GPS-verified top speed, cruise speed, sustained pace at 3 stroke rates</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Test otáčania — polomer otočenia okolo osi a oblúkového otočenia, odozva dosky na ľavý a pravý bok</span>
+        <span class="flex-1">Stability test — wall rigidity, floor firmness, and seating comfort under full load</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Test vlnobitia — opakované prejazdy cez vlnobitie 0,5–1,0 m; akcelerometer v pozícii postoja jazdca</span>
+        <span class="flex-1">Chop test — repeated runs through 0.5–1.0 m chop; accelerometer at the rider stance position</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Test stability — statický uhol náklonu so 4 jazdcami rôznej hmotnosti, posunuté zaťaženie na pravú stranu</span>
+        <span class="flex-1">Stability test — static heel angle with 4 riders of varying weight, offset load to starboard</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Výdržná jazda — 3 h nepretržite v cestovnom tempe; monitorovanie tlaku v komorách, teploty bočníc a únavy jazdca</span>
+        <span class="flex-1">Endurance run — 3 h continuous at cruise pace; monitoring of chamber pressure, rail temperature, and rider fatigue</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">Finálna kontrola — kontrola všetkých komponentov po skúške, dotiahnutie/skontrolovanie všetkých spojov, dokumentácia zistení</span>
+        <span class="flex-1">Final inspection — post-trial inspection of all components, tighten/check all fasteners, document findings</span>
       </div>
     </div>
   </div>
 
-  <h2>Zákazkové prototypovanie pre unikátne aplikácie</h2>
-  <p>Prototypová dielňa je miestom, kde riešime problémy, ktoré štandardné výrobné dosky nedokážu pokryť. Nedávne príklady zahŕňajú:</p>
+  <h2>Custom prototyping for unique applications</h2>
+  <p>The Prototype Workshop is where we solve the problems that standard production pools cannot address. Recent examples include:</p>
   <ul>
-    <li>Vysoko viditeľná záchranná doska SUP pre organizáciu pátrania a záchrany, vyžadujúca integrované úchopové rukoväte, držiaky na záchranné vybavenie a trup s vysokým vztlakom pre vyťahovanie postihnutých — všetko zprototypované, vybavené a otestované v našom zariadení.</li>
-    <li>Expedičná touring doska SUP pre dodávateľa hydrografického prieskumu, s odnímateľným sťažňom na prístroje, utesnenými portmi na vybavenie a nízkoprofilovým držiakom sondy navrhnutým na minimalizáciu odporu vody.</li>
-    <li>Kompaktná rybárska doska SUP pre flotilu rezortu, kde prototyp slúžil na overenie stability, upevnenia vybavenia a odolnosti pri dennom používaní v požičovni, než sa klient zaviazal k flotile štyroch dosiek.</li>
+    <li>A high-visibility rescue pool for a search-and-rescue organisation, requiring integrated grab handles, gear mounts for rescue equipment, and a high-buoyancy hull for casualty recovery — all prototyped, fitted, and tested at our facility.</li>
+    <li>An expedition touring pool for a hydrographic survey contractor, with a removable instrument mast, sealed gear ports, and a low-profile transducer mount designed to minimise drag.</li>
+    <li>A compact fishing pool for a resort fleet, where the prototype was used to validate stability, gear rigging, and durability under daily rental use before the client committed to a fleet of four.</li>
   </ul>
 
-  <h2>Náš prototypový tím</h2>
-  <p>Dielňu obsluhuje osem všestranne zručných morských technikov, každý zaškolený v najmenej dvoch z troch hlavných odborov (trup, bočnice, výstroj). Vedúci tímu je majstrovský výrobca s 16-ročnými skúsenosťami od jedinečných zákazkových stavieb po výrobné série. Každý prototyp má prideleného vyhradeného projektového inžiniera, ktorý je jediným kontaktným bodom pre klienta počas celej výroby a skúšok.</p>
+  <h2>Our prototyping team</h2>
+  <p>The workshop is staffed by eight multi-skilled marine technicians, each cross-trained in at least two of the three core disciplines (hull, rail, rigging). The team lead is a master fabricator with 16 years of experience spanning custom one-off builds to production series. Every prototype is assigned a dedicated project engineer who serves as the single point of contact for the client throughout the build and trial process.</p>
 
-  <h2>Zainteresovanosť klienta</h2>
-  <p>Aktívne povzbudzujeme našich klientov, aby sa zúčastnili kľúčových míľnikov počas výroby prototypu — najmä prvého prezretia výbavy a skúšok na mori. Vaša prevádzková spätná väzba v týchto fázach je neoceniteľná pri doladení dosky pred vstupom do výroby. Nestaviame vo vákuu; stavíme v partnerstve s vami.</p>
-  <p>20-hodinová skúška na mori je tiež príležitosťou pre váš tím zoznámiť sa s ovládaním dosky, rozložením paluby a požiadavkami na údržbu, čo zaručuje hladký prechod do prevádzky pri dodaní výrobných dosiek.</p>
+  <h2>Client involvement</h2>
+  <p>We actively encourage our clients to attend key milestones during the prototype build — particularly the initial fit-out review and the sea trial. Your operational feedback during these stages is invaluable in fine-tuning the pool before it enters production. We do not build in a vacuum; we build in partnership with you.</p>
+  <p>The 20-hour water trial is also an opportunity for your team to familiarise themselves with the pool's operation, layout, and maintenance requirements, ensuring a smooth transition to service when the production pools are delivered.</p>
 
 cta:
-  title: 'Začnite svoj prototypový projekt'
-  subtitle: 'Povedzte nám o doske, ktorú potrebujete, a my navrhneme plán vývoja prototypu.'
-  button_text: 'Kontaktovať náš prototypový tím'
+  title: 'Start your prototype project'
+  subtitle: 'Tell us about the pool you need and we will propose a prototype development plan.'
+  button_text: 'Contact our prototyping team'
   button_link: /contact/

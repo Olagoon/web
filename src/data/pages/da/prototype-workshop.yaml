@@ -1,110 +1,95 @@
 meta:
-  title: Prototypeworkshop — fuldskala SUP-prototyping og søprøver | {SITE}
-  description: Fra CAD til søklart board på 8-12 uger. Vores prototypeværksted bygger, udruster og søprøver skræddersyede oppustelige SUP'er. Start dit prototypeprojekt i dag.
-back_text: Tilbage til R&D-center
-home_label: Forside
+  title: 'Prototype Workshop — Full-Scale pool Prototyping & Sea Trials | {SITE}'
+  description: 'From CAD to backyard-ready pool in 8-12 weeks. Our Prototype Workshop builds, rigs, and water-tests custom inflatable pools. Start your prototype project today.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
+
 hero:
-  tagline: Laboratorium 05
-  title: Prototypeværksted
-  subtitle: Fra CAD-model til søklart board — bygget, udstyret og afprøvet
-  image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-  image_alt: Boardfremstilling i OLagoons prototypeværksted
-intro: >-
-  En CAD-model, uanset hvor detaljeret den er, kan ikke afsløre, hvordan et board faktisk vil opføre sig, før det møder vandet. Derfor er vores Prototype Workshop designet til at omsætte ingeniørdata til et fysisk, søklart board så hurtigt og præcist som muligt. Hver ny OLagoon-model – og
-  ethvert væsentligt specialbyg – passerer gennem værkstedet, før produktionsværktøjet fastlægges.
-content_html: >
-  <h2>Hvor design bliver til virkelighed</h2>
+  tagline: 'Lab 05'
+  title: 'Prototype Workshop'
+  subtitle: 'From CAD model to water-ready pool — built, fitted, and proven'
+  image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+  image_alt: 'OLagoon prototype workshop pool fabrication'
 
-  <p>Værkstedet er fuldt udstyret til samtidig fremstilling af skrog, rælinger og rigging. Denne parallelle arbejdsgang forkorter prototypegennemløbstiden til 8-12 uger fra konstruktionsgodkendelse, mod branchens normale 16-20 uger. Når din applikation kræver en specialiseret løsning, kan vi gå fra
-  koncept til validering på vandet på under tre måneder.</p>
+intro: 'A CAD model, no matter how detailed, cannot reveal how a pool will actually perform until it meets the water. That is why our Prototype Workshop is designed to translate engineering data into a physical, water-ready pool as quickly and accurately as possible. Every new OLagoon model — and every significant custom build — passes through this workshop before the production tooling is committed.'
 
+content_html: |
+  <h2>Where design becomes reality</h2>
+  <p>The workshop is fully equipped for simultaneous fabrication of hull, rails, and rigging. This parallel-workflow approach cuts prototype lead time to 8-12 weeks from engineering release, compared to the industry norm of 16-20 weeks. When your application demands a specialised solution, we can move from concept to on-water validation in under three months.</p>
 
-  <h2>Værkstedets kapaciteter</h2>
-
+  <h2>Workshop capabilities</h2>
   <table>
-    <thead><tr><th>Arbejdsstation</th><th>Udstyr</th><th>Formål</th></tr></thead>
+    <thead><tr><th>Workstation</th><th>Equipment</th><th>Purpose</th></tr></thead>
     <tbody>
-      <tr><td>Skrogfremstilling</td><td>CNC-stofskærer, varmelamineringspresse, klargøringsstation til drop-stitch-kerner</td><td>Fuldskala-produktion af skrog i alle tre konstruktionstyper</td></tr>
-      <tr><td>Rælings- &amp; kammermontering</td><td>RF-svejsepresse, varmluftspunktsvejsestation, oppustningstestarmatur</td><td>Fremstilling af rælings- og kammersamlinger i fuld størrelse med alle skodder og ventiler</td></tr>
-      <tr><td>Rigging &amp; montering</td><td>Fræsejig til finnekasser, svejsefixtures til lastemonteringer og håndtag, skærestation til dækpuder</td><td>Fuld udrustning: finner, lastemonteringer, leash-pluger, håndtag, dækpuder, ventiler</td></tr>
-      <tr><td>Instrumenteringsplads</td><td>GPS-hastighedssensor, tryktransducere, accelerometre, termoelementmatrix, data-logger</td><td>Installation og kalibrering af måleudstyr til søprøver</td></tr>
+      <tr><td>Hull fabrication</td><td>CNC fabric cutter, heat-lamination press, drop-stitch core preparation station</td><td>Full-scale hull production in all three construction types</td></tr>
+      <tr><td>Rail &amp; chamber assembly</td><td>RF welding press, hot-air tacking station, inflation test jig</td><td>Fabrication of full-size rail and chamber assemblies with all baffles and valves</td></tr>
+      <tr><td>Rigging &amp; fitting</td><td>Fin-box routing jig, cargo-mount and handle welding fixtures, deck-pad cutting station</td><td>Complete outfitting: fins, cargo mounts, leash plugs, handles, deck pads, valves</td></tr>
+      <tr><td>Instrumentation bay</td><td>GPS speed sensor, pressure transducers, accelerometers, thermocouple array, data-logger</td><td>Sea-trial instrumentation installation and calibration</td></tr>
     </tbody>
   </table>
 
-
-  <h2>Prototypens rejse — trin for trin</h2>
-
+  <h2>The prototype journey — step by step</h2>
   <ol>
-    <li><strong>Overdragelse fra konstruktion</strong> — Konstruktionspakken (3D-model, FEA-rapport, materialeliste, lægningsplan) gennemgås formelt af værkstedslederen og projektkonstruktøren. Eventuelle produktionsmæssige bekymringer markeres og løses, før skæringen går i gang.</li>
-    <li><strong>Skrogproduktion</strong> — Skroget bygges efter konstruktionsspecifikationen. For enkeltskiktskonstruktion laminerer man drop-stitch-kernen med det specificerede PVC-yderlag. For dobbeltskiktskonstruktion påføres det ekstra yderlag over baselaminatet, før mønsteret skæres. For fusioneret konstruktion indlæses lamineringsparametrene fra det godkendte procesark og verificeres på en kontrolprøve.</li>
-    <li><strong>Rælingsfremstilling</strong> — Stoffet skæres med CNC-skabeloner og RF-svejses derefter til rælinger og kamre i fuld størrelse. Hvert kammer pumpes op til testtryk og efterlades i 24 timer til indledende stabilisering.</li>
-    <li><strong>Samling &amp; rigging</strong> — Skrog og rælinger samles. Finnekasser og lastemonteringer monteres, leash-pluger og bærehåndtag installeres, oppustningsventilen spændes til, og dækpuden påføres og justeres.</li>
-    <li><strong>Statiske test</strong> — Inden boardet kommer på vandet, gennemgår det: opdriftskontrol (fuld last + 30 % reserve), trykholdtest af kamre, lækagetest af ventiler og træktest af håndtag og monteringer.</li>
-    <li><strong>Søprøveprogram</strong> — 20 timers test på vandet, detaljeret nedenfor.</li>
-    <li><strong>Prototypegennemgang</strong> — Der afholdes et formelt godkendelsesmøde med konstruktions-, produktions- og kvalitetsteams. Eventuelle nødvendige designændringer dokumenteres og indarbejdes i produktionsudgivelsen.</li>
+    <li><strong>Engineering handover</strong> — The design package (3D model, FEA report, bill of materials, layup schedule) is formally reviewed by the workshop lead and the project engineer. Any manufacturing concerns are flagged and resolved before cutting begins.</li>
+    <li><strong>Hull production</strong> — The hull is built according to the engineering specification. For single-layer construction: the drop-stitch core is laminated with the specified PVC skin. For double-layer construction: the additional skin is applied over the base laminate before the pattern is cut. For fused construction: the lamination parameters are loaded from the approved process sheet and verified on a first-off coupon.</li>
+    <li><strong>Rail fabrication</strong> — Fabric is cut using CNC-pattern templates, then RF-welded into full-size rails and chambers. Each chamber is inflated to test pressure and left for 24 h for initial stabilisation.</li>
+    <li><strong>Assembly &amp; rigging</strong> — Hull and rails are mated. Fin boxes and cargo mounts are fitted, leash plugs and carry handles are installed, the inflation valve is torqued in, and the deck pad is applied and aligned.</li>
+    <li><strong>Static tests</strong> — Before the pool is filled, it undergoes: structural check (full water load + 30 % reserve), chamber pressure-hold test, valve leak-down test, handle and mount pull-test.</li>
+    <li><strong>Sea trial programme</strong> — 20 hours of in-water testing, detailed below.</li>
+    <li><strong>Prototype review</strong> — A formal sign-off meeting is held with engineering, production, and quality teams. Any required design changes are documented and incorporated into the production release.</li>
   </ol>
 
-
   <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
-    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20-timers søprøveprogram — testplan</p>
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20-Hour Sea Trial Programme — Test Schedule</p>
     <div class="space-y-2 text-sm">
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">Kendskab på fladt vand — tracking ved lav fart, vendinger, kontrol af stance og trim</span>
+        <span class="flex-1">Flat-water familiarisation — low-speed tracking, turning, stance and trim check</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">4 h</span>
-        <span class="flex-1">Hastighedstest — GPS-verificeret topfart, marchfart, holdt tempo ved 3 åreslagsfrekvenser</span>
+        <span class="flex-1">Speed trial — GPS-verified top speed, cruise speed, sustained pace at 3 stroke rates</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Vendetest — radius for pivot- og svejpvending, boardets respons, bagbord og styrbord</span>
+        <span class="flex-1">Stability test — wall rigidity, floor firmness, and seating comfort under full load</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Søtest — gentagne gennemkørsler i 0,5–1,0 m kort sø; accelerometer ved rytterens stance-position</span>
+        <span class="flex-1">Chop test — repeated runs through 0.5–1.0 m chop; accelerometer at the rider stance position</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Stabilitetstest — statisk krængningsvinkel med 4 ryttere af varierende vægt, forskudt last mod styrbord</span>
+        <span class="flex-1">Stability test — static heel angle with 4 riders of varying weight, offset load to starboard</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Udholdenhedskørsel — 3 timer uafbrudt ved marchfart; overvågning af kammertryk, rælingstemperatur og ryttertræthed</span>
+        <span class="flex-1">Endurance run — 3 h continuous at cruise pace; monitoring of chamber pressure, rail temperature, and rider fatigue</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">Endelig inspektion — inspektion af alle komponenter efter prøven, efterspænding/kontrol af alle fastgørelser, dokumentation af resultaterne</span>
+        <span class="flex-1">Final inspection — post-trial inspection of all components, tighten/check all fasteners, document findings</span>
       </div>
     </div>
   </div>
 
-
-  <h2>Skræddersyet prototyping til unikke applikationer</h2>
-
-  <p>Prototypeværkstedet er der, hvor vi løser de problemer, som standardproducerede boards ikke kan håndtere. Nylige eksempler omfatter:</p>
-
+  <h2>Custom prototyping for unique applications</h2>
+  <p>The Prototype Workshop is where we solve the problems that standard production pools cannot address. Recent examples include:</p>
   <ul>
-    <li>En rednings-SUP med høj synlighed til en eftersøgnings- og redningsorganisation, som krævede integrerede grebhåndtag, monteringer til redningsudstyr og et skrog med høj opdrift til bjærgning af tilskadekomne — alt sammen prototyperet, monteret og testet på vores facilitet.</li>
-    <li>En ekspeditions-touring-SUP til en hydrografisk opmålingsentreprenør med aftagelig instrumentmast, forseglede udstyrsporter og en lavtransducerholder designet til at minimere strømningsforstyrrelser.</li>
-    <li>En kompakt fiskeri-SUP til en resortflåde, hvor prototypen blev brugt til at validere stabilitet, udstyrsrigging og holdbarhed under daglig udlejning, før kunden forpligtede sig til en flåde på fire.</li>
+    <li>A high-visibility rescue pool for a search-and-rescue organisation, requiring integrated grab handles, gear mounts for rescue equipment, and a high-buoyancy hull for casualty recovery — all prototyped, fitted, and tested at our facility.</li>
+    <li>An expedition touring pool for a hydrographic survey contractor, with a removable instrument mast, sealed gear ports, and a low-profile transducer mount designed to minimise drag.</li>
+    <li>A compact fishing pool for a resort fleet, where the prototype was used to validate stability, gear rigging, and durability under daily rental use before the client committed to a fleet of four.</li>
   </ul>
 
+  <h2>Our prototyping team</h2>
+  <p>The workshop is staffed by eight multi-skilled marine technicians, each cross-trained in at least two of the three core disciplines (hull, rail, rigging). The team lead is a master fabricator with 16 years of experience spanning custom one-off builds to production series. Every prototype is assigned a dedicated project engineer who serves as the single point of contact for the client throughout the build and trial process.</p>
 
-  <h2>Vores prototypeteam</h2>
+  <h2>Client involvement</h2>
+  <p>We actively encourage our clients to attend key milestones during the prototype build — particularly the initial fit-out review and the sea trial. Your operational feedback during these stages is invaluable in fine-tuning the pool before it enters production. We do not build in a vacuum; we build in partnership with you.</p>
+  <p>The 20-hour water trial is also an opportunity for your team to familiarise themselves with the pool's operation, layout, and maintenance requirements, ensuring a smooth transition to service when the production pools are delivered.</p>
 
-  <p>Værkstedet er bemandet med otte alsidige marineteknikere, der hver især er krydsuddannet inden for mindst to af de tre kernefag (skrog, ræling, rigging). Teamlederen er en mesterbygger med 16 års erfaring, der spænder fra specialbyggede enkeltstykker til produktionsserier. Hver prototype
-  får tildelt en dedikeret projektkonstruktør, der fungerer som kundens eneste kontaktpunkt gennem hele bygge- og prøveforløbet.</p>
-
-
-  <h2>Kundeinddragelse</h2>
-
-  <p>Vi opfordrer aktivt vores kunder til at deltage i de vigtigste milepæle under prototypebyggeriet — især den indledende udrustningsgennemgang og søprøven. Din operationelle feedback i disse faser er uvurderlig til at finjustere boardet, før det går i produktion. Vi bygger ikke i et vakuum; vi
-  bygger i partnerskab med dig.</p>
-
-  <p>Den 20-timers søprøve er også en mulighed for dit team for at blive fortrolig med boardets håndtering, dæksopbygning og vedligeholdelseskrav, så overgangen til drift forløber problemfrit, når produktionsboardsene leveres.</p>
 cta:
-  title: Start dit prototypeprojekt
-  subtitle: Fortæl os om det board, du har brug for, og vi udarbejder en plan for prototypeudvikling.
-  button_text: Kontakt vores prototyping-team
+  title: 'Start your prototype project'
+  subtitle: 'Tell us about the pool you need and we will propose a prototype development plan.'
+  button_text: 'Contact our prototyping team'
   button_link: /contact/

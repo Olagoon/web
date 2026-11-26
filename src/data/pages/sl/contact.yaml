@@ -1,144 +1,146 @@
 meta:
-  title: Stik — povpraševanja o partnerstvu in izdelkih | {SITE}
-  description: Stopite v stik z olagoon za partnerstva, skupne znamke, zasebne znamke ali profesionalne flote. Znamka napihljivih SUP desk — odgovorimo v 2 delovnih dneh.
+  title: 'Contact — Partnership & Product Inquiries | {SITE}'
+  description: 'Contact olagoon for partnership, co-brand, and private-label inquiries, or professional fleets. inflatable pools brand, we respond within 2 business days.'
   keywords:
-    - ponudba distributerja sup
-    - profesionalni dobavitelj sup
-    - stik s proizvajalcem sup
+    - 'pool distributor quote'
+    - 'professional pool supplier'
+    - 'contact pool manufacturer'
 hero_text:
-  tagline: Stik
-  title: STOPITE V STIK
+  tagline: Contact
+  title: GET IN TOUCH
 contact_form:
   id: form
-  title: Pošljite nam sporočilo
-  subtitle: Za ponudbe, tehnična vprašanja ali povpraševanja o partnerstvu nam pišite. Odgovorimo v enem delovnem dnevu.
+  title: Send us a message
+  subtitle: For quotes, technical questions or partnership enquiries, drop us a line. We reply within one business day.
   email_to: info@olagoon.com
-  submit_button: Pošljite povpraševanje → Prejmite ponudbo
-  success_message: Hvala! Vaše sporočilo je prispelo v naš nabiralnik. Odgovorili bomo v enem delovnem dnevu.
-  error_message: Pri pošiljanju sporočila je šlo nekaj narobe. Poskusite znova ali nam pišite neposredno po e-pošti.
+  submit_button: Send Inquiry → Get a Quote
+  success_message: Thanks! Your message has landed in our inbox. We will reply within one business day.
+  error_message: Something went wrong sending your message. Please try again or email us directly.
   default_country_code: '+1'
   captcha:
-    label: 'Zaščita pred neželeno pošto: rešite naslednje'
+    label: 'Anti-spam: please solve the following'
   fields:
     - name: country
-      label: Država
+      label: Country
       row: 1
       type: select
       optionsKey: countries
       step: 1
     - name: orderVolume
-      label: Ocenjena količina naročila
+      label: Estimated Order Volume
       row: 2
       type: select
       options:
         - value: ''
-          label: Izberite svojo ocenjeno količino ...
+          label: Select your estimated volume...
         - value: sample
-          label: Samo vzorci / prototipi
-        - value: 5-10
-          label: 5–10 enot (standardni MOQ)
-        - value: 100-500
-          label: 100–500 enot
-        - value: 500-plus
-          label: 500+ enot (velikoprodajne cene)
+          label: Samples / Prototypes only
+        - value: '5-10'
+          label: 5–10 units (Samples / Trial)
+        - value: '50-100'
+          label: 50–100 units
+        - value: '100-500'
+          label: 100–500 units
+        - value: '500-plus'
+          label: 500+ units (Volume pricing)
       step: 1
     - name: customization
-      label: Potrebujete prilagoditev?
+      label: Customization Needed?
       row: 3
       type: select
       options:
         - value: ''
-          label: Izberite vrsto prilagoditve ...
+          label: Select customization type...
         - value: none
-          label: Standardni izdelek (brez prilagoditev)
+          label: Standard product (no customization)
         - value: logo
-          label: Samo logotip po meri / blagovna znamka
+          label: Custom Logo / Branding only
         - value: full
-          label: Popolna skupna znamka (velikost, barva, grafika, embalaža)
+          label: Full Co-Brand (size, color, graphics, packaging)
         - value: consultation
-          label: Nisem prepričan — potrebujem svetovanje
+          label: Not sure — need consultation
       step: 1
     - name: productInterest
-      label: Zanimajoče kategorije izdelkov
+      label: Product Categories of Interest
       row: 4
       type: select
       options:
         - value: ''
-          label: Izberite kategorijo izdelkov ...
+          label: Select product category...
         - value: all
-          label: Vsi izdelki / celoten katalog
-        - value: sup
-          label: Deske SUP / veslaške deske
+          label: All products / Full catalog
+        - value: pool
+          label: pools / inflatable pool
         - value: safety
-          label: Varnostna oprema / rešilni jopiči
+          label: Pool Accessories & Spare Parts
         - value: accessory
-          label: Dodatki (črpalke, vesla, torbe)
+          label: Accessories (pumps, oars, bags)
       step: 1
     - name: firstName
-      label: Ime
+      label: First Name
       row: 1
       step: 2
     - name: lastName
-      label: Priimek
+      label: Last Name
       row: 1
       step: 2
     - name: companyName
-      label: Ime podjetja
+      label: Company Name
       row: 2
       step: 2
     - name: email
-      label: E-pošta
+      label: E-mail
       row: 3
       type: email
       step: 2
     - name: tel
-      label: TELEFON
+      label: TEL
       row: 3
       type: tel
       withCountryCode: true
       step: 2
     - name: address
-      label: Naslov
+      label: Address
       row: 4
       step: 2
     - name: zip
-      label: Poštna številka
+      label: Zip / Postal Code
       row: 5
       step: 2
     - name: subject
-      label: Zadeva
+      label: Subject
       row: 1
       step: 3
     - name: message
-      label: Sporočilo
+      label: Message
       row: 2
       type: textarea
       rows: 6
       step: 3
 features2_other_ways:
-  title: Druge poti do nas
+  title: Other ways to reach us
   columns: 3
   items:
-    - title: Prodajna povpraševanja
-      description: Ponudbe, konfiguracije, prijave preprodajalcev in večja naročila.
+    - title: Sales enquiries
+      description: Quotes, configurations, dealer applications and bulk orders.
       icon: tabler:shopping-bag
-    - title: Tehnična podpora
-      description: Garancija, popravila, rezervni deli in vprašanja o obratovanju.
+    - title: Technical support
+      description: Warranty, repairs, spare parts and operating questions.
       icon: tabler:tool
-    - title: Mediji in partnerstva
-      description: Medijski paketi, sponzorstva in sodelovanje v panogi.
+    - title: Press & partnerships
+      description: Media kits, sponsorship and industry collaboration.
       icon: tabler:news
-    - title: Telefon
-      description: +1 279 732 3333
+    - title: Phone
+      description: '+1 279 732 3333'
       icon: tabler:headset
-    - title: E-pošta
+    - title: Email
       description: info@olagoon.com
       icon: tabler:mail
-    - title: Sedež podjetja
+    - title: Headquarters
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
       icon: tabler:map-pin
 map:
-  title: Naša lokacija
-  subtitle: Obiščite nas v našem sedežu
+  title: Our Location
+  subtitle: Visit us at our headquarters
   address: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
   zoom: 15

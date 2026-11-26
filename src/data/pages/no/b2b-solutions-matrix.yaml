@@ -1,120 +1,123 @@
 meta:
-  title: B2B-kundeløsningsmatrise | {SITE}
-  description: Fullstendig OLagoon B2B-kundeløsningsmatrise som dekker 24 kundetyper — fra friluftsstartups til marine bevaringsinstitusjoner.
+  title: 'B2B Client Solutions Matrix | {SITE}'
+  description: 'Complete OLagoon B2B client solutions matrix covering 24 customer types — from outdoor startups to marine conservation institutions.'
+
 hero:
-  tagline: B2B-kundeløsninger
-  title: 24 B2B-løsninger<br />Tilpasset din virksomhet
-  subtitle: Fra gründere til globale distributører — finn den nøyaktige OLagoon-løsningen designet for din forretningsmodell, bransje og mål.
+  tagline: B2B Client Solutions
+  title: '24 B2B Solutions<br />Matched to Your Business'
+  subtitle: 'From startup founders to global distributors — find the exact OLagoon solution designed for your business model, industry, and goals.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
-    alt: OLagoon-fabrikk og produksjonsanlegg
+    alt: OLagoon factory and manufacturing facility
+
 solutions:
-  title: Kundeløsningsmatrix
-  subtitle: Enhver kundetype, deres kjernebehov, og OLagoon-løsningssiden utviklet for dem.
+  title: Client Solutions Matrix
+  subtitle: 'Every customer type, their core need, and the OLagoon solution page designed for them.'
   items:
-    - clientType: Grunnlegger av friluftsbedrift
-      need: Merkevareutvikling
-      solutionPage: Bygg ditt SUP-merke
-      link: /solutions/sup-brand-startup/
-    - clientType: Merkevaresjef for utendørs
-      need: Utendørs merkeutvidelse inn i vannsport
-      solutionPage: Utvid utendørsmerket til vannsport
+    - clientType: Outdoor Startup Founder
+      need: Brand Creation
+      solutionPage: Build Your pool Brand
+      link: /solutions/pool-brand-startup/
+    - clientType: Outdoor Brand Manager
+      need: Outdoor Brand Expansion Into Water Sports
+      solutionPage: Expand Outdoor Brand Into Water Sports
       link: /solutions/expand-outdoor-brand-water-sports/
-    - clientType: Surfebutikkeier
-      need: Forretningsoppgradering for surf
-      solutionPage: Bruk oppblåsbar teknologi i surfenæringen
+    - clientType: Surf Shop Owner
+      need: Surf Business Upgrade
+      solutionPage: Bring Inflatable Technology Into Surf Business
       link: /solutions/inflatable-technology-for-surf-business/
-    - clientType: Amazon-forhandler
-      need: E-handelsvekst
-      solutionPage: Produktsegmentering og rask levering
-      link: /solutions/ecommerce-sup-brand-development/
-    - clientType: Fiskeutstyrsmerke
-      need: Fiske-SUP
-      solutionPage: Opprett ditt fiske-SUP-merke
-      link: /solutions/create-fishing-sup-brand/
-    - clientType: Yoga- og velværemerke
-      need: Vellvære-vannprodukter
-      solutionPage: SUP-utstyrsløsninger for yoga
-      link: /solutions/sup-yoga-wellness-equipment/
-    - clientType: Skapermerke
-      need: Influencer-merkevare
-      solutionPage: Creator Edition SUP-startpakke
-      link: /solutions/creator-influencer-sup-brand/
-    - clientType: Grunner av padleklubb
-      need: Klubbflåte
-      solutionPage: Kommersiell SUP-flåte
-      link: /solutions/commercial-sup-fleet/
-    - clientType: Eier av utleiebedrift
-      need: Utleievirksomhet
-      solutionPage: Holdbar utleieløsning for flåte
-      link: /solutions/durable-sup-rental-fleet/
-    - clientType: Aktivitetsleder for ferieanlegg
-      need: Hotellopplevelse
-      solutionPage: Vannaktivitetspakke for resorter
+    - clientType: Amazon Seller
+      need: E-commerce Growth
+      solutionPage: Product Differentiation & Fast Supply
+      link: /solutions/ecommerce-pool-brand-development/
+    - clientType: Fishing Gear Brand
+      need: Fishing pool
+      solutionPage: Create Your Fishing pool Brand
+      link: /solutions/create-fishing-pool-brand/
+    - clientType: Yoga & Wellness Brand
+      need: Wellness Water Products
+      solutionPage: pool Yoga Equipment Solutions
+      link: /solutions/pool-yoga-wellness-equipment/
+    - clientType: Creator Brand
+      need: Influencer Brand
+      solutionPage: Creator Edition pool Startup
+      link: /solutions/creator-influencer-pool-brand/
+    - clientType: Paddle Club Founder
+      need: Club Fleet
+      solutionPage: Commercial pool Fleet
+      link: /solutions/commercial-pool-fleet/
+    - clientType: Rental Business Owner
+      need: Rental Operations
+      solutionPage: Durable Rental Fleet Solution
+      link: /solutions/durable-pool-rental-fleet/
+    - clientType: Resort Activity Manager
+      need: Hotel Experience
+      solutionPage: Resort Water Activity Package
       link: /solutions/resort-water-activity-package/
-    - clientType: Vannsportakademi
-      need: Opplæring og utdanning
-      solutionPage: SUP Academy-utstyrsprogram
-      link: /solutions/sup-academy-equipment-program/
-    - clientType: Cruises- og yachtselskap
-      need: Yacht-opplevelse
-      solutionPage: Luksuriøs portabel SUP-pakke
-      link: /solutions/luxury-portable-sup-package/
-    - clientType: Innkjøper i friluftsbutikk
-      need: Handelskanal
-      solutionPage: Hvitvaremerkeprogram for detaljhandel
+    - clientType: Water Sports Academy
+      need: Training & Education
+      solutionPage: pool Academy Equipment Program
+      link: /solutions/pool-academy-equipment-program/
+    - clientType: Cruise & Yacht Company
+      need: Yacht Experience
+      solutionPage: Luxury Portable pool Package
+      link: /solutions/luxury-portable-pool-package/
+    - clientType: Outdoor Retail Buyer
+      need: Retail Channel
+      solutionPage: Retail Private Label Program
       link: /solutions/retail-private-label-program/
-    - clientType: Distributør og importør
-      need: Regional distribusjon
-      solutionPage: Regional OEM- og forsyningskjedepartner
+    - clientType: Distributor & Importer
+      need: Regional Distribution
+      solutionPage: Regional OEM & Supply Chain Partner
       link: /solutions/regional-oem-supply-chain-partner/
-    - clientType: Bedriftsprosjektkjøper
-      need: Firmarrangementer
-      solutionPage: Bedrifts-SUP-arrangementpakke
-      link: /solutions/corporate-sup-event-package/
-    - clientType: Merkevaresjef for vannsport
-      need: Utvidelse av vannsportsmerkevare
-      solutionPage: Utvid din portefølje av vannsporter
+    - clientType: Corporate Project Buyer
+      need: Corporate Events
+      solutionPage: Corporate pool Event Package
+      link: /solutions/corporate-pool-event-package/
+    - clientType: Water Sports Brand Manager
+      need: Water Sports Brand Expansion
+      solutionPage: Expand Your Water Sports Portfolio
       link: /solutions/expand-your-water-sports-portfolio/
-    - clientType: Eier av dyreeventyrmerke
-      need: Dyreutendørs
-      solutionPage: Kjæledyrvennlig padlebrettprogram
+    - clientType: Pet Adventure Brand Owner
+      need: Pet Outdoor
+      solutionPage: Pet-Friendly inflatable pool Program
       link: /solutions/pet-friendly-paddle-board-program/
-    - clientType: Arrangør av strandrekreasjon
-      need: Strandunderholdning
-      solutionPage: Komplette strandaktivitetsutstyrsløsninger
+    - clientType: Beach Recreation Operator
+      need: Beach Entertainment
+      solutionPage: Complete Beach Activity Equipment Solutions
       link: /solutions/complete-beach-activity-equipment-solutions/
-    - clientType: Vannparkutvikler
-      need: Temabasert underholdning
-      solutionPage: Kommersiell vannpark-SUP-flåte
-      link: /solutions/commercial-water-park-sup-fleet/
-    - clientType: Eier av privat øy og luksusklubb
-      need: Luksuriøs livsstil
-      solutionPage: Premium tilpasset SUP-kolleksjon
-      link: /solutions/premium-custom-sup-collection/
-    - clientType: Turistkontor og offentlig parkoperatør
-      need: Offentlige turismeprosjekter
-      solutionPage: Destinasjonspakke for vannsport
+    - clientType: Water Park Developer
+      need: Theme Entertainment
+      solutionPage: Commercial Water Park pool Fleet
+      link: /solutions/commercial-water-park-pool-fleet/
+    - clientType: Private Island & Luxury Club Owner
+      need: High-End Lifestyle
+      solutionPage: Premium Custom pool Collection
+      link: /solutions/premium-custom-pool-collection/
+    - clientType: Tourism Board & Public Park Operator
+      need: Public Tourism Projects
+      solutionPage: Destination Water Sports Package
       link: /solutions/destination-water-sports-package/
-    - clientType: Arrangør av barneeventyr og sommerleir
-      need: Ungdomsopplæring
-      solutionPage: Barnas utforsker-SUP-program
-      link: /solutions/kids-exploration-sup-program/
-    - clientType: Vannredning og sikkerhetsorganisasjon
-      need: Profesjonelt redningsarbeid
-      solutionPage: Profesjonelt vannrednings-SUP-system
-      link: /solutions/professional-water-rescue-sup-system/
-    - clientType: Institusjon for marin konservering og forskning
-      need: Miljøforskning
-      solutionPage: Miljøforsknings- og overvåknings-SUP-plattform
-      link: /solutions/eco-research-monitoring-sup-platform/
+    - clientType: Kids Adventure & Summer Camp Operator
+      need: Youth Education
+      solutionPage: Kids Exploration pool Program
+      link: /solutions/kids-exploration-pool-program/
+    - clientType: Water Rescue & Safety Organization
+      need: Professional Rescue
+      solutionPage: Professional Water Rescue pool System
+      link: /solutions/professional-water-rescue-pool-system/
+    - clientType: Marine Conservation & Research Institution
+      need: Environmental Research
+      solutionPage: Eco Research & Monitoring pool Platform
+      link: /solutions/eco-research-monitoring-pool-platform/
+
 cta:
-  title: Usikker på hvilken løsning som passer din bedrift?
-  subtitle: Beskriv ditt prosjekt for vårt B2B-team, så anbefaler vi riktig konfigurasjon og prising.
+  title: 'Not sure which solution fits your business?'
+  subtitle: 'Describe your project to our B2B team and we will recommend the right configuration and pricing.'
   actions:
     - variant: primary
-      text: Snakk med vårt B2B-team
+      text: Talk to Our B2B Team
       href: /contact/?subject=b2b-solutions
     - variant: secondary
-      text: Last ned katalog
+      text: Download Catalog
       href: /resources/download-catalog/

@@ -1,265 +1,274 @@
 meta:
-  title: 'Werk & Fertigung — aufblasbarer SUP-OEM | {SITE}'
-  description: 'Besichtigen Sie die olagoon-Fabrik: 12.000-m²-Anlage mit Zuschnitt, HF-Schweißen, Druck, Montage und Qualitätslabor für OEM/ODM-Fertigung aufblasbarer SUPs.'
+  title: 'Factory & Manufacturing — inflatable pools OEM | {SITE}'
+  description: 'Tour the olagoon factory: 12,000 m² plant with cutting, RF welding, printing, assembly, and quality lab for inflatable pools OEM/ODM manufacturing.'
   keywords:
-    - 'SUP-Fabrik China'
-    - 'Fabrik für aufblasbare Paddleboards'
-    - 'OEM-SUP-Hersteller'
-    - 'Fertigung aufblasbarer SUPs'
+    - 'pool factory china'
+    - 'inflatable pool factory'
+    - 'oem pool manufacturer'
+    - 'inflatable pools manufacturing'
 hero:
-  tagline: Fabrik
-  title: Fabrik & Fertigung
-  subtitle: 12.000 m² integrierte Fertigung — vom Rohmaterial bis zum fertigen Board
+  tagline: Factory
+  title: Factory & Manufacturing
+  subtitle: 12,000 m² of integrated manufacturing — from raw material to finished pool
+
 intro:
-  - >-
-    Als Fabrikmarke der **Qingdao Vatrad Group Co., Ltd.** kontrolliert olagoon jede Produktionsstufe — vom Eingang der rohen PVC- und Glasfasermaterialien bis zur endgültigen Vorversandinspektion des fertigen Boards. Unsere Fertigungsanlage in der Qingdao Economic Development Zone erstreckt sich über
-    12.000 Quadratmeter und beherbergt spezielle Werkstätten für PVC-Zuschnitt, Schlauchwärmeverbindung, GFK-Formenbau, SUP-Digitaldruck, Endmontage und Qualitätsprüfung.
-  - >-
-    Durch die Integration von Design, Technik, Prototyping, Fertigung und Prüfung unter einem Dach eliminieren wir die Ineffizienzen der Auftragsfertigung und behalten die direkte Kontrolle über Bauqualität, Materialauswahl und Liefertermine. Jedes Board, das unsere Werkstatt verlässt, wird von
-    unseren Leuten, auf unserer Ausrüstung, nach unseren Standards gebaut.
+  - As the production arm of **Olagoon LLC**, olagoon's Qingdao Operation Team controls every stage of production — from the arrival of raw PVC and fiberglass materials to the final pre-delivery inspection of the finished pool. Our manufacturing facility in the Qingdao Economic Development Zone spans 12,000 square metres and houses dedicated workshops for PVC cutting, tube heat sealing, FRP mould fabrication, pool digital printing, final assembly, and quality testing.
+  - By integrating design, engineering, prototyping, manufacturing, and testing under one roof, we eliminate the inefficiencies of contract manufacturing and maintain direct control over build quality, material selection, and delivery timelines. Every pool that leaves our workshop is built by our people, on our equipment, to our standards.
+
 stats:
-  - value: 12.000 m²
-    label: Fertigungsfläche
+  - value: 12,000 m²
+    label: Manufacturing floor
   - value: 200+
-    label: Facharbeiter
-  - value: 15.000+
-    label: Jährlich produzierte SUP-Boards
+    label: Skilled workers
+  - value: 15,000+
+    label: pools produced annually
   - value: ISO 9001
-    label: Qualitätszertifiziert
-intelligence_tagline: Fabrikintelligenz
-intelligence_title: Entdecken Sie unsere Fertigungsmöglichkeiten
+    label: Quality certified
+
+intelligence_tagline: Factory Intelligence
+intelligence_title: Explore Our Manufacturing Capabilities
+
 intelligence_cards:
-  - title: Produktionskapazität
+  - title: Production Capacity
     icon: C
     icon_bg: blue
-    desc: 12.000 m² Anlage mit Produktion von 15.000+ SUPs/Jahr über SUP-Board- und Sicherheitsausrüstungslinien. 200+ Mitarbeiter, 2 Schichten.
+    desc: '12,000 m² facility producing 15,000+ pools/yr across pools and safety equipment lines. 200+ workers, 2 shifts.'
     metrics:
-      - label: Mindestbestellmenge
-        value: 'SUP: 5–10'
-      - label: Lieferzeit
-        value: 30–45 Tage
+      - label: MOQ
+        value: 'Samples 5–10 · Bulk 50+'
+      - label: Lead Time
+        value: '12–16 weeks (bulk)'
     link: /factory/capacity/
-    link_label: Kapazitätsdetails →
-  - title: Qualitätslabor & Prüfung
+    link_label: Full capacity details →
+  - title: Quality Lab & Testing
     icon: Q
     icon_bg: green
-    desc: 'Unabhängiges QS-Labor mit 4 Prüfstufen: Rohmaterialprüfung (Zug, Weiterreiß, UV), 24–48h Druckhaltetest bei 1,25x Nenndruck, Nahtschältest und Last-/Gleichgewichtsprüfung.'
+    desc: 'Independent QC lab with 4 testing stages: raw material inspection (tensile, tear, UV), 24–48h pressure hold at 1.25x rated pressure on every pool, load/balance verification, and seam peel strength testing by batch sampling every 50 units (ASTM D751).'
     metrics:
-      - label: Laborausrüstung
-        value: Zugprüfgerät, Temperaturkammer, Lecktank
-      - label: Normen
-        value: ISO 9001, CE, AS 1799
+      - label: Lab Equipment
+        value: 'Tensile tester, temp chamber, leak tank'
+      - label: Standards
+        value: 'ISO 9001, CE, AS 1799'
     link: /factory/quality-lab/
-    link_label: Labormethoden & Ausrüstung →
-  - title: OEM/ODM-Fähigkeit
+    link_label: 'Lab procedures & equipment →'
+  - title: OEM/ODM Capability
     icon: O
     icon_bg: purple
-    desc: 'End-to-End-OEM/ODM-Services: kundenspezifisches Formendesign, Private-Label-Verpackung, individuelle Boardfarben, Deckgrafiken (Digital- & Siebdruck) und Drop-Ship-Logistik.'
+    desc: 'End-to-end OEM/ODM services: custom mould design, private-label packaging, custom pool colors, deck graphics (digital & screen printing), and drop-ship logistics.'
     metrics:
-      - label: Zertifizierungen
-        value: ISO 9001, BSCI, CE, REACH
-      - label: Versand
-        value: FOB, CIF, DDP in über 50 Länder
+      - label: Certifications
+        value: 'ISO 9001, BSCI, CE, REACH'
+      - label: Shipping
+        value: 'FOB, CIF, DDP to 50+ countries'
     link: /factory/oem-capability/
-    link_label: Komplette OEM-Services →
+    link_label: 'Full OEM services →'
+
 workshops_section:
-  tagline: Werkstätten
-  title: Fertigungswerkstätten
+  tagline: Workshops
+  title: Manufacturing Workshops
   workshops:
-    - title: PVC-Zuschnitt & Materialvorbereitung
-      description: Automatische CNC-Schneidemaschinen bearbeiten PVC und Drop-Stitch-Gewebe mit submillimetergenauer Präzision. Computeroptimierte Verschachtelung minimiert Materialabfall und stellt sicher, dass jede Platte vor dem Schweißen ihre Maßvorgaben erfüllt.
+    - title: PVC Cutting & Material Preparation
+      description: Automatic CNC cutting machines process PVC and drop-stitch fabrics with sub-millimetre precision. Computer-optimised nesting minimises material waste and ensures every panel meets its dimensional specification before welding.
       image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
-    - title: Schlauchschweißen & Heißsiegeln
-      description: Spezielle Schweißwerkstatt mit Heißsiegelmaschinen und HF-Dielektrikumspressen. Heißluftschweißgeräte verbinden und verschmelzen PVC-Schlauchkammern, während HF-Schweißungen hochfeste luftdichte Nähte erzeugen, die die EN-ISO-25649-Anforderungen übertreffen.
+    - title: Tube Welding & Heat Sealing
+      description: Dedicated welding workshop with heat sealing machines and RF dielectric presses. Hot-air heat sealers bond and fuse PVC tube chambers, while RF welds produce high-strength airtight seams that exceed EN ISO 25649 requirements.
       image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    - title: GFK-Formen & Verbundfertigung
-      description: Kundenspezifische GFK-Formen für SUP-Komponenten, hergestellt im Handlaminier-Glasfaserverfahren mit Polyester- und Vinylesterharzsystemen. Jede Schicht wird von Hand gerollt und vakuumverpackt für gleichbleibende Qualität. Die Gelcoat-Spritzkabine sorgt für eine hochglänzende, UV-beständige Marineoberfläche.
-      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-warehouse-storage.webp
-    - title: SUP-Druck & Dekoration
-      description: SUP-Boards werden mit Digitaldruck für Vollfarbgrafiken und Siebdruck für Logos und sich wiederholende Muster dekoriert. Digitaldrucker produzieren fotorealistische Deckdesigns, während Siebdruck haltbare, lebendige Markenzeichen liefert.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
-    - title: Endmontage & Rigging
-      description: Montagelinie, in der Drop-Stitch-Kerne mit Rails fertiggestellt, EVA-Decks aufgebracht sowie Finnen, Ventile und Zubehör montiert werden. Jedes Board folgt einer 100-Punkte-Montagecheckliste, die vom Teamleiter abgezeichnet wird.
+    - title: FRP Moulds & Composite Fabrication
+      description: Custom FRP moulds for pool components, produced using hand-lay-up fiberglass moulding with polyester and vinylester resin systems. Each layer is hand-rolled and vacuum-bagged for consistent quality. Gelcoat spray booth provides a high-gloss, UV-resistant marine finish.
+      image: https://assets.olagoon.com/images/olagoon/products/family-oasis.webp
+    - title: pool Printing & Decoration
+      description: pools are decorated using digital printing for full-colour graphics and screen printing for logos and repeating patterns. Digital printers produce photo-quality deck designs, while screen printing delivers durable, vivid brand marks.
+      image: https://assets.olagoon.com/images/olagoon/products/family-oasis.webp
+    - title: Final Assembly & Rigging
+      description: Assembly line where drop-stitch cores are finished with rails, wall surfaces are applied, and valves, fittings, and accessories are installed. Each pool follows a 100-point assembly checklist signed off by the team lead.
       image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
-    - title: Qualitätsprüfung & Kontrolle
-      description: Jedes fertige Board durchläuft vor dem Versand eine obligatorische Luftdichtheitsprüfung, Nahtschälprüfung und vollständige Systemkontrolle. Unser Qualitätslabor arbeitet unabhängig von der Produktion und berichtet direkt an das Management.
+    - title: Quality Testing & Inspection
+      description: Every completed pool undergoes mandatory air-retention testing and a full systems check before shipping, with seam peel strength verified by batch sampling every 50 units. Our quality lab operates independently from production and reports directly to management.
       image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
+
 equipment_section:
-  tagline: Ausrüstung
-  title: Wichtige Fertigungsausrüstung
-  view_full: Vollständige Ausrüstungsliste anzeigen →
+  tagline: Equipment
+  title: Key Manufacturing Equipment
+  view_full: View full equipment list →
   view_full_link: /factory/equipment/
   items:
-    - name: Automatische PVC-Schneidemaschine
-      spec: CNC-gesteuert, 0,1 mm Genauigkeit
-    - name: Heißsiegelmaschine
-      spec: Heißluft, 200–300 °C, für Schlauchverbindung
-    - name: HF-Dielektrikumsschweißpresse
-      spec: 15 kW, luftdichte Nahtschweißung
-    - name: Glasfaser-Handlaminierformen
-      spec: SUP-Board-Formen bis 14 ft
-    - name: Digitaldrucker
-      spec: Vollfarb-SUP-Deckgrafiken
-    - name: Siebdruckmaschine
-      spec: Mehrfarbiger Logodruck
+    - name: Automatic PVC Cutting Machine
+      spec: CNC-controlled, 0.1 mm accuracy
+    - name: Heat Sealing Machine
+      spec: Hot-air, 200–300 °C, for tube bonding
+    - name: RF Dielectric Welding Press
+      spec: 15 kW, airtight seam welding
+    - name: Fiberglass Hand-Lay-Up Moulds
+      spec: pools moulds up to 14 ft
+    - name: Digital Printer
+      spec: Full-colour pool deck graphics
+    - name: Screen Printing Machine
+      spec: Multi-colour logo printing
+
 qc_section:
-  tagline: Qualitätskontrolle
-  title: Prüf- & Qualitätssicherungsprozess
-  subtitle: Jedes Board durchläuft vor dem Versand obligatorische Tests. Unser Qualitätslabor arbeitet unabhängig von der Produktion und berichtet direkt an das Management.
+  tagline: Quality Control
+  title: Testing & Quality Assurance Process
+  subtitle: Every pool undergoes mandatory testing before shipping. Our quality lab operates independently from production and reports directly to management.
   steps:
     - step: '1'
-      title: Rohmaterialprüfung
-      desc: PVC- und Drop-Stitch-Gewebe werden einer Zugprüfung (ASTM D751), einer Weiterreißprüfung und einer UV-Beständigkeitsprüfung unterzogen, bevor eine Charge in die Produktion geht.
+      title: Raw Material Inspection
+      desc: PVC and drop-stitch fabrics undergo tensile testing (ASTM D751), tear propagation, and UV resistance verification before any batch enters production.
     - step: '2'
-      title: 24–48-Stunden-Luftdichtheitstest
-      desc: Jede Schlauchkammer wird auf 125 % des Nenndrucks aufgepumpt und 24–48 Stunden gehalten. Ein Druckabfall von mehr als 5 % löst automatische Ablehnung und Nahtnachprüfung aus.
+      title: 24–48 Hour Air Retention Test
+      desc: Every tube chamber is inflated to 125% of rated pressure and held for 24–48 hours. Pressure drop exceeding 5% triggers automatic rejection and seam re-inspection.
     - step: '3'
-      title: Last- & Gleichgewichtsprüfung
-      desc: Fertige Boards werden bis zur maximalen Nennkapazität beladen und auf Stabilität und Steifigkeit geprüft. Jedes Board wird vor der Endkontrolle einem Wassertest unterzogen.
+      title: Load & Balance Testing
+      desc: Completed pools are loaded to maximum rated capacity and tested for stability and rigidity. Each pool is water-tested before final inspection.
+
 oem_section:
-  tagline: OEM-Projekte
-  title: Marken- & OEM-Partnerschaftsfallstudien
-  subtitle: Vom Konzept bis zum Container — wie wir globalen Marken helfen, ihre aufblasbaren SUP-Linien zu starten und zu skalieren.
+  tagline: OEM Projects
+  title: Brand & OEM Partnership Case Studies
+  subtitle: From concept to container — how we help global brands launch and scale their inflatable pools lines.
   cases:
-    - challenge: Ein europäischer Outdoor-Händler benötigte eine Private-Label-SUP-Linie mit einzigartigen Deckgrafiken, umweltfreundlichem PVC und verkaufsfertiger Verpackung — alles innerhalb von 60 Tagen.
-      solution: Entwicklung kundenspezifischer digitaler Druckdateien, Beschaffung REACH-konformen PVCs und Komprimierung der Bemusterung von 3 Runden auf 1 durch Zusammenlegung des Designteams in unserer Qingdao-Fabrik.
-      result: 55 Tage von unterzeichneter Bestellung bis FOB. 2.400 Einheiten in 4 SKUs. Folgeauftrag vor Ankunft des ersten Containers.
-    - challenge: Ein US-Wassersport-Startup benötigte einen leistungsstarken Drop-Stitch-SUP mit kundenspezifischer Rumpfform, Co-Branding-Verpackung und BSCI-Zertifizierung für den Einzelhandel.
-      solution: Anpassung einer bestehenden Drop-Stitch-SUP-Form mit modifizierter Kontur, Entwicklung von Co-Branding-Verpackungsgrafiken und Bereitstellung vollständiger BSCI-Auditdokumentation.
-      result: Erfolgreich in 3 großen US-Outdoor-Ketten gelistet. 5.000+ Einheiten im ersten Jahr mit 98 % Durchverkaufsrate.
-    - challenge: Ein australischer Distributor benötigte eine CE-zertifizierte SUP-Palette mit kundenspezifischen Farben und Konformität mit australischen Standards.
-      solution: Produktion von Vorserienmustern mit 4 Farbvarianten und Koordination der Konformitätsprüfung durch Dritte.
-      result: 3-modellige SUP-Palette auf dem AU/NZ-Markt eingeführt. Gefolgt von einem Regierungsauftrag für 12 Patrouillen-SUPs.
+    - challenge: European outdoor retailer needed a private-label pool line with unique deck graphics, eco-friendly PVC, and retail-ready packaging — all delivered in 60 days.
+      solution: Developed custom digital print files, sourced REACH-compliant PVC, and compressed sampling from 3 rounds to 1 by co-locating the design team at our Qingdao factory.
+      result: 55 days from signed PO to FOB. 2,400 units across 4 SKUs. Repeat order placed before first container arrived.
+    - challenge: US watersports startup needed a high-performance drop-stitch pool with custom shape, co-branded packaging, and BSCI certification for retail placement.
+      solution: Adapted existing pool mould with modified outline, developed co-branded packaging artwork, and provided full BSCI audit documentation.
+      result: Successfully listed in 3 major US outdoor chains. 5,000+ units in first year with 98% sell-through rate.
+    - challenge: Australian distributor required a CE-certified pool range with custom colours and compliance with Australian standards.
+      solution: Produced pre-production samples with 4 colour variants and coordinated third-party compliance testing.
+      result: 3-model pool range launched in AU/NZ market. Followed by government tender win for 12 patrol pools.
+
 faq_section:
-  tagline: Häufig gestellte Fragen
-  title: B2B- & OEM-häufig gestellte Fragen
+  tagline: FAQ
+  title: B2B & OEM Frequently Asked Questions
   questions:
-    - q: Wie hoch ist die Mindestbestellmenge (MOQ) für OEM-aufblasbare SUP-Boards?
-      a: Die MOQ beginnt bei 5–10 Einheiten für Standard-OEM-Modelle. Kundenspezifische Formen und Private-Label-Projekte erfordern je nach Komplexität mindestens 200 Einheiten. Probebestellungen und Musterläufe sind für neue Marken erhältlich.
-    - q: Besitzt olagoon eine BSCI-Zertifizierung?
-      a: Ja. Unser Werk unterhält eine gültige BSCI-Social-Compliance-Zertifizierung (Prüfbericht auf Anfrage erhältlich). Wir besitzen auch ISO 9001 für Qualitätsmanagement und alle Produkte tragen die CE-Zertifizierung. REACH- und RoHS-Konformitätsdokumentation wird mit jeder OEM-Sendung bereitgestellt.
-    - q: Wie ist die typische Lieferzeit für einen OEM-Auftrag?
-      a: Die Standardlieferzeit beträgt 30–45 Tage ab bestätigter Bestellung und Anzahlung für die OEM-Serienproduktion. Für die Entwicklung kundenspezifischer Formen kommen 15–20 Tage für den Werkzeugbau hinzu. Für dringende Aufträge und saisonale Spitzen ist eine beschleunigte Produktion verfügbar. Prototypenmuster werden in der Regel innerhalb von 15–20 Tagen versendet.
-    - q: Können Sie FOB Qingdao oder CIF zu unserem Hafen versenden?
-      a: Ja. Wir versenden FOB Qingdao, CIF zu großen globalen Häfen und DDP für qualifizierte Partner. Unser Logistikteam übernimmt Containerbuchung, Exportedokumentation und Zollabfertigung. Wir versenden in 50+ Länder in den Märkten EU, USA, AU und Asien.
-b2b_moq: 'Standard-Mindestbestellmenge (MOQ): 5–10 Einheiten pro Modell (SUP/Drop-Stitch). SUP-MOQ: 2–5 Einheiten. Probebestellungen für neue Partnerschaften willkommen.'
+    - q: What is the minimum order quantity (MOQ) for OEM inflatable pools?
+      a: Samples and trial orders start at 5–10 units. Standard production MOQ is 50 units. Custom moulds and private-label projects require a minimum of 200 units depending on complexity.
+    - q: Does olagoon hold BSCI certification?
+      a: Yes. Our factory maintains valid BSCI social compliance certification (audit report available on request). We also hold ISO 9001 for quality management and all products carry CE certification. REACH and RoHS compliance documentation provided with every OEM shipment.
+    - q: What is the typical lead time for an OEM order?
+      a: Production runs take 12–16 weeks for 50–100 units, 10–14 weeks for 300–1,000 units, and 8–12 weeks above 1,000 units, from confirmed PO and deposit to FOB Qingdao. Custom mould development adds 15–20 days for tooling. Expedited production is available for urgent orders and seasonal rushes. Prototype samples typically ship within 15–20 days.
+    - q: Can you ship FOB Qingdao or CIF to our port?
+      a: Yes. We ship FOB Qingdao, CIF major global ports, and DDP for qualified partners. Our logistics team manages container booking, export documentation, and customs clearance. We ship to 50+ countries across EU, US, AU, and Asia markets.
+
+b2b_moq: 'Samples from 5–10 units. Standard production MOQ: 50 units per model.'
+
 production_flow:
-  tagline: Produktionsfluss
-  title: Vom Material zum fertigen Board
-  subtitle: Jedes Board durchläuft 6 Produktionsstufen mit Qualitätskontrollpunkten bei jedem Schritt. Keine Abkürzungen, keine übersprungenen Inspektionen.
+  tagline: Production Flow
+  title: From Material to Finished Pool
+  subtitle: Every pool passes through 6 production stages with QC checkpoints at every step. No shortcuts, no skipped inspections.
   stages:
     - stage: '01'
-      title: Materialeingang & Wareneingangsprüfung
-      description: Alle eingehenden Materialien werden nach Chargen-/Losnummer in unserem ERP-System erfasst. PVC-Stoffrollen, Drop-Stitch-Kerne, Ventile, Klebstoffe und Zubehör werden bis zur Freigabe durch die Qualitätskontrolle unter Quarantäne gestellt.
-      qc_check: Zugfestigkeit (ASTM D751), Reißfestigkeit (ISO 4674), Dickenmessgerät, Klebstoffviskosität, visuelle Fehlerprüfung
-      qc_threshold: 100 % der geprüften Chargen. Ablehnen, wenn die Zugfestigkeit < 90 % der Spezifikation, die Reißfestigkeit < Spezifikationsminimum oder irgendein sichtbarer Mangel vorhanden ist
-      responsibility: Eingehendes QC-Team (3 Prüfer)
+      title: Material Receiving & Incoming QC
+      description: 'All incoming materials are logged by batch/lot number in our ERP system. PVC fabric rolls, drop-stitch cores, valves, adhesives, and hardware are quarantined until QC sign-off.'
+      qc_check: 'Tensile strength (ASTM D751), tear resistance (ISO 4674), thickness gauge, adhesive viscosity, visual defect scan'
+      qc_threshold: '100% of batches tested. Reject if tensile < 90% of spec, tear < spec min, or any visual defect'
+      responsibility: Incoming QC team (3 inspectors)
     - stage: '02'
-      title: CNC-Schneiden & Materialvorbereitung
-      description: Computer-optimiertes Nesting legt Platten auf PVC-Rohmaterial aus, um Abfall zu minimieren. Automatische CNC-Schneidemaschinen halten eine Positionsgenauigkeit von 0,1 mm.
-      qc_check: Dimensionale Überprüfung an CAD-DXF-Dateien, Kantengüteprüfung, Plattenanzahlüberprüfung
-      qc_threshold: Jedes 20. Paneel wird gemessen. Toleranz ±0,5 mm. Charge verwerfen, wenn >2% außerhalb der Toleranz liegen
-      responsibility: Leiter der Schneidwerkstatt
+      title: CNC Cutting & Material Prep
+      description: 'Computer-optimized nesting lays out panels on PVC stock to minimize waste. Automatic CNC cutting machines maintain 0.1 mm positional accuracy.'
+      qc_check: 'Dimensional check against CAD DXF files, edge quality inspection, panel count verification'
+      qc_threshold: 'Every 20th panel measured. Tolerance ±0.5 mm. Reject batch if >2% out of tolerance'
+      responsibility: Cutting workshop lead
     - stage: '03'
-      title: Schweißen & Drop-Stitch-Verbindung
-      description: Drop-Stitch-Kerne werden durch Hitzelaminierung mit äußeren PVC-Laminaten verbunden. Rohrkammern werden durch RF-Schweißen oder Heißluftschweißen verschweißt. Schienenbänder werden dreilagig verschmolzen.
-      qc_check: Abziehprüfung alle 50 Einheiten (ASTM D751), Schweißbreitenmessung, Überprüfung des Heizlufttemperaturprotokolls, visuelle Nahtinspektion unter Hintergrundbeleuchtung
-      qc_threshold: Abziehfestigkeit mindestens 8 N/cm. Schweißnahtbreite Toleranz ±1 mm. Jegliche sichtbare Kanalisierung = ablehnen
-      responsibility: Schweißeprüfung (2 Prüfer pro Schicht)
+      title: Welding & Drop-Stitch Bonding
+      description: 'Drop-stitch cores are bonded to outer PVC laminates using heat lamination. Tube chambers are RF-welded or hot-air welded. Rail bands are triple-layer fusion bonded.'
+      qc_check: 'Peel test every 50 units (ASTM D751), weld width measurement, hot-air temperature log review, visual seam inspection under backlight'
+      qc_threshold: 'Peel strength min 8 N/cm. Weld width tolerance ±1 mm. Any visible channeling = reject'
+      responsibility: Welding QC (2 inspectors per shift)
     - stage: '04'
-      title: Montage & Takelage
-      description: 'Boards gehen zur Endmontage, wo alle Komponenten zusammengefügt werden: geklebte und verschweißte Rails, installierte Ventile, D-Ringe, Griffe, Finnenkästen und Tragetaschenbefestigung. Jede Einheit durchläuft eine 100-Punkte-Montagecheckliste.'
-      qc_check: 100-Punkte-Checkliste pro Einheit, Ventilfunktionsprüfung (10 Öffnungs-/Schließzyklen), Überprüfung des Hardware-Drehmoments, Sichtprüfung
-      qc_threshold: 'Null-Fehler-Politik bei sicherheitskritischen Teilen (Ventile, D-Ringe, Griffe). Geringfügige kosmetische Mängel: AQL 2,5 (ISO 2859)'
-      responsibility: Leiter Montageteam + Linien-QC
+      title: Assembly & Rigging
+      description: 'Pools move to final assembly where all components are mated: rails glued and welded, valves installed, D-rings, handles, drain ports, and carry bag fitting. Each unit follows a 100-point assembly checklist.'
+      qc_check: '100-point checklist sign-off per unit, valve function test (10 open/close cycles), hardware torque verification, visual inspection'
+      qc_threshold: 'Zero-defect policy on safety-critical items (valves, D-rings, handles). Minor cosmetic: AQL 2.5 (ISO 2859)'
+      responsibility: Assembly team lead + line QC
     - stage: '05'
-      title: Druckprüfung & Qualitätskontrolle
-      description: Jede Kammer wird auf das 1,25-fache des Nenndrucks aufgepumpt (typischerweise 20–25 PSI) und für 24–48 Stunden gehalten. Drucksensoren protokollieren kontinuierlich. Kammern, die einen Druckabfall von mehr als 5 % aufweisen, werden abgelehnt und zur Nahtnachprüfung geschickt.
-      qc_check: 24–48-Stunden-Druckhaltelog, Sensor-Kalibrierung täglich überprüft, temperaturkompensierte Druckanzeige, Nahtnachprüfung nach Reparatur
-      qc_threshold: Maximal 5% Druckabfall über 24–48 Stunden bei stabiler Temperatur. Jede Kammer, die dies überschreitet = 100% Nachprüfung der gesamten Produktionscharge
-      responsibility: Qualitätslabor (unabhängig von der Produktion, berichtet an die Geschäftsleitung)
+      title: Pressure Testing & Quality Hold
+      description: 'Every chamber is inflated to 1.25× rated pressure (typically 20–25 PSI) and held for 24–48 hours. Pressure sensors log continuously. Chambers exceeding 5% pressure drop are rejected and sent for seam re-inspection.'
+      qc_check: '24–48h pressure hold log, sensor calibration verified daily, temperature-compensated pressure reading, seam re-test after repair'
+      qc_threshold: 'Max 5% pressure drop over 24–48h at stable temp. Any chamber exceeding this = 100% re-test of entire production batch'
+      responsibility: Quality lab (independent of production, reports to management)
     - stage: '06'
-      title: Endkontrolle & Verpackung
-      description: Endkontrolle der visuellen und funktionalen Eigenschaften. Oberflächenmängel, Farbgleichmäßigkeit, Etiketten-/BIN-Überprüfung, Verpackungsintegrität und Vollständigkeit des Zubehörs. Die Einheiten sind vakuumverpackt, in Kartons verpackt und für den Containertransport auf Paletten gestellt.
-      qc_check: Vollständige Sichtprüfung, Zubehör-Checkliste pro SKU, Verpackungs-Falltest (1 m, Zufallsprobe), Etiketten-/Barcode-Scan-Überprüfung
-      qc_threshold: AQL 2,5 für Hauptmängel, AQL 4,0 für Nebelmängel. Null Toleranz bei Sicherheitsmängeln. 100% der Einheiten werden visuell überprüft
-      responsibility: Endkontrollteam (4 Prüfer) + Verpackungsteamleiter
+      title: Final Inspection & Packing
+      description: 'Final visual and functional inspection. Surface defects, color consistency, label/BIN verification, packaging integrity, and accessory completeness. Units are vacuum-packed, boxed, and palletized for container loading.'
+      qc_check: 'Full visual inspection, accessory checklist per SKU, packaging drop test (1 m, random sample), label/bar code scan verification'
+      qc_threshold: 'AQL 2.5 for major defects, AQL 4.0 for minor. Zero tolerance on safety defects. 100% of units visually inspected'
+      responsibility: Final QC team (4 inspectors) + Packing team lead
+
 workforce:
-  tagline: Unser Volk
-  title: Belegschaft & Fachwissen
-  engineers: '25+'
-  engineers_detail: Ingenieure in Forschung und Entwicklung, Werkzeugbau, Materiallabor und Produktionsingenieurwesen. Durchschnittlich 7 Jahre Erfahrung in der Herstellung von aufblasbaren Produkten.
-  shift_pattern: 2 Schichten/Tag (07:00–15:30, 15:30–00:00). Optionale Nachtschicht für dringende Aufträge.
-  training: Monatliches QC-Training, vierteljährliche Sicherheitsübungen, jährliche Kompetenzbewertung. Neue Mitarbeiter absolvieren eine 40-stündige Einführung, bevor sie an der Produktionslinie arbeiten.
+  tagline: Our People
+  title: Workforce & Expertise
+  engineers: 25+
+  engineers_detail: 'Engineers across R&D, mold design, materials lab, and production engineering. Average 7+ years in inflatable manufacturing.'
+  shift_pattern: '2 shifts/day (07:00–15:30, 15:30–00:00). Optional night shift for urgent orders.'
+  training: 'Monthly QC training, quarterly safety drills, annual skills assessment. New hires complete 40-hour induction before working on production line.'
   departments:
     - name: R&D & Engineering
-      count: '25+'
-      role: Produktdesign, Werkzeugtechnik, Materiallabor
+      count: 25+
+      role: Product design, mold engineering, materials lab
     - name: Cutting & Material Prep
       count: 15
-      role: CNC-Schneiden, Plattenvorbereitung, Materialhandhabung
+      role: CNC cutting, panel preparation, material handling
     - name: Welding & Lamination
       count: 40
-      role: HF-Schweißen, Heißluftschweißen, Drop-Stitch-Verklebung
-    - name: SUP Core Bonding
+      role: RF welding, hot-air welding, drop-stitch bonding
+    - name: pool Core Bonding
       count: 30
-      role: Drop-Stitch-Laminierung, Heißverklebung, Schienenbandfusion
+      role: Drop-stitch lamination, heat bonding, rail band fusion
     - name: Assembly & Rigging
       count: 35
-      role: Endmontage, Hardwareinstallation, Systemprüfung
+      role: Final assembly, hardware installation, systems check
     - name: Quality Control
       count: 12
-      role: Eingehende Qualitätskontrolle, laufende Qualitätskontrolle, Endkontrolle, Labortests
+      role: Incoming QC, in-process QC, final inspection, lab testing
     - name: Logistics & Packing
       count: 20
-      role: Verpackung, Beladung von Containern, Exportdokumentation
+      role: Packaging, container loading, export documentation
     - name: Management & Admin
       count: 15
-      role: Vertrieb, Beschaffung, Personalwesen, Finanzen, Compliance
+      role: Sales, procurement, HR, finance, compliance
+
 material_traceability:
-  tagline: Rückverfolgbarkeit
-  title: Materialverfolgung & Chargenkontrolle
-  description: >-
-    Jede Charge von Rohmaterial wird in unserem ERP-System mit einer eindeutigen Losnummer versehen. Vom Eintreffen über die Produktion bis zum fertigen Produkt ist jede Stückliste eines Loses mit der ursprünglichen Lieferantencharge verknüpft. Dies ermöglicht eine vollständige Rückverfolgbarkeit
-    nach oben für jede Qualitäts- oder Compliance-Anfrage.
-  system: Benutzerdefiniertes ERP (internes System der Qingdao Vatrad Group) + physische Chargenetiketten auf jedem Arbeitsauftrag
-  coverage: 100 % der Produktionsmaterialien — PVC, Drop-Stitch-Gewebe, Klebstoffe, Ventile, Beschläge, Verpackungen
-  records_retained: 10 Jahre (gemäß CE 2013/53/EU-Anforderung)
+  tagline: Traceability
+  title: Material Tracking & Batch Control
+  description: Every batch of raw material is assigned a unique lot number in our ERP system. From arrival through production to the finished product, each pool's bill of materials links back to the original supplier batch. This enables full upstream traceability for any quality or compliance inquiry.
+  system: Custom ERP (Qingdao Vatrad Group internal system) + physical batch tags on each work order
+  coverage: 100% of production materials — PVC, drop-stitch fabric, adhesives, valves, hardware, packaging
+  records_retained: 10 years (per CE 2013/53/EU requirement)
   suppliers:
-    - material: Marine-PVC
-      source: Chinesische und koreanische Lieferanten
+    - material: Marine-grade PVC
+      source: Chinese and Korean suppliers
       certified: ISO 9001, REACH, RoHS
-    - material: Drop-Stitch-Gewebe
-      source: Interne Weberei + externer Partner
-      certified: Interne Qualitätskontrolle Lieferant ISO 9001
-    - material: Ventile & Hardware
-      source: Chinesische OEM-Lieferanten
-      certified: ISO 9001, Materialzeugnisse pro Charge
+    - material: Drop-stitch fabric
+      source: In-house weaving + external partner
+      certified: Internal QC + supplier ISO 9001
+    - material: Valves & Hardware
+      source: Chinese OEM suppliers
+      certified: ISO 9001, material certs per batch
+
 qc_dashboard:
-  tagline: QC nach Zahlen
-  title: Qualitätskontrollmetriken
-  subtitle: Echte Bestehen/Nichtbestehen-Daten von unserer Produktionslinie. Unser Qualitätslabor arbeitet unabhängig von der Produktion und berichtet direkt an die Geschäftsleitung.
+  tagline: QC by the Numbers
+  title: Quality Control Metrics
+  subtitle: Real pass/fail data from our production line. Our quality lab operates independently from production and reports directly to management.
   stats:
     - value: 100%
-      label: Einheiten druckgeprüft
-      detail: Jedes Board, jede Kammer, jede Charge
-    - value: <5%
-      label: Maximal zulässiger Druckabfall
-      detail: Über 24–48 Stunden bei 1,25× Nennendruck
-    - value: AQL 2,5
-      label: Schwelle für wesentliche Mängel
-      detail: Nach ISO 2859 Prüfstandard
+      label: Units pressure-tested
+      detail: Every pool, every chamber, every batch
+    - value: '<5%'
+      label: Max allowable pressure drop
+      detail: Over 24–48h at 1.25× rated pressure
+    - value: AQL 2.5
+      label: Major defect threshold
+      detail: Per ISO 2859 sampling standard
     - value: 24–48h
-      label: Druckhaltezeit
-      detail: Abhängig von der Produktkategorie
-    - value: 1,25×
-      label: Prüfdruck vs Nennwert
-      detail: Sicherheitsmarge in jeder Kammer
+      label: Pressure hold duration
+      detail: Depending on product category
+    - value: 1.25×
+      label: Test pressure vs rated
+      detail: Safety margin on every chamber
     - value: 0%
-      label: Toleranz bei Sicherheitsmängeln
-      detail: Ventile, D-Ringe, Nähte, Auftrieb
+      label: Tolerance on safety defects
+      detail: Valves, D-rings, seams, buoyancy
+
 process_cta:
-  title: Unseren Fertigungsprozess ansehen
-  desc: Verfolgen Sie ein Board durch jede Produktionsstufe — vom Rohmaterial bis zum wasserfertigen Board.
-  label: Produktionsprozess anzeigen →
+  title: See our manufacturing process
+  desc: Follow a pool through every stage of production — from raw material to backyard-ready pool.
+  label: View production process →
   link: /factory/process/

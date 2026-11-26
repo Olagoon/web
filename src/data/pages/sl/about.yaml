@@ -1,122 +1,122 @@
 meta:
-  title: 'O znamki OLagoon — znamka napihljivih desk SUP in vodnih športov | {SITE}'
-  description: 'OLagoon je globalna znamka napihljivih desk SUP in vodnih športov, ki jo upravlja Olagoon LLC (ZDA), gradila pa jo je naša operativna ekipa v Qingdaou. Odkrijte našo zgodbo, inženiring, certificirano kakovost in programe državnih partnerjev.'
+  title: 'About OLagoon — inflatable pools & Water Sports Brand | {SITE}'
+  description: 'OLagoon is a global inflatable pools and water sports brand, operated by Olagoon LLC and built by our Qingdao Operation Team. Discover our story, engineering, certified quality, and country partner programs.'
   keywords:
-    - 'znamka napihljivih desk SUP'
-    - 'znamka vodnih športov'
-    - 'državni distributer sup'
-    - 'kolekcije sup s skupno znamko'
+    - 'inflatable pools brand'
+    - 'water sports brand'
+    - 'country pool distributor'
+    - 'co-branded pool collections'
 hero:
-  tagline: 'O nas'
+  tagline: About us
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'tovarna in delavnica olagoon'
+    alt: olagoon factory and workshop
   title: |
-    Pomorski inženiring, <br />
-    zgrajen na način <span class="text-accent dark:text-white">olagoon</span>
-  subtitle: 'Začeli smo v obalni delavnici z eno desko in trmastim prepričanjem: pomorski izdelki morajo biti inženirsko zasnovani, kot da so pomembni, ker so. Danes odpošiljamo v več kot 40 držav, vsak trup pa še vedno preide skozi iste roke, ki so začele podjetje.'
+    Marine engineering, <br />
+    built the <span class="text-accent dark:text-white">olagoon</span> way
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
 
 stats:
-  title: 'V številkah'
+  title: By the numbers
   columns: 4
   stats:
-    - title: 'Dostavljenih trupov'
-      amount: '2.400+'
-    - title: 'Držav odpreme'
+    - title: Hulls delivered
+      amount: '2,400+'
+    - title: Countries shipped
       amount: '40'
-    - title: 'Let skupnih izkušenj'
+    - title: Years of combined experience
       amount: '60'
-    - title: 'Povprečni odziv garancije (ure)'
+    - title: Average warranty response (hours)
       amount: '24'
 
 features3_what_we_build:
-  title: 'Kaj izdelujemo'
-  subtitle: 'Začeli smo v obalni delavnici z eno desko in trmastim prepričanjem: pomorski izdelki morajo biti inženirsko zasnovani, kot da so pomembni, ker so. Danes odpošiljamo v več kot 40 držav, vsak trup pa še vedno preide skozi iste roke, ki so začele podjetje.'
+  title: What we build
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
   columns: 3
   isBeforeContent: true
   items:
-    - title: 'Deske SUP'
-      description: 'Napihljive deske SUP od 9 do 12 čevljev. Zasnovane za turizem, jogo, ribolov in družinsko uporabo.'
+    - title: pools
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:ship
-    - title: 'Napihljive deske SUP'
-      description: 'Napihljive deske SUP iz PVC od 9 do 12 čevljev. Lahke, trpežne in enostavne za shranjevanje.'
+    - title: inflatable pools
+      description: PVC inflatable pools from 9 ft to 12 ft. Light, tough and easy to stow.
       icon: tabler:rowing
-    - title: 'Premium paketi SUP'
-      description: 'Kompaktne deske SUP z visokimi specifikacijami, izdelane po meri za vašo znamko ali zahteve flote.'
+    - title: Premium pool packages
+      description: Compact, high-spec pools custom-built to match your brand or fleet requirements.
       icon: tabler:crown
 
 features3_more:
   columns: 3
   isAfterContent: true
   items:
-    - title: 'Dodatki'
-      description: 'Vesla, črpalke, prevleke, suhe vreče in elektronika. Vse usklajeno z našimi deskami.'
+    - title: Accessories
+      description: Filters, pumps, covers, and accessories. All matched to our pools.
       icon: tabler:package
-    - title: 'Popravila in servis'
-      description: 'Lastno popravilo desk, zamenjava blazin in nadgradnje dodatkov.'
+    - title: Repair & service
+      description: In-house pool repair, liner replacement and accessory upgrades.
       icon: tabler:tool
-    - title: 'Izdelave po meri'
-      description: 'Oblikovanje projekt za projektom za komercialne, znanstvene in vojaške stranke.'
+    - title: Custom builds
+      description: Project-by-project design for commercial, scientific and military customers.
       icon: tabler:hammer
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-    alt: 'Pogovor o oblikovanju in inženiringu desk'
+    alt: Pool design and engineering discussion
 
 steps2_values:
-  title: 'Naše vrednote'
-  subtitle: 'Tri načela, ki so od prvega dne oblikovala vsak izdelek.'
+  title: Our values
+  subtitle: Three principles that have shaped every product since day one.
   items:
-    - title: 'Gradite, kot da nosi vašo družino'
-      description: 'Z vsakim trupom, varom in vezilom ravnamo, kot da ju bodo uporabljale naše lastne družine.'
+    - title: Build like it carries your family
+      description: Every hull, weld and fastener is treated as if our own families will use it.
       icon: tabler:heart
-    - title: 'Inženiring pred prodajo'
-      description: 'Napihljive deske SUP od 9 do 12 čevljev. Zasnovane za turizem, jogo, ribolov in družinsko uporabo.'
+    - title: Engineer before we sell
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:settings
-    - title: 'Podpora, ki preživi garancijo'
-      description: 'Lastniki dvajset let starih trupov nas še vedno kličejo za nadomestne dele, mi pa še vedno dvignemo.'
+    - title: Support that outlasts the warranty
+      description: Twenty-year-old hulls still call us for spare parts, and we still pick up.
       icon: tabler:headset
 
 steps2_milestones:
-  title: 'Mejniki'
-  subtitle: 'Kratka različica zgodbe olagoon.'
+  title: Milestones
+  subtitle: A short version of the olagoon story.
   isReversed: true
   items:
-    - title: 'Ustanovljeno v obalni delavnici'
-      description: 'Začela sta dva pomorska inženirja s CNC-frezo in trmasto idejo.'
+    - title: Founded in a coastal workshop
+      description: Started by two marine engineers with a CNC mill and a stubborn idea.
       icon: tabler:building-factory
-    - title: 'Prvih 1.000 dostavljenih trupov'
-      description: 'Doseženo v našem sedmem letu, večinoma po ustnem prepričevanju in s strankami, ki se vračajo.'
+    - title: First 1,000 hulls delivered
+      description: Reached in our seventh year, mostly through word of mouth and repeat customers.
       icon: tabler:circle-check
-    - title: 'Mednarodni izvozni program'
-      description: 'Danes odpošiljamo v več kot 40 držav z lokaliziranimi podpornimi partnerji na petih celinah.'
+    - title: International export programme
+      description: Now shipping to 40+ countries with localised support partners on five continents.
       icon: tabler:world
 
 features2_locations:
-  title: 'Naše lokacije'
-  tagline: 'Najdite nas'
+  title: Our locations
+  tagline: Find us
   columns: 3
   items:
-    - title: 'Sedež in delavnica'
-      description: 'Napihljive deske SUP od 9 do 12 čevljev. Zasnovane za turizem, jogo, ribolov in družinsko uporabo.'
-    - title: 'Servisni center za EU'
-      description: 'Napihljive deske SUP od 9 do 12 čevljev. Zasnovane za turizem, jogo, ribolov in družinsko uporabo.'
-    - title: 'Partnerško omrežje APAC'
-      description: 'Pooblaščeni servisni partnerji v Avstraliji, Japonski, Singapurju in Hongkongu.'
+    - title: Headquarters & workshop
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: EU service centre
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: APAC partner network
+      description: Authorised service partners in Australia, Japan, Singapore and Hong Kong.
 
-brand_hub_tagline: 'Znamka'
-brand_hub_title: 'Raziščite našo znamko'
-brand_hub_subtitle: 'Poglobite se v naše inženirsko znanje o deskah SUP, globalno prisotnost in načela, ki nas vodijo.'
+brand_hub_tagline: Brand
+brand_hub_title: Explore Our Brand
+brand_hub_subtitle: Dive deeper into our pool engineering expertise, global presence, and the principles that drive us.
 
 brand_hub_cards:
-  - title: 'Pomorsko strokovno znanje'
-    desc: 'Desetletja znanosti o materialih, natančne proizvodnje in preizkušanja v resničnem svetu — od obdelave PVC do oblikovanja trupov z globokim V in tehnologije drop-stitch.'
+  - title: Marine Expertise
+    desc: Decades of material science, precision manufacturing, and real-world testing — from PVC fabrication to deep-V hull design and drop-stitch technology.
     link: /brand-marine-expertise/
-    link_label: 'Več →'
-  - title: 'Globalna prisotnost'
-    desc: 'Odpošiljanje v več kot 50 držav iz našega objekta v Qingdaou s pooblaščenimi servisnimi partnerji po Evropi, azijsko-pacifiški regiji in Amerikah.'
+    link_label: 'Learn more →'
+  - title: Global Presence
+    desc: Shipping to 50+ countries from our Qingdao facility with authorized service partners across Europe, Asia-Pacific, and the Americas.
     link: /brand-global-presence/
-    link_label: 'Več →'
-  - title: 'Zakaj olagoon'
-    desc: 'Znamka, zgrajena na preverjeni kakovosti — dvojna certifikacija (ISO 9001 + BSCI), skladnost s CE ter ekskluzivna državna partnerstva z omejenimi kolekcijami s skupno znamko za podjetja vodnih športov.'
+    link_label: 'Learn more →'
+  - title: Why olagoon
+    desc: A brand built on verified quality — dual certification (ISO 9001 + BSCI), CE compliance, and exclusive country partnerships with limited co-branded collections for water-sports businesses.
     link: /brand-why-olagoon/
-    link_label: 'Več →'
+    link_label: 'Learn more →'

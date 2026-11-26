@@ -1,110 +1,95 @@
 meta:
-  title: Мастерская прототипов — полномасштабное прототипирование SUP и морские испытания | {SITE}
-  description: От CAD до готовой к воде доски за 8-12 недель. Наша мастерская прототипов строит, оснащает и проводит морские испытания индивидуальных надувных SUP. Начните ваш проект прототипа уже сегодня.
-back_text: Назад в центр НИОКР
-home_label: Дом
+  title: 'Prototype Workshop — Full-Scale pool Prototyping & Sea Trials | {SITE}'
+  description: 'From CAD to backyard-ready pool in 8-12 weeks. Our Prototype Workshop builds, rigs, and water-tests custom inflatable pools. Start your prototype project today.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
+
 hero:
-  tagline: Лабораторная работа 05
-  title: Мастерская прототипов
-  subtitle: От модели CAD до готовой к воде доски — построена, оснащена и проверена
-  image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-  image_alt: Изготовление досок в прототипной мастерской OLagoon
-intro: >-
-  3D-модель в CAD, каким бы подробным она ни была, не может показать, как доска будет вести себя на воде, пока она с ней не встретится. Именно поэтому наша мастерская прототипов создана для того, чтобы как можно быстрее и точнее превращать инженерные данные в физическую, готовую к воде доску.
-  Каждая новая модель OLagoon — и каждая значительная индивидуальная сборка — проходит через эту мастерскую перед тем, как будет изготовлена производственная оснастка.
-content_html: >-
-  <h2>Где дизайн становится реальностью</h2>
+  tagline: 'Lab 05'
+  title: 'Prototype Workshop'
+  subtitle: 'From CAD model to water-ready pool — built, fitted, and proven'
+  image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+  image_alt: 'OLagoon prototype workshop pool fabrication'
 
-  <p>Цех полностью оснащён для одновременного изготовления корпуса, рельсов и такелажа. Такой подход с параллельными рабочими процессами сокращает срок изготовления прототипа до 8-12 недель с момента инженерной передачи, по сравнению с отраслевой нормой в 16-20 недель. Если ваша задача требует
-  специализированного решения, мы можем пройти путь от концепции до испытаний на воде менее чем за три месяца.</p>
+intro: 'A CAD model, no matter how detailed, cannot reveal how a pool will actually perform until it meets the water. That is why our Prototype Workshop is designed to translate engineering data into a physical, water-ready pool as quickly and accurately as possible. Every new OLagoon model — and every significant custom build — passes through this workshop before the production tooling is committed.'
 
+content_html: |
+  <h2>Where design becomes reality</h2>
+  <p>The workshop is fully equipped for simultaneous fabrication of hull, rails, and rigging. This parallel-workflow approach cuts prototype lead time to 8-12 weeks from engineering release, compared to the industry norm of 16-20 weeks. When your application demands a specialised solution, we can move from concept to on-water validation in under three months.</p>
 
-  <h2>Возможности цеха</h2>
-
+  <h2>Workshop capabilities</h2>
   <table>
-    <thead><tr><th>Рабочее место</th><th>Оборудование</th><th>Назначение</th></tr></thead>
+    <thead><tr><th>Workstation</th><th>Equipment</th><th>Purpose</th></tr></thead>
     <tbody>
-      <tr><td>Изготовление корпуса</td><td>Раскройщик ткани с ЧПУ, пресс термо-ламинации, участок подготовки сердечников drop-stitch</td><td>Полномасштабное производство корпусов всех трёх конструктивных типов</td></tr>
-      <tr><td>Сборка рельсов и камер</td><td>Пресс RF-сварки, станция прихваточной сварки горячим воздухом, стенд для надувных испытаний</td><td>Изготовление рельсовых и камерных сборок полного размера со всеми перегородками и клапанами</td></tr>
-      <tr><td>Такелаж и оснастка</td><td>Кондуктор для плавниковых коробок, оснастка для приварки креплений груза и ручек, станок для резки настилов</td><td>Полное оснащение: плавники, крепления груза, отверстия для леши, ручки, настилы, клапаны</td></tr>
-      <tr><td>Измерительный пост</td><td>GPS-датчик скорости, датчики давления, акселерометры, термопарная матрица, регистратор данных</td><td>Установка и калибровка измерительного оборудования для морских испытаний</td></tr>
+      <tr><td>Hull fabrication</td><td>CNC fabric cutter, heat-lamination press, drop-stitch core preparation station</td><td>Full-scale hull production in all three construction types</td></tr>
+      <tr><td>Rail &amp; chamber assembly</td><td>RF welding press, hot-air tacking station, inflation test jig</td><td>Fabrication of full-size rail and chamber assemblies with all baffles and valves</td></tr>
+      <tr><td>Rigging &amp; fitting</td><td>Fin-box routing jig, cargo-mount and handle welding fixtures, deck-pad cutting station</td><td>Complete outfitting: fins, cargo mounts, leash plugs, handles, deck pads, valves</td></tr>
+      <tr><td>Instrumentation bay</td><td>GPS speed sensor, pressure transducers, accelerometers, thermocouple array, data-logger</td><td>Sea-trial instrumentation installation and calibration</td></tr>
     </tbody>
   </table>
 
-
-  <h2>Путь прототипа — шаг за шагом</h2>
-
+  <h2>The prototype journey — step by step</h2>
   <ol>
-    <li><strong>Инженерная передача</strong> — Комплект конструкторской документации (3D-модель, отчёт FEA, спецификация материалов, график выкладки) официально рассматривается руководителем цеха и инженером проекта. Все вопросы по производству отмечаются и решаются до начала раскроя.</li>
-    <li><strong>Изготовление корпуса</strong> — Корпус строится в соответствии с инженерной спецификацией. Для однослойной конструкции: сердечник drop-stitch ламинируется указанным ПВХ-слоем. Для двухслойной конструкции: дополнительный слой наносится на базовый ламинат перед раскроем. Для фузионной конструкции: параметры ламинации загружаются из утверждённой технологической карты и проверяются на первом образце.</li>
-    <li><strong>Изготовление рельсов</strong> — Ткань раскраивается с использованием шаблонов CNC, затем сваривается методом RF-сварки в рельсы и камеры полного размера. Каждая камера надувается до испытательного давления и выдерживается 24 h для первичной стабилизации.</li>
-    <li><strong>Сборка и такелаж</strong> — Корпус и рельсы соединяются. Устанавливаются плавниковые коробки и крепления груза, монтируются отверстия для леши и ручки для переноски, клапан накачки устанавливается с регламентированным моментом затяжки, настил наклеивается и выравнивается.</li>
-    <li><strong>Статические испытания</strong> — Прежде чем доска коснётся воды, проводятся: проверка плавучести (полная нагрузка + 30 % запаса), испытание камер на удержание давления, тест клапана на утечку, испытание ручек и креплений на отрыв.</li>
-    <li><strong>Программа морских испытаний</strong> — 20 часов испытаний на воде, подробнее описано ниже.</li>
-    <li><strong>Приёмка прототипа</strong> — Проводится официальное совещание по приёмке с участием инженерных и производственных групп и отдела качества. Все необходимые изменения конструкции документируются и вносятся в производственную версию.</li>
+    <li><strong>Engineering handover</strong> — The design package (3D model, FEA report, bill of materials, layup schedule) is formally reviewed by the workshop lead and the project engineer. Any manufacturing concerns are flagged and resolved before cutting begins.</li>
+    <li><strong>Hull production</strong> — The hull is built according to the engineering specification. For single-layer construction: the drop-stitch core is laminated with the specified PVC skin. For double-layer construction: the additional skin is applied over the base laminate before the pattern is cut. For fused construction: the lamination parameters are loaded from the approved process sheet and verified on a first-off coupon.</li>
+    <li><strong>Rail fabrication</strong> — Fabric is cut using CNC-pattern templates, then RF-welded into full-size rails and chambers. Each chamber is inflated to test pressure and left for 24 h for initial stabilisation.</li>
+    <li><strong>Assembly &amp; rigging</strong> — Hull and rails are mated. Fin boxes and cargo mounts are fitted, leash plugs and carry handles are installed, the inflation valve is torqued in, and the deck pad is applied and aligned.</li>
+    <li><strong>Static tests</strong> — Before the pool is filled, it undergoes: structural check (full water load + 30 % reserve), chamber pressure-hold test, valve leak-down test, handle and mount pull-test.</li>
+    <li><strong>Sea trial programme</strong> — 20 hours of in-water testing, detailed below.</li>
+    <li><strong>Prototype review</strong> — A formal sign-off meeting is held with engineering, production, and quality teams. Any required design changes are documented and incorporated into the production release.</li>
   </ol>
 
-
   <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
-    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Программа 20-часовых морских испытаний — график испытаний</p>
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20-Hour Sea Trial Programme — Test Schedule</p>
     <div class="space-y-2 text-sm">
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">Знакомство на спокойной воде — курсовая устойчивость на малой скорости, повороты, проверка стойки и дифферента</span>
+        <span class="flex-1">Flat-water familiarisation — low-speed tracking, turning, stance and trim check</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">4 h</span>
-        <span class="flex-1">Скоростные испытания — максимальная скорость, подтверждённая GPS, крейсерская скорость, удерживаемый темп при 3 частотах гребков</span>
+        <span class="flex-1">Speed trial — GPS-verified top speed, cruise speed, sustained pace at 3 stroke rates</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Испытание на повороты — радиус разворота на месте и дугой, реакция доски, левый и правый борт</span>
+        <span class="flex-1">Stability test — wall rigidity, floor firmness, and seating comfort under full load</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Испытание на chop — многократные проходы по волнению 0.5–1.0 m; акселерометр в позиции стойки райдера</span>
+        <span class="flex-1">Chop test — repeated runs through 0.5–1.0 m chop; accelerometer at the rider stance position</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Испытание на устойчивость — статический угол крена с 4 райдерами разного веса, смещённая нагрузка на правый борт</span>
+        <span class="flex-1">Stability test — static heel angle with 4 riders of varying weight, offset load to starboard</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Испытание на выносливость — 3 h непрерывного движения на крейсерском темпе; контроль давления в камерах, температуры рельсов и усталости райдера</span>
+        <span class="flex-1">Endurance run — 3 h continuous at cruise pace; monitoring of chamber pressure, rail temperature, and rider fatigue</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">Финальный осмотр — послеиспытательный осмотр всех компонентов, подтяжка и проверка всех креплений, документирование результатов</span>
+        <span class="flex-1">Final inspection — post-trial inspection of all components, tighten/check all fasteners, document findings</span>
       </div>
     </div>
   </div>
 
-
-  <h2>Индивидуальное прототипирование для уникальных задач</h2>
-
-  <p>Цех прототипирования — это место, где мы решаем задачи, с которыми не справляются стандартные серийные доски. Последние примеры включают:</p>
-
+  <h2>Custom prototyping for unique applications</h2>
+  <p>The Prototype Workshop is where we solve the problems that standard production pools cannot address. Recent examples include:</p>
   <ul>
-    <li>Высокозаметная спасательная SUP для поисково-спасательной организации, требующая интегрированных ручек для захвата, креплений для спасательного снаряжения и корпуса с высокой плавучестью для подъёма пострадавших — всё спроектировано, смонтировано и испытано на нашем предприятии.</li>
-    <li>Экспедиционная туристическая SUP для подрядчика гидрографических изысканий со съёмной мачтой для приборов, герметичными портами для снаряжения и низкопрофильным креплением датчика, спроектированным для минимизации сопротивления.</li>
-    <li>Компактная рыболовная SUP для курортного флота, где прототип использовался для проверки устойчивости, крепления снаряжения и долговечности при ежедневной аренде, прежде чем заказчик заказал флот из четырёх досок.</li>
+    <li>A high-visibility rescue pool for a search-and-rescue organisation, requiring integrated grab handles, gear mounts for rescue equipment, and a high-buoyancy hull for casualty recovery — all prototyped, fitted, and tested at our facility.</li>
+    <li>An expedition touring pool for a hydrographic survey contractor, with a removable instrument mast, sealed gear ports, and a low-profile transducer mount designed to minimise drag.</li>
+    <li>A compact fishing pool for a resort fleet, where the prototype was used to validate stability, gear rigging, and durability under daily rental use before the client committed to a fleet of four.</li>
   </ul>
 
+  <h2>Our prototyping team</h2>
+  <p>The workshop is staffed by eight multi-skilled marine technicians, each cross-trained in at least two of the three core disciplines (hull, rail, rigging). The team lead is a master fabricator with 16 years of experience spanning custom one-off builds to production series. Every prototype is assigned a dedicated project engineer who serves as the single point of contact for the client throughout the build and trial process.</p>
 
-  <h2>Наша команда прототипирования</h2>
+  <h2>Client involvement</h2>
+  <p>We actively encourage our clients to attend key milestones during the prototype build — particularly the initial fit-out review and the sea trial. Your operational feedback during these stages is invaluable in fine-tuning the pool before it enters production. We do not build in a vacuum; we build in partnership with you.</p>
+  <p>The 20-hour water trial is also an opportunity for your team to familiarise themselves with the pool's operation, layout, and maintenance requirements, ensuring a smooth transition to service when the production pools are delivered.</p>
 
-  <p>В цехе работают восемь многопрофильных морских техников, каждый из которых прошёл перекрёстное обучение как минимум по двум из трёх основных дисциплин (корпус, рельс, такелаж). Руководитель команды — мастер-изготовитель с 16-летним опытом: от единичных заказов до серийного
-  производства. Каждому прототипу назначается отдельный инженер проекта, который служит единой точкой контакта для клиента на протяжении всего процесса изготовления и испытаний.</p>
-
-
-  <h2>Участие клиента</h2>
-
-  <p>Мы настоятельно рекомендуем нашим клиентам присутствовать на ключевых этапах изготовления прототипа — особенно на предварительном осмотре оснащения и на морских испытаниях. Ваши замечания по эксплуатации на этих этапах неоценимы для доводки доски перед запуском в производство. Мы не работаем в
-  вакууме — мы работаем в партнёрстве с вами.</p>
-
-  <p>20-часовые морские испытания — это также возможность для вашей команды ознакомиться с управляемостью доски, компоновкой палубы и требованиями к техническому обслуживанию, что обеспечивает плавный переход к эксплуатации после поставки серийных досок.</p>
 cta:
-  title: Начните свой прототип проекта
-  subtitle: Расскажите нам о нужной вам доске, и мы предложим план разработки прототипа.
-  button_text: Свяжитесь с нашей командой прототипирования
+  title: 'Start your prototype project'
+  subtitle: 'Tell us about the pool you need and we will propose a prototype development plan.'
+  button_text: 'Contact our prototyping team'
   button_link: /contact/

@@ -1,44 +1,44 @@
 meta:
-  title: 'Технологија — Drop Stitch и морски PVC | {SITE}'
-  description: 'olagoon технологије: drop stitch конструкција, морски PVC, двослојне израде и висок притисак. Иновације од професионалног произвођача надувних SUP дасака.'
+  title: 'Technology — Drop Stitch & Marine PVC | {SITE}'
+  description: 'olagoon technologies: drop stitch construction, marine PVC, double-layer builds, and high pressure. Innovation from a professional inflatable pools manufacturer.'
   keywords:
-    - 'sup технологија'
-    - 'drop stitch конструкција'
-    - 'sup под високим притиском'
-    - 'материјали надувних sup дасака'
+    - 'pool technology'
+    - 'drop stitch construction'
+    - 'high pressure pool'
+    - 'inflatable pools materials'
 hero:
-  tagline: 'Технологија'
-  title: 'Грађено за перформансе'
-  subtitle: 'Свака olagoon надувна SUP даска пројектована је са drop-stitch конструкцијом и PVC-ом морског квалитета — прецизни материјали и производне методе тестиране за захтевна морска окружења.'
+  tagline: Technology
+  title: Built for Performance
+  subtitle: Every olagoon inflatable pools is engineered with drop-stitch construction and marine-grade PVC — precision materials and manufacturing methods tested for demanding marine environments.
 
 sections:
-  - title: 'Drop-stitch језгро'
-    description: 'Хиљаде унутрашњих полиестарских нити повезују горњи и доњи слој, стварајући круту структуру при 12-15 PSI. Ово је иста технологија која се користи у професионалним даскама за веслање и надувним тркачким SUP даскама.'
-    imageAlt: 'Дијаграм DS језгра'
-  - title: 'PVC морског квалитета'
-    description: 'Вишеслојна ламинирана PVC тканина оцењена за морска окружења. Сваки слој је стапљен заваривањем, а не лепљењем, чиме се елиминишу ризици деламинације. Тестирана на UV отпорност, корозију од слане воде и хабање.'
-    imageAlt: 'PVC слој'
-  - title: 'PVC војног квалитета'
-    description: 'Користи се на свим SUP моделима, премиум PVC пружа надмоћну UV и хемијску отпорност. Одржава флексибилност при екстремним температурама и одолева деградацији.'
-    imageAlt: 'PVC'
-  - title: 'Палуба од ваздуха'
-    description: 'Надувна drop-stitch конструкција под високим притиском која пружа изузетну крутост за стајање, риболов и јогу. Смањује време подешавања, укупну тежину и запремину за складиштење.'
-    imageAlt: 'Ваздушна палуба'
+  - title: Drop-Stitch Core
+    description: Thousands of internal polyester threads connect the top and bottom layers, creating a rigid structure at 12-15 PSI. This is the same technology used in professional inflatable pool and inflatable racing pools.
+    imageAlt: DS Core Diagram
+  - title: Marine-Grade PVC
+    description: Multi-layer laminated PVC fabric rated for marine environments. Each layer is fusion-welded rather than glued, eliminating delamination risks. Tested for UV resistance, saltwater corrosion, and abrasion.
+    imageAlt: PVC Layer
+  - title: Military-Grade PVC
+    description: Used on all pool models, premium PVC provides superior UV and chemical resistance. Maintains flexibility in extreme temperatures and resists degradation.
+    imageAlt: PVC
+  - title: Air Deck Floor
+    description: High-pressure inflatable drop-stitch construction providing exceptional rigidity for standing, fishing, and yoga. Reduces setup time, overall weight, and storage volume.
+    imageAlt: Air Deck
 
 related:
-  title: 'Повезано'
+  title: Related
   links:
-    - text: 'R&D центар'
+    - text: R&D Center
       url: /randdcenter
-    - text: 'Тестирање квалитета'
+    - text: Quality Testing
       url: /quality
-    - text: 'Стандарди безбедности'
+    - text: Safety Standards
       url: /safety
-    - text: 'Гаранција'
+    - text: Warranty
       url: /warranty
-    - text: 'Туризам и рекреација'
+    - text: Tourism & Recreation
       url: /use-cases/tourism-recreation
-    - text: 'Водичи'
+    - text: Guides
       url: /guides
-    - text: 'Производи'
+    - text: Products
       url: /products

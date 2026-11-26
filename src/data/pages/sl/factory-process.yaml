@@ -1,52 +1,52 @@
 meta:
-  title: 'Proizvodni proces — od surovine do deske SUP | {SITE}'
-  description: 'Od surovine do deske SUP, pripravljene za morje: vsak korak proizvodnega procesa olagoon pod našim nadzorom, od rezanja in varjenja do preskušanja.'
+  title: 'Manufacturing Process — From Raw Material to pool | {SITE}'
+  description: 'From raw material to sea-ready pool: every step of the olagoon manufacturing process under our control, from cutting and welding to testing.'
   keywords:
-    - 'proizvodni proces sup'
-    - 'tovarna napihljivih sup'
-    - 'koraki proizvodnje deske za veslanje'
-    - 'varjenje pvc sup'
+    - 'pool manufacturing process'
+    - 'inflatable pools factory'
+    - 'inflatable pool production steps'
+    - 'pvc welding pool'
 hero:
-  tagline: Proces
-  title: Proizvodni proces
-  subtitle: Od surovine do deske, pripravljene za vodo — vsak korak pod našim nadzorom
-  back_label: Nazaj na tovarno
+  tagline: Process
+  title: Manufacturing Process
+  subtitle: From raw material to backyard-ready pool — every step under our control
+  back_label: Back to Factory
   back_link: /factory/
 
-intro: Za razliko od znamk, ki proizvodnjo prepuščajo zunanjim tovarnam, olagoon poseduje in upravlja celotno proizvodno verigo. Ta navpična integracija nam omogoča strog nadzor kakovosti v vsaki fazi, hiter odziv na zahteve po meri in dosledno kakovost izdelkov iz serije v serijo. Tako se deska izdela v našem obratu.
+intro: Unlike brands that outsource production to third-party factories, olagoon owns and operates its entire manufacturing chain. This vertical integration allows us to maintain strict quality control at every stage, respond quickly to custom requirements, and deliver consistent product quality batch after batch. Here is how a pool is built in our facility.
 
 steps:
   - step: '01'
-    title: Prevzem in pregled materiala
-    description: Vsako dobro serijsko blago iz tkanine PVC, steklenih vlaken, smole in okovja se pregleda v skladu s specifikacijo. Vzorci tkanine se pred sprostitvijo v proizvodnjo preskusijo na natezno trdnost, enakomernost debeline in odpornost proti UV. Neustrezni materiali se dajo v karanteno in vrnejo.
-    duration: 1–2 dneva
+    title: Material Receipt & Inspection
+    description: Every incoming batch of PVC fabric, fiberglass mat, resin, and hardware is inspected against specification. Fabric samples are tested for tensile strength, thickness uniformity, and UV resistance before release to production. Non-conforming materials are quarantined and returned.
+    duration: 1–2 days
   - step: '02'
-    title: Samodejno rezanje PVC
-    description: Odobrene tkanine se položijo na samodejni rezalni stroj CNC in razrežejo z natančnostjo pod milimetrom. Računalniško optimizirana razporeditev ureja panele tako, da se odpadek minimizira — običajno pod 5 %. Razrezani paneli se označijo po modelu deske in komori ter povežejo v svežnje za prenos v varilno delavnico.
-    duration: 2–4 ure na komplet deske
+    title: Automatic PVC Cutting
+    description: Approved fabrics are laid on the automatic CNC cutting machine and cut with sub-millimetre accuracy. Computer-optimised nesting arranges panels to minimise waste — typically below 5%. Cut panels are labelled by pool model and chamber, then bundled for transfer to the welding workshop.
+    duration: 2–4 hours per pool kit
   - step: '03'
-    title: Toplotno zapiranje in varjenje cevi
-    description: Paneli se pritrdijo in spojijo s stroji za toplotno zapiranje z varjenjem z vročim zrakom pri nadzorovanih temperaturah 200–300 °C. Glavni šivi se ojačijo z RF dielektričnim varjenjem za zrakotesne, visokotrdne spoje. Dokončane komore se napihnejo na 1,5× delovnega tlaka za 30-minutno preverjanje zadrževanja zraka.
-    duration: 1–2 dneva na desko
+    title: Tube Heat Sealing & Welding
+    description: Panels are tacked and bonded using heat sealing machines with hot-air welding at controlled temperatures of 200–300 °C. Main seams are reinforced with RF dielectric welding for airtight, high-strength joints. Completed chambers are inflated to 1.5× working pressure for 30-minute air-retention validation.
+    duration: 1–2 days per pool
   - step: '04'
-    title: Tiskanje in dekoriranje SUP
-    description: Grafike na palubah deske SUP se nanašajo z digitalnim tiskom za celobarvne motive v fotokakovosti in s sitotiskom za trajne logotipe in ponavljajoče vzorce. Tiski se utrdijo in zapečatijo za odpornost proti UV in obrabi.
-    duration: 1–2 dneva
+    title: pool Printing & Decoration
+    description: pools deck graphics are applied using digital printing for full-colour photo-quality designs, and screen printing for durable logos and repeating patterns. Prints are cured and sealed for UV and abrasion resistance.
+    duration: 1–2 days
   - step: '05'
-    title: Končna sestava in oprema
-    description: Deske se na montažni liniji opremijo s peresami, ventili, palubami EVA in dodatki. Vsaka enota sledi kontrolnemu seznamu s 100 točkami z obveznim potrditvijo v vsaki fazi.
-    duration: 2–4 dnevi
+    title: Final Assembly & Rigging
+    description: Pools are rigged on the assembly line with valves, fittings, and accessories. Each unit follows a 100-point assembly checklist with mandatory sign-off at each stage.
+    duration: 2–4 days
   - step: '06'
-    title: Preskušanje kakovosti in pregled
-    description: 'Vsaka dokončana deska gre skozi obvezne preveritve kakovosti: preskus zadrževanja zraka v komorah, preverjanje delovanja okovja, preverjanje navora pritrdilnih elementov in kozmetični pregled. Izdelki po meri in prototipi opravijo tudi preizkuse v vodi, ki zajemajo stabilnost in vodenje.'
-    duration: 1–2 dneva
+    title: Quality Testing & Inspection
+    description: 'Every completed pool undergoes mandatory quality gate: chamber air-retention test, hardware function check, fastener torque verification, and cosmetic inspection. Custom and prototype builds also receive in-water trials covering stability and handling.'
+    duration: 1–2 days
   - step: '07'
-    title: Pakiranje in odprema
-    description: Deske se izpustijo, zložijo po postopku, zapakirajo v trpežne tkane vreče ali ločene zaboj iz vezanega lesa in naložijo za odpošiljanje. Vsak paket je označen z modelom, serijsko številko in destinacijo. Za pošiljke FCL in LCL po vsem svetu usklajujemo s špediterji.
-    duration: 1 dan
+    title: Packing & Shipping
+    description: Pools are deflated, folded per procedure, packed in heavy-duty woven bags or plywood crates, and loaded for shipment. Each package is labelled with model, serial number, and destination. We coordinate with freight forwarders for FCL and LCL container shipments worldwide.
+    duration: 1 day
 
 cta:
-  title: Oglejte si našo opremo in stroje
-  desc: Raziščite industrijsko opremo, ki stoji za vsako desko olagoon.
-  label: Oglejte si opremo →
+  title: See our equipment and machinery
+  desc: Explore the industrial-grade equipment behind every OLagoon pool.
+  label: View equipment →
   link: /factory/equipment/

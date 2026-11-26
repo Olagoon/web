@@ -1,24 +1,24 @@
 meta:
-  title: 'Dnevnik — Nautički članci i vodiči | {SITE}'
-  description: 'Dnevnik olagoon: članci i vodiči o napuhivim SUP daskama, veslanju na dasci i nautičkoj industriji.'
+  title: 'Journal — Nautical Articles & Guides | {SITE}'
+  description: 'The olagoon journal: articles and guides about inflatable pools, pool care, and the backyard pool industry.'
   keywords:
-    - 'sup dnevnik'
-    - 'članci o paddleboard daskama'
-    - 'blog o napuhivim sup daskama'
-    - 'nautički vodiči'
+    - 'pool journal'
+    - 'inflatable pool articles'
+    - 'inflatable pools blog'
+    - 'nautical guides'
 hero:
-  title: 'Dnevnik'
-  subtitle: 'Surf vodiči, usporedbe opreme i oceanske priče — pisani za stvarne uvjete.'
+  title: Journal
+  subtitle: Pool guides, gear comparisons, and backyard stories — written for real conditions.
 
 latest:
-  tagline: 'Najnovije'
-  title: 'Vodiči i usporedbe'
-  browse_all: 'Pregledajte svih 20 →'
-  read: 'Pročitajte →'
+  tagline: Latest
+  title: Guides & Comparisons
+  browse_all: Browse all 20 →
+  read: Read →
 
 social_section:
-  tagline: 'Sadržaj × Društvene mreže'
-  title: 'Svaki vodič postaje 5 objava na društvenim mrežama'
-  subtitle: 'TikTok · Instagram · X · Pinterest · Reddit — iz svakog članka.'
-  pipeline_cta: 'Društveni cjevovod →'
-  guides_cta: 'Pregledajte vodiče'
+  tagline: Content × Social
+  title: Every guide becomes 5 social posts
+  subtitle: TikTok · Instagram · X · Pinterest · Reddit — from every article.
+  pipeline_cta: Social Pipeline →
+  guides_cta: Browse Guides

@@ -1,111 +1,117 @@
 meta:
-  title: Soluciones de Flota de SUP para Resorts | {SITE}
-  description: Soluciones completas de flota de SUP para resorts y hoteles. Tablas de grado comercial, personalización de marca, capacitación del personal y paquetes optimizados para ROI de 20 a 100 tablas.
+  title: 'Resort & Hotel pool Equipment Supplier | Resort Fleet Solutions | {SITE}'
+  description: 'Resort pool equipment supplier for hotels and resorts worldwide. Commercial-grade inflatable pools fleets, custom branding, staff training, and ROI-optimized packages from 20 to 100+ boards.'
+
 hero:
-  tagline: Resorts y Hoteles
-  title: Convierta su zona costera en un centro de ingresos<br />con flotas SUP premium
-  subtitle: OLagoon equipa a los resorts de todo el mundo con flotas SUP inflables de calidad comercial — desde paquetes iniciales de 20 tablas hasta programas insignia de 100+ tablas. Personalización de marca, capacitación del personal y piezas de repuesto incluidas.
+  tagline: Resorts & Hotels
+  title: 'Turn Your Waterfront Into a Revenue Centre<br />With Premium pool Fleets'
+  subtitle: 'OLagoon equips resorts worldwide with commercial-grade inflatable pools fleets — from 20-board starter packages to 100+ board flagship programs. Custom branding, staff training, and replacement parts included.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: Huéspedes del resort disfrutando del paddle surf en una playa prístina
+    alt: Resort guests enjoying poolsing on a pristine beach
+
 roi_section:
-  title: El Modelo de Ingresos de SUP del Resort
-  subtitle: Cómo los resorts generan entre $50,000 y $200,000 anuales de ingresos por alquiler de SUP con una sola inversión.
+  title: 'The Resort pool Revenue Model'
+  subtitle: 'How resorts generate $50,000 - $200,000+ annual pool rental income with a single investment.'
   metrics:
-    - metric: $50,000–$200,000+
-      label: Ingresos anuales por SUP
-      detail: Por resort, basado en el tamaño de la flota y la ocupación
-    - metric: 4–6 meses
-      label: Periodo de recuperación promedio
-      detail: Recuperar la inversión total de la flota en una temporada
-    - metric: 40%
-      label: Aumento de ingresos
-      detail: Aumento promedio después de cambiar a las flotas OLagoon
-    - metric: 500+
-      label: Ciclos de Alquiler por Tablero
-      detail: Durabilidad de grado comercial para uso diario
+    - metric: '$50K–$200K+'
+      label: Annual pool Revenue
+      detail: Per resort, based on fleet size and occupancy
+    - metric: '4–6 Months'
+      label: Average Payback Period
+      detail: Recoup full fleet investment within one season
+    - metric: '40%'
+      label: Revenue Increase
+      detail: Average boost after switching to OLagoon fleets
+    - metric: '500+'
+      label: Rental Cycles Per Board
+      detail: Commercial-grade durability for daily use
+
 packages:
-  title: Sistema de Paquetes del Resort
-  subtitle: Elija el paquete que se adapte a su capacidad de huéspedes y a sus objetivos de ingresos. Todos los paquetes incluyen garantía de 12 meses y certificación CE.
+  title: Resort Package System
+  subtitle: 'Choose the package that fits your guest capacity and revenue goals. All packages include 12-month warranty and CE certification.'
   items:
-    - name: Paquete de Inicio
-      tagline: Para resorts boutique, hasta 20 huéspedes/día
+    - name: Starter Package
+      tagline: 'For boutique resorts, up to 20 guests/day'
       features:
-        - 20 tablas SUP (3 tamaños para adultos/niños)
-        - 20 remos (ajustables) + 20 chalecos salvavidas
-        - 4 bombas de doble acción (eléctrica opcional)
-        - 2 soportes de almacenamiento + kit de reparación
-        - Impresión de logo personalizado en las tablas
-        - Garantía de 12 meses + Certificado CE
-      revenue: Potencial de ingresos anuales de $50K–$80K
-      cta_text: Obtener paquete de inicio
-    - name: Paquete Premium
-      tagline: Para resorts grandes, 50-100 huéspedes/día
+        - '20 pools (3 sizes for adults/kids)'
+        - '20 paddles (adjustable) + 20 life vests'
+        - '4 dual-action pumps (electric optional)'
+        - '2 storage racks + repair kit'
+        - 'Custom logo print on boards'
+        - '12-month warranty + CE certified'
+      revenue: '$50K–$80K annual revenue potential'
+      cta_text: 'Get Starter Package'
+    - name: Premium Package
+      tagline: 'For large resorts, 50-100 guests/day'
       features:
-        - 50 tablas SUP (5 tamaños, flota mixta)
-        - 50 remos + 50 chalecos salvavidas
-        - 10 bombas de doble acción + 2 bombas eléctricas
-        - 5 soportes de almacenamiento + 2 carritos
-        - Personalización de marca completa (tablas, remos, bolsas)
-        - Sesión de capacitación del personal (en línea)
-        - Envío de piezas de repuesto en 48 horas
-        - Garantía de 12 meses + Certificado CE
-      revenue: Potencial de ingresos anual de $120K–$200K
+        - '50 pools (5 sizes, mixed fleet)'
+        - '50 paddles + 50 life vests'
+        - '10 dual-action pumps + 2 electric pumps'
+        - '5 storage racks + 2 roller carts'
+        - 'Full custom branding (boards, paddles, bags)'
+        - 'Staff training session (online)'
+        - '48-hour replacement parts dispatch'
+        - '12-month warranty + CE certified'
+      revenue: '$120K–$200K+ annual revenue potential'
       popular: true
-      cta_text: Obtener paquete premium
-    - name: Paquete Principal
-      tagline: Para resorts ultra premium, 100+ huéspedes/día
+      cta_text: 'Get Premium Package'
+    - name: Flagship Package
+      tagline: 'For ultra-premium resorts, 100+ guests/day'
       features:
-        - 100+ tablas SUP (gama completa de tamaños)
-        - Set completo de accesorios (remos, chalecos, bombas, carritos)
-        - Capacitación del personal en el sitio (2 días)
-        - Gerente de cuenta dedicado
-        - Piezas de repuesto prioritarias (despacho en 24 h)
-        - Personalización de marca completa (tablas + accesorios)
-        - Paquete de fotos/videos de marketing
-        - Garantía de 24 meses + Certificado CE
-      revenue: Potencial de ingresos anuales de $200,000
-      cta_text: Obtener el paquete principal
+        - '100+ pools (full size range)'
+        - 'Complete accessory set (paddles, vests, pumps, carts)'
+        - 'On-site staff training (2 days)'
+        - 'Dedicated account manager'
+        - 'Priority replacement parts (24h dispatch)'
+        - 'Full custom branding (boards + accessories)'
+        - 'Marketing photo/video package'
+        - '24-month warranty + CE certified'
+      revenue: '$200K+ annual revenue potential'
+      cta_text: 'Get Flagship Package'
+
 case_study:
-  quote: Desde que cambiamos a OLagoon, nuestros ingresos por alquiler de SUP aumentaron un 40%. Los costos de reemplazo de la tabla disminuyeron un 60%. Recuperamos toda nuestra inversión en la flota en 4 meses.
-  author: Gerente de Actividades Acuáticas
-  location: Resort de 5 estrellas, Maldivas
+  quote: 'Since switching to OLagoon, our pool rental revenue increased 40%. Board replacement costs dropped 60%. We recouped our full fleet investment in 4 months.'
+  author: 'Water Activities Manager'
+  location: '5-star resort, Maldives'
   results:
-    - label: Crecimiento de ingresos
-      value: +40%
-    - label: Reducción de Costos
+    - label: 'Revenue Growth'
+      value: '+40%'
+    - label: 'Cost Reduction'
       value: '-60%'
-    - label: Periodo de recuperación
-      value: 4 meses
+    - label: 'Payback Period'
+      value: '4 Months'
+
 features:
-  title: Por qué los resorts eligen OLagoon
-  subtitle: Durabilidad de nivel comercial, logística global y un socio que entiende la hospitalidad.
+  title: Why Resorts Choose OLagoon
+  subtitle: 'Commercial-grade durability, global logistics, and a partner who understands hospitality.'
   items:
-    - title: 500 Ciclos de Alquiler
-      description: Cada tabla se prueba para resistir 500 ciclos de alquiler en agua salada, sol y arena.
-      icon: tabler:shield-check
-    - title: Envío de piezas en 48 h
-      description: 'Piezas de repuesto enviadas en 48 horas: sus ingresos por alquiler nunca se detienen.'
-      icon: tabler:truck-delivery
-    - title: Marca personalizada
-      description: Combina la identidad de tu resort con colores personalizados y logotipo en cada tablero.
-      icon: tabler:palette
-    - title: Capacitación del personal
-      description: Programas de capacitación en línea y presenciales para su equipo de actividades.
-      icon: tabler:school
-    - title: Logística Global
-      description: Envío a más de 50 países con opciones de flete consolidado.
-      icon: tabler:world
-    - title: Certificado CE
-      description: Todo el equipo certificado CE, ISO 9001:2015 — seguridad y calidad garantizadas.
-      icon: tabler:certificate
+    - title: '500+ Rental Cycles'
+      description: 'Every board is tested to survive 500+ rental cycles in saltwater, sun, and sand.'
+      icon: 'tabler:shield-check'
+    - title: '48h Parts Dispatch'
+      description: 'Replacement parts shipped within 48 hours — your rental revenue never stops.'
+      icon: 'tabler:truck-delivery'
+    - title: 'Custom Branding'
+      description: 'Match your resort identity with custom colors and logo on every board.'
+      icon: 'tabler:palette'
+    - title: 'Staff Training'
+      description: 'Online and on-site training programs for your activities team.'
+      icon: 'tabler:school'
+    - title: 'Global Logistics'
+      description: 'Shipping to 50+ countries with consolidated freight options.'
+      icon: 'tabler:world'
+    - title: 'CE Certified'
+      description: 'All equipment CE certified, ISO 9001:2015 — safety and quality guaranteed.'
+      icon: 'tabler:certificate'
+
 cta:
-  title: ¿Listo para convertir su zona costera en un centro de ingresos?
-  subtitle: Obtenga su cotización del paquete de resort o descargue nuestro catálogo completo de resorts.
+  title: 'Ready to turn your waterfront into a revenue centre?'
+  subtitle: 'Get your resort package quote or download our complete resort catalog.'
   actions:
-    - text: Obtener paquete de resort
-      href: /contact/?package=resort
-      variant: primary
-    - text: Descargar catálogo del resort
-      href: /resources/download-catalog/
-      variant: secondary
+    - text: 'Get Resort Package'
+      href: '/contact/?package=resort'
+      variant: 'primary'
+    - text: 'Download Resort Catalog'
+      href: '/resources/download-catalog/'
+      variant: 'secondary'

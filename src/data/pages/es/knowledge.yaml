@@ -1,107 +1,110 @@
 meta:
-  title: 'Conocimiento — Guías de SUP | {SITE}'
-  description: 'Base de conocimiento olagoon: guías sobre SUP inflables, materiales de paddle surf, selección de tablas y perspectivas del sector para marcas y profesionales.'
+  title: 'Knowledge — Pool Guides | {SITE}'
+  description: 'OLagoon knowledge base: guides on drop-stitch pools, pool materials, water care, and industry insights for owners and professionals.'
   keywords:
-    - 'conocimiento de SUP'
-    - 'guía de SUP hinchable'
-    - 'materiales de paddle surf'
-    - 'perspectivas del sector SUP'
+    - 'pool knowledge'
+    - 'drop stitch pool guide'
+    - 'inflatable pool materials'
+    - 'pool care insights'
 hero:
-  tagline: Grafo de Conocimiento
-  title: Conocimiento de Exploración Acuática
+  tagline: 'Knowledge Graph'
+  title: 'Backyard Pool Knowledge'
   subtitle: |
-    Una base de conocimiento estructurada que cubre tecnología SUP inflable,<br />
-    seguridad acuática, ingeniería de tablas y planificación de aventuras.
-  taglineSection: Explora. Aprende. Ve con confianza.
+    A structured knowledge base covering drop-stitch pool technology,<br />
+    water safety, materials engineering, and seasonal pool care.
+  taglineSection: 'Explore. Learn. Swim with confidence.'
+
 clusters:
-  tagline: Clústeres de Conocimiento
-  title: Explora por tema
-  subtitle: Inmersiones profundas en la tecnología, seguridad y habilidades detrás de cada producto olagoon.
+  tagline: 'Knowledge Clusters'
+  title: 'Explore by topic'
+  subtitle: 'Deep dives into the technology, safety, and care behind every OLagoon product.'
   items:
-    - title: Guías de Compra de SUP
-      description: Desde elegir tu primera tabla hasta técnicas avanzadas de travesía — todo sobre paddleboarding.
-      icon: tabler:lifebuoy
+    - title: 'Pool Buying Guides'
+      description: 'From choosing your first pool to comparing sizes — everything about drop-stitch pools.'
+      icon: 'tabler:lifebuoy'
       topics:
-        - Cómo elegir tu primer SUP inflable
-        - Guía de tamaño y capacidad de peso de SUP
-        - Mejor SUP para principiantes, travesía, yoga y carreras
-        - Errores comunes de compra de SUP a evitar
-        - Comparación de tabla inflable vs rígida
-    - title: Ingeniería y Tecnología SUP
-      description: Guías técnicas sobre tablas SUP inflables — materiales, métodos de construcción y procesos de fabricación.
-      icon: tabler:microscope
+        - 'How to choose your first drop-stitch pool'
+        - 'Pool size and capacity guide'
+        - 'Compact Plunge vs Family Oasis vs Grand Lagoon'
+        - 'Common pool buying mistakes to avoid'
+        - 'Inflatable vs rigid pool comparison'
+    - title: 'Pool Engineering & Technology'
+      description: 'Technical guides on drop-stitch pools — materials, construction methods, and manufacturing processes.'
+      icon: 'tabler:microscope'
       topics:
-        - Inmersión profunda en tecnología drop-stitch
-        - Especificaciones de PVC de grado militar
-        - Laminación por fusión vs unión adhesiva
-        - Tecnología de espuma EVA y métodos de artwork
-        - Tipos de válvulas SUP y sistemas de aletas
-    - title: Seguridad y Mantenimiento SUP
-      description: Conocimientos esenciales de seguridad para cada paddler — desde selección de PFD hasta lectura del clima, cuidado y reparación de tablas.
-      icon: tabler:shield
+        - 'Drop-stitch technology deep dive'
+        - 'Marine-grade PVC specifications'
+        - 'Fusion lamination vs adhesive bonding'
+        - 'Reinforced rail and seam engineering'
+        - 'Pool valve types and pressure ratings'
+    - title: 'Pool Safety & Maintenance'
+      description: 'Essential safety knowledge for every pool owner — from supervision rules to water care and repair.'
+      icon: 'tabler:shield'
       topics:
-        - Lista de verificación de seguridad SUP y requisitos de PFD
-        - Seguridad multi-cámara para aguas remotas
-        - Guía de PSI de inflado de SUP
-        - Almacenamiento de tablas y cuidado invernal
-        - Técnicas de reparación de inflables
-    - title: Habilidades y Técnicas SUP
-      description: Técnicas de remo, habilidades de travesía y entrenamiento físico para todos los niveles.
-      icon: tabler:sailboat
+        - 'Pool safety checklist and supervision rules'
+        - 'Water care and sanitation basics'
+        - 'Pool inflation PSI guide (10–15 PSI)'
+        - 'Pool storage and winter care'
+        - 'PVC repair techniques'
+    - title: 'Pool Setup & Water Care'
+      description: 'Setup routines, filtration schedules, and water chemistry for a season of clear water.'
+      icon: 'tabler:droplet'
       topics:
-        - Técnicas de remo para principiantes
-        - Dominio de palada intermedio
-        - Planificación de travesías y expediciones
-        - Entrenamiento de fitness y carreras de SUP
-        - Habilidades de aguas bravas y ríos
-    - title: Estilo de vida SUP y usos especiales
-      description: Actividades especializadas de SUP — yoga, pesca, perros, familias y consejos de viaje.
-      icon: tabler:heart
+        - 'First setup: unbox to swim in 30 minutes'
+        - 'Sand filter pump operation and backwashing'
+        - 'Water testing and chemical balance'
+        - 'Algae prevention and troubleshooting'
+        - 'Thermal covers and heat retention'
+    - title: 'Pool Lifestyle & Family'
+      description: 'Getting the most from your pool — family fun, exercise, pets, and entertaining.'
+      icon: 'tabler:heart'
       topics:
-        - Yoga y meditación en el agua con SUP
-        - Pescar desde un SUP inflable
-        - Paseo en tabla de paddle con perros y niños
-        - Viajar con tu SUP en avión y en coche
-        - Accesorios y equipos esenciales para SUP
-    - title: Comparaciones y Referencias de SUP
-      description: Comparaciones lado a lado para ayudarte a tomar decisiones informadas.
-      icon: tabler:chart-bar
+        - 'Pool games and activities for kids'
+        - 'Water exercise and low-impact fitness'
+        - 'Pool time with dogs and pets'
+        - 'Moving your pool: storage between homes'
+        - 'Pool accessories and gear essentials'
+    - title: 'Pool Comparisons & References'
+      description: 'Side-by-side comparisons to help you make informed decisions.'
+      icon: 'tabler:chart-bar'
       topics:
-        - 'SUP vs kayak: ¿cuál es adecuado para ti?'
-        - Grados de material PVC explicados
-        - Seguridad de cámara única vs multi-cámara
-        - Materiales de tabla SUP explicados
-        - Impresión UV vs obra de arte en bloque de EVA
+        - 'Inflatable pool vs rigid pool — which is right for you?'
+        - 'PVC material grades explained'
+        - 'Single chamber vs multi-chamber construction'
+        - 'Pool wall heights explained (20 cm standard)'
+        - 'Digital printing vs in-mold graphics'
+
 featured_guides:
-  tagline: Guías Destacadas
-  title: Recursos de conocimiento más populares
+  tagline: 'Featured Guides'
+  title: 'Most popular knowledge resources'
   items:
-    - title: Conceptos Básicos de SUP
-      href: /learn/water-safety/
-    - title: Tabla Inflable vs Rígida
-      href: /compare/technology/
-    - title: Guía de Seguridad Acuática
-      href: /learn/water-safety/
-    - title: Referencia de Materiales
-      href: /learn/materials/
-    - title: Guía de Tamaños SUP
-      href: /size-guide/
-    - title: Guía de tallas SUP
-      href: /guides/sup-size-guide/
-    - title: Centro Tecnológico SUP
-      href: /research/
-    - title: Mantenimiento de SUP
-      href: /technology/
-    - title: Guía Turística
-      href: /guides/sup-for-touring/
-    - title: Técnicas de remo
-      href: /technology/
+    - title: 'Pool Setup Guide'
+      href: '/guides/pool-setup-guide/'
+    - title: 'Inflatable vs Rigid Pools'
+      href: '/compare/inflatable-vs-hardboard/'
+    - title: 'Water Safety Guide'
+      href: '/learn/water-safety/'
+    - title: 'Materials Reference'
+      href: '/learn/materials/'
+    - title: 'Pool Buying Guide'
+      href: '/guides/choosing-a-drop-stitch-pool/'
+    - title: 'Pool Filtration Guide'
+      href: '/guides/pool-filtration-guide/'
+    - title: 'Pool Tech Center'
+      href: '/research/'
+    - title: 'Pool Water Care'
+      href: '/guides/pool-water-care/'
+    - title: 'Winter Storage Guide'
+      href: '/guides/pool-winter-storage/'
+    - title: 'Site Preparation Guide'
+      href: '/guides/pool-site-preparation/'
+
 cta:
-  title: Comienza a explorar
-  subtitle: Sumérgete en nuestra base de conocimiento y obtén la información que necesitas para tu próxima aventura acuática.
+  title: 'Start exploring'
+  subtitle: 'Dive into our knowledge base and get the information you need for your backyard pool.'
   actions:
     - variant: primary
-      text: Ver todas las guías
-      href: /academy/
-    - text: Explorar grafo de conocimiento
-      href: /knowledge/
+      text: 'Browse all guides'
+      href: '/academy/'
+    - text: 'Explore Knowledge Graph'
+      href: '/knowledge/'

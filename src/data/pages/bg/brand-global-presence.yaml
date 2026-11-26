@@ -1,86 +1,86 @@
 meta:
-  title: 'Глобално присъствие — производител на SUP дъски, обслужващ над 50 държави | {SITE}'
-  description: 'olagoon изнася надуваеми SUP дъски за над 50 държави на всеки континент. Професионален производител и доставчик за марки, дистрибутори и флотилии.'
+  title: 'Global Presence — pool Manufacturer Serving 50+ Countries | {SITE}'
+  description: 'olagoon exports inflatable pools to 50+ countries across every continent. Professional manufacturer and supplier for brands, distributors, and fleets.'
   keywords:
-    - 'глобален производител на sup'
-    - 'износител на дъски за гребане'
-    - 'sup фабрика в китай'
-    - 'професионален доставчик на sup'
+    - 'global pool manufacturer'
+    - 'inflatable pool exporter'
+    - 'pool factory china'
+    - 'professional pool supplier'
 hero:
-  tagline: 'Глобално присъствие'
-  title: 'Обслужваме над 50 държави<br />на всеки континент'
-  subtitle: 'От европейски оператори на крайбрежни патрули до австралийски дистрибутори на водни спортове до спасителни екипи в Близкия изток — дъските olagoon са на водата по целия свят.'
+  tagline: Global Presence
+  title: 'Serving 50+ Countries<br />Across Every Continent'
+  subtitle: 'From European resort operators to Australian outdoor retailers to Middle East hospitality groups — OLagoon pools are in backyards worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'глобално морско производство и дистрибуция на olagoon'
+    alt: olagoon global marine manufacturing and distribution
 stats:
-  title: 'Глобален обхват'
+  title: Global Reach
   stats:
-    - title: 'Държави'
+    - title: Countries
       amount: '50+'
-    - title: 'Износни пазари'
-      amount: 'Европа, Америки, Азия, Близък изток, Океания'
-    - title: 'Производство'
-      amount: 'Циндао, Китай'
-    - title: 'Американски склад'
-      amount: 'Монтклер, Калифорния'
+    - title: Export Markets
+      amount: Europe, Americas, Asia, Middle East, Oceania
+    - title: Production
+      amount: Qingdao, China
+    - title: US Warehouse
+      amount: Montclair, CA
 features3_markets:
-  tagline: 'Ключови пазари'
-  title: 'Регионална експертиза<br />за локални изисквания'
-  subtitle: 'Разбираме, че различните пазари имат различни регулаторни изисквания, предпочитания и случаи на употреба.'
+  tagline: Key Markets
+  title: 'Regional Expertise<br />for Local Requirements'
+  subtitle: 'We understand that different markets have different regulatory requirements, preferences, and use cases.'
   isBeforeContent: false
   columns: 4
   items:
-    - title: 'Европа и Обединеното кралство'
-      description: 'Продукти, сертифицирани по CE. Силено търсене на SUP дъски в пазарите на ЕС. Дистрибуторите в Обединеното кралство ценят бързото ни изпълнение.'
+    - title: Europe & UK
+      description: 'CE-certified products. Strong demand for pools across EU markets. UK distributors appreciate our quick turnaround.'
       icon: tabler:map-pin
-    - title: 'Северна Америка'
-      description: 'Производство, одобрено от Бреговата охрана на САЩ. Американски склад в Монтклер, Калифорния за бърза доставка по западното крайбрежие. Растящо търсене на SUP дъски за риболов, спасяване и отдих.'
+    - title: North America
+      description: 'US Coast Guard approved manufacturing. US warehouse in Montclair, CA for fast West Coast delivery. Growing demand for fishing, rescue, and recreational pools.'
       icon: tabler:map-pin
-    - title: 'Австралия и Океания'
-      description: 'Силен пазар за SUP дъски и аксесоари за водни спортове. Австралийските дистрибутори ценят нашата UV-устойчива PVC конструкция при сурови слънчеви условия. Бърза доставка от нашето азиатско предприятие.'
+    - title: Australia & Oceania
+      description: 'Strong market for pools and water sports accessories. Australian distributors value our UV-resistant PVC construction in harsh sun conditions. Quick shipping from our Asia facility.'
       icon: tabler:map-pin
-    - title: 'Близък изток'
-      description: 'Растящо търсене на оборудване за водни приключения. Нашите SUP дъски от търговски клас и спасителното оборудване са популярни сред туроператорите и центровете за наемане. Персонализирани конфигурации за среди с високи температури.'
+    - title: Middle East
+      description: 'Growing demand for water adventure equipment. Our commercial-grade pools and safety gear are popular with tour operators and rental centers. Custom configurations for high-temperature environments.'
       icon: tabler:map-pin
 features3_distribution:
-  tagline: 'Дистрибуторска мрежа'
-  title: 'Партнираме с дистрибутори<br />по целия свят'
-  subtitle: 'Работим с утвърдени дистрибутори на морско оборудване, марки за водни спортове и държавни поръчки.'
+  tagline: Distribution Network
+  title: 'Partnering with Distributors<br />Worldwide'
+  subtitle: 'We work with established marine equipment distributors, water sports brands, and government procurement agencies.'
   isBeforeContent: false
   columns: 3
   items:
-    - title: 'Програми със съвместна марка'
-      description: 'Производство с частен етикет за глобални марки за водни спортове. Ние се грижим за всичко — от дизайна до производството и директната доставка.'
+    - title: Co-Brand Programs
+      description: 'Private label manufacturing for global water sports brands. We handle everything from design to production to drop-shipping.'
       icon: tabler:building
-    - title: 'Дистрибуторска мрежа'
-      description: 'Оторизирани дистрибутори в над 20 държави поддържат наличности и осигуряват локална поддръжка. Запитвания от нови дистрибутори са добре дошли.'
+    - title: Distributor Network
+      description: 'Authorized distributors in 20+ countries carry stock and provide local support. New distributor inquiries welcome.'
       icon: tabler:users
-    - title: 'Държавни и институционални'
-      description: 'Директни доставки за брегови охрана, организации за издирване и спасяване и военни поръчки. Съответствие с институционалните изисквания за обществени поръчки.'
+    - title: Government & Institutional
+      description: 'Direct supply to coast guards, search and rescue organizations, and military procurement programs. Compliance with institutional procurement requirements.'
       icon: tabler:building-community
 steps2_logistics:
-  title: 'Глобална логистика и поддръжка'
-  subtitle: 'От фабриката до местоназначението — ние управляваме цялата верига за доставки.'
+  title: 'Global Logistics & Support'
+  subtitle: 'From factory to destination — we manage the entire supply chain.'
   items:
-    - title: 'Опции за транспортиране'
-      description: 'Морски транспорт (FOB Циндао), въздушен транспорт за спешни поръчки и експресен куриер за мостри и резервни части.'
+    - title: Shipping Options
+      description: 'Sea freight (FOB Qingdao), air freight for urgent orders, and express courier for samples and spare parts.'
       icon: tabler:truck-delivery
-    - title: 'Американски склад'
-      description: 'Наличности в Монтклер, Калифорния за бърза доставка в цяла Северна Америка. Западно крайбрежие: 2–3 дни, Централна част: 3–4 дни, Източно крайбрежие: 4–5 дни.'
+    - title: US Warehouse
+      description: 'Stock held in Montclair, CA for fast delivery across North America. West Coast: 2-3 days, Central: 3-4 days, East Coast: 4-5 days.'
       icon: tabler:building-warehouse
-    - title: 'Резервни части'
-      description: 'Оригинални резервни части и консумативи olagoon, налични целогодишно. Често срещани части се изпращат в рамките на 24 часа.'
+    - title: Spare Parts
+      description: 'Genuine olagoon spare parts and consumables stocked year-round. Common parts ship within 24 hours.'
       icon: tabler:package
-    - title: 'Техническа поддръжка'
-      description: 'Директна линия към нашия инженерен екип за технически въпроси, съвети за ремонт и поддръжка на резервни части. Поддържаме дъски, изградени преди 20 години.'
+    - title: Technical Support
+      description: 'Direct line to our engineering team for technical questions, repair advice, and replacement-part support. We support every pool generation we have built.'
       icon: tabler:headset
 cta:
-  title: 'Искате да станете дистрибутор?'
-  subtitle: 'Активно разширяваме нашата дистрибуторска мрежа. Свържете се с нашия износен екип, за да обсъдите възможности за партньорство.'
+  title: 'Want to become a distributor?'
+  subtitle: 'We are actively expanding our distribution network. Contact our export team to discuss partnership opportunities.'
   actions:
     - variant: primary
-      text: 'Запитване за партньорство'
+      text: Partnership inquiry
       href: /contact/
-    - text: 'Разгледайте нашия продуктов асортимент'
+    - text: View our product range
       href: /products/

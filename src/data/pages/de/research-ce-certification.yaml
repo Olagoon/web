@@ -1,57 +1,60 @@
 meta:
-  title: Wie die CE-Zertifizierung für aufblasbare Wasserfahrzeuge funktioniert | {SITE}
-  description: Vollständiger Leitfaden zur CE-Kennzeichnung für aufblasbare SUPs und Kajaks. Anwendbare Richtlinien (2013/53/EU RCD, PSA 2016/425), Prüfprotokolle, benannte Stellen, Anforderungen an die technische Dokumentation und Verpflichtungen des Herstellers.
-back_text: Zurück zur Forschung
+  title: 'How CE Certification Works for Inflatable Watercraft | {SITE}'
+  description: 'Complete guide to CE certification for inflatable pools. Applicable standards and directives for domestic pools, testing protocols, notified bodies, technical file requirements, and manufacturer obligations.'
+back_text: 'Back to Research'
+
 hero:
-  tagline: Compliance
-  title: Wie die CE-Zertifizierung für aufblasbare Wasserfahrzeuge funktioniert
-  subtitle: 7 Min. Lesezeit
-content_html: |-
-  <h2>Was ist die CE-Zertifizierung?</h2>
-  <p>Die CE-Kennzeichnung (Conformit&eacute; Europ&eacute;enne) zeigt an, dass ein Produkt die Gesundheits-, Sicherheits- und Umweltanforderungen der EU erf&uuml;llt. Bei aufblasbaren Wasserfahrzeugen h&auml;ngt der relevante Regulierungsrahmen von der Produktkategorie ab.</p>
+  tagline: 'Compliance'
+  title: 'How CE Certification Works for Inflatable Watercraft'
+  subtitle: '7 min read'
 
-  <h2>Geltende Richtlinien</h2>
+content_html: |
+  <h2>What Is CE Certification?</h2>
+  <p>CE marking (Conformit&eacute; Europ&eacute;enne) indicates that a product meets EU health, safety, and environmental requirements. For inflatable watercraft, the relevant regulatory framework depends on the product category.</p>
 
-  <h3>Richtlinie &uuml;ber Freizeitwasserfahrzeuge (2013/53/EU)</h3>
-  <p>Die wichtigste Richtlinie f&uuml;r Freizeitwasserfahrzeuge in der EU. Aufblasbare SUPs unter 2,4 m fallen nicht in ihren Geltungsbereich und werden stattdessen nach EN ISO 25649 zertifiziert.</p>
+  <h2>Applicable Directives</h2>
 
-  <h3>Verordnung &uuml;ber pers&ouml;nliche Schutzausr&uuml;stung (2016/425)</h3>
-  <p>Schwimmwesten, Auftriebshilfen und Sicherheitsausr&uuml;stung, die mit Wasserfahrzeugen geliefert werden, m&uuml;ssen die Anforderungen der PSA-Verordnung erf&uuml;llen, einschlie&szlig;lich Baumusterpr&uuml;fung (Modul B) durch eine benannte Stelle und Produktionsqualit&auml;tssicherung (Modul D oder E).</p>
+  <h3>Recreational Craft Directive (2013/53/EU)</h3>
+  <p>The primary directive for recreational craft in the EU. inflatable pools under 2.4 m fall outside its scope and are instead certified under EN ISO 25649.</p>
 
-  <h2>Der Zertifizierungsprozess</h2>
+  <h3>Personal Protective Equipment Regulation (2016/425)</h3>
+  <p>Life jackets, buoyancy aids, and safety equipment supplied with watercraft must meet PPE Regulation requirements, including type examination (Module B) by a notified body and production quality assurance (Module D or E).</p>
+
+  <h2>The Certification Process</h2>
   <ol>
-    <li>Produktklassifizierung: Baukategorie des Fahrzeugs bestimmen (A &ndash; D gem&auml;&szlig; ISO 8666)</li>
-    <li>Geltende Normen: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (Herstellerschild)</li>
-    <li>Erstellung der technischen Unterlagen: Konstruktionszeichnungen, St&uuml;ckliste, Materialzertifikate, Risikobewertung</li>
-    <li>Baumusterpr&uuml;fung: Auftrieb, Stabilit&auml;t, Tragf&auml;higkeit, Materialpr&uuml;fung, Nahtfestigkeit, Luftdichtheit</li>
-    <li>Fertigungskontrolle: Audit der Fertigungsprozesse durch die benannte Stelle</li>
-    <li>Konformit&auml;tserkl&auml;rung: Hersteller unterzeichnet die Konformit&auml;tserkl&auml;rung (DoC) und bringt die CE-Kennzeichnung an</li>
+    <li>Product classification: Determine craft design category (A – D per ISO 8666)</li>
+    <li>Applicable standards: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (builder's plate)</li>
+    <li>Technical file preparation: Design drawings, Bill of Materials, material certificates, risk assessment</li>
+    <li>Type testing: Buoyancy, stability, load capacity, material testing, seam strength, air retention</li>
+    <li>Factory production control: Notified body audit of manufacturing processes</li>
+    <li>Declaration of Conformity: Manufacturer signs DoC, affixes CE marking</li>
   </ol>
 
-  <h2>Benannte Stellen f&uuml;r aufblasbare Wasserfahrzeuge</h2>
-  <p>H&auml;ufige benannte Stellen sind Bureau Veritas (Frankreich), DNV GL (Deutschland), RINA (Italien), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (Deutschland).</p>
+  <h2>Notified Bodies for Inflatable Watercraft</h2>
+  <p>Common NBs include Bureau Veritas (France), DNV GL (Germany), RINA (Italy), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (Germany).</p>
 
-  <h2>Zeitplan und Kosten</h2>
+  <h2>Timeline and Costs</h2>
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-gray-100">
         <th class="p-3 text-left font-semibold text-gray-900 border">Phase</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Dauer</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Typische Kosten (EUR)</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Duration</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Typical Cost (EUR)</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="p-3 border">Erstellung der technischen Unterlagen</td><td class="p-3 border">2 &ndash; 4 Wochen</td><td class="p-3 border">2,000 &ndash; 5,000</td></tr>
-      <tr><td class="p-3 border">Baumusterpr&uuml;fung</td><td class="p-3 border">4 &ndash; 8 Wochen</td><td class="p-3 border">8,000 &ndash; 20,000</td></tr>
-      <tr><td class="p-3 border">Werksaudit</td><td class="p-3 border">1 &ndash; 2 Tage (vor Ort)</td><td class="p-3 border">3,000 &ndash; 6,000</td></tr>
-      <tr><td class="p-3 border">Gesamt (erstes Produkt)</td><td class="p-3 border">8 &ndash; 14 Wochen</td><td class="p-3 border">13,000 &ndash; 31,000</td></tr>
+      <tr><td class="p-3 border">Technical file preparation</td><td class="p-3 border">2 – 4 weeks</td><td class="p-3 border">2,000 – 5,000</td></tr>
+      <tr><td class="p-3 border">Type testing</td><td class="p-3 border">4 – 8 weeks</td><td class="p-3 border">8,000 – 20,000</td></tr>
+      <tr><td class="p-3 border">Factory audit</td><td class="p-3 border">1 – 2 days (on-site)</td><td class="p-3 border">3,000 – 6,000</td></tr>
+      <tr><td class="p-3 border">Total (first product)</td><td class="p-3 border">8 – 14 weeks</td><td class="p-3 border">13,000 – 31,000</td></tr>
     </tbody>
   </table>
 
-  <h2>Was das f&uuml;r K&auml;ufer bedeutet</h2>
-  <p>Beim Kauf CE-zertifizierter aufblasbarer SUPs sollten Sie stets pr&uuml;fen, dass die CE-Kennzeichnung auf dem Herstellerschild angebracht ist, eine g&uuml;ltige Konformit&auml;tserkl&auml;rung (DoC) vorliegt, die Nummer der benannten Stelle aufgef&uuml;hrt ist und die Bedienungsanleitung Sicherheitshinweise in Ihrer Landessprache enth&auml;lt. Alle OLagoon-Produkte tragen die CE-Zertifizierung mit vollst&auml;ndiger R&uuml;ckverfolgbarkeit zu den Auditberichten der benannten Stellen.</p>
+  <h2>What This Means for Buyers</h2>
+  <p>When purchasing CE-certified inflatable pools, always verify the CE marking is on the builder's plate, a valid DoC exists, the Notified Body number is listed, and the owner's manual includes safety instructions in your local language. All OLagoon products carry CE certification with full traceability to notified body audit reports.</p>
+
 cta:
-  title: Brauchen Sie Unterstützung bei der CE-Zertifizierung?
-  subtitle: Wir kümmern uns um die Zertifizierung für OEM-Partner weltweit.
-  button_text: Den Zertifizierungsprozess starten
+  title: 'Need CE certification support?'
+  subtitle: 'We handle certification for OEM partners worldwide.'
+  button_text: 'Start the certification process'
   button_link: /contact/

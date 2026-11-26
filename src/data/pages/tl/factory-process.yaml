@@ -1,52 +1,52 @@
 meta:
-  title: 'Proseso ng Pagmamanupaktura — Mula Hilaw na Materyales hanggang SUP | {SITE}'
-  description: 'Mula hilaw na materyales hanggang sa SUP na handa-na-sa-dagat: bawat hakbang ng proseso ng pagmamanupaktura ng olagoon sa ilalim ng aming kontrol, mula cutting at welding hanggang testing.'
+  title: 'Manufacturing Process — From Raw Material to pool | {SITE}'
+  description: 'From raw material to sea-ready pool: every step of the olagoon manufacturing process under our control, from cutting and welding to testing.'
   keywords:
-    - 'proseso ng pagmamanupaktura ng sup'
-    - 'pabrika ng inflatable sup'
-    - 'mga hakbang sa produksyon ng paddle board'
-    - 'pvc welding sup'
+    - 'pool manufacturing process'
+    - 'inflatable pools factory'
+    - 'inflatable pool production steps'
+    - 'pvc welding pool'
 hero:
-  tagline: 'Proseso'
-  title: 'Proseso ng Pagmamanupaktura'
-  subtitle: 'Mula hilaw na materyales hanggang sa board na handa-na-sa-tubig — bawat hakbang sa ilalim ng aming kontrol'
-  back_label: 'Bumalik sa Factory'
+  tagline: Process
+  title: Manufacturing Process
+  subtitle: From raw material to backyard-ready pool — every step under our control
+  back_label: Back to Factory
   back_link: /factory/
 
-intro: 'Hindi tulad ng mga brand na ipinapasa ang produksyon sa mga third-party na pabrika, ang olagoon ang nag-aari at nagpapatakbo ng buong chain ng pagmamanupaktura nito. Pinapahintulutan ng vertical integration na ito na mapanatili namin ang mahigpit na quality control sa bawat yugto, tumugon nang mabilis sa mga custom na kinakailangan, at maihanda ang pare-parehong kalidad ng produkto batch matapos ang batch. Ganito ang pagtatayo ng isang board sa aming pasilidad.'
+intro: Unlike brands that outsource production to third-party factories, olagoon owns and operates its entire manufacturing chain. This vertical integration allows us to maintain strict quality control at every stage, respond quickly to custom requirements, and deliver consistent product quality batch after batch. Here is how a pool is built in our facility.
 
 steps:
   - step: '01'
-    title: 'Pagtanggap at Inspeksyon ng Materyales'
-    description: 'Bawat papasok na batch ng PVC fabric, fiberglass mat, resin, at hardware ay sinspeksyunan laban sa espesipikasyon. Ang mga sample ng tela ay sinusubukan para sa tensile strength, pare-pareho ng kapal, at UV resistance bago palayain sa produksyon. Ang mga materyales na hindi tumutugod ay iniihiwalay at ibinabalik.'
-    duration: '1–2 araw'
+    title: Material Receipt & Inspection
+    description: Every incoming batch of PVC fabric, fiberglass mat, resin, and hardware is inspected against specification. Fabric samples are tested for tensile strength, thickness uniformity, and UV resistance before release to production. Non-conforming materials are quarantined and returned.
+    duration: 1–2 days
   - step: '02'
-    title: 'Automatic PVC Cutting'
-    description: 'Ang mga aprubadong tela ay inilalagay sa automatic CNC cutting machine at ginugupit nang mas tumpak pa sa isang milimetro. Ang computer-optimised na nesting ay nag-aayos ng mga panel upang mabawasan ang basura — karaniwang mas mababa sa 5%. Ang mga ginupit na panel ay nilalagyan ng label ayon sa modelo ng board at chamber, pagkatapos ay tinatalian para sa paglilipat sa welding workshop.'
-    duration: '2–4 oras bawat board kit'
+    title: Automatic PVC Cutting
+    description: Approved fabrics are laid on the automatic CNC cutting machine and cut with sub-millimetre accuracy. Computer-optimised nesting arranges panels to minimise waste — typically below 5%. Cut panels are labelled by pool model and chamber, then bundled for transfer to the welding workshop.
+    duration: 2–4 hours per pool kit
   - step: '03'
-    title: 'Heat Sealing at Welding ng Tube'
-    description: 'Ang mga panel ay tina-tack at dinidikit gamit ang mga heat sealing machine na may hot-air welding sa kontroladong temperatura na 200–300 °C. Ang mga pangunahing seam ay pinalalakas ng RF dielectric welding para sa air-tight at matibay na dugtungan. Ang mga natapos na chamber ay pinipresyar sa 1.5× working pressure para sa 30-minutong validasyon ng air-retention.'
-    duration: '1–2 araw bawat board'
+    title: Tube Heat Sealing & Welding
+    description: Panels are tacked and bonded using heat sealing machines with hot-air welding at controlled temperatures of 200–300 °C. Main seams are reinforced with RF dielectric welding for airtight, high-strength joints. Completed chambers are inflated to 1.5× working pressure for 30-minute air-retention validation.
+    duration: 1–2 days per pool
   - step: '04'
-    title: 'Printing at Dekorasyon ng SUP'
-    description: 'Ang mga graphic ng SUP board deck ay inilalapat gamit ang digital printing para sa buong-kulay na disenyo na photo-quality, at screen printing para sa matibay na logo at paulit-ulit na pattern. Ang mga print ay pinapatuyo at siniselyo para sa paglaban sa UV at abrasion.'
-    duration: '1–2 araw'
+    title: pool Printing & Decoration
+    description: pools deck graphics are applied using digital printing for full-colour photo-quality designs, and screen printing for durable logos and repeating patterns. Prints are cured and sealed for UV and abrasion resistance.
+    duration: 1–2 days
   - step: '05'
-    title: 'Panghuling Assembly at Rigging'
-    description: 'Ang mga board ay tinatak sa assembly line na may fin, valve, EVA deck, at accessory. Bawat unit ay sumusunod sa 100-point na assembly checklist na may mandatoryong sign-off sa bawat yugto.'
-    duration: '2–4 araw'
+    title: Final Assembly & Rigging
+    description: Pools are rigged on the assembly line with valves, fittings, and accessories. Each unit follows a 100-point assembly checklist with mandatory sign-off at each stage.
+    duration: 2–4 days
   - step: '06'
-    title: 'Quality Testing at Inspeksyon'
-    description: 'Bawat natapos na board ay sumasailalim sa mandatoryong quality gate: air-retention test ng chamber, pagsusuri ng pagganap ng hardware, beripikasyon ng torque ng fastener, at cosmetic na inspeksyon. Ang mga custom at prototype build ay nakakatanggap din ng in-water trial na sumasaklaw sa stability at handling.'
-    duration: '1–2 araw'
+    title: Quality Testing & Inspection
+    description: 'Every completed pool undergoes mandatory quality gate: chamber air-retention test, hardware function check, fastener torque verification, and cosmetic inspection. Custom and prototype builds also receive in-water trials covering stability and handling.'
+    duration: 1–2 days
   - step: '07'
-    title: 'Pag-pack at Pagpapadala'
-    description: 'Ang mga board ay dide-deflate, tinutupi ayon sa proseso, iniipon sa heavy-duty na woven bag o plywood crate, at ikinakarga para sa pagpapadala. Bawat package ay may label na modelo, serial number, at patutunguhan. Nag-koordina kami sa mga freight forwarder para sa FCL at LCL container shipment sa buong mundo.'
-    duration: '1 araw'
+    title: Packing & Shipping
+    description: Pools are deflated, folded per procedure, packed in heavy-duty woven bags or plywood crates, and loaded for shipment. Each package is labelled with model, serial number, and destination. We coordinate with freight forwarders for FCL and LCL container shipments worldwide.
+    duration: 1 day
 
 cta:
-  title: 'Tingnan ang aming kagamitan at makinarya'
-  desc: 'Tuklasin ang industrial-grade na kagamitan sa likod ng bawat board ng olagoon.'
-  label: 'Tingnan ang kagamitan →'
+  title: See our equipment and machinery
+  desc: Explore the industrial-grade equipment behind every OLagoon pool.
+  label: View equipment →
   link: /factory/equipment/

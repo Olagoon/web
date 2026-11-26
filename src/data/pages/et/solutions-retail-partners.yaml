@@ -1,103 +1,103 @@
 meta:
-  title: 'SUP-ide hulgimüük ja jaemüügipartnerluse programm | {SITE}'
-  description: 'SUP-ide hulgimüügi partnerprogramm jaemüüjatele ja spordikauplustele. Täielik tootevalik, otsetarne võimalused, konkurentsivõimelised hulgimarginaalid alates 20–35% ja madal MOQ alustamiseks.'
+  title: 'pool Wholesale & Retail Partner Program | {SITE}'
+  description: 'pool wholesale partner program for retailers and sporting goods stores. Full product line, dropshipping options, competitive wholesale margins from 20–35%, and low MOQ to start.'
 
 hero:
-  tagline: 'Jaemüügipartnerid'
-  title: 'Müü premium täispuhutavaid SUP-e<br />marginaalidega, mis töötavad'
-  subtitle: 'Hakka olagoon jaemüügipartneriks — paku turu kiireima kasvuga supi kaubamärki koos täielike hulgihindade, otsetarnega, professionaalsete turundusmaterjalide ja pühendatud toega.'
+  tagline: Retail Partners
+  title: 'Sell Premium inflatable pools<br />With Margins That Work'
+  subtitle: 'Become an OLagoon retail partner — carry the fastest-growing pool brand in your market with full wholesale pricing, dropshipping, professional marketing materials, and dedicated support.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'olagoon supilauad jaemüügipoes välja panduna'
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools displayed in a retail store
 
 margin_section:
-  title: 'Jaemüügimarginaalid ja MOQ'
-  subtitle: 'Hulgihinna astmed, mis on loodud jaemüügi kasumlikkuseks.'
+  title: 'Retail Margins & MOQ'
+  subtitle: 'Wholesale pricing tiers designed for retail profitability.'
   items:
-    - tier: 'Baaspartner'
+    - tier: 'Basic Partner'
       discount: '20%'
-      moq: '500 ühikut/aastas'
-      margin_note: '~150–250 USD kasum laua kohta'
+      moq: '500 units/yr'
+      margin_note: '~$150–250 profit per board'
       features:
-        - 'Juurdepääs täielikule tootevalikule'
-        - 'Turundusmaterjalide pakett'
-        - 'E-posti tugi'
-        - 'Juurdepääs tootekataloogile'
-    - tier: 'Premiumpartner'
+        - 'Access to full product line'
+        - 'Marketing materials package'
+        - 'Email support'
+        - 'Product catalog access'
+    - tier: 'Premium Partner'
       discount: '30%'
-      moq: '2,000+ ühikut/aastas'
-      margin_note: '~250–400 USD kasum laua kohta'
+      moq: '2,000+ units/yr'
+      margin_note: '~$250–400 profit per board'
       features:
-        - 'Pühendatud kontohaldur'
-        - 'Eksklusiivne territooriumikaitse'
-        - 'Kohandatud turundustugi'
-        - 'Esmane juurdepääs uutele toodetele'
-        - 'Personali koolitussessioonid'
-    - tier: 'Lippulaevapartner'
+        - 'Dedicated account manager'
+        - 'Exclusive territory protection'
+        - 'Custom marketing support'
+        - 'First access to new products'
+        - 'Staff training sessions'
+    - tier: 'Flagship Partner'
       discount: '35%+'
-      moq: '5,000+ ühikut/aastas'
-      margin_note: '~350–500+ USD kasum laua kohta'
+      moq: '5,000+ units/yr'
+      margin_note: '~$350–500+ profit per board'
       features:
-        - 'Kaasmärgi turunduskampaaniad'
-        - 'Poosisinetoe'
-        - 'Kohapealne personelikoolitus'
-        - 'Ühised sotsiaalmeedia kampaaniad'
-        - 'Prioriteetne tootmise eraldatus'
+        - 'Co-branded marketing campaigns'
+        - 'In-store display support'
+        - 'On-site staff training'
+        - 'Joint social media promotions'
+        - 'Priority production allocation'
 
 product_line:
-  title: 'Täielik tootevalik'
-  subtitle: 'SUP-laud iga kliendi jaoks, kes sinu ukselist läbi astub.'
+  title: Complete Product Line
+  subtitle: 'A pools for every customer who walks through your door.'
   items:
-    - name: 'Universaalne seeria'
-      description: 'Bestseller — sobib 80% klientidele'
-    - name: 'Turismiseeria'
-      description: 'Jõudlussõudjad — kõrgem marginaal'
-    - name: 'Joogaseeria'
-      description: 'Nišiturg — preemiumhinnad'
-    - name: 'Lasteseeria'
-      description: 'Perekliente — korduvostja'
-    - name: 'Võistlusseeria'
-      description: 'Entusiastide turg — kaubamärgi haloo'
-    - name: 'Tarvikud'
-      description: 'Kõrgema marginaaliga lisad (sõudad, päästevestid, pumbad, kotid)'
+    - name: All-Round Series
+      description: 'Best seller — fits 80% of customers'
+    - name: Touring Series
+      description: 'Performance swimmers — higher margin'
+    - name: Yoga Series
+      description: 'Niche market — premium pricing'
+    - name: Kids Series
+      description: 'Family customers — repeat buyer'
+    - name: Racing Series
+      description: 'Enthusiast market — brand halo'
+    - name: Accessories
+      description: 'High margin add-ons (paddles, vests, pumps, bags)'
 
 catalog:
-  title: 'Jaemüügipartneri ressursid'
-  subtitle: 'Laadi alla meie põhjalik jaemüügipartneri komplekt.'
+  title: Retail Partner Resources
+  subtitle: 'Download our comprehensive retail partner kit.'
   items:
-    - name: '2026. aasta tootekataloog'
-      desc: 'Täielik valik koos spetsifikatsioonide, hindade ja tellimisinfoga'
+    - name: '2026 Product Catalog'
+      desc: 'Full lineup with specs, pricing, and ordering information'
       icon: 'tabler:file-text'
       link: '/resources/download-catalog/'
-    - name: 'Jaemüügipartneri juhend'
-      desc: 'Marginaalikalkulaator, müügiesitluse nõuanded ja parimad praktikad'
+    - name: 'Retail Partner Guide'
+      desc: 'Margin calculator, merchandising tips, and best practices'
       icon: 'tabler:book'
       link: '/resources/download-catalog/'
-    - name: 'Turundusmaterjalide pakk'
-      desc: 'Kõrge lahutusega tootefotod, elustiilipildid ja POS-materjalid'
+    - name: 'Marketing Asset Pack'
+      desc: 'Hi-res product photos, lifestyle images, and POS materials'
       icon: 'tabler:photo'
       link: '/media/'
 
 support:
-  title: 'Jaemüügipartneri tugi'
-  subtitle: 'Kõik, mida vajad kindlalt müümiseks.'
+  title: Retail Partner Support
+  subtitle: 'Everything you need to sell confidently.'
   items:
-    - 'Kõrge lahutusega tootepildid (profesionaalne fotograafia)'
-    - 'Elustiilifotod sotsiaalmeedia, veebilehe ja kataloogi jaoks'
-    - 'Turundusmaterjalid — plakatid, riiulikõned, bännerid'
-    - 'Toodete koolitusvideod personali koolitamiseks'
-    - 'Sotsiaalmeedia sisupakk (nädalased postitused)'
-    - 'SEO-optimeeritud tootekirjeldused'
-    - 'Otsetarne võimalus — laoriski pole'
-    - 'Maksetingimus Net 30'
+    - 'High-res product images (professional photography)'
+    - 'Lifestyle photos for social media, website, and catalog'
+    - 'Marketing materials — posters, shelf talkers, banners'
+    - 'Product training videos for staff education'
+    - 'Social media content pack (weekly posts)'
+    - 'SEO-optimized product descriptions'
+    - 'Dropshipping option available — no inventory risk'
+    - 'Net 30 payment terms'
 
 cta:
-  title: 'Valmis olagoon jaemüügipartneriks saama?'
-  subtitle: 'Taotle partnerlust või laadi alla meie jaemüügi kataloog alustamiseks.'
+  title: 'Ready to become an OLagoon retail partner?'
+  subtitle: 'Apply for partnership or download our retail catalog to get started.'
   actions:
-    - text: 'Taotle partnerlust'
+    - text: 'Apply for Partnership'
       href: '/contact/?partner=retail'
       variant: 'primary'
-    - text: 'Laadi alla jaemüügi kataloog'
+    - text: 'Download Retail Catalog'
       href: '/resources/download-catalog/'
       variant: 'secondary'

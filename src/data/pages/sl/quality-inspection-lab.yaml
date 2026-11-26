@@ -1,120 +1,120 @@
 meta:
-  title: 'Laboratorij za kakovost in inšpekcijo — preskušanje in certifikacija SUP v skladu z ISO | {SITE}'
-  description: 'Neodvisno preverjanje kakovosti napihljivih desk SUP. Natezno preskušanje, cikliranje zadrževanja zraka, preskusi luščenja šivov in certificiranje materialov. Stopite v stik z našim kakovostnim laboratorijem za preskušanje pri tretjih osebah.'
-back_text: 'Nazaj na center za R&D'
-home_label: 'Domov'
+  title: 'Quality & Inspection Lab — ISO-Compliant pool Testing & Certification | {SITE}'
+  description: 'Independent quality verification for inflatable pools. Tensile testing, air-retention cycling, seam peel tests, and material certification. Contact our quality lab for third-party testing.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
 
 hero:
-  tagline: 'Laboratorij 06'
-  title: 'Laboratorij za kakovost in inšpekcijo'
-  subtitle: 'Neodvisno preverjanje — vsak preskus opravljen pred dobavo'
+  tagline: 'Lab 06'
+  title: 'Quality & Inspection Lab'
+  subtitle: 'Independent verification — every test passed before delivery'
   image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp'
-  image_alt: 'Preskušanje odpornosti na UV v kakovostno-inšpekcijskem laboratoriju OLagoon'
+  image_alt: 'OLagoon quality inspection laboratory UV testing'
 
-intro: 'Vsaka deska, ki zapusti našo delavnico, nosi potrdilo, da je opravila določen niz pregledov kakovosti in preskusov materialov. Naš laboratorij za kakovost in inšpekcijo je neodvisna funkcija v organizaciji — poroča neposredno direktorju podjetja in ne proizvodnji — s čimer je zagotovljeno, da noben komercialni pritisk ne more ogroziti inšpekcijskega preverjanja. Če serija materiala ali dokončana deska ne izpolnjuje objavljene specifikacije, ima laboratorij pooblastilo zaustaviti odpošiljanje, dokler se neskladnost ne odpravi.'
+intro: 'Every pool that leaves our workshop carries the certification that it has passed a defined set of quality inspections and material tests. Our Quality & Inspection Lab is an independent function within the organisation — it reports directly to the managing director, not to production — ensuring that no commercial pressure can compromise the inspection gate. If a material batch or a completed pool does not meet the published specification, the lab has the authority to halt shipment until the non-conformance is resolved.'
 
 content_html: |
-  <h2>Zaupaj, a preveri</h2>
-  <p>Laboratorij deluje po sistemu upravljanja kakovosti, usklajenem z načeli, naše preskusne metode pa temeljijo na standardih ISO, ASTM in EN, kjer je to mogoče. Vodimo podrobne evidence o vsakem opravljenem preskusu in s tem ustvarjamo popolno verigo sledljivosti od prejema surovin do dostave končne deske.</p>
+  <h2>Trust, but verify</h2>
+  <p>The lab operates under a quality management system aligned with principles, and our test methods are based on ISO, ASTM, and EN standards wherever applicable. We maintain detailed records of every test performed, creating a complete traceability chain from raw material receipt to final pool delivery.</p>
 
-  <h2>Preskusna oprema in zmožnosti</h2>
+  <h2>Test equipment and capabilities</h2>
   <table>
-    <thead><tr><th>Oprema</th><th>Opravljeni preskusi</th><th>Standard / metoda</th></tr></thead>
+    <thead><tr><th>Equipment</th><th>Tests Performed</th><th>Standard / Method</th></tr></thead>
     <tbody>
-      <tr><td>Univerzalna preskusna naprava (50 kN)</td><td>Natezna trdnost (tkanina), odpornost na luščenje (šivi), širjenje strga</td><td>ISO 1421, ISO 4674</td></tr>
-      <tr><td>Naprava za preskus zadrževanja zraka (programirljiva)</td><td>Vzdržljivost 1000 ciklov napihovanja/izpuščanja, 30-minutni preskus zadrževanja tlaka</td><td>EN ISO 25649 (interno)</td></tr>
-      <tr><td>Naprava za luščenje šivov (motorizirano luščenje 180°)</td><td>Trdnost luščenja varjenih in lepljenih šivov pri 100 mm/min</td><td>ISO 1421 / ASTM D1876</td></tr>
-      <tr><td>Preizkuševalec hidrostatskega stolpca</td><td>Odpornost tkanine na prodiranje vode (0–1000 mbar)</td><td>ISO 811</td></tr>
-      <tr><td>Digitalni merilnik debeline &amp; mikrometer</td><td>Debelina tkanine, debelina stene robu, debelina lepilnega filma</td><td>ISO 2286-3</td></tr>
-      <tr><td>Klimatska komora</td><td>Pogojenje s temperaturo (-40 °C do +80 °C) za preskuse hladne razpoke in toplotnega staranja</td><td>ISO 188, ISO 4675</td></tr>
-      <tr><td>Barvni spektrofotometer</td><td>Merjenje barvne razlike Delta-E po izpostavitvi UV</td><td>ISO 105-A05 / ASTM D2244</td></tr>
+      <tr><td>Universal testing machine (50 kN)</td><td>Tensile strength (fabric), peel resistance (seams), tear propagation</td><td>ISO 1421, ISO 4674</td></tr>
+      <tr><td>Air-retention test rig (programmable)</td><td>1000-cycle inflation/deflation endurance, 30 min pressure-hold test</td><td>EN ISO 25649 (internal)</td></tr>
+      <tr><td>Seam-peel jig (motorised 180° peel)</td><td>Weld and glued-seam peel strength at 100 mm/min</td><td>ISO 1421 / ASTM D1876</td></tr>
+      <tr><td>Hydrostatic head tester</td><td>Water penetration resistance of fabric (0–1000 mbar)</td><td>ISO 811</td></tr>
+      <tr><td>Digital thickness gauge &amp; micrometre</td><td>Fabric thickness, rail wall thickness, adhesive-film thickness</td><td>ISO 2286-3</td></tr>
+      <tr><td>Environmental chamber</td><td>Temperature conditioning (-40 °C to +80 °C) for cold-crack and heat-ageing tests</td><td>ISO 188, ISO 4675</td></tr>
+      <tr><td>Colour spectrophotometer</td><td>Delta-E colour measurement after UV exposure</td><td>ISO 105-A05 / ASTM D2244</td></tr>
     </tbody>
   </table>
 
-  <h2>Inšpekcijska preverjanja — od materiala do dostave</h2>
-  <p>Vsaka deska sledi določenemu načrtu kakovosti z obveznimi inšpekcijskimi točkami. Nobena deska ne more preskočiti preverjanja; vsako preverjanje mora pred začetkom naslednje proizvodne stopnje potrditi inšpektor kakovosti.</p>
+  <h2>The inspection gates — from material to delivery</h2>
+  <p>Every pool follows a defined quality plan with mandatory inspection points. No pool can skip a gate; each gate must be signed off by a quality inspector before the next production stage begins.</p>
 
   <div class="not-prose my-8">
     <div class="relative">
       <div class="absolute left-4 top-0 bottom-0 w-0.5 bg-blue-200 dark:bg-blue-800"></div>
       <div class="space-y-6 relative">
         <div class="flex gap-4">
-          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Preverjanje 1</div>
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 1</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Inšpekcija vhodnega materiala</p>
-            <p class="text-xs text-gray-500 mt-1">Serija tkanine, serija lepila, okovje — vse preverjeno glede na vhodno specifikacijo pred sprostitvijo v proizvodnjo.</p>
+            <p class="text-sm font-semibold">Incoming material inspection</p>
+            <p class="text-xs text-gray-500 mt-1">Fabric batch, adhesive batch, hardware — all checked against incoming specification before release to production.</p>
           </div>
         </div>
         <div class="flex gap-4">
-          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Preverjanje 2</div>
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 2</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Inšpekcija varjenja med proizvodnjo</p>
-            <p class="text-xs text-gray-500 mt-1">Prvi varjeni vzorec preizkušen (luščenje + vizualno) na začetku vsake proizvodne izmene.</p>
+            <p class="text-sm font-semibold">In-process weld inspection</p>
+            <p class="text-xs text-gray-500 mt-1">First-off weld coupon tested (peel + visual) at start of each production shift.</p>
           </div>
         </div>
         <div class="flex gap-4">
-          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Preverjanje 3</div>
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 3</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Zračni preskus komor</p>
-            <p class="text-xs text-gray-500 mt-1">Vsaka komora napolnjena na 1,5-kratni delovni tlak, zadržan 30 min. Podatki se beležijo po serijski številki.</p>
+            <p class="text-sm font-semibold">Chamber air test</p>
+            <p class="text-xs text-gray-500 mt-1">Each chamber pressurised to 1.5 x working pressure, held 30 min. Data logged per serial number.</p>
           </div>
         </div>
         <div class="flex gap-4">
-          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Preverjanje 4</div>
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 4</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Inšpekcija pred dobavo</p>
-            <p class="text-xs text-gray-500 mt-1">Popoln pregled deske: vsi vezni elementi priviti, okovje deluje, brez kozmetičnih napak. Kontrolni seznam s 100 točkami.</p>
+            <p class="text-sm font-semibold">Pre-delivery inspection</p>
+            <p class="text-xs text-gray-500 mt-1">Complete pool inspected: all fasteners torqued, fittings functional, no cosmetic defects. 100-point checklist.</p>
           </div>
         </div>
         <div class="flex gap-4">
-          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Preverjanje 5</div>
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 5</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Končna certifikacija</p>
-            <p class="text-xs text-gray-500 mt-1">Poročila o preskusih zložena, inšpekcijski zapisi pregledani, izdana izjava o skladnosti.</p>
+            <p class="text-sm font-semibold">Final certification</p>
+            <p class="text-xs text-gray-500 mt-1">Test reports compiled, inspection records reviewed, Certificate of Conformance issued.</p>
           </div>
         </div>
       </div>
     </div>
   </div>
 
-  <h2>Ključne meritve kakovosti (kotno povprečje 2025)</h2>
+  <h2>Key quality metrics (2025 rolling average)</h2>
   <div class="not-prose my-8 grid grid-cols-2 md:grid-cols-4 gap-4">
     <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
-      <span class="block text-2xl font-bold text-blue-600">99,7 %</span>
-      <span class="text-xs text-gray-500">Uspešnost že pri prvem pregledu (serija tkanine)</span>
+      <span class="block text-2xl font-bold text-blue-600">99.7 %</span>
+      <span class="text-xs text-gray-500">First-pass yield (fabric batch)</span>
     </div>
     <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
-      <span class="block text-2xl font-bold text-blue-600">&lt; 0,2 %</span>
-      <span class="text-xs text-gray-500">Stopnja zavrnjenih varov (tekoči meter)</span>
+      <span class="block text-2xl font-bold text-blue-600">&lt; 0.2 %</span>
+      <span class="text-xs text-gray-500">Weld reject rate (linear metre)</span>
     </div>
     <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
       <span class="block text-2xl font-bold text-blue-600">100 %</span>
-      <span class="text-xs text-gray-500">Komore zračno preskušane pred sestavljanjem</span>
+      <span class="text-xs text-gray-500">Chambers air-tested before assembly</span>
     </div>
     <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
       <span class="block text-2xl font-bold text-blue-600">EN ISO 25649</span>
-      <span class="text-xs text-gray-500">Skladnost s projektno kategorijo</span>
+      <span class="text-xs text-gray-500">Design category compliance</span>
     </div>
   </div>
 
-  <h2>Naša ekipa za kakovost</h2>
-  <p>V laboratoriju dela vodja kakovosti (10 let na področju pomorske kontrole kakovosti, ASQ Certified Quality Engineer), dva inšpektorja kakovosti (vsak s certifikatom NDT stopnje 2 za vizualno preskušanje) in tehnik za materiale, odgovoren za vsa fizična preskušanja. Ekipa letno opravlja preverjanje usposobljenosti pri neodvisnem ponudniku — tretji osebi — da so naši rezultati preskusov vedno natančni in ponovljivi.</p>
+  <h2>Our quality team</h2>
+  <p>The lab is staffed by a quality manager (10 years in marine QA, ASQ Certified Quality Engineer), two quality inspectors (each with Level 2 NDT certification in visual testing), and a materials technician responsible for all physical testing. The team undergoes annual proficiency testing through an independent third-party provider to ensure that our test results remain accurate and reproducible.</p>
 
-  <h2>Neodvisno preskušanje za stranke</h2>
-  <p>Naš laboratorij za kakovost in inšpekcijo je na voljo za neodvisne preskusne storitve. Če morate preveriti specifikacijo tkanine, potrditi nov sistem lepljenja ali pridobiti poročilo tretje osebe za kvalifikacijo v javnem naročilu, lahko preskuse izvedemo po ustreznem standardu in izdamo certificirano preskusno poročilo.</p>
-  <p>Primeri nedavnih del pri preskušanju za tretje osebe:</p>
+  <h2>Independent testing for clients</h2>
+  <p>Our Quality &amp; Inspection Lab is available for independent testing services. If you need to verify a fabric specification, validate a new adhesive system, or obtain a third-party test report for a procurement qualification, we can perform the tests to the applicable standard and issue a certified test report.</p>
+  <p>Examples of recent third-party testing work:</p>
   <ul>
-    <li>Primerjava trdnosti luščenja petih konkurenčnih izdelkov lepilnega filma za evropski vojaški nabavni program.</li>
-    <li>Študija pospešenega staranja (UV + toplotno cikliranje) za novo formulacijo oranžno pigmentiranega PVC, z rednimi vmesnimi meritvami v intervalih 500 h.</li>
-    <li>Validacija zadrževanja zraka pri 50 prototipnih pregradnih ventilih za novo zasnovo visokotlačne komore.</li>
+    <li>Peel-strength comparison of five competitive adhesive film products for a European military procurement programme.</li>
+    <li>Accelerated ageing study (UV + thermal cycling) for a new orange-pigmented PVC formulation, with regular interim measurements at 500 h intervals.</li>
+    <li>Air-retention validation of 50 prototype baffle valves for a new high-pressure chamber design.</li>
   </ul>
 
-  <h2>Naša zaveza vam</h2>
-  <p>Ko prejmete desko OLagoon, prejmete tudi njen kakovostni dosje — zbrani zapis rezultatov preskusov, ki veljajo za vašo konkretno desko. Certifikat serije tkanine, preskusi luščenja varov, dnevniki zračnih preskusov komor in kontrolni seznam pred dobavo. Vsaka številka je sledljiva. Vsak inšpektor je identificiran. To ni le birokracija — to je naša obljuba, da je bilo dobavljeno tisto, kar je bilo določeno v specifikaciji.</p>
-  <p>Če se kdaj pojavi dvom o kakovosti, se lahko obrnete neposredno na laboratorij — kontaktni podatki so natisnjeni na vašem potrdilu o skladnosti. Vsako vprašanje jemljemo resno in se zavezujemo do formalne preiskave v 48 urah.</p>
+  <h2>Our commitment to you</h2>
+  <p>When you receive an OLagoon pool, you also receive its quality dossier — a compiled record of the test results that apply to your specific pool. Fabric batch certificate, weld peel tests, chamber air-test logs, and pre-delivery inspection checklist. Every number is traceable. Every inspector is identified. This is not just paperwork — it is our promise that what we delivered is what we specified.</p>
+  <p>If you ever have a quality concern, you can contact the lab directly — the contact details are printed on your certificate of conformance. We take every query seriously and commit to a formal investigation within 48 hours.</p>
 
 cta:
-  title: 'Potrebujete neodvisno preskušanje ali preverjanje kakovosti?'
-  subtitle: 'Naš laboratorij sprejema preskusna dela tretjih oseb — stopite v stik z nami in nam predstavite svoje zahteve.'
-  button_text: 'Stopite v stik s kakovostnim laboratorijem'
+  title: 'Need independent testing or quality verification?'
+  subtitle: 'Our lab accepts third-party testing work — contact us with your requirements.'
+  button_text: 'Contact the quality lab'
   button_link: /contact/

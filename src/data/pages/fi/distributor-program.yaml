@@ -1,117 +1,117 @@
 meta:
-  title: 'Maakumppanuus — Yksi maa, yksi virallinen OLagoon-jakelija | {SITE}'
-  description: 'Hae maasi viralliseksi OLagoon-jakelijaksi. Yksi valtuutettu kumppani markkinaa kohden, alueellinen suoja, suorat tehdashinnat, vuosittaiset alennukset ja 10-moduulinen maakumppanin tukiohjelma maailmanlaajuisille SUP- ja vesiurheilujakelijoille.'
+  title: 'Country Partners — One Country, One Official OLagoon Distributor | {SITE}'
+  description: 'Apply to become the official OLagoon distributor for your country. One authorized partner per market, territory protection, direct-factory margins, annual rebates, and a 10-module country partner support program for global pool and water sports distributors.'
   keywords:
-    - 'maakumppanuusohjelma'
-    - 'ryhdy jakelijaksi'
-    - 'SUP-jakelu'
-    - 'yksi maa yksi jakelija'
-    - 'stand up paddle -jakelija'
-    - 'vesiurheilun jakelu'
-    - 'maakumppanuushakemus'
+    - 'country partnership program'
+    - 'become a distributor'
+    - 'pool distributorship'
+    - 'one country one distributor'
+    - 'stand up paddle distributor'
+    - 'water sports distribution'
+    - 'country partnership application'
 hero:
-  tagline: 'Maakumppanuus'
-  title: 'Yksi maa.<br />Yksi virallinen OLagoon-jakelija.'
-  subtitle: 'OLagoon nimittää yhden valtuutetun majakelijan kutakin hyväksyttyä markkinaa kohden. Yksinoikeus alueeseen, jälleenmyyntihinnat vuosialennuksin ja kattava jakelijoiden tukiohjelma — vastineeksi allekirjoitetusta sopimuksesta ja aidosta sitoutumisesta markkinan rakentamiseen.'
+  tagline: 'Country Partnership'
+  title: 'One Country.<br />One Official OLagoon Distributor.'
+  subtitle: 'OLagoon appoints a single authorized country distributor for each approved market. Exclusive territory, dealer pricing with annual rebates, and a full distributor support program — in exchange for a signed agreement and a real commitment to build the market.'
   actions:
-    - text: 'Hae maakumppanuutta'
+    - text: 'Apply for Country Partnership'
       href: /contact/?subject=Country Partnership Application
       variant: primary
-    - text: 'Löydä paikallinen jakelijasi'
+    - text: 'Find Your Local Distributor'
       href: /distributor-program/
       variant: secondary
-    - text: 'Pyydä jälleenmyyjähinnasto'
+    - text: 'Request Dealer Price List'
       href: /contact/?subject=Dealer Price List
       variant: secondary
 stats:
   - value: '1'
-    label: 'Virallinen jakelija maata tai aluetta kohden'
+    label: 'Official distributor per country or region'
   - value: '100–300'
-    label: 'Vähimmäisensimmäinen tilaus (maa / alue)'
+    label: 'Minimum first order (Country / Regional)'
   - value: '50+'
-    label: 'Palvellut maat maailmanlaajuisesti'
-  - value: '30–45'
-    label: 'Vakio toimitusaika päivinä (FOB Qingdao)'
+    label: 'Countries served globally'
+  - value: '12–16'
+    label: 'Weeks standard lead time (FOB Qingdao)'
 features:
-  title: 'Miksi Kumppanuus OLagoonin Kanssa'
-  subtitle: 'Malli, jossa yhdellä maalla on yksi jakelija ja tukirakenne, joka tekee alueesta kannattavan. Yksinoikeus ansaitaan ja säilytetään — se ei ole pysyvä oikeus.'
+  title: 'Why Partner With OLagoon'
+  subtitle: 'A one-country-one-distributor model with the support structure to make the territory pay. Exclusivity is earned and maintained — not a permanent right.'
   columns: 3
   items:
-    - title: 'Alueellinen Yksinoikeus'
-      description: 'Yksi valtuutettu jakelija maata tai aluetta kohden. Ei rinnakkaistuontia, ei sisäistä kilpailua. Sijoituksesi rakentaa oman vallihautasi.'
+    - title: 'Territory Exclusivity'
+      description: 'One authorized distributor per country or region. No parallel imports, no internal competition. Your investment builds your own moat.'
       icon: 'tabler:shield-check'
-    - title: 'Suojaus Kanavaristiriidoilta'
-      description: 'Alueesi suorat tilaukset ohjataan sinun kauttasi, ja hinnoittelu suojaa marginaalisi. OLagoon ei myy maakumppaniensa ohi.'
+    - title: 'Channel Conflict Protection'
+      description: 'Direct orders from your region are routed through you, and pricing protects your margin. OLagoon does not sell around its country partners.'
       icon: 'tabler:users'
-    - title: 'Suorat Tehdasmarginaalit & Alennukset'
-      description: 'Jälleenmyyntihinnasto alennuksin sovituista volyymeista. Ei välikäsiä. FOB Qingdao -toimitus täydellä vientidokumentaatiolla.'
+    - title: 'Direct-Factory Margins & Rebates'
+      description: 'Dealer price list with rebates on committed volumes. No middlemen. FOB Qingdao shipping with full export documentation.'
       icon: 'tabler:coins'
-    - title: '10-Moduulinen Kumppanin Tukiohjelma'
-      description: 'Perehdytys, go-to-market, koulutus, markkinointi ja yhteinen markkinarahoitus, varaosat ja jälkimarkkinointi, takuu, tilausvälineet ja kumppaniportaali — kaikki sisältyy Distribution Agreement -sopimukseesi.'
+    - title: '10-Module Partner Support Program'
+      description: 'Onboarding, go-to-market, training, marketing and joint market funding, spare parts and after-sales, warranty, ordering tools, and a partner portal — covered in your Distribution Agreement.'
       icon: 'tabler:rocket'
-    - title: 'Markkinointi & Yhteiset Markkinarahastot'
-      description: 'Lokalisoidut kampanjamateriaalit, jälleenmyyjän myyntipistemateriaalit, tapahtumasarjat, monikielinen digitaalinen sisältö ja yhteismarkkinointituki lanseeraussesonkeihin.'
+    - title: 'Marketing & Joint Market Funds'
+      description: 'Localized campaign assets, dealer POS materials, event kits, digital content in multiple languages, and co-marketing support for launch seasons.'
       icon: 'tabler:mood-smile'
-    - title: 'Tuote-, Myynti- & Tekninen Koulutus'
-      description: 'Jäsennellyt perehdytyskerrat tuote-, myynti- ja tekniseen osaamiseen sekä päivitetyt materiaalit tuotevalikoiman kehittyessä.'
+    - title: 'Product, Sales & Technical Training'
+      description: 'Structured onboarding sessions on product, sales, and technical knowledge, with updated materials as the range evolves.'
       icon: 'tabler:presentation'
-    - title: 'Varaosat & Jälkimarkkinatuki'
-      description: 'Varaosien toimitus, takuurekisteröinti ja reklamaatioiden käsittely sekä tuotetietolomakkeet ja käyttöohjeet paikalliselle huoltotiimillesi.'
+    - title: 'Spare Parts & After-Sales Support'
+      description: 'Spare parts supply, warranty registration and claims handling, and product datasheets and manuals for your local service team.'
       icon: 'tabler:settings'
-    - title: 'Omistettu Asiakkuuspäällikkö & Kumppaniportaali'
-      description: 'Henkilökohtainen jakelupäällikkö sekä pääsy hinnastoihin, tilauksen tilaan ja markkinointiresursseihin OLagoonin kumppaniportaalin kautta.'
+    - title: 'Dedicated Account Manager & Partner Portal'
+      description: 'A personal distributor manager plus access to price lists, order status, and marketing resources through the OLagoon partner portal.'
       icon: 'tabler:user-check'
 table:
-  title: 'Kumppanuustasot, MOQ & Tilausehdot'
-  subtitle: 'Valitse taso, joka vastaa markkinapotentiaaliasi. Kaikki hinnat USD, FOB Qingdao.'
-  caption: 'Näyte- ja koe-erätilaukset (5–30 kpl) eivät anna alueellista suojaa. Maayksinoikeus koskee vain allekirjoitettuja Country / Regional Distributor -sopimuksia — se säilytetään ensimmäisen tilauksen toteutuksella, vuosittaisilla ostotavoitteilla, paikallisella varastolla, jälkimarkkinakapasiteetilla ja jatkuvalla markkinasijoituksella, eikä se ole pysyvä tai ikuinen oikeus.'
+  title: 'Partnership Tiers, MOQ & Order Terms'
+  subtitle: 'Choose the tier that matches your market potential. All prices in USD, FOB Qingdao.'
+  caption: 'Sample and trial orders (5–30 units) carry no territorial protection. Country exclusivity applies only to signed Country / Regional Distributor agreements — it is maintained by first-order completion, annual purchase targets, local stock, after-sales capability, and continued market investment, and is not a permanent or perpetual right.'
   head:
-    - Ohjelman Taso
-    - Vähimmäistilaus (kpl)
-    - Toimitusaika
-    - Maksu
+    - Program Tier
+    - Minimum Order (units)
+    - Lead Time
+    - Payment
   rows:
-    - [Näyte / Tuotearviointi, 5–10, 15–20 työpäivää, 100% prepaid]
-    - [Koe-erä, 10–30, 30–45 työpäivää, 100% prepaid]
-    - [Authorized Dealer, 30–50, 30–45 työpäivää, 30% deposit / 70% before shipment]
-    - [Country / Regional Distributor, 100–300, 30–45 työpäivää, 30% deposit / 70% before shipment]
-    - [Custom & Private Label (standard), 50+, 30–45 työpäivää, 30% deposit / 70% before shipment]
-    - [Deep Custom (uudet muotit, pakkaus), 200+, 45–60 työpäivää, 30% deposit / 70% before shipment]
-    - [Full Product Line Rights, '300–1 000', 60–90 työpäivää, 30% deposit / 70% before shipment]
+    - [Sample / Product Evaluation, 5–10, 15–20 working days, 100% prepaid]
+    - [Trial Order, 10–30, 15–20 working days, 100% prepaid]
+    - [Authorized Dealer, 30–50, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Country / Regional Distributor, 100–300, 10–14 weeks, 30% deposit / 70% before shipment]
+    - [Custom & Private Label (standard), 50+, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Deep Custom (new molds, packaging), 200+, 12–16 weeks + 15–20 days tooling, 30% deposit / 70% before shipment]
+    - [Full Product Line Rights, '300–1,000', 10–14 weeks, 30% deposit / 70% before shipment]
 faqs:
-  title: 'Maakumppanuus — UKK'
-  subtitle: 'Kysymykset, joita vakavasti asiaan suhtautuvat maarumppaanit kysyvät ennen hakemista.'
+  title: 'Country Partnership — FAQ'
+  subtitle: 'The questions serious country partners ask before applying.'
   items:
-    - title: 'Mitä yksi maa, yksi jakelija todella tarkoittaa?'
-      description: 'OLagoon nimittää yhden valtuutetun jakelijan, jolla on yksinoikeus määriteltyyn alueeseen. Emme myy globaaleista tai alueellisista kanavistamme suojattuun maahan. Alueesi pysyy sinulla niin kauan kuin Distribution Agreement -sopimuksen ehdot täyttyvät.'
-    - title: 'Onko alue yksinomainen ikuisesti?'
-      description: 'Ei. Yksinoikeus on ehdollinen, ei ikuinen. Se säilytetään allekirjoitetulla Distribution Agreement -sopimuksella, ensimmäisen tilauksen toteutuksella, vuosittaisilla ostotavoitteilla, paikallisella varastolla, jälkimarkkinakapasiteetilla ja jatkuvalla markkinasijoituksella. Jos näitä ehtoja ei täyty, alue voidaan neuvotella uudelleen tai myöntää toiselle osapuolelle.'
-    - title: 'Mikä on vähimmäisensimmäinen tilaus?'
-      description: 'Maa- ja aluejakelijat aloittavat 100–300 kappaleesta; valtuutetut jälleenmyyjät 30–50 kappaleesta; koe-erät 10–30 kappaleesta antavat sinun testata markkinaa ensin (koe- ja näytetilaukset eivät tuota alueellista suojaa). Custom- ja private-label-ohjelmissa on omat MOQ-rajansa yllä olevien tasojen mukaisesti.'
-    - title: 'Mitä 10-moduulinen tukiohjelma sisältää?'
-      description: 'Tasot ja kelpoisuus, alueellinen suoja, MOQ / hinnoittelu / vuosialennukset, varastonhallinta ja tilausprosessi, markkinointimateriaalit ja yhteiset markkinarahastot, tuote-/myynti-/tekninen koulutus, varaosat ja jälkimarkkinat, takuurekisteröinti, kumppaniportaali sekä tuotetietolomakkeet, markkinointimateriaalikirjasto, vuosittainen alennustaulukko sekä kuljetus- ja pakkausluettelot.'
-    - title: 'Miten OLagoon suojaa minut kanavaristiriidoilta?'
-      description: 'Jokaisella alueella on täsmälleen yksi valtuutettu jakelija. Alueesi tiedustelut ja suorat tilaukset ohjataan sinun kauttasi, verkkolomakkeet ohjataan paikalliselle kumppanille, kun sellainen on olemassa, ja globaali tiimi eskaloituu vain, jos kumppani ei vastaa.'
-    - title: 'Mitkä ovat toimitus- ja maksuehdot?'
-      description: 'Tilaukset toimitetaan FOB Qingdao täydellä vientidokumentaatiolla. Tuotantotilaukset 30% käsirahalla ja 70% ennen toimitusta; koe- ja näytetilaukset maksetaan etukäteen. Vakio toimitusaika on 30–45 työpäivää, näyte-erillä 15–20 työpäivää.'
-    - title: 'Miten haen?'
-      description: 'Lähetä hakemuksesi yhteydenottolomakkeella markkinatietoineen. Arvioimme markkinasopivuuden, vähittäisnäkyvyyden ja logistiikkakyvykkyyden ja vastaamme 3 työpäivän kuluessa seuraavista vaiheista ja luonnoksesta Distribution Agreement -sopimukseksi.'
+    - title: 'What does one-country-one-distributor really mean?'
+      description: 'OLagoon appoints a single authorized distributor with exclusive rights for a defined territory. We do not sell from our global or regional channels into a protected country. Your territory ownership holds for as long as the Distribution Agreement is met.'
+    - title: 'Is the territory exclusive forever?'
+      description: 'No. Exclusivity is conditional, not perpetual. It is maintained through a signed Distribution Agreement, completion of your first order, annual purchase targets, local stock, after-sales capability, and continued market investment. If these are not met, the territory can be renegotiated or reassigned.'
+    - title: 'What is the minimum first order?'
+      description: 'Country and regional distributors start at 100–300 units; authorized dealers at 30–50 units; trial orders from 10–30 units let you validate the market first (trial and sample orders carry no territory protection). Custom and private-label programs follow separate MOQs listed in the tiers above.'
+    - title: 'What support is included in the 10-module support program?'
+      description: 'Tiers and qualification, territory protection, MOQ / pricing / annual rebates, inventory and order execution, marketing assets and joint market funds, product / sales / technical training, spare parts and after-sales, warranty registration, the partner portal, and product datasheets, marketing asset library, annual rebate schedule, and shipping and packing lists.'
+    - title: 'How does OLagoon protect me from channel conflict?'
+      description: 'Each territory has exactly one authorized distributor. Inquiries and direct orders from your region are routed through you, website forms are forwarded toward the local partner where one exists, and the global team only escalates when a partner does not respond.'
+    - title: 'What are the shipping and payment terms?'
+      description: 'Orders ship FOB Qingdao with full export documentation. Production orders are 30% deposit with 70% before shipment; trial and sample orders are prepaid. Production runs take 12–16 weeks at 50–100 units, 10–14 weeks at 300–1,000 units, and 8–12 weeks above 1,000 units; sample runs ship in 15–20 working days.'
+    - title: 'How do I apply?'
+      description: 'Send your application via the contact form with market details. We review market fit, retail presence, and logistics capability, then respond within 3 business days with next steps and a sample Distribution Agreement.'
 cta:
-  title: 'Omista markkinasi.'
-  subtitle: 'Hae OLagoon-maakumppanuutta ja saat vastauksen 3 työpäivän kuluessa.'
+  title: 'Own your market.'
+  subtitle: 'Apply for the OLagoon Country Partnership and get a response within 3 business days.'
   actions:
-    - text: 'Hae maakumppanuutta'
+    - text: 'Apply for Country Partnership'
       href: /contact/?subject=Country Partnership Application
       variant: primary
-    - text: 'Lataa ohjelman esittely'
+    - text: 'Download the Program Overview'
       href: /distributor-program/
       variant: secondary
 geo:
-  tagline: 'Kenen Kanssa Teemme Yhteistyötä'
-  sentence: 'OLagoon tekee yhteistyötä vakiintuneiden meri-, ulkoilu- ja urheilualan jakelijoiden kanssa, jotka palvelevat kauppaketjuja, vuokrakalustoja, vesiurheilukouluja, lomakohteita ja julkisia ostajia premium-täytettävillä SUP-laudoilla ja vesikulkuneuvoilla — ja jotka sitoutuvat rakentamaan OLagoon-brändiä maassaan.'
+  tagline: 'Who We Partner With'
+  sentence: 'OLagoon partners with established marine, outdoor, and sports distributors who serve retail chains, rental fleets, water sports schools, resorts, and government buyers with premium inflatable pools and watercraft — and who commit to building the OLagoon brand in their country.'
   audiences:
-    - 'Meri- & melontaurheilujakelijat'
-    - 'Ulkoilu- & Urheiluvähittäiskauppa'
-    - 'Vuokraus- & Lomakohdeoperaattorit'
-    - 'Vesiurheilukoulut'
-    - 'Meriurheiluyhteisöt'
+    - 'Marine & Paddle Sports Distributors'
+    - 'Outdoor & Sports Retail'
+    - 'Rental & Resort Operators'
+    - 'Water Sports Schools'
+    - 'Ocean Sports Communities'

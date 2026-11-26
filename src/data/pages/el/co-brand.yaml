@@ -1,105 +1,105 @@
 meta:
-  title: 'Co-Brand με την OLagoon — Περιορισμένες Συλλογές SUP Co-Branded | {SITE}'
-  description: 'Η OLagoon δημιουργεί περιορισμένες συλλογές φουσκωτών SUP co-branded με αναγνωρισμένους συλλόγους, θέρετρα, εκδηλώσεις, κοινότητες και συνεργάτες χωρών. Τα προϊόντα co-branded παραμένουν προϊόντα OLagoon — σχεδιασμένα, μελετημένα μηχανικά και υποστηριζόμενα από την επωνυμία OLagoon.'
+  title: 'Co-Brand With OLagoon — Limited Co-Branded pool Collections | {SITE}'
+  description: 'OLagoon creates limited co-branded inflatable pools collections with qualified clubs, resorts, events, communities, and country partners. Co-branded products remain OLagoon products — designed, engineered, and backed by the OLagoon brand.'
   keywords:
-    - 'co-brand φουσκωτό SUP'
-    - 'συλλογή SUP co-branded'
-    - 'συνεργασία σανίδων paddle'
-    - 'SUP για συλλόγους και θέρετρα'
-    - 'συνεργασία επωνυμίας θαλάσσιων σπορ'
+    - 'co-brand inflatable pools'
+    - 'pool co-branded collection'
+    - 'inflatable pool partnership'
+    - 'pool for clubs and resorts'
+    - 'water sports brand collaboration'
     - 'OLagoon co-branding'
 hero:
-  tagline: 'Co-Brand με την OLagoon'
-  title: 'Δημιουργήστε μια<br />Συλλογή Co-Branded'
-  subtitle: 'Η OLagoon είναι μια παγκόσμια επωνυμία φουσκωτών θαλάσσιων σπορ που οικοδομεί αποκλειστικές συνεργασίες ανά χώρα και περιορισμένες συλλογές co-branded με αναγνωρισμένες επιχειρήσεις θαλάσσιων σπορ. Τα προϊόντα co-branded παραμένουν προϊόντα OLagoon — σχεδιασμένα, μελετημένα μηχανικά, ελεγμένα ποιοτικά και υποστηριζόμενα από την επωνυμία OLagoon.'
+  tagline: 'Co-Brand With OLagoon'
+  title: 'Create a<br />Co-Branded Collection'
+  subtitle: 'OLagoon is a global inflatable water-sports brand building exclusive country partnerships and limited co-branded collections with qualified water-sports businesses. Co-branded products remain OLagoon products — designed, engineered, quality-checked, and backed by the OLagoon brand.'
   actions:
-    - text: 'Ξεκινήστε Έργο Co-Brand'
+    - text: 'Start a Co-Brand Project'
       href: /contact/?subject=Co-Brand Project
       variant: primary
-    - text: 'Ζητήστε το Co-Brand Pack'
+    - text: 'Request the Co-Brand Pack'
       href: /contact/?subject=Co-Brand Pack
       variant: secondary
-    - text: 'Εξερευνήστε τη Συνεργασία Χώρας'
+    - text: 'Explore the Country Partnership'
       href: /distributor-program/
       variant: secondary
 stats:
   - value: '1'
-    label: 'Δικαίωμα χώρας / αγοράς για κάθε διανομέα'
+    label: 'Country call / market for each distributor'
   - value: '50+'
-    label: 'Χώρες που εξυπηρετούνται με συνεργάτες'
+    label: 'Countries served with partners'
   - value: '12–15'
-    label: 'Ακαμψία drop-stitch σε PSI, πρότυπο συλλογής'
+    label: 'PSI drop-stitch rigidity, collection standard'
   - value: '100%'
-    label: 'Δοκιμή πίεσης σανίδα-σανίδα πριν την αποστολή'
+    label: 'Pressure-tested board by board before shipping'
 features:
-  title: 'Τι Σημαίνει το Co-Branding στην OLagoon'
-  subtitle: 'Το co-branding είναι το πρόγραμμα σχεδιαστικής μας συνεργασίας — χτισμένο γύρω από την επωνυμία OLagoon, την προστασία περιοχών και τις περιορισμένες συλλογές, όχι την παραγωγή χωρίς επωνυμία.'
+  title: 'What Co-Branding Means at OLagoon'
+  subtitle: 'Co-branding is our design-partnership program — built around the OLagoon brand, territory protection, and limited collections, not unbranded production.'
   columns: 3
   items:
-    - title: 'Τα Προϊόντα OLagoon Παραμένουν Προϊόντα OLagoon'
-      description: 'Μια συλλογή co-branded είναι μια περιορισμένη έκδοση σανίδων OLagoon με την ταυτότητά σας υφασμένη σε αυτήν. Δεν είναι ποτέ χωρίς επωνυμία, ποτέ επωνυμία τρίτου και ποτέ ένα ανοιχτό πρόγραμμα ιδιωτικής ετικέτας.'
+    - title: 'OLagoon Products Stay OLagoon Products'
+      description: 'A co-branded collection is a limited edition of OLagoon boards with your identity woven in. It is never unbranded, never a third-party brand, and never an open private-label program.'
       icon: 'tabler:trademark'
-    - title: 'Σχεδιασμένο Μαζί Σας'
-      description: 'Τα χρώματά σας, η ονοματολογία και η ιστορία σας διαμορφώνουν τη συλλογή. Η ομάδα σχεδιασμού και μηχανικής μας αναλαμβάνει καταστρώματα, γραφικά, συσκευασία και τεκμηρίωση από τη σύνοψη έως την παράδοση.'
+    - title: 'Designed With You'
+      description: 'Your colors, naming, and story shape the collection. Our design and engineering team handles decks, graphics, packaging, and documentation from brief to delivery.'
       icon: 'tabler:pencil'
-    - title: 'Για Συλλόγους, Θέρετρα, Εκδηλώσεις & Κοινότητες'
-      description: 'Συλλογές στόλων για συλλόγους paddle και θέρετρα, εκδόσεις εκδηλώσεων για αγώνες και κοινοτικές σειρές — όλες με την ποιότητα και την εγγύηση OLagoon.'
+    - title: 'For Clubs, Resorts, Events & Communities'
+      description: 'Fleet collections for paddle clubs and resorts, event editions for races and community series — all carrying the OLagoon quality and warranty.'
       icon: 'tabler:users'
-    - title: 'Προστατεύει τους Συνεργάτες Χωρών'
-      description: 'Το co-branding λειτουργεί παράλληλα με το μοντέλο μας μία χώρα — ένας διανομέας. Οι εθνικοί συνεργάτες διατηρούν την περιοχή τους· οι συλλογές co-branded δεν ανοίγουν την πόρτα σε παράλληλες επωνυμίες στην αγορά τους.'
+    - title: 'Protects Country Partners'
+      description: 'Co-branding runs alongside our one-country-one-distributor model. National partners keep their territory; co-brand collections do not open the door to parallel brands in their market.'
       icon: 'tabler:shield-check'
-    - title: 'Μηχανική & Πρότυπα Ποιότητας'
-      description: 'Κάθε συλλογή αποστέλλεται από την πιστοποιημένη αλυσίδα εφοδιασμού μας με τεκμηρίωση CE και ISO 9001, δοκιμές πίεσης και τα ίδια σημεία ελέγχου QC με τη βασική μας σειρά.'
+    - title: 'Engineering & Quality Standards'
+      description: 'Every collection ships from our certified supply chain with CE and ISO 9001 documentation, pressure-testing, and the same QC checkpoints as our core range.'
       icon: 'tabler:certificate'
-    - title: 'Γίνεται Περιουσιακό Στοιχείο Επωνυμίας'
-      description: 'Μια περιορισμένη συλλογή co-branded χτίζει τη δική σας ιστορία στο νερό — περιθώριο πώλησης, περιεχόμενο μέσων και ένας λόγος οι paddlers να επιστρέφουν σεζόν με τη σεζόν.'
+    - title: 'Becomes a Brand Asset'
+      description: 'A limited co-branded collection builds your own story on the water — sell-through margin, media content, and a reason for swimmers to come back season after season.'
       icon: 'tabler:star'
 table:
-  title: 'Επίπεδα Συλλογών Co-Brand'
-  subtitle: 'Τυπικοί όροι συλλογών co-brand. Τιμές σε USD, FOB Qingdao. Τα προσαρμοσμένα σχέδια καταστρώματος προσθέτουν 15–20 εργάσιμες ημέρες ανάπτυξης· τα νέα καλούπια τιμολογούνται ανά έργο.'
-  caption: 'Όλα τα προϊόντα co-branded παραμένουν προϊόντα OLagoon και φέρουν την ταυτότητα της επωνυμίας OLagoon. Το εύρος του έργου, το χρονικό παράθυρο αποκλειστικότητας και οι τελικοί όροι συμφωνούνται στο Co-Brand Project Agreement.'
+  title: 'Co-Brand Collection Tiers'
+  subtitle: 'Typical co-brand collection terms. Prices in USD, FOB Qingdao. Custom deck designs add 15–20 working days for development; new molds are quoted per project.'
+  caption: 'All co-branded products remain OLagoon products and carry the OLagoon brand identity. Project scope, exclusivity window, and final terms are agreed in the Co-Brand Project Agreement.'
   head:
-    - Επίπεδο Co-Brand
-    - Ελάχιστη Παραγγελία (μονάδες)
-    - Χρόνος Παράδοσης
-    - Πληρωμή
+    - Co-Brand Tier
+    - Minimum Order (units)
+    - Lead Time
+    - Payment
   rows:
-    - [Πιλοτική Συλλογή, 30–50, 30–45 εργάσιμες ημέρες, 30% προκαταβολή / 70% πριν την αποστολή]
-    - [Τυπική Συλλογή Co-Branded, 50–100, 30–45 εργάσιμες ημέρες, 30% προκαταβολή / 70% πριν την αποστολή]
-    - [Μεγάλη / Πολυπεριφερειακή Συλλογή, 100+, 45–60 εργάσιμες ημέρες, 30% προκαταβολή / 70% πριν την αποστολή]
-    - [Νέο Καλούπι ή Βαθιά Τοπικοποίηση, 200+, 60–90 εργάσιμες ημέρες, 30% προκαταβολή / 70% πριν την αποστολή]
+    - [Pilot Collection, 30–50, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Standard Co-Branded Collection, 50–100, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Large / Multi-Region Collection, 100+, 10–14 weeks, 30% deposit / 70% before shipment]
+    - [New Mold or Deep Localization, 200+, 12–16 weeks + 15–20 days tooling, 30% deposit / 70% before shipment]
 faqs:
-  title: 'Co-Brand — Συχνές Ερωτήσεις'
-  subtitle: 'Πώς λειτουργεί το co-branding της OLagoon και πώς διαφέρει από το OEM και την ιδιωτική ετικέτα.'
+  title: 'Co-Brand — FAQ'
+  subtitle: 'How OLagoon co-branding works, and how it differs from OEM and private label.'
   items:
-    - title: 'Είναι το co-branding το ίδιο με το OEM ή την ιδιωτική ετικέτα;'
-      description: 'Όχι. Η OLagoon δεν λειτουργεί πλέον ανοιχτό πρόγραμμα OEM/ιδιωτικής ετικέτας. Τα προϊόντα co-branded παραμένουν προϊόντα OLagoon — σχεδιασμένα, μελετημένα μηχανικά, ελεγμένα ποιοτικά και υποστηριζόμενα από την επωνυμία OLagoon. Η ταυτότητά σας εμφανίζεται ως co-brand, όχι ως προϊόν τρίτου χωρίς επωνυμία.'
-    - title: 'Ποιος μπορεί να ξεκινήσει έργο co-brand;'
-      description: 'Αναγνωρισμένες επιχειρήσεις θαλάσσιων σπορ: υπάρχοντες συνεργάτες χωρών, σύλλογοι paddle, θέρετρα και ξενοδοχεία, διοργανωτές εκδηλώσεων και κοινότητες. Στείλτε μας μια σύνοψη έργου και επιβεβαιώνουμε την καταλληλότητα πριν ξεκινήσει ο σχεδιασμός.'
-    - title: 'Θα έρθει το co-branding σε σύγκρουση με τον διανομέα της χώρας μου;'
-      description: 'Όχι. Το μοντέλο μία χώρα — ένας διανομέας έχει προτεραιότητα. Οι συλλογές co-branded συντονίζονται με τον τοπικό συνεργάτη χώρας όπου υπάρχει, ώστε καμία παράλληλη ή ανταγωνιστική επωνυμία να μην εμφανίζεται μέσα σε προστατευμένη περιοχή.'
-    - title: 'Ποια είναι η ελάχιστη παραγγελία για συλλογή co-brand;'
-      description: 'Οι πιλοτικές συλλογές ξεκινούν από 30–50 μονάδες. Οι τυπικές συλλογές είναι 50–100 μονάδες· οι μεγάλες ή πολυπεριφερειακές εκδόσεις 100+ μονάδες. Τα χρονοδιαγράμματα προσαρμοσμένης ανάπτυξης συμφωνούνται ανά έργο.'
-    - title: 'Τι συνιστά ποιότητα OLagoon έναντι της συνεισφοράς του συνεργάτη;'
-      description: 'Η OLagoon κατέχει τον σχεδιασμό του προϊόντος, τη μηχανική, τα υλικά, την κατασκευή, το QC και την εγγύηση. Οι συνεργάτες συνεισφέρουν την ιδέα της συλλογής, την ονοματολογία, τα χρώματα, τα γραφικά και την είσοδο στην αγορά. Αυτό κρατά ένα πρότυπο ποιότητας στο νερό.'
-    - title: 'Πώς κάνω αίτηση;'
-      description: 'Συμπληρώστε τη φόρμα ενδιαφέροντος co-brand με την επιχείρηση, την αγορά και την ιδέα συλλογής σας. Εξετάζουμε την καταλληλότητα και απαντάμε εντός 3 εργάσιμων ημερών με πρόταση και το Co-Brand Project Agreement.'
+    - title: 'Is co-branding the same as OEM or private label?'
+      description: 'No. OLagoon no longer runs an open OEM/private-label program. Co-branded products remain OLagoon products — designed, engineered, quality-checked, and backed by the OLagoon brand. Your identity appears as a co-brand, not as an unbranded third-party product.'
+    - title: 'Who can start a co-brand project?'
+      description: 'Qualified water-sports businesses: existing country partners, paddle clubs, resorts and hotels, event organizers, and communities. Send us a project brief and we confirm applicability before design work begins.'
+    - title: 'Will co-branding conflict with my country distributor?'
+      description: 'No. The one-country-one-distributor model takes priority. Co-brand collections are coordinated with the local country partner where one exists, so no parallel or competing brand appears inside a protected territory.'
+    - title: 'What is the minimum order for a co-brand collection?'
+      description: 'Pilot collections start at 30–50 units. Standard collections are 50–100 units; large or multi-region editions are 100+ units. Custom development timelines are agreed per project.'
+    - title: 'What amounts to OLagoon quality versus partner input?'
+      description: 'OLagoon owns product design, engineering, materials, construction, QC, and warranty. Partners contribute collection concept, naming, colors, graphics input, and go-to-market. This keeps one quality standard on the water.'
+    - title: 'How do I apply?'
+      description: 'Complete the co-brand inquiry form with your business, market, and collection idea. We review fit, then respond within 3 business days with a proposal and the Co-Brand Project Agreement.'
 cta:
-  title: 'Χτίστε μια περιορισμένη συλλογή που το νερό θα θυμάται.'
-  subtitle: 'Ξεκινήστε ένα έργο co-brand με την OLagoon και μετατρέψτε τον σύλλογο, το θέρετρο ή την κοινότητά σας σε επωνυμία στο νερό — με την υποστήριξη της μηχανικής και της εγγύησης OLagoon.'
+  title: 'Build a limited collection the water will remember.'
+  subtitle: 'Start a co-brand project with OLagoon and turn your club, resort, or community into a brand on the water — backed by OLagoon engineering and warranty.'
   actions:
-    - text: 'Ξεκινήστε Έργο Co-Brand'
+    - text: 'Start a Co-Brand Project'
       href: /contact/?subject=Co-Brand Project
       variant: primary
-    - text: 'Εξερευνήστε τη Συνεργασία Χώρας'
+    - text: 'Explore Country Partnership'
       href: /distributor-program/
       variant: secondary
 geo:
-  tagline: 'Με Ποιον Κάνουμε Co-Brand'
-  sentence: 'Η OLagoon κάνει co-brand με καθιερωμένες επιχειρήσεις θαλάσσιων σπορ — συνεργάτες χωρών, συλλόγους paddle, θέρετρα και ξενοδοχεία, διοργανωτές εκδηλώσεων και κοινότητες paddling — που θέλουν μια ξεχωριστή, περιορισμένη συλλογή χτισμένη πάνω σε μια αξιόπιστη παγκόσμια επωνυμία.'
+  tagline: 'Who We Co-Brand With'
+  sentence: 'OLagoon co-brands with established water-sports businesses — country partners, paddle clubs, resorts and hotels, event organizers, and swimming communities — that want a distinctive, limited collection built on a reliable global brand.'
   audiences:
-    - 'Διανομείς Χωρών'
-    - 'Σύλλογοι Paddle & Θαλάσσιων Σπορ'
-    - 'Θέρετρα & Ξενοδοχεία'
-    - 'Διοργανωτές Αγώνων & Εκδηλώσεων'
-    - 'Κοινότητες Paddling'
+    - 'Country Distributors'
+    - 'Paddle & Water Sports Clubs'
+    - 'Resorts & Hotels'
+    - 'Race & Event Organizers'
+    - 'swimming Communities'

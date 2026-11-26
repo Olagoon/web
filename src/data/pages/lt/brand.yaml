@@ -1,39 +1,39 @@
 meta:
-  title: 'Prekės ženklas olagoon — jūrinė inžinerija ir partnerystė | {SITE}'
-  description: 'olagoon: pripučiamų jūrinių produktų prekės ženklas, bendradarbiaujantis su vandens sporto prekės ženklais, platintojais, jūriniais klubais ir įmonėmis per bendrų kolekcijų, privačiojo ženklinimo ir šalių platinimo programas.'
+  title: 'The olagoon Brand — Marine Engineering & Partnership | {SITE}'
+  description: 'olagoon: an inflatable marine brand partnering with water sports brands, distributors, nautical clubs, and enterprises through co-branded collections, private label, and country distribution programs.'
   keywords:
-    - 'olagoon prekės ženklas'
-    - 'pripučiamų SUP prekės ženklas'
-    - 'kinijos sup gamintojas'
+    - 'olagoon brand'
+    - 'inflatable pools brand'
+    - 'china pool manufacturer'
 hero:
-  tagline: 'Prekės ženklas'
+  tagline: Brand
   title: '{BRAND}'
-  subtitle: 'Vandenyno našumas kiekvienam banglentininkui'
-  cta: 'Naršyti įrangą →'
+  subtitle: Ocean Performance for Every Surfer
+  cta: Explore Gear →
   cta_link: /products/
-  secondary_cta: 'Išmokite banglentininkauti'
+  secondary_cta: Explore Pools
   secondary_cta_link: /guides/
 
 position:
-  tagline: 'Pozicionavimas'
-  subtitle: 'Vandenyno našumas kiekvienam banglentininkui'
+  tagline: Position
+  subtitle: Ocean Performance for Every Surfer
 
 products_section:
-  tagline: 'Produktai'
-  cta: 'Visi produktai →'
+  tagline: Products
+  cta: All Products →
   cta_link: /products/
 
 global_section:
-  tagline: 'Pasaulinis'
-  title: 'Prieinama {count} regionuose'
+  tagline: Global
+  title: Available in {count} Regions
 
 social_section:
-  tagline: 'Socialinis'
-  title: 'Ką skaito banglentininkai'
-  read_guide: 'Skaityti vadovą →'
+  tagline: Social
+  title: What surfers are reading
+  read_guide: Read guide →
 
 cta_section:
-  title: 'Pradėkite savo vandenyno kelionę'
-  subtitle: 'Kiekvienas produktas su CE sertifikatu. Padengtas garantija. Sukurtas tikram bangavimui.'
+  title: Start your ocean journey
+  subtitle: Every product CE certified. Backed by warranty. Engineered for real backyards.
   cta_suffix: '→'
-  secondary_cta: 'Apie {BRAND}'
+  secondary_cta: About {BRAND}

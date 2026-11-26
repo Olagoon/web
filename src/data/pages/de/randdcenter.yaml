@@ -1,127 +1,130 @@
 meta:
-  title: F&E-Zentrum | {SITE}
-  description: Forschung & Entwicklung — PVC-Gewebeprüfung, Rumpfkonstruktion, RF-Schweißen, hydrodynamische Tests und Qualitätskontrolle. Maßgeschneiderte F&E-Dienstleistungen verfügbar.
+  title: 'R&D Center | {SITE}'
+  description: 'Research & Development — PVC fabric testing, hull engineering, RF welding, hydrodynamic testing, and quality control. Custom R&D services available.'
+
 hero:
-  tagline: Forschungs- und Entwicklungszentrum
-  title: F&E-Zentrum
-  subtitle: Auf Fortschritt fokussiert
+  tagline: R&D Center
+  title: R & D Center
+  subtitle: Focused on Progress
+
 intro:
-  - >-
-    Das Forschungs- und Entwicklungszentrum (F&E) von OLagoon ist die treibende Kraft hinter unserer Mission, Wassersportgeräte zu revolutionieren. Wir befähigen Wassersportbegeisterte weltweit mit sichereren, komfortableren und angenehmeren Produkten durch unermüdliche Innovationen bei aufblasbaren
-    Stand-Up-Paddle-Boards (SUPs). Unser engagiertes Team aus Ingenieuren, Designern und leidenschaftlichen Wassersportexperten gestaltet die Zukunft der Branche und hebt kontinuierlich den Standard für Qualität, Leistung und Nachhaltigkeit an.
-  - >-
-    Unsere F&E-Einrichtung bringt Materialwissenschaftler, Meerestechnik-Ingenieure und Produktionstechniker unter einem Dach zusammen. Von der Gewebeformulierung und Rumpfsimulation bis hin zur Entwicklung von Schweißverfahren und großangelegten Seetests wird jede Phase der
-    Produktentwicklung von Daten gesteuert und durch Tests validiert.
+  - olagoon's Research and Development (R&D) Center is the driving force behind our mission to revolutionize water sports equipment. We empower water sports enthusiasts globally with safer, more comfortable, and more enjoyable products through relentless innovation in inflatable drop-stitch pool (pools). Our dedicated team of engineers, designers, and passionate water sports experts are shaping the future of the industry, consistently raising the bar for quality, performance, and sustainability.
+  - Our R&D facility brings together material scientists, marine engineers, and production engineers under one roof. From fabric formulation and hull simulation to welding process development and full-scale sea trials, every stage of product development is driven by data and validated by testing.
+
 mission:
-  tagline: Unsere Mission
-  title: Die Zukunft des Wassersports innovativ gestalten
+  tagline: Our Mission
+  title: Innovating the Future of Water Sports
   pillars:
     - icon: lightning
-      title: Technologischer Fortschritt
-      desc: Pionierarbeit bei neuen Materialien, Designs und Fertigung für überlegene Produktleistung und Langlebigkeit.
+      title: Technological Advancement
+      desc: Pioneering new materials, designs, and manufacturing for superior product performance and longevity.
     - icon: design
-      title: Benutzerzentriertes Design
-      desc: Tiefes Verständnis der Nutzerbedürfnisse und deren Übererfüllung durch ergonomisches und intuitives Produktdesign.
+      title: User-Centric Design
+      desc: Deeply understanding and exceeding user needs through ergonomic and intuitive product design.
     - icon: globe
-      title: Nachhaltige Praktiken
-      desc: Minimierung unseres ökologischen Fußabdrucks durch den Einsatz umweltfreundlicher Materialien und Prozesse.
+      title: Sustainable Practices
+      desc: Minimizing our environmental footprint by utilizing eco-friendly materials and processes.
     - icon: shield
-      title: Unnachgiebige Sicherheit
-      desc: Sicherstellung der höchsten Sicherheitsstandards durch gründliche Tests und Zertifizierung.
+      title: Uncompromising Safety
+      desc: Ensuring the highest safety standards through rigorous testing and certification.
+
 pillars:
-  - title: Technologischer Fortschritt
-    desc: Pionierarbeit bei neuen Materialien, Designs und Herstellungsverfahren, um überlegene Produktleistung und Langlebigkeit zu gewährleisten.
+  - title: Technological Advancement
+    desc: Pioneering new materials, designs, and manufacturing processes to deliver superior product performance and longevity.
     icon: tech
-  - title: Fortgeschrittene Materialien
-    desc: Untersuchung modernster PVC-, Verbundwerkstoffe und nachhaltiger Alternativen zur Verbesserung der Produkteigenschaften.
+  - title: Advanced Materials
+    desc: Investigating cutting-edge PVC, composites, and sustainable alternatives for enhanced product characteristics.
     icon: materials
-  - title: Nachhaltigkeit
-    desc: 'Eine grundlegende Verpflichtung: Wir engagieren uns für den Umweltschutz durch nachhaltige Herstellung und recycelbare Materialien.'
+  - title: Sustainability
+    desc: 'A Core Commitment: We are dedicated to environmental stewardship through sustainable manufacturing and recyclable materials.'
     icon: sustainability
+
 capabilities:
-  tagline: Fähigkeiten
-  title: F&E-Fähigkeiten
-  subtitle: Vier Kerndisziplinen, die uns eine durchgehende Kontrolle über die Produktentwicklung geben – von der Rohstoffforschung bis zur endgültigen Zertifizierung.
+  tagline: Capabilities
+  title: R&D Capabilities
+  subtitle: Four core disciplines that give us end-to-end control over product development — from raw material research to final certification.
   groups:
-    - title: Materialwissenschaft & Gewebetechnologie
+    - title: Material Science & Fabric Technology
       items:
-        - Analyse und Optimierung von PVC-Formulierungen
-        - UV-Stabilisierung, Flammschutz und Entwicklung antimikrobieller Zusatzstoffe
-        - Mehrschichtige Stofflaminierung und Klebtechnik
-        - Beschleunigte Alterungstests (UV, thermisch, Feuchtigkeit, Salzsprühnebel)
-    - title: Rumpfkonstruktion & Hydrodynamik
+        - PVC formulation analysis and optimisation
+        - UV stabilisation, flame retardancy, and anti-microbial additive development
+        - Multi-layer fabric lamination and adhesion engineering
+        - Accelerated ageing testing (UV, thermal, humidity, salt spray)
+    - title: Hull Engineering & Hydrodynamics
       items:
-        - Parametrisches 3D-Rumpfdesign und CFD-Optimierung
-        - Finiten-Elemente-Analyse für strukturelle und Stoßlasten
-        - Modellschleppbeckenprüfung und Leistungsvalidierung
-        - Maßgeschneiderte Rumpfentwicklung für spezielle Einsatzprofile
-    - title: Schweiß- und Verbindungstechnik
+        - Parametric 3D hull design and CFD optimisation
+        - Finite element analysis for structural and impact loads
+        - Scale-model towing tank testing and performance validation
+        - Custom hull development for special mission profiles
+    - title: Welding & Joining Technology
       items:
-        - Entwicklung und Optimierung des RF-Dielektrikschweißprozesses
-        - Heißluft-, Heißkeil- und Ultraschallschweißverfahren
-        - Kleben und Nahtbandqualifizierung
-        - Schweißnahtfestigkeitsmodellierung und Lebensdauerprognose
-    - title: Prüfung, Zertifizierung & Konformität
+        - RF dielectric welding process development and optimisation
+        - Hot-air, hot-wedge, and ultrasonic welding methods
+        - Adhesive bonding and seam tape qualification
+        - Weld strength modelling and lifetime prediction
+    - title: Testing, Certification & Compliance
       items:
-        - Qualitätsmanagement und CE-Konformitätstests
-        - Unterstützung durch unabhängige Tests und Zertifizierungen durch Dritte
-        - Entwicklung eines kundenspezifischen Testprotokolls für die Beschaffungsqualifikation
-        - Fehleranalyse im Einsatz und Ursachenuntersuchung
+        - Quality management and CE compliance testing
+        - Independent third-party testing and certification support
+        - Custom test protocol development for procurement qualification
+        - In-service failure analysis and root-cause investigation
+
 rd_numbers:
   tagline: Innovation
-  title: F&E nach Zahlen
+  title: R&D by the Numbers
   stats:
     - value: '14'
-      label: F&E-Ingenieure und Wissenschaftler
+      label: R&D engineers & scientists
     - value: '8'
-      label: Aktive Patente & Anmeldungen
+      label: Active patents & filings
     - value: '6'
-      label: Spezialisierte Labore
-    - value: 12 J
-      label: Durchschnittliche Teamerfahrung
+      label: Specialised labs
+    - value: 12 yr
+      label: Average team experience
+
 rd_services:
-  tagline: Maßgeschneiderte F&E
-  title: F&E-Dienstleistungen für Partner
+  tagline: Custom R&D
+  title: R&D Services for Partners
   services:
-    - title: Entwicklung von kundenspezifischem Material
-      desc: Wir entwickeln kundenspezifische Stoffformulierungen, Laminatstapel und Klebesysteme, die auf Ihre Betriebsumgebung und Leistungsziele zugeschnitten sind.
-    - title: OEM / ODM Produktentwicklung
-      desc: Wir entwickeln kundenspezifische Stoffformulierungen, Laminatstapel und Klebesysteme, die auf Ihre Betriebsumgebung und Leistungsziele zugeschnitten sind.
-    - title: Drittanbieter-Prüfung und Zertifizierung
-      desc: Nutzen Sie unsere ISO-konformen Testeinrichtungen für unabhängige Materialprüfungen, Produktvalidierung und Unterstützung bei Zertifizierungen.
-  cta: Besprechen Sie Ihre F&E-Anforderungen →
+    - title: Custom Material Development
+      desc: We develop custom fabric formulations, laminate stacks, and adhesive systems tailored to your operating environment and performance targets.
+    - title: OEM / ODM Product Engineering
+      desc: We develop custom fabric formulations, laminate stacks, and adhesive systems tailored to your operating environment and performance targets.
+    - title: Third-Party Testing & Certification
+      desc: Use our ISO-compliant test facilities for independent material testing, product validation, and certification support.
+  cta: Discuss your R&D requirements →
   cta_link: /contact/
+
 vision:
-  tagline: Unsere Vision
-  title: Die Zukunft des Wassersports gestalten
-  body: >-
-    olagoon strebt danach, die Branche für aufblasbare SUPs durch kontinuierliche Innovation, unerschütterliche Qualität und ein festes Engagement für Sicherheit und Nachhaltigkeit zu führen — letztendlich bereichert er die Erfahrungen von Wassersportbegeisterten weltweit. Das olagoon
-    F&E-Zentrum ist der Ort, an dem Leidenschaft auf Innovation trifft und neue Maßstäbe für die Wassersportbranche setzt.
+  tagline: Our Vision
+  title: Shaping the Future of Water Sports
+  body: OLagoon strives to lead the inflatable pool industry through continuous innovation, unwavering quality, and a steadfast commitment to safety and sustainability — ultimately enriching backyard summers for families worldwide. The olagoon R&D Center is where passion meets innovation, setting new standards for the water sports industry.
+
 labs_section:
-  tagline: Labore
-  title: Unsere Labore
+  tagline: Labs
+  title: Our Laboratories
   labs:
     - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
-      title: PVC-Gewebe-Labor
-      description: Kontinuierliche Forschung und Testung von PVC-Deck-Geweben auf Zugfestigkeit, UV-Beständigkeit, Abrieb und Flexibilität bei niedrigen Temperaturen, um langfristige Zuverlässigkeit in marinen Umgebungen sicherzustellen.
+      title: PVC Fabric Lab
+      description: Continuous research and testing of PVC deck fabrics for tensile strength, UV resistance, abrasion, and low-temperature flexibility to ensure long-term reliability in marine environments.
       href: /randdcenter/pvc-fabric-lab/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-      title: Hull Ingenieurstudio
-      description: CAD-gesteuertes Design und Finite-Elemente-Analyse von Rümpfen aus HDPE, Aluminium und Fiberglas. Jeder Rumpf wird digital auf Spannungsverteilung und Aufprallresistenz simuliert, bevor der erste Prototyp gebaut wird.
+      title: Hull Engineering Studio
+      description: CAD-driven design and finite element analysis of HDPE, aluminum, and fiberglass hulls. Every hull is digitally simulated for stress distribution and impact resistance before the first prototype is built.
       href: /technology/
-    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
-      title: RF-Schweißzentrum
-      description: Speziell eingerichtete Hochfrequenz-Schweißanlage mit präziser Temperatur- und Druckregelung, die hochfeste, luftdichte Nähte produziert, die den Standards der Meeresindustrie für aufblasbare Geräte entsprechen.
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+      title: RF Welding Center
+      description: Dedicated radio-frequency welding facility with precision temperature and pressure control, producing high-strength, airtight seams that meet marine industry standards for inflatable craft.
       href: /randdcenter/rf-welding/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
-      title: Hydrodynamischer Testtank
-      description: Modellversuche in unserem hauseigenen Testtank zur Optimierung der Rumpfform, des Gleitverhaltens, der Stabilität und der Kraftstoffeffizienz unter verschiedenen Lade- und Seebedingungen.
+      title: Hydrodynamic Test Tank
+      description: Scale-model testing in our in-house test tank to optimize hull form, planing performance, stability, and fuel efficiency across a range of load and sea conditions.
       href: /technology/
-    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      title: Prototyp-Werkstatt
-      description: Vollständig ausgestattete Prototypen- und Rigg-Einrichtung, in der neue Modelle gebaut, eingerichtet und zur Seetüchtigkeitsprüfung erprobt werden. Jeder Prototyp durchläuft ein mindestens 20-stündiges Wasser-Testprogramm, bevor die Produktionsfreigabe erfolgt.
+    - image: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+      title: Prototype Workshop
+      description: Full-scale prototyping and rigging facility where new models are built, fitted, and sea-trialed. Every prototype undergoes a minimum 20-hour in-water test programme before production approval.
       href: /randdcenter/prototype-workshop/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
-      title: Qualitäts- und Prüflabor
-      description: Dediziertes Qualitätssicherungslabor, das Zugprüfungen, Luftdichtigkeitszyklustests, Nahtlösetests und Materialzertifizierungen durchführt, um sicherzustellen, dass jedes Board, das die Werkstatt verlässt, unseren veröffentlichten Spezifikationen entspricht.
+      title: Quality & Inspection Lab
+      description: Dedicated quality assurance lab performing tensile testing, air-retention cycling, seam peel tests, and material certification to ensure every pool leaving the workshop meets our published specifications.
       href: /randdcenter/quality-inspection-lab/

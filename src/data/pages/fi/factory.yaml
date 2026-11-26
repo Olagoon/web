@@ -1,267 +1,274 @@
 meta:
-  title: 'Tehdas ja valmistus — täytettävä SUP-OEM | {SITE}'
-  description: 'Tutustu olagoonin tehtaaseen: 12 000 m² laitos, jossa on leikkaus, HF-hitsaus, painatus, kokoonpano ja laatulaboratorio täytettävien SUP-lautojen OEM/ODM-valmistukseen.'
+  title: 'Factory & Manufacturing — inflatable pools OEM | {SITE}'
+  description: 'Tour the olagoon factory: 12,000 m² plant with cutting, RF welding, printing, assembly, and quality lab for inflatable pools OEM/ODM manufacturing.'
   keywords:
-    - 'SUP-tehdas Kiina'
-    - 'täytettävien paddle board -lautojen tehdas'
-    - 'OEM-SUP-valmistaja'
-    - 'täytettävien SUP-lautojen valmistus'
+    - 'pool factory china'
+    - 'inflatable pool factory'
+    - 'oem pool manufacturer'
+    - 'inflatable pools manufacturing'
 hero:
-  tagline: Tehdas
-  title: Tehdas ja tuotanto
-  subtitle: 12 000 m² integroitua tuotantoa — raaka-aineesta valmiiseen lautaan
+  tagline: Factory
+  title: Factory & Manufacturing
+  subtitle: 12,000 m² of integrated manufacturing — from raw material to finished pool
+
 intro:
-  - >-
-    Qingdao Vatrad Group Co., Ltd.:n tehdasbrändinä olagoon hallitsee jokaista tuotannon vaihetta — raaka-PVC:n ja lasikuitumateriaalien saapumisesta valmiin laudan lopulliseen esitarkastukseen. Tuotantolaitoksemme Qingdaon talouskehitysalueella kattaa 12 000 neliömetriä ja sisältää erilliset työpajat
-    PVC-leikkaukselle, putkien kuumasaumaukselle, FRP-muottien valmistukselle, SUP-digitaalipainatukselle, loppukokoonpanolle ja laaduntestaukselle.
-  - >-
-    Yhdistämällä suunnittelun, insinöörityön, prototyyppauksen, valmistuksen ja testauksen saman katon alle eliminoimme sopimusvalmistuksen tehottomuudet ja säilytämme suoran hallinnan rakennuslaadussa, materiaalivalinnassa ja toimitusaikatauluissa. Jokainen työpajaltamme lähtevä lauta on rakennettu
-    meidän ihmistemme toimesta, meidän laitteillamme, meidän standardeillamme.
+  - As the production arm of **Olagoon LLC**, olagoon's Qingdao Operation Team controls every stage of production — from the arrival of raw PVC and fiberglass materials to the final pre-delivery inspection of the finished pool. Our manufacturing facility in the Qingdao Economic Development Zone spans 12,000 square metres and houses dedicated workshops for PVC cutting, tube heat sealing, FRP mould fabrication, pool digital printing, final assembly, and quality testing.
+  - By integrating design, engineering, prototyping, manufacturing, and testing under one roof, we eliminate the inefficiencies of contract manufacturing and maintain direct control over build quality, material selection, and delivery timelines. Every pool that leaves our workshop is built by our people, on our equipment, to our standards.
+
 stats:
-  - value: 12 000 m²
-    label: Tuotantopinta-ala
+  - value: 12,000 m²
+    label: Manufacturing floor
   - value: 200+
-    label: Ammattitaitoiset työntekijät
-  - value: 15 000+
-    label: SUP-lautoja valmistetaan vuosittain
+    label: Skilled workers
+  - value: 15,000+
+    label: pools produced annually
   - value: ISO 9001
-    label: Laatusertifioitu
-intelligence_tagline: Tehtaan älykkyys
-intelligence_title: Tutustu valmistuskykyihimme
+    label: Quality certified
+
+intelligence_tagline: Factory Intelligence
+intelligence_title: Explore Our Manufacturing Capabilities
+
 intelligence_cards:
-  - title: Tuotantokapasiteetti
+  - title: Production Capacity
     icon: C
     icon_bg: blue
-    desc: 12 000 m² tuotantolaitos, joka valmistaa yli 15 000 SUP-lautaa vuodessa SUP-lauta- ja turvallisuusvarustelinjoilla. Yli 200 työntekijää, 2 vuoroa.
+    desc: '12,000 m² facility producing 15,000+ pools/yr across pools and safety equipment lines. 200+ workers, 2 shifts.'
     metrics:
       - label: MOQ
-        value: 'SUP: 5–10'
-      - label: Toimitusaika
-        value: 30–45 päivää
+        value: 'Samples 5–10 · Bulk 50+'
+      - label: Lead Time
+        value: '12–16 weeks (bulk)'
     link: /factory/capacity/
-    link_label: Täydelliset kapasiteettitiedot →
-  - title: Laatulaboratorio ja testaus
+    link_label: Full capacity details →
+  - title: Quality Lab & Testing
     icon: Q
     icon_bg: green
-    desc: 'Riippumaton laadunvalvontalaboratorio 4 testausvaiheella: raaka-aineiden tarkastus (vetolujuus, repäisylujuus, UV), 24–48 tunnin painetesti 1.25-kertaisella nimellispaineella, sauman repäisytestaus sekä kuorma- ja tasapainotarkastus jokaiselle laudalle.'
+    desc: 'Independent QC lab with 4 testing stages: raw material inspection (tensile, tear, UV), 24–48h pressure hold at 1.25x rated pressure on every pool, load/balance verification, and seam peel strength testing by batch sampling every 50 units (ASTM D751).'
     metrics:
-      - label: Laboratoriolaitteet
-        value: Vetolujuustestilaite, lämpökaappi, vuotosäiliö
-      - label: Standardit
-        value: ISO 9001, CE, AS 1799
+      - label: Lab Equipment
+        value: 'Tensile tester, temp chamber, leak tank'
+      - label: Standards
+        value: 'ISO 9001, CE, AS 1799'
     link: /factory/quality-lab/
-    link_label: Laboratoriomenettelyt ja -varusteet →
-  - title: OEM/ODM-kyvykkyydet
+    link_label: 'Lab procedures & equipment →'
+  - title: OEM/ODM Capability
     icon: O
     icon_bg: purple
-    desc: 'Kattavat OEM/ODM-palvelut: räätälöity muottisuunnittelu, oman tuotemerkin pakkaukset, räätälöidyt laudan värit, kansigrafiikat (digitaali- ja silkkipainatus) sekä suoratoimituslogistiikka.'
+    desc: 'End-to-end OEM/ODM services: custom mould design, private-label packaging, custom pool colors, deck graphics (digital & screen printing), and drop-ship logistics.'
     metrics:
-      - label: Sertifikaatit
-        value: ISO 9001, BSCI, CE, REACH
-      - label: Toimitus
-        value: FOB, CIF, DDP yli 50 maahan
+      - label: Certifications
+        value: 'ISO 9001, BSCI, CE, REACH'
+      - label: Shipping
+        value: 'FOB, CIF, DDP to 50+ countries'
     link: /factory/oem-capability/
-    link_label: Täydet OEM-palvelut →
+    link_label: 'Full OEM services →'
+
 workshops_section:
-  tagline: Työpajat
-  title: Tuotantotyöpajat
+  tagline: Workshops
+  title: Manufacturing Workshops
   workshops:
-    - title: PVC-leikkaus ja materiaalin valmistelu
-      description: Automaattiset CNC-leikkauskoneet käsittelevät PVC- ja drop-stitch-kankaita alle millimetrin tarkkuudella. Tietokoneoptimoitu sijoittelu minimoi materiaalihukkaa ja varmistaa, että jokainen paneeli täyttää mittamäärittelynsä ennen hitsausta.
+    - title: PVC Cutting & Material Preparation
+      description: Automatic CNC cutting machines process PVC and drop-stitch fabrics with sub-millimetre precision. Computer-optimised nesting minimises material waste and ensures every panel meets its dimensional specification before welding.
       image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
-    - title: Putkien hitsaus ja kuumasaumaus
-      description: Erillinen hitsaustyöpaja kuumasaumauskoneilla ja RF-dielektrisillä puristimilla. Kuumailmatiivistimet liimaavat ja sulattavat PVC-putkikammioita, kun taas RF-hitsaus tuottaa lujia, ilmatiiviitä saumoja, jotka ylittävät EN ISO 25649 -vaatimukset.
+    - title: Tube Welding & Heat Sealing
+      description: Dedicated welding workshop with heat sealing machines and RF dielectric presses. Hot-air heat sealers bond and fuse PVC tube chambers, while RF welds produce high-strength airtight seams that exceed EN ISO 25649 requirements.
       image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    - title: FRP-muotit ja komposiittivalmistus
-      description: Räätälöidyt FRP-muotit SUP-komponentteihin valmistetaan käsilaminoidulla lasikuidulla polyesteri- ja vinyyliesterihartsijärjestelmillä. Jokainen kerros käsitellään käsin ja tyhjiöpussitetaan tasaisen laadun varmistamiseksi. Gelcoat-ruiskutuskoppi tuottaa korkeakiiltoisen, UV-kestävän meripinnan.
-      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-warehouse-storage.webp
-    - title: SUP-painatus ja koristelu
-      description: SUP-laudat koristellaan digitaalipainatuksella täysvärigrafiikoille ja silkkipainatuksella logoille ja toistuville kuvioille. Digitaalitulostimet tuottavat valokuvanlaatuisia kansikuvioita, kun taas silkkipainatus tuottaa kestäviä, kirkkaita brändimerkkejä.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    - title: Loppukokoonpano ja varustelu
-      description: Kokoonpanolinja, jossa venttiilit, D-renkaat, kahvat, evätelineet ja kansipehmusteet asennetaan jokaiseen SUP-lautaan. Jokainen lauta noudattaa 100-pisteistä kokoonpanotarkistuslistaa, jonka tiiminvetäjä allekirjoittaa.
+    - title: FRP Moulds & Composite Fabrication
+      description: Custom FRP moulds for pool components, produced using hand-lay-up fiberglass moulding with polyester and vinylester resin systems. Each layer is hand-rolled and vacuum-bagged for consistent quality. Gelcoat spray booth provides a high-gloss, UV-resistant marine finish.
+      image: https://assets.olagoon.com/images/olagoon/products/family-oasis.webp
+    - title: pool Printing & Decoration
+      description: pools are decorated using digital printing for full-colour graphics and screen printing for logos and repeating patterns. Digital printers produce photo-quality deck designs, while screen printing delivers durable, vivid brand marks.
+      image: https://assets.olagoon.com/images/olagoon/products/family-oasis.webp
+    - title: Final Assembly & Rigging
+      description: Assembly line where drop-stitch cores are finished with rails, wall surfaces are applied, and valves, fittings, and accessories are installed. Each pool follows a 100-point assembly checklist signed off by the team lead.
       image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
-    - title: Laaduntestaus ja tarkastus
-      description: Jokainen valmis lauta käy läpi pakollisen ilmanpysyvyystestauksen, sauman vetolujuuden varmistuksen ja täydellisen järjestelmätarkastuksen ennen lähetystä. Laatulaboratoriomme toimii riippumattomana tuotannosta ja raportoi suoraan johdolle.
+    - title: Quality Testing & Inspection
+      description: Every completed pool undergoes mandatory air-retention testing and a full systems check before shipping, with seam peel strength verified by batch sampling every 50 units. Our quality lab operates independently from production and reports directly to management.
       image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
+
 equipment_section:
-  tagline: Laitteet
-  title: Keskeiset tuotantolaitteet
-  view_full: Katso täydellinen laiteluettelo →
+  tagline: Equipment
+  title: Key Manufacturing Equipment
+  view_full: View full equipment list →
   view_full_link: /factory/equipment/
   items:
-    - name: Automaattinen PVC-leikkauskone
-      spec: CNC-ohjattu, 0,1 mm tarkkuus
-    - name: Kuumasaumauskone
-      spec: Kuumailma, 200–300 °C, putkien liittämiseen
-    - name: RF-dielektrinen hitsauspuristin
-      spec: 15 kW, ilmatiivis saumahitsaus
-    - name: Lasikuituiset käsilaminointimuotit
-      spec: SUP-lautamuotit enintään 14 jalkaa
-    - name: Digitaalitulostin
-      spec: Täysväriset SUP-kansigrafiikat
-    - name: Silkkipainokone
-      spec: Monivärinen logojen painatus
+    - name: Automatic PVC Cutting Machine
+      spec: CNC-controlled, 0.1 mm accuracy
+    - name: Heat Sealing Machine
+      spec: Hot-air, 200–300 °C, for tube bonding
+    - name: RF Dielectric Welding Press
+      spec: 15 kW, airtight seam welding
+    - name: Fiberglass Hand-Lay-Up Moulds
+      spec: pools moulds up to 14 ft
+    - name: Digital Printer
+      spec: Full-colour pool deck graphics
+    - name: Screen Printing Machine
+      spec: Multi-colour logo printing
+
 qc_section:
-  tagline: Laadunvalvonta
-  title: Testaus- ja laadunvarmistusprosessi
-  subtitle: Jokainen lauta käy läpi pakollisen testauksen ennen lähetystä. Laatulaboratoriomme toimii riippumattomana tuotannosta ja raportoi suoraan johdolle.
+  tagline: Quality Control
+  title: Testing & Quality Assurance Process
+  subtitle: Every pool undergoes mandatory testing before shipping. Our quality lab operates independently from production and reports directly to management.
   steps:
     - step: '1'
-      title: Raaka-aineen tarkastus
-      desc: PVC- ja drop-stitch-kankaat käyvät läpi vetolujuustestauksen (ASTM D751), repeämän leviämisen ja UV-kestävyyden varmistuksen ennen kuin mikään erä menee tuotantoon.
+      title: Raw Material Inspection
+      desc: PVC and drop-stitch fabrics undergo tensile testing (ASTM D751), tear propagation, and UV resistance verification before any batch enters production.
     - step: '2'
-      title: 24–48 tunnin ilmanpysyvyystesti
-      desc: Jokainen putkikammio täytetään 125 %:iin nimellispaineesta ja pidetään 24–48 tuntia. Yli 5 %:n paineen lasku aiheuttaa automaattisen hylkäyksen ja sauman uudelleentarkastuksen.
+      title: 24–48 Hour Air Retention Test
+      desc: Every tube chamber is inflated to 125% of rated pressure and held for 24–48 hours. Pressure drop exceeding 5% triggers automatic rejection and seam re-inspection.
     - step: '3'
-      title: Kuorma- ja tasapainotestaus
-      desc: Valmiit laudat kuormitetaan enimmäiskantavuuteen ja testetaan vakauden ja jäykkyyden osalta. Jokainen lauta vesitestataan ennen lopullista tarkastusta.
+      title: Load & Balance Testing
+      desc: Completed pools are loaded to maximum rated capacity and tested for stability and rigidity. Each pool is water-tested before final inspection.
+
 oem_section:
-  tagline: OEM-projektit
-  title: Brändi- ja OEM-kumppanuustapaustutkimukset
-  subtitle: Konseptista konttiin — kuinka autamme maailmanlaajuisia brändejä lanseeraamaan ja skaalaamaan täytettävien SUP-lautojen tuotelinjojaan.
+  tagline: OEM Projects
+  title: Brand & OEM Partnership Case Studies
+  subtitle: From concept to container — how we help global brands launch and scale their inflatable pools lines.
   cases:
-    - challenge: Eurooppalainen ulkoilukauppias tarvitsi oman etiketin SUP-tuotelinjan ainutlaatuisella kansigrafiikalla, ympäristöystävällisellä PVC:llä ja vähittäismyyntivalmiilla pakkauksella — kaikki toimitettuna 60 päivässä.
-      solution: Kehitimme räätälöidyt digitaalitulostustiedostot, hankimme REACH-yhteensopivan PVC:n ja tiivistimme näytteenoton 3 kierroksesta 1:een sijoittamalla suunnittelutiimin Qingdaon tehtaallemme.
-      result: 55 päivää allekirjoitetusta ostotilauksesta FOB:hen. 2 400 yksikköä 4 tuotekoodilla. Uusintatilaus tehtiin ennen ensimmäisen kontin saapumista.
-    - challenge: Yhdysvaltalainen vesiliikuntastartup tarvitsi suorituskykyisen drop-stitch-SUP:n räätälöidyllä rungon muodolla, yhteisbrändätyllä pakkauksella ja BSCI-sertifioinnilla vähittäismyyntiä varten.
-      solution: Mukautimme olemassa olevaa drop-stitch-SUP-muottia modifioidulla keulanprofiililla, kehitimme yhteisbrändätyn pakkausgrafiikan ja toimitimme täydellisen BSCI-auditointidokumentaation.
-      result: Listattu onnistuneesti 3 suuressa yhdysvaltalaisessa ulkoiluketjussa. Yli 5 000 yksikköä ensimmäisenä vuonna 98 %:n myyntiläpikäisyasteella.
-    - challenge: Australialainen jakelija tarvitsi CE-sertifioidun SUP-malliston räätälöidyillä väreillä ja Australian standardien vaatimustenmukaisuudella.
-      solution: Tuotimme esituotantonäytteet 4 värivaihtoehdolla ja koordinoimme kolmannen osapuolen vaatimustenmukaisuustestauksen.
-      result: 3-mallin SUP-mallisto lanseerattiin AU/NZ-markkinoilla. Seurasi valtion tarjousvoitto 12 partio-SUP-laudasta.
+    - challenge: European outdoor retailer needed a private-label pool line with unique deck graphics, eco-friendly PVC, and retail-ready packaging — all delivered in 60 days.
+      solution: Developed custom digital print files, sourced REACH-compliant PVC, and compressed sampling from 3 rounds to 1 by co-locating the design team at our Qingdao factory.
+      result: 55 days from signed PO to FOB. 2,400 units across 4 SKUs. Repeat order placed before first container arrived.
+    - challenge: US watersports startup needed a high-performance drop-stitch pool with custom shape, co-branded packaging, and BSCI certification for retail placement.
+      solution: Adapted existing pool mould with modified outline, developed co-branded packaging artwork, and provided full BSCI audit documentation.
+      result: Successfully listed in 3 major US outdoor chains. 5,000+ units in first year with 98% sell-through rate.
+    - challenge: Australian distributor required a CE-certified pool range with custom colours and compliance with Australian standards.
+      solution: Produced pre-production samples with 4 colour variants and coordinated third-party compliance testing.
+      result: 3-model pool range launched in AU/NZ market. Followed by government tender win for 12 patrol pools.
+
 faq_section:
-  tagline: UKK
-  title: B2B- ja OEM-usein kysytyt kysymykset
+  tagline: FAQ
+  title: B2B & OEM Frequently Asked Questions
   questions:
-    - q: Mikä on vähimmäistilausmäärä (MOQ) täytettäville OEM-SUP-lautoille?
-      a: MOQ alkaa 5–10 yksiköstä vakio-OEM-malleille. Räätälöidyt muotit ja oman etiketin projektit vaativat vähintään 200 yksikköä riippuen monimutkaisuudesta. Koetilaukset ja näyte-erät ovat saatavilla uusille brändilanseerauksille.
-    - q: Onko olagoonilla BSCI-sertifiointi?
-      a: >-
-        Kyllä. Tehtaallamme on voimassa oleva BSCI-sosiaalisen vaatimustenmukaisuuden sertifiointi (auditointiraportti saatavilla pyynnöstä). Meillä on myös ISO 9001 -sertifiointi laadunhallinnalle, ja kaikki tuotteet ovat CE-sertifioituja. REACH- ja RoHS-vaatimustenmukaisuusdokumentaatio toimitetaan jokaisen
-        OEM-toimituksen mukana.
-    - q: Mik? on tyypillinen toimitusaika OEM-tilaukselle?
-      a: Vakiotoimitusaika on 30–45 päivää vahvistetusta ostotilauksesta ja käsirahasta. Räätälöityjen muottien kehitys lisää 15–20 päivää työkalujen valmistukseen. Tarjoamme nopeutettua tuotantoa kiireellisille tilauksille ja sesonkikiireille ennen kesää (tammi–maaliskuu).
-    - q: Voitteko toimittaa FOB Qingdao tai CIF satamaamme?
-      a: Kyllä. Toimitamme FOB Qingdao, CIF tärkeimpiin maailmansatamiin ja DDP päteville kumppaneille. Logistiikkatiimimme hoitaa konttivarauksen, vientidokumentaation ja tulliselvityksen. Toimitamme yli 50 maahan EU:n, USA:n, AU:n ja Aasian markkinoilla.
-b2b_moq: 'Vakio-MOQ: 5–10 yksikköä per malli. Koetilaukset tervetulleita uusille kumppanuuksille.'
+    - q: What is the minimum order quantity (MOQ) for OEM inflatable pools?
+      a: Samples and trial orders start at 5–10 units. Standard production MOQ is 50 units. Custom moulds and private-label projects require a minimum of 200 units depending on complexity.
+    - q: Does olagoon hold BSCI certification?
+      a: Yes. Our factory maintains valid BSCI social compliance certification (audit report available on request). We also hold ISO 9001 for quality management and all products carry CE certification. REACH and RoHS compliance documentation provided with every OEM shipment.
+    - q: What is the typical lead time for an OEM order?
+      a: Production runs take 12–16 weeks for 50–100 units, 10–14 weeks for 300–1,000 units, and 8–12 weeks above 1,000 units, from confirmed PO and deposit to FOB Qingdao. Custom mould development adds 15–20 days for tooling. Expedited production is available for urgent orders and seasonal rushes. Prototype samples typically ship within 15–20 days.
+    - q: Can you ship FOB Qingdao or CIF to our port?
+      a: Yes. We ship FOB Qingdao, CIF major global ports, and DDP for qualified partners. Our logistics team manages container booking, export documentation, and customs clearance. We ship to 50+ countries across EU, US, AU, and Asia markets.
+
+b2b_moq: 'Samples from 5–10 units. Standard production MOQ: 50 units per model.'
+
 production_flow:
-  tagline: Tuotannonkulku
-  title: Materiaalista valmiiksi laudaksi
-  subtitle: Jokainen lauta kulkee kuuden tuotantovaiheen läpi, ja jokaisessa vaiheessa on laadintatarkastuspisteitä. Ei oikoteitä, ei ohitettuja tarkastuksia.
+  tagline: Production Flow
+  title: From Material to Finished Pool
+  subtitle: Every pool passes through 6 production stages with QC checkpoints at every step. No shortcuts, no skipped inspections.
   stages:
     - stage: '01'
-      title: Materiaalivastaanotto ja saapuvan laadunvalvonta
-      description: Kaikki saapuvat materiaalit kirjataan eränumeron mukaan ERP-järjestelmäämme. PVC-kangasrullat, drop-stitch-ytimet, venttiilit, liimat ja laitteisto eristetään QC-hyväksyntään asti.
-      qc_check: Vetovoima (ASTM D751), repelmisaste (ISO 4674), paksuuden mittaus, liimankaantavuus, visuaalinen vikaskanaus
-      qc_threshold: 100 % eristä testattu. Hylkää, jos vetolujuus < 90 % määrityksestä, repeäminen < määrityksen minimi tai mikä tahansa visuaalinen vika
-      responsibility: Saapuvan tavaran laadunvalvontatiimi (3 tarkastajaa)
+      title: Material Receiving & Incoming QC
+      description: 'All incoming materials are logged by batch/lot number in our ERP system. PVC fabric rolls, drop-stitch cores, valves, adhesives, and hardware are quarantined until QC sign-off.'
+      qc_check: 'Tensile strength (ASTM D751), tear resistance (ISO 4674), thickness gauge, adhesive viscosity, visual defect scan'
+      qc_threshold: '100% of batches tested. Reject if tensile < 90% of spec, tear < spec min, or any visual defect'
+      responsibility: Incoming QC team (3 inspectors)
     - stage: '02'
-      title: CNC-leikkaus ja materiaalien valmistelu
-      description: Tietokoneoptimoitu paneelien asettelu PVC-materiaalille minimoi jätteen. Automaattiset CNC-leikkuukoneet ylläpitävät 0,1 mm:n sijaintitarkkuuden.
-      qc_check: Mittatarkastus CAD DXF -tiedostoja vasten, reunojen laadun tarkastus, paneelimäärien varmistus
-      qc_threshold: Joka 20. paneeli mitataan. Toleranssi ±0.5 mm. Erä hylätään, jos yli 2 % on toleranssin ulkopuolella
-      responsibility: Leikkauspajan työnjohtaja
+      title: CNC Cutting & Material Prep
+      description: 'Computer-optimized nesting lays out panels on PVC stock to minimize waste. Automatic CNC cutting machines maintain 0.1 mm positional accuracy.'
+      qc_check: 'Dimensional check against CAD DXF files, edge quality inspection, panel count verification'
+      qc_threshold: 'Every 20th panel measured. Tolerance ±0.5 mm. Reject batch if >2% out of tolerance'
+      responsibility: Cutting workshop lead
     - stage: '03'
-      title: Hitsaus ja drop-stitch -sidonta
-      description: Drop-stitch-ytimen liimataan ulkoiseen PVC-laminaattiin lämpöliimauksella. Putki kammiot ovat RF-hitsattuja tai ilmalaastettuja. Raitakärjet ovat kolmikerroksisia sulautusliimauksia.
-      qc_check: Peel-testaus joka 50:n yksikön kohdalla (ASTM D751), hitsauksen leveyden mittaus, kuuman ilmalämpötilan logien tarkastus, näköteinen liittojen tarkastus takavalolla
-      qc_threshold: Kuorintalujuus väh. 8 N/cm. Hitsin leveyden toleranssi ±1 mm. Mikä tahansa näkyvä kanavointi = hylkää
-      responsibility: Hitsaus QC (2 tarkastajaa/vuorossa)
+      title: Welding & Drop-Stitch Bonding
+      description: 'Drop-stitch cores are bonded to outer PVC laminates using heat lamination. Tube chambers are RF-welded or hot-air welded. Rail bands are triple-layer fusion bonded.'
+      qc_check: 'Peel test every 50 units (ASTM D751), weld width measurement, hot-air temperature log review, visual seam inspection under backlight'
+      qc_threshold: 'Peel strength min 8 N/cm. Weld width tolerance ±1 mm. Any visible channeling = reject'
+      responsibility: Welding QC (2 inspectors per shift)
     - stage: '04'
-      title: Kokoonpano ja varustaminen
-      description: 'Laudat siirtyvät lopputarkastukseen, jossa kaikki komponentit yhdistetään: reunukset liimataan ja hitsataan, venttiilit asennetaan, D-renkaat, kädensijat, evätelineet ja kantolaukku asennetaan. Jokainen yksikkö seuraa 100 kohdan asennuslista.'
-      qc_check: 100 kohdan tarkastuslistan hyväksyntä yksikköä kohti, venttiilin toimintatesti (10 avaus/sulkukierrosta), laitteiston vääntömomenttien vahvistus, visuaalinen tarkastus
-      qc_threshold: 'Nollavikapolitiikka turvallisuuksien kriittisille osille (venttiilit, D-renkaat, kahvat). Pienet kosmeettiset: AQL 2,5 (ISO 2859)'
-      responsibility: Kokoonpanotiimin vetäjä + linjakohtainen laadunvalvonta
+      title: Assembly & Rigging
+      description: 'Pools move to final assembly where all components are mated: rails glued and welded, valves installed, D-rings, handles, drain ports, and carry bag fitting. Each unit follows a 100-point assembly checklist.'
+      qc_check: '100-point checklist sign-off per unit, valve function test (10 open/close cycles), hardware torque verification, visual inspection'
+      qc_threshold: 'Zero-defect policy on safety-critical items (valves, D-rings, handles). Minor cosmetic: AQL 2.5 (ISO 2859)'
+      responsibility: Assembly team lead + line QC
     - stage: '05'
-      title: Paineentestaus ja laatupidätys
-      description: Jokainen kammio täytetään 1.25× nimellispaineeseen (tyypillisesti 20–25 PSI) ja sitä pidetään paineessa 24–48 tuntia. Painetunnistimet kirjaavat tietoja jatkuvasti. Kammiot, joissa painehäviö ylittää 5 %, hylätään ja lähetetään saumojen uudelleentarkastukseen.
-      qc_check: 24–48 tunnin paineenpitoloki, anturien kalibrointi varmistettu päivittäin, lämpötilakompensoitu painelukema, saumojen uudelleentestaus korjauksen jälkeen
-      qc_threshold: Max 5 % paineen lasku 24–48 tunnissa vakaassa lämpötilassa. Yksikään kammio, joka ylittää tämän, = 100 % koko tuotantosarjan uudelleentestaus
-      responsibility: Laadunvarmistuslaboratorio (riippumaton tuotannosta, raportoijaa johdolle)
+      title: Pressure Testing & Quality Hold
+      description: 'Every chamber is inflated to 1.25× rated pressure (typically 20–25 PSI) and held for 24–48 hours. Pressure sensors log continuously. Chambers exceeding 5% pressure drop are rejected and sent for seam re-inspection.'
+      qc_check: '24–48h pressure hold log, sensor calibration verified daily, temperature-compensated pressure reading, seam re-test after repair'
+      qc_threshold: 'Max 5% pressure drop over 24–48h at stable temp. Any chamber exceeding this = 100% re-test of entire production batch'
+      responsibility: Quality lab (independent of production, reports to management)
     - stage: '06'
-      title: Lopullinen tarkastus ja pakkaus
-      description: Lopullinen visuaalinen ja toiminnallinen tarkastus. Pinnalliset vinohavainrot, värikonstaanttisuus, merkinnän/BIN-varmennus, pakkausintegriteetti ja lisävarusteiden täydellisyys. Yksiköt pumputetaan, kootaan laatikoihin ja lastataan palleille konttikuljetusta varten.
-      qc_check: Täydellinen visuaalinen tarkastus, lisävarustelista kullekin SKU:lle, pakkauspudotustesti (1 m, satunnaisotos), etiketti/viivakoodin skannausvahvistus
-      qc_threshold: AQL 2,5 suurille vioille, AQL 4,0 pienille. Nollatoleranssi turvallisuusvioille. 100 % yksiköistä visuaalisesti tarkastettu
-      responsibility: Lopullinen laatuvalvontatiimi (4 tarkastajaa) + pakkausryhmän esimies
+      title: Final Inspection & Packing
+      description: 'Final visual and functional inspection. Surface defects, color consistency, label/BIN verification, packaging integrity, and accessory completeness. Units are vacuum-packed, boxed, and palletized for container loading.'
+      qc_check: 'Full visual inspection, accessory checklist per SKU, packaging drop test (1 m, random sample), label/bar code scan verification'
+      qc_threshold: 'AQL 2.5 for major defects, AQL 4.0 for minor. Zero tolerance on safety defects. 100% of units visually inspected'
+      responsibility: Final QC team (4 inspectors) + Packing team lead
+
 workforce:
-  tagline: Henkilöstömme
-  title: Henkilöstö ja asiantuntemus
+  tagline: Our People
+  title: Workforce & Expertise
   engineers: 25+
-  engineers_detail: Insinöörejä T&K:sta, muottisuunnittelusta, materiaalilaboratoriosta ja tuotantotekniikasta. Keskimäärin yli 7 vuoden kokemus täytettävien tuotteiden valmistuksesta.
-  shift_pattern: 2 vuoroa/päivä (07:00–15:30, 15:30–00:00). Valinnainen yövuoro kiireellisiä tilauksia varten.
-  training: Kuukausittainen laadintakoulutus, kolmen kuukauden turvaharjoitukset, vuosittainen taidonantuntemuksen arvioinnin. Uudet työntekijät suorittavat 40-tuntisen koeamisen ennen kuin aloittavat tuotantolinjalla.
+  engineers_detail: 'Engineers across R&D, mold design, materials lab, and production engineering. Average 7+ years in inflatable manufacturing.'
+  shift_pattern: '2 shifts/day (07:00–15:30, 15:30–00:00). Optional night shift for urgent orders.'
+  training: 'Monthly QC training, quarterly safety drills, annual skills assessment. New hires complete 40-hour induction before working on production line.'
   departments:
     - name: R&D & Engineering
       count: 25+
-      role: Tuotesuunnittelu, kaluppisuunnittelu, materiaalilaboratorio
+      role: Product design, mold engineering, materials lab
     - name: Cutting & Material Prep
       count: 15
-      role: CNC-leikkaus, paneelin valmistelu, materiaalikäsittely
+      role: CNC cutting, panel preparation, material handling
     - name: Welding & Lamination
       count: 40
-      role: RF-hitsaus, ilmahitsaus, drop-stitch -liitos
-    - name: SUP Core Bonding
+      role: RF welding, hot-air welding, drop-stitch bonding
+    - name: pool Core Bonding
       count: 30
-      role: Drop-stitch-laminaatio, lämpösidos, reunasäikeiden sulautus
+      role: Drop-stitch lamination, heat bonding, rail band fusion
     - name: Assembly & Rigging
       count: 35
-      role: Lopputarkastus, laitteiston asennus, järjestelmien tarkistus
+      role: Final assembly, hardware installation, systems check
     - name: Quality Control
       count: 12
-      role: Saapuvan tavaran laatuvalvonta, valmistuksen aikainen laatuvalvonta, lopullinen tarkastus, laboratoriotestaus
+      role: Incoming QC, in-process QC, final inspection, lab testing
     - name: Logistics & Packing
       count: 20
-      role: Paketointi, konttien lastaus, vientidokumentaatio
+      role: Packaging, container loading, export documentation
     - name: Management & Admin
       count: 15
-      role: Myynti, hankinta, henkilöstöhallinto, talous, vaatimustenmukaisuus
+      role: Sales, procurement, HR, finance, compliance
+
 material_traceability:
-  tagline: Jäljitettävyys
-  title: Materiaalien seuranta ja erävalvonta
-  description: >-
-    Jokainen raaka-aine-erä saa yksilöllisen eränumeron ERP-järjestelmässämme. Raaka-aineen saapumisesta tuotannon läpi valmiiksi tuotteeksi jokaisen laudan materiaaliluettelo on yhdistettävissä alkuperäiseen toimittajaerään. Tämä mahdollistaa täyden jäljitettävyyden ylöspäin kaikissa laatu- tai
-    vaatimustenmukaisuuskyselyissä.
-  system: Oma ERP (Qingdao Vatrad Groupin sisäinen järjestelmä) + fyysiset erätaudit jokaisella työtilauksella
-  coverage: 100 % tuotantomateriaaleista — PVC, drop-stitch -kangas, liimat, venttiilit, metalliosat, pakkaus
-  records_retained: 10 vuotta (CE 2013/53/EU -vaatimuksen mukaisesti)
+  tagline: Traceability
+  title: Material Tracking & Batch Control
+  description: Every batch of raw material is assigned a unique lot number in our ERP system. From arrival through production to the finished product, each pool's bill of materials links back to the original supplier batch. This enables full upstream traceability for any quality or compliance inquiry.
+  system: Custom ERP (Qingdao Vatrad Group internal system) + physical batch tags on each work order
+  coverage: 100% of production materials — PVC, drop-stitch fabric, adhesives, valves, hardware, packaging
+  records_retained: 10 years (per CE 2013/53/EU requirement)
   suppliers:
-    - material: Meriluokan PVC
-      source: Kiinalaiset ja korealaiset toimittajat
+    - material: Marine-grade PVC
+      source: Chinese and Korean suppliers
       certified: ISO 9001, REACH, RoHS
-    - material: Drop-stitch-kangas
-      source: Oma kudonta + ulkopuolinen kumppani
-      certified: Sisäinen laadunvalvonta + toimittajan ISO 9001
-    - material: Venttiilit ja varusteet
-      source: Kiinalaiset OEM-toimittajat
-      certified: ISO 9001, materiaalisertifikaatit eräkohtaisesti
+    - material: Drop-stitch fabric
+      source: In-house weaving + external partner
+      certified: Internal QC + supplier ISO 9001
+    - material: Valves & Hardware
+      source: Chinese OEM suppliers
+      certified: ISO 9001, material certs per batch
+
 qc_dashboard:
-  tagline: QC luvuittain
-  title: Laadunvalvonnan mittarit
-  subtitle: Todelliset läpäisy/hylkäys-tulot tuotantolinnaltamme. Laatulaboratoriomme toimii tuotannosta riippumattomana ja raportoi suoraan johdolle.
+  tagline: QC by the Numbers
+  title: Quality Control Metrics
+  subtitle: Real pass/fail data from our production line. Our quality lab operates independently from production and reports directly to management.
   stats:
     - value: 100%
-      label: Yksiköt painekokeilla
-      detail: Jokainen lauta, jokainen kammi, jokainen erä
-    - value: <5%
-      label: Suurin sallittu painehäviö
-      detail: 24–48 h 1.25× nimellispaineella
+      label: Units pressure-tested
+      detail: Every pool, every chamber, every batch
+    - value: '<5%'
+      label: Max allowable pressure drop
+      detail: Over 24–48h at 1.25× rated pressure
     - value: AQL 2.5
-      label: Merkittävän virheen raja-arvo
-      detail: ISO 2859 -otantastandardin mukaisesti
+      label: Major defect threshold
+      detail: Per ISO 2859 sampling standard
     - value: 24–48h
-      label: Paineenpitokesto
-      detail: Tuotekategorian mukaan
-    - value: 1,25×
-      label: Testipaine vs. nimellispaine
-      detail: Turvamarginaali joka kammiossa
+      label: Pressure hold duration
+      detail: Depending on product category
+    - value: 1.25×
+      label: Test pressure vs rated
+      detail: Safety margin on every chamber
     - value: 0%
-      label: Toleranssi turvallisuusvioille
-      detail: Venttiilit, D-renkaat, saumat, kelluvuus
+      label: Tolerance on safety defects
+      detail: Valves, D-rings, seams, buoyancy
+
 process_cta:
-  title: Katso tuotantoprosessimme
-  desc: Seuraa lautaa läpi jokaisen tuotannon vaiheen — raaka-aineesta veteen valmiiksi laudaksi.
-  label: Katso tuotantoprosessi →
+  title: See our manufacturing process
+  desc: Follow a pool through every stage of production — from raw material to backyard-ready pool.
+  label: View production process →
   link: /factory/process/

@@ -1,72 +1,72 @@
 meta:
-  title: 'Partenaires — Distribution & Grossiste | {SITE}'
-  description: 'Rejoignez le réseau de distribution olagoon : distributeurs, grossistes et importateurs de SUP gonflables. Conditions avantageuses et portefeuille complet.'
+  title: 'Partners — Distribution & Wholesale | {SITE}'
+  description: 'Become an olagoon partner: distribution networks, wholesale pricing, OEM/private label programs, and support for inflatable pool businesses worldwide.'
   keywords:
-    - 'partenaire olagoon'
-    - 'réseau distribution'
-    - 'grossiste paddle gonflable'
-    - 'importateur paddle gonflable'
+    - 'pool distribution partner'
+    - 'inflatable pool wholesale'
+    - 'inflatable pools distributor'
+    - 'pool partnership'
 hero:
-  tagline: Partenaires et Distribution
-  title: Devenez Partenaire olagoon<br />— Réseau de Distribution Mondial
-  subtitle: Rejoignez le réseau mondial d'olagoon. Nous collaborons avec des distributeurs maritimes, des concessionnaires nautiques, des détaillants d’équipements et des partenaires de marque dans plus de 50 pays.
+  tagline: Partners & Distribution
+  title: 'Become an olagoon Partner<br />— Global Distribution Network'
+  subtitle: "Join olagoon's global partner network. We work with pool and outdoor distributors, specialty retailers, equipment dealers, and brand partners in 50+ countries."
   image:
     src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
-    alt: réseau mondial de partenaires et de distributeurs olagoon
+    alt: olagoon global partner and distributor network
 content_programs:
-  tagline: Programmes Partenaires
-  title: Programmes Partenaires<br />Conçus pour la Croissance
-  subtitle: Distributeur, revendeur ou partenaire de marque, olagoon propose des programmes adaptés à votre activité.
+  tagline: Partner Programs
+  title: 'Partner Programs<br />Built for Growth'
+  subtitle: 'Whether you are a distributor, dealer, or brand partner, olagoon offers programs designed to support your business.'
   columns: 3
   items:
-    - title: Programme Distributeur
-      description: Distribution exclusive avec tarifs dégressifs, support marketing et accès direct à l'usine. Engagement minimum selon le territoire.
+    - title: 'Distributor Program'
+      description: 'Exclusive territory distribution with volume pricing, marketing support, and direct factory access. Minimum commitment required based on territory size.'
       icon: tabler:world
-    - title: Programme Revendeur
-      description: Tarifs revendeur, formation produit, supports marketing et garantie pour magasins et boutiques en ligne.
+    - title: 'Dealer Program'
+      description: 'Direct dealer pricing, product training, marketing materials, and warranty support for retail locations and online stores.'
       icon: tabler:building-store
-    - title: Partenariat OEM/ODM
-      description: Fabrication OEM/ODM complète avec marque, emballage et spécifications personnalisés. Du concept au conteneur.
+    - title: 'OEM/ODM Partnership'
+      description: 'Full-service OEM and ODM manufacturing with custom branding, packaging, and product specifications. From concept to container.'
       icon: tabler:certificate
-    - title: Partenariat de Marque
-      description: Co-marquage, marque blanche et modèles exclusifs pour les marques établies du nautisme et des loisirs.
+    - title: 'Brand Partnership'
+      description: 'Co-branding, private label, and exclusive model programs for established brands in the marine and outdoor recreation space.'
       icon: tabler:stars
-    - title: Gouvernement et Institutionnel
-      description: Programmes fournisseur privilégié pour agences gouvernementales, garde-côtes et organisations humanitaires.
+    - title: 'Government & Institutional'
+      description: 'Preferred supplier programs for government agencies, coast guards, military, and humanitarian organizations. Tender-ready documentation.'
       icon: tabler:building-community
-    - title: Partenaire Resort et Location
-      description: Tarifs flotte, qualité constante et marque personnalisée pour resorts et centres de plongée du monde entier.
+    - title: 'Resort & Rental Partner'
+      description: 'Fleet pricing, consistent quality, and custom branding for resorts, diving centers, and rental operations worldwide.'
       icon: tabler:sun
 content_benefits:
-  tagline: Pourquoi Devenir Partenaire
-  title: Pourquoi les Partenaires Choisissent olagoon
-  subtitle: Nos partenaires bénéficient d'une capacité de fabrication réelle, d'une qualité constante et d'un support réactif.
+  tagline: Why Partner With Us
+  title: 'Why Partners Choose olagoon'
+  subtitle: 'Our partners benefit from real manufacturing capability, consistent quality, and responsive support.'
   list:
-    - "Accès direct à l'usine : travaillez directement avec notre équipe — sans intermédiaires."
-    - 'Personnalisation prête : marquez vos produits avec vos couleurs, logos et spécifications.'
-    - 'Qualité garantie : production certifiée ISO 9001 avec conformité CE, UKCA et BSCI.'
-    - 'Logistique mondiale : expédition de Qingdao en FOB, CIF ou DDP. Entrepôt US en Californie.'
-    - 'Support marketing : catalogues, photos, documentation technique et actifs numériques.'
-    - 'Formation et support : formation produit, support technique et coordination de la garantie.'
+    - 'Direct Factory Access: Work directly with our manufacturing team — no middlemen. Get faster responses, better pricing, and full visibility into production.'
+    - 'Customization Ready: Brand your products with custom colors, logos, packaging, and specifications. Minimum order quantities tailored to your market.'
+    - 'Quality Guaranteed: ISO 9001 certified production with CE, UKCA, and BSCI compliance. Every product tested before shipping.'
+    - 'Global Logistics: Shipping from Qingdao, China with FOB, CIF, and DDP options. US warehouse in Montclair, CA for North American distribution.'
+    - 'Marketing Support: Product catalogs, photography, technical documentation, and digital assets to support your sales efforts.'
+    - 'Training & Support: Product training for your sales team, technical support for your customers, and warranty service coordination.'
 content_process:
-  tagline: Comment Devenir Partenaire
-  title: Processus de Partenariat Simple
-  subtitle: Notre processus est simple — conçu pour vous permettre de vendre rapidement.
+  tagline: How to Become a Partner
+  title: 'Simple Partnership Process'
+  subtitle: 'Our partnership process is straightforward — designed to get you selling olagoon products quickly.'
   items:
-    - title: 'Étape 1 : Soumettre une Candidature'
-      description: Remplissez notre formulaire avec votre profil d'entreprise et vos centres d'intérêt.
-    - title: 'Étape 2 : Examen de Qualification'
-      description: Notre équipe examine votre candidature et vous contacte sous 3 jours ouvrés.
-    - title: 'Étape 3 : Accord et Configuration'
-      description: Signez l'accord, configurez votre compte et recevez tarifs, supports et échantillons.
-    - title: 'Étape 4 : Formation et Lancement'
-      description: Formation produit, support commercial et documentation fournis. Prêt à vendre.
+    - title: 'Step 1: Submit Application'
+      description: 'Complete our partner application form with your company profile, target market, and product interests.'
+    - title: 'Step 2: Qualification Review'
+      description: 'Our partnership team reviews your application and contacts you within 3 business days to discuss opportunities.'
+    - title: 'Step 3: Agreement & Setup'
+      description: 'Sign a partnership agreement, set up your account, and receive partner pricing, marketing materials, and product samples.'
+    - title: 'Step 4: Training & Launch'
+      description: 'Product training, sales support, and marketing collateral provided. You are ready to start selling.'
 cta:
-  title: Prêt à devenir partenaire olagoon ?
-  subtitle: Postulez et notre équipe répondra sous 3 jours ouvrés.
+  title: 'Ready to become an olagoon partner?'
+  subtitle: 'Apply for partnership and our team will respond within 3 business days.'
   actions:
     - variant: primary
-      text: Postuler comme partenaire
+      text: Apply for partnership
       href: /contact/
-    - text: Voir nos produits
+    - text: View our products
       href: /products/

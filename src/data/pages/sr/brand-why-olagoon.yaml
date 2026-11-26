@@ -1,72 +1,72 @@
 meta:
-  title: 'Зашто olagoon — 7 разлога зашто глобални брендови бирају нас | {SITE}'
-  description: 'Зашто глобални брендови бирају olagoon: CE и ISO сертификати, флексибилан MOQ, прилагођени калупи и рокови испоруке од 30 дана из професионалне фабрике надувних SUP дасака.'
+  title: 'Why olagoon — 7 Reasons Global Brands Choose Us | {SITE}'
+  description: 'Why global brands choose olagoon: CE and ISO certifications, flexible MOQ, custom molds, and 30-day lead times from a professional inflatable pools factory.'
   keywords:
-    - 'зашто изабрати olagoon'
-    - 'произвођач надувних sup дасака'
-    - 'sup фабрика у Кини'
-    - 'добављач надувних дасака за веслање'
+    - 'why choose olagoon'
+    - 'inflatable pools manufacturer'
+    - 'pool factory china'
+    - 'inflatable pool supplier'
 hero:
-  tagline: 'Зашто olagoon'
-  title: 'Седам разлога зашто глобални брендови<br />бирају olagoon'
-  subtitle: 'Ниједан произвођач није исти као други. Ево шта чини olagoon преферираним партнером за дистрибутере, брендове и операторе широм света.'
+  tagline: Why olagoon
+  title: 'Seven Reasons Why Global Brands<br />Choose olagoon'
+  subtitle: 'Not all manufacturers are created equal. Here is what makes olagoon the preferred partner for distributors, brands, and operators worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: 'olagoon производни квалитет и стручност'
+    alt: olagoon manufacturing quality and expertise
 stats:
-  title: 'Поверење у бројкама'
+  title: Trust in Numbers
   stats:
-    - title: 'Година у бизнису'
-      amount: 'Од 2012.'
-    - title: 'Направљених дасака'
-      amount: '15,000+'
-    - title: 'Купаца који се враћају'
+    - title: Years in Business
+      amount: Since 2012
+    - title: Pools Built
+      amount: 15,000+
+    - title: Repeat Customers
       amount: '85%'
-    - title: 'Гаранцијска потраживања'
+    - title: Warranty Claims
       amount: '<2%'
 features3_reasons:
-  tagline: 'Зашто изабрати olagoon'
-  title: 'Седам разлога за партнерство са нама'
+  tagline: Why Choose olagoon
+  title: 'Seven Reasons to Partner With Us'
   isBeforeContent: false
   columns: 3
   items:
-    - title: '1. Стварна производња, не трговина'
-      description: 'Поседујемо и водимо фабрику од 12,000 m². Када склапате партнерство са olagoon-ом, радите директно са људима који дизајнирају, конструишу и праве ваше производе — без посредника.'
+    - title: '1. Real Manufacturing, Not Trading'
+      description: 'We own and operate a 12,000 m² factory. When you partner with olagoon, you work directly with the people who design, engineer, and build your products — no middlemen.'
       icon: tabler:building-factory
-    - title: '2. Приступ вођен инжењерингом'
-      description: 'Наш процес дизајна почиње случајем употребе, а не категоријом производа. Оптимизујемо облик трупа, избор материјала и конфигурацију према томе како ће се даска заиста користити.'
+    - title: '2. Engineering-Led Approach'
+      description: 'Our design process starts with the use case, not the product category. We optimize wall structure, material selection, and configuration for how the pool will actually be used.'
       icon: tabler:engine
-    - title: '3. Сертификован квалитет'
-      description: 'CE сертификовано, ISO систем квалитета, BSCI усаглашено, REACH усаглашено, USCG одобрено. Сваки производ испуњава међународне стандарде — не само тврдње.'
+    - title: '3. Certified Quality'
+      description: 'CE certified, ISO quality system, BSCI compliant, REACH compliant, USCG approved. Every product meets international standards — not just claims.'
       icon: tabler:certificate
-    - title: '4. Флексибилно ко-брендирање'
-      description: 'Боје рубова, распоред палубе, брендирање, паковање — прилагођавамо вашим спецификацијама. Без притиска минималне поруџбине. Започните са прототипом, растите са самопоуздањем.'
+    - title: '4. Flexible Co-Branding'
+      description: 'Rail colors, deck layout, branding, packaging — we customize to your specifications. No minimum order pressure. Start with a prototype, scale with confidence.'
       icon: tabler:adjustments
-    - title: '5. Глобална логистика'
-      description: 'Складиште у САД у Калифорнији, директна испорука из Ћингдаоа, ваздушни терет за хитне поруџбине. Обрађујемо царинску документацију и пратеће папире.'
+    - title: '5. Global Logistics'
+      description: 'US warehouse in California, direct shipping from Qingdao, air freight for urgent orders. We handle customs paperwork and documentation.'
       icon: tabler:truck-delivery
-    - title: '6. Доживотна подршка'
-      description: 'Подржавамо даске које смо направили пре 20 година. Оригинални резервни делови, технички савети, упутства за поправку — наш тим је доступан када вам треба.'
+    - title: '6. Lifetime Support'
+      description: 'We support every pool generation we have built. Genuine spare parts, technical advice, repair guidance — our team is available when you need us.'
       icon: tabler:lifebuoy
-    - title: '7. Искрене спецификације'
-      description: 'Стварне оцене носивости, стварне димензије, стварна тежина. Без маркетиншког надувавања. Оно што објављујемо јесте оно што добијате — верификовано независним тестирањем.'
+    - title: '7. Honest Specifications'
+      description: 'Real load ratings, real dimensions, real weight. No marketing inflation. What we publish is what you get — verified by independent testing.'
       icon: tabler:ruler-measure
 testimonials:
-  tagline: 'Поверење брендова широм света'
-  title: 'Шта кажу наши партнери'
+  tagline: Trusted by Brands Worldwide
+  title: What Our Partners Say
   items:
-    - content: 'Сарађивали смо са неколико произвођача у Кини, али се olagoon издваја по инжењерској подршци и доследном квалитету. Односе се према нашем бренду као према свом.'
-      name: '— Ко-бренд партнер, европски бренд спортова на води'
-    - content: 'Њихове SUP даске у нашој флоти су у служби већ преко 5 година. Минимално одржавање, одлична UV отпорност. Петогодишња гаранција даје нам самопоуздање.'
-      name: '— Оператор флоте, група одмаралишта са Блиског истока'
-    - content: 'Тим olagoon-а помогао нам је да развијемо прилагођен дизајн SUP даске од концепта до производње за 90 дана. Квалитет је надмашио наша очекивања.'
-      name: '— Дистрибутер, аустралијски спортови на води'
+    - content: 'We have worked with several manufacturers in China, but olagoon stands out for their engineering support and consistent quality. They treat our brand as their own.'
+      name: '— Co-Brand Partner, European Water Sports Brand'
+    - content: 'Their pools have been in service with our fleet for over 5 years. Minimal maintenance, excellent UV resistance. The 5-year warranty gives us confidence.'
+      name: '— Fleet Operator, Middle East Resort Group'
+    - content: 'The olagoon team helped us develop a custom pools design from concept to production in 90 days. The quality exceeded our expectations.'
+      name: '— Distributor, Australian Watersports'
 cta:
-  title: 'Спремни да осетите разлику?'
-  subtitle: 'Контактирајте наш тим ради разговора о вашем пројекту. Обавеза није потребна — само искрен савет о производњи.'
+  title: 'Ready to experience the difference?'
+  subtitle: 'Contact our team to discuss your project. No commitment required — just honest advice about manufacturing.'
   actions:
     - variant: primary
-      text: 'Разговарајте са нашим тимом'
+      text: Talk to our team
       href: /contact/
-    - text: 'Преузмите каталог производа'
+    - text: Download product catalog
       href: /resources/download-catalog/

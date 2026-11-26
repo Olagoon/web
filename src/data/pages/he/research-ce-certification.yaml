@@ -1,60 +1,60 @@
 meta:
-  title: 'כיצד עובדת הסמכת CE לכלי שיט ניפחים | {SITE}'
-  description: 'מדריך מלא להסמכת CE ללוחות SUP ניפחים ולקיאקים. הנחיות חלות (2013/53/EU RCD, ציוד מגן אישי 2016/425), פרוטוקולי בדיקה, גופים מודיעים, דרישות תיק טכני וחובות יצרן.'
-back_text: 'חזרה למחקר'
+  title: 'How CE Certification Works for Inflatable Watercraft | {SITE}'
+  description: 'Complete guide to CE certification for inflatable pools. Applicable standards and directives for domestic pools, testing protocols, notified bodies, technical file requirements, and manufacturer obligations.'
+back_text: 'Back to Research'
 
 hero:
-  tagline: 'רגולציה'
-  title: 'כיצד עובדת הסמכת CE לכלי שיט ניפחים'
-  subtitle: 'זמן קריאה 7 דקות'
+  tagline: 'Compliance'
+  title: 'How CE Certification Works for Inflatable Watercraft'
+  subtitle: '7 min read'
 
 content_html: |
-  <h2>מהי הסמכת CE?</h2>
-  <p>סימון CE (Conformit&eacute; Europ&eacute;enne) מעיד שהמוצר עומד בדרישות הבריאות, הבטיחות והסביבה של האיחוד האירופי. עבור כלי שיט ניפחים, המסגרת הרגולטורית הרלוונטית תלויה בקטגוריית המוצר.</p>
+  <h2>What Is CE Certification?</h2>
+  <p>CE marking (Conformit&eacute; Europ&eacute;enne) indicates that a product meets EU health, safety, and environmental requirements. For inflatable watercraft, the relevant regulatory framework depends on the product category.</p>
 
-  <h2>הנחיות חלות</h2>
+  <h2>Applicable Directives</h2>
 
-  <h3>הנחיית כלי שיט לפנאי (2013/53/EU)</h3>
-  <p>ההנחיה העיקרית לכלי שיט לפנאי באיחוד האירופי. לוחות SUP ניפחים מתחת ל-2.4 מ׳ נמצאים מחוץ לתחולתה ומוסמכים במקום זאת לפי EN ISO 25649.</p>
+  <h3>Recreational Craft Directive (2013/53/EU)</h3>
+  <p>The primary directive for recreational craft in the EU. inflatable pools under 2.4 m fall outside its scope and are instead certified under EN ISO 25649.</p>
 
-  <h3>תקנה לציוד מגן אישי (2016/425)</h3>
-  <p>אפודי הצלה, אמצעי ציפה וציוד בטיחות המסופקים עם כלי שיט חייבים לעמוד בדרישות תקנת ציוד מגן אישי, כולל בחינת דגם (מודול B) על ידי גוף מודיע והבטחת איכות ייצור (מודול D או E).</p>
+  <h3>Personal Protective Equipment Regulation (2016/425)</h3>
+  <p>Life jackets, buoyancy aids, and safety equipment supplied with watercraft must meet PPE Regulation requirements, including type examination (Module B) by a notified body and production quality assurance (Module D or E).</p>
 
-  <h2>תהליך ההסמכה</h2>
+  <h2>The Certification Process</h2>
   <ol>
-    <li>סיווג מוצר: קביעת קטגוריית תכנון כלי השיט (A – D לפי ISO 8666)</li>
-    <li>תקנים חלים: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (לוחית היצרן)</li>
-    <li>הכנת תיק טכני: שרטוטי תכנון, רשימת חומרים, תעודות חומרים, הערכת סיכונים</li>
-    <li>בדיקות דגם: ציפה, יציבות, קיבולת עומס, בדיקות חומרים, חוזק תפרים, אחזקת אוויר</li>
-    <li>בקרת ייצור במפעל: ביקורת של גוף מודיע על תהליכי הייצור</li>
-    <li>הצהרת התאמה: היצרן חותם על הצהרת ההתאמה ומצמיד סימון CE</li>
+    <li>Product classification: Determine craft design category (A – D per ISO 8666)</li>
+    <li>Applicable standards: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (builder's plate)</li>
+    <li>Technical file preparation: Design drawings, Bill of Materials, material certificates, risk assessment</li>
+    <li>Type testing: Buoyancy, stability, load capacity, material testing, seam strength, air retention</li>
+    <li>Factory production control: Notified body audit of manufacturing processes</li>
+    <li>Declaration of Conformity: Manufacturer signs DoC, affixes CE marking</li>
   </ol>
 
-  <h2>גופים מודיעים לכלי שיט ניפחים</h2>
-  <p>גופים מודיעים נפוצים כוללים את Bureau Veritas (צרפת), DNV GL (גרמניה), RINA (איטליה), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (גרמניה).</p>
+  <h2>Notified Bodies for Inflatable Watercraft</h2>
+  <p>Common NBs include Bureau Veritas (France), DNV GL (Germany), RINA (Italy), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (Germany).</p>
 
-  <h2>לוחות זמנים ועלויות</h2>
+  <h2>Timeline and Costs</h2>
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-gray-100">
-        <th class="p-3 text-left font-semibold text-gray-900 border">שלב</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">משך</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">עלות טיפוסית (EUR)</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Phase</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Duration</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Typical Cost (EUR)</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="p-3 border">הכנת תיק טכני</td><td class="p-3 border">2 – 4 שבועות</td><td class="p-3 border">2,000 – 5,000</td></tr>
-      <tr><td class="p-3 border">בדיקות דגם</td><td class="p-3 border">4 – 8 שבועות</td><td class="p-3 border">8,000 – 20,000</td></tr>
-      <tr><td class="p-3 border">ביקורת מפעל</td><td class="p-3 border">1 – 2 ימים (באתר)</td><td class="p-3 border">3,000 – 6,000</td></tr>
-      <tr><td class="p-3 border">סה״כ (מוצר ראשון)</td><td class="p-3 border">8 – 14 שבועות</td><td class="p-3 border">13,000 – 31,000</td></tr>
+      <tr><td class="p-3 border">Technical file preparation</td><td class="p-3 border">2 – 4 weeks</td><td class="p-3 border">2,000 – 5,000</td></tr>
+      <tr><td class="p-3 border">Type testing</td><td class="p-3 border">4 – 8 weeks</td><td class="p-3 border">8,000 – 20,000</td></tr>
+      <tr><td class="p-3 border">Factory audit</td><td class="p-3 border">1 – 2 days (on-site)</td><td class="p-3 border">3,000 – 6,000</td></tr>
+      <tr><td class="p-3 border">Total (first product)</td><td class="p-3 border">8 – 14 weeks</td><td class="p-3 border">13,000 – 31,000</td></tr>
     </tbody>
   </table>
 
-  <h2>מה זה אומר לקונים</h2>
-  <p>ברכישת לוחות SUP ניפחים מוסמכי CE, ודאו תמיד שסימון ה-CE מופיע על לוחית היצרן, שקיימת הצהרת התאמה תקפה, שמספר הגוף המודיע מופיע, ושמדריך למשתמש כולל הוראות בטיחות בשפתכם המקומית. כל מוצרי OLagoon נושאים הסמכת CE עם מעקביות מלאה עד דוחות ביקורת של הגוף המודיע.</p>
+  <h2>What This Means for Buyers</h2>
+  <p>When purchasing CE-certified inflatable pools, always verify the CE marking is on the builder's plate, a valid DoC exists, the Notified Body number is listed, and the owner's manual includes safety instructions in your local language. All OLagoon products carry CE certification with full traceability to notified body audit reports.</p>
 
 cta:
-  title: 'נדרשת תמיכה בהסמכת CE?'
-  subtitle: 'אנו מטפלים בהסמכה עבור שותפי OEM ברחבי העולם.'
-  button_text: 'התחילו את תהליך ההסמכה'
+  title: 'Need CE certification support?'
+  subtitle: 'We handle certification for OEM partners worldwide.'
+  button_text: 'Start the certification process'
   button_link: /contact/

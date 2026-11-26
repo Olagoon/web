@@ -1,86 +1,86 @@
 meta:
-  title: 'Global Närvaro — SUP-tillverkare som betjänar 50+ länder | {SITE}'
-  description: 'olagoon exporterar uppblåsbara SUP:ar till över 50 länder på alla kontinenter. Professionell tillverkare och leverantör för varumärken, distributörer och flottor.'
+  title: 'Global Presence — pool Manufacturer Serving 50+ Countries | {SITE}'
+  description: 'olagoon exports inflatable pools to 50+ countries across every continent. Professional manufacturer and supplier for brands, distributors, and fleets.'
   keywords:
-    - 'global SUP-tillverkare'
-    - 'paddle board exportör'
-    - 'SUP-fabrik Kina'
-    - 'professionell SUP-leverantör'
+    - 'global pool manufacturer'
+    - 'inflatable pool exporter'
+    - 'pool factory china'
+    - 'professional pool supplier'
 hero:
-  tagline: Global närvaro
-  title: Betjänar 50+ länder<br />över alla kontinenter
-  subtitle: Från europeiska kustpatrulloperatörer till australiska vattensportdistributörer till Mellanösterns räddningsteam — olagoon-brädor finns på vattnet över hela världen.
+  tagline: Global Presence
+  title: 'Serving 50+ Countries<br />Across Every Continent'
+  subtitle: 'From European resort operators to Australian outdoor retailers to Middle East hospitality groups — OLagoon pools are in backyards worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: olagoon global marin tillverkning och distribution
+    alt: olagoon global marine manufacturing and distribution
 stats:
-  title: Global räckvidd
+  title: Global Reach
   stats:
-    - title: Länder
-      amount: 50+
-    - title: Exportmarknader
-      amount: Europa, Amerika, Asien, Mellanöstern, Oceanien
-    - title: Produktion
-      amount: Qingdao, Kina
-    - title: Lager i USA
+    - title: Countries
+      amount: '50+'
+    - title: Export Markets
+      amount: Europe, Americas, Asia, Middle East, Oceania
+    - title: Production
+      amount: Qingdao, China
+    - title: US Warehouse
       amount: Montclair, CA
 features3_markets:
-  tagline: Nyckelmarknader
-  title: Regional expertis<br />för lokala krav
-  subtitle: Vi förstår att olika marknader har olika regulatoriska krav, preferenser och användningsfall.
+  tagline: Key Markets
+  title: 'Regional Expertise<br />for Local Requirements'
+  subtitle: 'We understand that different markets have different regulatory requirements, preferences, and use cases.'
   isBeforeContent: false
   columns: 4
   items:
-    - title: Europa och Storbritannien
-      description: CE-certifierade produkter. Stark efterfrågan på SUP-brädor på EU-marknaderna. Brittiska distributörer uppskattar vår snabba handläggning.
+    - title: Europe & UK
+      description: 'CE-certified products. Strong demand for pools across EU markets. UK distributors appreciate our quick turnaround.'
       icon: tabler:map-pin
-    - title: Nordamerika
-      description: US Coast Guard godkänd tillverkning. US-lager i Montclair, CA för snabb leverans till västkusten. Växande efterfrågan på fiske-, räddnings- och rekreations-SUP:ar.
+    - title: North America
+      description: 'US Coast Guard approved manufacturing. US warehouse in Montclair, CA for fast West Coast delivery. Growing demand for fishing, rescue, and recreational pools.'
       icon: tabler:map-pin
-    - title: Australien och Oceanien
-      description: Stark marknad för SUP-brädor och vattensportstillbehör. Australiska distributörer värdesätter vår UV-beständiga PVC-konstruktion i hårda solförhållanden. Snabb frakt från vår asiatiska anläggning.
+    - title: Australia & Oceania
+      description: 'Strong market for pools and water sports accessories. Australian distributors value our UV-resistant PVC construction in harsh sun conditions. Quick shipping from our Asia facility.'
       icon: tabler:map-pin
-    - title: Mellanöstern
-      description: Växande efterfrågan på vattenäventyrsutrustning. Våra SUP:ar i kommersiell klass och säkerhetsutrustning är populära hos turoperatörer och uthyrningscenter. Anpassade konfigurationer för högtemperaturmiljöer.
+    - title: Middle East
+      description: 'Growing demand for water adventure equipment. Our commercial-grade pools and safety gear are popular with tour operators and rental centers. Custom configurations for high-temperature environments.'
       icon: tabler:map-pin
 features3_distribution:
-  tagline: Distributionsnätverk
-  title: Samarbetar med distributörer<br />världen över
-  subtitle: Vi samarbetar med etablerade marina utrustningsdistributörer, vattensportvarumärken och statliga upphandlingsmyndigheter.
+  tagline: Distribution Network
+  title: 'Partnering with Distributors<br />Worldwide'
+  subtitle: 'We work with established marine equipment distributors, water sports brands, and government procurement agencies.'
   isBeforeContent: false
   columns: 3
   items:
-    - title: Co-brand-program
-      description: Private label-tillverkning för globala vattensportmärken. Vi hanterar allt från design till produktion till drop-shipping.
+    - title: Co-Brand Programs
+      description: 'Private label manufacturing for global water sports brands. We handle everything from design to production to drop-shipping.'
       icon: tabler:building
-    - title: Distributörsnätverk
-      description: Auktoriserade distributörer i 20+ länder har lager och ger lokal support. Nya distributörsförfrågningar välkomnas.
+    - title: Distributor Network
+      description: 'Authorized distributors in 20+ countries carry stock and provide local support. New distributor inquiries welcome.'
       icon: tabler:users
-    - title: Offentlig och institutionell
-      description: Direkt leverans till kustbevakningar, sök- och räddningsorganisationer och militära upphandlingsprogram. Överensstämmelse med institutionella upphandlingskrav.
+    - title: Government & Institutional
+      description: 'Direct supply to coast guards, search and rescue organizations, and military procurement programs. Compliance with institutional procurement requirements.'
       icon: tabler:building-community
 steps2_logistics:
-  title: Global logistik & support
-  subtitle: Från fabrik till destination — vi hanterar hela leveranskedjan.
+  title: 'Global Logistics & Support'
+  subtitle: 'From factory to destination — we manage the entire supply chain.'
   items:
-    - title: Fraktalternativ
-      description: Sjöfrakt (FOB Qingdao), flygfrakt för brådskande order och expressbud för prover och reservdelar.
+    - title: Shipping Options
+      description: 'Sea freight (FOB Qingdao), air freight for urgent orders, and express courier for samples and spare parts.'
       icon: tabler:truck-delivery
-    - title: Lager i USA
-      description: 'Lager i Montclair, CA för snabb leverans över hela Nordamerika. Västkusten: 2-3 dagar, Centrala: 3-4 dagar, Östkusten: 4-5 dagar.'
+    - title: US Warehouse
+      description: 'Stock held in Montclair, CA for fast delivery across North America. West Coast: 2-3 days, Central: 3-4 days, East Coast: 4-5 days.'
       icon: tabler:building-warehouse
-    - title: Reservdelar
-      description: Äkta olagoon-reservdelar och förbrukningsartiklar finns i lager året runt. Vanliga delar skickas inom 24 timmar.
+    - title: Spare Parts
+      description: 'Genuine olagoon spare parts and consumables stocked year-round. Common parts ship within 24 hours.'
       icon: tabler:package
-    - title: Teknisk support
-      description: Direktlinje till vårt ingenjörsteam för tekniska frågor, reparationsråd och reservdelsstöd. Vi stödjer brädor vi byggde för 20 år sedan.
+    - title: Technical Support
+      description: 'Direct line to our engineering team for technical questions, repair advice, and replacement-part support. We support every pool generation we have built.'
       icon: tabler:headset
 cta:
-  title: Vill du bli distributör?
-  subtitle: Vi expanderar aktivt vårt distributionsnätverk. Kontakta vår exportavdelning för att diskutera partnerskapsmöjligheter.
+  title: 'Want to become a distributor?'
+  subtitle: 'We are actively expanding our distribution network. Contact our export team to discuss partnership opportunities.'
   actions:
     - variant: primary
-      text: Förfrågan om partnerskap
+      text: Partnership inquiry
       href: /contact/
-    - text: Se vår produktpalett
+    - text: View our product range
       href: /products/

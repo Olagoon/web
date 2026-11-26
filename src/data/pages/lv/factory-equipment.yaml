@@ -1,87 +1,87 @@
 meta:
-  title: 'Rūpnīcas aprīkojums — griešana, RF metināšana un druka | {SITE}'
-  description: 'Rūpnieciska līmeņa olagoon ražošanas aprīkojums: PVC griešana, RF metināšana, digitālā druka, montāža un piepūšamo SUP dēļu testēšana.'
+  title: 'Factory Equipment — Cutting, RF Welding & Printing | {SITE}'
+  description: 'Industrial-grade olagoon manufacturing equipment: PVC cutting, RF welding, digital printing, assembly, and testing for inflatable pools.'
   keywords:
-    - 'sup ražošanas aprīkojums'
-    - 'piepūšamo sup rūpnīca'
-    - 'rf metināšana pvc'
-    - 'airu dēļu ražošana'
+    - 'pool manufacturing equipment'
+    - 'inflatable pools factory'
+    - 'rf welding pvc'
+    - 'inflatable pool production'
 hero:
-  tagline: 'Aprīkojums'
-  title: 'Ražošanas aprīkojums un mašīnas'
-  subtitle: 'Rūpnieciska līmeņa aprīkojums griešanai, metināšanai, drukai un montāžai'
-  back_label: 'Atpakaļ uz rūpnīcu'
+  tagline: Equipment
+  title: Manufacturing Equipment & Machinery
+  subtitle: Industrial-grade equipment across cutting, welding, printing, and assembly
+  back_label: Back to Factory
   back_link: /factory/
 
 categories:
-  - title: 'Griešana un materiālu sagatavošana'
+  - title: Cutting & Material Preparation
     items:
-      - name: 'Automatizētā PVC griešanas mašīna'
-        spec: 'CNC kontrolēta, 6.5 m × 2.5 m, 0.1 mm precizitāte'
-        desc: 'Ar datoru kontrolēta automātiskā griešanas mašīna PVC un Drop-Stitch audumiem. Izkārtojuma programmatūra optimizē materiālu izmantošanu, atkritumus samazinot zem 5%.'
-      - name: 'Auduma izklājējs'
-        spec: 'Maksimālais platums 3 m, ar sprieguma kontroli vadāma pievade'
-        desc: 'Izklāj audumu vienā vai vairākos slāņos ar kontrolētu spriegumu, lai novērstu deformāciju pirms griešanas.'
+      - name: Automatic PVC Cutting Machine
+        spec: CNC-controlled, 6.5 m × 2.5 m, 0.1 mm accuracy
+        desc: Computer-controlled automatic cutting machine for PVC and drop-stitch fabrics. Nesting software optimises material utilisation to below 5% waste.
+      - name: Fabric Spreader
+        spec: 3 m max width, tension-controlled feed
+        desc: Lays fabric in single or multiple plies with controlled tension to prevent distortion before cutting.
 
-  - title: 'Cilindru metināšana un līmēšana'
+  - title: Tube Welding & Bonding
     items:
-      - name: 'Termiskās noslēgšanas mašīna'
-        spec: 'Karstā gaisa metināšana, regulējams 200–600 °C, 0.5–5 m/min'
-        desc: 'Karstā gaisa termiskās noslēgšanas mašīna PVC un sānu malu šuvju līmēšanai un metināšanai. Izmanto kameru un peldošo savienojumu piestiprināšanai, noslēgšanai un kausēšanai.'
-      - name: 'Dielektriskā RF prese'
-        spec: '15 kW, plātne 2000 × 600 mm'
-        desc: 'Radiofrekvences metināšanas prese galvenajām garenajām šuvēm, sānu malu joslām un lielo kameru izgatavošanai.'
-      - name: 'CNC kontrolēts RF metinātājs'
-        spec: '8 kW, XY galds 2500 × 1200 mm'
-        desc: 'Programmējama izliekto šuvju metināšana sarežģītām ģeometrijām, logotipu reljefam un precīzai plāksteru darbam.'
+      - name: Heat Sealing Machine
+        spec: Hot-air welding, variable 200–600 °C, 0.5–5 m/min
+        desc: Hot-air heat sealing machine for bonding and welding PVC and rail seams. Used for tacking, sealing, and fusing tube chambers and float joints.
+      - name: Dielectric RF Press
+        spec: 15 kW, platen 2000 × 600 mm
+        desc: Radio-frequency welding press for main longitudinal seams, rail bands, and large-chamber fabrication.
+      - name: CNC-Controlled RF Welder
+        spec: 8 kW, XY table 2500 × 1200 mm
+        desc: Programmable curved-seam welding for complex geometries, logo embossing, and precision patchwork.
 
-  - title: 'SUP dēļu ražošana'
+  - title: pools Manufacturing
     items:
-      - name: 'Drop-Stitch kodola laminēšanas prese'
-        spec: 'Lielformāta prese dēļu kodoliem līdz 14 pēdu LOA'
-        desc: 'Precīza Drop-Stitch kodolu laminēšana ar ārējiem PVC laminātiem. Katrs slānis tiek spiediena līmēts nemainīgai kvalitātei un stiprībai.'
-      - name: 'CNC frēzmašīna (5 asi)'
-        spec: 'Darba telpa 3 m × 2 m × 1 m, ar ūdeni dzesēts vārpsts'
-        desc: 'Spuru kastu, rokturu izgriezumu un pielāgotu dēļu komponentu apstrāde.'
+      - name: Drop-Stitch Core Lamination Press
+        spec: Large-format press for drop-stitch cores up to 5 m length
+        desc: Precision lamination of drop-stitch cores to outer PVC laminates. Each layer is pressure-bonded for consistent quality and strength.
+      - name: CNC Router (5-axis)
+        spec: 3 m × 2 m × 1 m envelope, water-cooled spindle
+        desc: Machining of valve ports, handle cutouts, and custom pool components.
 
-  - title: 'SUP druka un noformējums'
+  - title: pool Printing & Decoration
     items:
-      - name: 'Digitālais printeris'
-        spec: 'Augstas izšķirtspējas tintes druka, līdz 2 m drukas platums'
-        desc: 'Tieša digitālā druka uz auduma pilnkrāsas SUP klāja grafikai. Drukā pielāgotus rakstus, pārejas un foto kvalitātes attēlus ar UV izturīgām uz ūdens bāzes tintēm.'
-      - name: 'Sitiena drukas mašīna'
-        spec: 'Manuāla un pusautomātiska, daudzkrāsu reģistrācija'
-        desc: 'Sitiena druka SUP dēļu logotipiem, zīmolu zīmēm un atkārtojošiem rakstiem. Nodrošina izturīgus, necaurspīdīgus uzdrukumus ar spilgtu krāsu piesātinājumu.'
+      - name: Digital Printer
+        spec: High-resolution inkjet, up to 2 m print width
+        desc: Direct-to-fabric digital printing for full-colour pool deck graphics. Prints custom patterns, gradients, and photo-quality images with UV-resistant water-based inks.
+      - name: Screen Printing Machine
+        spec: Manual and semi-automatic, multi-colour registration
+        desc: Screen printing for pools logos, brand marks, and repeating patterns. Provides durable, opaque prints with vibrant colour saturation.
 
-  - title: 'Montāža un aprīkošana'
+  - title: Assembly & Rigging
     items:
-      - name: 'Dēļu montāžas stacija'
-        spec: 'Modulāra, regulējama, daudzstaciju izkārtojums'
-        desc: 'Spuru kastu, rokturu, D-gredzenu, vārstu un klāja pārklājumu montāža uz SUP dēļiem.'
-      - name: 'Vārstu uzstādīšanas prese'
-        spec: 'Pneimatiska, regulējams spiediens'
-        desc: 'Precīza Halkey-Roberts un Leafield vārstu uzstādīšana un noslēgšana.'
-      - name: 'Klāja pārklājuma laminators'
-        spec: '3 m × 1.5 m, ar temperatūras kontroli'
-        desc: 'EVA putuplasta klāja pārklājumu termiskā laminēšana pie SUP dēļu augšdaļas ar nemainīgu līmes stiprību.'
+      - name: Pool Assembly Station
+        spec: Modular adjustable, multi-station layout
+        desc: Assembly of fin boxes, handles, D-rings, valves, and deck pads onto pools.
+      - name: Valve Installation Press
+        spec: Pneumatic, adjustable pressure
+        desc: Precision installation and sealing of Halkey-Roberts and Leafield valves.
+      - name: Deck Pad Laminator
+        spec: 3 m × 1.5 m, temperature-controlled
+        desc: Heat lamination of EVA foam deck pads to pools tops with consistent bond strength.
 
-  - title: 'Testēšana un kvalitātes kontrole'
+  - title: Testing & Quality Control
     items:
-      - name: 'Universālais stiepes testētājs'
-        spec: '50 kN, ASTM D751'
-        desc: 'Plīšanas spēka, pagarinājuma plīstot un plīsuma izplatības testēšana audumu partijām.'
-      - name: 'Gaisa noturības testēšanas iekārta'
-        spec: 'Programmējama, 30 min spiediena noturēšana'
-        desc: 'Automatizēts spiediena noturēšanas tests katrai kameras cilpai pirms montāžas.'
-      - name: 'Šuvju atlobīšanas testētājs'
-        spec: 'Motorizēta 180° atlobīšana pie 100 mm/min'
-        desc: 'Metinājumu un līmēto šuvju atlobīšanas stiprības testēšana saskaņā ar EN ISO 25649.'
-      - name: 'Ksenona loka atmosfēras iedarbes kamera'
-        spec: '2000 h iedarbība'
-        desc: 'UV izturības testēšana krāsas maiņas un izturības saglabāšanas noteikšanai.'
+      - name: Universal Tensile Tester
+        spec: 50 kN, ASTM D751
+        desc: Breaking force, elongation at break, and tear propagation testing for fabric batches.
+      - name: Air Retention Test Rig
+        spec: Programmable, 30-min pressure-hold
+        desc: Automated pressure-hold test for every tube chamber before assembly.
+      - name: Seam Peel Tester
+        spec: Motorised 180° peel at 100 mm/min
+        desc: Weld and glued-seam peel strength testing per EN ISO 25649.
+      - name: Xenon-Arc Weathering Chamber
+        spec: 2000 h exposure
+        desc: UV resistance testing for colour change and strength retention.
 
 cta:
-  title: 'Vai jūs interesē rūpnīcas apmeklējums?'
-  desc: 'Mēs laipni gaidām apmeklētājus mūsu Cindao objektā. Apskatiet mūsu aprīkojumu un procesus klātienē.'
-  label: 'Ieplānot apmeklējumu →'
+  title: Interested in a factory tour?
+  desc: We welcome visitors to our Qingdao facility. See our equipment and processes in person.
+  label: Schedule a visit →
   link: /contact/

@@ -1,29 +1,29 @@
 meta:
   title: 'Safety — Standards & Certifications | {SITE}'
-  description: 'olagoon product safety: CE certified inflatable SUPs, rigorous testing, and compliance with international nautical safety standards.'
+  description: 'OLagoon product safety: CE certified inflatable pools, rigorous testing, and compliance with international safety standards.'
   keywords:
-    - 'sup safety standards'
-    - 'ce certified paddle board'
-    - 'inflatable sup safety'
-    - 'nautical safety compliance'
+    - 'pool safety standards'
+    - 'ce certified inflatable pool'
+    - 'inflatable pools safety'
+    - 'backyard pool compliance'
 hero:
   tagline: Safety
   title: Safety Standards & Certification
-  subtitle: Every olagoon product undergoes rigorous testing and meets international safety standards for recreational and professional use.
+  subtitle: Every OLagoon product undergoes rigorous testing and meets international safety standards for family and professional use.
 
 certifications:
   - title: CE Certification
-    description: All olagoon safety equipment complies with CE marking requirements under the European Personal Protective Equipment Regulation (EU) 2016/425.
-  - title: ISO 12402 Certification
-    description: Life vests meet ISO 12402 flotation standards. The Life Vest Classic provides 50N+ buoyancy; the Life Vest Pro meets SOLAS requirements with automatic inflation.
-  - title: SOLAS Compliance
-    description: The Life Vest Pro complies with SOLAS (Safety of Life at Sea) regulations for offshore and commercial marine operations.
+    description: All OLagoon pools comply with CE marking requirements under applicable European regulations for domestic inflatable swimming pools, including material safety and structural integrity testing.
+  - title: EN 71-8 Testing
+    description: Inflatable pools intended for domestic use are tested against EN 71-8 requirements for inflatable activity equipment — material strength, entrapment hazards, and structural integrity under load.
+  - title: REACH & RoHS Compliance
+    description: All pool materials — PVC fabrics, adhesives, and valve components — comply with EU REACH and RoHS regulations. No restricted substances, no compromises.
 
 related:
   title: Related
   links:
-    - text: Safety Tips Guide
-      url: /guides/safety-tips
+    - text: Pool Safety Essentials Guide
+      url: /guides/pool-safety-essentials
     - text: Technology
       url: /technology
     - text: All Products

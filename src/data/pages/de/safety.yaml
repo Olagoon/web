@@ -1,30 +1,32 @@
 meta:
-  title: 'Sicherheit — Standards & Zertifizierungen | {SITE}'
-  description: 'Produktsicherheit von olagoon: CE-zertifizierte aufblasbare SUPs, strenge Prüfungen und Konformität mit internationalen nautischen Sicherheitsstandards.'
+  title: 'Safety — Standards & Certifications | {SITE}'
+  description: 'OLagoon product safety: CE certified inflatable pools, rigorous testing, and compliance with international safety standards.'
   keywords:
-    - 'SUP-Sicherheitsstandards'
-    - 'CE-zertifiziertes Paddleboard'
-    - 'Sicherheit aufblasbarer SUPs'
-    - 'nautische Sicherheitskonformität'
+    - 'pool safety standards'
+    - 'ce certified inflatable pool'
+    - 'inflatable pools safety'
+    - 'backyard pool compliance'
 hero:
-  tagline: Sicherheit
-  title: Sicherheitsstandards und Zertifizierung
-  subtitle: Jedes olagoon-Produkt wird strengen Tests unterzogen und erfüllt internationale Sicherheitsstandards für Freizeit- und Berufsgebrauch.
+  tagline: Safety
+  title: Safety Standards & Certification
+  subtitle: Every OLagoon product undergoes rigorous testing and meets international safety standards for family and professional use.
+
 certifications:
-  - title: CE-Zertifizierung
-    description: Alle olagoon-Sicherheitsausrüstungen entsprechen den CE-Kennzeichnungsanforderungen der Europäischen Verordnung über persönliche Schutzausrüstung (EU) 2016/425.
-  - title: ISO 12402
-    description: Schwimmwesten erfüllen die ISO 12402-Auftriebsstandards. Die Life Vest Classic bietet 50N+ Auftrieb; die Life Vest Pro erfüllt SOLAS-Anforderungen mit automatischer Aufblasung.
-  - title: SOLAS-Konformität
-    description: Die Life Vest Pro entspricht den SOLAS-Vorschriften (Sicherheit des Lebens auf See) für Offshore- und gewerbliche Einsätze auf See.
+  - title: CE Certification
+    description: All OLagoon pools comply with CE marking requirements under applicable European regulations for domestic inflatable swimming pools, including material safety and structural integrity testing.
+  - title: EN 71-8 Testing
+    description: Inflatable pools intended for domestic use are tested against EN 71-8 requirements for inflatable activity equipment — material strength, entrapment hazards, and structural integrity under load.
+  - title: REACH & RoHS Compliance
+    description: All pool materials — PVC fabrics, adhesives, and valve components — comply with EU REACH and RoHS regulations. No restricted substances, no compromises.
+
 related:
-  title: Verwandte Themen
+  title: Related
   links:
-    - text: Sicherheitstipps
-      url: /guides/safety-tips
-    - text: Technologie
+    - text: Pool Safety Essentials Guide
+      url: /guides/pool-safety-essentials
+    - text: Technology
       url: /technology
-    - text: Alle Produkte
+    - text: All Products
       url: /products
-    - text: Ratgeber
+    - text: Guides
       url: /guides

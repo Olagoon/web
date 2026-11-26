@@ -1,117 +1,117 @@
 meta:
-  title: 'Mitra Negara — Satu Negara, Satu Distributor Resmi OLagoon | {SITE}'
-  description: 'Ajukan diri menjadi distributor resmi OLagoon untuk negara Anda. Satu mitra resmi per pasar, perlindungan wilayah, margin langsung dari pabrik, rabat tahunan, dan program dukungan mitra negara 10 modul untuk distributor SUP dan olahraga air global.'
+  title: 'Country Partners — One Country, One Official OLagoon Distributor | {SITE}'
+  description: 'Apply to become the official OLagoon distributor for your country. One authorized partner per market, territory protection, direct-factory margins, annual rebates, and a 10-module country partner support program for global pool and water sports distributors.'
   keywords:
-    - 'program kemitraan negara'
-    - 'menjadi distributor'
-    - 'distributorship sup'
-    - 'satu negara satu distributor'
-    - 'distributor stand up paddle'
-    - 'distribusi olahraga air'
-    - 'pengajuan kemitraan negara'
+    - 'country partnership program'
+    - 'become a distributor'
+    - 'pool distributorship'
+    - 'one country one distributor'
+    - 'stand up paddle distributor'
+    - 'water sports distribution'
+    - 'country partnership application'
 hero:
-  tagline: 'Kemitraan Negara'
-  title: 'Satu Negara.<br />Satu Distributor Resmi OLagoon.'
-  subtitle: 'OLagoon menunjuk satu distributor negara resmi untuk setiap pasar yang disetujui. Wilayah eksklusif, harga dealer dengan rabat tahunan, dan program dukungan distributor lengkap — sebagai imbalan atas perjanjian yang ditandatangani dan komitmen nyata untuk membangun pasar.'
+  tagline: 'Country Partnership'
+  title: 'One Country.<br />One Official OLagoon Distributor.'
+  subtitle: 'OLagoon appoints a single authorized country distributor for each approved market. Exclusive territory, dealer pricing with annual rebates, and a full distributor support program — in exchange for a signed agreement and a real commitment to build the market.'
   actions:
-    - text: 'Ajukan Kemitraan Negara'
+    - text: 'Apply for Country Partnership'
       href: /contact/?subject=Country Partnership Application
       variant: primary
-    - text: 'Temukan Distributor Lokal Anda'
+    - text: 'Find Your Local Distributor'
       href: /distributor-program/
       variant: secondary
-    - text: 'Minta Daftar Harga Dealer'
+    - text: 'Request Dealer Price List'
       href: /contact/?subject=Dealer Price List
       variant: secondary
 stats:
   - value: '1'
-    label: 'Distributor resmi per negara atau wilayah'
+    label: 'Official distributor per country or region'
   - value: '100–300'
-    label: 'Pesanan pertama minimum (Negara / Regional)'
+    label: 'Minimum first order (Country / Regional)'
   - value: '50+'
-    label: 'Negara yang dilayani secara global'
-  - value: '30–45'
-    label: 'Hari waktu pengerjaan standar (FOB Qingdao)'
+    label: 'Countries served globally'
+  - value: '12–16'
+    label: 'Weeks standard lead time (FOB Qingdao)'
 features:
-  title: 'Mengapa Bermitra Dengan OLagoon'
-  subtitle: 'Model satu-negara-satu-distributor dengan struktur dukungan yang membuat wilayah tersebut menguntungkan. Eksklusivitas diraih dan dipertahankan — bukan merupakan hak permanen.'
+  title: 'Why Partner With OLagoon'
+  subtitle: 'A one-country-one-distributor model with the support structure to make the territory pay. Exclusivity is earned and maintained — not a permanent right.'
   columns: 3
   items:
-    - title: 'Eksklusivitas Wilayah'
-      description: 'Satu distributor resmi per negara atau wilayah. Tanpa impor paralel, tanpa persaingan internal. Investasi Anda membangun keunggulan kompetitif Anda sendiri.'
+    - title: 'Territory Exclusivity'
+      description: 'One authorized distributor per country or region. No parallel imports, no internal competition. Your investment builds your own moat.'
       icon: 'tabler:shield-check'
-    - title: 'Perlindungan dari Konflik Kanal'
-      description: 'Pesanan langsung dari wilayah Anda diarahkan melalui Anda, dan penetapan harga melindungi margin Anda. OLagoon tidak menjual dengan melewati mitra negaranya.'
+    - title: 'Channel Conflict Protection'
+      description: 'Direct orders from your region are routed through you, and pricing protects your margin. OLagoon does not sell around its country partners.'
       icon: 'tabler:users'
-    - title: 'Margin Langsung Pabrik & Rabat'
-      description: 'Daftar harga dealer dengan rabat atas volume yang dikomitmenkan. Tanpa perantara. Pengiriman FOB Qingdao dengan dokumentasi ekspor lengkap.'
+    - title: 'Direct-Factory Margins & Rebates'
+      description: 'Dealer price list with rebates on committed volumes. No middlemen. FOB Qingdao shipping with full export documentation.'
       icon: 'tabler:coins'
-    - title: 'Program Dukungan Mitra 10 Modul'
-      description: 'Onboarding, go-to-market, pelatihan, pemasaran dan pendanaan pasar bersama, suku cadang dan purnajual, garansi, alat pemesanan, dan portal mitra — tercakup dalam Perjanjian Distribusi Anda.'
+    - title: '10-Module Partner Support Program'
+      description: 'Onboarding, go-to-market, training, marketing and joint market funding, spare parts and after-sales, warranty, ordering tools, and a partner portal — covered in your Distribution Agreement.'
       icon: 'tabler:rocket'
-    - title: 'Pemasaran & Dana Pasar Bersama'
-      description: 'Aset kampanye terlokalisasi, materi POS dealer, kit acara, konten digital dalam berbagai bahasa, dan dukungan co-marketing untuk musim peluncuran.'
+    - title: 'Marketing & Joint Market Funds'
+      description: 'Localized campaign assets, dealer POS materials, event kits, digital content in multiple languages, and co-marketing support for launch seasons.'
       icon: 'tabler:mood-smile'
-    - title: 'Pelatihan Produk, Penjualan & Teknis'
-      description: 'Sesi onboarding terstruktur tentang produk, penjualan, dan pengetahuan teknis, dengan materi yang diperbarui seiring perkembangan lini produk.'
+    - title: 'Product, Sales & Technical Training'
+      description: 'Structured onboarding sessions on product, sales, and technical knowledge, with updated materials as the range evolves.'
       icon: 'tabler:presentation'
-    - title: 'Suku Cadang & Dukungan Purnajual'
-      description: 'Pasokan suku cadang, registrasi garansi dan penanganan klaim, serta lembar data produk dan manual untuk tim layanan lokal Anda.'
+    - title: 'Spare Parts & After-Sales Support'
+      description: 'Spare parts supply, warranty registration and claims handling, and product datasheets and manuals for your local service team.'
       icon: 'tabler:settings'
-    - title: 'Manajer Akun Khusus & Portal Mitra'
-      description: 'Manajer distributor pribadi plus akses ke daftar harga, status pesanan, dan sumber daya pemasaran melalui portal mitra OLagoon.'
+    - title: 'Dedicated Account Manager & Partner Portal'
+      description: 'A personal distributor manager plus access to price lists, order status, and marketing resources through the OLagoon partner portal.'
       icon: 'tabler:user-check'
 table:
-  title: 'Tingkatan Kemitraan, MOQ & Ketentuan Pesanan'
-  subtitle: 'Pilih tingkatan yang sesuai dengan potensi pasar Anda. Semua harga dalam USD, FOB Qingdao.'
-  caption: 'Pesanan sampel dan uji coba (5–30 unit) tidak membawa perlindungan wilayah. Eksklusivitas negara hanya berlaku untuk perjanjian Distributor Negara / Regional yang ditandatangani — dipertahankan melalui penyelesaian pesanan pertama, target pembelian tahunan, stok lokal, kemampuan purnajual, dan investasi pasar yang berkelanjutan, dan bukan merupakan hak permanen atau abadi.'
+  title: 'Partnership Tiers, MOQ & Order Terms'
+  subtitle: 'Choose the tier that matches your market potential. All prices in USD, FOB Qingdao.'
+  caption: 'Sample and trial orders (5–30 units) carry no territorial protection. Country exclusivity applies only to signed Country / Regional Distributor agreements — it is maintained by first-order completion, annual purchase targets, local stock, after-sales capability, and continued market investment, and is not a permanent or perpetual right.'
   head:
-    - 'Tingkatan Program'
-    - 'Pesanan Minimum (unit)'
-    - 'Waktu Pengerjaan'
-    - 'Pembayaran'
+    - Program Tier
+    - Minimum Order (units)
+    - Lead Time
+    - Payment
   rows:
-    - ['Sampel / Evaluasi Produk', '5–10', '15–20 hari kerja', '100% dibayar di muka']
-    - ['Pesanan Uji Coba', '10–30', '30–45 hari kerja', '100% dibayar di muka']
-    - ['Dealer Resmi', '30–50', '30–45 hari kerja', '30% deposit / 70% sebelum pengiriman']
-    - ['Distributor Negara / Regional', '100–300', '30–45 hari kerja', '30% deposit / 70% sebelum pengiriman']
-    - ['Kustom & Label Pribadi (standar)', '50+', '30–45 hari kerja', '30% deposit / 70% sebelum pengiriman']
-    - [Kustom Mendalam (cetakan baru, kemasan), '200+', '45–60 hari kerja', '30% deposit / 70% sebelum pengiriman']
-    - ['Hak Lini Produk Penuh', '300–1,000', '60–90 hari kerja', '30% deposit / 70% sebelum pengiriman']
+    - [Sample / Product Evaluation, 5–10, 15–20 working days, 100% prepaid]
+    - [Trial Order, 10–30, 15–20 working days, 100% prepaid]
+    - [Authorized Dealer, 30–50, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Country / Regional Distributor, 100–300, 10–14 weeks, 30% deposit / 70% before shipment]
+    - [Custom & Private Label (standard), 50+, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Deep Custom (new molds, packaging), 200+, 12–16 weeks + 15–20 days tooling, 30% deposit / 70% before shipment]
+    - [Full Product Line Rights, '300–1,000', 10–14 weeks, 30% deposit / 70% before shipment]
 faqs:
-  title: 'Kemitraan Negara — FAQ'
-  subtitle: 'Pertanyaan yang diajukan calon mitra negara yang serius sebelum mendaftar.'
+  title: 'Country Partnership — FAQ'
+  subtitle: 'The questions serious country partners ask before applying.'
   items:
-    - title: 'Apa arti sebenarnya dari satu-negara-satu-distributor?'
-      description: 'OLagoon menunjuk satu distributor resmi dengan hak eksklusif untuk wilayah yang ditetapkan. Kami tidak menjual dari kanal global atau regional kami ke dalam negara yang dilindungi. Kepemilikan wilayah Anda berlaku selama Perjanjian Distribusi dipenuhi.'
-    - title: 'Apakah wilayahnya eksklusif selamanya?'
-      description: 'Tidak. Eksklusivitas bersifat bersyarat, bukan abadi. Eksklusivitas dipertahankan melalui Perjanjian Distribusi yang ditandatangani, penyelesaian pesanan pertama Anda, target pembelian tahunan, stok lokal, kemampuan purnajual, dan investasi pasar yang berkelanjutan. Jika hal-hal ini tidak dipenuhi, wilayah dapat dinegosiasikan ulang atau ditugaskan kembali.'
-    - title: 'Berapa pesanan pertama minimum?'
-      description: 'Distributor negara dan regional mulai dari 100–300 unit; dealer resmi dari 30–50 unit; pesanan uji coba dari 10–30 unit memungkinkan Anda memvalidasi pasar terlebih dahulu (pesanan uji coba dan sampel tidak membawa perlindungan wilayah). Program kustom dan label pribadi mengikuti MOQ terpisah yang tercantum dalam tingkatan di atas.'
-    - title: 'Dukungan apa saja yang termasuk dalam program dukungan 10 modul?'
-      description: 'Tingkatan dan kualifikasi, perlindungan wilayah, MOQ / harga / rabat tahunan, inventori dan eksekusi pesanan, aset pemasaran dan dana pasar bersama, pelatihan produk / penjualan / teknis, suku cadang dan purnajual, registrasi garansi, portal mitra, serta lembar data produk, pustaka aset pemasaran, jadwal rabat tahunan, dan daftar pengiriman dan pengemasan.'
-    - title: 'Bagaimana OLagoon melindungi saya dari konflik kanal?'
-      description: 'Setiap wilayah memiliki tepat satu distributor resmi. Pertanyaan dan pesanan langsung dari wilayah Anda diarahkan melalui Anda, formulir situs web diteruskan kepada mitra lokal jika ada, dan tim global hanya mengeskalasi ketika mitra tidak merespons.'
-    - title: 'Apa ketentuan pengiriman dan pembayaran?'
-      description: 'Pesanan dikirim FOB Qingdao dengan dokumentasi ekspor lengkap. Pesanan produksi menggunakan 30% deposit dengan 70% sebelum pengiriman; pesanan uji coba dan sampel dibayar di muka. Waktu pengerjaan standar adalah 30–45 hari kerja, dengan 15–20 hari kerja untuk produksi sampel.'
-    - title: 'Bagaimana cara mendaftar?'
-      description: 'Kirim pengajuan Anda melalui formulir kontak dengan rincian pasar. Kami meninjau kesesuaian pasar, kehadiran ritel, dan kemampuan logistik, lalu merespons dalam 3 hari kerja dengan langkah selanjutnya dan draf Perjanjian Distribusi.'
+    - title: 'What does one-country-one-distributor really mean?'
+      description: 'OLagoon appoints a single authorized distributor with exclusive rights for a defined territory. We do not sell from our global or regional channels into a protected country. Your territory ownership holds for as long as the Distribution Agreement is met.'
+    - title: 'Is the territory exclusive forever?'
+      description: 'No. Exclusivity is conditional, not perpetual. It is maintained through a signed Distribution Agreement, completion of your first order, annual purchase targets, local stock, after-sales capability, and continued market investment. If these are not met, the territory can be renegotiated or reassigned.'
+    - title: 'What is the minimum first order?'
+      description: 'Country and regional distributors start at 100–300 units; authorized dealers at 30–50 units; trial orders from 10–30 units let you validate the market first (trial and sample orders carry no territory protection). Custom and private-label programs follow separate MOQs listed in the tiers above.'
+    - title: 'What support is included in the 10-module support program?'
+      description: 'Tiers and qualification, territory protection, MOQ / pricing / annual rebates, inventory and order execution, marketing assets and joint market funds, product / sales / technical training, spare parts and after-sales, warranty registration, the partner portal, and product datasheets, marketing asset library, annual rebate schedule, and shipping and packing lists.'
+    - title: 'How does OLagoon protect me from channel conflict?'
+      description: 'Each territory has exactly one authorized distributor. Inquiries and direct orders from your region are routed through you, website forms are forwarded toward the local partner where one exists, and the global team only escalates when a partner does not respond.'
+    - title: 'What are the shipping and payment terms?'
+      description: 'Orders ship FOB Qingdao with full export documentation. Production orders are 30% deposit with 70% before shipment; trial and sample orders are prepaid. Production runs take 12–16 weeks at 50–100 units, 10–14 weeks at 300–1,000 units, and 8–12 weeks above 1,000 units; sample runs ship in 15–20 working days.'
+    - title: 'How do I apply?'
+      description: 'Send your application via the contact form with market details. We review market fit, retail presence, and logistics capability, then respond within 3 business days with next steps and a sample Distribution Agreement.'
 cta:
-  title: 'Miliki pasar Anda.'
-  subtitle: 'Ajukan Kemitraan Negara OLagoon dan dapatkan respons dalam 3 hari kerja.'
+  title: 'Own your market.'
+  subtitle: 'Apply for the OLagoon Country Partnership and get a response within 3 business days.'
   actions:
-    - text: 'Ajukan Kemitraan Negara'
+    - text: 'Apply for Country Partnership'
       href: /contact/?subject=Country Partnership Application
       variant: primary
-    - text: 'Unduh Ringkasan Program'
+    - text: 'Download the Program Overview'
       href: /distributor-program/
       variant: secondary
 geo:
-  tagline: 'Dengan Siapa Kami Bermitra'
-  sentence: 'OLagoon bermitra dengan distributor bahari, outdoor, dan olahraga yang telah mapan yang melayani jaringan ritel, armada sewa, sekolah olahraga air, resor, dan pembeli pemerintah dengan papan SUP tiup premium dan kapal air — serta yang berkomitmen membangun merek OLagoon di negara mereka.'
+  tagline: 'Who We Partner With'
+  sentence: 'OLagoon partners with established marine, outdoor, and sports distributors who serve retail chains, rental fleets, water sports schools, resorts, and government buyers with premium inflatable pools and watercraft — and who commit to building the OLagoon brand in their country.'
   audiences:
-    - 'Distributor Bahari & Olahraga Dayung'
-    - 'Ritel Outdoor & Olahraga'
-    - 'Operator Penyewaan & Resor'
-    - 'Sekolah Olahraga Air'
-    - 'Komunitas Olahraga Samudra'
+    - 'Marine & Paddle Sports Distributors'
+    - 'Outdoor & Sports Retail'
+    - 'Rental & Resort Operators'
+    - 'Water Sports Schools'
+    - 'Ocean Sports Communities'

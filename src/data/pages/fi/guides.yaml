@@ -1,25 +1,26 @@
 meta:
-  title: 'SUP-oppaat — osta, valitse, harjoittele | {SITE}'
-  description: 'olagoonin SUP-oppaat: miten ostaa, valita ja harjoitella paddle boardingia. Koot, materiaalit ja asiantuntijavinkit aloittelijoille ja ammattilaisille.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'SUP-ostoopas'
-    - 'miten valita SUP'
-    - 'SUP-kokoopas'
-    - 'täytettävän paddle boardin vinkit'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: Oppaat
-  title: Uusi SUP:n parissa?
-  subtitle: Käytännönläheisiä oppaita täytettävien SUP-lautojen valintaan, käyttöön ja niistä nauttimiseen.
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
+
 size_guide:
-  tagline: Koko ja tekniset tiedot
-  title: Löydä oikea koko tarpeitasi varten
-  desc: Vertaile SUP-lautasien mittoja, kuormituskykyä ja suositeltuja käyttökohteita. Tarvitsetko matkailu-SUPin, joogalautaan vai monikäyttöisen SUPin — koko-opas auttaa sinua valitsemaan oikean koon.
-  link_label: Täysikokoinen opas tuotteiden eritelmillä →
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: SUP-laudat
-      desc: Valitse pituus painosi ja käyttötarkoituksen mukaan. Leveämmät laudat (32"+) tarjoavat enemmän vakautta. Pidemmät laudat (11–12 ft) seuraavat paremmin matkailussa.
-    - title: Matkailu-SUP-laudat
-      desc: Pidemmät laudat (11–12 ft) kattamaan matkaa ja suoraan suuntaamiseen. Tarpeeksi vakaita retkeilyyn varusteiden kanssa. Tarkista aina kokonaiskuorma.
-    - title: Yleiskäyttöiset SUP-laudat
-      desc: Valitse pituus ajajan painon ja käyttötarkoituksen mukaan. Leveämmät laudat (32"+) tuovat vakautta. Monipuolinen virkistyskäyttöön ja kuntoiluun.
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

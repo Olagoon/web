@@ -1,55 +1,58 @@
 meta:
-  title: 'Fabricación OEM y de Marca Privada | {SITE}'
-  description: 'De la idea al contenedor: personalice cada detalle de su línea de SUP hinchable. Servicio OEM/ODM completo para marcas de paddle surf de marca privada.'
+  title: 'OEM & Private Label Manufacturing | {SITE}'
+  description: 'From concept to container: customize every detail of your inflatable pools line. Full OEM/ODM service for private label inflatable pool brands.'
   keywords:
-    - 'fabricación OEM de SUP'
-    - 'paddle surf de marca privada'
-    - 'SUP hinchable OEM'
-    - 'fábrica de SUP personalizada'
+    - 'oem pool manufacturing'
+    - 'private label inflatable pool'
+    - 'oem inflatable pools'
+    - 'custom pool factory'
 hero:
-  tagline: Fabricación OEM/ODM
-  title: Fabricación OEM y de Marca Privada
-  subtitle: De la idea al contenedor — personalice cada detalle de su línea de SUP hinchable
-intro: >-
-  OLagoon ofrece servicios integrales de OEM y ODM para marcas, distribuidores y agencias gubernamentales en todo el mundo. Con 10 años de experiencia en exportación y una fábrica de 12,000 m² certificada ISO 9001 y BSCI, manejamos todo, desde el diseño del producto y el desarrollo de moldes hasta la
-  producción a gran escala, el envasado y la logística.
+  tagline: OEM/ODM Manufacturing
+  title: OEM & Private Label Manufacturing
+  subtitle: From concept to container — customize every detail of your inflatable pools line
+
+intro: olagoon offers comprehensive OEM and ODM services for brands, distributors, and government agencies worldwide. With 10+ years of export experience and a 12,000 m² ISO 9001 & BSCI certified factory, we handle everything from product design and mold development to full-scale production, packaging, and logistics.
+
 highlight:
-  - value: '10+'
-    label: Años de experiencia en OEM
-    detail: Desde 2012
-  - value: '50+'
-    label: Países exportadores
-    detail: Alcance global
-  - value: '200+'
-    label: Proyectos personalizados entregados
-    detail: A través de todas las líneas de productos
-  - value: 30–45
-    label: Plazo estándar de entrega (días)
-    detail: De PO a FOB
+  - value: 10+
+    label: Years OEM experience
+    detail: Since 2012
+  - value: 50+
+    label: Export countries
+    detail: Global reach
+  - value: 200+
+    label: Custom projects delivered
+    detail: Across all product lines
+  - value: 12–16
+    label: Standard lead time (weeks)
+    detail: 50–100 units, from PO to FOB
+
 services:
-  - title: Diseño y Ingeniería de Productos
-    description: Nuestro equipo de I+D interno trabaja con su concepto o especificación para desarrollar dibujos CAD, modelos 3D y prototipos. Ofrecemos diseño de moldes, optimización de la forma del casco y orientación en la selección de materiales.
-  - title: Marca y gráficos personalizados
-    description: Impresión digital a todo color, serigrafía, estampado en relieve y opciones de etiquetas. Desarrollamos gráficos de barajas específicos de la marca, branding de tubos y empaques listos para el retail.
-  - title: Personalización de Materiales y Especificaciones
-    description: Elija entre PVC (estándar, ecológico, retardante de fuego), costura de caída y construcciones híbridas. Colores de tubos personalizados, pesos de tela y opciones de refuerzo.
-  - title: Empaque y Logística
-    description: Empaque minorista personalizado, cajas de marca propia, envasado al vacío, paletizado y carga de contenedores. Condiciones de envío FOB Qingdao, CIF o DDP disponibles.
+  - title: Product Design & Engineering
+    description: Our in-house R&D team works with your concept or spec to develop CAD drawings, 3D models, and prototypes. We offer mold design, hull shape optimization, and material selection guidance.
+  - title: Custom Branding & Graphics
+    description: Full-color digital printing, screen printing, embossing, and label options. We develop brand-specific deck graphics, tube branding, and retail-ready packaging.
+  - title: Material & Specification Customization
+    description: Choose from PVC (standard, eco-friendly, fire-retardant), drop-stitch, and hybrid constructions. Custom tube colors, fabric weights, and reinforcement options.
+  - title: Packaging & Logistics
+    description: Custom retail packaging, private-label boxes, vacuum packing, palletizing, and container loading. FOB Qingdao, CIF, or DDP shipping terms available.
+
 moq_table:
-  - product: Tablas de SUP inflables
-    standard_moq: 5–10 unidades
-    custom_moq: 200 unidades
-    lead_time: 30–45 días
-  - product: Chalecos salvavidas y seguridad
-    standard_moq: 100–200 unidades
-    custom_moq: 1.000 unidades
-    lead_time: 20–30 días
+  - product: inflatable pools
+    standard_moq: 50 units (samples 5–10)
+    custom_moq: 200+ units
+    lead_time: 12–16 weeks
+  - product: Pool Accessories
+    standard_moq: 100–200 units
+    custom_moq: 1,000+ units
+    lead_time: 20–30 days
+
 why_us:
-  - title: Integración vertical
-    description: 'Somos propietarios de nuestra fábrica, moldes y cadena de suministro: sin intermediarios, sin subcontratistas. Esto nos da control sobre la calidad, el costo y la entrega.'
-  - title: Certificación doble
-    description: Certificación de gestión de calidad ISO 9001 y cumplimiento social BSCI. Informes de auditoría de la fábrica disponibles a solicitud.
-  - title: Cumplimiento CE
-    description: Todos los modelos estándar cuentan con la certificación CE 2013/53/EU. Los modelos personalizados pueden obtener la certificación CE a través de nuestro proceso establecido.
-  - title: MOQ bajo
-    description: Comience con tan solo 5 unidades para modelos estándar. Ayudamos a las marcas emergentes a lanzarse sin comprometer exceso de inventario.
+  - title: Vertical Integration
+    description: We own our factory, molds, and supply chain — no middlemen, no subcontractors. This gives us control over quality, cost, and delivery.
+  - title: Dual Certification
+    description: ISO 9001 quality management and BSCI social compliance certification. Factory audit reports available upon request.
+  - title: CE Compliance
+    description: All standard models carry CE 2013/53/EU certification. Custom models can be CE certified through our established process.
+  - title: Low MOQ
+    description: Start with samples from 5–10 units; standard production runs from 50 units. We help emerging brands launch without overcommitting inventory.

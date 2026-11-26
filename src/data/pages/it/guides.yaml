@@ -1,25 +1,26 @@
 meta:
-  title: 'Guide SUP — Comprare, Scegliere, Praticare | {SITE}'
-  description: 'Guide SUP di olagoon: come comprare, scegliere e praticare il paddle boarding. Misure, materiali e consigli di esperti per principianti e professionisti.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - "guida all'acquisto SUP"
-    - 'come scegliere un SUP'
-    - 'guida alle misure SUP'
-    - 'consigli paddle board gonfiabile'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: Guide
-  title: Nuovo al SUP?
-  subtitle: Guide pratiche per aiutarti a scegliere, usare e goderti le tavole SUP gonfiabili.
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
+
 size_guide:
-  tagline: Dimensioni e specifiche
-  title: Trova la taglia giusta per le tue esigenze
-  desc: Confronta le dimensioni delle tavole SUP, le capacità di peso e gli usi consigliati. Che tu abbia bisogno di un SUP da touring, di una tavola per yoga o di un SUP versatile, la nostra guida alle taglie ti aiuta a scegliere quella giusta.
-  link_label: Guida a grandezza naturale con specifiche del prodotto →
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: Tavole SUP
-      desc: Scegli la lunghezza in base al peso e all'uso previsto. Le tavole più larghe (32") offrono maggiore stabilità. Le tavole più lunghe (11–12 ft) sono più adatte al touring.
-    - title: SUP da touring
-      desc: Tavole più lunghe (11–12 ft) per coprire distanze e seguire linee dritte. Abbastanza stabili per il touring con l'attrezzatura. Controllare sempre la capacità di carico.
-    - title: SUP tuttofare
-      desc: Scegli la lunghezza in base al peso del cavaliere e l'uso. Tavole più larghe (32") per la stabilità. Versatile per il tempo libero e il fitness.
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

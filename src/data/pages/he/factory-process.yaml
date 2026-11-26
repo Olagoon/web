@@ -1,52 +1,52 @@
 meta:
-  title: 'תהליך הייצור — מחומר גלם ועד SUP | {SITE}'
-  description: 'מחומר גלם ועד לוח SUP מוכן לים: כל שלב בתהליך הייצור של olagoon תחת שליטתנו, מהחיתוך והריתוך ועד הבדיקות.'
+  title: 'Manufacturing Process — From Raw Material to pool | {SITE}'
+  description: 'From raw material to sea-ready pool: every step of the olagoon manufacturing process under our control, from cutting and welding to testing.'
   keywords:
-    - 'תהליך ייצור sup'
-    - 'מפעל sup ניפחים'
-    - 'שלבי ייצור לוחות חתירה'
-    - 'ריתוך pvc ל-sup'
+    - 'pool manufacturing process'
+    - 'inflatable pools factory'
+    - 'inflatable pool production steps'
+    - 'pvc welding pool'
 hero:
-  tagline: 'תהליך'
-  title: 'תהליך הייצור'
-  subtitle: 'מחומר גלם ועד לוח מוכן למים — כל שלב תחת שליטתנו'
-  back_label: 'חזרה למפעל'
+  tagline: Process
+  title: Manufacturing Process
+  subtitle: From raw material to backyard-ready pool — every step under our control
+  back_label: Back to Factory
   back_link: /factory/
 
-intro: 'בניגוד למותגים המאצילים את הייצור למפעלי צד שלישי, olagoon היא הבעלים והמפעילה של כל שרשרת הייצור שלה. אינטגרציה אנכית זו מאפשרת לנו לשמור על בקרת איכות קפדנית בכל שלב, להגיב במהירות לדרישות מותאמות אישית ולספק איכות מוצר עקבית מחלקה לחלקה. כך נבנה לוח במתקן שלנו.'
+intro: Unlike brands that outsource production to third-party factories, olagoon owns and operates its entire manufacturing chain. This vertical integration allows us to maintain strict quality control at every stage, respond quickly to custom requirements, and deliver consistent product quality batch after batch. Here is how a pool is built in our facility.
 
 steps:
   - step: '01'
-    title: 'קבלה ובדיקה של חומרים'
-    description: 'כל מחלקה נכנסת של בד PVC, מצע פיברגלס, שרף וחומרה נבדקת מול המפרט. דגימות בד נבדקות לחוזק מתיחה, אחידות עובי ועמידות UV לפני שחרור לייצור. חומרים שאינם עומדים בדרישות מוכנסים לבידוד ומוחזרים.'
-    duration: '1–2 ימים'
+    title: Material Receipt & Inspection
+    description: Every incoming batch of PVC fabric, fiberglass mat, resin, and hardware is inspected against specification. Fabric samples are tested for tensile strength, thickness uniformity, and UV resistance before release to production. Non-conforming materials are quarantined and returned.
+    duration: 1–2 days
   - step: '02'
-    title: 'חיתוך PVC אוטומטי'
-    description: 'בדים מאושרים נפרשים על מכונת החיתוך האוטומטית CNC ונחתכים בדיוק תת-מילימטרי. קיבול ממוחשב מסדר את הלוחות למזעור בזבוז — בדרך כלל מתחת ל-5%. לוחות חתוכים מסומנים לפי דגם הלוח והתא, ואז נאגדים להעברה לסדנת הריתוך.'
-    duration: '2–4 שעות לערכת לוח'
+    title: Automatic PVC Cutting
+    description: Approved fabrics are laid on the automatic CNC cutting machine and cut with sub-millimetre accuracy. Computer-optimised nesting arranges panels to minimise waste — typically below 5%. Cut panels are labelled by pool model and chamber, then bundled for transfer to the welding workshop.
+    duration: 2–4 hours per pool kit
   - step: '03'
-    title: 'איטום בחום וריתוך צינורות'
-    description: 'הלוחות מקובעים ומחוברים באמצעות מכונות איטום בחום עם ריתוך באוויר חם בטמפרטורות מבוקרות של 200–300 מעלות. תפרים ראשיים מחוזקים בריתוך RF דיאלקטרי לחיבורים אטומים וחזקים. תאים שהושלמו מנופחים ל-1.5 מהלחץ העבודה לאימות אחזקת אוויר של 30 דקות.'
-    duration: '1–2 ימים ללוח'
+    title: Tube Heat Sealing & Welding
+    description: Panels are tacked and bonded using heat sealing machines with hot-air welding at controlled temperatures of 200–300 °C. Main seams are reinforced with RF dielectric welding for airtight, high-strength joints. Completed chambers are inflated to 1.5× working pressure for 30-minute air-retention validation.
+    duration: 1–2 days per pool
   - step: '04'
-    title: 'הדפסה ועיצוב לוחות SUP'
-    description: 'גרפיקת סיפון לוחות SUP מיושמת באמצעות הדפסה דיגיטלית לעיצובים צבעוניים מלאים באיכות צילום, והדפסת מסך ללוגואים ודוגמאות חוזרות עמידים. ההדפסים מקובעים ונאטמים לעמידות UV ולשחיקה.'
-    duration: '1–2 ימים'
+    title: pool Printing & Decoration
+    description: pools deck graphics are applied using digital printing for full-colour photo-quality designs, and screen printing for durable logos and repeating patterns. Prints are cured and sealed for UV and abrasion resistance.
+    duration: 1–2 days
   - step: '05'
-    title: 'הרכבה וציוד סופיים'
-    description: 'הלוחות מצוידים על קו ההרכבה בסנפירים, שסתומים, סיפוני EVA ואביזרים. כל יחידה עוקבת אחר רשימת בדיקה של 100 נקודות עם אישור חובה בכל שלב.'
-    duration: '2–4 ימים'
+    title: Final Assembly & Rigging
+    description: Pools are rigged on the assembly line with valves, fittings, and accessories. Each unit follows a 100-point assembly checklist with mandatory sign-off at each stage.
+    duration: 2–4 days
   - step: '06'
-    title: 'בדיקות איכות ובקרה'
-    description: 'כל לוח שהושלם עובד שעת איכות חובה: בדיקת אחזקת אוויר בתאים, בדיקת תפקוד חומרה, אימות מומנט הידוק ובדיקה חזותית. מבנים מותאמים אישית ואבות-טיפוס מקבלים גם הפלגות ניסוי במים הכוללות יציבות והתנהגות.'
-    duration: '1–2 ימים'
+    title: Quality Testing & Inspection
+    description: 'Every completed pool undergoes mandatory quality gate: chamber air-retention test, hardware function check, fastener torque verification, and cosmetic inspection. Custom and prototype builds also receive in-water trials covering stability and handling.'
+    duration: 1–2 days
   - step: '07'
-    title: 'אריזה ומשלוח'
-    description: 'הלוחות מרוקנים, מקופלים לפי נוהל, נארזים בשקי בד עמידים או בארגזי עץ לבוד ונטענים למשלוח. כל חבילה מסומנת בדגם, מספר סידורי ויעד. אנו מתאמים עם מובילי מטענים למשלוחי מכולות FCL ו-LCL לכל העולם.'
-    duration: 'יום אחד'
+    title: Packing & Shipping
+    description: Pools are deflated, folded per procedure, packed in heavy-duty woven bags or plywood crates, and loaded for shipment. Each package is labelled with model, serial number, and destination. We coordinate with freight forwarders for FCL and LCL container shipments worldwide.
+    duration: 1 day
 
 cta:
-  title: 'ראו את הציוד והמכונות שלנו'
-  desc: 'גלו את הציוד בדרגה תעשייתית שמאחורי כל לוח של olagoon.'
-  label: 'צפו בציוד →'
+  title: See our equipment and machinery
+  desc: Explore the industrial-grade equipment behind every OLagoon pool.
+  label: View equipment →
   link: /factory/equipment/

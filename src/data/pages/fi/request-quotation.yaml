@@ -1,99 +1,99 @@
 meta:
-  title: 'Pyydä tarjous — OEM-SUP-valmistus | {SITE}'
-  description: 'Pyydä yksityiskohtainen tarjous täytettävästä SUP-projektistasi. OEM/ODM-valmistus, omamerkki tai räätälöidyt kalustot — vastaamme 2 arkipäivässä.'
+  title: 'Request a Quotation — OEM pool Manufacturing | {SITE}'
+  description: 'Request a detailed quotation for your inflatable pools project. OEM/ODM manufacturing, private label, or custom fleets — we respond within 2 business days.'
   keywords:
-    - 'pyydä SUP-tarjous'
-    - 'OEM paddle board -tarjous'
-    - 'SUP-tehtaan tarjous'
-    - 'täytettävän SUP:n hinta'
+    - 'request pool quote'
+    - 'oem inflatable pool quote'
+    - 'pool factory quotation'
+    - 'inflatable pools price'
 hero_text:
-  tagline: Pyydä tarjous
-  title: Pyydä tarjous<br />projektiisi
-  subtitle: Kerro meille vaatimuksistasi, niin tiimimme vastaa yksityiskohtaisella tarjouksella 2 työpäivän kuluessa.
+  tagline: Get a Quote
+  title: 'Request a Quotation<br />for Your Project'
+  subtitle: 'Tell us about your requirements and our team will respond with a detailed quotation within 2 business days.'
 steps2_process:
-  title: Näin se toimii
-  subtitle: Neljä yksinkertaista vaihetta tiedustelusta tarjoukseen.
+  title: How It Works
+  subtitle: 'Four simple steps from inquiry to quotation.'
   items:
-    - title: 'Vaihe 1: Lähetä vaatimuksesi'
-      description: Täytä alla oleva lomake tuotetyypillä, määrällä ja teknisillä tiedoilla. Mitä enemmän yksityiskohtia annat, sitä tarkempi tarjouksesi on.
+    - title: 'Step 1: Submit Your Requirements'
+      description: 'Fill out the form below with your product type, quantity, and specifications. The more detail you provide, the more accurate your quotation.'
       icon: tabler:file-text
-    - title: 'Vaihe 2: Arvioimme ja neuvomme'
-      description: Insinööritiimimme tarkastelee vaatimuksiasi ja voi ottaa sinuun yhteyttä selvennystä varten. Annamme suosituksia tuotteen kokoonpanosta ja vaihtoehdoista.
+    - title: 'Step 2: We Review & Advise'
+      description: 'Our engineering team reviews your requirements and may contact you for clarification. We provide recommendations on product configuration and options.'
       icon: tabler:users
-    - title: 'Vaihe 3: Saada tarjous'
-      description: Saat yksityiskohtaisen tarjouksen, joka sisältää yksikköhinnan, MOQ:n, toimitusajan, maksuehdot ja toimitusvaihtoehdot. Tyypillisesti 48 tunnin kuluessa.
+    - title: 'Step 3: Receive Your Quote'
+      description: 'You receive a detailed quotation including unit pricing, MOQ, lead time, payment terms, and shipping options. Typically within 48 hours.'
       icon: tabler:currency-dollar
-    - title: 'Vaihe 4: Otos ja tuotanto'
-      description: Tarjouksen hyväksymisen jälkeen siirrymme näytevalmistukseen (jos sovellettavissa) tai suoraan massatuotantoon. Säännöllisiä päivityksiä koko prosessin ajan.
+    - title: 'Step 4: Sample & Production'
+      description: 'After quote acceptance, we proceed to sample production (if applicable) or directly to mass production. Regular updates throughout the process.'
       icon: tabler:building-factory
 content_form:
-  tagline: Tarjouslomake
-  title: Kerro meille projektistasi
-  subtitle: Kaikki *-merkityt kentät ovat pakollisia.
+  tagline: Quotation Form
+  title: 'Tell Us About Your Project'
+  subtitle: 'All fields with * are required.'
   contact_fields:
-    firstName: Etunimi
-    lastName: Sukunimi
-    companyName: Yrityksen nimi
-    email: Sähköposti
+    firstName: First Name
+    lastName: Last Name
+    companyName: Company Name
+    email: E-mail
   fields:
-    - name: Tuotekategoria
+    - name: Product Category
       type: select
       options:
-        - SUP-lauta
-        - Ilmatäytteinen SUP
-        - Ilmatäytteinen SUP-lauta
-        - Pelastusliivi
-        - Meritarvike
-        - Räätälöity OEM/ODM
-    - name: Käyttötarkoitus
+        - pools
+        - inflatable pools
+        - inflatable pools
+        - Thermal Cover
+        - Marine Accessory
+        - Custom OEM/ODM
+    - name: Application
       type: select
       options:
-        - Sukelluskeskus
-        - Kalastus
-        - Merimatkailu / lomakohteet
-        - Etsintä ja pelastus
-        - Julkinen hallinto / Puolustusvoimat
-        - OEM / Omamerkki
-        - Henkilökohtainen / virkistyskäyttö
-        - Muu
-    - name: Määrä
+        - Diving Center
+        - Fishing
+        - Marine Tourism / Resort
+        - Search & Rescue
+        - Government / Military
+        - OEM / Private Label
+        - Personal / Recreational
+        - Other
+    - name: Quantity
       type: text
-      placeholder: esim. 50 kpl
-    - name: Kohdemarkkina
+      placeholder: e.g. 50 units
+    - name: Target Market
       type: text
-      placeholder: esim. Eurooppa, Pohjois-Amerikka, Lähi-itä
-    - name: Toimitusmaa
+      placeholder: e.g. Europe, North America, Middle East
+    - name: Delivery Country
       type: text
-      placeholder: esim. Italia, UAE, USA, Australia
-    - name: Materiaalitoive
+      placeholder: e.g. Italy, UAE, USA, Australia
+    - name: Material Preference
       type: select
       options:
-        - Ei suositusta
-        - Meriluokan PVC (1100 dtex)
-        - Lasikuidurunko
-        - Alumiinirunko
-    - name: Moottorivaatimus
+        - No Preference
+        - Marine-Grade PVC (1100 dtex)
+        - Fiberglass Hull
+        - Aluminum Hull
+    - name: Engine Requirement
       type: text
-      placeholder: esim. perusmelasarja, sähköpumppu, mukautetut värit
-    - name: Vaadittu räätälöinti
+      placeholder: e.g. standard filtration package, electric pump, custom colors
+    - name: Customization Required
       type: text
-      placeholder: esim. mukautetut värit, brändäys/logo, pakkaus, erikoisvarusteet
-    - name: Toimitusaika
+      placeholder: e.g. custom colors, branding/logo, packaging, special fittings
+    - name: Timeline
       type: text
-      placeholder: esim. toimitus 90 päivän sisällä
-    - name: Lisävaatimukset
+      placeholder: e.g. delivery within 90 days
+    - name: Additional Requirements
       type: textarea
-      placeholder: Kuvaile käyttötarkoituksesi, tekniset vaatimukset tai erityisvaatimukset — liitä mukaan viitepiirustukset, erittelyt tai linkit, jos saatavilla
-    - name: Lataa tekniset tiedot
+      placeholder: Describe your application, technical specifications, or any special requirements — include reference drawings, specifications, or links if available
+    - name: Upload Specification
       type: file
-      placeholder: Lataa tekniset tiedot, piirustus tai referenssidokumentti (PDF, DWG, DXF)
-    - name: Lataa logo / kuva-aineisto
+      placeholder: Upload your spec sheet, drawing, or reference document (PDF, DWG, DXF)
+    - name: Upload Logo / Artwork
       type: file
-      placeholder: Lataa logosi tai kuva-aineistosi räätälöityä brändäystä varten (AI, EPS, PNG)
+      placeholder: Upload your logo or artwork for custom branding (AI, EPS, PNG)
 cta:
-  title: Haluatko mieluummin keskustella sähköpostitse?
-  subtitle: Lähetä kysely suoraan myyntitiimimme, ja vastaamme 24 tunnin kuluessa.
+  title: 'Prefer to discuss by email?'
+  subtitle: 'Send your inquiry directly to our sales team and we will respond within 24 hours.'
   actions:
     - variant: primary
-      text: Lähetä meille suoraan sähköpostia
+      text: Email us directly
       href: /contact/

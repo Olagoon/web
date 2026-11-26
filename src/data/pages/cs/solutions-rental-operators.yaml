@@ -1,66 +1,71 @@
 meta:
-  title: Řešení pro půjčovny SUP | {SITE}
-  description: SUP prkna pro intenzivní provoz, konstruovaná pro každodenní půjčování. PVC odolné vůči UV záření, zesílené švy, rychleschnoucí materiály. Rozšiřte svůj pronájem s olagoon.
+  title: 'pool Rental Equipment Supplier & Fleet Solutions | {SITE}'
+  description: 'pool rental equipment supplier for rental operators. High-rotation commercial pools engineered for daily use — UV-resistant PVC, reinforced seams, quick-dry materials. Scale your rental business with OLagoon.'
+
 hero:
-  tagline: Provozovatelé půjčoven
-  title: Rozšiřte své podnikání v oblasti půjčoven<br />s jistotou
-  subtitle: SUP prkna s vysokou obrátkovostí určená pro každodenní provoz v půjčovnách, 365 dní v roce. Vaše tržby si nikdy nevezmou volno.
+  tagline: Rental Operators
+  title: 'Scale Your Rental Business<br />With Confidence'
+  subtitle: 'pool rental equipment supplier for rental operators. High-rotation pools engineered for daily rental use, 365 days a year. Your revenue never takes a day off.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: Rušný kiosk půjčovny se SUP prkny připravenými pro hosty
+    alt: Busy rental kiosk with pools ready for guests
+
 features:
-  title: Stavěno pro náročný provoz půjčoven
-  subtitle: Každé prkno je navrženo pro více než 500 půjčovacích cyklů s minimální údržbou.
+  title: Built for the Rental Grind
+  subtitle: 'Every board is engineered for 500+ rental cycles with minimal maintenance.'
   items:
-    - title: 500+ cyklů pronájmu
-      description: Testováno tak, aby odolalo každodennímu použití ve slané vodě, na slunci a v písku.
-      icon: tabler:shield-check
-    - title: Tkanina odolná proti UV záření
-      description: Bez vyblednutí nebo degradace po 1 roce skladování venku.
-      icon: tabler:sun
-    - title: Zesílené švy
-      description: 3x pevnější než standardní konstrukce nafukovacího prkna.
-      icon: tabler:layers-intersect
-    - title: Materiály s rychlým schnutím
-      description: Prkna připravená k dalšímu pronájmu za méně než 30 minut.
-      icon: tabler:droplet
-    - title: Stohovatelné skladování
-      description: Prostorově úsporný design — uskladněte o 40 % více prken ve stejné ploše.
-      icon: tabler:stack
-    - title: Velikosti rozlišené barvami
-      description: Personál okamžitě vybere správné prkno díky barevnému velikostnímu kódování.
-      icon: tabler:color-swatch
+    - title: '500+ Rental Cycles'
+      description: 'Tested to survive daily use in saltwater, sun, and sand.'
+      icon: 'tabler:shield-check'
+    - title: 'UV-Resistant Fabric'
+      description: 'No fading or degradation after 1 year of outdoor storage.'
+      icon: 'tabler:sun'
+    - title: 'Reinforced Seams'
+      description: '3x stronger than standard inflatable board construction.'
+      icon: 'tabler:layers-intersect'
+    - title: 'Quick-Dry Materials'
+      description: 'Boards ready for next rental in under 30 minutes.'
+      icon: 'tabler:droplet'
+    - title: 'Stackable Storage'
+      description: 'Space-saving design — store 40% more boards in the same area.'
+      icon: 'tabler:stack'
+    - title: 'Color-Coded Sizes'
+      description: 'Staff grabs the right board instantly with color-coded sizing.'
+      icon: 'tabler:color-swatch'
+
 stats:
-  title: Provozní ukazatele
+  title: Operations Metrics
   stats:
-    - title: Obrat desek
-      amount: < 5 min
-    - title: Roční údržba
-      amount: ~15 min/prkno
-    - title: Expedice náhradních dílů
-      amount: 48h
-    - title: Míra závad
-      amount: < 0.5%
+    - title: Board Turnover
+      amount: '< 5 min'
+    - title: Annual Maintenance
+      amount: '~15 min/board'
+    - title: Parts Dispatch
+      amount: '48h'
+    - title: Defect Rate
+      amount: '< 0.5%'
+
 fleet_guide:
-  title: Průvodce velikostí flotily
-  subtitle: Odhadněte velikost flotily a výnosový potenciál pro vaši půjčovnu.
+  title: Fleet Sizing Guide
+  subtitle: 'Estimate the fleet size and revenue potential for your rental operation.'
   tiers:
-    - label: Malý kiosk
-      boards: 15-20
-      revenue: $XX,XXX/yr
-    - label: Středně velký provoz
-      boards: 30-50
-      revenue: $XX,XXX/yr
-    - label: Velká plážová půjčovna
-      boards: 50–100
-      revenue: $XXX,XXX/yr
+    - label: Small Kiosk
+      boards: '15-20'
+      revenue: '$XX,XXX/yr'
+    - label: Mid-Size Operation
+      boards: '30-50'
+      revenue: '$XX,XXX/yr'
+    - label: Large Beach Rental
+      boards: '50-100'
+      revenue: '$XXX,XXX/yr'
+
 cta:
-  title: Připraveni rozšířit svou půjčovnu?
-  subtitle: Získejte ceny pro půjčovny nebo porovnejte modely prken pro váš provoz.
+  title: 'Ready to scale your rental business?'
+  subtitle: 'Get rental pricing or compare board models for your operation.'
   actions:
-    - text: Získejte ceník pronájmu
-      href: /contact/?package=rental
-      variant: primary
-    - text: Porovnat modely prken
-      href: /compare/
-      variant: secondary
+    - text: 'Get Rental Pricing'
+      href: '/contact/?package=rental'
+      variant: 'primary'
+    - text: 'Compare Board Models'
+      href: '/compare/'
+      variant: 'secondary'

@@ -1,26 +1,26 @@
 meta:
-  title: 'SUP ceļveži — pirkšana, izvēle, prakse | {SITE}'
-  description: 'olagoon SUP ceļveži: kā pirkt, izvēlēties un praktizēt airēšanu ar dēli. Izmēri, materiāli un ekspertu padomi piepūšamo SUP iesācējiem un profesionāļiem.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'sup pirkšanas ceļvedis'
-    - 'kā izvēlēties sup'
-    - 'sup izmēru ceļvedis'
-    - 'piepūšamo airu dēļu padomi'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: 'Ceļveži'
-  title: 'Jauns SUP pasaulē?'
-  subtitle: 'Praktiski ceļveži, kas palīdz izvēlēties, izmantot un izbaudīt piepūšamos SUP dēļus.'
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
 
 size_guide:
-  tagline: 'Izmēri un specifikācijas'
-  title: 'Atrodiet pareizo izmēru savām vajadzībām'
-  desc: 'Salīdziniet SUP dēļu izmērus, svaru ietilpību un ieteiktos lietojumus. Vai jums nepieciešams tūrisma SUP, joga dēlis vai universāls SUP — mūsu izmēru ceļvedis palīdz izvēlēties pareizo variantu.'
-  link_label: 'Pilns izmēru ceļvedis ar produktu specifikācijām →'
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: 'SUP dēļi'
-      desc: 'Izvēlieties garumu atbilstoši savam svaram un paredzētajam lietojumam. Platāki dēļi (32"+) piedāvā vairāk stabilitātes. Garāki dēļi (11–12 pēdas) labāk tur virzienu tūrismam.'
-    - title: 'Tūrisma SUP'
-      desc: 'Garāki dēļi (11–12 pēdas) distances veikšanai un taisnas virziena turēšanai. Pietiekami stabili tūrismam ar kravu. Vienmēr pārbaudiet svara ietilpību.'
-    - title: 'Universālie SUP'
-      desc: 'Izvēlieties garumu pēc braucēja svara un lietojuma. Platāki dēļi (32"+) stabilitātei. Universāli atpūtai un fitnesam.'
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

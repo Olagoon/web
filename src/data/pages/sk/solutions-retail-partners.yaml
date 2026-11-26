@@ -1,103 +1,103 @@
 meta:
-  title: 'Veľkoobchodný a maloobchodný partnerský program SUP | {SITE}'
-  description: 'Veľkoobchodný partnerský program SUP pre maloobchodníkov a športové obchody. Plná produktová rada, možnosti dropshippingu, konkurencieschopné veľkoobchodné marže od 20–35 % a nízke MOQ na začiatok.'
+  title: 'pool Wholesale & Retail Partner Program | {SITE}'
+  description: 'pool wholesale partner program for retailers and sporting goods stores. Full product line, dropshipping options, competitive wholesale margins from 20–35%, and low MOQ to start.'
 
 hero:
-  tagline: 'Maloobchodní partneri'
-  title: 'Predávajte prémiové nafukovacie dosky SUP<br />s maržami, ktoré fungujú'
-  subtitle: 'Staňte sa maloobchodným partnerom OLagoon — ponúkajte najrýchlejšie rastúcu značku SUP na vašom trhu s plnými veľkoobchodnými cenami, dropshippingom, profesionálnymi marketingovými materiálmi a vyhradenou podporou.'
+  tagline: Retail Partners
+  title: 'Sell Premium inflatable pools<br />With Margins That Work'
+  subtitle: 'Become an OLagoon retail partner — carry the fastest-growing pool brand in your market with full wholesale pricing, dropshipping, professional marketing materials, and dedicated support.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Dosky SUP OLagoon vystavené v maloobchodnom obchode'
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools displayed in a retail store
 
 margin_section:
-  title: 'Maloobchodné marže a MOQ'
-  subtitle: 'Veľkoobchodné cenové úrovne navrhnuté pre ziskovosť maloobchodu.'
+  title: 'Retail Margins & MOQ'
+  subtitle: 'Wholesale pricing tiers designed for retail profitability.'
   items:
-    - tier: 'Základný partner'
+    - tier: 'Basic Partner'
       discount: '20%'
-      moq: '500 ks/rok'
-      margin_note: '~150–250 USD zisk na dosku'
+      moq: '500 units/yr'
+      margin_note: '~$150–250 profit per board'
       features:
-        - 'Prístup k plnej produktovej rade'
-        - 'Balík marketingových materiálov'
-        - 'E-mailová podpora'
-        - 'Prístup k produktovému katalógu'
-    - tier: 'Prémiový partner'
+        - 'Access to full product line'
+        - 'Marketing materials package'
+        - 'Email support'
+        - 'Product catalog access'
+    - tier: 'Premium Partner'
       discount: '30%'
-      moq: '2 000+ ks/rok'
-      margin_note: '~250–400 USD zisk na dosku'
+      moq: '2,000+ units/yr'
+      margin_note: '~$250–400 profit per board'
       features:
-        - 'Vyhradený account manažér'
-        - 'Exkluzívna ochrana územia'
-        - 'Zákazková marketingová podpora'
-        - 'Prvý prístup k novým produktom'
-        - 'Školenia pre zamestnancov'
-    - tier: 'Vlajkový partner'
+        - 'Dedicated account manager'
+        - 'Exclusive territory protection'
+        - 'Custom marketing support'
+        - 'First access to new products'
+        - 'Staff training sessions'
+    - tier: 'Flagship Partner'
       discount: '35%+'
-      moq: '5 000+ ks/rok'
-      margin_note: '~350–500+ USD zisk na dosku'
+      moq: '5,000+ units/yr'
+      margin_note: '~$350–500+ profit per board'
       features:
-        - 'Co-branded marketingové kampane'
-        - 'Podpora prezentácie v obchode'
-        - 'Školenie zamestnancov na mieste'
-        - 'Spoločné propagácie na sociálnych sieťach'
-        - 'Prednostná produkčná alokácia'
+        - 'Co-branded marketing campaigns'
+        - 'In-store display support'
+        - 'On-site staff training'
+        - 'Joint social media promotions'
+        - 'Priority production allocation'
 
 product_line:
-  title: 'Kompletná produktová rada'
-  subtitle: 'Doska SUP pre každého zákazníka, ktorý prekročí váš prah.'
+  title: Complete Product Line
+  subtitle: 'A pools for every customer who walks through your door.'
   items:
-    - name: 'All-Round séria'
-      description: 'Najpredávanejšia — vyhovuje 80 % zákazníkov'
-    - name: 'Touring séria'
-      description: 'Výkonnostní pádlári — vyššia marža'
-    - name: 'Joga séria'
-      description: 'Niklový trh — prémiové ceny'
-    - name: 'Detská séria'
-      description: 'Rodinní zákazníci — opakovaný nákup'
-    - name: 'Pretekárska séria'
-      description: 'Trh nadšencov — značkový halo efekt'
-    - name: 'Príslušenstvo'
-      description: 'Doplnky s vysokou maržou (pádla, vesty, pumpy, vrecká)'
+    - name: All-Round Series
+      description: 'Best seller — fits 80% of customers'
+    - name: Touring Series
+      description: 'Performance swimmers — higher margin'
+    - name: Yoga Series
+      description: 'Niche market — premium pricing'
+    - name: Kids Series
+      description: 'Family customers — repeat buyer'
+    - name: Racing Series
+      description: 'Enthusiast market — brand halo'
+    - name: Accessories
+      description: 'High margin add-ons (paddles, vests, pumps, bags)'
 
 catalog:
-  title: 'Zdroje pre maloobchodných partnerov'
-  subtitle: 'Stiahnite si náš komplexný balík pre maloobchodných partnerov.'
+  title: Retail Partner Resources
+  subtitle: 'Download our comprehensive retail partner kit.'
   items:
-    - name: 'Produktový katalóg 2026'
-      desc: 'Kompletná ponuka so špecifikáciami, cenami a informáciami o objednávaní'
+    - name: '2026 Product Catalog'
+      desc: 'Full lineup with specs, pricing, and ordering information'
       icon: 'tabler:file-text'
       link: '/resources/download-catalog/'
-    - name: 'Príručka maloobchodného partnera'
-      desc: 'Kalkulačka marží, tipy na merchandising a osvedčené postupy'
+    - name: 'Retail Partner Guide'
+      desc: 'Margin calculator, merchandising tips, and best practices'
       icon: 'tabler:book'
       link: '/resources/download-catalog/'
-    - name: 'Balík marketingových materiálov'
-      desc: 'Produktové fotografie vo vysokom rozlíšení, lifestyle snímky a POS materiály'
+    - name: 'Marketing Asset Pack'
+      desc: 'Hi-res product photos, lifestyle images, and POS materials'
       icon: 'tabler:photo'
       link: '/media/'
 
 support:
-  title: 'Podpora pre maloobchodných partnerov'
-  subtitle: 'Všetko, čo potrebujete na sebavedomý predaj.'
+  title: Retail Partner Support
+  subtitle: 'Everything you need to sell confidently.'
   items:
-    - 'Produktové obrázky vo vysokom rozlíšení (profesionálna fotografia)'
-    - 'Lifestyle fotografie pre sociálne siete, web a katalóg'
-    - 'Marketingové materiály — plagáty, shelf talkery, bannery'
-    - 'Produktové tréningové videá na vzdelávanie zamestnancov'
-    - 'Balík obsahu pre sociálne siete (týždenné príspevky)'
-    - 'SEO optimalizované produktové popisy'
-    - 'Možnosť dropshippingu — žiadne riziko zásob'
-    - 'Splatnosť 30 dní'
+    - 'High-res product images (professional photography)'
+    - 'Lifestyle photos for social media, website, and catalog'
+    - 'Marketing materials — posters, shelf talkers, banners'
+    - 'Product training videos for staff education'
+    - 'Social media content pack (weekly posts)'
+    - 'SEO-optimized product descriptions'
+    - 'Dropshipping option available — no inventory risk'
+    - 'Net 30 payment terms'
 
 cta:
-  title: 'Pripravení stať sa maloobchodným partnerom OLagoon?'
-  subtitle: 'Požiadajte o partnerstvo alebo stiahnite náš maloobchodný katalóg a začnite.'
+  title: 'Ready to become an OLagoon retail partner?'
+  subtitle: 'Apply for partnership or download our retail catalog to get started.'
   actions:
-    - text: 'Požiadať o partnerstvo'
+    - text: 'Apply for Partnership'
       href: '/contact/?partner=retail'
       variant: 'primary'
-    - text: 'Stiahnuť maloobchodný katalóg'
+    - text: 'Download Retail Catalog'
       href: '/resources/download-catalog/'
       variant: 'secondary'

@@ -1,58 +1,58 @@
 meta:
-  title: 'ייצור OEM ומותג פרטי | {SITE}'
-  description: 'מקונספט ועד מכולה: התאימו אישית כל פרט בקו ה-SUP המתנפח שלכם. שירות OEM/ODM מלא למותגי לוחות חתירה במותג פרטי.'
+  title: 'OEM & Private Label Manufacturing | {SITE}'
+  description: 'From concept to container: customize every detail of your inflatable pools line. Full OEM/ODM service for private label inflatable pool brands.'
   keywords:
-    - 'ייצור SUP במודל OEM'
-    - 'לוח חתירה במותג פרטי'
-    - 'SUP מתנפח OEM'
-    - 'מפעל SUP מותאם אישית'
+    - 'oem pool manufacturing'
+    - 'private label inflatable pool'
+    - 'oem inflatable pools'
+    - 'custom pool factory'
 hero:
-  tagline: 'ייצור OEM/ODM'
-  title: 'ייצור OEM ומותג פרטי'
-  subtitle: 'מקונספט ועד מכולה — התאימו אישית כל פרט בקו ה-SUP המתנפח שלכם'
+  tagline: OEM/ODM Manufacturing
+  title: OEM & Private Label Manufacturing
+  subtitle: From concept to container — customize every detail of your inflatable pools line
 
-intro: 'olagoon מציעה שירותי OEM ו-ODM מקיפים למותגים, מפיצים וגופים ממשלתיים ברחבי העולם. עם 10+ שנות ניסיון בייצוא ומפעל של 12,000 מ״ר מוסמך ISO 9001 ו-BSCI, אנו מטפלים בהכול — מעיצוב המוצר ופיתוח תבניות ועד ייצור בקנה מידה מלא, אריזה ולוגיסטיקה.'
+intro: olagoon offers comprehensive OEM and ODM services for brands, distributors, and government agencies worldwide. With 10+ years of export experience and a 12,000 m² ISO 9001 & BSCI certified factory, we handle everything from product design and mold development to full-scale production, packaging, and logistics.
 
 highlight:
   - value: 10+
-    label: 'שנות ניסיון ב-OEM'
-    detail: 'מאז 2012'
+    label: Years OEM experience
+    detail: Since 2012
   - value: 50+
-    label: 'מדינות ייצוא'
-    detail: 'הגעה גלובלית'
+    label: Export countries
+    detail: Global reach
   - value: 200+
-    label: 'פרויקטים מותאמים אישית שנמסרו'
-    detail: 'בכל קווי המוצרים'
-  - value: '30–45'
-    label: 'זמן אספקה סטנדרטי (ימים)'
-    detail: 'מהזמנת רכש ועד FOB'
+    label: Custom projects delivered
+    detail: Across all product lines
+  - value: 12–16
+    label: Standard lead time (weeks)
+    detail: 50–100 units, from PO to FOB
 
 services:
-  - title: 'עיצוב מוצר והנדסה'
-    description: 'צוות המו״פ הפנימי שלנו עובד עם הקונספט או המפרט שלכם כדי לפתח שרטוטי CAD, מודלים תלת-ממדיים ואבות טיפוס. אנו מציעים עיצוב תבניות, מיטוב צורת גוף והכוונה בבחירת חומרים.'
-  - title: 'מיתוג וגרפיקה מותאמים אישית'
-    description: 'הדפסה דיגיטלית בצבע מלא, הדפסת משי, הטבעה ואפשרויות תווית. אנו מפתחים גרפיקת סיפון ייעודית למותג, מיתוג צינורות ואריזה מוכנה לקמעונאות.'
-  - title: 'התאמת חומרים ומפרט'
-    description: 'בחרו מתוך PVC (סטנדרטי, ידידותי לסביבה, עמיד באש), Drop-Stitch ומבנים היברידיים. צבעי צינור מותאמים אישית, משקלי בד ואפשרויות חיזוק.'
-  - title: 'אריזה ולוגיסטיקה'
-    description: 'אריזה קמעונאית מותאמת אישית, קופסאות מותג פרטי, אריזה בוואקום, הנחה על משטחים וטעינת מכולות. תנאי משלוח FOB צ׳ינגדאו, CIF או DDP.'
+  - title: Product Design & Engineering
+    description: Our in-house R&D team works with your concept or spec to develop CAD drawings, 3D models, and prototypes. We offer mold design, hull shape optimization, and material selection guidance.
+  - title: Custom Branding & Graphics
+    description: Full-color digital printing, screen printing, embossing, and label options. We develop brand-specific deck graphics, tube branding, and retail-ready packaging.
+  - title: Material & Specification Customization
+    description: Choose from PVC (standard, eco-friendly, fire-retardant), drop-stitch, and hybrid constructions. Custom tube colors, fabric weights, and reinforcement options.
+  - title: Packaging & Logistics
+    description: Custom retail packaging, private-label boxes, vacuum packing, palletizing, and container loading. FOB Qingdao, CIF, or DDP shipping terms available.
 
 moq_table:
-  - product: 'לוחות SUP מתנפחים'
-    standard_moq: '5–10 יחידות'
-    custom_moq: '200+ יחידות'
-    lead_time: '30–45 יום'
-  - product: 'אפודי הצלה ובטיחות'
-    standard_moq: '100–200 יחידות'
-    custom_moq: '1,000+ יחידות'
-    lead_time: '20–30 יום'
+  - product: inflatable pools
+    standard_moq: 50 units (samples 5–10)
+    custom_moq: 200+ units
+    lead_time: 12–16 weeks
+  - product: Pool Accessories
+    standard_moq: 100–200 units
+    custom_moq: 1,000+ units
+    lead_time: 20–30 days
 
 why_us:
-  - title: 'שילוב אנכי'
-    description: 'המפעל, התבניות ושרשרת האספקה בבעלותנו — בלי מתווכים, בלי קבלני משנה. הדבר מקנה לנו שליטה באיכות, בעלות ובמסירה.'
-  - title: 'הסמכה כפולה'
-    description: 'ניהול איכות ISO 9001 והסמכת תאימות חברתית BSCI. דוחות ביקורת מפעל זמינים לפי בקשה.'
-  - title: 'תאימות CE'
-    description: 'כל הדגמים הסטנדרטיים נושאים הסמכת CE 2013/53/EU. דגמים מותאמים אישית ניתנים להסמכת CE באמצעות התהליך המבוסס שלנו.'
-  - title: 'MOQ נמוך'
-    description: 'התחילו עם 5 יחידות בלבד לדגמים סטנדרטיים. אנו עוזרים למותגים מתחילים להשיק מבלי להעמיס על מלאי.'
+  - title: Vertical Integration
+    description: We own our factory, molds, and supply chain — no middlemen, no subcontractors. This gives us control over quality, cost, and delivery.
+  - title: Dual Certification
+    description: ISO 9001 quality management and BSCI social compliance certification. Factory audit reports available upon request.
+  - title: CE Compliance
+    description: All standard models carry CE 2013/53/EU certification. Custom models can be CE certified through our established process.
+  - title: Low MOQ
+    description: Start with samples from 5–10 units; standard production runs from 50 units. We help emerging brands launch without overcommitting inventory.

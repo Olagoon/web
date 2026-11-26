@@ -1,99 +1,99 @@
 meta:
-  title: 'اطلب عرض سعر — إنتاج SUP بتقنية OEM | {SITE}'
-  description: 'اطلب عرض سعر مفصلاً لمشروع ألواح SUP القابلة للنفخ الخاص بك. إنتاج OEM/ODM، أو علامة خاصة، أو أساطيل مخصصة — نرد خلال يومي عمل.'
+  title: 'Request a Quotation — OEM pool Manufacturing | {SITE}'
+  description: 'Request a detailed quotation for your inflatable pools project. OEM/ODM manufacturing, private label, or custom fleets — we respond within 2 business days.'
   keywords:
-    - 'طلب عرض سعر SUP'
-    - 'عرض ألواح التجديف OEM'
-    - 'عرض سعر مصنع SUP'
-    - 'سعر SUP القابل للنفخ'
+    - 'request pool quote'
+    - 'oem inflatable pool quote'
+    - 'pool factory quotation'
+    - 'inflatable pools price'
 hero_text:
-  tagline: اطلب عرض سعر
-  title: اطلب عرض أسعار<br />لمشروعك
-  subtitle: أخبرنا عن متطلباتك وسيقوم فريقنا بالرد عليك بتقديم عرض أسعار تفصيلي خلال يومي عمل.
+  tagline: Get a Quote
+  title: 'Request a Quotation<br />for Your Project'
+  subtitle: 'Tell us about your requirements and our team will respond with a detailed quotation within 2 business days.'
 steps2_process:
-  title: كيف تعمل العملية
-  subtitle: أربع خطوات بسيطة من الاستفسار إلى الاقتباس.
+  title: How It Works
+  subtitle: 'Four simple steps from inquiry to quotation.'
   items:
-    - title: 'الخطوة 1: أرسل متطلباتك'
-      description: املأ النموذج أدناه بنوع منتجك وكميته ومواصفاته. كلما زادت التفاصيل التي تقدمها، كلما كان عرض الأسعار الخاص بك أكثر دقة.
+    - title: 'Step 1: Submit Your Requirements'
+      description: 'Fill out the form below with your product type, quantity, and specifications. The more detail you provide, the more accurate your quotation.'
       icon: tabler:file-text
-    - title: 'الخطوة 2: نراجع ونستشير'
-      description: يقوم فريقنا الهندسي بمراجعة متطلباتك وقد يتصل بك للتوضيح. نحن نقدم توصيات بشأن تكوين المنتج وخياراته.
+    - title: 'Step 2: We Review & Advise'
+      description: 'Our engineering team reviews your requirements and may contact you for clarification. We provide recommendations on product configuration and options.'
       icon: tabler:users
-    - title: 'الخطوة 3: استلام عرض السعر'
-      description: ستتلقى عرض أسعار تفصيليًا يتضمن تسعير الوحدة وموك والمدة الزمنية وشروط الدفع وخيارات الشحن. عادة خلال 48 ساعة.
+    - title: 'Step 3: Receive Your Quote'
+      description: 'You receive a detailed quotation including unit pricing, MOQ, lead time, payment terms, and shipping options. Typically within 48 hours.'
       icon: tabler:currency-dollar
-    - title: 'الخطوة 4: العينة والإنتاج'
-      description: بعد قبول عرض الأسعار، ننتقل إلى إنتاج العينات (إن أمكن) أو مباشرة إلى الإنتاج الضخم. تحديثات منتظمة طوال العملية.
+    - title: 'Step 4: Sample & Production'
+      description: 'After quote acceptance, we proceed to sample production (if applicable) or directly to mass production. Regular updates throughout the process.'
       icon: tabler:building-factory
 content_form:
-  tagline: نموذج عرض السعر
-  title: أخبرنا عن مشروعك
-  subtitle: جميع الحقول التي تحتوي على * مطلوبة.
+  tagline: Quotation Form
+  title: 'Tell Us About Your Project'
+  subtitle: 'All fields with * are required.'
   contact_fields:
-    firstName: الاسم الأول
-    lastName: اسم العائلة
-    companyName: اسم الشركة
-    email: البريد الإلكتروني
+    firstName: First Name
+    lastName: Last Name
+    companyName: Company Name
+    email: E-mail
   fields:
-    - name: فئة المنتج
+    - name: Product Category
       type: select
       options:
-        - لوح SUP
-        - SUP قابل للنفخ
-        - لوح SUP قابل للنفخ
-        - سترة نجاة
-        - ملحق بحري
-        - OEM/ODM مخصص
-    - name: التطبيق
+        - pools
+        - inflatable pools
+        - inflatable pools
+        - Thermal Cover
+        - Marine Accessory
+        - Custom OEM/ODM
+    - name: Application
       type: select
       options:
-        - مركز الغوص
-        - صيد الأسماك
-        - السياحة البحرية / المنتجعات
-        - البحث والإنقاذ
-        - الحكومة / القطاع العسكري
-        - OEM / العلامة الخاصة
-        - شخصي / ترفيهي
-        - أخرى
-    - name: الكمية
+        - Diving Center
+        - Fishing
+        - Marine Tourism / Resort
+        - Search & Rescue
+        - Government / Military
+        - OEM / Private Label
+        - Personal / Recreational
+        - Other
+    - name: Quantity
       type: text
-      placeholder: 'مثال: 50 وحدة'
-    - name: السوق المستهدف
+      placeholder: e.g. 50 units
+    - name: Target Market
       type: text
-      placeholder: 'مثال: أوروبا، أمريكا الشمالية، الشرق الأوسط'
-    - name: بلد التسليم
+      placeholder: e.g. Europe, North America, Middle East
+    - name: Delivery Country
       type: text
-      placeholder: 'مثال: إيطاليا، الإمارات، الولايات المتحدة، أستراليا'
-    - name: المادة المفضلة
+      placeholder: e.g. Italy, UAE, USA, Australia
+    - name: Material Preference
       type: select
       options:
-        - لا تفضيل
-        - PVC من الدرجة البحرية (1100 dtex)
-        - هيكل من الألياف الزجاجية
-        - هيكل ألمنيوم
-    - name: متطلبات المحرك
+        - No Preference
+        - Marine-Grade PVC (1100 dtex)
+        - Fiberglass Hull
+        - Aluminum Hull
+    - name: Engine Requirement
       type: text
-      placeholder: 'مثال: تجهيز مجداف قياسي، مضخة كهربائية، ألوان مخصصة'
-    - name: التخصيص المطلوب
+      placeholder: e.g. standard filtration package, electric pump, custom colors
+    - name: Customization Required
       type: text
-      placeholder: 'مثال: ألوان مخصصة، وعلامة تجارية/شعار، وتغليف، وتركيبات خاصة'
-    - name: الجدول الزمني
+      placeholder: e.g. custom colors, branding/logo, packaging, special fittings
+    - name: Timeline
       type: text
-      placeholder: 'مثال: التسليم خلال 90 يومًا'
-    - name: متطلبات إضافية
+      placeholder: e.g. delivery within 90 days
+    - name: Additional Requirements
       type: textarea
-      placeholder: صف تطبيقك، أو مواصفاتك الفنية، أو أي متطلبات خاصة — وأرفق الرسومات المرجعية أو المواصفات أو الروابط إن كانت متوفرة
-    - name: رفع المواصفات
+      placeholder: Describe your application, technical specifications, or any special requirements — include reference drawings, specifications, or links if available
+    - name: Upload Specification
       type: file
-      placeholder: ارفع ورقة المواصفات أو الرسم أو المستند المرجعي (PDF, DWG, DXF)
-    - name: رفع الشعار / التصميم الفني
+      placeholder: Upload your spec sheet, drawing, or reference document (PDF, DWG, DXF)
+    - name: Upload Logo / Artwork
       type: file
-      placeholder: ارفع شعارك أو تصميمك الفني للعلامة التجارية المخصصة (AI, EPS, PNG)
+      placeholder: Upload your logo or artwork for custom branding (AI, EPS, PNG)
 cta:
-  title: هل تفضل المناقشة عبر البريد الإلكتروني؟
-  subtitle: أرسل استفسارك مباشرة إلى فريق المبيعات لدينا وسنرد عليك خلال 24 ساعة.
+  title: 'Prefer to discuss by email?'
+  subtitle: 'Send your inquiry directly to our sales team and we will respond within 24 hours.'
   actions:
     - variant: primary
-      text: راسلنا مباشرة عبر البريد الإلكتروني
+      text: Email us directly
       href: /contact/

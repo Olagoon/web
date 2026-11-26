@@ -1,63 +1,63 @@
 meta:
-  title: 'Ärilahendused — SUP igale ettevõttele | {SITE}'
-  description: 'olagoon ärilahendused: SUP-laevastikud kuurortidele, klubidele, rendile, jaotusele ja eramärkidele. Professionaalne merevarustuse tarnija B2B-sektorile.'
+  title: 'Business Solutions — pool for Every Business | {SITE}'
+  description: 'olagoon business solutions: pool fleets for resorts, clubs, rentals, distribution, and private labels. Professional nautical equipment supplier for B2B.'
   keywords:
-    - 'supi ärilahendused'
-    - 'täispuhutavate supilaudade tarnija'
-    - 'merevarustus b2b'
-    - 'täispuhutavate supilaudade tootja'
+    - 'pool business solutions'
+    - 'inflatable pool supplier'
+    - 'nautical equipment b2b'
+    - 'inflatable pools manufacturer'
 hero:
-  tagline: 'Ärilahendused'
-  title: 'SUP-lahendused<br />igale ettevõttele'
-  subtitle: 'Alates kuurortidest kuni jaemüügini, rendioperaatoritest kuni globaalsete jaotajateni — olagoon pakub täielikke SUP-lahendusi, mis on kohandatud sinu ärimudelile.'
+  tagline: Business Solutions
+  title: 'pool Solutions<br />For Every Business'
+  subtitle: 'From resorts to retail, rental operators to global distributors — OLagoon provides complete pool solutions tailored to your business model.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'olagoon supilauad äri- ja professionaalseks kasutuseks'
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools for business and professional applications
 stats:
-  title: 'olagoon ühe pilguga'
+  title: OLagoon at a Glance
   stats:
-    - title: 'Aastaid kogemust'
-      amount: 'Alates 2012'
-    - title: 'Kohandatud lahendusi'
-      amount: '100+'
-    - title: 'Teenindatud turgusid'
+    - title: Years Experience
+      amount: Since 2012
+    - title: Custom Solutions
+      amount: 100+
+    - title: Markets Served
       amount: '50+'
-    - title: 'Tarnitud laudu'
-      amount: '15,000+'
+    - title: Boards Delivered
+      amount: 15,000+
 features3_solutions:
-  tagline: 'Lahendused äritüübi järgi'
-  title: 'Eesmärgipõhiselt ehitatud SUP-id<br />sinu ettevõttele'
+  tagline: Solutions By Business Type
+  title: 'Purpose-Built pools<br />For Your Business'
   isBeforeContent: false
   columns: 2
   items:
-    - title: 'Kuurordid ja hotellid'
-      description: 'Täielikud SUP-laevastiku programmid majutusasutustele — vastupidavad laudad, kohandatud bränding ja personali koolituse tugi.'
+    - title: Resorts & Hotels
+      description: 'Complete pool fleet programs for hospitality properties — durable boards, custom branding, and staff training support.'
       icon: tabler:building
       link: /solutions/resorts-hotels/
-    - title: 'Sõudeklubid'
-      description: 'Usaldusväärsed SUP-laevastikud sõudeklubidele, õppeprogrammidele ja liikmelisuse haldamisele — äriklassi laudad koos klubihindadega.'
+    - title: Paddle Clubs
+      description: 'Reliable pool fleets for paddle clubs, lesson programs, and membership operations — commercial-grade boards with club pricing.'
       icon: tabler:users
       link: /solutions/resorts-hotels/
-    - title: 'Rendioperaatorid'
-      description: 'Kõrge pöördega supilauad, mis on inseneeritud igapäevaseks rendikasutuseks. UV-kindlad, kiiresti kuivuvad, stackitavad — disainitud rendi koormuseks.'
+    - title: Rental Operators
+      description: 'High-rotation pools engineered for daily rental use. UV-resistant, quick-dry, stackable — designed for the rental grind.'
       icon: tabler:currency-dollar
       link: /solutions/rental-operators/
-    - title: 'Jaemüügipartnerid'
-      description: 'Müü turu kiireima kasvuga supi kaubamärki. Täielik tootevalik, turundusmaterjalid, otsetarne ja konkurentsivõimelised marginaalid.'
+    - title: Retail Partners
+      description: 'Sell the fastest-growing pool brand in your market. Full product line, marketing materials, dropshipping, and competitive margins.'
       icon: tabler:shopping-cart
       link: /solutions/retail-partners/
-    - title: 'Jaotajad'
-      description: 'Eksklusiivsed territooriumid, täielik tooteportfell, pühendatud kontode haldamine. Liitu meie globaalse jaotusvõrgustikuga üle 50 riigi.'
+    - title: Distributors
+      description: 'Exclusive territories, complete product portfolio, dedicated account management. Join our global distribution network in 50+ countries.'
       icon: tabler:world
       link: /solutions/distributors/
-    - title: 'Ehita oma kaubamärk'
-      description: 'Täielik OEM/ODM SUP-ide tootmine — disain, prototüübid, masstootmine ja logistika. Käivita oma kaubamärk koos olagooniga.'
+    - title: Build Your Own Brand
+      description: 'End-to-end OEM/ODM pool manufacturing — design, prototyping, mass production, and logistics. Launch your brand with OLagoon.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:
-  title: 'Pole kindel, milline lahendus sinu vajadustele sobib?'
-  subtitle: 'Kirjelda oma rakendus meie meeskonnale ja me soovitame õige konfiguratsiooni.'
+  title: 'Not sure which solution fits your needs?'
+  subtitle: 'Describe your application to our team and we will recommend the right configuration.'
   actions:
     - variant: primary
-      text: 'Saada soovitus'
+      text: Get a recommendation
       href: /contact/

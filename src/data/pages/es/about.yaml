@@ -1,115 +1,122 @@
 meta:
-  title: 'Acerca de OLagoon — Marca de SUP Hinchables y Deportes Acuáticos | {SITE}'
-  description: 'OLagoon es una marca global de SUP hinchables y deportes acuáticos, gestionada por Olagoon LLC (EE. UU.) y construida por nuestro equipo de operaciones en Qingdao. Descubra nuestra historia, ingeniería, calidad certificada y programas de socios por país.'
+  title: 'About OLagoon — inflatable pools & Water Sports Brand | {SITE}'
+  description: 'OLagoon is a global inflatable pools and water sports brand, operated by Olagoon LLC and built by our Qingdao Operation Team. Discover our story, engineering, certified quality, and country partner programs.'
   keywords:
-    - 'marca de SUP hinchable'
-    - 'marca de deportes acuáticos'
-    - 'distribuidor SUP por país'
-    - 'colecciones de SUP co-branded'
-    - 'paddle surf hinchable'
+    - 'inflatable pools brand'
+    - 'water sports brand'
+    - 'country pool distributor'
+    - 'co-branded pool collections'
 hero:
-  tagline: Sobre nosotros
+  tagline: About us
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: Taller olagoon
+    alt: olagoon factory and workshop
   title: |
-    Ingeniería marina, <br />
-    hecha a la manera <span class="text-accent dark:text-white">olagoon</span>
-  subtitle: 'Empezamos en un taller costero con una sola tabla y una convicción firme: los productos marinos deben diseñarse como si importaran, porque importan. Hoy enviamos a más de 40 países, pero cada casco sigue pasando por las mismas manos que fundaron la empresa.'
+    Marine engineering, <br />
+    built the <span class="text-accent dark:text-white">olagoon</span> way
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
+
 stats:
-  title: En cifras
+  title: By the numbers
   columns: 4
   stats:
-    - title: Cascos entregados
-      amount: 2.400+
-    - title: Países con envíos
+    - title: Hulls delivered
+      amount: '2,400+'
+    - title: Countries shipped
       amount: '40'
-    - title: Años de experiencia combinada
+    - title: Years of combined experience
       amount: '60'
-    - title: Respuesta media de garantía (horas)
+    - title: Average warranty response (hours)
       amount: '24'
+
 features3_what_we_build:
-  title: Lo que construimos
-  subtitle: 'Empezamos en un taller costero con una sola tabla y una convicción firme: los productos marinos deben diseñarse como si importaran, porque importan. Hoy enviamos a más de 40 países, pero cada casco sigue pasando por las mismas manos que fundaron la empresa.'
+  title: What we build
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
   columns: 3
   isBeforeContent: true
   items:
-    - title: Tablas SUP
-      description: Tablas SUP inflables de 9 a 12 pies. Diseñadas para travesía, yoga, pesca y uso familiar.
+    - title: pools
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:ship
-    - title: SUP inflables
-      description: Tablas SUP inflables de PVC de 9 a 12 pies. Ligeras, resistentes y fáciles de guardar.
+    - title: inflatable pools
+      description: PVC inflatable pools from 9 ft to 12 ft. Light, tough and easy to stow.
       icon: tabler:rowing
-    - title: Paquetes SUP premium
-      description: SUP compactos y de alta especificación construidos a medida para adaptarse a los requisitos de su marca o flota.
+    - title: Premium pool packages
+      description: Compact, high-spec pools custom-built to match your brand or fleet requirements.
       icon: tabler:crown
+
 features3_more:
   columns: 3
   isAfterContent: true
   items:
-    - title: Accesorios
-      description: Remos, bombas, cubiertas, bolsas impermeables y electrónica. Todos adaptados a nuestras tablas.
+    - title: Accessories
+      description: Filters, pumps, covers, and accessories. All matched to our pools.
       icon: tabler:package
-    - title: Reparación y servicio
-      description: Reparación de tablas en taller, sustitución de almohadillas y mejoras de accesorios.
+    - title: Repair & service
+      description: In-house pool repair, liner replacement and accessory upgrades.
       icon: tabler:tool
-    - title: Construcciones a medida
-      description: Diseño proyecto por proyecto para clientes comerciales, científicos y militares.
+    - title: Custom builds
+      description: Project-by-project design for commercial, scientific and military customers.
       icon: tabler:hammer
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-    alt: Diseño e ingeniería de tablas
+    alt: Pool design and engineering discussion
+
 steps2_values:
-  title: Nuestros valores
-  subtitle: Tres principios que han moldeado cada producto desde el primer día.
+  title: Our values
+  subtitle: Three principles that have shaped every product since day one.
   items:
-    - title: Construir como si llevara a tu familia
-      description: Cada casco, soldadura y fijación se trata como si nuestras propias familias fueran a usarlo.
+    - title: Build like it carries your family
+      description: Every hull, weld and fastener is treated as if our own families will use it.
       icon: tabler:heart
-    - title: Ingeniería antes de vender
-      description: Tablas SUP inflables de 9 a 12 pies. Diseñadas para travesía, yoga, pesca y uso familiar.
+    - title: Engineer before we sell
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:settings
-    - title: Soporte que supera la garantía
-      description: Los cascos de veinte años todavía nos llaman para pedir repuestos, y seguimos respondiendo.
+    - title: Support that outlasts the warranty
+      description: Twenty-year-old hulls still call us for spare parts, and we still pick up.
       icon: tabler:headset
+
 steps2_milestones:
-  title: Hitos
-  subtitle: Una versión breve de la historia de olagoon.
+  title: Milestones
+  subtitle: A short version of the olagoon story.
   isReversed: true
   items:
-    - title: Fundado en un taller costero
-      description: Iniciado por dos ingenieros marinos con una fresadora CNC y una idea tenaz.
+    - title: Founded in a coastal workshop
+      description: Started by two marine engineers with a CNC mill and a stubborn idea.
       icon: tabler:building-factory
-    - title: Primeros 1000 cascos entregados
-      description: Alcanzado en nuestro séptimo año, principalmente gracias al boca a boca y clientes recurrentes.
+    - title: First 1,000 hulls delivered
+      description: Reached in our seventh year, mostly through word of mouth and repeat customers.
       icon: tabler:circle-check
-    - title: Programa de exportación internacional
-      description: Ahora enviamos a más de 40 países con socios de soporte localizados en cinco continentes.
+    - title: International export programme
+      description: Now shipping to 40+ countries with localised support partners on five continents.
       icon: tabler:world
+
 features2_locations:
-  title: Nuestras ubicaciones
-  tagline: Encuéntranos
+  title: Our locations
+  tagline: Find us
   columns: 3
   items:
-    - title: Sede central y taller
-      description: Tablas SUP inflables de 9 a 12 pies. Diseñadas para travesía, yoga, pesca y uso familiar.
-    - title: Centro de servicio UE
-      description: Tablas SUP inflables de 9 a 12 pies. Diseñadas para travesía, yoga, pesca y uso familiar.
-    - title: Red de socios APAC
-      description: Socios de servicio autorizados en Australia, Japón, Singapur y Hong Kong.
-brand_hub_tagline: Marca
-brand_hub_title: Explore nuestra marca
-brand_hub_subtitle: Profundice en nuestra experiencia en ingeniería SUP, presencia global y los principios que nos impulsan.
+    - title: Headquarters & workshop
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: EU service centre
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: APAC partner network
+      description: Authorised service partners in Australia, Japan, Singapore and Hong Kong.
+
+brand_hub_tagline: Brand
+brand_hub_title: Explore Our Brand
+brand_hub_subtitle: Dive deeper into our pool engineering expertise, global presence, and the principles that drive us.
+
 brand_hub_cards:
-  - title: Experiencia Marina
-    desc: Décadas de ciencia de materiales, fabricación de precisión y pruebas reales — desde la fabricación de PVC hasta el diseño de cascos en V profunda y tecnología drop-stitch.
+  - title: Marine Expertise
+    desc: Decades of material science, precision manufacturing, and real-world testing — from PVC fabrication to deep-V hull design and drop-stitch technology.
     link: /brand-marine-expertise/
-    link_label: Más información →
-  - title: Presencia Global
-    desc: Envíos a más de 50 países desde nuestra instalación en Qingdao con socios de servicio autorizados en Europa, Asia-Pacífico y América.
+    link_label: 'Learn more →'
+  - title: Global Presence
+    desc: Shipping to 50+ countries from our Qingdao facility with authorized service partners across Europe, Asia-Pacific, and the Americas.
     link: /brand-global-presence/
-    link_label: Más información →
-  - title: Por qué olagoon
-    desc: Una marca construida sobre calidad verificada — doble certificación (ISO 9001 + BSCI), cumplimiento CE y colaboraciones exclusivas por país con colecciones co-branded limitadas para empresas de deportes acuáticos.
+    link_label: 'Learn more →'
+  - title: Why olagoon
+    desc: A brand built on verified quality — dual certification (ISO 9001 + BSCI), CE compliance, and exclusive country partnerships with limited co-branded collections for water-sports businesses.
     link: /brand-why-olagoon/
-    link_label: Más información →
+    link_label: 'Learn more →'

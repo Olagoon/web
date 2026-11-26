@@ -1,90 +1,91 @@
 meta:
-  title: 'Contact — Demandes de Partenariat & Produits | {SITE}'
-  description: 'Contactez olagoon pour une demande de partenariat, de co-brand ou de marque privée, ou pour une flotte professionnelle. Marque de SUP gonflables, nous répondons sous 2 jours ouvrés.'
+  title: 'Contact — Partnership & Product Inquiries | {SITE}'
+  description: 'Contact olagoon for partnership, co-brand, and private-label inquiries, or professional fleets. inflatable pools brand, we respond within 2 business days.'
   keywords:
-    - 'contacter olagoon'
-    - 'devis distributeur SUP'
-    - 'fournisseur SUP professionnel'
-    - 'contact fabricant paddle'
+    - 'pool distributor quote'
+    - 'professional pool supplier'
+    - 'contact pool manufacturer'
 hero_text:
   tagline: Contact
-  title: PRENEZ CONTACT
+  title: GET IN TOUCH
 contact_form:
   id: form
-  title: Envoyez-nous un message
-  subtitle: Pour les devis, questions techniques ou demandes de partenariat, écrivez-nous. Nous répondons sous un jour ouvré.
+  title: Send us a message
+  subtitle: For quotes, technical questions or partnership enquiries, drop us a line. We reply within one business day.
   email_to: info@olagoon.com
-  submit_button: Envoyer une Demande → Obtenir un Devis
-  success_message: Merci ! Votre message a bien été reçu. Nous répondons sous un jour ouvré.
-  error_message: Une erreur s'est produite. Veuillez réessayer ou nous envoyer un email directement.
+  submit_button: Send Inquiry → Get a Quote
+  success_message: Thanks! Your message has landed in our inbox. We will reply within one business day.
+  error_message: Something went wrong sending your message. Please try again or email us directly.
   default_country_code: '+1'
   captcha:
-    label: 'Anti-spam : veuillez résoudre'
+    label: 'Anti-spam: please solve the following'
   fields:
     - name: country
-      label: Pays
+      label: Country
       row: 1
       type: select
       optionsKey: countries
       step: 1
     - name: orderVolume
-      label: Volume de Commande Estimé
+      label: Estimated Order Volume
       row: 2
       type: select
       options:
         - value: ''
-          label: Sélectionnez votre volume estimé...
+          label: Select your estimated volume...
         - value: sample
-          label: Échantillons / Prototypes uniquement
+          label: Samples / Prototypes only
         - value: '5-10'
-          label: 5–10 unités (MOQ Standard)
+          label: 5–10 units (Samples / Trial)
+        - value: '50-100'
+          label: 50–100 units
         - value: '100-500'
-          label: 100–500 unités
+          label: 100–500 units
         - value: '500-plus'
-          label: 500+ unités (Tarifs dégressifs)
+          label: 500+ units (Volume pricing)
       step: 1
     - name: customization
-      label: Personnalisation nécessaire ?
+      label: Customization Needed?
       row: 3
       type: select
       options:
         - value: ''
-          label: Sélectionnez le type de personnalisation...
+          label: Select customization type...
         - value: none
-          label: Produit standard (sans personnalisation)
+          label: Standard product (no customization)
         - value: logo
-          label: Logo personnalisé / Marquage uniquement
+          label: Custom Logo / Branding only
         - value: full
-          label: Co-Brand Complet (taille, couleur, graphismes, emballage)
+          label: Full Co-Brand (size, color, graphics, packaging)
         - value: consultation
-          label: Pas sûr — besoin de conseil
+          label: Not sure — need consultation
       step: 1
     - name: productInterest
-      label: "Catégories de Produits d'Intérêt"
+      label: Product Categories of Interest
       row: 4
       type: select
       options:
         - value: ''
-          label: Sélectionnez une catégorie...
+          label: Select product category...
         - value: all
-          label: Tous les produits / Catalogue complet
-        - value: sup
-          label: SUP / Planches à pagaie
+          label: All products / Full catalog
+        - value: pool
+          label: pools / inflatable pool
         - value: safety
-          label: Équipement de Sécurité / Gilets
+          label: Pool Accessories & Spare Parts
         - value: accessory
-          label: Accessoires (pompes, pagaies, sacs)
+          label: Accessories (pumps, oars, bags)
       step: 1
     - name: firstName
-      label: Prénom
+      label: First Name
       row: 1
       step: 2
     - name: lastName
-      label: Nom
+      label: Last Name
       row: 1
       step: 2
     - name: companyName
-      label: "Nom de l'entreprise"
+      label: Company Name
       row: 2
       step: 2
     - name: email
@@ -99,15 +100,15 @@ contact_form:
       withCountryCode: true
       step: 2
     - name: address
-      label: Adresse
+      label: Address
       row: 4
       step: 2
     - name: zip
-      label: Code Postal
+      label: Zip / Postal Code
       row: 5
       step: 2
     - name: subject
-      label: Sujet
+      label: Subject
       row: 1
       step: 3
     - name: message
@@ -117,29 +118,29 @@ contact_form:
       rows: 6
       step: 3
 features2_other_ways:
-  title: Autres moyens de nous contacter
+  title: Other ways to reach us
   columns: 3
   items:
-    - title: Demandes commerciales
-      description: Devis, configurations, demandes de revendeur et commandes en gros.
+    - title: Sales enquiries
+      description: Quotes, configurations, dealer applications and bulk orders.
       icon: tabler:shopping-bag
-    - title: Support technique
-      description: Garantie, réparations, pièces de rechange et questions d'utilisation.
+    - title: Technical support
+      description: Warranty, repairs, spare parts and operating questions.
       icon: tabler:tool
-    - title: Presse et partenariats
-      description: Kits média, parrainage et collaboration industrielle.
+    - title: Press & partnerships
+      description: Media kits, sponsorship and industry collaboration.
       icon: tabler:news
-    - title: Téléphone
-      description: +1 279 732 3333
+    - title: Phone
+      description: '+1 279 732 3333'
       icon: tabler:headset
-    - title: E-mail
+    - title: Email
       description: info@olagoon.com
       icon: tabler:mail
-    - title: Siège Social
+    - title: Headquarters
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
       icon: tabler:map-pin
 map:
-  title: Notre Emplacement
-  subtitle: Visitez notre siège social
+  title: Our Location
+  subtitle: Visit us at our headquarters
   address: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
   zoom: 15

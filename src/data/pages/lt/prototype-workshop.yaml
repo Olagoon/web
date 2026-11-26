@@ -1,95 +1,95 @@
 meta:
-  title: 'Prototipų dirbtuvės — natūralaus dydžio SUP prototipų kūrimas ir jūros bandymai | {SITE}'
-  description: 'Nuo CAD iki vandeniui paruoštos lentos per 8–12 savaičių. Mūsų prototipų dirbtuvės gamina, įrengia ir bando jūroje individualias pripučiamas SUP lentas. Pradėkite savo prototipo projektą jau šiandien.'
-back_text: 'Grįžti į tyrimų ir plėtros centrą'
-home_label: 'Pradžia'
+  title: 'Prototype Workshop — Full-Scale pool Prototyping & Sea Trials | {SITE}'
+  description: 'From CAD to backyard-ready pool in 8-12 weeks. Our Prototype Workshop builds, rigs, and water-tests custom inflatable pools. Start your prototype project today.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
 
 hero:
-  tagline: 'Laboratorija 05'
-  title: 'Prototipų dirbtuvės'
-  subtitle: 'Nuo CAD modelio iki vandeniui paruoštos lentos — sukurta, įrengta ir išbandyta'
-  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp'
-  image_alt: 'OLagoon prototipų dirbtuvių lentų gamyba'
+  tagline: 'Lab 05'
+  title: 'Prototype Workshop'
+  subtitle: 'From CAD model to water-ready pool — built, fitted, and proven'
+  image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+  image_alt: 'OLagoon prototype workshop pool fabrication'
 
-intro: 'CAD modelis, kad ir koks išsamus būtų, negali atskleisti, kaip lenta iš tiesų elgsis, kol ji nesusitinka su vandeniu. Būtent todėl mūsų prototipų dirbtuvės sukurtos taip, kad inžinerijos duomenis kuo greičiau ir tiksliau paverstų fizine, vandeniui paruošta lenta. Kiekvienas naujas OLagoon modelis — ir kiekvienas reikšmingas individualus gaminys — praeina per šias dirbtuves, kol pradedami gamybos įrankiai.'
+intro: 'A CAD model, no matter how detailed, cannot reveal how a pool will actually perform until it meets the water. That is why our Prototype Workshop is designed to translate engineering data into a physical, water-ready pool as quickly and accurately as possible. Every new OLagoon model — and every significant custom build — passes through this workshop before the production tooling is committed.'
 
 content_html: |
-  <h2>Kur dizainas tampa realybe</h2>
-  <p>Dirbtuvės yra visiškai įrengtos vienalaikiam korpuso, bortelių ir įrangos gamybai. Šis lygiagrečios darbo eigos požiūris sutrumpina prototipo pagaminimo laiką iki 8-12 savaičių nuo inžinerijos perdavimo, palyginti su pramonės norma 16-20 savaičių. Kai jūsų taikymas reikalauja specializuoto sprendimo, galime pereiti nuo koncepcijos iki patvirtinimo vandenyje per mažiau nei tris mėnesius.</p>
+  <h2>Where design becomes reality</h2>
+  <p>The workshop is fully equipped for simultaneous fabrication of hull, rails, and rigging. This parallel-workflow approach cuts prototype lead time to 8-12 weeks from engineering release, compared to the industry norm of 16-20 weeks. When your application demands a specialised solution, we can move from concept to on-water validation in under three months.</p>
 
-  <h2>Dirbtuvių galimybės</h2>
+  <h2>Workshop capabilities</h2>
   <table>
-    <thead><tr><th>Darbo vieta</th><th>Įranga</th><th>Paskirtis</th></tr></thead>
+    <thead><tr><th>Workstation</th><th>Equipment</th><th>Purpose</th></tr></thead>
     <tbody>
-      <tr><td>Korpuso gamyba</td><td>CNC audinio pjaustyklė, terminio laminavimo presas, „Drop-Stitch“ branduolio paruošimo stotis</td><td>Natūralaus dydžio korpuso gamyba visais trimis konstrukcijos tipais</td></tr>
-      <tr><td>Bortelių ir kamerų surinkimas</td><td>RF suvirinimo presas, karšto oro kabliavimo stotis, pripūtimo testavimo stendas</td><td>Natūralaus dydžio bortelių ir kamerų blokų gamyba su visomis pertvaromis ir vožtuvais</td></tr>
-      <tr><td>Įrangos montavimas</td><td>Pelekų dėžučių frezavimo šablonas, krovinio tvirtinimų ir rankenų suvirinimo įtaisai, denio kilimėlio pjaustymo stotis</td><td>Visapusiškas įrengimas: peleksai, krovinio tvirtinimai, saugos virvės lizdai, rankenos, denio kilimėliai, vožtuvai</td></tr>
-      <tr><td>Instrumentų skyrius</td><td>GPS greičio jutiklis, slėgio davikliai, akselerometrai, termoporų masyvas, duomenų registratorius</td><td>Jūros bandymų instrumentų montavimas ir kalibravimas</td></tr>
+      <tr><td>Hull fabrication</td><td>CNC fabric cutter, heat-lamination press, drop-stitch core preparation station</td><td>Full-scale hull production in all three construction types</td></tr>
+      <tr><td>Rail &amp; chamber assembly</td><td>RF welding press, hot-air tacking station, inflation test jig</td><td>Fabrication of full-size rail and chamber assemblies with all baffles and valves</td></tr>
+      <tr><td>Rigging &amp; fitting</td><td>Fin-box routing jig, cargo-mount and handle welding fixtures, deck-pad cutting station</td><td>Complete outfitting: fins, cargo mounts, leash plugs, handles, deck pads, valves</td></tr>
+      <tr><td>Instrumentation bay</td><td>GPS speed sensor, pressure transducers, accelerometers, thermocouple array, data-logger</td><td>Sea-trial instrumentation installation and calibration</td></tr>
     </tbody>
   </table>
 
-  <h2>Prototipo kelias — žingsnis po žingsnio</h2>
+  <h2>The prototype journey — step by step</h2>
   <ol>
-    <li><strong>Inžinerijos perdavimas</strong> — Dizaino paketą (3D modelis, FEA ataskaita, medžiagų sąrašas, sluoksnių klojimo grafikas) formaliai peržiūri dirbtuvių vadovas ir projekto inžinierius. Bet kokios gamybos problemos pažymimos ir išsprendžiamos prieš prasidedant pjaustymui.</li>
-    <li><strong>Korpuso gamyba</strong> — Korpusas statomas pagal inžinerinę specifikaciją. Vieno sluoksnio konstrukcijos atveju: „Drop-Stitch“ branduolys laminuojamas su nurodytu PVC sluoksniu. Dvigubo sluoksnio konstrukcijos atveju: papildomas sluoksnis uždedamas ant bazinio laminato prieš iškerpant ruošinį. Lydytos konstrukcijos atveju: laminavimo parametrai įkeliami iš patvirtinto proceso lapo ir tikrinami ant pirmojo pavyzdinio.</li>
-    <li><strong>Bortelių gamyba</strong> — Audinys pjaunamas naudojant CNC raštų šablonus, tada RF būdu suvirinamas į natūralaus dydžio bortelius ir kameras. Kiekviena kamera pripūčiama iki bandomojo slėgio ir paliekama 24 h pradiniam stabilizavimuisi.</li>
-    <li><strong>Surinkimas ir įrengimas</strong> — Korpusas ir bortelės sujungiami. Pelekų dėžutės ir krovinio tvirtinimai sumontuojami, saugos virvės lizdai ir nešimo rankenos įrengiami, pripūtimo vožtuvas sugriežtinamas, o denio kilimėlis uždedamas ir sulygiuojamas.</li>
-    <li><strong>Statiniai testai</strong> — Prieš lentai paliečiant vandenį atliekama: plūdumo patikra (pilna apkrova + 30 % atsarga), kamerų slėgio laikymo testas, vožtuvo nutekėjimo testas, rankenų ir tvirtinimų tempimo testas.</li>
-    <li><strong>Jūros bandymų programa</strong> — 20 valandų bandymų vandenyje, išsamiai aprašyta toliau.</li>
-    <li><strong>Prototipo peržiūra</strong> — Sušaukiamas formalus patvirtinimo susirinkimas su inžinerijos, gamybos ir kokybės komandomis. Visi reikalingi dizaino pakeitimai dokumentuojami ir įtraukiami į gamybos paleidimą.</li>
+    <li><strong>Engineering handover</strong> — The design package (3D model, FEA report, bill of materials, layup schedule) is formally reviewed by the workshop lead and the project engineer. Any manufacturing concerns are flagged and resolved before cutting begins.</li>
+    <li><strong>Hull production</strong> — The hull is built according to the engineering specification. For single-layer construction: the drop-stitch core is laminated with the specified PVC skin. For double-layer construction: the additional skin is applied over the base laminate before the pattern is cut. For fused construction: the lamination parameters are loaded from the approved process sheet and verified on a first-off coupon.</li>
+    <li><strong>Rail fabrication</strong> — Fabric is cut using CNC-pattern templates, then RF-welded into full-size rails and chambers. Each chamber is inflated to test pressure and left for 24 h for initial stabilisation.</li>
+    <li><strong>Assembly &amp; rigging</strong> — Hull and rails are mated. Fin boxes and cargo mounts are fitted, leash plugs and carry handles are installed, the inflation valve is torqued in, and the deck pad is applied and aligned.</li>
+    <li><strong>Static tests</strong> — Before the pool is filled, it undergoes: structural check (full water load + 30 % reserve), chamber pressure-hold test, valve leak-down test, handle and mount pull-test.</li>
+    <li><strong>Sea trial programme</strong> — 20 hours of in-water testing, detailed below.</li>
+    <li><strong>Prototype review</strong> — A formal sign-off meeting is held with engineering, production, and quality teams. Any required design changes are documented and incorporated into the production release.</li>
   </ol>
 
   <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
-    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20 valandų jūros bandymų programa — testų tvarkaraštis</p>
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20-Hour Sea Trial Programme — Test Schedule</p>
     <div class="space-y-2 text-sm">
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">Pažintis ramiame vandenyje — mažo greičio važiavimas tiesiai, posūkiai, stovėsenos ir balanso patikra</span>
+        <span class="flex-1">Flat-water familiarisation — low-speed tracking, turning, stance and trim check</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">4 h</span>
-        <span class="flex-1">Greičio bandymas — GPS patikrintas didžiausias greitis, kreiserinis greitis, pastovus tempas 3 irklo tempų dažniais</span>
+        <span class="flex-1">Speed trial — GPS-verified top speed, cruise speed, sustained pace at 3 stroke rates</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Posūkio testas — sukimosi apie ašį ir plataus posūkio spindulys, lentos reakcija, kairiuoju ir dešiniuoju bortu</span>
+        <span class="flex-1">Stability test — wall rigidity, floor firmness, and seating comfort under full load</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Bangavimo testas — pakartotiniai važiavimai per 0.5–1.0 m bangavimą; akselerometras irkluotojo stovėsenos vietoje</span>
+        <span class="flex-1">Chop test — repeated runs through 0.5–1.0 m chop; accelerometer at the rider stance position</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Stabilumo testas — statinis šoninio svyravimo kampas su 4 skirtingo svorio irkluotojais, poslinkio apkrova dešiniuoju bortu</span>
+        <span class="flex-1">Stability test — static heel angle with 4 riders of varying weight, offset load to starboard</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Ištvermės važiavimas — 3 h nuolatinis kreiseriniu tempu; kamerų slėgio, bortelių temperatūros ir irkluotojo nuovargio stebėjimas</span>
+        <span class="flex-1">Endurance run — 3 h continuous at cruise pace; monitoring of chamber pressure, rail temperature, and rider fatigue</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">Galutinė patikra — po bandymų tikrinami visi komponentai, sutraukiami/patikrinami visi tvirtinimo elementai, dokumentuojamos išvados</span>
+        <span class="flex-1">Final inspection — post-trial inspection of all components, tighten/check all fasteners, document findings</span>
       </div>
     </div>
   </div>
 
-  <h2>Individualus prototipų kūrimas unikaliems taikymams</h2>
-  <p>Prototipų dirbtuvės — tai vieta, kur sprendžiame problemas, kurių standartinės gamybos lentos negali išspręsti. Naujausi pavyzdžiai:</p>
+  <h2>Custom prototyping for unique applications</h2>
+  <p>The Prototype Workshop is where we solve the problems that standard production pools cannot address. Recent examples include:</p>
   <ul>
-    <li>Labai matoma gelbėjimo SUP lenta paieškos ir gelbėjimo organizacijai, reikalaujanti integruotų rankenų, įrangos tvirtinimų gelbėjimo įrangai ir didelio plūdumo korpuso nukentėjusiems gelbėti — viskas suprojektuota, sumontuota ir išbandyta mūsų objekte.</li>
-    <li>Ekspedicinė turizmo SUP lenta hidrografinių tyrimų rangovui su nuimamu instrumentų stiebu, hermetiškomis įrangos angomis ir žemo profilio keitiklio laikikliu, sukurtu taip, kad mažintų pasipriešinimą.</li>
-    <li>Kompaktiška žvejybos SUP lenta kurorto flotilei, kur prototipas buvo naudojamas patvirtinti stabilumą, įrangos išdėstymą ir patvarumą kasdienėje nuomos veikloje, kad klientas galėtų įsipareigoti keturių lentų flotilei.</li>
+    <li>A high-visibility rescue pool for a search-and-rescue organisation, requiring integrated grab handles, gear mounts for rescue equipment, and a high-buoyancy hull for casualty recovery — all prototyped, fitted, and tested at our facility.</li>
+    <li>An expedition touring pool for a hydrographic survey contractor, with a removable instrument mast, sealed gear ports, and a low-profile transducer mount designed to minimise drag.</li>
+    <li>A compact fishing pool for a resort fleet, where the prototype was used to validate stability, gear rigging, and durability under daily rental use before the client committed to a fleet of four.</li>
   </ul>
 
-  <h2>Mūsų prototipų kūrimo komanda</h2>
-  <p>Dirbtuvėse dirba aštuoni daugiaprofiliai jūrinės technikos specialistai, kiekvienas papildomai apmokytas bent dviejose iš trijų pagrindinių sričių (korpusas, bortelės, įranga). Komandos vadovas — meistras gamintojas, turintis 16 metų patirties, apimančios nuo individualių vienetinių gaminių iki gamybos serijų. Kiekvienam prototipui paskiriamas atskiras projekto inžinierius, kuris viso gaminimo ir bandymų proceso metu yra vienintelis kliento kontaktinis asmuo.</p>
+  <h2>Our prototyping team</h2>
+  <p>The workshop is staffed by eight multi-skilled marine technicians, each cross-trained in at least two of the three core disciplines (hull, rail, rigging). The team lead is a master fabricator with 16 years of experience spanning custom one-off builds to production series. Every prototype is assigned a dedicated project engineer who serves as the single point of contact for the client throughout the build and trial process.</p>
 
-  <h2>Kliento įsitraukimas</h2>
-  <p>Aktyviai skatiname klientus dalyvauti svarbiausiuose prototipo kūrimo etapuose — ypač pradinės įrangos peržiūroje ir jūros bandyme. Jūsų operacinis grįžtamasis ryšys šiuose etapuose yra neįkainojamas tobulinant lentą prieš jos patekimą į gamybą. Mes nekuriame atitrūkę nuo realybės; kuriame partnerystėje su jumis.</p>
-  <p>20 valandų jūros bandymas taip pat yra galimybė jūsų komandai susipažinti su lentos valdymu, denio išdėstymu ir priežiūros reikalavimais, užtikrinant sklandų perėjimą prie eksploatacijos, kai bus pristatytos serijinės lentos.</p>
+  <h2>Client involvement</h2>
+  <p>We actively encourage our clients to attend key milestones during the prototype build — particularly the initial fit-out review and the sea trial. Your operational feedback during these stages is invaluable in fine-tuning the pool before it enters production. We do not build in a vacuum; we build in partnership with you.</p>
+  <p>The 20-hour water trial is also an opportunity for your team to familiarise themselves with the pool's operation, layout, and maintenance requirements, ensuring a smooth transition to service when the production pools are delivered.</p>
 
 cta:
-  title: 'Pradėkite savo prototipo projektą'
-  subtitle: 'Papasakokite mums apie reikalingą lentą, o mes pasiūlysime prototipo kūrimo planą.'
-  button_text: 'Susisiekti su mūsų prototipų komanda'
+  title: 'Start your prototype project'
+  subtitle: 'Tell us about the pool you need and we will propose a prototype development plan.'
+  button_text: 'Contact our prototyping team'
   button_link: /contact/

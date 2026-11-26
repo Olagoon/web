@@ -1,105 +1,105 @@
 meta:
-  title: 'מותג משותף עם OLagoon — אוספי SUP מוגבלים במותג משותף | {SITE}'
-  description: 'OLagoon יוצרת אוספי SUP ניפחים מוגבלים במותג משותף עם מועדונים מוסמכים, אתרי נופש, אירועים, קהילות ושותפים ארציים. מוצרים במותג משותף נשארים מוצרי OLagoon — מעוצבים, מהונדסים ומגובים על ידי המותג OLagoon.'
+  title: 'Co-Brand With OLagoon — Limited Co-Branded pool Collections | {SITE}'
+  description: 'OLagoon creates limited co-branded inflatable pools collections with qualified clubs, resorts, events, communities, and country partners. Co-branded products remain OLagoon products — designed, engineered, and backed by the OLagoon brand.'
   keywords:
-    - 'SUP ניפחים במותג משותף'
-    - 'אוסף SUP במותג משותף'
-    - 'שותפות ללוחות חתירה'
-    - 'SUP למועדונים ולאתרי נופש'
-    - 'שיתוף פעולה במותג ספורט ימי'
-    - 'מותג משותף עם OLagoon'
+    - 'co-brand inflatable pools'
+    - 'pool co-branded collection'
+    - 'inflatable pool partnership'
+    - 'pool for clubs and resorts'
+    - 'water sports brand collaboration'
+    - 'OLagoon co-branding'
 hero:
-  tagline: 'מותג משותף עם OLagoon'
-  title: 'צרו<br />אוסף במותג משותף'
-  subtitle: 'OLagoon הוא מותג גלובלי לספורט ימי ניפחים הבונה שותפויות ארציות בלעדיות ואוספים מוגבלים במותג משותף עם עסקי ספורט ימי מוסמכים. מוצרים במותג משותף נשארים מוצרי OLagoon — מעוצבים, מהונדסים, נבדקים בבקרת איכות ומגובים על ידי המותג OLagoon.'
+  tagline: 'Co-Brand With OLagoon'
+  title: 'Create a<br />Co-Branded Collection'
+  subtitle: 'OLagoon is a global inflatable water-sports brand building exclusive country partnerships and limited co-branded collections with qualified water-sports businesses. Co-branded products remain OLagoon products — designed, engineered, quality-checked, and backed by the OLagoon brand.'
   actions:
-    - text: 'התחילו פרויקט מותג משותף'
+    - text: 'Start a Co-Brand Project'
       href: /contact/?subject=Co-Brand Project
       variant: primary
-    - text: 'בקשו את חבילת המותג המשותף'
+    - text: 'Request the Co-Brand Pack'
       href: /contact/?subject=Co-Brand Pack
       variant: secondary
-    - text: 'גלו את השותפות הארצית'
+    - text: 'Explore the Country Partnership'
       href: /distributor-program/
       variant: secondary
 stats:
   - value: '1'
-    label: 'זיכיון ארצי / שוק אחד לכל מפיץ'
+    label: 'Country call / market for each distributor'
   - value: '50+'
-    label: 'מדינות המטופלות באמצעות שותפים'
+    label: 'Countries served with partners'
   - value: '12–15'
-    label: 'קשיחות PSI של ליבת Drop-Stitch, תקן האוסף'
+    label: 'PSI drop-stitch rigidity, collection standard'
   - value: '100%'
-    label: 'בדיקת לחץ לכל לוח בנפרד לפני המשלוח'
+    label: 'Pressure-tested board by board before shipping'
 features:
-  title: 'מה משמעות המותג המשותף ב-OLagoon'
-  subtitle: 'מותג משותף היא תוכנית שותפות העיצוב שלנו — בנויה סביב המותג OLagoon, הגנה טריטוריאלית ואוספים מוגבלים, ולא ייצור ללא מיתוג.'
+  title: 'What Co-Branding Means at OLagoon'
+  subtitle: 'Co-branding is our design-partnership program — built around the OLagoon brand, territory protection, and limited collections, not unbranded production.'
   columns: 3
   items:
-    - title: 'מוצרי OLagoon נשארים מוצרי OLagoon'
-      description: 'אוסף במותג משותף הוא מהדורה מוגבלת של לוחות OLagoon עם הזהות שלכם שזורה בה. הוא לעולם אינו ללא מיתוג, לעולם אינו מותג של צד שלישי, ולעולם אינו תוכנית מותג פרטי פתוחה.'
+    - title: 'OLagoon Products Stay OLagoon Products'
+      description: 'A co-branded collection is a limited edition of OLagoon boards with your identity woven in. It is never unbranded, never a third-party brand, and never an open private-label program.'
       icon: 'tabler:trademark'
-    - title: 'מעוצב איתכם'
-      description: 'הצבעים, המתן שמות והסיפור שלכם מעצבים את האוסף. צוות העיצוב וההנדסה שלנו מטפל בסיפונים, בגרפיקה, באריזה ובתיעוד מהתדריך ועד המסירה.'
+    - title: 'Designed With You'
+      description: 'Your colors, naming, and story shape the collection. Our design and engineering team handles decks, graphics, packaging, and documentation from brief to delivery.'
       icon: 'tabler:pencil'
-    - title: 'למועדונים, אתרי נופש, אירועים וקהילות'
-      description: 'אוספי צי למועדוני חתירה ולאתרי נופש, מהדורות אירוע למרוצים ולסדרות קהילתיות — כולם נושאים את האיכות והאחריות של OLagoon.'
+    - title: 'For Clubs, Resorts, Events & Communities'
+      description: 'Fleet collections for paddle clubs and resorts, event editions for races and community series — all carrying the OLagoon quality and warranty.'
       icon: 'tabler:users'
-    - title: 'מגן על שותפים ארציים'
-      description: 'המותג המשותף פועל לצד מודל המדינה-אחת-מפיץ-אחד שלנו. שותפים לאומיים שומרים על הטריטוריה שלהם; אוספי מותג משותף אינם פותחים דלת למותגים מקבילים בשוק שלהם.'
+    - title: 'Protects Country Partners'
+      description: 'Co-branding runs alongside our one-country-one-distributor model. National partners keep their territory; co-brand collections do not open the door to parallel brands in their market.'
       icon: 'tabler:shield-check'
-    - title: 'תקני הנדסה ואיכות'
-      description: 'כל אוסף נשלח משרשרת האספקה המוסמכת שלנו עם תיעוד CE ו-ISO 9001, בדיקות לחץ ואותן נקודות בקרת איכות כמו בסדרה המרכזית שלנו.'
+    - title: 'Engineering & Quality Standards'
+      description: 'Every collection ships from our certified supply chain with CE and ISO 9001 documentation, pressure-testing, and the same QC checkpoints as our core range.'
       icon: 'tabler:certificate'
-    - title: 'הופך לנכס מותג'
-      description: 'אוסף מוגבל במותג משותף בונה את הסיפור שלכם על המים — מרווח מכירה, תוכן מדיה וסיבה לחותרים לחזור שנה אחר שנה.'
+    - title: 'Becomes a Brand Asset'
+      description: 'A limited co-branded collection builds your own story on the water — sell-through margin, media content, and a reason for swimmers to come back season after season.'
       icon: 'tabler:star'
 table:
-  title: 'דרגות אוסף המותג המשותף'
-  subtitle: 'תנאים טיפוסיים לאוסף במותג משותף. מחירים ב-USD, FOB צ׳ינגדאו. עיצובי סיפון מותאמים מוסיפים 15–20 ימי עבודה לפיתוח; תבניות חדשות מתומחרות לפי פרויקט.'
-  caption: 'כל המוצרים במותג משותף נשארים מוצרי OLagoon ונושאים את זהות המותג OLagoon. היקף הפרויקט, חלון הבלעדיות והתנאים הסופיים נקבעים בהסכם פרויקט המותג המשותף.'
+  title: 'Co-Brand Collection Tiers'
+  subtitle: 'Typical co-brand collection terms. Prices in USD, FOB Qingdao. Custom deck designs add 15–20 working days for development; new molds are quoted per project.'
+  caption: 'All co-branded products remain OLagoon products and carry the OLagoon brand identity. Project scope, exclusivity window, and final terms are agreed in the Co-Brand Project Agreement.'
   head:
-    - 'דרגת מותג משותף'
-    - 'כמות הזמנה מינימלית (יחידות)'
-    - 'זמן אספקה'
-    - 'תשלום'
+    - Co-Brand Tier
+    - Minimum Order (units)
+    - Lead Time
+    - Payment
   rows:
-    - ['אוסף פיילוט', '30–50', '30–45 ימי עבודה', 'מקדמה 30% / יתרה 70% לפני המשלוח']
-    - ['אוסף סטנדרטי במותג משותף', '50–100', '30–45 ימי עבודה', 'מקדמה 30% / יתרה 70% לפני המשלוח']
-    - ['אוסף גדול / רב-אזורי', '100+', '45–60 ימי עבודה', 'מקדמה 30% / יתרה 70% לפני המשלוח']
-    - ['תבנית חדשה או התאמה מקומית עמוקה', '200+', '60–90 ימי עבודה', 'מקדמה 30% / יתרה 70% לפני המשלוח']
+    - [Pilot Collection, 30–50, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Standard Co-Branded Collection, 50–100, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Large / Multi-Region Collection, 100+, 10–14 weeks, 30% deposit / 70% before shipment]
+    - [New Mold or Deep Localization, 200+, 12–16 weeks + 15–20 days tooling, 30% deposit / 70% before shipment]
 faqs:
-  title: 'מותג משותף — שאלות נפוצות'
-  subtitle: 'כיצד פועל המותג המשותף של OLagoon, ובמה הוא נבדל מ-OEM וממותג פרטי.'
+  title: 'Co-Brand — FAQ'
+  subtitle: 'How OLagoon co-branding works, and how it differs from OEM and private label.'
   items:
-    - title: 'האם מותג משותף זהה ל-OEM או למותג פרטי?'
-      description: 'לא. OLagoon כבר אינה מפעילה תוכנית OEM/מותג פרטי פתוחה. מוצרים במותג משותף נשארים מוצרי OLagoon — מעוצבים, מהונדסים, נבדקים בבקרת איכות ומגובים על ידי המותג OLagoon. הזהות שלכם מופיעה כמותג שותף, ולא כמוצר ללא מיתוג של צד שלישי.'
-    - title: 'מי יכול להתחיל פרויקט מותג משותף?'
-      description: 'עסקי ספורט ימי מוסמכים: שותפים ארציים קיימים, מועדוני חתירה, אתרי נופש ומלונות, מארגני אירועים וקהילות. שלחו לנו תדריך פרויקט ונאשר את ההתאמה לפני שמתחילה עבודת העיצוב.'
-    - title: 'האם המותג המשותף יתנגש עם המפיץ הארצי שלי?'
-      description: 'לא. מודל המדינה-אחת-מפיץ-אחד מקבל עדיפות. אוספי מותג משותף מתואמים עם השותף הארצי המקומי במקום שבו קיים כזה, כך שלא מופיע מותג מקביל או מתחרה בתוך טריטוריה מוגנת.'
-    - title: 'מהי כמות ההזמנה המינימלית לאוסף במותג משותף?'
-      description: 'אוספי פיילוט מתחילים ב-30–50 יחידות. אוספים סטנדרטיים כוללים 50–100 יחידות; מהדורות גדולות או רב-אזוריות כוללות 100+ יחידות. לוחות זמנים לפיתוח בהתאמה אישית נקבעים לפי פרויקט.'
-    - title: 'מה נחשב לאיכות OLagoon לעומת תרומת השותף?'
-      description: 'OLagoon אחראית לעיצוב המוצר, להנדסה, לחומרים, למבנה, לבקרת האיכות ולאחריות. השותפים תורמים את הקונספט של האוסף, את השמות, את הצבעים, את הגרפיקה ואת ההשקה השיווקית. כך נשמר תקן איכות אחד על המים.'
-    - title: 'כיצד מגישים בקשה?'
-      description: 'מלאו את טופס הפנייה למותג משותף עם פרטי העסק, השוק ורעיון האוסף שלכם. אנו נבחן את ההתאמה ונשיב בתוך 3 ימי עסקים עם הצעה ועם הסכם פרויקט המותג המשותף.'
+    - title: 'Is co-branding the same as OEM or private label?'
+      description: 'No. OLagoon no longer runs an open OEM/private-label program. Co-branded products remain OLagoon products — designed, engineered, quality-checked, and backed by the OLagoon brand. Your identity appears as a co-brand, not as an unbranded third-party product.'
+    - title: 'Who can start a co-brand project?'
+      description: 'Qualified water-sports businesses: existing country partners, paddle clubs, resorts and hotels, event organizers, and communities. Send us a project brief and we confirm applicability before design work begins.'
+    - title: 'Will co-branding conflict with my country distributor?'
+      description: 'No. The one-country-one-distributor model takes priority. Co-brand collections are coordinated with the local country partner where one exists, so no parallel or competing brand appears inside a protected territory.'
+    - title: 'What is the minimum order for a co-brand collection?'
+      description: 'Pilot collections start at 30–50 units. Standard collections are 50–100 units; large or multi-region editions are 100+ units. Custom development timelines are agreed per project.'
+    - title: 'What amounts to OLagoon quality versus partner input?'
+      description: 'OLagoon owns product design, engineering, materials, construction, QC, and warranty. Partners contribute collection concept, naming, colors, graphics input, and go-to-market. This keeps one quality standard on the water.'
+    - title: 'How do I apply?'
+      description: 'Complete the co-brand inquiry form with your business, market, and collection idea. We review fit, then respond within 3 business days with a proposal and the Co-Brand Project Agreement.'
 cta:
-  title: 'בנו אוסף מוגבל שהמים יזכרו.'
-  subtitle: 'התחילו פרויקט מותג משותף עם OLagoon והפכו את המועדון, אתר הנופש או הקהילה שלכם למותג על המים — מגובה בהנדסה ובאחריות של OLagoon.'
+  title: 'Build a limited collection the water will remember.'
+  subtitle: 'Start a co-brand project with OLagoon and turn your club, resort, or community into a brand on the water — backed by OLagoon engineering and warranty.'
   actions:
-    - text: 'התחילו פרויקט מותג משותף'
+    - text: 'Start a Co-Brand Project'
       href: /contact/?subject=Co-Brand Project
       variant: primary
-    - text: 'גלו את השותפות הארצית'
+    - text: 'Explore Country Partnership'
       href: /distributor-program/
       variant: secondary
 geo:
-  tagline: 'עם מי אנו יוצרים מותג משותף'
-  sentence: 'OLagoon יוצרת מותג משותף עם עסקי ספורט ימי מבוססים — שותפים ארציים, מועדוני חתירה, אתרי נופש ומלונות, מארגני אירועים וקהילות חתירה — שרוצים אוסף מובחן ומוגבל הבנוי על מותג גלובלי אמין.'
+  tagline: 'Who We Co-Brand With'
+  sentence: 'OLagoon co-brands with established water-sports businesses — country partners, paddle clubs, resorts and hotels, event organizers, and swimming communities — that want a distinctive, limited collection built on a reliable global brand.'
   audiences:
-    - 'מפיצים ארציים'
-    - 'מועדוני חתירה וספורט ימי'
-    - 'אתרי נופש ומלונות'
-    - 'מארגני מרוצים ואירועים'
-    - 'קהילות חתירה'
+    - 'Country Distributors'
+    - 'Paddle & Water Sports Clubs'
+    - 'Resorts & Hotels'
+    - 'Race & Event Organizers'
+    - 'swimming Communities'

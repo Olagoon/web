@@ -1,130 +1,130 @@
 meta:
-  title: 'Pusat R&D | {SITE}'
-  description: 'Riset & Pengembangan — pengujian kain PVC, teknik lambung, pengelasan RF, pengujian hidrodinamika, dan kontrol kualitas. Layanan R&D kustom tersedia.'
+  title: 'R&D Center | {SITE}'
+  description: 'Research & Development — PVC fabric testing, hull engineering, RF welding, hydrodynamic testing, and quality control. Custom R&D services available.'
 
 hero:
-  tagline: 'Pusat R&D'
-  title: 'Pusat R & D'
-  subtitle: 'Fokus pada Kemajuan'
+  tagline: R&D Center
+  title: R & D Center
+  subtitle: Focused on Progress
 
 intro:
-  - 'Pusat Riset dan Pengembangan (R&D) olagoon adalah kekuatan pendorong di balik misi kami merevolusi peralatan olahraga air. Kami memberdayakan penggemar olahraga air di seluruh dunia dengan produk yang lebih aman, lebih nyaman, dan lebih menyenangkan melalui inovasi tanpa henti dalam papan dayung tiup stand-up (SUP). Tim kami yang berdedikasi, terdiri dari insinyur, desainer, dan pakar olahraga air yang berbakat, sedang membentuk masa depan industri ini dengan terus-menerus menaikkan standar kualitas, performa, dan keberlanjutan.'
-  - 'Fasilitas R&D kami menyatukan ilmuwan material, insinyur bahari, dan insinyur produksi di bawah satu atap. Dari formulasi kain dan simulasi lambung hingga pengembangan proses pengelasan dan uji coba laut skala penuh, setiap tahap pengembangan produk didorong oleh data dan divalidasi melalui pengujian.'
+  - olagoon's Research and Development (R&D) Center is the driving force behind our mission to revolutionize water sports equipment. We empower water sports enthusiasts globally with safer, more comfortable, and more enjoyable products through relentless innovation in inflatable drop-stitch pool (pools). Our dedicated team of engineers, designers, and passionate water sports experts are shaping the future of the industry, consistently raising the bar for quality, performance, and sustainability.
+  - Our R&D facility brings together material scientists, marine engineers, and production engineers under one roof. From fabric formulation and hull simulation to welding process development and full-scale sea trials, every stage of product development is driven by data and validated by testing.
 
 mission:
-  tagline: 'Misi Kami'
-  title: 'Menginovasi Masa Depan Olahraga Air'
+  tagline: Our Mission
+  title: Innovating the Future of Water Sports
   pillars:
     - icon: lightning
-      title: 'Kemajuan Teknologi'
-      desc: 'Mempelopori material, desain, dan manufaktur baru demi performa dan daya tahan produk yang unggul.'
+      title: Technological Advancement
+      desc: Pioneering new materials, designs, and manufacturing for superior product performance and longevity.
     - icon: design
-      title: 'Desain Berpusat pada Pengguna'
-      desc: 'Memahami secara mendalam dan melampaui kebutuhan pengguna melalui desain produk yang ergonomis dan intuitif.'
+      title: User-Centric Design
+      desc: Deeply understanding and exceeding user needs through ergonomic and intuitive product design.
     - icon: globe
-      title: 'Praktik Berkelanjutan'
-      desc: 'Meminimalkan jejak lingkungan kami dengan memanfaatkan material dan proses yang ramah lingkungan.'
+      title: Sustainable Practices
+      desc: Minimizing our environmental footprint by utilizing eco-friendly materials and processes.
     - icon: shield
-      title: 'Keselamatan Tanpa Kompromi'
-      desc: 'Memastikan standar keselamatan tertinggi melalui pengujian dan sertifikasi yang ketat.'
+      title: Uncompromising Safety
+      desc: Ensuring the highest safety standards through rigorous testing and certification.
 
 pillars:
-  - title: 'Kemajuan Teknologi'
-    desc: 'Mempelopori material, desain, dan proses manufaktur baru untuk menghadirkan performa dan daya tahan produk yang unggul.'
+  - title: Technological Advancement
+    desc: Pioneering new materials, designs, and manufacturing processes to deliver superior product performance and longevity.
     icon: tech
-  - title: 'Material Canggih'
-    desc: 'Menyelidiki PVC mutakhir, komposit, dan alternatif berkelanjutan untuk karakteristik produk yang lebih baik.'
+  - title: Advanced Materials
+    desc: Investigating cutting-edge PVC, composites, and sustainable alternatives for enhanced product characteristics.
     icon: materials
-  - title: 'Keberlanjutan'
-    desc: 'Komitmen Inti: Kami berdedikasi pada pengelolaan lingkungan melalui manufaktur berkelanjutan dan material yang dapat didaur ulang.'
+  - title: Sustainability
+    desc: 'A Core Commitment: We are dedicated to environmental stewardship through sustainable manufacturing and recyclable materials.'
     icon: sustainability
 
 capabilities:
-  tagline: 'Kapabilitas'
-  title: 'Kapabilitas R&D'
-  subtitle: 'Empat disiplin inti yang memberi kami kontrol menyeluruh atas pengembangan produk — dari riset material baku hingga sertifikasi akhir.'
+  tagline: Capabilities
+  title: R&D Capabilities
+  subtitle: Four core disciplines that give us end-to-end control over product development — from raw material research to final certification.
   groups:
-    - title: 'Ilmu Material & Teknologi Kain'
+    - title: Material Science & Fabric Technology
       items:
-        - 'Analisis dan optimasi formulasi PVC'
-        - 'Pengembangan aditif stabilisasi UV, flame retardancy, dan anti-mikroba'
-        - 'Rekayasa laminasi kain multilapis dan adhesi'
-        - 'Pengujian penuaan dipercepat (UV, termal, kelembapan, semprotan garam)'
-    - title: 'Teknik Lambung & Hidrodinamika'
+        - PVC formulation analysis and optimisation
+        - UV stabilisation, flame retardancy, and anti-microbial additive development
+        - Multi-layer fabric lamination and adhesion engineering
+        - Accelerated ageing testing (UV, thermal, humidity, salt spray)
+    - title: Hull Engineering & Hydrodynamics
       items:
-        - 'Desain lambung 3D parametrik dan optimasi CFD'
-        - 'Analisis elemen hingga untuk beban struktural dan benturan'
-        - 'Pengujian tangki penarik model skala dan validasi performa'
-        - 'Pengembangan lambung kustom untuk profil misi khusus'
-    - title: 'Teknologi Pengelasan & Penyambungan'
+        - Parametric 3D hull design and CFD optimisation
+        - Finite element analysis for structural and impact loads
+        - Scale-model towing tank testing and performance validation
+        - Custom hull development for special mission profiles
+    - title: Welding & Joining Technology
       items:
-        - 'Pengembangan dan optimasi proses pengelasan dielektrik RF'
-        - 'Metode pengelasan udara panas, hot-wedge, dan ultrasonik'
-        - 'Perekatan lem dan kualifikasi pita sambungan'
-        - 'Pemodelan kekuatan las dan prediksi umur pakai'
-    - title: 'Pengujian, Sertifikasi & Kepatuhan'
+        - RF dielectric welding process development and optimisation
+        - Hot-air, hot-wedge, and ultrasonic welding methods
+        - Adhesive bonding and seam tape qualification
+        - Weld strength modelling and lifetime prediction
+    - title: Testing, Certification & Compliance
       items:
-        - 'Manajemen kualitas dan pengujian kepatuhan CE'
-        - 'Dukungan pengujian dan sertifikasi pihak ketiga independen'
-        - 'Pengembangan protokol uji kustom untuk kualifikasi pengadaan'
-        - 'Analisis kegagalan dalam layanan dan investigasi akar masalah'
+        - Quality management and CE compliance testing
+        - Independent third-party testing and certification support
+        - Custom test protocol development for procurement qualification
+        - In-service failure analysis and root-cause investigation
 
 rd_numbers:
-  tagline: 'Inovasi'
-  title: 'R&D dalam Angka'
+  tagline: Innovation
+  title: R&D by the Numbers
   stats:
     - value: '14'
-      label: 'Insinyur & ilmuwan R&D'
+      label: R&D engineers & scientists
     - value: '8'
-      label: 'Paten & pengajuan aktif'
+      label: Active patents & filings
     - value: '6'
-      label: 'Lab spesialis'
-    - value: '12 thn'
-      label: 'Rata-rata pengalaman tim'
+      label: Specialised labs
+    - value: 12 yr
+      label: Average team experience
 
 rd_services:
-  tagline: 'R&D Kustom'
-  title: 'Layanan R&D untuk Mitra'
+  tagline: Custom R&D
+  title: R&D Services for Partners
   services:
-    - title: 'Pengembangan Material Kustom'
-      desc: 'Kami mengembangkan formulasi kain kustom, susunan laminat, dan sistem perekat yang disesuaikan dengan lingkungan operasi dan target performa Anda.'
-    - title: 'Rekayasa Produk OEM / ODM'
-      desc: 'Kami mengembangkan formulasi kain kustom, susunan laminat, dan sistem perekat yang disesuaikan dengan lingkungan operasi dan target performa Anda.'
-    - title: 'Pengujian & Sertifikasi Pihak Ketiga'
-      desc: 'Gunakan fasilitas pengujian kami yang memenuhi ISO untuk pengujian material independen, validasi produk, dan dukungan sertifikasi.'
-  cta: 'Diskusikan kebutuhan R&D Anda →'
+    - title: Custom Material Development
+      desc: We develop custom fabric formulations, laminate stacks, and adhesive systems tailored to your operating environment and performance targets.
+    - title: OEM / ODM Product Engineering
+      desc: We develop custom fabric formulations, laminate stacks, and adhesive systems tailored to your operating environment and performance targets.
+    - title: Third-Party Testing & Certification
+      desc: Use our ISO-compliant test facilities for independent material testing, product validation, and certification support.
+  cta: Discuss your R&D requirements →
   cta_link: /contact/
 
 vision:
-  tagline: 'Visi Kami'
-  title: 'Membentuk Masa Depan Olahraga Air'
-  body: 'olagoon berupaya memimpin industri SUP tiup melalui inovasi berkelanjutan, kualitas yang tak tergoyahkan, dan komitmen teguh terhadap keselamatan serta keberlanjutan — pada akhirnya memperkaya pengalaman para penggemar olahraga air di seluruh dunia. Pusat R&D olagoon adalah tempat hasrat bertemu inovasi, menetapkan standar baru bagi industri olahraga air.'
+  tagline: Our Vision
+  title: Shaping the Future of Water Sports
+  body: OLagoon strives to lead the inflatable pool industry through continuous innovation, unwavering quality, and a steadfast commitment to safety and sustainability — ultimately enriching backyard summers for families worldwide. The olagoon R&D Center is where passion meets innovation, setting new standards for the water sports industry.
 
 labs_section:
-  tagline: 'Lab'
-  title: 'Laboratorium Kami'
+  tagline: Labs
+  title: Our Laboratories
   labs:
     - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
-      title: 'Lab Kain PVC'
-      description: 'Riset dan pengujian berkelanjutan terhadap kain dek PVC untuk kekuatan tarik, ketahanan UV, abrasi, dan fleksibilitas suhu rendah demi keandalan jangka panjang di lingkungan bahari.'
+      title: PVC Fabric Lab
+      description: Continuous research and testing of PVC deck fabrics for tensile strength, UV resistance, abrasion, and low-temperature flexibility to ensure long-term reliability in marine environments.
       href: /randdcenter/pvc-fabric-lab/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-      title: 'Studio Teknik Lambung'
-      description: 'Desain berbasis CAD dan analisis elemen hingga untuk lambung HDPE, aluminium, dan fiberglass. Setiap lambung disimulasikan secara digital untuk distribusi tegangan dan ketahanan benturan sebelum prototipe pertama dibangun.'
+      title: Hull Engineering Studio
+      description: CAD-driven design and finite element analysis of HDPE, aluminum, and fiberglass hulls. Every hull is digitally simulated for stress distribution and impact resistance before the first prototype is built.
       href: /technology/
-    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
-      title: 'Pusat Pengelasan RF'
-      description: 'Fasilitas pengelasan frekuensi radio khusus dengan kontrol suhu dan tekanan presisi, menghasilkan sambungan kedap udara berkekuatan tinggi yang memenuhi standar industri bahari untuk kapal tiup.'
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+      title: RF Welding Center
+      description: Dedicated radio-frequency welding facility with precision temperature and pressure control, producing high-strength, airtight seams that meet marine industry standards for inflatable craft.
       href: /randdcenter/rf-welding/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
-      title: 'Tangki Uji Hidrodinamika'
-      description: 'Pengujian skala model di tangki uji internal kami untuk mengoptimalkan bentuk lambung, performa planing, stabilitas, dan efisiensi bahan bakar lintas berbagai kondisi beban dan laut.'
+      title: Hydrodynamic Test Tank
+      description: Scale-model testing in our in-house test tank to optimize hull form, planing performance, stability, and fuel efficiency across a range of load and sea conditions.
       href: /technology/
-    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      title: 'Workshop Prototipe'
-      description: 'Fasilitas pembuatan prototipe dan rigging skala penuh tempat model baru dibangun, dilengkapi, dan diuji di laut. Setiap prototipe menjalani program uji di air minimal 20 jam sebelum disetujui untuk produksi.'
+    - image: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+      title: Prototype Workshop
+      description: Full-scale prototyping and rigging facility where new models are built, fitted, and sea-trialed. Every prototype undergoes a minimum 20-hour in-water test programme before production approval.
       href: /randdcenter/prototype-workshop/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
-      title: 'Lab Kualitas & Inspeksi'
-      description: 'Lab penjaminan kualitas khusus yang melakukan pengujian tarik, siklus retensi udara, uji peeling sambungan, dan sertifikasi material untuk memastikan setiap papan yang meninggalkan workshop memenuhi spesifikasi yang kami publikasikan.'
+      title: Quality & Inspection Lab
+      description: Dedicated quality assurance lab performing tensile testing, air-retention cycling, seam peel tests, and material certification to ensure every pool leaving the workshop meets our published specifications.
       href: /randdcenter/quality-inspection-lab/

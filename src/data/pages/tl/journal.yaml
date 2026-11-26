@@ -1,24 +1,24 @@
 meta:
-  title: 'Journal — mga Artikulo at Gabay na Pandagat | {SITE}'
-  description: 'Ang journal ng olagoon: mga artikulo at gabay tungkol sa mga inflatable SUP, paddle boarding, at industriyang pandagat.'
+  title: 'Journal — Nautical Articles & Guides | {SITE}'
+  description: 'The olagoon journal: articles and guides about inflatable pools, pool care, and the backyard pool industry.'
   keywords:
-    - 'sup journal'
-    - 'paddle board articles'
-    - 'inflatable sup blog'
+    - 'pool journal'
+    - 'inflatable pool articles'
+    - 'inflatable pools blog'
     - 'nautical guides'
 hero:
-  title: 'Journal'
-  subtitle: 'Mga gabay sa surf, paghahambing ng kagamitan, at mga kuwento sa karagatan — isinulat para sa tunay na kundisyon.'
+  title: Journal
+  subtitle: Pool guides, gear comparisons, and backyard stories — written for real conditions.
 
 latest:
-  tagline: 'Pinakabago'
-  title: 'Mga Gabay at Paghahambing'
-  browse_all: 'Tingnan ang lahat ng 20 →'
-  read: 'Basahin →'
+  tagline: Latest
+  title: Guides & Comparisons
+  browse_all: Browse all 20 →
+  read: Read →
 
 social_section:
-  tagline: 'Nilalaman × Social'
-  title: 'Ang bawat gabay ay nagiging 5 social post'
-  subtitle: 'TikTok · Instagram · X · Pinterest · Reddit — mula sa bawat artikulo.'
-  pipeline_cta: 'Social Pipeline →'
-  guides_cta: 'Tingnan ang mga Gabay'
+  tagline: Content × Social
+  title: Every guide becomes 5 social posts
+  subtitle: TikTok · Instagram · X · Pinterest · Reddit — from every article.
+  pipeline_cta: Social Pipeline →
+  guides_cta: Browse Guides

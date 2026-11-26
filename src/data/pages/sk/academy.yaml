@@ -1,181 +1,175 @@
 meta:
-  title: 'Akadémia — príručky SUP a pádlovací tréning | {SITE}'
-  description: 'Akadémia olagoon: príručky pre nafukovacie paddle boardy, techniky stand up paddle, námorná bezpečnosť a znalosti materiálov pre začiatočníkov aj profesionálov.'
+  title: 'Academy — Pool Care Guides & Learning Center | {SITE}'
+  description: 'OLagoon Academy: drop-stitch pool guides, setup tutorials, water care, safety essentials, and materials knowledge for pool owners and professionals.'
   keywords:
-    - 'naučte sa stand up paddle'
-    - 'príručka sup pre začiatočníkov'
-    - 'základy paddle boardu'
-    - 'sup technika'
-    - 'lekcie sup'
+    - 'drop stitch pool guide'
+    - 'inflatable pool setup'
+    - 'pool water care'
+    - 'pool safety essentials'
+    - 'pool maintenance'
 hero:
-  tagline: 'Akadémia olagoon'
-  title: 'Centrum vzdelávania'
-  subtitle: 'Príručky a tutoriály pre každú úroveň zručností — od základov SUP po pokročilé záchranné techniky'
+  tagline: OLagoon Academy
+  title: Learning Center
+  subtitle: Guides and tutorials for every pool owner — from first setup to water care, safety, and seasonal maintenance
 
 categories:
-  - level: 'Začiatočníci'
+  - level: Getting Started
     color: from-green-500 to-emerald-600
     badge: bg-green-100 text-green-700
     guides:
-      - title: 'Základy SUP'
-        desc: 'Naučte sa základy pádlovania v stoji — postoj, technika záberu a rovnováha.'
-        slug: beginner-sup-guide
-      - title: 'Techniky pádlovania'
-        desc: 'Predný záber, oblúkový záber, príťah a nízka opora — zvládnite základné pádlovacie pohyby.'
-        slug: sup-paddle-guide
-      - title: 'Bezpečnosť na prvom mieste'
-        desc: 'Zásadné bezpečnostné praktiky vrátane kontroly počasia, používania záchrannnej vesty, pravidiel pásla a sebazáchrany.'
-        slug: sup-safety-guide
-  - level: 'Stredná úroveň'
+      - title: Choosing Your Pool
+        desc: Size, capacity, and placement — how to pick the right drop-stitch pool for your backyard and family.
+        slug: choosing-a-drop-stitch-pool
+      - title: First Setup
+        desc: Unbox, inflate, fill, and swim — a complete walkthrough of your first pool setup in under 30 minutes.
+        slug: pool-setup-guide
+      - title: Pool Safety Essentials
+        desc: Supervision rules, entry and exit practice, barrier placement, and everyday water safety habits.
+        slug: pool-safety-essentials
+  - level: Water Care
     color: from-blue-500 to-indigo-600
     badge: bg-blue-100 text-blue-700
     guides:
-      - title: 'Základy touringu'
-        desc: 'Plánovanie viachodinového pádlovania — navigácia, hydratácia, tempo a čítanie predpovedí vetra.'
-        slug: touring-sup-guide
-      - title: 'Čítanie počasia'
-        desc: 'Interpretujte námorné predpovede, rozpoznávajte typy mrakov a chápte vplyv vetra na vodu.'
-        slug: weather-planning-water-sports
-      - title: 'Základy navigácie'
-        desc: 'Čítanie námorných máp, práca s kompasom, GPS body a plánovanie trás pre pobrežné pádlovanie.'
-        slug: sup-navigation-guide
-      - title: 'Povedomie o prílivoch'
-        desc: 'Porozumenie cyklom prílivu a odlivu, prúdom a ich vplyvu na načasovanie štartu a voľbu trasy.'
-        slug: understanding-tides
-  - level: 'Pokročilí'
+      - title: Water Care Basics
+        desc: Filtration schedules, sanitizer levels, and testing routines for clear, healthy pool water all season.
+        slug: pool-water-care
+      - title: Filtration & Circulation
+        desc: How your sand filter pump works, when to backwash, and how to keep water circulating efficiently.
+        slug: pool-water-care
+      - title: Preventing Algae & Cloudiness
+        desc: Troubleshooting green or cloudy water — causes, quick fixes, and prevention routines.
+        slug: pool-water-care
+  - level: Technology
     color: from-purple-500 to-violet-600
     badge: bg-purple-100 text-purple-700
     guides:
-      - title: 'Plánovanie viacdňových výletov'
-        desc: 'Logistika expedícií — výber vybavenia, plánovanie stravy, bezpečnostné protokoly a núdzové kontakty.'
-        slug: sup-travel-guide
-      - title: 'Záchranárske techniky'
-        desc: 'Sebazáchrana, T-záchrana a protokoly vlečenia pre otvorenú vodu.'
-        slug: sup-self-rescue
-      - title: 'Nočné pádlovanie'
-        desc: 'Navigácia po zotmení — požiadavky na osvetlenie, zapamätanie trasy, komunikácia v skupine a povedomie o nebezpečenstvách.'
-        slug: ocean-safety-basics
-  - level: 'Údržba'
+      - title: Drop-Stitch Engineering
+        desc: How thousands of internal threads turn flexible PVC into a rigid, high-pressure pool structure.
+        slug: drop-stitch-pool-engineering
+      - title: Inflatable vs Rigid Pools
+        desc: Cost, setup, storage, durability, and feel — a complete comparison for backyard buyers.
+        slug: inflatable-pool-vs-rigid-pool
+      - title: Materials Deep Dive
+        desc: PVC layers, UV stabilizers, and reinforced rails — what makes a drop-stitch pool last a decade.
+        slug: drop-stitch-pool-engineering
+  - level: Maintenance
     color: from-amber-500 to-orange-600
     badge: bg-amber-100 text-amber-700
     guides:
-      - title: 'Čistenie a starostlivosť'
-        desc: 'Vyplachovanie sladkou vodou, ochrana pred UV, prevencia plesní a správne techniky sušenia po každom použití.'
-        slug: inflatable-sup-maintenance
-      - title: 'Príručka skladovania'
-        desc: 'Osvedčené postupy skladovania nafukovacích dosiek SUP — vypustenie vzduchu, skladanie, regulácia teploty a životnosť.'
-        slug: inflatable-sup-storage
-      - title: 'Základy opráv'
-        desc: 'Opravte malé prepichnutia, netesnosti švov a problémy s ventilmi pomocou PVC opravných sád a techník záplatovania.'
-        slug: inflatable-sup-repair
-      - title: 'Údržba ventilov'
-        desc: 'Rozpoznajte typy ventilov (Halkey-Roberts, Boston, Leafield), vyčistite nečistoty a vymeňte chybné jadrá.'
-        slug: sup-pump-guide
+      - title: Cleaning & Care
+        desc: Surface cleaning, UV protection, seam inspection, and proper drying before every storage.
+        slug: pool-setup-guide
+      - title: Winter Storage
+        desc: Drain, clean, dry, fold — best practices for storing your pool through the off-season.
+        slug: pool-winter-storage
+      - title: Repairs & Patches
+        desc: Fix small punctures and seam issues with the included PVC repair kit — step by step.
+        slug: pool-setup-guide
 
-knowledge_center_tagline: 'Centrum poznatkov'
-knowledge_center_title: 'Príručky pre námorné vybavenie a odvetvie'
-knowledge_center_subtitle: 'Odborné poznatky a nákupné príručky pre námorných profesionálov, prevádzkovateľov flotíl a priaznivcov vodných športov.'
+knowledge_center_tagline: 'Knowledge Center'
+knowledge_center_title: 'Pool Ownership & Industry Guides'
+knowledge_center_subtitle: 'Expert knowledge and buying guides for pool owners, facilities operators, and retail partners.'
 
 knowledge_sections:
-  - title: 'Vedomosti o doskách SUP'
-    tagline: 'Príručky pre paddleboardy'
-    desc: 'Všetko o doskách SUP — dizajn dosky, materiály, výber veľkosti, údržba a nákupné rady pre rekreačné aj komerčné použitie.'
+  - title: 'Buying Knowledge'
+    tagline: 'Drop-Stitch Pool Guides'
+    desc: 'Everything about drop-stitch pools — sizing, materials, construction, and buying advice for families and commercial buyers.'
     guides:
-      - title: 'Ako si vybrať správnu dosku SUP'
-        desc: 'Kompletný sprievodca výberom SUP — veľkosť, objem, materiál, tvar a zamýšľané použitie.'
-        href: '/learn/water-safety/'
-      - title: 'Nafukovacie vs tvrdé SUP'
-        desc: 'Nafukovacie SUP oproti tvrdej epoxidovej doske — prenosnosť, odolnosť, výkon a hodnota v porovnaní.'
-        href: '/compare/technology/'
-      - title: 'All-around vs touring vs joga SUP'
-        desc: 'Rôzne typy dosiek SUP — štandardy konštrukcie, tvary, veľkosti a odporúčané použitie.'
-        href: '/learn/water-safety/'
-      - title: 'Drop-Stitch vs tradičná konštrukcia'
-        desc: 'Porovnajte drop-stitch a tradičnú konštrukciu dosiek SUP z hľadiska hmotnosti, nákladov, odolnosti a tuhosti.'
-        href: '/learn/drop-stitch-core/'
-  - title: 'Príručka nafukovacích SUP'
-    tagline: 'Vedomosti o nafukovacích SUP'
-    desc: 'Komplexné príručky o nafukovacích SUP — materiály PVC, drop-stitch konštrukcia, bezpečnostné štandardy a osvedčené postupy údržby.'
+      - title: 'How to Choose the Right Pool'
+        desc: 'Complete guide to selecting a drop-stitch pool — size, capacity, material, and intended use.'
+        href: '/v2/choosing-a-drop-stitch-pool/'
+      - title: 'Inflatable vs Rigid Pool'
+        desc: 'Inflatable vs rigid pools — cost, setup, storage, durability, and value compared.'
+        href: '/v2/inflatable-pool-vs-rigid-pool/'
+      - title: 'Compact Plunge vs Family vs Grand Lagoon'
+        desc: 'The three OLagoon pool sizes compared — footprint, capacity, and ideal backyard.'
+        href: '/products/'
+      - title: 'Drop-Stitch vs Traditional Construction'
+        desc: 'Why drop-stitch cores beat vinyl-tube and frame-pool construction in rigidity and lifespan.'
+        href: '/v2/drop-stitch-pool-engineering/'
+  - title: 'Setup & Care Guide'
+    tagline: 'Pool Ownership Knowledge'
+    desc: 'Comprehensive guides on inflatable pool setup, water care, filtration, and maintenance best practices.'
     guides:
-      - title: 'Príručka materiálov PVC'
-        desc: 'Definitívny sprievodca materiálmi PVC používanými v konštrukcii nafukovacích dosiek SUP.'
+      - title: 'PVC Material Guide'
+        desc: 'The PVC materials used in OLagoon pool construction — layers, coatings, and UV resistance.'
         href: '/learn/materials/'
-      - title: 'Ako sa vyrábajú nafukovacie SUP'
-        desc: 'Výrobný proces — strihanie materiálov, spájanie drop-stitch jadier, konštrukcia švov, tlakové testovanie a kontrola kvality.'
+      - title: 'How Pools Are Made'
+        desc: 'Manufacturing process — material cutting, drop-stitch bonding, seam welding, pressure testing, and quality control.'
         href: '/learn/inflatable-technology/'
-      - title: 'Príručka bezpečnosti SUP'
-        desc: 'Bezpečnostné štandardy, nosnosť, správne nafúknutie, kontroly pred vyplávaním a núdzové postupy.'
+      - title: 'Water Safety Guide'
+        desc: 'Safety standards, capacity limits, supervision rules, and emergency procedures.'
         href: '/learn/water-safety/'
-      - title: 'Údržba SUP'
-        desc: 'Čistenie, skladovanie, ochrana pred UV a oprava nafukovacích dosiek SUP.'
-        href: '/v2/inflatable-sup-maintenance/'
-  - title: 'Vedomosti o doskách SUP'
-    tagline: 'Centrum dosiek SUP'
-    desc: 'Technické príručky pokrývajúce typy dosiek SUP, materiály, metódy konštrukcie, údržbu a bezpečnosť.'
+      - title: 'Seasonal Maintenance'
+        desc: 'Cleaning, water care, and protection routines for a season-long clear pool.'
+        href: '/v2/pool-water-care/'
+  - title: 'Engineering Knowledge'
+    tagline: 'Technology Hub'
+    desc: 'Technical guides covering pool construction, materials, pressure ratings, and structural testing.'
     guides:
-      - title: 'Typy dosiek SUP'
-        desc: 'All-around, touring, joga, športové a detské SUP — spoznajte rozdiely a vyberte si správnu dosku.'
-        href: '/learn/water-safety/'
-      - title: 'Technológia Drop-Stitch'
-        desc: 'Ako tisíce vnútorných vlákien vytvárajú tuhé, vysokotlakové nafukovacie konštrukcie.'
+      - title: 'Pool Types Explained'
+        desc: 'Plunge pools, family pools, swim lounges, and custom shapes — learn the differences.'
+        href: '/products/'
+      - title: 'Drop-Stitch Technology'
+        desc: 'How thousands of internal threads create rigid, high-pressure inflatable structures.'
         href: '/learn/drop-stitch-core/'
-      - title: 'Referencia materiálov'
-        desc: 'Denierové hodnoty PVC, hmotnosti látok, odolnosť voči UV a námorné materiály vysvetlené.'
+      - title: 'Materials Reference'
+        desc: 'PVC denier ratings, fabric weights, UV resistance, and marine-grade materials explained.'
         href: '/learn/materials/'
-      - title: 'Nákupná príručka SUP'
-        desc: 'Porovnajte rôzne typy dosiek SUP pre rôzne spôsoby použitia a úrovne zručností.'
-        href: '/learn/water-safety/'
-  - title: 'Vedomosti o SUP'
-    tagline: 'Príručky pre paddleboardy'
-    desc: 'Všetko o doskách SUP — nafukovacie vs pevné, rozmery dosiek, technológie materiálov a odborné rady pre všetky úrovne zručností.'
+      - title: 'Pressure & Rigidity'
+        desc: 'Why 10–15 PSI operating pressure keeps 20 cm walls rock-solid under full load.'
+        href: '/learn/inflatable-technology/'
+  - title: 'Safety Knowledge'
+    tagline: 'Water Safety Guides'
+    desc: 'Everything about pool safety — supervision, barriers, first aid, and safe play for all ages.'
     guides:
-      - title: 'Nafukovacie vs tvrdé SUP'
-        desc: 'Porovnajte iSUP a tvrdé epoxidové dosky z hľadiska prenosnosti, odolnosti, výkonu a hodnoty.'
-        href: '/learn/water-safety/'
-      - title: 'Príručka rozmerov dosiek SUP'
-        desc: 'Ako dĺžka, šírka a hrúbka ovplyvňujú stabilitu, rýchlosť a ovládateľnosť.'
-        href: '/learn/water-safety/'
-      - title: 'Údržba a starostlivosť o SUP'
-        desc: 'Čistenie, skladovanie, ochrana pred UV a tipy na opravy nafukovacích dosiek SUP.'
-        href: '/v2/inflatable-sup-maintenance/'
-      - title: 'Výber vašej prvej SUP'
-        desc: 'Príručka pre začiatočníkov, ako vybrať správny paddleboard podľa vašej hmotnosti, úrovne zručností a zamýšľaného použitia.'
-        href: '/learn/water-safety/'
-  - title: 'Príručka pre požičovné prevádzky'
-    tagline: 'Správa flotíl pre požičovné firmy'
-    desc: 'Príručky o budovaní a správe flotíl SUP na požičiavanie pre plážové stánky, centrá vodných športov a zariadenia cestovného ruchu.'
+      - title: 'Inflatable vs Rigid Pool Safety'
+        desc: 'Safety trade-offs between inflatable and rigid pools — surfaces, edges, and depth.'
+        href: '/v2/inflatable-pool-vs-rigid-pool/'
+      - title: 'Dimensions & Capacity Guide'
+        desc: 'How length, width, and wall height affect capacity, stability, and safe occupancy.'
+        href: '/products/'
+      - title: 'Safe Setup & Placement'
+        desc: 'Ground preparation, drainage, and placement rules for a safe pool area.'
+        href: '/v2/pool-setup-guide/'
+      - title: 'Choosing Your First Pool'
+        desc: "Beginner's guide to selecting the right drop-stitch pool for your space, budget, and family."
+        href: '/v2/choosing-a-drop-stitch-pool/'
+  - title: 'Rental & Programs Guide'
+    tagline: 'Fleet Management for Rental Businesses'
+    desc: 'Guides on running pool rental and community pool programs for holiday parks, camps, and activity centers.'
     guides:
-      - title: 'Budovanie vašej požičovnej flotily'
-        desc: 'Ako vybrať správne dosky SUP pre vašu požičovnú prevádzku — odolnosť, veľkosti a zváženie návratnosti investície.'
+      - title: 'Building Your Rental Fleet'
+        desc: 'How to choose pools for a rental operation — durability, sizing, and ROI considerations.'
         href: '/solutions/rental-operators/'
-      - title: 'Príručka údržby flotily'
-        desc: 'Základné postupy údržby na maximalizáciu životnosti dosiek a minimalizáciu výpadkov požičovných flotíl.'
+      - title: 'Fleet Maintenance Guide'
+        desc: 'Essential maintenance practices to maximize pool lifespan and minimize downtime across a fleet.'
         href: '/solutions/rental-operators/'
-  - title: 'Príručka pre rezorty a hotelierstvo'
-    tagline: 'Vodné aktivity pre hotelierstvo'
-    desc: 'Príručky o zavádzaní a správe programov SUP pre rezorty, hotely a destinácie pri vode.'
+  - title: 'Resort & Hospitality Guide'
+    tagline: 'Pools for Hospitality'
+    desc: 'Guides on adding drop-stitch pool programs for resorts, hotels, and vacation properties.'
     guides:
-      - title: 'Zriadenie programu SUP v rezorte'
-        desc: 'Faktory, ktoré treba zvážiť pri zavádzaní aktivít SUP pre hostí — veľkosť flotily, personál a modelovanie príjmov.'
+      - title: 'Starting a Resort Pool Program'
+        desc: 'Factors to consider when adding guest pools — sizing, placement, staffing, and revenue modeling.'
         href: '/solutions/resorts-hotels/'
-      - title: 'SUP vs iné vodné aktivity'
-        desc: 'Porovnajte programy SUP s inými vodnými športmi z hľadiska zážitku hostí a prevádzkovej efektívnosti.'
-        href: '/learn/water-safety/'
-  - title: 'Príručka maloobchodu a distribúcie'
-    tagline: 'Obchodné partnerstvá v oblasti SUP'
-    desc: 'Príručky, ako sa stať maloobchodným partnerom alebo distribútorom SUP — plánovanie zásob, pozicionovanie na trhu a rastové stratégie.'
+      - title: 'Pools vs Built-In Facilities'
+        desc: 'How drop-stitch pools complement built-in facilities for guest experience and flexibility.'
+        href: '/learn/safety-in-water-sports/'
+  - title: 'Retail & Distribution Guide'
+    tagline: 'Pool Business Partnerships'
+    desc: 'Guides on becoming an OLagoon retail partner or distributor — inventory planning, market positioning, and growth strategies.'
     guides:
-      - title: 'Ako sa stať predajcom SUP'
-        desc: 'Ako vybrať produktové línie, riadiť zásoby a predávať dosky SUP vo vašom maloobchode.'
+      - title: 'Becoming a Pool Retailer'
+        desc: 'How to choose product lines, manage inventory, and market pools in your retail store.'
         href: '/solutions/retail-partners/'
-      - title: 'SUP pre komerčné prevádzky'
-        desc: 'Prečo sú nafukovacie SUP univerzálnym produktom pre komerčné flotily, požičovné firmy a profesionálnych prevádzkovateľov.'
+      - title: 'Pools for Commercial Operations'
+        desc: 'Why drop-stitch pools are a versatile product for camps, community centers, and professional operators.'
         href: '/solutions/rental-operators/'
 
-read_guide: 'Čítať príručku →'
+read_guide: Read guide →
 
 cta:
-  title: 'Neviete, kde začať?'
-  desc: 'Absolvujte náš kvíz na vyhodnotenie zručností a nájdite správne príručky a vybavenie pre vašu úroveň.'
-  label: 'Kontaktujte nás →'
+  title: Not sure where to start?
+  desc: Contact our team and we will help you pick the right pool and accessories for your backyard.
+  label: Contact us →
   link: /contact/

@@ -1,72 +1,72 @@
 meta:
-  title: 'Experiencia Marina — Ingeniería en Cada Casco | {SITE}'
-  description: 'Décadas de ingeniería marina en cada casco. olagoon domina el drop stitch, el PVC marino y el diseño profesional de SUP inflables.'
+  title: 'Marine Expertise — Engineering in Every Hull | {SITE}'
+  description: 'Decades of marine engineering in every hull. olagoon masters drop stitch, marine PVC, and professional inflatable pools design.'
   keywords:
-    - 'ingeniería marina'
-    - 'fabricante de SUP hinchable'
-    - 'fabricación de paddle surf'
+    - 'marine engineering'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: Experiencia Marina
-  title: Décadas de Ingeniería Marina<br />en Cada Casco
-  subtitle: olagoon combina ciencia de materiales, fabricación de precisión y pruebas reales.
+  tagline: Marine Expertise
+  title: 'Decades of Marine Engineering<br />in Every Hull'
+  subtitle: 'olagoon combines deep material science, precision manufacturing, and real-world testing to produce watercraft that perform when it matters.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: equipo de ingeniería marítima y I+D de OLagoon en el trabajo
+    alt: olagoon marine engineering and R&D team at work
 expertise_materials:
-  tagline: Ciencia de los materiales
-  title: Elegir el Material Correcto<br />para Cada Aplicación
-  subtitle: Trabajamos con dos materiales principales – cada uno seleccionado para casos de uso específicos y requisitos de rendimiento.
+  tagline: Material Science
+  title: 'Choosing the Right Material<br />for Every Application'
+  subtitle: 'We work with two core materials — each selected for specific use cases and performance requirements.'
   columns: 3
   items:
-    - title: PVC de grado marino
-      description: Tela de PVC de 1100 denier — nuestro material más versátil. Estabilizado contra UV, resistente a la abrasión y conforme con REACH. Ideal para tablas SUP donde el peso y la eficiencia de costos importan.
+    - title: Marine-Grade PVC
+      description: '1100 denier PVC fabric — our most versatile material. UV-stabilized, abrasion-resistant, and REACH compliant. Ideal for pools where weight and cost efficiency matter.'
       icon: tabler:droplet
-    - title: Fibra de vidrio y polietileno
-      description: SUP laminados de fibra de vidrio para rigidez y deslizamiento premium. Polietileno rotomoldeado para uso intensivo de alquiler y rescate que requiere máxima resistencia al impacto.
+    - title: Fibreglass & Polyethylene
+      description: 'Fibreglass-laminated pools for premium stiffness and glide. Rotomoulded polyethylene for heavy-duty rental and rescue use requiring maximum impact resistance.'
       icon: tabler:building-arch
 expertise_manufacturing:
-  tagline: Capacidades de Fabricación
-  title: Fabricación de Precisión<br />en Cada Paso
-  subtitle: Nuestra instalación de 12.000 m² está equipada con maquinaria especializada.
+  tagline: Manufacturing Capabilities
+  title: 'Precision Manufacturing<br />at Every Step'
+  subtitle: 'Our 12,000 m² facility is equipped with specialized machinery for every stage of production.'
   columns: 2
   items:
-    - title: Corte CNC
-      description: El corte controlado por computadora garantiza paneles precisos y repetibles.
+    - title: CNC Cutting
+      description: 'Computer-controlled cutting ensures precise, repeatable fabric panels with minimal waste. Every piece fits exactly as designed.'
       icon: tabler:cpu
-    - title: Soldadura de alta frecuencia
-      description: La soldadura HF industrial crea uniones más fuertes que el material base.
+    - title: High-Frequency Welding
+      description: 'Industrial HF welding creates seams stronger than the base material. Consistent temperature and pressure control ensures air-tight seals across every production run.'
       icon: tabler:bolt
-    - title: Ensamblaje del núcleo de puntada suelta
-      description: Miles de hilos de poliéster conectan capas para inflado a alta presión (15-20 PSI).
+    - title: Drop Stitch Core Assembly
+      description: 'Thousands of polyester threads connect top and bottom fabric layers, allowing high-pressure inflation (15-20 PSI) for rigid, stable pools.'
       icon: tabler:building-arch
-    - title: Prueba de presión
-      description: Cada producto inflable se prueba bajo presión antes del envío.
+    - title: Pressure Testing
+      description: 'Every inflatable product is pressure-tested before shipping. Pools are tested at 1.25x rated pressure — if it holds there, it will perform on the water.'
       icon: tabler:wind
-    - title: Prueba de resistencia de costura
-      description: Muestras aleatorias se someten a pruebas destructivas de resistencia.
+    - title: Seam Strength Testing
+      description: 'Random samples from each production batch undergo destructive seam strength testing. Results are logged and traceable to specific production runs.'
       icon: tabler:files
-    - title: Pruebas de agua
-      description: Cada modelo SUP se somete a pruebas de mar antes de la certificación.
+    - title: Water Testing
+      description: 'Every model undergoes sea trials before certification. Real-world testing in coastal conditions validates performance, handling, and stability.'
       icon: tabler:droplet
 expertise_design:
-  tagline: Diseño e Ingeniería
-  title: Diseñado para Condiciones Reales
-  subtitle: Nuestra filosofía de diseño comienza con cómo se usará la tabla — y luego construye la ingeniería en torno a ese caso de uso.
+  tagline: Design & Engineering
+  title: 'Engineered for Real Conditions'
+  subtitle: 'Our design philosophy starts with how the pool will be used — then builds the engineering around that use case.'
   items:
-    - title: Diseño de casco de rendimiento
-      description: Cada forma de casco está ajustada a su caso de uso — proas de desplazamiento para un deslizamiento de travesía, rocker adicional para agilidad en el surf, perfiles planos y estables para pesca y yoga.
-    - title: Seguridad drop-stitch
-      description: Cada tabla cuenta con un núcleo rígido de drop-stitch con rieles reforzados. Si una sección se daña, la estructura de drop-stitch de alta tensión mantiene la tabla operativa.
-    - title: Cubierta ergonómica
-      description: La zonificación de la almohadilla de cubierta, la posición del asa de transporte y los puntos de montaje están diseñados para la comodidad del rider durante uso prolongado — ya sea en travesía, pesca o patrulla.
-    - title: Configuración Personalizada
-      description: Colores de rieles, configuración de la almohadilla de cubierta, soportes para accesorios, capacidad de carga – cada modelo puede personalizarse para adaptarse a requisitos operativos específicos.
+    - title: Performance Hull Design
+      description: 'Each pool is tuned for its use case — compact footprints for plunge soaking, family-sized layouts for play, and generous swim areas for daily laps.'
+    - title: Drop-Stitch Safety
+      description: 'Every pool features a rigid drop-stitch core with reinforced walls. If a section is damaged, the high-tensile drop-stitch structure keeps the pool operational.'
+    - title: Ergonomic Deck Layout
+      description: 'Deck-pad zoning, carry-handle position, and mounting points are designed around rider comfort during extended use — whether touring, fishing, or patrolling.'
+    - title: Custom Configuration
+      description: 'Rail colors, deck pad configuration, accessory mounts, gear capacity — each model can be customized to match specific operational requirements.'
 cta:
-  title: ¿Tiene una aplicación específica?
-  subtitle: Nuestro equipo de ingeniería asesora sobre materiales, diseño y fabricación.
+  title: 'Have a specific application in mind?'
+  subtitle: 'Our engineering team can advise on material selection, design, and manufacturing for your project.'
   actions:
     - variant: primary
-      text: Pregunta a nuestros ingenieros
+      text: Ask our engineers
       href: /contact/
-    - text: Ver gama de productos
+    - text: View product range
       href: /products/

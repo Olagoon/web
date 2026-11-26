@@ -1,144 +1,146 @@
 meta:
-  title: יצירת קשר — פניות שותפות ומוצרים | {SITE}
-  description: צרו קשר עם olagoon לפניות בנושא שותפות, מיתוג משותף ומותג פרטי, או ציים מקצועיים. מותג SUP מתנפח, אנו מגיבים תוך יומי עסקים.
+  title: 'Contact — Partnership & Product Inquiries | {SITE}'
+  description: 'Contact olagoon for partnership, co-brand, and private-label inquiries, or professional fleets. inflatable pools brand, we respond within 2 business days.'
   keywords:
-    - הצעת מחיר למפיץ SUP
-    - ספק SUP מקצועי
-    - יצירת קשר עם יצרן SUP
+    - 'pool distributor quote'
+    - 'professional pool supplier'
+    - 'contact pool manufacturer'
 hero_text:
-  tagline: יצירת קשר
-  title: בואו נדבר
+  tagline: Contact
+  title: GET IN TOUCH
 contact_form:
   id: form
-  title: שלחו לנו הודעה
-  subtitle: להצעות מחיר, שאלות טכניות או פניות שותפות, כתבו לנו שורה. אנחנו משיבים תוך יום עסקים אחד.
+  title: Send us a message
+  subtitle: For quotes, technical questions or partnership enquiries, drop us a line. We reply within one business day.
   email_to: info@olagoon.com
-  submit_button: שלחו פנייה ← קבלו הצעת מחיר
-  success_message: תודה! ההודעה שלכם נחתה בתיבת הדואר הנכנס שלנו. נשיב תוך יום עסקים אחד.
-  error_message: משהו השתבש בשליחת ההודעה שלכם. נסו שוב או שלחו לנו מייל ישירות.
+  submit_button: Send Inquiry → Get a Quote
+  success_message: Thanks! Your message has landed in our inbox. We will reply within one business day.
+  error_message: Something went wrong sending your message. Please try again or email us directly.
   default_country_code: '+1'
   captcha:
-    label: 'נגד ספאם: פתרו את הבא'
+    label: 'Anti-spam: please solve the following'
   fields:
     - name: country
-      label: מדינה
+      label: Country
       row: 1
       type: select
       optionsKey: countries
       step: 1
     - name: orderVolume
-      label: היקף הזמנה משוער
+      label: Estimated Order Volume
       row: 2
       type: select
       options:
         - value: ''
-          label: בחרו את ההיקף המשוער שלכם...
+          label: Select your estimated volume...
         - value: sample
-          label: דגימות / אבות טיפוס בלבד
-        - value: 5-10
-          label: 5–10 יחידות (MOQ סטנדרטי)
-        - value: 100-500
-          label: 100–500 יחידות
-        - value: 500-plus
-          label: 500+ יחידות (תמחור נפח)
+          label: Samples / Prototypes only
+        - value: '5-10'
+          label: 5–10 units (Samples / Trial)
+        - value: '50-100'
+          label: 50–100 units
+        - value: '100-500'
+          label: 100–500 units
+        - value: '500-plus'
+          label: 500+ units (Volume pricing)
       step: 1
     - name: customization
-      label: צריכים התאמה אישית?
+      label: Customization Needed?
       row: 3
       type: select
       options:
         - value: ''
-          label: בחרו סוג התאמה אישית...
+          label: Select customization type...
         - value: none
-          label: מוצר סטנדרטי (ללא התאמה אישית)
+          label: Standard product (no customization)
         - value: logo
-          label: לוגו / מיתוג מותאם אישית בלבד
+          label: Custom Logo / Branding only
         - value: full
-          label: מיתוג משותף מלא (גודל, צבע, גרפיקה, אריזה)
+          label: Full Co-Brand (size, color, graphics, packaging)
         - value: consultation
-          label: לא בטוחים — צריכים ייעוץ
+          label: Not sure — need consultation
       step: 1
     - name: productInterest
-      label: קטגוריות מוצרים מעניינות
+      label: Product Categories of Interest
       row: 4
       type: select
       options:
         - value: ''
-          label: בחרו קטגוריית מוצר...
+          label: Select product category...
         - value: all
-          label: כל המוצרים / הקטלוג המלא
-        - value: sup
-          label: לוחות SUP / לוחות חתירה
+          label: All products / Full catalog
+        - value: pool
+          label: pools / inflatable pool
         - value: safety
-          label: ציוד בטיחות / אפודי הצלה
+          label: Pool Accessories & Spare Parts
         - value: accessory
-          label: אביזרים (משאבות, משוטים, תיקים)
+          label: Accessories (pumps, oars, bags)
       step: 1
     - name: firstName
-      label: שם פרטי
+      label: First Name
       row: 1
       step: 2
     - name: lastName
-      label: שם משפחה
+      label: Last Name
       row: 1
       step: 2
     - name: companyName
-      label: שם החברה
+      label: Company Name
       row: 2
       step: 2
     - name: email
-      label: אימייל
+      label: E-mail
       row: 3
       type: email
       step: 2
     - name: tel
-      label: טלפון
+      label: TEL
       row: 3
       type: tel
       withCountryCode: true
       step: 2
     - name: address
-      label: כתובת
+      label: Address
       row: 4
       step: 2
     - name: zip
-      label: מיקוד / מיקוד דואר
+      label: Zip / Postal Code
       row: 5
       step: 2
     - name: subject
-      label: נושא
+      label: Subject
       row: 1
       step: 3
     - name: message
-      label: הודעה
+      label: Message
       row: 2
       type: textarea
       rows: 6
       step: 3
 features2_other_ways:
-  title: דרכים נוספות להשיג אותנו
+  title: Other ways to reach us
   columns: 3
   items:
-    - title: פניות מכירות
-      description: הצעות מחיר, תצורות, בקשות סוכנים והזמנות בכמות גדולה.
+    - title: Sales enquiries
+      description: Quotes, configurations, dealer applications and bulk orders.
       icon: tabler:shopping-bag
-    - title: תמיכה טכנית
-      description: אחריות, תיקונים, חלקי חילוף ושאלות תפעול.
+    - title: Technical support
+      description: Warranty, repairs, spare parts and operating questions.
       icon: tabler:tool
-    - title: עיתונות ושותפויות
-      description: ערכות מדיה, חסויות ושיתופי פעולה בענף.
+    - title: Press & partnerships
+      description: Media kits, sponsorship and industry collaboration.
       icon: tabler:news
-    - title: טלפון
-      description: +1 279 732 3333
+    - title: Phone
+      description: '+1 279 732 3333'
       icon: tabler:headset
-    - title: אימייל
+    - title: Email
       description: info@olagoon.com
       icon: tabler:mail
-    - title: מטה
+    - title: Headquarters
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
       icon: tabler:map-pin
 map:
-  title: המיקום שלנו
-  subtitle: בקרו אותנו במטה שלנו
+  title: Our Location
+  subtitle: Visit us at our headquarters
   address: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
   zoom: 15

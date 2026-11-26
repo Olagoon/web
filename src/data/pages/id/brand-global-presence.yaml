@@ -1,86 +1,86 @@
 meta:
-  title: 'Kehadiran Global — Produsen SUP yang Melayani 50+ Negara | {SITE}'
-  description: 'olagoon mengekspor SUP tiup ke 50+ negara di seluruh benua. Produsen dan pemasok profesional untuk merek, distributor, dan armada.'
+  title: 'Global Presence — pool Manufacturer Serving 50+ Countries | {SITE}'
+  description: 'olagoon exports inflatable pools to 50+ countries across every continent. Professional manufacturer and supplier for brands, distributors, and fleets.'
   keywords:
-    - 'produsen sup global'
-    - 'eksportir papan dayung'
-    - 'pabrik sup tiongkok'
-    - 'pemasok sup profesional'
+    - 'global pool manufacturer'
+    - 'inflatable pool exporter'
+    - 'pool factory china'
+    - 'professional pool supplier'
 hero:
-  tagline: 'Kehadiran Global'
-  title: 'Melayani 50+ Negara<br />Di Seluruh Benua'
-  subtitle: 'Dari operator patroli pesisir Eropa hingga distributor olahraga air Australia hingga tim penyelamat Timur Tengah — papan olagoon hadir di perairan seluruh dunia.'
+  tagline: Global Presence
+  title: 'Serving 50+ Countries<br />Across Every Continent'
+  subtitle: 'From European resort operators to Australian outdoor retailers to Middle East hospitality groups — OLagoon pools are in backyards worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'manufaktur dan distribusi marinir global olagoon'
+    alt: olagoon global marine manufacturing and distribution
 stats:
-  title: 'Jangkauan Global'
+  title: Global Reach
   stats:
-    - title: 'Negara'
+    - title: Countries
       amount: '50+'
-    - title: 'Pasar Ekspor'
-      amount: 'Eropa, Amerika, Asia, Timur Tengah, Oseania'
-    - title: 'Produksi'
-      amount: 'Qingdao, Tiongkok'
-    - title: 'Gudang AS'
-      amount: 'Montclair, CA'
+    - title: Export Markets
+      amount: Europe, Americas, Asia, Middle East, Oceania
+    - title: Production
+      amount: Qingdao, China
+    - title: US Warehouse
+      amount: Montclair, CA
 features3_markets:
-  tagline: 'Pasar Utama'
-  title: 'Keahlian Regional<br />untuk Kebutuhan Lokal'
-  subtitle: 'Kami memahami bahwa pasar yang berbeda memiliki persyaratan regulasi, preferensi, dan kasus penggunaan yang berbeda.'
+  tagline: Key Markets
+  title: 'Regional Expertise<br />for Local Requirements'
+  subtitle: 'We understand that different markets have different regulatory requirements, preferences, and use cases.'
   isBeforeContent: false
   columns: 4
   items:
-    - title: 'Eropa & Inggris'
-      description: 'Produk bersertifikat CE. Permintaan tinggi untuk papan SUP di pasar UE. Distributor Inggris mengapresiasi waktu penyelesaian cepat kami.'
+    - title: Europe & UK
+      description: 'CE-certified products. Strong demand for pools across EU markets. UK distributors appreciate our quick turnaround.'
       icon: tabler:map-pin
-    - title: 'Amerika Utara'
-      description: 'Manufaktur disetujui US Coast Guard. Gudang AS di Montclair, CA untuk pengiriman cepat Pantai Barat. Permintaan SUP memancing, penyelamatan, dan rekreasi terus meningkat.'
+    - title: North America
+      description: 'US Coast Guard approved manufacturing. US warehouse in Montclair, CA for fast West Coast delivery. Growing demand for fishing, rescue, and recreational pools.'
       icon: tabler:map-pin
-    - title: 'Australia & Oseania'
-      description: 'Pasar kuat untuk papan SUP dan aksesori olahraga air. Distributor Australia menghargai konstruksi PVC tahan UV kami dalam kondisi matahari yang ekstrem. Pengiriman cepat dari fasilitas Asia kami.'
+    - title: Australia & Oceania
+      description: 'Strong market for pools and water sports accessories. Australian distributors value our UV-resistant PVC construction in harsh sun conditions. Quick shipping from our Asia facility.'
       icon: tabler:map-pin
-    - title: 'Timur Tengah'
-      description: 'Permintaan peralatan petualangan air terus tumbuh. SUP kelas komersial dan peralatan keselamatan kami populer di kalangan operator tur dan pusat rental. Konfigurasi kustom untuk lingkungan bersuhu tinggi.'
+    - title: Middle East
+      description: 'Growing demand for water adventure equipment. Our commercial-grade pools and safety gear are popular with tour operators and rental centers. Custom configurations for high-temperature environments.'
       icon: tabler:map-pin
 features3_distribution:
-  tagline: 'Jaringan Distribusi'
-  title: 'Bermitra dengan Distributor<br />Di Seluruh Dunia'
-  subtitle: 'Kami bekerja sama dengan distributor peralatan marinir mapan, merek olahraga air, dan lembaga pengadaan pemerintah.'
+  tagline: Distribution Network
+  title: 'Partnering with Distributors<br />Worldwide'
+  subtitle: 'We work with established marine equipment distributors, water sports brands, and government procurement agencies.'
   isBeforeContent: false
   columns: 3
   items:
-    - title: 'Program Ko-Brand'
-      description: 'Manufaktur private label untuk merek olahraga air global. Kami menangani segalanya dari desain hingga produksi hingga drop-shipping.'
+    - title: Co-Brand Programs
+      description: 'Private label manufacturing for global water sports brands. We handle everything from design to production to drop-shipping.'
       icon: tabler:building
-    - title: 'Jaringan Distributor'
-      description: 'Distributor resmi di 20+ negara menyimpan stok dan memberikan dukungan lokal. Pertanyaan distributor baru kami sambut.'
+    - title: Distributor Network
+      description: 'Authorized distributors in 20+ countries carry stock and provide local support. New distributor inquiries welcome.'
       icon: tabler:users
-    - title: 'Pemerintah & Institusi'
-      description: 'Pasokan langsung ke penjaga pantai, organisasi search and rescue, dan program pengadaan militer. Kepatuhan terhadap persyaratan pengadaan institusional.'
+    - title: Government & Institutional
+      description: 'Direct supply to coast guards, search and rescue organizations, and military procurement programs. Compliance with institutional procurement requirements.'
       icon: tabler:building-community
 steps2_logistics:
-  title: 'Logistik & Dukungan Global'
-  subtitle: 'Dari pabrik ke tujuan — kami mengelola seluruh rantai pasokan.'
+  title: 'Global Logistics & Support'
+  subtitle: 'From factory to destination — we manage the entire supply chain.'
   items:
-    - title: 'Opsi Pengiriman'
-      description: 'Kargo laut (FOB Qingdao), kargo udara untuk pesanan mendesak, dan kurir ekspres untuk sampel dan suku cadang.'
+    - title: Shipping Options
+      description: 'Sea freight (FOB Qingdao), air freight for urgent orders, and express courier for samples and spare parts.'
       icon: tabler:truck-delivery
-    - title: 'Gudang AS'
-      description: 'Stok tersimpan di Montclair, CA untuk pengiriman cepat di seluruh Amerika Utara. Pantai Barat: 2-3 hari, Tengah: 3-4 hari, Pantai Timur: 4-5 hari.'
+    - title: US Warehouse
+      description: 'Stock held in Montclair, CA for fast delivery across North America. West Coast: 2-3 days, Central: 3-4 days, East Coast: 4-5 days.'
       icon: tabler:building-warehouse
-    - title: 'Suku Cadang'
-      description: 'Suku cadang dan consumable asli olagoon tersedia sepanjang tahun. Suku cadang umum dikirim dalam 24 jam.'
+    - title: Spare Parts
+      description: 'Genuine olagoon spare parts and consumables stocked year-round. Common parts ship within 24 hours.'
       icon: tabler:package
-    - title: 'Dukungan Teknis'
-      description: 'Jalur langsung ke tim rekayasa kami untuk pertanyaan teknis, saran perbaikan, dan dukungan suku cadang pengganti. Kami mendukung papan yang kami bangun 20 tahun lalu.'
+    - title: Technical Support
+      description: 'Direct line to our engineering team for technical questions, repair advice, and replacement-part support. We support every pool generation we have built.'
       icon: tabler:headset
 cta:
-  title: 'Ingin menjadi distributor?'
-  subtitle: 'Kami aktif memperluas jaringan distribusi kami. Hubungi tim ekspor kami untuk membahas peluang kemitraan.'
+  title: 'Want to become a distributor?'
+  subtitle: 'We are actively expanding our distribution network. Contact our export team to discuss partnership opportunities.'
   actions:
     - variant: primary
-      text: 'Pertanyaan kemitraan'
+      text: Partnership inquiry
       href: /contact/
-    - text: 'Lihat jajaran produk kami'
+    - text: View our product range
       href: /products/

@@ -1,122 +1,122 @@
 meta:
-  title: 'За OLagoon — марка за надуваеми SUP дъски и водни спортове | {SITE}'
-  description: 'OLagoon е глобална марка за надуваеми SUP дъски и водни спортове, управлявана от Olagoon LLC (САЩ) и изградена от нашия екип в Циндао. Открийте нашата история, инженеринга, сертифицираното качество и програмите за национални партньори.'
+  title: 'About OLagoon — inflatable pools & Water Sports Brand | {SITE}'
+  description: 'OLagoon is a global inflatable pools and water sports brand, operated by Olagoon LLC and built by our Qingdao Operation Team. Discover our story, engineering, certified quality, and country partner programs.'
   keywords:
-    - 'марка надуваеми SUP дъски'
-    - 'марка за водни спортове'
-    - 'национален дистрибутор на sup'
-    - 'колекции sup със съвместна марка'
+    - 'inflatable pools brand'
+    - 'water sports brand'
+    - 'country pool distributor'
+    - 'co-branded pool collections'
 hero:
-  tagline: 'За нас'
+  tagline: About us
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'фабрика и работилница на olagoon'
+    alt: olagoon factory and workshop
   title: |
-    Морско инженерство, <br />
-    изградено по <span class="text-accent dark:text-white">olagoon</span> начина
-  subtitle: 'Започнахме в крайбрежна работилница с една дъска и упорито убеждение: морските продукти трябва да се проектират така, сякаш имат значение, защото е точно така. Днес изпращаме продукти в над 40 държави, но всеки корпус все още минава през същите ръце, които основаха компанията.'
+    Marine engineering, <br />
+    built the <span class="text-accent dark:text-white">olagoon</span> way
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
 
 stats:
-  title: 'В цифри'
+  title: By the numbers
   columns: 4
   stats:
-    - title: 'Доставени корпуси'
+    - title: Hulls delivered
       amount: '2,400+'
-    - title: 'Държави с доставки'
+    - title: Countries shipped
       amount: '40'
-    - title: 'Години общ опит'
+    - title: Years of combined experience
       amount: '60'
-    - title: 'Средно време за гаранционен отговор (часове)'
+    - title: Average warranty response (hours)
       amount: '24'
 
 features3_what_we_build:
-  title: 'Какво изграждаме'
-  subtitle: 'Започнахме в крайбрежна работилница с една дъска и упорито убеждение: морските продукти трябва да се проектират така, сякаш имат значение, защото е точно така. Днес изпращаме продукти в над 40 държави, но всеки корпус все още минава през същите ръце, които основаха компанията.'
+  title: What we build
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
   columns: 3
   isBeforeContent: true
   items:
-    - title: 'SUP дъски'
-      description: 'Надуваеми SUP дъски от 9 до 12 фута. Проектирани за туризъм, йога, риболов и семейна употреба.'
+    - title: pools
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:ship
-    - title: 'Надуваеми SUP дъски'
-      description: 'PVC надуваеми SUP дъски от 9 до 12 фута. Леки, яки и лесни за съхранение.'
+    - title: inflatable pools
+      description: PVC inflatable pools from 9 ft to 12 ft. Light, tough and easy to stow.
       icon: tabler:rowing
-    - title: 'Премиум SUP пакети'
-      description: 'Компактни SUP дъски с високи спецификации, изградени по поръчка според вашата марка или изисквания за флот.'
+    - title: Premium pool packages
+      description: Compact, high-spec pools custom-built to match your brand or fleet requirements.
       icon: tabler:crown
 
 features3_more:
   columns: 3
   isAfterContent: true
   items:
-    - title: 'Аксесоари'
-      description: 'Гребла, помпи, калъфи, сухи торби и електроника. Всички съобразени с нашите дъски.'
+    - title: Accessories
+      description: Filters, pumps, covers, and accessories. All matched to our pools.
       icon: tabler:package
-    - title: 'Ремонт и обслужване'
-      description: 'Ремонт на дъски, подмяна на подложки и надграждане на аксесоари на място.'
+    - title: Repair & service
+      description: In-house pool repair, liner replacement and accessory upgrades.
       icon: tabler:tool
-    - title: 'Персонализирани изграждания'
-      description: 'Дизайн проект по проект за търговски, научни и военни клиенти.'
+    - title: Custom builds
+      description: Project-by-project design for commercial, scientific and military customers.
       icon: tabler:hammer
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-    alt: 'Дискусия за дизайн и инженеринг на дъски'
+    alt: Pool design and engineering discussion
 
 steps2_values:
-  title: 'Нашите ценности'
-  subtitle: 'Три принципа, оформили всеки продукт от първия ден.'
+  title: Our values
+  subtitle: Three principles that have shaped every product since day one.
   items:
-    - title: 'Изграждайте така, сякаш носи вашето семейство'
-      description: 'Всеки корпус, заваръчен шев и крепежен елемент се третира така, сякаш нашите собствени семейства ще го използват.'
+    - title: Build like it carries your family
+      description: Every hull, weld and fastener is treated as if our own families will use it.
       icon: tabler:heart
-    - title: 'Инженерство преди продажба'
-      description: 'Надуваеми SUP дъски от 9 до 12 фута. Проектирани за туризъм, йога, риболов и семейна употреба.'
+    - title: Engineer before we sell
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:settings
-    - title: 'Поддръжка, която надживява гаранцията'
-      description: 'Двадесетгодишни корпуси все ни звънят за резервни части, и ние все още отговаряме.'
+    - title: Support that outlasts the warranty
+      description: Twenty-year-old hulls still call us for spare parts, and we still pick up.
       icon: tabler:headset
 
 steps2_milestones:
-  title: 'Етапи на развитие'
-  subtitle: 'Кратка версия на историята на olagoon.'
+  title: Milestones
+  subtitle: A short version of the olagoon story.
   isReversed: true
   items:
-    - title: 'Основана в крайбрежна работилница'
-      description: 'Стартирана от двама морски инженери с CNC фрезов станок и упорита идея.'
+    - title: Founded in a coastal workshop
+      description: Started by two marine engineers with a CNC mill and a stubborn idea.
       icon: tabler:building-factory
-    - title: 'Първите 1 000 корпуса, доставени'
-      description: 'Постигнато в седмата ни година, предимно чрез устно предаване и повтарящи се клиенти.'
+    - title: First 1,000 hulls delivered
+      description: Reached in our seventh year, mostly through word of mouth and repeat customers.
       icon: tabler:circle-check
-    - title: 'Международна износна програма'
-      description: 'Днес доставяме в над 40 държави с локализирани партньори за поддръжка на пет континента.'
+    - title: International export programme
+      description: Now shipping to 40+ countries with localised support partners on five continents.
       icon: tabler:world
 
 features2_locations:
-  title: 'Нашите локации'
-  tagline: 'Намерете ни'
+  title: Our locations
+  tagline: Find us
   columns: 3
   items:
-    - title: 'Централа и работилница'
-      description: 'Надуваеми SUP дъски от 9 до 12 фута. Проектирани за туризъм, йога, риболов и семейна употреба.'
-    - title: 'Европейски сервизен център'
-      description: 'Надуваеми SUP дъски от 9 до 12 фута. Проектирани за туризъм, йога, риболов и семейна употреба.'
-    - title: 'Мрежа от партньори в Азиатско-тихоокеанския регион'
-      description: 'Оторизирани сервизни партньори в Австралия, Япония, Сингапур и Хонконг.'
+    - title: Headquarters & workshop
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: EU service centre
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: APAC partner network
+      description: Authorised service partners in Australia, Japan, Singapore and Hong Kong.
 
-brand_hub_tagline: 'Марка'
-brand_hub_title: 'Разгледайте нашата марка'
-brand_hub_subtitle: 'Потопете се по-дълбоко в нашата инженерна експертиза за SUP, глобалното ни присъствие и принципите, които ни движат.'
+brand_hub_tagline: Brand
+brand_hub_title: Explore Our Brand
+brand_hub_subtitle: Dive deeper into our pool engineering expertise, global presence, and the principles that drive us.
 
 brand_hub_cards:
-  - title: 'Морска експертиза'
-    desc: 'Десетилетия наука за материалите, прецизно производство и реални изпитвания — от PVC изработка до дизайн на корпуси с дълбок V и Drop-Stitch технология.'
+  - title: Marine Expertise
+    desc: Decades of material science, precision manufacturing, and real-world testing — from PVC fabrication to deep-V hull design and drop-stitch technology.
     link: /brand-marine-expertise/
-    link_label: 'Научете повече →'
-  - title: 'Глобално присъствие'
-    desc: 'Доставки в над 50 държави от нашето предприятие в Циндао с оторизирани сервизни партньори в цяла Европа, Азиатско-тихоокеанския регион и Америка.'
+    link_label: 'Learn more →'
+  - title: Global Presence
+    desc: Shipping to 50+ countries from our Qingdao facility with authorized service partners across Europe, Asia-Pacific, and the Americas.
     link: /brand-global-presence/
-    link_label: 'Научете повече →'
-  - title: 'Защо olagoon'
-    desc: 'Марка, изградена върху проверено качество — двойна сертификация (ISO 9001 + BSCI), съответствие с CE и изключителни национални партньорства с ограничени колекции със съвместна марка за водноспортни бизнеса.'
+    link_label: 'Learn more →'
+  - title: Why olagoon
+    desc: A brand built on verified quality — dual certification (ISO 9001 + BSCI), CE compliance, and exclusive country partnerships with limited co-branded collections for water-sports businesses.
     link: /brand-why-olagoon/
-    link_label: 'Научете повече →'
+    link_label: 'Learn more →'

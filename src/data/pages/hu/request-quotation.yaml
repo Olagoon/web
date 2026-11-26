@@ -1,99 +1,99 @@
 meta:
-  title: 'Árajánlat kérése — OEM SUP gyártás | {SITE}'
-  description: 'Kérjen részletes árajánlatot felfújható SUP projektjéhez. OEM/ODM gyártás, saját márka vagy egyedi flották — 2 munkanapon belül válaszolunk.'
+  title: 'Request a Quotation — OEM pool Manufacturing | {SITE}'
+  description: 'Request a detailed quotation for your inflatable pools project. OEM/ODM manufacturing, private label, or custom fleets — we respond within 2 business days.'
   keywords:
-    - 'sup árajánlat kérése'
-    - 'oem paddle lap árajánlat'
-    - 'sup gyári árajánlat'
-    - 'felfújható sup ár'
+    - 'request pool quote'
+    - 'oem inflatable pool quote'
+    - 'pool factory quotation'
+    - 'inflatable pools price'
 hero_text:
-  tagline: 'Árajánlat kérése'
-  title: 'Kérjen árajánlatot<br />a projektjéhez'
-  subtitle: 'Mesélje el igényeit, és csapatunk 2 munkanapon belül részletes árajánlattal válaszol.'
+  tagline: Get a Quote
+  title: 'Request a Quotation<br />for Your Project'
+  subtitle: 'Tell us about your requirements and our team will respond with a detailed quotation within 2 business days.'
 steps2_process:
-  title: 'Hogyan működik'
-  subtitle: 'Négy egyszerű lépés a megkereséstől az árajánlatig.'
+  title: How It Works
+  subtitle: 'Four simple steps from inquiry to quotation.'
   items:
-    - title: '1. lépés: Igények benyújtása'
-      description: 'Töltse ki az alábbi űrlapot a termék típusával, mennyiségével és specifikációival. Minél több részletet ad meg, annál pontosabb lesz az árajánlata.'
+    - title: 'Step 1: Submit Your Requirements'
+      description: 'Fill out the form below with your product type, quantity, and specifications. The more detail you provide, the more accurate your quotation.'
       icon: tabler:file-text
-    - title: '2. lépés: Felülvizsgálat és tanácsadás'
-      description: 'Mérnöki csapatunk átnézi igényeit, és esetleg felkeresi Önt pontosításért. Javaslatokat adunk a termék konfigurációra és opciókra.'
+    - title: 'Step 2: We Review & Advise'
+      description: 'Our engineering team reviews your requirements and may contact you for clarification. We provide recommendations on product configuration and options.'
       icon: tabler:users
-    - title: '3. lépés: Árajánlat megérkezése'
-      description: 'Részletes árajánlatot kap egységárazással, MOQ-val, átfutási idővel, fizetési feltételekkel és szállítási opciókkal. Jellemzően 48 órán belül.'
+    - title: 'Step 3: Receive Your Quote'
+      description: 'You receive a detailed quotation including unit pricing, MOQ, lead time, payment terms, and shipping options. Typically within 48 hours.'
       icon: tabler:currency-dollar
-    - title: '4. lépés: Minta és gyártás'
-      description: 'Az árajánlat elfogadása után mintagyártásra (ha alkalmazható) vagy közvetlenül tömeggyártásra kerül sor. Rendszeres tájékoztatás a teljes folyamat alatt.'
+    - title: 'Step 4: Sample & Production'
+      description: 'After quote acceptance, we proceed to sample production (if applicable) or directly to mass production. Regular updates throughout the process.'
       icon: tabler:building-factory
 content_form:
-  tagline: 'Árajánlatkérő űrlap'
-  title: 'Meséljen a projektjéről'
-  subtitle: 'A *-gal jelölt mezők kötelezőek.'
+  tagline: Quotation Form
+  title: 'Tell Us About Your Project'
+  subtitle: 'All fields with * are required.'
   contact_fields:
-    firstName: 'Keresztnév'
-    lastName: 'Vezetéknév'
-    companyName: 'Cégnév'
-    email: 'E-mail'
+    firstName: First Name
+    lastName: Last Name
+    companyName: Company Name
+    email: E-mail
   fields:
-    - name: 'Termékkategória'
+    - name: Product Category
       type: select
       options:
-        - 'SUP lap'
-        - 'Felfújható SUP'
-        - 'Felfújható SUP lap'
-        - 'Mentőmellény'
-        - 'Tengeri kiegészítő'
-        - 'Egyedi OEM/ODM'
-    - name: 'Alkalmazás'
+        - pools
+        - inflatable pools
+        - inflatable pools
+        - Thermal Cover
+        - Marine Accessory
+        - Custom OEM/ODM
+    - name: Application
       type: select
       options:
-        - 'Búvárközpont'
-        - 'Horgászat'
-        - 'Tengeri turizmus / üdülő'
-        - 'Keresés és mentés'
-        - 'Kormányzati / katonai'
-        - 'OEM / saját márka'
-        - 'Személyes / szabadidős'
-        - 'Egyéb'
-    - name: 'Mennyiség'
+        - Diving Center
+        - Fishing
+        - Marine Tourism / Resort
+        - Search & Rescue
+        - Government / Military
+        - OEM / Private Label
+        - Personal / Recreational
+        - Other
+    - name: Quantity
       type: text
-      placeholder: 'pl. 50 egység'
-    - name: 'Célpiac'
+      placeholder: e.g. 50 units
+    - name: Target Market
       type: text
-      placeholder: 'pl. Európa, Észak-Amerika, Közel-Kelet'
-    - name: 'Szállítási ország'
+      placeholder: e.g. Europe, North America, Middle East
+    - name: Delivery Country
       type: text
-      placeholder: 'pl. Olaszország, EAE, USA, Ausztrália'
-    - name: 'Anyagpreferencia'
+      placeholder: e.g. Italy, UAE, USA, Australia
+    - name: Material Preference
       type: select
       options:
-        - 'Nincs preferencia'
-        - 'Tengeri minőségű PVC (1100 dtex)'
-        - 'Üvegszálas hajótest'
-        - 'Alumínium hajótest'
-    - name: 'Motorigény'
+        - No Preference
+        - Marine-Grade PVC (1100 dtex)
+        - Fiberglass Hull
+        - Aluminum Hull
+    - name: Engine Requirement
       type: text
-      placeholder: 'pl. standard evező szett, elektromos szivattyú, egyedi színek'
-    - name: 'Testreszabási igény'
+      placeholder: e.g. standard filtration package, electric pump, custom colors
+    - name: Customization Required
       type: text
-      placeholder: 'pl. egyedi színek, márkázás/logó, csomagolás, különleges szerelvények'
-    - name: 'Ütemterv'
+      placeholder: e.g. custom colors, branding/logo, packaging, special fittings
+    - name: Timeline
       type: text
-      placeholder: 'pl. szállítás 90 napon belül'
-    - name: 'További követelmények'
+      placeholder: e.g. delivery within 90 days
+    - name: Additional Requirements
       type: textarea
-      placeholder: 'Írja le az alkalmazást, műszaki specifikációkat vagy bármilyen különleges követelményt — csatoljon referenciákat, specifikációkat vagy linkeket, ha rendelkezésre állnak'
-    - name: 'Specifikáció feltöltése'
+      placeholder: Describe your application, technical specifications, or any special requirements — include reference drawings, specifications, or links if available
+    - name: Upload Specification
       type: file
-      placeholder: 'Töltse fel specifikációs lapját, rajzát vagy referenciadokumentumát (PDF, DWG, DXF)'
-    - name: 'Logó / grafika feltöltése'
+      placeholder: Upload your spec sheet, drawing, or reference document (PDF, DWG, DXF)
+    - name: Upload Logo / Artwork
       type: file
-      placeholder: 'Töltse fel logóját vagy grafikáját az egyedi márkázáshoz (AI, EPS, PNG)'
+      placeholder: Upload your logo or artwork for custom branding (AI, EPS, PNG)
 cta:
-  title: 'Inkább e-mailben beszélne?'
-  subtitle: 'Küldje el megkeresését közvetlenül értékesítési csapatunknak, és 24 órán belül válaszolunk.'
+  title: 'Prefer to discuss by email?'
+  subtitle: 'Send your inquiry directly to our sales team and we will respond within 24 hours.'
   actions:
     - variant: primary
-      text: 'Írjon nekünk közvetlenül'
+      text: Email us directly
       href: /contact/

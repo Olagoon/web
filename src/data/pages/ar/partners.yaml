@@ -1,72 +1,72 @@
 meta:
-  title: 'الشركاء — التوزيع والجملة | {SITE}'
-  description: 'كن شريكاً لـ olagoon: شبكات توزيع، وأسعار جملة، وبرامج OEM/العلامات الخاصة، ودعم لشركات ألواح التجديف حول العالم.'
+  title: 'Partners — Distribution & Wholesale | {SITE}'
+  description: 'Become an olagoon partner: distribution networks, wholesale pricing, OEM/private label programs, and support for inflatable pool businesses worldwide.'
   keywords:
-    - 'شريك توزيع SUP'
-    - 'ألواح تجديف بالجملة'
-    - 'موزّع SUP قابل للنفخ'
-    - 'شراكة SUP'
+    - 'pool distribution partner'
+    - 'inflatable pool wholesale'
+    - 'inflatable pools distributor'
+    - 'pool partnership'
 hero:
-  tagline: الشركاء والتوزيع
-  title: كن شريكًا بعيدًا<br />— شبكة التوزيع العالمية
-  subtitle: انضم إلى شبكة شركاء olagoon العالمية. نعمل مع موزعي المعدات البحرية، وتجار رياضات التجديف، وتجار المعدات، وشركاء العلامات التجارية في أكثر من 50 دولة.
+  tagline: Partners & Distribution
+  title: 'Become an olagoon Partner<br />— Global Distribution Network'
+  subtitle: "Join olagoon's global partner network. We work with pool and outdoor distributors, specialty retailers, equipment dealers, and brand partners in 50+ countries."
   image:
     src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
-    alt: شبكة شركاء وموزعي olagoon العالمية
+    alt: olagoon global partner and distributor network
 content_programs:
-  tagline: برامج الشركاء
-  title: برامج الشركاء<br />مصممة لتحقيق النمو
-  subtitle: سواء كنت موزعًا أو تاجرًا أو شريكًا للعلامة التجارية، تقدم شركة olagoon برامج مصممة لدعم أعمالك.
+  tagline: Partner Programs
+  title: 'Partner Programs<br />Built for Growth'
+  subtitle: 'Whether you are a distributor, dealer, or brand partner, olagoon offers programs designed to support your business.'
   columns: 3
   items:
-    - title: برنامج الموزعين
-      description: توزيع حصري للمنطقة مع تسعير الحجم ودعم التسويق والوصول المباشر إلى المصنع. الحد الأدنى من الالتزام المطلوب بناءً على حجم المنطقة.
+    - title: 'Distributor Program'
+      description: 'Exclusive territory distribution with volume pricing, marketing support, and direct factory access. Minimum commitment required based on territory size.'
       icon: tabler:world
-    - title: برنامج الموزعين
-      description: تسعير الموزع المباشر والتدريب على المنتجات والمواد التسويقية ودعم الضمان لمواقع البيع بالتجزئة والمتاجر عبر الإنترنت.
+    - title: 'Dealer Program'
+      description: 'Direct dealer pricing, product training, marketing materials, and warranty support for retail locations and online stores.'
       icon: tabler:building-store
-    - title: الشراكة عبر OEM/ODM
-      description: تصنيع المعدات الأصلية وتصنيع التصميم الشخصي (OEM) متكامل الخدمات مع العلامات التجارية المخصصة والتعبئة ومواصفات المنتج. من المفهوم إلى الحاوية.
+    - title: 'OEM/ODM Partnership'
+      description: 'Full-service OEM and ODM manufacturing with custom branding, packaging, and product specifications. From concept to container.'
       icon: tabler:certificate
-    - title: شراكة العلامة التجارية
-      description: العلامات التجارية المشتركة والعلامات التجارية الخاصة وبرامج النماذج الحصرية للعلامات التجارية الراسخة في مجال الترفيه البحري والخارجي.
+    - title: 'Brand Partnership'
+      description: 'Co-branding, private label, and exclusive model programs for established brands in the marine and outdoor recreation space.'
       icon: tabler:stars
-    - title: الحكومة والمؤسسات
-      description: برامج الموردين المفضلة للوكالات الحكومية وخفر السواحل والمنظمات العسكرية والإنسانية. وثائق جاهزة للعطاء.
+    - title: 'Government & Institutional'
+      description: 'Preferred supplier programs for government agencies, coast guards, military, and humanitarian organizations. Tender-ready documentation.'
       icon: tabler:building-community
-    - title: شريك المنتجعات والتأجير
-      description: تسعير الأسطول والجودة المتسقة والعلامات التجارية المخصصة للمنتجعات ومراكز الغوص وعمليات التأجير في جميع أنحاء العالم.
+    - title: 'Resort & Rental Partner'
+      description: 'Fleet pricing, consistent quality, and custom branding for resorts, diving centers, and rental operations worldwide.'
       icon: tabler:sun
 content_benefits:
-  tagline: لماذا الشراكة معنا
-  title: لماذا يختار الشركاء أبعد
-  subtitle: يستفيد شركاؤنا من القدرة التصنيعية الحقيقية والجودة المتسقة والدعم سريع الاستجابة.
+  tagline: Why Partner With Us
+  title: 'Why Partners Choose olagoon'
+  subtitle: 'Our partners benefit from real manufacturing capability, consistent quality, and responsive support.'
   list:
-    - 'وصول مباشر إلى المصنع: اعمل مباشرة مع فريق التصنيع لدينا — دون وسطاء. احصل على استجابات أسرع وأسعار أفضل ورؤية كاملة لسير الإنتاج.'
-    - 'جاهز للتخصيص: ضع علامتك التجارية على منتجاتك بألوان وشعارات وتغليف ومواصفات مخصصة، مع كميات أدنى للطلب مصممة خصيصًا لسوقك.'
-    - 'الجودة مضمونة: إنتاج معتمد وفق ISO 9001 مع الالتزام بمعايير CE وUKCA وBSCI، وكل منتج يُختبر قبل الشحن.'
-    - 'الخدمات اللوجستية العالمية: الشحن من تشينغداو، الصين، بخيارات FOB وCIF وDDP، مع مستودع في الولايات المتحدة بمدينة مونكلير، كاليفورنيا، للتوزيع في أمريكا الشمالية.'
-    - 'دعم تسويقي: كتالوجات المنتجات، التصوير الفوتوغرافي، الوثائق الفنية، والأصول الرقمية لدعم جهودك البيعية.'
-    - 'التدريب والدعم: تدريب المنتج لفريق المبيعات، والدعم الفني لعملائك، وتنسيق خدمات الضمان.'
+    - 'Direct Factory Access: Work directly with our manufacturing team — no middlemen. Get faster responses, better pricing, and full visibility into production.'
+    - 'Customization Ready: Brand your products with custom colors, logos, packaging, and specifications. Minimum order quantities tailored to your market.'
+    - 'Quality Guaranteed: ISO 9001 certified production with CE, UKCA, and BSCI compliance. Every product tested before shipping.'
+    - 'Global Logistics: Shipping from Qingdao, China with FOB, CIF, and DDP options. US warehouse in Montclair, CA for North American distribution.'
+    - 'Marketing Support: Product catalogs, photography, technical documentation, and digital assets to support your sales efforts.'
+    - 'Training & Support: Product training for your sales team, technical support for your customers, and warranty service coordination.'
 content_process:
-  tagline: كيف تصبح شريكا
-  title: عملية شراكة بسيطة
-  subtitle: إن عملية الشراكة لدينا واضحة ومباشرة، وهي مصممة لتمكنك من بيع المنتجات البعيدة بسرعة.
+  tagline: How to Become a Partner
+  title: 'Simple Partnership Process'
+  subtitle: 'Our partnership process is straightforward — designed to get you selling olagoon products quickly.'
   items:
-    - title: 'الخطوة 1: إرسال الطلب'
-      description: أكمل نموذج طلب الشراكة الخاص بنا مع الملف التعريفي لشركتك والسوق المستهدف واهتمامات المنتج.
-    - title: 'الخطوة 2: مراجعة الأهلية'
-      description: يقوم فريق الشراكة لدينا بمراجعة طلبك ويتصل بك خلال 3 أيام عمل لمناقشة الفرص.
-    - title: 'الخطوة 3: الاتفاق والإعداد'
-      description: قم بتوقيع اتفاقية شراكة، وقم بإعداد حسابك، واحصل على أسعار الشركاء والمواد التسويقية وعينات المنتجات.
-    - title: 'الخطوة 4: التدريب والإطلاق'
-      description: يتم توفير التدريب على المنتج ودعم المبيعات وضمانات التسويق. أنت جاهز لبدء البيع.
+    - title: 'Step 1: Submit Application'
+      description: 'Complete our partner application form with your company profile, target market, and product interests.'
+    - title: 'Step 2: Qualification Review'
+      description: 'Our partnership team reviews your application and contacts you within 3 business days to discuss opportunities.'
+    - title: 'Step 3: Agreement & Setup'
+      description: 'Sign a partnership agreement, set up your account, and receive partner pricing, marketing materials, and product samples.'
+    - title: 'Step 4: Training & Launch'
+      description: 'Product training, sales support, and marketing collateral provided. You are ready to start selling.'
 cta:
-  title: هل أنت مستعد لتصبح شريكًا بعيدًا؟
-  subtitle: تقدم بطلب الشراكة وسيقوم فريقنا بالرد خلال 3 أيام عمل.
+  title: 'Ready to become an olagoon partner?'
+  subtitle: 'Apply for partnership and our team will respond within 3 business days.'
   actions:
     - variant: primary
-      text: التقدم بطلب للحصول على الشراكة
+      text: Apply for partnership
       href: /contact/
-    - text: 'استعراض منتجاتنا '
+    - text: View our products
       href: /products/

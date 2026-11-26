@@ -1,52 +1,52 @@
 meta:
-  title: 'Proses Manufaktur — Dari Bahan Baku hingga SUP | {SITE}'
-  description: 'Dari bahan baku hingga SUP siap laut: setiap langkah proses manufaktur olagoon berada di bawah kendali kami, dari pemotongan dan pengelasan hingga pengujian.'
+  title: 'Manufacturing Process — From Raw Material to pool | {SITE}'
+  description: 'From raw material to sea-ready pool: every step of the olagoon manufacturing process under our control, from cutting and welding to testing.'
   keywords:
-    - 'proses manufaktur sup'
-    - 'pabrik sup tiup'
-    - 'tahap produksi papan dayung'
-    - 'las pvc sup'
+    - 'pool manufacturing process'
+    - 'inflatable pools factory'
+    - 'inflatable pool production steps'
+    - 'pvc welding pool'
 hero:
-  tagline: 'Proses'
-  title: 'Proses Manufaktur'
-  subtitle: 'Dari bahan baku hingga papan siap air — setiap langkah di bawah kendali kami'
-  back_label: 'Kembali ke Pabrik'
+  tagline: Process
+  title: Manufacturing Process
+  subtitle: From raw material to backyard-ready pool — every step under our control
+  back_label: Back to Factory
   back_link: /factory/
 
-intro: 'Berbeda dengan merek yang mengalihdayakan produksi ke pabrik pihak ketiga, olagoon memiliki dan mengoperasikan seluruh rantai manufakturnya sendiri. Integrasi vertikal ini memungkinkan kami mempertahankan kendali kualitas yang ketat di setiap tahap, merespons dengan cepat terhadap persyaratan kustom, dan menghadirkan kualitas produk yang konsisten batch demi batch. Berikut adalah bagaimana sebuah papan dibangun di fasilitas kami.'
+intro: Unlike brands that outsource production to third-party factories, olagoon owns and operates its entire manufacturing chain. This vertical integration allows us to maintain strict quality control at every stage, respond quickly to custom requirements, and deliver consistent product quality batch after batch. Here is how a pool is built in our facility.
 
 steps:
   - step: '01'
-    title: 'Penerimaan & Inspeksi Material'
-    description: 'Setiap batch kain PVC, mat fiberglass, resin, dan perangkat keras yang masuk diperiksa terhadap spesifikasi. Sampel kain diuji untuk kekuatan tarik, keseragaman ketebalan, dan ketahanan UV sebelum dilepas ke produksi. Material yang tidak sesuai dikarantina dan dikembalikan.'
-    duration: '1–2 hari'
+    title: Material Receipt & Inspection
+    description: Every incoming batch of PVC fabric, fiberglass mat, resin, and hardware is inspected against specification. Fabric samples are tested for tensile strength, thickness uniformity, and UV resistance before release to production. Non-conforming materials are quarantined and returned.
+    duration: 1–2 days
   - step: '02'
-    title: 'Pemotongan PVC Otomatis'
-    description: 'Kain yang disetujui diletakkan di mesin potong CNC otomatis dan dipotong dengan akurasi di bawah satu milimeter. Nesting yang dioptimalkan komputer menata panel untuk meminimalkan limbah — biasanya di bawah 5%. Panel yang dipotong diberi label berdasarkan model papan dan ruang, lalu diikat untuk ditransfer ke workshop pengelasan.'
-    duration: '2–4 jam per kit papan'
+    title: Automatic PVC Cutting
+    description: Approved fabrics are laid on the automatic CNC cutting machine and cut with sub-millimetre accuracy. Computer-optimised nesting arranges panels to minimise waste — typically below 5%. Cut panels are labelled by pool model and chamber, then bundled for transfer to the welding workshop.
+    duration: 2–4 hours per pool kit
   - step: '03'
-    title: 'Heat Sealing & Pengelasan Tabung'
-    description: 'Panel ditack dan direkatkan menggunakan mesin heat sealing dengan las udara panas pada suhu terkendali 200–300 °C. Sambungan utama diperkuat dengan las RF dielektrik untuk sambungan kedap udara berkekuatan tinggi. Ruang yang selesai dikembangkan hingga 1,5× tekanan kerja untuk validasi retensi udara selama 30 menit.'
-    duration: '1–2 hari per papan'
+    title: Tube Heat Sealing & Welding
+    description: Panels are tacked and bonded using heat sealing machines with hot-air welding at controlled temperatures of 200–300 °C. Main seams are reinforced with RF dielectric welding for airtight, high-strength joints. Completed chambers are inflated to 1.5× working pressure for 30-minute air-retention validation.
+    duration: 1–2 days per pool
   - step: '04'
-    title: 'Pencetakan & Dekorasi SUP'
-    description: 'Grafis deck papan SUP diaplikasikan menggunakan pencetakan digital untuk desain berkualitas foto warna penuh, dan cetak saring untuk logo tahan lama serta pola berulang. Cetakan dikeringkan dan disegel untuk ketahanan UV dan abrasi.'
-    duration: '1–2 hari'
+    title: pool Printing & Decoration
+    description: pools deck graphics are applied using digital printing for full-colour photo-quality designs, and screen printing for durable logos and repeating patterns. Prints are cured and sealed for UV and abrasion resistance.
+    duration: 1–2 days
   - step: '05'
-    title: 'Perakitan Akhir & Rigging'
-    description: 'Papan dirigging di lini perakitan dengan sirip, valve, deck EVA, dan aksesori. Setiap unit mengikuti daftar periksa perakitan 100 titik dengan persetujuan wajib di setiap tahap.'
-    duration: '2–4 hari'
+    title: Final Assembly & Rigging
+    description: Pools are rigged on the assembly line with valves, fittings, and accessories. Each unit follows a 100-point assembly checklist with mandatory sign-off at each stage.
+    duration: 2–4 days
   - step: '06'
-    title: 'Pengujian & Inspeksi Kualitas'
-    description: 'Setiap papan jadi menjalani gerbang kualitas wajib: uji retensi udara ruang, pemeriksaan fungsi perangkat keras, verifikasi torsi pengencang, dan inspeksi kosmetik. Pembuatan kustom dan prototipe juga menerima uji coba di air yang mencakup stabilitas dan pengendalian.'
-    duration: '1–2 hari'
+    title: Quality Testing & Inspection
+    description: 'Every completed pool undergoes mandatory quality gate: chamber air-retention test, hardware function check, fastener torque verification, and cosmetic inspection. Custom and prototype builds also receive in-water trials covering stability and handling.'
+    duration: 1–2 days
   - step: '07'
-    title: 'Pengemasan & Pengiriman'
-    description: 'Papan dikempiskan, dilipat sesuai prosedur, dikemas dalam tas woven tugas berat atau krat kayu lapis, dan dimuat untuk pengiriman. Setiap paket diberi label dengan model, nomor seri, dan tujuan. Kami berkoordinasi dengan forwarder kargo untuk pengiriman kontainer FCL dan LCL ke seluruh dunia.'
-    duration: '1 hari'
+    title: Packing & Shipping
+    description: Pools are deflated, folded per procedure, packed in heavy-duty woven bags or plywood crates, and loaded for shipment. Each package is labelled with model, serial number, and destination. We coordinate with freight forwarders for FCL and LCL container shipments worldwide.
+    duration: 1 day
 
 cta:
-  title: 'Lihat peralatan dan mesin kami'
-  desc: 'Jelajahi peralatan kelas industri di balik setiap papan olagoon.'
-  label: 'Lihat peralatan →'
+  title: See our equipment and machinery
+  desc: Explore the industrial-grade equipment behind every OLagoon pool.
+  label: View equipment →
   link: /factory/equipment/

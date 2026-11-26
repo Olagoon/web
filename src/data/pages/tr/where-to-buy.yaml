@@ -1,24 +1,24 @@
 meta:
-  title: OLagoon şişme paddle tahtaları nereden alınır | OLagoon
-  description: OLagoon şişme paddle tahtasını nasıl satın alacağınızı öğrenin — ülkenizdeki resmi distribütörden veya doğrudan OLagoon ekibinden.
+  title: Where to Buy OLagoon Inflatable Pools | OLagoon
+  description: Find out how to buy an OLagoon inflatable pool — through an official distributor in your country or directly from the OLagoon team. Tell us where you live and we will point you to your nearest dealer.
 hero:
-  tagline: Nereden alınır
-  title: OLagoon SUP'unuzla suya çıkın
-  subtitle: OLagoon tahtaları 50'den fazla ülkede kürekçilere ulaşıyor. Kendi tahtanıza ulaşmanın en kolay yolunu bulun — size en yakın resmi distribütörden ya da doğrudan OLagoon ekibinden.
+  tagline: Where to Buy
+  title: Get Your OLagoon pool on the Water
+  subtitle: OLagoon pools reach families in 50+ countries. Find the simplest way to get yours — through an official distributor near you or directly from the OLagoon team.
 channels:
   items:
-    - title: Ülke Bazında Resmi Distribütörler
-      description: OLagoon birçok ülkede özel distribütörlerle çalışır. Nerede kullandığınızı bize bildirin; sizi yerel satıcınız, fiyatlar ve stok durumuyla buluşturalım.
-      cta: Yerel satıcınızı bulun
+    - title: Official Country Distributors
+      description: OLagoon works with exclusive distributors in many countries. Tell us where you live and we will connect you with your local dealer, pricing, and availability.
+      cta: Find Your Local Dealer
       href: /contact/?subject=Where to Buy
-    - title: OLagoon'den Doğrudan Sipariş
-      description: Ülkenizde henüz distribütör yok mu? OLagoon ekibi, nerede yaşarsanız yaşayın suya çıkabilmeniz için doğrudan sipariş ve sevkiyat düzenleyebilir.
-      cta: Stok sorun
+    - title: Order Direct from OLagoon
+      description: No distributor in your country yet? The OLagoon team can arrange direct orders and shipping so you can get on the water wherever you live.
+      cta: Request Availability
       href: /contact/?subject=Where to Buy
 form_intro:
-  title: Stok Durumunu Sorun
-  subtitle: Bize ülkenizi ve ilgilendiğiniz tahtayı içeren bir mesaj gönderin. Ekibimiz bir iş günü içinde size en yakın satıcı veya doğrudan sipariş seçenekleriyle yanıt verecektir.
+  title: Ask About Availability
+  subtitle: Send us a message with your country and the pool you are interested in. Our team will reply within one business day with your nearest dealer or direct-order options.
 business_note:
-  text: Bir kulüp, tatil köyü veya mağaza için mi alıyorsunuz? İş ortaklığı programlarımızı keşfedin.
-  cta: İş Ortakları İçin
+  text: Buying for a club, resort, or store? Explore our business and partnership programs.
+  cta: For Business Partners
   href: /solutions/

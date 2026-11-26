@@ -1,12 +1,12 @@
 meta:
-  title: 'Haberler — SUP üreticisi ve denizcilik güncellemeleri | {SITE}'
-  description: "olagoon'dan en son haberler: fabrika güncellemeleri, yeni şişme SUP tahtası modelleri, sertifikalar ve denizcilik endüstrisi duyuruları."
+  title: 'News — pool Manufacturer & Nautical Updates | {SITE}'
+  description: 'Latest news from olagoon: factory updates, new inflatable pools models, certifications, and nautical industry announcements.'
   keywords:
-    - 'SUP üreticisi haberleri'
-    - 'olagoon güncellemeleri'
-    - 'şişme SUP duyuruları'
-    - 'denizcilik endüstri haberleri'
+    - 'pool manufacturer news'
+    - 'olagoon updates'
+    - 'inflatable pools announcements'
+    - 'nautical industry news'
 hero_text:
-  tagline: Haberler ve Duyurular
-  title: Haberler
-  subtitle: olagoon'dan en son haberler — ürün lansmanları, şirket güncellemeleri, rehberler ve sudan hikayeler
+  tagline: ''
+  title: News
+  subtitle: The latest from olagoon — product launches, company updates, guides, and stories from the water

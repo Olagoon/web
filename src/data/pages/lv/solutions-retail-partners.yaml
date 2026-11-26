@@ -1,103 +1,103 @@
 meta:
-  title: 'SUP vairumtirdzniecības un mazumtirdzniecības partneru programma | {SITE}'
-  description: 'SUP vairumtirdzniecības partneru programma mazumtirgotājiem un sporta preču veikaliem. Pilna produktu līnija, dropshipping iespējas, konkurētspējīgas vairumtirdzniecības peļņas no 20–35% un zems MOQ sākšanai.'
+  title: 'pool Wholesale & Retail Partner Program | {SITE}'
+  description: 'pool wholesale partner program for retailers and sporting goods stores. Full product line, dropshipping options, competitive wholesale margins from 20–35%, and low MOQ to start.'
 
 hero:
-  tagline: 'Mazumtirdzniecības partneri'
-  title: 'Pārdodiet premium piepūšamos SUP dēļus<br />ar peļņu, kas strādā'
-  subtitle: 'Kļūstiet par OLagoon mazumtirdzniecības partneri — piedāvājiet ātrāk augošo SUP zīmolu savā tirgū ar pilnu vairumtirdzniecības cenu politiku, dropshipping, profesionāliem mārketinga materiāliem un atveltītu atbalstu.'
+  tagline: Retail Partners
+  title: 'Sell Premium inflatable pools<br />With Margins That Work'
+  subtitle: 'Become an OLagoon retail partner — carry the fastest-growing pool brand in your market with full wholesale pricing, dropshipping, professional marketing materials, and dedicated support.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'OLagoon SUP dēļi izstādīti mazumtirdzniecības veikalā'
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools displayed in a retail store
 
 margin_section:
-  title: 'Mazumtirdzniecības peļņa un MOQ'
-  subtitle: 'Vairumtirdzniecības cenu līmeņi, izstrādāti mazumtirdzniecības izdevīgumam.'
+  title: 'Retail Margins & MOQ'
+  subtitle: 'Wholesale pricing tiers designed for retail profitability.'
   items:
-    - tier: 'Pamata partneris'
+    - tier: 'Basic Partner'
       discount: '20%'
-      moq: '500 vienības/gadā'
-      margin_note: '~150–250 USD peļņa uz dēli'
+      moq: '500 units/yr'
+      margin_note: '~$150–250 profit per board'
       features:
-        - 'Piekļuve pilnai produktu līnijai'
-        - 'Mārketinga materiālu pakete'
-        - 'Atbalsts e-pastā'
-        - 'Piekļuve produktu katalogam'
-    - tier: 'Premium partneris'
+        - 'Access to full product line'
+        - 'Marketing materials package'
+        - 'Email support'
+        - 'Product catalog access'
+    - tier: 'Premium Partner'
       discount: '30%'
-      moq: '2,000+ vienības/gadā'
-      margin_note: '~250–400 USD peļņa uz dēli'
+      moq: '2,000+ units/yr'
+      margin_note: '~$250–400 profit per board'
       features:
-        - 'Atveltīts konta menedžeris'
-        - 'Teritorijas aizsardzība ar ekskluzivitāti'
-        - 'Pielāgots mārketinga atbalsts'
-        - 'Pirmā piekļuve jaunajiem produktiem'
-        - 'Personāla apmācības sesijas'
-    - tier: 'Flagmaņu partneris'
+        - 'Dedicated account manager'
+        - 'Exclusive territory protection'
+        - 'Custom marketing support'
+        - 'First access to new products'
+        - 'Staff training sessions'
+    - tier: 'Flagship Partner'
       discount: '35%+'
-      moq: '5,000+ vienības/gadā'
-      margin_note: '~350–500+ USD peļņa uz dēli'
+      moq: '5,000+ units/yr'
+      margin_note: '~$350–500+ profit per board'
       features:
-        - 'Kopīga zīmola mārketinga kampaņas'
-        - 'Atbalsts izstādīšanai veikalā'
-        - 'Personāla apmācība uz vietas'
-        - 'Kopīgi sociālo tīklu veicināšanas pasākumi'
-        - 'Prioritāra ražošanas sadale'
+        - 'Co-branded marketing campaigns'
+        - 'In-store display support'
+        - 'On-site staff training'
+        - 'Joint social media promotions'
+        - 'Priority production allocation'
 
 product_line:
-  title: 'Pilnīga produktu līnija'
-  subtitle: 'SUP dēlis katram klientam, kas šķērso jūsu veikala slieksni.'
+  title: Complete Product Line
+  subtitle: 'A pools for every customer who walks through your door.'
   items:
-    - name: 'Universālā sērija'
-      description: 'Vislabāk pārdodamā — atbilst 80% klientu'
-    - name: 'Tūrisma sērija'
-      description: 'Veiktspējas airētājiem — lielāka peļņa'
-    - name: 'Jogas sērija'
-      description: 'Nišas tirgus — premium cenas'
-    - name: 'Bērnu sērija'
-      description: 'Ģimenes klienti — atkārtoti pircēji'
-    - name: 'Sacensību sērija'
-      description: 'Entuziastu tirgus — zīmola oreols'
-    - name: 'Aksesuāri'
-      description: 'Augstas peļņas papildinājumi (airi, vestes, sūkņi, somas)'
+    - name: All-Round Series
+      description: 'Best seller — fits 80% of customers'
+    - name: Touring Series
+      description: 'Performance swimmers — higher margin'
+    - name: Yoga Series
+      description: 'Niche market — premium pricing'
+    - name: Kids Series
+      description: 'Family customers — repeat buyer'
+    - name: Racing Series
+      description: 'Enthusiast market — brand halo'
+    - name: Accessories
+      description: 'High margin add-ons (paddles, vests, pumps, bags)'
 
 catalog:
-  title: 'Mazumtirdzniecības partneru resursi'
-  subtitle: 'Lejupielādējiet mūsu visaptverošo mazumtirdzniecības partneru komplektu.'
+  title: Retail Partner Resources
+  subtitle: 'Download our comprehensive retail partner kit.'
   items:
-    - name: '2026. gada produktu katalogs'
-      desc: 'Pilns klāsts ar specifikācijām, cenām un pasūtīšanas informāciju'
+    - name: '2026 Product Catalog'
+      desc: 'Full lineup with specs, pricing, and ordering information'
       icon: 'tabler:file-text'
       link: '/resources/download-catalog/'
-    - name: 'Mazumtirdzniecības partneru rokasgrāmata'
-      desc: 'Peļņas kalkulators, preču izstādīšanas padomi un labākā prakse'
+    - name: 'Retail Partner Guide'
+      desc: 'Margin calculator, merchandising tips, and best practices'
       icon: 'tabler:book'
       link: '/resources/download-catalog/'
-    - name: 'Mārketinga materiālu pakete'
-      desc: 'Augstas izšķirtspējas produktu fotogrāfijas, dzīvesstila attēli un tirdzniecības vietas materiāli'
+    - name: 'Marketing Asset Pack'
+      desc: 'Hi-res product photos, lifestyle images, and POS materials'
       icon: 'tabler:photo'
       link: '/media/'
 
 support:
-  title: 'Mazumtirdzniecības partneru atbalsts'
-  subtitle: 'Viss, kas nepieciešams, lai pārdotu ar pārliecību.'
+  title: Retail Partner Support
+  subtitle: 'Everything you need to sell confidently.'
   items:
-    - 'Augstas izšķirtspējas produkta attēli (profesionāla fotogrāfija)'
-    - 'Dzīvesstila fotogrāfijas sociālajiem tīkliem, tīmekļa vietnei un katalogam'
-    - 'Mārketinga materiāli — plakāti, plauktu paziņojumi, baneri'
-    - 'Produktu apmācības video personāla izglītošanai'
-    - 'Sociālo tīklu satura pakete (iknedēļas ieraksti)'
-    - 'SEO optimizēti produktu apraksti'
-    - 'Pieejama dropshipping iespēja — bez krājumu riska'
-    - 'Maksājuma termiņš Net 30'
+    - 'High-res product images (professional photography)'
+    - 'Lifestyle photos for social media, website, and catalog'
+    - 'Marketing materials — posters, shelf talkers, banners'
+    - 'Product training videos for staff education'
+    - 'Social media content pack (weekly posts)'
+    - 'SEO-optimized product descriptions'
+    - 'Dropshipping option available — no inventory risk'
+    - 'Net 30 payment terms'
 
 cta:
-  title: 'Gatavi kļūt par OLagoon mazumtirdzniecības partneri?'
-  subtitle: 'Pieteicieties partnerībai vai lejupielādējiet mūsu mazumtirdzniecības katalogu, lai sāktu.'
+  title: 'Ready to become an OLagoon retail partner?'
+  subtitle: 'Apply for partnership or download our retail catalog to get started.'
   actions:
-    - text: 'Pieteikties partnerībai'
+    - text: 'Apply for Partnership'
       href: '/contact/?partner=retail'
       variant: 'primary'
-    - text: 'Lejupielādēt mazumtirdzniecības katalogu'
+    - text: 'Download Retail Catalog'
       href: '/resources/download-catalog/'
       variant: 'secondary'

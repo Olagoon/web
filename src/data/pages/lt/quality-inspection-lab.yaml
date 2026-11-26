@@ -1,120 +1,120 @@
 meta:
-  title: 'Kokybės ir patikros laboratorija — ISO atitinkantis SUP testavimas ir sertifikavimas | {SITE}'
-  description: 'Nepriklausomas kokybės patvirtinimas pripučiamoms SUP lentoms. Tempimo testavimas, oro sulaikymo ciklai, siūlių lupimo testai ir medžiagų sertifikavimas. Susisiekite su mūsų kokybės laboratorija dėl trečiųjų šalių testavimo.'
-back_text: 'Grįžti į tyrimų ir plėtros centrą'
-home_label: 'Pradžia'
+  title: 'Quality & Inspection Lab — ISO-Compliant pool Testing & Certification | {SITE}'
+  description: 'Independent quality verification for inflatable pools. Tensile testing, air-retention cycling, seam peel tests, and material certification. Contact our quality lab for third-party testing.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
 
 hero:
-  tagline: 'Laboratorija 06'
-  title: 'Kokybės ir patikros laboratorija'
-  subtitle: 'Nepriklausomas patvirtinimas — kiekvienas testas išlaikytas prieš pristatymą'
+  tagline: 'Lab 06'
+  title: 'Quality & Inspection Lab'
+  subtitle: 'Independent verification — every test passed before delivery'
   image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp'
-  image_alt: 'OLagoon kokybės patikros laboratorijos UV testavimas'
+  image_alt: 'OLagoon quality inspection laboratory UV testing'
 
-intro: 'Kiekviena lenta, išvykstanti iš mūsų dirbtuvių, turi sertifikatą, patvirtinantį, kad ji išlaikė nustatytą kokybės patikrų ir medžiagų testų rinkinį. Mūsų kokybės ir patikros laboratorija yra nepriklausoma padalinio funkcija organizacijoje — ji atsiskaito tiesiogiai generaliniam direktoriui, o ne gamybai — taip užtikrinant, kad joks komercinis spaudimas negali pažeisti patikros barjero. Jei medžiagų partija ar baigta lenta neatitinka paskelbtos specifikacijos, laboratorija turi įgaliojimus sustabdyti siuntimą, kol neatitiktis bus pašalinta.'
+intro: 'Every pool that leaves our workshop carries the certification that it has passed a defined set of quality inspections and material tests. Our Quality & Inspection Lab is an independent function within the organisation — it reports directly to the managing director, not to production — ensuring that no commercial pressure can compromise the inspection gate. If a material batch or a completed pool does not meet the published specification, the lab has the authority to halt shipment until the non-conformance is resolved.'
 
 content_html: |
-  <h2>Pasitikėkite, bet patikrinkite</h2>
-  <p>Laboratorija veikia pagal kokybės vadybos sistemą, suderintą su principais, o mūsų testų metodai, kai taikoma, grindžiami ISO, ASTM ir EN standartais. Mes vedame išsamius kiekvieno atlikto testo įrašus, sudarydami visišką atsekamumo grandinę nuo žaliavų gavimo iki galutinio lentos pristatymo.</p>
+  <h2>Trust, but verify</h2>
+  <p>The lab operates under a quality management system aligned with principles, and our test methods are based on ISO, ASTM, and EN standards wherever applicable. We maintain detailed records of every test performed, creating a complete traceability chain from raw material receipt to final pool delivery.</p>
 
-  <h2>Testavimo įranga ir galimybės</h2>
+  <h2>Test equipment and capabilities</h2>
   <table>
-    <thead><tr><th>Įranga</th><th>Atliekami testai</th><th>Standartas / metodas</th></tr></thead>
+    <thead><tr><th>Equipment</th><th>Tests Performed</th><th>Standard / Method</th></tr></thead>
     <tbody>
-      <tr><td>Universalioji bandymų mašina (50 kN)</td><td>Tempimo stipris (audinys), lupimo atsparumas (siūlės), plėšimosi plitimas</td><td>ISO 1421, ISO 4674</td></tr>
-      <tr><td>Oro sulaikymo testavimo stendas (programuojamas)</td><td>1000 ciklų pripūtimo/išleidimo ištvermė, 30 min. slėgio laikymo testas</td><td>EN ISO 25649 (vidinis)</td></tr>
-      <tr><td>Siūlių lupimo stendas (variklinis 180° lupimas)</td><td>Suvirintų ir klijuotų siūlių lupimo stipris esant 100 mm/min</td><td>ISO 1421 / ASTM D1876</td></tr>
-      <tr><td>Hidrostatinio stulpelio testeris</td><td>Audinio atsparumas vandens prasiskverbimui (0–1000 mbar)</td><td>ISO 811</td></tr>
-      <tr><td>Skaitmeninis storio matuoklis ir mikrometras</td><td>Audinio storis, bortelės sienelės storis, klijų plėvelės storis</td><td>ISO 2286-3</td></tr>
-      <tr><td>Aplinkos kamera</td><td>Temperatūros kondicionavimas (-40 °C iki +80 °C) šalčio įtrūkimų ir terminio senėjimo testams</td><td>ISO 188, ISO 4675</td></tr>
-      <tr><td>Spalvų spektrofotometras</td><td>Delta-E spalvos matavimas po UV poveikio</td><td>ISO 105-A05 / ASTM D2244</td></tr>
+      <tr><td>Universal testing machine (50 kN)</td><td>Tensile strength (fabric), peel resistance (seams), tear propagation</td><td>ISO 1421, ISO 4674</td></tr>
+      <tr><td>Air-retention test rig (programmable)</td><td>1000-cycle inflation/deflation endurance, 30 min pressure-hold test</td><td>EN ISO 25649 (internal)</td></tr>
+      <tr><td>Seam-peel jig (motorised 180° peel)</td><td>Weld and glued-seam peel strength at 100 mm/min</td><td>ISO 1421 / ASTM D1876</td></tr>
+      <tr><td>Hydrostatic head tester</td><td>Water penetration resistance of fabric (0–1000 mbar)</td><td>ISO 811</td></tr>
+      <tr><td>Digital thickness gauge &amp; micrometre</td><td>Fabric thickness, rail wall thickness, adhesive-film thickness</td><td>ISO 2286-3</td></tr>
+      <tr><td>Environmental chamber</td><td>Temperature conditioning (-40 °C to +80 °C) for cold-crack and heat-ageing tests</td><td>ISO 188, ISO 4675</td></tr>
+      <tr><td>Colour spectrophotometer</td><td>Delta-E colour measurement after UV exposure</td><td>ISO 105-A05 / ASTM D2244</td></tr>
     </tbody>
   </table>
 
-  <h2>Patikros barjerai — nuo medžiagos iki pristatymo</h2>
-  <p>Kiekviena lenta vyksta pagal nustatytą kokybės planą su privalomais patikros taškais. Nė viena lenta negali apeiti barjero; kiekvieną barjerą turi patvirtinti kokybės inspektorius, kad galėtų prasidėti kitas gamybos etapas.</p>
+  <h2>The inspection gates — from material to delivery</h2>
+  <p>Every pool follows a defined quality plan with mandatory inspection points. No pool can skip a gate; each gate must be signed off by a quality inspector before the next production stage begins.</p>
 
   <div class="not-prose my-8">
     <div class="relative">
       <div class="absolute left-4 top-0 bottom-0 w-0.5 bg-blue-200 dark:bg-blue-800"></div>
       <div class="space-y-6 relative">
         <div class="flex gap-4">
-          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Barjeras 1</div>
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 1</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Įeinančių medžiagų patikra</p>
-            <p class="text-xs text-gray-500 mt-1">Audinio partija, klijų partija, furnitūra — viskas tikrinama pagal įeinančių medžiagų specifikaciją prieš išleidžiant į gamybą.</p>
+            <p class="text-sm font-semibold">Incoming material inspection</p>
+            <p class="text-xs text-gray-500 mt-1">Fabric batch, adhesive batch, hardware — all checked against incoming specification before release to production.</p>
           </div>
         </div>
         <div class="flex gap-4">
-          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Barjeras 2</div>
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 2</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Gamybos eigos suvirinimo patikra</p>
-            <p class="text-xs text-gray-500 mt-1">Pirmasis suvirinimo pavyzdys išbandomas (lupimas + vizuali patikra) kiekvienos gamybos pamainos pradžioje.</p>
+            <p class="text-sm font-semibold">In-process weld inspection</p>
+            <p class="text-xs text-gray-500 mt-1">First-off weld coupon tested (peel + visual) at start of each production shift.</p>
           </div>
         </div>
         <div class="flex gap-4">
-          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Barjeras 3</div>
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 3</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Kameros oro testas</p>
-            <p class="text-xs text-gray-500 mt-1">Kiekviena kamera slėgiama iki 1.5 x darbinio slėgio, laikoma 30 min. Duomenys registruojami pagal serijinį numerį.</p>
+            <p class="text-sm font-semibold">Chamber air test</p>
+            <p class="text-xs text-gray-500 mt-1">Each chamber pressurised to 1.5 x working pressure, held 30 min. Data logged per serial number.</p>
           </div>
         </div>
         <div class="flex gap-4">
-          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Barjeras 4</div>
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 4</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Priešpristatymo patikra</p>
-            <p class="text-xs text-gray-500 mt-1">Tikrinama visa lenta: visi tvirtinimo elementai sugriežtinti, furnitūra veikia, nėra kosmetinių defektų. 100 punktų kontrolinis sąrašas.</p>
+            <p class="text-sm font-semibold">Pre-delivery inspection</p>
+            <p class="text-xs text-gray-500 mt-1">Complete pool inspected: all fasteners torqued, fittings functional, no cosmetic defects. 100-point checklist.</p>
           </div>
         </div>
         <div class="flex gap-4">
-          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Barjeras 5</div>
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 5</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Galutinis sertifikavimas</p>
-            <p class="text-xs text-gray-500 mt-1">Testų ataskaitos sudaromos, patikros įrašai peržiūrimi, išduodamas atitikties sertifikatas.</p>
+            <p class="text-sm font-semibold">Final certification</p>
+            <p class="text-xs text-gray-500 mt-1">Test reports compiled, inspection records reviewed, Certificate of Conformance issued.</p>
           </div>
         </div>
       </div>
     </div>
   </div>
 
-  <h2>Pagrindiniai kokybės rodikliai (2025 m. slenkamasis vidurkis)</h2>
+  <h2>Key quality metrics (2025 rolling average)</h2>
   <div class="not-prose my-8 grid grid-cols-2 md:grid-cols-4 gap-4">
     <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
       <span class="block text-2xl font-bold text-blue-600">99.7 %</span>
-      <span class="text-xs text-gray-500">Pirminio išlaikymo rodiklis (audinio partija)</span>
+      <span class="text-xs text-gray-500">First-pass yield (fabric batch)</span>
     </div>
     <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
       <span class="block text-2xl font-bold text-blue-600">&lt; 0.2 %</span>
-      <span class="text-xs text-gray-500">Suvirinimo atmetimo rodiklis (linijinis metras)</span>
+      <span class="text-xs text-gray-500">Weld reject rate (linear metre)</span>
     </div>
     <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
       <span class="block text-2xl font-bold text-blue-600">100 %</span>
-      <span class="text-xs text-gray-500">Kameros išbandytos oru prieš surinkimą</span>
+      <span class="text-xs text-gray-500">Chambers air-tested before assembly</span>
     </div>
     <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
       <span class="block text-2xl font-bold text-blue-600">EN ISO 25649</span>
-      <span class="text-xs text-gray-500">Projektinės kategorijos atitiktis</span>
+      <span class="text-xs text-gray-500">Design category compliance</span>
     </div>
   </div>
 
-  <h2>Mūsų kokybės komanda</h2>
-  <p>Laboratorijoje dirba kokybės vadybininkas (10 metų jūrinės kokybės užtikrinimo patirties, ASQ sertifikuotas kokybės inžinierius), du kokybės inspektoriai (kiekvienas su 2 lygio NDT sertifikatu vizualiesiems bandymams) ir medžiagų technikas, atsakingas už visus fizinius bandymus. Komanda kasmet atlieka kompetencijos patikrinimą per nepriklausomą trečiosios šalies teikėją, siekdama užtikrinti, kad mūsų testų rezultatai išliktų tikslūs ir atkartojami.</p>
+  <h2>Our quality team</h2>
+  <p>The lab is staffed by a quality manager (10 years in marine QA, ASQ Certified Quality Engineer), two quality inspectors (each with Level 2 NDT certification in visual testing), and a materials technician responsible for all physical testing. The team undergoes annual proficiency testing through an independent third-party provider to ensure that our test results remain accurate and reproducible.</p>
 
-  <h2>Nepriklausomas testavimas klientams</h2>
-  <p>Mūsų kokybės ir patikros laboratorija teikia nepriklausomo testavimo paslaugas. Jei reikia patikrinti audinio specifikaciją, patvirtinti naują klijavimo sistemą ar gauti trečiosios šalies testų ataskaitą pirkimo kvalifikacijai, galime atlikti testus pagal taikomą standartą ir išduoti sertifikuotą testų ataskaitą.</p>
-  <p>Naujausių trečiųjų šalių testavimo darbų pavyzdžiai:</p>
+  <h2>Independent testing for clients</h2>
+  <p>Our Quality &amp; Inspection Lab is available for independent testing services. If you need to verify a fabric specification, validate a new adhesive system, or obtain a third-party test report for a procurement qualification, we can perform the tests to the applicable standard and issue a certified test report.</p>
+  <p>Examples of recent third-party testing work:</p>
   <ul>
-    <li>Penkių konkurencinių klijų plėvelės produktų lupimo stiprio palyginimas Europos karinės apginklavimo pirkimo programai.</li>
-    <li>Pagreinto senėjimo tyrimas (UV + terminiai ciklai) naujai oranžinio pigmento PVC formuluotei, su reguliariais tarpiniais matavimais kas 500 h.</li>
-    <li>Oro sulaikymo patvirtinimas 50 prototipinių pertvarų vožtuvų naujam aukšto slėgio kameros dizainui.</li>
+    <li>Peel-strength comparison of five competitive adhesive film products for a European military procurement programme.</li>
+    <li>Accelerated ageing study (UV + thermal cycling) for a new orange-pigmented PVC formulation, with regular interim measurements at 500 h intervals.</li>
+    <li>Air-retention validation of 50 prototype baffle valves for a new high-pressure chamber design.</li>
   </ul>
 
-  <h2>Mūsų įsipareigojimas jums</h2>
-  <p>Gaudami OLagoon lentą, jūs taip pat gaunate jos kokybės dosjė — sudarytą testų rezultatų, taikomų jūsų konkrečiai lentai, įrašą. Audinio partijos sertifikatas, suvirinimo lupimo testai, kamerų oro testų žurnalai ir priešpristatymo patikros kontrolinis sąrašas. Kiekvienas skaičius atsekamas. Kiekvienas inspektorius identifikuojamas. Tai ne tuščias popierių darbas — tai mūsų pažadas, kad tai, ką pristatėme, yra būtent tai, ką nurodėme.</p>
-  <p>Jei kils kokybės klausimų, galite susisiekti su laboratorija tiesiogiai — kontaktiniai duomenys yra atspausdinti jūsų atitikties sertifikate. Kiekvieną užklausą vertiname rimtai ir įsipareigojame atlikti oficialų tyrimą per 48 valandas.</p>
+  <h2>Our commitment to you</h2>
+  <p>When you receive an OLagoon pool, you also receive its quality dossier — a compiled record of the test results that apply to your specific pool. Fabric batch certificate, weld peel tests, chamber air-test logs, and pre-delivery inspection checklist. Every number is traceable. Every inspector is identified. This is not just paperwork — it is our promise that what we delivered is what we specified.</p>
+  <p>If you ever have a quality concern, you can contact the lab directly — the contact details are printed on your certificate of conformance. We take every query seriously and commit to a formal investigation within 48 hours.</p>
 
 cta:
-  title: 'Reikia nepriklausomo testavimo ar kokybės patvirtinimo?'
-  subtitle: 'Mūsų laboratorija priima trečiųjų šalių testavimo darbus — susisiekite su mumis ir nurodykite savo reikalavimus.'
-  button_text: 'Susisiekti su kokybės laboratorija'
+  title: 'Need independent testing or quality verification?'
+  subtitle: 'Our lab accepts third-party testing work — contact us with your requirements.'
+  button_text: 'Contact the quality lab'
   button_link: /contact/

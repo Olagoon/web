@@ -1,80 +1,87 @@
 meta:
-  title: 'Wyposażenie fabryki — cięcie, spawanie HF i druk | {SITE}'
-  description: 'Sprzęt produkcyjny klasy przemysłowej olagoona: cięcie PVC, spawanie HF, druk cyfrowy, montaż i testowanie nadmuchiwanych desek SUP.'
+  title: 'Factory Equipment — Cutting, RF Welding & Printing | {SITE}'
+  description: 'Industrial-grade olagoon manufacturing equipment: PVC cutting, RF welding, digital printing, assembly, and testing for inflatable pools.'
   keywords:
-    - 'sprzęt do produkcji SUP'
-    - 'fabryka nadmuchiwanych SUP'
-    - 'spawanie HF PVC'
-    - 'produkcja paddle boardów'
+    - 'pool manufacturing equipment'
+    - 'inflatable pools factory'
+    - 'rf welding pvc'
+    - 'inflatable pool production'
 hero:
-  tagline: Wyposażenie
-  title: Wyposażenie i Maszyny Produkcyjne
-  subtitle: Wyposażenie przemysłowe do cięcia, spawania, druku i montażu
-  back_label: Powrót do Fabryki
+  tagline: Equipment
+  title: Manufacturing Equipment & Machinery
+  subtitle: Industrial-grade equipment across cutting, welding, printing, and assembly
+  back_label: Back to Factory
   back_link: /factory/
+
 categories:
-  - title: Cięcie i Przygotowanie Materiałów
+  - title: Cutting & Material Preparation
     items:
-      - name: Automatyczna Maszyna do Cięcia PVC
-        spec: Sterowana CNC, 6.5 m × 2.5 m, dokładność 0.1 mm
-        desc: Sterowana komputerowo automatyczna maszyna do cięcia tkanin PVC i drop-stitch. Oprogramowanie do układania optymalizuje wykorzystanie materiału poniżej 5% odpadów.
-      - name: Rozkładarka Tkanin
-        spec: Szerokość max 3 m, podawanie ze sterowanym napięciem
-        desc: Układa tkaninę w pojedyncze lub wielokrotne warstwy z kontrolowanym napięciem, aby zapobiec odkształceniom przed cięciem.
-  - title: Spawanie i Łączenie Rur
+      - name: Automatic PVC Cutting Machine
+        spec: CNC-controlled, 6.5 m × 2.5 m, 0.1 mm accuracy
+        desc: Computer-controlled automatic cutting machine for PVC and drop-stitch fabrics. Nesting software optimises material utilisation to below 5% waste.
+      - name: Fabric Spreader
+        spec: 3 m max width, tension-controlled feed
+        desc: Lays fabric in single or multiple plies with controlled tension to prevent distortion before cutting.
+
+  - title: Tube Welding & Bonding
     items:
-      - name: Maszyna do Zgrzewania Cieplnego
-        spec: Spawanie gorącym powietrzem, zmienne 200–600 °C, 0.5–5 m/min
-        desc: Maszyna do zgrzewania cieplnego gorącym powietrzem do łączenia i spawania szwów PVC i burt. Używana do mocowania, uszczelniania i zgrzewania komór rur i połączeń pływaków.
-      - name: Prasa RF Dielektryczna
-        spec: 15 kW, płyta 2000 × 600 mm
-        desc: Prasa do spawania wysoką częstotliwością dla głównych szwów wzdłużnych, pasm listew (rail) i produkcji dużych komór.
-      - name: Spawarka RF Sterowana CNC
-        spec: 8 kW, stół XY 2500 × 1200 mm
-        desc: Programowalne spawanie szwów krzywoliniowych dla złożonych geometrii, tłoczenie logo i precyzyjne łatki.
-  - title: Produkcja Desek SUP
+      - name: Heat Sealing Machine
+        spec: Hot-air welding, variable 200–600 °C, 0.5–5 m/min
+        desc: Hot-air heat sealing machine for bonding and welding PVC and rail seams. Used for tacking, sealing, and fusing tube chambers and float joints.
+      - name: Dielectric RF Press
+        spec: 15 kW, platen 2000 × 600 mm
+        desc: Radio-frequency welding press for main longitudinal seams, rail bands, and large-chamber fabrication.
+      - name: CNC-Controlled RF Welder
+        spec: 8 kW, XY table 2500 × 1200 mm
+        desc: Programmable curved-seam welding for complex geometries, logo embossing, and precision patchwork.
+
+  - title: pools Manufacturing
     items:
-      - name: Prasa do laminowania rdzeni drop-stitch
-        spec: Prasa wielkoformatowa do rdzeni desek o długości całkowitej do 14 stóp
-        desc: Precyzyjne laminowanie rdzeni drop-stitch do zewnętrznych laminatów PVC. Każda warstwa jest sklejona pod ciśnieniem dla zapewnienia stałej jakości i wytrzymałości.
+      - name: Drop-Stitch Core Lamination Press
+        spec: Large-format press for drop-stitch cores up to 5 m length
+        desc: Precision lamination of drop-stitch cores to outer PVC laminates. Each layer is pressure-bonded for consistent quality and strength.
       - name: CNC Router (5-axis)
-        spec: Koperta o wymiarach 3 m × 2 m × 1 m, wrzeciono chłodzone wodą
-        desc: Obróbka boxów płetw, wycięć na uchwyty i niestandardowych elementów deski.
-  - title: Druk i Dekoracja SUP
+        spec: 3 m × 2 m × 1 m envelope, water-cooled spindle
+        desc: Machining of valve ports, handle cutouts, and custom pool components.
+
+  - title: pool Printing & Decoration
     items:
-      - name: Drukarka Cyfrowa
-        spec: Atramentowa wysokiej rozdzielczości, szerokość druku do 2 m
-        desc: Bezpośredni druk cyfrowy na tkaninie dla grafik pokładu SUP w pełnym kolorze. Drukuje niestandardowe wzory, gradienty i obrazy fotograficznej jakości z atramentami wodnymi odpornymi na UV.
-      - name: Maszyna do Sitodruku
-        spec: Ręczna i półautomatyczna, rejestracja wielokolorowa
-        desc: Sitodruk dla logo desek SUP, znaków towarowych i powtarzalnych wzorów. Zapewnia trwałe, kryjące wydruki z żywą nasycennością kolorów.
-  - title: Montaż i Olinowanie
+      - name: Digital Printer
+        spec: High-resolution inkjet, up to 2 m print width
+        desc: Direct-to-fabric digital printing for full-colour pool deck graphics. Prints custom patterns, gradients, and photo-quality images with UV-resistant water-based inks.
+      - name: Screen Printing Machine
+        spec: Manual and semi-automatic, multi-colour registration
+        desc: Screen printing for pools logos, brand marks, and repeating patterns. Provides durable, opaque prints with vibrant colour saturation.
+
+  - title: Assembly & Rigging
     items:
-      - name: Board Assembly Station
-        spec: Modułowy, regulowany układ wielostanowiskowy
-        desc: Montaż skrzynek na płetwy, uchwytów, pierścieni D, zaworów i podkładek pokładowych na deskach SUP.
-      - name: Prasa do montażu zaworów
-        spec: Pneumatyczny, regulowane ciśnienie
-        desc: Precyzyjny montaż i uszczelnianie zaworów Halkey-Roberts i Leafield.
+      - name: Pool Assembly Station
+        spec: Modular adjustable, multi-station layout
+        desc: Assembly of fin boxes, handles, D-rings, valves, and deck pads onto pools.
+      - name: Valve Installation Press
+        spec: Pneumatic, adjustable pressure
+        desc: Precision installation and sealing of Halkey-Roberts and Leafield valves.
       - name: Deck Pad Laminator
-        spec: 3 m × 1,5 m, kontrolowana temperatura
-        desc: Cieplne laminowanie podkładek z pianki EVA do powierzchni deski SUP z zachowaniem jednolitej wytrzymałości spoiny.
-  - title: Testy i Kontrola Jakości
+        spec: 3 m × 1.5 m, temperature-controlled
+        desc: Heat lamination of EVA foam deck pads to pools tops with consistent bond strength.
+
+  - title: Testing & Quality Control
     items:
-      - name: Uniwersalna Maszyna Wytrzymałościowa
+      - name: Universal Tensile Tester
         spec: 50 kN, ASTM D751
-        desc: Badanie siły zerwania, wydłużenia przy zerwaniu i propagacji pęknięcia dla partii tkanin.
-      - name: Stanowisko do Testu Retencji Powietrza
-        spec: Programowalne, 30-minutowe utrzymanie ciśnienia
-        desc: Automatyczny test utrzymania ciśnienia dla każdej komory rury przed montażem.
-      - name: Tester Odrywania Szwów
-        spec: Zmotoryzowane odrywanie 180° przy 100 mm/min
-        desc: Badanie wytrzymałości na odrywanie szwów spawanych i klejonych zgodnie z EN ISO 25649.
-      - name: Komora Starzeniowa z Łukiem Ksenonowym
-        spec: 2000 h ekspozycja
-        desc: Test odporności na UV pod kątem zmiany koloru i zachowania wytrzymałości.
+        desc: Breaking force, elongation at break, and tear propagation testing for fabric batches.
+      - name: Air Retention Test Rig
+        spec: Programmable, 30-min pressure-hold
+        desc: Automated pressure-hold test for every tube chamber before assembly.
+      - name: Seam Peel Tester
+        spec: Motorised 180° peel at 100 mm/min
+        desc: Weld and glued-seam peel strength testing per EN ISO 25649.
+      - name: Xenon-Arc Weathering Chamber
+        spec: 2000 h exposure
+        desc: UV resistance testing for colour change and strength retention.
+
 cta:
-  title: Zainteresowany zwiedzaniem fabryki?
-  desc: Witamy odwiedzających w naszym zakładzie w Qingdao. Zobacz nasz sprzęt i procesy na własne oczy.
-  label: Zaplanuj wizytę →
+  title: Interested in a factory tour?
+  desc: We welcome visitors to our Qingdao facility. See our equipment and processes in person.
+  label: Schedule a visit →
   link: /contact/

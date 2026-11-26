@@ -1,25 +1,26 @@
 meta:
-  title: 'SUP Rehberleri — Satın al, seç, antrenman yap | {SITE}'
-  description: "olagoon'ın SUP rehberleri: paddleboard'ı nasıl satın alacağınız, seçeceğiniz ve antrenman yapacağınız. Yeni başlayanlar ve profesyoneller için boyutlar, malzemeler ve uzman ipuçları."
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'SUP satın alma rehberi'
-    - 'SUP nasıl seçilir'
-    - 'SUP boyut rehberi'
-    - 'şişme paddle board ipuçları'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: Rehberler
-  title: SUP'a yeni mi başladınız?
-  subtitle: Şişme SUP board seçimini, kullanımını ve keyfini çıkarmasını yardımcı olacak pratik kılavuzlar.
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
+
 size_guide:
-  tagline: Boyut ve Teknik Özellikler
-  title: İhtiyacınız İçin Doğru Boyutu Bulun
-  desc: SUP tahta boyutlarını, ağırlık kapasitelerini ve önerilen kullanımları karşılaştırın. Bir tur SUP'ı, yoga tahtası veya çok amaçlı bir SUP'a ihtiyacınız olsun — boyut rehberimiz doğru seçimi yapmanıza yardımcı olur.
-  link_label: Ürün özellikleriyle tam boyut rehberi —
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: SUP Boardları
-      desc: Ağırlığınıza ve kullanım amacınıza göre uzunluk seçin. Daha geniş tahtalar (32"+) daha fazla denge sağlar. Daha uzun tahtalar (11–12 ft) gezi için daha iyi iz takibi sağlar.
-    - title: Gezi SUP'ları
-      desc: Daha uzun tahtalar (11–12 ft) mesafe kat etmek ve düz iz sürmek için. Ekipmanla tur için yeterince stabil. Her zaman ağırlık kapasitesini kontrol edin.
-    - title: Çok Amaçlı SUP'lar
-      desc: Uzunluğu binicinin ağırlığına ve kullanım amacına göre seçin. Daha geniş boardlar (32"+) stabilite sağlar. Rekreasyon ve fitness için çok yönlüdür.
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

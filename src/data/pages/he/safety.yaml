@@ -1,32 +1,32 @@
 meta:
-  title: 'בטיחות — תקנים והסמכות | {SITE}'
-  description: 'בטיחות המוצרים של olagoon: לוחות SUP ניפחים מוסמכי CE, בדיקות קפדניות ועמידה בתקני בטיחות ימיים בינלאומיים.'
+  title: 'Safety — Standards & Certifications | {SITE}'
+  description: 'OLagoon product safety: CE certified inflatable pools, rigorous testing, and compliance with international safety standards.'
   keywords:
-    - 'תקני בטיחות sup'
-    - 'לוח חתירה מוסמך ce'
-    - 'בטיחות sup ניפחים'
-    - 'עמידה בתקני בטיחות ימית'
+    - 'pool safety standards'
+    - 'ce certified inflatable pool'
+    - 'inflatable pools safety'
+    - 'backyard pool compliance'
 hero:
-  tagline: 'בטיחות'
-  title: 'תקני בטיחות והסמכה'
-  subtitle: 'כל מוצר של olagoon עובר בדיקות קפדניות ועומד בתקני בטיחות בינלאומיים לשימוש פנאי ומקצועי.'
+  tagline: Safety
+  title: Safety Standards & Certification
+  subtitle: Every OLagoon product undergoes rigorous testing and meets international safety standards for family and professional use.
 
 certifications:
-  - title: 'הסמכת CE'
-    description: 'כל ציוד הבטיחות של olagoon עומד בדרישות סימון CE לפי תקנת ציוד המגן האישי האירופית (EU) 2016/425.'
-  - title: 'הסמכת ISO 12402'
-    description: 'אפודי הצלה עומדים בתקני הציפה ISO 12402. אפוד ההצלה Classic מספק ציפה של 50 ניוטון ומעלה; אפוד ההצלה Pro עומד בדרישות SOLAS עם ניפוח אוטומטי.'
-  - title: 'עמידה ב-SOLAS'
-    description: 'אפוד ההצלה Pro תואם לתקנות SOLAS (בטיחות החיים בים) לפעילות ימית מסחרית ולחופי הים הפתוח.'
+  - title: CE Certification
+    description: All OLagoon pools comply with CE marking requirements under applicable European regulations for domestic inflatable swimming pools, including material safety and structural integrity testing.
+  - title: EN 71-8 Testing
+    description: Inflatable pools intended for domestic use are tested against EN 71-8 requirements for inflatable activity equipment — material strength, entrapment hazards, and structural integrity under load.
+  - title: REACH & RoHS Compliance
+    description: All pool materials — PVC fabrics, adhesives, and valve components — comply with EU REACH and RoHS regulations. No restricted substances, no compromises.
 
 related:
-  title: 'קשור'
+  title: Related
   links:
-    - text: 'מדריך טיפים לבטיחות'
-      url: /guides/safety-tips
-    - text: 'טכנולוגיה'
+    - text: Pool Safety Essentials Guide
+      url: /guides/pool-safety-essentials
+    - text: Technology
       url: /technology
-    - text: 'כל המוצרים'
+    - text: All Products
       url: /products
-    - text: 'מדריכים'
+    - text: Guides
       url: /guides

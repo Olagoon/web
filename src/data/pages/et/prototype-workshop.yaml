@@ -1,95 +1,95 @@
 meta:
-  title: 'Prototüübitöökoda — täismõõdus supilaudade prototüüpimine ja meretestid | {SITE}'
-  description: 'CAD-mudelist veepidavaks lauaks 8-12 nädalaga. Meie prototüübitöökoda ehitab, varustab ja meretestib kohandatud täispuhutavaid supilaudu. Alustage oma prototüüpprojekti juba täna.'
-back_text: 'Tagasi U&A-keskusse'
-home_label: 'Avaleht'
+  title: 'Prototype Workshop — Full-Scale pool Prototyping & Sea Trials | {SITE}'
+  description: 'From CAD to backyard-ready pool in 8-12 weeks. Our Prototype Workshop builds, rigs, and water-tests custom inflatable pools. Start your prototype project today.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
 
 hero:
-  tagline: 'Labor 05'
-  title: 'Prototüübitöökoda'
-  subtitle: 'CAD-mudelist veepidavaks lauaks — ehitatud, varustatud ja tõestatud'
-  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp'
-  image_alt: 'olagoon prototüübitöökoja laua valmistamine'
+  tagline: 'Lab 05'
+  title: 'Prototype Workshop'
+  subtitle: 'From CAD model to water-ready pool — built, fitted, and proven'
+  image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+  image_alt: 'OLagoon prototype workshop pool fabrication'
 
-intro: 'CAD-mudel, olgu see ükskõik kui detailsed, ei saa näidata, kuidas laud tegelikult käitub, enne kui see kohtub veega. Sellepärast on meie prototüübitöökoda loodud tõlkima inseneerimisandmed füüsiliseks, veepidavaks lauaks nii kiiresti ja täpselt kui võimalik. Iga uus olagoon mudel — ja iga oluline kohandatud ehitus — läbib selle töökoja enne tootmistööriistade tellimist.'
+intro: 'A CAD model, no matter how detailed, cannot reveal how a pool will actually perform until it meets the water. That is why our Prototype Workshop is designed to translate engineering data into a physical, water-ready pool as quickly and accurately as possible. Every new OLagoon model — and every significant custom build — passes through this workshop before the production tooling is committed.'
 
 content_html: |
-  <h2>Kus disain saab reaalsuseks</h2>
-  <p>Töökoda on täielikult varustatud keret, äärte ja varustuse samaaegseks valmistamiseks. See paralleelse töövoo lähenemine lühendab prototüübi valmimisaja 8-12 nädalani inseneerimisvabastusest, võrreldes valdkonna normiga 16-20 nädalat. Kui teie rakendus nõuab spetsialiseeritud lahendust, saame liikuda kontseptsioonist vees valideerimiseni alla kolme kuuga.</p>
+  <h2>Where design becomes reality</h2>
+  <p>The workshop is fully equipped for simultaneous fabrication of hull, rails, and rigging. This parallel-workflow approach cuts prototype lead time to 8-12 weeks from engineering release, compared to the industry norm of 16-20 weeks. When your application demands a specialised solution, we can move from concept to on-water validation in under three months.</p>
 
-  <h2>Töökoja võimekused</h2>
+  <h2>Workshop capabilities</h2>
   <table>
-    <thead><tr><th>Tööjaam</th><th>Seadmed</th><th>Eesmärk</th></tr></thead>
+    <thead><tr><th>Workstation</th><th>Equipment</th><th>Purpose</th></tr></thead>
     <tbody>
-      <tr><td>Kere valmistamine</td><td>CNC-kangaste lõikur, kuumlaminateerimise press, Drop-Stitch tuuma ettevalmistusjaam</td><td>Täismõõdus keretootmine kõigis kolmes konstruktsioonitüübis</td></tr>
-      <tr><td>Äärte ja kambrite koostamine</td><td>RF-keevituspress, kuumõhu kinnitamise jaam, ülespuhumise testiseadis</td><td>Täismõõdus äärte ja kambrite kooste valmistamine koos kõigi vaheseinte ja klappidega</td></tr>
-      <tr><td>Varustamine ja paigaldamine</td><td>Uimekasti freesija, lastikinnituste ja käepidemete keevituse asetusmustrid, tekikatte lõikamise jaam</td><td>Täielik varustamine: uimed, lastikinnitused, rihmaklapid, käepidemed, tekikatted, klapid</td></tr>
-      <tr><td>Instrumenteerimise osakond</td><td>GPS-kiiruseandur, rõhuandurid, kiirendusandurid, termopaarimassiiv, andmelogija</td><td>Meretestide instrumenteerimise paigaldus ja kalibreerimine</td></tr>
+      <tr><td>Hull fabrication</td><td>CNC fabric cutter, heat-lamination press, drop-stitch core preparation station</td><td>Full-scale hull production in all three construction types</td></tr>
+      <tr><td>Rail &amp; chamber assembly</td><td>RF welding press, hot-air tacking station, inflation test jig</td><td>Fabrication of full-size rail and chamber assemblies with all baffles and valves</td></tr>
+      <tr><td>Rigging &amp; fitting</td><td>Fin-box routing jig, cargo-mount and handle welding fixtures, deck-pad cutting station</td><td>Complete outfitting: fins, cargo mounts, leash plugs, handles, deck pads, valves</td></tr>
+      <tr><td>Instrumentation bay</td><td>GPS speed sensor, pressure transducers, accelerometers, thermocouple array, data-logger</td><td>Sea-trial instrumentation installation and calibration</td></tr>
     </tbody>
   </table>
 
-  <h2>Prototüübi teekond — samm haaval</h2>
+  <h2>The prototype journey — step by step</h2>
   <ol>
-    <li><strong>Inseneerimise üleandmine</strong> — Disainipaketi (3D-mudel, FEA-aruanne, materjalide loend, laminaatide plaan) vaatavad ametlikult läbi töökoja juht ja projektinsener. Kõik tootmisega seotud mured märgitakse ja lahendatakse enne lõikamise algust.</li>
-    <li><strong>Keretootmine</strong> — Kere ehitatakse vastavalt inseneerimisspetsifikatsioonile. Ühekihilise konstruktsiooni puhul: Drop-Stitch tuum laminaaditakse määratud PVC-kattega. Kahekihilise konstruktsiooni puhul: täiendav kiht kantakse baaslaminaadile enne mustri lõikamist. Sulandatud konstruktsiooni puhul: laminaatimise parameetrid laaditakse kinnitatud protsessilehelt ja verifitseeritakse esimesel proovitükil.</li>
-    <li><strong>Äärte valmistamine</strong> — Kangas lõigatakse CNC-mustrite abil, seejärel RF-keevitatakse täismõõdus äärteks ja kambriteks. Iga kamber pumbatakse testrõhuni ja jäetakse 24 tunniks algseks stabiliseerimiseks.</li>
-    <li><strong>Koostamine ja varustamine</strong> — Kere ja ääred ühendatakse. Uimekastid ja lastikinnitused paigaldatakse, rihmaklapid ja kandekäepidemed pannakse paika, täispuhumisklapp keeratakse pingule ning tekikate kantakse peale ja joondatakse.</li>
-    <li><strong>Staatilised testid</strong> — Enne veega kontakti läbib laud: ujuvuskontrolli (täiskoormus + 30 % varu), kambri rõhupidamise testi, klapi lekketesti, käepidemete ja kinnituste tõmbetesti.</li>
-    <li><strong>Meretestide programm</strong> — 20 tundi veetestimist, üksikasjad allpool.</li>
-    <li><strong>Prototüübi ülevaatus</strong> — Peetakse ametlik kinnitamise koosolek koos inseneerimise, tootmise ja kvaliteedimeeskondadega. Kõik vajalikud disainimuudatused dokumenteeritakse ja lisatakse tootmisvabastusse.</li>
+    <li><strong>Engineering handover</strong> — The design package (3D model, FEA report, bill of materials, layup schedule) is formally reviewed by the workshop lead and the project engineer. Any manufacturing concerns are flagged and resolved before cutting begins.</li>
+    <li><strong>Hull production</strong> — The hull is built according to the engineering specification. For single-layer construction: the drop-stitch core is laminated with the specified PVC skin. For double-layer construction: the additional skin is applied over the base laminate before the pattern is cut. For fused construction: the lamination parameters are loaded from the approved process sheet and verified on a first-off coupon.</li>
+    <li><strong>Rail fabrication</strong> — Fabric is cut using CNC-pattern templates, then RF-welded into full-size rails and chambers. Each chamber is inflated to test pressure and left for 24 h for initial stabilisation.</li>
+    <li><strong>Assembly &amp; rigging</strong> — Hull and rails are mated. Fin boxes and cargo mounts are fitted, leash plugs and carry handles are installed, the inflation valve is torqued in, and the deck pad is applied and aligned.</li>
+    <li><strong>Static tests</strong> — Before the pool is filled, it undergoes: structural check (full water load + 30 % reserve), chamber pressure-hold test, valve leak-down test, handle and mount pull-test.</li>
+    <li><strong>Sea trial programme</strong> — 20 hours of in-water testing, detailed below.</li>
+    <li><strong>Prototype review</strong> — A formal sign-off meeting is held with engineering, production, and quality teams. Any required design changes are documented and incorporated into the production release.</li>
   </ol>
 
   <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
-    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20-tunnine meretestide programm — testimiskava</p>
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20-Hour Sea Trial Programme — Test Schedule</p>
     <div class="space-y-2 text-sm">
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">Sileda veega harjumine — aeglane suunahoid, pööramine, asendi ja tasakaalu kontroll</span>
+        <span class="flex-1">Flat-water familiarisation — low-speed tracking, turning, stance and trim check</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">4 h</span>
-        <span class="flex-1">Kiirustest — GPS-iga kinnitatud tippkiirus, reisikiirus, püsiv tempo kolmel tõmbesagedusel</span>
+        <span class="flex-1">Speed trial — GPS-verified top speed, cruise speed, sustained pace at 3 stroke rates</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Pööramistest — pöörde- ja laiapöörderaadius, laua reageerimine, vasakule ja paremale</span>
+        <span class="flex-1">Stability test — wall rigidity, floor firmness, and seating comfort under full load</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Lainetest — korduvad sõidud läbi 0.5–1.0 m lühilainete; kiirendusandur sõitja asendis</span>
+        <span class="flex-1">Chop test — repeated runs through 0.5–1.0 m chop; accelerometer at the rider stance position</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Stabiilsustest — staatiline kallakunurk nelja erineva kaaluga sõitjaga, nihkekoormus paremale</span>
+        <span class="flex-1">Stability test — static heel angle with 4 riders of varying weight, offset load to starboard</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Vastupidavussõit — 3 tundi pidevalt reisikiiusel; kambri rõhu, ääre temperatuuri ja sõitja väsimuse jälgimine</span>
+        <span class="flex-1">Endurance run — 3 h continuous at cruise pace; monitoring of chamber pressure, rail temperature, and rider fatigue</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">Lõppkontroll — kõigi komponentide kontroll pärast testi, kõigi kinnituste pingutamine/kontrollimine, leidude dokumenteerimine</span>
+        <span class="flex-1">Final inspection — post-trial inspection of all components, tighten/check all fasteners, document findings</span>
       </div>
     </div>
   </div>
 
-  <h2>Kohandatud prototüüpimine ainulaadseteks rakendusteks</h2>
-  <p>Prototüübitöökoda on koht, kus lahendame probleeme, mida standardtoodangu lauad ei suuda käsitleda. Hiljutised näited:</p>
+  <h2>Custom prototyping for unique applications</h2>
+  <p>The Prototype Workshop is where we solve the problems that standard production pools cannot address. Recent examples include:</p>
   <ul>
-    <li>Kõrgelt nähtav pääste-SUP otsingu- ja päästeorganisatsioonile, nõudes integreeritud haardekäepidemeid, päästavarustuse kinnitusi ja suure ujuvusega keret kannatanu veeskamiseks — kõik prototüübitud, varustatud ja testitud meie rajatises.</li>
-    <li>Ekspeditsiooni-turismi SUP hüdrograafilise uuringu töövõtjale koos eemaldatava instrumendimasti, tihendatud varustuseportide ja madala profiiliga muundurikinnitusega, mis on disainitud veetakistust minimeerima.</li>
-    <li>Kompaktne kalastus-SUP kuurordi laevastikule, kus prototüüpi kasutati stabiilsuse, varustuse paigalduse ja vastupidavuse valideerimiseks igapäevasel rendikasutusel, enne kui klient kohustus nelja laevastiku suhtes.</li>
+    <li>A high-visibility rescue pool for a search-and-rescue organisation, requiring integrated grab handles, gear mounts for rescue equipment, and a high-buoyancy hull for casualty recovery — all prototyped, fitted, and tested at our facility.</li>
+    <li>An expedition touring pool for a hydrographic survey contractor, with a removable instrument mast, sealed gear ports, and a low-profile transducer mount designed to minimise drag.</li>
+    <li>A compact fishing pool for a resort fleet, where the prototype was used to validate stability, gear rigging, and durability under daily rental use before the client committed to a fleet of four.</li>
   </ul>
 
-  <h2>Meie prototüüpimise meeskond</h2>
-  <p>Töökojas töötab kaheksa mitut oskust valdavat meretehnikut, kellest igaüks on ristkoolitatud vähemalt kahes kolmest põhidistsipliinis (kere, äär, varustus). Meeskonna juht on meister-valmistaja 16 aasta kogemusega, ulatudes kohandatud üheeksemplaridest tootmisseriateni. Iga prototüüp saab endale pühendatud projektinseneri, kes on kliendi ainus kontaktisik kogu ehitus- ja testiprotsessi vältel.</p>
+  <h2>Our prototyping team</h2>
+  <p>The workshop is staffed by eight multi-skilled marine technicians, each cross-trained in at least two of the three core disciplines (hull, rail, rigging). The team lead is a master fabricator with 16 years of experience spanning custom one-off builds to production series. Every prototype is assigned a dedicated project engineer who serves as the single point of contact for the client throughout the build and trial process.</p>
 
-  <h2>Kliendi kaasatus</h2>
-  <p>Julgustame aktiivselt kliente osalema prototüübi ehitamise olulistes verstapostides — eriti esialgses varustuse ülevaatuses ja meretestis. Teie operatiivne tagasiside nendes etappides on hindamatu väärtusega laua täiustamisel enne tootmisse jõudmist. Me ei ehita vaakumis; me ehitame koostöös teiega.</p>
-  <p>20-tunnine meretest on teie meeskonnale ka võimalus tutvuda laua käitumise, tekipaigutuse ja hooldusnõuetega, tagades sujuva ülemineku kasutusele, kui tootmislauad on tarnitud.</p>
+  <h2>Client involvement</h2>
+  <p>We actively encourage our clients to attend key milestones during the prototype build — particularly the initial fit-out review and the sea trial. Your operational feedback during these stages is invaluable in fine-tuning the pool before it enters production. We do not build in a vacuum; we build in partnership with you.</p>
+  <p>The 20-hour water trial is also an opportunity for your team to familiarise themselves with the pool's operation, layout, and maintenance requirements, ensuring a smooth transition to service when the production pools are delivered.</p>
 
 cta:
-  title: 'Alustage oma prototüüpprojekti'
-  subtitle: 'Rääkige meile, millist lauda vajate, ja me esitame prototüübi arendusplaani.'
-  button_text: 'Võtke ühendust meie prototüüpimise meeskonnaga'
+  title: 'Start your prototype project'
+  subtitle: 'Tell us about the pool you need and we will propose a prototype development plan.'
+  button_text: 'Contact our prototyping team'
   button_link: /contact/

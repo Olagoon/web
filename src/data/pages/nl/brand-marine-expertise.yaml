@@ -1,72 +1,72 @@
 meta:
-  title: 'Maritieme Expertise — Engineering in Elke Romp | {SITE}'
-  description: 'Decennia aan maritieme engineering in elke romp. olagoon beheerst drop stitch, maritiem PVC en professioneel ontwerp van opblaasbare SUPs.'
+  title: 'Marine Expertise — Engineering in Every Hull | {SITE}'
+  description: 'Decades of marine engineering in every hull. olagoon masters drop stitch, marine PVC, and professional inflatable pools design.'
   keywords:
-    - 'maritieme engineering'
-    - 'fabrikant opblaasbare SUP'
-    - 'paddle board productie'
+    - 'marine engineering'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: Maritieme expertise
-  title: Decennia van Maritieme Techniek<br />in Elk Romp
-  subtitle: olagoon combineert diepgaande materiaalwetenschap, precisieproductie en praktijktesten om vaartuigen te produceren die presteren wanneer het erop aankomt.
+  tagline: Marine Expertise
+  title: 'Decades of Marine Engineering<br />in Every Hull'
+  subtitle: 'olagoon combines deep material science, precision manufacturing, and real-world testing to produce watercraft that perform when it matters.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: olagoon maritieme engineering en R&D-team aan het werk
+    alt: olagoon marine engineering and R&D team at work
 expertise_materials:
-  tagline: Materiaalkunde
-  title: Het Juiste Materiaal Kiezen<br />voor Elke Toepassing
-  subtitle: We werken met twee kernmaterialen — elk geselecteerd voor specifieke gebruikssituaties en prestatie-eisen.
+  tagline: Material Science
+  title: 'Choosing the Right Material<br />for Every Application'
+  subtitle: 'We work with two core materials — each selected for specific use cases and performance requirements.'
   columns: 3
   items:
-    - title: Marinekwaliteit PVC
-      description: 1100 denier PVC-stof — ons veelzijdigste materiaal. UV-gestabiliseerd, slijtvast en REACH-conform. Ideaal voor SUP-boards waar gewicht en kostenefficiëntie belangrijk zijn.
+    - title: Marine-Grade PVC
+      description: '1100 denier PVC fabric — our most versatile material. UV-stabilized, abrasion-resistant, and REACH compliant. Ideal for pools where weight and cost efficiency matter.'
       icon: tabler:droplet
-    - title: Glasvezel & Polyethyleen
-      description: Glasvezel-gelamineerde SUP's voor premium stijfheid en glijvermogen. Rotatiegegoten polyethyleen voor zwaar verhuur- en reddingsgebruik waar maximale slagvastheid vereist is.
+    - title: Fibreglass & Polyethylene
+      description: 'Fibreglass-laminated pools for premium stiffness and glide. Rotomoulded polyethylene for heavy-duty rental and rescue use requiring maximum impact resistance.'
       icon: tabler:building-arch
 expertise_manufacturing:
-  tagline: Productiemogelijkheden
-  title: Precisieproductie<br />bij Elke Stap
-  subtitle: Onze 12.000 m² faciliteit is uitgerust met gespecialiseerde machines voor elke productiefase.
+  tagline: Manufacturing Capabilities
+  title: 'Precision Manufacturing<br />at Every Step'
+  subtitle: 'Our 12,000 m² facility is equipped with specialized machinery for every stage of production.'
   columns: 2
   items:
-    - title: CNC-snijden
-      description: Computergestuurd snijden zorgt voor precieze, herhaalbare stofpanelen met minimaal afval. Elk stuk past precies zoals ontworpen.
+    - title: CNC Cutting
+      description: 'Computer-controlled cutting ensures precise, repeatable fabric panels with minimal waste. Every piece fits exactly as designed.'
       icon: tabler:cpu
-    - title: Hogefrequentielassen
-      description: Industrieel HF-lassen creëert naden die sterker zijn dan het basismateriaal. Consistente temperatuur- en drukregeling zorgt voor luchtdichte afdichtingen bij elke productierun.
+    - title: High-Frequency Welding
+      description: 'Industrial HF welding creates seams stronger than the base material. Consistent temperature and pressure control ensures air-tight seals across every production run.'
       icon: tabler:bolt
-    - title: Drop Stitch Kernassemblage
-      description: Duizenden polyesterdraden verbinden de bovenste en onderste stoflagen, waardoor hogedrukinflatie (15-20 PSI) mogelijk is voor stijve, stabiele SUP-boards.
+    - title: Drop Stitch Core Assembly
+      description: 'Thousands of polyester threads connect top and bottom fabric layers, allowing high-pressure inflation (15-20 PSI) for rigid, stable pools.'
       icon: tabler:building-arch
-    - title: Druktesten
-      description: Elk opblaasbaar product wordt voor verzending aan een druktest onderworpen. Boards worden getest op 1,25x de nominale druk — als het daar standhoudt, presteert het op het water.
+    - title: Pressure Testing
+      description: 'Every inflatable product is pressure-tested before shipping. Pools are tested at 1.25x rated pressure — if it holds there, it will perform on the water.'
       icon: tabler:wind
-    - title: Naadsterkte testen
-      description: Willekeurige monsters van elke productiebatch ondergaan destructieve naadsterktetesten. Resultaten worden geregistreerd en zijn traceerbaar naar specifieke productieruns.
+    - title: Seam Strength Testing
+      description: 'Random samples from each production batch undergo destructive seam strength testing. Results are logged and traceable to specific production runs.'
       icon: tabler:files
-    - title: Watertesten
-      description: Elk SUP-model ondergaat zeeproeven vóór certificering. Praktijktesten in kustomstandigheden valideren prestaties, handling en stabiliteit.
+    - title: Water Testing
+      description: 'Every model undergoes sea trials before certification. Real-world testing in coastal conditions validates performance, handling, and stability.'
       icon: tabler:droplet
 expertise_design:
-  tagline: Ontwerp & Techniek
-  title: Ontworpen voor Echte Omstandigheden
-  subtitle: Onze ontwerpfilosofie begint met hoe het board zal worden gebruikt — en bouwt vervolgens de engineering rond die gebruikssituatie.
+  tagline: Design & Engineering
+  title: 'Engineered for Real Conditions'
+  subtitle: 'Our design philosophy starts with how the pool will be used — then builds the engineering around that use case.'
   items:
-    - title: Prestatiegericht Rompontwerp
-      description: Elke rompvorm is afgestemd op de gebruikssituatie — displacement-neuzen voor touring-glijvermogen, extra rocker voor wendbaarheid in de surf, platte stabiele profielen voor vissen en yoga.
-    - title: Drop-Stitch Veiligheid
-      description: Elk board heeft een stijve drop-stitch-kern met versterkte rails. Als een sectie beschadigd raakt, houdt de sterke drop-stitch-structuur het board bruikbaar.
-    - title: Ergonomische Deckindeling
-      description: Deckpad-zonering, positie van de draaggreep en bevestigingspunten zijn ontworpen rond het comfort van de rijder tijdens langdurig gebruik — of het nu touring, vissen of patrouilleren is.
-    - title: Aangepaste Configuratie
-      description: Railkleuren, deckpad-configuratie, accessoirebevestigingen, bagagecapaciteit — elk model kan worden aangepast aan specifieke operationele vereisten.
+    - title: Performance Hull Design
+      description: 'Each pool is tuned for its use case — compact footprints for plunge soaking, family-sized layouts for play, and generous swim areas for daily laps.'
+    - title: Drop-Stitch Safety
+      description: 'Every pool features a rigid drop-stitch core with reinforced walls. If a section is damaged, the high-tensile drop-stitch structure keeps the pool operational.'
+    - title: Ergonomic Deck Layout
+      description: 'Deck-pad zoning, carry-handle position, and mounting points are designed around rider comfort during extended use — whether touring, fishing, or patrolling.'
+    - title: Custom Configuration
+      description: 'Rail colors, deck pad configuration, accessory mounts, gear capacity — each model can be customized to match specific operational requirements.'
 cta:
-  title: Heeft u een specifieke toepassing in gedachten?
-  subtitle: Ons technische team kan adviseren over materiaalkeuze, ontwerp en productie voor uw project.
+  title: 'Have a specific application in mind?'
+  subtitle: 'Our engineering team can advise on material selection, design, and manufacturing for your project.'
   actions:
     - variant: primary
-      text: Vraag het onze ingenieurs
+      text: Ask our engineers
       href: /contact/
-    - text: Bekijk het assortiment
+    - text: View product range
       href: /products/

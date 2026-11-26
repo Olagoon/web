@@ -1,31 +1,33 @@
 meta:
-  title: 'แกลเลอรี — ซัพเป่าลม | {SITE}'
-  description: 'สำรวจแกลเลอรีของ olagoon: บอร์ด SUP เป่าลม โรงงาน และภาพการผลิตจากโรงงานพายบอร์ดมืออาชีพของเรา'
+  title: 'Gallery — inflatable pools | {SITE}'
+  description: 'Browse the olagoon gallery: inflatable pools, factory, and production photos from our professional inflatable pool factory.'
   keywords:
-    - 'ภาพ SUP'
-    - 'แกลเลอรีซัพเป่าลม'
-    - 'ภาพพายบอร์ด'
-    - 'ภาพซัพเป่าลม'
+    - 'pool photos'
+    - 'inflatable pools gallery'
+    - 'inflatable pool pictures'
+    - 'inflatable pools photos'
 hero:
-  tagline: แกลเลอรี
-  title: แกลเลอรี
-  subtitle: ภาพผลิตภัณฑ์ สายการผลิตโรงงาน และการผจญภัยบนผืนน้ำ
+  tagline: Gallery
+  title: Gallery
+  subtitle: Product shots, factory floor, and adventures on the water
+
 albums:
-  - title: บอร์ด SUP
-    desc: บอร์ด SUP เป่าลมแบบ drop-stitch สำหรับการพายท่องเที่ยว เล่นเซิร์ฟ โยคะ และตกปลา
+  - title: pools
+    desc: Drop-stitch inflatable pools for families, swim training, and backyard fun.
     images:
-      - https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      - https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
       - https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
       - https://assets.olagoon.com/images/olagoon/hero/olagoon-hero-design-concept.webp
-  - title: โรงงานและเวิร์กช็อป
-    desc: โรงงานผลิตขนาด 12,000 ตร.ม. ของเราที่เมืองชิงเต่า ประเทศจีน
+  - title: Factory & Workshop
+    desc: Our 12,000 m² manufacturing facility in Qingdao, China.
     images:
       - https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
       - https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
       - https://assets.olagoon.com/images/olagoon/factory/olagoon-warehouse-storage.webp
       - https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
+
 cta:
-  title: อยากดูเพิ่มเติมหรือไม่?
-  desc: ติดตามเราบนโซเชียลมีเดียสำหรับข่าวผลิตภัณฑ์ใหม่ล่าสุด ความเคลื่อนไหวจากโรงงาน และเรื่องราวการผจญภัยของลูกค้า
+  title: Want to see more?
+  desc: Follow us on social media for the latest product releases, factory updates, and customer adventures.
   instagram: Instagram
   youtube: YouTube

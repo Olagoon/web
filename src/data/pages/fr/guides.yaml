@@ -1,25 +1,26 @@
 meta:
-  title: 'Guides SUP — Acheter, Choisir, Pratiquer | {SITE}'
-  description: 'Guides du paddle gonflable : comment choisir son SUP, guide des tailles, SUP gonflable vs rigide, entretien et techniques. Ressources pour débutants et experts.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'guide paddle gonflable'
-    - 'meilleur paddle gonflable'
-    - 'quel paddle gonflable choisir'
-    - 'guide achat SUP'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
   tagline: Guides
-  title: Nouveau en SUP ?
-  subtitle: Guides pratiques pour vous aider à choisir, utiliser et profiter des planches SUP gonflables.
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
+
 size_guide:
-  tagline: Tailles et Spécifications
-  title: Trouvez la Bonne Taille pour Vos Besoins
-  desc: Comparez les dimensions, les capacités de charge et les usages recommandés. Que vous cherchiez un SUP de touring, une planche de yoga ou un SUP polyvalent — notre guide des tailles vous aide à choisir la planche adaptée.
-  link_label: Guide des tailles complet avec spécifications →
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: Planches SUP
-      desc: Choisissez la longueur selon votre poids et votre usage prévu. Les planches plus larges (32"+) offrent plus de stabilité. Les planches plus longues (11–12 ft) gardent mieux leur cap en touring.
-    - title: SUP de Randonnée
-      desc: Planches plus longues (11–12 ft) pour couvrir de la distance et garder le cap. Assez stables pour la randonnée avec équipement. Vérifiez toujours la capacité de poids.
-    - title: SUP Polyvalents
-      desc: Choisissez la longueur selon le poids et l'usage. Des planches plus larges (32"+) pour la stabilité. Polyvalentes pour la récréation et le fitness.
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

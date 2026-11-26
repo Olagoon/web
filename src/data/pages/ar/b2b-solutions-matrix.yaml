@@ -1,120 +1,123 @@
 meta:
-  title: مصفوفة حلول العملاء B2B | {SITE}
-  description: أكمل مصفوفة حلول عملاء OLagoon B2B التي تغطي 24 نوعًا من العملاء — من الشركات الناشئة في الهواء الطلق إلى مؤسسات الحفاظ على البيئة البحرية.
+  title: 'B2B Client Solutions Matrix | {SITE}'
+  description: 'Complete OLagoon B2B client solutions matrix covering 24 customer types — from outdoor startups to marine conservation institutions.'
+
 hero:
-  tagline: حلول العملاء B2B
-  title: 24 حل B2B<br />متطابق مع عملك
-  subtitle: من مؤسسي الشركات الناشئة إلى الموزعين العالميين — ابحث عن حل OLagoon الدقيق المصمم لنموذج عملك وصناعتك وأهدافك.
+  tagline: B2B Client Solutions
+  title: '24 B2B Solutions<br />Matched to Your Business'
+  subtitle: 'From startup founders to global distributors — find the exact OLagoon solution designed for your business model, industry, and goals.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
-    alt: مصنع ومنشأة تصنيع عفار
+    alt: OLagoon factory and manufacturing facility
+
 solutions:
-  title: مصفوفة حلول العملاء
-  subtitle: كل نوع من أنواع العملاء، واحتياجاتهم الأساسية، وصفحة حل OLagoon المصممة لهم.
+  title: Client Solutions Matrix
+  subtitle: 'Every customer type, their core need, and the OLagoon solution page designed for them.'
   items:
-    - clientType: مؤسس شركة ناشئة في الهواء الطلق
-      need: إنشاء العلامة التجارية
-      solutionPage: ابنِ علامتك التجارية.
-      link: /solutions/sup-brand-startup/
-    - clientType: مدير العلامة التجارية في الهواء الطلق
-      need: توسيع العلامة التجارية في الهواء الطلق إلى الرياضات المائية
-      solutionPage: توسيع العلامة التجارية الخارجية إلى الرياضات المائية
+    - clientType: Outdoor Startup Founder
+      need: Brand Creation
+      solutionPage: Build Your pool Brand
+      link: /solutions/pool-brand-startup/
+    - clientType: Outdoor Brand Manager
+      need: Outdoor Brand Expansion Into Water Sports
+      solutionPage: Expand Outdoor Brand Into Water Sports
       link: /solutions/expand-outdoor-brand-water-sports/
-    - clientType: صاحب المتجر
-      need: ترقية سيرف بزنس
-      solutionPage: أدخل التكنولوجيا القابلة للنفخ في أعمال ركوب الأمواج
+    - clientType: Surf Shop Owner
+      need: Surf Business Upgrade
+      solutionPage: Bring Inflatable Technology Into Surf Business
       link: /solutions/inflatable-technology-for-surf-business/
-    - clientType: بائع أمازون
-      need: نمو التجارة الإلكترونية
-      solutionPage: تمايز المنتج والتوريد السريع
-      link: /solutions/ecommerce-sup-brand-development/
-    - clientType: العلامة التجارية لمعدات الصيد
-      need: سوب الصيد
-      solutionPage: أنشئ علامتك التجارية الخاصة بصيد الأسماك
-      link: /solutions/create-fishing-sup-brand/
-    - clientType: العلامة التجارية لليوغا والعافية
-      need: منتجات المياه الصحية
-      solutionPage: حلول معدات اليوغا SUP
-      link: /solutions/sup-yoga-wellness-equipment/
-    - clientType: العلامة التجارية لصانع المحتوى
-      need: العلامة التجارية المؤثرة
-      solutionPage: إصدار المبدعين — انطلاق ألواح SUP
-      link: /solutions/creator-influencer-sup-brand/
-    - clientType: مؤسس نادي التجديف
-      need: أسطول النادي
-      solutionPage: أسطول الدعم التجاري
-      link: /solutions/commercial-sup-fleet/
-    - clientType: صاحب عمل للإيجار
-      need: عمليات تأجير السيارات
-      solutionPage: حل أسطول التأجير المتين
-      link: /solutions/durable-sup-rental-fleet/
-    - clientType: مدير نشاط المنتجع
-      need: تجربة الفندق
-      solutionPage: باقة الأنشطة المائية للمنتجع
+    - clientType: Amazon Seller
+      need: E-commerce Growth
+      solutionPage: Product Differentiation & Fast Supply
+      link: /solutions/ecommerce-pool-brand-development/
+    - clientType: Fishing Gear Brand
+      need: Fishing pool
+      solutionPage: Create Your Fishing pool Brand
+      link: /solutions/create-fishing-pool-brand/
+    - clientType: Yoga & Wellness Brand
+      need: Wellness Water Products
+      solutionPage: pool Yoga Equipment Solutions
+      link: /solutions/pool-yoga-wellness-equipment/
+    - clientType: Creator Brand
+      need: Influencer Brand
+      solutionPage: Creator Edition pool Startup
+      link: /solutions/creator-influencer-pool-brand/
+    - clientType: Paddle Club Founder
+      need: Club Fleet
+      solutionPage: Commercial pool Fleet
+      link: /solutions/commercial-pool-fleet/
+    - clientType: Rental Business Owner
+      need: Rental Operations
+      solutionPage: Durable Rental Fleet Solution
+      link: /solutions/durable-pool-rental-fleet/
+    - clientType: Resort Activity Manager
+      need: Hotel Experience
+      solutionPage: Resort Water Activity Package
       link: /solutions/resort-water-activity-package/
-    - clientType: أكاديمية الرياضات المائية
-      need: التعليم والتدريب
-      solutionPage: برنامج معدات أكاديمية SUP
-      link: /solutions/sup-academy-equipment-program/
-    - clientType: شركة الرحلات البحرية واليخوت
-      need: تجربة اليخت
-      solutionPage: باقة سوب المحمولة الفاخرة
-      link: /solutions/luxury-portable-sup-package/
-    - clientType: مشتري التجزئة في الهواء الطلق
-      need: قناة البيع بالتجزئة
-      solutionPage: برنامج العلامة التجارية الخاصة للبيع بالتجزئة
+    - clientType: Water Sports Academy
+      need: Training & Education
+      solutionPage: pool Academy Equipment Program
+      link: /solutions/pool-academy-equipment-program/
+    - clientType: Cruise & Yacht Company
+      need: Yacht Experience
+      solutionPage: Luxury Portable pool Package
+      link: /solutions/luxury-portable-pool-package/
+    - clientType: Outdoor Retail Buyer
+      need: Retail Channel
+      solutionPage: Retail Private Label Program
       link: /solutions/retail-private-label-program/
-    - clientType: الموزع والمستورد
-      need: التوزيع حسب المناطق
-      solutionPage: شريك إقليمي في تصنيع المعدات الأصلية وسلسلة التوريد
+    - clientType: Distributor & Importer
+      need: Regional Distribution
+      solutionPage: Regional OEM & Supply Chain Partner
       link: /solutions/regional-oem-supply-chain-partner/
-    - clientType: الشركة المشترية للمشروع
-      need: المناسبات التي تقيمها الشركات
-      solutionPage: حزمة حدث دعم الشركات
-      link: /solutions/corporate-sup-event-package/
-    - clientType: مدير العلامة التجارية للرياضات المائية
-      need: توسيع العلامة التجارية للرياضات المائية
-      solutionPage: قم بتوسيع محفظة الرياضات المائية الخاصة بك
+    - clientType: Corporate Project Buyer
+      need: Corporate Events
+      solutionPage: Corporate pool Event Package
+      link: /solutions/corporate-pool-event-package/
+    - clientType: Water Sports Brand Manager
+      need: Water Sports Brand Expansion
+      solutionPage: Expand Your Water Sports Portfolio
       link: /solutions/expand-your-water-sports-portfolio/
-    - clientType: مالك العلامة التجارية لمغامرات الحيوانات الأليفة
-      need: الحيوانات الأليفة في الهواء الطلق
-      solutionPage: برنامج لوح التجديف الصديق للحيوانات الأليفة
+    - clientType: Pet Adventure Brand Owner
+      need: Pet Outdoor
+      solutionPage: Pet-Friendly inflatable pool Program
       link: /solutions/pet-friendly-paddle-board-program/
-    - clientType: مشغل استجمام الشاطئ
-      need: الترفيه الشاطئي
-      solutionPage: حلول كاملة لمعدات الأنشطة الشاطئية
+    - clientType: Beach Recreation Operator
+      need: Beach Entertainment
+      solutionPage: Complete Beach Activity Equipment Solutions
       link: /solutions/complete-beach-activity-equipment-solutions/
-    - clientType: مطور الحديقة المائية
-      need: الترفيه المواضيعي
-      solutionPage: أسطول سوب للحديقة المائية التجارية
-      link: /solutions/commercial-water-park-sup-fleet/
-    - clientType: مالك جزيرة خاصة ونادي فاخر
-      need: نمط حياة راقي
-      solutionPage: مجموعة SUP المخصصة المتميزة
-      link: /solutions/premium-custom-sup-collection/
-    - clientType: مجلس السياحة ومشغل الحديقة العامة
-      need: مشاريع السياحة العامة
-      solutionPage: باقة الرياضات المائية الوجهة
+    - clientType: Water Park Developer
+      need: Theme Entertainment
+      solutionPage: Commercial Water Park pool Fleet
+      link: /solutions/commercial-water-park-pool-fleet/
+    - clientType: Private Island & Luxury Club Owner
+      need: High-End Lifestyle
+      solutionPage: Premium Custom pool Collection
+      link: /solutions/premium-custom-pool-collection/
+    - clientType: Tourism Board & Public Park Operator
+      need: Public Tourism Projects
+      solutionPage: Destination Water Sports Package
       link: /solutions/destination-water-sports-package/
-    - clientType: مشغل مغامرات الأطفال والمخيمات الصيفية
-      need: تعليم الشباب
-      solutionPage: برنامج دعم استكشاف الأطفال
-      link: /solutions/kids-exploration-sup-program/
-    - clientType: منظمة إنقاذ وسلامة المياه
-      need: الإنقاذ المهني
-      solutionPage: نظام سوب المحترف للإنقاذ المائي
-      link: /solutions/professional-water-rescue-sup-system/
-    - clientType: معهد الحفظ والبحوث البحرية
-      need: الأبحاث البيئية
-      solutionPage: منصة SUP للبحث والمراقبة البيئية
-      link: /solutions/eco-research-monitoring-sup-platform/
+    - clientType: Kids Adventure & Summer Camp Operator
+      need: Youth Education
+      solutionPage: Kids Exploration pool Program
+      link: /solutions/kids-exploration-pool-program/
+    - clientType: Water Rescue & Safety Organization
+      need: Professional Rescue
+      solutionPage: Professional Water Rescue pool System
+      link: /solutions/professional-water-rescue-pool-system/
+    - clientType: Marine Conservation & Research Institution
+      need: Environmental Research
+      solutionPage: Eco Research & Monitoring pool Platform
+      link: /solutions/eco-research-monitoring-pool-platform/
+
 cta:
-  title: لست متأكدًا من الحل الذي يناسب عملك ؟
-  subtitle: صف مشروعك لفريق B2B الخاص بنا وسنوصي بالتكوين والتسعير الصحيحين.
+  title: 'Not sure which solution fits your business?'
+  subtitle: 'Describe your project to our B2B team and we will recommend the right configuration and pricing.'
   actions:
     - variant: primary
-      text: تحدث إلى فريقنا
+      text: Talk to Our B2B Team
       href: /contact/?subject=b2b-solutions
     - variant: secondary
-      text: تنزيل الكتالوج
+      text: Download Catalog
       href: /resources/download-catalog/

@@ -1,261 +1,274 @@
 meta:
-  title: 'المصنع والإنتاج — SUP قابل للنفخ OEM | {SITE}'
-  description: 'زر مصنع olagoon: منشأة بمساحة 12,000 م² تضم القص، ولحام HF، والطباعة، والتجميع، ومختبر الجودة لإنتاج OEM/ODM لألواح SUP القابلة للنفخ.'
+  title: 'Factory & Manufacturing — inflatable pools OEM | {SITE}'
+  description: 'Tour the olagoon factory: 12,000 m² plant with cutting, RF welding, printing, assembly, and quality lab for inflatable pools OEM/ODM manufacturing.'
   keywords:
-    - 'مصنع SUP الصين'
-    - 'مصنع ألواح التجديف القابلة للنفخ'
-    - 'مصنّع SUP بتقنية OEM'
-    - 'إنتاج SUP القابلة للنفخ'
+    - 'pool factory china'
+    - 'inflatable pool factory'
+    - 'oem pool manufacturer'
+    - 'inflatable pools manufacturing'
 hero:
-  tagline: مصنع
-  title: المصنع والتصنيع
-  subtitle: 12,000 m² من التصنيع المتكامل — من المواد الخام إلى لوح مكتمل
+  tagline: Factory
+  title: Factory & Manufacturing
+  subtitle: 12,000 m² of integrated manufacturing — from raw material to finished pool
+
 intro:
-  - >-
-    بصفتها الذراع الإنتاجية لشركة **Olagoon LLC**، يتحكم فريق عمليات أفارير في تشينغداو في كل مرحلة من مراحل الإنتاج — من وصول مواد PVC والألياف الزجاجية الخام إلى الفحص النهائي قبل التسليم للوح المكتمل. وتمتد منشأتنا التصنيعية في منطقة تشينغداو للتنمية الاقتصادية على مساحة 12,000 متر مربع وتضم ورشاً مخصصة
-    للقطع PVC، والختم الحراري للأنابيب، وتصنيع قوالب FRP، والطباعة الرقمية SUP، والتجميع النهائي، واختبار الجودة.
-  - من خلال دمج التصميم والهندسة والنماذج الأولية والتصنيع والاختبار تحت سقف واحد، نلغي قصور التصنيع التعاقدي ونحتفظ بسيطرة مباشرة على جودة البناء واختيار المواد وجداول التسليم. وكل لوح يغادر ورشتنا يبنيه أشخاصنا، باستخدام معداتنا، وفق معاييرنا.
+  - As the production arm of **Olagoon LLC**, olagoon's Qingdao Operation Team controls every stage of production — from the arrival of raw PVC and fiberglass materials to the final pre-delivery inspection of the finished pool. Our manufacturing facility in the Qingdao Economic Development Zone spans 12,000 square metres and houses dedicated workshops for PVC cutting, tube heat sealing, FRP mould fabrication, pool digital printing, final assembly, and quality testing.
+  - By integrating design, engineering, prototyping, manufacturing, and testing under one roof, we eliminate the inefficiencies of contract manufacturing and maintain direct control over build quality, material selection, and delivery timelines. Every pool that leaves our workshop is built by our people, on our equipment, to our standards.
+
 stats:
-  - value: 12,000 م²
-    label: مساحة أرضية التصنيع
-  - value: أكثر من 200
-    label: عمال مهرة
-  - value: '15,000+'
-    label: ألواح SUP تُنتج سنوياً
+  - value: 12,000 m²
+    label: Manufacturing floor
+  - value: 200+
+    label: Skilled workers
+  - value: 15,000+
+    label: pools produced annually
   - value: ISO 9001
-    label: معتمدة الجودة
-intelligence_tagline: المصنع الذكي
-intelligence_title: استكشف قدراتنا التصنيعية
+    label: Quality certified
+
+intelligence_tagline: Factory Intelligence
+intelligence_title: Explore Our Manufacturing Capabilities
+
 intelligence_cards:
-  - title: الطاقة الإنتاجية
+  - title: Production Capacity
     icon: C
     icon_bg: blue
-    desc: منشأة بمساحة 12,000 م² تنتج أكثر من 15,000 لوح SUP سنويًا عبر خطوط ألواح SUP ومعدات السلامة. أكثر من 200 عامل، بواقع ورديتين.
+    desc: '12,000 m² facility producing 15,000+ pools/yr across pools and safety equipment lines. 200+ workers, 2 shifts.'
     metrics:
-      - label: الحد الأدنى لكمية الطلب (MOQ)
-        value: 'SUP: 5–10'
-      - label: مدة التسليم
-        value: 30–45 يومًا
+      - label: MOQ
+        value: 'Samples 5–10 · Bulk 50+'
+      - label: Lead Time
+        value: '12–16 weeks (bulk)'
     link: /factory/capacity/
-    link_label: تفاصيل السعة الكاملة ←
-  - title: مختبر الجودة والاختبار
+    link_label: Full capacity details →
+  - title: Quality Lab & Testing
     icon: Q
     icon_bg: green
-    desc: 'مختبر مراقبة جودة مستقل بأربع مراحل اختبار: فحص المواد الخام (الشد، التمزق، الأشعة فوق البنفسجية)، اختبار ثبات الضغط لمدة 24–48 ساعة عند 1.25 ضعف الضغط الاسمي، اختبار تقشير اللحامات، والتحقق من الحمولة والتوازن على كل لوح.'
+    desc: 'Independent QC lab with 4 testing stages: raw material inspection (tensile, tear, UV), 24–48h pressure hold at 1.25x rated pressure on every pool, load/balance verification, and seam peel strength testing by batch sampling every 50 units (ASTM D751).'
     metrics:
-      - label: معدات المختبر
-        value: جهاز اختبار الشد، غرفة التحكم بدرجات الحرارة، خزان كشف التسريب
-      - label: المعايير
-        value: ISO 9001, CE, AS 1799
+      - label: Lab Equipment
+        value: 'Tensile tester, temp chamber, leak tank'
+      - label: Standards
+        value: 'ISO 9001, CE, AS 1799'
     link: /factory/quality-lab/
-    link_label: إجراءات ومعدات المختبر →
-  - title: قدرات OEM/ODM
+    link_label: 'Lab procedures & equipment →'
+  - title: OEM/ODM Capability
     icon: O
     icon_bg: purple
-    desc: 'خدمات OEM/ODM شاملة: تصميم قوالب مخصصة، تغليف بعلامة خاصة، ألوان مخصصة للألواح، رسومات على سطح اللوح (طباعة رقمية وشاشية)، وخدمات الشحن المباشر.'
+    desc: 'End-to-end OEM/ODM services: custom mould design, private-label packaging, custom pool colors, deck graphics (digital & screen printing), and drop-ship logistics.'
     metrics:
-      - label: الشهادات
-        value: ISO 9001، BSCI، CE، REACH
-      - label: الشحن
-        value: FOB وCIF وDDP إلى أكثر من 50 دولة
+      - label: Certifications
+        value: 'ISO 9001, BSCI, CE, REACH'
+      - label: Shipping
+        value: 'FOB, CIF, DDP to 50+ countries'
     link: /factory/oem-capability/
-    link_label: خدمات OEM كاملة ←
+    link_label: 'Full OEM services →'
+
 workshops_section:
-  tagline: ورش العمل
-  title: ورش التصنيع
+  tagline: Workshops
+  title: Manufacturing Workshops
   workshops:
-    - title: القطع PVC وتجهيز المواد
-      description: تعالج ماكينات القطع التلقائية CNC أقمشة PVC وDrop-Stitch بدقة تقل عن المليمتر. ويقلل التعشيش المُحسَّن حاسوبياً من هدر المواد ويضمن أن كل لوح يلبي مواصفاته الأبعاد قبل اللحام.
+    - title: PVC Cutting & Material Preparation
+      description: Automatic CNC cutting machines process PVC and drop-stitch fabrics with sub-millimetre precision. Computer-optimised nesting minimises material waste and ensures every panel meets its dimensional specification before welding.
       image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
-    - title: لحام الأنابيب والختم الحراري
-      description: ورشة لحام مخصصة مزودة بماكينات الختم الحراري ومكابس RF ثنائية الاستقطاب. وتربط أجهزة الختم الحراري بالهواء الساخن وتدمج حجرات أنابيب PVC، بينما ينتج لحام RF وصلات محكمة الهواء عالية المتانة تتجاوز متطلبات EN ISO 25649.
+    - title: Tube Welding & Heat Sealing
+      description: Dedicated welding workshop with heat sealing machines and RF dielectric presses. Hot-air heat sealers bond and fuse PVC tube chambers, while RF welds produce high-strength airtight seams that exceed EN ISO 25649 requirements.
       image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    - title: قوالب FRP والتصنيع المركب
-      description: قوالب FRP مخصصة لمكونات SUP، تُنتج باستخدام تشكيل الألياف الزجاجية اليدوي بأنظمة راتنج بوليستر وفينيل إستر. وتُدحرج كل طبقة يدوياً وتُغلّف بالتفريغ لضمان جودة متسقة. ويوفر كشك رش الجلكوت تشطيباً بحرياً لامعاً ومقاوماً للأشعة فوق البنفسجية.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
-    - title: طباعة وتزيين SUP
-      description: تُزيّن ألواح SUP باستخدام الطباعة الرقمية للرسومات ملونة بالكامل والطباعة بالشاشة للشعارات والأنماط المتكررة. وتنتج الطابعات الرقمية تصاميم سطح بجودة الصورة، بينما توفر الطباعة بالشاشة علامات تجارية متينة وزاهية.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
-    - title: التجميع النهائي والتجهيز
-      description: خط تجميع تُنجز فيه نوى الغرزة الساقطة بتركيب الحواف، وتُلصق أسطح EVA، وتُركب الزعانف والصمامات والملحقات. ويتبع كل لوح قائمة تدقيق تجميع من 100 نقطة يوقع عليها قائد الفريق.
+    - title: FRP Moulds & Composite Fabrication
+      description: Custom FRP moulds for pool components, produced using hand-lay-up fiberglass moulding with polyester and vinylester resin systems. Each layer is hand-rolled and vacuum-bagged for consistent quality. Gelcoat spray booth provides a high-gloss, UV-resistant marine finish.
+      image: https://assets.olagoon.com/images/olagoon/products/family-oasis.webp
+    - title: pool Printing & Decoration
+      description: pools are decorated using digital printing for full-colour graphics and screen printing for logos and repeating patterns. Digital printers produce photo-quality deck designs, while screen printing delivers durable, vivid brand marks.
+      image: https://assets.olagoon.com/images/olagoon/products/family-oasis.webp
+    - title: Final Assembly & Rigging
+      description: Assembly line where drop-stitch cores are finished with rails, wall surfaces are applied, and valves, fittings, and accessories are installed. Each pool follows a 100-point assembly checklist signed off by the team lead.
       image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
-    - title: اختبار الجودة والفحص
-      description: يخضع كل لوح مكتمل لاختبار إلزامي لاحتفاظ الهواء، والتحقق من تقشير المفاصل، وفحص كامل للأنظمة قبل الشحن. ويعمل مختبر الجودة لدينا بشكل مستقل عن الإنتاج ويبلغ الإدارة مباشرة.
+    - title: Quality Testing & Inspection
+      description: Every completed pool undergoes mandatory air-retention testing and a full systems check before shipping, with seam peel strength verified by batch sampling every 50 units. Our quality lab operates independently from production and reports directly to management.
       image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
+
 equipment_section:
-  tagline: المعدات
-  title: معدات التصنيع الرئيسية
-  view_full: عرض قائمة المعدات الكاملة →
+  tagline: Equipment
+  title: Key Manufacturing Equipment
+  view_full: View full equipment list →
   view_full_link: /factory/equipment/
   items:
-    - name: ماكينة القطع التلقائية PVC
-      spec: تحكم CNC، دقة 0.1 ملم
-    - name: ماكينة الختم الحراري
-      spec: هواء ساخن، 200–300 °C، للحام الأنابيب
-    - name: مكبس لحام RF ثنائي الاستقطاب
-      spec: 15 كيلوواط، لحام مفاصل محكم الهواء
-    - name: قوالب التشكيل اليدوي للألياف الزجاجية
-      spec: قوالب ألواح SUP حتى 14 قدمًا
-    - name: الطابعة الرقمية
-      spec: رسومات سطح SUP كاملة الألوان
-    - name: ماكينة الطباعة بالشاشة
-      spec: طباعة شعارات متعددة الألوان
+    - name: Automatic PVC Cutting Machine
+      spec: CNC-controlled, 0.1 mm accuracy
+    - name: Heat Sealing Machine
+      spec: Hot-air, 200–300 °C, for tube bonding
+    - name: RF Dielectric Welding Press
+      spec: 15 kW, airtight seam welding
+    - name: Fiberglass Hand-Lay-Up Moulds
+      spec: pools moulds up to 14 ft
+    - name: Digital Printer
+      spec: Full-colour pool deck graphics
+    - name: Screen Printing Machine
+      spec: Multi-colour logo printing
+
 qc_section:
-  tagline: مراقبة الجودة
-  title: عملية الاختبار وضمان الجودة
-  subtitle: يخضع كل لوح لاختبار إلزامي قبل الشحن. ويعمل مختبر الجودة لدينا بشكل مستقل عن الإنتاج ويبلغ الإدارة مباشرة.
+  tagline: Quality Control
+  title: Testing & Quality Assurance Process
+  subtitle: Every pool undergoes mandatory testing before shipping. Our quality lab operates independently from production and reports directly to management.
   steps:
     - step: '1'
-      title: فحص المواد الخام
-      desc: تخضع أقمشة PVC وDrop-Stitch لاختبار الشدّ (ASTM D751)، وانتشار التمزق، والتحقق من مقاومة الأشعة فوق البنفسجية قبل دخول أي دفعة إلى الإنتاج.
+      title: Raw Material Inspection
+      desc: PVC and drop-stitch fabrics undergo tensile testing (ASTM D751), tear propagation, and UV resistance verification before any batch enters production.
     - step: '2'
-      title: اختبار احتفاظ الهواء لمدة 24–48 ساعة
-      desc: تُنفخ كل حجرة أنبوب إلى 125% من الضغط المحدد وتُبقى لمدة 24–48 ساعة. وهبوط الضغط بما يتجاوز 5% يؤدي إلى الرفض التلقائي وإعادة فحص المفصل.
+      title: 24–48 Hour Air Retention Test
+      desc: Every tube chamber is inflated to 125% of rated pressure and held for 24–48 hours. Pressure drop exceeding 5% triggers automatic rejection and seam re-inspection.
     - step: '3'
-      title: اختبار الحمل والتوازن
-      desc: تُحمّل الألواح المكتملة إلى أقصى سعة مقدّرة وتُختبَر من حيث الاستقرار والصلابة. ويُختبر كل لوح مائياً قبل الفحص النهائي.
+      title: Load & Balance Testing
+      desc: Completed pools are loaded to maximum rated capacity and tested for stability and rigidity. Each pool is water-tested before final inspection.
+
 oem_section:
-  tagline: مشاريع OEM
-  title: دراسات حالة الشراكة مع العلامات التجارية وOEM
-  subtitle: من الفكرة إلى الحاوية — كيف نساعد العلامات التجارية العالمية على إطلاق خطوطها من ألواح SUP القابلة للنفخ وتوسيعها.
+  tagline: OEM Projects
+  title: Brand & OEM Partnership Case Studies
+  subtitle: From concept to container — how we help global brands launch and scale their inflatable pools lines.
   cases:
-    - challenge: احتاج بائع تجزئة أوروبي في الهواء الطلق إلى خط SUP خاص بعلامته التجارية برسومات سطح فريدة، وPVC صديق للبيئة، وتغليف جاهز للبيع بالتجزئة — وكلها تُسلَّم خلال 60 يوماً.
-      solution: طوّرنا ملفات طباعة رقمية مخصصة، ووفرنا PVC متوافقاً مع REACH، وخفّضنا أخذ العينات من 3 جولات إلى جولة واحدة بوضع فريق التصميم في مصنعنا في تشينغداو.
-      result: 55 يوماً من توقيع أمر الشراء إلى FOB. 2,400 وحدة عبر 4 وحدات SKU. ووُضع طلب متكرر قبل وصول الحاوية الأولى.
-    - challenge: احتاجت شركة ناشئة أمريكية للرياضات المائية إلى لوح SUP عالي الأداء من نوع Drop-Stitch بهيكل مخصص، وتغليف مشترك العلامة التجارية، وشهادة BSCI للبيع بالتجزئة.
-      solution: عدّلنا قالب SUP القائم بمحيط معدّل، وطوّرنا أعمال تغليف مشتركة العلامة، ووفّرنا وثائق تدقيق BSCI الكاملة.
-      result: إدراج ناجح في 3 سلاسل أمريكية كبرى للهواء الطلق. أكثر من 5,000 وحدة في السنة الأولى بمعدل بيع بلغ 98%.
-    - challenge: تطلب موزع أسترالي مجموعة SUP معتمدة CE بألوان مخصصة والامتثال للمعايير الأسترالية.
-      solution: أنتجنا عينات ما قبل الإنتاج بـ 4 خيارات ألوان ونسّقنا اختبار الامتثال من طرف ثالث.
-      result: إطلاق مجموعة SUP من 3 طرازات في سوق AU/NZ. تلاها الفوز بمناقصة حكومية لـ 12 لوح SUP للدوريات.
+    - challenge: European outdoor retailer needed a private-label pool line with unique deck graphics, eco-friendly PVC, and retail-ready packaging — all delivered in 60 days.
+      solution: Developed custom digital print files, sourced REACH-compliant PVC, and compressed sampling from 3 rounds to 1 by co-locating the design team at our Qingdao factory.
+      result: 55 days from signed PO to FOB. 2,400 units across 4 SKUs. Repeat order placed before first container arrived.
+    - challenge: US watersports startup needed a high-performance drop-stitch pool with custom shape, co-branded packaging, and BSCI certification for retail placement.
+      solution: Adapted existing pool mould with modified outline, developed co-branded packaging artwork, and provided full BSCI audit documentation.
+      result: Successfully listed in 3 major US outdoor chains. 5,000+ units in first year with 98% sell-through rate.
+    - challenge: Australian distributor required a CE-certified pool range with custom colours and compliance with Australian standards.
+      solution: Produced pre-production samples with 4 colour variants and coordinated third-party compliance testing.
+      result: 3-model pool range launched in AU/NZ market. Followed by government tender win for 12 patrol pools.
+
 faq_section:
-  tagline: أسئلة شائعة
-  title: أسئلة B2B وOEM الشائعة
+  tagline: FAQ
+  title: B2B & OEM Frequently Asked Questions
   questions:
-    - q: ما هي الكمية الدنيا للطلب (MOQ) للوحات SUP القابلة للنفخ OEM؟
-      a: تبدأ الكمية الدنيا للطلب من 5–10 وحدات للطرازات القياسية OEM. وتتطلب القوالب المخصصة والمشاريع الخاصة بعلامة تجارية حداً أدنى من 200 وحدة حسب التعقيد. ويتوفر طلبات تجريبية ودفعات عينات لإطلاق العلامات التجارية الجديدة.
-    - q: هل تحمل أفارير شهادة BSCI؟
-      a: نعم. يحتفظ مصنعنا بشهادة الامتثال الاجتماعي BSCI سارية (تقرير التدقيق متاح عند الطلب). كما نحمل شهادة ISO 9001 لإدارة الجودة وتحمل جميع المنتجات شهادة CE. وتُقدم وثائق الامتثال لـ REACH وRoHS مع كل شحنة OEM.
-    - q: ما هي المدة القياسية للتسليم لأمر OEM؟
-      a: مدة التسليم القياسية هي 30–45 يوماً من تأكيد أمر الشراء ودفع العربون لإنتاج OEM بالجملة. ويضيف تطوير القوالب المخصصة 15–20 يوماً لأعمال أدوات القوالب. ويتوفر إنتاج معجّل للطلبات العاجلة وذروات المواسم الموسمية. وتُشحن عينات النماذج الأولية عادةً خلال 15–20 يوماً.
-    - q: هل يمكنكم الشحن FOB تشينغداو أو CIF إلى مينائنا؟
-      a: نعم. نشحن FOB تشينغداو، وCIF إلى الموانئ العالمية الرئيسية، وDDP للشركاء المؤهلين. ويدير فريق اللوجستيات لدينا حجز الحاويات ووثائق التصدير والتخليص الجمركي. ونشحن إلى أكثر من 50 دولة عبر أسواق الاتحاد الأوروبي والولايات المتحدة وأستراليا وآسيا.
-b2b_moq: 'الكمية الدنيا القياسية: 5–10 وحدة لكل طراز. نرحب بالطلبات التجريبية لشراكات جديدة.'
+    - q: What is the minimum order quantity (MOQ) for OEM inflatable pools?
+      a: Samples and trial orders start at 5–10 units. Standard production MOQ is 50 units. Custom moulds and private-label projects require a minimum of 200 units depending on complexity.
+    - q: Does olagoon hold BSCI certification?
+      a: Yes. Our factory maintains valid BSCI social compliance certification (audit report available on request). We also hold ISO 9001 for quality management and all products carry CE certification. REACH and RoHS compliance documentation provided with every OEM shipment.
+    - q: What is the typical lead time for an OEM order?
+      a: Production runs take 12–16 weeks for 50–100 units, 10–14 weeks for 300–1,000 units, and 8–12 weeks above 1,000 units, from confirmed PO and deposit to FOB Qingdao. Custom mould development adds 15–20 days for tooling. Expedited production is available for urgent orders and seasonal rushes. Prototype samples typically ship within 15–20 days.
+    - q: Can you ship FOB Qingdao or CIF to our port?
+      a: Yes. We ship FOB Qingdao, CIF major global ports, and DDP for qualified partners. Our logistics team manages container booking, export documentation, and customs clearance. We ship to 50+ countries across EU, US, AU, and Asia markets.
+
+b2b_moq: 'Samples from 5–10 units. Standard production MOQ: 50 units per model.'
+
 production_flow:
-  tagline: تدفق الإنتاج
-  title: من المادة الخام إلى اللوح الجاهز
-  subtitle: يمر كل لوح بست مراحل إنتاج مع نقاط فحص لمراقبة الجودة في كل خطوة. لا اختصارات، ولا فحوصات متخطاة.
+  tagline: Production Flow
+  title: From Material to Finished Pool
+  subtitle: Every pool passes through 6 production stages with QC checkpoints at every step. No shortcuts, no skipped inspections.
   stages:
     - stage: '01'
-      title: استلام المواد وفحص الجودة الواردة
-      description: تُسجَّل جميع المواد الواردة برقم الدفعة/القطعة في نظام ERP لدينا، وتُعزل لفات قماش PVC، ونوى تقنية Drop-Stitch، والصمامات، والمواد اللاصقة، والمعدات حتى اعتماد مراقبة الجودة.
-      qc_check: قوة الشد (ASTM D751)، مقاومة التمزق (ISO 4674)، مقياس السُمك، لزوجة المادة اللاصقة، الفحص البصري للعيوب
-      qc_threshold: اختبار 100% من الدفعات. يُرفض المنتج إذا كانت مقاومة الشد أقل من 90% من المواصفة، أو مقاومة التمزق أقل من الحد الأدنى للمواصفة، أو وُجد أي عيب بصري
-      responsibility: فريق مراقبة الجودة الوارد (3 مفتشين)
+      title: Material Receiving & Incoming QC
+      description: 'All incoming materials are logged by batch/lot number in our ERP system. PVC fabric rolls, drop-stitch cores, valves, adhesives, and hardware are quarantined until QC sign-off.'
+      qc_check: 'Tensile strength (ASTM D751), tear resistance (ISO 4674), thickness gauge, adhesive viscosity, visual defect scan'
+      qc_threshold: '100% of batches tested. Reject if tensile < 90% of spec, tear < spec min, or any visual defect'
+      responsibility: Incoming QC team (3 inspectors)
     - stage: '02'
-      title: القطع باستخدام CNC وتجهيز المواد
-      description: يعمل التخطيط المُحسَّن بالكمبيوتر على ترتيب الألواح على لفائف PVC لتقليل الهدر إلى أدنى حد. وتحافظ آلات القطع CNC الأوتوماتيكية على دقة موضعية تبلغ 0.1 مم.
-      qc_check: التحقق من الأبعاد مقابل ملفات CAD DXF، وفحص جودة الحواف، والتحقق من عدد الألواح
-      qc_threshold: يتم قياس كل لوح رقم 20. التفاوت المسموح ±0.5 مم. تُرفض الدفعة إذا تجاوزت نسبة الخروج عن التفاوت 2%
-      responsibility: مشرف ورشة القص
+      title: CNC Cutting & Material Prep
+      description: 'Computer-optimized nesting lays out panels on PVC stock to minimize waste. Automatic CNC cutting machines maintain 0.1 mm positional accuracy.'
+      qc_check: 'Dimensional check against CAD DXF files, edge quality inspection, panel count verification'
+      qc_threshold: 'Every 20th panel measured. Tolerance ±0.5 mm. Reject batch if >2% out of tolerance'
+      responsibility: Cutting workshop lead
     - stage: '03'
-      title: اللحام وترابط خيوط Drop-Stitch
-      description: تُلصق قلوب الدروب-ستيتش برقائق PVC الخارجية بالتصفيح الحراري. وتُلحم حجرات الأنابيب باللحام بالترددات الراديوية أو بالهواء الساخن. أما أحزمة الحواف فتُلحم بالانصهار من ثلاث طبقات.
-      qc_check: اختبار التقشير كل 50 وحدة (ASTM D751)، وقياس عرض اللحام، ومراجعة سجل درجات حرارة الهواء الساخن، وفحص بصري للدرزات تحت الإضاءة الخلفية
-      qc_threshold: 'قوة الالتصاق: الحد الأدنى 8 N/cm. تفاوت عرض اللحام ±1 mm. أي تموّج ظاهر = رفض'
-      responsibility: مراقبة جودة اللحام (مفتشان في كل وردية)
+      title: Welding & Drop-Stitch Bonding
+      description: 'Drop-stitch cores are bonded to outer PVC laminates using heat lamination. Tube chambers are RF-welded or hot-air welded. Rail bands are triple-layer fusion bonded.'
+      qc_check: 'Peel test every 50 units (ASTM D751), weld width measurement, hot-air temperature log review, visual seam inspection under backlight'
+      qc_threshold: 'Peel strength min 8 N/cm. Weld width tolerance ±1 mm. Any visible channeling = reject'
+      responsibility: Welding QC (2 inspectors per shift)
     - stage: '04'
-      title: التجميع والتجهيز
-      description: 'تنتقل الألواح إلى التجميع النهائي حيث تُجمَّع جميع المكونات: تُلصق الحواف وتُلحم، وتُركب الصمامات، وحلقات D، والمقابض، وصناديق الزعانف، وتجهيز حقيبة الحمل. تتبع كل وحدة قائمة فحص تجميع من 100 نقطة.'
-      qc_check: اعتماد قائمة فحص من 100 نقطة لكل وحدة، واختبار وظيفة الصمام (10 دورات فتح/إغلاق)، والتحقق من عزم شد الأجهزة، والفحص البصري
-      qc_threshold: 'سياسة خلوّ من العيوب للعناصر الحرجة من حيث السلامة (الصمامات وحلقات D والمقابض). العيوب التجميلية البسيطة: AQL 2.5 (ISO 2859)'
-      responsibility: قائد فريق التجميع + مراقبة الجودة على خط الإنتاج
+      title: Assembly & Rigging
+      description: 'Pools move to final assembly where all components are mated: rails glued and welded, valves installed, D-rings, handles, drain ports, and carry bag fitting. Each unit follows a 100-point assembly checklist.'
+      qc_check: '100-point checklist sign-off per unit, valve function test (10 open/close cycles), hardware torque verification, visual inspection'
+      qc_threshold: 'Zero-defect policy on safety-critical items (valves, D-rings, handles). Minor cosmetic: AQL 2.5 (ISO 2859)'
+      responsibility: Assembly team lead + line QC
     - stage: '05'
-      title: اختبار الضغط وحجز الجودة
-      description: يُنفخ كل حجرة إلى 1.25× الضغط المقنن (عادةً 20–25 رطل/بوصة مربعة PSI) ويُحتفظ بها لمدة 24–48 ساعة، مع تسجيل مستمر من أجهزة استشعار الضغط. وتُرفض الحجرات التي تتجاوز نسبة انخفاض ضغطها 5% وتُرسل لإعادة فحص اللحامات.
-      qc_check: سجل احتباس الضغط لمدة 24–48 ساعة، معايرة الحساسات يوميًا، قراءة ضغط معوّضة عن درجة الحرارة، وإعادة اختبار اللحامات بعد الإصلاح
-      qc_threshold: انخفاض الضغط الأقصى 5% خلال 24–48 ساعة عند درجة حرارة ثابتة. أي حجرة تتجاوز هذه النسبة = إعادة اختبار كاملة بنسبة 100% لدفعة الإنتاج بأكملها
-      responsibility: مختبر الجودة (مستقل عن الإنتاج، ويرفع تقاريره مباشرة إلى الإدارة)
+      title: Pressure Testing & Quality Hold
+      description: 'Every chamber is inflated to 1.25× rated pressure (typically 20–25 PSI) and held for 24–48 hours. Pressure sensors log continuously. Chambers exceeding 5% pressure drop are rejected and sent for seam re-inspection.'
+      qc_check: '24–48h pressure hold log, sensor calibration verified daily, temperature-compensated pressure reading, seam re-test after repair'
+      qc_threshold: 'Max 5% pressure drop over 24–48h at stable temp. Any chamber exceeding this = 100% re-test of entire production batch'
+      responsibility: Quality lab (independent of production, reports to management)
     - stage: '06'
-      title: الفحص النهائي والتغليف
-      description: 'الفحص البصري والوظيفي النهائي: عيوب السطح، ثبات اللون، التحقق من الملصق/رقم BIN، سلامة التغليف، واكتمال الملحقات. تُفرَّغ الوحدات بالتفريغ الهوائي وتُعبأ في الصناديق وتوضع على منصات التحميل (الباليتات) تمهيدًا لتحميل الحاويات.'
-      qc_check: فحص بصري كامل، قائمة تحقق من الملحقات لكل وحدة SKU، اختبار سقوط التغليف (1 م، عينة عشوائية)، والتحقق من مسح الملصقات/الباركود
-      qc_threshold: AQL 2.5 للعيوب الكبرى، AQL 4.0 للعيوب الثانوية. عدم القبول بأي عيوب أمان. يتم فحص 100% من الوحدات بصريًا
-      responsibility: فريق مراقبة الجودة النهائية (4 مفتشين) + قائد فريق التغليف
+      title: Final Inspection & Packing
+      description: 'Final visual and functional inspection. Surface defects, color consistency, label/BIN verification, packaging integrity, and accessory completeness. Units are vacuum-packed, boxed, and palletized for container loading.'
+      qc_check: 'Full visual inspection, accessory checklist per SKU, packaging drop test (1 m, random sample), label/bar code scan verification'
+      qc_threshold: 'AQL 2.5 for major defects, AQL 4.0 for minor. Zero tolerance on safety defects. 100% of units visually inspected'
+      responsibility: Final QC team (4 inspectors) + Packing team lead
+
 workforce:
-  tagline: فريقنا
-  title: القوى العاملة والخبرات
+  tagline: Our People
+  title: Workforce & Expertise
   engineers: 25+
-  engineers_detail: مهندسون في مجالات البحث والتطوير وتصميم القوالب ومختبر المواد وهندسة الإنتاج، بمتوسط خبرة تتجاوز 7 سنوات في تصنيع المنتجات القابلة للنفخ.
-  shift_pattern: ورديتان يوميًا (07:00–15:30, 15:30–00:00). وردية ليلية اختيارية للطلبات العاجلة.
-  training: تدريب شهري على مراقبة الجودة، وتدريبات سلامة فصلية، وتقييم سنوي للمهارات. يكمل الموظفون الجدد برنامج تعريف مدته 40 ساعة قبل العمل على خط الإنتاج.
+  engineers_detail: 'Engineers across R&D, mold design, materials lab, and production engineering. Average 7+ years in inflatable manufacturing.'
+  shift_pattern: '2 shifts/day (07:00–15:30, 15:30–00:00). Optional night shift for urgent orders.'
+  training: 'Monthly QC training, quarterly safety drills, annual skills assessment. New hires complete 40-hour induction before working on production line.'
   departments:
     - name: R&D & Engineering
       count: 25+
-      role: تصميم المنتج، وهندسة القوالب، ومختبر المواد
+      role: Product design, mold engineering, materials lab
     - name: Cutting & Material Prep
       count: 15
-      role: القطع بالتحكم الرقمي CNC، تجهيز الألواح، مناولة المواد
+      role: CNC cutting, panel preparation, material handling
     - name: Welding & Lamination
       count: 40
-      role: اللحام بترددات الراديو (RF)، اللحام بالهواء الساخن، ولصق القماش الخيطي (Drop-Stitch)
-    - name: SUP Core Bonding
+      role: RF welding, hot-air welding, drop-stitch bonding
+    - name: pool Core Bonding
       count: 30
-      role: تصفيح الدروب-ستيتش (Drop-stitch)، اللحام الحراري، دمج شرائط الحواف
+      role: Drop-stitch lamination, heat bonding, rail band fusion
     - name: Assembly & Rigging
       count: 35
-      role: التجميع النهائي، تركيب الأجزاء الميكانيكية، فحص الأنظمة
+      role: Final assembly, hardware installation, systems check
     - name: Quality Control
       count: 12
-      role: مراقبة الجودة عند الاستلام، ومراقبة الجودة أثناء التصنيع، والفحص النهائي، والاختبارات المخبرية
+      role: Incoming QC, in-process QC, final inspection, lab testing
     - name: Logistics & Packing
       count: 20
-      role: التغليف، وتحميل الحاويات، ومستندات التصدير
+      role: Packaging, container loading, export documentation
     - name: Management & Admin
       count: 15
-      role: المبيعات، المشتريات، الموارد البشرية، المالية، الامتثال
+      role: Sales, procurement, HR, finance, compliance
+
 material_traceability:
-  tagline: إمكانية التتبع
-  title: تتبع المواد والتحكم في الدفعات
-  description: تُخصص لكل دفعة من المواد الخام رقم دُفعة فريد في نظام ERP لدينا. ومن لحظة الاستلام عبر الإنتاج حتى المنتج النهائي، ترتبط قائمة مكونات كل لوح بدُفعة المورد الأصلية. يتيح ذلك تتبعًا كاملًا للسلاسل الإمدادية لأي استفسار يتعلق بالجودة أو الامتثال.
-  system: نظام ERP مخصص (النظام الداخلي لمجموعة تشينغداو فاتراد) + بطاقات دفعات مادية على كل أمر عمل
-  coverage: 100% من مواد الإنتاج — PVC، وأقمشة drop-stitch، والمواد اللاصقة، والصمامات، والتجهيزات، والتغليف
-  records_retained: 10 سنوات (وفقًا لمتطلبات CE 2013/53/EU)
+  tagline: Traceability
+  title: Material Tracking & Batch Control
+  description: Every batch of raw material is assigned a unique lot number in our ERP system. From arrival through production to the finished product, each pool's bill of materials links back to the original supplier batch. This enables full upstream traceability for any quality or compliance inquiry.
+  system: Custom ERP (Qingdao Vatrad Group internal system) + physical batch tags on each work order
+  coverage: 100% of production materials — PVC, drop-stitch fabric, adhesives, valves, hardware, packaging
+  records_retained: 10 years (per CE 2013/53/EU requirement)
   suppliers:
-    - material: PVC من الدرجة البحرية
-      source: موردون صينيون وكوريون
-      certified: ISO 9001، REACH، RoHS
-    - material: قماش Drop-stitch
-      source: نسيج داخلي + شريك خارجي
-      certified: مراقبة جودة داخلية + موردون معتمدون ISO 9001
-    - material: الصمامات والتركيبات
-      source: موردو OEM الصينيون
-      certified: ISO 9001، شهادات المواد لكل دفعة
+    - material: Marine-grade PVC
+      source: Chinese and Korean suppliers
+      certified: ISO 9001, REACH, RoHS
+    - material: Drop-stitch fabric
+      source: In-house weaving + external partner
+      certified: Internal QC + supplier ISO 9001
+    - material: Valves & Hardware
+      source: Chinese OEM suppliers
+      certified: ISO 9001, material certs per batch
+
 qc_dashboard:
-  tagline: مراقبة الجودة بالأرقام
-  title: مؤشرات مراقبة الجودة
-  subtitle: بيانات اجتياز/رسوب فعلية من خط الإنتاج. يعمل مختبر الجودة بشكل مستقل عن الإنتاج ويبلّغ مباشرةً للإدارة.
+  tagline: QC by the Numbers
+  title: Quality Control Metrics
+  subtitle: Real pass/fail data from our production line. Our quality lab operates independently from production and reports directly to management.
   stats:
     - value: 100%
-      label: وحدات خضعت لاختبار الضغط
-      detail: كل لوح، كل حجرة، كل دفعة إنتاج
-    - value: <5%
-      label: أقصى انخفاض مسموح به في الضغط
-      detail: خلال 24–48 ساعة عند 1.25× الضغط الاسمي
+      label: Units pressure-tested
+      detail: Every pool, every chamber, every batch
+    - value: '<5%'
+      label: Max allowable pressure drop
+      detail: Over 24–48h at 1.25× rated pressure
     - value: AQL 2.5
-      label: حد العيوب الرئيسية
-      detail: وفقًا لمعيار أخذ العينات ISO 2859
-    - value: 24–48 ساعة
-      label: مدة احتباس الضغط
-      detail: حسب فئة المنتج
+      label: Major defect threshold
+      detail: Per ISO 2859 sampling standard
+    - value: 24–48h
+      label: Pressure hold duration
+      detail: Depending on product category
     - value: 1.25×
-      label: ضغط الاختبار مقابل الضغط الاسمي
-      detail: هامش أمان في كل حجرة
+      label: Test pressure vs rated
+      detail: Safety margin on every chamber
     - value: 0%
-      label: التسامح مع عيوب السلامة
-      detail: الصمامات، حلقات D، اللحامات، الطفو
+      label: Tolerance on safety defects
+      detail: Valves, D-rings, seams, buoyancy
+
 process_cta:
-  title: شاهد عملية التصنيع لدينا
-  desc: تابع اللوح عبر كل مراحل الإنتاج — من المواد الخام إلى لوح جاهز للماء.
-  label: عرض عملية الإنتاج →
+  title: See our manufacturing process
+  desc: Follow a pool through every stage of production — from raw material to backyard-ready pool.
+  label: View production process →
   link: /factory/process/

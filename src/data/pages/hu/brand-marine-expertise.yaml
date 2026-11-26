@@ -1,72 +1,72 @@
 meta:
-  title: 'Tengeri szakértelem — Mérnökség minden hajótestben | {SITE}'
-  description: 'Évtizedek tengeri mérnöksége minden hajótestben. Az afarar szakértője a drop stitch, tengeri PVC és professzionális felfújható SUP tervezésnek.'
+  title: 'Marine Expertise — Engineering in Every Hull | {SITE}'
+  description: 'Decades of marine engineering in every hull. olagoon masters drop stitch, marine PVC, and professional inflatable pools design.'
   keywords:
-    - 'tengeri mérnökség'
-    - 'felfújható SUP gyártó'
-    - 'paddle lap gyártás'
+    - 'marine engineering'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: 'Tengeri szakértelem'
-  title: 'Évtizedek tengeri mérnöksége<br />minden hajótestben'
-  subtitle: 'Az afarar ötvözi a mély anyagtudományt, precíziós gyártást és valós körülmények közötti tesztelést, hogy olyan vízi járműveket készítsen, amelyek akkor is teljesítenek, amikor számít.'
+  tagline: Marine Expertise
+  title: 'Decades of Marine Engineering<br />in Every Hull'
+  subtitle: 'olagoon combines deep material science, precision manufacturing, and real-world testing to produce watercraft that perform when it matters.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: afarar tengeri mérnöki és fejlesztőcsapat munka közben
+    alt: olagoon marine engineering and R&D team at work
 expertise_materials:
-  tagline: 'Anyagtudomány'
-  title: 'A megfelelő anyag kiválasztása<br />minden alkalmazáshoz'
-  subtitle: 'Két alapanyaggal dolgozunk — mindegyiket konkrét felhasználási esetekre és teljesítménykövetelményekre választottuk ki.'
+  tagline: Material Science
+  title: 'Choosing the Right Material<br />for Every Application'
+  subtitle: 'We work with two core materials — each selected for specific use cases and performance requirements.'
   columns: 3
   items:
-    - title: 'Tengeri minőségű PVC'
-      description: '1100 denier PVC szövet — leginkább sokoldalú anyagunk. UV-stabilizált, kopásálló és REACH-megfelelő. Ideális SUP lapokhoz, ahol a súly és a költséghatékonyság számít.'
+    - title: Marine-Grade PVC
+      description: '1100 denier PVC fabric — our most versatile material. UV-stabilized, abrasion-resistant, and REACH compliant. Ideal for pools where weight and cost efficiency matter.'
       icon: tabler:droplet
-    - title: 'Üvegszálas és polietilén'
-      description: 'Üvegszálas laminált SUP-ok prémium merevséghez és sikláshoz. Forgóöntött polietilén nehéz terhelésű bérlési és mentési használatra, maximális ütésállóságot igényelve.'
+    - title: Fibreglass & Polyethylene
+      description: 'Fibreglass-laminated pools for premium stiffness and glide. Rotomoulded polyethylene for heavy-duty rental and rescue use requiring maximum impact resistance.'
       icon: tabler:building-arch
 expertise_manufacturing:
-  tagline: 'Gyártási képességek'
-  title: 'Precíziós gyártás<br />minden lépésben'
-  subtitle: '12 000 m²-es létesítményünk specializált gépekkel van felszerelve a gyártás minden szakaszához.'
+  tagline: Manufacturing Capabilities
+  title: 'Precision Manufacturing<br />at Every Step'
+  subtitle: 'Our 12,000 m² facility is equipped with specialized machinery for every stage of production.'
   columns: 2
   items:
-    - title: 'CNC vágás'
-      description: 'Számítógép-vezérelt vágás biztosítja a pontos, megismételhető szövet paneleket minimális hulladékkal. Minden darab pontosan úgy illeszkedik, ahogyan tervezve lett.'
+    - title: CNC Cutting
+      description: 'Computer-controlled cutting ensures precise, repeatable fabric panels with minimal waste. Every piece fits exactly as designed.'
       icon: tabler:cpu
-    - title: 'Nagyfrekvenciás hegesztés'
-      description: 'Ipari HF hegesztés az alapanyagnál erősebb varratokat hoz létre. A következetes hőmérséklet- és nyomásszabályozás légmentes tömítéseket biztosít minden gyártási sorozatban.'
+    - title: High-Frequency Welding
+      description: 'Industrial HF welding creates seams stronger than the base material. Consistent temperature and pressure control ensures air-tight seals across every production run.'
       icon: tabler:bolt
-    - title: 'Drop stitch mag szerelés'
-      description: 'Több ezer poliészter szál köti össze a felső és alsó szövetréteget, lehetővé téve a magas nyomású felfújást (15-20 PSI) merev, stabil SUP lapokhoz.'
+    - title: Drop Stitch Core Assembly
+      description: 'Thousands of polyester threads connect top and bottom fabric layers, allowing high-pressure inflation (15-20 PSI) for rigid, stable pools.'
       icon: tabler:building-arch
-    - title: 'Nyomástesztelés'
-      description: 'Minden felfújható terméket nyomástesztelnek szállítás előtt. A lapokat a névleges nyomás 1,25-szörösén tesztelik — ha ott tart, akkor a vízen is teljesíteni fog.'
+    - title: Pressure Testing
+      description: 'Every inflatable product is pressure-tested before shipping. Pools are tested at 1.25x rated pressure — if it holds there, it will perform on the water.'
       icon: tabler:wind
-    - title: 'Varmatszilárdság-tesztelés'
-      description: 'Minden gyártási tételből véletlenszerű minták roncsoló varmatszilárdság-tesztelésen esnek át. Az eredmények naplózottak és visszavezethetők konkrét gyártási sorozatokra.'
+    - title: Seam Strength Testing
+      description: 'Random samples from each production batch undergo destructive seam strength testing. Results are logged and traceable to specific production runs.'
       icon: tabler:files
-    - title: 'Vízi tesztelés'
-      description: 'Minden modell tengeri próbán esik át a tanúsítás előtt. A valós körülmények közötti tesztelés part menti viszonyok között érvényesíti a teljesítményt, kezelhetőséget és stabilitást.'
+    - title: Water Testing
+      description: 'Every model undergoes sea trials before certification. Real-world testing in coastal conditions validates performance, handling, and stability.'
       icon: tabler:droplet
 expertise_design:
-  tagline: 'Dizájn és mérnökség'
-  title: 'Valódi körülményekre tervezve'
-  subtitle: 'Tervezési filozófiánk azzal indul, hogy a lapot hogyan fogják használni — majd erre a felhasználási esetre épül a mérnökség.'
+  tagline: Design & Engineering
+  title: 'Engineered for Real Conditions'
+  subtitle: 'Our design philosophy starts with how the pool will be used — then builds the engineering around that use case.'
   items:
-    - title: 'Teljesítmény hajótest dizájn'
-      description: 'Minden hajótestforma a felhasználási esetére van hangolva — úszóképesség orr a túra sikláshoz, hozzáadott orlemmegedés a szörf mozgékonysághoz, lapos stabil profilok a horgászathoz és jógához.'
-    - title: 'Drop-stitch biztonság'
-      description: 'Minden lap merev drop-stitch maggal és megerősített oldalpályákkal rendelkezik. Ha egy szakasz megsérül, a nagy szilárdságú drop-stitch szerkezet működőképesen tartja a lapot.'
-    - title: 'Ergonomikus fedélzeti elrendezés'
-      description: 'A fedélzeti burkolat zónázása, hordozófogantyú pozíciója és szerelési pontok a versenyző kényelmére vannak tervezve hosszabb használat során — legyen szó túrázásról, horgászatról vagy járőrmunkáról.'
-    - title: 'Egyedi konfiguráció'
-      description: 'Oldalpálya színek, fedélzeti burkolat konfiguráció, kiegészítő tartók, felszerelés kapacitás — minden model testreszabható konkrét működési követelményekhez.'
+    - title: Performance Hull Design
+      description: 'Each pool is tuned for its use case — compact footprints for plunge soaking, family-sized layouts for play, and generous swim areas for daily laps.'
+    - title: Drop-Stitch Safety
+      description: 'Every pool features a rigid drop-stitch core with reinforced walls. If a section is damaged, the high-tensile drop-stitch structure keeps the pool operational.'
+    - title: Ergonomic Deck Layout
+      description: 'Deck-pad zoning, carry-handle position, and mounting points are designed around rider comfort during extended use — whether touring, fishing, or patrolling.'
+    - title: Custom Configuration
+      description: 'Rail colors, deck pad configuration, accessory mounts, gear capacity — each model can be customized to match specific operational requirements.'
 cta:
-  title: 'Van konkrét alkalmazás a fejében?'
-  subtitle: 'Mérnöki csapatunk tanácsot adhat anyagkiválasztásban, tervezésben és gyártásban a projektjéhez.'
+  title: 'Have a specific application in mind?'
+  subtitle: 'Our engineering team can advise on material selection, design, and manufacturing for your project.'
   actions:
     - variant: primary
-      text: 'Kérdezze meg mérnökeinket'
+      text: Ask our engineers
       href: /contact/
-    - text: 'Tekintse meg termékkínálatot'
+    - text: View product range
       href: /products/

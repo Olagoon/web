@@ -1,99 +1,99 @@
 meta:
-  title: 'Komercinio pasiūlymo užklausa — OEM SUP gamyba | {SITE}'
-  description: 'Pateikite išsamią komercinio pasiūlymo užklausą savo pripučiamų SUP lentų projektui. OEM/ODM gamyba, privatus ženklas arba individualios flotilės — atsakome per 2 darbo dienas.'
+  title: 'Request a Quotation — OEM pool Manufacturing | {SITE}'
+  description: 'Request a detailed quotation for your inflatable pools project. OEM/ODM manufacturing, private label, or custom fleets — we respond within 2 business days.'
   keywords:
-    - 'sup pasiūlymo užklausa'
-    - 'oem irklavimo lentos pasiūlymas'
-    - 'sup gamyklos komercinis pasiūlymas'
-    - 'pripučiamų sup kaina'
+    - 'request pool quote'
+    - 'oem inflatable pool quote'
+    - 'pool factory quotation'
+    - 'inflatable pools price'
 hero_text:
-  tagline: 'Gauti pasiūlymą'
-  title: 'Pateikite komercinio pasiūlymo užklausą<br />savo projektui'
-  subtitle: 'Papasakokite apie savo reikalavimus, o mūsų komanda per 2 darbo dienas atsakys išsamiais komerciniais pasiūlymais.'
+  tagline: Get a Quote
+  title: 'Request a Quotation<br />for Your Project'
+  subtitle: 'Tell us about your requirements and our team will respond with a detailed quotation within 2 business days.'
 steps2_process:
-  title: 'Kaip tai veikia'
-  subtitle: 'Keturi paprasti žingsniai nuo užklausos iki pasiūlymo.'
+  title: How It Works
+  subtitle: 'Four simple steps from inquiry to quotation.'
   items:
-    - title: '1 žingsnis: Pateikite savo reikalavimus'
-      description: 'Užpildykite toliau esančią formą su produkto tipu, kiekiu ir specifikacijomis. Kuo daugiau detalių pateiksite, tuo tikslesnis bus pasiūlymas.'
+    - title: 'Step 1: Submit Your Requirements'
+      description: 'Fill out the form below with your product type, quantity, and specifications. The more detail you provide, the more accurate your quotation.'
       icon: tabler:file-text
-    - title: '2 žingsnis: Peržiūrime ir patariame'
-      description: 'Mūsų inžinerijos komanda peržiūri jūsų reikalavimus ir gali susisiekti su jumis dėl patikslinimų. Pateikiame rekomendacijas dėl produkto konfigūracijos ir parinkčių.'
+    - title: 'Step 2: We Review & Advise'
+      description: 'Our engineering team reviews your requirements and may contact you for clarification. We provide recommendations on product configuration and options.'
       icon: tabler:users
-    - title: '3 žingsnis: Gauti pasiūlymą'
-      description: 'Gaunate išsamų komercinį pasiūlymą, apimantį vieneto kainą, MOQ, gamybos terminą, mokėjimo sąlygas ir siuntimo parinktis. Paprastai per 48 valandas.'
+    - title: 'Step 3: Receive Your Quote'
+      description: 'You receive a detailed quotation including unit pricing, MOQ, lead time, payment terms, and shipping options. Typically within 48 hours.'
       icon: tabler:currency-dollar
-    - title: '4 žingsnis: Pavyzdys ir gamyba'
-      description: 'Priėmus pasiūlymą pereiname prie pavyzdžių gamybos (jei taikoma) arba tiesiogiai prie serijinės gamybos. Reguliarūs atnaujinimai viso proceso metu.'
+    - title: 'Step 4: Sample & Production'
+      description: 'After quote acceptance, we proceed to sample production (if applicable) or directly to mass production. Regular updates throughout the process.'
       icon: tabler:building-factory
 content_form:
-  tagline: 'Pasiūlymo forma'
-  title: 'Papasakokite apie savo projektą'
-  subtitle: 'Visi laukai su * yra privalomi.'
+  tagline: Quotation Form
+  title: 'Tell Us About Your Project'
+  subtitle: 'All fields with * are required.'
   contact_fields:
-    firstName: 'Vardas'
-    lastName: 'Pavardė'
-    companyName: 'Įmonės pavadinimas'
-    email: 'El. paštas'
+    firstName: First Name
+    lastName: Last Name
+    companyName: Company Name
+    email: E-mail
   fields:
-    - name: 'Produkto kategorija'
+    - name: Product Category
       type: select
       options:
-        - 'SUP lenta'
-        - 'Pripučiama SUP'
-        - 'Pripučiama SUP lenta'
-        - 'Gelbėjimosi liemenė'
-        - 'Jūrinis priedas'
-        - 'Individualus OEM/ODM'
-    - name: 'Taikymas'
+        - pools
+        - inflatable pools
+        - inflatable pools
+        - Thermal Cover
+        - Marine Accessory
+        - Custom OEM/ODM
+    - name: Application
       type: select
       options:
-        - 'Nardymo centras'
-        - 'Žvejyba'
-        - 'Jūrinis turizmas / kurortas'
-        - 'Paieška ir gelbėjimas'
-        - 'Vyriausybinė / karinė'
-        - 'OEM / privatus ženklas'
-        - 'Asmeninis / poilsis'
-        - 'Kita'
-    - name: 'Kiekis'
+        - Diving Center
+        - Fishing
+        - Marine Tourism / Resort
+        - Search & Rescue
+        - Government / Military
+        - OEM / Private Label
+        - Personal / Recreational
+        - Other
+    - name: Quantity
       type: text
-      placeholder: 'pvz., 50 vienetų'
-    - name: 'Tikslinė rinka'
+      placeholder: e.g. 50 units
+    - name: Target Market
       type: text
-      placeholder: 'pvz., Europa, Šiaurės Amerika, Artimieji Rytai'
-    - name: 'Pristatymo šalis'
+      placeholder: e.g. Europe, North America, Middle East
+    - name: Delivery Country
       type: text
-      placeholder: 'pvz., Italija, JAE, JAV, Australija'
-    - name: 'Medžiagų pageidavimas'
+      placeholder: e.g. Italy, UAE, USA, Australia
+    - name: Material Preference
       type: select
       options:
-        - 'Nėra pageidavimų'
-        - 'Jūrinės klasės PVC (1100 dtex)'
-        - 'Stiklo pluošto korpusas'
-        - 'Aliuminio korpusas'
-    - name: 'Variklio reikalavimas'
+        - No Preference
+        - Marine-Grade PVC (1100 dtex)
+        - Fiberglass Hull
+        - Aluminum Hull
+    - name: Engine Requirement
       type: text
-      placeholder: 'pvz., standartinė irklo konfigūracija, elektrinis siurblys, individualios spalvos'
-    - name: 'Reikalingas individualizavimas'
+      placeholder: e.g. standard filtration package, electric pump, custom colors
+    - name: Customization Required
       type: text
-      placeholder: 'pvz., individualios spalvos, ženklinimas/logotipas, pakavimas, speciali furnitūra'
-    - name: 'Laiko grafikas'
+      placeholder: e.g. custom colors, branding/logo, packaging, special fittings
+    - name: Timeline
       type: text
-      placeholder: 'pvz., pristatymas per 90 dienų'
-    - name: 'Papildomi reikalavimai'
+      placeholder: e.g. delivery within 90 days
+    - name: Additional Requirements
       type: textarea
-      placeholder: 'Aprašykite savo taikymą, technines specifikacijas arba specialius reikalavimus — jei turite, pridėkite orientacinius brėžinius, specifikacijas arba nuorodas'
-    - name: 'Specifikacijos įkėlimas'
+      placeholder: Describe your application, technical specifications, or any special requirements — include reference drawings, specifications, or links if available
+    - name: Upload Specification
       type: file
-      placeholder: 'Įkelkite savo specifikacijų lapą, brėžinį arba orientacinį dokumentą (PDF, DWG, DXF)'
-    - name: 'Logotipo / grafinio darbo įkėlimas'
+      placeholder: Upload your spec sheet, drawing, or reference document (PDF, DWG, DXF)
+    - name: Upload Logo / Artwork
       type: file
-      placeholder: 'Įkelkite savo logotipą arba grafinį darbą individualiam ženklinimui (AI, EPS, PNG)'
+      placeholder: Upload your logo or artwork for custom branding (AI, EPS, PNG)
 cta:
-  title: 'Labiau norite aptarti el. paštu?'
-  subtitle: 'Atsiųskite savo užklausą tiesiogiai mūsų pardavimų komandai, o mes atsakysime per 24 valandas.'
+  title: 'Prefer to discuss by email?'
+  subtitle: 'Send your inquiry directly to our sales team and we will respond within 24 hours.'
   actions:
     - variant: primary
-      text: 'Rašykite mums tiesiogiai'
+      text: Email us directly
       href: /contact/

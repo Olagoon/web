@@ -1,72 +1,72 @@
 meta:
-  title: 'Поморска стручност — Инжењеринг у сваком трупу | {SITE}'
-  description: 'Декеније поморског инжењерства у сваком трупу. olagoon влада drop stitch технологијом, поморским PVC-ом и професионалним дизајном надувних SUP дасака.'
+  title: 'Marine Expertise — Engineering in Every Hull | {SITE}'
+  description: 'Decades of marine engineering in every hull. olagoon masters drop stitch, marine PVC, and professional inflatable pools design.'
   keywords:
-    - 'поморски инжењеринг'
-    - 'произвођач надувних SUP дасака'
-    - 'производња дасака за веслање'
+    - 'marine engineering'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: 'Поморска стручност'
-  title: 'Декеније поморског инжењерства<br />у сваком трупу'
-  subtitle: 'olagoon комбинује дубоку науку о материјалима, прецизну производњу и тестирање у стварним условима како би произвео пловила која имају перформансе када је најважније.'
+  tagline: Marine Expertise
+  title: 'Decades of Marine Engineering<br />in Every Hull'
+  subtitle: 'olagoon combines deep material science, precision manufacturing, and real-world testing to produce watercraft that perform when it matters.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: 'olagoon поморски инжењерски и R&D тим на раду'
+    alt: olagoon marine engineering and R&D team at work
 expertise_materials:
-  tagline: 'Наука о материјалима'
-  title: 'Избор правог материјала<br />за сваку примену'
-  subtitle: 'Радимо са два кључна материјала — сваки одабран за конкретне случајеве употребе и захтеве перформанси.'
+  tagline: Material Science
+  title: 'Choosing the Right Material<br />for Every Application'
+  subtitle: 'We work with two core materials — each selected for specific use cases and performance requirements.'
   columns: 3
   items:
-    - title: 'Поморски PVC'
-      description: 'PVC тканина од 1100 денера — наш најсвестранији материјал. UV стабилизована, отпорна на хабање и у складу са REACH. Идеална за SUP даске где су тежина и исплативост важни.'
+    - title: Marine-Grade PVC
+      description: '1100 denier PVC fabric — our most versatile material. UV-stabilized, abrasion-resistant, and REACH compliant. Ideal for pools where weight and cost efficiency matter.'
       icon: tabler:droplet
-    - title: 'Фиберглас и полиетилен'
-      description: 'SUP даске ламиниране фибергласом за премиум крутост и клизање. Ротационо обликован полиетилен за тешку употребу у изнајмљивању и спасавању која захтева максималну отпорност на удар.'
+    - title: Fibreglass & Polyethylene
+      description: 'Fibreglass-laminated pools for premium stiffness and glide. Rotomoulded polyethylene for heavy-duty rental and rescue use requiring maximum impact resistance.'
       icon: tabler:building-arch
 expertise_manufacturing:
-  tagline: 'Производни капацитети'
-  title: 'Прецизна производња<br />у сваком кораку'
-  subtitle: 'Наш објекат од 12,000 m² опремљен је специјализованом машинеријом за сваку фазу производње.'
+  tagline: Manufacturing Capabilities
+  title: 'Precision Manufacturing<br />at Every Step'
+  subtitle: 'Our 12,000 m² facility is equipped with specialized machinery for every stage of production.'
   columns: 2
   items:
-    - title: 'CNC сечење'
-      description: 'Рачунарски контролисано сечење обезбеђује прецизне, поновљиве панеле тканине са минималним отпадом. Сваки део уклапа се тачно како је дизајнирано.'
+    - title: CNC Cutting
+      description: 'Computer-controlled cutting ensures precise, repeatable fabric panels with minimal waste. Every piece fits exactly as designed.'
       icon: tabler:cpu
-    - title: 'Заваривање високе фреквенције'
-      description: 'Индустријско HF заваривање ствара шавове јаче од основног материјала. Доследна контрола температуре и притиска обезбеђује непропусне заптивке у свакој производној серији.'
+    - title: High-Frequency Welding
+      description: 'Industrial HF welding creates seams stronger than the base material. Consistent temperature and pressure control ensures air-tight seals across every production run.'
       icon: tabler:bolt
-    - title: 'Монтажа drop-stitch језгра'
-      description: 'Хиљаде полиестарских конца повезује горње и доње слојеве тканине, омогућавајући надувавање под високим притиском (15-20 PSI) за круте, стабилне SUP даске.'
+    - title: Drop Stitch Core Assembly
+      description: 'Thousands of polyester threads connect top and bottom fabric layers, allowing high-pressure inflation (15-20 PSI) for rigid, stable pools.'
       icon: tabler:building-arch
-    - title: 'Тестирање притиска'
-      description: 'Сваки надувни производ тестира се на притисак пре отпреме. Даске се тестирају на 1.25x номиналног притиска — ако издржи тамо, издржаће на води.'
+    - title: Pressure Testing
+      description: 'Every inflatable product is pressure-tested before shipping. Pools are tested at 1.25x rated pressure — if it holds there, it will perform on the water.'
       icon: tabler:wind
-    - title: 'Тестирање чврстоће шавова'
-      description: 'Случајни узорци из сваке производне серије пролазе деструктивно тестирање чврстоће шавова. Резултати се бележе и могу се пратити до конкретних производних серија.'
+    - title: Seam Strength Testing
+      description: 'Random samples from each production batch undergo destructive seam strength testing. Results are logged and traceable to specific production runs.'
       icon: tabler:files
-    - title: 'Тестирање на води'
-      description: 'Сваки модел пролази испитивање на мору пре сертификације. Тестирање у стварним обалским условима потврђује перформансе, понашање и стабилност.'
+    - title: Water Testing
+      description: 'Every model undergoes sea trials before certification. Real-world testing in coastal conditions validates performance, handling, and stability.'
       icon: tabler:droplet
 expertise_design:
-  tagline: 'Дизајн и инжењерство'
-  title: 'Конструисано за стварне услове'
-  subtitle: 'Наша филозофија дизајна полази од тога како ће се даска користити — а затим гради инжењерство око тог случаја употребе.'
+  tagline: Design & Engineering
+  title: 'Engineered for Real Conditions'
+  subtitle: 'Our design philosophy starts with how the pool will be used — then builds the engineering around that use case.'
   items:
-    - title: 'Дизајн перформансних трупова'
-      description: 'Сваки облик трупа подешен је за своју намену — прамци за истиснину ради клизања на турингу, додатни rocker за агилност на таласима, равни стабилни профили за риболов и јогу.'
-    - title: 'Drop-stitch безбедност'
-      description: 'Свака даска има круто drop-stitch језгро са ојачаним рубовима. Ако је неки део оштећен, високо затезна drop-stitch структура одржава даску употребљивом.'
-    - title: 'Ергономски распоред палубе'
-      description: 'Зонирање подлоге палубе, положај ручке за ношење и тачке монтаже дизајнирани су око удобности возача током дуге употребе — било да је реч о турингу, риболову или патроли.'
-    - title: 'Прилагођена конфигурација'
-      description: 'Боје рубова, конфигурација подлоге палубе, носачи опреме, капацитет терета — сваки модел се може прилагодити специфичним оперативним захтевима.'
+    - title: Performance Hull Design
+      description: 'Each pool is tuned for its use case — compact footprints for plunge soaking, family-sized layouts for play, and generous swim areas for daily laps.'
+    - title: Drop-Stitch Safety
+      description: 'Every pool features a rigid drop-stitch core with reinforced walls. If a section is damaged, the high-tensile drop-stitch structure keeps the pool operational.'
+    - title: Ergonomic Deck Layout
+      description: 'Deck-pad zoning, carry-handle position, and mounting points are designed around rider comfort during extended use — whether touring, fishing, or patrolling.'
+    - title: Custom Configuration
+      description: 'Rail colors, deck pad configuration, accessory mounts, gear capacity — each model can be customized to match specific operational requirements.'
 cta:
-  title: 'Имате ли конкретну примену на уму?'
-  subtitle: 'Наш инжењерски тим може саветовати о избору материјала, дизајну и производњи за ваш пројекат.'
+  title: 'Have a specific application in mind?'
+  subtitle: 'Our engineering team can advise on material selection, design, and manufacturing for your project.'
   actions:
     - variant: primary
-      text: 'Питајте наше инжењере'
+      text: Ask our engineers
       href: /contact/
-    - text: 'Погледајте асортиман производа'
+    - text: View product range
       href: /products/

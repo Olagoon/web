@@ -1,72 +1,72 @@
 meta:
-  title: 'Partnerek — Disztribúció és nagykereskedelem | {SITE}'
-  description: 'Legyen afarar partner: disztribúciós hálózatok, nagykereskedelmi árazás, OEM/saját márka programok és támogatás paddle lap vállalkozásoknak világszerte.'
+  title: 'Partners — Distribution & Wholesale | {SITE}'
+  description: 'Become an olagoon partner: distribution networks, wholesale pricing, OEM/private label programs, and support for inflatable pool businesses worldwide.'
   keywords:
-    - 'sup disztribúciós partner'
-    - 'paddle lap nagykereskedelem'
-    - 'felfújható sup forgalmazó'
-    - 'sup partnerség'
+    - 'pool distribution partner'
+    - 'inflatable pool wholesale'
+    - 'inflatable pools distributor'
+    - 'pool partnership'
 hero:
-  tagline: 'Partnerek és disztribúció'
-  title: 'Legyen afarar partner<br />— Globális disztribúciós hálózat'
-  subtitle: 'Csatlakozzon az afarar globális partnerhálózatához. Tengeri forgalmazókkal, evezős sport kereskedőkkel, felszerelés kiskereskedőkkel és márkapartnerekkel dolgozunk 50+ országban.'
+  tagline: Partners & Distribution
+  title: 'Become an olagoon Partner<br />— Global Distribution Network'
+  subtitle: "Join olagoon's global partner network. We work with pool and outdoor distributors, specialty retailers, equipment dealers, and brand partners in 50+ countries."
   image:
     src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
-    alt: afarar globális partner és forgalmazói hálózat
+    alt: olagoon global partner and distributor network
 content_programs:
-  tagline: 'Partnerprogramok'
-  title: 'Növekedésre épített<br />partnerprogramok'
-  subtitle: 'Legyen Ön forgalmazó, kereskedő vagy márkapartner, az afarar olyan programokat kínál, amelyek támogatják vállalkozását.'
+  tagline: Partner Programs
+  title: 'Partner Programs<br />Built for Growth'
+  subtitle: 'Whether you are a distributor, dealer, or brand partner, olagoon offers programs designed to support your business.'
   columns: 3
   items:
-    - title: 'Forgalmazói program'
-      description: 'Kizárólagos területi disztribúció mennyiségi árazással, marketingtámogatással és közvetlen gyári hozzáféréssel. Minimális elkötelezettség szükséges a terület méretétől függően.'
+    - title: 'Distributor Program'
+      description: 'Exclusive territory distribution with volume pricing, marketing support, and direct factory access. Minimum commitment required based on territory size.'
       icon: tabler:world
-    - title: 'Kereskedői program'
-      description: 'Közvetlen kereskedői árazás, termékképzés, marketinganyagok és garanciatámogatás kiskereskedelmi helyszínekhez és online boltokhoz.'
+    - title: 'Dealer Program'
+      description: 'Direct dealer pricing, product training, marketing materials, and warranty support for retail locations and online stores.'
       icon: tabler:building-store
-    - title: 'OEM/ODM partnerség'
-      description: 'Teljes körű OEM és ODM gyártás egyedi márkázással, csomagolással és termékspecifikációkkal. A koncepciótól a konténerig.'
+    - title: 'OEM/ODM Partnership'
+      description: 'Full-service OEM and ODM manufacturing with custom branding, packaging, and product specifications. From concept to container.'
       icon: tabler:certificate
-    - title: 'Márkapartnerség'
-      description: 'Közös márka, saját márka és kizárólagos modell programok bevált márkáknak a tengeri és szabadtéri szabadidős szektorban.'
+    - title: 'Brand Partnership'
+      description: 'Co-branding, private label, and exclusive model programs for established brands in the marine and outdoor recreation space.'
       icon: tabler:stars
-    - title: 'Kormányzati és intézményi'
-      description: 'Kiemelt beszállítói programok kormányzati szerveknek, partőrségeknek, katonaságnak és humanitárius szervezeteknek. Tenderre kész dokumentáció.'
+    - title: 'Government & Institutional'
+      description: 'Preferred supplier programs for government agencies, coast guards, military, and humanitarian organizations. Tender-ready documentation.'
       icon: tabler:building-community
-    - title: 'Üdülő és bérlő partner'
-      description: 'Flotta árazás, következetes minőség és egyedi márkázás üdülőknek, búvárközpontoknak és bérlési vállalkozásoknak világszerte.'
+    - title: 'Resort & Rental Partner'
+      description: 'Fleet pricing, consistent quality, and custom branding for resorts, diving centers, and rental operations worldwide.'
       icon: tabler:sun
 content_benefits:
-  tagline: 'Miért legyen a partnerünk'
-  title: 'Miért választják a partnerek az afarart'
-  subtitle: 'Partnereink valódi gyártási képességből, következetes minőségből és gyors reagálású támogatásból profitálnak.'
+  tagline: Why Partner With Us
+  title: 'Why Partners Choose olagoon'
+  subtitle: 'Our partners benefit from real manufacturing capability, consistent quality, and responsive support.'
   list:
-    - 'Közvetlen gyári hozzáférés: Működjön együtt közvetlenül gyártócsapatunkkal — közvetítők nélkül. Gyorsabb válaszok, jobb árazás és teljes betekintés a gyártásba.'
-    - 'Testreszabásra kész: Márkázza termékeit egyedi színekkel, logókkal, csomagolással és specifikációkkal. Az Ön piacára szabott minimális rendelési mennyiségek.'
-    - 'Garantált minőség: ISO 9001 tanúsított gyártás CE, UKCA és BSCI megfelelőséggel. Minden termék tesztelve szállítás előtt.'
-    - 'Globális logisztika: Szállítás Csingtaóból, Kínából FOB, CIF és DDP opciókkal. USA raktár Montclairben, Kaliforniában az észak-amerikai disztribúcióhoz.'
-    - 'Marketingtámogatás: Termékkatalógusok, fotózás, műszaki dokumentáció és digitális eszközök az értékesítési erőfeszítései támogatására.'
-    - 'Képzés és támogatás: Termékképzés értékesítési csapatának, műszaki támogatás ügyfeleinek és garanciaszerviz koordináció.'
+    - 'Direct Factory Access: Work directly with our manufacturing team — no middlemen. Get faster responses, better pricing, and full visibility into production.'
+    - 'Customization Ready: Brand your products with custom colors, logos, packaging, and specifications. Minimum order quantities tailored to your market.'
+    - 'Quality Guaranteed: ISO 9001 certified production with CE, UKCA, and BSCI compliance. Every product tested before shipping.'
+    - 'Global Logistics: Shipping from Qingdao, China with FOB, CIF, and DDP options. US warehouse in Montclair, CA for North American distribution.'
+    - 'Marketing Support: Product catalogs, photography, technical documentation, and digital assets to support your sales efforts.'
+    - 'Training & Support: Product training for your sales team, technical support for your customers, and warranty service coordination.'
 content_process:
-  tagline: 'Hogyan válhat partnerré'
-  title: 'Egyszerű partnerségi folyamat'
-  subtitle: 'Partnerségi folyamatunk egyértelmű — arra terveztük, hogy gyorsan elkezdhesse az afarar termékek értékesítését.'
+  tagline: How to Become a Partner
+  title: 'Simple Partnership Process'
+  subtitle: 'Our partnership process is straightforward — designed to get you selling olagoon products quickly.'
   items:
-    - title: '1. lépés: Jelentkezés benyújtása'
-      description: 'Töltse ki partnerjelentkezési űrlapunkat vállalati profiljával, célpiacával és termékérdeklődéseivel.'
-    - title: '2. lépés: Minősítési felülvizsgálat'
-      description: 'Partnerségi csapatunk átnézi jelentkezését, és 3 munkanapon belül felveszi Önnel a kapcsolatot a lehetőségek megvitatására.'
-    - title: '3. lépés: Megállapodás és beállítás'
-      description: 'Írja alá a partnerségi megállapodást, hozza létre fiókját, és kapja meg a partneri árazást, marketinganyagokat és termékmintákat.'
-    - title: '4. lépés: Képzés és indulás'
-      description: 'Termékképzés, értékesítési támogatás és marketinganyagok biztosítva. Készen áll az értékesítés megkezdésére.'
+    - title: 'Step 1: Submit Application'
+      description: 'Complete our partner application form with your company profile, target market, and product interests.'
+    - title: 'Step 2: Qualification Review'
+      description: 'Our partnership team reviews your application and contacts you within 3 business days to discuss opportunities.'
+    - title: 'Step 3: Agreement & Setup'
+      description: 'Sign a partnership agreement, set up your account, and receive partner pricing, marketing materials, and product samples.'
+    - title: 'Step 4: Training & Launch'
+      description: 'Product training, sales support, and marketing collateral provided. You are ready to start selling.'
 cta:
-  title: 'Készen áll, hogy afarar partner legyen?'
-  subtitle: 'Jelentkezzen partnerségre, és csapatunk 3 munkanapon belül válaszol.'
+  title: 'Ready to become an olagoon partner?'
+  subtitle: 'Apply for partnership and our team will respond within 3 business days.'
   actions:
     - variant: primary
-      text: 'Jelentkezés partnerségre'
+      text: Apply for partnership
       href: /contact/
-    - text: 'Tekintse meg termékeinket'
+    - text: View our products
       href: /products/

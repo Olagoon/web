@@ -1,263 +1,274 @@
 meta:
-  title: 'Fabrika ve Üretim — Şişme SUP OEM | {SITE}'
-  description: "olagoon'ın fabrikasını ziyaret edin: şişme SUP OEM/ODM üretimi için kesme, HF kaynak, baskı, montaj ve kalite laboratuvarı bulunan 12.000 m² tesis."
+  title: 'Factory & Manufacturing — inflatable pools OEM | {SITE}'
+  description: 'Tour the olagoon factory: 12,000 m² plant with cutting, RF welding, printing, assembly, and quality lab for inflatable pools OEM/ODM manufacturing.'
   keywords:
-    - 'SUP fabrikası Çin'
-    - 'şişme paddle board fabrikası'
-    - 'OEM SUP üreticisi'
-    - 'şişme SUP üretimi'
+    - 'pool factory china'
+    - 'inflatable pool factory'
+    - 'oem pool manufacturer'
+    - 'inflatable pools manufacturing'
 hero:
-  tagline: Fabrika
-  title: Fabrika ve Üretim
-  subtitle: 12.000 m² entegre üretim — hammaddeden bitmiş tahtaya
+  tagline: Factory
+  title: Factory & Manufacturing
+  subtitle: 12,000 m² of integrated manufacturing — from raw material to finished pool
+
 intro:
-  - >-
-    **Olagoon LLC (ABD)**'nin üretim kolu olarak olagoon'ın Qingdao Operasyon Ekibi, üretimin her aşamasını kontrol eder — ham PVC ve fiberglas malzemelerin gelişinden bitmiş tahtanın sevkiyat öncesi son denetimine kadar. Qingdao Ekonomik Kalkınma Bölgesi'ndeki üretim tesisimiz 12.000 metrekare alan kaplar ve
-    PVC kesim, boru ısı mühürleme, FRP kalıp imalatı, SUP dijital baskı, son montaj ve kalite testi için özel atölyelere ev sahipliği yapar.
-  - >-
-    Tasarım, mühendislik, prototipleme, üretim ve testi tek çatı altında birleştirerek, sözleşmeli üretimin verimsizliklerini ortadan kaldırır ve yapı kalitesi, malzeme seçimi ve teslimat süreleri üzerinde doğrudan kontrol sahibi oluruz. Atölyemizden çıkan her tahta, bizim insanlarımız tarafından,
-    bizim ekipmanımızda, bizim standartlarımıza göre üretilir.
+  - As the production arm of **Olagoon LLC**, olagoon's Qingdao Operation Team controls every stage of production — from the arrival of raw PVC and fiberglass materials to the final pre-delivery inspection of the finished pool. Our manufacturing facility in the Qingdao Economic Development Zone spans 12,000 square metres and houses dedicated workshops for PVC cutting, tube heat sealing, FRP mould fabrication, pool digital printing, final assembly, and quality testing.
+  - By integrating design, engineering, prototyping, manufacturing, and testing under one roof, we eliminate the inefficiencies of contract manufacturing and maintain direct control over build quality, material selection, and delivery timelines. Every pool that leaves our workshop is built by our people, on our equipment, to our standards.
+
 stats:
-  - value: 12.000 m²
-    label: Üretim alanı
+  - value: 12,000 m²
+    label: Manufacturing floor
   - value: 200+
-    label: Vasıflı işçi
-  - value: 15.000+
-    label: Yıllık üretilen SUP tahtası
+    label: Skilled workers
+  - value: 15,000+
+    label: pools produced annually
   - value: ISO 9001
-    label: Kalite sertifikalı
-intelligence_tagline: Fabrika Zekası
-intelligence_title: Üretim Yeteneklerimizi Keşfedin
+    label: Quality certified
+
+intelligence_tagline: Factory Intelligence
+intelligence_title: Explore Our Manufacturing Capabilities
+
 intelligence_cards:
-  - title: Üretim Kapasitesi
+  - title: Production Capacity
     icon: C
     icon_bg: blue
-    desc: 12.000 m² tesis, SUP board ve güvenlik ekipmanı hatlarında yılda 15.000+ SUP üretiyor. 200+ çalışan, 2 vardiya.
+    desc: '12,000 m² facility producing 15,000+ pools/yr across pools and safety equipment lines. 200+ workers, 2 shifts.'
     metrics:
       - label: MOQ
-        value: 'SUP: 5–10'
-      - label: Teslim Süresi
-        value: 30–45 gün
+        value: 'Samples 5–10 · Bulk 50+'
+      - label: Lead Time
+        value: '12–16 weeks (bulk)'
     link: /factory/capacity/
-    link_label: Tam kapasite detayları →
-  - title: Kalite Laboratuvarı ve Test
+    link_label: Full capacity details →
+  - title: Quality Lab & Testing
     icon: Q
     icon_bg: green
-    desc: '4 test aşamasına sahip bağımsız QC laboratuvarı: hammadde muayenesi (çekme, yırtılma, UV), 1,25x nominal basınçta 24–48 saat basınç tutma, dikiş soyma testi ve her tahtada yük/denge doğrulaması.'
+    desc: 'Independent QC lab with 4 testing stages: raw material inspection (tensile, tear, UV), 24–48h pressure hold at 1.25x rated pressure on every pool, load/balance verification, and seam peel strength testing by batch sampling every 50 units (ASTM D751).'
     metrics:
-      - label: Laboratuvar Ekipmanları
-        value: Çekme test cihazı, sıcaklık odası, sızıntı tankı
-      - label: Standartlar
-        value: ISO 9001, CE, AS 1799
+      - label: Lab Equipment
+        value: 'Tensile tester, temp chamber, leak tank'
+      - label: Standards
+        value: 'ISO 9001, CE, AS 1799'
     link: /factory/quality-lab/
-    link_label: Laboratuvar prosedürleri ve ekipmanları →
-  - title: OEM/ODM Kapasitesi
+    link_label: 'Lab procedures & equipment →'
+  - title: OEM/ODM Capability
     icon: O
     icon_bg: purple
-    desc: 'Uçtan uca OEM/ODM hizmetleri: özel kalıp tasarımı, özel etiketli ambalaj, özel board renkleri, güverte grafikleri (dijital ve serigrafi baskı) ve drop-ship lojistiği.'
+    desc: 'End-to-end OEM/ODM services: custom mould design, private-label packaging, custom pool colors, deck graphics (digital & screen printing), and drop-ship logistics.'
     metrics:
-      - label: Sertifikasyonlar
-        value: ISO 9001, BSCI, CE, REACH
-      - label: Nakliye
-        value: FOB, CIF, DDP 50'den fazla ülkeye
+      - label: Certifications
+        value: 'ISO 9001, BSCI, CE, REACH'
+      - label: Shipping
+        value: 'FOB, CIF, DDP to 50+ countries'
     link: /factory/oem-capability/
-    link_label: Tam OEM hizmetleri →
+    link_label: 'Full OEM services →'
+
 workshops_section:
-  tagline: Atölyeler
-  title: Üretim Atölyeleri
+  tagline: Workshops
+  title: Manufacturing Workshops
   workshops:
-    - title: PVC Kesim ve Malzeme Hazırlığı
-      description: Otomatik CNC kesim makineleri, PVC ve drop-stitch kumaşları milimetre altı hassasiyetle işler. Bilgisayar destekli optimizasyon, malzeme israfını en aza indirir ve her panelin kaynak öncesinde boyutsal spesifikasyonunu karşılamasını sağlar.
+    - title: PVC Cutting & Material Preparation
+      description: Automatic CNC cutting machines process PVC and drop-stitch fabrics with sub-millimetre precision. Computer-optimised nesting minimises material waste and ensures every panel meets its dimensional specification before welding.
       image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
-    - title: Boru Kaynağı ve Isı Mühürleme
-      description: Isı mühürleme makineleri ve RF dielektrik preslerle donatılmış özel kaynak atölyesi. Sıcak hava ısı mühürleyicileri PVC tüp odalarını birleştirir ve kaynaştırırken, RF kaynakları EN ISO 25649 gereksinimlerini aşan yüksek mukavemetli hava geçirmez dikişler üretir.
+    - title: Tube Welding & Heat Sealing
+      description: Dedicated welding workshop with heat sealing machines and RF dielectric presses. Hot-air heat sealers bond and fuse PVC tube chambers, while RF welds produce high-strength airtight seams that exceed EN ISO 25649 requirements.
       image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    - title: FRP Kalıplar ve Kompozit İmalat
-      description: SUP bileşenleri için özel FRP kalıplar, polyester ve vinilester reçine sistemleri ile el yatırmalı fiberglas kalıplama kullanılarak üretilir. Her katman, tutarlı kalite için elle yuvarlanır ve vakum torbalanır. Jelkot sprey kabini, yüksek parlaklıkta, UV'ye dayanıklı bir deniz kaplaması sağlar.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
-    - title: SUP Baskı ve Dekorasyon
-      description: SUP boardları, tam renkli grafikler için dijital baskı ve logolar ve tekrar eden desenler için serigrafi kullanılarak dekore edilir. Dijital yazıcılar fotoğraf kalitesinde güverte tasarımları üretirken, serigrafi dayanıklı, canlı marka işaretleri sunar.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
-    - title: Son Montaj ve Donanım
-      description: Drop-stitch çekirdeklerinin raylarla tamamlandığı, EVA destelerin uygulandığı ve finlerin, vanaların ve aksesuarların takıldığı montaj hattı. Her tahta, ekip lideri tarafından imzalanan 100 puanlık bir montaj kontrol listesini takip eder.
+    - title: FRP Moulds & Composite Fabrication
+      description: Custom FRP moulds for pool components, produced using hand-lay-up fiberglass moulding with polyester and vinylester resin systems. Each layer is hand-rolled and vacuum-bagged for consistent quality. Gelcoat spray booth provides a high-gloss, UV-resistant marine finish.
+      image: https://assets.olagoon.com/images/olagoon/products/family-oasis.webp
+    - title: pool Printing & Decoration
+      description: pools are decorated using digital printing for full-colour graphics and screen printing for logos and repeating patterns. Digital printers produce photo-quality deck designs, while screen printing delivers durable, vivid brand marks.
+      image: https://assets.olagoon.com/images/olagoon/products/family-oasis.webp
+    - title: Final Assembly & Rigging
+      description: Assembly line where drop-stitch cores are finished with rails, wall surfaces are applied, and valves, fittings, and accessories are installed. Each pool follows a 100-point assembly checklist signed off by the team lead.
       image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
-    - title: Kalite Testi ve Denetim
-      description: Tamamlanan her tahta, sevkiyattan önce zorunlu hava tutma testi, dikiş soyulma doğrulaması ve tam sistem kontrolünden geçer. Kalite laboratuvarımız üretimden bağımsız olarak çalışır ve doğrudan yönetime rapor verir.
+    - title: Quality Testing & Inspection
+      description: Every completed pool undergoes mandatory air-retention testing and a full systems check before shipping, with seam peel strength verified by batch sampling every 50 units. Our quality lab operates independently from production and reports directly to management.
       image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
+
 equipment_section:
-  tagline: Ekipman
-  title: Ana Üretim Ekipmanları
-  view_full: Tam ekipman listesini görüntüle →
+  tagline: Equipment
+  title: Key Manufacturing Equipment
+  view_full: View full equipment list →
   view_full_link: /factory/equipment/
   items:
-    - name: Otomatik PVC Kesim Makinesi
-      spec: CNC kontrollü, 0,1 mm hassasiyet
-    - name: Isı Yalıtım Makinesi
-      spec: Sıcak hava, 200–300 °C, boru birleştirme için
-    - name: RF Dielektrik Kaynak Presi
-      spec: 15 kW, hava geçirmez dikiş kaynağı
-    - name: Fiberglas El Yatırmalı Kalıplar
-      spec: 14 ft'ye kadar SUP tahtası kalıpları
-    - name: Dijital Yazıcı
-      spec: Tam renkli SUP güverte grafikleri
-    - name: Serigrafi Makinesi
-      spec: Çok renkli logo baskısı
+    - name: Automatic PVC Cutting Machine
+      spec: CNC-controlled, 0.1 mm accuracy
+    - name: Heat Sealing Machine
+      spec: Hot-air, 200–300 °C, for tube bonding
+    - name: RF Dielectric Welding Press
+      spec: 15 kW, airtight seam welding
+    - name: Fiberglass Hand-Lay-Up Moulds
+      spec: pools moulds up to 14 ft
+    - name: Digital Printer
+      spec: Full-colour pool deck graphics
+    - name: Screen Printing Machine
+      spec: Multi-colour logo printing
+
 qc_section:
-  tagline: Kalite Kontrol
-  title: Test ve Kalite Güvence Süreci
-  subtitle: Her tahta, sevkiyattan önce zorunlu testlerden geçer. Kalite laboratuvarımız üretimden bağımsız olarak çalışır ve doğrudan yönetime rapor verir.
+  tagline: Quality Control
+  title: Testing & Quality Assurance Process
+  subtitle: Every pool undergoes mandatory testing before shipping. Our quality lab operates independently from production and reports directly to management.
   steps:
     - step: '1'
-      title: Hammadde Denetimi
-      desc: PVC ve drop-stitch kumaşlar, herhangi bir parti üretime girmeden önce çekme testi (ASTM D751), yırtılma yayılması ve UV direnci doğrulamasından geçer.
+      title: Raw Material Inspection
+      desc: PVC and drop-stitch fabrics undergo tensile testing (ASTM D751), tear propagation, and UV resistance verification before any batch enters production.
     - step: '2'
-      title: 24–48 Saat Hava Tutma Testi
-      desc: Her tüp odası, nominal basıncın %125'ine kadar şişirilir ve 24–48 saat bekletilir. %5'i aşan basınç düşüşü, otomatik reddetme ve dikiş yeniden incelemesini tetikler.
+      title: 24–48 Hour Air Retention Test
+      desc: Every tube chamber is inflated to 125% of rated pressure and held for 24–48 hours. Pressure drop exceeding 5% triggers automatic rejection and seam re-inspection.
     - step: '3'
-      title: Yük ve Denge Testi
-      desc: Tamamlanan tahtalar, maksimum nominal kapasiteye kadar yüklenir ve stabilite ile rijitlik açısından test edilir. Her tahta, son denetimden önce suda test edilir.
+      title: Load & Balance Testing
+      desc: Completed pools are loaded to maximum rated capacity and tested for stability and rigidity. Each pool is water-tested before final inspection.
+
 oem_section:
-  tagline: OEM Projeleri
-  title: Marka ve OEM Ortaklığı Vaka Çalışmaları
-  subtitle: Kavramdan konteynere — küresel markaların şişme SUP hatlarını başlatmasına ve ölçeklendirmesine nasıl yardımcı olduğumuz.
+  tagline: OEM Projects
+  title: Brand & OEM Partnership Case Studies
+  subtitle: From concept to container — how we help global brands launch and scale their inflatable pools lines.
   cases:
-    - challenge: Avrupalı bir açık hava perakendecisi, benzersiz güverte grafiklerine, çevre dostu PVC'ye ve perakendeye hazır ambalaja sahip özel etiketli bir SUP hattına ihtiyaç duyuyordu — tamamı 60 günde teslim edilecek.
-      solution: Özel dijital baskı dosyaları geliştirdik, REACH uyumlu PVC tedarik ettik ve tasarım ekibini Qingdao fabrikamıza yerleştirerek numune sürecini 3 turdan 1 tura indirdik.
-      result: İmzalı siparişten FOB'a 55 gün. 4 SKU'da 2.400 adet. İlk konteyner gelmeden tekrar sipariş verildi.
-    - challenge: ABD merkezli bir su sporları start-up'ı, özel gövde şekline, ortak markalı ambalaja ve perakende yerleşimi için BSCI sertifikasına sahip yüksek performanslı bir drop-stitch SUP ihtiyacı duyuyordu.
-      solution: Mevcut drop-stitch SUP kalıbını değiştirilmiş rocker profiliyle uyarladık, ortak markalı ambalaj sanatı geliştirdik ve tam BSCI denetim belgeleri sağladık.
-      result: 3 büyük ABD açık hava zincirinde başarıyla listelendi. İlk yılda %98 satış oranıyla 5.000+ adet.
-    - challenge: Avustralyalı bir distribütör, özel renklere ve Avustralya standartlarına uygunluğa sahip CE sertifikalı bir SUP serisine ihtiyaç duyuyordu.
-      solution: 4 renk varyantı ile ön üretim numuneleri ürettik ve üçüncü taraf uyumluluk testini koordine ettik.
-      result: AU/NZ pazarında 3 modelli SUP serisi piyasaya sürüldü. Ardından 12 devriye SUP'si için devlet ihalesi kazanıldı.
+    - challenge: European outdoor retailer needed a private-label pool line with unique deck graphics, eco-friendly PVC, and retail-ready packaging — all delivered in 60 days.
+      solution: Developed custom digital print files, sourced REACH-compliant PVC, and compressed sampling from 3 rounds to 1 by co-locating the design team at our Qingdao factory.
+      result: 55 days from signed PO to FOB. 2,400 units across 4 SKUs. Repeat order placed before first container arrived.
+    - challenge: US watersports startup needed a high-performance drop-stitch pool with custom shape, co-branded packaging, and BSCI certification for retail placement.
+      solution: Adapted existing pool mould with modified outline, developed co-branded packaging artwork, and provided full BSCI audit documentation.
+      result: Successfully listed in 3 major US outdoor chains. 5,000+ units in first year with 98% sell-through rate.
+    - challenge: Australian distributor required a CE-certified pool range with custom colours and compliance with Australian standards.
+      solution: Produced pre-production samples with 4 colour variants and coordinated third-party compliance testing.
+      result: 3-model pool range launched in AU/NZ market. Followed by government tender win for 12 patrol pools.
+
 faq_section:
-  tagline: SSS
-  title: B2B ve OEM Sıkça Sorulan Sorular
+  tagline: FAQ
+  title: B2B & OEM Frequently Asked Questions
   questions:
-    - q: OEM şişme SUP boardları için minimum sipariş miktarı (MOQ) nedir?
-      a: Standart OEM modelleri için MOQ 5–10 adetten başlar. Özel kalıplar ve özel etiket projeleri, karmaşıklığa bağlı olarak minimum 200 adet gerektirir. Yeni marka lansmanları için deneme siparişleri ve numune çalışmaları mevcuttur.
-    - q: olagoon BSCI sertifikasına sahip mi?
-      a: Evet. Fabrikamız geçerli BSCI sosyal uyumluluk sertifikasına sahiptir (denetim raporu talep üzerine mevcuttur). Ayrıca kalite yönetimi için ISO 9001 ve tüm ürünler CE sertifikasına sahiptir. Her OEM sevkiyatıyla birlikte REACH ve RoHS uyumluluk belgeleri sağlanır.
-    - q: Bir OEM siparişi için tipik teslim süresi nedir?
-      a: Standart teslim süresi, toplu OEM üretimi için onaylı sipariş ve depozitodan itibaren 30–45 gündür. Özel kalıp geliştirme, kalıp yapımı için 15–20 gün ekler. Acil siparişler ve sezon yoğunlukları için hızlandırılmış üretim mevcuttur. Prototip numuneler genellikle 15–20 gün içinde sevk edilir.
-    - q: FOB Qingdao veya CIF olarak limanımıza gönderebilir misiniz?
-      a: Evet. FOB Qingdao, büyük küresel limanlara CIF ve nitelikli ortaklar için DDP olarak gönderim yapıyoruz. Lojistik ekibimiz konteyner rezervasyonu, ihracat belgeleri ve gümrük işlemlerini yönetir. AB, ABD, AU ve Asya pazarlarında 50'den fazla ülkeye gönderim yapıyoruz.
-b2b_moq: 'Standart MOQ: Model başına 5–10 adet. Yeni ortaklıklar için deneme siparişleri kabul edilir.'
+    - q: What is the minimum order quantity (MOQ) for OEM inflatable pools?
+      a: Samples and trial orders start at 5–10 units. Standard production MOQ is 50 units. Custom moulds and private-label projects require a minimum of 200 units depending on complexity.
+    - q: Does olagoon hold BSCI certification?
+      a: Yes. Our factory maintains valid BSCI social compliance certification (audit report available on request). We also hold ISO 9001 for quality management and all products carry CE certification. REACH and RoHS compliance documentation provided with every OEM shipment.
+    - q: What is the typical lead time for an OEM order?
+      a: Production runs take 12–16 weeks for 50–100 units, 10–14 weeks for 300–1,000 units, and 8–12 weeks above 1,000 units, from confirmed PO and deposit to FOB Qingdao. Custom mould development adds 15–20 days for tooling. Expedited production is available for urgent orders and seasonal rushes. Prototype samples typically ship within 15–20 days.
+    - q: Can you ship FOB Qingdao or CIF to our port?
+      a: Yes. We ship FOB Qingdao, CIF major global ports, and DDP for qualified partners. Our logistics team manages container booking, export documentation, and customs clearance. We ship to 50+ countries across EU, US, AU, and Asia markets.
+
+b2b_moq: 'Samples from 5–10 units. Standard production MOQ: 50 units per model.'
+
 production_flow:
-  tagline: Üretim Akışı
-  title: Ham Maddeden Bitmiş Tahtaya
-  subtitle: Her tahta 6 üretim aşamasından geçer ve her adımda kalite kontrol kontrol noktaları bulunur. Kısayol yok, atlanmış denetim yok.
+  tagline: Production Flow
+  title: From Material to Finished Pool
+  subtitle: Every pool passes through 6 production stages with QC checkpoints at every step. No shortcuts, no skipped inspections.
   stages:
     - stage: '01'
-      title: Malzeme Kabul ve Gelen Kalite Kontrolü
-      description: Gelen tüm malzemeler ERP sistemimize parti/lot numarası ile kaydedilir. PVC kumaş ruloları, drop-stitch çekirdekleri, valfler, yapıştırıcılar ve fittings, QC onayına kadar karantinada tutulur.
-      qc_check: Çekme dayanımı (ASTM D751), yırtılma direnci (ISO 4674), kalınlık ölçer, yapıştırıcı viskozitesi, görsel kusur tarama
-      qc_threshold: 100% parti test edilir. Çekme dayanımı spec'in %90'ından düşükse, yırtılma spec minimumunun altındaysa veya herhangi bir görsel kusur varsa reddedilir
-      responsibility: Gelen QC ekibi (3 denetçi)
+      title: Material Receiving & Incoming QC
+      description: 'All incoming materials are logged by batch/lot number in our ERP system. PVC fabric rolls, drop-stitch cores, valves, adhesives, and hardware are quarantined until QC sign-off.'
+      qc_check: 'Tensile strength (ASTM D751), tear resistance (ISO 4674), thickness gauge, adhesive viscosity, visual defect scan'
+      qc_threshold: '100% of batches tested. Reject if tensile < 90% of spec, tear < spec min, or any visual defect'
+      responsibility: Incoming QC team (3 inspectors)
     - stage: '02'
-      title: CNC Kesim ve Malzeme Hazırlığı
-      description: Bilgisayar destekli optimizasyon, atığı en aza indirmek için panelleri PVC stok üzerinde yerleştirir. Otomatik CNC kesim makineleri 0,1 mm konum doğruluğunu korur.
-      qc_check: CAD DXF dosyalarına göre boyutsal kontrol, kenar kalitesi muayenesi, panel sayısı doğrulaması
-      qc_threshold: Her 20. panel ölçülür. Tolerans ±0.5 mm. Tolerans dışı >2% ise parti reddedilir
-      responsibility: Kesim atölyesi sorumlusu
+      title: CNC Cutting & Material Prep
+      description: 'Computer-optimized nesting lays out panels on PVC stock to minimize waste. Automatic CNC cutting machines maintain 0.1 mm positional accuracy.'
+      qc_check: 'Dimensional check against CAD DXF files, edge quality inspection, panel count verification'
+      qc_threshold: 'Every 20th panel measured. Tolerance ±0.5 mm. Reject batch if >2% out of tolerance'
+      responsibility: Cutting workshop lead
     - stage: '03'
-      title: Kaynak ve Drop-Stitch Yapıştırma
-      description: Drop-stitch çekirdekleri ısılamination ile dış PVC laminate yapıştırılır. Tüp odaları RF kaynağı veya sıcak hava kaynağı ile birleştirilir. Kenar bantları üç katmanlı eritme kaynağı ile bondedir.
-      qc_check: Her 50 ünitede soyma testi (ASTM D751), kaynak genişliği ölçümü, sıcak hava sıcaklık kaydı incelemesi, arka ışık altında görsel dikiş kontrolü
-      qc_threshold: Soyulma gücü minimum 8 N/cm. Kaynak genişliği toleransı ±1 mm. Görünür kanallanma = ret
-      responsibility: Kaynak Kalite Kontrolü (vardiya başına 2 müfettiş)
+      title: Welding & Drop-Stitch Bonding
+      description: 'Drop-stitch cores are bonded to outer PVC laminates using heat lamination. Tube chambers are RF-welded or hot-air welded. Rail bands are triple-layer fusion bonded.'
+      qc_check: 'Peel test every 50 units (ASTM D751), weld width measurement, hot-air temperature log review, visual seam inspection under backlight'
+      qc_threshold: 'Peel strength min 8 N/cm. Weld width tolerance ±1 mm. Any visible channeling = reject'
+      responsibility: Welding QC (2 inspectors per shift)
     - stage: '04'
-      title: Montaj ve Teçhizat
-      description: 'Tahtalar, tüm bileşenlerin birleştirildiği son montaj aşamasına geçer: raylar yapıştırılır ve kaynaklanır, vanalar takılır, D-halkaları, kulplar, fin kutuları ve taşıma çantası yerleştirilir. Her ünite 100 maddelik montaj kontrol listesine uygun olarak üretilir.'
-      qc_check: Birim başına 100 maddelik kontrol listesi onayı, valf işlevi testi (10 açma/döngüsü), donanım tork doğrulaması, görsel denetim
-      qc_threshold: 'Güvenlikle kritik ürünlerde (valfler, D-halkaları, tutamaklar) sıfır hata politikası. Kozmetik kusurlar için: AQL 2,5 (ISO 2859)'
-      responsibility: Montaj ekibi lideri + hat QC
+      title: Assembly & Rigging
+      description: 'Pools move to final assembly where all components are mated: rails glued and welded, valves installed, D-rings, handles, drain ports, and carry bag fitting. Each unit follows a 100-point assembly checklist.'
+      qc_check: '100-point checklist sign-off per unit, valve function test (10 open/close cycles), hardware torque verification, visual inspection'
+      qc_threshold: 'Zero-defect policy on safety-critical items (valves, D-rings, handles). Minor cosmetic: AQL 2.5 (ISO 2859)'
+      responsibility: Assembly team lead + line QC
     - stage: '05'
-      title: Basınç Testi ve Kalite Kontrol
-      description: Her hava odası 1,25× nominal basınca (tipik olarak 20–25 PSI) şişirilir ve 24–48 saat boyunca tutulur. Basınç sensörleri sürekli olarak kayıt yapar. %5'ten fazla basınç düşüşü yaşayan odalar reddedilir ve dikiş yeniden kontrolüne gönderilir.
-      qc_check: 24–48 saat basınç koruma kaydı, günlük sensör kalibrasyonu doğrulaması, sıcaklık kompanzasyonlu basınç okuması, onarım sonrası dikiş yeniden testi
-      qc_threshold: Stabil sıcaklıkta 24–48 saatte maksimum %5 basınç düşüşü. Bu değeri aşan her oda = tüm parti üretiminin %100 yeniden testi
-      responsibility: Kalite laboratuvarı (üretimden bağımsız, yönetime rapor verir)
+      title: Pressure Testing & Quality Hold
+      description: 'Every chamber is inflated to 1.25× rated pressure (typically 20–25 PSI) and held for 24–48 hours. Pressure sensors log continuously. Chambers exceeding 5% pressure drop are rejected and sent for seam re-inspection.'
+      qc_check: '24–48h pressure hold log, sensor calibration verified daily, temperature-compensated pressure reading, seam re-test after repair'
+      qc_threshold: 'Max 5% pressure drop over 24–48h at stable temp. Any chamber exceeding this = 100% re-test of entire production batch'
+      responsibility: Quality lab (independent of production, reports to management)
     - stage: '06'
-      title: Nihai Muayene ve Paketleme
-      description: Son görsel ve fonksiyonel denetim. Yüzey kusurları, renk tutarlılığı, etiket/BIN doğrulama, paketleme bütünlüğü ve aksesuar eksiksizliği. Üniteler vakumlu paketlenir, kutulanır ve konteyner yüklemesi için paletlenir.
-      qc_check: Tam görsel muayene, SKU başına aksesuar kontrol listesi, ambalaj düşürme testi (1 m, rastgele örnek), etiket/barkod tarama doğrulaması
-      qc_threshold: Kusurlar için AQL 2,5, küçük kusurlar için AQL 4,0. Güvenlik kusurlarında sıfır tolerans. Ünitelerin %100'ü görsel olarak denetlenir
-      responsibility: Son kalite kontrol ekibi (4 denetçi) + Paketleme ekibi lideri
+      title: Final Inspection & Packing
+      description: 'Final visual and functional inspection. Surface defects, color consistency, label/BIN verification, packaging integrity, and accessory completeness. Units are vacuum-packed, boxed, and palletized for container loading.'
+      qc_check: 'Full visual inspection, accessory checklist per SKU, packaging drop test (1 m, random sample), label/bar code scan verification'
+      qc_threshold: 'AQL 2.5 for major defects, AQL 4.0 for minor. Zero tolerance on safety defects. 100% of units visually inspected'
+      responsibility: Final QC team (4 inspectors) + Packing team lead
+
 workforce:
-  tagline: Ekibimiz
-  title: İş Gücü ve Uzmanlık
+  tagline: Our People
+  title: Workforce & Expertise
   engineers: 25+
-  engineers_detail: Ar-Ge, kalıp tasarımı, malzeme laboratuvarı ve üretim mühendisliği alanlarında mühendisler. Şişirilebilir üretimde ortalama 7+ yıl deneyim.
-  shift_pattern: Günde 2 vardiya (07:00–15:30, 15:30–00:00). Acil siparişler için opsiyonel gece vardiyası.
-  training: Aylık kalite kontrol eğitimi, üç aylık güvenlik tatbikatları, yıllık beceri değerlendirmesi. Yeni işe alınanlar üretim hattında çalışmadan önce 40 saatlik oryantasyonu tamamlar.
+  engineers_detail: 'Engineers across R&D, mold design, materials lab, and production engineering. Average 7+ years in inflatable manufacturing.'
+  shift_pattern: '2 shifts/day (07:00–15:30, 15:30–00:00). Optional night shift for urgent orders.'
+  training: 'Monthly QC training, quarterly safety drills, annual skills assessment. New hires complete 40-hour induction before working on production line.'
   departments:
     - name: R&D & Engineering
       count: 25+
-      role: Ürün tasarımı, kalıp mühendisliği, malzeme laboratuvarı
+      role: Product design, mold engineering, materials lab
     - name: Cutting & Material Prep
       count: 15
-      role: CNC kesim, panel hazırlık, malzeme taşıma
+      role: CNC cutting, panel preparation, material handling
     - name: Welding & Lamination
       count: 40
-      role: RF kaynağı, sıcak hava kaynağı, drop-stitch yapıştırma
-    - name: SUP Core Bonding
+      role: RF welding, hot-air welding, drop-stitch bonding
+    - name: pool Core Bonding
       count: 30
-      role: Drop-stitch laminasyon, Isı bonding, ray band füzyon
+      role: Drop-stitch lamination, heat bonding, rail band fusion
     - name: Assembly & Rigging
       count: 35
-      role: Son montaj, donanım kurulumu, sistem kontrolü
+      role: Final assembly, hardware installation, systems check
     - name: Quality Control
       count: 12
-      role: Gelen malzeme kalite kontrolü, üretim süreci kalite kontrolü, son denetim, laboratuvar testi
+      role: Incoming QC, in-process QC, final inspection, lab testing
     - name: Logistics & Packing
       count: 20
-      role: Paketleme, konteyner yükleme, ihracat dokümantasyonu
+      role: Packaging, container loading, export documentation
     - name: Management & Admin
       count: 15
-      role: Satış, satın alma, İK, finans, uyumluluk
+      role: Sales, procurement, HR, finance, compliance
+
 material_traceability:
-  tagline: İzlenebilirlik
-  title: Malzeme İzleme ve Parti Kontrolü
-  description: Her hammadde partisi ERP sistemimizde benzersiz bir parti numarası ile tanımlanır. Girişi üretime ve bitmiş ürüne kadar her tahtanın malzeme listesi orijinal tedarikçi partisine bağlanır. Bu, herhangi bir kalite veya uyumluluk sorgusu için tam geriye dönük izlenebilirlik sağlar.
-  system: Özel ERP (Qingdao Vatrad Group dahili sistemi) + her iş emrine fizik parti etiketleri
-  coverage: Üretim malzemelerinin %100'ü — PVC, drop-stitch kumaş, yapıştırıcılar, valfler, donanım, ambalaj
-  records_retained: 10 yıl (CE 2013/53/AB gereksinimine göre)
+  tagline: Traceability
+  title: Material Tracking & Batch Control
+  description: Every batch of raw material is assigned a unique lot number in our ERP system. From arrival through production to the finished product, each pool's bill of materials links back to the original supplier batch. This enables full upstream traceability for any quality or compliance inquiry.
+  system: Custom ERP (Qingdao Vatrad Group internal system) + physical batch tags on each work order
+  coverage: 100% of production materials — PVC, drop-stitch fabric, adhesives, valves, hardware, packaging
+  records_retained: 10 years (per CE 2013/53/EU requirement)
   suppliers:
-    - material: Deniz sınıfı PVC
-      source: Çinli ve Koreli tedarikçiler
+    - material: Marine-grade PVC
+      source: Chinese and Korean suppliers
       certified: ISO 9001, REACH, RoHS
-    - material: Drop-stitch kumaş
-      source: Kendi bünyemizde dokuma + harici ortak
-      certified: İç kalite kontrol + tedarikçi ISO 9001
-    - material: Valfler ve Aksesuarlar
-      source: Çinli OEM tedarikçiler
-      certified: ISO 9001, parti başına malzeme sertifikaları
+    - material: Drop-stitch fabric
+      source: In-house weaving + external partner
+      certified: Internal QC + supplier ISO 9001
+    - material: Valves & Hardware
+      source: Chinese OEM suppliers
+      certified: ISO 9001, material certs per batch
+
 qc_dashboard:
-  tagline: Sayılarla Kalite Kontrol
-  title: Kalite Kontrol Metrikleri
-  subtitle: Üretim hattımızdan gerçek geçme/hat verisi. Kalite laboratuvarımız üretimden bağımsız çalışır ve doğrudan yönetime rapor verir.
+  tagline: QC by the Numbers
+  title: Quality Control Metrics
+  subtitle: Real pass/fail data from our production line. Our quality lab operates independently from production and reports directly to management.
   stats:
     - value: 100%
-      label: Basınç testinden geçmiş birimler
-      detail: Her tahta, her oda, her parti
-    - value: <5%
-      label: İzin verilen maksimum basınç düşüşü
-      detail: 1,25× nominal basınçta 24–48 saat boyunca
+      label: Units pressure-tested
+      detail: Every pool, every chamber, every batch
+    - value: '<5%'
+      label: Max allowable pressure drop
+      detail: Over 24–48h at 1.25× rated pressure
     - value: AQL 2.5
-      label: Büyük kusur eşiği
-      detail: ISO 2859 örnekleme standardına göre
-    - value: 24–48 saat
-      label: Basınç tutma süresi
-      detail: Ürün kategorisine göre
+      label: Major defect threshold
+      detail: Per ISO 2859 sampling standard
+    - value: 24–48h
+      label: Pressure hold duration
+      detail: Depending on product category
     - value: 1.25×
-      label: Test basıncı vs nominal
-      detail: Her odada güvenlik marjı
+      label: Test pressure vs rated
+      detail: Safety margin on every chamber
     - value: 0%
-      label: Güvenlik kusurlarında tolerans
-      detail: Vanalar, D-halkaları, dikişler, yüzdürme
+      label: Tolerance on safety defects
+      detail: Valves, D-rings, seams, buoyancy
+
 process_cta:
-  title: Üretim sürecimizi görün
-  desc: Bir tahtanın hammaddeden denize hazır hale gelene kadar her üretim aşamasını takip edin.
-  label: Üretim sürecini görüntüle →
+  title: See our manufacturing process
+  desc: Follow a pool through every stage of production — from raw material to backyard-ready pool.
+  label: View production process →
   link: /factory/process/

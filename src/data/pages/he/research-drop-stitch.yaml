@@ -1,68 +1,68 @@
 meta:
-  title: 'כיצד פועל Drop-Stitch — ההנדסה שמאחורי ליבות ניפחים קשיחות | {SITE}'
-  description: 'עיון מעמיק בטכנולוגיית Drop-Stitch: כיצד אלפי חוטים פנימיים הופכים PVC גמיש לליבה קשיחה בלחץ גבוה המסוגלת ל-15-20 PSI. שיטות מבנה, חומרים, מדדי איכות ויישומים בלוחות SUP ובקיאקים.'
-back_text: 'חזרה למחקר'
+  title: 'How Drop Stitch Works — The Engineering Behind Inflatable Rigid Cores | {SITE}'
+  description: 'Deep dive into drop stitch technology: how thousands of internal threads turn flexible PVC into a rigid, high-pressure core capable of 15-20 PSI. Construction methods, materials, quality indicators, and applications across the OLagoon pool lineup.'
+back_text: 'Back to Research'
 
 hero:
-  tagline: 'טכנולוגיה'
-  title: 'כיצד פועל Drop-Stitch — ההנדסה שמאחורי ליבות ניפחים קשיחות'
-  subtitle: 'זמן קריאה 8 דקות'
+  tagline: 'Technology'
+  title: 'How Drop Stitch Works — The Engineering Behind Inflatable Rigid Cores'
+  subtitle: '8 min read'
 
 content_html: |
-  <h2>מהו Drop-Stitch?</h2>
-  <p>Drop-Stitch (המכונה גם ״בד Drop-Stitch״ או ״ליבת Drop-Stitch״) היא שיטת מבנה שבה אלפי חוטי פוליאסטר נפרדים מחברים בין השכבה העליונה לתחתונה של מעטפת בד. כאשר המעטפת מנופחת, חוטים אלה פועלים כאלמנטים מותחים פנימיים — הם מונעים מהלוחות העליון והתחתון לבלוט החוצה לצורה עגולה, ומכריחים את הלוח להישאר שטוח וקשיח.</p>
-  <p>התוצאה היא מבנה קל משקל ונייד שיכול לעמוד בלחץ פנימי של 15 – 20 PSI — קשיחות הדומה לזו של לוח קשיח, אך ניתנת לריקון מלא לאחסון ולתובלה.</p>
+  <h2>What Is Drop Stitch?</h2>
+  <p>Drop stitch (also called "drop-stitch fabric" or "drop-stitch core") is a construction method in which thousands of individual polyester threads connect the top and bottom layers of a fabric shell. When the shell is inflated, these threads act as internal tension members — they prevent the top and bottom panels from bulging outward into a round shape, forcing the panel to remain flat and rigid.</p>
+  <p>The result is a lightweight, portable structure that can withstand 15 – 20 PSI of internal pressure — comparable to the rigidity of a rigid pool wall but fully deflatable for storage and transport.</p>
 
-  <h2>כיצד זה עובד: הפיזיקה</h2>
-  <p>במבנה ניפחים רגיל (כמו בלון או מזרן אוויר), לחץ האוויר הפנימי דוחף באותה עוצמה לכל הכיוונים. ללא תימוך פנימי, המבנה הופך גלילי או כדורי. Drop-Stitch פותר זאת באמצעות חיזוק במתיחה:</p>
+  <h2>How It Works: The Physics</h2>
+  <p>In a conventional inflatable structure (like a balloon or an air mattress), the internal air pressure pushes equally in all directions. Without internal restraint, the structure becomes cylindrical or spherical. Drop stitch solves this by introducing tensile reinforcement:</p>
   <ul>
-    <li>אלפי חוטים מחברים בין שכבות הבד העליונה והתחתונה</li>
-    <li>כאשר המבנה מנופח, לחץ האוויר מנסה לדחוק את החלק העליון והתחתון זה מזה</li>
-    <li>החוטים מתנגדים להפרדה זו ומעבירים את העומס למתיחה לאורך ציר החוט</li>
-    <li>התוצאה היא לוח שטוח וקשיח העמיד לכיפוף</li>
+    <li>Thousands of threads connect the top and bottom fabric layers</li>
+    <li>When inflated, the air pressure tries to push the top and bottom apart</li>
+    <li>The threads resist this separation, transferring the load into tension along the thread axis</li>
+    <li>The result is a flat, rigid panel that resists bending</li>
   </ul>
 
-  <h2>תהליך הבנייה</h2>
+  <h2>Construction Process</h2>
   <ol>
-    <li><strong>אריגה:</strong> חוטי פוליאסטר נארגים בו-זמנית לשתי שכבות נפרדות של בד בסיס (בדרך כלל פוליאסטר מצופה PVC מסוג 1,100 DTEX או 1,680 DTEX). החוטים נארגים בלולאות בין השכבות בזווית של 90&deg;.</li>
-    <li><strong>ציפוי:</strong> בד הבסיס הארוג מצופה ב-PVC (או לעיתים ב-TPU) בתהליך ציפוי בסכין או ציפוי בקלנדר. הדבר אוטם את החוטים ויוצר את הממברנה האטומה לאוויר.</li>
-    <li><strong>חיבור שכבות:</strong> ליבת ה-Drop-Stitch מחוברת לשכבות למינציה חיצוניות (בדרך כלל PVC בעובי 0.9 מ״מ או 1.2 מ״מ) באמצעות למינציה בחום או דבק.</li>
-    <li><strong>ריתוך:</strong> רצועות הדפנות מרותכות לאורך הקצוות באמצעות ריתוך באוויר חם, ריתוך RF או ריתוך בתדירות גבוהה, ליצירת דפנות הלוח.</li>
-    <li><strong>התקנת שסתומים:</strong> מותקנים שסתומי Boston או שסתומי Halkey-Roberts, בדרך כלל עם מנגנון שחרור לחץ למניעת ניפוח יתר.</li>
+    <li><strong>Weaving:</strong> Polyester threads are woven simultaneously into two separate layers of base fabric (typically 1,100 DTEX or 1,680 DTEX PVC-coated polyester). The threads are loop-woven between the layers at a 90&deg; angle.</li>
+    <li><strong>Coating:</strong> The woven base fabric is coated with PVC (or occasionally TPU) using a knife-coating or calendar-coating process. This seals the threads and creates the air-tight membrane.</li>
+    <li><strong>Layer bonding:</strong> The drop-stitch core is bonded to outer laminated layers (typically 0.9 mm or 1.2 mm PVC) using heat lamination or adhesive.</li>
+    <li><strong>Welding:</strong> Rail bands are welded along the edges using hot air welding, RF welding, or high-frequency welding to create the side walls of the pool.</li>
+    <li><strong>Valve installation:</strong> Boston valves or Halkey-Roberts valves are installed, typically with a pressure relief mechanism to prevent over-inflation.</li>
   </ol>
 
-  <h2>מדדי איכות מרכזיים</h2>
+  <h2>Key Quality Indicators</h2>
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-gray-100">
-        <th class="p-3 text-left font-semibold text-gray-900 border">פרמטר</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">רמת כניסה</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">פרימיום</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Parameter</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Entry Level</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Premium</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="p-3 border">צפיפות חוטים</td><td class="p-3 border">חוט 1 / אינץ׳ רבוע</td><td class="p-3 border">2 חוטים / אינץ׳ רבוע</td></tr>
-      <tr><td class="p-3 border">בד בסיס</td><td class="p-3 border">1,100 DTEX</td><td class="p-3 border">1,680 DTEX</td></tr>
-      <tr><td class="p-3 border">לחץ מרבי</td><td class="p-3 border">12 – 15 PSI</td><td class="p-3 border">18 – 22 PSI</td></tr>
-      <tr><td class="p-3 border">עובי PVC</td><td class="p-3 border">0.6 – 0.9 מ״מ</td><td class="p-3 border">1.0 – 1.2 מ״מ</td></tr>
-      <tr><td class="p-3 border">מבנה דפנות</td><td class="p-3 border">מקופל ומודבק</td><td class="p-3 border">מרותך ומחובר בהיתוך</td></tr>
+      <tr><td class="p-3 border">Thread density</td><td class="p-3 border">1 thread / sq in</td><td class="p-3 border">2 threads / sq in</td></tr>
+      <tr><td class="p-3 border">Base fabric</td><td class="p-3 border">1,100 DTEX</td><td class="p-3 border">1,680 DTEX</td></tr>
+      <tr><td class="p-3 border">Max pressure</td><td class="p-3 border">12 – 15 PSI</td><td class="p-3 border">18 – 22 PSI</td></tr>
+      <tr><td class="p-3 border">PVC thickness</td><td class="p-3 border">0.6 – 0.9 mm</td><td class="p-3 border">1.0 – 1.2 mm</td></tr>
+      <tr><td class="p-3 border">Rail construction</td><td class="p-3 border">Folded &amp; glued</td><td class="p-3 border">Welded &amp; fusion-bonded</td></tr>
     </tbody>
   </table>
 
-  <h2>יישומים</h2>
+  <h2>Applications</h2>
   <ul>
-    <li><strong>לוחות SUP:</strong> עובי 4״ – 6״, 15 – 20 PSI, 1 – 2 חוטים/אינץ׳ רבוע</li>
-    <li><strong>קיאקים:</strong> רצפת Drop-Stitch + תאי צד ניפחים, רצפה בלחץ 10 – 15 PSI</li>
+    <li><strong>pools:</strong> 4" – 6" thickness, 15 – 20 PSI, 1 – 2 threads/sq in</li>
+    <li><strong>Inflatable docks:</strong> Drop-stitch deck + perimeter chambers, 10 – 15 PSI surface</li>
   </ul>
 
-  <h2>Drop-Stitch לעומת סיפון אוויר (ליבת פיברגלס או עץ)</h2>
-  <p>לוחות קשיחים משתמשים בליבות קצף EPS עם חיזוק פיברגלס או קורות עץ. הם קלים יותר, קשיחים יותר ורספונסיביים יותר — אך לא ניתן לרוקנם. Drop-Stitch מקריב מעט קשיחות תמורת ניידות מלאה. עבור רוב המשתמשים הפנאיים, לוחות Drop-Stitch מודרניים בלחץ 20 PSI אינם נבדלים בקשיחותם מלוחות קשיחים ברמת כניסה.</p>
+  <h2>Drop Stitch vs. Air Deck (Fiberglass or Wood Core)</h2>
+  <p>Rigid pools use steel, resin, or composite panels. They are permanent structures that cannot be moved or stored away. Drop stitch trades permanent installation for full portability. For most families, modern drop-stitch pools at 15 PSI are indistinguishable from entry-level rigid pools in everyday rigidity.</p>
 
-  <h2>כיצד OLagoon משתמשת ב-Drop-Stitch</h2>
-  <p>OLagoon משתמשת בליבת Drop-Stitch מסוג 1,680 DTEX בכל סדרת לוחות ה-SUP שלה, עם 2 חוטים לאינץ׳ רבוע ולמינציה חיצונית של PVC בעובי 1.2 מ״מ. הלוחות מדורגים ל-20 PSI ועוברים בדיקת החזקת לחץ של 24–48 שעות בלחץ של פי 1.25 מהלחץ המדורג לפני המשלוח. רצועות הדפנות מרותכות באוויר חם עם היתוך בשלוש שכבות, ושסתומי שחרור לחץ הם סטנדרט בכל הדגמים.</p>
+  <h2>How OLagoon Uses Drop Stitch</h2>
+  <p>OLagoon uses a 1,680 DTEX drop-stitch core across its pool lineup, with 16,000 threads per square metre and a 1.2 mm PVC outer laminate. Pools are rated to 18 PSI and undergo a 24–48 hour pressure hold test at 1.25x rated pressure before shipment. Rail bands are hot-air welded with triple-layer fusion, and pressure relief valves are standard across all models.</p>
 
 cta:
-  title: 'רוצים ללמוד עוד על Drop-Stitch?'
-  subtitle: 'צרו איתנו קשר למפרטים טכניים ולפניות OEM.'
-  button_text: 'צרו קשר עם המכירות'
+  title: 'Want to learn more about drop stitch?'
+  subtitle: 'Contact us for technical specifications and OEM inquiries.'
+  button_text: 'Contact sales'
   button_link: /contact/

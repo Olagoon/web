@@ -1,24 +1,24 @@
 meta:
-  title: OLagoon aufblasbare Paddleboards kaufen | OLagoon
-  description: Erfahre, wie du ein aufblasbares OLagoon Paddleboard kaufst — über einen offiziellen Landesdistributor oder direkt vom OLagoon-Team.
+  title: Where to Buy OLagoon Inflatable Pools | OLagoon
+  description: Find out how to buy an OLagoon inflatable pool — through an official distributor in your country or directly from the OLagoon team. Tell us where you live and we will point you to your nearest dealer.
 hero:
-  tagline: Wo kaufen
-  title: Bring dein OLagoon SUP aufs Wasser
-  subtitle: OLagoon-Boards erreichen Paddler in über 50 Ländern. Finde den einfachsten Weg zu deinem Board — über einen offiziellen Händler in deiner Nähe oder direkt vom OLagoon-Team.
+  tagline: Where to Buy
+  title: Get Your OLagoon pool on the Water
+  subtitle: OLagoon pools reach families in 50+ countries. Find the simplest way to get yours — through an official distributor near you or directly from the OLagoon team.
 channels:
   items:
-    - title: Offizielle Landesdistributoren
-      description: OLagoon arbeitet mit exklusiven Distributoren in vielen Ländern. Sag uns, wo du paddelst, und wir verbinden dich mit deinem lokalen Händler, Preisen und Verfügbarkeiten.
-      cta: Finde deinen lokalen Händler
+    - title: Official Country Distributors
+      description: OLagoon works with exclusive distributors in many countries. Tell us where you live and we will connect you with your local dealer, pricing, and availability.
+      cta: Find Your Local Dealer
       href: /contact/?subject=Where to Buy
-    - title: Direkt bei OLagoon bestellen
-      description: Noch kein Distributor in deinem Land? Das OLagoon-Team organisiert Direktbestellungen und Versand, damit du überall aufs Wasser kommst.
-      cta: Verfügbarkeit anfragen
+    - title: Order Direct from OLagoon
+      description: No distributor in your country yet? The OLagoon team can arrange direct orders and shipping so you can get on the water wherever you live.
+      cta: Request Availability
       href: /contact/?subject=Where to Buy
 form_intro:
-  title: Verfügbarkeit erfragen
-  subtitle: Schick uns eine Nachricht mit deinem Land und dem Board, das dich interessiert. Unser Team antwortet innerhalb eines Werktags mit dem nächstgelegenen Händler oder Direktbestell-Optionen.
+  title: Ask About Availability
+  subtitle: Send us a message with your country and the pool you are interested in. Our team will reply within one business day with your nearest dealer or direct-order options.
 business_note:
-  text: Du kaufst für einen Club, ein Resort oder ein Geschäft? Entdecke unsere Business- und Partnerprogramme.
-  cta: Für Geschäftspartner
+  text: Buying for a club, resort, or store? Explore our business and partnership programs.
+  cta: For Business Partners
   href: /solutions/

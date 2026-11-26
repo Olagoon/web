@@ -1,39 +1,39 @@
 meta:
-  title: 'Az afarar márka — Tengeri mérnökség és partnerség | {SITE}'
-  description: 'olagoon: felfújható tengeri márka, amely vízisport márkákkal, forgalmazókkal, tengeri klubokkal és vállalatokkal partnerségben dolgozik közös márkás kollekciókon, saját márkán és országos disztribúciós programokon keresztül.'
+  title: 'The olagoon Brand — Marine Engineering & Partnership | {SITE}'
+  description: 'olagoon: an inflatable marine brand partnering with water sports brands, distributors, nautical clubs, and enterprises through co-branded collections, private label, and country distribution programs.'
   keywords:
-    - 'olagoon márka'
-    - 'felfújható SUP márka'
-    - 'kínai sup gyártó'
+    - 'olagoon brand'
+    - 'inflatable pools brand'
+    - 'china pool manufacturer'
 hero:
-  tagline: 'Márka'
+  tagline: Brand
   title: '{BRAND}'
-  subtitle: 'Óceáni teljesítmény minden szörfözőnek'
-  cta: 'Felszerelés felfedezése →'
+  subtitle: Ocean Performance for Every Surfer
+  cta: Explore Gear →
   cta_link: /products/
-  secondary_cta: 'Tanuljon szörfözni'
+  secondary_cta: Explore Pools
   secondary_cta_link: /guides/
 
 position:
-  tagline: 'Pozicionálás'
-  subtitle: 'Óceáni teljesítmény minden szörfözőnek'
+  tagline: Position
+  subtitle: Ocean Performance for Every Surfer
 
 products_section:
-  tagline: 'Termékek'
-  cta: 'Minden termék →'
+  tagline: Products
+  cta: All Products →
   cta_link: /products/
 
 global_section:
-  tagline: 'Globális'
-  title: 'Elérhető {count} régióban'
+  tagline: Global
+  title: Available in {count} Regions
 
 social_section:
-  tagline: 'Közösségi'
-  title: 'Amit a szörfözők olvasnak'
-  read_guide: 'Útmutató elolvasása →'
+  tagline: Social
+  title: What surfers are reading
+  read_guide: Read guide →
 
 cta_section:
-  title: 'Kezdje el óceáni utazását'
-  subtitle: 'Minden termék CE-tanúsítvánnyal. Garanciával alátámasztva. Valódi szörfre tervezve.'
+  title: Start your ocean journey
+  subtitle: Every product CE certified. Backed by warranty. Engineered for real backyards.
   cta_suffix: '→'
-  secondary_cta: 'A {BRAND}-ról'
+  secondary_cta: About {BRAND}

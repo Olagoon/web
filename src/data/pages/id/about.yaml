@@ -1,122 +1,122 @@
 meta:
-  title: 'Tentang OLagoon — Merek SUP Tiup & Olahraga Air | {SITE}'
-  description: 'OLagoon adalah merek SUP tiup dan olahraga air global, dioperasikan oleh Olagoon LLC (AS) dan dibangun oleh Tim Operasi Qingdao kami. Temukan kisah kami, rekayasa, kualitas tersertifikasi, dan program mitra negara.'
+  title: 'About OLagoon — inflatable pools & Water Sports Brand | {SITE}'
+  description: 'OLagoon is a global inflatable pools and water sports brand, operated by Olagoon LLC and built by our Qingdao Operation Team. Discover our story, engineering, certified quality, and country partner programs.'
   keywords:
-    - 'merek SUP tiup'
-    - 'merek olahraga air'
-    - 'distributor sup negara'
-    - 'koleksi sup ko-brand'
+    - 'inflatable pools brand'
+    - 'water sports brand'
+    - 'country pool distributor'
+    - 'co-branded pool collections'
 hero:
-  tagline: 'Tentang kami'
+  tagline: About us
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'pabrik dan workshop olagoon'
+    alt: olagoon factory and workshop
   title: |
-    Rekayasa marinir, <br />
-    dibangun dengan cara <span class="text-accent dark:text-white">olagoon</span>
-  subtitle: 'Kami memulai di workshop pesisir dengan satu papan dan keyakinan teguh: produk marinir harus direkayasa seolah-olah penting, karena memang demikian. Hari ini kami mengirim ke lebih dari 40 negara, tetapi setiap lambung tetap melewati tangan yang sama yang memulai perusahaan ini.'
+    Marine engineering, <br />
+    built the <span class="text-accent dark:text-white">olagoon</span> way
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
 
 stats:
-  title: 'Dalam angka'
+  title: By the numbers
   columns: 4
   stats:
-    - title: 'Lambung terkirim'
-      amount: '2.400+'
-    - title: 'Negara tujuan pengiriman'
+    - title: Hulls delivered
+      amount: '2,400+'
+    - title: Countries shipped
       amount: '40'
-    - title: 'Tahun pengalaman gabungan'
+    - title: Years of combined experience
       amount: '60'
-    - title: 'Rata-rata respons garansi (jam)'
+    - title: Average warranty response (hours)
       amount: '24'
 
 features3_what_we_build:
-  title: 'Apa yang kami bangun'
-  subtitle: 'Kami memulai di workshop pesisir dengan satu papan dan keyakinan teguh: produk marinir harus direkayasa seolah-olah penting, karena memang demikian. Hari ini kami mengirim ke lebih dari 40 negara, tetapi setiap lambung tetap melewati tangan yang sama yang memulai perusahaan ini.'
+  title: What we build
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
   columns: 3
   isBeforeContent: true
   items:
-    - title: 'Papan SUP'
-      description: 'Papan SUP tiup dari 9 ft hingga 12 ft. Dirancang untuk touring, yoga, memancing, dan penggunaan keluarga.'
+    - title: pools
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:ship
-    - title: 'SUP tiup'
-      description: 'Papan SUP tiup PVC dari 9 ft hingga 12 ft. Ringan, kuat, dan mudah disimpan.'
+    - title: inflatable pools
+      description: PVC inflatable pools from 9 ft to 12 ft. Light, tough and easy to stow.
       icon: tabler:rowing
-    - title: 'Paket SUP premium'
-      description: 'SUP ringkas ber spesifikasi tinggi yang dibangun kustom sesuai merek atau kebutuhan armada Anda.'
+    - title: Premium pool packages
+      description: Compact, high-spec pools custom-built to match your brand or fleet requirements.
       icon: tabler:crown
 
 features3_more:
   columns: 3
   isAfterContent: true
   items:
-    - title: 'Aksesori'
-      description: 'Dayung, pompa, cover, dry-bag, dan elektronik. Semuanya disesuaikan dengan papan kami.'
+    - title: Accessories
+      description: Filters, pumps, covers, and accessories. All matched to our pools.
       icon: tabler:package
-    - title: 'Perbaikan & layanan'
-      description: 'Perbaikan papan internal, penggantian pad, dan peningkatan aksesori.'
+    - title: Repair & service
+      description: In-house pool repair, liner replacement and accessory upgrades.
       icon: tabler:tool
-    - title: 'Pembuatan kustom'
-      description: 'Desain per proyek untuk pelanggan komersial, ilmiah, dan militer.'
+    - title: Custom builds
+      description: Project-by-project design for commercial, scientific and military customers.
       icon: tabler:hammer
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-    alt: 'Diskusi desain dan rekayasa papan'
+    alt: Pool design and engineering discussion
 
 steps2_values:
-  title: 'Nilai-nilai kami'
-  subtitle: 'Tiga prinsip yang membentuk setiap produk sejak hari pertama.'
+  title: Our values
+  subtitle: Three principles that have shaped every product since day one.
   items:
-    - title: 'Bangun seolah membawa keluarga Anda'
-      description: 'Setiap lambung, lasan, dan pengencang diperlakukan seolah-olah keluarga kami sendiri yang akan menggunakannya.'
+    - title: Build like it carries your family
+      description: Every hull, weld and fastener is treated as if our own families will use it.
       icon: tabler:heart
-    - title: 'Rekayasa sebelum menjual'
-      description: 'Papan SUP tiup dari 9 ft hingga 12 ft. Dirancang untuk touring, yoga, memancing, dan penggunaan keluarga.'
+    - title: Engineer before we sell
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:settings
-    - title: 'Dukungan yang melebihi garansi'
-      description: 'Lambung berusia dua puluh tahun masih menelepon kami untuk suku cadang, dan kami tetap mengangkatnya.'
+    - title: Support that outlasts the warranty
+      description: Twenty-year-old hulls still call us for spare parts, and we still pick up.
       icon: tabler:headset
 
 steps2_milestones:
-  title: 'Tonggak pencapaian'
-  subtitle: 'Versi singkat kisah olagoon.'
+  title: Milestones
+  subtitle: A short version of the olagoon story.
   isReversed: true
   items:
-    - title: 'Didirikan di workshop pesisir'
-      description: 'Dimulai oleh dua insinyur marinir dengan mesin CNC dan ide yang teguh.'
+    - title: Founded in a coastal workshop
+      description: Started by two marine engineers with a CNC mill and a stubborn idea.
       icon: tabler:building-factory
-    - title: '1.000 lambung pertama terkirim'
-      description: 'Tercapai di tahun ketujuh kami, sebagian besar melalui promosi dari mulut ke mulut dan pelanggan berulang.'
+    - title: First 1,000 hulls delivered
+      description: Reached in our seventh year, mostly through word of mouth and repeat customers.
       icon: tabler:circle-check
-    - title: 'Program ekspor internasional'
-      description: 'Kini mengirim ke 40+ negara dengan mitra dukungan lokal di lima benua.'
+    - title: International export programme
+      description: Now shipping to 40+ countries with localised support partners on five continents.
       icon: tabler:world
 
 features2_locations:
-  title: 'Lokasi kami'
-  tagline: 'Temukan kami'
+  title: Our locations
+  tagline: Find us
   columns: 3
   items:
-    - title: 'Kantor pusat & workshop'
-      description: 'Papan SUP tiup dari 9 ft hingga 12 ft. Dirancang untuk touring, yoga, memancing, dan penggunaan keluarga.'
-    - title: 'Pusat layanan UE'
-      description: 'Papan SUP tiup dari 9 ft hingga 12 ft. Dirancang untuk touring, yoga, memancing, dan penggunaan keluarga.'
-    - title: 'Jaringan mitra APAC'
-      description: 'Mitra layanan resmi di Australia, Jepang, Singapura, dan Hong Kong.'
+    - title: Headquarters & workshop
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: EU service centre
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: APAC partner network
+      description: Authorised service partners in Australia, Japan, Singapore and Hong Kong.
 
-brand_hub_tagline: 'Merek'
-brand_hub_title: 'Jelajahi Merek Kami'
-brand_hub_subtitle: 'Pelajari lebih dalam keahlian rekayasa SUP kami, kehadiran global, dan prinsip-prinsip yang mendorong kami.'
+brand_hub_tagline: Brand
+brand_hub_title: Explore Our Brand
+brand_hub_subtitle: Dive deeper into our pool engineering expertise, global presence, and the principles that drive us.
 
 brand_hub_cards:
-  - title: 'Keahlian Marinir'
-    desc: 'Puluhan tahun ilmu material, manufaktur presisi, dan pengujian dunia nyata — dari fabrikasi PVC hingga desain lambung deep-V dan teknologi drop-stitch.'
+  - title: Marine Expertise
+    desc: Decades of material science, precision manufacturing, and real-world testing — from PVC fabrication to deep-V hull design and drop-stitch technology.
     link: /brand-marine-expertise/
-    link_label: 'Pelajari lebih lanjut →'
-  - title: 'Kehadiran Global'
-    desc: 'Mengirim ke 50+ negara dari fasilitas Qingdao kami dengan mitra layanan resmi di seluruh Eropa, Asia-Pasifik, dan Amerika.'
+    link_label: 'Learn more →'
+  - title: Global Presence
+    desc: Shipping to 50+ countries from our Qingdao facility with authorized service partners across Europe, Asia-Pacific, and the Americas.
     link: /brand-global-presence/
-    link_label: 'Pelajari lebih lanjut →'
-  - title: 'Mengapa olagoon'
-    desc: 'Merek yang dibangun di atas kualitas terverifikasi — sertifikasi ganda (ISO 9001 + BSCI), kepatuhan CE, dan kemitraan negara eksklusif dengan koleksi ko-brand terbatas untuk bisnis olahraga air.'
+    link_label: 'Learn more →'
+  - title: Why olagoon
+    desc: A brand built on verified quality — dual certification (ISO 9001 + BSCI), CE compliance, and exclusive country partnerships with limited co-branded collections for water-sports businesses.
     link: /brand-why-olagoon/
-    link_label: 'Pelajari lebih lanjut →'
+    link_label: 'Learn more →'

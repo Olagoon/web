@@ -1,72 +1,72 @@
 meta:
-  title: 'Партнеры — дистрибуция и опт | {SITE}'
-  description: 'Станьте партнером olagoona: дистрибьюторские сети, оптовые цены, программы OEM/собственных марок и поддержка для компаний paddle board по всему миру.'
+  title: 'Partners — Distribution & Wholesale | {SITE}'
+  description: 'Become an olagoon partner: distribution networks, wholesale pricing, OEM/private label programs, and support for inflatable pool businesses worldwide.'
   keywords:
-    - 'дистрибьюторский партнер SUP'
-    - 'paddle board оптом'
-    - 'дистрибьютор надувных SUP'
-    - 'партнерство SUP'
+    - 'pool distribution partner'
+    - 'inflatable pool wholesale'
+    - 'inflatable pools distributor'
+    - 'pool partnership'
 hero:
-  tagline: Партнеры и дистрибуция
-  title: Станьте партнером olagoon<br />— глобальная дистрибьюторская сеть
-  subtitle: Присоединяйтесь к глобальной партнерской сети olagoon. Мы сотрудничаем с морскими дистрибьюторами, дилерами лодок, магазинами оборудования и брендовыми партнерами более чем в 50 странах.
+  tagline: Partners & Distribution
+  title: 'Become an olagoon Partner<br />— Global Distribution Network'
+  subtitle: "Join olagoon's global partner network. We work with pool and outdoor distributors, specialty retailers, equipment dealers, and brand partners in 50+ countries."
   image:
     src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
-    alt: глобальная партнерская и дистрибьюторская сеть OLagoon
+    alt: olagoon global partner and distributor network
 content_programs:
-  tagline: Партнёрские программы
-  title: Партнерские программы<br />созданы для роста
-  subtitle: Являетесь ли вы дистрибьютором, дилером или бренд-партнером, olagoon предлагает программы, разработанные для поддержки вашего бизнеса.
+  tagline: Partner Programs
+  title: 'Partner Programs<br />Built for Growth'
+  subtitle: 'Whether you are a distributor, dealer, or brand partner, olagoon offers programs designed to support your business.'
   columns: 3
   items:
-    - title: Программа для дистрибьюторов
-      description: Эксклюзивная территориальная дистрибуция с оптовыми ценами, маркетинговой поддержкой и прямым доступом к фабрике. Минимальные обязательства в зависимости от размера территории.
+    - title: 'Distributor Program'
+      description: 'Exclusive territory distribution with volume pricing, marketing support, and direct factory access. Minimum commitment required based on territory size.'
       icon: tabler:world
-    - title: Программа для дилеров
-      description: Прямые дилерские цены, обучение продукту, маркетинговые материалы и гарантийная поддержка для розничных точек и интернет-магазинов.
+    - title: 'Dealer Program'
+      description: 'Direct dealer pricing, product training, marketing materials, and warranty support for retail locations and online stores.'
       icon: tabler:building-store
-    - title: Партнёрство OEM/ODM
-      description: Полносервисное производство OEM и ODM с индивидуальным брендингом, упаковкой и спецификациями продукта. От концепции до контейнера.
+    - title: 'OEM/ODM Partnership'
+      description: 'Full-service OEM and ODM manufacturing with custom branding, packaging, and product specifications. From concept to container.'
       icon: tabler:certificate
-    - title: Партнёрство с брендом
-      description: Кобрендинг, частные марки и эксклюзивные модельные программы для известных брендов в сфере морского и наружного отдыха.
+    - title: 'Brand Partnership'
+      description: 'Co-branding, private label, and exclusive model programs for established brands in the marine and outdoor recreation space.'
       icon: tabler:stars
-    - title: Правительственный и институциональный
-      description: Программы предпочтительных поставщиков для государственных учреждений, береговой охраны, военных и гуманитарных организаций. Документация, готовая к тендерам.
+    - title: 'Government & Institutional'
+      description: 'Preferred supplier programs for government agencies, coast guards, military, and humanitarian organizations. Tender-ready documentation.'
       icon: tabler:building-community
-    - title: Курорт и арендный партнер
-      description: Цены для флота, стабильное качество и индивидуальный брендинг для курортов, дайвинг-центров и прокатных операций по всему миру.
+    - title: 'Resort & Rental Partner'
+      description: 'Fleet pricing, consistent quality, and custom branding for resorts, diving centers, and rental operations worldwide.'
       icon: tabler:sun
 content_benefits:
-  tagline: Почему сотрудничать с нами
-  title: Почему партнеры выбирают olagoon
-  subtitle: Наши партнеры получают выгоду от реальных производственных мощностей, стабильного качества и оперативной поддержки.
+  tagline: Why Partner With Us
+  title: 'Why Partners Choose olagoon'
+  subtitle: 'Our partners benefit from real manufacturing capability, consistent quality, and responsive support.'
   list:
-    - 'Прямой доступ к фабрике: Работа напрямую с нашей производственной командой — без посредников. Получайте более быстрые ответы, лучшие цены и полную информацию о производстве.'
-    - 'Готово к кастомизации: брендуйте ваши продукты с помощью индивидуальных цветов, логотипов, упаковки и спецификаций. Минимальные объемы заказа адаптированы под ваш рынок.'
-    - 'Гарантия качества: производство сертифицировано по ISO 9001 с соответствием стандартам CE, UKCA и BSCI. Каждый продукт тестируется перед отправкой.'
-    - 'Глобальная логистика: доставка из Циндао, Китай с вариантами FOB, CIF и DDP. Склад в США в Монтклере, Калифорния для распределения по Северной Америке.'
-    - 'Маркетинговая поддержка: каталоги продукции, фотографии, техническая документация и цифровые ресурсы для поддержки ваших продаж.'
-    - 'Обучение и поддержка: Обучение продукту для вашей команды продаж, техническая поддержка для ваших клиентов и координация сервисного обслуживания по гарантии.'
+    - 'Direct Factory Access: Work directly with our manufacturing team — no middlemen. Get faster responses, better pricing, and full visibility into production.'
+    - 'Customization Ready: Brand your products with custom colors, logos, packaging, and specifications. Minimum order quantities tailored to your market.'
+    - 'Quality Guaranteed: ISO 9001 certified production with CE, UKCA, and BSCI compliance. Every product tested before shipping.'
+    - 'Global Logistics: Shipping from Qingdao, China with FOB, CIF, and DDP options. US warehouse in Montclair, CA for North American distribution.'
+    - 'Marketing Support: Product catalogs, photography, technical documentation, and digital assets to support your sales efforts.'
+    - 'Training & Support: Product training for your sales team, technical support for your customers, and warranty service coordination.'
 content_process:
-  tagline: Как стать партнером
-  title: Простой процесс партнерства
-  subtitle: Наш процесс партнерства прост и понятен — разработан, чтобы вы могли быстро начать продавать продукцию olagoon.
+  tagline: How to Become a Partner
+  title: 'Simple Partnership Process'
+  subtitle: 'Our partnership process is straightforward — designed to get you selling olagoon products quickly.'
   items:
-    - title: 'Шаг 1: Подайте заявку'
-      description: Заполните нашу форму заявки партнера с профилем компании, целевым рынком и интересами в продуктах.
-    - title: 'Шаг 2: Проверка квалификации'
-      description: Наша команда по партнерству рассматривает вашу заявку и связывается с вами в течение 3 рабочих дней для обсуждения возможностей.
-    - title: 'Шаг 3: Соглашение и настройка'
-      description: Подпишите партнерское соглашение, настройте свой аккаунт и получите партнерские цены, маркетинговые материалы и образцы продукции.
-    - title: 'Шаг 4: Обучение и запуск'
-      description: Обучение продукту, поддержка продаж и маркетинговые материалы предоставляются. Вы готовы начать продажи.
+    - title: 'Step 1: Submit Application'
+      description: 'Complete our partner application form with your company profile, target market, and product interests.'
+    - title: 'Step 2: Qualification Review'
+      description: 'Our partnership team reviews your application and contacts you within 3 business days to discuss opportunities.'
+    - title: 'Step 3: Agreement & Setup'
+      description: 'Sign a partnership agreement, set up your account, and receive partner pricing, marketing materials, and product samples.'
+    - title: 'Step 4: Training & Launch'
+      description: 'Product training, sales support, and marketing collateral provided. You are ready to start selling.'
 cta:
-  title: Готовы стать партнером olagoon?
-  subtitle: Подайте заявку на партнерство, и наша команда ответит в течение 3 рабочих дней.
+  title: 'Ready to become an olagoon partner?'
+  subtitle: 'Apply for partnership and our team will respond within 3 business days.'
   actions:
     - variant: primary
-      text: Подать заявку на партнерство
+      text: Apply for partnership
       href: /contact/
-    - text: Просмотрите наши продукты
+    - text: View our products
       href: /products/

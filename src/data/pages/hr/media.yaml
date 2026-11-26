@@ -1,64 +1,64 @@
 meta:
-  title: 'Medijski centar — Mediji i resursi olagoon | {SITE}'
-  description: 'Medijski centar olagoon: priopćenja za tisak, resursi marke i materijali naše tvrtke za proizvodnju napuhivih SUP dasaka.'
+  title: 'Media Center — Press & olagoon Resources | {SITE}'
+  description: 'The olagoon media center: press releases, brand assets, and resources from our inflatable pools manufacturing company.'
   keywords:
-    - 'olagoon tisak'
-    - 'mediji proizvođača sup dasaka'
-    - 'medijski komplet paddleboard dasaka'
-    - 'vijesti nautičke tvrtke'
+    - 'olagoon press'
+    - 'pool manufacturer media'
+    - 'inflatable pool press kit'
+    - 'nautical company news'
 hero:
-  tagline: 'Resursi'
-  title: 'Medijski centar'
-  subtitle: 'Preuzmite resurse marke, fotografije proizvoda, kataloge i video snimke'
+  tagline: Resources
+  title: Media Center
+  subtitle: Download brand assets, product imagery, catalogs, and videos
 
 sections:
   - id: product-images
-    title: 'Fotografije proizvoda'
-    desc: 'Fotografije proizvoda u visokoj rezoluciji za web, tisak i maloprodaju.'
+    title: Product Images
+    desc: High-resolution product photos for web, print, and retail use.
     items:
-      - 'Galerija SUP dasaka'
-      - 'Galerija Drop-Stitch SUP-ova'
-      - 'Galerija napuhivih SUP-ova'
-      - 'Dodaci i sigurnosna oprema'
+      - pools Gallery
+      - Drop-Stitch pools Gallery
+      - inflatable pools Gallery
+      - Accessories & Safety Gear
   - id: logo-brand-kit
-    title: 'Logotip i komplet marke'
-    desc: 'Službene datoteke logotipa olagoon, paleta boja, tipografija i smjernice marke.'
+    title: Logo & Brand Kit
+    desc: Official olagoon logo files, colour palette, typography, and brand guidelines.
     items:
-      - 'Primarni logotip (PNG/SVG/EPS)'
-      - 'Znak ikone'
-      - 'Paleta boja'
-      - 'Specifikacije tipografije'
-      - 'Smjernice marke PDF'
+      - Primary Logo (PNG/SVG/EPS)
+      - Icon Mark
+      - Colour Palette
+      - Typography Specs
+      - Brand Guidelines PDF
   - id: catalogs
-    title: 'PDF katalozi'
-    desc: 'Katalozi proizvoda, tehnički listovi i tehnička dokumentacija za preuzimanje.'
+    title: PDF Catalogs
+    desc: Product catalogs, spec sheets, and technical documentation for download.
     items:
-      - 'Katalog proizvoda 2026'
-      - 'Prezentacija OEM/ODM mogućnosti'
-      - 'Brošura SUP serije'
-      - 'Tehničke specifikacije'
+      - 2026 Product Catalog
+      - OEM/ODM Capability Deck
+      - pool Series Brochure
+      - Technical Specifications
   - id: videos
-    title: 'Video snimke'
-    desc: 'Demonstracije proizvoda, obilasci tvornice, filmovi o marki i svjedočanstva kupaca.'
+    title: Videos
+    desc: Product demos, factory tours, brand films, and customer testimonials.
     items:
-      - 'Demonstracije proizvoda'
-      - 'Obilazak tvornice'
-      - 'Film o marki'
-      - 'Priče kupaca'
-      - 'Praktični vodiči'
+      - Product Demos
+      - Factory Tour
+      - Brand Film
+      - Customer Stories
+      - How-To Guides
 
-request_access: 'Zatražite pristup →'
+request_access: Request access →
 
 cta:
-  title: 'Trebate pomoć u pronalaženju resursa?'
-  desc: 'Kontaktirajte naš tim za marku za prilagođene zahtjeve za resursima, medijska partnerstva ili medijske upite.'
+  title: Need help finding assets?
+  desc: Contact our brand team for custom asset requests, media partnerships, or press inquiries.
   links:
-    - label: 'Posjetite našu tvornicu'
+    - label: Visit our factory
       href: /factory/
-      desc: 'Pogledajte naš proizvodni objekt od 12,000 m²'
-    - label: 'Smjernice marke'
+      desc: See our 12,000 sqm manufacturing facility
+    - label: Brand guidelines
       href: /brand/
-      desc: 'Saznajte više o marki olagoon'
-    - label: 'Postanite naš partner'
+      desc: Learn about the olagoon brand
+    - label: Partner with us
       href: /contact/
-      desc: 'OEM, ODM i distribucijski upiti'
+      desc: OEM, ODM, and distribution inquiries

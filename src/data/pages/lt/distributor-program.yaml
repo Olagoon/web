@@ -1,128 +1,117 @@
 meta:
-  title: 'Šalių partneriai — viena šalis, vienas oficialus OLagoon platintojas | {SITE}'
-  description: 'Teikite paraišką tapti oficialiu OLagoon platintoju savo šalyje. Vienas įgaliotas partneris rinkai, teritorijos apsauga, tiesioginiai gamyklos maržos, kasmetės premijos ir 10 modulių šalies partnerio palaikymo programa pasaulio SUP ir vandens sporto platintojams.'
+  title: 'Country Partners — One Country, One Official OLagoon Distributor | {SITE}'
+  description: 'Apply to become the official OLagoon distributor for your country. One authorized partner per market, territory protection, direct-factory margins, annual rebates, and a 10-module country partner support program for global pool and water sports distributors.'
   keywords:
-    - 'šalių partnerystės programa'
-    - 'tapti platintoju'
-    - 'SUP platintojo teisės'
-    - 'viena šalis vienas platintojas'
-    - 'stovėjimo irklente platintojas'
-    - 'vandens sporto platinimas'
-    - 'šalių partnerystės paraiška'
+    - 'country partnership program'
+    - 'become a distributor'
+    - 'pool distributorship'
+    - 'one country one distributor'
+    - 'stand up paddle distributor'
+    - 'water sports distribution'
+    - 'country partnership application'
 hero:
-  tagline: 'Šalių partnerystė'
-  title: 'Viena šalis.<br />Vienas oficialus OLagoon platintojas.'
-  subtitle: 'OLagoon skiria vieną įgaliotą šalies platintoją kiekvienai patvirtintai rinkai. Išskirtinė teritorija, prekiautojų kainos su kasmetėmis premijomis ir pilna platintojų palaikymo programa — mainais už pasirašytą sutartį ir realų įsipareigojimą kurti rinką.'
+  tagline: 'Country Partnership'
+  title: 'One Country.<br />One Official OLagoon Distributor.'
+  subtitle: 'OLagoon appoints a single authorized country distributor for each approved market. Exclusive territory, dealer pricing with annual rebates, and a full distributor support program — in exchange for a signed agreement and a real commitment to build the market.'
   actions:
-    - text: 'Teikti paraišką dėl šalių partnerystės'
+    - text: 'Apply for Country Partnership'
       href: /contact/?subject=Country Partnership Application
-      variant: 'primary'
-    - text: 'Raskite savo vietinį platintoją'
+      variant: primary
+    - text: 'Find Your Local Distributor'
       href: /distributor-program/
-      variant: 'secondary'
-    - text: 'Gauti prekiautojų kainoraštį'
+      variant: secondary
+    - text: 'Request Dealer Price List'
       href: /contact/?subject=Dealer Price List
-      variant: 'secondary'
+      variant: secondary
 stats:
   - value: '1'
-    label: 'Oficialus platintojas kiekvienai šaliai ar regionui'
+    label: 'Official distributor per country or region'
   - value: '100–300'
-    label: 'Minimalus pirmasis užsakymas (Šalies / Regioninis)'
+    label: 'Minimum first order (Country / Regional)'
   - value: '50+'
-    label: 'Šalys, aptarnaujamos visame pasaulyje'
-  - value: '30–45'
-    label: 'Dienų standartinis pagaminimo terminas (FOB Čingdao)'
+    label: 'Countries served globally'
+  - value: '12–16'
+    label: 'Weeks standard lead time (FOB Qingdao)'
 features:
-  title: 'Kodėl verta bendradarbiauti su OLagoon'
-  subtitle: 'Vienos šalies — vieno platintojo modelis su palaikymo struktūra, padedančia teritorijai atsipirkti. Išskirtinumas užsidirbamas ir išlaikomas — tai nėra nuolatinė teisė.'
+  title: 'Why Partner With OLagoon'
+  subtitle: 'A one-country-one-distributor model with the support structure to make the territory pay. Exclusivity is earned and maintained — not a permanent right.'
   columns: 3
   items:
-    - title: 'Teritorijos išskirtinumas'
-      description: 'Vienas įgaliotas platintojas kiekvienai šaliai ar regionui. Jokių lygiagrečių importų, jokios vidinės konkurencijos. Jūsų investicija kuria jūsų paties pranašumą.'
+    - title: 'Territory Exclusivity'
+      description: 'One authorized distributor per country or region. No parallel imports, no internal competition. Your investment builds your own moat.'
       icon: 'tabler:shield-check'
-    - title: 'Kanalų konfliktų apsauga'
-      description: 'Tiesioginiai užsakymai iš jūsų regiono nukreipiami per jus, o kainodara apsaugo jūsų maržą. OLagoon neparduoda aplink savo šalių partnerius.'
+    - title: 'Channel Conflict Protection'
+      description: 'Direct orders from your region are routed through you, and pricing protects your margin. OLagoon does not sell around its country partners.'
       icon: 'tabler:users'
-    - title: 'Tiesioginės gamyklos maržos ir premijos'
-      description: 'Prekiautojų kainoraštis su premijomis už įsipareigotus kiekius. Jokių tarpininkų. FOB Čingdao siuntimas su pilna eksporto dokumentacija.'
+    - title: 'Direct-Factory Margins & Rebates'
+      description: 'Dealer price list with rebates on committed volumes. No middlemen. FOB Qingdao shipping with full export documentation.'
       icon: 'tabler:coins'
-    - title: '10 modulių partnerių palaikymo programa'
-      description: 'Įvedimas, rinkos įėjimas, mokymai, rinkodara ir bendras rinkos finansavimas, atsarginės dalys ir pardavimų aptarnavimas, garantija, užsakymo įrankiai ir partnerių portalas — visa tai numatyta jūsų Platinimo sutartyje.'
+    - title: '10-Module Partner Support Program'
+      description: 'Onboarding, go-to-market, training, marketing and joint market funding, spare parts and after-sales, warranty, ordering tools, and a partner portal — covered in your Distribution Agreement.'
       icon: 'tabler:rocket'
-    - title: 'Rinkodara ir bendras rinkos finansavimas'
-      description: 'Lokalizuotos kampanijos medžiaga, prekiautojų POS medžiagos, renginių rinkiniai, skaitmeninis turinys keliose kalbose ir bendros rinkodaros parama paleidimo sezonams.'
+    - title: 'Marketing & Joint Market Funds'
+      description: 'Localized campaign assets, dealer POS materials, event kits, digital content in multiple languages, and co-marketing support for launch seasons.'
       icon: 'tabler:mood-smile'
-    - title: 'Produkto, pardavimų ir techniniai mokymai'
-      description: 'Struktūruoti įvadiniai seansai apie produktą, pardavimus ir technines žinias, su atnaujinama medžiaga, besivystant asortimentui.'
+    - title: 'Product, Sales & Technical Training'
+      description: 'Structured onboarding sessions on product, sales, and technical knowledge, with updated materials as the range evolves.'
       icon: 'tabler:presentation'
-    - title: 'Atsarginės dalys ir pardavimų aptarnavimas'
-      description: 'Atsarginių dalių tiekimas, garantijos registracija ir pretenzijų tvarkymas, produkto duomenų lapai ir vadovai jūsų vietinei aptarnavimo komandai.'
+    - title: 'Spare Parts & After-Sales Support'
+      description: 'Spare parts supply, warranty registration and claims handling, and product datasheets and manuals for your local service team.'
       icon: 'tabler:settings'
-    - title: 'Skiriamasis sąskaitų vadybininkas ir partnerių portalas'
-      description: 'Asmeninis platintojų vadybininkas bei prieiga prie kainoraščių, užsakymų būsenos ir rinkodaros išteklių per OLagoon partnerių portalą.'
+    - title: 'Dedicated Account Manager & Partner Portal'
+      description: 'A personal distributor manager plus access to price lists, order status, and marketing resources through the OLagoon partner portal.'
       icon: 'tabler:user-check'
 table:
-  title: 'Partnerystės lygiai, MOQ ir užsakymo sąlygos'
-  subtitle: 'Pasirinkite lygį, atitinkantį jūsų rinkos potencialą. Visos kainos USD, FOB Čingdao.'
-  caption: 'Mėginių ir bandomieji užsakymai (5–30 vienetų) nesuteikia teritorijos apsaugos. Šalies išskirtinumas taikomas tik pasirašytoms Šalies / Regioninio platintojo sutartims — jis palaikomas pirmojo užsakymo įvykdymu, kasmetiniais pirkimo tikslais, vietinėmis atsargomis, pardavimų aptarnavimo galimybėmis ir tęsiamomis rinkos investicijomis, ir nėra nuolatinė ar amžina teisė.'
+  title: 'Partnership Tiers, MOQ & Order Terms'
+  subtitle: 'Choose the tier that matches your market potential. All prices in USD, FOB Qingdao.'
+  caption: 'Sample and trial orders (5–30 units) carry no territorial protection. Country exclusivity applies only to signed Country / Regional Distributor agreements — it is maintained by first-order completion, annual purchase targets, local stock, after-sales capability, and continued market investment, and is not a permanent or perpetual right.'
   head:
-    - 'Programos lygis'
-    - 'Minimalus užsakymas (vienetai)'
-    - 'Pagaminimo terminas'
-    - 'Apmokėjimas'
+    - Program Tier
+    - Minimum Order (units)
+    - Lead Time
+    - Payment
   rows:
-    - ['Mėginys / Produkto vertinimas', '5–10', '15–20 darbo dienos', '100 % išankstinis apmokėjimas']
-    - ['Bandomasis užsakymas', '10–30', '30–45 darbo dienos', '100 % išankstinis apmokėjimas']
-    - ['Įgaliotas prekiautojas', '30–50', '30–45 darbo dienos', '30 % avansas / 70 % prieš siuntimą']
-    - ['Šalies / Regioninis platintojas', '100–300', '30–45 darbo dienos', '30 % avansas / 70 % prieš siuntimą']
-    - [
-        'Pasirinktinis ir privatus prekės ženklas (standartinis)',
-        '50+',
-        '30–45 darbo dienos',
-        '30 % avansas / 70 % prieš siuntimą',
-      ]
-    - [
-        'Išsamus pasirinktinis (naujos formelės',
-        'pakuotė)',
-        '200+',
-        '45–60 darbo dienos',
-        '30 % avansas / 70 % prieš siuntimą',
-      ]
-    - ['Visos produktų linijos teisės', '300–1,000', '60–90 darbo dienos', '30 % avansas / 70 % prieš siuntimą']
+    - [Sample / Product Evaluation, 5–10, 15–20 working days, 100% prepaid]
+    - [Trial Order, 10–30, 15–20 working days, 100% prepaid]
+    - [Authorized Dealer, 30–50, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Country / Regional Distributor, 100–300, 10–14 weeks, 30% deposit / 70% before shipment]
+    - [Custom & Private Label (standard), 50+, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Deep Custom (new molds, packaging), 200+, 12–16 weeks + 15–20 days tooling, 30% deposit / 70% before shipment]
+    - [Full Product Line Rights, '300–1,000', 10–14 weeks, 30% deposit / 70% before shipment]
 faqs:
-  title: 'Šalių partnerystė — DUK'
-  subtitle: 'Klausimai, kurių klausia rimti šalių partneriai prieš teikdami paraišką.'
+  title: 'Country Partnership — FAQ'
+  subtitle: 'The questions serious country partners ask before applying.'
   items:
-    - title: 'Ką iš tiesų reiškia viena šalis — vienas platintojas?'
-      description: 'OLagoon skiria vieną įgaliotą platintoją su išskirtinėmis teisėmis apibrėžtai teritorijai. Mes neparduodame iš savo pasaulinių ar regioninių kanalų į apsaugotą šalį. Jūsų teritorijos nuosavybė galioja, kai laikomasi Platinimo sutarties.'
-    - title: 'Ar teritorija išskirtinė visam laikui?'
-      description: 'Ne. Išskirtinumas sąlyginis, ne amžinas. Jis palaikomas pasirašyta Platinimo sutartimi, pirmojo užsakymo įvykdymu, kasmetiniais pirkimo tikslais, vietinėmis atsargomis, pardavimų aptarnavimo galimybėmis ir tęsiamomis rinkos investicijomis. Jei šios sąlygos nesilaikoma, teritorija gali būti peržiūrėta arba perskirta.'
-    - title: 'Koks yra minimalus pirmasis užsakymas?'
-      description: 'Šalies ir regioniniai platintojai pradeda nuo 100–300 vienetų; įgalioti prekiautojai — nuo 30–50 vienetų; bandomieji užsakymai nuo 10–30 vienetų leidžia jums pirmiausia patikrinti rinką (bandomieji ir mėginių užsakymai nesuteikia teritorijos apsaugos). Pasirinktinės ir privataus prekės ženklo programos vadovaujasi atskirais MOQ, nurodytais aukščiau pateiktuose lygiuose.'
-    - title: 'Koks palaikymas įtrauktas į 10 modulių palaikymo programą?'
-      description: 'Lygiai ir kvalifikacija, teritorijos apsauga, MOQ / kainodara / kasmetės premijos, atsargos ir užsakymų vykdymas, rinkodaros medžiaga ir bendras rinkos finansavimas, produkto / pardavimų / techniniai mokymai, atsarginės dalys ir pardavimų aptarnavimas, garantijos registracija, partnerių portalas bei produkto duomenų lapai, rinkodaros medžiagos biblioteka, kasmetinis premijų grafikas ir siuntimo bei pakavimo sąrašai.'
-    - title: 'Kaip OLagoon apsaugo mane nuo kanalų konfliktų?'
-      description: 'Kiekvienoje teritorijoje yra tiksliai vienas įgaliotas platintojas. Užklausos ir tiesioginiai užsakymai iš jūsų regiono nukreipiami per jus, svetainės formos persiunčiamos vietiniam partneriui, jei toks yra, o pasaulinė komanda įsikiša tik tada, kai partneris neatsako.'
-    - title: 'Kokios yra siuntimo ir apmokėjimo sąlygos?'
-      description: 'Užsakymai siunčiami FOB Čingdao su pilna eksporto dokumentacija. Gamybos užsakymai — 30 % avansas ir 70 % prieš siuntimą; bandomieji ir mėginių užsakymai apmokami iš anksto. Standartinis pagaminimo terminas — 30–45 darbo dienos, o mėginių serijoms — 15–20 darbo dienų.'
-    - title: 'Kaip pateikti paraišką?'
-      description: 'Atsiųskite paraišką per kontaktų formą su rinkos detalėmis. Mes peržiūrime rinkos tinkamumą, mažmeninę buvimą ir logistikos galimybes, tada atsakome per 3 darbo dienas su tolesniais žingsniais ir pavyzdine Platinimo sutartimi.'
+    - title: 'What does one-country-one-distributor really mean?'
+      description: 'OLagoon appoints a single authorized distributor with exclusive rights for a defined territory. We do not sell from our global or regional channels into a protected country. Your territory ownership holds for as long as the Distribution Agreement is met.'
+    - title: 'Is the territory exclusive forever?'
+      description: 'No. Exclusivity is conditional, not perpetual. It is maintained through a signed Distribution Agreement, completion of your first order, annual purchase targets, local stock, after-sales capability, and continued market investment. If these are not met, the territory can be renegotiated or reassigned.'
+    - title: 'What is the minimum first order?'
+      description: 'Country and regional distributors start at 100–300 units; authorized dealers at 30–50 units; trial orders from 10–30 units let you validate the market first (trial and sample orders carry no territory protection). Custom and private-label programs follow separate MOQs listed in the tiers above.'
+    - title: 'What support is included in the 10-module support program?'
+      description: 'Tiers and qualification, territory protection, MOQ / pricing / annual rebates, inventory and order execution, marketing assets and joint market funds, product / sales / technical training, spare parts and after-sales, warranty registration, the partner portal, and product datasheets, marketing asset library, annual rebate schedule, and shipping and packing lists.'
+    - title: 'How does OLagoon protect me from channel conflict?'
+      description: 'Each territory has exactly one authorized distributor. Inquiries and direct orders from your region are routed through you, website forms are forwarded toward the local partner where one exists, and the global team only escalates when a partner does not respond.'
+    - title: 'What are the shipping and payment terms?'
+      description: 'Orders ship FOB Qingdao with full export documentation. Production orders are 30% deposit with 70% before shipment; trial and sample orders are prepaid. Production runs take 12–16 weeks at 50–100 units, 10–14 weeks at 300–1,000 units, and 8–12 weeks above 1,000 units; sample runs ship in 15–20 working days.'
+    - title: 'How do I apply?'
+      description: 'Send your application via the contact form with market details. We review market fit, retail presence, and logistics capability, then respond within 3 business days with next steps and a sample Distribution Agreement.'
 cta:
-  title: 'Valdykite savo rinką.'
-  subtitle: 'Teikite paraišką OLagoon šalių partnerystės programai ir gaukite atsakymą per 3 darbo dienas.'
+  title: 'Own your market.'
+  subtitle: 'Apply for the OLagoon Country Partnership and get a response within 3 business days.'
   actions:
-    - text: 'Teikti paraišką dėl šalių partnerystės'
+    - text: 'Apply for Country Partnership'
       href: /contact/?subject=Country Partnership Application
-      variant: 'primary'
-    - text: 'Atsisiųsti programos apžvalgą'
+      variant: primary
+    - text: 'Download the Program Overview'
       href: /distributor-program/
-      variant: 'secondary'
+      variant: secondary
 geo:
-  tagline: 'Su kuo mes bendradarbiaujame'
-  sentence: 'OLagoon bendradarbiauja su įsitvirtinusiais jūrinės, lauko ir sporto prekės platintojais, aptarnaujančiais mažmenines grandines, nuomos parkus, vandens sporto mokyklas, kurortus ir vyriausybinius pirkėjus, kokybiškomis pripučiamomis SUP lentomis ir vandens transportu — ir įsipareigojančiais kurti OLagoon prekės ženklą savo šalyje.'
+  tagline: 'Who We Partner With'
+  sentence: 'OLagoon partners with established marine, outdoor, and sports distributors who serve retail chains, rental fleets, water sports schools, resorts, and government buyers with premium inflatable pools and watercraft — and who commit to building the OLagoon brand in their country.'
   audiences:
-    - 'Jūrinės ir irklavimo sporto platintojai'
-    - 'Lauko ir sporto mažmeninė prekyba'
-    - 'Nuomos ir kurortų operatoriai'
-    - 'Vandens sporto mokyklos'
-    - 'Vandenyno sporto bendruomenės'
+    - 'Marine & Paddle Sports Distributors'
+    - 'Outdoor & Sports Retail'
+    - 'Rental & Resort Operators'
+    - 'Water Sports Schools'
+    - 'Ocean Sports Communities'

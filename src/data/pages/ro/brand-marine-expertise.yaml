@@ -1,72 +1,72 @@
 meta:
-  title: 'Expertiză maritimă — inginerie în fiecare cocă | {SITE}'
-  description: 'Decenii de inginerie marină în fiecare cocă. olagoon stăpânește construcția drop stitch, PVC-ul de calitate marină și proiectarea profesională a plăcilor SUP gonflabile.'
+  title: 'Marine Expertise — Engineering in Every Hull | {SITE}'
+  description: 'Decades of marine engineering in every hull. olagoon masters drop stitch, marine PVC, and professional inflatable pools design.'
   keywords:
-    - 'inginerie marină'
-    - 'producător plăci de SUP gonflabile'
-    - 'producție paddle board'
+    - 'marine engineering'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: Expertiză maritimă
-  title: Decenii de inginerie marină<br />în fiecare carenă
-  subtitle: olagoon combină știința avansată a materialelor, producția de precizie și testarea în condiții reale pentru a produce plăci care performează atunci când contează.
+  tagline: Marine Expertise
+  title: 'Decades of Marine Engineering<br />in Every Hull'
+  subtitle: 'olagoon combines deep material science, precision manufacturing, and real-world testing to produce watercraft that perform when it matters.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: Echipa olagoon de inginerie marină și R&D la lucru
+    alt: olagoon marine engineering and R&D team at work
 expertise_materials:
-  tagline: Știința Materialelor
-  title: Alegerea materialului potrivit<br />pentru fiecare aplicație
-  subtitle: Lucrăm cu două materiale de bază — fiecare selectat pentru cazuri de utilizare specifice și cerințe de performanță.
+  tagline: Material Science
+  title: 'Choosing the Right Material<br />for Every Application'
+  subtitle: 'We work with two core materials — each selected for specific use cases and performance requirements.'
   columns: 3
   items:
-    - title: PVC de calitate marină
-      description: Pânză PVC 1100 denier — materialul nostru cel mai versatil. Stabilizat UV, rezistent la abraziune și conform REACH. Ideal pentru plăci SUP unde contează greutatea și eficiența costurilor.
+    - title: Marine-Grade PVC
+      description: '1100 denier PVC fabric — our most versatile material. UV-stabilized, abrasion-resistant, and REACH compliant. Ideal for pools where weight and cost efficiency matter.'
       icon: tabler:droplet
-    - title: Fibră de sticlă și polietilenă
-      description: SUP-uri laminate cu fibră de sticlă pentru rigiditate și alunecare premium. Polietilenă rotomuldată pentru utilizare intensivă de închiriere și salvare, care necesită rezistență maximă la impact.
+    - title: Fibreglass & Polyethylene
+      description: 'Fibreglass-laminated pools for premium stiffness and glide. Rotomoulded polyethylene for heavy-duty rental and rescue use requiring maximum impact resistance.'
       icon: tabler:building-arch
 expertise_manufacturing:
-  tagline: Capabilități de producție
-  title: Producție de precizie<br />la fiecare pas
-  subtitle: Instalația noastră de 12.000 m² este echipată cu utilaje specializate pentru fiecare etapă de producție.
+  tagline: Manufacturing Capabilities
+  title: 'Precision Manufacturing<br />at Every Step'
+  subtitle: 'Our 12,000 m² facility is equipped with specialized machinery for every stage of production.'
   columns: 2
   items:
-    - title: Tăiere CNC
-      description: Tăierea controlată de calculator asigură panouri de țesătură precise, repetabile, cu deșeuri minime. Fiecare piesă se potrivește exact cum a fost proiectată.
+    - title: CNC Cutting
+      description: 'Computer-controlled cutting ensures precise, repeatable fabric panels with minimal waste. Every piece fits exactly as designed.'
       icon: tabler:cpu
-    - title: Sudarea de înaltă frecvență
-      description: Sudarea industrială HF creează cusături mai rezistente decât materialul de bază. Controlul constant al temperaturii și presiunii asigură etanșeizare ermetică în fiecare serie de producție.
+    - title: High-Frequency Welding
+      description: 'Industrial HF welding creates seams stronger than the base material. Consistent temperature and pressure control ensures air-tight seals across every production run.'
       icon: tabler:bolt
-    - title: Ansamblul miezului drop-stitch
-      description: Mii de fire de poliester conectează straturile superioare și inferioare de țesătură, permițând umflarea la presiune înaltă (15-20 PSI) pentru plăci SUP rigide și stabile.
+    - title: Drop Stitch Core Assembly
+      description: 'Thousands of polyester threads connect top and bottom fabric layers, allowing high-pressure inflation (15-20 PSI) for rigid, stable pools.'
       icon: tabler:building-arch
-    - title: Testare sub presiune
-      description: Fiecare produs inflabil este testat la presiune înainte de expediere. Plăcile sunt testate la 1,25x presiunea nominală — dacă rezistă acolo, va performa pe apă.
+    - title: Pressure Testing
+      description: 'Every inflatable product is pressure-tested before shipping. Pools are tested at 1.25x rated pressure — if it holds there, it will perform on the water.'
       icon: tabler:wind
-    - title: Testarea rezistenței cusăturilor
-      description: Probele aleatorii din fiecare lot de producție sunt supuse testării distructive a rezistenței cusăturilor. Rezultatele sunt înregistrate și trasabile la serii specifice de producție.
+    - title: Seam Strength Testing
+      description: 'Random samples from each production batch undergo destructive seam strength testing. Results are logged and traceable to specific production runs.'
       icon: tabler:files
-    - title: Testare pe apă
-      description: Fiecare model SUP este supus probelor pe mare înainte de certificare. Testarea în condiții reale de coastă validează performanța, manevrabilitatea și stabilitatea.
+    - title: Water Testing
+      description: 'Every model undergoes sea trials before certification. Real-world testing in coastal conditions validates performance, handling, and stability.'
       icon: tabler:droplet
 expertise_design:
-  tagline: Design și inginerie
-  title: Proiectat pentru condiții reale
-  subtitle: Filosofia noastră de proiectare începe cu modul în care placa va fi utilizată — apoi construiește ingineria în jurul acestui caz de utilizare.
+  tagline: Design & Engineering
+  title: 'Engineered for Real Conditions'
+  subtitle: 'Our design philosophy starts with how the pool will be used — then builds the engineering around that use case.'
   items:
-    - title: Proiectarea cocii pentru performanță
-      description: Fiecare formă de cocă este reglată pentru cazul său de utilizare — nose-uri de deplasare pentru alunecare în touring, rocker accentuat pentru agilitate în surf, profiluri plate și stabile pentru pescuit și yoga.
-    - title: Siguranță drop-stitch
-      description: Fiecare placă are un miez rigid drop-stitch cu borduri ranforsate. Dacă o secțiune este avariată, structura drop-stitch de înaltă rezistență la tracțiune menține placa funcțională.
-    - title: Amplasare ergonomică a punții
-      description: Zonarea pad-ului punții, poziția mânerului de transport și punctele de montaj sunt concepute în jurul confortului riderului în utilizare prelungită — fie în touring, pescuit sau patrulare.
-    - title: Configurație personalizată
-      description: Culorile bordurilor, configurația pad-ului punții, suporturile pentru accesorii, capacitatea de echipament — fiecare model poate fi personalizat pentru a răspunde cerințelor operaționale specifice.
+    - title: Performance Hull Design
+      description: 'Each pool is tuned for its use case — compact footprints for plunge soaking, family-sized layouts for play, and generous swim areas for daily laps.'
+    - title: Drop-Stitch Safety
+      description: 'Every pool features a rigid drop-stitch core with reinforced walls. If a section is damaged, the high-tensile drop-stitch structure keeps the pool operational.'
+    - title: Ergonomic Deck Layout
+      description: 'Deck-pad zoning, carry-handle position, and mounting points are designed around rider comfort during extended use — whether touring, fishing, or patrolling.'
+    - title: Custom Configuration
+      description: 'Rail colors, deck pad configuration, accessory mounts, gear capacity — each model can be customized to match specific operational requirements.'
 cta:
-  title: Aveți în vedere o aplicație specifică?
-  subtitle: Echipa noastră de inginerie vă poate consilia cu privire la selecția materialelor, proiectare și fabricație pentru proiectul dvs.
+  title: 'Have a specific application in mind?'
+  subtitle: 'Our engineering team can advise on material selection, design, and manufacturing for your project.'
   actions:
     - variant: primary
-      text: Întrebați-i pe inginerii noștri
+      text: Ask our engineers
       href: /contact/
-    - text: Vedeți gama de produse
+    - text: View product range
       href: /products/

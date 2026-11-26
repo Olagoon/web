@@ -1,34 +1,39 @@
 meta:
-  title: 'olagoon-brändi — Meritekniikka & kumppanuus | {SITE}'
-  description: 'olagoon: täytettävien SUP-lautojen meribrändi, joka tekee kumppanuusyhteistyötä vesiurheilubrändien, jälleenmyyjien, merikerhojen ja yritysten kanssa co-branded-mallistojen, yksityisen etiketin ja maakohtaisten jakeluohjelmien kautta.'
+  title: 'The olagoon Brand — Marine Engineering & Partnership | {SITE}'
+  description: 'olagoon: an inflatable marine brand partnering with water sports brands, distributors, nautical clubs, and enterprises through co-branded collections, private label, and country distribution programs.'
   keywords:
-    - 'olagoon-brändi'
-    - 'täytettävien SUP-lautojen valmistaja'
-    - 'SUP-tehdas Kiina'
+    - 'olagoon brand'
+    - 'inflatable pools brand'
+    - 'china pool manufacturer'
 hero:
-  tagline: Brändi
+  tagline: Brand
   title: '{BRAND}'
-  subtitle: Merisuorituskykyä jokaiselle surffaajalle
-  cta: Tutustu varusteisiin →
+  subtitle: Ocean Performance for Every Surfer
+  cta: Explore Gear →
   cta_link: /products/
-  secondary_cta: Opi surffaamaan
+  secondary_cta: Explore Pools
   secondary_cta_link: /guides/
+
 position:
-  tagline: Asemointi
-  subtitle: Merisuorituskykyä jokaiselle surffaajalle
+  tagline: Position
+  subtitle: Ocean Performance for Every Surfer
+
 products_section:
-  tagline: Tuotteet
-  cta: Kaikki tuotteet →
+  tagline: Products
+  cta: All Products →
   cta_link: /products/
+
 global_section:
-  tagline: Maailmanlaajuinen
-  title: Saatavilla {count} alueella
+  tagline: Global
+  title: Available in {count} Regions
+
 social_section:
-  tagline: Some
-  title: Mitä surffaajat lukevat
-  read_guide: Lue opas →
+  tagline: Social
+  title: What surfers are reading
+  read_guide: Read guide →
+
 cta_section:
-  title: Aloita merimatkasi
-  subtitle: Jokainen tuote CE-sertifioitu. Takuu. Suunniteltu oikeaan surffaukseen.
-  cta_suffix: →
-  secondary_cta: Tietoa {BRAND}
+  title: Start your ocean journey
+  subtitle: Every product CE certified. Backed by warranty. Engineered for real backyards.
+  cta_suffix: '→'
+  secondary_cta: About {BRAND}

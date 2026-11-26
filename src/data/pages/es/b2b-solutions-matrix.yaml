@@ -1,120 +1,123 @@
 meta:
-  title: Matriz de Soluciones para Clientes B2B | {SITE}
-  description: Matriz completa de soluciones para clientes B2B de OLagoon que abarca 24 tipos de clientes, desde startups al aire libre hasta instituciones de conservación marina.
+  title: 'B2B Client Solutions Matrix | {SITE}'
+  description: 'Complete OLagoon B2B client solutions matrix covering 24 customer types — from outdoor startups to marine conservation institutions.'
+
 hero:
-  tagline: Soluciones para clientes B2B
-  title: 24 Soluciones B2B<br />Adaptadas a Su Negocio
-  subtitle: 'Desde fundadores de startups hasta distribuidores globales: encuentra la solución exacta de OLagoon diseñada para tu modelo de negocio, industria y objetivos.'
+  tagline: B2B Client Solutions
+  title: '24 B2B Solutions<br />Matched to Your Business'
+  subtitle: 'From startup founders to global distributors — find the exact OLagoon solution designed for your business model, industry, and goals.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
-    alt: Fábrica y planta de fabricación de OLagoon
+    alt: OLagoon factory and manufacturing facility
+
 solutions:
-  title: Matriz de Soluciones para Clientes
-  subtitle: Cada tipo de cliente, su necesidad principal y la página de solución OLagoon diseñada para ellos.
+  title: Client Solutions Matrix
+  subtitle: 'Every customer type, their core need, and the OLagoon solution page designed for them.'
   items:
-    - clientType: Fundador de startup al aire libre
-      need: Creación de marca
-      solutionPage: Construye Tu Marca SUP
-      link: /solutions/sup-brand-startup/
-    - clientType: Gerente de Marca de Exterior
-      need: Expansión de la marca de exterior hacia los deportes acuáticos
-      solutionPage: Expandir la marca de exteriores a los deportes acuáticos
+    - clientType: Outdoor Startup Founder
+      need: Brand Creation
+      solutionPage: Build Your pool Brand
+      link: /solutions/pool-brand-startup/
+    - clientType: Outdoor Brand Manager
+      need: Outdoor Brand Expansion Into Water Sports
+      solutionPage: Expand Outdoor Brand Into Water Sports
       link: /solutions/expand-outdoor-brand-water-sports/
-    - clientType: Propietario de tienda de surf
-      need: Actualización del Negocio de Surf
-      solutionPage: Llevar la tecnología inflable al negocio del surf
+    - clientType: Surf Shop Owner
+      need: Surf Business Upgrade
+      solutionPage: Bring Inflatable Technology Into Surf Business
       link: /solutions/inflatable-technology-for-surf-business/
-    - clientType: Vendedor de Amazon
-      need: Crecimiento del comercio electrónico
-      solutionPage: Diferenciación de Producto y Suministro Rápido
-      link: /solutions/ecommerce-sup-brand-development/
-    - clientType: Marca de equipo de pesca
-      need: SUP de pesca
-      solutionPage: Crea Tu Marca de SUP para Pesca
-      link: /solutions/create-fishing-sup-brand/
-    - clientType: Marca de Yoga y Bienestar
-      need: Productos de Agua para el Bienestar
-      solutionPage: Soluciones de Equipamiento de Yoga SUP
-      link: /solutions/sup-yoga-wellness-equipment/
-    - clientType: Marca del Creador
-      need: Marca de influencer
-      solutionPage: Edición Creador SUP Inicio
-      link: /solutions/creator-influencer-sup-brand/
-    - clientType: Fundador del Club de Paddle
-      need: Flota del Club
-      solutionPage: Flota comercial de SUP
-      link: /solutions/commercial-sup-fleet/
-    - clientType: Propietario de negocio de alquiler
-      need: Operaciones de alquiler
-      solutionPage: Solución de Flota de Alquiler Durable
-      link: /solutions/durable-sup-rental-fleet/
-    - clientType: Gerente de Actividades del Resort
-      need: Experiencia en el hotel
-      solutionPage: Paquete de Actividades Acuáticas del Resort
+    - clientType: Amazon Seller
+      need: E-commerce Growth
+      solutionPage: Product Differentiation & Fast Supply
+      link: /solutions/ecommerce-pool-brand-development/
+    - clientType: Fishing Gear Brand
+      need: Fishing pool
+      solutionPage: Create Your Fishing pool Brand
+      link: /solutions/create-fishing-pool-brand/
+    - clientType: Yoga & Wellness Brand
+      need: Wellness Water Products
+      solutionPage: pool Yoga Equipment Solutions
+      link: /solutions/pool-yoga-wellness-equipment/
+    - clientType: Creator Brand
+      need: Influencer Brand
+      solutionPage: Creator Edition pool Startup
+      link: /solutions/creator-influencer-pool-brand/
+    - clientType: Paddle Club Founder
+      need: Club Fleet
+      solutionPage: Commercial pool Fleet
+      link: /solutions/commercial-pool-fleet/
+    - clientType: Rental Business Owner
+      need: Rental Operations
+      solutionPage: Durable Rental Fleet Solution
+      link: /solutions/durable-pool-rental-fleet/
+    - clientType: Resort Activity Manager
+      need: Hotel Experience
+      solutionPage: Resort Water Activity Package
       link: /solutions/resort-water-activity-package/
-    - clientType: Academia de Deportes Acuáticos
-      need: Formación y Educación
-      solutionPage: Programa de Equipamiento de la Academia SUP
-      link: /solutions/sup-academy-equipment-program/
-    - clientType: Compañía de Cruceros y Yates
-      need: Experiencia en yate
-      solutionPage: Paquete de SUP portátil de lujo
-      link: /solutions/luxury-portable-sup-package/
-    - clientType: Comprador de productos para exteriores
-      need: Canal de venta minorista
-      solutionPage: Programa de Marca Privada Minorista
+    - clientType: Water Sports Academy
+      need: Training & Education
+      solutionPage: pool Academy Equipment Program
+      link: /solutions/pool-academy-equipment-program/
+    - clientType: Cruise & Yacht Company
+      need: Yacht Experience
+      solutionPage: Luxury Portable pool Package
+      link: /solutions/luxury-portable-pool-package/
+    - clientType: Outdoor Retail Buyer
+      need: Retail Channel
+      solutionPage: Retail Private Label Program
       link: /solutions/retail-private-label-program/
-    - clientType: Distribuidor e Importador
-      need: Distribución regional
-      solutionPage: Socio regional de OEM y cadena de suministro
+    - clientType: Distributor & Importer
+      need: Regional Distribution
+      solutionPage: Regional OEM & Supply Chain Partner
       link: /solutions/regional-oem-supply-chain-partner/
-    - clientType: Comprador de Proyectos Corporativos
-      need: Eventos corporativos
-      solutionPage: Paquete de Evento Corporativo de SUP
-      link: /solutions/corporate-sup-event-package/
-    - clientType: Gerente de Marca de Deportes Acuáticos
-      need: Expansión de la Marca de Deportes Acuáticos
-      solutionPage: Amplía tu portafolio de deportes acuáticos
+    - clientType: Corporate Project Buyer
+      need: Corporate Events
+      solutionPage: Corporate pool Event Package
+      link: /solutions/corporate-pool-event-package/
+    - clientType: Water Sports Brand Manager
+      need: Water Sports Brand Expansion
+      solutionPage: Expand Your Water Sports Portfolio
       link: /solutions/expand-your-water-sports-portfolio/
-    - clientType: Propietario de la marca Aventura de Mascotas
-      need: Exterior para mascotas
-      solutionPage: Programa de Paddle Board para Mascotas
+    - clientType: Pet Adventure Brand Owner
+      need: Pet Outdoor
+      solutionPage: Pet-Friendly inflatable pool Program
       link: /solutions/pet-friendly-paddle-board-program/
-    - clientType: Operador de Recreación en la Playa
-      need: Entretenimiento en la playa
-      solutionPage: Soluciones completas de equipos para actividades de playa
+    - clientType: Beach Recreation Operator
+      need: Beach Entertainment
+      solutionPage: Complete Beach Activity Equipment Solutions
       link: /solutions/complete-beach-activity-equipment-solutions/
-    - clientType: Desarrollador de parques acuáticos
-      need: Entretenimiento Temático
-      solutionPage: Flota de SUP para parque acuático comercial
-      link: /solutions/commercial-water-park-sup-fleet/
-    - clientType: Propietario de Isla Privada y Club de Lujo
-      need: Estilo de vida de lujo
-      solutionPage: Colección Premium de SUP Personalizados
-      link: /solutions/premium-custom-sup-collection/
-    - clientType: Junta de Turismo y Operador de Parque Público
-      need: Proyectos Turísticos Públicos
-      solutionPage: Paquete de Deportes Acuáticos en el Destino
+    - clientType: Water Park Developer
+      need: Theme Entertainment
+      solutionPage: Commercial Water Park pool Fleet
+      link: /solutions/commercial-water-park-pool-fleet/
+    - clientType: Private Island & Luxury Club Owner
+      need: High-End Lifestyle
+      solutionPage: Premium Custom pool Collection
+      link: /solutions/premium-custom-pool-collection/
+    - clientType: Tourism Board & Public Park Operator
+      need: Public Tourism Projects
+      solutionPage: Destination Water Sports Package
       link: /solutions/destination-water-sports-package/
-    - clientType: Operador de Campamento de Verano y Aventuras para Niños
-      need: Educación Juvenil
-      solutionPage: Programa de Exploración SUP para Niños
-      link: /solutions/kids-exploration-sup-program/
-    - clientType: Organización de Rescate Acuático y Seguridad
-      need: Rescate Profesional
-      solutionPage: Sistema Profesional de SUP para Rescate Acuático
-      link: /solutions/professional-water-rescue-sup-system/
-    - clientType: Instituto de Conservación e Investigación Marina
-      need: Investigación Ambiental
-      solutionPage: Plataforma SUP de Investigación y Monitoreo Ecológico
-      link: /solutions/eco-research-monitoring-sup-platform/
+    - clientType: Kids Adventure & Summer Camp Operator
+      need: Youth Education
+      solutionPage: Kids Exploration pool Program
+      link: /solutions/kids-exploration-pool-program/
+    - clientType: Water Rescue & Safety Organization
+      need: Professional Rescue
+      solutionPage: Professional Water Rescue pool System
+      link: /solutions/professional-water-rescue-pool-system/
+    - clientType: Marine Conservation & Research Institution
+      need: Environmental Research
+      solutionPage: Eco Research & Monitoring pool Platform
+      link: /solutions/eco-research-monitoring-pool-platform/
+
 cta:
-  title: ¿No está seguro de qué solución se adapta a su negocio?
-  subtitle: Describe tu proyecto a nuestro equipo B2B y nosotros recomendaremos la configuración y los precios adecuados.
+  title: 'Not sure which solution fits your business?'
+  subtitle: 'Describe your project to our B2B team and we will recommend the right configuration and pricing.'
   actions:
     - variant: primary
-      text: Habla con nuestro equipo B2B
+      text: Talk to Our B2B Team
       href: /contact/?subject=b2b-solutions
     - variant: secondary
-      text: Descargar catálogo
+      text: Download Catalog
       href: /resources/download-catalog/

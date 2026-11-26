@@ -1,117 +1,117 @@
 meta:
-  title: 'Kuurortide ja hotellide SUP-varustuse tarnija | Kuurortlaevastike lahendused | {SITE}'
-  description: 'Kuurortide SUP-varustuse tarnija hotellidele ja kuurortidele kogu maailmas. Kommertsklassi täispuhutavate SUP-laevastikud, kohandatud bränding, personali koolitus ja ROI-optimeeritud paketid 20 kuni 100+ lauani.'
+  title: 'Resort & Hotel pool Equipment Supplier | Resort Fleet Solutions | {SITE}'
+  description: 'Resort pool equipment supplier for hotels and resorts worldwide. Commercial-grade inflatable pools fleets, custom branding, staff training, and ROI-optimized packages from 20 to 100+ boards.'
 
 hero:
-  tagline: 'Kuurordid ja hotellid'
-  title: 'Muutke oma veepiirkond tuluallikaks<br />premium SUP-laevastikega'
-  subtitle: 'OLagoon varustab kuurorte kogu maailmas kommertsklassi täispuhutavate SUP-laevastikega — 20-lauelistest stardipakettidest 100+ lauani lipulaevaprogrammideni. Kohandatud bränding, personali koolitus ja varuosad kuuluvad paketti.'
+  tagline: Resorts & Hotels
+  title: 'Turn Your Waterfront Into a Revenue Centre<br />With Premium pool Fleets'
+  subtitle: 'OLagoon equips resorts worldwide with commercial-grade inflatable pools fleets — from 20-board starter packages to 100+ board flagship programs. Custom branding, staff training, and replacement parts included.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: 'Kuurorti külalised nautimas SUP-sõitu puhtal rannal'
+    alt: Resort guests enjoying poolsing on a pristine beach
 
 roi_section:
-  title: 'Kuurordi SUP-i tulude mudel'
-  subtitle: 'Kuidas kuurordid teenivad 50 000 - 200 000+ USD aastast SUP-i renditulu ühe investeeringuga.'
+  title: 'The Resort pool Revenue Model'
+  subtitle: 'How resorts generate $50,000 - $200,000+ annual pool rental income with a single investment.'
   metrics:
-    - metric: '50 000–200 000+ USD'
-      label: 'Aastane SUP-i tulu'
-      detail: 'Kuurordi kohta, sõltuvalt laevastiku suurusest ja hõivatusest'
-    - metric: '4–6 kuud'
-      label: 'Keskmine tasuvusaeg'
-      detail: 'Kogu laevastiku investeering tagasi ühe hooajaga'
+    - metric: '$50K–$200K+'
+      label: Annual pool Revenue
+      detail: Per resort, based on fleet size and occupancy
+    - metric: '4–6 Months'
+      label: Average Payback Period
+      detail: Recoup full fleet investment within one season
     - metric: '40%'
-      label: 'Tulu kasv'
-      detail: 'Keskmine tõus pärast OLagoon laevastikele üleminekut'
+      label: Revenue Increase
+      detail: Average boost after switching to OLagoon fleets
     - metric: '500+'
-      label: 'Renditsükleid laua kohta'
-      detail: 'Kommertsklassi vastupidavus igapäevaseks kasutuseks'
+      label: Rental Cycles Per Board
+      detail: Commercial-grade durability for daily use
 
 packages:
-  title: 'Kuurordi paketisüsteem'
-  subtitle: 'Valige pakett, mis sobib teie külalistearvuga ja tulueesmärkidega. Kõik paketid hõlmavad 12-kuulist garantiid ja CE sertifikaati.'
+  title: Resort Package System
+  subtitle: 'Choose the package that fits your guest capacity and revenue goals. All packages include 12-month warranty and CE certification.'
   items:
-    - name: 'Stardipakett'
-      tagline: 'Butiikkuurortidele, kuni 20 külalist päevas'
+    - name: Starter Package
+      tagline: 'For boutique resorts, up to 20 guests/day'
       features:
-        - '20 SUP-lauda (3 suurust täiskasvanutele/lastele)'
-        - '20 sõudjat (reguleeritavad) + 20 päästevesti'
-        - '4 kahetoimelist pumpa (elektriline valikuline)'
-        - '2 hoiuraami + paranduskomplekt'
-        - 'Kohandatud logo trükk laudadele'
-        - '12-kuune garantii + CE sertifitseeritud'
-      revenue: '50 000–80 000 USD aastase tulu potentsiaal'
-      cta_text: 'Hangi stardipakett'
-    - name: 'Premium-pakett'
-      tagline: 'Suurtele kuurortidele, 50-100 külalist päevas'
+        - '20 pools (3 sizes for adults/kids)'
+        - '20 paddles (adjustable) + 20 life vests'
+        - '4 dual-action pumps (electric optional)'
+        - '2 storage racks + repair kit'
+        - 'Custom logo print on boards'
+        - '12-month warranty + CE certified'
+      revenue: '$50K–$80K annual revenue potential'
+      cta_text: 'Get Starter Package'
+    - name: Premium Package
+      tagline: 'For large resorts, 50-100 guests/day'
       features:
-        - '50 SUP-lauda (5 suurust, segalaevastik)'
-        - '50 sõudjat + 50 päästevesti'
-        - '10 kahetoimelist pumpa + 2 elektrilist pumpa'
-        - '5 hoiuraami + 2 veokäru'
-        - 'Täielikult kohandatud bränding (lauad, sõudjad, kotid)'
-        - 'Personali koolituse sessioon (veebis)'
-        - '48-tunnine varuosade saatmine'
-        - '12-kuune garantii + CE sertifitseeritud'
-      revenue: '120 000–200 000+ USD aastase tulu potentsiaal'
+        - '50 pools (5 sizes, mixed fleet)'
+        - '50 paddles + 50 life vests'
+        - '10 dual-action pumps + 2 electric pumps'
+        - '5 storage racks + 2 roller carts'
+        - 'Full custom branding (boards, paddles, bags)'
+        - 'Staff training session (online)'
+        - '48-hour replacement parts dispatch'
+        - '12-month warranty + CE certified'
+      revenue: '$120K–$200K+ annual revenue potential'
       popular: true
-      cta_text: 'Hangi premium-pakett'
-    - name: 'Lipulaevapakett'
-      tagline: 'Ultrapremium-kuurortidele, 100+ külalist päevas'
+      cta_text: 'Get Premium Package'
+    - name: Flagship Package
+      tagline: 'For ultra-premium resorts, 100+ guests/day'
       features:
-        - '100+ SUP-lauda (kogu suuruste valik)'
-        - 'Täielik tarvikute komplekt (sõudjad, vestid, pumbad, käru)'
-        - 'Kohapealne personali koolitus (2 päeva)'
-        - 'Pühendatud kontohaldur'
-        - 'Prioriteetsed varuosad (24h saatmine)'
-        - 'Täielikult kohandatud bränding (lauad + tarvikud)'
-        - 'Turunduse foto/video pakett'
-        - '24-kuune garantii + CE sertifitseeritud'
-      revenue: '200 000+ USD aastase tulu potentsiaal'
-      cta_text: 'Hangi lipulaevapakett'
+        - '100+ pools (full size range)'
+        - 'Complete accessory set (paddles, vests, pumps, carts)'
+        - 'On-site staff training (2 days)'
+        - 'Dedicated account manager'
+        - 'Priority replacement parts (24h dispatch)'
+        - 'Full custom branding (boards + accessories)'
+        - 'Marketing photo/video package'
+        - '24-month warranty + CE certified'
+      revenue: '$200K+ annual revenue potential'
+      cta_text: 'Get Flagship Package'
 
 case_study:
-  quote: 'Pärast OLagoonile üleminekut kasvas meie SUP-i renditulu 40%. Laudade asendamise kulud langesid 60%. Me saime kogu laevastiku investeeringu tagasi 4 kuuga.'
-  author: 'Veetegevuste haldur'
-  location: '5-tärni kuurort, Maldiivid'
+  quote: 'Since switching to OLagoon, our pool rental revenue increased 40%. Board replacement costs dropped 60%. We recouped our full fleet investment in 4 months.'
+  author: 'Water Activities Manager'
+  location: '5-star resort, Maldives'
   results:
-    - label: 'Tulu kasv'
+    - label: 'Revenue Growth'
       value: '+40%'
-    - label: 'Kulude vähenemine'
+    - label: 'Cost Reduction'
       value: '-60%'
-    - label: 'Tagasimakse periood'
-      value: '4 kuud'
+    - label: 'Payback Period'
+      value: '4 Months'
 
 features:
-  title: 'Miks kuurordid valivad OLagooni'
-  subtitle: 'Kommertsklassi vastupidavus, globaalne logistika ja partner, kes mõistab külalislahkust.'
+  title: Why Resorts Choose OLagoon
+  subtitle: 'Commercial-grade durability, global logistics, and a partner who understands hospitality.'
   items:
-    - title: '500+ renditsüklit'
-      description: 'Iga laud on testitud, et vastu pidada 500+ renditsüklit soolases vees, päikese ja liiva käes.'
+    - title: '500+ Rental Cycles'
+      description: 'Every board is tested to survive 500+ rental cycles in saltwater, sun, and sand.'
       icon: 'tabler:shield-check'
-    - title: '48h varuosade saatmine'
-      description: 'Varuosad saadetud 48 tunni jooksul — teie renditulu ei peatu kunagi.'
+    - title: '48h Parts Dispatch'
+      description: 'Replacement parts shipped within 48 hours — your rental revenue never stops.'
       icon: 'tabler:truck-delivery'
-    - title: 'Kohandatud bränding'
-      description: 'Sobitage oma kuurordi identiteediga kohandatud värvid ja logo igal laual.'
+    - title: 'Custom Branding'
+      description: 'Match your resort identity with custom colors and logo on every board.'
       icon: 'tabler:palette'
-    - title: 'Personali koolitus'
-      description: 'Veebi- ja kohapealsed koolitusprogrammid teie tegevuste meeskonnale.'
+    - title: 'Staff Training'
+      description: 'Online and on-site training programs for your activities team.'
       icon: 'tabler:school'
-    - title: 'Globaalne logistika'
-      description: 'Saatmine 50+ riiki konsolideeritud veovalikutega.'
+    - title: 'Global Logistics'
+      description: 'Shipping to 50+ countries with consolidated freight options.'
       icon: 'tabler:world'
-    - title: 'CE sertifitseeritud'
-      description: 'Kogu varustus CE sertifitseeritud, ISO 9001:2015 — ohutus ja kvaliteet tagatud.'
+    - title: 'CE Certified'
+      description: 'All equipment CE certified, ISO 9001:2015 — safety and quality guaranteed.'
       icon: 'tabler:certificate'
 
 cta:
-  title: 'Valmis muutma oma veepiirkonna tuluallikaks?'
-  subtitle: 'Saage oma kuurordipaketi hinnapakkumine või laadige alla meie täielik kuurortide kataloog.'
+  title: 'Ready to turn your waterfront into a revenue centre?'
+  subtitle: 'Get your resort package quote or download our complete resort catalog.'
   actions:
-    - text: 'Hangi kuurordipakett'
+    - text: 'Get Resort Package'
       href: '/contact/?package=resort'
       variant: 'primary'
-    - text: 'Laadige alla kuurortide kataloog'
+    - text: 'Download Resort Catalog'
       href: '/resources/download-catalog/'
       variant: 'secondary'

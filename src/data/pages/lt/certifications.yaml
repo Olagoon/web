@@ -1,68 +1,68 @@
 meta:
-  title: 'Sertifikatai — CE, ISO 9001 ir atitiktis | {SITE}'
-  description: 'olagoon kokybės sertifikatai: CE (EN ISO 25649), ISO 9001:2015, BSCI. Atitiktis ir sauga pripučiamų SUP gamintojui.'
+  title: 'Certifications — CE, ISO 9001 & Compliance | {SITE}'
+  description: 'olagoon quality certifications: CE (EN ISO 25649), ISO 9001:2015, BSCI. Compliance and safety for an inflatable pool manufacturer.'
   keywords:
-    - 'ce sertifikavimas sup'
-    - 'iso 9001 sup'
-    - 'jūrinė atitiktis'
-    - 'irklentės sertifikavimas'
+    - 'ce certification pool'
+    - 'iso 9001 pool'
+    - 'nautical compliance'
+    - 'inflatable pool certification'
 hero:
-  tagline: 'Sertifikatai ir standartai'
-  title: 'Kokybės sertifikatai<br />ir atitikties standartai'
-  subtitle: 'olagoon SUP gamyba yra sertifikuota pagal tarptautinius jūrinės saugos standartus, kokybės vadybos sistemas ir aplinkosaugos reglamentus — CE, ISO 9001, UKCA, BSCI ir REACH.'
+  tagline: Certifications & Standards
+  title: 'Quality Certifications<br />& Compliance Standards'
+  subtitle: 'olagoon pool manufacturing is certified to international marine safety standards, quality management systems, and environmental regulations — CE, ISO 9001, UKCA, BSCI, and REACH.'
   image:
     src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
-    alt: 'olagoon kokybės sertifikatai ir atitikties dokumentacija'
+    alt: olagoon quality certifications and compliance documentation
 content_certifications:
-  tagline: 'Mūsų sertifikatai'
-  title: 'Sertifikuota kokybė,<br />pripažinta visame pasaulyje'
-  subtitle: 'Kiekvienas olagoon produktas yra patvirtintas sertifikatais, įrodančiais mūsų įsipareigojimą kokybei, saugai ir aplinkosaugos atsakomybei.'
+  tagline: Our Certifications
+  title: 'Certified Quality,<br />Globally Recognized'
+  subtitle: 'Every olagoon product is backed by certifications that demonstrate our commitment to quality, safety, and environmental responsibility.'
   items:
-    - title: 'CE sertifikuota'
-      description: 'Visi olagoon produktai atitinka Europos CE ženklinimo reikalavimus rekreaciniams vandens transporto priemonėms, užtikrinant saugos, sveikatos ir aplinkos apsaugos standartus.'
+    - title: 'CE Certified'
+      description: 'All olagoon products comply with European CE marking requirements for recreational watercraft, ensuring safety, health, and environmental protection standards are met.'
       icon: tabler:certificate
     - title: 'ISO 9001:2015'
-      description: 'Mūsų kokybės vadybos sistema yra ISO 9001:2015 sertifikuota, apimanti pripučiamų vandens transporto priemonių ir jūrinės įrangos dizainą, gamybą ir platinimą.'
+      description: 'Our quality management system is ISO 9001:2015 certified, covering design, manufacturing, and distribution of inflatable watercraft and marine equipment.'
       icon: tabler:clipboard-check
-    - title: 'UKCA ženklu pažymėta'
-      description: 'Produktai, parduodami JK rinkoje, turi UKCA ženklą, patvirtinantį atitiktį JK reglamentams jūrinei įrangai ir asmeninėms vandens transporto priemonėms.'
+    - title: 'UKCA Marked'
+      description: 'Products sold in the UK market carry UKCA marking, confirming compliance with UK regulations for marine equipment and personal watercraft.'
       icon: tabler:shield
-    - title: 'BSCI atitiktis'
-      description: 'olagoon yra BSCI (Business Social Compliance Initiative) audituota, įrodanti etišką gamybos praktiką, sąžiningas darbo sąlygas ir tiekimo grandinės atsakomybę.'
+    - title: 'BSCI Compliant'
+      description: 'olagoon is BSCI (Business Social Compliance Initiative) audited, demonstrating ethical manufacturing practices, fair labor conditions, and supply chain responsibility.'
       icon: tabler:heart-handshake
-    - title: 'REACH atitiktis'
-      description: 'Visos medžiagos, naudojamos olagoon produktuose, atitinka ES REACH reglamentus dėl cheminės saugos, užtikrinant, kad mūsų PVC, EVA ar komponentuose nėra apribotų medžiagų.'
+    - title: 'REACH Compliant'
+      description: 'All materials used in olagoon products comply with EU REACH regulations for chemical safety, ensuring no restricted substances in our PVC, EVA, or components.'
       icon: tabler:flask
-    - title: 'Medžiagų testavimas'
-      description: 'Audiniai yra testuojami dėl tempimo stiprio, plyšimo atsparumo, UV gedimo ir šalčio įtrūkimų našumo. Kiekviena gamybos partija yra mėginama ir tikrinama.'
+    - title: 'Material Testing'
+      description: 'Fabrics are tested for tensile strength, tear resistance, UV degradation, and cold-crack performance. Every production batch is sampled and verified.'
       icon: tabler:test-pipe
 content_factory:
-  tagline: 'Gamyklos standartai'
-  title: 'Gamybos meistriškumas<br />— sukurta pagal specifikacijas'
-  subtitle: 'Mūsų 12 000 m² įmonė veikia pagal griežtus kokybės kontrolės protokolus kiekvienoje gamybos stadijoje.'
+  tagline: Factory Standards
+  title: 'Manufacturing Excellence<br />— Built to Specification'
+  subtitle: 'Our 12,000 m² facility operates under strict quality control protocols at every stage of production.'
   list:
-    - 'Įeinamoji medžiagų patikra: visos žaliavos — PVC audinys, EVA putplastis, klijai, furnitūra — yra tikrinamos pagal specifikacijas prieš patenkant į gamybą.'
-    - 'Kokybės kontrolė gamybos metu: kiekviena gamybos stadija turi dokumentuotus QC kontrolinius taškus. Suvirinimo stipris, siūlių suderinimas, vožtuvų montavimas ir furnitūros sukibimas tikrinami eigoje.'
-    - 'Slėgio testavimas: kiekviena pripučiama kamera yra slėgio testuojama esant 1,25 karto didesniam nei nominalusis slėgis 24–48 valandas. Slėgio kritimas turi likti žemiau 5 %, kad būtų įvertinta teigiamai.'
-    - 'Galutinė patikra: baigti produktai yra tikrinami dėl matmenų tikslumo, kosmetinės apdailos, priedų pilnumo ir pakuotės vientisumo prieš siuntimą.'
-    - 'Partijų atsekamumas: kiekvienas produktas turi serijinį numerį, susietą su gamybos partijos įrašais, leidžiantį pilną atsekamumą nuo žaliavos iki baigtų prekių.'
+    - 'Incoming Material Inspection: All raw materials — PVC fabric, EVA foam, adhesives, hardware — are tested against specifications before entering production.'
+    - 'In-Process Quality Control: Every production stage has documented QC checkpoints. Weld strength, seam alignment, valve installation, and fitting torque are verified inline.'
+    - 'Pressure Testing: Every inflatable chamber is pressure-tested at 1.25× rated pressure for 24–48 hours. Pressure drop must stay below 5% for a passing grade.'
+    - 'Final Inspection: Completed products are inspected for dimensional accuracy, cosmetic finish, accessory completeness, and packaging integrity before shipping.'
+    - 'Batch Traceability: Every product carries a serial number linked to production batch records, enabling full traceability from raw material to finished goods.'
 content_safety:
-  tagline: 'Jūrinės saugos standartai'
-  title: 'Sauga visų pirma<br />— sukurta patikimai eksploatacijai'
-  subtitle: 'olagoon produktai yra suprojektuoti ir išbandyti, kad atitiktų tarptautinius jūrinės saugos standartus komerciniam ir rekreaciniam naudojimui.'
+  tagline: Marine Safety Standards
+  title: 'Safety First<br />— Designed for Reliable Operation'
+  subtitle: 'olagoon products are designed and tested to meet international marine safety standards for commercial and recreational use.'
   items:
     - title: 'EN ISO 25649'
-      description: 'Pripučiami SUP atitinka EN ISO 25649 standartus dėl konstrukcijos, stabilumo, plūdrumo ir keliamosios galios.'
+      description: 'inflatable pools comply with EN ISO 25649 standards for construction, stability, buoyancy, and load capacity.'
       icon: tabler:sailboat
-    - title: 'SOLAS atitiktis'
-      description: 'Saugos įranga ir gelbėjimo priemonės atitinka SOLAS (Safety of Life at Sea) reikalavimus, kai taikoma.'
+    - title: 'SOLAS Compliance'
+      description: 'Safety equipment and life-saving appliances meet SOLAS (Safety of Life at Sea) requirements where applicable.'
       icon: tabler:lifebuoy
 cta:
-  title: 'Reikia sertifikuotų produktų jūsų projektui?'
-  subtitle: 'Susisiekite su mūsų komanda, kad aptartumėte sertifikavimo reikalavimus, dokumentaciją ir atitiktį jūsų rinkai.'
+  title: 'Need certified products for your project?'
+  subtitle: 'Contact our team to discuss certification requirements, documentation, and compliance for your market.'
   actions:
-    - variant: 'primary'
-      text: 'Užklausti sertifikavimo dokumentų'
+    - variant: primary
+      text: Request certification docs
       href: /contact/
-    - text: 'Peržiūrėti mūsų kokybės puslapį'
+    - text: View our quality page
       href: /quality/

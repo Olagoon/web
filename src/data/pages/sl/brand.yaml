@@ -1,39 +1,39 @@
 meta:
-  title: 'Znamka olagoon — pomorsko inženirstvo in partnerstvo | {SITE}'
-  description: 'olagoon: znamka napihljivih pomorskih izdelkov, ki sodeluje z znamkami vodnih športov, distributerji, nautičnimi klubi in podjetji prek kolekcij s skupno znamko, zasebnih znamk in programov državne distribucije.'
+  title: 'The olagoon Brand — Marine Engineering & Partnership | {SITE}'
+  description: 'olagoon: an inflatable marine brand partnering with water sports brands, distributors, nautical clubs, and enterprises through co-branded collections, private label, and country distribution programs.'
   keywords:
-    - 'znamka olagoon'
-    - 'znamka napihljivih sup'
-    - 'kitajski proizvajalec sup'
+    - 'olagoon brand'
+    - 'inflatable pools brand'
+    - 'china pool manufacturer'
 hero:
-  tagline: Znamka
+  tagline: Brand
   title: '{BRAND}'
-  subtitle: Oceanske zmogljivosti za vsakega surferja
-  cta: Raziščite opremo →
+  subtitle: Ocean Performance for Every Surfer
+  cta: Explore Gear →
   cta_link: /products/
-  secondary_cta: Naučite se surfanja
+  secondary_cta: Explore Pools
   secondary_cta_link: /guides/
 
 position:
-  tagline: Pozicioniranje
-  subtitle: Oceanske zmogljivosti za vsakega surferja
+  tagline: Position
+  subtitle: Ocean Performance for Every Surfer
 
 products_section:
-  tagline: Izdelki
-  cta: Vsi izdelki →
+  tagline: Products
+  cta: All Products →
   cta_link: /products/
 
 global_section:
-  tagline: Globalno
-  title: Na voljo v {count} regijah
+  tagline: Global
+  title: Available in {count} Regions
 
 social_section:
-  tagline: Družbeno
-  title: Kaj berejo surferji
-  read_guide: Preberite vodnik →
+  tagline: Social
+  title: What surfers are reading
+  read_guide: Read guide →
 
 cta_section:
-  title: Začnite svoje oceansko potovanje
-  subtitle: Vsak izdelek s certifikatom CE. Podprt z garancijo. Zasnovan za pravi surf.
+  title: Start your ocean journey
+  subtitle: Every product CE certified. Backed by warranty. Engineered for real backyards.
   cta_suffix: '→'
-  secondary_cta: O znamki {BRAND}
+  secondary_cta: About {BRAND}

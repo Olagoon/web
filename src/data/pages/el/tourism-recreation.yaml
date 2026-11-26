@@ -1,91 +1,69 @@
 meta:
-  title: 'Τουρισμός και Αναψυχή — Φουσκωτά SUP | {SITE}'
-  description: 'Ναυτικός εξοπλισμός για τουρισμό και αναψυχή: φουσκωτά SUP και αξεσουάρ για λίμνες, θάλασσες και δραστηριότητες στη φύση. Από οργανωμένες εκδρομές έως παραλιακές βόλτες.'
+  title: 'Pools for Holidays, Vacation Homes & Recreation | {SITE}'
+  description: 'Drop-stitch pools for tourism and recreation: portable backyard pools for vacation homes, holiday parks, and seasonal getaways. Set up anywhere in under 30 minutes.'
   keywords:
-    - 'sup τουρισμός'
-    - 'recreational φουσκωτό sup'
-    - 'φουσκωτό sup αναψυχής'
-    - 'εξοπλισμός ενοικίασης sup'
-label: Περίπτωση Χρήσης
-headline: SUP για διακοπές, ταξίδια και μέρες στο νερό
-subtitle: Από οργανωμένα ψαρέματα έως παραλιακές βόλτες, η olagoon θέτει το πρότυπο για αντοχή, ασφάλεια και απόδοση στα φουσκωτά SUP.
+    - 'portable pool'
+    - 'vacation home pool'
+    - 'recreational drop stitch pool'
+    - 'seasonal pool'
+label: 'Use Case'
+headline: 'Pools for Holidays, Vacation Homes & Days in the Sun'
+subtitle: 'From weekend cabins to holiday parks, OLagoon sets the benchmark for durability, safety, and value in drop-stitch portable pools.'
 seo:
-  headline: 'Φουσκωτά SUP για τουρισμό και αναψυχή: ο πλήρης οδηγός'
-  description: 'Βρείτε το σωστό φουσκωτό SUP για διακοπές και εκδρομές — πάνελ όλων των χρήσεων, τουρίνγκ και ψαρείας για λίμνες, ποτάμια και ακτές. Στο πορτμπαγκάζ, στο αεροπλάνο και κάντε κουπί όπου θέλετε.'
+  headline: 'Portable Pools for Tourism & Recreation: The Complete Guide'
+  description: 'Discover the right drop-stitch pool for vacation homes, holiday rentals, and seasonal recreation — three sizes, matched filtration, and a 2-year warranty. Set up anywhere in under 30 minutes.'
   datePublished: '2024-06-01'
   dateModified: '2026-06-01'
 faqs:
-  - question: Τι τύπος SUP είναι ο καλύτερος για διακοπές και ταξίδια;
-    answer: Για τους περισσότερους, ένα φουσκωτό SUP όλων των χρήσεων είναι η καλύτερη επιλογή — σταθερό, συγχωρητικό και εύκολο στη μεταφορά. Για μεγαλύτερες ημερήσιες εξορμήσεις ή πολυήμερες περιπέτειες, ένα τουρίνγκ κρατά πιο ευθεία πορεία και μεταφέρει περισσότερο εξοπλισμό, ενώ τα SUP ψαρείας προσφέρουν βάσεις καλαμιών και σταθερή πλατφόρμα.
-  - question: Τι υλικά χρησιμοποιεί η olagoon για φουσκωτά SUP τουριστικού βαθμού;
-    answer: >-
-      Χρησιμοποιούμε θαλάσσιο PVC υψηλής αντοχής σε εφελκυσμό με πολλαπλές στρώσεις επικάλυψης για ανώτερη αντοχή στις UV, αντοχή στη φθορά και μακροζωία. Όλα τα υφάσματα προέρχονται from επώνυμους παγκόσμιους προμηθευτές και υποβάλλονται σε αυστηρό έλεγχο εισαγωγής.
-  - question: Παρέχει η olagoon πιστοποίηση CE για SUP αναψυχής;
-    answer: Ναι. Κάθε σανίδα olagoon φέρει πιστοποίηση CE και το εργοστάσιό μας είναι πιστοποιημένο ISO 9001 — αγοράστε με σιγουριά, όπου κι αν κάνετε κουπί.
-  - question: Μπορώ να προσαρμόσω εξοπλισμό και αξεσουάρ στη σανίδα μου;
-    answer: Ναι. Οι δακτύλιοι D σας επιτρέπουν να δέσετε μια στεγνή τσάντα, ψυγείο ή καθίσμα καγιάκ, και μια ελαστική περιοχή φορτίου στην πλώρη κρατά τον εξοπλισμό στο χέρι. Οι διαμορφώσεις ψαρείας προσθέτουν βάσεις καλαμιών και σημεία στήριξης.
-  - question: Ποια είναι η εγγύηση στα SUP τουρισμού και αναψυχής της olagoon;
-    answer: Τα φουσκωτά SUP της olagoon συνοδεύονται από 3 έτη περιορισμένης εγγύησης για ελαττώματα υλικών και κατασκευής, με γρήγορη υποστήριξη αν κάτι πάει στραβά.
-body: >
-  <h2>Το πρότυπο olagoon — Δέσμευση για άψογη ναυτική τεχνογνωσία</h2>
+  - question: Which pool size is best for a vacation home?
+    answer: 'For most vacation properties, the Family Oasis (3 m × 2 m) is the best choice — big enough for the whole family, small enough to store in a closet over winter. Couples and small cabins love the Compact Plunge (2 m × 1.5 m), while larger properties host the whole lake house with the Grand Lagoon (5 m × 2.5 m).'
+  - question: What materials does OLagoon use for its pools?
+    answer: 'We use marine-grade high-tensile PVC with multi-layer coatings for superior UV resistance, abrasion resistance, and longevity. All fabrics are sourced from reputable global suppliers and undergo rigorous incoming inspection.'
+  - question: Does OLagoon provide CE certification for its pools?
+    answer: 'Yes. OLagoon pools are built in an ISO 9001 certified facility and meet applicable European safety standards, so you can buy with confidence wherever you install your pool.'
+  - question: How long does setup really take?
+    answer: 'Plan on under 30 minutes from box to filling: roll the pool out on a prepared surface, inflate the 20 cm walls with the included pump, connect the filter, and start filling. No tools and no professional installation are required.'
+  - question: What is the warranty on OLagoon pools?
+    answer: 'OLagoon pools come with a 2-year limited warranty covering defects in materials and workmanship, plus responsive support if anything goes wrong.'
+body: |
+  <h2>The OLagoon Standard — A Commitment to Flawless Drop-Stitch Craftsmanship</h2>
+  <p>In the world of seasonal recreation, the portable drop-stitch pool stands as a testament to versatility, convenience, and accessibility. From weekend cabins to holiday parks and vacation rentals, a pool that sets up in minutes transforms any property into a destination.</p>
+  <p>However, not all portable pools are created equal. The true measure of a pool lies not just in its intended application, but in the integrity of its construction, the quality of its materials, and the precision of its design. OLagoon distinguishes itself as a premier designer and manufacturer, producing drop-stitch pools that are engineered for excellence across every tourism and recreation segment.</p>
 
-  <p>Στον απέραντο και δυναμικό κόσμο της θαλάσσιας αναψυχής, το φουσκωτό SUP αποτελεί απόδειξη ευελιξίας, ευκολίας και προσβασιμότητας. Από ήρεμα ψαρέματα σε γαλήνιες λίμνες έως χαλαρές παραλιακές βόλτες, τα φουσκωτά SUP εξυπηρετούν πλήθος σκοπών.</p>
-
-  <p>Ωστόσο, δεν είναι όλα τα φουσκωτά SUP ίσα. Το πραγματικό μέτρο ενός φουσκωτού SUP δεν έγκειται μόνο στην προβλεπόμενη χρήση του, αλλά στην ακεραιότητα της κατασκευής του, στην ποιότητα των υλικών του και στην ακρίβεια του σχεδιασμού του. Η olagoon ξεχωρίζει ως κορυφαίος σχεδιαστής και κατασκευαστής premium, παράγοντας φουσκωτά SUP σχεδιασμένα για αριστεία σε κάθε τομέα τουρισμού και αναψυχής.</p>
-
-
-  <h2>Επιστήμη υλικών: Το θεμέλιο της αντοχής</h2>
-
-  <p>Η επιλογή των υλικών είναι ο πιο κρίσιμος παράγοντας για τη μακροζωία και την απόδοση ενός φουσκωτού SUP. Η olagoon επενδύει σημαντικούς πόρους στην αναγνώριση, δοκιμή και προμήθεια των καλύτερων υφασμάτων και εξαρτημάτων διαθέσιμων παγκοσμίως.</p>
-
+  <h2>Material Science: The Foundation of Durability</h2>
+  <p>The choice of materials is the most critical factor in determining a pool's longevity and performance. OLagoon invests considerable resources in identifying, testing, and procuring the finest fabrics and components available globally.</p>
   <ul>
-    <li><strong>Υπεροχή προμήθειας υφασμάτων:</strong> Θαλάσσιο PVC υψηλής αντοχής σε εφελκυσμό με πολλαπλές στρώσεις επικάλυψης, επιλεγμένο για ενισχυμένη αντοχή, αντοχή UV και αντοχή στη φθορά.</li>
-    <li><strong>Κατασκευή Drop-Stitch:</strong> Χιλιάδες εσωτερικές νήματα πολυεστέρα συνδέουν την πάνω και κάτω στρώση, δημιουργώντας μια άκαμπτη δομή στα 12-15 PSI.</li>
-    <li><strong>Θερμοσυγκολλημένες ραφές:</strong> Οι κατασκευές PVC μας χρησιμοποιούν αποκλειστικά θερμοσυγκολλημένες ραφές (συγκόλληση RF) που παράγουν ισχυρούς, αεροστεγείς δεσμούς που υπερβαίνουν τις απαιτήσεις ISO.</li>
-    <li><strong>Εκτεταμένη προστασία UV:</strong> Υφάσματα PVC με εγγυήσεις προστασίας UV για SUP που εκτίθενται συχνά σε έντονη ηλιακή ακτινοβολία.</li>
+    <li><strong>Superior Fabric Sourcing:</strong> Marine-grade, high-tensile strength PVC with multi-layer coatings, selected for enhanced durability, UV resistance, and abrasion resistance.</li>
+    <li><strong>Drop-Stitch Construction:</strong> Thousands of internal polyester threads connect top and bottom layers, creating rigid 20 cm walls at 10–15 PSI.</li>
+    <li><strong>Thermo-Welded Seams:</strong> Our PVC constructions exclusively use thermo-welded seams (RF welding) that produce high-strength, airtight bonds exceeding industry requirements.</li>
+    <li><strong>Extended UV Protection:</strong> PVC fabrics with UV stabilization for pools exposed to harsh sunlight all season long.</li>
   </ul>
 
+  <h2>Design Philosophy: Precision Engineering for Every Property</h2>
+  <p>Our design team comprises experienced inflatable engineers and materials specialists who leverage advanced CAD software and real-world testing to create pools that are structurally rigid, exceptionally stable, and robust.</p>
 
-  <h2>Φιλοσοφία σχεδιασμού: Ακριβής μηχανική για κάθε τομέα</h2>
+  <h3>Compact Plunge — Cabins & Couples</h3>
+  <p>The 2 m × 1.5 m plunge pool fits the smallest decks and patios. Perfect for cooling off after a hike or a quiet soak at the cabin, it stores in a closet between visits.</p>
 
-  <p>Η ομάδα σχεδιασμού μας αποτελείται από έμπειρους σχεδιαστές board και ειδικούς σε τεχνολογία φουσκωτών, που αξιοποιούν προηγμένο λογισμικό CAD και δοκιμές στον πραγματικό κόσμο για να δημιουργήσουν board υδροδυναμικά αποδοτικά, εξαιρετικά σταθερά και ανθεκτικά.</p>
+  <h3>Family Oasis — Vacation Homes & Rentals</h3>
+  <p>The 3 m × 2 m family pool with integrated seating is the sweet spot for vacation properties. Kids play, adults lounge, and the whole thing folds away when the season ends.</p>
 
+  <h3>Grand Lagoon — Lake Houses & Hospitality</h3>
+  <p>The 5 m × 2.5 m flagship swim lounge hosts the whole group. High-density drop-stitch construction rated to 18 PSI keeps the 20 cm walls rock-solid with a full crowd inside.</p>
 
-  <h3>SUP ψαρέματος</h3>
+  <h2>Manufacturing Excellence: Precision at Every Step</h2>
+  <p>OLagoon employs highly skilled technicians who are masters of their craft. Our 12,000 m² Qingdao production facility is equipped with state-of-the-art machinery, including automatic CNC cutting machines, RF dielectric welders, hot-air heat sealers, and digital printers. Every pool follows documented procedures with traceability.</p>
+  <p>Our multi-layered quality control system includes stringent checks at each manufacturing step, culminating in comprehensive testing of every finished pool before shipping. This commitment to quality is built in from the very beginning, not merely inspected at the end.</p>
 
-  <p>Σχεδιασμένα για σταθερότητα και αθόρυβη λειτουργία. Οι διαμορφώσεις ψαρέματος περιλαμβάνουν βάσεις για καλάμια, σημεία σύνδεσης εξοπλισμού και ήσυχες, σταθερές πλατφόρμες που ελαχιστοποιούν την ενόχληση των ψαριών.</p>
-
-
-  <h3>SUP yoga & fitness</h3>
-
-  <p>Ευρείες, σταθερές πλατφόρμες με deck pads πλήρους μήκους για yoga στο νερό, fitness και ομαδικές διατάσεις. Η κατασκευή drop-stitch κρατά την πλατφόρμα βραχώδη σταθερή κάτω από τα πόδια.</p>
-
-
-  <h3>All-Around & Touring SUP</h3>
-
-  <p>Κατασκευή drop-stitch υψηλής πυκνότητας με PVC στρατιωτικής κατηγορίας, βαθμονομημένη στα 18 PSI για εξαιρετική ακαμψία. Πλήρεις υποδοχές αξεσουάρ περιλαμβάνουν αντλία, σακίδιο, leash, κιτ επισκευής και κουπί.</p>
-
-
-  <h2>Κατασκευαστική αριστεία: Ακρίβεια σε κάθε βήμα</h2>
-
-  <p>Η olagoon απασχολεί υψηλά καταρτισμένους τεχνικούς, δεξιοτέχνες της τέχνης τους. Η μονάδα παραγωγής μας είναι εξοπλισμένη με σύγχρονα μηχανήματα, συμπεριλαμβανομένων αυτόματων μηχανών κοπής CNC, συσκευών θερμής συγκόλλησης RF, πιστολιών θερμού αέρα και ψηφιακών εκτυπωτών. Κάθε SUP ακολουθεί τεκμηριωμένες διαδικασίες με ιχνηλασιμότητα.</p>
-
-  <p>Το πολυεπίπεδο σύστημα ελέγχου ποιότητας περιλαμβάνει αυστηρούς ελέγχους σε κάθε βήμα κατασκευής, κορυφούμενο σε ολοκληρωμένες δοκιμές κάθε τελειωμένου board πριν την αποστολή. Αυτή η δέσμευση για ποιότητα είναι ενσωματωμένη από την αρχή, όχι απλώς ελεγμένη στο τέλος.</p>
-
-
-  <h2>Έλεγχος ποιότητας και δοκιμές</h2>
-
+  <h2>Quality Control & Testing</h2>
   <ul>
-    <li><strong>100% δοκιμή διατήρησης αέρα:</strong> Κάθε θάλαμος δοκιμάζεται σε πίεση πέρα από τα όρια λειτουργίας για επαλήθευση αεροστεγώνειας.</li>
-    <li><strong>Επαλήθευση αποκόλλησης ραφών:</strong> Η αντοχή συγκολλήσεων και κόλλας επαληθεύεται μέσω φυσικών δοκιμών αποκόλλησης.</li>
-    <li><strong>Επαλήθευση αντοχής UV:</strong> Τα υλικά εκτίθενται σε προσομοιωμένο ηλιακό φως για αξιολόγηση αντοχής στην υποβάθμιση.</li>
-    <li><strong>Δοκιμές φθοράς:</strong> Δείγματα υλικών δοκιμάζονται σε τριβόμενες επιφάνειες για αντοχή στη φθορά.</li>
-    <li><strong>Πλήρης έλεγχος συστημάτων:</strong> Κάθε board υποβάλλεται σε τελικό έλεγχο πριν την έγκριση αποστολής.</li>
+    <li><strong>100% Air-Retention Testing:</strong> Every chamber is pressure-tested beyond operating limits to verify airtightness.</li>
+    <li><strong>Seam Peel Verification:</strong> Weld and glue strength is verified through physical peel testing on batch samples every 50 units (ASTM D751).</li>
+    <li><strong>UV Resistance Validation:</strong> Materials are exposed to simulated sunlight to evaluate degradation resistance.</li>
+    <li><strong>Abrasion Testing:</strong> Material samples are tested against abrasive surfaces for wear resistance.</li>
+    <li><strong>Full Systems Check:</strong> Every pool undergoes final inspection before shipping approval.</li>
   </ul>
 
-
-  <h2>Γιατί οι κωπηλάτες διαλέγουν την olagoon</h2>
-
-  <p>Κάθε σανίδα olagoon κατασκευάζεται στο δικό μας εργοστάριο με κατασκευή drop-stitch, θερμοσυγκολλημένες ραφές και PVC ναυτικής ποιότητας που δοκιμάζεται σανίδα-σανίδα πριν την αποστολή — την ίδια ποιότητα, είτε είναι το πρώτο σας SUP είτε το πέμπτο.</p>
-
-  <p>Βάλτε το στο πορτμπαγκάζ, παραδώστε το στο αεροπλάνο και φουσκώστε το οπουδήποτε σε λίγα λεπτά. Από το πρώτο κουπί σε μια ήσυχη λίμνη έως μια διαδρομή μιας εβδομάδας στην ακτή — πού θα πάτε το δικό σας;</p>
+  <h2>Why Owners Choose OLagoon</h2>
+  <p>Every OLagoon pool is built in our own factory with drop-stitch construction, thermo-welded seams, and marine-grade PVC that is tested unit by unit before it ships — the same quality whether it is your first pool or your fifth.</p>
+  <p>Roll it out, inflate the walls, connect the filter, and fill. From a first swim at the cabin to a full season at the lake house — where will you set up yours?</p>

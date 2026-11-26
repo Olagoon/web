@@ -1,90 +1,89 @@
 meta:
-  title: 'Centre de Soudure RF — Liaison Diélectrique pour Joints Étanches | {SITE}'
-  description: 'Technologie de soudage par radiofréquence pour des soudures étanches conformes. Essais de pelage, validation de la rétention d’air et spécifications de soudures personnalisées.'
-  keywords:
-    - 'soudure RF'
-    - 'soudure radiofréquence'
-    - 'joint étanche'
-    - 'soudure PVC'
-back_text: Retour au Centre R&D
-home_label: Accueil
-hero:
-  tagline: Labo 03
-  title: Centre de Soudure RF
-  subtitle: Technologie de liaison diélectrique pour soudures résistantes à la pression
-  image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-1-1200w.webp
-  image_alt: Processus de liaison diélectrique par soudure RF d’OLagoon
-intro: Un SUP gonflable n’est jamais plus fiable que ses soudures. Une seule soudure défaillante peut compromettre une chambre entière — et en mer, la défaillance d’une chambre n’est pas un simple désagrément ; c’est un danger pour la sécurité. Chez OLagoon, nous avons investi dans un Centre de Soudure RF dédié, qui combine des presses de soudage diélectrique de qualité industrielle avec un contrôle rigoureux des processus et des essais après soudure. Chaque soudure que nous produisons est documentée, traçable et certifiée pour satisfaire ou dépasser les exigences de la norme EN ISO 25649 — la norme européenne pour les équipements de loisirs gonflables.
-content_html: |-
-  <h2>La science derrière la soudure</h2>
-  <p>La soudure RF utilise une énergie électromagnétique haute fréquence (généralement 27,12 MHz) pour exciter les molécules polaires au sein du tissu enduit de PVC, générant de la chaleur précisément à l’interface du matériau. Contrairement au soudage à l’air chaud ou à coin chaud, la soudure RF crée une véritable liaison moléculaire — les deux couches de tissu fusionnent en un matériau homogène unique dans la zone de soudure, produisant un joint aussi résistant que le matériau de base lui-même.</p>
+  title: 'RF Welding Center — Dielectric Bonding for Airtight Seams | {SITE}'
+  description: 'Radio-frequency welding technology delivering compliant airtight seams. Peel testing, air-retention validation, and custom seam specifications.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
 
-  <h2>Équipements de soudage et contrôle des processus</h2>
-  <p>Notre centre de soudage est équipé de :</p>
+hero:
+  tagline: 'Lab 03'
+  title: 'RF Welding Center'
+  subtitle: 'Dielectric bonding technology for welds that hold under pressure'
+  image: 'https://assets.olagoon.com/images/olagoon/products/family-oasis.webp'
+  image_alt: 'OLagoon RF welding dielectric bonding process'
+
+intro: 'An inflatable pool is only as reliable as its seams. A single weak weld can compromise an entire chamber — and at sea, a chamber failure is not an inconvenience; it is a safety hazard. At OLagoon, we have invested in a dedicated Radio-Frequency (RF) Welding Center that combines industrial-grade dielectric welding presses with rigorous process control and post-weld testing. Every seam we produce is documented, traceable, and certified to meet or exceed the requirements of EN ISO 25649 — the European standard for inflatable leisure equipment.'
+
+content_html: |
+  <h2>The science behind the seam</h2>
+  <p>RF welding uses high-frequency electromagnetic energy (typically 27.12 MHz) to excite the polar molecules within PVC-coated fabric, generating heat precisely at the material interface. Unlike hot-air or hot-wedge welding, RF welding creates a true molecular bond — the two fabric layers fuse into a single homogeneous material at the weld zone, producing a joint that is as strong as the parent material itself.</p>
+
+  <h2>Welding equipment and process control</h2>
+  <p>Our welding centre is equipped with:</p>
   <table>
-    <thead><tr><th>Machine</th><th>Puissance / Capacité</th><th>Application</th></tr></thead>
+    <thead><tr><th>Machine</th><th>Power / Capacity</th><th>Application</th></tr></thead>
     <tbody>
-      <tr><td>Presse RF diélectrique 1</td><td>15 kW, plateau 2000 × 600 mm</td><td>Soudures longitudinales principales, joints rail-coque</td></tr>
-      <tr><td>Presse RF diélectrique 2</td><td>10 kW, plateau 1500 × 500 mm</td><td>Soudure des cloisons, joints de fermeture des rails, patchs de valves</td></tr>
-      <tr><td>Soudeuse RF à commande CNC</td><td>8 kW, table XY 2500 × 1200 mm</td><td>Soudures courbes, gaufrage logo/panneau, patchwork de précision</td></tr>
-      <tr><td>Soudeuse automatique à coin chaud</td><td>Température variable, 1,2 m/min max</td><td>Méthode de secours pour les tissus PVC épais de rails et les travaux de réparation</td></tr>
+      <tr><td>Dielectric RF press 1</td><td>15 kW, platen 2000 × 600 mm</td><td>Main longitudinal seams, rail-to-hull joints</td></tr>
+      <tr><td>Dielectric RF press 2</td><td>10 kW, platen 1500 × 500 mm</td><td>Baffle welds, rail closure joints, valve patches</td></tr>
+      <tr><td>CNC controlled RF welder</td><td>8 kW, XY table 2500 × 1200 mm</td><td>Curved seams, logo/panel embossing, precision patchwork</td></tr>
+      <tr><td>Hot-wedge automatic welder</td><td>Variable temperature, 1.2 m/min max</td><td>Backup method for thick PVC rail fabric and repair work</td></tr>
     </tbody>
   </table>
-  <p>Chaque presse RF est dotée d’une surveillance de la température et de la pression en boucle fermée. Les paramètres de soudage — puissance, temps de pressage, temps de refroidissement, pression des électrodes — sont programmés par type de matériau et consignés dans notre système de gestion de production (MES) pour une traçabilité complète.</p>
+  <p>Every RF press is equipped with closed-loop temperature and pressure monitoring. Weld parameters — power, press time, cooling time, electrode pressure — are programmed per material type and recorded in our Manufacturing Execution System (MES) for full traceability.</p>
 
-  <h2>Essais de qualité des soudures — chaque soudure, chaque planche</h2>
-  <p>L’intégrité des soudures est vérifiée par un protocole obligatoire de quatre essais :</p>
+  <h2>Weld quality tests — every seam, every pool</h2>
+  <p>Weld integrity is verified through a mandatory four-test protocol:</p>
   <ol>
-    <li><strong>Inspection visuelle</strong> — 100 % des soudures sont inspectées visuellement afin de détecter tout percement, désalignement, contamination ou fusion incomplète. Seuil de rejet : 0,5 % des mètres linéaires.</li>
-    <li><strong>Essai de pelage</strong> — Une bande de 25 mm de large est découpée dans une éprouvette soudée avec chaque lot de production. Force de pelage minimale : 120 N/25 mm pour le PVC 1100 dtex.</li>
-    <li><strong>Essai de rétention d’air</strong> — Chaque chambre achevée est pressurisée à 1,5 × la pression de service et maintenue pendant 30 minutes. La chute de pression ne doit pas dépasser 2 %.</li>
-    <li><strong>Essai de cyclage thermique</strong> — Les éprouvettes subissent 50 cycles de -20 °C à +60 °C, puis sont à nouveau soumises à l’essai de pelage. Perte de résistance acceptable : &lt; 10 %.</li>
+    <li><strong>Visual inspection</strong> — 100 % of seams are visually inspected for burn-through, misalignment, contamination, or incomplete fusion. Reject rate threshold: 0.5 % of linear metres.</li>
+    <li><strong>Peel test</strong> — A 25 mm wide strip is cut from a test coupon welded with each production batch. Minimum peel force: 120 N/25 mm for PVC 1100 dtex.</li>
+    <li><strong>Air-retention test</strong> — Every completed chamber is pressurised to 1.5 × working pressure and held for 30 minutes. Pressure drop must not exceed 2 %.</li>
+    <li><strong>Thermal cycling test</strong> — Sample coupons are cycled from -20 °C to +60 °C for 50 cycles, then peel-tested again. Acceptable strength loss: &lt; 10 %.</li>
   </ol>
 
   <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
-    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Comparaison de la résistance au pelage — Soudure RF vs soudage à l’air chaud (PVC 1100 dtex)</p>
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Peel Strength Comparison — RF vs Hot-Air Welding (PVC 1100 dtex)</p>
     <div class="space-y-3">
       <div class="flex items-center gap-3">
-        <span class="w-24 text-xs font-medium">Soudure RF</span>
+        <span class="w-24 text-xs font-medium">RF Weld</span>
         <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
           <div class="h-full bg-blue-600 rounded" style="width:92%"></div>
         </div>
         <span class="text-xs font-bold w-12 text-right">184 N</span>
       </div>
       <div class="flex items-center gap-3">
-        <span class="w-24 text-xs font-medium">Air chaud</span>
+        <span class="w-24 text-xs font-medium">Hot-Air</span>
         <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
           <div class="h-full bg-gray-400 rounded" style="width:65%"></div>
         </div>
         <span class="text-xs font-bold w-12 text-right">130 N</span>
       </div>
       <div class="flex items-center gap-3">
-        <span class="w-24 text-xs font-medium">Min.</span>
+        <span class="w-24 text-xs font-medium">Min</span>
         <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
           <div class="h-full bg-green-500 rounded" style="width:48%"></div>
         </div>
         <span class="text-xs font-bold w-12 text-right">96 N</span>
       </div>
     </div>
-    <p class="text-xs text-gray-400 mt-2">La soudure RF atteint systématiquement 90-95 % de la résistance du matériau de base, bien au-delà du minimum requis.</p>
+    <p class="text-xs text-gray-400 mt-2">RF welding consistently achieves 90-95 % of parent-material strength, well above the minimum.</p>
   </div>
 
-  <h2>Expertise professionnelle</h2>
-  <p>Notre équipe de soudage est dirigée par un ingénieur processus senior fort de 11 ans d’expérience dans le soudage diélectrique des textiles enduits. Chaque opérateur suit un programme de certification interne de 6 mois avant d’être autorisé à travailler sur les soudures de production. Une recertification est requise chaque année, avec un essai de soudure pratique évalué selon notre norme interne de grade A (résistance au pelage ≥ 160 N/25 mm).</p>
+  <h2>Professional expertise</h2>
+  <p>Our welding team is led by a senior process engineer with 11 years of experience in dielectric welding of coated textiles. Each operator completes a 6-month in-house certification programme before being allowed to work on production seams. Recertification is required annually, including a practical weld test evaluated against our internal Grade-A standard (peel strength ≥ 160 N/25 mm).</p>
 
-  <h2>Solutions de soudage personnalisées pour des exigences uniques</h2>
-  <p>Nous savons qu’une même spécification de soudage ne convient pas à toutes les applications. Notre Centre de Soudure RF développe régulièrement des configurations de soudures personnalisées pour les clients aux exigences particulières :</p>
+  <h2>Custom welding solutions for unique requirements</h2>
+  <p>We understand that one welding specification does not fit every application. Our RF Welding Center routinely develops custom seam configurations for clients with special requirements:</p>
   <ul>
-    <li><strong>Patchs de renforcement multicouches</strong> — pour les zones très sollicitées comme le nez et les rails arrière, nous développons des soudures RF multipasses intégrant une couche extérieure résistante à l’abrasion sans compromettre la flexibilité.</li>
-    <li><strong>Soudures conductrices ou opaques aux RF</strong> — pour les applications militaires ou de surveillance nécessitant un blindage électromagnétique, nous soudons des couches de maillage conducteur au sein de l’empilement de la soudure.</li>
-    <li><strong>Soudure de panneaux bicolores</strong> — panneaux de tissu bicolores (par ex. coque orange + dessus gris) soudés avec un recouvrement dissimulé afin de préserver l’esthétique de la marque sans ligne de jonction visible.</li>
+    <li><strong>Multi-layer reinforcement patches</strong> — for high-wear areas such as the nose and tail rails, we develop multi-pass RF welds that integrate a wear-resistant outer layer without compromising flexibility.</li>
+    <li><strong>Conductive or RF-opaque seams</strong> — for military or surveillance applications requiring electromagnetic shielding, we weld in conductive mesh layers within the seam stack-up.</li>
+    <li><strong>Colour-change panel welding</strong> — dual-colour fabric panels (e.g. orange hull + grey deck) welded with a concealed overlap to maintain brand aesthetics without a visible join line.</li>
   </ul>
 
-  <h2>Notre engagement envers vous</h2>
-  <p>Chaque planche que nous livrons est couverte par notre garantie de qualité de soudure : si une soudure cède en service normal pendant la période de garantie, nous réparons ou remplaçons la chambre concernée sans frais, et une analyse de la cause première est menée pour éviter toute récidive. Ce n’est pas une simple garantie — c’est un engagement en faveur d’une amélioration continue, nourri par des données opérationnelles réelles.</p>
-  <p>En choisissant OLagoon, vous choisissez des soudures conçues, testées et documentées — pas seulement soudées. C’est la différence entre une planche qui flotte et une planche qui performe.</p>
+  <h2>Our commitment to you</h2>
+  <p>Every pool we deliver carries our weld-quality guarantee: if any seam fails in normal service within the warranty period, we repair or replace the affected chamber at no cost, and a root-cause investigation is performed to prevent recurrence. This is not simply a warranty — it is a commitment to continuous improvement driven by real-world operational data.</p>
+  <p>When you choose OLagoon, you are choosing seams that are engineered, tested, and documented — not just welded. That is the difference between a pool that holds water and a pool that holds up season after season.</p>
+
 cta:
-  title: Discuter de vos besoins de soudure
-  subtitle: Spécifications de joint personnalisées, compatibilité des matériaux ou validation de processus.
-  button_text: Contactez notre équipe de soudure
+  title: 'Discuss your welding requirements'
+  subtitle: 'Custom seam specifications, material compatibility, or process validation.'
+  button_text: 'Contact our welding team'
   button_link: /contact/

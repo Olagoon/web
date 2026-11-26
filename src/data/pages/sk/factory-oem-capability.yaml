@@ -1,58 +1,58 @@
 meta:
-  title: 'OEM výroba a private label | {SITE}'
-  description: 'Od konceptu po kontajner: prispôsobte každý detail svojej línie nafukovacích SUP. Kompletná OEM/ODM služba pre značky paddle boardov private label.'
+  title: 'OEM & Private Label Manufacturing | {SITE}'
+  description: 'From concept to container: customize every detail of your inflatable pools line. Full OEM/ODM service for private label inflatable pool brands.'
   keywords:
-    - 'oem výroba sup'
-    - 'paddle board s vlastnou značkou'
-    - 'oem nafukovacie sup'
-    - 'custom továreň sup'
+    - 'oem pool manufacturing'
+    - 'private label inflatable pool'
+    - 'oem inflatable pools'
+    - 'custom pool factory'
 hero:
-  tagline: 'OEM/ODM výroba'
-  title: 'OEM výroba a private label'
-  subtitle: 'Od konceptu po kontajner — prispôsobte každý detail svojej línie nafukovacích SUP'
+  tagline: OEM/ODM Manufacturing
+  title: OEM & Private Label Manufacturing
+  subtitle: From concept to container — customize every detail of your inflatable pools line
 
-intro: 'olagoon ponúka komplexné OEM a ODM služby pre značky, distribútorov a vládne inštitúcie po celom svete. S viac než 10 rokmi skúseností s exportom a továrnou s certifikáciou ISO 9001 a BSCI na ploche 12 000 m² zabezpečujeme všetko od dizajnu produktu a vývoja foriem po sériovú výrobu, balenie a logistiku.'
+intro: olagoon offers comprehensive OEM and ODM services for brands, distributors, and government agencies worldwide. With 10+ years of export experience and a 12,000 m² ISO 9001 & BSCI certified factory, we handle everything from product design and mold development to full-scale production, packaging, and logistics.
 
 highlight:
   - value: 10+
-    label: 'Rokov OEM skúseností'
-    detail: 'Od roku 2012'
+    label: Years OEM experience
+    detail: Since 2012
   - value: 50+
-    label: 'Krajín exportu'
-    detail: 'Globálny dosah'
+    label: Export countries
+    detail: Global reach
   - value: 200+
-    label: 'Dodaných custom projektov'
-    detail: 'Naprieč všetkými produktovými líniami'
-  - value: 30–45
-    label: 'Štandardná dodacia lehota (dní)'
-    detail: 'Od PO po FOB'
+    label: Custom projects delivered
+    detail: Across all product lines
+  - value: 12–16
+    label: Standard lead time (weeks)
+    detail: 50–100 units, from PO to FOB
 
 services:
-  - title: 'Dizajn a konštrukcia produktu'
-    description: 'Náš vlastný tím výskumu a vývoja pracuje s vašim konceptom alebo špecifikáciou na vývoji CAD výkresov, 3D modelov a prototypov. Ponúkame dizajn foriem, optimalizáciu tvaru trupu a poradenstvo pri výbere materiálov.'
-  - title: 'Vlastný branding a grafika'
-    description: 'Plnofarebná digitálna tlač, sieťotlač, reliéfna tlač a možnosti štítkov. Vyvíjame grafiku paluby špecifickú pre značku, branding tubusov a balenie pripravené na predaj.'
-  - title: 'Customizácia materiálov a špecifikácií'
-    description: 'Vyberte si z PVC (štandardné, ekologické, retardérové), drop-stitch a hybridných konštrukcií. Vlastné farby tubusov, gramáže tkanín a možnosti zosilnenia.'
-  - title: 'Balenie a logistika'
-    description: 'Vlastné obchodné balenie, krabice private label, vákuové balenie, paletizácia a nakládka kontajnerov. Dodacie podmienky FOB Qingdao, CIF alebo DDP.'
+  - title: Product Design & Engineering
+    description: Our in-house R&D team works with your concept or spec to develop CAD drawings, 3D models, and prototypes. We offer mold design, hull shape optimization, and material selection guidance.
+  - title: Custom Branding & Graphics
+    description: Full-color digital printing, screen printing, embossing, and label options. We develop brand-specific deck graphics, tube branding, and retail-ready packaging.
+  - title: Material & Specification Customization
+    description: Choose from PVC (standard, eco-friendly, fire-retardant), drop-stitch, and hybrid constructions. Custom tube colors, fabric weights, and reinforcement options.
+  - title: Packaging & Logistics
+    description: Custom retail packaging, private-label boxes, vacuum packing, palletizing, and container loading. FOB Qingdao, CIF, or DDP shipping terms available.
 
 moq_table:
-  - product: 'Nafukovacie dosky SUP'
-    standard_moq: '5–10 kusov'
-    custom_moq: '200+ kusov'
-    lead_time: '30–45 dní'
-  - product: 'Záchranné vesty a bezpečnosť'
-    standard_moq: '100–200 kusov'
-    custom_moq: '1 000+ kusov'
-    lead_time: '20–30 dní'
+  - product: inflatable pools
+    standard_moq: 50 units (samples 5–10)
+    custom_moq: 200+ units
+    lead_time: 12–16 weeks
+  - product: Pool Accessories
+    standard_moq: 100–200 units
+    custom_moq: 1,000+ units
+    lead_time: 20–30 days
 
 why_us:
-  - title: 'Vertikálna integrácia'
-    description: 'Vlastníme našu továreň, formy a dodávateľský reťazec — žiadni sprostredkovatelia, žiadni subdodávatelia. To nám dáva kontrolu nad kvalitou, nákladmi a dodaním.'
-  - title: 'Duálna certifikácia'
-    description: 'Manažérstvo kvality ISO 9001 a certifikácia sociálnej súladnosti BSCI. Správy z auditu továrne k dispozícii na vyžiadanie.'
-  - title: 'Súlad s CE'
-    description: 'Všetky štandardné modely nesú certifikáciu CE 2013/53/EU. Custom modely možno certifikovať CE prostredníctvom nášho overeného procesu.'
-  - title: 'Nízke MOQ'
-    description: 'Začnite už od 5 kusov pri štandardných modeloch. Pomáhame vznikajúcim značkám štartovať bez prepäťovania zásob.'
+  - title: Vertical Integration
+    description: We own our factory, molds, and supply chain — no middlemen, no subcontractors. This gives us control over quality, cost, and delivery.
+  - title: Dual Certification
+    description: ISO 9001 quality management and BSCI social compliance certification. Factory audit reports available upon request.
+  - title: CE Compliance
+    description: All standard models carry CE 2013/53/EU certification. Custom models can be CE certified through our established process.
+  - title: Low MOQ
+    description: Start with samples from 5–10 units; standard production runs from 50 units. We help emerging brands launch without overcommitting inventory.

@@ -1,87 +1,87 @@
 meta:
-  title: 'Kagamitan ng Pabrika — Cutting, RF Welding at Printing | {SITE}'
-  description: 'Industrial-grade na kagamitan ng olagoon sa pagmamanupaktura: PVC cutting, RF welding, digital printing, assembly, at testing para sa mga inflatable SUP.'
+  title: 'Factory Equipment — Cutting, RF Welding & Printing | {SITE}'
+  description: 'Industrial-grade olagoon manufacturing equipment: PVC cutting, RF welding, digital printing, assembly, and testing for inflatable pools.'
   keywords:
-    - 'kagamitan sa pagmamanupaktura ng sup'
-    - 'pabrika ng inflatable sup'
+    - 'pool manufacturing equipment'
+    - 'inflatable pools factory'
     - 'rf welding pvc'
-    - 'produksyon ng paddle board'
+    - 'inflatable pool production'
 hero:
-  tagline: 'Kagamitan'
-  title: 'Kagamitan at Makinarya sa Pagmamanupaktura'
-  subtitle: 'Industrial-grade na kagamitan sa cutting, welding, printing, at assembly'
-  back_label: 'Bumalik sa Factory'
+  tagline: Equipment
+  title: Manufacturing Equipment & Machinery
+  subtitle: Industrial-grade equipment across cutting, welding, printing, and assembly
+  back_label: Back to Factory
   back_link: /factory/
 
 categories:
-  - title: 'Cutting at Paghahanda ng Materyales'
+  - title: Cutting & Material Preparation
     items:
-      - name: 'Awtomatikong Makinang Paggugupot ng PVC'
-        spec: 'CNC-controlled, 6.5 m × 2.5 m, 0.1 mm katumpakan'
-        desc: 'Computer-controlled na automatic cutting machine para sa PVC at drop-stitch fabric. Ang nesting software ay nag-o-optimize ng paggamit ng materyales sa mas mababa sa 5% na basura.'
-      - name: 'Fabric Spreader'
-        spec: '3 m pinakamalaking lapad, tension-controlled na pagpapakain'
-        desc: 'Naglalatag ng tela sa isa o maraming layer na may kontroladong tension upang maiwasan ang depekto bago gupitin.'
+      - name: Automatic PVC Cutting Machine
+        spec: CNC-controlled, 6.5 m × 2.5 m, 0.1 mm accuracy
+        desc: Computer-controlled automatic cutting machine for PVC and drop-stitch fabrics. Nesting software optimises material utilisation to below 5% waste.
+      - name: Fabric Spreader
+        spec: 3 m max width, tension-controlled feed
+        desc: Lays fabric in single or multiple plies with controlled tension to prevent distortion before cutting.
 
-  - title: 'Pag-weld at Pagdugtong ng Tube'
+  - title: Tube Welding & Bonding
     items:
-      - name: 'Heat Sealing Machine'
-        spec: 'Hot-air welding, nababago 200–600 °C, 0.5–5 m/min'
-        desc: 'Hot-air heat sealing machine para sa pagdugtong at pag-weld ng PVC at rail seam. Ginagamit para sa tacking, sealing, at pagsasanib ng mga tube chamber at float joint.'
-      - name: 'Dielectric RF Press'
-        spec: '15 kW, plato 2000 × 600 mm'
-        desc: 'Radio-frequency welding press para sa pangunahing longitudinal seam, rail band, at paggawa ng malaking chamber.'
-      - name: 'RF Welder na Kinokontrol ng CNC'
-        spec: '8 kW, mesa ng XY 2500 × 1200 mm'
-        desc: 'Programmable na pag-weld ng kurbadang seam para sa masalimuot na geometry, pag-emboss ng logo, at precision patchwork.'
+      - name: Heat Sealing Machine
+        spec: Hot-air welding, variable 200–600 °C, 0.5–5 m/min
+        desc: Hot-air heat sealing machine for bonding and welding PVC and rail seams. Used for tacking, sealing, and fusing tube chambers and float joints.
+      - name: Dielectric RF Press
+        spec: 15 kW, platen 2000 × 600 mm
+        desc: Radio-frequency welding press for main longitudinal seams, rail bands, and large-chamber fabrication.
+      - name: CNC-Controlled RF Welder
+        spec: 8 kW, XY table 2500 × 1200 mm
+        desc: Programmable curved-seam welding for complex geometries, logo embossing, and precision patchwork.
 
-  - title: 'Pagmamanupaktura ng SUP Board'
+  - title: pools Manufacturing
     items:
-      - name: 'Press para sa Laminasyon ng Drop-Stitch Core'
-        spec: 'Large-format press para sa core ng board na hanggang 14 ft LOA'
-        desc: 'Precision na lamination ng drop-stitch core sa panlabas na PVC laminate. Bawat layer ay pressure-bonded para sa pare-parehong kalidad at lakas.'
-      - name: 'CNC Router (5-axis)'
-        spec: '3 m × 2 m × 1 m envelope, water-cooled na spindle'
-        desc: 'Pag-ukit ng fin box, cutout ng handle, at custom na component ng board.'
+      - name: Drop-Stitch Core Lamination Press
+        spec: Large-format press for drop-stitch cores up to 5 m length
+        desc: Precision lamination of drop-stitch cores to outer PVC laminates. Each layer is pressure-bonded for consistent quality and strength.
+      - name: CNC Router (5-axis)
+        spec: 3 m × 2 m × 1 m envelope, water-cooled spindle
+        desc: Machining of valve ports, handle cutouts, and custom pool components.
 
-  - title: 'Printing at Dekorasyon ng SUP'
+  - title: pool Printing & Decoration
     items:
-      - name: 'Digital Printer'
-        spec: 'High-resolution inkjet, hanggang 2 m lapad ng print'
-        desc: 'Direct-to-fabric digital printing para sa buong-kulay na graphic ng SUP deck. Nagpi-print ng custom na pattern, gradient, at larawang photo-quality gamit ang UV-resistant na water-based na tinta.'
-      - name: 'Screen Printing Machine'
-        spec: 'Manual at semi-automatic, multi-colour registration'
-        desc: 'Screen printing para sa logo ng SUP board, brand mark, at paulit-ulit na pattern. Nagbibigay ng matibay at solid na print na may buhay na saturation ng kulay.'
+      - name: Digital Printer
+        spec: High-resolution inkjet, up to 2 m print width
+        desc: Direct-to-fabric digital printing for full-colour pool deck graphics. Prints custom patterns, gradients, and photo-quality images with UV-resistant water-based inks.
+      - name: Screen Printing Machine
+        spec: Manual and semi-automatic, multi-colour registration
+        desc: Screen printing for pools logos, brand marks, and repeating patterns. Provides durable, opaque prints with vibrant colour saturation.
 
-  - title: 'Assembly at Rigging'
+  - title: Assembly & Rigging
     items:
-      - name: 'Board Assembly Station'
-        spec: 'Modular at nababago, multi-station layout'
-        desc: 'Assembly ng fin box, handle, D-ring, valve, at deck pad sa mga SUP board.'
-      - name: 'Press para sa Pag-instala ng Valve'
-        spec: 'Pneumatic, nababagong presyon'
-        desc: 'Precision na pagkabit at pagselyo ng mga valve na Halkey-Roberts at Leafield.'
-      - name: 'Deck Pad Laminator'
-        spec: '3 m × 1.5 m, kontrolado ang temperatura'
-        desc: 'Heat lamination ng EVA foam deck pad sa itaas ng SUP board na may pare-parehong lakas ng pagdikit.'
+      - name: Pool Assembly Station
+        spec: Modular adjustable, multi-station layout
+        desc: Assembly of fin boxes, handles, D-rings, valves, and deck pads onto pools.
+      - name: Valve Installation Press
+        spec: Pneumatic, adjustable pressure
+        desc: Precision installation and sealing of Halkey-Roberts and Leafield valves.
+      - name: Deck Pad Laminator
+        spec: 3 m × 1.5 m, temperature-controlled
+        desc: Heat lamination of EVA foam deck pads to pools tops with consistent bond strength.
 
-  - title: 'Testing at Quality Control'
+  - title: Testing & Quality Control
     items:
-      - name: 'Unibersal na Pampasubok ng Tensile'
-        spec: '50 kN, ASTM D751'
-        desc: 'Pagsusuri ng breaking force, elongation at break, at tear propagation para sa mga batch ng tela.'
-      - name: 'Air Retention Test Rig'
-        spec: 'Napoprograma, 30-minutong pagpapanatili ng presyon'
-        desc: 'Automated na pressure-hold test para sa bawat tube chamber bago ang assembly.'
-      - name: 'Seam Peel Tester'
-        spec: 'Motorised 180° peel sa 100 mm/min'
-        desc: 'Pagsusuri ng peel strength ng weld at glued seam ayon sa EN ISO 25649.'
-      - name: 'Xenon-Arc na Silid ng Paglalantad sa Panahon'
-        spec: '2000 h exposure'
-        desc: 'Pagsusuri ng UV resistance para sa pagbabago ng kulay at pagpapanatili ng lakas.'
+      - name: Universal Tensile Tester
+        spec: 50 kN, ASTM D751
+        desc: Breaking force, elongation at break, and tear propagation testing for fabric batches.
+      - name: Air Retention Test Rig
+        spec: Programmable, 30-min pressure-hold
+        desc: Automated pressure-hold test for every tube chamber before assembly.
+      - name: Seam Peel Tester
+        spec: Motorised 180° peel at 100 mm/min
+        desc: Weld and glued-seam peel strength testing per EN ISO 25649.
+      - name: Xenon-Arc Weathering Chamber
+        spec: 2000 h exposure
+        desc: UV resistance testing for colour change and strength retention.
 
 cta:
-  title: 'Interesado sa factory tour?'
-  desc: 'Tinatanggap namin ang mga bisita sa aming pasilidad sa Qingdao. Makita nang personal ang aming kagamitan at mga proseso.'
-  label: 'Mag-iskedyul ng pagbisita →'
+  title: Interested in a factory tour?
+  desc: We welcome visitors to our Qingdao facility. See our equipment and processes in person.
+  label: Schedule a visit →
   link: /contact/

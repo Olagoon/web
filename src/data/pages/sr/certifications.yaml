@@ -1,68 +1,68 @@
 meta:
-  title: 'Сертификације — CE, ISO 9001 и усаглашеност | {SITE}'
-  description: 'Сертификације квалитета olagoon: CE (EN ISO 25649), ISO 9001:2015, BSCI. Усаглашеност и безбедност за произвођача надуваних SUP плоча.'
+  title: 'Certifications — CE, ISO 9001 & Compliance | {SITE}'
+  description: 'olagoon quality certifications: CE (EN ISO 25649), ISO 9001:2015, BSCI. Compliance and safety for an inflatable pool manufacturer.'
   keywords:
-    - 'ce сертификација sup'
-    - 'iso 9001 sup'
-    - 'наутичка усаглашеност'
-    - 'сертификација плоча за веслање'
+    - 'ce certification pool'
+    - 'iso 9001 pool'
+    - 'nautical compliance'
+    - 'inflatable pool certification'
 hero:
-  tagline: 'Сертификације и стандарди'
-  title: 'Сертификације квалитета<br />и стандарди усаглашености'
-  subtitle: 'olagoon производња SUP плоча сертификована је према међународним стандардима безбедности на води, системима управљања квалитетом и еколошким прописима — CE, ISO 9001, UKCA, BSCI и REACH.'
+  tagline: Certifications & Standards
+  title: 'Quality Certifications<br />& Compliance Standards'
+  subtitle: 'olagoon pool manufacturing is certified to international marine safety standards, quality management systems, and environmental regulations — CE, ISO 9001, UKCA, BSCI, and REACH.'
   image:
     src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
-    alt: 'olagoon сертификације квалитета и документација о усаглашености'
+    alt: olagoon quality certifications and compliance documentation
 content_certifications:
-  tagline: 'Наше сертификације'
-  title: 'Сертификован квалитет,<br />глобално признат'
-  subtitle: 'Сваки olagoon производ подржан је сертификацијама које показују нашу посвећеност квалитету, безбедности и еколошкој одговорности.'
+  tagline: Our Certifications
+  title: 'Certified Quality,<br />Globally Recognized'
+  subtitle: 'Every olagoon product is backed by certifications that demonstrate our commitment to quality, safety, and environmental responsibility.'
   items:
-    - title: 'CE сертификат'
-      description: 'Сви olagoon производи испуњавају европске захтеве CE обележавања за пловила за рекреацију, чиме се обезбеђује да су испуњени стандарди безбедности, здравља и заштите животне средине.'
+    - title: 'CE Certified'
+      description: 'All olagoon products comply with European CE marking requirements for recreational watercraft, ensuring safety, health, and environmental protection standards are met.'
       icon: tabler:certificate
     - title: 'ISO 9001:2015'
-      description: 'Наш систем управљања квалитетом сертификован је према ISO 9001:2015 и обухвата дизајн, производњу и дистрибуцију надуваних пловила и опреме за воде.'
+      description: 'Our quality management system is ISO 9001:2015 certified, covering design, manufacturing, and distribution of inflatable watercraft and marine equipment.'
       icon: tabler:clipboard-check
-    - title: 'UKCA обележје'
-      description: 'Производи који се продају на тржишту УК носе UKCA обележје, што потврђује усаглашеност са прописима УК за опрему за воде и лична пловила.'
+    - title: 'UKCA Marked'
+      description: 'Products sold in the UK market carry UKCA marking, confirming compliance with UK regulations for marine equipment and personal watercraft.'
       icon: tabler:shield
-    - title: 'BSCI усаглашеност'
-      description: 'olagoon је BSCI (Business Social Compliance Initiative) аудитован, што показује етичке производне праксе, фер услове рада и одговорност у ланцу снабдевања.'
+    - title: 'BSCI Compliant'
+      description: 'olagoon is BSCI (Business Social Compliance Initiative) audited, demonstrating ethical manufacturing practices, fair labor conditions, and supply chain responsibility.'
       icon: tabler:heart-handshake
-    - title: 'REACH усаглашеност'
-      description: 'Сви материјали коришћени у olagoon производима испуњавају прописе EU REACH о хемијској безбедности, чиме се обезбеђује да у нашим материјалима PVC, EVA или компонентама нема ограничених супстанци.'
+    - title: 'REACH Compliant'
+      description: 'All materials used in olagoon products comply with EU REACH regulations for chemical safety, ensuring no restricted substances in our PVC, EVA, or components.'
       icon: tabler:flask
-    - title: 'Тестирање материјала'
-      description: 'Тканине се тестирају на затезну чврстоћу, отпорност на цепање, UV деградацију и понашање на хладном пуцању. Свака производна серија се узоркује и верификује.'
+    - title: 'Material Testing'
+      description: 'Fabrics are tested for tensile strength, tear resistance, UV degradation, and cold-crack performance. Every production batch is sampled and verified.'
       icon: tabler:test-pipe
 content_factory:
-  tagline: 'Стандарди фабрике'
-  title: 'Изврсност у производњи<br />— израђено према спецификацији'
-  subtitle: 'Наш објекат од 12,000 m² послује под строгим протоколима контроле квалитета у свакој фази производње.'
+  tagline: Factory Standards
+  title: 'Manufacturing Excellence<br />— Built to Specification'
+  subtitle: 'Our 12,000 m² facility operates under strict quality control protocols at every stage of production.'
   list:
-    - 'Контрола улазних материјала: Сви сирови материјали — PVC тканина, EVA пена, лепкови, оков — тестирају се према спецификацијама пре уласка у производњу.'
-    - 'Контрола квалитета у процесу: Свака фаза производње има документоване контролне тачке контроле квалитета. Чврстоћа заваривања, поравнатост шавова, уградња вентила и момент затезања прикључака верификују се у току процеса.'
-    - 'Тестирање притиска: Свака надувана комора тестира се на притиску од 1.25× номиналног притиска током 24–48 сати. Пад притиска мора остати испод 5% да би се оцена сматрала положеном.'
-    - 'Завршна контрола: Завршени производи прегледају се на тачност димензија, козметички завршетак, потпуност опреме и интегритет паковања пре испоруке.'
-    - 'Трагљивост серија: Сваки производ носи серијски број повезан са евиденцијом производне серије, што омогућава потпуну трагљивост од сировог материјала до готових производа.'
+    - 'Incoming Material Inspection: All raw materials — PVC fabric, EVA foam, adhesives, hardware — are tested against specifications before entering production.'
+    - 'In-Process Quality Control: Every production stage has documented QC checkpoints. Weld strength, seam alignment, valve installation, and fitting torque are verified inline.'
+    - 'Pressure Testing: Every inflatable chamber is pressure-tested at 1.25× rated pressure for 24–48 hours. Pressure drop must stay below 5% for a passing grade.'
+    - 'Final Inspection: Completed products are inspected for dimensional accuracy, cosmetic finish, accessory completeness, and packaging integrity before shipping.'
+    - 'Batch Traceability: Every product carries a serial number linked to production batch records, enabling full traceability from raw material to finished goods.'
 content_safety:
-  tagline: 'Стандарди безбедности на води'
-  title: 'Безбедност на првом месту<br />— дизајнирано за поуздан рад'
-  subtitle: 'olagoon производи дизајнирани су и тестирани тако да испуњавају међународне стандарде безбедности на води за комерцијалну и рекреативну употребу.'
+  tagline: Marine Safety Standards
+  title: 'Safety First<br />— Designed for Reliable Operation'
+  subtitle: 'olagoon products are designed and tested to meet international marine safety standards for commercial and recreational use.'
   items:
     - title: 'EN ISO 25649'
-      description: 'Надувани SUP плоче испуњавају стандарде EN ISO 25649 за конструкцију, стабилност, пловност и носивост.'
+      description: 'inflatable pools comply with EN ISO 25649 standards for construction, stability, buoyancy, and load capacity.'
       icon: tabler:sailboat
-    - title: 'SOLAS усаглашеност'
-      description: 'Опрема за безбедност и уређаји за спасавање испуњавају SOLAS (Safety of Life at Sea) захтеве тамо где се примењују.'
+    - title: 'SOLAS Compliance'
+      description: 'Safety equipment and life-saving appliances meet SOLAS (Safety of Life at Sea) requirements where applicable.'
       icon: tabler:lifebuoy
 cta:
-  title: 'Потребни су вам сертификовани производи за ваш пројекат?'
-  subtitle: 'Контактирајте наш тим како бисте разговарали о захтевима сертификације, документацији и усаглашености за ваше тржиште.'
+  title: 'Need certified products for your project?'
+  subtitle: 'Contact our team to discuss certification requirements, documentation, and compliance for your market.'
   actions:
     - variant: primary
-      text: 'Затражите документе о сертификацији'
+      text: Request certification docs
       href: /contact/
-    - text: 'Погледајте нашу страницу о квалитету'
+    - text: View our quality page
       href: /quality/

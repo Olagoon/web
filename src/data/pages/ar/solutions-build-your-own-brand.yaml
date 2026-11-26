@@ -1,110 +1,115 @@
 meta:
-  title: تصنيع ألواح SUP بعلامة تجارية خاصة | {SITE}
-  description: أطلق علامتك التجارية الخاصة بألواح SUP مع OLagoon. من الفكرة إلى السوق — خدمة OEM/ODM كاملة تشمل التصميم والنماذج الأولية والإنتاج والخدمات اللوجستية العالمية.
+  title: 'Private Label pool Manufacturing & Custom Brand Launch | {SITE}'
+  description: 'Private label pool manufacturer for new inflatable pool brands. Launch your own pool brand with OLagoon — full OEM/ODM service including design, prototyping, custom branding, production, and global logistics.'
+
 hero:
-  tagline: ابنِ علامتك التجارية الخاصة
-  title: أطلق علامتك التجارية الخاصة<br />بألواح SUP
-  subtitle: لديك الرؤية، ولدينا المصنع والخبرة وسلسلة التوريد. معًا سنبني علامة تجارية تبرز عن غيرها.
+  tagline: Build Your Own Brand
+  title: 'Launch Your Own<br />pool Brand'
+  subtitle: "You have the vision. We have the factory, the expertise, and the supply chain. Private label pool manufacturing and custom pool brand development — together, we'll build a brand that stands out."
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: لوح SUP مخصص بعلامة تجارية على الماء
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: Custom branded pools on water
+
 process:
-  title: رحلتك لبناء علامتك التجارية
-  subtitle: من الفكرة إلى السوق في 5 مراحل.
+  title: Your Brand Journey
+  subtitle: 'From idea to market in 5 phases.'
   steps:
-    - phase: المرحلة 1
-      title: الفكرة
-      period: الأسبوع 1-2
+    - phase: 'Phase 1'
+      title: 'Idea'
+      period: 'Week 1-2'
       items:
-        - البحث السوقي وتحليل المنافسين
-        - تحديد العميل المستهدف
-        - ورشة عمل تحديد موقع العلامة التجارية
-        - استراتيجية خط الإنتاج
-    - phase: المرحلة 2
-      title: التصميم
-      period: الأسبوع 3-6
+        - 'Market research & competitor analysis'
+        - 'Target customer definition'
+        - 'Brand positioning workshop'
+        - 'Product line strategy'
+    - phase: 'Phase 2'
+      title: 'Design'
+      period: 'Week 3-6'
       items:
-        - شكل اللوح وتصميم الرسومات
-        - مطابقة الألوان واختيار المواد
-        - مواصفات الملحقات
-        - تصميم التغليف والملصقات
-    - phase: المرحلة 3
-      title: النموذج الأولي
-      period: الأسبوع 7-10
+        - 'Board shape & graphic design'
+        - 'Color matching & material selection'
+        - 'Accessory specification'
+        - 'Packaging & label design'
+    - phase: 'Phase 3'
+      title: 'Prototype'
+      period: 'Week 7-10'
       items:
-        - إنتاج العينات
-        - اختبارات الجودة (الضغط، الطفو، الأشعة فوق البنفسجية)
-        - تعديلات التصميم
-        - الموافقة النهائية
-    - phase: المرحلة 4
-      title: الإنتاج
-      period: الأسبوع 11-14
+        - 'Sample production'
+        - 'Quality testing (pressure, buoyancy, UV)'
+        - 'Design adjustments'
+        - 'Final approval'
+    - phase: 'Phase 4'
+      title: 'Production'
+      period: 'Week 11-14'
       items:
-        - التصنيع بكميات كبيرة
-        - فحص مراقبة الجودة (لكل وحدة)
-        - الشحن البحري / الشحن الجوي
-        - مستندات التخليص الجمركي
-    - phase: المرحلة 5
-      title: الإطلاق
-      period: الأسبوع 15-16
+        - 'Bulk manufacturing'
+        - 'QC inspection (per unit)'
+        - 'Sea freight / air freight'
+        - 'Customs clearance documents'
+    - phase: 'Phase 5'
+      title: 'Launch'
+      period: 'Week 15-16'
       items:
-        - تصوير المنتجات
-        - تغذية المنتجات لموقع الويب
-        - المواد التسويقية
-        - دعم الإطلاق
+        - 'Product photography'
+        - 'Website product feed'
+        - 'Marketing materials'
+        - 'Launch support'
+
 packages:
-  title: باقات الشركات الناشئة
-  subtitle: باقات مصممة لكل مرحلة من مراحل نمو علامتك التجارية.
+  title: Startup Packages
+  subtitle: 'Packages designed for every stage of brand growth.'
   items:
     - name: Starter Brand
-      tagline: 50-100 وحدة · طرازا ألواح
+      tagline: '50-100 units · 2 board models'
       features:
-        - طباعة الشعار الأساسية
-        - تغليف قياسي
-        - دعم البريد الإلكتروني
+        - 'Basic logo printing'
+        - 'Standard packaging'
+        - 'Email support'
     - name: Growing Brand
-      tagline: 300-1,000 وحدة · 3-5 طرازات ألواح
+      tagline: '300-1,000 units · 3-5 board models'
       features:
-        - لون وشعار مخصصان
-        - تغليف مخصص
-        - صور المنتجات
-        - مدير مخصص
+        - 'Custom color + logo'
+        - 'Custom packaging'
+        - 'Product photos'
+        - 'Dedicated manager'
     - name: Established Brand
-      tagline: أكثر من 1,000 وحدة · خط منتجات كامل
+      tagline: '1,000+ units · Full product line'
       features:
-        - تخصيص كامل
-        - تغليف متميز
-        - المواد التسويقية
-        - أولوية الإنتاج
+        - 'Full customization'
+        - 'Premium packaging'
+        - 'Marketing collateral'
+        - 'Priority production'
+
 features:
-  title: لماذا تختار العلامات التجارية OLagoon
-  subtitle: أكثر من 10 سنوات من خبرة OEM، واعتمادات كاملة، وأدنى حد أدنى للطلب في الصناعة.
+  title: Why Brands Choose OLagoon
+  subtitle: '10+ years of OEM experience, full certification, and the lowest MOQ in the industry.'
   items:
-    - title: أكثر من 10 سنوات من خبرة OEM
-      description: تم تسليم أكثر من 2,400 هيكل للعلامات التجارية في جميع أنحاء العالم.
-      icon: tabler:clock
-    - title: شهادة كاملة
-      description: CE / ISO / UKCA / BSCI / REACH — جميعها معتمدة.
-      icon: tabler:certificate
-    - title: مهلة تنفيذ 30 يومًا
-      description: أسرع من متوسط الصناعة من الطلب إلى الشحن.
-      icon: tabler:truck-delivery
-    - title: حد أدنى منخفض لكمية الطلب (MOQ)
-      description: ابتداءً من 50 وحدة — الأدنى في القطاع.
-      icon: tabler:package
-    - title: التصميم الداخلي (In-House)
-      description: دعم تصميم كامل من الفكرة حتى التصميم النهائي.
-      icon: tabler:palette
-    - title: الخدمات اللوجستية العالمية
-      description: دعم الشحن البحري والجوي وإجراءات التخليص الجمركي.
-      icon: tabler:world
+    - title: '10+ Years OEM Experience'
+      description: '2,400+ hulls delivered to brands worldwide.'
+      icon: 'tabler:clock'
+    - title: 'Full Certification'
+      description: 'CE / ISO / UKCA / BSCI / REACH — all certified.'
+      icon: 'tabler:certificate'
+    - title: 'Tiered Lead Times'
+      description: 'Samples in 15–20 days; production in 8–16 weeks by volume.'
+      icon: 'tabler:truck-delivery'
+    - title: 'Low MOQ'
+      description: 'From 50 units — lowest in the industry.'
+      icon: 'tabler:package'
+    - title: 'In-House Design'
+      description: 'Full design support from concept to final artwork.'
+      icon: 'tabler:palette'
+    - title: 'Global Logistics'
+      description: 'Sea freight, air freight, and customs clearance support.'
+      icon: 'tabler:world'
+
 cta:
-  title: هل أنت مستعد لإطلاق علامتك التجارية؟
-  subtitle: ابدأ رحلتك التجارية أو حمّل دليل OEM الخاص بنا.
+  title: 'Ready to launch your brand?'
+  subtitle: 'Start your brand journey or download our OEM guide.'
   actions:
-    - text: ابدأ رحلتك مع علامتك التجارية
-      href: /contact/?package=oem
-      variant: primary
-    - text: تنزيل دليل OEM
-      href: /resources/download-catalog/
-      variant: secondary
+    - text: 'Start Your Brand Journey'
+      href: '/contact/?package=oem'
+      variant: 'primary'
+    - text: 'Download OEM Guide'
+      href: '/resources/download-catalog/'
+      variant: 'secondary'

@@ -1,106 +1,106 @@
 meta:
-  title: 'Jamstvo — Napuhive SUP daske | {SITE}'
-  description: 'olagoon jamstvo i podrška nakon prodaje za napuhive SUP daske i pribor. Naša posvećenost kvaliteti za partnere i kupce.'
+  title: 'Warranty — inflatable pools | {SITE}'
+  description: 'olagoon warranty and after-sales support for inflatable pools and accessories. Our quality commitment for partners and customers.'
   keywords:
-    - 'jamstvo za sup'
-    - 'jamstvo za napuhive SUP daske'
-    - 'garancija za dasku za veslanje'
-    - 'podrška nakon prodaje'
-label: 'Jamstvo'
-headline: 'Ograničeno proizvođačevo jamstvo olagoon'
-subtitle: 'olagoon stoji iza kvalitete svakog napuhivog proizvoda za more koji proizvodimo. Ovo ograničeno jamstvo utvrđuje uvjete i pokriće za vaš olagoon proizvod.'
+    - 'pool warranty'
+    - 'inflatable pools warranty'
+    - 'inflatable pool guarantee'
+    - 'after-sales support'
+label: 'Warranty'
+headline: 'olagoon Manufacturer Limited Warranty'
+subtitle: 'olagoon stands behind the quality of every inflatable marine product we manufacture. This Limited Warranty sets forth the terms and coverage for your olagoon product.'
 seo:
-  headline: 'Jamstvo za olagoon napuhive SUP daske — 3-godišnje ograničeno jamstvo | olagoon'
-  description: 'olagoon nudi 3-godišnje ograničeno jamstvo na glavnu tkaninu površine, šavove i strukturnu integritet drop-stitch jezgre. Pokriva i ventile za napuhivanje i tvornički ugrađeni pribor. Kompletni uvjeti jamstva za olagoon napuhive SUP daske.'
+  headline: 'olagoon inflatable pools Warranty — 3-Year Limited Warranty | olagoon'
+  description: 'olagoon offers a 3-year limited warranty on primary deck fabric, seams, and drop-stitch core structural integrity. Also covering inflation valves and factory-installed accessories. Full terms and conditions for olagoon inflatable pools warranty.'
   datePublished: '2024-01-01'
   dateModified: '2026-11-18'
 body: |
   <p class="text-lg text-gray-600 dark:text-gray-400 mb-8">
-    Ovo se ograničeno jamstvo primjenjuje na nove napuhive proizvode za more pod olagoon brendom, kupljene izravno od olagoona ili od ovlaštenog olagoon dilera ili prodavača. Datum stupanja na snagu jest provjerljivi datum izvorne maloprodajne kupnje.
+    This Limited Warranty applies to new olagoon branded inflatable marine products purchased directly from olagoon or from an authorized olagoon dealer or retailer. The effective date is the verifiable date of original retail purchase.
   </p>
 
   <div class="bg-sky-50 dark:bg-gray-900 border border-sky-200 dark:border-gray-800 rounded-xl p-6 mb-10">
-    <h2 class="text-xl font-bold mb-3">Pokriće i trajanje jamstva</h2>
+    <h2 class="text-xl font-bold mb-3">Warranty Coverage & Duration</h2>
     <div class="grid md:grid-cols-2 gap-4">
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 godine</h3>
-        <p class="text-sm text-gray-600 mt-1">Integritet glavne tkanine cijevi (CSM/PVC)</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Years</h3>
+        <p class="text-sm text-gray-600 mt-1">Primary tube fabric integrity (CSM/PVC)</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 godine</h3>
-        <p class="text-sm text-gray-600 mt-1">Strukturni integritet trupa od stakloplastike</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Years</h3>
+        <p class="text-sm text-gray-600 mt-1">Fiberglass hull structural integrity</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 godine</h3>
-        <p class="text-sm text-gray-600 mt-1">Sposobnost zadržavanja zraka šavova napuhivih cijevi</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Years</h3>
+        <p class="text-sm text-gray-600 mt-1">Inflatable tube seam air-holding capability</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 godine</h3>
-        <p class="text-sm text-gray-600 mt-1">Funkcionalnost ventila za napuhivanje</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Years</h3>
+        <p class="text-sm text-gray-600 mt-1">Inflation valve functionality</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">1 godina</h3>
-        <p class="text-sm text-gray-600 mt-1">Tvornički ugrađeni pribor i pomoćni okovi</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">1 Year</h3>
+        <p class="text-sm text-gray-600 mt-1">Factory-installed accessories and auxiliary fittings</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-amber-700 dark:text-amber-400">1 godina*</h3>
-        <p class="text-sm text-gray-600 mt-1">Komercijalna, najamna ili flotna upotreba — sve komponente</p>
+        <h3 class="font-bold text-amber-700 dark:text-amber-400">1 Year*</h3>
+        <p class="text-sm text-gray-600 mt-1">Commercial, rental, or fleet use — all components</p>
       </div>
     </div>
-    <p class="text-xs text-gray-500 mt-4">*Komercijalna, vladina, plovna, najamna ili instrukcijska upotreba smanjuje jamstvo na 1 godinu. Upotreba u utrkama ili natjecanjima potpuno ukida jamstvo.</p>
+    <p class="text-xs text-gray-500 mt-4">*Commercial, governmental, charter, rental, or instructional use reduces warranty to 1 year. Racing or competition use voids warranty entirely.</p>
   </div>
 
-  <h2>Što je pokriveno</h2>
-  <h3>Glavna tkanina cijevi (3 godine)</h3>
-  <p>olagoon jamči za glavnu tkaninu površine protiv poroznosti koja bitno ugrožava sposobnost proizvoda da održava radni tlak napuhivanja. To se primjenjuje na tkaninu presvučenu PVC-om i sve ostale materijale tkanine površine korištene u proizvodnji.</p>
+  <h2>What Is Covered</h2>
+  <h3>Primary Tube Fabric (3 Years)</h3>
+  <p>olagoon warrants the principal deck fabric against porosity deterioration that substantially compromises the product's ability to maintain operational inflation. This applies to PVC coated fabric and all other deck fabric materials used in manufacture.</p>
 
-  <h3>Strukturni integritet trupa od stakloplastike (3 godine)</h3>
-  <p>Za proizvode s trupom od stakloplastike ojačane plastikom (FRP), temeljna kompozitna konstrukcija pokrivena je jamstvom protiv strukturnog otkaza zbog grešaka u materijalima ili izradi.</p>
+  <h3>Fiberglass Hull Structural Integrity (3 Years)</h3>
+  <p>For products with a fiberglass-reinforced plastic (FRP) hull, the fundamental composite structure is warranted against structural failure due to defects in materials or workmanship.</p>
 
-  <h3>Sposobnost zadržavanja zraka šavova napuhivih cijevi (3 godine)</h3>
-  <p>Šavovi napuhivih cijevi, spojeni tijekom proizvodnje, pokriveni su jamstvom protiv proizvodnih grešaka koje rezultiraju znatnim curenjem zraka kroz šav. Periodični pregled i održavanje odgovarajućih tlakova napuhivanja uvjeti su pokrića.</p>
+  <h3>Inflatable Tube Seam Air-Holding Capability (3 Years)</h3>
+  <p>The seams of inflatable tubes, where joined during manufacture, are warranted against manufacturing defects that result in substantial air leakage through the seam. Periodic inspection and maintenance of appropriate inflation pressures are conditions of coverage.</p>
 
-  <h3>Funkcionalnost ventila za napuhivanje (3 godine)</h3>
-  <p>Ventili za napuhivanje zraka izvorno ugrađeni od strane olagoona pokriveni su jamstvom protiv proizvodnih grešaka u materijalima ili izradi koje sprječavaju ventil da zadržava zrak kako je dizajniran.</p>
+  <h3>Inflation Valve Functionality (3 Years)</h3>
+  <p>Air inflation valves originally installed by olagoon are warranted against manufacturing defects in materials or workmanship that prevent the valve from holding air as designed.</p>
 
-  <h3>Tvornički ugrađeni pribor (1 godina)</h3>
-  <p>Komponente i okovi koje je proizveo olagoon i izvorno ugradio u tvornici pokriveni su jednogodišnjim jamstvom protiv grešaka u materijalu i izradi. To isključuje proizvode trećih strana, koje pokrivaju samo jamstva njihovih proizvođača.</p>
+  <h3>Factory-Installed Accessories (1 Year)</h3>
+  <p>Components and fittings manufactured by olagoon and originally installed at the factory are warranted against defects in material and workmanship for one year. This excludes third-party items, which are covered only by their respective manufacturer warranties.</p>
 
-  <h2>Što nije pokriveno</h2>
+  <h2>What Is Not Covered</h2>
   <ul>
-    <li>Estetski nedostaci uključujući diskoloraciju, mrlje, izblijeđivanje, kredastost ili bilo koju promjenu izgleda</li>
-    <li>Proboji, rezovi, suze, rasprskavanja ili druga fizička oštećenja</li>
-    <li>Pukotine u vidricama, pucanje, habanje, ogrebotine ili propadanje zbog trenja ili dodira</li>
-    <li>Degradacija zbog izloženosti UV svjetlu, vremenskim uvjetima ili atmosferskim prilikama</li>
-    <li>Oštećenja od dodira s gorivima, otapalima, kiselinama, lužinama ili kemikalijama</li>
-    <li>Oštećenja zbog nemara, nepravilne upotrebe, zlostavljanja, nesreće ili normalnog trošenja</li>
-    <li>Problemi površine gelcoata ili boje (mjehurići, pukotine, diskoloracija, izblijeđivanje)</li>
-    <li>Oštećenja od udaraca, naprezanja, neodgovarajuće potpore ili prijevoza</li>
-    <li>Oštećenja zbog nepravilnog napuhivanja/ispuhivanja ili upotrebe neodobrenih uređaja za napuhivanje</li>
-    <li>Oprema, komponente ili sustavi trećih strana (pokriveni jamstvima njihovih proizvođača)</li>
+    <li>Cosmetic flaws including discoloration, staining, fading, chalking, or any alteration in appearance</li>
+    <li>Punctures, cuts, tears, rips, or other physical damage</li>
+    <li>Crazing, cracking, abrasion, scuffing, or deterioration from friction or contact</li>
+    <li>Degradation from UV light exposure, weathering, or atmospheric conditions</li>
+    <li>Damage from contact with fuels, solvents, acids, alkalis, or chemicals</li>
+    <li>Damage from negligence, improper use, abuse, accident, or normal wear and tear</li>
+    <li>Gelcoat or paint surface issues (blistering, crazing, discoloration, fading)</li>
+    <li>Damage from impact, stress, improper support, or trailering</li>
+    <li>Damage from improper inflation/deflation or use of non-approved inflation devices</li>
+    <li>Third-party equipment, components, or systems (covered by their respective manufacturers)</li>
   </ul>
 
-  <h2>Obveza i pravni lijek proizvođača</h2>
-  <p>Jedina i isključiva obveza olagoona jest popravak ili zamjena, po izboru olagoona, svake komponente za koju se utvrdi da ima grešku u materijalima ili izradi te da je pokrivena ovim jamstvom. Popravke ili zamjene obavljaju olagoon ili njegova određena ovlaštena servisna ustanova. Popravljene ili zamijenjene komponente pokrivene su jamstvom samo za neistekli dio izvornog jamstvenog razdoblja.</p>
+  <h2>Manufacturer's Obligation & Remedy</h2>
+  <p>olagoon's sole and exclusive obligation is the repair or replacement, at olagoon's option, of any component determined to be defective in materials or workmanship and covered under this warranty. Repairs or replacements are performed by olagoon or its designated authorized service facility. Components repaired or replaced are warranted only for the unexpired portion of the original warranty period.</p>
 
-  <h2>Uvjeti jamstva</h2>
+  <h2>Conditions of Warranty</h2>
   <ul>
-    <li><strong>Registracija:</strong> Proizvod mora biti pravilno registriran kako je propisano jamstvenim uvjetima.</li>
-    <li><strong>Održavanje:</strong> Proizvod se mora održavati u skladu s objavljenim smjernicama olagoona, uključujući periodične preglede i održavanje odgovarajućih tlakova napuhivanja.</li>
-    <li><strong>Suradnja:</strong> Kupac mora u potpunosti i pravodobno surađivati s olagoonom u svim pitanjima koja se odnose na jamstvene zahtjeve.</li>
-    <li><strong>Izvorni kupac:</strong> Ovo se jamstvo isključivo pruža izvornom krajnjem kupcu i nije prenosivo.</li>
+    <li><strong>Registration:</strong> The product must be properly registered as mandated in the warranty terms.</li>
+    <li><strong>Maintenance:</strong> The product must be maintained in accordance with olagoon's published guidelines, including periodic inspection and maintenance of appropriate inflation pressures.</li>
+    <li><strong>Cooperation:</strong> The purchaser must fully and promptly cooperate with olagoon in all matters pertaining to warranty claims.</li>
+    <li><strong>Original Purchaser:</strong> This warranty is extended exclusively to the original end-user purchaser and is not transferable.</li>
   </ul>
 
-  <h2>Komercijalna upotreba</h2>
-  <p>Ako se proizvod koristi u komercijalne, vladine, neprofitne, plovne, najamne, instrukcijske svrhe ili bilo koju drugu svrhu osim privatne rekreacije, jamstveno razdoblje za sve komponente smanjuje se na jednu (1) godinu od izvornog datuma maloprodajne kupnje. Upotreba u utrkama, brzinskim ili izdržljivosnim natjecanjima odmah i nepovratno ukida jamstvo u cijelosti.</p>
+  <h2>Commercial Use</h2>
+  <p>If the product is used for commercial, governmental, non-profit, charter, rental, instructional, or any purpose other than private recreational use, the warranty period for all components is reduced to one (1) year from the original date of retail purchase. Use in racing, speed or endurance competition immediately and irrevocably voids the warranty entirely.</p>
 
-  <h2>Kako podnijeti jamstveni zahtjev</h2>
-  <p>Kontaktirajte olagoon ili svog ovlaštenog diler s dokazom o kupnji i detaljnim opisom problema. olagoon će pregledati zahtjev i dati upute za pregled i servisiranje.</p>
-  <p>Za upite o jamstvenom servisu kontaktirajte nas putem naše <a href="/contact/" class="text-sky-600 underline">kontakt stranice</a> s vašim brojem narudžbe i podacima o proizvodu.</p>
+  <h2>How to Make a Warranty Claim</h2>
+  <p>Contact olagoon or your authorized dealer with proof of purchase and a detailed description of the issue. olagoon will review the claim and provide instructions for inspection and service.</p>
+  <p>For warranty service inquiries, please contact us through our <a href="/contact/" class="text-sky-600 underline">contact page</a> with your order number and product details.</p>
 
-  <h2>Proizvodi trećih strana</h2>
-  <p>Oprema, komponente ili sustavi koje su proizvele treće strane (čak i ako ih je ugradio olagoon) isključivo su pokriveni jamstvom koje nudi njihov proizvođač. olagoon izričito odbacuje svaku jamstvenu odgovornost za takve proizvode trećih strana.</p>
+  <h2>Third-Party Items</h2>
+  <p>Equipment, components, or systems manufactured by third parties (even if installed by olagoon) are covered exclusively by any warranty offered by their respective manufacturer. olagoon expressly disclaims any warranty responsibility for such third-party items.</p>
 
   <p class="text-sm text-gray-500 mt-8 border-t border-gray-200 dark:border-gray-800 pt-6">
-    Ova izjava o jamstvu sažetak je potpunog Ograničenog jamstva proizvođača olagoon. Potpuni pravni dokument o jamstvu uređuje sve uvjete i odredbe jamstva. Specifikacije podliježu promjenama bez prethodne najave. olagoon je brend kojim upravlja Olagoon LLC (SAD).
+    This warranty statement is a summary of the complete olagoon Manufacturer's Limited Warranty. The full legal warranty document governs all warranty terms and conditions. Specifications subject to change without notice. olagoon is a brand operated by Olagoon LLC.
   </p>

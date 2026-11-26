@@ -1,72 +1,72 @@
 meta:
-  title: 'Merellinen osaaminen — tekniikkaa jokaisessa rungossa | {SITE}'
-  description: 'Vuosikymmenten meritekniikkaa jokaisessa rungossa. olagoon hallitsee drop stitch -rakenteen, meri-PVC:n ja ammattimaisen täytettävien SUP-lautojen suunnittelun.'
+  title: 'Marine Expertise — Engineering in Every Hull | {SITE}'
+  description: 'Decades of marine engineering in every hull. olagoon masters drop stitch, marine PVC, and professional inflatable pools design.'
   keywords:
-    - 'meritekniikka'
-    - 'täytettävien SUP-lautojen valmistaja'
-    - 'paddle board -valmistus'
+    - 'marine engineering'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: Meriasiantuntemus
-  title: Vuosikymmenten meritekniikka<br />jokaisessa rungossa
-  subtitle: olagoon yhdistää syvällisen materiaalitieteen, tarkkuusvalmistuksen ja todellisen maailman testauksen tuottaakseen vesikulkuneuvoja, jotka suoriutuvat kun sillä on merkitystä.
+  tagline: Marine Expertise
+  title: 'Decades of Marine Engineering<br />in Every Hull'
+  subtitle: 'olagoon combines deep material science, precision manufacturing, and real-world testing to produce watercraft that perform when it matters.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: olagoonin meritekniikan ja tuotekehityksen tiimi työssä
+    alt: olagoon marine engineering and R&D team at work
 expertise_materials:
-  tagline: Materiaalitiede
-  title: Oikean materiaalin valinta<br />jokaiseen käyttötarkoitukseen
-  subtitle: Työskentelemme kahden ydinmateriaalin kanssa — jokainen valittu tiettyihin käyttötapauksiin ja suorituskykyvaatimuksiin.
+  tagline: Material Science
+  title: 'Choosing the Right Material<br />for Every Application'
+  subtitle: 'We work with two core materials — each selected for specific use cases and performance requirements.'
   columns: 3
   items:
-    - title: Meriluokan PVC
-      description: 1100 denierin PVC-kangas — monipuolisin materiaalimme. UV-stabilisoitu, hankauksenkestävä ja REACH-vaatimustenmukainen. Ihanteellinen SUP-lautoihin, joissa paino ja kustannustehokkuus ratkaisevat.
+    - title: Marine-Grade PVC
+      description: '1100 denier PVC fabric — our most versatile material. UV-stabilized, abrasion-resistant, and REACH compliant. Ideal for pools where weight and cost efficiency matter.'
       icon: tabler:droplet
-    - title: Lasikuitu ja polyeteeni
-      description: Lasikuitulaminoidut SUP-laudat premium-jäykkyyteen ja liukumiseen. Rotaatiovaluttu polyeteeni raskaaseen vuokraus- ja pelastuskäyttöön, joka vaatii maksimaalista iskunkestävyyttä.
+    - title: Fibreglass & Polyethylene
+      description: 'Fibreglass-laminated pools for premium stiffness and glide. Rotomoulded polyethylene for heavy-duty rental and rescue use requiring maximum impact resistance.'
       icon: tabler:building-arch
 expertise_manufacturing:
-  tagline: Valmistuskyvyt
-  title: Tarkkuusvalmistus<br />joka vaiheessa
-  subtitle: 12 000 m² laitoksemme on varustettu erikoistuneilla koneilla jokaista tuotantovaihetta varten.
+  tagline: Manufacturing Capabilities
+  title: 'Precision Manufacturing<br />at Every Step'
+  subtitle: 'Our 12,000 m² facility is equipped with specialized machinery for every stage of production.'
   columns: 2
   items:
-    - title: CNC-leikkaus
-      description: Tietokoneohjattu leikkaus varmistaa tarkat, toistettavat kangaspaneelit mahdollisimman vähällä hukalla. Jokainen osa sopii täsmälleen suunnitellusti.
+    - title: CNC Cutting
+      description: 'Computer-controlled cutting ensures precise, repeatable fabric panels with minimal waste. Every piece fits exactly as designed.'
       icon: tabler:cpu
-    - title: Korkeataajuushitsaus
-      description: Teollinen HF-hitsaus luo saumoja, jotka ovat vahvempia kuin perusmateriaali. Tasainen lämpötilan ja paineen säätö varmistaa ilmatiiviit tiivisteet jokaisessa tuotantoerässä.
+    - title: High-Frequency Welding
+      description: 'Industrial HF welding creates seams stronger than the base material. Consistent temperature and pressure control ensures air-tight seals across every production run.'
       icon: tabler:bolt
-    - title: Drop-stitch-ydinkokoonpano
-      description: Tuhannet polyesterlangat yhdistävät kankaan ylä- ja alakerroksen mahallistaen korkeapainetäytön (15-20 PSI) jäykille, vakaille SUP-laudoille.
+    - title: Drop Stitch Core Assembly
+      description: 'Thousands of polyester threads connect top and bottom fabric layers, allowing high-pressure inflation (15-20 PSI) for rigid, stable pools.'
       icon: tabler:building-arch
-    - title: Paineentestaus
-      description: Jokainen kumituote painetestataan ennen lähetystä. Laudat testataan 1,25-kertaisella nimellispaineella — jos se kestää siellä, se suoriutuu vedellä.
+    - title: Pressure Testing
+      description: 'Every inflatable product is pressure-tested before shipping. Pools are tested at 1.25x rated pressure — if it holds there, it will perform on the water.'
       icon: tabler:wind
-    - title: Hiontakestävyyden testaus
-      description: Satunnaiset näytteet jokaisesta tuotantoerästä käyvät läpi tuhoavan saumanlujuustestauksen. Tulokset kirjataan ja ovat jäljitettävissä tiettyihin tuotantoeriin.
+    - title: Seam Strength Testing
+      description: 'Random samples from each production batch undergo destructive seam strength testing. Results are logged and traceable to specific production runs.'
       icon: tabler:files
-    - title: Veden testaus
-      description: Jokainen SUP-malli käy läpi merikokeet ennen sertifiointia. Todellisen maailman testaus rannikko-olosuhteissa vahvistaa suorituskyvyn, käsiteltävyyden ja vakauden.
+    - title: Water Testing
+      description: 'Every model undergoes sea trials before certification. Real-world testing in coastal conditions validates performance, handling, and stability.'
       icon: tabler:droplet
 expertise_design:
-  tagline: Suunnittelu ja suunnittelu
-  title: Suunniteltu todellisiin olosuhteisiin
-  subtitle: Suunnittelufilosofiamme lähtee siitä, miten lautaa käytetään — sitten rakennamme tekniikan sen käyttötapauksen ympärille.
+  tagline: Design & Engineering
+  title: 'Engineered for Real Conditions'
+  subtitle: 'Our design philosophy starts with how the pool will be used — then builds the engineering around that use case.'
   items:
-    - title: Suorituskykyrungon suunnittelu
-      description: Jokaisen rungon muoto on viritetty käyttötarkoitukseensa — siirtokeulat retkeilyliukuun, lisätty rocker surffiketteryyteen, tasaiset vakaat profiilit kalastukseen ja joogaan.
-    - title: Drop-stitch-turvallisuus
-      description: Jokaisessa laudassa on jäykkä drop-stitch-ydin vahvistetuilla reunoilla. Jos osa vaurioituu, suurvetolujuuksinen drop-stitch-rakenne pitää laudan toimintakuntoisena.
-    - title: Ergonominen kansirakenne
-      description: Kansipehmusteiden zonitus, kantokahvan sijainti ja kiinnityskohdat on suunniteltu melojan mukavuuden ympärille pitkäkestoiseen käyttöön — olipa kyse retkeilystä, kalastuksesta tai partiointista.
-    - title: Mukautettu kokoonpano
-      description: Reunojen värit, kansipehmusteen kokoonpano, lisävarustekiinnikkeet, varustekapasiteetti — jokainen malli voidaan räätälöidä vastaamaan tiettyjä toiminnallisia vaatimuksia.
+    - title: Performance Hull Design
+      description: 'Each pool is tuned for its use case — compact footprints for plunge soaking, family-sized layouts for play, and generous swim areas for daily laps.'
+    - title: Drop-Stitch Safety
+      description: 'Every pool features a rigid drop-stitch core with reinforced walls. If a section is damaged, the high-tensile drop-stitch structure keeps the pool operational.'
+    - title: Ergonomic Deck Layout
+      description: 'Deck-pad zoning, carry-handle position, and mounting points are designed around rider comfort during extended use — whether touring, fishing, or patrolling.'
+    - title: Custom Configuration
+      description: 'Rail colors, deck pad configuration, accessory mounts, gear capacity — each model can be customized to match specific operational requirements.'
 cta:
-  title: Onko sinulla tietty sovellus mielessä?
-  subtitle: Insinööritiimimme voi neuvoa materiaalien valinnassa, suunnittelussa ja valmistuksessa projektiisi.
+  title: 'Have a specific application in mind?'
+  subtitle: 'Our engineering team can advise on material selection, design, and manufacturing for your project.'
   actions:
     - variant: primary
-      text: Kysy insinööreiltämme
+      text: Ask our engineers
       href: /contact/
-    - text: Katso tuotevalikoima
+    - text: View product range
       href: /products/

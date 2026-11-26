@@ -1,68 +1,68 @@
 meta:
-  title: 'Hogyan működik a Drop Stitch — A felfújható merev magok mérnöksége | {SITE}'
-  description: 'Mélyreható betekintés a drop stitch technológiába: hogyan alakítanak át több ezer belső szál a rugalmas PVC-t merev, magas nyomású maggá, amely 15-20 PSI-t bír. Szerkezeti módszerek, anyagok, minőségi mutatók és alkalmazások SUP-oknál és kajakoknál.'
-back_text: 'Vissza a kutatáshoz'
+  title: 'How Drop Stitch Works — The Engineering Behind Inflatable Rigid Cores | {SITE}'
+  description: 'Deep dive into drop stitch technology: how thousands of internal threads turn flexible PVC into a rigid, high-pressure core capable of 15-20 PSI. Construction methods, materials, quality indicators, and applications across the OLagoon pool lineup.'
+back_text: 'Back to Research'
 
 hero:
-  tagline: 'Technológia'
-  title: 'Hogyan működik a Drop Stitch — A felfújható merev magok mérnöksége'
-  subtitle: '8 perces olvasmány'
+  tagline: 'Technology'
+  title: 'How Drop Stitch Works — The Engineering Behind Inflatable Rigid Cores'
+  subtitle: '8 min read'
 
 content_html: |
-  <h2>Mi az a Drop Stitch?</h2>
-  <p>A drop stitch (más néven "drop-stitch szövet" vagy "drop-stitch mag") egy szerkezeti módszer, amelyben több ezer egyedi poliészter szál köti össze egy szövetburok felső és alsó rétegét. Amikor a burkot felfújják, ezek a szálak belső húzóelemekként működnek — megakadályozzák, hogy a felső és alsó panelek kifelé domborodjanak kerek formává, és kényszerítik a panelt, hogy lapos és merev maradjon.</p>
-  <p>Az eredmény egy könnyű, hordozható szerkezet, amely 15 – 20 PSI belső nyomást bír — összevethető egy kemény héjú lap merevségével, de teljesen leereszthető tároláshoz és szállításhoz.</p>
+  <h2>What Is Drop Stitch?</h2>
+  <p>Drop stitch (also called "drop-stitch fabric" or "drop-stitch core") is a construction method in which thousands of individual polyester threads connect the top and bottom layers of a fabric shell. When the shell is inflated, these threads act as internal tension members — they prevent the top and bottom panels from bulging outward into a round shape, forcing the panel to remain flat and rigid.</p>
+  <p>The result is a lightweight, portable structure that can withstand 15 – 20 PSI of internal pressure — comparable to the rigidity of a rigid pool wall but fully deflatable for storage and transport.</p>
 
-  <h2>Hogyan működik: a fizika</h2>
-  <p>Egy hagyományos felfújható szerkezetben (mint egy léggömb vagy légtámatrac) a belső légnyomás minden irányba egyformán nyom. Belső visszatartás nélkül a szerkezet henger vagy gömb alakúvá válik. A drop stitch ezt húzásos megerősítés bevezetésével oldja meg:</p>
+  <h2>How It Works: The Physics</h2>
+  <p>In a conventional inflatable structure (like a balloon or an air mattress), the internal air pressure pushes equally in all directions. Without internal restraint, the structure becomes cylindrical or spherical. Drop stitch solves this by introducing tensile reinforcement:</p>
   <ul>
-    <li>Több ezer szál köti össze a felső és alsó szövetréteget</li>
-    <li>Felfújáskor a légnyomás megpróbálja szétnyomni a felső és alsó réteget</li>
-    <li>A szálak ellenállnak ennek a szétnyomásnak, átvive a terhelést húzásba a szál tengelye mentén</li>
-    <li>Az eredmény egy lapos, merev panel, amely ellenáll a hajlításnak</li>
+    <li>Thousands of threads connect the top and bottom fabric layers</li>
+    <li>When inflated, the air pressure tries to push the top and bottom apart</li>
+    <li>The threads resist this separation, transferring the load into tension along the thread axis</li>
+    <li>The result is a flat, rigid panel that resists bending</li>
   </ul>
 
-  <h2>Szerkezeti folyamat</h2>
+  <h2>Construction Process</h2>
   <ol>
-    <li><strong>Szövés:</strong> A poliészter szálakat egyidejűleg szövik két külön alap szövetrétegbe (jellemzően 1 100 DTEX vagy 1 680 DTEX PVC-bevonatú poliészter). A szálak hurkosan szövődnek a rétegek között 90&deg;-os szögben.</li>
-    <li><strong>Bevonás:</strong> A szőtt alap szövetet PVC-vel (vagy alkalmanként TPU-val) vonják be késkés bevont vagy kalanderezett bevonási eljárással. Ez lezárja a szálakat és létrehozza a légmentes membránt.</li>
-    <li><strong>Rétegragasztás:</strong> A drop-stitch magot külső laminált rétegekhez kötik (jellemzően 0,9 mm vagy 1,2 mm PVC) hőlaminálással vagy ragasztással.</li>
-    <li><strong>Hegesztés:</strong> Oldalpálya sávokat hegesztenek az élekre forró levegős hegesztéssel, RF hegesztéssel vagy nagyfrekvenciás hegesztéssel a lap oldalfalainak létrehozásához.</li>
-    <li><strong>Szelepbeszerelés:</strong> Boston vagy Halkey-Roberts szelepeket szerelnek be, jellemzően túlnyomás-leeresztő mechanizmussal a túlfújás megelőzésére.</li>
+    <li><strong>Weaving:</strong> Polyester threads are woven simultaneously into two separate layers of base fabric (typically 1,100 DTEX or 1,680 DTEX PVC-coated polyester). The threads are loop-woven between the layers at a 90&deg; angle.</li>
+    <li><strong>Coating:</strong> The woven base fabric is coated with PVC (or occasionally TPU) using a knife-coating or calendar-coating process. This seals the threads and creates the air-tight membrane.</li>
+    <li><strong>Layer bonding:</strong> The drop-stitch core is bonded to outer laminated layers (typically 0.9 mm or 1.2 mm PVC) using heat lamination or adhesive.</li>
+    <li><strong>Welding:</strong> Rail bands are welded along the edges using hot air welding, RF welding, or high-frequency welding to create the side walls of the pool.</li>
+    <li><strong>Valve installation:</strong> Boston valves or Halkey-Roberts valves are installed, typically with a pressure relief mechanism to prevent over-inflation.</li>
   </ol>
 
-  <h2>Fő minőségi mutatók</h2>
+  <h2>Key Quality Indicators</h2>
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-gray-100">
-        <th class="p-3 text-left font-semibold text-gray-900 border">Paraméter</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Belépő szint</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Prémium</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Parameter</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Entry Level</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Premium</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="p-3 border">Szálsűrűség</td><td class="p-3 border">1 szál / négyzethüvelyk</td><td class="p-3 border">2 szál / négyzethüvelyk</td></tr>
-      <tr><td class="p-3 border">Alap szövet</td><td class="p-3 border">1 100 DTEX</td><td class="p-3 border">1 680 DTEX</td></tr>
-      <tr><td class="p-3 border">Maximális nyomás</td><td class="p-3 border">12 – 15 PSI</td><td class="p-3 border">18 – 22 PSI</td></tr>
-      <tr><td class="p-3 border">PVC vastagság</td><td class="p-3 border">0,6 – 0,9 mm</td><td class="p-3 border">1,0 – 1,2 mm</td></tr>
-      <tr><td class="p-3 border">Oldalpálya szerkezet</td><td class="p-3 border">Hajtott és ragasztott</td><td class="p-3 border">Hegesztett és fúziós kötésű</td></tr>
+      <tr><td class="p-3 border">Thread density</td><td class="p-3 border">1 thread / sq in</td><td class="p-3 border">2 threads / sq in</td></tr>
+      <tr><td class="p-3 border">Base fabric</td><td class="p-3 border">1,100 DTEX</td><td class="p-3 border">1,680 DTEX</td></tr>
+      <tr><td class="p-3 border">Max pressure</td><td class="p-3 border">12 – 15 PSI</td><td class="p-3 border">18 – 22 PSI</td></tr>
+      <tr><td class="p-3 border">PVC thickness</td><td class="p-3 border">0.6 – 0.9 mm</td><td class="p-3 border">1.0 – 1.2 mm</td></tr>
+      <tr><td class="p-3 border">Rail construction</td><td class="p-3 border">Folded &amp; glued</td><td class="p-3 border">Welded &amp; fusion-bonded</td></tr>
     </tbody>
   </table>
 
-  <h2>Alkalmazások</h2>
+  <h2>Applications</h2>
   <ul>
-    <li><strong>SUP lapok:</strong> 4" – 6" vastagság, 15 – 20 PSI, 1 – 2 szál/négyzethüvelyk</li>
-    <li><strong>Kajakok:</strong> Drop-stitch padló + felfújható oldalkamrák, 10 – 15 PSI padló</li>
+    <li><strong>pools:</strong> 4" – 6" thickness, 15 – 20 PSI, 1 – 2 threads/sq in</li>
+    <li><strong>Inflatable docks:</strong> Drop-stitch deck + perimeter chambers, 10 – 15 PSI surface</li>
   </ul>
 
-  <h2>Drop Stitch vs. légpadló (üvegszálas vagy fa mag)</h2>
-  <p>A kemény héjú lapok EPS habmagokat használnak üvegszálas vagy fa merevítő megerősítéssel. Könnyebbek, merevebbek és reagálóbbak — de nem ereszthetők le. A drop stitch némi merevséget ad a teljes hordozhatóságért. A legtöbb szabadidős felhasználó számára a modern 20 PSI-s drop-stitch SUP-ok megkülönböztethetetlenek a belépő szintű kemény lapoktól merevségben.</p>
+  <h2>Drop Stitch vs. Air Deck (Fiberglass or Wood Core)</h2>
+  <p>Rigid pools use steel, resin, or composite panels. They are permanent structures that cannot be moved or stored away. Drop stitch trades permanent installation for full portability. For most families, modern drop-stitch pools at 15 PSI are indistinguishable from entry-level rigid pools in everyday rigidity.</p>
 
-  <h2>Hogyan használja az OLagoon a Drop Stitch-et</h2>
-  <p>Az OLagoon 1 680 DTEX drop-stitch magot használ SUP kínálatában, négyzethüvelykenként 2 szálal és 1,2 mm PVC külső laminátummal. A lapok 20 PSI-re vannak minősítve, és szállítás előtt 24–48 órás nyomástartási teszten esnek át a névleges nyomás 1,25-szörösén. Az oldalpálya sávokat forró levegővel hegesztik hármas rétegű fúzióval, és a túlnyomás-leeresztő szelepek minden modellnél szabványosak.</p>
+  <h2>How OLagoon Uses Drop Stitch</h2>
+  <p>OLagoon uses a 1,680 DTEX drop-stitch core across its pool lineup, with 16,000 threads per square metre and a 1.2 mm PVC outer laminate. Pools are rated to 18 PSI and undergo a 24–48 hour pressure hold test at 1.25x rated pressure before shipment. Rail bands are hot-air welded with triple-layer fusion, and pressure relief valves are standard across all models.</p>
 
 cta:
-  title: 'Szeretne többet megtudni a drop stitch-ről?'
-  subtitle: 'Vegye fel velünk a kapcsolatot műszaki specifikációkért és OEM megkeresésekért.'
-  button_text: 'Kapcsolatfelvétel az értékesítéssel'
+  title: 'Want to learn more about drop stitch?'
+  subtitle: 'Contact us for technical specifications and OEM inquiries.'
+  button_text: 'Contact sales'
   button_link: /contact/

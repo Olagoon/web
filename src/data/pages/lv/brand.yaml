@@ -1,39 +1,39 @@
 meta:
-  title: 'Zīmols olagoon — jūras inženierija un partnerība | {SITE}'
-  description: 'olagoon: piepūšamo jūras produktu zīmols, kas sadarbojas ar ūdens sporta zīmoliem, izplatītājiem, airēšanas klubiem un uzņēmumiem, piedāvājot kopīgus zīmolu kolekcijas, privātos zīmolus un valstu izplatīšanas programmas.'
+  title: 'The olagoon Brand — Marine Engineering & Partnership | {SITE}'
+  description: 'olagoon: an inflatable marine brand partnering with water sports brands, distributors, nautical clubs, and enterprises through co-branded collections, private label, and country distribution programs.'
   keywords:
-    - 'olagoon zīmols'
-    - 'piepūšamo SUP zīmols'
-    - 'Ķīnas sup ražotājs'
+    - 'olagoon brand'
+    - 'inflatable pools brand'
+    - 'china pool manufacturer'
 hero:
-  tagline: 'Zīmols'
+  tagline: Brand
   title: '{BRAND}'
-  subtitle: 'Okeāna veiktspēja ikvienam sērfotājam'
-  cta: 'Iepazīstiet aprīkojumu →'
+  subtitle: Ocean Performance for Every Surfer
+  cta: Explore Gear →
   cta_link: /products/
-  secondary_cta: 'Mācieties sērfot'
+  secondary_cta: Explore Pools
   secondary_cta_link: /guides/
 
 position:
-  tagline: 'Pozicionējums'
-  subtitle: 'Okeāna veiktspēja ikvienam sērfotājam'
+  tagline: Position
+  subtitle: Ocean Performance for Every Surfer
 
 products_section:
-  tagline: 'Produkti'
-  cta: 'Visi produkti →'
+  tagline: Products
+  cta: All Products →
   cta_link: /products/
 
 global_section:
-  tagline: 'Globāli'
-  title: 'Pieejams {count} reģionos'
+  tagline: Global
+  title: Available in {count} Regions
 
 social_section:
-  tagline: 'Sociālie tīkli'
-  title: 'Ko lasa sērfotāji'
-  read_guide: 'Lasīt ceļvedi →'
+  tagline: Social
+  title: What surfers are reading
+  read_guide: Read guide →
 
 cta_section:
-  title: 'Sāciet savu okeāna ceļu'
-  subtitle: 'Katrs produkts CE sertificēts. Ar garantiju. Radīts īstam sērfam.'
+  title: Start your ocean journey
+  subtitle: Every product CE certified. Backed by warranty. Engineered for real backyards.
   cta_suffix: '→'
-  secondary_cta: 'Par {BRAND}'
+  secondary_cta: About {BRAND}

@@ -1,52 +1,52 @@
 meta:
-  title: 'กระบวนการผลิต — จากวัตถุดิบสู่ SUP | {SITE}'
-  description: 'จากวัตถุดิบสู่บอร์ด SUP พร้อมลงน้ำ: ทุกขั้นตอนของกระบวนการผลิตของ olagoon อยู่ภายใต้การควบคุมของเรา ตั้งแต่การตัดและการเชื่อมจนถึงการทดสอบ'
+  title: 'Manufacturing Process — From Raw Material to pool | {SITE}'
+  description: 'From raw material to sea-ready pool: every step of the olagoon manufacturing process under our control, from cutting and welding to testing.'
   keywords:
-    - 'กระบวนการผลิต SUP'
-    - 'โรงงาน SUP แบบสูบลม'
-    - 'ขั้นตอนการผลิตพายบอร์ด'
-    - 'การเชื่อม PVC SUP'
+    - 'pool manufacturing process'
+    - 'inflatable pools factory'
+    - 'inflatable pool production steps'
+    - 'pvc welding pool'
 hero:
-  tagline: กระบวนการผลิต
-  title: กระบวนการผลิต
-  subtitle: จากวัตถุดิบสู่บอร์ดพร้อมลงน้ำ — ทุกขั้นตอนอยู่ภายใต้การควบคุมของเรา
-  back_label: กลับสู่หน้าโรงงาน
+  tagline: Process
+  title: Manufacturing Process
+  subtitle: From raw material to backyard-ready pool — every step under our control
+  back_label: Back to Factory
   back_link: /factory/
 
-intro: ต่างจากแบรนด์ที่จ้างโรงงานภายนอกผลิต olagoon เป็นเจ้าของและดำเนินการห่วงโซ่การผลิตทั้งหมดด้วยตัวเอง การบูรณาการแนวดิ่งนี้ทำให้เรารักษาการควบคุมคุณภาพอย่างเข้มงวดในทุกขั้นตอน ตอบสนองความต้องการแบบสั่งทำพิเศษได้อย่างรวดเร็ว และส่งมอบคุณภาพผลิตภัณฑ์ที่สม่ำเสมอในทุกล็อตการผลิต นี่คือขั้นตอนการผลิตบอร์ดหนึ่งแผ่นในโรงงานของเรา
+intro: Unlike brands that outsource production to third-party factories, olagoon owns and operates its entire manufacturing chain. This vertical integration allows us to maintain strict quality control at every stage, respond quickly to custom requirements, and deliver consistent product quality batch after batch. Here is how a pool is built in our facility.
 
 steps:
   - step: '01'
-    title: การรับวัตถุดิบและการตรวจสอบ
-    description: ล็อตวัสดุที่เข้ามาใหม่ทุกครั้ง ไม่ว่าจะเป็นผ้า PVC แผ่นไฟเบอร์กลาส เรซิน และฮาร์ดแวร์ จะได้รับการตรวจสอบเทียบกับข้อกำหนด ตัวอย่างผ้าจะถูกทดสอบความต้านแรงดึง ความสม่ำเสมอของความหนา และความต้านทานรังสี UV ก่อนปล่อยเข้าสู่สายการผลิต วัสดุที่ไม่เป็นไปตามข้อกำหนดจะถูกแยกออกและส่งคืนผู้ขาย
-    duration: 1–2 วัน
+    title: Material Receipt & Inspection
+    description: Every incoming batch of PVC fabric, fiberglass mat, resin, and hardware is inspected against specification. Fabric samples are tested for tensile strength, thickness uniformity, and UV resistance before release to production. Non-conforming materials are quarantined and returned.
+    duration: 1–2 days
   - step: '02'
-    title: การตัด PVC อัตโนมัติ
-    description: ผ้าที่ผ่านการอนุมัติจะถูกวางบนเครื่องตัด CNC อัตโนมัติและตัดด้วยความแม่นยำระดับต่ำกว่าหนึ่งมิลลิเมตร การจัดวางชิ้นงานที่ประมวลผลด้วยคอมพิวเตอร์ช่วยเรียงแผ่นวัสดุเพื่อลดเศษวัสดุให้น้อยที่สุด — โดยทั่วไปต่ำกว่า 5% ชิ้นงานที่ตัดแล้วจะถูกติดป้ายตามรุ่นบอร์ดและห้องลม แล้วมักรวมเป็นชุดเพื่อส่งต่อไปยังโรงเชื่อม
-    duration: 2–4 ชั่วโมงต่อชุดบอร์ด
+    title: Automatic PVC Cutting
+    description: Approved fabrics are laid on the automatic CNC cutting machine and cut with sub-millimetre accuracy. Computer-optimised nesting arranges panels to minimise waste — typically below 5%. Cut panels are labelled by pool model and chamber, then bundled for transfer to the welding workshop.
+    duration: 2–4 hours per pool kit
   - step: '03'
-    title: การปิดผนึกและการเชื่อมท่อด้วยความร้อน
-    description: ชิ้นงานจะถูกต่อเชื่อมและยึดติดด้วยเครื่องปิดผนึกความร้อน โดยใช้การเชื่อมลมร้อนที่อุณหภูมิควบคุม 200–300 °C รอยต่อหลักจะได้รับการเสริมความแข็งแรงด้วยการเชื่อมไดอิเล็กทริก RF เพื่อให้ได้รอยต่อที่กันอากาศและแข็งแรงสูง ห้องลมที่เสร็จสมบูรณ์จะถูกสูบลมที่แรงดัน 1.5× ของแรงดันใช้งานนาน 30 นาที เพื่อตรวจสอบการกักเก็บอากาศ
-    duration: 1–2 วันต่อบอร์ด
+    title: Tube Heat Sealing & Welding
+    description: Panels are tacked and bonded using heat sealing machines with hot-air welding at controlled temperatures of 200–300 °C. Main seams are reinforced with RF dielectric welding for airtight, high-strength joints. Completed chambers are inflated to 1.5× working pressure for 30-minute air-retention validation.
+    duration: 1–2 days per pool
   - step: '04'
-    title: การพิมพ์และการตกแต่ง SUP
-    description: ลายกราฟิกบนดาดฟ้าบอร์ด SUP จะจัดทำด้วยการพิมพ์ดิจิทัลสำหรับดีไซน์เต็มสีคุณภาพระดับภาพถ่าย และการพิมพ์สกรีนสำหรับโลโก้ที่ทนทานและลวดลายซ้ำ งานพิมพ์จะถูกอบตกตะกอนและเคลือบปิดผนึกเพื่อความต้านทานรังสี UV และการสึกกร่อน
-    duration: 1–2 วัน
+    title: pool Printing & Decoration
+    description: pools deck graphics are applied using digital printing for full-colour photo-quality designs, and screen printing for durable logos and repeating patterns. Prints are cured and sealed for UV and abrasion resistance.
+    duration: 1–2 days
   - step: '05'
-    title: การประกอบขั้นสุดท้ายและการติดตั้งอุปกรณ์
-    description: บอร์ดจะถูกติดตั้งอุปกรณ์บนสายการประกอบ ได้แก่ ครีบ วาล์ว ดาดฟ้า EVA และอุปกรณ์เสริมต่าง ๆ บอร์ดแต่ละลำดำเนินการตามรายการตรวจสอบการประกอบ 100 จุด พร้อมการลงนามรับรองภาคบังคับในทุกขั้นตอน
-    duration: 2–4 วัน
+    title: Final Assembly & Rigging
+    description: Pools are rigged on the assembly line with valves, fittings, and accessories. Each unit follows a 100-point assembly checklist with mandatory sign-off at each stage.
+    duration: 2–4 days
   - step: '06'
-    title: การทดสอบคุณภาพและการตรวจสอบ
-    description: 'บอร์ดที่ผลิตเสร็จทุกลำต้องผ่านด่านควบคุมคุณภาพภาคบังคับ ได้แก่ การทดสอบการกักเก็บอากาศในห้องลม การตรวจสอบการทำงานของอุปกรณ์ การตรวจสอบแรงบิดของสลักเกลียว และการตรวจสอบความสวยงามของผิวงาน บอร์ดสั่งทำพิเศษและบอร์ดต้นแบบยังได้รับการทดสอบในน้ำจริงครอบคลุมทั้งความเสถียรและการควบคุมทิศทาง'
-    duration: 1–2 วัน
+    title: Quality Testing & Inspection
+    description: 'Every completed pool undergoes mandatory quality gate: chamber air-retention test, hardware function check, fastener torque verification, and cosmetic inspection. Custom and prototype builds also receive in-water trials covering stability and handling.'
+    duration: 1–2 days
   - step: '07'
-    title: การบรรจุหีบห่อและการจัดส่ง
-    description: บอร์ดจะถูกระบายลมออก พับตามขั้นตอนที่กำหนด บรรจุในถุงผ้าทอชนิดหนาพิเศษหรือลังไม้อัด และบรรทุกเพื่อจัดส่ง แพ็กเกจแต่ละชิ้นมีป้ายระบุรุ่น หมายเลขซีเรียล และปลายทาง เราประสานงานกับผู้ให้บริการขนส่งสินค้าระหว่างประเทศสำหรับการจัดส่งตู้คอนเทนเนอร์แบบ FCL และ LCL ไปทั่วโลก
-    duration: 1 วัน
+    title: Packing & Shipping
+    description: Pools are deflated, folded per procedure, packed in heavy-duty woven bags or plywood crates, and loaded for shipment. Each package is labelled with model, serial number, and destination. We coordinate with freight forwarders for FCL and LCL container shipments worldwide.
+    duration: 1 day
 
 cta:
-  title: ดูอุปกรณ์และเครื่องจักรของเรา
-  desc: สำรวจอุปกรณ์ระดับอุตสาหกรรมที่อยู่เบื้องหลังบอร์ด olagoon ทุกใบ
-  label: ดูอุปกรณ์ →
+  title: See our equipment and machinery
+  desc: Explore the industrial-grade equipment behind every OLagoon pool.
+  label: View equipment →
   link: /factory/equipment/

@@ -1,57 +1,60 @@
 meta:
-  title: Как работает сертификация CE для надувных водных транспортных средств | {SITE}
-  description: Полное руководство по сертификации CE для надувных SUP и каяков. Применимые директивы (2013/53/EU RCD, СИЗ 2016/425), протоколы испытаний, нотифицированные органы, требования к техническому досье и обязательства производителя.
-back_text: Назад к исследованиям
+  title: 'How CE Certification Works for Inflatable Watercraft | {SITE}'
+  description: 'Complete guide to CE certification for inflatable pools. Applicable standards and directives for domestic pools, testing protocols, notified bodies, technical file requirements, and manufacturer obligations.'
+back_text: 'Back to Research'
+
 hero:
-  tagline: Соответствие
-  title: Как работает сертификация CE для надувных водных судов
-  subtitle: Чтение займёт 7 минут
-content_html: |-
-  <h2>Что такое сертификация CE?</h2>
-  <p>Маркировка CE (Conformit&eacute; Europ&eacute;enne) означает, что продукт соответствует требованиям ЕС в области охраны здоровья, безопасности и окружающей среды. Для надувных плавсредств применимая нормативная база зависит от категории продукции.</p>
+  tagline: 'Compliance'
+  title: 'How CE Certification Works for Inflatable Watercraft'
+  subtitle: '7 min read'
 
-  <h2>Применимые директивы</h2>
+content_html: |
+  <h2>What Is CE Certification?</h2>
+  <p>CE marking (Conformit&eacute; Europ&eacute;enne) indicates that a product meets EU health, safety, and environmental requirements. For inflatable watercraft, the relevant regulatory framework depends on the product category.</p>
 
-  <h3>Директива о прогулочных судах (2013/53/EU)</h3>
-  <p>Основная директива для прогулочных судов в ЕС. Надувные SUP длиной менее 2.4 m не входят в сферу её действия и вместо этого сертифицируются по EN ISO 25649.</p>
+  <h2>Applicable Directives</h2>
 
-  <h3>Регламент о средствах индивидуальной защиты (2016/425)</h3>
-  <p>Спасательные жилеты, средства плавучести и защитное снаряжение, поставляемые с плавсредствами, должны соответствовать требованиям Регламента о СИЗ, включая типовое испытание (модуль B) уведомлённым органом и контроль качества производства (модуль D или E).</p>
+  <h3>Recreational Craft Directive (2013/53/EU)</h3>
+  <p>The primary directive for recreational craft in the EU. inflatable pools under 2.4 m fall outside its scope and are instead certified under EN ISO 25649.</p>
 
-  <h2>Процесс сертификации</h2>
+  <h3>Personal Protective Equipment Regulation (2016/425)</h3>
+  <p>Life jackets, buoyancy aids, and safety equipment supplied with watercraft must meet PPE Regulation requirements, including type examination (Module B) by a notified body and production quality assurance (Module D or E).</p>
+
+  <h2>The Certification Process</h2>
   <ol>
-    <li>Классификация продукции: определение категории конструкции судна (A – D по ISO 8666)</li>
-    <li>Применимые стандарты: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (табличка изготовителя)</li>
-    <li>Подготовка технического файла: чертежи, спецификация материалов, сертификаты на материалы, оценка рисков</li>
-    <li>Типовые испытания: плавучесть, остойчивость, грузоподъёмность, испытания материалов, прочность швов, удержание воздуха</li>
-    <li>Производственный контроль на фабрике: аудит производственных процессов уведомлённым органом</li>
-    <li>Декларация о соответствии: изготовитель подписывает DoC и наносит маркировку CE</li>
+    <li>Product classification: Determine craft design category (A – D per ISO 8666)</li>
+    <li>Applicable standards: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (builder's plate)</li>
+    <li>Technical file preparation: Design drawings, Bill of Materials, material certificates, risk assessment</li>
+    <li>Type testing: Buoyancy, stability, load capacity, material testing, seam strength, air retention</li>
+    <li>Factory production control: Notified body audit of manufacturing processes</li>
+    <li>Declaration of Conformity: Manufacturer signs DoC, affixes CE marking</li>
   </ol>
 
-  <h2>Уведомлённые органы для надувных плавсредств</h2>
-  <p>К распространённым NB относятся Bureau Veritas (Франция), DNV GL (Германия), RINA (Италия), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (Германия).</p>
+  <h2>Notified Bodies for Inflatable Watercraft</h2>
+  <p>Common NBs include Bureau Veritas (France), DNV GL (Germany), RINA (Italy), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (Germany).</p>
 
-  <h2>Сроки и стоимость</h2>
+  <h2>Timeline and Costs</h2>
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-gray-100">
-        <th class="p-3 text-left font-semibold text-gray-900 border">Этап</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Срок</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Типичная стоимость (EUR)</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Phase</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Duration</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Typical Cost (EUR)</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="p-3 border">Подготовка технического файла</td><td class="p-3 border">2 – 4 недели</td><td class="p-3 border">2,000 – 5,000</td></tr>
-      <tr><td class="p-3 border">Типовые испытания</td><td class="p-3 border">4 – 8 недель</td><td class="p-3 border">8,000 – 20,000</td></tr>
-      <tr><td class="p-3 border">Аудит фабрики</td><td class="p-3 border">1 – 2 дня (на месте)</td><td class="p-3 border">3,000 – 6,000</td></tr>
-      <tr><td class="p-3 border">Итого (первый продукт)</td><td class="p-3 border">8 – 14 недель</td><td class="p-3 border">13,000 – 31,000</td></tr>
+      <tr><td class="p-3 border">Technical file preparation</td><td class="p-3 border">2 – 4 weeks</td><td class="p-3 border">2,000 – 5,000</td></tr>
+      <tr><td class="p-3 border">Type testing</td><td class="p-3 border">4 – 8 weeks</td><td class="p-3 border">8,000 – 20,000</td></tr>
+      <tr><td class="p-3 border">Factory audit</td><td class="p-3 border">1 – 2 days (on-site)</td><td class="p-3 border">3,000 – 6,000</td></tr>
+      <tr><td class="p-3 border">Total (first product)</td><td class="p-3 border">8 – 14 weeks</td><td class="p-3 border">13,000 – 31,000</td></tr>
     </tbody>
   </table>
 
-  <h2>Что это значит для покупателей</h2>
-  <p>При покупке надувных SUP с сертификацией CE всегда проверяйте, что маркировка CE нанесена на табличку изготовителя, существует действующая DoC, указан номер уведомлённого органа, а руководство пользователя содержит инструкции по безопасности на вашем языке. Вся продукция OLagoon имеет сертификацию CE с полной прослеживаемостью до отчётов об аудитах уведомлённого органа.</p>
+  <h2>What This Means for Buyers</h2>
+  <p>When purchasing CE-certified inflatable pools, always verify the CE marking is on the builder's plate, a valid DoC exists, the Notified Body number is listed, and the owner's manual includes safety instructions in your local language. All OLagoon products carry CE certification with full traceability to notified body audit reports.</p>
+
 cta:
-  title: Нужна поддержка с сертификацией CE?
-  subtitle: Мы занимаемся сертификацией для OEM-партнеров по всему миру.
-  button_text: Начать процесс сертификации
+  title: 'Need CE certification support?'
+  subtitle: 'We handle certification for OEM partners worldwide.'
+  button_text: 'Start the certification process'
   button_link: /contact/

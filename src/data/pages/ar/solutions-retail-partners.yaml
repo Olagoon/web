@@ -1,97 +1,103 @@
 meta:
-  title: برنامج شركاء التجزئة لـ SUP | {SITE}
-  description: برنامج شراكة الجملة لألواح SUP للمتاجر التجزئة ومتاجر مستلزمات الرياضة. خط إنتاج كامل، خيارات دروبشيبينغ، هوامش جملة تنافسية بين 20 و35%، وحد أدنى منخفض لكمية الطلب (MOQ) للبدء.
+  title: 'pool Wholesale & Retail Partner Program | {SITE}'
+  description: 'pool wholesale partner program for retailers and sporting goods stores. Full product line, dropshipping options, competitive wholesale margins from 20–35%, and low MOQ to start.'
+
 hero:
-  tagline: شركاء التجزئة
-  title: قم ببيع ألواح SUP القابلة للنفخ الفاخرة<br />بهوامش ربح مجدية
-  subtitle: كن شريك تجزئة لـ olagoon — قدّم العلامة الأسرع نمواً في مجال ألواح SUP في سوقك مع أسعار جملة كاملة، وخيارات دروبشيبينغ، ومواد تسويقية احترافية، ودعم مخصص.
+  tagline: Retail Partners
+  title: 'Sell Premium inflatable pools<br />With Margins That Work'
+  subtitle: 'Become an OLagoon retail partner — carry the fastest-growing pool brand in your market with full wholesale pricing, dropshipping, professional marketing materials, and dedicated support.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: ألواح SUP من OLagoon معروضة في متجر تجزئة
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools displayed in a retail store
+
 margin_section:
-  title: هوامش التجزئة والحد الأدنى لكمية الطلب (MOQ)
-  subtitle: شرائح أسعار الجملة مصممة لتحقيق الربحية في البيع بالتجزئة.
+  title: 'Retail Margins & MOQ'
+  subtitle: 'Wholesale pricing tiers designed for retail profitability.'
   items:
-    - tier: شريك أساسي
-      discount: 20%
-      moq: 500 وحدة/سنة
-      margin_note: ربح يتراوح بين 150 و250 دولارًا تقريبًا لكل لوح
+    - tier: 'Basic Partner'
+      discount: '20%'
+      moq: '500 units/yr'
+      margin_note: '~$150–250 profit per board'
       features:
-        - الوصول إلى خط الإنتاج الكامل
-        - حزمة المواد التسويقية
-        - دعم البريد الإلكتروني
-        - الوصول إلى كتالوج المنتجات
-    - tier: شريك متميز
-      discount: 30%
-      moq: أكثر من 2,000 وحدة سنوياً
-      margin_note: ربح ~250–400 دولار لكل لوح
+        - 'Access to full product line'
+        - 'Marketing materials package'
+        - 'Email support'
+        - 'Product catalog access'
+    - tier: 'Premium Partner'
+      discount: '30%'
+      moq: '2,000+ units/yr'
+      margin_note: '~$250–400 profit per board'
       features:
-        - مدير حساب مخصص
-        - حماية حصرية للمنطقة
-        - دعم تسويقي مخصص
-        - الوصول الأول إلى المنتجات الجديدة
-        - جلسات تدريب الموظفين
-    - tier: شريك رائد
-      discount: 35%+
-      moq: أكثر من 5,000 وحدة/سنة
-      margin_note: ربح يتراوح بين 350 و500+ دولار أمريكي لكل لوح
+        - 'Dedicated account manager'
+        - 'Exclusive territory protection'
+        - 'Custom marketing support'
+        - 'First access to new products'
+        - 'Staff training sessions'
+    - tier: 'Flagship Partner'
+      discount: '35%+'
+      moq: '5,000+ units/yr'
+      margin_note: '~$350–500+ profit per board'
       features:
-        - حملات تسويقية مشتركة العلامة
-        - دعم العرض داخل المتجر
-        - تدريب الموظفين في الموقع
-        - ترويج مشترك عبر وسائل التواصل الاجتماعي
-        - أولوية في تخصيص الإنتاج
+        - 'Co-branded marketing campaigns'
+        - 'In-store display support'
+        - 'On-site staff training'
+        - 'Joint social media promotions'
+        - 'Priority production allocation'
+
 product_line:
-  title: خط إنتاج متكامل
-  subtitle: لوح SUP لكل عميل يدخل متجرك.
+  title: Complete Product Line
+  subtitle: 'A pools for every customer who walks through your door.'
   items:
     - name: All-Round Series
-      description: الأكثر مبيعًا — يناسب 80% من العملاء
+      description: 'Best seller — fits 80% of customers'
     - name: Touring Series
-      description: مجدّفون محترفون — هامش ربح أعلى
+      description: 'Performance swimmers — higher margin'
     - name: Yoga Series
-      description: سوق متخصص — تسعير متميز
+      description: 'Niche market — premium pricing'
     - name: Kids Series
-      description: عملاء عائليون — مشترون متكررون
+      description: 'Family customers — repeat buyer'
     - name: Racing Series
-      description: سوق الهواة المتحمسين — هالة العلامة التجارية
+      description: 'Enthusiast market — brand halo'
     - name: Accessories
-      description: إضافات بهامش ربح مرتفع (مجاديف، سترات نجاة، مضخات، حقائب)
+      description: 'High margin add-ons (paddles, vests, pumps, bags)'
+
 catalog:
-  title: موارد شركاء التجزئة
-  subtitle: حمّل حزمة شركاء التجزئة الشاملة لدينا.
+  title: Retail Partner Resources
+  subtitle: 'Download our comprehensive retail partner kit.'
   items:
-    - name: 2026 Product Catalog
-      desc: تشكيلة كاملة بالمواصفات والأسعار ومعلومات الطلب
-      icon: tabler:file-text
-      link: /resources/download-catalog/
-    - name: Retail Partner Guide
-      desc: حاسبة هوامش الربح، ونصائح العرض التجاري، وأفضل الممارسات
-      icon: tabler:book
-      link: /resources/download-catalog/
-    - name: Marketing Asset Pack
-      desc: صور منتجات عالية الدقة، وصور أنماط الحياة، ومواد نقاط البيع (POS)
-      icon: tabler:photo
-      link: /media/
+    - name: '2026 Product Catalog'
+      desc: 'Full lineup with specs, pricing, and ordering information'
+      icon: 'tabler:file-text'
+      link: '/resources/download-catalog/'
+    - name: 'Retail Partner Guide'
+      desc: 'Margin calculator, merchandising tips, and best practices'
+      icon: 'tabler:book'
+      link: '/resources/download-catalog/'
+    - name: 'Marketing Asset Pack'
+      desc: 'Hi-res product photos, lifestyle images, and POS materials'
+      icon: 'tabler:photo'
+      link: '/media/'
+
 support:
-  title: دعم شركاء التجزئة
-  subtitle: كل ما تحتاجه للبيع بثقة.
+  title: Retail Partner Support
+  subtitle: 'Everything you need to sell confidently.'
   items:
-    - صور منتجات عالية الدقة (تصوير احترافي)
-    - صور أسلوب حياة لوسائل التواصل الاجتماعي والموقع الإلكتروني والكتالوج
-    - مواد تسويقية — ملصقات، بطاقات رفوف، لافتات
-    - فيديوهات تدريب على المنتجات لتثقيف الموظفين
-    - حزمة محتوى لوسائل التواصل الاجتماعي (منشورات أسبوعية)
-    - أوصاف منتجات محسّنة لمحركات البحث (SEO)
-    - خيار الشحن المباشر متاح — دون أي مخاطر على المخزون
-    - شروط دفع Net 30
+    - 'High-res product images (professional photography)'
+    - 'Lifestyle photos for social media, website, and catalog'
+    - 'Marketing materials — posters, shelf talkers, banners'
+    - 'Product training videos for staff education'
+    - 'Social media content pack (weekly posts)'
+    - 'SEO-optimized product descriptions'
+    - 'Dropshipping option available — no inventory risk'
+    - 'Net 30 payment terms'
+
 cta:
-  title: هل أنت مستعد لتصبح شريك تجزئة لـ olagoon؟
-  subtitle: قدّم طلب شراكة أو حمّل كتالوج التجزئة الخاص بنا للبدء.
+  title: 'Ready to become an OLagoon retail partner?'
+  subtitle: 'Apply for partnership or download our retail catalog to get started.'
   actions:
-    - text: تقدّم بطلب الشراكة
-      href: /contact/?partner=retail
-      variant: primary
-    - text: تنزيل كتالوج التجزئة
-      href: /resources/download-catalog/
-      variant: secondary
+    - text: 'Apply for Partnership'
+      href: '/contact/?partner=retail'
+      variant: 'primary'
+    - text: 'Download Retail Catalog'
+      href: '/resources/download-catalog/'
+      variant: 'secondary'

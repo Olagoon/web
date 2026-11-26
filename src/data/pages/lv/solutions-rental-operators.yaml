@@ -1,71 +1,71 @@
 meta:
-  title: 'SUP nomas aprīkojuma piegādātājs un flotu risinājumi | {SITE}'
-  description: 'SUP nomas aprīkojuma piegādātājs nomas operatoriem. Augstas rotācijas komerciālie SUP dēļi, kas izstrādāti ikdienas lietošanai — UV izturīgs PVC, pastiprinātas šuves, ātri žūstoši materiāli. Paplašiniet savu nomas biznesu ar OLagoon.'
+  title: 'pool Rental Equipment Supplier & Fleet Solutions | {SITE}'
+  description: 'pool rental equipment supplier for rental operators. High-rotation commercial pools engineered for daily use — UV-resistant PVC, reinforced seams, quick-dry materials. Scale your rental business with OLagoon.'
 
 hero:
-  tagline: 'Nomas operatori'
-  title: 'Paplašiniet savu nomas biznesu<br />ar pārliecību'
-  subtitle: 'SUP nomas aprīkojuma piegādātājs nomas operatoriem. Augstas rotācijas SUP dēļi, kas izstrādāti ikdienas nomas lietošanai 365 dienas gadā. Jūsu ieņēmumi nekad neatpūšas.'
+  tagline: Rental Operators
+  title: 'Scale Your Rental Business<br />With Confidence'
+  subtitle: 'pool rental equipment supplier for rental operators. High-rotation pools engineered for daily rental use, 365 days a year. Your revenue never takes a day off.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: 'Noslogots nomas kiosks ar SUP dēļiem, kas gatavi viesiem'
+    alt: Busy rental kiosk with pools ready for guests
 
 features:
-  title: 'Radīts nomas slogam'
-  subtitle: 'Katrs dēlis ir izstrādāts 500+ nomas cikliem ar minimālu apkopi.'
+  title: Built for the Rental Grind
+  subtitle: 'Every board is engineered for 500+ rental cycles with minimal maintenance.'
   items:
-    - title: '500+ nomas cikli'
-      description: 'Testēts, lai izdzīvotu ikdienas lietošanai sālsūdenī, saulē un smiltīs.'
+    - title: '500+ Rental Cycles'
+      description: 'Tested to survive daily use in saltwater, sun, and sand.'
       icon: 'tabler:shield-check'
-    - title: 'UV izturīgs audums'
-      description: 'Bez izbalēšanas vai degradācijas pēc 1 gada glabāšanas ārpus telpām.'
+    - title: 'UV-Resistant Fabric'
+      description: 'No fading or degradation after 1 year of outdoor storage.'
       icon: 'tabler:sun'
-    - title: 'Pastiprinātas šuves'
-      description: '3x stiprākas nekā standarta piepūšamo dēļu konstrukcija.'
+    - title: 'Reinforced Seams'
+      description: '3x stronger than standard inflatable board construction.'
       icon: 'tabler:layers-intersect'
-    - title: 'Ātri žūstoši materiāli'
-      description: 'Dēļi gatavi nākamajai nomai mazāk nekā 30 minūtēs.'
+    - title: 'Quick-Dry Materials'
+      description: 'Boards ready for next rental in under 30 minutes.'
       icon: 'tabler:droplet'
-    - title: 'Uzkrāvājama glabāšana'
-      description: 'Telpu taupošs dizains — glabājiet par 40% vairāk dēļu tajā pašā platībā.'
+    - title: 'Stackable Storage'
+      description: 'Space-saving design — store 40% more boards in the same area.'
       icon: 'tabler:stack'
-    - title: 'Krāsu kodēti izmēri'
-      description: 'Personāls uzreiz paņem pareizo dēli ar krāsu kodētu izmēru sistēmu.'
+    - title: 'Color-Coded Sizes'
+      description: 'Staff grabs the right board instantly with color-coded sizing.'
       icon: 'tabler:color-swatch'
 
 stats:
-  title: 'Operāciju rādītāji'
+  title: Operations Metrics
   stats:
-    - title: 'Dēļu apgrozījums'
+    - title: Board Turnover
       amount: '< 5 min'
-    - title: 'Ikgadējā apkope'
-      amount: '~15 min/dēlis'
-    - title: 'Daļu nosūtīšana'
+    - title: Annual Maintenance
+      amount: '~15 min/board'
+    - title: Parts Dispatch
       amount: '48h'
-    - title: 'Defektu līmenis'
+    - title: Defect Rate
       amount: '< 0.5%'
 
 fleet_guide:
-  title: 'Flotes izmēru ceļvedis'
-  subtitle: 'Novērtējiet flotes izmēru un ieņēmumu potenciālu savai nomas darbībai.'
+  title: Fleet Sizing Guide
+  subtitle: 'Estimate the fleet size and revenue potential for your rental operation.'
   tiers:
-    - label: 'Mazs kiosks'
+    - label: Small Kiosk
       boards: '15-20'
-      revenue: 'XX,XXX USD gadā'
-    - label: 'Vidēja darbība'
+      revenue: '$XX,XXX/yr'
+    - label: Mid-Size Operation
       boards: '30-50'
-      revenue: 'XX,XXX USD gadā'
-    - label: 'Liela pludmales noma'
+      revenue: '$XX,XXX/yr'
+    - label: Large Beach Rental
       boards: '50-100'
-      revenue: 'XXX,XXX USD gadā'
+      revenue: '$XXX,XXX/yr'
 
 cta:
-  title: 'Gatavi paplašināt savu nomas biznesu?'
-  subtitle: 'Saņemiet nomas cenas vai salīdziniet dēļu modeļus savai darbībai.'
+  title: 'Ready to scale your rental business?'
+  subtitle: 'Get rental pricing or compare board models for your operation.'
   actions:
-    - text: 'Saņemt nomas cenas'
+    - text: 'Get Rental Pricing'
       href: '/contact/?package=rental'
       variant: 'primary'
-    - text: 'Salīdzināt dēļu modeļus'
+    - text: 'Compare Board Models'
       href: '/compare/'
       variant: 'secondary'

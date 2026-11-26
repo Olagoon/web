@@ -1,122 +1,122 @@
 meta:
-  title: 'Apie OLagoon — pripučiamų SUP lentų ir vandens sporto prekės ženklas | {SITE}'
-  description: 'OLagoon yra pasaulinis pripučiamų SUP lentų ir vandens sporto prekės ženklas, valdomas Olagoon LLC (JAV) ir kuriamas mūsų Cindao operacijų komandos. Sužinokite mūsų istoriją, inžineriją, sertifikuotą kokybę ir šalių partnerių programas.'
+  title: 'About OLagoon — inflatable pools & Water Sports Brand | {SITE}'
+  description: 'OLagoon is a global inflatable pools and water sports brand, operated by Olagoon LLC and built by our Qingdao Operation Team. Discover our story, engineering, certified quality, and country partner programs.'
   keywords:
-    - 'pripučiamų SUP prekės ženklas'
-    - 'vandens sporto prekės ženklas'
-    - 'šalies sup platintojas'
-    - 'bendro prekės ženklo sup kolekcijos'
+    - 'inflatable pools brand'
+    - 'water sports brand'
+    - 'country pool distributor'
+    - 'co-branded pool collections'
 hero:
-  tagline: 'Apie mus'
+  tagline: About us
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'olagoon gamykla ir dirbtuvės'
+    alt: olagoon factory and workshop
   title: |
-    Jūrinė inžinerija, <br />
-    sukurta taip, kaip daro <span class="text-accent dark:text-white">olagoon</span>
-  subtitle: 'Pradėjome pakrantės dirbtuvėse su viena lenta ir atkakliu įsitikinimu: jūriniai produktai turi būti kuriami taip, lyg jie būtų svarbūs, nes jie ir yra svarbūs. Šiandien siunčiame į daugiau nei 40 šalių, tačiau kiekvienas korpusas vis dar praeina pro tas pačias rankas, įkūrusias įmonę.'
+    Marine engineering, <br />
+    built the <span class="text-accent dark:text-white">olagoon</span> way
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
 
 stats:
-  title: 'Skaičiais'
+  title: By the numbers
   columns: 4
   stats:
-    - title: 'Pristatytų korpusų'
+    - title: Hulls delivered
       amount: '2,400+'
-    - title: 'Šalių, į kurias siunčiama'
+    - title: Countries shipped
       amount: '40'
-    - title: 'Bendros patirties metais'
+    - title: Years of combined experience
       amount: '60'
-    - title: 'Vidutinis garantijos atsakymo laikas (valandomis)'
+    - title: Average warranty response (hours)
       amount: '24'
 
 features3_what_we_build:
-  title: 'Ką kuriame'
-  subtitle: 'Pradėjome pakrantės dirbtuvėse su viena lenta ir atkakliu įsitikinimu: jūriniai produktai turi būti kuriami taip, lyg jie būtų svarbūs, nes jie ir yra svarbūs. Šiandien siunčiame į daugiau nei 40 šalių, tačiau kiekvienas korpusas vis dar praeina pro tas pačias rankas, įkūrusias įmonę.'
+  title: What we build
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
   columns: 3
   isBeforeContent: true
   items:
-    - title: 'SUP lentos'
-      description: 'Pripučiamos SUP lentos nuo 9 ft iki 12 ft. Sukurtos turizmui, jogai, žvejybai ir šeimų naudojimui.'
+    - title: pools
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:ship
-    - title: 'Pripučiamos SUP lentos'
-      description: 'PVC pripučiamos SUP lentos nuo 9 ft iki 12 ft. Lengvos, tvirtos ir lengvai sutalpinamos.'
+    - title: inflatable pools
+      description: PVC inflatable pools from 9 ft to 12 ft. Light, tough and easy to stow.
       icon: tabler:rowing
-    - title: 'Premium SUP rinkiniai'
-      description: 'Kompaktiškos, aukštų specifikacijų SUP lentos, individualiai gaminamos pagal jūsų prekės ženklo ar flotilės reikalavimus.'
+    - title: Premium pool packages
+      description: Compact, high-spec pools custom-built to match your brand or fleet requirements.
       icon: tabler:crown
 
 features3_more:
   columns: 3
   isAfterContent: true
   items:
-    - title: 'Priedai'
-      description: 'SUP irklai, siurbliai, dangtai, hermetiški maišai ir elektronika. Visi pritaikyti prie mūsų lentų.'
+    - title: Accessories
+      description: Filters, pumps, covers, and accessories. All matched to our pools.
       icon: tabler:package
-    - title: 'Remontas ir aptarnavimas'
-      description: 'Lentų remontas vietoje, kilimėlių keitimas ir priedų atnaujinimas.'
+    - title: Repair & service
+      description: In-house pool repair, liner replacement and accessory upgrades.
       icon: tabler:tool
-    - title: 'Individualūs gaminiai'
-      description: 'Projektų po projekto dizainas komerciniams, mokslo ir kariniams klientams.'
+    - title: Custom builds
+      description: Project-by-project design for commercial, scientific and military customers.
       icon: tabler:hammer
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-    alt: 'Lentų dizaino ir inžinerijos aptarimas'
+    alt: Pool design and engineering discussion
 
 steps2_values:
-  title: 'Mūsų vertybės'
-  subtitle: 'Trys principai, formavę kiekvieną produktą nuo pačios pirmos dienos.'
+  title: Our values
+  subtitle: Three principles that have shaped every product since day one.
   items:
-    - title: 'Kurkite taip, tarsi tai vežtų jūsų šeimą'
-      description: 'Su kiekvienu korpusu, suvirinimu ir tvirtinimu elgiamasi taip, tarsi juos naudotų mūsų pačių šeimos.'
+    - title: Build like it carries your family
+      description: Every hull, weld and fastener is treated as if our own families will use it.
       icon: tabler:heart
-    - title: 'Inžinerija prieš pardavimą'
-      description: 'Pripučiamos SUP lentos nuo 9 ft iki 12 ft. Sukurtos turizmui, jogai, žvejybai ir šeimų naudojimui.'
+    - title: Engineer before we sell
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:settings
-    - title: 'Palaikymas, išliekantis ilgiau nei garantija'
-      description: 'Dėl atsarginių dalių mums vis dar skambina iš dvidešimtmetį sulaukusių korpusų savininkai, ir mes vis dar atsiliepiame.'
+    - title: Support that outlasts the warranty
+      description: Twenty-year-old hulls still call us for spare parts, and we still pick up.
       icon: tabler:headset
 
 steps2_milestones:
-  title: 'Svarbiausi įvykiai'
-  subtitle: 'Trumpa olagoon istorijos versija.'
+  title: Milestones
+  subtitle: A short version of the olagoon story.
   isReversed: true
   items:
-    - title: 'Įkurta pakrantės dirbtuvėse'
-      description: 'Pradėjo du jūrinės technikos inžinieriai su CNC freza ir atkaklia idėja.'
+    - title: Founded in a coastal workshop
+      description: Started by two marine engineers with a CNC mill and a stubborn idea.
       icon: tabler:building-factory
-    - title: 'Pristatyti pirmieji 1,000 korpusų'
-      description: 'Pasiekta septintaisiais metais, daugiausia iš burnos į burną sklindančių atsiliepimų ir grįžtančių klientų dėka.'
+    - title: First 1,000 hulls delivered
+      description: Reached in our seventh year, mostly through word of mouth and repeat customers.
       icon: tabler:circle-check
-    - title: 'Tarptautinė eksporto programa'
-      description: 'Šiandien siunčiame į 40+ šalių su lokalizuotais palaikymo partneriais penkiuose žemynuose.'
+    - title: International export programme
+      description: Now shipping to 40+ countries with localised support partners on five continents.
       icon: tabler:world
 
 features2_locations:
-  title: 'Mūsų vietovės'
-  tagline: 'Raskite mus'
+  title: Our locations
+  tagline: Find us
   columns: 3
   items:
-    - title: 'Būstinė ir dirbtuvės'
-      description: 'Pripučiamos SUP lentos nuo 9 ft iki 12 ft. Sukurtos turizmui, jogai, žvejybai ir šeimų naudojimui.'
-    - title: 'ES aptarnavimo centras'
-      description: 'Pripučiamos SUP lentos nuo 9 ft iki 12 ft. Sukurtos turizmui, jogai, žvejybai ir šeimų naudojimui.'
-    - title: 'APAC partnerių tinklas'
-      description: 'Įgalioti aptarnavimo partneriai Australijoje, Japonijoje, Singapūre ir Hongkonge.'
+    - title: Headquarters & workshop
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: EU service centre
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: APAC partner network
+      description: Authorised service partners in Australia, Japan, Singapore and Hong Kong.
 
-brand_hub_tagline: 'Prekės ženklas'
-brand_hub_title: 'Susipažinkite su mūsų prekės ženklu'
-brand_hub_subtitle: 'Giliau susipažinkite su mūsų SUP inžinerijos kompetencija, pasauliniu buvimu ir principais, kurie mus skatina.'
+brand_hub_tagline: Brand
+brand_hub_title: Explore Our Brand
+brand_hub_subtitle: Dive deeper into our pool engineering expertise, global presence, and the principles that drive us.
 
 brand_hub_cards:
-  - title: 'Jūrinė kompetencija'
-    desc: 'Dešimtmečiai medžiagų mokslo, tikslaus gamybos ir realių bandymų — nuo PVC apdirbimo iki gilaus V formos korpusų dizaino ir „Drop-Stitch“ technologijos.'
+  - title: Marine Expertise
+    desc: Decades of material science, precision manufacturing, and real-world testing — from PVC fabrication to deep-V hull design and drop-stitch technology.
     link: /brand-marine-expertise/
-    link_label: 'Sužinoti daugiau →'
-  - title: 'Pasaulinis buvimas'
-    desc: 'Siuntimas į 50+ šalių iš mūsų Cindao objekto su įgaliotais aptarnavimo partneriais visoje Europoje, Azijos ir Ramiojo vandenyno regione bei Amerikose.'
+    link_label: 'Learn more →'
+  - title: Global Presence
+    desc: Shipping to 50+ countries from our Qingdao facility with authorized service partners across Europe, Asia-Pacific, and the Americas.
     link: /brand-global-presence/
-    link_label: 'Sužinoti daugiau →'
-  - title: 'Kodėl olagoon'
-    desc: 'Prekės ženklas, sukurtas patikrintos kokybės pagrindu — dvigubas sertifikavimas (ISO 9001 + BSCI), CE atitiktis ir išskirtinės šalių partnerystės su ribotomis bendro prekės ženklo kolekcijomis vandens sporto įmonėms.'
+    link_label: 'Learn more →'
+  - title: Why olagoon
+    desc: A brand built on verified quality — dual certification (ISO 9001 + BSCI), CE compliance, and exclusive country partnerships with limited co-branded collections for water-sports businesses.
     link: /brand-why-olagoon/
-    link_label: 'Sužinoti daugiau →'
+    link_label: 'Learn more →'

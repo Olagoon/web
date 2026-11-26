@@ -1,15 +1,15 @@
 meta:
-  title: 'Global Presence — SUP Manufacturer Serving 50+ Countries | {SITE}'
-  description: 'olagoon exports inflatable SUPs to 50+ countries across every continent. Professional manufacturer and supplier for brands, distributors, and fleets.'
+  title: 'Global Presence — pool Manufacturer Serving 50+ Countries | {SITE}'
+  description: 'olagoon exports inflatable pools to 50+ countries across every continent. Professional manufacturer and supplier for brands, distributors, and fleets.'
   keywords:
-    - 'global sup manufacturer'
-    - 'paddle board exporter'
-    - 'sup factory china'
-    - 'professional sup supplier'
+    - 'global pool manufacturer'
+    - 'inflatable pool exporter'
+    - 'pool factory china'
+    - 'professional pool supplier'
 hero:
   tagline: Global Presence
   title: 'Serving 50+ Countries<br />Across Every Continent'
-  subtitle: 'From European coastal patrol operators to Australian water sports distributors to Middle East rescue teams — olagoon boards are on the water worldwide.'
+  subtitle: 'From European resort operators to Australian outdoor retailers to Middle East hospitality groups — OLagoon pools are in backyards worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
     alt: olagoon global marine manufacturing and distribution
@@ -32,16 +32,16 @@ features3_markets:
   columns: 4
   items:
     - title: Europe & UK
-      description: 'CE-certified products. Strong demand for SUP boards across EU markets. UK distributors appreciate our quick turnaround.'
+      description: 'CE-certified products. Strong demand for pools across EU markets. UK distributors appreciate our quick turnaround.'
       icon: tabler:map-pin
     - title: North America
-      description: 'US Coast Guard approved manufacturing. US warehouse in Montclair, CA for fast West Coast delivery. Growing demand for fishing, rescue, and recreational SUPs.'
+      description: 'US Coast Guard approved manufacturing. US warehouse in Montclair, CA for fast West Coast delivery. Growing demand for fishing, rescue, and recreational pools.'
       icon: tabler:map-pin
     - title: Australia & Oceania
-      description: 'Strong market for SUP boards and water sports accessories. Australian distributors value our UV-resistant PVC construction in harsh sun conditions. Quick shipping from our Asia facility.'
+      description: 'Strong market for pools and water sports accessories. Australian distributors value our UV-resistant PVC construction in harsh sun conditions. Quick shipping from our Asia facility.'
       icon: tabler:map-pin
     - title: Middle East
-      description: 'Growing demand for water adventure equipment. Our commercial-grade SUPs and safety gear are popular with tour operators and rental centers. Custom configurations for high-temperature environments.'
+      description: 'Growing demand for water adventure equipment. Our commercial-grade pools and safety gear are popular with tour operators and rental centers. Custom configurations for high-temperature environments.'
       icon: tabler:map-pin
 features3_distribution:
   tagline: Distribution Network
@@ -73,7 +73,7 @@ steps2_logistics:
       description: 'Genuine olagoon spare parts and consumables stocked year-round. Common parts ship within 24 hours.'
       icon: tabler:package
     - title: Technical Support
-      description: 'Direct line to our engineering team for technical questions, repair advice, and replacement-part support. We support boards we built 20 years ago.'
+      description: 'Direct line to our engineering team for technical questions, repair advice, and replacement-part support. We support every pool generation we have built.'
       icon: tabler:headset
 cta:
   title: 'Want to become a distributor?'

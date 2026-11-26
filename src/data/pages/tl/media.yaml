@@ -1,64 +1,64 @@
 meta:
-  title: 'Media Center — Press at mga Resource ng olagoon | {SITE}'
-  description: 'Ang media center ng olagoon: mga press release, brand asset, at resource mula sa aming kompanya ng paggawa ng inflatable SUP.'
+  title: 'Media Center — Press & olagoon Resources | {SITE}'
+  description: 'The olagoon media center: press releases, brand assets, and resources from our inflatable pools manufacturing company.'
   keywords:
     - 'olagoon press'
-    - 'sup manufacturer media'
-    - 'paddle board press kit'
+    - 'pool manufacturer media'
+    - 'inflatable pool press kit'
     - 'nautical company news'
 hero:
-  tagline: 'Mga Resource'
-  title: 'Media Center'
-  subtitle: 'I-download ang mga brand asset, larawan ng produkto, katalogo, at video'
+  tagline: Resources
+  title: Media Center
+  subtitle: Download brand assets, product imagery, catalogs, and videos
 
 sections:
   - id: product-images
-    title: 'Mga Larawan ng Produkto'
-    desc: 'Mga larawan ng produkto na high-resolution para sa web, print, at paggamit sa retail.'
+    title: Product Images
+    desc: High-resolution product photos for web, print, and retail use.
     items:
-      - 'Gallery ng mga SUP Board'
-      - 'Gallery ng mga Drop-Stitch SUP'
-      - 'Gallery ng mga Inflatable SUP'
-      - 'Mga Aksesorya at Kagamitang Pangkaligtasan'
+      - pools Gallery
+      - Drop-Stitch pools Gallery
+      - inflatable pools Gallery
+      - Accessories & Safety Gear
   - id: logo-brand-kit
-    title: 'Logo at Brand Kit'
-    desc: 'Mga opisyal na file ng logo ng olagoon, palette ng kulay, typography, at brand guidelines.'
+    title: Logo & Brand Kit
+    desc: Official olagoon logo files, colour palette, typography, and brand guidelines.
     items:
-      - 'Pangunahing Logo (PNG/SVG/EPS)'
-      - 'Icon Mark'
-      - 'Palette ng Kulay'
-      - 'Epesipikasyon ng Typography'
-      - 'Brand Guidelines PDF'
+      - Primary Logo (PNG/SVG/EPS)
+      - Icon Mark
+      - Colour Palette
+      - Typography Specs
+      - Brand Guidelines PDF
   - id: catalogs
-    title: 'Mga PDF Catalog'
-    desc: 'Mga katalogo ng produkto, spec sheet, at teknikal na dokumentasyon para sa download.'
+    title: PDF Catalogs
+    desc: Product catalogs, spec sheets, and technical documentation for download.
     items:
-      - 'Katalogo ng Produkto 2026'
-      - 'OEM/ODM Capability Deck'
-      - 'Brochure ng SUP Series'
-      - 'Mga Teknikal na Espesipikasyon'
+      - 2026 Product Catalog
+      - OEM/ODM Capability Deck
+      - pool Series Brochure
+      - Technical Specifications
   - id: videos
-    title: 'Mga Video'
-    desc: 'Mga demo ng produkto, paglibot sa pabrika, brand film, at testimonial ng customer.'
+    title: Videos
+    desc: Product demos, factory tours, brand films, and customer testimonials.
     items:
-      - 'Mga Demo ng Produkto'
-      - 'Paglibot sa Pabrika'
-      - 'Brand Film'
-      - 'Mga Kuwento ng Customer'
-      - 'Mga Gabay sa Paano'
+      - Product Demos
+      - Factory Tour
+      - Brand Film
+      - Customer Stories
+      - How-To Guides
 
-request_access: 'Humiling ng access →'
+request_access: Request access →
 
 cta:
-  title: 'Kailangan ng tulong sa paghahanap ng asset?'
-  desc: 'Makipag-ugnayan sa aming brand team para sa mga custom na kahilingan ng asset, partnership sa media, o tanong sa press.'
+  title: Need help finding assets?
+  desc: Contact our brand team for custom asset requests, media partnerships, or press inquiries.
   links:
-    - label: 'Bisitahin ang aming pabrika'
+    - label: Visit our factory
       href: /factory/
-      desc: 'Tingnan ang aming pasilidad ng paggawa na 12,000 sqm'
-    - label: 'Mga alituntunin sa brand'
+      desc: See our 12,000 sqm manufacturing facility
+    - label: Brand guidelines
       href: /brand/
-      desc: 'Alamin ang tungkol sa brand ng olagoon'
-    - label: 'Maki-partner sa amin'
+      desc: Learn about the olagoon brand
+    - label: Partner with us
       href: /contact/
-      desc: 'Mga tanong sa OEM, ODM, at distribusyon'
+      desc: OEM, ODM, and distribution inquiries

@@ -1,57 +1,60 @@
 meta:
-  title: Hoe CE-certificering werkt voor opblaasbare vaartuigen | {SITE}
-  description: Complete gids voor CE-certificering van opblaasbare SUP's en kajaks. Toepasselijke richtlijnen (2013/53/EU RCD, PBM 2016/425), testprotocollen, aangemelde instanties, eisen aan het technisch dossier en verplichtingen van de fabrikant.
-back_text: Terug naar Onderzoek
+  title: 'How CE Certification Works for Inflatable Watercraft | {SITE}'
+  description: 'Complete guide to CE certification for inflatable pools. Applicable standards and directives for domestic pools, testing protocols, notified bodies, technical file requirements, and manufacturer obligations.'
+back_text: 'Back to Research'
+
 hero:
-  tagline: Naleving
-  title: Hoe CE-certificering werkt voor opblaasbare watervaartuigen
-  subtitle: 7 minuten lezen
-content_html: |-
-  <h2>Wat is CE-certificering?</h2>
-  <p>CE-markering (Conformit&eacute; Europ&eacute;enne) geeft aan dat een product voldoet aan de EU-eisen voor gezondheid, veiligheid en milieu. Voor opblaasbare vaartuigen hangt het relevante regelgevingskader af van de productcategorie.</p>
+  tagline: 'Compliance'
+  title: 'How CE Certification Works for Inflatable Watercraft'
+  subtitle: '7 min read'
 
-  <h2>Toepasselijke richtlijnen</h2>
+content_html: |
+  <h2>What Is CE Certification?</h2>
+  <p>CE marking (Conformit&eacute; Europ&eacute;enne) indicates that a product meets EU health, safety, and environmental requirements. For inflatable watercraft, the relevant regulatory framework depends on the product category.</p>
 
-  <h3>Recreatievaartuigenrichtlijn (2013/53/EU)</h3>
-  <p>De voornaamste richtlijn voor recreatievaartuigen in de EU. Opblaasbare SUP's korter dan 2,4 m vallen buiten het toepassingsgebied en worden in plaats daarvan gecertificeerd volgens EN ISO 25649.</p>
+  <h2>Applicable Directives</h2>
 
-  <h3>Verordening persoonlijke beschermingsmiddelen (2016/425)</h3>
-  <p>Reddingsvesten, drijfhulpmiddelen en veiligheidsuitrusting die bij vaartuigen worden geleverd, moeten voldoen aan de eisen van de PBM-verordening, waaronder typeonderzoek (module B) door een aangemelde instantie en productiekwaliteitsborging (module D of E).</p>
+  <h3>Recreational Craft Directive (2013/53/EU)</h3>
+  <p>The primary directive for recreational craft in the EU. inflatable pools under 2.4 m fall outside its scope and are instead certified under EN ISO 25649.</p>
 
-  <h2>Het certificeringsproces</h2>
+  <h3>Personal Protective Equipment Regulation (2016/425)</h3>
+  <p>Life jackets, buoyancy aids, and safety equipment supplied with watercraft must meet PPE Regulation requirements, including type examination (Module B) by a notified body and production quality assurance (Module D or E).</p>
+
+  <h2>The Certification Process</h2>
   <ol>
-    <li>Productclassificatie: bepaal de ontwerpcategorie van het vaartuig (A – D volgens ISO 8666)</li>
-    <li>Toepasselijke normen: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (bouwersplaat)</li>
-    <li>Voorbereiding van het technisch dossier: ontwerptekeningen, stuklijst, materiaalcertificaten, risicobeoordeling</li>
-    <li>Typeonderzoek: drijfvermogen, stabiliteit, laadvermogen, materiaaltests, naadsterkte, luchtretentie</li>
-    <li>Productiecontrole in de fabriek: audit van de productieprocessen door een aangemelde instantie</li>
-    <li>Conformiteitsverklaring: de fabrikant ondertekent de DoC en bevestigt de CE-markering</li>
+    <li>Product classification: Determine craft design category (A – D per ISO 8666)</li>
+    <li>Applicable standards: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (builder's plate)</li>
+    <li>Technical file preparation: Design drawings, Bill of Materials, material certificates, risk assessment</li>
+    <li>Type testing: Buoyancy, stability, load capacity, material testing, seam strength, air retention</li>
+    <li>Factory production control: Notified body audit of manufacturing processes</li>
+    <li>Declaration of Conformity: Manufacturer signs DoC, affixes CE marking</li>
   </ol>
 
-  <h2>Aangemelde instanties voor opblaasbare vaartuigen</h2>
-  <p>Veelvoorkomende NB's zijn Bureau Veritas (Frankrijk), DNV GL (Duitsland), RINA (Itali&euml;), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (Duitsland).</p>
+  <h2>Notified Bodies for Inflatable Watercraft</h2>
+  <p>Common NBs include Bureau Veritas (France), DNV GL (Germany), RINA (Italy), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (Germany).</p>
 
-  <h2>Tijdlijn en kosten</h2>
+  <h2>Timeline and Costs</h2>
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-gray-100">
-        <th class="p-3 text-left font-semibold text-gray-900 border">Fase</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Doorlooptijd</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Typische kosten (EUR)</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Phase</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Duration</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Typical Cost (EUR)</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="p-3 border">Voorbereiding technisch dossier</td><td class="p-3 border">2 – 4 weken</td><td class="p-3 border">2,000 – 5,000</td></tr>
-      <tr><td class="p-3 border">Typeonderzoek</td><td class="p-3 border">4 – 8 weken</td><td class="p-3 border">8,000 – 20,000</td></tr>
-      <tr><td class="p-3 border">Fabrieksaudit</td><td class="p-3 border">1 – 2 dagen (ter plaatse)</td><td class="p-3 border">3,000 – 6,000</td></tr>
-      <tr><td class="p-3 border">Totaal (eerste product)</td><td class="p-3 border">8 – 14 weken</td><td class="p-3 border">13,000 – 31,000</td></tr>
+      <tr><td class="p-3 border">Technical file preparation</td><td class="p-3 border">2 – 4 weeks</td><td class="p-3 border">2,000 – 5,000</td></tr>
+      <tr><td class="p-3 border">Type testing</td><td class="p-3 border">4 – 8 weeks</td><td class="p-3 border">8,000 – 20,000</td></tr>
+      <tr><td class="p-3 border">Factory audit</td><td class="p-3 border">1 – 2 days (on-site)</td><td class="p-3 border">3,000 – 6,000</td></tr>
+      <tr><td class="p-3 border">Total (first product)</td><td class="p-3 border">8 – 14 weeks</td><td class="p-3 border">13,000 – 31,000</td></tr>
     </tbody>
   </table>
 
-  <h2>Wat dit betekent voor kopers</h2>
-  <p>Controleer bij de aankoop van CE-gecertificeerde opblaasbare SUP's altijd dat de CE-markering op de bouwersplaat staat, dat er een geldige DoC bestaat, dat het nummer van de aangemelde instantie is vermeld en dat de gebruikershandleiding veiligheidsinstructies in uw eigen taal bevat. Alle olagoon-producten dragen CE-certificering met volledige traceerbaarheid naar de auditrapporten van de aangemelde instantie.</p>
+  <h2>What This Means for Buyers</h2>
+  <p>When purchasing CE-certified inflatable pools, always verify the CE marking is on the builder's plate, a valid DoC exists, the Notified Body number is listed, and the owner's manual includes safety instructions in your local language. All OLagoon products carry CE certification with full traceability to notified body audit reports.</p>
+
 cta:
-  title: Heeft u ondersteuning nodig voor CE-certificering?
-  subtitle: Wij verzorgen certificering voor OEM-partners over de hele wereld.
-  button_text: Start het certificeringsproces
+  title: 'Need CE certification support?'
+  subtitle: 'We handle certification for OEM partners worldwide.'
+  button_text: 'Start the certification process'
   button_link: /contact/

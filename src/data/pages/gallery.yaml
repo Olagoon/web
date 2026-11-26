@@ -1,21 +1,21 @@
 meta:
-  title: 'Gallery — Inflatable SUPs | {SITE}'
-  description: 'Browse the olagoon gallery: inflatable SUP boards, factory, and production photos from our professional paddle board factory.'
+  title: 'Gallery — inflatable pools | {SITE}'
+  description: 'Browse the olagoon gallery: inflatable pools, factory, and production photos from our professional inflatable pool factory.'
   keywords:
-    - 'sup photos'
-    - 'inflatable sup gallery'
-    - 'paddle board pictures'
-    - 'inflatable SUP photos'
+    - 'pool photos'
+    - 'inflatable pools gallery'
+    - 'inflatable pool pictures'
+    - 'inflatable pools photos'
 hero:
   tagline: Gallery
   title: Gallery
   subtitle: Product shots, factory floor, and adventures on the water
 
 albums:
-  - title: SUP Boards
-    desc: Drop-stitch inflatable SUP boards for touring, surfing, yoga and fishing.
+  - title: pools
+    desc: Drop-stitch inflatable pools for families, swim training, and backyard fun.
     images:
-      - https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      - https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
       - https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
       - https://assets.olagoon.com/images/olagoon/hero/olagoon-hero-design-concept.webp
   - title: Factory & Workshop

@@ -1,64 +1,64 @@
 meta:
-  title: 'Meediakeskus — press ja olagoon ressursid | {SITE}'
-  description: 'olagoon meediakeskus: pressiteated, brändi varad ja ressursid meie täispuhutavate SUP-ide tootmisettevõttest.'
+  title: 'Media Center — Press & olagoon Resources | {SITE}'
+  description: 'The olagoon media center: press releases, brand assets, and resources from our inflatable pools manufacturing company.'
   keywords:
     - 'olagoon press'
-    - 'sup manufacturer media'
-    - 'paddle board press kit'
+    - 'pool manufacturer media'
+    - 'inflatable pool press kit'
     - 'nautical company news'
 hero:
-  tagline: 'Ressursid'
-  title: 'Meediakeskus'
-  subtitle: 'Laadige alla brändi varasid, tootefotosid, katalooge ja videoid'
+  tagline: Resources
+  title: Media Center
+  subtitle: Download brand assets, product imagery, catalogs, and videos
 
 sections:
   - id: product-images
-    title: 'Tootepildid'
-    desc: 'Kõrgresolutsiooniga tootefotod veebi, trüki ja jaemüügi jaoks.'
+    title: Product Images
+    desc: High-resolution product photos for web, print, and retail use.
     items:
-      - 'SUP-laudade galerii'
-      - 'Drop-Stitch SUP-ide galerii'
-      - 'Täispuhutavate SUP-ide galerii'
-      - 'Tarvikud ja ohutusvarustus'
+      - pools Gallery
+      - Drop-Stitch pools Gallery
+      - inflatable pools Gallery
+      - Accessories & Safety Gear
   - id: logo-brand-kit
-    title: 'Logo ja brändikomplekt'
-    desc: 'Ametlikud olagoon logo failid, värvipalett, tüpograafia ja brändijuhised.'
+    title: Logo & Brand Kit
+    desc: Official olagoon logo files, colour palette, typography, and brand guidelines.
     items:
-      - 'Peamine logo (PNG/SVG/EPS)'
-      - 'Ikoonimärk'
-      - 'Värvipalett'
-      - 'Tüpograafia spetsifikatsioonid'
-      - 'Brändijuhiste PDF'
+      - Primary Logo (PNG/SVG/EPS)
+      - Icon Mark
+      - Colour Palette
+      - Typography Specs
+      - Brand Guidelines PDF
   - id: catalogs
-    title: 'PDF-kataloogid'
-    desc: 'Tootekataloogid, spetsifikatsioonilehed ja tehniline dokumentatsioon allalaadimiseks.'
+    title: PDF Catalogs
+    desc: Product catalogs, spec sheets, and technical documentation for download.
     items:
-      - '2026. aasta tootekataloog'
-      - 'OEM/ODM võimekuse presentatsioon'
-      - 'SUP-seeria brošüür'
-      - 'Tehnilised spetsifikatsioonid'
+      - 2026 Product Catalog
+      - OEM/ODM Capability Deck
+      - pool Series Brochure
+      - Technical Specifications
   - id: videos
-    title: 'Videod'
-    desc: 'Tootedemo, tehaseekskursioonid, brändifilmid ja klientide tagasiside.'
+    title: Videos
+    desc: Product demos, factory tours, brand films, and customer testimonials.
     items:
-      - 'Tootedemo'
-      - 'Tehase tuur'
-      - 'Brändifilm'
-      - 'Klientide lood'
-      - 'Juhendid'
+      - Product Demos
+      - Factory Tour
+      - Brand Film
+      - Customer Stories
+      - How-To Guides
 
-request_access: 'Küsi juurdepääsu →'
+request_access: Request access →
 
 cta:
-  title: 'Vajate abi varade leidmisel?'
-  desc: 'Võtke ühendust meie brändimeeskonnaga kohandatud varade taotluste, meediapartnerluste või pressipäringute jaoks.'
+  title: Need help finding assets?
+  desc: Contact our brand team for custom asset requests, media partnerships, or press inquiries.
   links:
-    - label: 'Külastage meie tehas'
+    - label: Visit our factory
       href: /factory/
-      desc: 'Vaadake meie 12 000 m² tootmisüksust'
-    - label: 'Brändijuhised'
+      desc: See our 12,000 sqm manufacturing facility
+    - label: Brand guidelines
       href: /brand/
-      desc: 'Lugege olagoon brändi kohta'
-    - label: 'Olge meie partner'
+      desc: Learn about the olagoon brand
+    - label: Partner with us
       href: /contact/
-      desc: 'OEM, ODM ja levituse päringud'
+      desc: OEM, ODM, and distribution inquiries

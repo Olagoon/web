@@ -1,176 +1,175 @@
 meta:
-  title: 'Academia — ghiduri SUP și antrenament de vâslit | {SITE}'
-  description: 'Academia olagoon: ghiduri pentru paddle board-uri gonflabile, tehnici stand up paddle, siguranță nautică și cunoștințe despre materiale pentru începători și profesioniști.'
+  title: 'Academy — Pool Care Guides & Learning Center | {SITE}'
+  description: 'OLagoon Academy: drop-stitch pool guides, setup tutorials, water care, safety essentials, and materials knowledge for pool owners and professionals.'
   keywords:
-    - 'învățați stand up paddle'
-    - 'ghid SUP pentru începători'
-    - 'bazele paddle board-ului'
-    - 'tehnici SUP'
-    - 'lecții SUP'
+    - 'drop stitch pool guide'
+    - 'inflatable pool setup'
+    - 'pool water care'
+    - 'pool safety essentials'
+    - 'pool maintenance'
 hero:
-  tagline: olagoon Academy
-  title: Centru de învățare
-  subtitle: Ghiduri și tutoriale pentru orice nivel de experiență — de la noțiunile de bază despre SUP la tehnici avansate de salvare
+  tagline: OLagoon Academy
+  title: Learning Center
+  subtitle: Guides and tutorials for every pool owner — from first setup to water care, safety, and seasonal maintenance
+
 categories:
-  - level: Începător
+  - level: Getting Started
     color: from-green-500 to-emerald-600
     badge: bg-green-100 text-green-700
     guides:
-      - title: Bazele SUP
-        desc: Învață fundamentele stand-up paddleboarding — postura, tehnica vâslirii și echilibrul.
-        slug: beginner-sup-guide
-      - title: Tehnici de vâslit
-        desc: Vâslirea înainte, vâslirea circulară, vâslirea de tragere și sprijinul jos — stăpânește mișcările esențiale de vâslit.
-        slug: sup-paddle-guide
-      - title: Siguranța pe primul loc
-        desc: Practici esențiale de siguranță, inclusiv verificarea condițiilor meteo, utilizarea dispozitivelor de flotabilitate (PFD), regulile lesei de siguranță și auto-salvarea.
-        slug: sup-safety-guide
-  - level: Intermediar
+      - title: Choosing Your Pool
+        desc: Size, capacity, and placement — how to pick the right drop-stitch pool for your backyard and family.
+        slug: choosing-a-drop-stitch-pool
+      - title: First Setup
+        desc: Unbox, inflate, fill, and swim — a complete walkthrough of your first pool setup in under 30 minutes.
+        slug: pool-setup-guide
+      - title: Pool Safety Essentials
+        desc: Supervision rules, entry and exit practice, barrier placement, and everyday water safety habits.
+        slug: pool-safety-essentials
+  - level: Water Care
     color: from-blue-500 to-indigo-600
     badge: bg-blue-100 text-blue-700
     guides:
-      - title: Esențiale pentru touring
-        desc: Planificarea sesiunilor de vâslit de mai multe ore — navigație, hidratare, ritm și citirea prognozelor meteo.
-        slug: touring-sup-guide
-      - title: Lectura condițiilor meteo
-        desc: Interpretați prognozele marine, identificați tiparele norilor și înțelegeți efectele vântului asupra apei.
-        slug: weather-planning-water-sports
-      - title: Elemente de bază pentru navigație
-        desc: Citirea hărților, utilizarea busolei, punctele de traseu GPS și planificarea rutei pentru canotajul de coastă.
-        slug: sup-navigation-guide
-      - title: Conștientizarea mareelor
-        desc: Înțelegerea ciclurilor mareelor, a curenților și a modului în care acestea influențează momentul lansării și ruta.
-        slug: understanding-tides
-  - level: Avansat
+      - title: Water Care Basics
+        desc: Filtration schedules, sanitizer levels, and testing routines for clear, healthy pool water all season.
+        slug: pool-water-care
+      - title: Filtration & Circulation
+        desc: How your sand filter pump works, when to backwash, and how to keep water circulating efficiently.
+        slug: pool-water-care
+      - title: Preventing Algae & Cloudiness
+        desc: Troubleshooting green or cloudy water — causes, quick fixes, and prevention routines.
+        slug: pool-water-care
+  - level: Technology
     color: from-purple-500 to-violet-600
     badge: bg-purple-100 text-purple-700
     guides:
-      - title: Planificarea excursiilor de mai multe zile
-        desc: Logistica expedițiilor — selecția echipamentului, planificarea alimentației, protocoalele de siguranță și contactele de urgență.
-        slug: sup-travel-guide
-      - title: Tehnici de salvare
-        desc: Protocoale de auto-salvare, salvare tip T și remorcare pentru ape deschise.
-        slug: sup-self-rescue
-      - title: Vâslit pe timp de noapte
-        desc: Navigarea pe întuneric — cerințe de iluminare, memorarea traseului, comunicarea în grup și conștientizarea pericolelor.
-        slug: ocean-safety-basics
-  - level: Întreținere
+      - title: Drop-Stitch Engineering
+        desc: How thousands of internal threads turn flexible PVC into a rigid, high-pressure pool structure.
+        slug: drop-stitch-pool-engineering
+      - title: Inflatable vs Rigid Pools
+        desc: Cost, setup, storage, durability, and feel — a complete comparison for backyard buyers.
+        slug: inflatable-pool-vs-rigid-pool
+      - title: Materials Deep Dive
+        desc: PVC layers, UV stabilizers, and reinforced rails — what makes a drop-stitch pool last a decade.
+        slug: drop-stitch-pool-engineering
+  - level: Maintenance
     color: from-amber-500 to-orange-600
     badge: bg-amber-100 text-amber-700
     guides:
-      - title: Curățare și Întreținere
-        desc: Clătire cu apă dulce, protecție UV, prevenirea mucegaiului și tehnici corecte de uscare după fiecare sesiune.
-        slug: inflatable-sup-maintenance
-      - title: Ghid de depozitare
-        desc: Cele mai bune practici pentru depozitarea plăcilor SUP gonflabile — deflație, pliere, controlul temperaturii și durata de viață.
-        slug: inflatable-sup-storage
-      - title: Bazele reparațiilor
-        desc: Reparați perforațiile mici, scurgerile de la cusături și problemele cu supapele cu ajutorul kiturilor de reparare PVC și al tehnicilor de plasturi.
-        slug: inflatable-sup-repair
-      - title: Întreținerea supapelor
-        desc: Identificați tipurile de supape (Halkey-Roberts, Boston, Leafield), curățați resturile și înlocuiți tijele defecte.
-        slug: sup-pump-guide
-knowledge_center_tagline: Centru de cunoștințe
-knowledge_center_title: Echipamente marine & ghiduri din industrie
-knowledge_center_subtitle: Cunoștințe de specialitate și ghiduri de achiziție pentru profesioniști din domeniul marin, operatori de flote și pasionați de sporturi nautice.
+      - title: Cleaning & Care
+        desc: Surface cleaning, UV protection, seam inspection, and proper drying before every storage.
+        slug: pool-setup-guide
+      - title: Winter Storage
+        desc: Drain, clean, dry, fold — best practices for storing your pool through the off-season.
+        slug: pool-winter-storage
+      - title: Repairs & Patches
+        desc: Fix small punctures and seam issues with the included PVC repair kit — step by step.
+        slug: pool-setup-guide
+
+knowledge_center_tagline: 'Knowledge Center'
+knowledge_center_title: 'Pool Ownership & Industry Guides'
+knowledge_center_subtitle: 'Expert knowledge and buying guides for pool owners, facilities operators, and retail partners.'
+
 knowledge_sections:
-  - title: Cunoștințe despre plăcile SUP
-    tagline: Ghiduri pentru stand-up paddleboard
-    desc: Totul despre plăcile SUP — design, materiale, alegerea dimensiunii, întreținere și sfaturi de achiziție pentru uz recreațional și comercial.
+  - title: 'Buying Knowledge'
+    tagline: 'Drop-Stitch Pool Guides'
+    desc: 'Everything about drop-stitch pools — sizing, materials, construction, and buying advice for families and commercial buyers.'
     guides:
-      - title: Cum să alegi placa SUP potrivită
-        desc: Ghid complet pentru selectarea unui SUP — dimensiune, volum, material, formă și utilizare prevăzută.
-        href: /learn/water-safety/
-      - title: SUP gonflabil vs. SUP rigid
-        desc: SUP gonflabil vs. placă rigidă din epoxy — portabilitate, durabilitate, performanță și valoare, comparate.
-        href: /compare/technology/
-      - title: SUP All-Around vs. Touring vs. Yoga
-        desc: Diferite tipuri de plăci SUP — standarde de construcție, forme, dimensiuni și utilizări recomandate.
-        href: /learn/water-safety/
-      - title: Construcție Drop-Stitch vs. construcție tradițională
-        desc: Comparați construcția drop-stitch cu cea tradițională pentru plăcile SUP în ceea ce privește greutatea, costul, durabilitatea și rigiditatea.
-        href: /learn/drop-stitch-core/
-  - title: Ghid SUP gonflabil
-    tagline: Cunoștințe despre SUP-urile gonflabile
-    desc: Ghiduri complete despre SUP-urile gonflabile — materiale PVC, construcție drop-stitch, standarde de siguranță și cele mai bune practici de întreținere.
+      - title: 'How to Choose the Right Pool'
+        desc: 'Complete guide to selecting a drop-stitch pool — size, capacity, material, and intended use.'
+        href: '/v2/choosing-a-drop-stitch-pool/'
+      - title: 'Inflatable vs Rigid Pool'
+        desc: 'Inflatable vs rigid pools — cost, setup, storage, durability, and value compared.'
+        href: '/v2/inflatable-pool-vs-rigid-pool/'
+      - title: 'Compact Plunge vs Family vs Grand Lagoon'
+        desc: 'The three OLagoon pool sizes compared — footprint, capacity, and ideal backyard.'
+        href: '/products/'
+      - title: 'Drop-Stitch vs Traditional Construction'
+        desc: 'Why drop-stitch cores beat vinyl-tube and frame-pool construction in rigidity and lifespan.'
+        href: '/v2/drop-stitch-pool-engineering/'
+  - title: 'Setup & Care Guide'
+    tagline: 'Pool Ownership Knowledge'
+    desc: 'Comprehensive guides on inflatable pool setup, water care, filtration, and maintenance best practices.'
     guides:
-      - title: Ghidul materialelor PVC
-        desc: Ghid definitiv privind materialele PVC utilizate la fabricarea plăcilor SUP gonflabile.
-        href: /learn/materials/
-      - title: Cum sunt fabricate plăcile SUP gonflabile
-        desc: Procesul de fabricație — tăierea materialului, lipirea miezului drop-stitch, construcția cusăturilor, testarea la presiune și controlul calității.
-        href: /learn/inflatable-technology/
-      - title: Ghidul de siguranță SUP
-        desc: Standarde de siguranță, capacitate de încărcare, umflare corectă, verificări înainte de plecare și proceduri de urgență.
-        href: /learn/water-safety/
-      - title: Întreținerea plăcilor SUP
-        desc: Curățare, depozitare, protecție UV și reparații pentru plăcile SUP gonflabile.
-        href: /v2/inflatable-sup-maintenance/
-  - title: Cunoștințe despre plăcile SUP
-    tagline: Centru de plăci SUP
-    desc: Ghiduri tehnice despre tipurile de plăci SUP, materiale, metode de construcție, întreținere și siguranță.
+      - title: 'PVC Material Guide'
+        desc: 'The PVC materials used in OLagoon pool construction — layers, coatings, and UV resistance.'
+        href: '/learn/materials/'
+      - title: 'How Pools Are Made'
+        desc: 'Manufacturing process — material cutting, drop-stitch bonding, seam welding, pressure testing, and quality control.'
+        href: '/learn/inflatable-technology/'
+      - title: 'Water Safety Guide'
+        desc: 'Safety standards, capacity limits, supervision rules, and emergency procedures.'
+        href: '/learn/water-safety/'
+      - title: 'Seasonal Maintenance'
+        desc: 'Cleaning, water care, and protection routines for a season-long clear pool.'
+        href: '/v2/pool-water-care/'
+  - title: 'Engineering Knowledge'
+    tagline: 'Technology Hub'
+    desc: 'Technical guides covering pool construction, materials, pressure ratings, and structural testing.'
     guides:
-      - title: Tipuri de plăci SUP
-        desc: SUP-uri all-around, de turism, pentru yoga, sport și copii — aflați diferențele și alegeți modelul potrivit.
-        href: /learn/water-safety/
-      - title: Tehnologia Drop-Stitch
-        desc: Cum mii de fibre interne creează structuri gonflabile rigide, de înaltă presiune.
-        href: /learn/drop-stitch-core/
-      - title: Referință materiale
-        desc: Valorile denier ale PVC-ului, greutățile materialului, rezistența la UV și materialele de calitate marină, explicate.
-        href: /learn/materials/
-      - title: Ghid de achiziție SUP
-        desc: Comparați diferite tipuri de plăci SUP pentru diferite utilizări și niveluri de experiență.
-        href: /learn/water-safety/
-  - title: Cunoștințe despre SUP
-    tagline: Ghiduri pentru stand-up paddleboard
-    desc: Totul despre plăcile SUP — gonflabile vs rigide, dimensiunile plăcilor, tehnologia materialelor și sfaturi de specialitate pentru toate nivelurile de experiență.
+      - title: 'Pool Types Explained'
+        desc: 'Plunge pools, family pools, swim lounges, and custom shapes — learn the differences.'
+        href: '/products/'
+      - title: 'Drop-Stitch Technology'
+        desc: 'How thousands of internal threads create rigid, high-pressure inflatable structures.'
+        href: '/learn/drop-stitch-core/'
+      - title: 'Materials Reference'
+        desc: 'PVC denier ratings, fabric weights, UV resistance, and marine-grade materials explained.'
+        href: '/learn/materials/'
+      - title: 'Pressure & Rigidity'
+        desc: 'Why 10–15 PSI operating pressure keeps 20 cm walls rock-solid under full load.'
+        href: '/learn/inflatable-technology/'
+  - title: 'Safety Knowledge'
+    tagline: 'Water Safety Guides'
+    desc: 'Everything about pool safety — supervision, barriers, first aid, and safe play for all ages.'
     guides:
-      - title: SUP gonflabil vs. SUP rigid
-        desc: Comparați plăcile iSUP cu plăcile rigide din epoxy în privința portabilității, durabilității, performanței și a raportului calitate-preț.
-        href: /learn/water-safety/
-      - title: Ghidul dimensiunilor plăcilor SUP
-        desc: Cum influențează lungimea, lățimea și grosimea stabilitatea, viteza și manevrabilitatea.
-        href: /learn/water-safety/
-      - title: Întreținerea și îngrijirea SUP
-        desc: Curățare, depozitare, protecție UV și sfaturi de reparații pentru plăcile SUP gonflabile.
-        href: /v2/inflatable-sup-maintenance/
-      - title: Alegerea primului tău SUP
-        desc: Ghid pentru începători privind alegerea paddleboard-ului potrivit în funcție de greutatea dumneavoastră, nivelul de îndemânare și utilizarea prevăzută.
-        href: /learn/water-safety/
-  - title: Ghid pentru operațiunile de închiriere
-    tagline: Gestionarea flotei pentru afacerile de închiriere
-    desc: Ghiduri pentru construirea și gestionarea flotelor de închiriere SUP pentru chioșcuri de plajă, centre de sporturi acvatice și unități hoteliere.
+      - title: 'Inflatable vs Rigid Pool Safety'
+        desc: 'Safety trade-offs between inflatable and rigid pools — surfaces, edges, and depth.'
+        href: '/v2/inflatable-pool-vs-rigid-pool/'
+      - title: 'Dimensions & Capacity Guide'
+        desc: 'How length, width, and wall height affect capacity, stability, and safe occupancy.'
+        href: '/products/'
+      - title: 'Safe Setup & Placement'
+        desc: 'Ground preparation, drainage, and placement rules for a safe pool area.'
+        href: '/v2/pool-setup-guide/'
+      - title: 'Choosing Your First Pool'
+        desc: "Beginner's guide to selecting the right drop-stitch pool for your space, budget, and family."
+        href: '/v2/choosing-a-drop-stitch-pool/'
+  - title: 'Rental & Programs Guide'
+    tagline: 'Fleet Management for Rental Businesses'
+    desc: 'Guides on running pool rental and community pool programs for holiday parks, camps, and activity centers.'
     guides:
-      - title: Construirea flotei dvs. de închiriere
-        desc: Cum să alegeți plăcile SUP potrivite pentru afacerea dumneavoastră de închirieri — durabilitate, dimensiuni și considerații legate de ROI.
-        href: /solutions/rental-operators/
-      - title: Ghid de întreținere a flotei
-        desc: Practici esențiale de întreținere pentru a maximiza durata de viață a plăcilor și a minimiza timpul de nefuncționare pentru flotele de închirieri.
-        href: /solutions/rental-operators/
-  - title: Ghid pentru stațiuni și ospitalitate
-    tagline: Activități acvatice pentru industria hotelieră
-    desc: Ghiduri pentru lansarea și gestionarea programelor de SUP în stațiuni, hoteluri și destinații de pe malul apei.
+      - title: 'Building Your Rental Fleet'
+        desc: 'How to choose pools for a rental operation — durability, sizing, and ROI considerations.'
+        href: '/solutions/rental-operators/'
+      - title: 'Fleet Maintenance Guide'
+        desc: 'Essential maintenance practices to maximize pool lifespan and minimize downtime across a fleet.'
+        href: '/solutions/rental-operators/'
+  - title: 'Resort & Hospitality Guide'
+    tagline: 'Pools for Hospitality'
+    desc: 'Guides on adding drop-stitch pool programs for resorts, hotels, and vacation properties.'
     guides:
-      - title: Pornirea unui program SUP pentru stațiuni
-        desc: Factori de luat în considerare la lansarea activităților SUP pentru oaspeți — dimensiunea flotei, personalul și modelarea veniturilor.
-        href: /solutions/resorts-hotels/
-      - title: SUP vs. alte activități acvatice
-        desc: Compară programele SUP cu alte sporturi acvatice pentru experiența oaspeților și eficiența operațională.
-        href: /learn/water-safety/
-  - title: Ghid de retail și distribuție
-    tagline: Parteneriate de afaceri SUP
-    desc: Ghiduri despre cum să deveniți partener retail sau distribuitor SUP — planificarea stocurilor, poziționarea pe piață și strategii de creștere.
+      - title: 'Starting a Resort Pool Program'
+        desc: 'Factors to consider when adding guest pools — sizing, placement, staffing, and revenue modeling.'
+        href: '/solutions/resorts-hotels/'
+      - title: 'Pools vs Built-In Facilities'
+        desc: 'How drop-stitch pools complement built-in facilities for guest experience and flexibility.'
+        href: '/learn/safety-in-water-sports/'
+  - title: 'Retail & Distribution Guide'
+    tagline: 'Pool Business Partnerships'
+    desc: 'Guides on becoming an OLagoon retail partner or distributor — inventory planning, market positioning, and growth strategies.'
     guides:
-      - title: Cum să deveniți retailer SUP
-        desc: Cum să alegeți gamele de produse, să gestionați stocurile și să promovați plăcile SUP în magazinul dumneavoastră.
-        href: /solutions/retail-partners/
-      - title: SUP pentru operațiuni comerciale
-        desc: De ce plăcile SUP gonflabile sunt un produs versatil pentru flote comerciale, afaceri de închiriere și operatori profesioniști.
-        href: /solutions/rental-operators/
-read_guide: Citiți ghidul →
+      - title: 'Becoming a Pool Retailer'
+        desc: 'How to choose product lines, manage inventory, and market pools in your retail store.'
+        href: '/solutions/retail-partners/'
+      - title: 'Pools for Commercial Operations'
+        desc: 'Why drop-stitch pools are a versatile product for camps, community centers, and professional operators.'
+        href: '/solutions/rental-operators/'
+
+read_guide: Read guide →
+
 cta:
-  title: Nu sunteți sigur de unde să începeți?
-  desc: Realizați testul nostru de evaluare a nivelului pentru a găsi ghidurile și echipamentul potrivite nivelului dvs.
-  label: Contactați-ne →
+  title: Not sure where to start?
+  desc: Contact our team and we will help you pick the right pool and accessories for your backyard.
+  label: Contact us →
   link: /contact/

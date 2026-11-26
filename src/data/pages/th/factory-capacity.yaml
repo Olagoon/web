@@ -1,46 +1,50 @@
 meta:
-  title: 'กำลังการผลิต — โรงงาน 12,000 ตร.ม. | {SITE}'
-  description: 'กำลังการผลิตของ olagoon: สิ่งอำนวยความสะดวกขนาด 12,000 ตร.ม. ผลิตเรือมากกว่า 15,000 ลำต่อปี พร้อมพื้นที่สำหรับการเติบโต การผลิต OEM/ODM ขนาดใหญ่สำหรับบอร์ด SUP แบบสูบลมและเรือพอง'
+  title: 'Production Capacity — 12,000 m² Factory | {SITE}'
+  description: 'olagoon factory capacity: 12,000 m² facility producing 15,000+ pools per year with room to scale. Large-scale OEM/ODM inflatable pools manufacturing.'
   keywords:
-    - 'กำลังการผลิต SUP'
-    - 'โรงงาน SUP แบบสูบลม'
-    - 'การผลิตพายบอร์ด'
-    - 'โรงงาน SUP จีน'
+    - 'pool production capacity'
+    - 'inflatable pools factory'
+    - 'inflatable pool production'
+    - 'pool factory china'
 hero:
-  tagline: กำลังการผลิต
-  title: กำลังการผลิตและผลผลิตประจำปี
-  subtitle: โรงงานขนาด 12,000 ตร.ม. ผลิตบอร์ด SUP มากกว่า 15,000 ใบต่อปี พร้อมพื้นที่รองรับการขยายกำลังการผลิต
-intro: olagoon ดำเนินธุรกิจโรงงานผลิตบอร์ด SUP แบบเป่าลมเฉพาะทางที่ใหญ่ที่สุดแห่งหนึ่งในเมืองชิงเต่า ประเทศจีน โรงงานขนาด 12,000 ตร.ม. ของเราจัดเป็นเวิร์กช็อปเฉพาะทาง 6 แห่งที่ดำเนินงานควบคู่กันไป ทำให้เรามีกำลังผลิตบอร์ด SUP ได้มากกว่า 15,000 ใบต่อปีครอบคลุมไลน์บอร์ด SUP และอุปกรณ์ความปลอดภัย
+  tagline: Production Capacity
+  title: Manufacturing Capacity & Annual Output
+  subtitle: 12,000 m² facility producing 15,000+ pools per year with room to scale
+
+intro: olagoon operates one of the largest dedicated inflatable pools manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 pools annually across pools and safety equipment lines.
+
 highlights:
   - value: 12,000 m²
-    label: พื้นที่โรงงานผลิตทั้งหมด
-    detail: พบกับเวิร์คช็อปเฉพาะทางทั้ง 6 แห่ง
+    label: Total manufacturing floor
+    detail: Across 6 specialized workshops
   - value: 15,000+
-    label: 'จำนวนบอร์ด SUP ที่ผลิตต่อปี'
-    detail: บอร์ด SUP, ไม้พาย, อุปกรณ์เสริม
+    label: pools produced annually
+    detail: pools, filters, accessories
   - value: 200+
-    label: บุคลากรที่มีทักษะฝีมือ
-    detail: วิศวกร 25+ คน, 2 กะ/วัน
+    label: Skilled workforce
+    detail: 25+ engineers, 2 shifts/day
   - value: 50+
-    label: ประเทศที่ส่งออก
-    detail: EU, US, AU, ตะวันออกกลาง, เอเชีย
-  - value: 30–45
-    label: ระยะเวลาการผลิตมาตรฐาน (วัน)
-    detail: จากการยืนยัน PO ถึง FOB
+    label: Export countries
+    detail: EU, US, AU, Middle East, Asia
+  - value: 12–16
+    label: Standard lead time (weeks)
+    detail: 50–100 units, from PO confirmation to FOB
   - value: 10+
-    label: ปีแห่งประสบการณ์การส่งออก
-    detail: ตั้งแต่ปี 2012
+    label: Years of export experience
+    detail: Since 2012
+
 workshops:
-  - title: การผลิตบอร์ด SUP
-    description: 'สายการประกอบแบบขนาน 4 สายสำหรับกระดาน SUP แบบเป่าลม แต่ละสายสามารถผลิตได้ 50–80 ใบต่อกะ จุดพิมพ์ดิจิทัลและพิมพ์สกรีนทำงานพร้อมกัน กำลังการผลิต SUP ต่อปี: มากกว่า 10,000 ใบ'
-    output: มากกว่า 10,000 SUP ต่อปี
-  - title: 'ไลน์ผลิตบอร์ด SUP'
-    description: 'สายการผลิตอเนกประสงค์สำหรับบอร์ด SUP แบบเป่าลม สถานีเชื่อมแบบใช้ลมร้อน เครื่องอัดอิเล็กทริก RF และสถานีงานประกอบได้รับการกำหนดค่าใหม่ตามส่วนผสมของคำสั่งซื้อ กำลังการผลิตต่อปี: 5,000+ หน่วย'
-    output: '5,000+ หน่วย/ปี'
-  - title: อุปกรณ์ความปลอดภัย
-    description: 'แยกพื้นที่ผลิตห้องคลีนรูมสำหรับเสื้อชูชีพและอุปกรณ์นิรภัย การเย็บ การใส่โฟม และสถานีทดสอบโดยเฉพาะ ความจุเสื้อชูชีพต่อปี: 50,000+ หน่วย'
-    output: เสื้อชูชีพมากกว่า 50,000 ชิ้น/ปี
+  - title: pools Production
+    description: '4 parallel assembly lines for inflatable pools. Each line can produce 50–80 pools per shift. Digital printing and screen printing stations run concurrently. Annual pool capacity: 15,000+ pools.'
+    output: '10,000+ pools/year'
+  - title: 'pools Lines'
+    description: 'Multi-purpose production lines for inflatable pools. Hot-air welding stations, RF dielectric presses, and assembly workstations are reconfigured based on order mix. Annual capacity: 5,000+ units.'
+    output: '5,000+ units/year'
+  - title: Safety Equipment
+    description: 'Separate clean-room production area for filtration assemblies and pump equipment. Dedicated assembly, calibration, and testing stations. Annual accessory capacity: 50,000+ units.'
+    output: '50,000+ accessories/year'
+
 oem_capacity:
-  moq: 'SUP: 50 ลำ (ตัวอย่างตั้งแต่ 5–10) | แม่พิมพ์แบบกำหนดเอง: 200+ ลำ'
-  lead_time: การสั่งผลิตมาตรฐาน 30–45 วัน ตัวอย่างสินค้า 15–20 วัน มีบริการสั่งผลิตเร่งด่วน
-  payment: ชำระเงินผ่าน T/T ล่วงหน้า 30% + อีก 70% ก่อนจัดส่ง รับการชำระเงินผ่าน L/C และ Western Union
+  moq: 'pool: 50 units (samples from 5–10) | Custom mould: 200+ units'
+  lead_time: 'Production 12–16 weeks (50–100 units), 8–12 weeks above 1,000 units. Samples 15–20 days. Rush available.'
+  payment: 'T/T 30% deposit + 70% before shipment. L/C, Western Union accepted.'

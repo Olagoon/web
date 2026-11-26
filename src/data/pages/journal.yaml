@@ -1,14 +1,14 @@
 meta:
   title: 'Journal — Nautical Articles & Guides | {SITE}'
-  description: 'The olagoon journal: articles and guides about inflatable SUPs, paddle boarding, and the nautical industry.'
+  description: 'The olagoon journal: articles and guides about inflatable pools, pool care, and the backyard pool industry.'
   keywords:
-    - 'sup journal'
-    - 'paddle board articles'
-    - 'inflatable sup blog'
+    - 'pool journal'
+    - 'inflatable pool articles'
+    - 'inflatable pools blog'
     - 'nautical guides'
 hero:
   title: Journal
-  subtitle: Surf guides, gear comparisons, and ocean stories — written for real conditions.
+  subtitle: Pool guides, gear comparisons, and backyard stories — written for real conditions.
 
 latest:
   tagline: Latest

@@ -1,25 +1,26 @@
 meta:
-  title: 'SUP-gidsen — Kopen, Kiezen, Oefenen | {SITE}'
-  description: 'olagoon SUP-gidsen: hoe je paddelen met een opblaasbaar board koopt, kiest en oefent. Maten, materialen en expert tips voor beginners en professionals.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'SUP koopgids'
-    - 'hoe kies ik een SUP'
-    - 'SUP maatgids'
-    - 'opblaasbaar paddle board tips'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: Gidsen
-  title: Nieuw met SUP?
-  subtitle: Praktische gidsen om je te helpen bij het kiezen, gebruiken en genieten van opblaasbare SUP-boards.
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
+
 size_guide:
-  tagline: Formaat & Specificaties
-  title: Vind de juiste maat voor uw behoeften
-  desc: Vergelijk SUP-boardafmetingen, draagvermogens en aanbevolen gebruik. Of je nu een touring SUP, een yoga board of een allround SUP nodig hebt — onze maattabel helpt je de juiste keuze te maken.
-  link_label: Volledige maatgids met productspecificaties →
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: SUP-borden
-      desc: Kies de lengte op basis van je gewicht en beoogd gebruik. Bredere boards (32") bieden meer stabiliteit. Langere boards (3,5 tot 60 cm) baan is beter voor toeren.
-    - title: Touring SUP's
-      desc: Langere boards (11–12 ft) om afstand af te leggen en recht te volgen. Stabiel genoeg voor toeren met uitrusting. Controleer altijd de draagkracht.
-    - title: Allround SUP's
-      desc: Kies lengte op basis van het gewicht van de rijder en gebruik deze aan. Bredere planken (32") voor stabiliteit. Veelzijdig voor recreatie en fitness.
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

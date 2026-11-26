@@ -1,107 +1,110 @@
 meta:
-  title: 'Γνώση — Οδηγοί SUP | {SITE}'
-  description: 'Η βάση γνώσεων olagoon: οδηγοί για φουσκωτά SUP, υλικά paddle board, επιλογή σανίδας και πληροφορίες κλάδου για μάρκες και επαγγελματίες.'
+  title: 'Knowledge — Pool Guides | {SITE}'
+  description: 'OLagoon knowledge base: guides on drop-stitch pools, pool materials, water care, and industry insights for owners and professionals.'
   keywords:
-    - 'γνώση SUP'
-    - 'οδηγός φουσκωτό SUP'
-    - 'υλικά paddle board'
-    - 'πληροφορίες κλάδου SUP'
+    - 'pool knowledge'
+    - 'drop stitch pool guide'
+    - 'inflatable pool materials'
+    - 'pool care insights'
 hero:
-  tagline: Γράφημα Γνώσης
-  title: Γνώση Εξερεύνησης Νερού
+  tagline: 'Knowledge Graph'
+  title: 'Backyard Pool Knowledge'
   subtitle: |
-    Μια δομημένη βάση γνώσης που καλύπτει τεχνολογία φουσκωτών SUP,<br />
-    ασφάλεια στο νερό, μηχανική σανίδων και σχεδιασμό περιπετειών.
-  taglineSection: Εξερευνήστε. Μάθετε. Πηγαίνετε με αυτοπεποίθηση.
+    A structured knowledge base covering drop-stitch pool technology,<br />
+    water safety, materials engineering, and seasonal pool care.
+  taglineSection: 'Explore. Learn. Swim with confidence.'
+
 clusters:
-  tagline: Συμπλέγματα Γνώσης
-  title: Εξερευνήστε ανά θέμα
-  subtitle: Βουτιά στην τεχνολογία, ασφάλεια και δεξιότητες πίσω από κάθε προϊόν olagoon.
+  tagline: 'Knowledge Clusters'
+  title: 'Explore by topic'
+  subtitle: 'Deep dives into the technology, safety, and care behind every OLagoon product.'
   items:
-    - title: Οδηγοί Αγοράς SUP
-      description: Από την επιλογή της πρώτης σας σανίδας έως προηγμένες τεχνικές touring — τα πάντα για το stand-up paddle boarding.
-      icon: tabler:lifebuoy
+    - title: 'Pool Buying Guides'
+      description: 'From choosing your first pool to comparing sizes — everything about drop-stitch pools.'
+      icon: 'tabler:lifebuoy'
       topics:
-        - Πώς να επιλέξετε το πρώτο σας φουσκωτό SUP
-        - Οδηγός μεγέθους και χωρητικότητας βάρους SUP
-        - Καλύτερο SUP για αρχάριους, touring, γιόγκα και αγώνες
-        - Συνηθισμένα λάθη στην αγορά SUP που πρέπει να αποφύγετε
-        - Σύγκριση φουσκωτού vs σκληρής σανίδας
-    - title: Μηχανική & Τεχνολογία SUP
-      description: Τεχνικοί οδηγοί για φουσκωτές σανίδες SUP — υλικά, μέθοδοι κατασκευής και διαδικασίες παραγωγής.
-      icon: tabler:microscope
+        - 'How to choose your first drop-stitch pool'
+        - 'Pool size and capacity guide'
+        - 'Compact Plunge vs Family Oasis vs Grand Lagoon'
+        - 'Common pool buying mistakes to avoid'
+        - 'Inflatable vs rigid pool comparison'
+    - title: 'Pool Engineering & Technology'
+      description: 'Technical guides on drop-stitch pools — materials, construction methods, and manufacturing processes.'
+      icon: 'tabler:microscope'
       topics:
-        - Τεχνολογία Drop-stitch σε βάθος
-        - Προδιαγραφές PVC στρατιωτικής ποιότητας
-        - Συγκόλληση fusion έναντι συγκόλλησης με κόλλα
-        - Τεχνολογία αφρού EVA και μέθοδοι γραφικών
-        - Τύποι βαλβίδων SUP και συστήματα πτερυγίων
-    - title: Ασφάλεια & Συντήρηση SUP
-      description: Απαραίτητη γνώση ασφαλείας για κάθε κωπηλάτη — από την επιλογή PFD έως την ανάγνωση καιρού και τη φροντίδα και επισκευή σανίδας.
-      icon: tabler:shield
+        - 'Drop-stitch technology deep dive'
+        - 'Marine-grade PVC specifications'
+        - 'Fusion lamination vs adhesive bonding'
+        - 'Reinforced rail and seam engineering'
+        - 'Pool valve types and pressure ratings'
+    - title: 'Pool Safety & Maintenance'
+      description: 'Essential safety knowledge for every pool owner — from supervision rules to water care and repair.'
+      icon: 'tabler:shield'
       topics:
-        - Λίστα ελέγχου ασφαλείας SUP και απαιτήσεις PFD
-        - Ασφάλεια πολλαπλών θαλάμων για απομακρυσμένα νερά
-        - Οδηγός PSI φουσκώματος SUP
-        - Αποθήκευση σανίδας και χειμερινή φροντίδα
-        - Τεχνικές επισκευής φουσκωτών
-    - title: Δεξιότητες & Τεχνικές SUP
-      description: Τεχνικές κωπηλασίας, δεξιότητες touring και προπόνηση φυσικής κατάστασης για όλα τα επίπεδα.
-      icon: tabler:sailboat
+        - 'Pool safety checklist and supervision rules'
+        - 'Water care and sanitation basics'
+        - 'Pool inflation PSI guide (10–15 PSI)'
+        - 'Pool storage and winter care'
+        - 'PVC repair techniques'
+    - title: 'Pool Setup & Water Care'
+      description: 'Setup routines, filtration schedules, and water chemistry for a season of clear water.'
+      icon: 'tabler:droplet'
       topics:
-        - Τεχνικές κωπηλασίας για αρχάριους
-        - Προχωρημένη τεχνική κουπιού
-        - Σχεδιασμός touring και αποστολών
-        - Εκπαίδευση φυσικής κατάστασης και αγώνες SUP
-        - Δεξιότητες σε ταραγμένα νερά και ποτάμια
-    - title: Στυλ Ζωής SUP & Ειδικές Χρήσεις
-      description: Εξειδικευμένες δραστηριότητες SUP — γιόγκα, ψάρεμα, σκύλοι, οικογένειες και ταξιδιωτικές συμβουλές.
-      icon: tabler:heart
+        - 'First setup: unbox to swim in 30 minutes'
+        - 'Sand filter pump operation and backwashing'
+        - 'Water testing and chemical balance'
+        - 'Algae prevention and troubleshooting'
+        - 'Thermal covers and heat retention'
+    - title: 'Pool Lifestyle & Family'
+      description: 'Getting the most from your pool — family fun, exercise, pets, and entertaining.'
+      icon: 'tabler:heart'
       topics:
-        - SUP γιόγκα και διαλογισμό στο νερό
-        - Ψάρεμα από φουσκωτό SUP
-        - Paddle boarding με σκύλους και παιδιά
-        - Ταξίδι με το SUP σας αεροπορικώς και με αυτοκίνητο
-        - Αξεσουάρ SUP και βασικός εξοπλισμός
-    - title: Συγκρίσεις SUP & Αναφορές
-      description: Συγκρίσεις δίπλα-δίπλα που σας βοηθούν να λαμβάνετε τεκμηριωμένες αποφάσεις.
-      icon: tabler:chart-bar
+        - 'Pool games and activities for kids'
+        - 'Water exercise and low-impact fitness'
+        - 'Pool time with dogs and pets'
+        - 'Moving your pool: storage between homes'
+        - 'Pool accessories and gear essentials'
+    - title: 'Pool Comparisons & References'
+      description: 'Side-by-side comparisons to help you make informed decisions.'
+      icon: 'tabler:chart-bar'
       topics:
-        - SUP ή καγιάκ — ποιο είναι το κατάλληλο για εσάς;
-        - Κατηγορίες υλικών PVC εξηγημένες
-        - Ασφάλεια μονού θαλάμου έναντι πολλαπλών θαλάμων
-        - Υλικά σανίδας SUP εξηγημένα
-        - Εκτύπωση UV έναντι σχεδίων σε μπλοκ EVA
+        - 'Inflatable pool vs rigid pool — which is right for you?'
+        - 'PVC material grades explained'
+        - 'Single chamber vs multi-chamber construction'
+        - 'Pool wall heights explained (20 cm standard)'
+        - 'Digital printing vs in-mold graphics'
+
 featured_guides:
-  tagline: Προτεινόμενοι Οδηγοί
-  title: Πιο δημοφιλείς πόροι γνώσης
+  tagline: 'Featured Guides'
+  title: 'Most popular knowledge resources'
   items:
-    - title: Βασικά SUP
-      href: /learn/water-safety/
-    - title: Φουσκωτό vs Σκληρή Σανίδα
-      href: /compare/technology/
-    - title: Οδηγός Ασφάλειας Νερού
-      href: /learn/water-safety/
-    - title: Αναφορά Υλικών
-      href: /learn/materials/
-    - title: Οδηγός Αγοράς SUP
-      href: /technology/
-    - title: Οδηγός Μεγέθους SUP
-      href: /guides/sup-size-guide/
-    - title: Κέντρο Τεχνολογίας SUP
-      href: /research/
-    - title: Συντήρηση SUP
-      href: /technology/
-    - title: Οδηγός Touring
-      href: /guides/sup-for-touring/
-    - title: Τεχνικές Κωπηλασίας
-      href: /technology/
+    - title: 'Pool Setup Guide'
+      href: '/guides/pool-setup-guide/'
+    - title: 'Inflatable vs Rigid Pools'
+      href: '/compare/inflatable-vs-hardboard/'
+    - title: 'Water Safety Guide'
+      href: '/learn/water-safety/'
+    - title: 'Materials Reference'
+      href: '/learn/materials/'
+    - title: 'Pool Buying Guide'
+      href: '/guides/choosing-a-drop-stitch-pool/'
+    - title: 'Pool Filtration Guide'
+      href: '/guides/pool-filtration-guide/'
+    - title: 'Pool Tech Center'
+      href: '/research/'
+    - title: 'Pool Water Care'
+      href: '/guides/pool-water-care/'
+    - title: 'Winter Storage Guide'
+      href: '/guides/pool-winter-storage/'
+    - title: 'Site Preparation Guide'
+      href: '/guides/pool-site-preparation/'
+
 cta:
-  title: Ξεκινήστε την εξερεύνηση
-  subtitle: Βουτήξτε στη βάση γνώσεων μας και λάβετε τις πληροφορίες που χρειάζεστε για την επόμενη περιπέτειά σας.
+  title: 'Start exploring'
+  subtitle: 'Dive into our knowledge base and get the information you need for your backyard pool.'
   actions:
     - variant: primary
-      text: Περιηγηθείτε σε όλους τους οδηγούς
-      href: /academy/
-    - text: Εξερευνήστε το Γράφημα Γνώσης
-      href: /knowledge/
+      text: 'Browse all guides'
+      href: '/academy/'
+    - text: 'Explore Knowledge Graph'
+      href: '/knowledge/'

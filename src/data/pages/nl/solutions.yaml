@@ -1,63 +1,63 @@
 meta:
-  title: 'Business Solutions — SUP voor Elk Bedrijf | {SITE}'
-  description: 'olagoon business solutions: SUP-vloten voor resorts, clubs, verhuur, distributie en private labels. Professionele leverancier van nautische uitrusting voor B2B.'
+  title: 'Business Solutions — pool for Every Business | {SITE}'
+  description: 'olagoon business solutions: pool fleets for resorts, clubs, rentals, distribution, and private labels. Professional nautical equipment supplier for B2B.'
   keywords:
-    - 'SUP business solutions'
-    - 'leverancier opblaasbare paddle boards'
-    - 'nautische uitrusting B2B'
-    - 'fabrikant opblaasbare SUP'
+    - 'pool business solutions'
+    - 'inflatable pool supplier'
+    - 'nautical equipment b2b'
+    - 'inflatable pools manufacturer'
 hero:
-  tagline: Zakelijke oplossingen
-  title: SUP-oplossingen<br />Voor Elk Bedrijf
-  subtitle: Van resorts tot detailhandel, verhuurders tot wereldwijde distributeurs — OLagoon biedt complete SUP-oplossingen die zijn afgestemd op uw bedrijfsmodel.
+  tagline: Business Solutions
+  title: 'pool Solutions<br />For Every Business'
+  subtitle: 'From resorts to retail, rental operators to global distributors — OLagoon provides complete pool solutions tailored to your business model.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: OLagoon SUP-boards voor zakelijke en professionele toepassingen
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools for business and professional applications
 stats:
-  title: OLagoon in één oogopslag
+  title: OLagoon at a Glance
   stats:
-    - title: Jaren Ervaring
-      amount: Sinds 2012
-    - title: Aangepaste Oplossingen
-      amount: '100+'
-    - title: Bedrijven Bediend
+    - title: Years Experience
+      amount: Since 2012
+    - title: Custom Solutions
+      amount: 100+
+    - title: Markets Served
       amount: '50+'
-    - title: Planken Bezorgd
-      amount: '15.000+'
+    - title: Boards Delivered
+      amount: 15,000+
 features3_solutions:
-  tagline: Oplossingen per bedrijfstype
-  title: Speciaal Gebouwde SUP's<br />Voor Uw Bedrijf
+  tagline: Solutions By Business Type
+  title: 'Purpose-Built pools<br />For Your Business'
   isBeforeContent: false
   columns: 2
   items:
-    - title: Resorts & hotels
-      description: Volledige SUP-vlootprogramma's voor horecapanden — duurzame boards, aangepaste branding en ondersteuning bij stafftraining.
+    - title: Resorts & Hotels
+      description: 'Complete pool fleet programs for hospitality properties — durable boards, custom branding, and staff training support.'
       icon: tabler:building
       link: /solutions/resorts-hotels/
-    - title: Peddelclubs
-      description: Betrouwbare SUP-vloten voor peddelclubs, lesprogramma's en lidmaatschapsactiviteiten — commerciële kwaliteit boards met clubprijzen.
+    - title: Paddle Clubs
+      description: 'Reliable pool fleets for paddle clubs, lesson programs, and membership operations — commercial-grade boards with club pricing.'
       icon: tabler:users
       link: /solutions/resorts-hotels/
-    - title: Verhuuroperators
-      description: SUP-boards met hoge rotatie, ontworpen voor dagelijks verhuurgebruik. UV-bestendig, sneldrogend, stapelbaar — ontworpen voor het verhuurritme.
+    - title: Rental Operators
+      description: 'High-rotation pools engineered for daily rental use. UV-resistant, quick-dry, stackable — designed for the rental grind.'
       icon: tabler:currency-dollar
       link: /solutions/rental-operators/
-    - title: Detailhandelpartners
-      description: Verkoop het snelst groeiende SUP-merk in uw markt. Volledige productlijn, marketingmateriaal, dropshipping en concurrerende marges.
+    - title: Retail Partners
+      description: 'Sell the fastest-growing pool brand in your market. Full product line, marketing materials, dropshipping, and competitive margins.'
       icon: tabler:shopping-cart
       link: /solutions/retail-partners/
-    - title: Distributeurs
-      description: Exclusieve territoria, volledig productportfolio, toegewijde accountmanagement. Sluit u aan bij ons wereldwijde distributienetwerk in meer dan 50 landen.
+    - title: Distributors
+      description: 'Exclusive territories, complete product portfolio, dedicated account management. Join our global distribution network in 50+ countries.'
       icon: tabler:world
       link: /solutions/distributors/
-    - title: Bouw je eigen merk
-      description: End-to-end OEM/ODM SUP-productie — ontwerp, prototyping, massaproductie en logistiek. Lanceer uw merk met OLagoon.
+    - title: Build Your Own Brand
+      description: 'End-to-end OEM/ODM pool manufacturing — design, prototyping, mass production, and logistics. Launch your brand with OLagoon.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:
-  title: Weet je niet welke oplossing bij jouw behoeften past?
-  subtitle: Beschrijf uw aanvraag aan ons team en wij zullen de juiste configuratie aanbevelen.
+  title: 'Not sure which solution fits your needs?'
+  subtitle: 'Describe your application to our team and we will recommend the right configuration.'
   actions:
     - variant: primary
-      text: Krijg een aanbeveling
+      text: Get a recommendation
       href: /contact/

@@ -1,106 +1,106 @@
 meta:
-  title: 'Garanti — oppustelige SUP-brædder | {SITE}'
-  description: 'olagoons garanti og eftersalgsstøtte til oppustelige SUP-brædder og tilbehør. Vores kvalitetsløfte til partnere og kunder.'
+  title: 'Warranty — inflatable pools | {SITE}'
+  description: 'olagoon warranty and after-sales support for inflatable pools and accessories. Our quality commitment for partners and customers.'
   keywords:
-    - 'SUP-garanti'
-    - 'garanti oppustelig SUP'
-    - 'paddle board garanti'
-    - 'eftersalgsstøtte'
-label: Garanti
-headline: olagoon producentens begrænsede garanti
-subtitle: olagoon står bag kvaliteten af hvert maritimt produkt, vi fremstiller.
+    - 'pool warranty'
+    - 'inflatable pools warranty'
+    - 'inflatable pool guarantee'
+    - 'after-sales support'
+label: 'Warranty'
+headline: 'olagoon Manufacturer Limited Warranty'
+subtitle: 'olagoon stands behind the quality of every inflatable marine product we manufacture. This Limited Warranty sets forth the terms and coverage for your olagoon product.'
 seo:
-  headline: olagoon garanti for oppustelige SUP-brædder — 3 års begrænset garanti | olagoon
-  description: olagoon tilbyder 3 års begrænset garanti på primært dækstof, sømme og drop-stitch-kernens strukturelle integritet. Dækker også påfyldningsventiler og fabriksinstalleret tilbehør. Fuld tekst med vilkår og betingelser for olagoon-garanti på oppustelige SUP-brædder.
+  headline: 'olagoon inflatable pools Warranty — 3-Year Limited Warranty | olagoon'
+  description: 'olagoon offers a 3-year limited warranty on primary deck fabric, seams, and drop-stitch core structural integrity. Also covering inflation valves and factory-installed accessories. Full terms and conditions for olagoon inflatable pools warranty.'
   datePublished: '2024-01-01'
   dateModified: '2026-11-18'
-body: |-
+body: |
   <p class="text-lg text-gray-600 dark:text-gray-400 mb-8">
-    Denne begrænsede garanti gælder for nye oppustelige maritime produkter med olagoon-mærket, der er købt direkte hos olagoon eller hos en autoriseret olagoon-forhandler eller detailhandler. Ikrafttrædelsesdatoen er den verificerbare dato for det oprindelige detailkøb.
+    This Limited Warranty applies to new olagoon branded inflatable marine products purchased directly from olagoon or from an authorized olagoon dealer or retailer. The effective date is the verifiable date of original retail purchase.
   </p>
 
   <div class="bg-sky-50 dark:bg-gray-900 border border-sky-200 dark:border-gray-800 rounded-xl p-6 mb-10">
-    <h2 class="text-xl font-bold mb-3">Garantidækning og varighed</h2>
+    <h2 class="text-xl font-bold mb-3">Warranty Coverage & Duration</h2>
     <div class="grid md:grid-cols-2 gap-4">
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 år</h3>
-        <p class="text-sm text-gray-600 mt-1">Primært slangestofs integritet (CSM/PVC)</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Years</h3>
+        <p class="text-sm text-gray-600 mt-1">Primary tube fabric integrity (CSM/PVC)</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 år</h3>
-        <p class="text-sm text-gray-600 mt-1">Glasfiberskrogets strukturelle integritet</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Years</h3>
+        <p class="text-sm text-gray-600 mt-1">Fiberglass hull structural integrity</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 år</h3>
-        <p class="text-sm text-gray-600 mt-1">Oppustelige slangesømmes evne til at holde på luften</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Years</h3>
+        <p class="text-sm text-gray-600 mt-1">Inflatable tube seam air-holding capability</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 år</h3>
-        <p class="text-sm text-gray-600 mt-1">Funktionaliteten af påfyldningsventiler</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Years</h3>
+        <p class="text-sm text-gray-600 mt-1">Inflation valve functionality</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">1 år</h3>
-        <p class="text-sm text-gray-600 mt-1">Fabriksinstalleret tilbehør og hjælpefittings</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">1 Year</h3>
+        <p class="text-sm text-gray-600 mt-1">Factory-installed accessories and auxiliary fittings</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-amber-700 dark:text-amber-400">1 år*</h3>
-        <p class="text-sm text-gray-600 mt-1">Kommercielt brug, udlejning eller flådebrug — alle komponenter</p>
+        <h3 class="font-bold text-amber-700 dark:text-amber-400">1 Year*</h3>
+        <p class="text-sm text-gray-600 mt-1">Commercial, rental, or fleet use — all components</p>
       </div>
     </div>
-    <p class="text-xs text-gray-500 mt-4">*Kommercielt, statsligt, charter-, leje- eller undervisningsmæssigt brug reducerer garantien til 1 år. Brug i væddeløb eller konkurrence gør garantien fuldstændig ugyldig.</p>
+    <p class="text-xs text-gray-500 mt-4">*Commercial, governmental, charter, rental, or instructional use reduces warranty to 1 year. Racing or competition use voids warranty entirely.</p>
   </div>
 
-  <h2>Hvad er dækket</h2>
-  <h3>Primært slangestof (3 år)</h3>
-  <p>olagoon garanterer for det primære dækstof mod porøsitetsforringelse, der i væsentlig grad kompromitterer produktets evne til at opretholde driftsmæssig oppumpning. Dette gælder for PVC-belagt stof og alle andre dækstofmaterialer, der anvendes i produktionen.</p>
+  <h2>What Is Covered</h2>
+  <h3>Primary Tube Fabric (3 Years)</h3>
+  <p>olagoon warrants the principal deck fabric against porosity deterioration that substantially compromises the product's ability to maintain operational inflation. This applies to PVC coated fabric and all other deck fabric materials used in manufacture.</p>
 
-  <h3>Glasfiberskrogets strukturelle integritet (3 år)</h3>
-  <p>For produkter med et skrog af glasfiberarmeret plast (FRP) garanteres den grundlæggende kompositstruktur mod strukturelle fejl på grund af fejl i materialer eller udførelse.</p>
+  <h3>Fiberglass Hull Structural Integrity (3 Years)</h3>
+  <p>For products with a fiberglass-reinforced plastic (FRP) hull, the fundamental composite structure is warranted against structural failure due to defects in materials or workmanship.</p>
 
-  <h3>Oppustelige slangesømmes evne til at holde på luften (3 år)</h3>
-  <p>Sømmene på de oppustelige slanger, hvor de er forbundet under produktionen, er garanteret mod produktionsfejl, der medfører væsentlig luftlækage gennem sømmen. Regelmæssig inspektion og vedligeholdelse af passende oppumpningstryk er betingelser for dækningen.</p>
+  <h3>Inflatable Tube Seam Air-Holding Capability (3 Years)</h3>
+  <p>The seams of inflatable tubes, where joined during manufacture, are warranted against manufacturing defects that result in substantial air leakage through the seam. Periodic inspection and maintenance of appropriate inflation pressures are conditions of coverage.</p>
 
-  <h3>Funktionaliteten af påfyldningsventiler (3 år)</h3>
-  <p>Påfyldningsventiler, der oprindeligt er installeret af olagoon, er garanteret mod produktionsfejl i materialer eller udførelse, der forhindrer ventilen i at holde på luften som designet.</p>
+  <h3>Inflation Valve Functionality (3 Years)</h3>
+  <p>Air inflation valves originally installed by olagoon are warranted against manufacturing defects in materials or workmanship that prevent the valve from holding air as designed.</p>
 
-  <h3>Fabriksinstalleret tilbehør (1 år)</h3>
-  <p>Komponenter og fittings, der er fremstillet af olagoon og oprindeligt installeret på fabrikken, er garanteret mod fejl i materiale og udførelse i ét år. Dette omfatter ikke tredjepartsgenstande, som kun er dækket af deres respektive producenters garantier.</p>
+  <h3>Factory-Installed Accessories (1 Year)</h3>
+  <p>Components and fittings manufactured by olagoon and originally installed at the factory are warranted against defects in material and workmanship for one year. This excludes third-party items, which are covered only by their respective manufacturer warranties.</p>
 
-  <h2>Hvad er ikke dækket</h2>
+  <h2>What Is Not Covered</h2>
   <ul>
-    <li>Kosmetiske fejl, herunder misfarvning, pletter, falming, kridtning eller enhver ændring i udseende</li>
-    <li>Huller, snit, rifter, revner eller anden fysisk skade</li>
-    <li>Krakelering, revner, slid, afskrabning eller forringelse på grund af friktion eller kontakt</li>
-    <li>Forringelse på grund af udsættelse for UV-lys, vejrlig eller atmosfæriske forhold</li>
-    <li>Skader fra kontakt med brændstoffer, opløsningsmidler, syrer, baser eller kemikalier</li>
-    <li>Skader fra forsømmelse, forkert brug, misbrug, ulykker eller normal slitage</li>
-    <li>Gelcoat- eller malingsproblemer (blærer, krakelering, misfarvning, falming)</li>
-    <li>Skader fra stød, belastning, forkert støtte eller trailertransport</li>
-    <li>Skader fra forkert oppumpning/afpumpning eller brug af ikke-godkendte oppumpningsenheder</li>
-    <li>Tredjepartsudstyr, komponenter eller systemer (dækket af deres respektive producenter)</li>
+    <li>Cosmetic flaws including discoloration, staining, fading, chalking, or any alteration in appearance</li>
+    <li>Punctures, cuts, tears, rips, or other physical damage</li>
+    <li>Crazing, cracking, abrasion, scuffing, or deterioration from friction or contact</li>
+    <li>Degradation from UV light exposure, weathering, or atmospheric conditions</li>
+    <li>Damage from contact with fuels, solvents, acids, alkalis, or chemicals</li>
+    <li>Damage from negligence, improper use, abuse, accident, or normal wear and tear</li>
+    <li>Gelcoat or paint surface issues (blistering, crazing, discoloration, fading)</li>
+    <li>Damage from impact, stress, improper support, or trailering</li>
+    <li>Damage from improper inflation/deflation or use of non-approved inflation devices</li>
+    <li>Third-party equipment, components, or systems (covered by their respective manufacturers)</li>
   </ul>
 
-  <h2>Producentens forpligtelse og udbedring</h2>
-  <p>olagoons eneste og eksklusive forpligtelse er reparation eller udskiftning, efter olagoons valg, af enhver komponent, der vurderes at have fejl i materialer eller udførelse og er dækket af denne garanti. Reparationer eller udskiftninger udføres af olagoon eller dets udpegede autoriserede servicefacilitet. Reparerede eller udskiftede komponenter er kun garanteret for den uudløbne del af den oprindelige garantiperiode.</p>
+  <h2>Manufacturer's Obligation & Remedy</h2>
+  <p>olagoon's sole and exclusive obligation is the repair or replacement, at olagoon's option, of any component determined to be defective in materials or workmanship and covered under this warranty. Repairs or replacements are performed by olagoon or its designated authorized service facility. Components repaired or replaced are warranted only for the unexpired portion of the original warranty period.</p>
 
-  <h2>Garantibetingelser</h2>
+  <h2>Conditions of Warranty</h2>
   <ul>
-    <li><strong>Registrering:</strong> Produktet skal være korrekt registreret som krævet i garantiens vilkår.</li>
-    <li><strong>Vedligeholdelse:</strong> Produktet skal vedligeholdes i overensstemmelse med olagoons offentliggjorte retningslinjer, herunder regelmæssig inspektion og vedligeholdelse af passende oppumpningstryk.</li>
-    <li><strong>Samarbejde:</strong> Køberen skal fuldt og hurtigt samarbejde med olagoon i alle forhold vedrørende garantikrav.</li>
-    <li><strong>Oprindelig køber:</strong> Denne garanti gives udelukkende til den oprindelige slutbrugerkøber og kan ikke overdrages.</li>
+    <li><strong>Registration:</strong> The product must be properly registered as mandated in the warranty terms.</li>
+    <li><strong>Maintenance:</strong> The product must be maintained in accordance with olagoon's published guidelines, including periodic inspection and maintenance of appropriate inflation pressures.</li>
+    <li><strong>Cooperation:</strong> The purchaser must fully and promptly cooperate with olagoon in all matters pertaining to warranty claims.</li>
+    <li><strong>Original Purchaser:</strong> This warranty is extended exclusively to the original end-user purchaser and is not transferable.</li>
   </ul>
 
-  <h2>Kommerciel brug</h2>
-  <p>Hvis produktet bruges til kommercielt, statsligt, nonprofit-, charter-, leje-, undervisningsmæssigt eller ethvert andet formål end privat fritidsbrug, reduceres garantiperioden for alle komponenter til ét (1) år fra den oprindelige dato for detailkøbet. Brug i væddeløb, hastigheds- eller udholdenhedskonkurrencer gør straks og uigenkaldeligt hele garantien ugyldig.</p>
+  <h2>Commercial Use</h2>
+  <p>If the product is used for commercial, governmental, non-profit, charter, rental, instructional, or any purpose other than private recreational use, the warranty period for all components is reduced to one (1) year from the original date of retail purchase. Use in racing, speed or endurance competition immediately and irrevocably voids the warranty entirely.</p>
 
-  <h2>Sådan gør du et garantikrav</h2>
-  <p>Kontakt olagoon eller din autoriserede forhandler med købsbevis og en detaljeret beskrivelse af problemet. olagoon vil gennemgå kravet og give instruktioner om inspektion og service.</p>
-  <p>For garantiservicehenvendelser kan du kontakte os via vores <a href="/contact/" class="text-sky-600 underline">kontaktside</a> med dit ordrenummer og produktoplysninger.</p>
+  <h2>How to Make a Warranty Claim</h2>
+  <p>Contact olagoon or your authorized dealer with proof of purchase and a detailed description of the issue. olagoon will review the claim and provide instructions for inspection and service.</p>
+  <p>For warranty service inquiries, please contact us through our <a href="/contact/" class="text-sky-600 underline">contact page</a> with your order number and product details.</p>
 
-  <h2>Tredjepartsgenstande</h2>
-  <p>Udstyr, komponenter eller systemer fremstillet af tredjeparter (selvom de er installeret af olagoon) er udelukkende dækket af enhver garanti, som deres respektive producent tilbyder. olagoon fraskriver sig udtrykkeligt ethvert garantiansvar for sådanne tredjepartsgenstande.</p>
+  <h2>Third-Party Items</h2>
+  <p>Equipment, components, or systems manufactured by third parties (even if installed by olagoon) are covered exclusively by any warranty offered by their respective manufacturer. olagoon expressly disclaims any warranty responsibility for such third-party items.</p>
 
   <p class="text-sm text-gray-500 mt-8 border-t border-gray-200 dark:border-gray-800 pt-6">
-    Denne garantierklæring er et resumé af den fulde olagoon Producentens begrænsede garanti. Det fulde juridiske garantidokument styrer alle garantibetingelser og -vilkår. Specifikationer kan ændres uden varsel. olagoon er et mærke fra Qingdao Vatrad Group.
+    This warranty statement is a summary of the complete olagoon Manufacturer's Limited Warranty. The full legal warranty document governs all warranty terms and conditions. Specifications subject to change without notice. olagoon is a brand operated by Olagoon LLC.
   </p>

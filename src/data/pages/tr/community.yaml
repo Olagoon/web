@@ -1,86 +1,91 @@
 meta:
-  title: 'Topluluk — SUP maceraları ve kürek sporu | {SITE}'
-  description: 'olagoon topluluğu: paddle kulüpleri, SUP etkinlikleri, deniz maceraları ve şişme stand up paddle tahtaları tutkunlarının hikayeleri.'
+  title: 'Community — Pool Owners & Family Stories | {SITE}'
+  description: 'The OLagoon community: pool owners, family fun, backyard transformations, and stories from inflatable pool enthusiasts.'
   keywords:
-    - 'paddle topluluğu'
-    - 'SUP kulübü'
-    - 'paddle etkinlikleri'
-    - 'SUP maceraları'
+    - 'pool owner community'
+    - 'backyard pool club'
+    - 'pool meetups'
+    - 'backyard pool adventures'
 hero:
-  tagline: Topluluk
-  title: olagoon Topluluğu
+  tagline: 'Community'
+  title: 'The OLagoon Community'
   subtitle: |
-    Gerçek insanlar, gerçek su, gerçek maceralar. Hafta sonu kürekçilerinden<br />
-    profesyonel operatörlere — topluluğumuzun dünyayı su üzerinde nasıl keşfettiğini keşfedin.
-  image: https://assets.olagoon.com/images/olagoon/team/olagoon-paddle-girls-team.webp
-  imageAlt: sakin sularda kürek çeken uzaktaki topluluk
+    Real people, real backyards, real summers. From first-time owners to<br />
+    hospitality operators — discover how our community makes the most of their pools.
+  image: 'https://assets.olagoon.com/images/olagoon/team/olagoon-helen-contact-sales.webp'
+  imageAlt: 'OLagoon community enjoying a backyard pool'
+
 stats:
-  title: Topluluk rakamlarla
+  title: 'Community by the numbers'
   stats:
-    - title: 40+
-      description: olagoon müşterisi olan ülkeler
-    - title: 12+
-      description: Yıllık topluluk maceraları
-    - title: 10.000+
-      description: Dünya çapında mutlu kürekçi
-    - title: '%98'
-      description: olagoon'ı tavsiye eder
+    - title: '50+'
+      description: 'Countries with OLagoon customers'
+    - title: '12+'
+      description: 'Years of backyard fun'
+    - title: '10,000+'
+      description: 'Happy families worldwide'
+    - title: '98%'
+      description: 'Would recommend OLagoon'
+
 stories:
-  tagline: Kaşif Hikayeleri
-  title: Gerçek insanlardan gerçek maceralar
-  subtitle: Suda olagoon ekipmanı kullanan kürekçilerden, ailelerden ve profesyonellerden dinleyin.
+  tagline: 'Owner Stories'
+  title: 'Real backyards from real people'
+  subtitle: 'Hear from families, swimmers, and operators who use OLagoon pools every summer.'
   items:
-    - name: Sarah & Mike
-      title: SUP Explorer 11 sahipleri, Kanada
-      content: Explorer 11'lerimizi Algonquin Park'ta bir haftalık bir geziye çıkardık. Portajları ve göl geçişlerini harika bir şekilde idare ettiler. Drop-stitch yapısı, 15 PSI'a kadar şişirebilmemizi ve paketlenebilir bir boarddan sert board performansı almamızı sağladı.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
-      location: Algonquin Parkı, Kanada
-    - name: Carlos R.
-      title: Cheetah Surge sürücüsü, İspanya
-      content: Cheetah Surge, kıyı gezintileri için vazgeçilmezim. Canlı tasarımı sahilde dikkat çekiyor ve stabilitesi hafif dalgalarda bana güven veriyor. İster tur yapıyor olayım ister gün batımının tadını çıkarıyor olayım, harika bir şekilde yol alıyor.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
-      location: Costa Brava, İspanya
-    - name: Lina & ailesi
-      title: Flowing Lotus kürekçileri, İsveç
-      content: Takımadalarda hafta sonu aile maceraları. Flowing Lotus, ben kürek çekerken kızımın üzerinde durması için yeterince stabil. 10 dakikadan kısa sürede şişiyor — römork gerekmez, sadece suda saf aile eğlencesi.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-flowing-lotus-1-1200w.webp
-      location: Stockholm Takımadaları, İsveç
-    - name: Binbaşı Andres
-      title: Ocean Voyager kaşifi, Filipinler
-      content: Ocean Voyager'ımı Palawan çevresinde uzun mesafeli kıyı turları için kullanıyorum. Tropikal koşullarda aylık günlük kullanımdan sonra board hala yeni gibi performans gösteriyor. Turing şekli, daha düşük boardları durduracak dalgaları kesiyor.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      location: Palawan, Filipinler
-    - name: Emma T.
-      title: Tropical Breeze ilk kez kullanan, Avustralya
-      content: Daha önce hiç SUP'e binmemiştim. Tropical Breeze o kadar stabil ki ilk denememde kendime güvendim. Artık her hafta sonu kürek çekiyorum. Öğrenme eğrisi neredeyse sıfır — ve board suda harika görünüyor.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp
-      location: Gold Coast, Avustralya
+    - name: 'Sarah & Mike'
+      title: 'Family Oasis owners, Canada'
+      content: 'We set up our Family Oasis at the lake cabin for a week. The kids swam every single day. The drop-stitch construction meant the 20 cm walls stayed rock-solid at full fill — a real pool experience from a box that fits in the trunk.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/family-oasis.webp'
+      location: 'Algonquin Park, Canada'
+    - name: 'Carlos R.'
+      title: 'Family Oasis owner, Spain'
+      content: 'The Family Oasis is our go-to for hot summers. The integrated seating is perfect for relaxing while the kids play, and the included sand-filter pump keeps the water crystal clear with barely any maintenance.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/family-oasis.webp'
+      location: 'Costa Brava, Spain'
+    - name: 'Lina & family'
+      title: 'Compact Plunge owners, Sweden'
+      content: 'Weekend fun in our small garden. The Compact Plunge fits our terrace perfectly and still fits the whole family for a cool-down. Sets up in about 30 minutes — no construction needed, just pure family fun all summer.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/compact-plunge.webp'
+      location: 'Stockholm, Sweden'
+    - name: 'Marco & Ana'
+      title: 'Grand Lagoon owners, Philippines'
+      content: 'We use our Grand Lagoon for daily swimming and weekend gatherings. After months of daily use in tropical conditions, the pool still performs like new. The 5 m length is enough for real laps — that would be impossible with lesser pools.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+      location: 'Palawan, Philippines'
+    - name: 'Emma T.'
+      title: 'Compact Plunge owner, Australia'
+      content: 'I had never owned a pool before. The Compact Plunge is so easy to set up that I felt confident on my first try. Now I soak every evening after work. The learning curve is basically zero — and the pool looks amazing on the deck.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/compact-plunge.webp'
+      location: 'Gold Coast, Australia'
+
 adventures_cta:
-  tagline: Macaranızı Paylaşın
-  title: Hikayeniz burada olabilir
-  subtitle: "Instagram'da @olagoon_watersports etiketleyin veya #olagoonAdventure kullanarak öne çıkma şansı yakalayın."
-  instagram: Instagram'da Takip Edin
-  youtube: YouTube'da Abone Olun
-  facebook: Facebook'a Katılın
+  tagline: 'Share Your Backyard'
+  title: 'Your story could be here'
+  subtitle: 'Follow OLagoon on Facebook or YouTube and tag your setup with #MyOlagoon for a chance to be featured.'
+  instagram: 'Join on Facebook'
+  youtube: 'Subscribe on YouTube'
+  facebook: 'Join on Facebook'
+
 locations:
-  tagline: Küresel Topluluk
-  title: olagoon'ın Seyahat Ettiği Yerler
-  subtitle: Avrupa göllerinden Güneydoğu Asya kıyılarına — topluluğumuz her yerde kürek çekiyor.
+  tagline: 'Global Community'
+  title: 'Where OLagoon lives'
+  subtitle: 'Follow OLagoon on Facebook or YouTube and tag your setup with #MyOlagoon for a chance to be featured.'
   regions:
-    - title: Avrupa
-      description: Como Gölü · Stockholm Takımadaları · Costa Brava · Hırvatistan Kıyısı · İskoç Gölleri
-    - title: Asya Pasifik
-      description: Palawan · Gold Coast · Ha Long Körfezi · Yamanaka Gölü · Bali Sahili
-    - title: Amerika
-      description: Algonquin Parkı · Büyük Göller · Florida Keys · Tahoe Gölü · Patagonya
-    - title: Orta Doğu ve Afrika
-      description: Kızıldeniz Sahili · Victoria Gölü · Cape Yarımadası · Taberiye Gölü
+    - title: 'Europe'
+      description: 'Stockholm · Lisbon · Costa Brava · Lake Como · Scottish Highlands'
+    - title: 'Asia Pacific'
+      description: 'Palawan · Gold Coast · Bali · Auckland · Okinawa'
+    - title: 'Americas'
+      description: 'Austin · Toronto · Florida Keys · Lake Tahoe · New Mexico'
+    - title: 'Middle East & Africa'
+      description: 'Dubai · Cape Town · Nairobi · Red Sea Coast · Amman'
+
 cta:
-  title: Topluluğa katılmaya hazır mısınız?
-  subtitle: Her olagoon ürünü CE sertifikalıdır, garanti kapsamındadır ve gerçek maceralar için tasarlanmıştır. Bugün kendinizinkini bulun.
+  title: 'Ready to join the community?'
+  subtitle: 'Every OLagoon pool is CE certified, backed by a 2-year warranty, and designed for real families. Find yours today.'
   actions:
     - variant: primary
-      text: Ürünleri keşfedin
-      href: /products/
-    - text: Hikayenizi paylaşın
-      href: /contact/
+      text: 'Explore products'
+      href: '/products/'
+    - text: 'Share your story'
+      href: '/contact/'

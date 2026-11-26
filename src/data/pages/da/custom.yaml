@@ -1,85 +1,89 @@
 meta:
-  title: 'Custom Lab — Tilpassede oppustelige paddle boards | {SITE}'
-  description: 'Tilpassede oppustelige paddle boards: skræddersyet design, logo, egen form og produktion. Private-label-SUP-partner, MOQ 50 enheder, CE-certificeret.'
+  title: 'Custom Lab — Custom Inflatable Pool | {SITE}'
+  description: 'Custom inflatable pool: bespoke design, logo, custom mold, and production. Private-label pool partner, MOQ 50 units, CE certified.'
   keywords:
-    - 'tilpasset paddle board producent'
-    - 'tilpasset oppustelig SUP'
-    - 'paddle board med logo'
-    - 'private label oppustelig SUP'
-    - 'paddle board produktion'
+    - 'custom inflatable pool manufacturer'
+    - 'custom inflatable pools'
+    - 'inflatable pool with logo'
+    - 'private label inflatable pools'
+    - 'inflatable pool manufacturing'
 hero:
   tagline: olagoon Custom Lab
-  title: Design dit eget<br />SUP-board
-  subtitle: Co-brand, private label og skræddersyet paddle board-produktion for virksomheder verden over. Fra en enkelt prototype til fulde produktionsserier.
-  cta: Start dit projekt
+  title: Design Your Own<br />pools
+  subtitle: Custom pool partner offering co-brand, private label, and bespoke inflatable pool production for businesses worldwide. From a single prototype to full production runs.
+  cta: Start your project
   footer_link: /contact/
+
 steps_section:
-  tagline: Sådan fungerer det
-  title: Fra koncept til produktion
-  subtitle: Fire trin fra din idé til et færdigt, søklart produkt.
+  tagline: How it works
+  title: From concept to production
+  subtitle: Four steps from your idea to a finished, sea-ready product.
   steps:
     - num: '01'
-      title: Vælg dit bræt
-      desc: Vælg blandt vores kernemodeller af SUP — all-around, touring, yoga, sport eller børn. Vælg størrelse, materiale og farve.
+      title: Choose Your Pool
+      desc: Select from our core pool models — all-around, touring, yoga, sport, or kids. Pick size, material, and colour.
     - num: '02'
-      title: Upload dit design
-      desc: Send os dit logo, din grafik eller dine brandretningslinjer. Vores designteam forbereder et digitalt prøveudkast.
+      title: Upload Your Design
+      desc: Send us your logo, artwork, or brand guidelines. Our design team prepares a digital proof.
     - num: '03'
-      title: AI-mockup-gennemgang
-      desc: Se en fotorealistisk AI-genereret mockup af dit tilpassede board, før produktionen går i gang.
+      title: AI Mockup Review
+      desc: View a photorealistic AI-generated mockup of your custom pool before production begins.
     - num: '04'
-      title: Produktion & levering
-      desc: Når ordren er godkendt, går den ind i vores produktionslinje. Leveringstid fra 30 dage.
+      title: Production & Delivery
+      desc: Once approved, your order enters our production line. Lead times from 30 days.
+
 services_section:
-  tagline: Serviceydelser
-  title: Fremstillingsservices for globale brands
-  subtitle: Fleksible samarbejdsmodeller — fra kontraktproduktion til fuldservice-opbygning af dit brand.
+  tagline: Services
+  title: Manufacturing services for global brands
+  subtitle: Flexible engagement models — from contract manufacturing to full-service brand building.
   items:
-    - title: Co-brand-fremstilling
-      desc: Vi producerer dine designs præcist efter specifikation — din IP, dine tegninger, dine kvalitetsstandarder. Fuld NDA-beskyttelse.
+    - title: Co-Brand Production
+      desc: We produce your designs to spec — your IP, your drawings, your quality standards. Full NDA protection.
       icon: ⚙️
-    - title: Designløsninger
-      desc: Vælg blandt over 50 gennemprøvede platforme, og tilpas størrelse, farve, grafik og emballage.
-      icon: 🎨
-    - title: Private label
-      desc: Dit brand på vores produkter — logo, emballage, hængemærker, manualer. Detailklar lige ud af kassen.
-      icon: 🎨
-    - title: Skræddersyet branding
-      desc: Tryk på dæksmåtte, grafiske design på skrog, dekaler på kammertube og specialfremstillede labels — fuld brandintegration.
+    - title: Design Solutions
+      desc: Choose from 50+ proven platforms and customise size, colour, graphics, and packaging.
+      icon: '🎨'
+    - title: Private Label
+      desc: Your brand on our products — logo, packaging, hang tags, manuals. Retail-ready out of the box.
+      icon: '🎨'
+    - title: Custom Branding
+      desc: Deck pad printing, hull graphics, tube decals, and custom labels — full brand integration.
       icon: ⚙️
+
 capabilities_section:
-  tagline: Kapaciteter
-  title: Produktions- og tilpasningsmuligheder
-  subtitle: Alt, hvad du skal vide, inden du afgiver din ordre.
+  tagline: Capabilities
+  title: Production & customisation capabilities
+  subtitle: Everything you need to know before placing your order.
   capabilities:
-    - label: Ordrevolumen
-      value: MOQ 50 enheder (SUP)
-    - label: Leveringstid
-      value: 30–45 dage standard; 15–20 dage for prototyper
-    - label: Tilpasning
-      value: Størrelse, form, farve, grafik, emballage, hardware
-    - label: Materialer
+    - label: Order volume
+      value: MOQ 50 units (pool)
+    - label: Lead time
+      value: 12–16 weeks standard (50–100 units); 15–20 days for prototypes
+    - label: Customisation
+      value: Size, shape, colour, graphics, packaging, hardware
+    - label: Materials
       value: PVC, drop-stitch, EVA, aluminium
-    - label: Tryk
-      value: Digital (CMYK), serigrafi, varmeoverførsel, sublimering
-    - label: Certificering
-      value: CE, UKCA, FCC (støtte til global overholdelse)
+    - label: Printing
+      value: Digital (CMYK), screen printing, heat transfer, sublimation
+    - label: Certification
+      value: CE, UKCA, FCC (support for global compliance)
+
 why_section:
-  tagline: Hvorfor olagoon
-  title: Én fabrik. Én standard. Nul kompromiser.
+  tagline: Why olagoon
+  title: One factory. One standard. Zero compromises.
   points:
-    - text: 12.000 kvm integreret produktionsfacilitet
-      highlight: 12.000 kvm
-    - text: 200+ kvalificerede medarbejdere og ingeniører
+    - text: 12,000 m² integrated manufacturing facility
+      highlight: 12,000 m²
+    - text: 200+ skilled workers and engineers
       highlight: 200+
-    - text: 15.000+ SUP-brædder produceres årligt
-      highlight: 15.000+
-    - text: ISO 9001-certificeret kvalitetsstyring
+    - text: 15,000+ pools produced annually
+      highlight: 15,000+
+    - text: ISO 9001-certified quality management
       highlight: ISO 9001
-    - text: CE-certificerede produkter til EU-markedet
+    - text: CE certified products for EU market
       highlight: CE
-  cta: Se fabriksdetaljer
+  cta: View factory details
   cta_link: /factory/
   contact:
-    title: Klar til at drøfte dit projekt?
-    desc: Vores team svarer inden for 24 timer med et foreløbigt tilbud.
+    title: Ready to discuss your project?
+    desc: Our team responds within 24 hours with a preliminary quote.

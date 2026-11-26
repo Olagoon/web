@@ -1,86 +1,86 @@
 meta:
-  title: 'Pasaulinis buvimas — SUP lentų gamintojas, aptarnaujantis 50+ šalių | {SITE}'
-  description: 'olagoon eksportuoja pripučiamas SUP lentas į 50+ šalių kiekviename žemyne. Profesionalus gamintojas ir tiekėjas prekės ženklams, platintojams ir flotilėms.'
+  title: 'Global Presence — pool Manufacturer Serving 50+ Countries | {SITE}'
+  description: 'olagoon exports inflatable pools to 50+ countries across every continent. Professional manufacturer and supplier for brands, distributors, and fleets.'
   keywords:
-    - 'pasaulinis sup gamintojas'
-    - 'irklavimo lentų eksportuotojas'
-    - 'sup gamykla kinijoje'
-    - 'profesionalus sup tiekėjas'
+    - 'global pool manufacturer'
+    - 'inflatable pool exporter'
+    - 'pool factory china'
+    - 'professional pool supplier'
 hero:
-  tagline: 'Pasaulinis buvimas'
-  title: 'Aptarnaujame 50+ šalių<br />kiekviename žemyne'
-  subtitle: 'Nuo Europos pakrančių patrulių operatorių iki Australijos vandens sporto platintojų ir Artimųjų Rytų gelbėjimo komandų — olagoon lentos yra vandenyje visame pasaulyje.'
+  tagline: Global Presence
+  title: 'Serving 50+ Countries<br />Across Every Continent'
+  subtitle: 'From European resort operators to Australian outdoor retailers to Middle East hospitality groups — OLagoon pools are in backyards worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'olagoon pasaulinė jūrinė gamyba ir platinimas'
+    alt: olagoon global marine manufacturing and distribution
 stats:
-  title: 'Pasaulinis pasiekiamumas'
+  title: Global Reach
   stats:
-    - title: 'Šalys'
+    - title: Countries
       amount: '50+'
-    - title: 'Eksporto rinkos'
-      amount: 'Europa, Amerika, Azija, Artimieji Rytai, Okeanija'
-    - title: 'Gamyba'
-      amount: 'Cindao, Kinija'
-    - title: 'JAV sandėlis'
-      amount: 'Montclair, CA'
+    - title: Export Markets
+      amount: Europe, Americas, Asia, Middle East, Oceania
+    - title: Production
+      amount: Qingdao, China
+    - title: US Warehouse
+      amount: Montclair, CA
 features3_markets:
-  tagline: 'Pagrindinės rinkos'
-  title: 'Regioninė kompetencija<br />vietiniams reikalavimams'
-  subtitle: 'Suprantame, kad skirtingos rinkos turi skirtingus reguliavimo reikalavimus, pageidavimus ir naudojimo atvejus.'
+  tagline: Key Markets
+  title: 'Regional Expertise<br />for Local Requirements'
+  subtitle: 'We understand that different markets have different regulatory requirements, preferences, and use cases.'
   isBeforeContent: false
   columns: 4
   items:
-    - title: 'Europa ir JK'
-      description: 'CE sertifikuoti produktai. Stipri SUP lentų paklausa ES rinkose. JK platintojai vertina mūsų greitą įvykdymą.'
+    - title: Europe & UK
+      description: 'CE-certified products. Strong demand for pools across EU markets. UK distributors appreciate our quick turnaround.'
       icon: tabler:map-pin
-    - title: 'Šiaurės Amerika'
-      description: 'JAV pakrantų apsaugos patvirtinta gamyba. JAV sandėlis Montclair mieste, Kalifornijoje, greitam pristatymui į Vakarų pakrantę. Auganti žvejybos, gelbėjimo ir poilsio SUP lentų paklausa.'
+    - title: North America
+      description: 'US Coast Guard approved manufacturing. US warehouse in Montclair, CA for fast West Coast delivery. Growing demand for fishing, rescue, and recreational pools.'
       icon: tabler:map-pin
-    - title: 'Australija ir Okeanija'
-      description: 'Stipri SUP lentų ir vandens sporto priedų rinka. Australijos platintojai vertina mūsų UV atsparią PVC konstrukciją sudėtingomis saulės sąlygomis. Greitas siuntimas iš mūsų Azijos objekto.'
+    - title: Australia & Oceania
+      description: 'Strong market for pools and water sports accessories. Australian distributors value our UV-resistant PVC construction in harsh sun conditions. Quick shipping from our Asia facility.'
       icon: tabler:map-pin
-    - title: 'Artimieji Rytai'
-      description: 'Auganti vandens nuotykių įrangos paklausa. Mūsų komercinės klasės SUP lentos ir saugos įranga populiarios tarp turizmo operatorių ir nuomos centrų. Individualios konfigūracijos aukštos temperatūros aplinkai.'
+    - title: Middle East
+      description: 'Growing demand for water adventure equipment. Our commercial-grade pools and safety gear are popular with tour operators and rental centers. Custom configurations for high-temperature environments.'
       icon: tabler:map-pin
 features3_distribution:
-  tagline: 'Platinimo tinklas'
-  title: 'Bendradarbiavimas su platintojais<br />visame pasaulyje'
-  subtitle: 'Mes dirbame su įsitvirtinusiais jūrinės įrangos platintojais, vandens sporto prekės ženklais ir vyriausybinės apsipirkimo agentūromis.'
+  tagline: Distribution Network
+  title: 'Partnering with Distributors<br />Worldwide'
+  subtitle: 'We work with established marine equipment distributors, water sports brands, and government procurement agencies.'
   isBeforeContent: false
   columns: 3
   items:
-    - title: 'Bendro prekės ženklo programos'
-      description: 'Privataus ženklo gamyba pasauliniams vandens sporto prekės ženklams. Mes tvarkome viską — nuo dizaino iki gamybos ir tiesioginio siuntimo.'
+    - title: Co-Brand Programs
+      description: 'Private label manufacturing for global water sports brands. We handle everything from design to production to drop-shipping.'
       icon: tabler:building
-    - title: 'Platintojų tinklas'
-      description: 'Įgalioti platintojai daugiau nei 20 šalių laiko atsargas ir teikia vietinį palaikymą. Naujos platintojų užklausos laukiamos.'
+    - title: Distributor Network
+      description: 'Authorized distributors in 20+ countries carry stock and provide local support. New distributor inquiries welcome.'
       icon: tabler:users
-    - title: 'Vyriausybinė ir institucinė'
-      description: 'Tiesioginis tiekimas pakrantų apsaugai, paieškos ir gelbėjimo organizacijoms bei karinėms apsipirkimo programoms. Atitiktis institucinės apsipirkimo reikalavimams.'
+    - title: Government & Institutional
+      description: 'Direct supply to coast guards, search and rescue organizations, and military procurement programs. Compliance with institutional procurement requirements.'
       icon: tabler:building-community
 steps2_logistics:
-  title: 'Pasaulinė logistika ir palaikymas'
-  subtitle: 'Nuo gamyklos iki paskirties vietos — valdome visą tiekimo grandinę.'
+  title: 'Global Logistics & Support'
+  subtitle: 'From factory to destination — we manage the entire supply chain.'
   items:
-    - title: 'Siuntimo parinktys'
-      description: 'Jūrų kroviniai (FOB Cindao), oro kroviniai skubiems užsakymams ir greitojo kurjerio paslaugos pavyzdžiams ir atsarginėms dalims.'
+    - title: Shipping Options
+      description: 'Sea freight (FOB Qingdao), air freight for urgent orders, and express courier for samples and spare parts.'
       icon: tabler:truck-delivery
-    - title: 'JAV sandėlis'
-      description: 'Atsargos laikomos Montclair mieste, Kalifornijoje, greitam pristatymui visoje Šiaurės Amerikoje. Vakarų pakrantė: 2-3 dienos, centrinė dalis: 3-4 dienos, Rytų pakrantė: 4-5 dienos.'
+    - title: US Warehouse
+      description: 'Stock held in Montclair, CA for fast delivery across North America. West Coast: 2-3 days, Central: 3-4 days, East Coast: 4-5 days.'
       icon: tabler:building-warehouse
-    - title: 'Atsarginės dalys'
-      description: 'Originalios olagoon atsarginės dalys ir eksploatacinės medžiagos laikomos ištisus metus. Dažniausios dalys siunčiamos per 24 valandas.'
+    - title: Spare Parts
+      description: 'Genuine olagoon spare parts and consumables stocked year-round. Common parts ship within 24 hours.'
       icon: tabler:package
-    - title: 'Techninis palaikymas'
-      description: 'Tiesioginė linija į mūsų inžinerijos komandą techniniams klausimams, remonto patarimams ir atsarginių dalių palaikymui. Mes remiame lentas, kurias pagaminome prieš 20 metų.'
+    - title: Technical Support
+      description: 'Direct line to our engineering team for technical questions, repair advice, and replacement-part support. We support every pool generation we have built.'
       icon: tabler:headset
 cta:
-  title: 'Norite tapti platintoju?'
-  subtitle: 'Aktyviai plečiame savo platinimo tinklą. Susisiekite su mūsų eksporto komanda aptarti partnerystės galimybių.'
+  title: 'Want to become a distributor?'
+  subtitle: 'We are actively expanding our distribution network. Contact our export team to discuss partnership opportunities.'
   actions:
     - variant: primary
-      text: 'Partnerystės užklausa'
+      text: Partnership inquiry
       href: /contact/
-    - text: 'Peržiūrėti mūsų produktų asortimentą'
+    - text: View our product range
       href: /products/

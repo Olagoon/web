@@ -1,64 +1,64 @@
 meta:
-  title: 'מרכז המדיה — עיתונות ומשאבי olagoon | {SITE}'
-  description: 'מרכז המדיה של olagoon: הודעות לעיתונות, נכסי מותג ומשאבים מחברתנו לייצור SUP מתנפח.'
+  title: 'Media Center — Press & olagoon Resources | {SITE}'
+  description: 'The olagoon media center: press releases, brand assets, and resources from our inflatable pools manufacturing company.'
   keywords:
-    - 'עיתונות olagoon'
-    - 'מדיה יצרן SUP'
-    - 'ערכת עיתונות ללוח חתירה'
-    - 'חדשות חברה ימית'
+    - 'olagoon press'
+    - 'pool manufacturer media'
+    - 'inflatable pool press kit'
+    - 'nautical company news'
 hero:
-  tagline: 'משאבים'
-  title: 'מרכז המדיה'
-  subtitle: 'הורידו נכסי מותג, תמונות מוצר, קטלוגים וסרטונים'
+  tagline: Resources
+  title: Media Center
+  subtitle: Download brand assets, product imagery, catalogs, and videos
 
 sections:
   - id: product-images
-    title: 'תמונות מוצר'
-    desc: 'צילומי מוצר ברזולוציה גבוהה לשימוש באינטרנט, בדפוס ובקמעונאות.'
+    title: Product Images
+    desc: High-resolution product photos for web, print, and retail use.
     items:
-      - 'גלריית לוחות SUP'
-      - 'גלריית SUP מסוג Drop-Stitch'
-      - 'גלריית SUP מתנפחים'
-      - 'אביזרים וציוד בטיחות'
+      - pools Gallery
+      - Drop-Stitch pools Gallery
+      - inflatable pools Gallery
+      - Accessories & Safety Gear
   - id: logo-brand-kit
-    title: 'לוגו וערכת מותג'
-    desc: 'קבצי הלוגו הרשמיים של olagoon, לוח צבעים, טיפוגרפיה והנחיות מותג.'
+    title: Logo & Brand Kit
+    desc: Official olagoon logo files, colour palette, typography, and brand guidelines.
     items:
-      - 'לוגו ראשי (PNG/SVG/EPS)'
-      - 'סמל אייקון'
-      - 'לוח צבעים'
-      - 'מפרט טיפוגרפיה'
-      - 'הנחיות מותג PDF'
+      - Primary Logo (PNG/SVG/EPS)
+      - Icon Mark
+      - Colour Palette
+      - Typography Specs
+      - Brand Guidelines PDF
   - id: catalogs
-    title: 'קטלוגים ב-PDF'
-    desc: 'קטלוגי מוצרים, גיליונות מפרט ותיעוד טכני להורדה.'
+    title: PDF Catalogs
+    desc: Product catalogs, spec sheets, and technical documentation for download.
     items:
-      - 'קטלוג מוצרים 2026'
-      - 'מצגת יכולות OEM/ODM'
-      - 'חוברת סדרת SUP'
-      - 'מפרטים טכניים'
+      - 2026 Product Catalog
+      - OEM/ODM Capability Deck
+      - pool Series Brochure
+      - Technical Specifications
   - id: videos
-    title: 'סרטונים'
-    desc: 'הדגמות מוצר, סיורים במפעל, סרטי מותג ועדויות לקוחות.'
+    title: Videos
+    desc: Product demos, factory tours, brand films, and customer testimonials.
     items:
-      - 'הדגמות מוצר'
-      - 'סיור במפעל'
-      - 'סרט מותג'
-      - 'סיפורי לקוחות'
-      - 'מדריכים'
+      - Product Demos
+      - Factory Tour
+      - Brand Film
+      - Customer Stories
+      - How-To Guides
 
-request_access: 'בקשו גישה ←'
+request_access: Request access →
 
 cta:
-  title: 'צריכים עזרה במציאת נכסים?'
-  desc: 'צרו קשר עם צוות המותג שלנו לבקשות נכסים מותאמים אישית, שותפויות מדיה או פניות עיתונות.'
+  title: Need help finding assets?
+  desc: Contact our brand team for custom asset requests, media partnerships, or press inquiries.
   links:
-    - label: 'בקרו במפעל שלנו'
+    - label: Visit our factory
       href: /factory/
-      desc: 'ראו את מתקן הייצור שלנו בשטח 12,000 מ״ר'
-    - label: 'הנחיות מותג'
+      desc: See our 12,000 sqm manufacturing facility
+    - label: Brand guidelines
       href: /brand/
-      desc: 'למדו על המותג olagoon'
-    - label: 'הצטרפו אלינו כשותפים'
+      desc: Learn about the olagoon brand
+    - label: Partner with us
       href: /contact/
-      desc: 'פניות בנושא OEM, ODM והפצה'
+      desc: OEM, ODM, and distribution inquiries

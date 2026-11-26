@@ -1,105 +1,105 @@
 meta:
-  title: 'Kopīgs zīmols ar OLagoon — ierobežotas kopīga zīmola SUP kolekcijas | {SITE}'
-  description: 'OLagoon veido ierobežotas kopīga zīmola piepūšamo SUP dēļu kolekcijas ar kvalificētiem klubiem, kūrortiem, pasākumiem, kopienām un valstu partneriem. Kopīga zīmola produkti paliek OLagoon produkti — tos izstrādā, konstruē un atbalsta OLagoon zīmols.'
+  title: 'Co-Brand With OLagoon — Limited Co-Branded pool Collections | {SITE}'
+  description: 'OLagoon creates limited co-branded inflatable pools collections with qualified clubs, resorts, events, communities, and country partners. Co-branded products remain OLagoon products — designed, engineered, and backed by the OLagoon brand.'
   keywords:
-    - 'kopīga zīmola piepūšamais SUP'
-    - 'SUP kopīga zīmola kolekcija'
-    - 'airu dēļu partnerība'
-    - 'SUP klubiem un kūrortiem'
-    - 'ūdens sporta zīmolu sadarbība'
-    - 'OLagoon kopīgs zīmols'
+    - 'co-brand inflatable pools'
+    - 'pool co-branded collection'
+    - 'inflatable pool partnership'
+    - 'pool for clubs and resorts'
+    - 'water sports brand collaboration'
+    - 'OLagoon co-branding'
 hero:
-  tagline: 'Kopīgs zīmols ar OLagoon'
-  title: 'Izveidojiet<br />kopīga zīmola kolekciju'
-  subtitle: 'OLagoon ir globāls piepūšamo ūdens sporta zīmols, kas veido ekskluzīvas valstu partnerības un ierobežotas kopīga zīmola kolekcijas ar kvalificētiem ūdens sporta uzņēmumiem. Kopīga zīmola produkti paliek OLagoon produkti — izstrādāti, konstruēti, kvalitātes pārbaudīti un atbalstīti ar OLagoon zīmolu.'
+  tagline: 'Co-Brand With OLagoon'
+  title: 'Create a<br />Co-Branded Collection'
+  subtitle: 'OLagoon is a global inflatable water-sports brand building exclusive country partnerships and limited co-branded collections with qualified water-sports businesses. Co-branded products remain OLagoon products — designed, engineered, quality-checked, and backed by the OLagoon brand.'
   actions:
-    - text: 'Sākt kopīga zīmola projektu'
+    - text: 'Start a Co-Brand Project'
       href: /contact/?subject=Co-Brand Project
       variant: primary
-    - text: 'Pieprasīt kopīga zīmola paketi'
+    - text: 'Request the Co-Brand Pack'
       href: /contact/?subject=Co-Brand Pack
       variant: secondary
-    - text: 'Iepazīstieties ar valsts partnerību'
+    - text: 'Explore the Country Partnership'
       href: /distributor-program/
       variant: secondary
 stats:
   - value: '1'
-    label: 'Viena valsts / tirgus katram izplatītājam'
+    label: 'Country call / market for each distributor'
   - value: '50+'
-    label: 'Valstis, ko apkalpojam ar partneriem'
+    label: 'Countries served with partners'
   - value: '12–15'
-    label: 'PSI Drop-Stitch stingrība, kolekcijas standarts'
+    label: 'PSI drop-stitch rigidity, collection standard'
   - value: '100%'
-    label: 'Spiediena testēts katrs dēlis pirms nosūtīšanas'
+    label: 'Pressure-tested board by board before shipping'
 features:
-  title: 'Ko kopīgais zīmols nozīmē OLagoon'
-  subtitle: 'Kopīgais zīmols ir mūsu dizaina partnerības programma — balstīta uz OLagoon zīmolu, teritoriju aizsardzību un ierobežotām kolekcijām, nevis nezīmolu ražošanu.'
+  title: 'What Co-Branding Means at OLagoon'
+  subtitle: 'Co-branding is our design-partnership program — built around the OLagoon brand, territory protection, and limited collections, not unbranded production.'
   columns: 3
   items:
-    - title: 'OLagoon produkti paliek OLagoon produkti'
-      description: 'Kopīga zīmola kolekcija ir ierobežots OLagoon dēļu izdevums, kurā ieausta jūsu identitāte. Tas nekad nav bez zīmola, nekad trešās puses zīmols un nekad atvērta privātā zīmola programma.'
+    - title: 'OLagoon Products Stay OLagoon Products'
+      description: 'A co-branded collection is a limited edition of OLagoon boards with your identity woven in. It is never unbranded, never a third-party brand, and never an open private-label program.'
       icon: 'tabler:trademark'
-    - title: 'Izstrādāts kopā ar jums'
-      description: 'Jūsu krāsas, nosaukumi un stāsts veido kolekciju. Mūsu dizaina un inženierijas komanda nodrošina klājus, grafiku, iepakojumu un dokumentāciju no uzdevuma līdz piegādei.'
+    - title: 'Designed With You'
+      description: 'Your colors, naming, and story shape the collection. Our design and engineering team handles decks, graphics, packaging, and documentation from brief to delivery.'
       icon: 'tabler:pencil'
-    - title: 'Klubiem, kūrortiem, pasākumiem un kopienām'
-      description: 'Flotes kolekcijas airu klubiem un kūrortiem, pasākumu izdevumi sacensībām un kopienas sērijām — visi ar OLagoon kvalitāti un garantiju.'
+    - title: 'For Clubs, Resorts, Events & Communities'
+      description: 'Fleet collections for paddle clubs and resorts, event editions for races and community series — all carrying the OLagoon quality and warranty.'
       icon: 'tabler:users'
-    - title: 'Aizsargā valstu partnerus'
-      description: 'Kopīgais zīmols darbojas līdzās mūsu modelim «viena valsts — viens izplatītājs». Nacionālie partneri saglabā savu teritoriju; kopīga zīmola kolekcijas neatver durvis paralēliem zīmoliem to tirgū.'
+    - title: 'Protects Country Partners'
+      description: 'Co-branding runs alongside our one-country-one-distributor model. National partners keep their territory; co-brand collections do not open the door to parallel brands in their market.'
       icon: 'tabler:shield-check'
-    - title: 'Inženierijas un kvalitātes standarti'
-      description: 'Katras kolekcijas sūtījumi nāk no mūsu sertificētās piegāžu ķēdes ar CE un ISO 9001 dokumentāciju, spiediena testēšanu un tiem pašiem kvalitātes kontroles punktiem kā mūsu pamata klāstam.'
+    - title: 'Engineering & Quality Standards'
+      description: 'Every collection ships from our certified supply chain with CE and ISO 9001 documentation, pressure-testing, and the same QC checkpoints as our core range.'
       icon: 'tabler:certificate'
-    - title: 'Kļūst par zīmola aktīvu'
-      description: 'Ierobežota kopīga zīmola kolekcija veido jūsu pašu stāstu uz ūdens — pārdošanas peļņa, mediju saturs un iemesls airētājiem atgriezties sezonu pēc sezonas.'
+    - title: 'Becomes a Brand Asset'
+      description: 'A limited co-branded collection builds your own story on the water — sell-through margin, media content, and a reason for swimmers to come back season after season.'
       icon: 'tabler:star'
 table:
-  title: 'Kopīga zīmola kolekciju līmeņi'
-  subtitle: 'Tipiski kopīga zīmola kolekcijas nosacījumi. Cenas USD, FOB Cindao. Pielāgoti klāja dizaini pievieno 15–20 darba dienas izstrādei; jaunas veidnes tiek aprēķinātas katram projektam atsevišķi.'
-  caption: 'Visi kopīga zīmola produkti paliek OLagoon produkti un nes OLagoon zīmola identitāti. Projekta apjoms, ekskluzivitātes logs un galīgie nosacījumi tiek vienoti Kopīga zīmola projekta līgumā.'
+  title: 'Co-Brand Collection Tiers'
+  subtitle: 'Typical co-brand collection terms. Prices in USD, FOB Qingdao. Custom deck designs add 15–20 working days for development; new molds are quoted per project.'
+  caption: 'All co-branded products remain OLagoon products and carry the OLagoon brand identity. Project scope, exclusivity window, and final terms are agreed in the Co-Brand Project Agreement.'
   head:
-    - 'Kopīga zīmola līmenis'
-    - 'Minimālais pasūtījums (vienības)'
-    - 'Izgatavošanas laiks'
-    - 'Maksājums'
+    - Co-Brand Tier
+    - Minimum Order (units)
+    - Lead Time
+    - Payment
   rows:
-    - ['Pilotkolekcija', '30–50', '30–45 darba dienas', '30% avanss / 70% pirms nosūtīšanas']
-    - ['Standarta kopīga zīmola kolekcija', '50–100', '30–45 darba dienas', '30% avanss / 70% pirms nosūtīšanas']
-    - ['Liela / vairāku reģionu kolekcija', '100+', '45–60 darba dienas', '30% avanss / 70% pirms nosūtīšanas']
-    - ['Jauna veidne vai dziļa lokalizācija', '200+', '60–90 darba dienas', '30% avanss / 70% pirms nosūtīšanas']
+    - [Pilot Collection, 30–50, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Standard Co-Branded Collection, 50–100, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Large / Multi-Region Collection, 100+, 10–14 weeks, 30% deposit / 70% before shipment]
+    - [New Mold or Deep Localization, 200+, 12–16 weeks + 15–20 days tooling, 30% deposit / 70% before shipment]
 faqs:
-  title: 'Kopīgs zīmols — biežāk uzdotie jautājumi'
-  subtitle: 'Kā darbojas OLagoon kopīgais zīmols un kā tas atšķiras no OEM un privātā zīmola.'
+  title: 'Co-Brand — FAQ'
+  subtitle: 'How OLagoon co-branding works, and how it differs from OEM and private label.'
   items:
-    - title: 'Vai kopīgais zīmols ir tas pats, kas OEM vai privātais zīmols?'
-      description: 'Nē. OLagoon vairs neīsteno atvērtu OEM/privātā zīmola programmu. Kopīga zīmola produkti paliek OLagoon produkti — izstrādāti, konstruēti, kvalitātes pārbaudīti un atbalstīti ar OLagoon zīmolu. Jūsu identitāte parādās kā kopīgs zīmols, nevis kā nezīmola trešās puses produkts.'
-    - title: 'Kas var sākt kopīga zīmola projektu?'
-      description: 'Kvalificēti ūdens sporta uzņēmumi: esošie valstu partneri, airu klubi, kūrorti un viesnīcas, pasākumu organizatori un kopienas. Atsūtiet mums projekta aprakstu, un mēs apstiprinām piemērotību, pirms sākas dizaina darbs.'
-    - title: 'Vai kopīgais zīmols konfliktēs ar manu valsts izplatītāju?'
-      description: 'Nē. Modelis «viena valsts — viens izplatītājs» ir prioritārs. Kopīga zīmola kolekcijas tiek saskaņotas ar vietējo valsts partneri, ja tāds ir, tāpēc aizsargātā teritorijā neparādās neviens paralēls vai konkurējošs zīmols.'
-    - title: 'Kāds ir minimālais pasūtījums kopīga zīmola kolekcijai?'
-      description: 'Pilotkolekcijas sākas ar 30–50 vienībām. Standarta kolekcijas ir 50–100 vienības; lieli vai vairāku reģionu izdevumi ir 100+ vienības. Pielāgotas izstrādes termiņi tiek vienoti katram projektam atsevišķi.'
-    - title: 'Kas pieder OLagoon kvalitātei un kas partnera ieguldījumam?'
-      description: 'OLagoon pieder produkta dizains, inženierija, materiāli, konstrukcija, kvalitātes kontrole un garantija. Partneri sniedz kolekcijas konceptu, nosaukumus, krāsas, grafikas ierosinājumus un tirgus iešanas plānu. Tādējādi uz ūdens tiek uzturēts viens kvalitātes standarts.'
-    - title: 'Kā pieteikties?'
-      description: 'Aizpildiet kopīga zīmola pieprasījuma formu, norādot savu uzņēmumu, tirgu un kolekcijas ideju. Mēs izvērtējam atbilstību un 3 darba dienu laikā atbildam ar piedāvājumu un Kopīga zīmola projekta līgumu.'
+    - title: 'Is co-branding the same as OEM or private label?'
+      description: 'No. OLagoon no longer runs an open OEM/private-label program. Co-branded products remain OLagoon products — designed, engineered, quality-checked, and backed by the OLagoon brand. Your identity appears as a co-brand, not as an unbranded third-party product.'
+    - title: 'Who can start a co-brand project?'
+      description: 'Qualified water-sports businesses: existing country partners, paddle clubs, resorts and hotels, event organizers, and communities. Send us a project brief and we confirm applicability before design work begins.'
+    - title: 'Will co-branding conflict with my country distributor?'
+      description: 'No. The one-country-one-distributor model takes priority. Co-brand collections are coordinated with the local country partner where one exists, so no parallel or competing brand appears inside a protected territory.'
+    - title: 'What is the minimum order for a co-brand collection?'
+      description: 'Pilot collections start at 30–50 units. Standard collections are 50–100 units; large or multi-region editions are 100+ units. Custom development timelines are agreed per project.'
+    - title: 'What amounts to OLagoon quality versus partner input?'
+      description: 'OLagoon owns product design, engineering, materials, construction, QC, and warranty. Partners contribute collection concept, naming, colors, graphics input, and go-to-market. This keeps one quality standard on the water.'
+    - title: 'How do I apply?'
+      description: 'Complete the co-brand inquiry form with your business, market, and collection idea. We review fit, then respond within 3 business days with a proposal and the Co-Brand Project Agreement.'
 cta:
-  title: 'Izveidojiet ierobežotu kolekciju, ko ūdens atcerēsies.'
-  subtitle: 'Sāciet kopīga zīmola projektu ar OLagoon un pārvērtiet savu klubu, kūrortu vai kopienu par zīmolu uz ūdens — ar OLagoon inženierijas un garantijas atbalstu.'
+  title: 'Build a limited collection the water will remember.'
+  subtitle: 'Start a co-brand project with OLagoon and turn your club, resort, or community into a brand on the water — backed by OLagoon engineering and warranty.'
   actions:
-    - text: 'Sākt kopīga zīmola projektu'
+    - text: 'Start a Co-Brand Project'
       href: /contact/?subject=Co-Brand Project
       variant: primary
-    - text: 'Iepazīstieties ar valsts partnerību'
+    - text: 'Explore Country Partnership'
       href: /distributor-program/
       variant: secondary
 geo:
-  tagline: 'Ar ko mēs veidojam kopīgu zīmolu'
-  sentence: 'OLagoon veido kopīgu zīmolu ar stabiliem ūdens sporta uzņēmumiem — valstu partneriem, airu klubiem, kūrortiem un viesnīcām, pasākumu organizatoriem un airēšanas kopienām —, kuri vēlas atšķirīgu, ierobežotu kolekciju, balstītu uz uzticamu globālu zīmolu.'
+  tagline: 'Who We Co-Brand With'
+  sentence: 'OLagoon co-brands with established water-sports businesses — country partners, paddle clubs, resorts and hotels, event organizers, and swimming communities — that want a distinctive, limited collection built on a reliable global brand.'
   audiences:
-    - 'Valstu izplatītāji'
-    - 'Airu un ūdens sporta klubi'
-    - 'Kūrorti un viesnīcas'
-    - 'Sacensību un pasākumu organizatori'
-    - 'Airēšanas kopienas'
+    - 'Country Distributors'
+    - 'Paddle & Water Sports Clubs'
+    - 'Resorts & Hotels'
+    - 'Race & Event Organizers'
+    - 'swimming Communities'

@@ -1,86 +1,86 @@
 meta:
-  title: 'การปรากฏทั่วโลก — ผู้ผลิต SUP ในกว่า 50 ประเทศ | {SITE}'
-  description: 'olagoon ส่งออกบอร์ด SUP แบบเป่าลมไปยังกว่า 50 ประเทศทั่วทุกทวีป ผู้ผลิตและผู้จัดจำหน่ายมืออาชีพสำหรับแบรนด์ ตัวแทนจำหน่าย และกองเรือ'
+  title: 'Global Presence — pool Manufacturer Serving 50+ Countries | {SITE}'
+  description: 'olagoon exports inflatable pools to 50+ countries across every continent. Professional manufacturer and supplier for brands, distributors, and fleets.'
   keywords:
-    - 'ผู้ผลิต SUP ระดับโลก'
-    - 'ผู้ส่งออกพายบอร์ด'
-    - 'โรงงาน SUP จีน'
-    - 'ผู้จัดจำหน่าย SUP มืออาชีพ'
+    - 'global pool manufacturer'
+    - 'inflatable pool exporter'
+    - 'pool factory china'
+    - 'professional pool supplier'
 hero:
-  tagline: การแสดงตนทั่วโลก
-  title: ให้บริการมากกว่า 50 ประเทศ<br />ทั่วทุกทวีป
-  subtitle: ตั้งแต่เจ้าหน้าที่ลาดตระเวนชายฝั่งของยุโรป ไปจนถึงผู้จัดจำหน่ายกีฬาทางน้ำของออสเตรเลีย ไปจนถึงทีมกู้ภัยในตะวันออกกลาง — บอร์ดของ olagoon อยู่บนผืนน้ำทั่วโลก
+  tagline: Global Presence
+  title: 'Serving 50+ Countries<br />Across Every Continent'
+  subtitle: 'From European resort operators to Australian outdoor retailers to Middle East hospitality groups — OLagoon pools are in backyards worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: olagoon ผู้ผลิตและจัดจำหน่ายผลิตภัณฑ์ทางทะเลระดับโลก
+    alt: olagoon global marine manufacturing and distribution
 stats:
-  title: ครอบคลุมทั่วโลก
+  title: Global Reach
   stats:
-    - title: ประเทศ
-      amount: 50+
-    - title: ตลาดส่งออก
-      amount: ยุโรป, อเมริกา, เอเชีย, ตะวันออกกลาง, โอเชียเนีย
-    - title: กระบวนการผลิต
+    - title: Countries
+      amount: '50+'
+    - title: Export Markets
+      amount: Europe, Americas, Asia, Middle East, Oceania
+    - title: Production
       amount: Qingdao, China
-    - title: คลังสินค้าในสหรัฐอเมริกา
+    - title: US Warehouse
       amount: Montclair, CA
 features3_markets:
-  tagline: ตลาดหลัก
-  title: ความเชี่ยวชาญระดับภูมิภาค<br />สำหรับข้อกำหนดในท้องถิ่น
-  subtitle: เราเข้าใจดีว่าตลาดที่แตกต่างกันมีข้อกำหนดด้านกฎระเบียบ ความชอบ และกรณีการใช้งานที่แตกต่างกัน
+  tagline: Key Markets
+  title: 'Regional Expertise<br />for Local Requirements'
+  subtitle: 'We understand that different markets have different regulatory requirements, preferences, and use cases.'
   isBeforeContent: false
   columns: 4
   items:
-    - title: ยุโรปและสหราชอาณาจักร
-      description: ผลิตภัณฑ์ที่ได้รับการรับรอง CE ความต้องการบอร์ด SUP ที่แข็งแกร่งในตลาดสหภาพยุโรป ผู้จัดจำหน่ายในสหราชอาณาจักรชื่นชมการตอบสนองที่รวดเร็วของเรา
+    - title: Europe & UK
+      description: 'CE-certified products. Strong demand for pools across EU markets. UK distributors appreciate our quick turnaround.'
       icon: tabler:map-pin
-    - title: อเมริกาเหนือ
-      description: หน่วยยามฝั่งสหรัฐฯ อนุมัติการผลิต คลังสินค้าของสหรัฐฯ ในเมืองมอนต์แคลร์ รัฐแคลิฟอร์เนีย เพื่อการจัดส่งทางฝั่งตะวันตกที่รวดเร็ว ความต้องการซัพตกปลา ซัพกู้ภัย และซัพเพื่อการพักผ่อนหย่อนใจที่เพิ่มขึ้น
+    - title: North America
+      description: 'US Coast Guard approved manufacturing. US warehouse in Montclair, CA for fast West Coast delivery. Growing demand for fishing, rescue, and recreational pools.'
       icon: tabler:map-pin
-    - title: ออสเตรเลียและโอเชียเนีย
-      description: ตลาดที่แข็งแกร่งสำหรับบอร์ด SUP และอุปกรณ์กีฬาทางน้ำ ผู้จัดจำหน่ายในออสเตรเลียให้ความสำคัญกับโครงสร้าง PVC ที่ทนทานต่อรังสี UV ของเราในสภาพแสงแดดที่รุนแรง จัดส่งด่วนจากโรงงานในเอเชียของเรา
+    - title: Australia & Oceania
+      description: 'Strong market for pools and water sports accessories. Australian distributors value our UV-resistant PVC construction in harsh sun conditions. Quick shipping from our Asia facility.'
       icon: tabler:map-pin
-    - title: ตะวันออกกลาง
-      description: ความต้องการอุปกรณ์ผจญภัยทางน้ำที่เพิ่มมากขึ้น ซัพระดับพาณิชย์และอุปกรณ์ความปลอดภัยของเราได้รับความนิยมจากผู้ประกอบการท่องเที่ยวและศูนย์ให้เช่า การกำหนดค่าแบบกำหนดเองสำหรับสภาพแวดล้อมที่มีอุณหภูมิสูง
+    - title: Middle East
+      description: 'Growing demand for water adventure equipment. Our commercial-grade pools and safety gear are popular with tour operators and rental centers. Custom configurations for high-temperature environments.'
       icon: tabler:map-pin
 features3_distribution:
-  tagline: เครือข่ายการจัดจำหน่าย
-  title: ร่วมมือกับผู้จัดจำหน่าย<br />ทั่วโลก
-  subtitle: เราทำงานร่วมกับผู้จัดจำหน่ายอุปกรณ์ทางทะเลที่จัดตั้งขึ้น แบรนด์กีฬาทางน้ำ และหน่วยงานจัดซื้อจัดจ้างของรัฐบาล
+  tagline: Distribution Network
+  title: 'Partnering with Distributors<br />Worldwide'
+  subtitle: 'We work with established marine equipment distributors, water sports brands, and government procurement agencies.'
   isBeforeContent: false
   columns: 3
   items:
-    - title: โปรแกรมร่วมแบรนด์
-      description: การผลิตฉลากส่วนตัวสำหรับแบรนด์กีฬาทางน้ำระดับโลก เราจัดการทุกอย่างตั้งแต่การออกแบบไปจนถึงการผลิตจนถึงการส่งสินค้า
+    - title: Co-Brand Programs
+      description: 'Private label manufacturing for global water sports brands. We handle everything from design to production to drop-shipping.'
       icon: tabler:building
-    - title: เครือข่ายตัวแทนจำหน่าย
-      description: ผู้จัดจำหน่ายที่ได้รับอนุญาตในกว่า 20 ประเทศมีสต็อกและให้การสนับสนุนในท้องถิ่น ยินดีต้อนรับผู้จัดจำหน่ายรายใหม่
+    - title: Distributor Network
+      description: 'Authorized distributors in 20+ countries carry stock and provide local support. New distributor inquiries welcome.'
       icon: tabler:users
-    - title: หน่วยงานภาครัฐและสถาบัน
-      description: การจัดหาโดยตรงให้กับหน่วยยามชายฝั่ง องค์กรค้นหาและกู้ภัย และโครงการจัดซื้อจัดจ้างทางทหาร การปฏิบัติตามข้อกำหนดการจัดซื้อจัดจ้างของสถาบัน
+    - title: Government & Institutional
+      description: 'Direct supply to coast guards, search and rescue organizations, and military procurement programs. Compliance with institutional procurement requirements.'
       icon: tabler:building-community
 steps2_logistics:
-  title: โลจิสติกส์และการสนับสนุนระดับโลก
-  subtitle: จากโรงงานสู่จุดหมายปลายทาง — เราจัดการห่วงโซ่อุปทานทั้งหมด
+  title: 'Global Logistics & Support'
+  subtitle: 'From factory to destination — we manage the entire supply chain.'
   items:
-    - title: ตัวเลือกการจัดส่ง
-      description: การขนส่งทางทะเล (FOB ชิงเต่า) การขนส่งทางอากาศสำหรับคำสั่งซื้อเร่งด่วน และบริการจัดส่งด่วนสำหรับตัวอย่างและชิ้นส่วนอะไหล่
+    - title: Shipping Options
+      description: 'Sea freight (FOB Qingdao), air freight for urgent orders, and express courier for samples and spare parts.'
       icon: tabler:truck-delivery
-    - title: คลังสินค้าในสหรัฐอเมริกา
-      description: 'สต็อกสินค้าจัดขึ้นที่เมืองมอนต์แคลร์ รัฐแคลิฟอร์เนีย เพื่อการจัดส่งที่รวดเร็วทั่วอเมริกาเหนือ ชายฝั่งตะวันตก: 2-3 วัน ภาคกลาง: 3-4 วัน ชายฝั่งตะวันออก: 4-5 วัน'
+    - title: US Warehouse
+      description: 'Stock held in Montclair, CA for fast delivery across North America. West Coast: 2-3 days, Central: 3-4 days, East Coast: 4-5 days.'
       icon: tabler:building-warehouse
-    - title: อะไหล่สำรอง
-      description: อะไหล่และวัสดุสิ้นเปลืองของแท้ของ olagoon มีในสต็อกตลอดทั้งปี ชิ้นส่วนทั่วไปจัดส่งภายใน 24 ชั่วโมง
+    - title: Spare Parts
+      description: 'Genuine olagoon spare parts and consumables stocked year-round. Common parts ship within 24 hours.'
       icon: tabler:package
-    - title: ฝ่ายสนับสนุนด้านเทคนิค
-      description: สายตรงไปยังทีมวิศวกรของเราเพื่อสอบถามปัญหาด้านเทคนิค คำแนะนำในการซ่อม และการสนับสนุนในการซ่อมแซม เราสนับสนุนบอร์ดที่เราสร้างเมื่อ 20 ปีที่แล้ว
+    - title: Technical Support
+      description: 'Direct line to our engineering team for technical questions, repair advice, and replacement-part support. We support every pool generation we have built.'
       icon: tabler:headset
 cta:
-  title: ต้องการเป็นตัวแทนจำหน่ายหรือไม่?
-  subtitle: เรากำลังขยายเครือข่ายการจัดจำหน่ายของเราอย่างแข็งขัน ติดต่อทีมส่งออกของเราเพื่อหารือเกี่ยวกับโอกาสในการเป็นหุ้นส่วน
+  title: 'Want to become a distributor?'
+  subtitle: 'We are actively expanding our distribution network. Contact our export team to discuss partnership opportunities.'
   actions:
     - variant: primary
-      text: สอบถามความร่วมมือ
+      text: Partnership inquiry
       href: /contact/
-    - text: ชมกลุ่มผลิตภัณฑ์ของเรา
+    - text: View our product range
       href: /products/

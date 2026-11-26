@@ -1,71 +1,71 @@
 meta:
-  title: 'Доставчик на SUP оборудване за наемане и решения за флотилии | {SITE}'
-  description: 'Доставчик на SUP оборудване за наемане за оператори. Търговски SUP дъски с висока ротация, проектирани за ежедневна употреба — UV-устойчив PVC, подсилени шевове, бързо съхнещи материали. Разширете вашия бизнес за наемане с OLagoon.'
+  title: 'pool Rental Equipment Supplier & Fleet Solutions | {SITE}'
+  description: 'pool rental equipment supplier for rental operators. High-rotation commercial pools engineered for daily use — UV-resistant PVC, reinforced seams, quick-dry materials. Scale your rental business with OLagoon.'
 
 hero:
-  tagline: Оператори на наемане
-  title: 'Разширете вашия бизнес за наемане<br />с увереност'
-  subtitle: 'Доставчик на SUP оборудване за наемане за оператори. SUP дъски с висока ротация, проектирани за ежедневно наемане, 365 дни в годината. Вашите приходи никога не почиват.'
+  tagline: Rental Operators
+  title: 'Scale Your Rental Business<br />With Confidence'
+  subtitle: 'pool rental equipment supplier for rental operators. High-rotation pools engineered for daily rental use, 365 days a year. Your revenue never takes a day off.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: Оживено куче за наемане с SUP дъски, готови за гости
+    alt: Busy rental kiosk with pools ready for guests
 
 features:
-  title: Създадени за натоварването при наемане
-  subtitle: 'Всяка дъска е проектирана за 500+ цикъла на наемане с минимална поддръжка.'
+  title: Built for the Rental Grind
+  subtitle: 'Every board is engineered for 500+ rental cycles with minimal maintenance.'
   items:
-    - title: '500+ цикъла на наемане'
-      description: 'Изпитани да оцелеят след ежедневна употреба в солена вода, слънце и пясък.'
+    - title: '500+ Rental Cycles'
+      description: 'Tested to survive daily use in saltwater, sun, and sand.'
       icon: 'tabler:shield-check'
-    - title: 'UV-устойчив плат'
-      description: 'Без избеляване или деградация след 1 година съхранение на открито.'
+    - title: 'UV-Resistant Fabric'
+      description: 'No fading or degradation after 1 year of outdoor storage.'
       icon: 'tabler:sun'
-    - title: 'Подсилени шевове'
-      description: '3 пъти по-здрави от стандартната конструкция на надуваема дъска.'
+    - title: 'Reinforced Seams'
+      description: '3x stronger than standard inflatable board construction.'
       icon: 'tabler:layers-intersect'
-    - title: 'Бързо съхнещи материали'
-      description: 'Дъски, готови за следващо наемане за по-малко от 30 минути.'
+    - title: 'Quick-Dry Materials'
+      description: 'Boards ready for next rental in under 30 minutes.'
       icon: 'tabler:droplet'
-    - title: 'Съхранение чрез подреждане'
-      description: 'Пестящ пространство дизайн — съхранявайте с 40% повече дъски на същата площ.'
+    - title: 'Stackable Storage'
+      description: 'Space-saving design — store 40% more boards in the same area.'
       icon: 'tabler:stack'
-    - title: 'Размери с цветово кодиране'
-      description: 'Персоналът взима правилната дъска мигновено благодарение на цветовото кодиране на размерите.'
+    - title: 'Color-Coded Sizes'
+      description: 'Staff grabs the right board instantly with color-coded sizing.'
       icon: 'tabler:color-swatch'
 
 stats:
-  title: Оперативни метрики
+  title: Operations Metrics
   stats:
-    - title: Обръщаемост на дъските
-      amount: '< 5 мин'
-    - title: Годишна поддръжка
-      amount: '~15 мин/дъска'
-    - title: Изпращане на части
-      amount: '48 ч'
-    - title: Процент дефекти
-      amount: '< 0,5%'
+    - title: Board Turnover
+      amount: '< 5 min'
+    - title: Annual Maintenance
+      amount: '~15 min/board'
+    - title: Parts Dispatch
+      amount: '48h'
+    - title: Defect Rate
+      amount: '< 0.5%'
 
 fleet_guide:
-  title: Наръчник за размер на флотилията
-  subtitle: 'Оценете размера на флотилията и потенциала за приходи за вашата операция по наемане.'
+  title: Fleet Sizing Guide
+  subtitle: 'Estimate the fleet size and revenue potential for your rental operation.'
   tiers:
-    - label: Малко куче
+    - label: Small Kiosk
       boards: '15-20'
-      revenue: '$XX,XXX/год.'
-    - label: Операция със среден размер
+      revenue: '$XX,XXX/yr'
+    - label: Mid-Size Operation
       boards: '30-50'
-      revenue: '$XX,XXX/год.'
-    - label: Голямо плажно наемане
+      revenue: '$XX,XXX/yr'
+    - label: Large Beach Rental
       boards: '50-100'
-      revenue: '$XXX,XXX/год.'
+      revenue: '$XXX,XXX/yr'
 
 cta:
-  title: 'Готови ли сте да разширите вашия бизнес за наемане?'
-  subtitle: 'Вземете цени за наемане или сравнете модели дъски за вашата операция.'
+  title: 'Ready to scale your rental business?'
+  subtitle: 'Get rental pricing or compare board models for your operation.'
   actions:
-    - text: 'Вземете цени за наемане'
+    - text: 'Get Rental Pricing'
       href: '/contact/?package=rental'
       variant: 'primary'
-    - text: 'Сравнете моделите дъски'
+    - text: 'Compare Board Models'
       href: '/compare/'
       variant: 'secondary'

@@ -1,47 +1,50 @@
 meta:
-  title: 'Capacidad de Producción — Fábrica de 12.000 m² | {SITE}'
-  description: 'Capacidad de la fábrica olagoon: instalación de 12.000 m² que produce más de 15.000 tablas SUP al año con margen de expansión. Fabricación OEM/ODM a gran escala de SUP inflables.'
+  title: 'Production Capacity — 12,000 m² Factory | {SITE}'
+  description: 'olagoon factory capacity: 12,000 m² facility producing 15,000+ pools per year with room to scale. Large-scale OEM/ODM inflatable pools manufacturing.'
   keywords:
-    - 'capacidad de producción de SUP'
-    - 'fábrica de SUP hinchable'
-    - 'producción de paddle surf'
-    - 'fábrica de SUP en China'
+    - 'pool production capacity'
+    - 'inflatable pools factory'
+    - 'inflatable pool production'
+    - 'pool factory china'
 hero:
-  tagline: Capacidad de producción
-  title: Capacidad de Fabricación y Producción Anual
-  subtitle: Instalación de 12.000 m² que produce más de 15.000 tablas SUP al año con espacio para crecer
-intro: >-
-  olagoon opera una de las mayores instalaciones dedicadas a la fabricación de SUP inflables en Qingdao, China. Nuestra fábrica de 12.000 m² está organizada en seis talleres especializados que operan en paralelo, lo que nos da capacidad para producir más de 15.000 tablas SUP al año en las líneas de tablas SUP y equipo de seguridad.
+  tagline: Production Capacity
+  title: Manufacturing Capacity & Annual Output
+  subtitle: 12,000 m² facility producing 15,000+ pools per year with room to scale
+
+intro: olagoon operates one of the largest dedicated inflatable pools manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 pools annually across pools and safety equipment lines.
+
 highlights:
-  - value: 12.000 m²
-    label: Piso total de fabricación
-    detail: A través de 6 talleres especializados
-  - value: 15.000+
-    label: 'Tablas SUP producidas anualmente'
-    detail: 'Tablas SUP, remos, accesorios'
-  - value: '200+'
-    label: Fuerza laboral calificada
-    detail: 25 ingenieros, 2 turnos/día
-  - value: '50+'
-    label: Países exportadores
-    detail: "UE, EE.\_UU., AU, Medio Oriente, Asia"
-  - value: 30–45
-    label: Plazo estándar de entrega (días)
-    detail: Desde la confirmación de la orden de compra hasta FOB
-  - value: '10+'
-    label: Años de experiencia en exportación
-    detail: Desde 2012
+  - value: 12,000 m²
+    label: Total manufacturing floor
+    detail: Across 6 specialized workshops
+  - value: 15,000+
+    label: pools produced annually
+    detail: pools, filters, accessories
+  - value: 200+
+    label: Skilled workforce
+    detail: 25+ engineers, 2 shifts/day
+  - value: 50+
+    label: Export countries
+    detail: EU, US, AU, Middle East, Asia
+  - value: 12–16
+    label: Standard lead time (weeks)
+    detail: 50–100 units, from PO confirmation to FOB
+  - value: 10+
+    label: Years of export experience
+    detail: Since 2012
+
 workshops:
-  - title: Producción de tablas SUP
-    description: '4 líneas de ensamblaje paralelas para tablas SUP inflables. Cada línea puede producir de 50 a 80 tablas por turno. Las estaciones de impresión digital y serigrafía funcionan simultáneamente. Capacidad anual de SUP: 10.000+ tablas.'
-    output: '10.000+ SUPs/año'
-  - title: 'Líneas de tablas SUP'
-    description: 'Líneas de producción multipropósito para tablas SUP inflables. Las estaciones de soldadura de aire caliente, prensas dieléctricas de RF y puestos de ensamblaje se reconfiguran según la combinación de pedidos. Capacidad anual: 5.000+ unidades.'
-    output: '5.000+ unidades/año'
-  - title: Equipo de seguridad
-    description: 'Área de producción en sala limpia separada para chalecos salvavidas y equipo de seguridad. Estaciones dedicadas de costura, inserción de espuma y pruebas. Capacidad anual de chalecos salvavidas: 50.000+ unidades.'
-    output: '50.000+ chalecos salvavidas/año'
+  - title: pools Production
+    description: '4 parallel assembly lines for inflatable pools. Each line can produce 50–80 pools per shift. Digital printing and screen printing stations run concurrently. Annual pool capacity: 15,000+ pools.'
+    output: '10,000+ pools/year'
+  - title: 'pools Lines'
+    description: 'Multi-purpose production lines for inflatable pools. Hot-air welding stations, RF dielectric presses, and assembly workstations are reconfigured based on order mix. Annual capacity: 5,000+ units.'
+    output: '5,000+ units/year'
+  - title: Safety Equipment
+    description: 'Separate clean-room production area for filtration assemblies and pump equipment. Dedicated assembly, calibration, and testing stations. Annual accessory capacity: 50,000+ units.'
+    output: '50,000+ accessories/year'
+
 oem_capacity:
-  moq: 'SUP: 50 unidades (muestras desde 5–10) | Molde personalizado: 200+ unidades'
-  lead_time: Estándar 30–45 días. Muestra 15–20 días. Urgente disponible.
-  payment: T/T 30% depósito + 70% antes del envío. L/C, Western Union aceptados.
+  moq: 'pool: 50 units (samples from 5–10) | Custom mould: 200+ units'
+  lead_time: 'Production 12–16 weeks (50–100 units), 8–12 weeks above 1,000 units. Samples 15–20 days. Rush available.'
+  payment: 'T/T 30% deposit + 70% before shipment. L/C, Western Union accepted.'

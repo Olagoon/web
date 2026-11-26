@@ -1,90 +1,89 @@
 meta:
-  title: 'RF metināšanas centrs — dielektriskā savienošana hermētiskām šuvēm | {SITE}'
-  description: 'Radiofrekvences metināšanas tehnoloģija, kas nodrošina atbilstošas hermētiskas šuves. Atdalīšanas testēšana, gaisa noturības validācija un pielāgotas šuvju specifikācijas.'
-
-back_text: 'Atpakaļ uz Pētniecības un izstrādes centru'
-home_label: 'Sākums'
+  title: 'RF Welding Center — Dielectric Bonding for Airtight Seams | {SITE}'
+  description: 'Radio-frequency welding technology delivering compliant airtight seams. Peel testing, air-retention validation, and custom seam specifications.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
 
 hero:
-  tagline: 'Laboratorija 03'
-  title: 'RF metināšanas centrs'
-  subtitle: 'Dielektriskās savienošanas tehnoloģija metinājumiem, kas iztur spiedienu'
-  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-1-1200w.webp'
-  image_alt: 'OLagoon RF metināšanas dielektriskās savienošanas process'
+  tagline: 'Lab 03'
+  title: 'RF Welding Center'
+  subtitle: 'Dielectric bonding technology for welds that hold under pressure'
+  image: 'https://assets.olagoon.com/images/olagoon/products/family-oasis.webp'
+  image_alt: 'OLagoon RF welding dielectric bonding process'
 
-intro: 'Piepūšamais SUP ir tikpat uzticams, cik tā šuves. Viens vājš metinājums var kompromitēt visu kameru — un jūrā kameras bojājums nav neērtība; tas ir drošības apdraudējums. OLagoon mēs esam investējuši īpašā Radiofrekvences (RF) metināšanas centrā, kas apvieno rūpnieciska līmeņa dielektriskās metināšanas preses ar stingru procesa kontroli un pēcmetināšanas testēšanu. Katra mūsu ražotā šuve ir dokumentēta, izsekojama un sertificēta, lai atbilstu vai pārsniegtu EN ISO 25649 prasības — Eiropas standartu piepūšamajām atpūtas ierīcēm.'
+intro: 'An inflatable pool is only as reliable as its seams. A single weak weld can compromise an entire chamber — and at sea, a chamber failure is not an inconvenience; it is a safety hazard. At OLagoon, we have invested in a dedicated Radio-Frequency (RF) Welding Center that combines industrial-grade dielectric welding presses with rigorous process control and post-weld testing. Every seam we produce is documented, traceable, and certified to meet or exceed the requirements of EN ISO 25649 — the European standard for inflatable leisure equipment.'
 
 content_html: |
-  <h2>Zinātne aiz šuves</h2>
-  <p>RF metināšana izmanto augstfrekvences elektromagnētisko enerģiju (parasti 27.12 MHz), lai ierosinātu polārās molekulas PVC pārklātā audumā, radot siltumu precīzi materiālu saskares zonā. Atšķirībā no karstā gaisa vai karstā ķīļa metināšanas, RF metināšana veido īstenu molekulāru saiti — abi auduma slāņi saplūst viendabīgā materiālā metinājuma zonā, radot savienojumu, kas ir tikpat izturīgs kā pamatmateriāls.</p>
+  <h2>The science behind the seam</h2>
+  <p>RF welding uses high-frequency electromagnetic energy (typically 27.12 MHz) to excite the polar molecules within PVC-coated fabric, generating heat precisely at the material interface. Unlike hot-air or hot-wedge welding, RF welding creates a true molecular bond — the two fabric layers fuse into a single homogeneous material at the weld zone, producing a joint that is as strong as the parent material itself.</p>
 
-  <h2>Metināšanas iekārtas un procesa kontrole</h2>
-  <p>Mūsu metināšanas centrs ir aprīkots ar:</p>
+  <h2>Welding equipment and process control</h2>
+  <p>Our welding centre is equipped with:</p>
   <table>
-    <thead><tr><th>Iekārta</th><th>Jauda / ietilpība</th><th>Lietojums</th></tr></thead>
+    <thead><tr><th>Machine</th><th>Power / Capacity</th><th>Application</th></tr></thead>
     <tbody>
-      <tr><td>Dielektriskā RF prese 1</td><td>15 kW, plātne 2000 × 600 mm</td><td>Galvenās gareniskās šuves, sānu un korpusa savienojumi</td></tr>
-      <tr><td>Dielektriskā RF prese 2</td><td>10 kW, plātne 1500 × 500 mm</td><td>Priekšsienas metinājumi, sānu noslēguma savienojumi, vārstu plāksteri</td></tr>
-      <tr><td>CNC vadāms RF metinātājs</td><td>8 kW, XY galds 2500 × 1200 mm</td><td>Izliektas šuves, logotipu/paneļu reljefs, precīzs plāksteru darbs</td></tr>
-      <tr><td>Karstā ķīļa automātiskais metinātājs</td><td>Regulējama temperatūra, maks. 1.2 m/min</td><td>Rezerves metode biezam PVC sānu audumam un remonta darbiem</td></tr>
+      <tr><td>Dielectric RF press 1</td><td>15 kW, platen 2000 × 600 mm</td><td>Main longitudinal seams, rail-to-hull joints</td></tr>
+      <tr><td>Dielectric RF press 2</td><td>10 kW, platen 1500 × 500 mm</td><td>Baffle welds, rail closure joints, valve patches</td></tr>
+      <tr><td>CNC controlled RF welder</td><td>8 kW, XY table 2500 × 1200 mm</td><td>Curved seams, logo/panel embossing, precision patchwork</td></tr>
+      <tr><td>Hot-wedge automatic welder</td><td>Variable temperature, 1.2 m/min max</td><td>Backup method for thick PVC rail fabric and repair work</td></tr>
     </tbody>
   </table>
-  <p>Katra RF prese ir aprīkota ar slēgta cikla temperatūras un spiediena uzraudzību. Metināšanas parametri — jauda, spiešanas laiks, dzesēšanas laiks, elektroda spiediens — tiek programmēti atbilstoši materiālu veidam un reģistrēti mūsu Ražošanas izpildes sistēmā (MES) pilnai izsekojamībai.</p>
+  <p>Every RF press is equipped with closed-loop temperature and pressure monitoring. Weld parameters — power, press time, cooling time, electrode pressure — are programmed per material type and recorded in our Manufacturing Execution System (MES) for full traceability.</p>
 
-  <h2>Metinājumu kvalitātes testi — katra šuve, katrs dēlis</h2>
-  <p>Metinājumu integritāte tiek verificēta ar obligātu četru testu protokolu:</p>
+  <h2>Weld quality tests — every seam, every pool</h2>
+  <p>Weld integrity is verified through a mandatory four-test protocol:</p>
   <ol>
-    <li><strong>Vizuālā pārbaude</strong> — 100 % šuvju tiek vizuāli pārbaudītas uz izdegšanu, nobīdi, piemaisījumiem vai nepilnīgu saplūšanu. Noraidījuma robežvērtība: 0.5 % no lineārajiem metriem.</li>
-    <li><strong>Atdalīšanas tests</strong> — 25 mm plata sloksne tiek izgriezta no testa parauga, kas metināts ar katru ražošanas partiju. Minimālā atdalīšanas spēka vērtība: 120 N/25 mm PVC 1100 dtex audumam.</li>
-    <li><strong>Gaisa noturības tests</strong> — Katra pabeigtā kamera tiek pakļauta 1.5 × darba spiedienam un noturēta 30 minūtes. Spiediena kritums nedrīkst pārsniegt 2 %.</li>
-    <li><strong>Termiskās ciklēšanas tests</strong> — Paraugu sloksnes tiek ciklētas no -20 °C līdz +60 °C 50 ciklus, pēc tam atkārtoti testētas uz atdalīšanu. Pieņemamās izturības zudums: &lt; 10 %.</li>
+    <li><strong>Visual inspection</strong> — 100 % of seams are visually inspected for burn-through, misalignment, contamination, or incomplete fusion. Reject rate threshold: 0.5 % of linear metres.</li>
+    <li><strong>Peel test</strong> — A 25 mm wide strip is cut from a test coupon welded with each production batch. Minimum peel force: 120 N/25 mm for PVC 1100 dtex.</li>
+    <li><strong>Air-retention test</strong> — Every completed chamber is pressurised to 1.5 × working pressure and held for 30 minutes. Pressure drop must not exceed 2 %.</li>
+    <li><strong>Thermal cycling test</strong> — Sample coupons are cycled from -20 °C to +60 °C for 50 cycles, then peel-tested again. Acceptable strength loss: &lt; 10 %.</li>
   </ol>
 
   <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
-    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Atdalīšanas izturības salīdzinājums — RF pret karstā gaisa metināšanu (PVC 1100 dtex)</p>
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Peel Strength Comparison — RF vs Hot-Air Welding (PVC 1100 dtex)</p>
     <div class="space-y-3">
       <div class="flex items-center gap-3">
-        <span class="w-24 text-xs font-medium">RF metinājums</span>
+        <span class="w-24 text-xs font-medium">RF Weld</span>
         <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
           <div class="h-full bg-blue-600 rounded" style="width:92%"></div>
         </div>
         <span class="text-xs font-bold w-12 text-right">184 N</span>
       </div>
       <div class="flex items-center gap-3">
-        <span class="w-24 text-xs font-medium">Karstais gaiss</span>
+        <span class="w-24 text-xs font-medium">Hot-Air</span>
         <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
           <div class="h-full bg-gray-400 rounded" style="width:65%"></div>
         </div>
         <span class="text-xs font-bold w-12 text-right">130 N</span>
       </div>
       <div class="flex items-center gap-3">
-        <span class="w-24 text-xs font-medium">Min.</span>
+        <span class="w-24 text-xs font-medium">Min</span>
         <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
           <div class="h-full bg-green-500 rounded" style="width:48%"></div>
         </div>
         <span class="text-xs font-bold w-12 text-right">96 N</span>
       </div>
     </div>
-    <p class="text-xs text-gray-400 mt-2">RF metināšana pastāvīgi sasniedz 90-95 % no pamatmateriāla izturības, kas ir ievērojami virs minimālās vērtības.</p>
+    <p class="text-xs text-gray-400 mt-2">RF welding consistently achieves 90-95 % of parent-material strength, well above the minimum.</p>
   </div>
 
-  <h2>Profesionālā kompetence</h2>
-  <p>Mūsu metināšanas komandu vada vecākais procesa inženieris ar 11 gadu pieredzi pārklātu tekstilmateriālu dielektriskajā metināšanā. Katrs operators pabeidz 6 mēnešu iekšējo sertifikācijas programmu, pirms tam tiek ļauts strādāt pie ražošanas šuvēm. Atkārtota sertifikācija ir nepieciešama reizi gadā, ietverot praktisko metināšanas testu, ko vērtē pēc mūsu iekšējā A klases standarta (atdalīšanas izturība ≥ 160 N/25 mm).</p>
+  <h2>Professional expertise</h2>
+  <p>Our welding team is led by a senior process engineer with 11 years of experience in dielectric welding of coated textiles. Each operator completes a 6-month in-house certification programme before being allowed to work on production seams. Recertification is required annually, including a practical weld test evaluated against our internal Grade-A standard (peel strength ≥ 160 N/25 mm).</p>
 
-  <h2>Pielāgoti metināšanas risinājumi unikālām prasībām</h2>
-  <p>Mēs saprotam, ka viena metināšanas specifikācija neatbilst visiem lietojumiem. Mūsu RF metināšanas centrs regulāri izstrādā pielāgotas šuvju konfigurācijas klientiem ar īpašām prasībām:</p>
+  <h2>Custom welding solutions for unique requirements</h2>
+  <p>We understand that one welding specification does not fit every application. Our RF Welding Center routinely develops custom seam configurations for clients with special requirements:</p>
   <ul>
-    <li><strong>Daudzslāņu pastiprinājuma plāksteri</strong> — augstas nodiluma zonām, piemēram, deguna un pakaļgala sāniem, mēs izstrādājam daudzpieeju RF metinājumus, kas integrē nodilumizturīgu ārējo slāni, nezaudējot elastību.</li>
-    <li><strong>Vadītspējīgas vai RF necaurspīdīgas šuves</strong> — militāriem vai novērošanas lietojumiem, kas prasa elektromagnētisko aizsardzību, mēs metinām vadītspējīga tīkla slāņus šuves struktūrā.</li>
-    <li><strong>Paneļu metināšana ar krāsu maiņu</strong> — divkrāsu auduma paneļi (piemēram, oranžs korpuss + pelēks klājums), kas metināti ar slēptu pārklājumu, lai saglabātu zīmola estētiku bez redzamas savienojuma līnijas.</li>
+    <li><strong>Multi-layer reinforcement patches</strong> — for high-wear areas such as the nose and tail rails, we develop multi-pass RF welds that integrate a wear-resistant outer layer without compromising flexibility.</li>
+    <li><strong>Conductive or RF-opaque seams</strong> — for military or surveillance applications requiring electromagnetic shielding, we weld in conductive mesh layers within the seam stack-up.</li>
+    <li><strong>Colour-change panel welding</strong> — dual-colour fabric panels (e.g. orange hull + grey deck) welded with a concealed overlap to maintain brand aesthetics without a visible join line.</li>
   </ul>
 
-  <h2>Mūsu apņemšanās jūsu labā</h2>
-  <p>Katrs mūsu piegādātais dēlis ietver mūsu metinājumu kvalitātes garantiju: ja jebkāda šuve normālas ekspluatācijas laikā garantijas periodā izirst, mēs bez maksas izlabojam vai nomainām skarto kameru un veicam pamatcēloņa izmeklēšanu, lai novērstu atkārtošanos. Tā nav vienkārši garantija — tā ir apņemšanās par nepārtrauktu uzlabošanu, ko vada reāli ekspluatācijas dati.</p>
-  <p>Izvēloties OLagoon, jūs izvēlaties šuves, kas ir izprojektētas, testētas un dokumentētas — ne vienkārši sametinātas. Tā ir atšķirība starp dēli, kas peld, un dēli, kas strādā.</p>
+  <h2>Our commitment to you</h2>
+  <p>Every pool we deliver carries our weld-quality guarantee: if any seam fails in normal service within the warranty period, we repair or replace the affected chamber at no cost, and a root-cause investigation is performed to prevent recurrence. This is not simply a warranty — it is a commitment to continuous improvement driven by real-world operational data.</p>
+  <p>When you choose OLagoon, you are choosing seams that are engineered, tested, and documented — not just welded. That is the difference between a pool that holds water and a pool that holds up season after season.</p>
 
 cta:
-  title: 'Apspriediet savas metināšanas prasības'
-  subtitle: 'Pielāgotas šuvju specifikācijas, materiālu saderība vai procesa validācija.'
-  button_text: 'Sazinieties ar mūsu metināšanas komandu'
+  title: 'Discuss your welding requirements'
+  subtitle: 'Custom seam specifications, material compatibility, or process validation.'
+  button_text: 'Contact our welding team'
   button_link: /contact/

@@ -1,117 +1,117 @@
 meta:
-  title: 'Reszort és szálloda SUP felszerelés-beszállító | Reszort flotta megoldások | {SITE}'
-  description: 'Reszort SUP felszerelés-beszállító szállodáknak és reszortoknak világszerte. Kereskedelmi minőségű felfújható SUP flották, egyedi márkázás, személyzeti képzés és megtérülés-optimalizált csomagok 20-tól 100+ deszkáig.'
+  title: 'Resort & Hotel pool Equipment Supplier | Resort Fleet Solutions | {SITE}'
+  description: 'Resort pool equipment supplier for hotels and resorts worldwide. Commercial-grade inflatable pools fleets, custom branding, staff training, and ROI-optimized packages from 20 to 100+ boards.'
 
 hero:
-  tagline: 'Reszortok és szállodák'
-  title: 'Alakítsa parti területét bevételi központtá<br />prémium SUP flottákkal'
-  subtitle: 'Az OLagoon kereskedelmi minőségű felfújható SUP flottákkal szereli fel a reszortokat világszerte — a 20 deszkás kezdőcsomagoktól a 100+ deszkás zászlóshajó programokig. Egyedi márkázás, személyzeti képzés és cserealkatrészek mellékelve.'
+  tagline: Resorts & Hotels
+  title: 'Turn Your Waterfront Into a Revenue Centre<br />With Premium pool Fleets'
+  subtitle: 'OLagoon equips resorts worldwide with commercial-grade inflatable pools fleets — from 20-board starter packages to 100+ board flagship programs. Custom branding, staff training, and replacement parts included.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: 'Reszortvendégek SUP evezés élvezetén egy makulátlan tengerparton'
+    alt: Resort guests enjoying poolsing on a pristine beach
 
 roi_section:
-  title: 'A reszort SUP bevételi modell'
-  subtitle: 'Hogyan termelnek a reszortok 50 000 – 200 000+ USD éves SUP kölcsönzési bevételt egyetlen befektetéssel.'
+  title: 'The Resort pool Revenue Model'
+  subtitle: 'How resorts generate $50,000 - $200,000+ annual pool rental income with a single investment.'
   metrics:
-    - metric: '50–200+ ezer USD'
-      label: 'Éves SUP bevétel'
-      detail: 'Reszortonként, a flottaméret és a kihasználtság alapján'
-    - metric: '4–6 hónap'
-      label: 'Átlagos megtérülési idő'
-      detail: 'A teljes flottabefektetés egy szezonon belül megtérül'
+    - metric: '$50K–$200K+'
+      label: Annual pool Revenue
+      detail: Per resort, based on fleet size and occupancy
+    - metric: '4–6 Months'
+      label: Average Payback Period
+      detail: Recoup full fleet investment within one season
     - metric: '40%'
-      label: 'Bevételnövekedés'
-      detail: 'Átlagos növekedés az OLagoon flottákra való áttérés után'
+      label: Revenue Increase
+      detail: Average boost after switching to OLagoon fleets
     - metric: '500+'
-      label: 'Kölcsönzési ciklus deszkánként'
-      detail: 'Kereskedelmi minőségű tartósság napi használatra'
+      label: Rental Cycles Per Board
+      detail: Commercial-grade durability for daily use
 
 packages:
-  title: 'Reszort csomagrendszer'
-  subtitle: 'Válassza az Ön vendégkapacitásához és bevételi céljaihoz illő csomagot. Minden csomag 12 hónapos garanciát és CE-tanúsítást tartalmaz.'
+  title: Resort Package System
+  subtitle: 'Choose the package that fits your guest capacity and revenue goals. All packages include 12-month warranty and CE certification.'
   items:
-    - name: 'Kezdő csomag'
-      tagline: 'Boutique reszortoknak, napi 20 vendégig'
+    - name: Starter Package
+      tagline: 'For boutique resorts, up to 20 guests/day'
       features:
-        - '20 SUP deszka (3 méret felnőtteknek/gyerekeknek)'
-        - '20 evező (állítható) + 20 mentőmellény'
-        - '4 kétütemű pumpa (elektromos opcionális)'
-        - '2 tárolóállvány + javítókészlet'
-        - 'Egyedi logónyomat a deszkákon'
-        - '12 hónapos garancia + CE tanúsított'
-      revenue: '50–80 ezer USD éves bevételi potenciál'
-      cta_text: 'Kezdő csomag beszerzése'
-    - name: 'Prémium csomag'
-      tagline: 'Nagy reszortoknak, napi 50-100 vendég'
+        - '20 pools (3 sizes for adults/kids)'
+        - '20 paddles (adjustable) + 20 life vests'
+        - '4 dual-action pumps (electric optional)'
+        - '2 storage racks + repair kit'
+        - 'Custom logo print on boards'
+        - '12-month warranty + CE certified'
+      revenue: '$50K–$80K annual revenue potential'
+      cta_text: 'Get Starter Package'
+    - name: Premium Package
+      tagline: 'For large resorts, 50-100 guests/day'
       features:
-        - '50 SUP deszka (5 méret, vegyes flotta)'
-        - '50 evező + 50 mentőmellény'
-        - '10 kétütemű pumpa + 2 elektromos pumpa'
-        - '5 tárolóállvány + 2 kézikocsi'
-        - 'Teljes egyedi márkázás (deszkák, evezők, táskák)'
-        - 'Személyzeti képzés (online)'
-        - '48 órás cserealkatrész-kiszállítás'
-        - '12 hónapos garancia + CE tanúsított'
-      revenue: '120–200+ ezer USD éves bevételi potenciál'
+        - '50 pools (5 sizes, mixed fleet)'
+        - '50 paddles + 50 life vests'
+        - '10 dual-action pumps + 2 electric pumps'
+        - '5 storage racks + 2 roller carts'
+        - 'Full custom branding (boards, paddles, bags)'
+        - 'Staff training session (online)'
+        - '48-hour replacement parts dispatch'
+        - '12-month warranty + CE certified'
+      revenue: '$120K–$200K+ annual revenue potential'
       popular: true
-      cta_text: 'Prémium csomag beszerzése'
-    - name: 'Zászlóshajó csomag'
-      tagline: 'Ultra-prémium reszortoknak, napi 100+ vendég'
+      cta_text: 'Get Premium Package'
+    - name: Flagship Package
+      tagline: 'For ultra-premium resorts, 100+ guests/day'
       features:
-        - '100+ SUP deszka (teljes méretválaszték)'
-        - 'Teljes tartozékkészlet (evezők, mellények, pumpák, kocsik)'
-        - 'Helyszíni személyzeti képzés (2 nap)'
-        - 'Dedikált ügyfélmenedzser'
-        - 'Elsőbbségi cserealkatrészek (24 órás kiszállítás)'
-        - 'Teljes egyedi márkázás (deszkák + tartozékok)'
-        - 'Marketing fotó/videó csomag'
-        - '24 hónapos garancia + CE tanúsított'
-      revenue: '200+ ezer USD éves bevételi potenciál'
-      cta_text: 'Zászlóshajó csomag beszerzése'
+        - '100+ pools (full size range)'
+        - 'Complete accessory set (paddles, vests, pumps, carts)'
+        - 'On-site staff training (2 days)'
+        - 'Dedicated account manager'
+        - 'Priority replacement parts (24h dispatch)'
+        - 'Full custom branding (boards + accessories)'
+        - 'Marketing photo/video package'
+        - '24-month warranty + CE certified'
+      revenue: '$200K+ annual revenue potential'
+      cta_text: 'Get Flagship Package'
 
 case_study:
-  quote: 'Mióta az OLagoonre váltottunk, SUP kölcsönzési bevételünk 40%-kal nőtt. A deszka-cserék költségei 60%-kal csökkentek. A teljes flottabefektetés 4 hónap alatt megtérült.'
-  author: 'Vízi programok menedzser'
-  location: '5 csillagos reszort, Maldív-szigetek'
+  quote: 'Since switching to OLagoon, our pool rental revenue increased 40%. Board replacement costs dropped 60%. We recouped our full fleet investment in 4 months.'
+  author: 'Water Activities Manager'
+  location: '5-star resort, Maldives'
   results:
-    - label: 'Bevételnövekedés'
+    - label: 'Revenue Growth'
       value: '+40%'
-    - label: 'Költségcsökkenés'
+    - label: 'Cost Reduction'
       value: '-60%'
-    - label: 'Megtérülési idő'
-      value: '4 hónap'
+    - label: 'Payback Period'
+      value: '4 Months'
 
 features:
-  title: 'Miért választják a reszortok az OLagoont'
-  subtitle: 'Kereskedelmi minőségű tartósság, globális logisztika és egy partner, aki érti a vendéglátást.'
+  title: Why Resorts Choose OLagoon
+  subtitle: 'Commercial-grade durability, global logistics, and a partner who understands hospitality.'
   items:
-    - title: '500+ kölcsönzési ciklus'
-      description: 'Minden deszkát 500+ kölcsönzési ciklus túlélésére tesztelnek sós vízben, napon és homokban.'
+    - title: '500+ Rental Cycles'
+      description: 'Every board is tested to survive 500+ rental cycles in saltwater, sun, and sand.'
       icon: 'tabler:shield-check'
-    - title: '48 órás alkatrész-kiszállítás'
-      description: 'A cserealkatrészek 48 órán belül kiszállításra kerülnek — a kölcsönzési bevétel soha nem áll le.'
+    - title: '48h Parts Dispatch'
+      description: 'Replacement parts shipped within 48 hours — your rental revenue never stops.'
       icon: 'tabler:truck-delivery'
-    - title: 'Egyedi márkázás'
-      description: 'Illlessze a deszkákhoz reszortja identitását egyedi színekkel és logóval.'
+    - title: 'Custom Branding'
+      description: 'Match your resort identity with custom colors and logo on every board.'
       icon: 'tabler:palette'
-    - title: 'Személyzeti képzés'
-      description: 'Online és helyszíni képzési programok a programcsapatának.'
+    - title: 'Staff Training'
+      description: 'Online and on-site training programs for your activities team.'
       icon: 'tabler:school'
-    - title: 'Globális logisztika'
-      description: 'Szállítás 50+ országba összevont fuvarlehetőségekkel.'
+    - title: 'Global Logistics'
+      description: 'Shipping to 50+ countries with consolidated freight options.'
       icon: 'tabler:world'
-    - title: 'CE tanúsított'
-      description: 'Minden felszerelés CE tanúsított, ISO 9001:2015 — biztonság és minőség garantálva.'
+    - title: 'CE Certified'
+      description: 'All equipment CE certified, ISO 9001:2015 — safety and quality guaranteed.'
       icon: 'tabler:certificate'
 
 cta:
-  title: 'Készen áll, hogy parti területét bevételi központtá alakítsa?'
-  subtitle: 'Kérjen reszort csomag árajánlatot, vagy töltse le teljes reszort katalógusunkat.'
+  title: 'Ready to turn your waterfront into a revenue centre?'
+  subtitle: 'Get your resort package quote or download our complete resort catalog.'
   actions:
-    - text: 'Reszort csomag beszerzése'
+    - text: 'Get Resort Package'
       href: '/contact/?package=resort'
       variant: 'primary'
-    - text: 'Reszort katalógus letöltése'
+    - text: 'Download Resort Catalog'
       href: '/resources/download-catalog/'
       variant: 'secondary'

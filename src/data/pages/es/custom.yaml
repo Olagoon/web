@@ -1,85 +1,89 @@
 meta:
-  title: 'Custom Lab — Paddle Surf Hinchable Personalizado | {SITE}'
-  description: 'Paddle surf hinchable personalizado: diseño a medida, logotipo, molde propio y producción. Socio de SUP de marca privada, MOQ 50 unidades, certificado CE.'
+  title: 'Custom Lab — Custom Inflatable Pool | {SITE}'
+  description: 'Custom inflatable pool: bespoke design, logo, custom mold, and production. Private-label pool partner, MOQ 50 units, CE certified.'
   keywords:
-    - 'fabricante de paddle surf personalizado'
-    - 'SUP hinchable personalizado'
-    - 'paddle surf con logotipo'
-    - 'SUP hinchable de marca privada'
-    - 'fabricación de paddle surf'
+    - 'custom inflatable pool manufacturer'
+    - 'custom inflatable pools'
+    - 'inflatable pool with logo'
+    - 'private label inflatable pools'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: Laboratorio de personalización olagoon
-  title: Diseña tu propia<br />tabla SUP
-  subtitle: Servicios de co-brand, marca privada y fabricación de paddle surf a medida para empresas de todo el mundo. Desde un solo prototipo hasta producciones completas.
-  cta: Comienza tu proyecto
+  tagline: olagoon Custom Lab
+  title: Design Your Own<br />pools
+  subtitle: Custom pool partner offering co-brand, private label, and bespoke inflatable pool production for businesses worldwide. From a single prototype to full production runs.
+  cta: Start your project
   footer_link: /contact/
+
 steps_section:
-  tagline: Cómo funciona
-  title: Del concepto a la producción
-  subtitle: Cuatro pasos desde tu idea hasta un producto terminado y listo para navegar.
+  tagline: How it works
+  title: From concept to production
+  subtitle: Four steps from your idea to a finished, sea-ready product.
   steps:
     - num: '01'
-      title: Elige tu tabla
-      desc: Selecciona entre nuestros modelos principales de SUP — polivalente, travesía, yoga, deportivo o infantil. Elige tamaño, material y color.
+      title: Choose Your Pool
+      desc: Select from our core pool models — all-around, touring, yoga, sport, or kids. Pick size, material, and colour.
     - num: '02'
-      title: Sube tu diseño
-      desc: Envíanos tu logotipo, tu obra gráfica o tus pautas de marca. Nuestro equipo de diseño prepara una prueba digital.
+      title: Upload Your Design
+      desc: Send us your logo, artwork, or brand guidelines. Our design team prepares a digital proof.
     - num: '03'
-      title: Revisión del mockup con IA
-      desc: Visualiza un mockup fotorrealista generado por IA de tu tabla personalizada antes de que comience la producción.
+      title: AI Mockup Review
+      desc: View a photorealistic AI-generated mockup of your custom pool before production begins.
     - num: '04'
-      title: Producción y entrega
-      desc: Una vez aprobado, tu pedido entra en nuestra línea de producción. Plazos de entrega desde 30 días.
+      title: Production & Delivery
+      desc: Once approved, your order enters our production line. Lead times from 30 days.
+
 services_section:
-  tagline: Servicios
-  title: Servicios de fabricación para marcas globales
-  subtitle: Modelos de colaboración flexibles — desde la fabricación por contrato hasta la construcción de marca de servicio completo.
+  tagline: Services
+  title: Manufacturing services for global brands
+  subtitle: Flexible engagement models — from contract manufacturing to full-service brand building.
   items:
-    - title: Producción Co-Brand
-      desc: Producimos tus diseños según las especificaciones — tu propiedad intelectual, tus planos, tus estándares de calidad. Protección completa con NDA.
+    - title: Co-Brand Production
+      desc: We produce your designs to spec — your IP, your drawings, your quality standards. Full NDA protection.
       icon: ⚙️
-    - title: Soluciones de Diseño
-      desc: Elige entre más de 50 plataformas probadas y personaliza tamaño, color, gráficos y embalaje.
-      icon: 🎨
-    - title: Marca privada
-      desc: Tu marca en nuestros productos — logotipo, embalaje, etiquetas colgantes, manuales. Listos para la venta minorista desde el primer momento.
-      icon: 🎨
-    - title: Personalización de marca
-      desc: Impresión en las almohadillas de cubierta, gráficos del casco, calcomanías en los tubos y etiquetas personalizadas — integración completa de la marca.
+    - title: Design Solutions
+      desc: Choose from 50+ proven platforms and customise size, colour, graphics, and packaging.
+      icon: '🎨'
+    - title: Private Label
+      desc: Your brand on our products — logo, packaging, hang tags, manuals. Retail-ready out of the box.
+      icon: '🎨'
+    - title: Custom Branding
+      desc: Deck pad printing, hull graphics, tube decals, and custom labels — full brand integration.
       icon: ⚙️
+
 capabilities_section:
-  tagline: Capacidades
-  title: Capacidades de producción y personalización
-  subtitle: Todo lo que necesitas saber antes de hacer tu pedido.
+  tagline: Capabilities
+  title: Production & customisation capabilities
+  subtitle: Everything you need to know before placing your order.
   capabilities:
-    - label: Volumen de pedido
-      value: MOQ 50 unidades (SUP)
-    - label: Plazo de entrega
-      value: 30–45 días estándar; 15–20 días para prototipos
-    - label: Personalización
-      value: Tamaño, forma, color, gráficos, embalaje, herrajes
-    - label: Materiales
-      value: PVC, drop-stitch, EVA, aluminio
-    - label: Impresión
-      value: Digital (CMYK), serigrafía, transferencia de calor, sublimación
-    - label: Certificación
-      value: CE, UKCA, FCC (soporte para el cumplimiento global)
+    - label: Order volume
+      value: MOQ 50 units (pool)
+    - label: Lead time
+      value: 12–16 weeks standard (50–100 units); 15–20 days for prototypes
+    - label: Customisation
+      value: Size, shape, colour, graphics, packaging, hardware
+    - label: Materials
+      value: PVC, drop-stitch, EVA, aluminium
+    - label: Printing
+      value: Digital (CMYK), screen printing, heat transfer, sublimation
+    - label: Certification
+      value: CE, UKCA, FCC (support for global compliance)
+
 why_section:
-  tagline: Por qué olagoon
-  title: Una fábrica. Un estándar. Cero concesiones.
+  tagline: Why olagoon
+  title: One factory. One standard. Zero compromises.
   points:
-    - text: Instalación de fabricación integrada de 12.000 m²
+    - text: 12,000 m² integrated manufacturing facility
       highlight: 12,000 m²
-    - text: Más de 200 trabajadores e ingenieros cualificados
-      highlight: '200+'
-    - text: Más de 15.000 tablas SUP producidas anualmente
-      highlight: 15.000+
-    - text: gestión de calidad certificada ISO 9001
+    - text: 200+ skilled workers and engineers
+      highlight: 200+
+    - text: 15,000+ pools produced annually
+      highlight: 15,000+
+    - text: ISO 9001-certified quality management
       highlight: ISO 9001
-    - text: Productos con certificación CE para el mercado de la UE
+    - text: CE certified products for EU market
       highlight: CE
-  cta: Ver detalles de la fábrica
+  cta: View factory details
   cta_link: /factory/
   contact:
-    title: ¿Listo para hablar de tu proyecto?
-    desc: Nuestro equipo responde en 24 horas con un presupuesto preliminar.
+    title: Ready to discuss your project?
+    desc: Our team responds within 24 hours with a preliminary quote.

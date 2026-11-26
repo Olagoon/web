@@ -1,180 +1,190 @@
 meta:
-  title: 'Tillid — kvalitet, standarder & omdømme | {SITE}'
-  description: 'Hvorfor stole på olagoon: CE- og ISO-certificeringer, integreret fabrik, globale referencer og garanti. En professionel producent af oppustelige SUP-brædder.'
+  title: 'Trust — Quality, Standards & Reputation | {SITE}'
+  description: 'Why trust olagoon: CE and ISO certifications, integrated factory, global references, and warranty. A professional inflatable pools manufacturer.'
   keywords:
-    - 'pålidelig SUP-producent'
-    - 'certificeret paddle board fabrik'
-    - 'pålidelig SUP-leverandør'
-    - 'certificeret SUP-fabrik'
+    - 'trusted pool manufacturer'
+    - 'certified inflatable pool factory'
+    - 'reliable pool supplier'
+    - 'certified pool factory'
 hero:
-  tagline: Bygget til standarder, der betyder noget
-  title: Stol på olagoon
+  tagline: 'Built to standards that matter'
+  title: 'Trust olagoon'
   subtitle: |
-    Hvert produkt vi bygger er CE-certificeret — testet for sikkerhed,<br />
-    holdbarhed og ydeevne. Ingen genveje. Ingen undtagelser.
-  taglineSection: Certificeret. Testet. Bevist.
-  image: https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
-  imageAlt: olagoon-produkt gennemgår kvalitetstestning
+    Every product we build is CE certified — tested for safety,<br />
+    durability, and performance. No shortcuts. No exceptions.
+  taglineSection: 'Certified. Tested. Proven.'
+  image: 'https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp'
+  imageAlt: 'olagoon product undergoing quality testing'
+
 stats:
-  title: olagoon i tal
+  title: 'olagoon by the numbers'
   stats:
-    - title: CE-certificeret
-      description: Alle rekreative produkter opfylder EU-sikkerhedsstandarder
-    - title: ISO 9001-certificeret
-      description: Kvalitetsstyringssystem siden 2012
-    - title: BSCI og REACH
-      description: Etisk fremstilling og materialeoverholdelse
-    - title: 3-års garanti
-      description: På hvert olagoon-produkt — uden spørgsmål
+    - title: 'CE Certified'
+      description: 'All recreational products meet EU safety standards'
+    - title: 'ISO 9001'
+      description: 'Quality management system since 2012'
+    - title: 'BSCI & REACH'
+      description: 'Ethical manufacturing and material compliance'
+    - title: '2-Year Warranty'
+      description: 'On every OLagoon product — no questions asked'
+
 features3_certifications:
-  title: Certificeringer & overholdelse
-  subtitle: Hvert produkt er uafhængigt testet og certificeret efter internationale standarder.
+  title: 'Certifications & Compliance'
+  subtitle: 'Every product is independently tested and certified to international standards.'
   columns: 3
   isBeforeContent: true
   items:
-    - title: CE-certificering
-      description: Alle olagoon SUP'er opfylder den europæiske CE-sikkerhedsstandard til rekreativt brug. Hvert produkt gennemgår tryk-, opdrifts- og belastningstest, før det forlader fabrikken.
-      icon: tabler:certificate
-    - title: ISO 9001-certificeret
-      description: Vores 12.000 m² Qingdao-facilitet opererer under et kvalitetsstyringssystem. Hver produktionsbatch er sporbar, dokumenteret og inspiceret.
-      icon: tabler:clipboard-check
-    - title: BSCI social overholdelse
-      description: Vi er BSCI-certificerede, hvilket sikrer etisk arbejdspraksis, sikre arbejdsforhold og miljømæssigt ansvar på tværs af vores forsyningskæde.
-      icon: tabler:users
-    - title: REACH og RoHS
-      description: Alle materialer — PVC, EVA-skum, klæbemidler — overholder EU's REACH- og RoHS-regler. Ingen forbudte stoffer, ingen kompromiser.
-      icon: tabler:flask
-    - title: Materialetestlaboratorium
-      description: Internt materialelaboratorium tester trækstyrke, UV-bestandighed, sømintegritet og slidstyrke for hver stofbatch før produktion.
-      icon: tabler:microscope
-    - title: 3-års garanti
-      description: Hvert olagoon-produkt leveres med en to-års garanti mod produktionsfejl. Vi står ved det, vi bygger.
-      icon: tabler:shield-check
+    - title: 'CE Certification'
+      description: 'All olagoon pools meet the European CE safety standard for recreational use. Each product undergoes pressure, buoyancy, and load testing before leaving the factory.'
+      icon: 'tabler:certificate'
+    - title: 'ISO 9001'
+      description: 'Our 12,000 m² Qingdao facility operates under an ISO 9001 quality management system. Every production batch is traceable, documented, and inspected.'
+      icon: 'tabler:clipboard-check'
+    - title: 'BSCI Social Compliance'
+      description: 'We are BSCI-certified, ensuring ethical labor practices, safe working conditions, and environmental responsibility across our supply chain.'
+      icon: 'tabler:users'
+    - title: 'REACH & RoHS'
+      description: 'All materials — PVC, EVA foam, adhesives — comply with EU REACH and RoHS regulations. No restricted substances, no compromises.'
+      icon: 'tabler:flask'
+    - title: 'Material Testing Lab'
+      description: 'In-house materials lab tests tensile strength, UV resistance, seam integrity, and abrasion for every fabric batch before production.'
+      icon: 'tabler:microscope'
+    - title: '2-Year Warranty'
+      description: 'Every OLagoon product comes with a two-year warranty against manufacturing defects. We stand behind what we build.'
+      icon: 'tabler:shield-check'
+
 testimonials:
-  tagline: Kundetillid
-  title: Hvad vores kunder siger
-  subtitle: Fra førstegangspadlere til professionelle flådeoperatører — se hvorfor de stoler på olagoon.
+  tagline: 'Customer Trust'
+  title: 'What our customers say'
+  subtitle: 'From first-time swimmers to professional fleet operators — see why they trust olagoon.'
   items:
-    - content: Vi udstyrede hele vores udlejningsflåde med olagoon SUP'er. To sæsoner inde, nul fejl. CE-certificeringen gjorde forsikringsgodkendelse problemfri.
-      name: Marco V.
-      title: Turarrangør, Kroatien
-    - content: Som førstegangskøber var jeg nervøs for kvaliteten. ISO-dokumentationen og testrapporterne, de delte, gav mig fuldstændig tillid.
-      name: James T.
-      title: SUP Explorer 11-ejer, Canada
-    - content: Vi arbejder med olagoon til vores kystpatruljeenheder. Deres QC-proces er konsekvent på tværs af hver batch — den pålidelighed betyder noget i missionskritiske operationer.
-      name: Lt. Cmdr. Andres
-      title: Flådeindkøb, Filippinerne
+    - content: 'We run OLagoon pools across three holiday properties. Two seasons in, zero failures. The CE certification made our local approvals seamless.'
+      name: 'Marco V.'
+      title: 'Resort operator, Croatia'
+    - content: 'As a first-time buyer, I was nervous about quality. The ISO documentation and test reports they shared gave me complete confidence.'
+      name: 'James T.'
+      title: 'Family Oasis owner, Canada'
+    - content: 'We source our private-label pools from OLagoon. Their QC process is consistent across every batch — that reliability matters when your brand is on the box.'
+      name: 'Andrea S.'
+      title: 'Private-label partner, United States'
+
 steps2_manufacturing:
-  title: Sådan sikrer vi kvalitet
-  subtitle: Fra råvareinspektion til endelig trykprøvning — hvert produkt gennemgår en stringent kvalitetskæde.
+  title: 'How we ensure quality'
+  subtitle: 'From raw material inspection to final pressure testing — every product goes through a rigorous quality chain.'
   items:
-    - title: Råvareinspektion
-      description: Hver rulle PVC-stof testes for tykkelse, trækstyrke og UV-bestandighed, før den går ind i produktionen.
-      icon: tabler:search
-    - title: Løbende QC
-      description: Svejsesømme, ventilinstallationer og kammerbindinger inspiceres ved hver station under samling.
-      icon: tabler:eye
-    - title: Trykprøvning
-      description: Hvert oppusteligt produkt pumpes op til 1,25x nominel PSI og holdes i 24–48 timer for at verificere luftretention og sømintegritet.
-      icon: tabler:wind
-    - title: Slutinspektion
-      description: Hver enhed inspiceres for finish, hardware og emballage, før den godkendes til forsendelse. Batchprøver sendes til vores laboratorium til destruktiv testning.
-      icon: tabler:clipboard-check
+    - title: 'Raw Material Inspection'
+      description: 'Every roll of PVC fabric is tested for thickness, tensile strength, and UV resistance before entering production.'
+      icon: 'tabler:search'
+    - title: 'In-Process QC'
+      description: 'Weld seams, valve installations, and chamber bonds are inspected at each station during assembly.'
+      icon: 'tabler:eye'
+    - title: 'Pressure Testing'
+      description: 'Every inflatable product is inflated to 1.25x rated PSI and held for 24–48 hours to verify air retention and seam integrity.'
+      icon: 'tabler:wind'
+    - title: 'Final Inspection'
+      description: 'Each unit is inspected for finish, hardware, and packaging before being approved for shipment. Batch samples go to our lab for destructive testing.'
+      icon: 'tabler:clipboard-check'
+
 factory_audit:
-  title: Fabriksaudit og social ansvarlighed
-  subtitle: Vores 12.000 m² facilitet i Qingdao er åben for tredjepartsaudit. Vi opretholder BSCI-certificering for social ansvarlighed og byder kunderevisioner velkomne.
+  title: 'Factory Audit & Social Compliance'
+  subtitle: 'Our 12,000 m² Qingdao facility is open to third-party audits. We maintain BSCI social compliance certification and welcome customer inspections.'
   stats:
-    - value: 12.000 m²
-      label: Produktionsfacilitet
-    - value: 200+
-      label: Faglærte medarbejdere
-    - value: 15.000+
-      label: Årlig enhedskapacitet
-    - value: BSCI
-      label: Social ansvarlighed
+    - value: '12,000 m²'
+      label: 'Production Facility'
+    - value: '200+'
+      label: 'Skilled Workers'
+    - value: '15,000+'
+      label: 'Annual Unit Capacity'
+    - value: 'BSCI'
+      label: 'Social Compliance'
   highlights:
-    - title: BSCI-certificeret
-      desc: amfori BSCI-social compliance-certificering — etisk arbejde, sikre forhold, miljøansvar.
-      link: /certifications/
-    - title: Åben for inspektion
-      desc: Vi byder velkommen til kundernes fabriksaudits. Book et besøg eller en virtuel rundvisning på vores produktionslinjer i Qingdao.
-      link: /factory/
-    - title: Fuld sporbarhed
-      desc: Hver produktionsbatch er dokumenteret og sporbar — fra råmaterialernes partinummer til endelig QC-godkendelse.
-    - title: ISO 9001:2015
-      desc: Kvalitetsstyringssystem certificeret af SGS. Vores processer opfylder internationale fremstillingsstandarder.
-      link: /certifications/
+    - title: 'BSCI Certified'
+      desc: 'amfori BSCI social compliance certification — ethical labour, safe conditions, environmental responsibility.'
+      link: '/certifications/'
+    - title: 'Open for Inspection'
+      desc: 'We welcome customer factory audits. Schedule a visit or virtual tour of our Qingdao production lines.'
+      link: '/factory/'
+    - title: 'Full Traceability'
+      desc: 'Every production batch is documented and traceable — from raw material lot numbers to final QC sign-off.'
+    - title: 'ISO 9001:2015'
+      desc: 'Quality management system certified by SGS. Our processes meet international manufacturing standards.'
+      link: '/certifications/'
+
 warranty_section:
-  title: Garanti og eftersalgsservice
-  subtitle: Vi står bag hvert eneste produkt med klare garantibetingelser, hurtig reklamationsbehandling og ægte reservedele.
+  title: 'Warranty & After-Sales Support'
+  subtitle: 'We stand behind every product with clear warranty terms, fast claims processing, and genuine replacement parts.'
   items:
-    - title: 3 års produktgaranti
-      desc: Alle olagoon-produkter har 3 års garanti mod fabrikationsfejl — svigtende sømme, defekte ventiler og delaminering af materialet ved normal brug.
-    - title: Livsvarig reservedelssupport
-      desc: Ægte reservedele — ventiler, reparationssæt, finner, D-ringe — fås til alle modeller. Vi vedligeholder forme og værktøj i mindst 5 år efter produktionens ophør.
-    - title: 48-timers svar på reklamationer
-      desc: Garantikrav bekræftes inden for 48 timer. Erstatningsbrædder sendes inden for 10 arbejdsdage ved godkendte krav.
-    - title: Globalt reparationsnetværk
-      desc: Autoriserede reparationscentre i 15+ lande. Reparationssæt til felten er tilgængelige til fjerntliggende operationer. Gør-det-selv-reparationsguider til mindre skader.
-    - title: OEM-kundesupport
-      desc: Dedikerede account managers til B2B-partnere. Kvartalsvise forretningsgennemgange, lagerplanlægning og støtte til co-brandet markedsføring.
-    - title: Certificeringspakke
-      desc: Fuld overensstemmelsesdokumentation medfølger med hver forsendelse — CE-erklæring, testrapporter og sikkerhedsdatablade.
-      link: /contact/
+    - title: '2-Year Product Warranty'
+      desc: 'All OLagoon products carry a 2-year warranty against manufacturing defects — seam failure, valve defects, and material delamination under normal use.'
+    - title: 'Lifetime Parts Support'
+      desc: 'Genuine replacement parts — valves, seals, repair kits, fittings — available for all models. We maintain moulds and tooling for a minimum of 5 years after production end.'
+    - title: '48-Hour Claim Response'
+      desc: 'Warranty claims acknowledged within 48 hours. Replacement units shipped within 10 business days for approved claims.'
+    - title: 'Global Repair Network'
+      desc: 'Authorised repair centres in 15+ countries. Field repair kits available for remote regions. DIY repair guides for minor damage.'
+    - title: 'OEM Customer Support'
+      desc: 'Dedicated account managers for B2B partners. Quarterly business reviews, inventory planning, and co-branded marketing support.'
+    - title: 'Certification Package'
+      desc: 'Full compliance documentation provided with every shipment — CE Declaration, test reports, material safety data sheets.'
+      link: '/contact/'
+
 trust_resources:
-  title: Troværdige ressourcer
-  subtitle: Hent vores certificeringsportefølje, QC-rapporter og overholdelsesdokumentation.
+  title: 'Trust Resources'
+  subtitle: 'Download our certification portfolio, QC reports, and compliance documentation.'
   items:
-    - title: Certificeringsportefølje
-      desc: CE-, ISO 9001-, BSCI-, REACH-, RoHS- og AS 1799-certifikater i én pakke.
-    - title: Rapport om QC-teststandarder
-      desc: 24–48-timers trykholde-tests, UV-ældning efter ISO, validering af trækstyrke — komplet metodik.
-    - title: Fabriksprofil og auditrapport
-      desc: Oversigt over vores 12.000 m² facilitet med produktionslinjebilleder og resumé af tredjepartsaudit.
-    - title: Dokument om garantipolitik
-      desc: Fuldstændige garantibetingelser, reklamationsproces og priser på udskiftningsdele.
-  cta_text: Anmod om tillidsressourcer
-  cta_link: /contact/
-faqs_sup:
-  title: SUP-brædder FAQ
-  subtitle: Almindelige spørgsmål om vores paddleboards.
+    - title: 'Certification Portfolio'
+      desc: 'CE, ISO 9001, BSCI, REACH, RoHS, AS 1799 certificates in one package.'
+    - title: 'QC Testing Standards Report'
+      desc: '24–48 hour pressure hold tests, UV aging per ISO, tensile strength validation — complete methodology.'
+    - title: 'Factory Profile & Audit Report'
+      desc: '12,000 m² facility overview with production line photos and third-party audit summary.'
+    - title: 'Warranty Policy Document'
+      desc: 'Full warranty terms, claims process, and replacement parts pricing.'
+  cta_text: 'Request Trust Resources'
+  cta_link: '/contact/'
+
+faqs_pool:
+  title: 'pools FAQs'
+  subtitle: 'Common questions about our drop-stitch pool.'
   columns: 2
   items:
-    - title: Hvilke SUP-brætstørrelser er tilgængelige?
-      description: Vi tilbyder SUP-brædder fra 9 ft til 12 ft, inklusive all-round, touring, yoga og specialdesigns. Vores bedst sælgende modeller inkluderer Tropical Breeze (10 ft) og Ocean Voyager (11 ft).
-    - title: Hvad er drop-stitch-konstruktion?
-      description: Drop-stitch-konstruktion bruger tusindvis af polyestertråde, der forbinder brættets top- og bundlag, hvilket gør det muligt at holde højt lufttryk (15-20 PSI) og opnå en stiv, stabil platform. Dette er industristandarden for premium oppustelige SUP'er.
-    - title: Hvad er vægtgrænsen for SUP-brædder?
-      description: Vores SUP-brædder understøtter op til 150 kg afhængigt af model og volumen. Leviathan Wake er vores model med højest kapacitet, designet til større ryttere og yogabrug.
-    - title: Tilbyder du komplette SUP-pakker?
-      description: Ja. Hvert SUP-bræt leveres med en komplet pakke inklusive 3-delt aluminiumspagaj, højtryks håndpumpe, spiralsnor, rejserygsæk og reparationssæt. Nogle modeller inkluderer også et aftageligt finnesæt.
-    - title: Hvad er garantien på SUP-brædder?
-      description: Alle olagoon SUP-brædder har tre-års garanti mod produktionsfejl, inklusive sømfejl, ventilfejl og materialedelaminering under normal brug.
-    - title: Hvor lang tid tager det at pumpe et SUP-bræt op?
-      description: Ved brug af den medfølgende håndpumpe tager fuld oppumpning til 15 PSI cirka 8-12 minutter. For hurtigere oppumpning anbefaler vi vores olagoon 12V elektriske pumpe, der pumper et bræt op på under 4 minutter.
+    - title: 'What pool sizes does OLagoon offer?'
+      description: 'We offer three pool sizes — Compact Plunge (2 m × 1.5 m), Family Oasis (3 m × 2 m), and Grand Lagoon (5 m × 2.5 m) — all with 20 cm drop-stitch walls. Each model pairs with matched filtration and accessories.'
+    - title: 'What is the difference between an inflatable pool and a rigid pool?'
+      description: 'An inflatable pool uses drop-stitch construction with thousands of internal threads allowing high air pressure, while a rigid pool is built from steel, resin, or concrete. Inflatable pools offer portability, easy storage, and lower cost without sacrificing structural rigidity.'
+    - title: 'How much water do OLagoon pools hold?'
+      description: 'Capacity depends on the model and fill level — from roughly 1,500 L for the Compact Plunge to over 8,000 L for the Grand Lagoon. Each product page lists the recommended fill level for your specific model.'
+    - title: 'Are OLagoon pools CE certified?'
+      description: 'Yes. All pool models are CE certified under applicable European standards for recreational use.'
+    - title: 'What is the warranty on OLagoon pools?'
+      description: 'All OLagoon pools come with a standard 2-year warranty against manufacturing defects, covering seam failure, valve defects, and material delamination under normal use.'
+    - title: 'How long does it take to set up a pool?'
+      description: 'Plan on under 30 minutes from box to filling: unpack, inflate the 20 cm walls with the included pump, connect the filter, and start filling. No tools or professional installation required.'
+
 faqs_materials:
-  title: SUP-materiale- og pleje-FAQ
-  subtitle: Almindelige spørgsmål om vores oppustelige SUP-materialer, pleje og opbevaring.
+  title: 'pool Material & Care FAQs'
+  subtitle: 'Common questions about our inflatable pools materials, care, and storage.'
   columns: 2
   items:
-    - title: Hvilke materialer anvendes i olagoon oppustelige SUPs?
-      description: Vi bruger PVC i militær kvalitet (1100 denier) med UV-stabiliseret, slidstærk konstruktion, der overholder EU's REACH- og RoHS-regler.
-    - title: Hvor længe holder oppustelige SUP-boards?
-      description: Med korrekt pleje holder en kvalitets-PVC-opblæselig SUP i 5–10 år. Regelmæssig rengøring, UV-beskyttelse og korrekt opbevaring forlænger levetiden betydeligt.
-    - title: Hvilken vedligeholdelse kræver en oppustelig SUP?
-      description: Grundlæggende vedligeholdelse omfatter skylning med ferskvand efter hver brug (især i saltvand), tørring før opbevaring, årlig kontrol af ventiltætninger og undgåelse af længerevarende solpåvirkning, når udstyret ikke er i brug.
-    - title: Kan oppustelige SUP'er bruges i saltvand?
-      description: Ja. Alle oppustelige SUP-brætter fra olagoon er designet til både ferskvand og saltvand. Vi anbefaler at skylle brætterne med ferskvand og tørre dem grundigt efter ophold i saltvand.
-    - title: Hvordan opbevarer jeg en oppustelig SUP?
-      description: Tøm luften ud af boardet, og rengør og tør det helt, før det opbevares. Rul det løst (undgå stramme folder), opbevar det køligt og tørt og beskyttet mod direkte sollys, og lad det ikke stå på betongulve for at undgå fugtsugning.
-    - title: Hvad er vægtkapaciteten for olagoon-oppustelige SUP-brædder?
-      description: Bæreevnen spænder fra 100 kg på vores mindste modeller til over 200 kg på de større boards. Hver produktside viser den maksimale lastkapacitet for din specifikke model.
+    - title: 'What materials are used in OLagoon pools?'
+      description: 'We use marine-grade high-tensile PVC with UV-stabilized, abrasion-resistant drop-stitch construction, compliant with EU REACH and RoHS regulations.'
+    - title: 'How long do inflatable pools last?'
+      description: 'With proper care, a quality drop-stitch pool lasts 5–10 years. Regular cleaning, covered storage, and proper winterization significantly extend service life.'
+    - title: 'What maintenance is required for an inflatable pool?'
+      description: 'Basic maintenance includes running the filter pump daily, testing and balancing water chemistry weekly, rinsing the walls at season end, and using the thermal cover to keep debris out and heat in.'
+    - title: 'Can I use salt-water sanitation in an OLagoon pool?'
+      description: 'Yes. Our PVC materials tolerate salt-water sanitation systems. We recommend rinsing the walls thoroughly with fresh water before off-season storage.'
+    - title: 'How do I store an inflatable pool for winter?'
+      description: 'Drain, clean, and dry the pool completely before storage. Fold loosely (avoid tight creases), store in a cool dry place away from direct sunlight, and keep off concrete floors to prevent moisture wicking.'
+    - title: 'What accessories work with OLagoon pools?'
+      description: 'Matched accessories include the sand-filter pump ($249), thermal cover ($129), ground mat ($89), and entry steps ($199) — all sized to your specific model.'
+
 cta:
-  title: Vil du se certificeringerne selv?
-  subtitle: Anmod om vores certificeringsportfolio, fabriksauditrapporter eller materialeoverholdelsesdokumentation. Intet NDA påkrævet.
+  title: 'Want to see the certifications yourself?'
+  subtitle: 'Request our certification portfolio, factory audit reports, or material compliance documentation. No NDA required.'
   actions:
     - variant: primary
-      text: Anmod om certificeringsdokumenter
-      href: /contact/
-    - text: Besøg vores fabriksside
-      href: /factory/
+      text: 'Request certification docs'
+      href: '/contact/'
+    - text: 'Visit our factory page'
+      href: '/factory/'

@@ -1,53 +1,53 @@
 meta:
-  title: 'Dzīvesveids — airēšana, piedzīvojumi un izpēte | {SITE}'
-  description: 'Iepazīstiet olagoon dzīvesveidu: airēšanas piedzīvojumi, ūdens izpēte un lauku pieredze ar piepūšamajiem SUP dēļiem.'
+  title: 'Lifestyle — Backyard Living & Family Fun | {SITE}'
+  description: 'Explore the OLagoon lifestyle: backyard transformations, family water fun, and outdoor living with inflatable pools.'
   keywords:
-    - 'sup dzīvesveids'
-    - 'airēšanas piedzīvojumi'
-    - 'piepūšamais sup ārpus telpām'
-    - 'ūdens sporta dzīvesveids'
+    - 'pool lifestyle'
+    - 'backyard living'
+    - 'inflatable pools outdoor'
+    - 'water sports lifestyle'
 hero:
-  tagline: 'Dzīvesveids'
-  title: 'olagoon<br />dzīvesveids'
-  subtitle: 'Radīts tiem, kas dzīvo uz ūdens — no nedēļas nogales pētniekiem līdz komerciālajiem operatoriem, kuri katru dienu paļaujas uz savu aprīkojumu.'
+  tagline: Lifestyle
+  title: The olagoon<br />Lifestyle
+  subtitle: Built for those who live on the water — from weekend explorers to commercial operators who depend on their gear every day.
 
 values:
   - icon: 🌊
-    title: 'Dzimis uz ūdens'
-    desc: 'Katrs dizains sākas ar ūdens uzvedības izpratni. Mēs konstruējam no apstākļu robežas uz iekšpusi — jo okeāns ir mūsu skolotājs, ne darba vieta.'
+    title: Born on the Water
+    desc: Every design starts with understanding how water behaves. We engineer from the edge of conditions inward — because the ocean is our teacher, not our workplace.
   - icon: 🔧
-    title: 'Būvēts, lai kalpotu'
-    desc: 'Videi draudzīgākais produkts ir tas, kas nav jānomaina. Jūras līmeņa materiāli, Drop-Stitch kodoli ar 15 PSI vērtējumu un šuves, kas pārdzīvo sezonu.'
-  - icon: 🏆
-    title: 'Pieejams pēc dizaina'
-    desc: 'Ūdens sports nedrīkst būt greznuma prece. Profesionāla līmeņa veiktspēja par cenu, kas ir saprātīga ģimenēm, gidiem un mazajiem operatoriem — ne tikai komerciālajām flotēm.'
+    title: Built to Last
+    desc: The most sustainable product is the one that does not need replacing. Marine-grade materials, drop-stitch cores rated to 15 PSI, and seams that outlast the season.
+  - icon: '🏆'
+    title: Accessible by Design
+    desc: Water sports should not be a luxury. Professional-grade performance at a price that makes sense for families, guides, and small operators — not just commercial fleets.
   - icon: 🌍
-    title: 'Globāla kopiena'
-    desc: 'No Cindao krasta līdz Eiropas ezeriem, Dienvidaustrumāzijas upēm un Amerikas līčiem — mūsu klientiem ir kopīgs viens: mīlestība uz būšanu uz ūdens.'
+    title: Global Community
+    desc: 'From the coast of Qingdao to lakes in Europe, rivers in Southeast Asia, and bays in the Americas — our customers share one thing: a love for being on the water.'
   - icon: ♻️
-    title: 'Atbildīga ražošana'
-    desc: 'CNC optimizēts izkārtojums samazina materiālu atkritumus zem 5%. Izturīga konstrukcija mazina nomaiņas ciklus. Mēs būvējam ilgmūžībai, jo tā ir videi draudzīgākā izvēle.'
+    title: Responsible Manufacturing
+    desc: CNC-optimised nesting cuts material waste below 5%. Durable construction reduces replacement cycles. We build for longevity because that is the most sustainable choice.
   - icon: 🤝
-    title: 'Atbalsts, kas ilgst'
-    desc: 'Divdesmit gadus vecie korpusi vēl aizvien zvana mums pēc rezerves daļām. Mūsu garantijas atbildes vidējais laiks ir 24 stundas. Mēs nepazūdam pēc pārdošanas — mēs esam šeit visu produkta mūžu.'
+    title: Support That Lasts
+    desc: Twenty-year-old hulls still call us for spare parts. Our warranty response averages 24 hours. We do not disappear after the sale — we are here for the life of the product.
 
 ethos_section:
-  tagline: 'Mūsu vērtības'
-  title: 'Vairāk nekā produkts. Filozofija.'
-  subtitle: 'Seši principi, kas veido katru mūsu lēmumu — no materiālu izvēles līdz klientu atbalstam.'
+  tagline: Our Ethos
+  title: More than a product. A philosophy.
+  subtitle: Six principles that shape every decision we make — from material selection to customer support.
 
 community_section:
-  tagline: 'Kopiena'
-  title: 'Pievienojieties olagoon kopienai'
-  subtitle: 'Sekojiet mūsu ceļam un dalieties ar saviem piedzīvojumiem uz ūdens.'
-  instagram: 'Sekojiet Instagram'
-  youtube: 'Abonējiet YouTube'
-  x: 'Sekojiet X'
+  tagline: Community
+  title: Join the olagoon Community
+  subtitle: Follow our journey and share your own adventures on the water.
+  instagram: Follow on Instagram
+  youtube: Subscribe on YouTube
+  x: Follow on X
 
 cta_section:
-  title: 'Sāciet savu ceļu'
-  subtitle: 'Katrs produkts CE sertificēts. Ar garantiju. Radīts īstai dzīvei uz ūdens.'
-  products_cta: 'Iepazīstiet produktus →'
-  about_cta: 'Par mums'
+  title: Start your journey
+  subtitle: Every product CE certified. Backed by warranty. Designed for real life on the water.
+  products_cta: Explore Products →
+  about_cta: About Us
   products_link: /products/
   about_link: /about/

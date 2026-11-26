@@ -1,95 +1,95 @@
 meta:
-  title: 'Prototipska radionica — Izrada prototipa SUP daska u punoj veličini i ispitivanja na moru | {SITE}'
-  description: 'Od CAD-a do daske spremne za vodu u 8-12 tjedana. Naša prototipska radionica izrađuje, oprema i ispituje na moru napuhive SUP daske po mjeri. Započnite svoj prototipski projekt danas.'
-back_text: 'Natrag na R&D centar'
-home_label: 'Početna'
+  title: 'Prototype Workshop — Full-Scale pool Prototyping & Sea Trials | {SITE}'
+  description: 'From CAD to backyard-ready pool in 8-12 weeks. Our Prototype Workshop builds, rigs, and water-tests custom inflatable pools. Start your prototype project today.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
 
 hero:
   tagline: 'Lab 05'
-  title: 'Prototipska radionica'
-  subtitle: 'Od CAD modela do daske spremne za vodu — izrađeno, opremljeno i dokazano'
-  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp'
-  image_alt: 'Izrada dasaka u olagoon prototipskoj radionici'
+  title: 'Prototype Workshop'
+  subtitle: 'From CAD model to water-ready pool — built, fitted, and proven'
+  image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+  image_alt: 'OLagoon prototype workshop pool fabrication'
 
-intro: 'CAD model, ma koliko bio detaljan, ne može otkriti kako će se daska stvarno ponašati dok ne sretne vodu. Zato je naša prototipska radionica dizajnirana da inženjerske podatke prevede u fizičku dasku spremnu za vodu što brže i preciznije. Svaki novi OLagoon model — i svaka značajnija izrada po mjeri — prolazi kroz ovu radionicu prije obaveze na proizvodne alate.'
+intro: 'A CAD model, no matter how detailed, cannot reveal how a pool will actually perform until it meets the water. That is why our Prototype Workshop is designed to translate engineering data into a physical, water-ready pool as quickly and accurately as possible. Every new OLagoon model — and every significant custom build — passes through this workshop before the production tooling is committed.'
 
 content_html: |
   <h2>Where design becomes reality</h2>
-  <p>Radionica je u potpunosti opremljena za istovremenu izradu trupa, rubova i opreme. Ovaj pristup paralelnog radnog tijeka skraćuje vrijeme izrade prototipa na 8-12 tjedana od inženjerskog odobrenja, u usporedbi s industrijskim prosjekom od 16-20 tjedana. Kada vaša aplikacija zahtijeva specijalizirano rješenje, možemo prijeći od koncepta do provjere na vodi za manje od tri mjeseca.</p>
+  <p>The workshop is fully equipped for simultaneous fabrication of hull, rails, and rigging. This parallel-workflow approach cuts prototype lead time to 8-12 weeks from engineering release, compared to the industry norm of 16-20 weeks. When your application demands a specialised solution, we can move from concept to on-water validation in under three months.</p>
 
-  <h2>Mogućnosti radionice</h2>
+  <h2>Workshop capabilities</h2>
   <table>
-    <thead><tr><th>Radna stanica</th><th>Oprema</th><th>Svrha</th></tr></thead>
+    <thead><tr><th>Workstation</th><th>Equipment</th><th>Purpose</th></tr></thead>
     <tbody>
-      <tr><td>Izrada trupa</td><td>CNC rezač tkanine, preša za toplinsku laminaciju, stanica za pripremu drop-stitch jezgre</td><td>Izrada trupa u punoj veličini u sva tri tipa konstrukcije</td></tr>
-      <tr><td>Montaža rubova i komora</td><td>RF preša za zavarivanje, stanica za privremeno spajanje vrućim zrakom, ispitni uređaj za napuhivanje</td><td>Izrada rubova i komora u punoj veličini sa svim pregradama i ventilima</td></tr>
-      <tr><td>Oprema i ugradnja</td><td>Predložak za glodanje ležišta peraje, uređaji za zavarivanje nosača tereta i ručki, stanica za rezanje podloge za stajanje</td><td>Kompletna oprema: peraje, nosači tereta, priključci za uže, ručke, podloge za stajanje, ventili</td></tr>
-      <tr><td>Instrumentacijski prostor</td><td>GPS senzor brzine, pretvarači tlaka, akcelerometri, niz termoparova, bilježnik podataka</td><td>Ugradnja i kalibracija instrumentacije za ispitivanja na moru</td></tr>
+      <tr><td>Hull fabrication</td><td>CNC fabric cutter, heat-lamination press, drop-stitch core preparation station</td><td>Full-scale hull production in all three construction types</td></tr>
+      <tr><td>Rail &amp; chamber assembly</td><td>RF welding press, hot-air tacking station, inflation test jig</td><td>Fabrication of full-size rail and chamber assemblies with all baffles and valves</td></tr>
+      <tr><td>Rigging &amp; fitting</td><td>Fin-box routing jig, cargo-mount and handle welding fixtures, deck-pad cutting station</td><td>Complete outfitting: fins, cargo mounts, leash plugs, handles, deck pads, valves</td></tr>
+      <tr><td>Instrumentation bay</td><td>GPS speed sensor, pressure transducers, accelerometers, thermocouple array, data-logger</td><td>Sea-trial instrumentation installation and calibration</td></tr>
     </tbody>
   </table>
 
-  <h2>Put prototipa — korak po korak</h2>
+  <h2>The prototype journey — step by step</h2>
   <ol>
-    <li><strong>Inženjerska predaja</strong> — Dizajnersku dokumentaciju (3D model, FEA izvještaj, popis materijala, raspored slaganja) formalno pregledavaju voditelj radionice i projektni inženjer. Sve nedoumice oko proizvodnje obilježavaju se i rješavaju prije početka rezanja.</li>
-    <li><strong>Izrada trupa</strong> — Trup se gradi prema inženjerskoj specifikaciji. Za konstrukciju u jednom sloju: drop-stitch jezgra laminira se specificiranom PVC prevlakom. Za konstrukciju u dva sloja: dodatna se prevlaka nanosi preko osnovnog laminata prije rezanja kroja. Za spojenu konstrukciju: parametri laminacije učitavaju se iz odobrenog list procesa i provjeravaju na prvom uzorku.</li>
-    <li><strong>Izrada rubova</strong> — Tkanina se reže pomoću CNC predložaka, a zatim RF zavaruje u rubove i komore u punoj veličini. Svaka se komora napuhuje na ispitni tlak i ostavlja 24 h za početnu stabilizaciju.</li>
-    <li><strong>Montaža i oprema</strong> — Trup i rubovi se spajaju. Ugrađuju se ležišta peraja i nosači tereta, instaliraju priključci za uže i ručke za nošenje, ventil za napuhivanje se pritegne, a podloga za stajanje nanosi i poravna.</li>
-    <li><strong>Statička ispitivanja</strong> — Prije nego što daska dotakne vodu, prolazi: provjeru plovnosti (puno opterećenje + 30 % rezerve), ispitivanje zadržavanja tlaka u komorama, test curenja ventila, ispitivanje vučne čvrstoće ručki i nosača.</li>
-    <li><strong>Program ispitivanja na moru</strong> — 20 sati ispitivanja u vodi, detaljno opisano u nastavku.</li>
-    <li><strong>Pregled prototipa</strong> — Održava se formalni sastanak odobrenja s inženjerskim, proizvodnim i kvalitetativnim timovima. Sve potrebne izmjene dizajna dokumentiraju se i uključuju u proizvodno odobrenje.</li>
+    <li><strong>Engineering handover</strong> — The design package (3D model, FEA report, bill of materials, layup schedule) is formally reviewed by the workshop lead and the project engineer. Any manufacturing concerns are flagged and resolved before cutting begins.</li>
+    <li><strong>Hull production</strong> — The hull is built according to the engineering specification. For single-layer construction: the drop-stitch core is laminated with the specified PVC skin. For double-layer construction: the additional skin is applied over the base laminate before the pattern is cut. For fused construction: the lamination parameters are loaded from the approved process sheet and verified on a first-off coupon.</li>
+    <li><strong>Rail fabrication</strong> — Fabric is cut using CNC-pattern templates, then RF-welded into full-size rails and chambers. Each chamber is inflated to test pressure and left for 24 h for initial stabilisation.</li>
+    <li><strong>Assembly &amp; rigging</strong> — Hull and rails are mated. Fin boxes and cargo mounts are fitted, leash plugs and carry handles are installed, the inflation valve is torqued in, and the deck pad is applied and aligned.</li>
+    <li><strong>Static tests</strong> — Before the pool is filled, it undergoes: structural check (full water load + 30 % reserve), chamber pressure-hold test, valve leak-down test, handle and mount pull-test.</li>
+    <li><strong>Sea trial programme</strong> — 20 hours of in-water testing, detailed below.</li>
+    <li><strong>Prototype review</strong> — A formal sign-off meeting is held with engineering, production, and quality teams. Any required design changes are documented and incorporated into the production release.</li>
   </ol>
 
   <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
-    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20-satni program ispitivanja na moru — raspored testiranja</p>
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20-Hour Sea Trial Programme — Test Schedule</p>
     <div class="space-y-2 text-sm">
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">Upoznavanje na mirnoj vodi — praćenje pri maloj brzini, skretanje, provjera stava i ravnoteže</span>
+        <span class="flex-1">Flat-water familiarisation — low-speed tracking, turning, stance and trim check</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">4 h</span>
-        <span class="flex-1">Ispitivanje brzine — GPS-potvrđena maksimalna brzina, brzina krstarenja, održiv tempo pri 3 frekvencije zamaha</span>
+        <span class="flex-1">Speed trial — GPS-verified top speed, cruise speed, sustained pace at 3 stroke rates</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Test skretanja — radijus okreta oko ose i zamahom, odziv daske, lijevo i desno</span>
+        <span class="flex-1">Stability test — wall rigidity, floor firmness, and seating comfort under full load</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Test na valovima — ponovljeni prolazi kroz valove od 0,5–1,0 m; akcelerometar na poziciji vozača</span>
+        <span class="flex-1">Chop test — repeated runs through 0.5–1.0 m chop; accelerometer at the rider stance position</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Test stabilnosti — statični kut nagiba s 4 vozača različite težine, opterećenje pomaknuto desno</span>
+        <span class="flex-1">Stability test — static heel angle with 4 riders of varying weight, offset load to starboard</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Ispitivanje izdržljivosti — 3 h neprekidno u tempu krstarenja; praćenje tlaka u komorama, temperature rubova i umora vozača</span>
+        <span class="flex-1">Endurance run — 3 h continuous at cruise pace; monitoring of chamber pressure, rail temperature, and rider fatigue</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">Završni pregled — pregled svih komponenata nakon ispitivanja, pritegnuti/provjeriti svi spojevi, dokumentiranje nalaza</span>
+        <span class="flex-1">Final inspection — post-trial inspection of all components, tighten/check all fasteners, document findings</span>
       </div>
     </div>
   </div>
 
-  <h2>Izrada prototipa po mjeri za jedinstvene namjene</h2>
-  <p>Prototipska radionica mjesto je gdje rješavamo probleme koje standardne proizvodne daske ne mogu adresirati. Nedavni primjeri:</p>
+  <h2>Custom prototyping for unique applications</h2>
+  <p>The Prototype Workshop is where we solve the problems that standard production pools cannot address. Recent examples include:</p>
   <ul>
-    <li>SUP daska za spašavanje u visokoj vidljivosti za organizaciju za potragu i spašavanje, s integriranim ručkama za hvatanje, nosačima opreme za spašavanje i trupom visoke plovnosti za izvlačenje unesrećenih — sve izrađeno kao prototip, opremljeno i testirano u našem pogonu.</li>
-    <li>Ekspedicijska touring SUP daska za izvođača hidrografskih istraživanja, s uklonjivim jarbolom za instrumente, zabrtvljenim priključcima za opremu i niskim nosačem pretvarača dizajniranim za smanjenje otpora.</li>
-    <li>Kompaktna ribolovna SUP daska za flotu odmarališta, gdje je prototip korišten za validaciju stabilnosti, opreme i izdržljivosti u svakodnevnoj najamnoj upotrebi prije nego što se klijent odlučio na flotu od četiri daske.</li>
+    <li>A high-visibility rescue pool for a search-and-rescue organisation, requiring integrated grab handles, gear mounts for rescue equipment, and a high-buoyancy hull for casualty recovery — all prototyped, fitted, and tested at our facility.</li>
+    <li>An expedition touring pool for a hydrographic survey contractor, with a removable instrument mast, sealed gear ports, and a low-profile transducer mount designed to minimise drag.</li>
+    <li>A compact fishing pool for a resort fleet, where the prototype was used to validate stability, gear rigging, and durability under daily rental use before the client committed to a fleet of four.</li>
   </ul>
 
-  <h2>Naš tim za izradu prototipova</h2>
-  <p>U radionici radi osam višestruko osposobljenih tehničara za more, svaki dodatno osposobljen za najmanje dvije od tri ključne discipline (trup, rub, oprema). Voditelj tima majstor je izrade s 16 godina iskustva, od jedinstvenih izrada po mjeri do proizvodnih serija. Svaki prototip dobiva posvećenog projektnog inženjera koji je jedina kontakt točka za klijenta tijekom cijelog procesa izrade i ispitivanja.</p>
+  <h2>Our prototyping team</h2>
+  <p>The workshop is staffed by eight multi-skilled marine technicians, each cross-trained in at least two of the three core disciplines (hull, rail, rigging). The team lead is a master fabricator with 16 years of experience spanning custom one-off builds to production series. Every prototype is assigned a dedicated project engineer who serves as the single point of contact for the client throughout the build and trial process.</p>
 
-  <h2>Uključenost klijenta</h2>
-  <p>Aktivno potičemo klijente da prisustvuju ključnim fazama izrade prototipa — posebno početnom pregledu opremanja i ispitivanju na moru. Vaša operativna povratna informacija u tim fazama neprocjenjiva je za fino podešavanje daske prije ulaska u proizvodnju. Ne gradimo u vakuumu; gradimo u partnerstvu s vama.</p>
-  <p>20-satno ispitivanje na moru ujedno je prilika da se vaš tim upozna s ponašanjem daske, rasporedom površine i zahtjevima održavanja, čime se osigurava glatan prelazak u upotrebu kada se isporuče proizvodne daske.</p>
+  <h2>Client involvement</h2>
+  <p>We actively encourage our clients to attend key milestones during the prototype build — particularly the initial fit-out review and the sea trial. Your operational feedback during these stages is invaluable in fine-tuning the pool before it enters production. We do not build in a vacuum; we build in partnership with you.</p>
+  <p>The 20-hour water trial is also an opportunity for your team to familiarise themselves with the pool's operation, layout, and maintenance requirements, ensuring a smooth transition to service when the production pools are delivered.</p>
 
 cta:
-  title: 'Započnite svoj prototipski projekt'
-  subtitle: 'Recite nam koja vam daska treba i predložit ćemo plan razvoja prototipa.'
-  button_text: 'Kontaktirajte naš tim za prototipove'
+  title: 'Start your prototype project'
+  subtitle: 'Tell us about the pool you need and we will propose a prototype development plan.'
+  button_text: 'Contact our prototyping team'
   button_link: /contact/

@@ -1,50 +1,50 @@
 meta:
-  title: 'Proizvodne zmogljivosti — tovarna s 12,000 m² | {SITE}'
-  description: 'Zmogljivosti tovarne olagoon: obrat s 12,000 m², ki proizvede 15,000+ desk SUP na leto s prostorom za širitev. Obsežna proizvodnja napihljivih SUP desk OEM/ODM.'
+  title: 'Production Capacity — 12,000 m² Factory | {SITE}'
+  description: 'olagoon factory capacity: 12,000 m² facility producing 15,000+ pools per year with room to scale. Large-scale OEM/ODM inflatable pools manufacturing.'
   keywords:
-    - 'proizvodne zmogljivosti sup'
-    - 'tovarna napihljivih sup'
-    - 'proizvodnja veslaških desk'
-    - 'tovarna sup kitajska'
+    - 'pool production capacity'
+    - 'inflatable pools factory'
+    - 'inflatable pool production'
+    - 'pool factory china'
 hero:
-  tagline: 'Proizvodne zmogljivosti'
-  title: 'Proizvodne zmogljivosti in letna proizvodnja'
-  subtitle: 'Obrat s 12,000 m², ki proizvede 15,000+ desk SUP na leto s prostorom za širitev'
+  tagline: Production Capacity
+  title: Manufacturing Capacity & Annual Output
+  subtitle: 12,000 m² facility producing 15,000+ pools per year with room to scale
 
-intro: 'olagoon upravlja enega največjih namenskih obratov za proizvodnjo napihljivih SUP desk v Qingdaju na Kitajskem. Naša tovarna s 12,000 m² je organizirana v šest specializiranih delavnic, ki delujejo vzporedno, kar nam daje zmogljivost za letno proizvodnjo več kot 15,000 desk SUP čez linije desk SUP in varnostne opreme.'
+intro: olagoon operates one of the largest dedicated inflatable pools manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 pools annually across pools and safety equipment lines.
 
 highlights:
   - value: 12,000 m²
-    label: 'Skupna proizvodna površina'
-    detail: 'Čez 6 specializiranih delavnic'
+    label: Total manufacturing floor
+    detail: Across 6 specialized workshops
   - value: 15,000+
-    label: 'Letno proizvedenih desk SUP'
-    detail: 'Deske SUP, vesla, dodatki'
+    label: pools produced annually
+    detail: pools, filters, accessories
   - value: 200+
-    label: 'Usposobljeno kadrovsko osebje'
-    detail: '25+ inženirjev, 2 izmeni/dan'
+    label: Skilled workforce
+    detail: 25+ engineers, 2 shifts/day
   - value: 50+
-    label: 'Držav izvoza'
-    detail: 'EU, ZDA, AV, Bližnji vzhod, Azija'
-  - value: 30–45
-    label: 'Standardni rok dobave (dni)'
-    detail: 'Od potrditve naročila do FOB'
+    label: Export countries
+    detail: EU, US, AU, Middle East, Asia
+  - value: 12–16
+    label: Standard lead time (weeks)
+    detail: 50–100 units, from PO confirmation to FOB
   - value: 10+
-    label: 'Let izkušenj z izvozom'
-    detail: 'Od leta 2012'
+    label: Years of export experience
+    detail: Since 2012
 
 workshops:
-  - title: 'Proizvodnja desk SUP'
-    description: '4 vzporedne sestavljalne linije za napihljive deske SUP. Vsaka linija lahko proizvede 50–80 desk na izmeno. Postaje digitalnega tiska in sitotiska delujejo hkrati. Letna zmogljivost SUP: 10,000+ desk.'
-    output: '10,000+ desk SUP/leto'
-  - title: 'Linije desk SUP'
-    description: 'Večnamenske proizvodne linije za napihljive deske SUP. Postaje za varjenje z vročim zrakom, RF dielektrični stiskalnici in sestavljalne delovne postaje se preureja glede na sestavo naročil. Letna zmogljivost: 5,000+ enot.'
-    output: '5,000+ enot/leto'
-  - title: 'Varnostna oprema'
-    description: 'Ločeno čisto proizvodno območje za rešilne jopiče in varnostno opremo. Namenske postaje šivanja, vstavljanja pene in preskušanja. Letna zmogljivost rešilnih jopičev: 50,000+ enot.'
-    output: '50,000+ rešilnih jopičev/leto'
+  - title: pools Production
+    description: '4 parallel assembly lines for inflatable pools. Each line can produce 50–80 pools per shift. Digital printing and screen printing stations run concurrently. Annual pool capacity: 15,000+ pools.'
+    output: '10,000+ pools/year'
+  - title: 'pools Lines'
+    description: 'Multi-purpose production lines for inflatable pools. Hot-air welding stations, RF dielectric presses, and assembly workstations are reconfigured based on order mix. Annual capacity: 5,000+ units.'
+    output: '5,000+ units/year'
+  - title: Safety Equipment
+    description: 'Separate clean-room production area for filtration assemblies and pump equipment. Dedicated assembly, calibration, and testing stations. Annual accessory capacity: 50,000+ units.'
+    output: '50,000+ accessories/year'
 
 oem_capacity:
-  moq: 'SUP: 50 enot (vzorci od 5–10) | Kalup po meri: 200+ enot'
-  lead_time: 'Standardno 30–45 dni. Vzorec 15–20 dni. Hitra izdelava na voljo.'
-  payment: 'T/T 30-odstotni predujem + 70 % pred odpošiljanjem. Sprejemamo L/C, Western Union.'
+  moq: 'pool: 50 units (samples from 5–10) | Custom mould: 200+ units'
+  lead_time: 'Production 12–16 weeks (50–100 units), 8–12 weeks above 1,000 units. Samples 15–20 days. Rush available.'
+  payment: 'T/T 30% deposit + 70% before shipment. L/C, Western Union accepted.'

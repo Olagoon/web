@@ -1,117 +1,117 @@
 meta:
-  title: 'Добављач SUP опреме за одморалишта и хотеле | Решења флота за одморалишта | {SITE}'
-  description: 'Добављач SUP опреме за одморалишта и хотеле широм света. Комерцијалне флоте надуваних SUP плоча, прилагођено брендирање, обука особља и пакети оптимизовани за повратак улагања од 20 до 100+ плоча.'
+  title: 'Resort & Hotel pool Equipment Supplier | Resort Fleet Solutions | {SITE}'
+  description: 'Resort pool equipment supplier for hotels and resorts worldwide. Commercial-grade inflatable pools fleets, custom branding, staff training, and ROI-optimized packages from 20 to 100+ boards.'
 
 hero:
-  tagline: 'Одморалишта и хотели'
-  title: 'Претворите вашу обалу у центар прихода<br />са премиум флотама SUP плоча'
-  subtitle: 'olagoon опрема одморалишта широм света комерцијалним флотама надуваних SUP плоча — од стартних пакета са 20 плоча до заставних програма са 100+ плоча. Прилагођено брендирање, обука особља и резервни делови су укључени.'
+  tagline: Resorts & Hotels
+  title: 'Turn Your Waterfront Into a Revenue Centre<br />With Premium pool Fleets'
+  subtitle: 'OLagoon equips resorts worldwide with commercial-grade inflatable pools fleets — from 20-board starter packages to 100+ board flagship programs. Custom branding, staff training, and replacement parts included.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: 'Гости одморалишта уживају у SUP веслању на нетакнутој плажи'
+    alt: Resort guests enjoying poolsing on a pristine beach
 
 roi_section:
-  title: 'Модел прихода одморалишта од SUP плоча'
-  subtitle: 'Како одморалишта остварују 50,000 - 200,000+ USD годишњег прихода од изнајмљивања SUP плоча са једним улагањем.'
+  title: 'The Resort pool Revenue Model'
+  subtitle: 'How resorts generate $50,000 - $200,000+ annual pool rental income with a single investment.'
   metrics:
-    - metric: '50K–200K+ USD'
-      label: 'Годишњи приход од SUP плоча'
-      detail: 'По одморалишту, у зависности од величине флоте и попуњености'
-    - metric: '4–6 месеци'
-      label: 'Просечан период повратка улагања'
-      detail: 'Повратак целог улагања у флоту у року од једне сезоне'
+    - metric: '$50K–$200K+'
+      label: Annual pool Revenue
+      detail: Per resort, based on fleet size and occupancy
+    - metric: '4–6 Months'
+      label: Average Payback Period
+      detail: Recoup full fleet investment within one season
     - metric: '40%'
-      label: 'Пораст прихода'
-      detail: 'Просечно повећање након преласка на olagoon флоте'
+      label: Revenue Increase
+      detail: Average boost after switching to OLagoon fleets
     - metric: '500+'
-      label: 'Циклуси изнајмљивања по плочи'
-      detail: 'Комерцијална издржљивост за свакодневну употребу'
+      label: Rental Cycles Per Board
+      detail: Commercial-grade durability for daily use
 
 packages:
-  title: 'Систем пакета за одморалишта'
-  subtitle: 'Изаберите пакет који одговара капацитету ваших гостију и циљевима прихода. Сви пакети укључују 12-месечну гаранцију и CE сертификат.'
+  title: Resort Package System
+  subtitle: 'Choose the package that fits your guest capacity and revenue goals. All packages include 12-month warranty and CE certification.'
   items:
-    - name: 'Стартни пакет'
-      tagline: 'За бутик одморалишта, до 20 гостију дневно'
+    - name: Starter Package
+      tagline: 'For boutique resorts, up to 20 guests/day'
       features:
-        - '20 SUP плоча (3 величине за одрасле и децу)'
-        - '20 весала (подесива) + 20 спасилачких прслука'
-        - '4 двоструке пумпе (електричне опционално)'
-        - '2 носача за чување + комплет за поправку'
-        - 'Штампа прилагођеног логотипа на плочама'
-        - '12-месечна гаранција + CE сертификат'
-      revenue: 'Потенцијал годишњег прихода 50K–80K USD'
-      cta_text: 'Набавите стартни пакет'
-    - name: 'Премиум пакет'
-      tagline: 'За велика одморалишта, 50-100 гостију дневно'
+        - '20 pools (3 sizes for adults/kids)'
+        - '20 paddles (adjustable) + 20 life vests'
+        - '4 dual-action pumps (electric optional)'
+        - '2 storage racks + repair kit'
+        - 'Custom logo print on boards'
+        - '12-month warranty + CE certified'
+      revenue: '$50K–$80K annual revenue potential'
+      cta_text: 'Get Starter Package'
+    - name: Premium Package
+      tagline: 'For large resorts, 50-100 guests/day'
       features:
-        - '50 SUP плоча (5 величина, мешовита флота)'
-        - '50 весала + 50 спасилачких прслука'
-        - '10 двоструких пумпи + 2 електричне пумпе'
-        - '5 носача за чување + 2 колица'
-        - 'Комплетно прилагођено брендирање (плоче, весла, торбе)'
-        - 'Сесија обуке особља (онлајн)'
-        - 'Слање резервних делова у року од 48 сати'
-        - '12-месечна гаранција + CE сертификат'
-      revenue: 'Потенцијал годишњег прихода 120K–200K+ USD'
+        - '50 pools (5 sizes, mixed fleet)'
+        - '50 paddles + 50 life vests'
+        - '10 dual-action pumps + 2 electric pumps'
+        - '5 storage racks + 2 roller carts'
+        - 'Full custom branding (boards, paddles, bags)'
+        - 'Staff training session (online)'
+        - '48-hour replacement parts dispatch'
+        - '12-month warranty + CE certified'
+      revenue: '$120K–$200K+ annual revenue potential'
       popular: true
-      cta_text: 'Набавите премиум пакет'
-    - name: 'Заставни пакет'
-      tagline: 'За ултра премиум одморалишта, 100+ гостију дневно'
+      cta_text: 'Get Premium Package'
+    - name: Flagship Package
+      tagline: 'For ultra-premium resorts, 100+ guests/day'
       features:
-        - '100+ SUP плоча (пун распон величина)'
-        - 'Комплетан сет опреме (весла, прслуци, пумпе, колица)'
-        - 'Обука особља на лицу места (2 дана)'
-        - 'Посвећени менаџер налога'
-        - 'Резервни делови са приоритетом (слање у року од 24h)'
-        - 'Комплетно прилагођено брендирање (плоче + опрема)'
-        - 'Маркетиншки фото/видео пакет'
-        - '24-месечна гаранција + CE сертификат'
-      revenue: 'Потенцијал годишњег прихода 200K+ USD'
-      cta_text: 'Набавите заставни пакет'
+        - '100+ pools (full size range)'
+        - 'Complete accessory set (paddles, vests, pumps, carts)'
+        - 'On-site staff training (2 days)'
+        - 'Dedicated account manager'
+        - 'Priority replacement parts (24h dispatch)'
+        - 'Full custom branding (boards + accessories)'
+        - 'Marketing photo/video package'
+        - '24-month warranty + CE certified'
+      revenue: '$200K+ annual revenue potential'
+      cta_text: 'Get Flagship Package'
 
 case_study:
-  quote: 'Од када смо прешли на olagoon, наш приход од изнајмљивања SUP плоча порастао је 40%. Трошкови замене плоча пали су 60%. Цело улагање у флоту вратили смо за 4 месеца.'
-  author: 'Менаџер водених активности'
-  location: '5-звездано одморалиште, Малдиви'
+  quote: 'Since switching to OLagoon, our pool rental revenue increased 40%. Board replacement costs dropped 60%. We recouped our full fleet investment in 4 months.'
+  author: 'Water Activities Manager'
+  location: '5-star resort, Maldives'
   results:
-    - label: 'Раст прихода'
+    - label: 'Revenue Growth'
       value: '+40%'
-    - label: 'Смањење трошкова'
+    - label: 'Cost Reduction'
       value: '-60%'
-    - label: 'Период повратка улагања'
-      value: '4 месеца'
+    - label: 'Payback Period'
+      value: '4 Months'
 
 features:
-  title: 'Зашто одморалишта бирају olagoon'
-  subtitle: 'Комерцијална издржљивост, глобална логистика и партнер који разуме угоститељство.'
+  title: Why Resorts Choose OLagoon
+  subtitle: 'Commercial-grade durability, global logistics, and a partner who understands hospitality.'
   items:
-    - title: '500+ циклуса изнајмљивања'
-      description: 'Свака плоча се тестира да издржи 500+ циклуса изнајмљивања у сланој води, на сунцу и у песку.'
+    - title: '500+ Rental Cycles'
+      description: 'Every board is tested to survive 500+ rental cycles in saltwater, sun, and sand.'
       icon: 'tabler:shield-check'
-    - title: 'Слање делова у року од 48h'
-      description: 'Резервни делови се шаљу у року од 48 сати — ваш приход од изнајмљивања никада не стаје.'
+    - title: '48h Parts Dispatch'
+      description: 'Replacement parts shipped within 48 hours — your rental revenue never stops.'
       icon: 'tabler:truck-delivery'
-    - title: 'Прилагођено брендирање'
-      description: 'Ускладите идентитет вашег одморалишта прилагођеним бојама и логотипом на свакој плочи.'
+    - title: 'Custom Branding'
+      description: 'Match your resort identity with custom colors and logo on every board.'
       icon: 'tabler:palette'
-    - title: 'Обука особља'
-      description: 'Онлајн обуке и обуке на лицу места за ваш тим за активности.'
+    - title: 'Staff Training'
+      description: 'Online and on-site training programs for your activities team.'
       icon: 'tabler:school'
-    - title: 'Глобална логистика'
-      description: 'Испорука у 50+ земаља са опцијама консолидованог терета.'
+    - title: 'Global Logistics'
+      description: 'Shipping to 50+ countries with consolidated freight options.'
       icon: 'tabler:world'
-    - title: 'CE сертификат'
-      description: 'Сва опрема CE сертификована, ISO 9001:2015 — гарантована безбедност и квалитет.'
+    - title: 'CE Certified'
+      description: 'All equipment CE certified, ISO 9001:2015 — safety and quality guaranteed.'
       icon: 'tabler:certificate'
 
 cta:
-  title: 'Спремни да претворите вашу обалу у центар прихода?'
-  subtitle: 'Затражите понуду за пакет за одморалиште или преузмите наш комплетан каталог за одморалишта.'
+  title: 'Ready to turn your waterfront into a revenue centre?'
+  subtitle: 'Get your resort package quote or download our complete resort catalog.'
   actions:
-    - text: 'Набавите пакет за одморалиште'
+    - text: 'Get Resort Package'
       href: '/contact/?package=resort'
       variant: 'primary'
-    - text: 'Преузмите каталог за одморалишта'
+    - text: 'Download Resort Catalog'
       href: '/resources/download-catalog/'
       variant: 'secondary'

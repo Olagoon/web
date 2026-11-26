@@ -1,122 +1,122 @@
 meta:
-  title: 'Teave olagoonist — täispuhutavate SUP-ide ja vesispordi kaubamärk | {SITE}'
-  description: 'olagoon on ülemaailmne täispuhutavate SUP-ide ja vesispordi kaubamärk, mida haldab Olagoon LLC ja mida ehitab meie Qingdao meeskond. Avasta meie lugu, inseneerimine, sertifitseeritud kvaliteet ja riigipartnerluse programmid.'
+  title: 'About OLagoon — inflatable pools & Water Sports Brand | {SITE}'
+  description: 'OLagoon is a global inflatable pools and water sports brand, operated by Olagoon LLC and built by our Qingdao Operation Team. Discover our story, engineering, certified quality, and country partner programs.'
   keywords:
-    - 'täispuhutavate SUP-ide kaubamärk'
-    - 'vesispordi kaubamärk'
-    - 'riiklik supi jaotaja'
-    - 'kaasmärgi supi kollektsioonid'
+    - 'inflatable pools brand'
+    - 'water sports brand'
+    - 'country pool distributor'
+    - 'co-branded pool collections'
 hero:
-  tagline: 'Meist'
+  tagline: About us
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'olagoon tehas ja töökoda'
+    alt: olagoon factory and workshop
   title: |
-    Merainseneerimine, <br />
-    ehitatud <span class="text-accent dark:text-white">olagoon</span> viisil
-  subtitle: 'Alustasime rannikutöökojas ühe lauaga ja kangekaelse veendumusega: meretooted tuleb inseneerida nii, nagu nad oleksid olulised, sest nad ongi. Täna saadame tooteid üle 40 riiki, kuid iga kere läbib endiselt samade käte kaudu, mis asutasid ettevõtte.'
+    Marine engineering, <br />
+    built the <span class="text-accent dark:text-white">olagoon</span> way
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
 
 stats:
-  title: 'Arvudes'
+  title: By the numbers
   columns: 4
   stats:
-    - title: 'Tarnitud kereid'
+    - title: Hulls delivered
       amount: '2,400+'
-    - title: 'Riike, kuhu saadetud'
+    - title: Countries shipped
       amount: '40'
-    - title: 'Aastaid kombineeritud kogemust'
+    - title: Years of combined experience
       amount: '60'
-    - title: 'Keskmine garantii reageerusaeg (tundi)'
+    - title: Average warranty response (hours)
       amount: '24'
 
 features3_what_we_build:
-  title: 'Mida me ehitame'
-  subtitle: 'Alustasime rannikutöökojas ühe lauaga ja kangekaelse veendumusega: meretooted tuleb inseneerida nii, nagu nad oleksid olulised, sest nad ongi. Täna saadame tooteid üle 40 riiki, kuid iga kere läbib endiselt samade käte kaudu, mis asutasid ettevõtte.'
+  title: What we build
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
   columns: 3
   isBeforeContent: true
   items:
-    - title: 'Supilauad'
-      description: 'Täispuhutavad supilauad suurusega 9 ft kuni 12 ft. Disainitud turismiks, joogaks, kalastamiseks ja perekasutuseks.'
+    - title: pools
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:ship
-    - title: 'Täispuhutavad SUP-id'
-      description: 'PVC-st täispuhutavad supilauad suurusega 9 ft kuni 12 ft. Kerged, vastupidavad ja lihtsalt pakitavad.'
+    - title: inflatable pools
+      description: PVC inflatable pools from 9 ft to 12 ft. Light, tough and easy to stow.
       icon: tabler:rowing
-    - title: 'Premium SUP-komplektid'
-      description: 'Kompaktsed, kõrge spetsifikatsiooniga SUP-id, mis on kohandatud vastama sinu kaubamärgi või laevastiku nõuetele.'
+    - title: Premium pool packages
+      description: Compact, high-spec pools custom-built to match your brand or fleet requirements.
       icon: tabler:crown
 
 features3_more:
   columns: 3
   isAfterContent: true
   items:
-    - title: 'Tarvikud'
-      description: 'Sõudad, pumbad, kaaned, kuivkotid ja elektroonika. Kõik sobitatud meie laudadele.'
+    - title: Accessories
+      description: Filters, pumps, covers, and accessories. All matched to our pools.
       icon: tabler:package
-    - title: 'Remont ja teenindus'
-      description: 'Sisemaal lauaremont, katteasendus ja tarvikute täiendused.'
+    - title: Repair & service
+      description: In-house pool repair, liner replacement and accessory upgrades.
       icon: tabler:tool
-    - title: 'Kohandatud ehitised'
-      description: 'Projektipõhine disain äri-, teadus- ja sõjalistele klientidele.'
+    - title: Custom builds
+      description: Project-by-project design for commercial, scientific and military customers.
       icon: tabler:hammer
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-    alt: 'Laua disaini ja inseneerimise arutelu'
+    alt: Pool design and engineering discussion
 
 steps2_values:
-  title: 'Meie väärtused'
-  subtitle: 'Kolm põhimõtet, mis on kujundanud iga toodet alates esimesest päevast.'
+  title: Our values
+  subtitle: Three principles that have shaped every product since day one.
   items:
-    - title: 'Ehita nii, nagu see kannaks sinu perekonda'
-      description: 'Iga kere, keevisõmblus ja kinnitus käsitletakse nii, nagu kasutaksid neid meie enda pered.'
+    - title: Build like it carries your family
+      description: Every hull, weld and fastener is treated as if our own families will use it.
       icon: tabler:heart
-    - title: 'Inseneeri enne müümist'
-      description: 'Täispuhutavad supilauad suurusega 9 ft kuni 12 ft. Disainitud turismiks, joogaks, kalastamiseks ja perekasutuseks.'
+    - title: Engineer before we sell
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:settings
-    - title: 'Tugi, mis kestab garantiist kauem'
-      description: 'Kakskümmend aastat vanad kered helistavad meile ikka veel varuosade järele ja me võtame ikka vastu.'
+    - title: Support that outlasts the warranty
+      description: Twenty-year-old hulls still call us for spare parts, and we still pick up.
       icon: tabler:headset
 
 steps2_milestones:
-  title: 'Verstapostid'
-  subtitle: 'olagoon loo lühiversioon.'
+  title: Milestones
+  subtitle: A short version of the olagoon story.
   isReversed: true
   items:
-    - title: 'Asutatud rannikutöökojas'
-      description: 'Alustasid kaks merainseneri ühe CNC-freesi ja kangekaalse ideega.'
+    - title: Founded in a coastal workshop
+      description: Started by two marine engineers with a CNC mill and a stubborn idea.
       icon: tabler:building-factory
-    - title: 'Esimene 1,000 kereid tarnitud'
-      description: 'Saavutatud meie seitsmendal aastal, peamiselt suusõnast ja korduvklientide kaudu.'
+    - title: First 1,000 hulls delivered
+      description: Reached in our seventh year, mostly through word of mouth and repeat customers.
       icon: tabler:circle-check
-    - title: 'Rahvusvaheline eksportprogramm'
-      description: 'Täna saadame üle 40 riiki koos lokaliseeritud tugipartneritega viiel kontinendil.'
+    - title: International export programme
+      description: Now shipping to 40+ countries with localised support partners on five continents.
       icon: tabler:world
 
 features2_locations:
-  title: 'Meie asukohad'
-  tagline: 'Leia meid'
+  title: Our locations
+  tagline: Find us
   columns: 3
   items:
-    - title: 'Peakorter ja töökoda'
-      description: 'Täispuhutavad supilauad suurusega 9 ft kuni 12 ft. Disainitud turismiks, joogaks, kalastamiseks ja perekasutuseks.'
-    - title: 'ELi teeninduskeskus'
-      description: 'Täispuhutavad supilauad suurusega 9 ft kuni 12 ft. Disainitud turismiks, joogaks, kalastamiseks ja perekasutuseks.'
-    - title: 'APAC-i partnerite võrgustik'
-      description: 'Volitatud teeninduspartnerid Austraalias, Jaapanis, Singapuris ja Hongkongis.'
+    - title: Headquarters & workshop
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: EU service centre
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: APAC partner network
+      description: Authorised service partners in Australia, Japan, Singapore and Hong Kong.
 
-brand_hub_tagline: 'Kaubamärk'
-brand_hub_title: 'Avasta meie kaubamärki'
-brand_hub_subtitle: 'Sukeldu sügavamale meie SUP-inseneerimise ekspertiisi, globaalse kohaloleku ja põhimõtetesse, mis meid juhivad.'
+brand_hub_tagline: Brand
+brand_hub_title: Explore Our Brand
+brand_hub_subtitle: Dive deeper into our pool engineering expertise, global presence, and the principles that drive us.
 
 brand_hub_cards:
-  - title: 'Merendusekspertiis'
-    desc: 'Aastakümnete materjaliteadus, täppistootmine ja reaalse maailma testimine — alates PVC-valmistusest kuni süva-V kere disainini ja Drop-Stitch tehnoloogiani.'
+  - title: Marine Expertise
+    desc: Decades of material science, precision manufacturing, and real-world testing — from PVC fabrication to deep-V hull design and drop-stitch technology.
     link: /brand-marine-expertise/
-    link_label: 'Loe edasi →'
-  - title: 'Globaalne kohalolek'
-    desc: 'Saatmine üle 50 riiki meie Qingdao rajatisest koos volitatud teeninduspartneritega kogu Euroopas, Aasia ja Vaikse ookeani piirkonnas ning Ameerikas.'
+    link_label: 'Learn more →'
+  - title: Global Presence
+    desc: Shipping to 50+ countries from our Qingdao facility with authorized service partners across Europe, Asia-Pacific, and the Americas.
     link: /brand-global-presence/
-    link_label: 'Loe edasi →'
-  - title: 'Miks olagoon'
-    desc: 'Kaubamärk, mis rajaneb verifitseeritud kvaliteedil — topeltsertifitseerimine (ISO 9001 + BSCI), CE-vastavus ja eksklusiivsed riigipartnerlused koos piiratud kaasmärgikollektsioonidega vesispordi ettevõtetele.'
+    link_label: 'Learn more →'
+  - title: Why olagoon
+    desc: A brand built on verified quality — dual certification (ISO 9001 + BSCI), CE compliance, and exclusive country partnerships with limited co-branded collections for water-sports businesses.
     link: /brand-why-olagoon/
-    link_label: 'Loe edasi →'
+    link_label: 'Learn more →'

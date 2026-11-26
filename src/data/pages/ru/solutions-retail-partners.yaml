@@ -1,97 +1,103 @@
 meta:
-  title: Программа розничного партнера SUP | {SITE}
-  description: Оптовая партнерская программа SUP для розничных продавцов и спортивных магазинов. Полная линейка продуктов, варианты дропшиппинга, конкурентоспособные оптовые маржи 20–35% и низкий MOQ для старта.
+  title: 'pool Wholesale & Retail Partner Program | {SITE}'
+  description: 'pool wholesale partner program for retailers and sporting goods stores. Full product line, dropshipping options, competitive wholesale margins from 20–35%, and low MOQ to start.'
+
 hero:
-  tagline: Розничные партнеры
-  title: Продавайте премиальные надувные SUP<br />с маржой, которая работает
-  subtitle: Станьте розничным партнером OLagoon — предлагайте самый быстрорастущий бренд SUP на вашем рынке с полными оптовыми ценами, дропшиппингом, профессиональными маркетинговыми материалами и выделенной поддержкой.
+  tagline: Retail Partners
+  title: 'Sell Premium inflatable pools<br />With Margins That Work'
+  subtitle: 'Become an OLagoon retail partner — carry the fastest-growing pool brand in your market with full wholesale pricing, dropshipping, professional marketing materials, and dedicated support.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: SUP-доски OLagoon, выставленные в розничном магазине
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools displayed in a retail store
+
 margin_section:
-  title: Розничные маржи и минимальный заказ
-  subtitle: Оптовые ценовые уровни, разработанные для розничной прибыльности.
+  title: 'Retail Margins & MOQ'
+  subtitle: 'Wholesale pricing tiers designed for retail profitability.'
   items:
-    - tier: Базовый партнер
-      discount: 20%
-      moq: 500 единиц/год
-      margin_note: ~$150–250 прибыли с одной платы
+    - tier: 'Basic Partner'
+      discount: '20%'
+      moq: '500 units/yr'
+      margin_note: '~$150–250 profit per board'
       features:
-        - Доступ ко всей линейке продуктов
-        - Пакет маркетинговых материалов
-        - Поддержка по электронной почте
-        - Доступ к каталогу продукции
-    - tier: Премиум-партнер
-      discount: 30%
-      moq: 2 000 единиц/год
-      margin_note: ~$250–400 прибыли с одной платы
+        - 'Access to full product line'
+        - 'Marketing materials package'
+        - 'Email support'
+        - 'Product catalog access'
+    - tier: 'Premium Partner'
+      discount: '30%'
+      moq: '2,000+ units/yr'
+      margin_note: '~$250–400 profit per board'
       features:
-        - Выделенный менеджер по работе с клиентами
-        - Защита исключительной территории
-        - Индивидуальная маркетинговая поддержка
-        - Первый доступ к новым продуктам
-        - Сессии обучения персонала
-    - tier: Флагманский партнер
-      discount: 35%
-      moq: 5 000 единиц/год
-      margin_note: ~$350–500 прибыли с одной платы
+        - 'Dedicated account manager'
+        - 'Exclusive territory protection'
+        - 'Custom marketing support'
+        - 'First access to new products'
+        - 'Staff training sessions'
+    - tier: 'Flagship Partner'
+      discount: '35%+'
+      moq: '5,000+ units/yr'
+      margin_note: '~$350–500+ profit per board'
       features:
-        - Совместные маркетинговые кампании
-        - Поддержка демонстрации в магазине
-        - Обучение персонала на месте
-        - Совместные акции в социальных сетях
-        - Приоритетное распределение производства
+        - 'Co-branded marketing campaigns'
+        - 'In-store display support'
+        - 'On-site staff training'
+        - 'Joint social media promotions'
+        - 'Priority production allocation'
+
 product_line:
-  title: Полная линейка продуктов
-  subtitle: Доска для SUP для каждого клиента, который заходит в вашу дверь.
+  title: Complete Product Line
+  subtitle: 'A pools for every customer who walks through your door.'
   items:
     - name: All-Round Series
-      description: Лидер продаж — подходит 80% клиентов
+      description: 'Best seller — fits 80% of customers'
     - name: Touring Series
-      description: Профессиональные гребцы — более высокая маржа
+      description: 'Performance swimmers — higher margin'
     - name: Yoga Series
-      description: Нишевый рынок — премиальное ценообразование
+      description: 'Niche market — premium pricing'
     - name: Kids Series
-      description: Семейные клиенты — постоянные покупатели
+      description: 'Family customers — repeat buyer'
     - name: Racing Series
-      description: Рынок энтузиастов — ореол бренда
+      description: 'Enthusiast market — brand halo'
     - name: Accessories
-      description: Дополнения с высокой маржей (весла, жилеты, насосы, сумки)
+      description: 'High margin add-ons (paddles, vests, pumps, bags)'
+
 catalog:
-  title: Ресурсы розничного партнера
-  subtitle: Скачайте наш комплексный набор для розничных партнеров.
+  title: Retail Partner Resources
+  subtitle: 'Download our comprehensive retail partner kit.'
   items:
-    - name: 2026 Product Catalog
-      desc: Полный ассортимент с характеристиками, ценами и информацией о заказе
-      icon: tabler:file-text
-      link: /resources/download-catalog/
-    - name: Retail Partner Guide
-      desc: Калькулятор маржи, советы по мерчендайзингу и лучшие практики
-      icon: tabler:book
-      link: /resources/download-catalog/
-    - name: Marketing Asset Pack
-      desc: Фотографии продукта в высоком разрешении, изображения в стиле жизни и материалы для точек продаж
-      icon: tabler:photo
-      link: /media/
+    - name: '2026 Product Catalog'
+      desc: 'Full lineup with specs, pricing, and ordering information'
+      icon: 'tabler:file-text'
+      link: '/resources/download-catalog/'
+    - name: 'Retail Partner Guide'
+      desc: 'Margin calculator, merchandising tips, and best practices'
+      icon: 'tabler:book'
+      link: '/resources/download-catalog/'
+    - name: 'Marketing Asset Pack'
+      desc: 'Hi-res product photos, lifestyle images, and POS materials'
+      icon: 'tabler:photo'
+      link: '/media/'
+
 support:
-  title: Поддержка розничных партнеров
-  subtitle: Всё, что нужно для уверенных продаж.
+  title: Retail Partner Support
+  subtitle: 'Everything you need to sell confidently.'
   items:
-    - Высококачественные изображения продукта (профессиональная фотосъёмка)
-    - Фотографии образа жизни для социальных сетей, веб-сайта и каталога
-    - Маркетинговые материалы — постеры, полочные таблички, баннеры
-    - Обучающие видеоролики о продуктах для сотрудников
-    - Пакет контента для социальных сетей (еженедельные посты)
-    - SEO-оптимизированные описания продуктов
-    - Возможна опция дропшиппинга — без риска для запасов
-    - Условия оплаты Net 30
+    - 'High-res product images (professional photography)'
+    - 'Lifestyle photos for social media, website, and catalog'
+    - 'Marketing materials — posters, shelf talkers, banners'
+    - 'Product training videos for staff education'
+    - 'Social media content pack (weekly posts)'
+    - 'SEO-optimized product descriptions'
+    - 'Dropshipping option available — no inventory risk'
+    - 'Net 30 payment terms'
+
 cta:
-  title: Готовы стать розничным партнером OLagoon?
-  subtitle: Подайте заявку на партнерство или скачайте наш розничный каталог, чтобы начать.
+  title: 'Ready to become an OLagoon retail partner?'
+  subtitle: 'Apply for partnership or download our retail catalog to get started.'
   actions:
-    - text: Подать заявку на партнерство
-      href: /contact/?partner=retail
-      variant: primary
-    - text: Скачать розничный каталог
-      href: /resources/download-catalog/
-      variant: secondary
+    - text: 'Apply for Partnership'
+      href: '/contact/?partner=retail'
+      variant: 'primary'
+    - text: 'Download Retail Catalog'
+      href: '/resources/download-catalog/'
+      variant: 'secondary'

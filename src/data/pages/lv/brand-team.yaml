@@ -1,85 +1,85 @@
 meta:
-  title: 'Mūsu komanda — jūras inženieri un būvētāji | {SITE}'
-  description: 'Dibināts 2012. gadā Cindao, olagoon izveidoja jūras inženieri, materiālzinātnieki un ūdenssporta entuziasti. Iepazīstieties ar komandu aiz rūpnīcas.'
+  title: 'Our Team — Marine Engineers & Builders | {SITE}'
+  description: 'Founded in 2012 in Qingdao, olagoon was built by marine engineers, material scientists, and water sports enthusiasts. Meet the team behind the factory.'
   keywords:
-    - 'olagoon komanda'
-    - 'jūras inženieri'
-    - 'piepūšamo sup ražotājs'
-    - 'sup rūpnīcas komanda'
+    - 'olagoon team'
+    - 'marine engineers'
+    - 'inflatable pools manufacturer'
+    - 'pool factory team'
 hero:
-  tagline: 'Mūsu komanda'
-  title: 'Cilvēki aiz olagoon<br />— inženierija brīvībai uz ūdens'
-  subtitle: 'Dibināts 2012. gadā Cindao, Ķīnā, olagoon izveidoja jūras inženieri, materiālzinātnieki un ūdenssporta entuziasti, kas ticēja profesionāla līmeņa piepūšamo peldlīdzekļu pieejamībai visā pasaulē.'
+  tagline: Our Team
+  title: 'The People Behind olagoon<br />— Engineering Freedom on Water'
+  subtitle: 'Founded in 2012 in Qingdao, China, olagoon was built by marine engineers, material scientists, and water sports enthusiasts who believed in making professional-grade inflatable watercraft accessible worldwide.'
   image:
     src: /images/team-all.webp
-    alt: 'olagoon visas komandas foto — inženierija, ražošana un vadība'
+    alt: olagoon full team photo — engineering, production, and leadership
 founding:
-  tagline: 'Mūsu dibināšana'
-  title: 'No piekrastes darbnīcas<br />līdz 12,000 m² objektam'
-  subtitle: 'olagoon dibināja jūras inženieru komanda ar desmit gadu desmitiem kopīgas pieredzes piepūšamo SUP dizainā, PVC apstrādē un globālā jūras aprīkojuma ražošanā.'
+  tagline: Our Founding
+  title: 'From a Coastal Workshop<br />to a 12,000 m² Facility'
+  subtitle: 'olagoon was founded by a team of marine engineers with decades of combined experience in inflatable pools design, PVC fabrication, and global marine equipment manufacturing.'
   items:
-    - title: 'Dibināts: 2012'
-      description: 'Izveidots Cindao, Ķīnā — nozīmīgā jūras centrā ar dziļām kuģubūves tradīcijām.'
+    - title: 'Founded: 2012'
+      description: 'Established in Qingdao, China — a major maritime hub with deep shipbuilding heritage.'
       icon: tabler:calendar
-    - title: '200+ darbinieku'
-      description: 'Ieskaitot 50+ pētniecības un izstrādes inženierus, kvalitātes kontroles speciālistus un ražošanas tehniķus.'
+    - title: '200+ Employees'
+      description: 'Including 50+ R&D engineers, quality control specialists, and production technicians.'
       icon: tabler:users
-    - title: '12,000 m² objekts'
-      description: 'Īpaša ražošanas rūpnīca ar 6 ražošanas līnijām piepūšamajiem SUP dēļiem.'
+    - title: '12,000 m² Facility'
+      description: 'Dedicated manufacturing plant with 6 production lines for inflatable pools.'
       icon: tabler:building-factory
-    - title: 'Apkalpotās 50+ valstis'
-      description: 'Eksports uz Eiropu, Ameriku, Tuvajiem Austrumiem, Āzijas un Klusā okeāna reģionu un Āfriku.'
+    - title: '50+ Countries Served'
+      description: 'Exporting to Europe, Americas, Middle East, Asia-Pacific, and Africa.'
       icon: tabler:globe
 leadership:
-  tagline: 'Vadība'
-  title: 'Vadības un inženiertehniskā vadība'
-  subtitle: 'Mūsu vadības komanda apvieno dziļu kompetenci jūras inženierijā, starptautiskajā tirdzniecībā un kvalitātes vadībā.'
+  tagline: Leadership
+  title: 'Management & Engineering Leadership'
+  subtitle: 'Our leadership team brings together deep expertise in marine engineering, international trade, and quality management.'
   columns: 3
   items:
-    - title: 'Dibinātājs un izpilddirektors'
+    - title: 'Founder & CEO'
       name: 'Toby Liu'
-      description: '15+ gadu pieredze jūras ražošanā. Iepriekš vadīja pētniecību un izstrādi lielā Ķīnas airu sporta ražotājā. Vairāku patentu īpašnieks piepūšamo SUP dizainā.'
+      description: '15+ years in marine manufacturing. Previously led R&D at a major Chinese inflatable products manufacturer. Holds multiple patents in inflatable pools design.'
       icon: tabler:crown
       image: https://assets.olagoon.com/images/olagoon/team/olagoon-toby-liu-team.webp
-    - title: 'Galvenais inženieris'
+    - title: 'Chief Engineer'
       name: 'Zhang Wei'
-      description: '20+ gadu pieredze PVC apstrādē un Drop-Stitch dizainā. Bijušais tehniskais direktors Eiropas airu sporta zīmolā.'
+      description: '20+ years in PVC fabrication and drop-stitch design. Former technical director at a European inflatable products brand.'
       icon: tabler:engine
       image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
-    - title: 'Pētniecības un izstrādes vadītājs'
+    - title: 'Head of R&D'
       name: 'Chen Ming'
-      description: 'Materiālzinātnes doktors. Specializējas Drop-Stitch tehnoloģijā un augstfrekvences metināšanas procesos. 10+ gadu pieredze tekstilkompozītos.'
+      description: 'PhD in Materials Science. Specializes in drop-stitch technology and high-frequency welding processes. 10+ years in textile composites.'
       icon: tabler:flask
       image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
-    - title: 'Ražošanas direktors'
+    - title: 'Production Director'
       name: 'Liu Qiang'
-      description: '18+ gadu pieredze ekonomiskajā ražošanā un ražošanas līniju optimizācijā. Six Sigma melnā josta. Ieviesis ISO 9001 kvalitātes sistēmas.'
+      description: '18+ years in lean manufacturing and production line optimization. Six Sigma Black Belt. Implemented ISO 9001 quality systems.'
       icon: tabler:settings
       image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
-    - title: 'Kvalitātes vadītāja'
+    - title: 'Quality Manager'
       name: 'Wang Fang'
-      description: '12+ gadu pieredze jūras kvalitātes kontrolē. Sertificēta CE un ISO auditore. Uzrauga katrai ražošanas partijai veikto testēšanu.'
+      description: '12+ years in marine quality control. Certified CE and ISO auditor. Oversees testing for every production batch.'
       icon: tabler:shield-check
       image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
-    - title: 'Pārdošanas un operāciju direktore'
+    - title: 'Sales & Operations Director'
       name: 'Helen Lee'
-      description: '15+ gadu pieredze starptautiskajā B2B tirdzniecībā. Pārvaldījusi kopīgu zīmolu un izplatīšanas partnerības 30+ valstīs. Runā 4 valodās.'
+      description: '15+ years in international B2B trade. Managed co-brand and distribution partnerships across 30+ countries. Fluent in 4 languages.'
       icon: tabler:briefcase
       image: https://assets.olagoon.com/images/olagoon/team/olagoon-helen-contact-sales.webp
 philosophy:
-  tagline: 'Dizaina filozofija'
-  title: 'Inženierijas vadīts dizains<br />— katra detaļa ir svarīga'
-  subtitle: 'Mūsu inženiertehniskā filozofija balstās uz trim principiem, kas vada katru mūsu būvēto produktu.'
+  tagline: Design Philosophy
+  title: 'Engineering-Led Design<br />— Every Detail Matters'
+  subtitle: 'Our engineering philosophy centers on three principles that guide every product we build.'
   list:
-    - 'Uzticamība pirmajā vietā: Katrs olagoon produkts tiek testēts, lai izturētu reālos apstākļus — no glābšanas operācijām aukstā ūdenī līdz tropu kūrortu nomai. Mēs pārspīlēti stingri konstruējam tur, kur tas ir svarīgāk.'
-    - 'Ražošanas precizitāte: Mūsu objekti izmanto CNC griešanu, augstfrekvences metināšanu un automatizētu spiediena testēšanu. Katra šuve, katrs vārsts, katrs savienojums atbilst dokumentētām specifikācijām.'
-    - 'Nepārtraukta inovācija: Mūsu pētniecības un izstrādes komanda pastāvīgi izvērtē jaunus materiālus, ražošanas metodes un dizaina uzlabojumus. Mēs negaidām problēmas — mēs tās prognozējam.'
+    - 'Reliability First: Every olagoon product is tested to withstand real-world conditions — from cold-water rescue operations to tropical resort rentals. We over-engineer where it matters most.'
+    - 'Manufacturing Precision: Our facilities use CNC cutting, high-frequency welding, and automated pressure testing. Every seam, every valve, every fitting meets documented specifications.'
+    - 'Continuous Innovation: Our R&D team evaluates new materials, production methods, and design improvements continuously. We do not wait for problems — we anticipate them.'
 cta:
-  title: 'Vēlaties apspriest projektu ar mūsu komandu?'
-  subtitle: 'Mūsu inženieri ir gatavi konsultēt par produktu izvēli, pielāgošanu un kopīgu zīmolu kolekcijām.'
+  title: 'Want to discuss a project with our team?'
+  subtitle: 'Our engineers are ready to advise on product selection, customization, and co-branded collections.'
   actions:
     - variant: primary
-      text: 'Sazinieties ar mūsu komandu'
+      text: Contact our team
       href: /contact/
-    - text: 'Apskatiet mūsu produktus'
+    - text: View our products
       href: /products/

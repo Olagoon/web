@@ -1,50 +1,54 @@
 meta:
-  title: Партнёрская программа распределения SUP | {SITE}
-  description: Присоединяйтесь к глобальной сети дистрибуции OLagoon. Эксклюзивные территории, полный ассортимент продукции, конкурентоспособные оптовые цены и персональное управление аккаунтом.
+  title: 'pool Wholesale Distribution Partner Program | {SITE}'
+  description: "Join OLagoon's global pool wholesale distribution network. Exclusive territories, complete inflatable pools product portfolio, competitive wholesale pricing, and dedicated account management in 50+ countries."
+
 hero:
-  tagline: Дистрибьюторы
-  title: Присоединяйтесь к нашей глобальной<br />дистрибьюторской сети
-  subtitle: Эксклюзивные территории. Полный ассортимент продукции. Поддержка мирового уровня. OLagoon отправляет товары в более чем 50 стран, и мы ищем опытных дистрибьюторов в области морских товаров и водных видов спорта.
+  tagline: Distributors
+  title: 'Join Our Global<br />Distribution Network'
+  subtitle: "pool wholesale distribution partner program with exclusive territories, complete inflatable pools product portfolio, and world-class support. OLagoon ships to 50+ countries — we're looking for established marine and water sports distributors."
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: Глобальное распределение и транспортировка OLagoon
+    alt: OLagoon global distribution and shipping operations
+
 benefits:
-  title: Что получают дистрибьюторы
-  subtitle: Всё, что вам нужно для успеха на вашем рынке.
+  title: What Distributors Get
+  subtitle: 'Everything you need to succeed in your market.'
   items:
-    - Исключительные права на территорию
-    - Полный каталог продукции (SUP, аксессуары, запчасти)
-    - Конкурентные оптовые цены
-    - Маркетинговые и продажные материалы (переведено)
-    - Программа обучения (продукт, продажи, обслуживание)
-    - Поддержка торговой выставки
-    - Пример программы
-    - Возможность дропшиппинга
-    - Выделенный менеджер по работе с дистрибьюторами
-    - Условия оплаты 45-60 дней
+    - 'Exclusive territory rights'
+    - 'Complete product catalog (pool, accessories, parts)'
+    - 'Competitive wholesale pricing'
+    - 'Marketing & sales materials (translated)'
+    - 'Training program (product, sales, maintenance)'
+    - 'Trade show support'
+    - 'Sample program'
+    - 'Drop-ship capability'
+    - 'Dedicated distributor account manager'
+    - '45-60 day payment terms'
+
 coverage:
-  title: Текущее распределение
-  subtitle: В настоящее время OLagoon обслуживает эти рынки напрямую.
+  title: Current Distribution
+  subtitle: 'OLagoon currently serves these markets directly.'
   regions:
-    - name: Европа
-      countries: Франция, Германия, Великобритания, Испания, Италия, Нидерланды, Швеция, Норвегия, Польша, Греция
-    - name: Азия
-      countries: Япония, Южная Корея, Китай, Таиланд, Сингапур
-    - name: Ближний Восток
-      countries: ОАЭ, Саудовская Аравия
-    - name: Америка
-      countries: США, Канада, Бразилия, Мексика
-    - name: Океания
-      countries: Австралия, Новая Зеландия
-    - name: Африка
-      countries: Южная Африка, Марокко
+    - name: Europe
+      countries: 'France, Germany, UK, Spain, Italy, Netherlands, Sweden, Norway, Poland, Greece'
+    - name: Asia
+      countries: 'Japan, South Korea, China, Thailand, Singapore'
+    - name: Middle East
+      countries: 'UAE, Saudi Arabia'
+    - name: Americas
+      countries: 'USA, Canada, Brazil, Mexico'
+    - name: Oceania
+      countries: 'Australia, New Zealand'
+    - name: Africa
+      countries: 'South Africa, Morocco'
+
 cta:
-  title: Готовы стать дистрибьютором?
-  subtitle: Подайте заявку на участие в нашей программе дистрибьюторов или скачайте наш информационный комплект для дистрибьюторов.
+  title: 'Ready to become a distributor?'
+  subtitle: 'Apply for our distributor program or download our distributor information kit.'
   actions:
-    - text: Подать заявку на участие в дистрибьюторской программе
-      href: /contact/?partner=distributor
-      variant: primary
-    - text: Скачать комплект дистрибутора
-      href: /resources/download-catalog/
-      variant: secondary
+    - text: 'Apply for Distributor Program'
+      href: '/contact/?partner=distributor'
+      variant: 'primary'
+    - text: 'Download Distributor Kit'
+      href: '/resources/download-catalog/'
+      variant: 'secondary'

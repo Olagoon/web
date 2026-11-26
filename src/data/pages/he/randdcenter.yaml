@@ -1,130 +1,130 @@
 meta:
-  title: 'מרכז המו״פ | {SITE}'
-  description: 'מחקר ופיתוח — בדיקות בדי PVC, הנדסת גוף שיט, ריתוך RF, בדיקות הידרודינמיות ובקרת איכות. שירותי מו״פ מותאמים זמינים.'
+  title: 'R&D Center | {SITE}'
+  description: 'Research & Development — PVC fabric testing, hull engineering, RF welding, hydrodynamic testing, and quality control. Custom R&D services available.'
 
 hero:
-  tagline: 'מרכז המו״פ'
-  title: 'מרכז המחקר והפיתוח'
-  subtitle: 'ממוקדים בהתקדמות'
+  tagline: R&D Center
+  title: R & D Center
+  subtitle: Focused on Progress
 
 intro:
-  - 'מרכז המחקר והפיתוח (מו״פ) של olagoon הוא הכוח המניע מאחורי המשימה שלנו לחולל מהפכה בציוד ספורט המים. אנו מעצימים חובבי ספורט מים ברחבי העולם במוצרים בטוחים, נוחים ומהנים יותר באמצעות חדשנות בלתי מתפשרת בגלשני פאדל מתנפחים בעמידה (SUP). הצוות המסור שלנו — מהנדסים, מעצבים ומומחי ספורט מים נלהבים — מעצב את עתיד הענף ומציב בעקביות רף גבוה יותר לאיכות, לביצועים ולקיימות.'
-  - 'מתקן המו״פ שלנו מאחד תחת קורת גג אחת מדעני חומרים, מהנדסי ימייה ומהנדסי ייצור. מניסוח בדים וסימולציית גוף שיט ועד פיתוח תהליכי ריתוך והפלגות ניסוי בקנה מידה מלא בים — כל שלב בפיתוח המוצר מונע על ידי נתונים ומאומת בבדיקות.'
+  - olagoon's Research and Development (R&D) Center is the driving force behind our mission to revolutionize water sports equipment. We empower water sports enthusiasts globally with safer, more comfortable, and more enjoyable products through relentless innovation in inflatable drop-stitch pool (pools). Our dedicated team of engineers, designers, and passionate water sports experts are shaping the future of the industry, consistently raising the bar for quality, performance, and sustainability.
+  - Our R&D facility brings together material scientists, marine engineers, and production engineers under one roof. From fabric formulation and hull simulation to welding process development and full-scale sea trials, every stage of product development is driven by data and validated by testing.
 
 mission:
-  tagline: 'המשימה שלנו'
-  title: 'מחדשים את עתיד ספורט המים'
+  tagline: Our Mission
+  title: Innovating the Future of Water Sports
   pillars:
     - icon: lightning
-      title: 'התקדמות טכנולוגית'
-      desc: 'חלוציות בחומרים, בעיצובים ובייצור חדשים לביצועי מוצר ואורך חיים עדיפים.'
+      title: Technological Advancement
+      desc: Pioneering new materials, designs, and manufacturing for superior product performance and longevity.
     - icon: design
-      title: 'עיצוב ממוקד משתמש'
-      desc: 'הבנה עמוקה של צרכי המשתמשים וחריגה מהם באמצעות עיצוב מוצר ארגונומי ואינטואיטיבי.'
+      title: User-Centric Design
+      desc: Deeply understanding and exceeding user needs through ergonomic and intuitive product design.
     - icon: globe
-      title: 'פרקטיקות בנות קיימא'
-      desc: 'מזעור טביעת הרגל הסביבתית שלנו באמצעות שימוש בחומרים ובתהליכים ידידותיים לסביבה.'
+      title: Sustainable Practices
+      desc: Minimizing our environmental footprint by utilizing eco-friendly materials and processes.
     - icon: shield
-      title: 'בטיחות בלתי מתפשרת'
-      desc: 'הבטחת סטנדרטים גבוהים ביותר של בטיחות באמצעות בדיקות קפדניות והסמכה.'
+      title: Uncompromising Safety
+      desc: Ensuring the highest safety standards through rigorous testing and certification.
 
 pillars:
-  - title: 'התקדמות טכנולוגית'
-    desc: 'חלוציות בחומרים, בעיצובים ובתהליכי ייצור חדשים כדי לספק ביצועי מוצר ואורך חיים עדיפים.'
+  - title: Technological Advancement
+    desc: Pioneering new materials, designs, and manufacturing processes to deliver superior product performance and longevity.
     icon: tech
-  - title: 'חומרים מתקדמים'
-    desc: 'חקירת PVC חדשני, חומרים מרוכבים וחלופות בנות קיימא לשיפור מאפייני המוצר.'
+  - title: Advanced Materials
+    desc: Investigating cutting-edge PVC, composites, and sustainable alternatives for enhanced product characteristics.
     icon: materials
-  - title: 'קיימות'
-    desc: 'מחויבות ליבה: אנו מסורים לשמירה על הסביבה באמצעות ייצור בן קיימא וחומרים הניתנים למיחזור.'
+  - title: Sustainability
+    desc: 'A Core Commitment: We are dedicated to environmental stewardship through sustainable manufacturing and recyclable materials.'
     icon: sustainability
 
 capabilities:
-  tagline: 'יכולות'
-  title: 'יכולות מו״פ'
-  subtitle: 'ארבע דיסציפלינות ליבה המעניקות לנו שליטה מקצה לקצה בפיתוח המוצר — ממחקר חומרי הגלם ועד להסמכה הסופית.'
+  tagline: Capabilities
+  title: R&D Capabilities
+  subtitle: Four core disciplines that give us end-to-end control over product development — from raw material research to final certification.
   groups:
-    - title: 'מדע החומרים וטכנולוגיית בדים'
+    - title: Material Science & Fabric Technology
       items:
-        - 'ניתוח ומיטוב של ניסוחי PVC'
-        - 'פיתוח תוספות ייצוב UV, עמידות לאש ואנטי-מיקרוביאליות'
-        - 'למינציה של בדים רב-שכבתיים והנדסת הדבקה'
-        - 'בדיקות הזדקנות מואצת (UV, תרמי, לחות, ספריי מלח)'
-    - title: 'הנדסת גוף שיט והידרודינמיקה'
+        - PVC formulation analysis and optimisation
+        - UV stabilisation, flame retardancy, and anti-microbial additive development
+        - Multi-layer fabric lamination and adhesion engineering
+        - Accelerated ageing testing (UV, thermal, humidity, salt spray)
+    - title: Hull Engineering & Hydrodynamics
       items:
-        - 'עיצוב גוף שיט תלת-ממדי פרמטרי ומיטוב CFD'
-        - 'ניתוח אלמנטים סופיים לעומסים מבניים ולפגיעות'
-        - 'בדיקות גרירה של דגמים בקנה מידה ואימות ביצועים'
-        - 'פיתוח גוף שיט מותאם לפרופילי משימה מיוחדים'
-    - title: 'טכנולוגיית ריתוך וחיבור'
+        - Parametric 3D hull design and CFD optimisation
+        - Finite element analysis for structural and impact loads
+        - Scale-model towing tank testing and performance validation
+        - Custom hull development for special mission profiles
+    - title: Welding & Joining Technology
       items:
-        - 'פיתוח ומיטוב של תהליכי ריתוך דיאלקטרי RF'
-        - 'שיטות ריתוך באוויר חם, בטריז חם ובאולטרסאונד'
-        - 'הדבקה והסמכה של סרטי תפרים'
-        - 'מידול חוזק ריתוך וחיזוי אורך חיים'
-    - title: 'בדיקות, הסמכה וציות'
+        - RF dielectric welding process development and optimisation
+        - Hot-air, hot-wedge, and ultrasonic welding methods
+        - Adhesive bonding and seam tape qualification
+        - Weld strength modelling and lifetime prediction
+    - title: Testing, Certification & Compliance
       items:
-        - 'ניהול איכות ובדיקות ציות CE'
-        - 'בדיקות עצמאיות של צד שלישי ותמיכה בהסמכה'
-        - 'פיתוח פרוטוקולי בדיקה מותאמים להסמכת רכש'
-        - 'ניתוח כשלים בשירות וחקירת שורש הבעיה'
+        - Quality management and CE compliance testing
+        - Independent third-party testing and certification support
+        - Custom test protocol development for procurement qualification
+        - In-service failure analysis and root-cause investigation
 
 rd_numbers:
-  tagline: 'חדשנות'
-  title: 'מו״פ במספרים'
+  tagline: Innovation
+  title: R&D by the Numbers
   stats:
     - value: '14'
-      label: 'מהנדסי וחוקרי מו״פ'
+      label: R&D engineers & scientists
     - value: '8'
-      label: 'פטנטים ובקשות פטנט פעילים'
+      label: Active patents & filings
     - value: '6'
-      label: 'מעבדות מתמחות'
-    - value: '12 שנים'
-      label: 'ניסיון צוות ממוצע'
+      label: Specialised labs
+    - value: 12 yr
+      label: Average team experience
 
 rd_services:
-  tagline: 'מו״פ מותאם'
-  title: 'שירותי מו״פ לשותפים'
+  tagline: Custom R&D
+  title: R&D Services for Partners
   services:
-    - title: 'פיתוח חומרים בהתאמה אישית'
-      desc: 'אנו מפתחים ניסוחי בדים מותאמים, שכבות למינציה ומערכות הדבקה המותאמות לסביבת ההפעלה וליעדי הביצועים שלכם.'
-    - title: 'הנדסת מוצרים OEM / ODM'
-      desc: 'אנו מפתחים ניסוחי בדים מותאמים, שכבות למינציה ומערכות הדבקה המותאמות לסביבת ההפעלה וליעדי הביצועים שלכם.'
-    - title: 'בדיקות והסמכה של צד שלישי'
-      desc: 'השתמשו במתקני הבדיקה שלנו העומדים בתקן ISO לבדיקות חומרים עצמאיות, אימות מוצרים ותמיכה בהסמכה.'
-  cta: 'דונו בדרישות המו״פ שלכם →'
+    - title: Custom Material Development
+      desc: We develop custom fabric formulations, laminate stacks, and adhesive systems tailored to your operating environment and performance targets.
+    - title: OEM / ODM Product Engineering
+      desc: We develop custom fabric formulations, laminate stacks, and adhesive systems tailored to your operating environment and performance targets.
+    - title: Third-Party Testing & Certification
+      desc: Use our ISO-compliant test facilities for independent material testing, product validation, and certification support.
+  cta: Discuss your R&D requirements →
   cta_link: /contact/
 
 vision:
-  tagline: 'החזון שלנו'
-  title: 'מעצבים את עתיד ספורט המים'
-  body: 'olagoon שואף להוביל את ענף ה-SUP המתנפח באמצעות חדשנות מתמדת, איכות בלתי מתפשרת ומחויבות איתנה לבטיחות ולקיימות — ובסופו של דבר להעשיר את חוויותיהם של חובבי ספורט המים ברחבי העולם. מרכז המו״פ של olagoon הוא המקום שבו תשוקה פוגשת חדשנות, הקובע סטנדרטים חדשים לענף ספורט המים.'
+  tagline: Our Vision
+  title: Shaping the Future of Water Sports
+  body: OLagoon strives to lead the inflatable pool industry through continuous innovation, unwavering quality, and a steadfast commitment to safety and sustainability — ultimately enriching backyard summers for families worldwide. The olagoon R&D Center is where passion meets innovation, setting new standards for the water sports industry.
 
 labs_section:
-  tagline: 'מעבדות'
-  title: 'המעבדות שלנו'
+  tagline: Labs
+  title: Our Laboratories
   labs:
     - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
-      title: 'מעבדת בדי PVC'
-      description: 'מחקר ובדיקות מתמשכים של בדי סיפון PVC לחוזק מתיחה, עמידות ל-UV, שחיקה וגמישות בטמפרטורות נמוכות, כדי להבטיח אמינות ארוכת טווח בסביבות ימיות.'
+      title: PVC Fabric Lab
+      description: Continuous research and testing of PVC deck fabrics for tensile strength, UV resistance, abrasion, and low-temperature flexibility to ensure long-term reliability in marine environments.
       href: /randdcenter/pvc-fabric-lab/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-      title: 'סטודיו הנדסת גוף שיט'
-      description: 'עיצוב מונע CAD וניתוח אלמנטים סופיים של גופי HDPE, אלומיניום ופיברגלס. כל גוף שיט עובר סימולציה דיגיטלית להתפלגות מאמצים ולעמידות בפגיעות לפני בניית אב-הטיפוס הראשון.'
+      title: Hull Engineering Studio
+      description: CAD-driven design and finite element analysis of HDPE, aluminum, and fiberglass hulls. Every hull is digitally simulated for stress distribution and impact resistance before the first prototype is built.
       href: /technology/
-    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
-      title: 'מרכז הריתוך RF'
-      description: 'מתקן ריתוך בתדר רדיו ייעודי עם בקרת טמפרטורה ולחץ מדויקת, המייצר תפרים חזקים ואטומים העומדים בסטנדרטים של ענף הימייה לכלי שיט מתנפחים.'
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+      title: RF Welding Center
+      description: Dedicated radio-frequency welding facility with precision temperature and pressure control, producing high-strength, airtight seams that meet marine industry standards for inflatable craft.
       href: /randdcenter/rf-welding/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
-      title: 'בריכת הבדיקות ההידרודינמית'
-      description: 'בדיקות דגמים בקנה מידה בבריכת הבדיקות הפנימית שלנו למיטוב צורת גוף השיט, ביצועי הגלישה, היציבות ויעילות הדלק במגוון תנאי עומס וים.'
+      title: Hydrodynamic Test Tank
+      description: Scale-model testing in our in-house test tank to optimize hull form, planing performance, stability, and fuel efficiency across a range of load and sea conditions.
       href: /technology/
-    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      title: 'סדנת אבות-טיפוס'
-      description: 'מתקן לבניית אבות-טיפוס ולציוד בקנה מידה מלא, שבו דגמים חדשים נבנים, מצוידים ונבדקים בים. כל אב-טיפוס עובר תוכנית בדיקות במים של 20 שעות לפחות לפני אישור ייצור.'
+    - image: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+      title: Prototype Workshop
+      description: Full-scale prototyping and rigging facility where new models are built, fitted, and sea-trialed. Every prototype undergoes a minimum 20-hour in-water test programme before production approval.
       href: /randdcenter/prototype-workshop/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
-      title: 'מעבדת איכות ופיקוח'
-      description: 'מעבדת הבטחת איכות ייעודית המבצעת בדיקות מתיחה, מחזורי שמירת אוויר, בדיקות קילוף תפרים והסמכת חומרים, כדי להבטיח שכל לוח היוצא מהסדנה עומד במפרטים המפורסמים שלנו.'
+      title: Quality & Inspection Lab
+      description: Dedicated quality assurance lab performing tensile testing, air-retention cycling, seam peel tests, and material certification to ensure every pool leaving the workshop meets our published specifications.
       href: /randdcenter/quality-inspection-lab/

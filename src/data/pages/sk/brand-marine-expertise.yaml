@@ -1,72 +1,72 @@
 meta:
-  title: 'Morská odbornosť — inžinierstvo v každom trupe | {SITE}'
-  description: 'Desaťročia morského inžinierstva v každom trupe. olagoon ovláda drop stitch, morské PVC a profesionálny dizajn nafukovacích dosiek SUP.'
+  title: 'Marine Expertise — Engineering in Every Hull | {SITE}'
+  description: 'Decades of marine engineering in every hull. olagoon masters drop stitch, marine PVC, and professional inflatable pools design.'
   keywords:
-    - 'morské inžinierstvo'
-    - 'výrobca nafukovacích SUP'
-    - 'výroba paddle boardov'
+    - 'marine engineering'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: 'Morská odbornosť'
-  title: 'Desaťročia morského inžinierstva<br />v každom trupe'
-  subtitle: 'olagoon kombinuje hlbokú vedu o materiáloch, presnú výrobu a testovanie v reálnych podmienkach, aby vyrábal plavidlá, ktoré fungujú, keď na tom záleží.'
+  tagline: Marine Expertise
+  title: 'Decades of Marine Engineering<br />in Every Hull'
+  subtitle: 'olagoon combines deep material science, precision manufacturing, and real-world testing to produce watercraft that perform when it matters.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: 'morské inžinierstvo olagoon a tím R&D pri práci'
+    alt: olagoon marine engineering and R&D team at work
 expertise_materials:
-  tagline: 'Veda o materiáloch'
-  title: 'Výber správneho materiálu<br />pre každú aplikáciu'
-  subtitle: 'Pracujeme s dvomi základnými materiálmi — každý vybraný pre špecifické spôsoby použitia a výkonnostné požiadavky.'
+  tagline: Material Science
+  title: 'Choosing the Right Material<br />for Every Application'
+  subtitle: 'We work with two core materials — each selected for specific use cases and performance requirements.'
   columns: 3
   items:
-    - title: 'Morské PVC'
-      description: 'Látka PVC 1100 denier — náš najuniverzálnejší materiál. UV-stabilizovaná, odolná protioderu a v súlade s REACH. Ideálna pre dosky SUP, kde záleží na hmotnosti a cenovej efektívnosti.'
+    - title: Marine-Grade PVC
+      description: '1100 denier PVC fabric — our most versatile material. UV-stabilized, abrasion-resistant, and REACH compliant. Ideal for pools where weight and cost efficiency matter.'
       icon: tabler:droplet
-    - title: 'Sklolaminát a polyetylén'
-      description: 'Sklolaminátom laminované dosky SUP pre prémiovú tuhosť a kĺzanie. Rotačne vstrekovaný polyetylén pre náročné požičovné a záchranné použitie vyžadujúce maximálnu odolnosť voči nárazu.'
+    - title: Fibreglass & Polyethylene
+      description: 'Fibreglass-laminated pools for premium stiffness and glide. Rotomoulded polyethylene for heavy-duty rental and rescue use requiring maximum impact resistance.'
       icon: tabler:building-arch
 expertise_manufacturing:
-  tagline: 'Výrobné schopnosti'
-  title: 'Presná výroba<br />v každom kroku'
-  subtitle: 'Naše zariadenie s rozlohou 12 000 m² je vybavené špecializovanými strojmi pre každú fázu výroby.'
+  tagline: Manufacturing Capabilities
+  title: 'Precision Manufacturing<br />at Every Step'
+  subtitle: 'Our 12,000 m² facility is equipped with specialized machinery for every stage of production.'
   columns: 2
   items:
-    - title: 'CNC strihanie'
-      description: 'Počítačom riadené strihanie zaručuje presné, opakovateľné panely z látky s minimálnym odpadom. Každý diel sedí presne podľa dizajnu.'
+    - title: CNC Cutting
+      description: 'Computer-controlled cutting ensures precise, repeatable fabric panels with minimal waste. Every piece fits exactly as designed.'
       icon: tabler:cpu
-    - title: 'Vysokofrekvenčné zváranie'
-      description: 'Priemyselné HF zváranie vytvára švy pevnejšie než základný materiál. Konzistentná regulácia teploty a tlaku zaručuje vzduchotesné tesnenia v každej výrobnej šarži.'
+    - title: High-Frequency Welding
+      description: 'Industrial HF welding creates seams stronger than the base material. Consistent temperature and pressure control ensures air-tight seals across every production run.'
       icon: tabler:bolt
-    - title: 'Montáž drop stitch jadra'
-      description: 'Tisíce polyesterových nití spája vrchnú a spodnú vrstvu látky, čo umožňuje vysokotlaké nafúknutie (15-20 PSI) pre tuhé, stabilné dosky SUP.'
+    - title: Drop Stitch Core Assembly
+      description: 'Thousands of polyester threads connect top and bottom fabric layers, allowing high-pressure inflation (15-20 PSI) for rigid, stable pools.'
       icon: tabler:building-arch
-    - title: 'Tlakové testovanie'
-      description: 'Každý nafukovací výrobok je pred odoslaním testovaný na tlak. Dosky sa testujú pri 1,25-násobku ratingového tlaku — ak to vydrží, bude fungovať na vode.'
+    - title: Pressure Testing
+      description: 'Every inflatable product is pressure-tested before shipping. Pools are tested at 1.25x rated pressure — if it holds there, it will perform on the water.'
       icon: tabler:wind
-    - title: 'Testovanie pevnosti švov'
-      description: 'Náhodné vzorky z každej výrobnej šarže podstupujú deštruktívne testy pevnosti švov. Výsledky sa zaznamenávajú a sú sledovateľné k konkrétnym výrobným šaržiam.'
+    - title: Seam Strength Testing
+      description: 'Random samples from each production batch undergo destructive seam strength testing. Results are logged and traceable to specific production runs.'
       icon: tabler:files
-    - title: 'Testovanie na vode'
-      description: 'Každý model pred certifikáciou absolvuje skúšky na mori. Testovanie v reálnych pobrežných podmienkach overuje výkon, ovládanie a stabilitu.'
+    - title: Water Testing
+      description: 'Every model undergoes sea trials before certification. Real-world testing in coastal conditions validates performance, handling, and stability.'
       icon: tabler:droplet
 expertise_design:
-  tagline: 'Dizajn a konštrukcia'
-  title: 'Skonštruované pre reálne podmienky'
-  subtitle: 'Naša dizajnová filozofia začína tým, ako sa bude doska používať — a potom okolo tohto spôsobu použitia buduje inžinierstvo.'
+  tagline: Design & Engineering
+  title: 'Engineered for Real Conditions'
+  subtitle: 'Our design philosophy starts with how the pool will be used — then builds the engineering around that use case.'
   items:
-    - title: 'Výkonnostný dizajn trupu'
-      description: 'Každý tvar trupu je ladený pre svoje použitie — vytláčacie provy pre touringové kĺzanie, pridaný rocker pre surfovú obratnosť, ploché stabilné profily pre rybolov a jogu.'
-    - title: 'Bezpečnosť drop-stitch'
-      description: 'Každá doska má tuhé drop-stitch jadro so zosilnenými bočnicami. Ak sa niektorá časť poškodí, vysokopevnostná drop-stitch konštrukcia udrží dosku v prevádzke.'
-    - title: 'Ergonomické rozloženie paluby'
-      description: 'Členenie palubnej podložky, pozícia nosnej rukoväte a montážne body sú navrhnuté s ohľadom na komfort jazdca pri dlhodobom používaní — či už pri touringu, rybolove alebo hliadkovaní.'
-    - title: 'Vlastná konfigurácia'
-      description: 'Farby bočníc, konfigurácia palubnej podložky, držiaky príslušenstva, kapacita vybavenia — každý model možno prispôsobiť špecifickým prevádzkovým požiadavkám.'
+    - title: Performance Hull Design
+      description: 'Each pool is tuned for its use case — compact footprints for plunge soaking, family-sized layouts for play, and generous swim areas for daily laps.'
+    - title: Drop-Stitch Safety
+      description: 'Every pool features a rigid drop-stitch core with reinforced walls. If a section is damaged, the high-tensile drop-stitch structure keeps the pool operational.'
+    - title: Ergonomic Deck Layout
+      description: 'Deck-pad zoning, carry-handle position, and mounting points are designed around rider comfort during extended use — whether touring, fishing, or patrolling.'
+    - title: Custom Configuration
+      description: 'Rail colors, deck pad configuration, accessory mounts, gear capacity — each model can be customized to match specific operational requirements.'
 cta:
-  title: 'Máte na mysli konkrétnu aplikáciu?'
-  subtitle: 'Náš inžiniersky tím vám poradí s výberom materiálov, dizajnom a výrobou pre váš projekt.'
+  title: 'Have a specific application in mind?'
+  subtitle: 'Our engineering team can advise on material selection, design, and manufacturing for your project.'
   actions:
     - variant: primary
-      text: 'Spýtajte sa našich inžinierov'
+      text: Ask our engineers
       href: /contact/
-    - text: 'Pozrieť produktovú ponuku'
+    - text: View product range
       href: /products/

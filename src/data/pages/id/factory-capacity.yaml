@@ -1,50 +1,50 @@
 meta:
-  title: 'Kapasitas Produksi — Pabrik 12,000 m² | {SITE}'
-  description: 'Kapasitas pabrik olagoon: fasilitas 12,000 m² yang memproduksi 15,000+ papan SUP per tahun dengan ruang untuk penskalaan. Manufaktur SUP tiup OEM/ODM skala besar.'
+  title: 'Production Capacity — 12,000 m² Factory | {SITE}'
+  description: 'olagoon factory capacity: 12,000 m² facility producing 15,000+ pools per year with room to scale. Large-scale OEM/ODM inflatable pools manufacturing.'
   keywords:
-    - 'kapasitas produksi sup'
-    - 'pabrik sup tiup'
-    - 'produksi papan dayung'
-    - 'pabrik sup tiongkok'
+    - 'pool production capacity'
+    - 'inflatable pools factory'
+    - 'inflatable pool production'
+    - 'pool factory china'
 hero:
-  tagline: Kapasitas Produksi
-  title: Kapasitas Manufaktur & Output Tahunan
-  subtitle: Fasilitas 12,000 m² yang memproduksi 15,000+ papan SUP per tahun dengan ruang untuk penskalaan
+  tagline: Production Capacity
+  title: Manufacturing Capacity & Annual Output
+  subtitle: 12,000 m² facility producing 15,000+ pools per year with room to scale
 
-intro: olagoon mengoperasikan salah satu fasilitas manufaktur SUP tiup khusus terbesar di Qingdao, Tiongkok. Pabrik 12,000 m² kami terorganisir menjadi enam workshop terspesialisasi yang beroperasi paralel, memberi kami kapasitas untuk memproduksi lebih dari 15,000 papan SUP setiap tahun di seluruh lini papan SUP dan peralatan keselamatan.
+intro: olagoon operates one of the largest dedicated inflatable pools manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 pools annually across pools and safety equipment lines.
 
 highlights:
   - value: 12,000 m²
-    label: Total lantai manufaktur
-    detail: Di 6 workshop terspesialisasi
+    label: Total manufacturing floor
+    detail: Across 6 specialized workshops
   - value: 15,000+
-    label: Papan SUP diproduksi setiap tahun
-    detail: Papan SUP, dayung, aksesori
+    label: pools produced annually
+    detail: pools, filters, accessories
   - value: 200+
-    label: Tenaga kerja terampil
-    detail: 25+ insinyur, 2 shift/hari
+    label: Skilled workforce
+    detail: 25+ engineers, 2 shifts/day
   - value: 50+
-    label: Negara ekspor
-    detail: UE, AS, AU, Timur Tengah, Asia
-  - value: 30–45
-    label: Waktu produksi standar (hari)
-    detail: Dari konfirmasi PO ke FOB
+    label: Export countries
+    detail: EU, US, AU, Middle East, Asia
+  - value: 12–16
+    label: Standard lead time (weeks)
+    detail: 50–100 units, from PO confirmation to FOB
   - value: 10+
-    label: Tahun pengalaman ekspor
-    detail: Sejak 2012
+    label: Years of export experience
+    detail: Since 2012
 
 workshops:
-  - title: Produksi Papan SUP
-    description: '4 lini perakitan paralel untuk papan SUP tiup. Setiap lini dapat memproduksi 50–80 papan per shift. Stasiun pencetakan digital dan sablon berjalan bersamaan. Kapasitas SUP tahunan: 10,000+ papan.'
-    output: '10,000+ SUP/tahun'
-  - title: 'Lini Papan SUP'
-    description: 'Lini produksi serbaguna untuk papan SUP tiup. Stasiun pengelasan hot-air, press RF dielektrik, dan stasiun kerja perakitan dikonfigurasi ulang berdasarkan kombinasi pesanan. Kapasitas tahunan: 5,000+ unit.'
-    output: '5,000+ unit/tahun'
-  - title: Peralatan Keselamatan
-    description: 'Area produksi clean-room terpisah untuk rompi pelampung dan peralatan keselamatan. Stasiun penjahitan, penyisipan foam, dan pengujian khusus. Kapasitas rompi pelampung tahunan: 50,000+ unit.'
-    output: '50,000+ rompi pelampung/tahun'
+  - title: pools Production
+    description: '4 parallel assembly lines for inflatable pools. Each line can produce 50–80 pools per shift. Digital printing and screen printing stations run concurrently. Annual pool capacity: 15,000+ pools.'
+    output: '10,000+ pools/year'
+  - title: 'pools Lines'
+    description: 'Multi-purpose production lines for inflatable pools. Hot-air welding stations, RF dielectric presses, and assembly workstations are reconfigured based on order mix. Annual capacity: 5,000+ units.'
+    output: '5,000+ units/year'
+  - title: Safety Equipment
+    description: 'Separate clean-room production area for filtration assemblies and pump equipment. Dedicated assembly, calibration, and testing stations. Annual accessory capacity: 50,000+ units.'
+    output: '50,000+ accessories/year'
 
 oem_capacity:
-  moq: 'SUP: 50 unit (sampel mulai 5–10) | Cetakan kustom: 200+ unit'
-  lead_time: 'Standar 30–45 hari. Sampel 15–20 hari. Pesanan kilat tersedia.'
-  payment: 'T/T 30% deposit + 70% sebelum pengiriman. L/C, Western Union diterima.'
+  moq: 'pool: 50 units (samples from 5–10) | Custom mould: 200+ units'
+  lead_time: 'Production 12–16 weeks (50–100 units), 8–12 weeks above 1,000 units. Samples 15–20 days. Rush available.'
+  payment: 'T/T 30% deposit + 70% before shipment. L/C, Western Union accepted.'

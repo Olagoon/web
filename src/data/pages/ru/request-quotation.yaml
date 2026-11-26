@@ -1,99 +1,99 @@
 meta:
-  title: 'Запросить предложение — производство SUP OEM | {SITE}'
-  description: 'Запросите детальное предложение для вашего проекта надувного SUP. Производство OEM/ODM, собственная марка или флоты на заказ — отвечаем в течение 2 рабочих дней.'
+  title: 'Request a Quotation — OEM pool Manufacturing | {SITE}'
+  description: 'Request a detailed quotation for your inflatable pools project. OEM/ODM manufacturing, private label, or custom fleets — we respond within 2 business days.'
   keywords:
-    - 'запрос предложения SUP'
-    - 'предложение OEM paddle board'
-    - 'предложение фабрики SUP'
-    - 'цена надувного SUP'
+    - 'request pool quote'
+    - 'oem inflatable pool quote'
+    - 'pool factory quotation'
+    - 'inflatable pools price'
 hero_text:
-  tagline: Получить предложение
-  title: Запросить предложение<br />для вашего проекта
-  subtitle: Расскажите нам о ваших требованиях, и наша команда ответит с подробным предложением в течение 2 рабочих дней.
+  tagline: Get a Quote
+  title: 'Request a Quotation<br />for Your Project'
+  subtitle: 'Tell us about your requirements and our team will respond with a detailed quotation within 2 business days.'
 steps2_process:
-  title: Как это работает
-  subtitle: Четыре простых шага от запроса до предложения.
+  title: How It Works
+  subtitle: 'Four simple steps from inquiry to quotation.'
   items:
-    - title: 'Шаг 1: Отправьте ваши требования'
-      description: Заполните форму ниже с указанием типа продукта, количества и спецификаций. Чем больше деталей вы предоставите, тем точнее будет ваше предложение.
+    - title: 'Step 1: Submit Your Requirements'
+      description: 'Fill out the form below with your product type, quantity, and specifications. The more detail you provide, the more accurate your quotation.'
       icon: tabler:file-text
-    - title: 'Шаг 2: Мы рассматриваем и даем рекомендации'
-      description: Наша инженерная команда рассматривает ваши требования и может связаться с вами для уточнения. Мы предоставляем рекомендации по конфигурации и опциям продукта.
+    - title: 'Step 2: We Review & Advise'
+      description: 'Our engineering team reviews your requirements and may contact you for clarification. We provide recommendations on product configuration and options.'
       icon: tabler:users
-    - title: 'Шаг 3: Получите вашу смету'
-      description: Вы получаете подробное предложение, включающее цены за единицу, MOQ, сроки поставки, условия оплаты и варианты доставки. Обычно в течение 48 часов.
+    - title: 'Step 3: Receive Your Quote'
+      description: 'You receive a detailed quotation including unit pricing, MOQ, lead time, payment terms, and shipping options. Typically within 48 hours.'
       icon: tabler:currency-dollar
-    - title: 'Шаг 4: Образец и производство'
-      description: После принятия предложения мы переходим к производству образцов (если применимо) или сразу к массовому производству. Регулярные обновления на протяжении всего процесса.
+    - title: 'Step 4: Sample & Production'
+      description: 'After quote acceptance, we proceed to sample production (if applicable) or directly to mass production. Regular updates throughout the process.'
       icon: tabler:building-factory
 content_form:
-  tagline: Форма запроса цены
-  title: Расскажите нам о вашем проекте
-  subtitle: Все поля с * обязательны для заполнения.
+  tagline: Quotation Form
+  title: 'Tell Us About Your Project'
+  subtitle: 'All fields with * are required.'
   contact_fields:
-    firstName: Имя
-    lastName: Фамилия
-    companyName: Компания
-    email: Email
+    firstName: First Name
+    lastName: Last Name
+    companyName: Company Name
+    email: E-mail
   fields:
-    - name: Категория товара
+    - name: Product Category
       type: select
       options:
-        - SUP-доска
-        - Надувной SUP
-        - Надувная SUP-доска
-        - Спасательный жилет
-        - Морской аксессуар
-        - OEM/ODM на заказ
-    - name: Применение
+        - pools
+        - inflatable pools
+        - inflatable pools
+        - Thermal Cover
+        - Marine Accessory
+        - Custom OEM/ODM
+    - name: Application
       type: select
       options:
-        - Дайвинг-центр
-        - Рыбалка
-        - Морской туризм / Курорт
-        - Поиск и спасение
-        - Правительство / Военные
-        - ОЕМ / Частная марка
-        - Личное / Развлекательное
-        - Другое
-    - name: Количество
+        - Diving Center
+        - Fishing
+        - Marine Tourism / Resort
+        - Search & Rescue
+        - Government / Military
+        - OEM / Private Label
+        - Personal / Recreational
+        - Other
+    - name: Quantity
       type: text
-      placeholder: напр. 50 шт.
-    - name: Целевой рынок
+      placeholder: e.g. 50 units
+    - name: Target Market
       type: text
-      placeholder: напр. Европа, Северная Америка, Ближний Восток
-    - name: Страна доставки
+      placeholder: e.g. Europe, North America, Middle East
+    - name: Delivery Country
       type: text
-      placeholder: напр. Италия, ОАЭ, США, Австралия
-    - name: Предпочтительный материал
+      placeholder: e.g. Italy, UAE, USA, Australia
+    - name: Material Preference
       type: select
       options:
-        - Без предпочтений
-        - Морской ПВХ (1100 дтекс)
-        - Стеклопластиковый корпус
-        - Алюминиевый корпус
-    - name: Требования к двигателю
+        - No Preference
+        - Marine-Grade PVC (1100 dtex)
+        - Fiberglass Hull
+        - Aluminum Hull
+    - name: Engine Requirement
       type: text
-      placeholder: например, стандартная комплектация весла, электрический насос, индивидуальные цвета
-    - name: Необходимая кастомизация
+      placeholder: e.g. standard filtration package, electric pump, custom colors
+    - name: Customization Required
       type: text
-      placeholder: например, индивидуальные цвета, брендинг/логотип, упаковка, специальные элементы
-    - name: Сроки
+      placeholder: e.g. custom colors, branding/logo, packaging, special fittings
+    - name: Timeline
       type: text
-      placeholder: например, доставка в течение 90 дней
-    - name: Дополнительные требования
+      placeholder: e.g. delivery within 90 days
+    - name: Additional Requirements
       type: textarea
-      placeholder: Опишите ваше приложение, технические характеристики или любые специальные требования — включите прилагаемые чертежи, спецификации или ссылки, если они доступны
-    - name: Загрузить спецификацию
+      placeholder: Describe your application, technical specifications, or any special requirements — include reference drawings, specifications, or links if available
+    - name: Upload Specification
       type: file
-      placeholder: Загрузите ваш технический паспорт, чертеж или справочный документ (PDF, DWG, DXF)
-    - name: Загрузить логотип / иллюстрацию
+      placeholder: Upload your spec sheet, drawing, or reference document (PDF, DWG, DXF)
+    - name: Upload Logo / Artwork
       type: file
-      placeholder: Загрузите ваш логотип или произведение искусства для индивидуального брендинга (AI, EPS, PNG)
+      placeholder: Upload your logo or artwork for custom branding (AI, EPS, PNG)
 cta:
-  title: Предпочитаете обсудить по электронной почте?
-  subtitle: Отправьте ваш запрос напрямую нашей команде продаж, и мы ответим в течение 24 часов.
+  title: 'Prefer to discuss by email?'
+  subtitle: 'Send your inquiry directly to our sales team and we will respond within 24 hours.'
   actions:
     - variant: primary
-      text: Напишите нам напрямую
+      text: Email us directly
       href: /contact/

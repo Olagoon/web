@@ -1,26 +1,26 @@
 meta:
-  title: 'SUP водичи — куповина, избор, вежбање | {SITE}'
-  description: 'olagoon SUP водичи: како купити, изабрати и вежбати веслање на плочи. Величине, материјали и стручни савети за почетнике и професионалце надуваних SUP плоча.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'sup водич за куповину'
-    - 'како изабрати sup'
-    - 'sup водич за величине'
-    - 'савети за надуване плоче за веслање'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: 'Водичи'
-  title: 'Нови у SUP свету?'
-  subtitle: 'Практични водичи који вам помажу да изаберете, користите и уживате у надуваним SUP плочама.'
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
 
 size_guide:
-  tagline: 'Величина и спецификације'
-  title: 'Пронађите праву величину за ваше потребе'
-  desc: 'Упоредите димензије SUP плоча, носивост и препоручене употребе. Без обзира да ли вам треба туринг SUP плоча, џога плоча или универзална SUP плоча — наш водич за величине помаже вам да изаберете праву.'
-  link_label: 'Комплетан водич за величине са спецификацијама производа →'
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: 'SUP плоче'
-      desc: 'Изаберите дужину на основу ваше тежине и намењене употребе. Шире плоче (32"+) нуде више стабилности. Дуже плоче (11–12 ft) боље држе правац за туринг.'
-    - title: 'Туринг SUP плоче'
-      desc: 'Дуже плоче (11–12 ft) за пређене раздаљине и држање правог курса. Довољно стабилне за туринг са опремом. Увек проверите носивост.'
-    - title: 'Универзалне SUP плоче'
-      desc: 'Изаберите дужину према тежини возача и употреби. Шире плоче (32"+) за стабилност. Свестране за рекреацију и фитнес.'
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

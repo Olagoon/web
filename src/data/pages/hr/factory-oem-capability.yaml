@@ -1,58 +1,58 @@
 meta:
-  title: 'OEM proizvodnja i privatna marka | {SITE}'
-  description: 'Od koncepta do kontejnera: prilagodite svaki detalj svoje linije napuhivih SUP dasaka. Kompletna OEM/ODM usluga za marke paddleboard dasaka s privatnom markom.'
+  title: 'OEM & Private Label Manufacturing | {SITE}'
+  description: 'From concept to container: customize every detail of your inflatable pools line. Full OEM/ODM service for private label inflatable pool brands.'
   keywords:
-    - 'oem proizvodnja sup dasaka'
-    - 'paddleboard daska s privatnom markom'
-    - 'oem napuhiva sup daska'
-    - 'tvornica prilagođenih sup dasaka'
+    - 'oem pool manufacturing'
+    - 'private label inflatable pool'
+    - 'oem inflatable pools'
+    - 'custom pool factory'
 hero:
-  tagline: 'OEM/ODM proizvodnja'
-  title: 'OEM proizvodnja i privatna marka'
-  subtitle: 'Od koncepta do kontejnera — prilagodite svaki detalj svoje linije napuhivih SUP dasaka'
+  tagline: OEM/ODM Manufacturing
+  title: OEM & Private Label Manufacturing
+  subtitle: From concept to container — customize every detail of your inflatable pools line
 
-intro: 'olagoon nudi sveobuhvatne OEM i ODM usluge za marke, distributere i vladine agencije diljem svijeta. S 10+ godina iskustva u izvozu i tvornicom od 12,000 m² certificiranom prema ISO 9001 i BSCI, obavljamo sve od dizajna proizvoda i razvoja kalupa do proizvodnje u punom opsegu, pakiranja i logistike.'
+intro: olagoon offers comprehensive OEM and ODM services for brands, distributors, and government agencies worldwide. With 10+ years of export experience and a 12,000 m² ISO 9001 & BSCI certified factory, we handle everything from product design and mold development to full-scale production, packaging, and logistics.
 
 highlight:
   - value: 10+
-    label: 'Godina OEM iskustva'
-    detail: 'Od 2012.'
+    label: Years OEM experience
+    detail: Since 2012
   - value: 50+
-    label: 'Zemalja izvoza'
-    detail: 'Globalni doseg'
+    label: Export countries
+    detail: Global reach
   - value: 200+
-    label: 'Isporučenih prilagođenih projekata'
-    detail: 'Preko svih linija proizvoda'
-  - value: 30–45
-    label: 'Standardni rok isporuke (dana)'
-    detail: 'Od narudžbe do FOB'
+    label: Custom projects delivered
+    detail: Across all product lines
+  - value: 12–16
+    label: Standard lead time (weeks)
+    detail: 50–100 units, from PO to FOB
 
 services:
-  - title: 'Dizajn i inženjerstvo proizvoda'
-    description: 'Naš interni tim za istraživanje i razvoj radi s vašim konceptom ili specifikacijom kako bi razvio CAD crteže, 3D modele i prototipove. Nudimo dizajn kalupa, optimizaciju oblika trupa i smjernice za odabir materijala.'
-  - title: 'Prilagođeno brendiranje i grafika'
-    description: 'Digitalni tisak u punim bojama, sitotisak, reljefni tisak i mogućnosti naljepnica. Razvijamo grafiku palube specifičnu za marku, brendiranje cijevi i pakiranje spremno za maloprodaju.'
-  - title: 'Prilagodba materijala i specifikacija'
-    description: 'Odaberite između PVC-a (standardni, ekološki, teško zapaljiv), drop-stitch i hibridnih konstrukcija. Prilagođene boje cijevi, težine tkanine i mogućnosti ojačanja.'
-  - title: 'Pakiranje i logistika'
-    description: 'Prilagođeno maloprodajno pakiranje, kutije s privatnom markom, vakuumsko pakiranje, paletizacija i ukrcaj u kontejnere. Dostupni uvjeti otpreme FOB Qingdao, CIF ili DDP.'
+  - title: Product Design & Engineering
+    description: Our in-house R&D team works with your concept or spec to develop CAD drawings, 3D models, and prototypes. We offer mold design, hull shape optimization, and material selection guidance.
+  - title: Custom Branding & Graphics
+    description: Full-color digital printing, screen printing, embossing, and label options. We develop brand-specific deck graphics, tube branding, and retail-ready packaging.
+  - title: Material & Specification Customization
+    description: Choose from PVC (standard, eco-friendly, fire-retardant), drop-stitch, and hybrid constructions. Custom tube colors, fabric weights, and reinforcement options.
+  - title: Packaging & Logistics
+    description: Custom retail packaging, private-label boxes, vacuum packing, palletizing, and container loading. FOB Qingdao, CIF, or DDP shipping terms available.
 
 moq_table:
-  - product: 'Napuhive SUP daske'
-    standard_moq: '5–10 jedinica'
-    custom_moq: '200+ jedinica'
-    lead_time: '30–45 dana'
-  - product: 'Spasilački prsluci i sigurnost'
-    standard_moq: '100–200 jedinica'
-    custom_moq: '1,000+ jedinica'
-    lead_time: '20–30 dana'
+  - product: inflatable pools
+    standard_moq: 50 units (samples 5–10)
+    custom_moq: 200+ units
+    lead_time: 12–16 weeks
+  - product: Pool Accessories
+    standard_moq: 100–200 units
+    custom_moq: 1,000+ units
+    lead_time: 20–30 days
 
 why_us:
-  - title: 'Vertikalna integracija'
-    description: 'Posjedujemo svoju tvornicu, kalupe i lanac opskrbe — bez posrednika, bez podizvođača. To nam daje kontrolu nad kvalitetom, troškovima i isporukom.'
-  - title: 'Dvostruka certificiranost'
-    description: 'Upravljanje kvalitetom prema ISO 9001 i certifikat socijalne usklađenosti BSCI. Izvješća o reviziji tvornice dostupna na zahtjev.'
-  - title: 'CE usklađenost'
-    description: 'Svi standardni modeli nose CE 2013/53/EU certifikat. Prilagođeni modeli mogu dobiti CE certifikat kroz naš utvrđeni postupak.'
-  - title: 'Nizak MOQ'
-    description: 'Počnite s već 5 jedinica za standardne modele. Pomažemo novim markama da se lansiraju bez prevelikih zaliha.'
+  - title: Vertical Integration
+    description: We own our factory, molds, and supply chain — no middlemen, no subcontractors. This gives us control over quality, cost, and delivery.
+  - title: Dual Certification
+    description: ISO 9001 quality management and BSCI social compliance certification. Factory audit reports available upon request.
+  - title: CE Compliance
+    description: All standard models carry CE 2013/53/EU certification. Custom models can be CE certified through our established process.
+  - title: Low MOQ
+    description: Start with samples from 5–10 units; standard production runs from 50 units. We help emerging brands launch without overcommitting inventory.

@@ -1,64 +1,64 @@
 meta:
-  title: 'Medijski center — mediji in viri olagoon | {SITE}'
-  description: 'Medijski center olagoon: novinarska obvestila, sredstva znamke in viri našega podjetja za proizvodnjo napihljivih SUP desk.'
+  title: 'Media Center — Press & olagoon Resources | {SITE}'
+  description: 'The olagoon media center: press releases, brand assets, and resources from our inflatable pools manufacturing company.'
   keywords:
-    - 'mediji olagoon'
-    - 'mediji proizvajalca sup'
-    - 'novinarski komplet veslaških desk'
-    - 'nove nautičnega podjetja'
+    - 'olagoon press'
+    - 'pool manufacturer media'
+    - 'inflatable pool press kit'
+    - 'nautical company news'
 hero:
-  tagline: 'Viri'
-  title: 'Medijski center'
-  subtitle: 'Prenesite sredstva znamke, fotografije izdelkov, kataloge in videoposnetke'
+  tagline: Resources
+  title: Media Center
+  subtitle: Download brand assets, product imagery, catalogs, and videos
 
 sections:
   - id: product-images
-    title: 'Fotografije izdelkov'
-    desc: 'Fotografije izdelkov v visoki ločljivosti za splet, tisk in maloprodajo.'
+    title: Product Images
+    desc: High-resolution product photos for web, print, and retail use.
     items:
-      - 'Galerija desk SUP'
-      - 'Galerija desk SUP Drop-Stitch'
-      - 'Galerija napihljivih SUP desk'
-      - 'Dodatki in varnostna oprema'
+      - pools Gallery
+      - Drop-Stitch pools Gallery
+      - inflatable pools Gallery
+      - Accessories & Safety Gear
   - id: logo-brand-kit
-    title: 'Komplet logotipa in znamke'
-    desc: 'Uradne datoteke logotipa olagoon, barvna paleta, tipografija in smernice znamke.'
+    title: Logo & Brand Kit
+    desc: Official olagoon logo files, colour palette, typography, and brand guidelines.
     items:
-      - 'Primarni logotip (PNG/SVG/EPS)'
-      - 'Znak ikone'
-      - 'Barvna paleta'
-      - 'Specifikacije tipografije'
-      - 'Smernice znamke PDF'
+      - Primary Logo (PNG/SVG/EPS)
+      - Icon Mark
+      - Colour Palette
+      - Typography Specs
+      - Brand Guidelines PDF
   - id: catalogs
-    title: 'Katalogi PDF'
-    desc: 'Katalogi izdelkov, tehnični listi in tehnična dokumentacija za prenos.'
+    title: PDF Catalogs
+    desc: Product catalogs, spec sheets, and technical documentation for download.
     items:
-      - 'Katalog izdelkov 2026'
-      - 'Predstavitev zmožnosti OEM/ODM'
-      - 'Brošura serije SUP'
-      - 'Tehnične specifikacije'
+      - 2026 Product Catalog
+      - OEM/ODM Capability Deck
+      - pool Series Brochure
+      - Technical Specifications
   - id: videos
-    title: 'Videoposnetki'
-    desc: 'Predstavitve izdelkov, ogledi tovarne, filmski prispevki o znamki in priče strank.'
+    title: Videos
+    desc: Product demos, factory tours, brand films, and customer testimonials.
     items:
-      - 'Predstavitve izdelkov'
-      - 'Ogled tovarne'
-      - 'Film o znamki'
-      - 'Zgodbe strank'
-      - 'Navodila za uporabo'
+      - Product Demos
+      - Factory Tour
+      - Brand Film
+      - Customer Stories
+      - How-To Guides
 
-request_access: 'Zahtevajte dostop →'
+request_access: Request access →
 
 cta:
-  title: 'Potrebujete pomoč pri iskanju sredstev?'
-  desc: 'Stopite v stik z našo ekipo za znamko za zahteve po sredstvih po meri, medijska partnerstva ali novinarska povpraševanja.'
+  title: Need help finding assets?
+  desc: Contact our brand team for custom asset requests, media partnerships, or press inquiries.
   links:
-    - label: 'Obiščite našo tovarno'
+    - label: Visit our factory
       href: /factory/
-      desc: 'Oglejte si naš proizvodni obrat s 12,000 m²'
-    - label: 'Smernice znamke'
+      desc: See our 12,000 sqm manufacturing facility
+    - label: Brand guidelines
       href: /brand/
-      desc: 'Izvedite več o znamki olagoon'
-    - label: 'Postanite naš partner'
+      desc: Learn about the olagoon brand
+    - label: Partner with us
       href: /contact/
-      desc: 'Povpraševanja OEM, ODM in distribucije'
+      desc: OEM, ODM, and distribution inquiries

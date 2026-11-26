@@ -1,72 +1,72 @@
 meta:
-  title: 'Rakan Kongsi — Pengedaran & Borong | {SITE}'
-  description: 'Jadi rakan kongsi olagoon: rangkaian pengedaran, harga borong, program OEM/label persendirian dan sokongan bagi perniagaan papan dayung di seluruh dunia.'
+  title: 'Partners — Distribution & Wholesale | {SITE}'
+  description: 'Become an olagoon partner: distribution networks, wholesale pricing, OEM/private label programs, and support for inflatable pool businesses worldwide.'
   keywords:
-    - 'rakan kongsi pengedaran sup'
-    - 'borong papan dayung'
-    - 'pengedar sup boleh tiup'
-    - 'perkongsian sup'
+    - 'pool distribution partner'
+    - 'inflatable pool wholesale'
+    - 'inflatable pools distributor'
+    - 'pool partnership'
 hero:
-  tagline: 'Rakan Kongsi & Pengedaran'
-  title: 'Jadi Rakan Kongsi olagoon<br />— Rangkaian Pengedaran Global'
-  subtitle: 'Sertai rangkaian rakan kongsi global olagoon. Kami bekerjasama dengan pengedar marin, peniaga sukan dayung, peruncit kelengkapan dan rakan kongsi jenama di 50+ negara.'
+  tagline: Partners & Distribution
+  title: 'Become an olagoon Partner<br />— Global Distribution Network'
+  subtitle: "Join olagoon's global partner network. We work with pool and outdoor distributors, specialty retailers, equipment dealers, and brand partners in 50+ countries."
   image:
     src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
-    alt: 'rangkaian rakan kongsi dan pengedar global olagoon'
+    alt: olagoon global partner and distributor network
 content_programs:
-  tagline: 'Program Rakan Kongsi'
-  title: 'Program Rakan Kongsi<br />Dibina untuk Pertumbuhan'
-  subtitle: 'Sama ada anda pengedar, peniaga atau rakan kongsi jenama, olagoon menawarkan program yang direka untuk menyokong perniagaan anda.'
+  tagline: Partner Programs
+  title: 'Partner Programs<br />Built for Growth'
+  subtitle: 'Whether you are a distributor, dealer, or brand partner, olagoon offers programs designed to support your business.'
   columns: 3
   items:
-    - title: 'Program Pengedar'
-      description: 'Pengedaran wilayah eksklusif dengan harga volum, sokongan pemasaran dan akses terus ke kilang. Komitmen minimum diperlukan berdasarkan saiz wilayah.'
+    - title: 'Distributor Program'
+      description: 'Exclusive territory distribution with volume pricing, marketing support, and direct factory access. Minimum commitment required based on territory size.'
       icon: tabler:world
-    - title: 'Program Peniaga'
-      description: 'Harga peniaga terus, latihan produk, bahan pemasaran dan sokongan waranti bagi lokasi runcit dan kedai dalam talian.'
+    - title: 'Dealer Program'
+      description: 'Direct dealer pricing, product training, marketing materials, and warranty support for retail locations and online stores.'
       icon: tabler:building-store
-    - title: 'Perkongsian OEM/ODM'
-      description: 'Pembuatan OEM dan ODM perkhidmatan penuh dengan penjenamaan, pembungkusan dan spesifikasi produk tersuai. Daripada konsep hingga kontena.'
+    - title: 'OEM/ODM Partnership'
+      description: 'Full-service OEM and ODM manufacturing with custom branding, packaging, and product specifications. From concept to container.'
       icon: tabler:certificate
-    - title: 'Perkongsian Jenama'
-      description: 'Penjenamaan bersama, label persendirian dan program model eksklusif bagi jenama yang mantap dalam bidang rekreasi marin dan luar.'
+    - title: 'Brand Partnership'
+      description: 'Co-branding, private label, and exclusive model programs for established brands in the marine and outdoor recreation space.'
       icon: tabler:stars
-    - title: 'Kerajaan & Institusi'
-      description: 'Program pembekal diutamakan bagi agensi kerajaan, pengawal pantai, tentera dan organisasi kemanusiaan. Dokumentasi sedia tender.'
+    - title: 'Government & Institutional'
+      description: 'Preferred supplier programs for government agencies, coast guards, military, and humanitarian organizations. Tender-ready documentation.'
       icon: tabler:building-community
-    - title: 'Rakan Kongsi Taman Peranginan & Sewaan'
-      description: 'Harga armada, kualiti konsisten dan penjenamaan tersuai bagi taman peranginan, pusat selam skuba dan operasi sewaan di seluruh dunia.'
+    - title: 'Resort & Rental Partner'
+      description: 'Fleet pricing, consistent quality, and custom branding for resorts, diving centers, and rental operations worldwide.'
       icon: tabler:sun
 content_benefits:
-  tagline: 'Mengapa Berkongsi Dengan Kami'
-  title: 'Mengapa Rakan Kongsi Memilih olagoon'
-  subtitle: 'Rakan kongsi kami mendapat manfaat daripada keupayaan pembuatan sebenar, kualiti konsisten dan sokongan responsif.'
+  tagline: Why Partner With Us
+  title: 'Why Partners Choose olagoon'
+  subtitle: 'Our partners benefit from real manufacturing capability, consistent quality, and responsive support.'
   list:
-    - 'Akses Terus ke Kilang: Bekerja secara terus dengan pasukan pembuatan kami — tiada orang tengah. Dapatkan respons lebih pantas, harga lebih baik dan keterlihatan penuh ke dalam pengeluaran.'
-    - 'Sedia Dipesuaikan: Jenamakan produk anda dengan warna, logo, pembungkusan dan spesifikasi tersuai. Kuantiti pesanan minimum disesuaikan dengan pasaran anda.'
-    - 'Kualiti Terjamin: Pengeluaran bersijil ISO 9001 dengan pematuhan CE, UKCA dan BSCI. Setiap produk diuji sebelum dihantar.'
-    - 'Logistik Global: Penghantaran dari Qingdao, China dengan pilihan FOB, CIF dan DDP. Gudang AS di Montclair, CA untuk pengedaran Amerika Utara.'
-    - 'Sokongan Pemasaran: Katalog produk, fotografi, dokumentasi teknikal dan aset digital untuk menyokong usaha jualan anda.'
-    - 'Latihan & Sokongan: Latihan produk untuk pasukan jualan anda, sokongan teknikal untuk pelanggan anda dan penyelarusan servis waranti.'
+    - 'Direct Factory Access: Work directly with our manufacturing team — no middlemen. Get faster responses, better pricing, and full visibility into production.'
+    - 'Customization Ready: Brand your products with custom colors, logos, packaging, and specifications. Minimum order quantities tailored to your market.'
+    - 'Quality Guaranteed: ISO 9001 certified production with CE, UKCA, and BSCI compliance. Every product tested before shipping.'
+    - 'Global Logistics: Shipping from Qingdao, China with FOB, CIF, and DDP options. US warehouse in Montclair, CA for North American distribution.'
+    - 'Marketing Support: Product catalogs, photography, technical documentation, and digital assets to support your sales efforts.'
+    - 'Training & Support: Product training for your sales team, technical support for your customers, and warranty service coordination.'
 content_process:
-  tagline: 'Cara Menjadi Rakan Kongsi'
-  title: 'Proses Perkongsian Mudah'
-  subtitle: 'Proses perkongsian kami adalah mudah — direka untuk anda mula menjual produk olagoon dengan pantas.'
+  tagline: How to Become a Partner
+  title: 'Simple Partnership Process'
+  subtitle: 'Our partnership process is straightforward — designed to get you selling olagoon products quickly.'
   items:
-    - title: 'Langkah 1: Hantar Permohonan'
-      description: 'Lengkapkan borang permohonan rakan kongsi kami dengan profil syarikat, pasaran sasaran dan minat produk anda.'
-    - title: 'Langkah 2: Semakan Kelayakan'
-      description: 'Pasukan perkongsian kami menyemak permohonan anda dan menghubungi anda dalam masa 3 hari bekerja untuk membincangkan peluang.'
-    - title: 'Langkah 3: Perjanjian & Persediaan'
-      description: 'Tandatangani perjanjian perkongsian, sediakan akaun anda dan terima harga rakan kongsi, bahan pemasaran dan sampel produk.'
-    - title: 'Langkah 4: Latihan & Pelancaran'
-      description: 'Latihan produk, sokongan jualan dan bahan pemasaran disediakan. Anda sedia untuk mula menjual.'
+    - title: 'Step 1: Submit Application'
+      description: 'Complete our partner application form with your company profile, target market, and product interests.'
+    - title: 'Step 2: Qualification Review'
+      description: 'Our partnership team reviews your application and contacts you within 3 business days to discuss opportunities.'
+    - title: 'Step 3: Agreement & Setup'
+      description: 'Sign a partnership agreement, set up your account, and receive partner pricing, marketing materials, and product samples.'
+    - title: 'Step 4: Training & Launch'
+      description: 'Product training, sales support, and marketing collateral provided. You are ready to start selling.'
 cta:
-  title: 'Sedia untuk menjadi rakan kongsi olagoon?'
-  subtitle: 'Mohon perkongsian dan pasukan kami akan membalas dalam masa 3 hari bekerja.'
+  title: 'Ready to become an olagoon partner?'
+  subtitle: 'Apply for partnership and our team will respond within 3 business days.'
   actions:
     - variant: primary
-      text: 'Mohon perkongsian'
+      text: Apply for partnership
       href: /contact/
-    - text: 'Lihat produk kami'
+    - text: View our products
       href: /products/

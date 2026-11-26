@@ -1,123 +1,123 @@
 meta:
-  title: 'Matrix ng mga Solusyon para sa Kliyenteng B2B | {SITE}'
-  description: 'Kumpletong matrix ng mga solusyon sa kliyenteng B2B ng OLagoon na sumasaklaw sa 24 na uri ng customer — mula sa mga outdoor startup hanggang sa mga institusyon ng pangangalaga sa dagat.'
+  title: 'B2B Client Solutions Matrix | {SITE}'
+  description: 'Complete OLagoon B2B client solutions matrix covering 24 customer types — from outdoor startups to marine conservation institutions.'
 
 hero:
-  tagline: 'Mga Solusyon sa Kliyenteng B2B'
-  title: '24 na Solusyong B2B<br />Na Iniangkop sa Iyong Negosyo'
-  subtitle: 'Mula sa mga tagapagtatag ng startup hanggang sa mga global na distributor — hanapin ang eksaktong solusyon ng OLagoon na idinisenyo para sa iyong modelo ng negosyo, industriya, at mga layunin.'
+  tagline: B2B Client Solutions
+  title: '24 B2B Solutions<br />Matched to Your Business'
+  subtitle: 'From startup founders to global distributors — find the exact OLagoon solution designed for your business model, industry, and goals.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
-    alt: 'Pabrika at pasilidad ng paggawa ng OLagoon'
+    alt: OLagoon factory and manufacturing facility
 
 solutions:
-  title: 'Matrix ng mga Solusyon sa Kliyente'
-  subtitle: 'Bawat uri ng customer, ang kanilang pangunahing pangangailangan, at ang pahina ng solusyon ng OLagoon na idinisenyo para sa kanila.'
+  title: Client Solutions Matrix
+  subtitle: 'Every customer type, their core need, and the OLagoon solution page designed for them.'
   items:
-    - clientType: 'Tagapagtatag ng Outdoor Startup'
-      need: 'Paglikha ng Brand'
-      solutionPage: 'Buuin Ang Iyong SUP Brand'
-      link: /solutions/sup-brand-startup/
-    - clientType: 'Manager ng Outdoor Brand'
-      need: 'Pagpapalawak ng Outdoor Brand sa Water Sports'
-      solutionPage: 'Palawakin Ang Outdoor Brand Papunta Sa Water Sports'
+    - clientType: Outdoor Startup Founder
+      need: Brand Creation
+      solutionPage: Build Your pool Brand
+      link: /solutions/pool-brand-startup/
+    - clientType: Outdoor Brand Manager
+      need: Outdoor Brand Expansion Into Water Sports
+      solutionPage: Expand Outdoor Brand Into Water Sports
       link: /solutions/expand-outdoor-brand-water-sports/
-    - clientType: 'May-ari ng Surf Shop'
-      need: 'Pag-upgrade ng Negosyong Surf'
-      solutionPage: 'Idala ang Teknolohiyang Inflatable sa Negosyong Surf'
+    - clientType: Surf Shop Owner
+      need: Surf Business Upgrade
+      solutionPage: Bring Inflatable Technology Into Surf Business
       link: /solutions/inflatable-technology-for-surf-business/
-    - clientType: 'Seller sa Amazon'
-      need: 'Paglago ng E-commerce'
-      solutionPage: 'Pagkakaiba ng Produkto at Mabilis na Suplay'
-      link: /solutions/ecommerce-sup-brand-development/
-    - clientType: 'Brand ng Kagamitang Pangisda'
-      need: 'Fishing SUP'
-      solutionPage: 'Gumawa Ng Iyong Fishing SUP Brand'
-      link: /solutions/create-fishing-sup-brand/
-    - clientType: 'Brand ng Yoga at Wellness'
-      need: 'Mga Produktong Wellness sa Tubig'
-      solutionPage: 'Mga Solusyon sa Kagamitang SUP Yoga'
-      link: /solutions/sup-yoga-wellness-equipment/
-    - clientType: 'Creator Brand'
-      need: 'Influencer Brand'
-      solutionPage: 'Startup ng Creator Edition SUP'
-      link: /solutions/creator-influencer-sup-brand/
-    - clientType: 'Tagapagtatag ng Paddle Club'
-      need: 'Fleet ng Club'
-      solutionPage: 'Komersyal na SUP Fleet'
-      link: /solutions/commercial-sup-fleet/
-    - clientType: 'May-ari ng Negosyong Rental'
-      need: 'Operasyon ng Rental'
-      solutionPage: 'Solusyon sa Matibay na Rental Fleet'
-      link: /solutions/durable-sup-rental-fleet/
-    - clientType: 'Manager ng Aktibidad sa Resort'
-      need: 'Karanasan sa Hotel'
-      solutionPage: 'Package ng Water Activity sa Resort'
+    - clientType: Amazon Seller
+      need: E-commerce Growth
+      solutionPage: Product Differentiation & Fast Supply
+      link: /solutions/ecommerce-pool-brand-development/
+    - clientType: Fishing Gear Brand
+      need: Fishing pool
+      solutionPage: Create Your Fishing pool Brand
+      link: /solutions/create-fishing-pool-brand/
+    - clientType: Yoga & Wellness Brand
+      need: Wellness Water Products
+      solutionPage: pool Yoga Equipment Solutions
+      link: /solutions/pool-yoga-wellness-equipment/
+    - clientType: Creator Brand
+      need: Influencer Brand
+      solutionPage: Creator Edition pool Startup
+      link: /solutions/creator-influencer-pool-brand/
+    - clientType: Paddle Club Founder
+      need: Club Fleet
+      solutionPage: Commercial pool Fleet
+      link: /solutions/commercial-pool-fleet/
+    - clientType: Rental Business Owner
+      need: Rental Operations
+      solutionPage: Durable Rental Fleet Solution
+      link: /solutions/durable-pool-rental-fleet/
+    - clientType: Resort Activity Manager
+      need: Hotel Experience
+      solutionPage: Resort Water Activity Package
       link: /solutions/resort-water-activity-package/
-    - clientType: 'Akademiya ng Water Sports'
-      need: 'Training at Edukasyon'
-      solutionPage: 'Programa ng Kagamitang SUP Academy'
-      link: /solutions/sup-academy-equipment-program/
-    - clientType: 'Kompanya ng Cruise at Yacht'
-      need: 'Karanasan sa Yacht'
-      solutionPage: 'Package ng Marangya at Portable na SUP'
-      link: /solutions/luxury-portable-sup-package/
-    - clientType: 'Buyer ng Outdoor Retail'
-      need: 'Retail Channel'
-      solutionPage: 'Programang Retail Private Label'
+    - clientType: Water Sports Academy
+      need: Training & Education
+      solutionPage: pool Academy Equipment Program
+      link: /solutions/pool-academy-equipment-program/
+    - clientType: Cruise & Yacht Company
+      need: Yacht Experience
+      solutionPage: Luxury Portable pool Package
+      link: /solutions/luxury-portable-pool-package/
+    - clientType: Outdoor Retail Buyer
+      need: Retail Channel
+      solutionPage: Retail Private Label Program
       link: /solutions/retail-private-label-program/
-    - clientType: 'Distributor at Importer'
-      need: 'Rehiyonal na Distribusyon'
-      solutionPage: 'Rehiyonal na OEM at Supply Chain Partner'
+    - clientType: Distributor & Importer
+      need: Regional Distribution
+      solutionPage: Regional OEM & Supply Chain Partner
       link: /solutions/regional-oem-supply-chain-partner/
-    - clientType: 'Buyer ng Korporatong Proyekto'
-      need: 'Mga Korporatong Event'
-      solutionPage: 'Package ng Korporatong SUP Event'
-      link: /solutions/corporate-sup-event-package/
-    - clientType: 'Manager ng Water Sports Brand'
-      need: 'Pagpapalawak ng Water Sports Brand'
-      solutionPage: 'Palawakin Ang Iyong Portfolio sa Water Sports'
+    - clientType: Corporate Project Buyer
+      need: Corporate Events
+      solutionPage: Corporate pool Event Package
+      link: /solutions/corporate-pool-event-package/
+    - clientType: Water Sports Brand Manager
+      need: Water Sports Brand Expansion
+      solutionPage: Expand Your Water Sports Portfolio
       link: /solutions/expand-your-water-sports-portfolio/
-    - clientType: 'May-ari ng Pet Adventure Brand'
-      need: 'Pet Outdoor'
-      solutionPage: 'Programang Pet-Friendly Paddle Board'
+    - clientType: Pet Adventure Brand Owner
+      need: Pet Outdoor
+      solutionPage: Pet-Friendly inflatable pool Program
       link: /solutions/pet-friendly-paddle-board-program/
-    - clientType: 'Operator ng Beach Recreation'
-      need: 'Libangan sa Beach'
-      solutionPage: 'Kumpletong Solusyon sa Kagamitang Beach Activity'
+    - clientType: Beach Recreation Operator
+      need: Beach Entertainment
+      solutionPage: Complete Beach Activity Equipment Solutions
       link: /solutions/complete-beach-activity-equipment-solutions/
-    - clientType: 'Developer ng Water Park'
-      need: 'Temang Libangan'
-      solutionPage: 'Komersyal na Water Park SUP Fleet'
-      link: /solutions/commercial-water-park-sup-fleet/
-    - clientType: 'May-ari ng Private Island at Luxury Club'
-      need: 'High-End na Lifestyle'
-      solutionPage: 'Koleksyon ng Premium Custom SUP'
-      link: /solutions/premium-custom-sup-collection/
-    - clientType: 'Operator ng Tourism Board at Pampublikong Park'
-      need: 'Mga Pampublikong Proyekto ng Turismo'
-      solutionPage: 'Package ng Water Sports sa Destinasyon'
+    - clientType: Water Park Developer
+      need: Theme Entertainment
+      solutionPage: Commercial Water Park pool Fleet
+      link: /solutions/commercial-water-park-pool-fleet/
+    - clientType: Private Island & Luxury Club Owner
+      need: High-End Lifestyle
+      solutionPage: Premium Custom pool Collection
+      link: /solutions/premium-custom-pool-collection/
+    - clientType: Tourism Board & Public Park Operator
+      need: Public Tourism Projects
+      solutionPage: Destination Water Sports Package
       link: /solutions/destination-water-sports-package/
-    - clientType: 'Operator ng Kids Adventure at Summer Camp'
-      need: 'Edukasyon ng Kabataan'
-      solutionPage: 'Programang Kids Exploration SUP'
-      link: /solutions/kids-exploration-sup-program/
-    - clientType: 'Organisasyon ng Water Rescue at Kaligtasan'
-      need: 'Propesyonal na Pagliligtas'
-      solutionPage: 'Sistema ng Propesyonal na Water Rescue SUP'
-      link: /solutions/professional-water-rescue-sup-system/
-    - clientType: 'Institusyon ng Pangangalaga at Pananaliksik sa Dagat'
-      need: 'Pananaliksik sa Kapaligiran'
-      solutionPage: 'Eco Research at Monitoring SUP Platform'
-      link: /solutions/eco-research-monitoring-sup-platform/
+    - clientType: Kids Adventure & Summer Camp Operator
+      need: Youth Education
+      solutionPage: Kids Exploration pool Program
+      link: /solutions/kids-exploration-pool-program/
+    - clientType: Water Rescue & Safety Organization
+      need: Professional Rescue
+      solutionPage: Professional Water Rescue pool System
+      link: /solutions/professional-water-rescue-pool-system/
+    - clientType: Marine Conservation & Research Institution
+      need: Environmental Research
+      solutionPage: Eco Research & Monitoring pool Platform
+      link: /solutions/eco-research-monitoring-pool-platform/
 
 cta:
-  title: 'Hindi sigurado kung aling solusyon ang angkop sa iyong negosyo?'
-  subtitle: 'Ilarawan ang iyong proyekto sa aming B2B team at irerekomenda namin ang tamang konfigurasyon at presyo.'
+  title: 'Not sure which solution fits your business?'
+  subtitle: 'Describe your project to our B2B team and we will recommend the right configuration and pricing.'
   actions:
     - variant: primary
-      text: 'Makipag-usap sa Aming B2B Team'
+      text: Talk to Our B2B Team
       href: /contact/?subject=b2b-solutions
     - variant: secondary
-      text: 'I-download ang Katalogo'
+      text: Download Catalog
       href: /resources/download-catalog/

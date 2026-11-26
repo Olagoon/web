@@ -1,72 +1,72 @@
 meta:
-  title: 'Jūras kompetence — inženierija katrā korpusā | {SITE}'
-  description: 'Gadu desmiti jūras inženierijas katrā korpusā. olagoon pārvalda Drop Stitch, jūras PVC un profesionālu piepūšamo SUP dizainu.'
+  title: 'Marine Expertise — Engineering in Every Hull | {SITE}'
+  description: 'Decades of marine engineering in every hull. olagoon masters drop stitch, marine PVC, and professional inflatable pools design.'
   keywords:
-    - 'jūras inženierija'
-    - 'piepūšamo SUP ražotājs'
-    - 'airu dēļu ražošana'
+    - 'marine engineering'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: 'Jūras kompetence'
-  title: 'Gadu desmiti jūras inženierijas<br />katrā korpusā'
-  subtitle: 'olagoon apvieno dziļu materiālu zinātni, precīzu ražošanu un reālu testēšanu, lai radītu peldlīdzekļus, kas darbojas, kad tas ir svarīgi.'
+  tagline: Marine Expertise
+  title: 'Decades of Marine Engineering<br />in Every Hull'
+  subtitle: 'olagoon combines deep material science, precision manufacturing, and real-world testing to produce watercraft that perform when it matters.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: 'olagoon jūras inženierijas un pētniecības komanda darbā'
+    alt: olagoon marine engineering and R&D team at work
 expertise_materials:
-  tagline: 'Materiālu zinātne'
-  title: 'Pareizā materiāla izvēle<br />katram lietojumam'
-  subtitle: 'Mēs strādājam ar diviem pamata materiāliem — katrs izvēlēts konkrētiem lietojumiem un veiktspējas prasībām.'
+  tagline: Material Science
+  title: 'Choosing the Right Material<br />for Every Application'
+  subtitle: 'We work with two core materials — each selected for specific use cases and performance requirements.'
   columns: 3
   items:
-    - title: 'Jūras līmeņa PVC'
-      description: '1100 denjē PVC audums — mūsu universālākais materiāls. UV stabilizēts, pret berzi izturīgs un REACH atbilstīgs. Ideāls SUP dēļiem, kur svarīgs ir svars un izmaksu efektivitāte.'
+    - title: Marine-Grade PVC
+      description: '1100 denier PVC fabric — our most versatile material. UV-stabilized, abrasion-resistant, and REACH compliant. Ideal for pools where weight and cost efficiency matter.'
       icon: tabler:droplet
-    - title: 'Stiklšķiedra un polietilēns'
-      description: 'Stiklšķiedras laminēti SUP dēļi premium stingrībai un slīdēšanai. Rotācijas veidā veidots polietilēns smagai nomas un glābšanas lietošanai, kur nepieciešama maksimāla triecienizturība.'
+    - title: Fibreglass & Polyethylene
+      description: 'Fibreglass-laminated pools for premium stiffness and glide. Rotomoulded polyethylene for heavy-duty rental and rescue use requiring maximum impact resistance.'
       icon: tabler:building-arch
 expertise_manufacturing:
-  tagline: 'Ražošanas iespējas'
-  title: 'Precīza ražošana<br />katrā solī'
-  subtitle: 'Mūsu 12,000 m² objekts ir aprīkots ar specializētām iekārtām katram ražošanas posmam.'
+  tagline: Manufacturing Capabilities
+  title: 'Precision Manufacturing<br />at Every Step'
+  subtitle: 'Our 12,000 m² facility is equipped with specialized machinery for every stage of production.'
   columns: 2
   items:
-    - title: 'CNC griešana'
-      description: 'Datora kontrolēta griešana nodrošina precīzus, atkārtojamus auduma paneļus ar minimāliem atkritumiem. Katra detaļa ietilpst tieši kā izprojektēts.'
+    - title: CNC Cutting
+      description: 'Computer-controlled cutting ensures precise, repeatable fabric panels with minimal waste. Every piece fits exactly as designed.'
       icon: tabler:cpu
-    - title: 'Augstfrekvences metināšana'
-      description: 'Rūpnieciska HF metināšana rada šuves, kas ir stiprākas par pamata materiālu. Nemainīga temperatūras un spiediena kontrole nodrošina gaisu necaurlaidīgus savienojumus visās ražošanas partijās.'
+    - title: High-Frequency Welding
+      description: 'Industrial HF welding creates seams stronger than the base material. Consistent temperature and pressure control ensures air-tight seals across every production run.'
       icon: tabler:bolt
-    - title: 'Drop Stitch kodola montāža'
-      description: 'Tūkstošiem poliestera diegu savieno augšējo un apakšējo auduma slāni, ļaujot augsta spiediena piepūšanu (15-20 PSI) stingriem, stabiliem SUP dēļiem.'
+    - title: Drop Stitch Core Assembly
+      description: 'Thousands of polyester threads connect top and bottom fabric layers, allowing high-pressure inflation (15-20 PSI) for rigid, stable pools.'
       icon: tabler:building-arch
-    - title: 'Spiediena testēšana'
-      description: 'Katrs piepūšamais produkts pirms nosūtīšanas tiek spiediena testēts. Dēļi tiek testēti pie 1.25x nominālā spiediena — ja tas iztur, tas darbosies uz ūdens.'
+    - title: Pressure Testing
+      description: 'Every inflatable product is pressure-tested before shipping. Pools are tested at 1.25x rated pressure — if it holds there, it will perform on the water.'
       icon: tabler:wind
-    - title: 'Šuvju stiprības testēšana'
-      description: 'Gadījuma paraugi no katras ražošanas partijas iziet destruktīvu šuvju stiprības testēšanu. Rezultāti tiek reģistrēti un izsekojami līdz konkrētām ražošanas partijām.'
+    - title: Seam Strength Testing
+      description: 'Random samples from each production batch undergo destructive seam strength testing. Results are logged and traceable to specific production runs.'
       icon: tabler:files
-    - title: 'Testēšana ūdenī'
-      description: 'Katrs modelis pirms sertifikācijas iziet jūras testus. Reāla testēšana piekrastes apstākļos apstiprina veiktspēju, vadāmību un stabilitāti.'
+    - title: Water Testing
+      description: 'Every model undergoes sea trials before certification. Real-world testing in coastal conditions validates performance, handling, and stability.'
       icon: tabler:droplet
 expertise_design:
-  tagline: 'Dizains un inženierija'
-  title: 'Izstrādāts reāliem apstākļiem'
-  subtitle: 'Mūsu dizaina filozofija sākas ar to, kā dēlis tiks izmantots — un pēc tam ap šo lietojumu tiek veidota inženierija.'
+  tagline: Design & Engineering
+  title: 'Engineered for Real Conditions'
+  subtitle: 'Our design philosophy starts with how the pool will be used — then builds the engineering around that use case.'
   items:
-    - title: 'Veiktspējas korpusa dizains'
-      description: 'Katra korpusa forma ir noregulēta tā lietojumam — izspiedošas priekšdaļas tūrisma slīdēšanai, pievienots rokeris sērfinga veiklībai, platas stabilas profila formas makšķerēšanai un jogai.'
-    - title: 'Drop-Stitch drošība'
-      description: 'Katram dēlim ir stingrs Drop-Stitch kodols ar pastiprinātām sānu malām. Ja kāda daļa tiek bojāta, augstas stiepes Drop-Stitch struktūra uztur dēli darbspējīgu.'
-    - title: 'Ergonomisks klāja izkārtojums'
-      description: 'Klāja pārklājuma zonējums, pārnešanas roktura pozīcija un stiprinājuma punkti ir izstrādāti braucēja ērtībai ilgstošā lietošanā — vai nu tūrismā, makšķerēšanā vai patruļā.'
-    - title: 'Pielāgota konfigurācija'
-      description: 'Sānu malu krāsas, klāja pārklājuma konfigurācija, aksesuāru stiprinājumi, kravietilpība — katrs modelis var tikt pielāgots konkrētām ekspluatācijas prasībām.'
+    - title: Performance Hull Design
+      description: 'Each pool is tuned for its use case — compact footprints for plunge soaking, family-sized layouts for play, and generous swim areas for daily laps.'
+    - title: Drop-Stitch Safety
+      description: 'Every pool features a rigid drop-stitch core with reinforced walls. If a section is damaged, the high-tensile drop-stitch structure keeps the pool operational.'
+    - title: Ergonomic Deck Layout
+      description: 'Deck-pad zoning, carry-handle position, and mounting points are designed around rider comfort during extended use — whether touring, fishing, or patrolling.'
+    - title: Custom Configuration
+      description: 'Rail colors, deck pad configuration, accessory mounts, gear capacity — each model can be customized to match specific operational requirements.'
 cta:
-  title: 'Vai prātā ir kāds konkrēts lietojums?'
-  subtitle: 'Mūsu inženieru komanda var konsultēt materiālu izvēles, dizaina un ražošanas jautājumos jūsu projektam.'
+  title: 'Have a specific application in mind?'
+  subtitle: 'Our engineering team can advise on material selection, design, and manufacturing for your project.'
   actions:
     - variant: primary
-      text: 'Vaicājiet mūsu inženieriem'
+      text: Ask our engineers
       href: /contact/
-    - text: 'Apskatiet produktu klāstu'
+    - text: View product range
       href: /products/

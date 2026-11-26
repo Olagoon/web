@@ -1,68 +1,68 @@
 meta:
-  title: 'الشهادات — CE وISO 9001 والامتثال | {SITE}'
-  description: 'شهادات الجودة لدى olagoon: CE (EN ISO 25649)، ISO 9001:2015، BSCI. الامتثال والسلامة لمصنّع ألواح SUP القابلة للنفخ.'
+  title: 'Certifications — CE, ISO 9001 & Compliance | {SITE}'
+  description: 'olagoon quality certifications: CE (EN ISO 25649), ISO 9001:2015, BSCI. Compliance and safety for an inflatable pool manufacturer.'
   keywords:
-    - 'شهادة CE لألواح التجديف'
-    - 'ISO 9001 ألواح التجديف'
-    - 'الامتثال البحري'
-    - 'شهادة ألواح التجديف'
+    - 'ce certification pool'
+    - 'iso 9001 pool'
+    - 'nautical compliance'
+    - 'inflatable pool certification'
 hero:
-  tagline: الشهادات والمعايير
-  title: شهادات الجودة<br />ومعايير الامتثال
-  subtitle: يتم تصنيع منتجات olagoon وفقًا لمعايير السلامة البحرية الدولية وأنظمة إدارة الجودة واللوائح البيئية.
+  tagline: Certifications & Standards
+  title: 'Quality Certifications<br />& Compliance Standards'
+  subtitle: 'olagoon pool manufacturing is certified to international marine safety standards, quality management systems, and environmental regulations — CE, ISO 9001, UKCA, BSCI, and REACH.'
   image:
     src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
-    alt: شهادات الجودة ووثائق الامتثال لدى olagoon
+    alt: olagoon quality certifications and compliance documentation
 content_certifications:
-  tagline: الشهادات لدينا
-  title: جودة معتمدة،<br />معترف بها عالميًا
-  subtitle: يتم دعم كل منتج من منتجات olagoon بشهادات تثبت التزامنا بالجودة والسلامة والمسؤولية البيئية.
+  tagline: Our Certifications
+  title: 'Certified Quality,<br />Globally Recognized'
+  subtitle: 'Every olagoon product is backed by certifications that demonstrate our commitment to quality, safety, and environmental responsibility.'
   items:
-    - title: معتمد CE
-      description: تتوافق جميع منتجات olagoon مع متطلبات علامة CE الأوروبية للمركبات المائية الترفيهية، مما يضمن استيفاء معايير السلامة والصحة وحماية البيئة.
+    - title: 'CE Certified'
+      description: 'All olagoon products comply with European CE marking requirements for recreational watercraft, ensuring safety, health, and environmental protection standards are met.'
       icon: tabler:certificate
-    - title: ISO 9001:2015
-      description: نظام إدارة الجودة لدينا حاصل على شهادة ISO 9001:2015، ويغطي تصميم وتصنيع وتوزيع المركبات المائية القابلة للنفخ والمعدات البحرية.
+    - title: 'ISO 9001:2015'
+      description: 'Our quality management system is ISO 9001:2015 certified, covering design, manufacturing, and distribution of inflatable watercraft and marine equipment.'
       icon: tabler:clipboard-check
-    - title: حاصل على علامة UKCA
-      description: تحمل المنتجات المباعة في سوق المملكة المتحدة علامة UKCA، مما يؤكد الامتثال للوائح المملكة المتحدة الخاصة بالمعدات البحرية والمراكب المائية الشخصية.
+    - title: 'UKCA Marked'
+      description: 'Products sold in the UK market carry UKCA marking, confirming compliance with UK regulations for marine equipment and personal watercraft.'
       icon: tabler:shield
-    - title: متوافق مع BSCI
-      description: olagoon تم تدقيقها من قبل BSCI (مبادرة الامتثال الاجتماعي للأعمال)، مما يدل على ممارسات التصنيع الأخلاقية، وظروف العمل العادلة، ومسؤولية سلسلة التوريد.
+    - title: 'BSCI Compliant'
+      description: 'olagoon is BSCI (Business Social Compliance Initiative) audited, demonstrating ethical manufacturing practices, fair labor conditions, and supply chain responsibility.'
       icon: tabler:heart-handshake
-    - title: متوافق مع REACH
-      description: تتوافق جميع المواد المستخدمة في منتجات olagoon مع لوائح الاتحاد الأوروبي REACH للسلامة الكيميائية، مما يضمن عدم وجود مواد محظورة في PVC أو EVA أو المكونات.
+    - title: 'REACH Compliant'
+      description: 'All materials used in olagoon products comply with EU REACH regulations for chemical safety, ensuring no restricted substances in our PVC, EVA, or components.'
       icon: tabler:flask
-    - title: اختبار المواد
-      description: يتم اختبار الأقمشة للتأكد من قوة الشد، ومقاومة التمزق، وتدهور الأشعة فوق البنفسجية، وأداء التشققات الباردة. يتم أخذ عينات من كل دفعة إنتاج والتحقق منها.
+    - title: 'Material Testing'
+      description: 'Fabrics are tested for tensile strength, tear resistance, UV degradation, and cold-crack performance. Every production batch is sampled and verified.'
       icon: tabler:test-pipe
 content_factory:
-  tagline: معايير المصنع
-  title: التميز في التصنيع<br />— مصمم وفقًا للمواصفات
-  subtitle: تعمل منشأتنا التي تبلغ مساحتها 12000 متر مربع وفقًا لبروتوكولات صارمة لمراقبة الجودة في كل مرحلة من مراحل الإنتاج.
+  tagline: Factory Standards
+  title: 'Manufacturing Excellence<br />— Built to Specification'
+  subtitle: 'Our 12,000 m² facility operates under strict quality control protocols at every stage of production.'
   list:
-    - 'فحص المواد الواردة: جميع المواد الخام — أقمشة PVC، ورغوة EVA، والمواد اللاصقة، والتجهيزات المعدنية — تُختبر وفق المواصفات قبل دخولها إلى خط الإنتاج.'
-    - 'مراقبة الجودة أثناء التصنيع: لكل مرحلة إنتاج نقاط فحص موثقة لمراقبة الجودة. تُتحقق قوة اللحام، ومحاذاة الدرزات، وتركيب الصمامات، وعزم ربط التركيبات مباشرة على خط الإنتاج.'
-    - 'اختبار الضغط: يُختبر كل حجرة قابلة للنفخ بضغط يبلغ 1.25× الضغط المقرر لمدة 24–48 ساعة. يجب ألا يتجاوز انخفاض الضغط 5% لاجتياز الاختبار.'
-    - 'الفحص النهائي: تُفحص المنتجات المكتملة للتأكد من دقة الأبعاد، وجودة التشطيب الخارجي، واكتمال الملحقات، وسلامة التغليف قبل الشحن.'
-    - 'تتبع دفعات الإنتاج: يحمل كل منتج رقمًا تسلسليًا مرتبطًا بسجلات دفعة الإنتاج، بما يتيح التتبع الكامل من المادة الخام وحتى المنتج النهائي.'
+    - 'Incoming Material Inspection: All raw materials — PVC fabric, EVA foam, adhesives, hardware — are tested against specifications before entering production.'
+    - 'In-Process Quality Control: Every production stage has documented QC checkpoints. Weld strength, seam alignment, valve installation, and fitting torque are verified inline.'
+    - 'Pressure Testing: Every inflatable chamber is pressure-tested at 1.25× rated pressure for 24–48 hours. Pressure drop must stay below 5% for a passing grade.'
+    - 'Final Inspection: Completed products are inspected for dimensional accuracy, cosmetic finish, accessory completeness, and packaging integrity before shipping.'
+    - 'Batch Traceability: Every product carries a serial number linked to production batch records, enabling full traceability from raw material to finished goods.'
 content_safety:
-  tagline: معايير السلامة البحرية
-  title: السلامة أولاً<br />— مصممة للتشغيل الموثوق
-  subtitle: تم تصميم واختبار منتجات olagoon لتلبية معايير السلامة البحرية الدولية للاستخدام التجاري والترفيهي.
+  tagline: Marine Safety Standards
+  title: 'Safety First<br />— Designed for Reliable Operation'
+  subtitle: 'olagoon products are designed and tested to meet international marine safety standards for commercial and recreational use.'
   items:
-    - title: EN ISO 25649
-      description: تتوافق ألواح SUP القابلة للنفخ مع معايير EN ISO 25649 للبناء والاستقرار والطفو وقدرة الحمولة.
+    - title: 'EN ISO 25649'
+      description: 'inflatable pools comply with EN ISO 25649 standards for construction, stability, buoyancy, and load capacity.'
       icon: tabler:sailboat
-    - title: الامتثال لمعايير SOLAS
-      description: تلبي معدات السلامة وأجهزة إنقاذ الحياة متطلبات SOLAS (سلامة الحياة في البحر) حيثما ينطبق ذلك.
+    - title: 'SOLAS Compliance'
+      description: 'Safety equipment and life-saving appliances meet SOLAS (Safety of Life at Sea) requirements where applicable.'
       icon: tabler:lifebuoy
 cta:
-  title: هل تحتاج إلى منتجات معتمدة لمشروعك؟
-  subtitle: اتصل بفريقنا لمناقشة متطلبات الشهادة والوثائق والامتثال للسوق الخاص بك.
+  title: 'Need certified products for your project?'
+  subtitle: 'Contact our team to discuss certification requirements, documentation, and compliance for your market.'
   actions:
     - variant: primary
-      text: طلب مستندات التصديق
+      text: Request certification docs
       href: /contact/
-    - text: اطلع على صفحة الجودة لدينا
+    - text: View our quality page
       href: /quality/

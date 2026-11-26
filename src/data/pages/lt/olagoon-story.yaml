@@ -1,159 +1,158 @@
 meta:
-  title: 'Mūsų istorija — pripučiamų SUP lentų gamintojas | {SITE}'
-  description: 'Nuo pakrantės dirbtuvių iki pasaulinio jūrinės technikos gamintojo: olagoon istorija apie laisvės vandenyje inžineriją su 12,000 m² sertifikuota gamykla.'
+  title: 'Our Story — inflatable pools Manufacturer | {SITE}'
+  description: 'From a coastal workshop to a global marine manufacturer: the olagoon story of engineering freedom on water with a 12,000 m² certified factory.'
   keywords:
-    - 'olagoon istorija'
-    - 'olagoon prekės ženklas'
-    - 'pripučiamų sup gamintojas'
-    - 'pripučiamų SUP gamintojas'
+    - 'olagoon history'
+    - 'olagoon brand'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pools manufacturer'
 hero:
-  tagline: 'Mūsų istorija'
-  title: 'olagoon — laisvės vandenyje inžinerija'
-  subtitle: 'Nuo pakrantės dirbtuvių iki pasaulinio jūrinės technikos gamintojo — mūsų kelias grindžiamas atkakliu įsitikinimu: vandens transporto priemonės turi būti sukurtos taip, lyg jos būtų svarbios, nes jos ir yra svarbios.'
+  tagline: Our Story
+  title: 'olagoon — Engineering Freedom On Water'
+  subtitle: 'From a coastal workshop to a global marine manufacturer — our journey is built on a stubborn belief: watercraft should be engineered like they matter, because they do.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'olagoon gamykla ir jūrinės gamybos įmonė Cindao'
+    alt: olagoon factory and marine manufacturing facility in Qingdao
 
 stats:
-  title: 'olagoon skaičiais'
+  title: olagoon by the Numbers
   stats:
-    - title: 'Įkurta'
+    - title: Founded
       amount: 2012
-    - title: 'Objektas'
+    - title: Facility
       amount: '12,000 m²'
-    - title: 'Aptarnaujamos šalys'
+    - title: Countries Served
       amount: '50+'
-    - title: 'Metinis pajėgumas'
-      amount: '15,000+ vienetų'
-    - title: 'Darbuotojai'
+    - title: Annual Capacity
+      amount: '15,000+ units'
+    - title: Employees
       amount: '200+'
-    - title: 'Tyrimų ir plėtros inžinieriai'
+    - title: R&D Engineers
       amount: '14+'
 
 timeline:
   - year: '2012'
-    title: 'Jūrinės gamybos pamatai'
-    body: 'olagoon prasidėjo kaip specializuotos vandens transporto priemonių dirbtuvės Cindao, Kinijoje, įsipareigojusios jūriniam meistriškumui ir vandens transporto priemonių gamybai. Ankstyvuoju laikotarpiu pagrindinis dėmesys buvo skiriamas patikimų pripučiamų produktų kūrimui remiantis praktine inžinerijos patirtimi ir gamybos drausme.'
+    title: 'Marine Manufacturing Foundation'
+    body: 'olagoon began as a specialized watercraft workshop in Qingdao, China, committed to marine craftsmanship and watercraft manufacturing. The early focus was building reliable inflatable products through practical engineering experience and manufacturing discipline.'
   - year: '2015'
-    title: 'Pirmasis eksportas ir CE sertifikatas'
-    body: 'Pirmieji eksporto užsakymai pasiekė Japoniją ir Korėją. Pagrindinėms produktų linijoms buvo gautas CE sertifikatas, pažymintis olagoon įėjimą į tarptautines rinkas. Įmonė pradėjo aptarnauti komercinius ir poilsio vartotojus už Kinijos ribų.'
+    title: 'First Export & CE Certification'
+    body: "Initial export orders reached Japan and Korea. CE certification was achieved for core product lines, marking olagoon's entry into international markets. The company began serving commercial and recreational users beyond China."
   - year: '2018'
-    title: 'Gamyklos plėtra'
-    body: 'Įmonė persikėlė į 12,000 m² ploto gamybos objektą. Buvo pridėtos RF suvirinimo linijos ir "Drop-Stitch" gamybos pajėgumai, leidžiantys didesnės apimties gamybą ir patobulintas kokybės kontrolės sistemas.'
+    title: 'Factory Expansion'
+    body: 'Relocated to a 12,000 m² production facility. Added RF welding lines and drop-stitch production capacity, enabling larger-scale manufacturing and improved quality control systems.'
   - year: '2020'
-    title: 'Įkurtas tyrimų ir plėtros centras'
-    body: 'Atidarytas atskiras tyrimų ir plėtros centras su PVC audinių laboratorija, hidrodinaminiu bandymų baseinu ir CAD/FEA modeliavimo studija. Produktų plėtra išsiplėtė, sutelkiant dėmesį į lengvą konstrukciją, geresnį patvarumą ir vartotojui pritaikytą dizainą.'
+    title: 'R&D Center Established'
+    body: 'Opened a dedicated R&D center with PVC fabric lab, hydrodynamic test tank, and CAD/FEA simulation studio. Product development expanded to focus on lightweight construction, improved durability, and user-centered design.'
   - year: '2022'
-    title: 'Sertifikavimas ir pasaulinė plėtra'
-    body: 'Gautas ISO 9001 sertifikatas. Išsiplėsta iki 14 tyrimų ir plėtros inžinierių ir daugiau nei 200 darbuotojų. Produktai per platintojų ir bendro prekės ženklo partnerystes pasiekė klientus visoje Europoje, Amerikoje ir Azijos bei Ramiojo vandenyno regione.'
+    title: 'Certification & Global Growth'
+    body: 'Achieved ISO 9001 certification. Expanded to 14 R&D engineers and 200+ workers. Products reached customers across Europe, Americas, and Asia-Pacific through distributor and co-brand partnerships.'
   - year: '2024'
-    title: 'Inovacijų ir dizaino studija'
-    body: 'Paleista visapusiškų paslaugų dizaino ir inovacijų studija individualiems bendro prekės ženklo projektams — nuo koncepcijos iki gamybos. Stiprintos profesinės jūrinės programos, įskaitant gelbėjimo, komercines ir vyriausybinę sutartis.'
+    title: 'Innovation & Design Studio'
+    body: 'Launched full-service design and innovation studio for custom co-brand projects, from concept to production. Strengthened professional marine applications including rescue, commercial, and government contracts.'
   - year: '2026'
-    title: 'Kuriama vandens tyrinėjimo ateitis'
-    body: 'Šiandien olagoon tęsia SUP sistemų ir jūrinių priedų kūrimą — siejant žmones ir organizacijas su pasaulio vandenimis. Aptarnautos 50+ šalių, 15,000+ vienetų metinis pajėgumas.'
+    title: 'Building The Future Of Water Exploration'
+    body: "Today, olagoon continues to develop pool systems and marine accessories — connecting people and organizations with the world's waters. 50+ countries served, 15,000+ units annual capacity."
 
 content_founding:
-  tagline: 'Pradžia'
-  title: 'Gimė prie vandens'
-  subtitle: 'olagoon prasidėjo pakrantės dirbtuvėse Cindao su viena lenta ir vizija: kurti pripučiamas vandens transporto priemones, kurios atlaikytų tikras jūrines sąlygas.'
+  tagline: The Beginning
+  title: 'Born on the Waterfront'
+  subtitle: 'OLagoon started in a Qingdao workshop in 2012 with one pool and a vision: to build inflatable pools that could handle real family use, season after season.'
   paragraphs:
-    - '2012 m. mūsų įkūrėjai pamatė spragą rinkoje — dauguma pripučiamų vandens transporto priemonių buvo arba pigios, bet nepatikimos, arba aukštos kokybės, bet nepriimtinai brangios. Jie tikėjo, kad yra vietos gamintojui, teikiančiam ir kokybę, ir vertę.'
-    - 'Pirmasis korpusas buvo pagamintas rankomis, išbandytas vietiniuose vandenyse ir tobulintas remiantis realiais žvejų ir smulkių komercinių operatorių atsiliepimais. Tas grįžtamojo ryšio ciklas — kurti, testuoti, klausyti, tobulinti — ir šiandien išlieka mūsų inžinerijos filosofijos branduolyje.'
-    - 'Iki 2015 m. žinia išplito už Cindao ribų. Tarptautiniai platintojai pradėjo prašyti pavyzdžių. Tai, kas prasidėjo kaip vietinės dirbtuvės, virto pasauliniu tiekėju.'
+    - 'In 2012, our founders saw a gap in the market — most inflatable watercraft were either affordable but unreliable, or high-quality but prohibitively expensive. They believed there was room for a manufacturer that delivered both quality and value.'
+    - 'The first hull was built by hand, tested in local waters, and refined based on real feedback from fishermen and small commercial operators. That feedback loop — build, test, listen, improve — remains at the core of our engineering philosophy today.'
+    - 'By 2015, word had spread beyond Qingdao. International distributors began requesting samples. What started as a local workshop was becoming a global supplier.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: 'olagoon ankstyvosios gamybos dirbtuvės ir gamyba'
+    alt: olagoon early production workshop and manufacturing
 
 content_growth:
-  tagline: 'Plėtra ir inovacijos'
-  title: 'Nuo dirbtuvių iki 12,000 m² ploto objekto'
-  subtitle: 'Nuolatinės investicijos į žmones, įrangą ir procesus olagoon pavertė modernia jūrinės gamybos įmone.'
+  tagline: Growth & Innovation
+  title: 'From Workshop to 12,000 m² Facility'
+  subtitle: 'Continuous investment in people, equipment, and process has transformed olagoon into a modern marine manufacturing facility.'
   paragraphs:
-    - 'Augant paklausai augo ir mūsų objektas. Išsiplėtėme iš mažų dirbtuvių į 12,000 m² ploto gamyklą su atskiromis SUP lentų ir priedų gamybos linijomis.'
-    - 'Investavome į CNC pjaustymo stakles, aukšto dažnio suvirinimo įrangą, "Drop-Stitch" gamybos linijas ir išsamius bandymų stendus — tai leidžia mums valdyti kiekvieną gamybos kokybės aspektą.'
-    - 'Šiandien mūsų daugiau nei 200 žmonių komandą sudaro jūrų inžinieriai, medžiagų mokslininkai, kokybės kontrolės specialistai ir kvalifikuoti amatininkai — daugelis jų olagoon komandoje nuo ankstyvųjų dienų.'
+    - 'As demand grew, so did our facility. We expanded from a small workshop to a 12,000 m² factory with dedicated production lines for pools and accessories.'
+    - 'We invested in CNC cutting machines, high-frequency welding equipment, drop stitch production lines, and comprehensive testing rigs — allowing us to control every aspect of production quality.'
+    - 'Today, our team of 200+ includes marine engineers, material scientists, quality control specialists, and skilled craftspeople — many of whom have been with olagoon since the early days.'
 
 philosophy:
-  tagline: 'Prekės ženklo filosofija'
-  title: 'Laisvės vandenyje inžinerija'
-  body: 'Laisvė vandenyje — tai ne tik judėjimas. Tai naujų vietovių atradimas, lauko patirčių kūrimas, žmonių ryšys su gamta ir profesinių misijų įgalinimas. Inžinerija daro šią laisvę įmanomą.'
+  tagline: 'Brand Philosophy'
+  title: 'Engineering Freedom On Water'
+  body: 'Freedom on water is not only about movement. It represents discovering new places, creating outdoor experiences, connecting people with nature, and enabling professional missions. Engineering makes that freedom possible.'
   pillars:
-    - title: 'Patikimumas pirmiausia'
-      body: 'Vandens aplinka reikalauja pasitikėjimo. olagoon produktai kuriami atsižvelgiant į stabilumą, patvarumą, saugą ir nuoseklų našumą.'
-    - title: 'Žmogaus poreikiams pritaikytas dizainas'
-      body: 'Produktai turi tarnauti žmonėms, o ne technologijoms. Kiekvienas dizaino sprendimas prasideda nuo supratimo, kaip žmonės naudoja vandens transporto priemones, kur jie plaukioja ir su kokiais iššūkiais susiduria.'
-    - title: 'Prieinamas tyrinėjimas'
-      body: 'Vanduo neturėtų priklausyti tik ekspertams. olagoon kuria įrangą, leidžiančią daugiau žmonių saugiai patirti upes, ežerus, vandenynus ir pakrančių aplinką.'
-    - title: 'Nuolatinės inovacijos'
-      body: 'Inovacijos — tai ne tik naujų produktų kūrimas. Tai kiekvienos detalės tobulinimas — medžiagos, konstrukcijos, gamyba ir vartotojo patirtis.'
+    - title: 'Reliability First'
+      body: 'Water environments demand trust. olagoon products are designed around stability, durability, safety, and consistent performance.'
+    - title: 'Human-Centered Design'
+      body: 'Products should serve people, not technology. Every design decision begins with understanding how people use watercraft, where they explore, and what challenges they face.'
+    - title: 'Accessible Exploration'
+      body: 'Water should not belong only to experts. olagoon creates equipment that allows more people to safely experience rivers, lakes, oceans, and coastal environments.'
+    - title: 'Continuous Innovation'
+      body: 'Innovation is not only creating new products. It is improving every detail — materials, structures, manufacturing, and user experience.'
 
 engineeringDna:
-  tagline: 'Inžinerijos DNR'
-  title: 'Kaip olagoon kuria produktus'
+  tagline: 'Engineering DNA'
+  title: 'How olagoon Creates Products'
   areas:
-    - title: 'Medžiagų mokslas'
-      body: 'olagoon daugiausia dėmesio skiria tinkamų medžiagų parinkimui skirtingoms jūrinėms aplinkoms. Pagrindiniai aspektai: atsparumas dilimui, UV atsparumas, slėgio stabilumas ir ilgalaikis patvarumas.'
-      items: ['Atsparumas dilimui', 'UV atsparumas', 'Slėgio stabilumas', 'Ilgalaikis patvarumas']
-    - title: 'Konstrukcinė inžinerija'
-      body: 'Pripučiamoms vandens transporto priemonėms reikia tikslaus balanso tarp standumo, svorio, pernešamumo ir stabilumo. olagoon inžinerija siekia optimizuoti šiuos veiksnius naudojant "Drop-Stitch" branduolio technologiją ir pažangias siūlių konstrukcijas.'
-      items: ['Standumas', 'Svorio optimizavimas', 'Pernešamumas', 'Stabilumas']
-    - title: 'Gamybos tikslumas'
-      body: 'Kiekvienas produktas praeina kontroliuojamus procesus: medžiagų paruošimą, tikslų pjaustymą, suvirinimą ir klijavimą, surinkimą, kokybės patikrą ir našumo patvirtinimą.'
-      items:
-        ['Medžiagų paruošimas', 'Tikslus pjaustymas', 'Suvirinimas ir klijavimas', 'Surinkimas ir kokybės kontrolė']
-    - title: 'Vartotojo scenarijų inžinerija'
-      body: 'Produktai kuriami pagal realius pritaikymus — poilsį, nuotykius ir profesinį naudojimą — siekiant užtikrinti, kad kiekvienas dizainas atitiktų numatytos aplinkos specifinius reikalavimus.'
-      items: ['Poilsis', 'Nuotykiai', 'Profesinis', 'Komercinis']
+    - title: 'Material Science'
+      body: 'olagoon focuses on selecting appropriate materials for different marine environments. Key considerations include abrasion resistance, UV resistance, pressure stability, and long-term durability.'
+      items: ['Abrasion Resistance', 'UV Resistance', 'Pressure Stability', 'Long-Term Durability']
+    - title: 'Structural Engineering'
+      body: 'Inflatable watercraft require precise balance between rigidity, weight, portability, and stability. olagoon engineering focuses on optimizing these factors through drop-stitch core technology and advanced seam construction.'
+      items: ['Rigidity', 'Weight Optimization', 'Portability', 'Stability']
+    - title: 'Manufacturing Precision'
+      body: 'Every product goes through controlled processes: material preparation, precision cutting, welding and bonding, assembly, quality inspection, and performance verification.'
+      items: ['Material Prep', 'Precision Cutting', 'Welding & Bonding', 'Assembly & QC']
+    - title: 'User Scenario Engineering'
+      body: 'Products are developed around real applications — recreation, adventure, and professional use — ensuring each design meets the specific demands of its intended environment.'
+      items: ['Recreation', 'Adventure', 'Professional', 'Commercial']
 
 trustSignals:
-  tagline: 'Pasitikėjimo signalai'
-  title: 'Kodėl olagoon yra patikimas partneris'
+  tagline: 'Trust Signals'
+  title: 'Why olagoon Is A Reliable Partner'
   manufacturing:
-    title: 'Gamybos galimybės'
-    body: '12,000 m² ploto gamybos objektas su daugiau nei 200 kvalifikuotų darbuotojų ir daugiau nei 14 tyrimų ir plėtros inžinierių. ISO 9001 sertifikuota kokybės vadybos sistema. Metinė 15,000+ vandens transporto priemonių gamyba, aptarnaujanti 50+ šalių.'
+    title: 'Manufacturing Capability'
+    body: '12,000 m² production facility with 200+ skilled workers and 14+ R&D engineers. ISO 9001 certified quality management system. Annual output of 15,000+ watercraft units serving 50+ countries.'
     stats:
-      - label: 'Objekto dydis'
+      - label: 'Facility Size'
         value: '12,000 m²'
-      - label: 'Darbuotojai'
+      - label: 'Workforce'
         value: '200+'
-      - label: 'Tyrimų ir plėtros inžinieriai'
+      - label: 'R&D Engineers'
         value: '14+'
-      - label: 'Metinis pajėgumas'
+      - label: 'Annual Capacity'
         value: '15,000+'
   quality:
-    title: 'Kokybės įsipareigojimas'
-    body: 'Nuo medžiagų patikros iki galutinio testavimo olagoon palaiko sistemingus kokybės procesus, siekdama teikti patikimus jūrinius produktus. Kiekvienas vienetas prieš siunčiamas atlieka slėgio testavimą, siūlių patikrą ir našumo patvirtinimą.'
+    title: 'Quality Commitment'
+    body: 'From material inspection to final testing, olagoon maintains systematic quality processes to deliver dependable marine products. Every unit undergoes pressure testing, seam inspection, and performance verification before shipping.'
     items:
-      - 'CE sertifikatas — visi produktai atitinka Europos saugos standartus'
-      - 'ISO 9001:2015 — sertifikuota kokybės vadybos sistema'
-      - 'UKCA žymėjimas — Jungtinės Karalystės rinkos atitiktis'
-      - 'FCC atitiktis — JAV elektroninių komponentų atitiktis'
+      - 'CE Certified — All products meet European safety standards'
+      - 'ISO 9001:2015 — Quality management system certified'
+      - 'UKCA Marked — UK market conformity'
+      - 'FCC Compliant — US electronic component compliance'
   global:
-    title: 'Pasaulinis buvimas'
-    body: 'olagoon aptarnauja klientus daugelyje pasaulinių rinkų, palaikydama platintojus, lauko prekės ženklus ir profesionalius jūrų vartotojus 50+ šalių visoje Europoje, Azijos ir Ramiojo vandenyno regione, Amerikoje, Artimuosiuose Rytuose ir Afrikoje.'
+    title: 'Global Presence'
+    body: 'olagoon serves customers across multiple global markets, supporting distributors, outdoor brands, and professional marine users in 50+ countries across Europe, Asia-Pacific, Americas, Middle East, and Africa.'
 
 comparison:
-  tagline: 'Prekės ženklo pozicionavimas'
-  title: 'olagoon rinkoje'
-  position: 'Inžinerijai orientuotas jūrinio poilsio prekės ženklas, derinantis pripučiamų produktų gamybos kompetenciją su bendro prekės ženklo kolekcijomis, individualiais sprendimais ir gilią gamybos patirtimi.'
+  tagline: 'Brand Positioning'
+  title: 'olagoon in the Market'
+  position: 'Engineering-focused marine recreation brand combining inflatable production expertise with co-branded collections, custom solutions, and deep manufacturing experience.'
   strengths:
-    - 'Pripučiamų vandens transporto priemonių inžinerijos kompetencija'
-    - 'Visapusės bendro ir privataus prekės ženklo galimybės'
-    - 'Individualus produktų kūrimas ir dizainas'
-    - '12,000 m² ploto ISO 9001 sertifikuotas gamybos objektas'
+    - 'Inflatable watercraft engineering expertise'
+    - 'Full co-brand and private-label capability'
+    - 'Custom product development and design'
+    - '12,000 m² ISO 9001 certified production facility'
   bestFor:
-    - 'Lauko poilsio vartotojai, ieškantys patikimų pripučiamų vandens transporto priemonių'
-    - 'Jūrų operatoriai, kuriems reikalinga komercinės klasės įranga'
-    - 'Prekės ženklų partneriai, ieškantys bendro prekės ženklo kolekcijų'
-    - 'Profesinės gelbėjimo ir patruliavimo organizacijos'
+    - 'Outdoor recreation users seeking reliable inflatable watercraft'
+    - 'Marine operators requiring commercial-grade equipment'
+    - 'Brand partners seeking co-branded collections'
+    - 'Professional rescue and patrol organizations'
 
 cta:
-  title: 'Pasirengę bendradarbiauti su gamintoju,<br />kuris rūpinasi kokybe?'
-  subtitle: 'Susisiekite su mūsų komanda, kad aptartumėte bendro ar privataus prekės ženklo projektą — jokio minimalaus užsakymo spaudimo, tik sąžiningi patarimai.'
+  title: 'Ready to partner with a manufacturer<br />that cares about quality?'
+  subtitle: 'Contact our team to discuss your co-brand or private-label project — no minimum order pressure, just honest advice.'
   actions:
     - variant: primary
-      text: 'Pradėkite pokalbį'
+      text: Start a conversation
       href: /contact/
-    - text: 'Peržiūrėkite mūsų produktus'
+    - text: Explore our products
       href: /products/

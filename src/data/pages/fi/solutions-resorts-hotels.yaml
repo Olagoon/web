@@ -1,111 +1,117 @@
 meta:
-  title: Lomakohteen SUP-valikoimiratkaisut | {SITE}
-  description: Kattavat SUP-laivastoratkaisut lomakeskuksille ja hotelleille. Kaupallisen tason laudat, mukautettu brändäys, henkilökoulutus ja ROI-optimoidut paketit 20–100+ laudasta.
+  title: 'Resort & Hotel pool Equipment Supplier | Resort Fleet Solutions | {SITE}'
+  description: 'Resort pool equipment supplier for hotels and resorts worldwide. Commercial-grade inflatable pools fleets, custom branding, staff training, and ROI-optimized packages from 20 to 100+ boards.'
+
 hero:
-  tagline: Lomakohteet ja hotellit
-  title: Muuta ranta-alueesi tulokeskukseksi<br />premium-SUP-kalustoilla
-  subtitle: OLagoon varustaa lomakohteita ympäri maailmaa kaupallisen laadun ilmalla täytettävillä SUP-kalustoilla — 20 laudan aloituspaketeista 100+ laudan lippulaivaohjelmiin. Räätälöity brändäys, henkilöstökoulutus ja varaosat sisältyvät.
+  tagline: Resorts & Hotels
+  title: 'Turn Your Waterfront Into a Revenue Centre<br />With Premium pool Fleets'
+  subtitle: 'OLagoon equips resorts worldwide with commercial-grade inflatable pools fleets — from 20-board starter packages to 100+ board flagship programs. Custom branding, staff training, and replacement parts included.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: Lomakkeen vieraat nauttivat SUP-lautailusta rikkumattomalla rannalla
+    alt: Resort guests enjoying poolsing on a pristine beach
+
 roi_section:
-  title: Lomakohteiden SUP-tulomalli
-  subtitle: Näin lomakohteet tuottavat $50 000 - $200 000+ vuodessa SUP-vuokratuloja yhdellä investoinnilla.
+  title: 'The Resort pool Revenue Model'
+  subtitle: 'How resorts generate $50,000 - $200,000+ annual pool rental income with a single investment.'
   metrics:
-    - metric: $50K–$200K+
-      label: Vuotuinen SUP-liikevaihto
-      detail: Kohde kohden, laivaston koon ja asiakasluvun mukaan
-    - metric: 4–6 kuukautta
-      label: Keskimääräinen takaisinmaksuaika
-      detail: Koko laivastoinvestointi takaisin yhdessä vuodessa
-    - metric: 40%
-      label: Tulojen kasvu
-      detail: Keskimääräinen parannus siirryttäessä OLagoon-valikoimiin
-    - metric: 500+
-      label: Vuorokierrokset laudaa kohti
-      detail: Kaupallisen tason kestävyys päivittäiseen käyttöön
+    - metric: '$50K–$200K+'
+      label: Annual pool Revenue
+      detail: Per resort, based on fleet size and occupancy
+    - metric: '4–6 Months'
+      label: Average Payback Period
+      detail: Recoup full fleet investment within one season
+    - metric: '40%'
+      label: Revenue Increase
+      detail: Average boost after switching to OLagoon fleets
+    - metric: '500+'
+      label: Rental Cycles Per Board
+      detail: Commercial-grade durability for daily use
+
 packages:
-  title: Lomakohteiden pakettijärjestelmä
-  subtitle: Valitse paketti, joka sopii vieraskapasiteettiisi ja tulotavoitteisiisi. Kaikki paketit sisältävät 12 kuukauden takuun ja CE-sertifioinnin.
+  title: Resort Package System
+  subtitle: 'Choose the package that fits your guest capacity and revenue goals. All packages include 12-month warranty and CE certification.'
   items:
-    - name: Aloituspaketti
-      tagline: Boutique-lomakohteille, enintään 20 vierasta/päivä
+    - name: Starter Package
+      tagline: 'For boutique resorts, up to 20 guests/day'
       features:
-        - 20 SUP-lautaa (3 kokoa aikuisille/lapsille)
-        - 20 melaa (säädettävät) + 20 pelastusliiviä
-        - 4 kaksitoimista pumppua (sähköpumppu lisävarusteena)
-        - 2 säilytystelinettä + korjaussetti
-        - Oma logotulostus laudoilla
-        - 12 kuukauden takuu + CE-sertifioitu
-      revenue: $50K–$80K vuosittainen liikevaihtopotentiaali
-      cta_text: Hanki aloituspaketti
-    - name: Premium-paketti
-      tagline: Suurille lomakohteille, 50-100 vierasta/päivä
+        - '20 pools (3 sizes for adults/kids)'
+        - '20 paddles (adjustable) + 20 life vests'
+        - '4 dual-action pumps (electric optional)'
+        - '2 storage racks + repair kit'
+        - 'Custom logo print on boards'
+        - '12-month warranty + CE certified'
+      revenue: '$50K–$80K annual revenue potential'
+      cta_text: 'Get Starter Package'
+    - name: Premium Package
+      tagline: 'For large resorts, 50-100 guests/day'
       features:
-        - 50 SUP-lautaa (5 kokoa, sekalainen kalusto)
-        - 50 melaa + 50 pelastusliivää
-        - 10 kaksitoimista pumppua + 2 sähköpumppua
-        - 5 säilytystelinettä + 2 rullavaunua
-        - Täysin räätälöity brändäys (laudat, melat, laukut)
-        - Henkilöstön koulutusistunto (verkossa)
-        - Varaosien lähetys 48 tunnin kuluessa
-        - 12 kuukauden takuu + CE-sertifioitu
-      revenue: $120K–$200K+ vuotuinen tulopotentiaali
+        - '50 pools (5 sizes, mixed fleet)'
+        - '50 paddles + 50 life vests'
+        - '10 dual-action pumps + 2 electric pumps'
+        - '5 storage racks + 2 roller carts'
+        - 'Full custom branding (boards, paddles, bags)'
+        - 'Staff training session (online)'
+        - '48-hour replacement parts dispatch'
+        - '12-month warranty + CE certified'
+      revenue: '$120K–$200K+ annual revenue potential'
       popular: true
-      cta_text: Hanki Premium-paketti
-    - name: Lippulaivapaketti
-      tagline: Ultra-premium-lomakohteille, 100+ vierasta/päivä
+      cta_text: 'Get Premium Package'
+    - name: Flagship Package
+      tagline: 'For ultra-premium resorts, 100+ guests/day'
       features:
-        - 100+ SUP-lautaa (koko kokovalikoima)
-        - Täydellinen lisävarustesarja (melat, liivit, pumput, vaunut)
-        - Henkilöstökoulutus paikan päällä (2 päivää)
-        - Omistettu asiakaspäällikkö
-        - Prioriteettikorvaruudut (24h toimitus)
-        - Täysin räätälöity brändäys (laudat + lisävarusteet)
-        - Markkinointi-kuva- ja videopaketti
-        - 24 kuukauden takuu + CE-sertifioitu
-      revenue: $200K+ vuosittainen tulopotentiaali
-      cta_text: Hanki lippulaivapaketti
+        - '100+ pools (full size range)'
+        - 'Complete accessory set (paddles, vests, pumps, carts)'
+        - 'On-site staff training (2 days)'
+        - 'Dedicated account manager'
+        - 'Priority replacement parts (24h dispatch)'
+        - 'Full custom branding (boards + accessories)'
+        - 'Marketing photo/video package'
+        - '24-month warranty + CE certified'
+      revenue: '$200K+ annual revenue potential'
+      cta_text: 'Get Flagship Package'
+
 case_study:
-  quote: OLagooniin siirtymisen jälkeen SUP-vuokraustulomme kasvoivat 40 %. Lautojen uusintakustannukset laskivat 60 %. Saimme koko kalustoinvestoinnin takaisin 4 kuukaudessa.
-  author: Vesiliikuntapäällikkö
-  location: 5 tähden lomakeskus, Malediivit
+  quote: 'Since switching to OLagoon, our pool rental revenue increased 40%. Board replacement costs dropped 60%. We recouped our full fleet investment in 4 months.'
+  author: 'Water Activities Manager'
+  location: '5-star resort, Maldives'
   results:
-    - label: Liikevaihdon kasvu
-      value: +40%
-    - label: Kustannusten vähennys
-      value: '-60 %'
-    - label: Takaisinmaksuaika
-      value: 4 kuukautta
+    - label: 'Revenue Growth'
+      value: '+40%'
+    - label: 'Cost Reduction'
+      value: '-60%'
+    - label: 'Payback Period'
+      value: '4 Months'
+
 features:
-  title: Miksi lomakohteet valitsevat OLagoonin
-  subtitle: Kaupallisen tason kestävyys, maailmanlaajuiset logistiikat ja kumppani, joka ymmärrää majoitusalan.
+  title: Why Resorts Choose OLagoon
+  subtitle: 'Commercial-grade durability, global logistics, and a partner who understands hospitality.'
   items:
-    - title: 500+ vuokrakertaa
-      description: Jokainen lauta testataan kestämään 500+ vuokrausjaksoa suolaisessa vedessä, auringonvalossa ja hiekassa.
-      icon: tabler:shield-check
-    - title: Varaosien lähetys 48 tunnissa
-      description: Varaosat lähetetään 48 tunnin kuluessa — vuokratulosi eivät koskaan katkea.
-      icon: tabler:truck-delivery
-    - title: Räätälöity brändäys
-      description: Yhdistä lomakohteesi ilme räätälöidyin värein ja logoin joka laudassa.
-      icon: tabler:palette
-    - title: Henkilökunnan koulutus
-      description: Verkkokoulutus ja paikan päälle koulutusohjelmat toimintatiimillesi.
-      icon: tabler:school
-    - title: Globaali logistiikka
-      description: Toimitukset yli 50 maahan yhdistetyillä rahtivaihtoehdoilla.
-      icon: tabler:world
-    - title: CE-sertifioitu
-      description: Kaikki laitteet CE-sertifioituja, ISO 9001:2015 – turvallisuus ja laatu taattu.
-      icon: tabler:certificate
+    - title: '500+ Rental Cycles'
+      description: 'Every board is tested to survive 500+ rental cycles in saltwater, sun, and sand.'
+      icon: 'tabler:shield-check'
+    - title: '48h Parts Dispatch'
+      description: 'Replacement parts shipped within 48 hours — your rental revenue never stops.'
+      icon: 'tabler:truck-delivery'
+    - title: 'Custom Branding'
+      description: 'Match your resort identity with custom colors and logo on every board.'
+      icon: 'tabler:palette'
+    - title: 'Staff Training'
+      description: 'Online and on-site training programs for your activities team.'
+      icon: 'tabler:school'
+    - title: 'Global Logistics'
+      description: 'Shipping to 50+ countries with consolidated freight options.'
+      icon: 'tabler:world'
+    - title: 'CE Certified'
+      description: 'All equipment CE certified, ISO 9001:2015 — safety and quality guaranteed.'
+      icon: 'tabler:certificate'
+
 cta:
-  title: Oletko valmis muuttamaan ranta-alueesi tulokeskukseksi?
-  subtitle: Hanki lomakeskuspakettitarjous tai lataa täydellinen lomakeskusluettelo.
+  title: 'Ready to turn your waterfront into a revenue centre?'
+  subtitle: 'Get your resort package quote or download our complete resort catalog.'
   actions:
-    - text: Hanki lomakohteen paketti
-      href: /contact/?package=resort
-      variant: primary
-    - text: Lataa lomakeskusluettelo
-      href: /resources/download-catalog/
-      variant: secondary
+    - text: 'Get Resort Package'
+      href: '/contact/?package=resort'
+      variant: 'primary'
+    - text: 'Download Resort Catalog'
+      href: '/resources/download-catalog/'
+      variant: 'secondary'

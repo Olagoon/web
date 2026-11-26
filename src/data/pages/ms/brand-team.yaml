@@ -1,85 +1,85 @@
 meta:
-  title: 'Pasukan Kami — Jurutera Marin & Pembina | {SITE}'
-  description: 'Ditubuhkan pada 2012 di Qingdao, olagoon dibina oleh jurutera marin, ahli sains bahan, dan peminat sukan air. Kenali pasukan di sebalik kilang ini.'
+  title: 'Our Team — Marine Engineers & Builders | {SITE}'
+  description: 'Founded in 2012 in Qingdao, olagoon was built by marine engineers, material scientists, and water sports enthusiasts. Meet the team behind the factory.'
   keywords:
-    - 'pasukan olagoon'
-    - 'jurutera marin'
-    - 'pengilang sup boleh tiup'
-    - 'pasukan kilang sup'
+    - 'olagoon team'
+    - 'marine engineers'
+    - 'inflatable pools manufacturer'
+    - 'pool factory team'
 hero:
-  tagline: 'Pasukan Kami'
-  title: 'Orang-Orang di Sebalik olagoon<br />— Merekayasa Kebebasan di Atas Air'
-  subtitle: 'Ditubuhkan pada 2012 di Qingdao, China, olagoon dibina oleh jurutera marin, ahli sains bahan, dan peminat sukan air yang percaya untuk menjadikan kenderaan air boleh tiup gred profesional mudah diakses di seluruh dunia.'
+  tagline: Our Team
+  title: 'The People Behind olagoon<br />— Engineering Freedom on Water'
+  subtitle: 'Founded in 2012 in Qingdao, China, olagoon was built by marine engineers, material scientists, and water sports enthusiasts who believed in making professional-grade inflatable watercraft accessible worldwide.'
   image:
     src: /images/team-all.webp
-    alt: 'foto pasukan penuh olagoon — kejuruteraan, pengeluaran, dan kepimpinan'
+    alt: olagoon full team photo — engineering, production, and leadership
 founding:
-  tagline: 'Penubuhan Kami'
-  title: 'Daripada Bengkel Pesisir<br />ke Kemudahan 12,000 m²'
-  subtitle: 'olagoon ditubuhkan oleh sepasukan jurutera marin dengan pengalaman bergabung selama berdekad-dekad dalam reka bentuk SUP boleh tiup, fabrikasi PVC, dan pembuatan peralatan marin global.'
+  tagline: Our Founding
+  title: 'From a Coastal Workshop<br />to a 12,000 m² Facility'
+  subtitle: 'olagoon was founded by a team of marine engineers with decades of combined experience in inflatable pools design, PVC fabrication, and global marine equipment manufacturing.'
   items:
-    - title: 'Ditubuhkan: 2012'
-      description: 'Ditubuhkan di Qingdao, China — hab maritim utama dengan warisan pembinaan kapal yang mendalam.'
+    - title: 'Founded: 2012'
+      description: 'Established in Qingdao, China — a major maritime hub with deep shipbuilding heritage.'
       icon: tabler:calendar
-    - title: '200+ Pekerja'
-      description: 'Termasuk 50+ jurutera R&D, pakar kawalan kualiti, dan juruteknik pengeluaran.'
+    - title: '200+ Employees'
+      description: 'Including 50+ R&D engineers, quality control specialists, and production technicians.'
       icon: tabler:users
-    - title: 'Kemudahan 12,000 m²'
-      description: 'Kilang pembuatan khusus dengan 6 garisan pengeluaran untuk papan SUP boleh tiup.'
+    - title: '12,000 m² Facility'
+      description: 'Dedicated manufacturing plant with 6 production lines for inflatable pools.'
       icon: tabler:building-factory
-    - title: '50+ Negara Dilayani'
-      description: 'Mengeksport ke Eropah, Amerika, Timur Tengah, Asia-Pasifik, dan Afrika.'
+    - title: '50+ Countries Served'
+      description: 'Exporting to Europe, Americas, Middle East, Asia-Pacific, and Africa.'
       icon: tabler:globe
 leadership:
-  tagline: 'Kepimpinan'
-  title: 'Pengurusan & Kepimpinan Kejuruteraan'
-  subtitle: 'Pasukan kepimpinan kami menggabungkan kepakaran mendalam dalam kejuruteraan marin, perdagangan antarabangsa, dan pengurusan kualiti.'
+  tagline: Leadership
+  title: 'Management & Engineering Leadership'
+  subtitle: 'Our leadership team brings together deep expertise in marine engineering, international trade, and quality management.'
   columns: 3
   items:
-    - title: 'Pengasas & CEO'
+    - title: 'Founder & CEO'
       name: 'Toby Liu'
-      description: '15+ tahun dalam pembuatan marin. Sebelum ini memimpin R&D di sebuah pengilang sukan dayung China yang utama. Memegang pelbagai paten dalam reka bentuk SUP boleh tiup.'
+      description: '15+ years in marine manufacturing. Previously led R&D at a major Chinese inflatable products manufacturer. Holds multiple patents in inflatable pools design.'
       icon: tabler:crown
       image: https://assets.olagoon.com/images/olagoon/team/olagoon-toby-liu-team.webp
-    - title: 'Ketua Jurutera'
+    - title: 'Chief Engineer'
       name: 'Zhang Wei'
-      description: '20+ tahun dalam fabrikasi PVC dan reka bentuk drop-stitch. Bekas pengarah teknikal di sebuah jenama sukan dayung Eropah.'
+      description: '20+ years in PVC fabrication and drop-stitch design. Former technical director at a European inflatable products brand.'
       icon: tabler:engine
       image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
-    - title: 'Ketua R&D'
+    - title: 'Head of R&D'
       name: 'Chen Ming'
-      description: 'PhD dalam Sains Bahan. Pakar dalam teknologi drop-stitch dan proses kimpalan frekuensi tinggi. 10+ tahun dalam komposit tekstil.'
+      description: 'PhD in Materials Science. Specializes in drop-stitch technology and high-frequency welding processes. 10+ years in textile composites.'
       icon: tabler:flask
       image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
-    - title: 'Pengarah Pengeluaran'
+    - title: 'Production Director'
       name: 'Liu Qiang'
-      description: '18+ tahun dalam pembuatan lean dan pengoptimuman garisan pengeluaran. Tali Hitam Six Sigma. Melaksanakan sistem kualiti ISO 9001.'
+      description: '18+ years in lean manufacturing and production line optimization. Six Sigma Black Belt. Implemented ISO 9001 quality systems.'
       icon: tabler:settings
       image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
-    - title: 'Pengurus Kualiti'
+    - title: 'Quality Manager'
       name: 'Wang Fang'
-      description: '12+ tahun dalam kawalan kualiti marin. Auditar tersijil CE dan ISO. Menyelia pengujian bagi setiap kelompok pengeluaran.'
+      description: '12+ years in marine quality control. Certified CE and ISO auditor. Oversees testing for every production batch.'
       icon: tabler:shield-check
       image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
-    - title: 'Pengarah Jualan & Operasi'
+    - title: 'Sales & Operations Director'
       name: 'Helen Lee'
-      description: '15+ tahun dalam perdagangan B2B antarabangsa. Menguruskan perkongsian jenama bersama dan pengedaran merentas 30+ negara. Fasih dalam 4 bahasa.'
+      description: '15+ years in international B2B trade. Managed co-brand and distribution partnerships across 30+ countries. Fluent in 4 languages.'
       icon: tabler:briefcase
       image: https://assets.olagoon.com/images/olagoon/team/olagoon-helen-contact-sales.webp
 philosophy:
-  tagline: 'Falsafah Reka Bentuk'
-  title: 'Reka Bentuk Diterajui Kejuruteraan<br />— Setiap Butiran Penting'
-  subtitle: 'Falsafah kejuruteraan kami berpaksikan tiga prinsip yang memandu setiap produk yang kami bina.'
+  tagline: Design Philosophy
+  title: 'Engineering-Led Design<br />— Every Detail Matters'
+  subtitle: 'Our engineering philosophy centers on three principles that guide every product we build.'
   list:
-    - 'Kebolehpercayaan Didahulukan: Setiap produk olagoon diuji untuk menahan keadaan dunia sebenar — daripada operasi penyelamatan air sejuk sehingga sewaan resort tropika. Kami merekayasa secara melampaui di perkara yang paling penting.'
-    - 'Ketepatan Pembuatan: Kemudahan kami menggunakan pemotongan CNC, kimpalan frekuensi tinggi, dan ujian tekanan automatik. Setiap jahitan, setiap injap, setiap kelengkapan memenuhi spesifikasi yang didokumenkan.'
-    - 'Inovasi Berterusan: Pasukan R&D kami menilai bahan baharu, kaedah pengeluaran, dan penambahbaikan reka bentuk secara berterusan. Kami tidak menunggu masalah timbul — kami mengantisipasinya.'
+    - 'Reliability First: Every olagoon product is tested to withstand real-world conditions — from cold-water rescue operations to tropical resort rentals. We over-engineer where it matters most.'
+    - 'Manufacturing Precision: Our facilities use CNC cutting, high-frequency welding, and automated pressure testing. Every seam, every valve, every fitting meets documented specifications.'
+    - 'Continuous Innovation: Our R&D team evaluates new materials, production methods, and design improvements continuously. We do not wait for problems — we anticipate them.'
 cta:
-  title: 'Ingin membincangkan projek dengan pasukan kami?'
-  subtitle: 'Jurutera kami sedia memberi nasihat tentang pemilihan produk, penyesuaian, dan koleksi jenama bersama.'
+  title: 'Want to discuss a project with our team?'
+  subtitle: 'Our engineers are ready to advise on product selection, customization, and co-branded collections.'
   actions:
     - variant: primary
-      text: 'Hubungi pasukan kami'
+      text: Contact our team
       href: /contact/
-    - text: 'Lihat produk kami'
+    - text: View our products
       href: /products/

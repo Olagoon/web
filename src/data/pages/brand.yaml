@@ -3,15 +3,15 @@ meta:
   description: 'olagoon: an inflatable marine brand partnering with water sports brands, distributors, nautical clubs, and enterprises through co-branded collections, private label, and country distribution programs.'
   keywords:
     - 'olagoon brand'
-    - 'inflatable SUP brand'
-    - 'china sup manufacturer'
+    - 'inflatable pools brand'
+    - 'china pool manufacturer'
 hero:
   tagline: Brand
   title: '{BRAND}'
   subtitle: Ocean Performance for Every Surfer
   cta: Explore Gear →
   cta_link: /products/
-  secondary_cta: Learn Surfing
+  secondary_cta: Explore Pools
   secondary_cta_link: /guides/
 
 position:
@@ -34,6 +34,6 @@ social_section:
 
 cta_section:
   title: Start your ocean journey
-  subtitle: Every product CE certified. Backed by warranty. Designed for real surf.
+  subtitle: Every product CE certified. Backed by warranty. Engineered for real backyards.
   cta_suffix: '→'
   secondary_cta: About {BRAND}

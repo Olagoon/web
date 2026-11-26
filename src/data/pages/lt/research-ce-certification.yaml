@@ -1,60 +1,60 @@
 meta:
-  title: 'Kaip veikia CE sertifikavimas pripučiamoms vandens transporto priemonėms | {SITE}'
-  description: 'Išsamus CE sertifikavimo vadovas pripučiamoms SUP lentoms ir baidarėms. Taikomi direktyvos (2013/53/EU RCD, PPE 2016/425), testavimo protokolai, praneštosios institucijos, techninio failo reikalavimai ir gamintojo pareigos.'
-back_text: 'Grįžti į tyrimus'
+  title: 'How CE Certification Works for Inflatable Watercraft | {SITE}'
+  description: 'Complete guide to CE certification for inflatable pools. Applicable standards and directives for domestic pools, testing protocols, notified bodies, technical file requirements, and manufacturer obligations.'
+back_text: 'Back to Research'
 
 hero:
-  tagline: 'Atitiktis'
-  title: 'Kaip veikia CE sertifikavimas pripučiamoms vandens transporto priemonėms'
-  subtitle: '7 min. skaitymo'
+  tagline: 'Compliance'
+  title: 'How CE Certification Works for Inflatable Watercraft'
+  subtitle: '7 min read'
 
 content_html: |
-  <h2>Kas yra CE sertifikavimas?</h2>
-  <p>CE ženklinimas (Conformit&eacute; Europ&eacute;enne) rodo, kad produktas atitinka ES sveikatos, saugos ir aplinkosaugos reikalavimus. Pripučiamoms vandens transporto priemonėms taikomas reguliavimo pagrindas priklauso nuo produkto kategorijos.</p>
+  <h2>What Is CE Certification?</h2>
+  <p>CE marking (Conformit&eacute; Europ&eacute;enne) indicates that a product meets EU health, safety, and environmental requirements. For inflatable watercraft, the relevant regulatory framework depends on the product category.</p>
 
-  <h2>Taikomos direktyvos</h2>
+  <h2>Applicable Directives</h2>
 
-  <h3>Poilsio laivų direktyva (2013/53/EU)</h3>
-  <p>Pagrindinė poilsio laivų direktyva ES. Pripučiamos SUP lentos, trumpesnės nei 2.4 m, nepatenka į jos taikymo sritį ir vietoje to sertifikuojamos pagal EN ISO 25649.</p>
+  <h3>Recreational Craft Directive (2013/53/EU)</h3>
+  <p>The primary directive for recreational craft in the EU. inflatable pools under 2.4 m fall outside its scope and are instead certified under EN ISO 25649.</p>
 
-  <h3>Asmens apsaugos priemonių reglamentas (2016/425)</h3>
-  <p>Gelbėjimosi liemenės, plūdumo priemonės ir saugos įranga, tiekiama su vandens transporto priemonėmis, turi atitikti AAP reglamento reikalavimus, įskaitant tipo tyrimą (Modulis B), kurį atlieka pranešotoji institucija, ir gamybos kokybės užtikrinimą (Modulis D arba E).</p>
+  <h3>Personal Protective Equipment Regulation (2016/425)</h3>
+  <p>Life jackets, buoyancy aids, and safety equipment supplied with watercraft must meet PPE Regulation requirements, including type examination (Module B) by a notified body and production quality assurance (Module D or E).</p>
 
-  <h2>Sertifikavimo procesas</h2>
+  <h2>The Certification Process</h2>
   <ol>
-    <li>Produkto klasifikavimas: nustatykite laivo projektinę kategoriją (A – D pagal ISO 8666)</li>
-    <li>Taikomi standartai: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (gamytojo plokštelė)</li>
-    <li>Techninio failo rengimas: projektiniai brėžiniai, medžiagų sąrašas, medžiagų sertifikatai, rizikos vertinimas</li>
-    <li>Tipų testavimas: plūdumas, stabilumas, apkrovos talpa, medžiagų testavimas, siūlių stipris, oro sulaikymas</li>
-    <li>Gamyklos gamybos kontrolė: pranešotosios institucijos gamybos procesų auditas</li>
-    <li>Atitikties deklaracija: gamintojas pasirašo AD, tvirtina CE ženklinimą</li>
+    <li>Product classification: Determine craft design category (A – D per ISO 8666)</li>
+    <li>Applicable standards: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (builder's plate)</li>
+    <li>Technical file preparation: Design drawings, Bill of Materials, material certificates, risk assessment</li>
+    <li>Type testing: Buoyancy, stability, load capacity, material testing, seam strength, air retention</li>
+    <li>Factory production control: Notified body audit of manufacturing processes</li>
+    <li>Declaration of Conformity: Manufacturer signs DoC, affixes CE marking</li>
   </ol>
 
-  <h2>Pranešotosios institucijos pripučiamoms vandens transporto priemonėms</h2>
-  <p>Dažnos PI yra Bureau Veritas (Prancūzija), DNV GL (Vokietija), RINA (Italija), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (Vokietija).</p>
+  <h2>Notified Bodies for Inflatable Watercraft</h2>
+  <p>Common NBs include Bureau Veritas (France), DNV GL (Germany), RINA (Italy), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (Germany).</p>
 
-  <h2>Terminai ir išlaidos</h2>
+  <h2>Timeline and Costs</h2>
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-gray-100">
-        <th class="p-3 text-left font-semibold text-gray-900 border">Etapas</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Trukmė</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Tipinė kaina (EUR)</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Phase</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Duration</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Typical Cost (EUR)</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="p-3 border">Techninio failo rengimas</td><td class="p-3 border">2 – 4 savaitės</td><td class="p-3 border">2,000 – 5,000</td></tr>
-      <tr><td class="p-3 border">Tipų testavimas</td><td class="p-3 border">4 – 8 savaitės</td><td class="p-3 border">8,000 – 20,000</td></tr>
-      <tr><td class="p-3 border">Gamyklos auditas</td><td class="p-3 border">1 – 2 dienos (vietoje)</td><td class="p-3 border">3,000 – 6,000</td></tr>
-      <tr><td class="p-3 border">Iš viso (pirmasis produktas)</td><td class="p-3 border">8 – 14 savaičių</td><td class="p-3 border">13,000 – 31,000</td></tr>
+      <tr><td class="p-3 border">Technical file preparation</td><td class="p-3 border">2 – 4 weeks</td><td class="p-3 border">2,000 – 5,000</td></tr>
+      <tr><td class="p-3 border">Type testing</td><td class="p-3 border">4 – 8 weeks</td><td class="p-3 border">8,000 – 20,000</td></tr>
+      <tr><td class="p-3 border">Factory audit</td><td class="p-3 border">1 – 2 days (on-site)</td><td class="p-3 border">3,000 – 6,000</td></tr>
+      <tr><td class="p-3 border">Total (first product)</td><td class="p-3 border">8 – 14 weeks</td><td class="p-3 border">13,000 – 31,000</td></tr>
     </tbody>
   </table>
 
-  <h2>Ką tai reiškia pirkėjams</h2>
-  <p>Pirkdami CE sertifikuotas pripučiamas SUP lentas visada patikrinkite, ar CE ženklinimas yra ant gamytojo plokštelės, ar galioja AD, ar nurodytas pranešotosios institucijos numeris ir ar naudotojo vadove yra saugos instrukcijos jūsų kalba. Visi OLagoon produktai turi CE sertifikatą su pilnu atsekamumu iki pranešotosios institucijos audito ataskaitų.</p>
+  <h2>What This Means for Buyers</h2>
+  <p>When purchasing CE-certified inflatable pools, always verify the CE marking is on the builder's plate, a valid DoC exists, the Notified Body number is listed, and the owner's manual includes safety instructions in your local language. All OLagoon products carry CE certification with full traceability to notified body audit reports.</p>
 
 cta:
-  title: 'Reikia CE sertifikavimo palaikymo?'
-  subtitle: 'Mes tvarkome sertifikavimą OEM partneriams visame pasaulyje.'
-  button_text: 'Pradėti sertifikavimo procesą'
+  title: 'Need CE certification support?'
+  subtitle: 'We handle certification for OEM partners worldwide.'
+  button_text: 'Start the certification process'
   button_link: /contact/

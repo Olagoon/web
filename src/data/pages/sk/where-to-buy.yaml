@@ -1,24 +1,24 @@
 meta:
-  title: Kde kúpiť nafukovacie paddleboardy OLagoon | OLagoon
-  description: Zistite, ako kúpiť nafukovací paddleboard OLagoon — prostredníctvom oficiálneho distribútora vo vašej krajine alebo priamo od tímu OLagoon.
+  title: Where to Buy OLagoon Inflatable Pools | OLagoon
+  description: Find out how to buy an OLagoon inflatable pool — through an official distributor in your country or directly from the OLagoon team. Tell us where you live and we will point you to your nearest dealer.
 hero:
-  tagline: Kde kúpiť
-  title: Vyplávajte na vodu so SUP doskou OLagoon
-  subtitle: Dosky OLagoon sa dostávajú k pádlujúcim vo viac ako 50 krajinách. Nájdite najjednoduchší spôsob, ako získať svoju — prostredníctvom oficiálneho distribútora vo vašom okolí alebo priamo od tímu OLagoon.
+  tagline: Where to Buy
+  title: Get Your OLagoon pool on the Water
+  subtitle: OLagoon pools reach families in 50+ countries. Find the simplest way to get yours — through an official distributor near you or directly from the OLagoon team.
 channels:
   items:
-    - title: Oficiálni distribútoria podľa krajín
-      description: OLagoon spolupracuje s výhradnými distribútormi v mnohých krajinách. Povedzte nám, kde pádlujete, a prepojíme vás s vaším miestnym predajcom, cenami a dostupnosťou.
-      cta: Nájdite miestneho predajcu
+    - title: Official Country Distributors
+      description: OLagoon works with exclusive distributors in many countries. Tell us where you live and we will connect you with your local dealer, pricing, and availability.
+      cta: Find Your Local Dealer
       href: /contact/?subject=Where to Buy
-    - title: Priama objednávka od OLagoon
-      description: Vo vašej krajine ešte nie je distribútor? Tím OLagoon môže zabezpečiť priame objednávky a dopravu, aby ste sa dostali na vodu bez ohľadu na to, kde bývate.
-      cta: Spýtajte sa na dostupnosť
+    - title: Order Direct from OLagoon
+      description: No distributor in your country yet? The OLagoon team can arrange direct orders and shipping so you can get on the water wherever you live.
+      cta: Request Availability
       href: /contact/?subject=Where to Buy
 form_intro:
-  title: Spýtajte sa na dostupnosť
-  subtitle: Pošlite nám správu s vašou krajinou a doskou, ktorá vás zaujíma. Náš tím odpovie do jedného pracovného dňa s najbližším predajcom alebo možnosťami priamej objednávky.
+  title: Ask About Availability
+  subtitle: Send us a message with your country and the pool you are interested in. Our team will reply within one business day with your nearest dealer or direct-order options.
 business_note:
-  text: Nakupujete pre klub, rezort alebo obchod? Preskúmajte naše obchodné a partnerské programy.
-  cta: Pre obchodných partnerov
+  text: Buying for a club, resort, or store? Explore our business and partnership programs.
+  cta: For Business Partners
   href: /solutions/

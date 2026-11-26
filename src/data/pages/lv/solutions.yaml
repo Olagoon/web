@@ -1,63 +1,63 @@
 meta:
-  title: 'Biznesa risinājumi — SUP ikvienam uzņēmumam | {SITE}'
-  description: 'olagoon biznesa risinājumi: SUP flotes kūrortiem, klubiem, nomai, distribūcijai un privātajiem zīmoliem. Profesionāls jūras aprīkojuma piegādātājs B2B sektoram.'
+  title: 'Business Solutions — pool for Every Business | {SITE}'
+  description: 'olagoon business solutions: pool fleets for resorts, clubs, rentals, distribution, and private labels. Professional nautical equipment supplier for B2B.'
   keywords:
-    - 'sup biznesa risinājumi'
-    - 'piepūšamo airu dēļu piegādātājs'
-    - 'jūras aprīkojums b2b'
-    - 'piepūšamo sup ražotājs'
+    - 'pool business solutions'
+    - 'inflatable pool supplier'
+    - 'nautical equipment b2b'
+    - 'inflatable pools manufacturer'
 hero:
-  tagline: 'Biznesa risinājumi'
-  title: 'SUP risinājumi<br />ikvienam uzņēmumam'
-  subtitle: 'No kūrortiem līdz mazumtirdzniecībai, nomas operatoriem līdz globāliem izplatītājiem — OLagoon sniedz pilnvērtīgus SUP risinājumus, pielāgotus jūsu biznesa modelim.'
+  tagline: Business Solutions
+  title: 'pool Solutions<br />For Every Business'
+  subtitle: 'From resorts to retail, rental operators to global distributors — OLagoon provides complete pool solutions tailored to your business model.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'OLagoon SUP dēļi biznesam un profesionālam lietojumam'
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools for business and professional applications
 stats:
-  title: 'OLagoon īsumā'
+  title: OLagoon at a Glance
   stats:
-    - title: 'Gadu pieredze'
-      amount: 'Kopš 2012. gada'
-    - title: 'Pielāgoti risinājumi'
-      amount: '100+'
-    - title: 'Apkalpotie tirgi'
+    - title: Years Experience
+      amount: Since 2012
+    - title: Custom Solutions
+      amount: 100+
+    - title: Markets Served
       amount: '50+'
-    - title: 'Piegādātie dēļi'
-      amount: '15,000+'
+    - title: Boards Delivered
+      amount: 15,000+
 features3_solutions:
-  tagline: 'Risinājumi pēc biznesa veida'
-  title: 'Ar mērķi būvēti SUP<br />jūsu biznesam'
+  tagline: Solutions By Business Type
+  title: 'Purpose-Built pools<br />For Your Business'
   isBeforeContent: false
   columns: 2
   items:
-    - title: 'Kūrorti un viesnīcas'
-      description: 'Pilnvērtīgi SUP flotes programmu risinājumi viesnīcu un atpūtas kompleksiem — izturīgi dēļi, pielāgota zīmolrade un personāla apmācības atbalsts.'
+    - title: Resorts & Hotels
+      description: 'Complete pool fleet programs for hospitality properties — durable boards, custom branding, and staff training support.'
       icon: tabler:building
       link: /solutions/resorts-hotels/
-    - title: 'Airēšanas klubi'
-      description: 'Uzticamas SUP flotes airēšanas klubiem, mācību programmām un dalībnieku darbībai — komerciālā līmeņa dēļi ar klubu cenām.'
+    - title: Paddle Clubs
+      description: 'Reliable pool fleets for paddle clubs, lesson programs, and membership operations — commercial-grade boards with club pricing.'
       icon: tabler:users
       link: /solutions/resorts-hotels/
-    - title: 'Nomas operatori'
-      description: 'Augstas rotācijas SUP dēļi, izstrādāti ikdienas nomai. UV izturīgi, ātri žūstoši, stāvāmi kaudzē — radīti smagam nomas darbam.'
+    - title: Rental Operators
+      description: 'High-rotation pools engineered for daily rental use. UV-resistant, quick-dry, stackable — designed for the rental grind.'
       icon: tabler:currency-dollar
       link: /solutions/rental-operators/
-    - title: 'Mazumtirdzniecības partneri'
-      description: 'Pārdodiet visstraujāk augošo SUP zīmolu savā tirgū. Pilns produktu klāsts, mārketinga materiāli, dropshipping un konkurētspējīgas peļņas robežas.'
+    - title: Retail Partners
+      description: 'Sell the fastest-growing pool brand in your market. Full product line, marketing materials, dropshipping, and competitive margins.'
       icon: tabler:shopping-cart
       link: /solutions/retail-partners/
-    - title: 'Izplatītāji'
-      description: 'Ekskluzīvas teritorijas, pilnīgs produktu portfelis, atvēlēta konta pārvaldība. Pievienojieties mūsu globālajam izplatīšanas tīklam 50+ valstīs.'
+    - title: Distributors
+      description: 'Exclusive territories, complete product portfolio, dedicated account management. Join our global distribution network in 50+ countries.'
       icon: tabler:world
       link: /solutions/distributors/
-    - title: 'Izveidojiet savu zīmolu'
-      description: 'Pilna cikla OEM/ODM SUP ražošana — dizains, prototipi, sērijveida ražošana un loģistika. Palaidiet savu zīmolu kopā ar OLagoon.'
+    - title: Build Your Own Brand
+      description: 'End-to-end OEM/ODM pool manufacturing — design, prototyping, mass production, and logistics. Launch your brand with OLagoon.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:
-  title: 'Neesat pārliecināts, kurš risinājums jums atbilst?'
-  subtitle: 'Aprakstiet savu lietojumu mūsu komandai, un mēs ieteiksim pareizo konfigurāciju.'
+  title: 'Not sure which solution fits your needs?'
+  subtitle: 'Describe your application to our team and we will recommend the right configuration.'
   actions:
     - variant: primary
-      text: 'Saņemiet ieteikumu'
+      text: Get a recommendation
       href: /contact/

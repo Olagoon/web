@@ -1,24 +1,24 @@
 meta:
-  title: Hol lehet OLagoon felfújható paddle boardokat vásárolni | OLagoon
-  description: Tudd meg, hogyan vásárolhatsz OLagoon felfújható paddle boardot — az országod hivatalos forgalmazóján keresztül vagy közvetlenül az OLagoon csapattól.
+  title: Where to Buy OLagoon Inflatable Pools | OLagoon
+  description: Find out how to buy an OLagoon inflatable pool — through an official distributor in your country or directly from the OLagoon team. Tell us where you live and we will point you to your nearest dealer.
 hero:
-  tagline: Hol lehet vásárolni
-  title: Kerülj a vízre a OLagoon SUP palánkoddal
-  subtitle: Az OLagoon palánkok több mint 50 országban jutnak el a vízi sportolókhoz. Találd meg a legegyszerűbb módját, hogy a tiédhez is eljuss — egy közeli hivatalos forgalmazón keresztül vagy közvetlenül az OLagoon csapattól.
+  tagline: Where to Buy
+  title: Get Your OLagoon pool on the Water
+  subtitle: OLagoon pools reach families in 50+ countries. Find the simplest way to get yours — through an official distributor near you or directly from the OLagoon team.
 channels:
   items:
-    - title: Hivatalos országos forgalmazók
-      description: Az OLagoon számos országban kizárólagos forgalmazókkal dolgozik. Mondd meg, hol evezel, és összekötünk a helyi viszonteladóddal, az árakról és a készletről szóló információkkal.
-      cta: Keresd meg a helyi viszonteladót
+    - title: Official Country Distributors
+      description: OLagoon works with exclusive distributors in many countries. Tell us where you live and we will connect you with your local dealer, pricing, and availability.
+      cta: Find Your Local Dealer
       href: /contact/?subject=Where to Buy
-    - title: Közvetlen rendelés az OLagoontől
-      description: Még nincs forgalmazó az országodban? Az OLagoon csapata közvetlen megrendeléseket és szállítást szervezhet, hogy bárhol is laksz, vízre kerülhess.
-      cta: Érdeklődj a készletről
+    - title: Order Direct from OLagoon
+      description: No distributor in your country yet? The OLagoon team can arrange direct orders and shipping so you can get on the water wherever you live.
+      cta: Request Availability
       href: /contact/?subject=Where to Buy
 form_intro:
-  title: Érdeklődj a készletről
-  subtitle: Küldj nekünk üzenetet az országoddal és az érdeklődő palánkkal. Csapatunk egy munkanapon belül válaszol a legközelebbi viszonteladóval vagy a közvetlen rendelés lehetőségeivel.
+  title: Ask About Availability
+  subtitle: Send us a message with your country and the pool you are interested in. Our team will reply within one business day with your nearest dealer or direct-order options.
 business_note:
-  text: Klubnak, üdülőhelynek vagy boltba vásárolsz? Fedezd fel üzleti és partnerprogramjainkat.
-  cta: Üzleti partnereknek
+  text: Buying for a club, resort, or store? Explore our business and partnership programs.
+  cta: For Business Partners
   href: /solutions/

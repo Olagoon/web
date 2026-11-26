@@ -1,24 +1,24 @@
 meta:
-  title: ซื้อกระดานพายเรือลมพอน OLagoon ได้ที่ไหน | OLagoon
-  description: ดูวิธีซื้อกระดานพายเรือลมพอน OLagoon — ผ่านตัวแทนจำหน่ายอย่างเป็นทางการในประเทศของคุณ หรือโดยตรงจากทีม OLagoon
+  title: Where to Buy OLagoon Inflatable Pools | OLagoon
+  description: Find out how to buy an OLagoon inflatable pool — through an official distributor in your country or directly from the OLagoon team. Tell us where you live and we will point you to your nearest dealer.
 hero:
-  tagline: ซื้อได้ที่ไหน
-  title: ออกไปทางน้ำกับ SUP OLagoon ของคุณ
-  subtitle: กระดาน OLagoon ไปถึงมือนักพายในกว่า 50 ประเทศ ค้นหาวิธีที่ง่ายที่สุดในการได้กระดานของคุณ — ผ่านตัวแทนจำหน่ายทางการใกล้คุณ หรือสั่งซื้อโดยตรงจากทีม OLagoon
+  tagline: Where to Buy
+  title: Get Your OLagoon pool on the Water
+  subtitle: OLagoon pools reach families in 50+ countries. Find the simplest way to get yours — through an official distributor near you or directly from the OLagoon team.
 channels:
   items:
-    - title: ตัวแทนจำหน่ายอย่างเป็นทางการประจำประเทศ
-      description: OLagoon ทำงานร่วมกับตัวแทนจำหน่ายแบบเอกสิทธิ์ในหลายประเทศ บอกเราว่าคุณพายที่ไหน แล้วเราจะแนะนำผู้แทนจำหน่ายในพื้นที่ของคุณ พร้อมราคาและความพร้อมของสินค้า
-      cta: ค้นหาผู้แทนจำหน่ายใกล้คุณ
+    - title: Official Country Distributors
+      description: OLagoon works with exclusive distributors in many countries. Tell us where you live and we will connect you with your local dealer, pricing, and availability.
+      cta: Find Your Local Dealer
       href: /contact/?subject=Where to Buy
-    - title: สั่งซื้อโดยตรงจาก OLagoon
-      description: ยังไม่มีตัวแทนจำหน่ายในประเทศของคุณใช่หรือไม่ ทีม OLagoon สามารถจัดการการสั่งซื้อและการจัดส่งโดยตรง เพื่อให้คุณออกไปทางน้ำได้ไม่ว่าคุณจะอยู่ที่ไหน
-      cta: สอบถามความพร้อมของสินค้า
+    - title: Order Direct from OLagoon
+      description: No distributor in your country yet? The OLagoon team can arrange direct orders and shipping so you can get on the water wherever you live.
+      cta: Request Availability
       href: /contact/?subject=Where to Buy
 form_intro:
-  title: สอบถามความพร้อมของสินค้า
-  subtitle: ส่งข้อความถึงเราพร้อมระบุประเทศของคุณและกระดานที่คุณสนใจ ทีมของเราจะตอบกลับภายในหนึ่งวันทำการพร้อมข้อมูลผู้แทนจำหน่ายที่ใกล้ที่สุดหรือตัวเลือกการสั่งซื้อโดยตรง
+  title: Ask About Availability
+  subtitle: Send us a message with your country and the pool you are interested in. Our team will reply within one business day with your nearest dealer or direct-order options.
 business_note:
-  text: ซื้อเพื่อชมรม รีสอร์ท หรือร้านค้าใช่หรือไม่ สำรวจโปรแกรมธุรกิจและพันธมิตรของเรา
-  cta: สำหรับพันธมิตรทางธุรกิจ
+  text: Buying for a club, resort, or store? Explore our business and partnership programs.
+  cta: For Business Partners
   href: /solutions/

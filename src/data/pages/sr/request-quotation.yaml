@@ -1,99 +1,99 @@
 meta:
-  title: 'Затражите понуду — OEM производња SUP дасака | {SITE}'
-  description: 'Затражите детаљну понуду за свој пројекат надувних SUP дасака. OEM/ODM производња, приватна марка или прилагођене флоте — одговарамо у року од 2 радна дана.'
+  title: 'Request a Quotation — OEM pool Manufacturing | {SITE}'
+  description: 'Request a detailed quotation for your inflatable pools project. OEM/ODM manufacturing, private label, or custom fleets — we respond within 2 business days.'
   keywords:
-    - 'затражите понуду за sup'
-    - 'oem понуда за даске за веслање'
-    - 'понуда sup фабрике'
-    - 'цена надувних sup дасака'
+    - 'request pool quote'
+    - 'oem inflatable pool quote'
+    - 'pool factory quotation'
+    - 'inflatable pools price'
 hero_text:
-  tagline: 'Добијте понуду'
-  title: 'Затражите понуду<br />за ваш пројекат'
-  subtitle: 'Реците нам о својим захтевима, а наш тим ће одговорити детаљном понудом у року од 2 радна дана.'
+  tagline: Get a Quote
+  title: 'Request a Quotation<br />for Your Project'
+  subtitle: 'Tell us about your requirements and our team will respond with a detailed quotation within 2 business days.'
 steps2_process:
-  title: 'Како функционише'
-  subtitle: 'Четири једноставна корака од упита до понуде.'
+  title: How It Works
+  subtitle: 'Four simple steps from inquiry to quotation.'
   items:
-    - title: 'Корак 1: Поднесите своје захтеве'
-      description: 'Попуните образац испод са типом производа, количином и спецификацијама. Што више детаља наведете, понуда ће бити прецизнија.'
+    - title: 'Step 1: Submit Your Requirements'
+      description: 'Fill out the form below with your product type, quantity, and specifications. The more detail you provide, the more accurate your quotation.'
       icon: tabler:file-text
-    - title: 'Корак 2: Прегледавамо и саветујемо'
-      description: 'Наш инжењерски тим прегледа ваше захтеве и може вас контактирати ради појашњења. Дајемо препоруке за конфигурацију производа и опције.'
+    - title: 'Step 2: We Review & Advise'
+      description: 'Our engineering team reviews your requirements and may contact you for clarification. We provide recommendations on product configuration and options.'
       icon: tabler:users
-    - title: 'Корак 3: Примите своју понуду'
-      description: 'Добијате детаљну понуду која укључује цену по јединици, MOQ, рок испоруке, услове плаћања и опције транспорта. Обично у року од 48 сати.'
+    - title: 'Step 3: Receive Your Quote'
+      description: 'You receive a detailed quotation including unit pricing, MOQ, lead time, payment terms, and shipping options. Typically within 48 hours.'
       icon: tabler:currency-dollar
-    - title: 'Корак 4: Узорак и производња'
-      description: 'Након прихватања понуде, прелазимо на производњу узорка (ако је применљиво) или директно на серијску производњу. Редовне информације током целог процеса.'
+    - title: 'Step 4: Sample & Production'
+      description: 'After quote acceptance, we proceed to sample production (if applicable) or directly to mass production. Regular updates throughout the process.'
       icon: tabler:building-factory
 content_form:
-  tagline: 'Образац за понуду'
-  title: 'Реците нам о свом пројекту'
-  subtitle: 'Сва поља са * су обавезна.'
+  tagline: Quotation Form
+  title: 'Tell Us About Your Project'
+  subtitle: 'All fields with * are required.'
   contact_fields:
-    firstName: 'Име'
-    lastName: 'Презиме'
-    companyName: 'Назив компаније'
-    email: 'Е-пошта'
+    firstName: First Name
+    lastName: Last Name
+    companyName: Company Name
+    email: E-mail
   fields:
-    - name: 'Категорија производа'
+    - name: Product Category
       type: select
       options:
-        - 'SUP даска'
-        - 'Надувна SUP даска'
-        - 'Надувна SUP даска'
-        - 'Спасилачки прслук'
-        - 'Поморска опрема'
-        - 'Прилагођени OEM/ODM'
-    - name: 'Примењеност'
+        - pools
+        - inflatable pools
+        - inflatable pools
+        - Thermal Cover
+        - Marine Accessory
+        - Custom OEM/ODM
+    - name: Application
       type: select
       options:
-        - 'Центар за роњење'
-        - 'Риболов'
-        - 'Поморски туризам / одмаралиште'
-        - 'Претрага и спасавање'
-        - 'Влада / војска'
-        - 'OEM / приватна марка'
-        - 'Лично / рекреативно'
-        - 'Друго'
-    - name: 'Количина'
+        - Diving Center
+        - Fishing
+        - Marine Tourism / Resort
+        - Search & Rescue
+        - Government / Military
+        - OEM / Private Label
+        - Personal / Recreational
+        - Other
+    - name: Quantity
       type: text
-      placeholder: 'нпр. 50 јединица'
-    - name: 'Циљно тржиште'
+      placeholder: e.g. 50 units
+    - name: Target Market
       type: text
-      placeholder: 'нпр. Европа, Северна Америка, Блиски исток'
-    - name: 'Земља испоруке'
+      placeholder: e.g. Europe, North America, Middle East
+    - name: Delivery Country
       type: text
-      placeholder: 'нпр. Италија, УАЕ, САД, Аустралија'
-    - name: 'Преференца материјала'
+      placeholder: e.g. Italy, UAE, USA, Australia
+    - name: Material Preference
       type: select
       options:
-        - 'Без преференце'
-        - 'Поморски PVC (1100 dtex)'
-        - 'Фиберглас труп'
-        - 'Алуминијумски труп'
-    - name: 'Захтев за погон'
+        - No Preference
+        - Marine-Grade PVC (1100 dtex)
+        - Fiberglass Hull
+        - Aluminum Hull
+    - name: Engine Requirement
       type: text
-      placeholder: 'нпр. стандардна конфигурација весла, електрична пумпа, прилагођене боје'
-    - name: 'Потребно прилагођавање'
+      placeholder: e.g. standard filtration package, electric pump, custom colors
+    - name: Customization Required
       type: text
-      placeholder: 'нпр. прилагођене боје, брендирање/логотип, паковање, специјални оков'
-    - name: 'Временски оквир'
+      placeholder: e.g. custom colors, branding/logo, packaging, special fittings
+    - name: Timeline
       type: text
-      placeholder: 'нпр. испорука у року од 90 дана'
-    - name: 'Додатни захтеви'
+      placeholder: e.g. delivery within 90 days
+    - name: Additional Requirements
       type: textarea
-      placeholder: 'Опишите своју примену, техничке спецификације или посебне захтеве — приложите референтне цртеже, спецификације или линкове ако су доступни'
-    - name: 'Отпремите спецификацију'
+      placeholder: Describe your application, technical specifications, or any special requirements — include reference drawings, specifications, or links if available
+    - name: Upload Specification
       type: file
-      placeholder: 'Отпремите свој лист спецификација, цртеж или референтни документ (PDF, DWG, DXF)'
-    - name: 'Отпремите логотип / графички дизајн'
+      placeholder: Upload your spec sheet, drawing, or reference document (PDF, DWG, DXF)
+    - name: Upload Logo / Artwork
       type: file
-      placeholder: 'Отпремите свој логотип или графички дизајн за прилагођено брендирање (AI, EPS, PNG)'
+      placeholder: Upload your logo or artwork for custom branding (AI, EPS, PNG)
 cta:
-  title: 'Преферишете да разговарате путем е-поште?'
-  subtitle: 'Пошаљите свој упит директно нашем продајном тиму и одговорићемо у року од 24 сата.'
+  title: 'Prefer to discuss by email?'
+  subtitle: 'Send your inquiry directly to our sales team and we will respond within 24 hours.'
   actions:
     - variant: primary
-      text: 'Пошаљите нам директно е-пошту'
+      text: Email us directly
       href: /contact/

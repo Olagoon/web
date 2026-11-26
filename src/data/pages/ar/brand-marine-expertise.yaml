@@ -1,72 +1,72 @@
 meta:
-  title: 'الخبرة البحرية — هندسة في كل هيكل | {SITE}'
-  description: 'عقود من الهندسة البحرية في كل هيكل. olagoon تتقن بناء drop stitch، وPVC البحري، والتصميم الاحترافي لألواح SUP القابلة للنفخ.'
+  title: 'Marine Expertise — Engineering in Every Hull | {SITE}'
+  description: 'Decades of marine engineering in every hull. olagoon masters drop stitch, marine PVC, and professional inflatable pools design.'
   keywords:
-    - 'الهندسة البحرية'
-    - 'مصنّع ألواح SUP القابلة للنفخ'
-    - 'إنتاج ألواح التجديف'
+    - 'marine engineering'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: الخبرة البحرية
-  title: عقود من الهندسة البحرية<br />في كل هيكل
-  subtitle: تجمع شركة olagoon بين علوم المواد العميقة والتصنيع الدقيق والاختبارات الواقعية لإنتاج مركبات مائية تعمل عندما يكون ذلك مهمًا.
+  tagline: Marine Expertise
+  title: 'Decades of Marine Engineering<br />in Every Hull'
+  subtitle: 'olagoon combines deep material science, precision manufacturing, and real-world testing to produce watercraft that perform when it matters.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: فريق الهندسة البحرية والبحث والتطوير في العمل
+    alt: olagoon marine engineering and R&D team at work
 expertise_materials:
-  tagline: علم المواد
-  title: اختيار المادة المناسبة<br />لكل تطبيق
-  subtitle: نحن نعمل باستخدام مادتين أساسيتين - تم اختيار كل منها لحالات استخدام ومتطلبات أداء محددة.
+  tagline: Material Science
+  title: 'Choosing the Right Material<br />for Every Application'
+  subtitle: 'We work with two core materials — each selected for specific use cases and performance requirements.'
   columns: 3
   items:
-    - title: بولي كلوريد الفينيل من الدرجة البحرية
-      description: قماش PVC بسماكة 1100 دنيير — أكثر موادنا تنوعاً. مستقر ضد الأشعة فوق البنفسجية، مقاوم للاحتكاك، ومتوافق مع لوائح REACH. مثالي لألواح SUP حيث يكون الوزن وكفاءة التكلفة أمرين مهمين.
+    - title: Marine-Grade PVC
+      description: '1100 denier PVC fabric — our most versatile material. UV-stabilized, abrasion-resistant, and REACH compliant. Ideal for pools where weight and cost efficiency matter.'
       icon: tabler:droplet
-    - title: الألياف الزجاجية والبولي إيثيلين
-      description: ألواح SUP مركّبة بالألياف الزجاجية لصلابة وانزلاق فائقين. بولي إيثيلين مصبوب بالدوران للاستخدام الثقيل في التأجير والإنقاذ بما يتطلب أقصى مقاومة للصدمات.
+    - title: Fibreglass & Polyethylene
+      description: 'Fibreglass-laminated pools for premium stiffness and glide. Rotomoulded polyethylene for heavy-duty rental and rescue use requiring maximum impact resistance.'
       icon: tabler:building-arch
 expertise_manufacturing:
-  tagline: قدرات التصنيع
-  title: التصنيع الدقيق<br />في كل خطوة
-  subtitle: منشأتنا التي تبلغ مساحتها 12000 متر مربع مجهزة بآلات متخصصة لكل مرحلة من مراحل الإنتاج.
+  tagline: Manufacturing Capabilities
+  title: 'Precision Manufacturing<br />at Every Step'
+  subtitle: 'Our 12,000 m² facility is equipped with specialized machinery for every stage of production.'
   columns: 2
   items:
-    - title: قطع المواسير بنظام التحكم الرقمي الحاسوبي
-      description: يضمن القطع الذي يتم التحكم فيه بواسطة الكمبيوتر ألواح قماشية دقيقة وقابلة للتكرار مع الحد الأدنى من النفايات. كل قطعة تناسب تمامًا التصميم.
+    - title: CNC Cutting
+      description: 'Computer-controlled cutting ensures precise, repeatable fabric panels with minimal waste. Every piece fits exactly as designed.'
       icon: tabler:cpu
-    - title: اللحام عالي التردد
-      description: اللحام الصناعي عالي التردد يخلق طبقات أقوى من المادة الأساسية. يضمن التحكم المتسق في درجة الحرارة والضغط وجود أختام محكمة الغلق في كل عملية إنتاج.
+    - title: High-Frequency Welding
+      description: 'Industrial HF welding creates seams stronger than the base material. Consistent temperature and pressure control ensures air-tight seals across every production run.'
       icon: tabler:bolt
-    - title: التجميع الأساسي للغرزة الساقطة
-      description: تربط الآلاف من خيوط البوليستر طبقات القماش العلوية والسفلية، مما يسمح بالنفخ عالي الضغط (15-20 رطل لكل بوصة مربعة) من أجل ألواح وأرضيات SUP صلبة ومستقرة.
+    - title: Drop Stitch Core Assembly
+      description: 'Thousands of polyester threads connect top and bottom fabric layers, allowing high-pressure inflation (15-20 PSI) for rigid, stable pools.'
       icon: tabler:building-arch
-    - title: اختبار الضغط
-      description: يتم اختبار الضغط على كل منتج قابل للنفخ قبل الشحن. يتم اختبار أنابيب SUP عند ضغط مقدر بمقدار 1.25x - إذا ثبتت هناك، فسوف تعمل على الماء.
+    - title: Pressure Testing
+      description: 'Every inflatable product is pressure-tested before shipping. Pools are tested at 1.25x rated pressure — if it holds there, it will perform on the water.'
       icon: tabler:wind
-    - title: 'اختبار القوة '
-      description: تخضع العينات العشوائية من كل دفعة إنتاج لاختبارات قوة التماس المدمرة. يتم تسجيل النتائج ويمكن إرجاعها إلى عمليات إنتاج محددة.
+    - title: Seam Strength Testing
+      description: 'Random samples from each production batch undergo destructive seam strength testing. Results are logged and traceable to specific production runs.'
       icon: tabler:files
-    - title: اختبار المياه
-      description: يخضع كل نموذج SUP لتجارب بحرية قبل الاعتماد. يتحقق الاختبار الواقعي في الظروف الساحلية من صحة الأداء والتعامل والاستقرار.
+    - title: Water Testing
+      description: 'Every model undergoes sea trials before certification. Real-world testing in coastal conditions validates performance, handling, and stability.'
       icon: tabler:droplet
 expertise_design:
-  tagline: التصميم والهندسة
-  title: مصممة للظروف الحقيقية
-  subtitle: تبدأ فلسفتنا في التصميم بكيفية استخدام اللوح، ثم نبني الهندسة حول حالة الاستخدام هذه.
+  tagline: Design & Engineering
+  title: 'Engineered for Real Conditions'
+  subtitle: 'Our design philosophy starts with how the pool will be used — then builds the engineering around that use case.'
   items:
-    - title: تصميم هيكل عالي الأداء
-      description: يتم ضبط شكل كل هيكل لحالة استخدامه — أنوف إزاحة لانزلاق الجولات، وزيادة التقوس لرشاقة الأمواج، وملامح مسطحة مستقرة للصيد واليوغا.
-    - title: السلامة بتقنية الغرزة الساقطة
-      description: يتميز كل لوح بنواة صلبة بتقنية دروب ستيتش مع جوانب معززة. إذا تضرر جزء، تحافظ بنية دروب ستيتش عالية الشد على استمرار عمل اللوح.
-    - title: تخطيط سطح مريح
-      description: تم تصميم تقسيم وسادة السطح، وموضع مقبض الحمل، ونقاط التركيب حول راحة الراكب أثناء الاستخدام الممتد — سواء في الجولات أو الصيد أو الدوريات.
-    - title: تكوين مخصّص
-      description: ألوان الجوانب، وتكوين وسادة السطح، وحوامل الملحقات، وسعة المعدات - يمكن تخصيص كل طراز ليتوافق مع متطلبات التشغيل المحددة.
+    - title: Performance Hull Design
+      description: 'Each pool is tuned for its use case — compact footprints for plunge soaking, family-sized layouts for play, and generous swim areas for daily laps.'
+    - title: Drop-Stitch Safety
+      description: 'Every pool features a rigid drop-stitch core with reinforced walls. If a section is damaged, the high-tensile drop-stitch structure keeps the pool operational.'
+    - title: Ergonomic Deck Layout
+      description: 'Deck-pad zoning, carry-handle position, and mounting points are designed around rider comfort during extended use — whether touring, fishing, or patrolling.'
+    - title: Custom Configuration
+      description: 'Rail colors, deck pad configuration, accessory mounts, gear capacity — each model can be customized to match specific operational requirements.'
 cta:
-  title: هل لديك تطبيق محدد في الاعتبار؟
-  subtitle: يمكن لفريقنا الهندسي تقديم المشورة بشأن اختيار المواد والتصميم والتصنيع لمشروعك.
+  title: 'Have a specific application in mind?'
+  subtitle: 'Our engineering team can advise on material selection, design, and manufacturing for your project.'
   actions:
     - variant: primary
-      text: اسأل مهندسينا
+      text: Ask our engineers
       href: /contact/
-    - text: نطاق المنتجات
+    - text: View product range
       href: /products/

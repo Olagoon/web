@@ -1,99 +1,99 @@
 meta:
-  title: 'Vyžiadanie cenovej ponuky — výroba SUP OEM | {SITE}'
-  description: 'Vyžiadajte si podrobnú cenovú ponuku pre váš projekt nafukovacej dosky SUP. Výroba OEM/ODM, private label alebo zákazkové flotily — odpovieme do 2 pracovných dní.'
+  title: 'Request a Quotation — OEM pool Manufacturing | {SITE}'
+  description: 'Request a detailed quotation for your inflatable pools project. OEM/ODM manufacturing, private label, or custom fleets — we respond within 2 business days.'
   keywords:
-    - 'vyžiadať cenovú ponuku sup'
-    - 'cenová ponuka oem paddle board'
-    - 'cenová ponuka z továrne sup'
-    - 'cena nafukovacej sup'
+    - 'request pool quote'
+    - 'oem inflatable pool quote'
+    - 'pool factory quotation'
+    - 'inflatable pools price'
 hero_text:
-  tagline: 'Získajte cenovú ponuku'
-  title: 'Vyžiadajte si cenovú ponuku<br />pre váš projekt'
-  subtitle: 'Povedzte nám o svojich požiadavkách a náš tím odpovie podrobnou cenovou ponukou do 2 pracovných dní.'
+  tagline: Get a Quote
+  title: 'Request a Quotation<br />for Your Project'
+  subtitle: 'Tell us about your requirements and our team will respond with a detailed quotation within 2 business days.'
 steps2_process:
-  title: 'Ako to funguje'
-  subtitle: 'Štyri jednoduché kroky od dopytu po cenovú ponuku.'
+  title: How It Works
+  subtitle: 'Four simple steps from inquiry to quotation.'
   items:
-    - title: 'Krok 1: Odošlite svoje požiadavky'
-      description: 'Vyplňte formulár nižšie s typom produktu, množstvom a špecifikáciami. Čím viac detailov uvediete, tým presnejšia bude vaša cenová ponuka.'
+    - title: 'Step 1: Submit Your Requirements'
+      description: 'Fill out the form below with your product type, quantity, and specifications. The more detail you provide, the more accurate your quotation.'
       icon: tabler:file-text
-    - title: 'Krok 2: Preveríme a poradíme'
-      description: 'Náš inžiniersky tím preverí vaše požiadavky a prípadne vás kontaktuje na objasnenie. Poskytujeme odporúčania ku konfigurácii produktu a možnostiam.'
+    - title: 'Step 2: We Review & Advise'
+      description: 'Our engineering team reviews your requirements and may contact you for clarification. We provide recommendations on product configuration and options.'
       icon: tabler:users
-    - title: 'Krok 3: Dostanete svoju ponuku'
-      description: 'Dostanete podrobnú cenovú ponuku vrátane cien za kus, MOQ, dodacej lehoty, platobných podmienok a možností dopravy. Zvyčajne do 48 hodín.'
+    - title: 'Step 3: Receive Your Quote'
+      description: 'You receive a detailed quotation including unit pricing, MOQ, lead time, payment terms, and shipping options. Typically within 48 hours.'
       icon: tabler:currency-dollar
-    - title: 'Krok 4: Vzorka a výroba'
-      description: 'Po prijatí ponuky prejdeme k výrobe vzorky (ak je relevantná) alebo priamo k hromadnej výrobe. Pravidelné aktualizácie počas celého procesu.'
+    - title: 'Step 4: Sample & Production'
+      description: 'After quote acceptance, we proceed to sample production (if applicable) or directly to mass production. Regular updates throughout the process.'
       icon: tabler:building-factory
 content_form:
-  tagline: 'Formulár cenovej ponuky'
-  title: 'Povedzte nám o svojom projekte'
-  subtitle: 'Všetky polia s * sú povinné.'
+  tagline: Quotation Form
+  title: 'Tell Us About Your Project'
+  subtitle: 'All fields with * are required.'
   contact_fields:
-    firstName: 'Krstné meno'
-    lastName: 'Priezvisko'
-    companyName: 'Názov spoločnosti'
-    email: 'E-mail'
+    firstName: First Name
+    lastName: Last Name
+    companyName: Company Name
+    email: E-mail
   fields:
-    - name: 'Kategória produktu'
+    - name: Product Category
       type: select
       options:
-        - 'Doska SUP'
-        - 'Nafukovacia SUP'
-        - 'Nafukovacia doska SUP'
-        - 'Záchranná vesta'
-        - 'Morské príslušenstvo'
-        - 'Zákazkové OEM/ODM'
-    - name: 'Aplikácia'
+        - pools
+        - inflatable pools
+        - inflatable pools
+        - Thermal Cover
+        - Marine Accessory
+        - Custom OEM/ODM
+    - name: Application
       type: select
       options:
-        - 'Potápačské centrum'
-        - 'Rybolov'
-        - 'Morská turistika / rezort'
-        - 'Pátranie a záchrana'
-        - 'Vláda / armáda'
-        - 'OEM / Private Label'
-        - 'Osobné / rekreačné'
-        - 'Iné'
-    - name: 'Množstvo'
+        - Diving Center
+        - Fishing
+        - Marine Tourism / Resort
+        - Search & Rescue
+        - Government / Military
+        - OEM / Private Label
+        - Personal / Recreational
+        - Other
+    - name: Quantity
       type: text
-      placeholder: 'napr. 50 ks'
-    - name: 'Cieľový trh'
+      placeholder: e.g. 50 units
+    - name: Target Market
       type: text
-      placeholder: 'napr. Európa, Severná Amerika, Blízky východ'
-    - name: 'Krajina dodania'
+      placeholder: e.g. Europe, North America, Middle East
+    - name: Delivery Country
       type: text
-      placeholder: 'napr. Taliansko, SAE, USA, Austrália'
-    - name: 'Preferencia materiálu'
+      placeholder: e.g. Italy, UAE, USA, Australia
+    - name: Material Preference
       type: select
       options:
-        - 'Bez preferencie'
-        - 'Morské PVC (1100 dtex)'
-        - 'Sklolaminátový trup'
-        - 'Hliníkový trup'
-    - name: 'Požiadavka na pohon'
+        - No Preference
+        - Marine-Grade PVC (1100 dtex)
+        - Fiberglass Hull
+        - Aluminum Hull
+    - name: Engine Requirement
       type: text
-      placeholder: 'napr. štandardné pádlové vybavenie, elektrická pumpa, vlastné farby'
-    - name: 'Požadované prispôsobenie'
+      placeholder: e.g. standard filtration package, electric pump, custom colors
+    - name: Customization Required
       type: text
-      placeholder: 'napr. vlastné farby, branding/logo, balenie, špeciálne armatúry'
-    - name: 'Časový harmonogram'
+      placeholder: e.g. custom colors, branding/logo, packaging, special fittings
+    - name: Timeline
       type: text
-      placeholder: 'napr. dodanie do 90 dní'
-    - name: 'Ďalšie požiadavky'
+      placeholder: e.g. delivery within 90 days
+    - name: Additional Requirements
       type: textarea
-      placeholder: 'Opíšte svoju aplikáciu, technické špecifikácie alebo akékoľvek špeciálne požiadavky — priložte referenčné výkresy, špecifikácie alebo odkazy, ak sú k dispozícii'
-    - name: 'Nahrať špecifikáciu'
+      placeholder: Describe your application, technical specifications, or any special requirements — include reference drawings, specifications, or links if available
+    - name: Upload Specification
       type: file
-      placeholder: 'Nahrajte svoj technický list, výkres alebo referenčný dokument (PDF, DWG, DXF)'
-    - name: 'Nahrať logo / grafiku'
+      placeholder: Upload your spec sheet, drawing, or reference document (PDF, DWG, DXF)
+    - name: Upload Logo / Artwork
       type: file
-      placeholder: 'Nahrajte svoje logo alebo grafiku pre vlastný branding (AI, EPS, PNG)'
+      placeholder: Upload your logo or artwork for custom branding (AI, EPS, PNG)
 cta:
-  title: 'Radšej by ste si prediskutovali e-mailom?'
-  subtitle: 'Pošlite svoj dopyt priamo nášmu predajnému tímu a odpovieme do 24 hodín.'
+  title: 'Prefer to discuss by email?'
+  subtitle: 'Send your inquiry directly to our sales team and we will respond within 24 hours.'
   actions:
     - variant: primary
-      text: 'Napíšte nám priamo e-mail'
+      text: Email us directly
       href: /contact/

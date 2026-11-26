@@ -1,107 +1,110 @@
 meta:
-  title: 'ความรู้ — คู่มือ SUP | {SITE}'
-  description: 'ฐานความรู้ของ olagoon: คู่มือบอร์ด SUP แบบเป่าลม วัสดุพายบอร์ด การเลือกบอร์ด และข้อมูลเชิงลึกของอุตสาหกรรมสำหรับแบรนด์และมืออาชีพ'
+  title: 'Knowledge — Pool Guides | {SITE}'
+  description: 'OLagoon knowledge base: guides on drop-stitch pools, pool materials, water care, and industry insights for owners and professionals.'
   keywords:
-    - 'ความรู้ SUP'
-    - 'คู่มือ SUP แบบเป่าลม'
-    - 'วัสดุพายบอร์ด'
-    - 'ข้อมูลเชิงลึกอุตสาหกรรม SUP'
+    - 'pool knowledge'
+    - 'drop stitch pool guide'
+    - 'inflatable pool materials'
+    - 'pool care insights'
 hero:
-  tagline: กราฟความรู้
-  title: ความรู้การสำรวจทางน้ำ
+  tagline: 'Knowledge Graph'
+  title: 'Backyard Pool Knowledge'
   subtitle: |
-    ฐานความรู้ที่มีโครงสร้างครอบคลุมเทคโนโลยี SUP แบบเป่าลม<br />
-    ความปลอดภัยทางน้ำ วิศวกรรมบอร์ด และการวางแผนการผจญภัย
-  taglineSection: สำรวจ เรียนรู้ ไปด้วยความมั่นใจ
+    A structured knowledge base covering drop-stitch pool technology,<br />
+    water safety, materials engineering, and seasonal pool care.
+  taglineSection: 'Explore. Learn. Swim with confidence.'
+
 clusters:
-  tagline: กลุ่มความรู้
-  title: สำรวจตามหัวข้อ
-  subtitle: ดำดิ่งลึกสู่เทคโนโลยี ความปลอดภัย และทักษะเบื้องหลังทุกผลิตภัณฑ์ olagoon
+  tagline: 'Knowledge Clusters'
+  title: 'Explore by topic'
+  subtitle: 'Deep dives into the technology, safety, and care behind every OLagoon product.'
   items:
-    - title: คู่มือการซื้อ SUP
-      description: ตั้งแต่การเลือกบอร์ดแรกจนถึงเทคนิคทัวร์ริ่งขั้นสูง — ทุกอย่างเกี่ยวกับการพายยืนบนบอร์ด
-      icon: tabler:lifebuoy
+    - title: 'Pool Buying Guides'
+      description: 'From choosing your first pool to comparing sizes — everything about drop-stitch pools.'
+      icon: 'tabler:lifebuoy'
       topics:
-        - วิธีเลือกซัพเป่าลมแรกของคุณ
-        - คู่มือขนาด SUP และความสามารถในการรับน้ำหนัก
-        - SUP ที่ดีที่สุดสำหรับผู้เริ่มต้น ทัวร์ริ่ง โยคะ และการแข่ง
-        - ข้อผิดพลาดทั่วไปในการซื้อ SUP ที่ควรหลีกเลี่ยง
-        - การเปรียบเทียบบอร์ดเป่าลมกับบอร์ดแข็ง
-    - title: วิศวกรรมและเทคโนโลยี SUP
-      description: คู่มือทางเทคนิคเกี่ยวกับบอร์ด SUP แบบเป่าลม — วัสดุ วิธีการก่อสร้าง และกระบวนการผลิต
-      icon: tabler:microscope
+        - 'How to choose your first drop-stitch pool'
+        - 'Pool size and capacity guide'
+        - 'Compact Plunge vs Family Oasis vs Grand Lagoon'
+        - 'Common pool buying mistakes to avoid'
+        - 'Inflatable vs rigid pool comparison'
+    - title: 'Pool Engineering & Technology'
+      description: 'Technical guides on drop-stitch pools — materials, construction methods, and manufacturing processes.'
+      icon: 'tabler:microscope'
       topics:
-        - เจาะลึกเทคโนโลยี drop-stitch
-        - ข้อกำหนด PVC เกรดทหาร
-        - การลามิเนตแบบ fusion เทียบกับการติดด้วยกาว
-        - เทคโนโลยีโฟม EVA และวิธีการทำงานศิลป์
-        - ชนิดวาล์ว SUP และระบบครีบ
-    - title: ความปลอดภัยและการดูแลรักษา SUP
-      description: ความรู้ด้านความปลอดภัยที่จำเป็นสำหรับนักพายทุกคน — ตั้งแต่การเลือก PFD การอ่านสภาพอากาศ ถึงการดูแลและซ่อมบำรุงบอร์ด
-      icon: tabler:shield
+        - 'Drop-stitch technology deep dive'
+        - 'Marine-grade PVC specifications'
+        - 'Fusion lamination vs adhesive bonding'
+        - 'Reinforced rail and seam engineering'
+        - 'Pool valve types and pressure ratings'
+    - title: 'Pool Safety & Maintenance'
+      description: 'Essential safety knowledge for every pool owner — from supervision rules to water care and repair.'
+      icon: 'tabler:shield'
       topics:
-        - รายการตรวจสอบความปลอดภัย SUP และข้อกำหนด PFD
-        - ความปลอดภัยแบบหลายห้องลมสำหรับลำน้ำห่างไกล
-        - คู่มือ PSI การเป่าลม SUP
-        - การจัดเก็บบอร์ดและการดูแลในฤดูหนาว
-        - เทคนิคการซ่อมบอร์ดเป่าลม
-    - title: ทักษะและเทคนิค SUP
-      description: เทคนิคการพาย ทักษะทัวร์ริ่ง และการฝึกฟิตเนสสำหรับทุกระดับทักษะ
-      icon: tabler:sailboat
+        - 'Pool safety checklist and supervision rules'
+        - 'Water care and sanitation basics'
+        - 'Pool inflation PSI guide (10–15 PSI)'
+        - 'Pool storage and winter care'
+        - 'PVC repair techniques'
+    - title: 'Pool Setup & Water Care'
+      description: 'Setup routines, filtration schedules, and water chemistry for a season of clear water.'
+      icon: 'tabler:droplet'
       topics:
-        - เทคนิคการพายสำหรับผู้เริ่มต้น
-        - การฝึกฝนจังหวะพายระดับกลาง
-        - การวางแผนทัวร์ริ่งและการสำรวจ
-        - การฝึกฟิตเนสและการแข่ง SUP
-        - ทักษะล่องน้ำวนและลำธาร
-    - title: ไลฟ์สไตล์ SUP และการใช้งานพิเศษ
-      description: กิจกรรม SUP เฉพาะทาง — โยคะ ตกปลา กับน้องหมา ครอบครัว และเคล็ดลับการท่องเที่ยว
-      icon: tabler:heart
+        - 'First setup: unbox to swim in 30 minutes'
+        - 'Sand filter pump operation and backwashing'
+        - 'Water testing and chemical balance'
+        - 'Algae prevention and troubleshooting'
+        - 'Thermal covers and heat retention'
+    - title: 'Pool Lifestyle & Family'
+      description: 'Getting the most from your pool — family fun, exercise, pets, and entertaining.'
+      icon: 'tabler:heart'
       topics:
-        - โยคะและการทำสมาธิบนน้ำด้วยบอร์ด SUP
-        - ตกปลาจากซัพเป่าลม
-        - การพายกระดาน SUP กับสุนัขและเด็ก ๆ
-        - การเดินทางพร้อมบอร์ด SUP ของคุณทางอากาศและรถยนต์
-        - อุปกรณ์เสริมและอุปกรณ์จำเป็นสำหรับซัพ
-    - title: การเปรียบเทียบและข้อมูลอ้างอิงของ SUP
-      description: การเปรียบเทียบแบบเคียงข้างเพื่อช่วยให้คุณตัดสินใจได้อย่างรอบรู้
-      icon: tabler:chart-bar
+        - 'Pool games and activities for kids'
+        - 'Water exercise and low-impact fitness'
+        - 'Pool time with dogs and pets'
+        - 'Moving your pool: storage between homes'
+        - 'Pool accessories and gear essentials'
+    - title: 'Pool Comparisons & References'
+      description: 'Side-by-side comparisons to help you make informed decisions.'
+      icon: 'tabler:chart-bar'
       topics:
-        - SUP หรือ kayak — แบบไหนที่เหมาะกับคุณ?
-        - อธิบายระดับชั้นวัสดุ PVC
-        - ความปลอดภัยของห้องลมเดี่ยวเทียบกับหลายห้องลม
-        - อธิบายวัสดุของบอร์ด SUP
-        - การพิมพ์ UV เทียบกับงานศิลป์แบบบล็อก EVA
+        - 'Inflatable pool vs rigid pool — which is right for you?'
+        - 'PVC material grades explained'
+        - 'Single chamber vs multi-chamber construction'
+        - 'Pool wall heights explained (20 cm standard)'
+        - 'Digital printing vs in-mold graphics'
+
 featured_guides:
-  tagline: คำแนะนำแนะนำ
-  title: แหล่งความรู้ยอดนิยม
+  tagline: 'Featured Guides'
+  title: 'Most popular knowledge resources'
   items:
-    - title: พื้นฐาน SUP
-      href: /learn/water-safety/
-    - title: บอร์ดเป่าลม vs บอร์ดแข็ง
-      href: /compare/technology/
-    - title: คู่มือความปลอดภัยทางน้ำ
-      href: /learn/water-safety/
-    - title: เอกสารอ้างอิงวัสดุ
-      href: /learn/materials/
-    - title: คู่มือการซื้อ SUP
-      href: /technology/
-    - title: คู่มือขนาด SUP
-      href: /guides/sup-size-guide/
-    - title: ศูนย์เทคโนโลยี SUP
-      href: /research/
-    - title: การดูแลรักษา SUP
-      href: /technology/
-    - title: คู่มือทัวร์ริ่ง
-      href: /guides/sup-for-touring/
-    - title: เทคนิคการพาย
-      href: /technology/
+    - title: 'Pool Setup Guide'
+      href: '/guides/pool-setup-guide/'
+    - title: 'Inflatable vs Rigid Pools'
+      href: '/compare/inflatable-vs-hardboard/'
+    - title: 'Water Safety Guide'
+      href: '/learn/water-safety/'
+    - title: 'Materials Reference'
+      href: '/learn/materials/'
+    - title: 'Pool Buying Guide'
+      href: '/guides/choosing-a-drop-stitch-pool/'
+    - title: 'Pool Filtration Guide'
+      href: '/guides/pool-filtration-guide/'
+    - title: 'Pool Tech Center'
+      href: '/research/'
+    - title: 'Pool Water Care'
+      href: '/guides/pool-water-care/'
+    - title: 'Winter Storage Guide'
+      href: '/guides/pool-winter-storage/'
+    - title: 'Site Preparation Guide'
+      href: '/guides/pool-site-preparation/'
+
 cta:
-  title: เริ่มสำรวจ
-  subtitle: ดำดิ่งสู่ฐานความรู้ของเราและรับข้อมูลที่คุณต้องการสำหรับการผจญภัยทางน้ำครั้งต่อไป
+  title: 'Start exploring'
+  subtitle: 'Dive into our knowledge base and get the information you need for your backyard pool.'
   actions:
     - variant: primary
-      text: เรียกดูคำแนะนำทั้งหมด
-      href: /academy/
-    - text: สำรวจกราฟความรู้
-      href: /knowledge/
+      text: 'Browse all guides'
+      href: '/academy/'
+    - text: 'Explore Knowledge Graph'
+      href: '/knowledge/'

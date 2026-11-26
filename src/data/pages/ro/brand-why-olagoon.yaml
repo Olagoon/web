@@ -1,72 +1,72 @@
 meta:
-  title: 'De ce olagoon — 7 motive pentru care mărcile globale ne aleg | {SITE}'
-  description: 'De ce aleg mărcile globale pe olagoon: certificări CE și ISO, MOQ flexibil, forme personalizate și termen de livrare de 30 de zile dintr-o fabrică profesionistă de SUP.'
+  title: 'Why olagoon — 7 Reasons Global Brands Choose Us | {SITE}'
+  description: 'Why global brands choose olagoon: CE and ISO certifications, flexible MOQ, custom molds, and 30-day lead times from a professional inflatable pools factory.'
   keywords:
-    - 'de ce olagoon'
-    - 'producător plăci de SUP gonflabile'
-    - 'fabrica SUP China'
-    - 'furnizor de paddle board-uri gonflabile'
+    - 'why choose olagoon'
+    - 'inflatable pools manufacturer'
+    - 'pool factory china'
+    - 'inflatable pool supplier'
 hero:
-  tagline: De ce olagoon
-  title: Șapte motive pentru care mărcile globale<br />aleg olagoon
-  subtitle: Nu toți producătorii sunt egali. Iată ce face din olagoon partenerul preferat pentru distribuitori, mărci și operatori din întreaga lume.
+  tagline: Why olagoon
+  title: 'Seven Reasons Why Global Brands<br />Choose olagoon'
+  subtitle: 'Not all manufacturers are created equal. Here is what makes olagoon the preferred partner for distributors, brands, and operators worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: calitatea și expertiza de producție olagoon
+    alt: olagoon manufacturing quality and expertise
 stats:
-  title: Încredere în cifre
+  title: Trust in Numbers
   stats:
-    - title: Ani de activitate
-      amount: Din 2012
-    - title: Plăci fabricate
+    - title: Years in Business
+      amount: Since 2012
+    - title: Pools Built
       amount: 15,000+
-    - title: Clienți fideli
-      amount: 85%
-    - title: Cereri de garanție
-      amount: <2%
+    - title: Repeat Customers
+      amount: '85%'
+    - title: Warranty Claims
+      amount: '<2%'
 features3_reasons:
-  tagline: De ce să alegeți olagoon
-  title: Șapte motive pentru a partenera cu noi
+  tagline: Why Choose olagoon
+  title: 'Seven Reasons to Partner With Us'
   isBeforeContent: false
   columns: 3
   items:
-    - title: 1. Producție reală, nu intermediere
-      description: Deținem și operăm o fabrică de 12.000 m². Când partenerați cu olagoon, lucrați direct cu oamenii care proiectează, ingineresc și construiesc produsele dvs. — fără intermediari.
+    - title: '1. Real Manufacturing, Not Trading'
+      description: 'We own and operate a 12,000 m² factory. When you partner with olagoon, you work directly with the people who design, engineer, and build your products — no middlemen.'
       icon: tabler:building-factory
-    - title: 2. Abordare condusă de inginerie
-      description: Procesul nostru de proiectare începe cu cazul de utilizare, nu cu categoria de produs. Optimizăm forma carenei, selecția materialelor și configurarea pentru modul în care placa va fi efectiv utilizată.
+    - title: '2. Engineering-Led Approach'
+      description: 'Our design process starts with the use case, not the product category. We optimize wall structure, material selection, and configuration for how the pool will actually be used.'
       icon: tabler:engine
-    - title: 3. Calitate certificată
-      description: Certificat CE, sistem de calitate ISO, conform BSCI, conform REACH, aprobat USCG. Fiecare produs îndeplinește standarde internaționale — nu doar afirmații.
+    - title: '3. Certified Quality'
+      description: 'CE certified, ISO quality system, BSCI compliant, REACH compliant, USCG approved. Every product meets international standards — not just claims.'
       icon: tabler:certificate
-    - title: 4. Co-Branding flexibil
-      description: Culorile bordurilor, aspectul punții, branding, ambalare — personalizăm conform specificațiilor dvs. Fără presiunea comenzii minime. Începeți cu un prototip, scalați cu încredere.
+    - title: '4. Flexible Co-Branding'
+      description: 'Rail colors, deck layout, branding, packaging — we customize to your specifications. No minimum order pressure. Start with a prototype, scale with confidence.'
       icon: tabler:adjustments
-    - title: 5. Logistică globală
-      description: Depozit în SUA în California, expediere directă din Qingdao, transport aerian pentru comenzi urgente. Ne ocupăm de documentația vamală și acte.
+    - title: '5. Global Logistics'
+      description: 'US warehouse in California, direct shipping from Qingdao, air freight for urgent orders. We handle customs paperwork and documentation.'
       icon: tabler:truck-delivery
-    - title: 6. Suport pe toată durata de viață
-      description: Susținem plăcile pe care le-am construit acum 20 de ani. Piese de schimb originale, sfaturi tehnice, îndrumări de reparație — echipa noastră este disponibilă când aveți nevoie de noi.
+    - title: '6. Lifetime Support'
+      description: 'We support every pool generation we have built. Genuine spare parts, technical advice, repair guidance — our team is available when you need us.'
       icon: tabler:lifebuoy
-    - title: 7. Specificații oneste
-      description: Evaluări reale de sarcină, dimensiuni reale, greutate reală. Fără umflare de marketing. Ceea ce publicăm este ceea ce primiți — verificat prin testare independentă.
+    - title: '7. Honest Specifications'
+      description: 'Real load ratings, real dimensions, real weight. No marketing inflation. What we publish is what you get — verified by independent testing.'
       icon: tabler:ruler-measure
 testimonials:
-  tagline: De încredere pentru branduri din întreaga lume
-  title: Ce spun partenerii noștri
+  tagline: Trusted by Brands Worldwide
+  title: What Our Partners Say
   items:
-    - content: Am lucrat cu mai mulți producători din China, dar olagoon se remarcă prin suportul lor ingineresc și calitatea constantă. Tratează marca noastră ca pe a lor.
-      name: — Partener Co-Brand, marcă europeană de sporturi nautice
-    - content: Plăcile lor SUP sunt în serviciul flotei noastre de peste 5 ani. Întreținere minimă, rezistență UV excelentă. Garanția de 5 ani ne dă încredere.
-      name: — Operator de flotă, grup de resorturi din Orientul Mijlociu
-    - content: Echipa olagoon ne-a ajutat să dezvoltăm un design personalizat de placă SUP, de la concept la producție, în 90 de zile. Calitatea a depășit așteptările noastre.
-      name: — Distribuitor, sporturi nautice australiene
+    - content: 'We have worked with several manufacturers in China, but olagoon stands out for their engineering support and consistent quality. They treat our brand as their own.'
+      name: '— Co-Brand Partner, European Water Sports Brand'
+    - content: 'Their pools have been in service with our fleet for over 5 years. Minimal maintenance, excellent UV resistance. The 5-year warranty gives us confidence.'
+      name: '— Fleet Operator, Middle East Resort Group'
+    - content: 'The olagoon team helped us develop a custom pools design from concept to production in 90 days. The quality exceeded our expectations.'
+      name: '— Distributor, Australian Watersports'
 cta:
-  title: Sunteți gata să experimentați diferența?
-  subtitle: Contactați echipa noastră pentru a discuta proiectul dvs. Fără angajament — doar sfaturi oneste despre fabricație.
+  title: 'Ready to experience the difference?'
+  subtitle: 'Contact our team to discuss your project. No commitment required — just honest advice about manufacturing.'
   actions:
     - variant: primary
-      text: Discutați cu echipa noastră
+      text: Talk to our team
       href: /contact/
-    - text: Descarcă catalogul de produse
+    - text: Download product catalog
       href: /resources/download-catalog/

@@ -1,72 +1,72 @@
 meta:
-  title: 'מומחיות ימית — הנדסה בכל גוף | {SITE}'
-  description: 'עשרות שנות הנדסה ימית בכל גוף. olagoon שולטת ב-Drop-Stitch, ב-PVC ימי ובעיצוב SUP ניפחים מקצועי.'
+  title: 'Marine Expertise — Engineering in Every Hull | {SITE}'
+  description: 'Decades of marine engineering in every hull. olagoon masters drop stitch, marine PVC, and professional inflatable pools design.'
   keywords:
-    - 'הנדסה ימית'
-    - 'יצרן SUP ניפחים'
-    - 'ייצור לוחות חתירה'
+    - 'marine engineering'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: 'מומחיות ימית'
-  title: 'עשרות שנות הנדסה ימית<br />בכל גוף'
-  subtitle: 'olagoon משלבת מדע חומרים עמוק, ייצור מדויק ובדיקות בתנאים אמיתיים כדי לייצר כלי שיט שמתפקדים כשזה חשוב.'
+  tagline: Marine Expertise
+  title: 'Decades of Marine Engineering<br />in Every Hull'
+  subtitle: 'olagoon combines deep material science, precision manufacturing, and real-world testing to produce watercraft that perform when it matters.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: 'צוות ההנדסה הימית והמו״פ של olagoon בעבודה'
+    alt: olagoon marine engineering and R&D team at work
 expertise_materials:
-  tagline: 'מדע חומרים'
-  title: 'בחירת החומר הנכון<br />לכל יישום'
-  subtitle: 'אנו עובדים עם שני חומרי ליבה — כל אחד נבחר עבור מקרי שימוש ודרישות ביצועים ספציפיים.'
+  tagline: Material Science
+  title: 'Choosing the Right Material<br />for Every Application'
+  subtitle: 'We work with two core materials — each selected for specific use cases and performance requirements.'
   columns: 3
   items:
-    - title: 'PVC בדרגה ימית'
-      description: 'בד PVC בעוצמת 1100 דנייר — החומר הרב-גוני ביותר שלנו. מיוצב UV, עמיד לשחיקה ועומד בדרישות REACH. אידיאלי ללוחות SUP שבהם משקל ויעילות עלות חשובים.'
+    - title: Marine-Grade PVC
+      description: '1100 denier PVC fabric — our most versatile material. UV-stabilized, abrasion-resistant, and REACH compliant. Ideal for pools where weight and cost efficiency matter.'
       icon: tabler:droplet
-    - title: 'פיברגלס ופוליאתילן'
-      description: 'לוחות SUP מצופי פיברגלס לקשיחות והחלקה פרימיום. פוליאתילן ברוטומולדינג לשימוש כבד בהשכרה ובחילוץ הדורש עמידות מקסימלית לפגיעות.'
+    - title: Fibreglass & Polyethylene
+      description: 'Fibreglass-laminated pools for premium stiffness and glide. Rotomoulded polyethylene for heavy-duty rental and rescue use requiring maximum impact resistance.'
       icon: tabler:building-arch
 expertise_manufacturing:
-  tagline: 'יכולות ייצור'
-  title: 'ייצור מדויק<br />בכל שלב'
-  subtitle: 'המתקן שלנו בשטח 12,000 מ״ר מצויד במכונות מיוחדות לכל שלבי הייצור.'
+  tagline: Manufacturing Capabilities
+  title: 'Precision Manufacturing<br />at Every Step'
+  subtitle: 'Our 12,000 m² facility is equipped with specialized machinery for every stage of production.'
   columns: 2
   items:
-    - title: 'חיתוך CNC'
-      description: 'חיתוך בבקרה ממוחשבת מבטיח לוחות בד מדויקים וחזרים עם בזבוז מינימלי. כל חלק מתאים בדיוק כפי שתוכנן.'
+    - title: CNC Cutting
+      description: 'Computer-controlled cutting ensures precise, repeatable fabric panels with minimal waste. Every piece fits exactly as designed.'
       icon: tabler:cpu
-    - title: 'ריתוך בתדירות גבוהה'
-      description: 'ריתוך HF תעשייתי יוצר תפרים חזקים יותר מחומר הבסיס. בקרת טמפרטורה ולחץ עקבית מבטיחה אטימות לאוויר בכל ריצת ייצור.'
+    - title: High-Frequency Welding
+      description: 'Industrial HF welding creates seams stronger than the base material. Consistent temperature and pressure control ensures air-tight seals across every production run.'
       icon: tabler:bolt
-    - title: 'הרכבת ליבת Drop-Stitch'
-      description: 'אלפי חוטי פוליאסטר מחברים בין שכבות הבד העליונה והתחתונה, ומאפשרים ניפוח בלחץ גבוה (15-20 PSI) ללוחות SUP קשיחים ויציבים.'
+    - title: Drop Stitch Core Assembly
+      description: 'Thousands of polyester threads connect top and bottom fabric layers, allowing high-pressure inflation (15-20 PSI) for rigid, stable pools.'
       icon: tabler:building-arch
-    - title: 'בדיקות לחץ'
-      description: 'כל מוצר ניפחים עובר בדיקת לחץ לפני המשלוח. הלוחות נבדקים בלחץ של פי 1.25 מהלחץ המדורג — אם הוא עומד שם, הוא יתפקד על המים.'
+    - title: Pressure Testing
+      description: 'Every inflatable product is pressure-tested before shipping. Pools are tested at 1.25x rated pressure — if it holds there, it will perform on the water.'
       icon: tabler:wind
-    - title: 'בדיקת חוזק תפרים'
-      description: 'דגימות אקראיות מכל מחלקת ייצור עוברות בדיקת חוזק תפרים הרסנית. התוצאות נרשמות וניתנות למעקב עד לריצות ייצור ספציפיות.'
+    - title: Seam Strength Testing
+      description: 'Random samples from each production batch undergo destructive seam strength testing. Results are logged and traceable to specific production runs.'
       icon: tabler:files
-    - title: 'בדיקות במים'
-      description: 'כל דגם עובר הפלגות ניסוי בים לפני ההסמכה. בדיקות בתנאים אמיתיים בסביבת חוף מאמתות ביצועים, התנהגות ויציבות.'
+    - title: Water Testing
+      description: 'Every model undergoes sea trials before certification. Real-world testing in coastal conditions validates performance, handling, and stability.'
       icon: tabler:droplet
 expertise_design:
-  tagline: 'עיצוב והנדסה'
-  title: 'מהונדס לתנאים אמיתיים'
-  subtitle: 'פילוסופיית העיצוב שלנו מתחילה באופן שבו הלוח ישמש — ואז בונה את ההנדסה סביב מקרה השימוש הזה.'
+  tagline: Design & Engineering
+  title: 'Engineered for Real Conditions'
+  subtitle: 'Our design philosophy starts with how the pool will be used — then builds the engineering around that use case.'
   items:
-    - title: 'עיצוב גוף לביצועים'
-      description: 'צורת כל גוף מכווננת למקרה השימוש שלו — חרטום דחיפה להחלקה בטיולים, רוקר מוגבר לזריזות בגלים, פרופילים שטוחים ויציבים לדיג וליוגה.'
-    - title: 'בטיחות Drop-Stitch'
-      description: 'כל לוח כולל ליבת Drop-Stitch קשיחה עם דפנות מחוזקות. אם מקטע נפגע, מבנה ה-Drop-Stitch הכוחני שומר על הלוח תפעולי.'
-    - title: 'פריסת סיפון ארגונומית'
-      description: 'חלוקת שכבת הסיפון, מיקום ידית הנשיאה ונקודות ההרכבה מעוצבים סביב נוחות הרוכב בשימוש ממושך — בטיולים, בדיג או בסיורים.'
-    - title: 'תצורה מותאמת אישית'
-      description: 'צבעי דפנות, תצורת שכבת סיפון, עגנים לאביזרים, קיבולת ציוד — כל דגם ניתן להתאמה אישית לדרישות תפעוליות ספציפיות.'
+    - title: Performance Hull Design
+      description: 'Each pool is tuned for its use case — compact footprints for plunge soaking, family-sized layouts for play, and generous swim areas for daily laps.'
+    - title: Drop-Stitch Safety
+      description: 'Every pool features a rigid drop-stitch core with reinforced walls. If a section is damaged, the high-tensile drop-stitch structure keeps the pool operational.'
+    - title: Ergonomic Deck Layout
+      description: 'Deck-pad zoning, carry-handle position, and mounting points are designed around rider comfort during extended use — whether touring, fishing, or patrolling.'
+    - title: Custom Configuration
+      description: 'Rail colors, deck pad configuration, accessory mounts, gear capacity — each model can be customized to match specific operational requirements.'
 cta:
-  title: 'יש לכם יישום ספציפי בראש?'
-  subtitle: 'צוות ההנדסה שלנו יכול לייעץ על בחירת חומרים, עיצוב וייצור עבור הפרויקט שלכם.'
+  title: 'Have a specific application in mind?'
+  subtitle: 'Our engineering team can advise on material selection, design, and manufacturing for your project.'
   actions:
     - variant: primary
-      text: 'שאלו את המהנדסים שלנו'
+      text: Ask our engineers
       href: /contact/
-    - text: 'צפו בטווח המוצרים'
+    - text: View product range
       href: /products/

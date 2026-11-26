@@ -1,60 +1,60 @@
 meta:
-  title: 'Ako funguje certifikácia CE pre nafukovacie plavidlá | {SITE}'
-  description: 'Kompletný sprievodca certifikáciou CE pre nafukovacie dosky SUP a kajaky. Platné smernice (2013/53/EU RCD, PPE 2016/425), testovacie protokoly, notifikované subjekty, požiadavky na technický spis a povinnosti výrobcu.'
-back_text: 'Späť na výskum'
+  title: 'How CE Certification Works for Inflatable Watercraft | {SITE}'
+  description: 'Complete guide to CE certification for inflatable pools. Applicable standards and directives for domestic pools, testing protocols, notified bodies, technical file requirements, and manufacturer obligations.'
+back_text: 'Back to Research'
 
 hero:
-  tagline: 'Súlad'
-  title: 'Ako funguje certifikácia CE pre nafukovacie plavidlá'
-  subtitle: 'Čítanie na 7 minút'
+  tagline: 'Compliance'
+  title: 'How CE Certification Works for Inflatable Watercraft'
+  subtitle: '7 min read'
 
 content_html: |
-  <h2>Čo je certifikácia CE?</h2>
-  <p>Označenie CE (Conformit&eacute; Europ&eacute;enne) označuje, že výrobok spĺňa požiadavky EÚ na zdravie, bezpečnosť a životné prostredie. Pre nafukovacie plavidlá závisí príslušný regulačný rámec od kategórie výrobku.</p>
+  <h2>What Is CE Certification?</h2>
+  <p>CE marking (Conformit&eacute; Europ&eacute;enne) indicates that a product meets EU health, safety, and environmental requirements. For inflatable watercraft, the relevant regulatory framework depends on the product category.</p>
 
-  <h2>Platné smernice</h2>
+  <h2>Applicable Directives</h2>
 
-  <h3>Smernica o rekreačných plavidlách (2013/53/EU)</h3>
-  <p>Hlavná smernica pre rekreačné plavidlá v EÚ. Nafukovacie dosky SUP pod 2,4 m spadajú mimo jej rozsah a namiesto toho sú certifikované podľa EN ISO 25649.</p>
+  <h3>Recreational Craft Directive (2013/53/EU)</h3>
+  <p>The primary directive for recreational craft in the EU. inflatable pools under 2.4 m fall outside its scope and are instead certified under EN ISO 25649.</p>
 
-  <h3>Nariadenie o osobných ochranných prostriedkoch (2016/425)</h3>
-  <p>Záchranné vesty, plavacie pomôcky a bezpečnostné vybavenie dodávané s plavidlami musia spĺňať požiadavky nariadenia PPE, vrátane typového skúšania (Modul B) notifikovaným subjektom a zabezpečenia kvality výroby (Modul D alebo E).</p>
+  <h3>Personal Protective Equipment Regulation (2016/425)</h3>
+  <p>Life jackets, buoyancy aids, and safety equipment supplied with watercraft must meet PPE Regulation requirements, including type examination (Module B) by a notified body and production quality assurance (Module D or E).</p>
 
-  <h2>Proces certifikácie</h2>
+  <h2>The Certification Process</h2>
   <ol>
-    <li>Klasifikácia výrobku: Určenie kategórie dizajnu plavidla (A – D podľa ISO 8666)</li>
-    <li>Platné normy: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (výrobná tabuľka)</li>
-    <li>Príprava technického spisu: Výkresy dizajnu, kusovník, certifikáty materiálov, posúdenie rizík</li>
-    <li>Typové skúšanie: Vztlak, stabilita, nosnosť, testovanie materiálov, pevnosť švov, udržanie vzduchu</li>
-    <li>Kontrola výroby vo výrobe: Audit výrobných procesov notifikovaným subjektom</li>
-    <li>Deklarácia zhody: Výrobca podpíše DoC a umiestni označenie CE</li>
+    <li>Product classification: Determine craft design category (A – D per ISO 8666)</li>
+    <li>Applicable standards: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (builder's plate)</li>
+    <li>Technical file preparation: Design drawings, Bill of Materials, material certificates, risk assessment</li>
+    <li>Type testing: Buoyancy, stability, load capacity, material testing, seam strength, air retention</li>
+    <li>Factory production control: Notified body audit of manufacturing processes</li>
+    <li>Declaration of Conformity: Manufacturer signs DoC, affixes CE marking</li>
   </ol>
 
-  <h2>Notifikované subjekty pre nafukovacie plavidlá</h2>
-  <p>Bežné NS zahŕňajú Bureau Veritas (Francúzsko), DNV GL (Nemecko), RINA (Taliansko), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (Nemecko).</p>
+  <h2>Notified Bodies for Inflatable Watercraft</h2>
+  <p>Common NBs include Bureau Veritas (France), DNV GL (Germany), RINA (Italy), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (Germany).</p>
 
-  <h2>Časový harmonogram a náklady</h2>
+  <h2>Timeline and Costs</h2>
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-gray-100">
-        <th class="p-3 text-left font-semibold text-gray-900 border">Fáza</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Trvanie</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Typický náklad (EUR)</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Phase</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Duration</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Typical Cost (EUR)</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="p-3 border">Príprava technického spisu</td><td class="p-3 border">2 – 4 týždne</td><td class="p-3 border">2,000 – 5,000</td></tr>
-      <tr><td class="p-3 border">Typové skúšanie</td><td class="p-3 border">4 – 8 týždňov</td><td class="p-3 border">8,000 – 20,000</td></tr>
-      <tr><td class="p-3 border">Audit výroby</td><td class="p-3 border">1 – 2 dni (na mieste)</td><td class="p-3 border">3,000 – 6,000</td></tr>
-      <tr><td class="p-3 border">Spolu (prvý produkt)</td><td class="p-3 border">8 – 14 týždňov</td><td class="p-3 border">13,000 – 31,000</td></tr>
+      <tr><td class="p-3 border">Technical file preparation</td><td class="p-3 border">2 – 4 weeks</td><td class="p-3 border">2,000 – 5,000</td></tr>
+      <tr><td class="p-3 border">Type testing</td><td class="p-3 border">4 – 8 weeks</td><td class="p-3 border">8,000 – 20,000</td></tr>
+      <tr><td class="p-3 border">Factory audit</td><td class="p-3 border">1 – 2 days (on-site)</td><td class="p-3 border">3,000 – 6,000</td></tr>
+      <tr><td class="p-3 border">Total (first product)</td><td class="p-3 border">8 – 14 weeks</td><td class="p-3 border">13,000 – 31,000</td></tr>
     </tbody>
   </table>
 
-  <h2>Čo to znamená pre kupujúcich</h2>
-  <p>Pri nákupe certifikovaných nafukovacích dosiek SUP si vždy overte, že označenie CE je na výrobnej tabuľke, existuje platná DoC, je uvedené číslo notifikovaného subjektu a manuál pre vlastníka obsahuje bezpečnostné pokyny vo vašom miestnom jazyku. Všetky produkty OLagoon nesú certifikáciu CE s plnou sledovateľnosťou k audítorským správam notifikovaného subjektu.</p>
+  <h2>What This Means for Buyers</h2>
+  <p>When purchasing CE-certified inflatable pools, always verify the CE marking is on the builder's plate, a valid DoC exists, the Notified Body number is listed, and the owner's manual includes safety instructions in your local language. All OLagoon products carry CE certification with full traceability to notified body audit reports.</p>
 
 cta:
-  title: 'Potrebujete podporu pri certifikácii CE?'
-  subtitle: 'Zabezpečujeme certifikáciu pre partnerov OEM po celom svete.'
-  button_text: 'Spustiť proces certifikácie'
+  title: 'Need CE certification support?'
+  subtitle: 'We handle certification for OEM partners worldwide.'
+  button_text: 'Start the certification process'
   button_link: /contact/

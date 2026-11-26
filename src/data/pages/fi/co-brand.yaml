@@ -1,105 +1,105 @@
 meta:
-  title: 'Co-brand OLagoonin kanssa — rajatut co-branded SUP-kokoelmat | {SITE}'
-  description: 'OLagoon luo rajattuja co-branded-täytettävien SUP-lautojen kokoelmia kelpuutettujen seurojen, lomakohteiden, tapahtumien, yhteisöjen ja maakumppanien kanssa. Co-branded-tuotteet pysyvät OLagoonin tuotteina — suunniteltuina, insinöörisesti toteutettuina ja OLagoonin brändin tukemina.'
+  title: 'Co-Brand With OLagoon — Limited Co-Branded pool Collections | {SITE}'
+  description: 'OLagoon creates limited co-branded inflatable pools collections with qualified clubs, resorts, events, communities, and country partners. Co-branded products remain OLagoon products — designed, engineered, and backed by the OLagoon brand.'
   keywords:
-    - 'co-brand täytettävä SUP'
-    - 'SUP co-branded -kokoelma'
-    - 'SUP-yhteistyö'
-    - 'SUP seuroille ja lomakohteille'
-    - 'vesiurheilubrändin yhteistyö'
+    - 'co-brand inflatable pools'
+    - 'pool co-branded collection'
+    - 'inflatable pool partnership'
+    - 'pool for clubs and resorts'
+    - 'water sports brand collaboration'
     - 'OLagoon co-branding'
 hero:
-  tagline: 'Co-brand OLagoonin kanssa'
-  title: 'Luo<br />co-branded-kokoelma'
-  subtitle: 'OLagoon on maailmanlaajuinen täytettävien vesiurheilutuotteiden brändi, joka rakentaa yksinomaisia maakumppanuuksia ja rajattuja co-branded-kokoelmia kelpuutettujen vesiurheiluyritysten kanssa. Co-branded-tuotteet pysyvät OLagoonin tuotteina — suunniteltuina, insinöörisesti toteutettuina, laaduntarkastettuina ja OLagoonin brändin tukemina.'
+  tagline: 'Co-Brand With OLagoon'
+  title: 'Create a<br />Co-Branded Collection'
+  subtitle: 'OLagoon is a global inflatable water-sports brand building exclusive country partnerships and limited co-branded collections with qualified water-sports businesses. Co-branded products remain OLagoon products — designed, engineered, quality-checked, and backed by the OLagoon brand.'
   actions:
-    - text: 'Aloita co-brand-projekti'
+    - text: 'Start a Co-Brand Project'
       href: /contact/?subject=Co-Brand Project
       variant: primary
-    - text: 'Pyydä Co-Brand-paketti'
+    - text: 'Request the Co-Brand Pack'
       href: /contact/?subject=Co-Brand Pack
       variant: secondary
-    - text: 'Tutustu maakumppanuuteen'
+    - text: 'Explore the Country Partnership'
       href: /distributor-program/
       variant: secondary
 stats:
   - value: '1'
-    label: 'Maaoikeus / markkina kullekin jakelijalle'
+    label: 'Country call / market for each distributor'
   - value: '50+'
-    label: 'Maata palveltu kumppaneiden kanssa'
+    label: 'Countries served with partners'
   - value: '12–15'
-    label: 'PSI drop-stitch-jäykkyys, kokoelmastandardi'
+    label: 'PSI drop-stitch rigidity, collection standard'
   - value: '100%'
-    label: 'Painetestattu lauta laudalta ennen toimitusta'
+    label: 'Pressure-tested board by board before shipping'
 features:
-  title: 'Mitä co-branding tarkoittaa OLagoonilla'
-  subtitle: 'Co-branding on suunnittelukumppanuusohjelmamme — rakennettu OLagoonin brändin, alueiden suojan ja rajattujen kokoelmien ympärille, ei brändittömän tuotannon.'
+  title: 'What Co-Branding Means at OLagoon'
+  subtitle: 'Co-branding is our design-partnership program — built around the OLagoon brand, territory protection, and limited collections, not unbranded production.'
   columns: 3
   items:
-    - title: 'OLagoonin tuotteet pysyvät OLagoonin tuotteina'
-      description: 'Co-branded-kokoelma on rajattu painos OLagoonin lautoja identiteettisi kudottuna osaksi. Se ei ole koskaan bränditön, ei koskaan kolmannen osapuolen brändi eikä avoin oma-merkki-ohjelma.'
+    - title: 'OLagoon Products Stay OLagoon Products'
+      description: 'A co-branded collection is a limited edition of OLagoon boards with your identity woven in. It is never unbranded, never a third-party brand, and never an open private-label program.'
       icon: 'tabler:trademark'
-    - title: 'Suunniteltu kanssasi'
-      description: 'Värisi, nimeämisesi ja tarinasi muovaavat kokoelmaa. Suunnittelu- ja insinööritiimimme hoitaa kannet, grafiikat, pakkaukset ja dokumentaation briefistä toimitukseen.'
+    - title: 'Designed With You'
+      description: 'Your colors, naming, and story shape the collection. Our design and engineering team handles decks, graphics, packaging, and documentation from brief to delivery.'
       icon: 'tabler:pencil'
-    - title: 'Seuroille, lomakohteille, tapahtumille & yhteisöille'
-      description: 'Laivastokokoelmia melontaseuroille ja lomakohteille, tapahtumapainoksia kilpailuihin ja yhteisösarjoihin — kaikki OLagoonin laadulla ja takuulla.'
+    - title: 'For Clubs, Resorts, Events & Communities'
+      description: 'Fleet collections for paddle clubs and resorts, event editions for races and community series — all carrying the OLagoon quality and warranty.'
       icon: 'tabler:users'
-    - title: 'Suojaa maakumppanit'
-      description: 'Co-branding toimii rinnakkain yksi maa – yksi jakelija -mallimme kanssa. Kansalliset kumppanit pitävät alueensa; co-brand-kokoelmat eivät avaa ovea rinnakkaisbrändeille heidän markkinoillaan.'
+    - title: 'Protects Country Partners'
+      description: 'Co-branding runs alongside our one-country-one-distributor model. National partners keep their territory; co-brand collections do not open the door to parallel brands in their market.'
       icon: 'tabler:shield-check'
-    - title: 'Insinöörityö & laatustandardit'
-      description: 'Jokainen kokoelma toimitetaan sertifioitua toimitusketjuamme pitkin CE- ja ISO 9001 -dokumentaatiolla, painetestauksella ja samoilla QC-tarkistuspisteillä kuin ydinvalikoimassamme.'
+    - title: 'Engineering & Quality Standards'
+      description: 'Every collection ships from our certified supply chain with CE and ISO 9001 documentation, pressure-testing, and the same QC checkpoints as our core range.'
       icon: 'tabler:certificate'
-    - title: 'Muodostuu brändiomaisuudeksi'
-      description: 'Rajattu co-branded-kokoelma rakentaa omaa tarinaasi vedessä — myyntikatetta, mediasisältöä ja syytä melojille palata kausi kaudelta.'
+    - title: 'Becomes a Brand Asset'
+      description: 'A limited co-branded collection builds your own story on the water — sell-through margin, media content, and a reason for swimmers to come back season after season.'
       icon: 'tabler:star'
 table:
-  title: 'Co-brand-kokoelmien tasot'
-  subtitle: 'Tyypilliset co-brand-kokoelmien ehdot. Hinnat USD, FOB Qingdao. Räätälöidyt kansiratkaisut lisäävät 15–20 työpäivää kehitykseen; uudet muotit hinnoitellaan projektittain.'
-  caption: 'Kaikki co-branded-tuotteet pysyvät OLagoonin tuotteina ja kantavat OLagoonin brändi-identiteettiä. Projektin laajuus, yksinoikeusikkuna ja lopulliset ehdot sovitaan Co-Brand Project Agreementissa.'
+  title: 'Co-Brand Collection Tiers'
+  subtitle: 'Typical co-brand collection terms. Prices in USD, FOB Qingdao. Custom deck designs add 15–20 working days for development; new molds are quoted per project.'
+  caption: 'All co-branded products remain OLagoon products and carry the OLagoon brand identity. Project scope, exclusivity window, and final terms are agreed in the Co-Brand Project Agreement.'
   head:
-    - Co-brand-taso
-    - Vähimmäistilaus (kpl)
-    - Läpimenoaika
-    - Maksu
+    - Co-Brand Tier
+    - Minimum Order (units)
+    - Lead Time
+    - Payment
   rows:
-    - [Pilot-kokoelma, 30–50, 30–45 työpäivää, 30% käsiraha / 70% ennen toimitusta]
-    - [Vakio co-branded-kokoelma, 50–100, 30–45 työpäivää, 30% käsiraha / 70% ennen toimitusta]
-    - [Suuri / monialueinen kokoelma, 100+, 45–60 työpäivää, 30% käsiraha / 70% ennen toimitusta]
-    - [Uusi muotti tai syvä lokalisointi, 200+, 60–90 työpäivää, 30% käsiraha / 70% ennen toimitusta]
+    - [Pilot Collection, 30–50, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Standard Co-Branded Collection, 50–100, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Large / Multi-Region Collection, 100+, 10–14 weeks, 30% deposit / 70% before shipment]
+    - [New Mold or Deep Localization, 200+, 12–16 weeks + 15–20 days tooling, 30% deposit / 70% before shipment]
 faqs:
-  title: 'Co-brand — UKK'
-  subtitle: 'Miten OLagoonin co-branding toimii ja miten se eroaa OEM:sta ja omasta merkistä.'
+  title: 'Co-Brand — FAQ'
+  subtitle: 'How OLagoon co-branding works, and how it differs from OEM and private label.'
   items:
-    - title: 'Onko co-branding sama asia kuin OEM tai oma merkki?'
-      description: 'Ei. OLagoon ei enää ylläpidä avointa OEM-/oma-merkki-ohjelmaa. Co-branded-tuotteet pysyvät OLagoonin tuotteina — suunniteltuina, insinöörisesti toteutettuina, laaduntarkastettuina ja OLagoonin brändin tukemina. Identiteettisi näkyy co-brandina, ei brändittömänä kolmannen osapuolen tuotteena.'
-    - title: 'Kuka voi aloittaa co-brand-projektin?'
-      description: 'Kelpuutetut vesiurheiluyritykset: nykyiset maakumppanit, melontaseurat, lomakohteet ja hotellit, tapahtumajärjestäjät ja yhteisöt. Lähetä projektibrief, niin vahvistamme soveltuvuuden ennen suunnittelun aloittamista.'
-    - title: 'Ajautuuko co-branding ristiriitaan maasi jakelijan kanssa?'
-      description: 'Ei. Yksi maa – yksi jakelija -mallilla on etusija. Co-brand-kokoelmat sovitetaan yhteen paikallisen maakumppanin kanssa silloin kun sellainen on, joten suojatulle alueelle ei ilmesty rinnakkais- tai kilpailevaa brändiä.'
-    - title: 'Mikä on co-brand-kokoelman vähimmäistilaus?'
-      description: 'Pilot-kokoelmat alkavat 30–50 kappaleesta. Vakiokokoelmat ovat 50–100 kpl; suuret tai monialueiset painokset 100+ kpl. Räätälöityjen mallien kehitysaikataulut sovitaan projektittain.'
-    - title: 'Mitä on OLagoonin laatu ja mitä kumppanin panos?'
-      description: 'OLagoon omistaa tuotesuunnittelun, insinöörityön, materiaalit, rakenteet, laadunvalvonnan ja takuun. Kumppanit tuovat kokoelman konseptin, nimeämisen, värit, grafiikan ja markkinoilleviennin. Näin vedessä pysyy yksi laatustandardi.'
-    - title: 'Miten haen?'
-      description: 'Täytä co-brand-yhteydenottolomake yrityksesi, markkinasi ja kokoelmaideasiasi kanssa. Arvioimme soveltuvuuden ja vastaamme 3 arkipäivässä ehdotuksella ja Co-Brand Project Agreementilla.'
+    - title: 'Is co-branding the same as OEM or private label?'
+      description: 'No. OLagoon no longer runs an open OEM/private-label program. Co-branded products remain OLagoon products — designed, engineered, quality-checked, and backed by the OLagoon brand. Your identity appears as a co-brand, not as an unbranded third-party product.'
+    - title: 'Who can start a co-brand project?'
+      description: 'Qualified water-sports businesses: existing country partners, paddle clubs, resorts and hotels, event organizers, and communities. Send us a project brief and we confirm applicability before design work begins.'
+    - title: 'Will co-branding conflict with my country distributor?'
+      description: 'No. The one-country-one-distributor model takes priority. Co-brand collections are coordinated with the local country partner where one exists, so no parallel or competing brand appears inside a protected territory.'
+    - title: 'What is the minimum order for a co-brand collection?'
+      description: 'Pilot collections start at 30–50 units. Standard collections are 50–100 units; large or multi-region editions are 100+ units. Custom development timelines are agreed per project.'
+    - title: 'What amounts to OLagoon quality versus partner input?'
+      description: 'OLagoon owns product design, engineering, materials, construction, QC, and warranty. Partners contribute collection concept, naming, colors, graphics input, and go-to-market. This keeps one quality standard on the water.'
+    - title: 'How do I apply?'
+      description: 'Complete the co-brand inquiry form with your business, market, and collection idea. We review fit, then respond within 3 business days with a proposal and the Co-Brand Project Agreement.'
 cta:
-  title: 'Rakenna rajattu kokoelma, jonka vesi muistaa.'
-  subtitle: 'Aloita co-brand-projekti OLagoonin kanssa ja muuta seurasi, lomakohteesi tai yhteisösi brändiksi vedessä — OLagoonin insinöörityön ja takuun tukemana.'
+  title: 'Build a limited collection the water will remember.'
+  subtitle: 'Start a co-brand project with OLagoon and turn your club, resort, or community into a brand on the water — backed by OLagoon engineering and warranty.'
   actions:
-    - text: 'Aloita co-brand-projekti'
+    - text: 'Start a Co-Brand Project'
       href: /contact/?subject=Co-Brand Project
       variant: primary
-    - text: 'Tutustu maakumppanuuteen'
+    - text: 'Explore Country Partnership'
       href: /distributor-program/
       variant: secondary
 geo:
-  tagline: 'Kenet kanssa teemme co-brandia'
-  sentence: 'OLagoon tekee co-brandia vakiintuneiden vesiurheiluyritysten kanssa — maakumppanit, melontaseurat, lomakohteet ja hotellit, tapahtumajärjestäjät ja melontayhteisöt — jotka haluavat erottuvan, rajatun kokoelman luotettavan maailmanlaajuisen brändin pohjalta.'
+  tagline: 'Who We Co-Brand With'
+  sentence: 'OLagoon co-brands with established water-sports businesses — country partners, paddle clubs, resorts and hotels, event organizers, and swimming communities — that want a distinctive, limited collection built on a reliable global brand.'
   audiences:
-    - 'Maajakelijat'
-    - 'Melonta- & vesiurheiluseurat'
-    - 'Lomakohteet & hotellit'
-    - 'Kilpailu- & tapahtumajärjestäjät'
-    - 'Melontayhteisöt'
+    - 'Country Distributors'
+    - 'Paddle & Water Sports Clubs'
+    - 'Resorts & Hotels'
+    - 'Race & Event Organizers'
+    - 'swimming Communities'

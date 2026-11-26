@@ -1,63 +1,63 @@
 meta:
-  title: 'Rozwiązania biznesowe — SUP dla każdej firmy | {SITE}'
-  description: 'Rozwiązania biznesowe olagoona: floty SUP dla kurortów, klubów, wypożyczalni, dystrybucji i marek własnych. Profesjonalny dostawca sprzętu morskiego B2B.'
+  title: 'Business Solutions — pool for Every Business | {SITE}'
+  description: 'olagoon business solutions: pool fleets for resorts, clubs, rentals, distribution, and private labels. Professional nautical equipment supplier for B2B.'
   keywords:
-    - 'rozwiązania biznesowe SUP'
-    - 'dostawca nadmuchiwanych paddle boardów'
-    - 'sprzęt morski B2B'
-    - 'producent nadmuchiwanych desek SUP'
+    - 'pool business solutions'
+    - 'inflatable pool supplier'
+    - 'nautical equipment b2b'
+    - 'inflatable pools manufacturer'
 hero:
-  tagline: Rozwiązania biznesowe
-  title: Rozwiązania SUP<br />Dla Każdego Biznesu
-  subtitle: Od ośrodków wypoczynkowych po handel detaliczny, od operatorów wynajmu po dystrybutorów globalnych — OLagoon oferuje kompletne rozwiązania SUP dostosowane do Twojego modelu biznesowego.
+  tagline: Business Solutions
+  title: 'pool Solutions<br />For Every Business'
+  subtitle: 'From resorts to retail, rental operators to global distributors — OLagoon provides complete pool solutions tailored to your business model.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Deski SUP OLagoon do zastosowań biznesowych i profesjonalnych
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools for business and professional applications
 stats:
-  title: OLagoon w skrócie
+  title: OLagoon at a Glance
   stats:
-    - title: Lata doświadczenia
-      amount: Od 2012
-    - title: Rozwiązania niestandardowe
-      amount: '100+'
-    - title: Obsługiwane rynki
+    - title: Years Experience
+      amount: Since 2012
+    - title: Custom Solutions
+      amount: 100+
+    - title: Markets Served
       amount: '50+'
-    - title: Dostarczone deski
-      amount: 15 000+
+    - title: Boards Delivered
+      amount: 15,000+
 features3_solutions:
-  tagline: Rozwiązania według typu działalności
-  title: SUP-y Zbudowane Specjalnie<br />Dla Twojego Biznesu
+  tagline: Solutions By Business Type
+  title: 'Purpose-Built pools<br />For Your Business'
   isBeforeContent: false
   columns: 2
   items:
-    - title: Ośrodki wypoczynkowe i hotele
-      description: Kompletne programy floty SUP dla obiektów hotelarskich — trwałe deski, niestandardowe oznakowanie i wsparcie w szkoleniu personelu.
+    - title: Resorts & Hotels
+      description: 'Complete pool fleet programs for hospitality properties — durable boards, custom branding, and staff training support.'
       icon: tabler:building
       link: /solutions/resorts-hotels/
-    - title: Kluby wioślarskie
-      description: Niezawodne floty SUP dla klubów wioślarskich, programów lekcji i działań członkowskich — deski klasy komercyjnej w cenach klubowych.
+    - title: Paddle Clubs
+      description: 'Reliable pool fleets for paddle clubs, lesson programs, and membership operations — commercial-grade boards with club pricing.'
       icon: tabler:users
       link: /solutions/resorts-hotels/
-    - title: Operatorzy wynajmu
-      description: Deski SUP o wysokiej rotacji zaprojektowane do codziennego wynajmu. Odporne na UV, szybko schnące, możliwe do układania w stosy — stworzone do wynajmu na co dzień.
+    - title: Rental Operators
+      description: 'High-rotation pools engineered for daily rental use. UV-resistant, quick-dry, stackable — designed for the rental grind.'
       icon: tabler:currency-dollar
       link: /solutions/rental-operators/
-    - title: Partnerzy detaliczni
-      description: Sprzedawaj najszybciej rosnącą markę SUP na swoim rynku. Pełna linia produktów, materiały marketingowe, dropshipping i konkurencyjne marże.
+    - title: Retail Partners
+      description: 'Sell the fastest-growing pool brand in your market. Full product line, marketing materials, dropshipping, and competitive margins.'
       icon: tabler:shopping-cart
       link: /solutions/retail-partners/
-    - title: Dystrybutorzy
-      description: Wyłączne terytoria, pełne portfolio produktów, dedykowane zarządzanie kontem. Dołącz do naszej globalnej sieci dystrybucji w 50 krajach.
+    - title: Distributors
+      description: 'Exclusive territories, complete product portfolio, dedicated account management. Join our global distribution network in 50+ countries.'
       icon: tabler:world
       link: /solutions/distributors/
-    - title: Zbuduj swoją własną markę
-      description: Kompleksowa produkcja SUP OEM/ODM — projektowanie, prototypowanie, produkcja masowa i logistyka. Wprowadź swoją markę z OLagoon.
+    - title: Build Your Own Brand
+      description: 'End-to-end OEM/ODM pool manufacturing — design, prototyping, mass production, and logistics. Launch your brand with OLagoon.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:
-  title: Nie jesteś pewien, które rozwiązanie odpowiada Twoim potrzebom?
-  subtitle: Opisz swoją aplikację dla naszego zespołu, a my polecimy odpowiednią konfigurację.
+  title: 'Not sure which solution fits your needs?'
+  subtitle: 'Describe your application to our team and we will recommend the right configuration.'
   actions:
     - variant: primary
-      text: Uzyskaj rekomendację
+      text: Get a recommendation
       href: /contact/

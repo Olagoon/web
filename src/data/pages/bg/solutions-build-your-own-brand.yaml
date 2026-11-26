@@ -1,115 +1,115 @@
 meta:
-  title: 'Производство на SUP под собствена марка и стартиране на персонализирана марка | {SITE}'
-  description: 'Производител на SUP под собствена марка за нови марки дъски за гребане. Стартирайте своя собствена SUP марка с OLagoon — пълна OEM/ODM услуга, включваща проектиране, прототипи, персонализирано брандиране, производство и глобална логистика.'
+  title: 'Private Label pool Manufacturing & Custom Brand Launch | {SITE}'
+  description: 'Private label pool manufacturer for new inflatable pool brands. Launch your own pool brand with OLagoon — full OEM/ODM service including design, prototyping, custom branding, production, and global logistics.'
 
 hero:
-  tagline: Изградете своя собствена марка
-  title: 'Стартирайте своя собствена<br />SUP марка'
-  subtitle: 'Вие имате визията. Ние имаме фабриката, експертизата и веригата за доставки. Производство на SUP под собствена марка и разработване на персонализирани SUP марки — заедно ще изградим марка, която се откроява.'
+  tagline: Build Your Own Brand
+  title: 'Launch Your Own<br />pool Brand'
+  subtitle: "You have the vision. We have the factory, the expertise, and the supply chain. Private label pool manufacturing and custom pool brand development — together, we'll build a brand that stands out."
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Персонализирана брандирана SUP дъска на вода
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: Custom branded pools on water
 
 process:
-  title: Пътят на вашата марка
-  subtitle: 'От идеята до пазара в 5 фази.'
+  title: Your Brand Journey
+  subtitle: 'From idea to market in 5 phases.'
   steps:
-    - phase: 'Фаза 1'
-      title: 'Идея'
-      period: 'Седмица 1-2'
+    - phase: 'Phase 1'
+      title: 'Idea'
+      period: 'Week 1-2'
       items:
-        - 'Пазарно проучване и анализ на конкурентите'
-        - 'Дефиниране на целевия клиент'
-        - 'Семинар за позициониране на марката'
-        - 'Стратегия за продуктовата линия'
-    - phase: 'Фаза 2'
-      title: 'Проектиране'
-      period: 'Седмица 3-6'
+        - 'Market research & competitor analysis'
+        - 'Target customer definition'
+        - 'Brand positioning workshop'
+        - 'Product line strategy'
+    - phase: 'Phase 2'
+      title: 'Design'
+      period: 'Week 3-6'
       items:
-        - 'Форма на дъската и графично проектиране'
-        - 'Съответствие на цветовете и избор на материали'
-        - 'Спецификация на аксесоарите'
-        - 'Проектиране на опаковка и етикети'
-    - phase: 'Фаза 3'
-      title: 'Прототип'
-      period: 'Седмица 7-10'
+        - 'Board shape & graphic design'
+        - 'Color matching & material selection'
+        - 'Accessory specification'
+        - 'Packaging & label design'
+    - phase: 'Phase 3'
+      title: 'Prototype'
+      period: 'Week 7-10'
       items:
-        - 'Производство на мостра'
-        - 'Изпитвания на качеството (налягане, плавателност, UV)'
-        - 'Корекции по дизайна'
-        - 'Финално одобрение'
-    - phase: 'Фаза 4'
-      title: 'Производство'
-      period: 'Седмица 11-14'
+        - 'Sample production'
+        - 'Quality testing (pressure, buoyancy, UV)'
+        - 'Design adjustments'
+        - 'Final approval'
+    - phase: 'Phase 4'
+      title: 'Production'
+      period: 'Week 11-14'
       items:
-        - 'Серийно производство'
-        - 'QC инспекция (за всяка единица)'
-        - 'Морски / въздушен товарен транспорт'
-        - 'Документи за митническо оформяне'
-    - phase: 'Фаза 5'
-      title: 'Стартиране'
-      period: 'Седмица 15-16'
+        - 'Bulk manufacturing'
+        - 'QC inspection (per unit)'
+        - 'Sea freight / air freight'
+        - 'Customs clearance documents'
+    - phase: 'Phase 5'
+      title: 'Launch'
+      period: 'Week 15-16'
       items:
-        - 'Продуктова фотография'
-        - 'Продуктова информация за уебсайта'
-        - 'Маркетингови материали'
-        - 'Подкрепа при стартирането'
+        - 'Product photography'
+        - 'Website product feed'
+        - 'Marketing materials'
+        - 'Launch support'
 
 packages:
-  title: Пакети за стартиране
-  subtitle: 'Пакети, проектирани за всеки етап от растежа на марката.'
+  title: Startup Packages
+  subtitle: 'Packages designed for every stage of brand growth.'
   items:
-    - name: Стартова марка
-      tagline: '50-100 броя · 2 модела дъски'
+    - name: Starter Brand
+      tagline: '50-100 units · 2 board models'
       features:
-        - 'Основен печат на лого'
-        - 'Стандартна опаковка'
-        - 'Поддръжка по имейл'
-    - name: Растяща марка
-      tagline: '300-1 000 броя · 3-5 модела дъски'
+        - 'Basic logo printing'
+        - 'Standard packaging'
+        - 'Email support'
+    - name: Growing Brand
+      tagline: '300-1,000 units · 3-5 board models'
       features:
-        - 'Персонализиран цвят + лого'
-        - 'Персонализирана опаковка'
-        - 'Продуктови снимки'
-        - 'Личен мениджър'
-    - name: Утвърдена марка
-      tagline: '1 000+ броя · Пълна продуктова линия'
+        - 'Custom color + logo'
+        - 'Custom packaging'
+        - 'Product photos'
+        - 'Dedicated manager'
+    - name: Established Brand
+      tagline: '1,000+ units · Full product line'
       features:
-        - 'Пълна персонализация'
-        - 'Премиум опаковка'
-        - 'Маркетингови материали'
-        - 'Приоритетно производство'
+        - 'Full customization'
+        - 'Premium packaging'
+        - 'Marketing collateral'
+        - 'Priority production'
 
 features:
-  title: Защо марките избират OLagoon
-  subtitle: '10+ години OEM опит, пълна сертификация и най-ниското MOQ в индустрията.'
+  title: Why Brands Choose OLagoon
+  subtitle: '10+ years of OEM experience, full certification, and the lowest MOQ in the industry.'
   items:
-    - title: '10+ години OEM опит'
-      description: '2 400+ корпуса, доставени на марки по целия свят.'
+    - title: '10+ Years OEM Experience'
+      description: '2,400+ hulls delivered to brands worldwide.'
       icon: 'tabler:clock'
-    - title: 'Пълна сертификация'
-      description: 'CE / ISO / UKCA / BSCI / REACH — всичко сертифицирано.'
+    - title: 'Full Certification'
+      description: 'CE / ISO / UKCA / BSCI / REACH — all certified.'
       icon: 'tabler:certificate'
-    - title: '30-дневен срок за изпълнение'
-      description: 'По-бързо от средното за индустрията — от поръчката до експедицията.'
+    - title: 'Tiered Lead Times'
+      description: 'Samples in 15–20 days; production in 8–16 weeks by volume.'
       icon: 'tabler:truck-delivery'
-    - title: 'Ниско MOQ'
-      description: 'От 50 броя — най-ниското в индустрията.'
+    - title: 'Low MOQ'
+      description: 'From 50 units — lowest in the industry.'
       icon: 'tabler:package'
-    - title: 'Собствено проектиране'
-      description: 'Пълна дизайнерска подкрепа — от концепцията до финалното художествено оформление.'
+    - title: 'In-House Design'
+      description: 'Full design support from concept to final artwork.'
       icon: 'tabler:palette'
-    - title: 'Глобална логистика'
-      description: 'Морски и въздушен товарен транспорт и подкрепа при митническо оформяне.'
+    - title: 'Global Logistics'
+      description: 'Sea freight, air freight, and customs clearance support.'
       icon: 'tabler:world'
 
 cta:
-  title: 'Готови ли сте да стартирате вашата марка?'
-  subtitle: 'Започнете пътя на вашата марка или изтеглете нашия OEM наръчник.'
+  title: 'Ready to launch your brand?'
+  subtitle: 'Start your brand journey or download our OEM guide.'
   actions:
-    - text: 'Започнете пътя на вашата марка'
+    - text: 'Start Your Brand Journey'
       href: '/contact/?package=oem'
       variant: 'primary'
-    - text: 'Изтеглете OEM наръчника'
+    - text: 'Download OEM Guide'
       href: '/resources/download-catalog/'
       variant: 'secondary'

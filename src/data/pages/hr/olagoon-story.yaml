@@ -1,158 +1,158 @@
 meta:
-  title: 'Naša priča — Proizvođač napuhivih SUP daska | {SITE}'
-  description: 'Od obalne radionice do globalnog proizvođača opreme za more: priča o olagoonu i inženjeringu slobode na vodi, uz certificiranu tvornicu od 12,000 m².'
+  title: 'Our Story — inflatable pools Manufacturer | {SITE}'
+  description: 'From a coastal workshop to a global marine manufacturer: the olagoon story of engineering freedom on water with a 12,000 m² certified factory.'
   keywords:
-    - 'olagoon povijest'
-    - 'olagoon brend'
-    - 'proizvođač napuhivih sup daska'
-    - 'proizvođač napuhivih SUP daska'
+    - 'olagoon history'
+    - 'olagoon brand'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pools manufacturer'
 hero:
-  tagline: 'Naša priča'
-  title: 'olagoon — Inženjering slobode na vodi'
-  subtitle: 'Od obalne radionice do globalnog proizvođača opreme za more — naše putovanje počiva na tvrdoglavom uvjerenju: plovila treba projektirati kao da su važna, jer jesu.'
+  tagline: Our Story
+  title: 'olagoon — Engineering Freedom On Water'
+  subtitle: 'From a coastal workshop to a global marine manufacturer — our journey is built on a stubborn belief: watercraft should be engineered like they matter, because they do.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'olagoon tvornica i pogon za proizvodnju opreme za more u Qingdaou'
+    alt: olagoon factory and marine manufacturing facility in Qingdao
 
 stats:
-  title: 'olagoon u brojkama'
+  title: olagoon by the Numbers
   stats:
-    - title: 'Osnovano'
+    - title: Founded
       amount: 2012
-    - title: 'Pogon'
+    - title: Facility
       amount: '12,000 m²'
-    - title: 'Obuhvaćene zemlje'
+    - title: Countries Served
       amount: '50+'
-    - title: 'Godišnji kapacitet'
-      amount: '15,000+ jedinica'
-    - title: 'Zaposlenici'
+    - title: Annual Capacity
+      amount: '15,000+ units'
+    - title: Employees
       amount: '200+'
-    - title: 'R&D inženjeri'
+    - title: R&D Engineers
       amount: '14+'
 
 timeline:
   - year: '2012'
-    title: 'Temelji proizvodnje za more'
-    body: 'olagoon je počeo kao specijalizirana radionica za plovila u Qingdaou u Kini, posvećena obrtničkom umijeću i proizvodnji plovila. Rani je fokus bio izgradnja pouzdanih napuhivih proizvoda kroz praktično inženjersko iskustvo i proizvodnu disciplinu.'
+    title: 'Marine Manufacturing Foundation'
+    body: 'olagoon began as a specialized watercraft workshop in Qingdao, China, committed to marine craftsmanship and watercraft manufacturing. The early focus was building reliable inflatable products through practical engineering experience and manufacturing discipline.'
   - year: '2015'
-    title: 'Prvi izvoz i CE certifikacija'
-    body: 'Prvi su izvozni nalozi stigli u Japan i Koreju. CE certifikacija postignuta je za ključne linije proizvoda, čime je olagoon ušao na međunarodna tržišta. Tvrtka je počela opsluživati komercijalne i rekreativne korisnike izvan Kine.'
+    title: 'First Export & CE Certification'
+    body: "Initial export orders reached Japan and Korea. CE certification was achieved for core product lines, marking olagoon's entry into international markets. The company began serving commercial and recreational users beyond China."
   - year: '2018'
-    title: 'Širenje tvornice'
-    body: 'Preselili smo se u proizvodni pogon od 12,000 m². Dodali smo linije za RF zavarivanje i kapacitet proizvodnje drop-stitch tkanine, čime smo omogućili proizvodnju u većim razmjerima i poboljšali sustave kontrole kvalitete.'
+    title: 'Factory Expansion'
+    body: 'Relocated to a 12,000 m² production facility. Added RF welding lines and drop-stitch production capacity, enabling larger-scale manufacturing and improved quality control systems.'
   - year: '2020'
-    title: 'Osnovan R&D centar'
-    body: 'Otvorili smo namjenski R&D centar s laboratorijem za PVC tkanine, hidrodinamičkim ispitnim bazenom i CAD/FEA simulacijskim studijem. Razvoj proizvoda proširen je na lagane konstrukcije, poboljšanu izdržljivost i dizajn usmjeren na korisnika.'
+    title: 'R&D Center Established'
+    body: 'Opened a dedicated R&D center with PVC fabric lab, hydrodynamic test tank, and CAD/FEA simulation studio. Product development expanded to focus on lightweight construction, improved durability, and user-centered design.'
   - year: '2022'
-    title: 'Certifikacija i globalni rast'
-    body: 'Postigli smo ISO 9001 certifikaciju. Proširili smo se na 14 R&D inženjera i više od 200 radnika. Proizvodi su kroz partnerstva s distributerima i zajedničko brendiranje stigli do kupaca širom Europe, Amerike i regije Azije-Pacifika.'
+    title: 'Certification & Global Growth'
+    body: 'Achieved ISO 9001 certification. Expanded to 14 R&D engineers and 200+ workers. Products reached customers across Europe, Americas, and Asia-Pacific through distributor and co-brand partnerships.'
   - year: '2024'
-    title: 'Studio za inovacije i dizajn'
-    body: 'Pokrenuli smo sveobuhvatni studio za dizajn i inovacije za projekte zajedničkog brendiranja po mjeri — od koncepta do proizvodnje. Ojačali smo profesionalne primjene na moru, uključujući spasilačke, komercijalne i vladne ugovore.'
+    title: 'Innovation & Design Studio'
+    body: 'Launched full-service design and innovation studio for custom co-brand projects, from concept to production. Strengthened professional marine applications including rescue, commercial, and government contracts.'
   - year: '2026'
-    title: 'Izgradnja budućnosti istraživanja voda'
-    body: 'Danas olagoon nastavlja razvijati SUP sustave i pribor za more — povezujući ljude i organizacije s vodama svijeta. Više od 50 obuhvaćenih zemalja, godišnji kapacitet od 15,000+ jedinica.'
+    title: 'Building The Future Of Water Exploration'
+    body: "Today, olagoon continues to develop pool systems and marine accessories — connecting people and organizations with the world's waters. 50+ countries served, 15,000+ units annual capacity."
 
 content_founding:
-  tagline: 'Početak'
-  title: 'Rođeno na obali'
-  subtitle: 'olagoon je počeo u obalnoj radionici u Qingdaou s jednom daskom i vizijom: graditi napuhiva plovila sposobna izdržati prave uvjete na moru.'
+  tagline: The Beginning
+  title: 'Born on the Waterfront'
+  subtitle: 'OLagoon started in a Qingdao workshop in 2012 with one pool and a vision: to build inflatable pools that could handle real family use, season after season.'
   paragraphs:
-    - 'Godine 2012. naši su osnivači uočili prazninu na tržištu — većina je napuhivih plovila bila ili pristupačna ali nepouzdana, ili visoke kvalitete ali nedopustivo skupa. Vjerovali su da postoji mjesto za proizvođača koji nudi i kvalitetu i vrijednost.'
-    - 'Prvi je trup izgrađen ručno, testiran u lokalnim vodama i usavršen na temelju stvarnih povratnih informacija ribara i malih komercijalnih operatera. Taj krug povratnih informacija — gradi, testiraj, slušaj, poboljšaj — i danas je u srcu naše inženjerske filozofije.'
-    - 'Do 2015. vijest se proširila izvan Qingdaoa. Međunarodni su distributeri počeli tražiti uzorke. Ono što je počelo kao lokalna radionica postajalo je globalni dobavljač.'
+    - 'In 2012, our founders saw a gap in the market — most inflatable watercraft were either affordable but unreliable, or high-quality but prohibitively expensive. They believed there was room for a manufacturer that delivered both quality and value.'
+    - 'The first hull was built by hand, tested in local waters, and refined based on real feedback from fishermen and small commercial operators. That feedback loop — build, test, listen, improve — remains at the core of our engineering philosophy today.'
+    - 'By 2015, word had spread beyond Qingdao. International distributors began requesting samples. What started as a local workshop was becoming a global supplier.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: 'rana olagoon proizvodna radionica i proizvodnja'
+    alt: olagoon early production workshop and manufacturing
 
 content_growth:
-  tagline: 'Rast i inovacije'
-  title: 'Od radionice do pogona od 12,000 m²'
-  subtitle: 'Kontinuirana ulaganja u ljude, opremu i procese pretvorila su olagoon u modernu proizvodnu tvrtku opreme za more.'
+  tagline: Growth & Innovation
+  title: 'From Workshop to 12,000 m² Facility'
+  subtitle: 'Continuous investment in people, equipment, and process has transformed olagoon into a modern marine manufacturing facility.'
   paragraphs:
-    - 'Kako je rasla potražnja, rastao je i naš pogon. Proširili smo se iz male radionice u tvornicu od 12,000 m² s namjenskim proizvodnim linijama za SUP daske i pribor.'
-    - 'Ulagali smo u CNC strojeve za rezanje, opremu za zavarivanje visoke frekvencije, proizvodne linije drop-stitch tkanine i sveobuhvatne ispitne uređaje — što nam omogućuje kontrolu svakog aspekta kvalitete proizvodnje.'
-    - 'Danas naš tim od više od 200 ljudi uključuje inženjere za more, stručnjake za materijale, specijaliste kontrole kvalitete i vješte obrtnike — od kojih su mnogi s olagoonom od samih početaka.'
+    - 'As demand grew, so did our facility. We expanded from a small workshop to a 12,000 m² factory with dedicated production lines for pools and accessories.'
+    - 'We invested in CNC cutting machines, high-frequency welding equipment, drop stitch production lines, and comprehensive testing rigs — allowing us to control every aspect of production quality.'
+    - 'Today, our team of 200+ includes marine engineers, material scientists, quality control specialists, and skilled craftspeople — many of whom have been with olagoon since the early days.'
 
 philosophy:
-  tagline: 'Filozofija brenda'
-  title: 'Inženjering slobode na vodi'
-  body: 'Sloboda na vodi nije samo kretanje. Ona predstavlja otkrivanje novih mjesta, stvaranje iskustava na otvorenom, povezivanje ljudi s prirodom i omogućavanje profesionalnih misija. Inženjering tu slobodu čini mogućom.'
+  tagline: 'Brand Philosophy'
+  title: 'Engineering Freedom On Water'
+  body: 'Freedom on water is not only about movement. It represents discovering new places, creating outdoor experiences, connecting people with nature, and enabling professional missions. Engineering makes that freedom possible.'
   pillars:
-    - title: 'Pouzdanost na prvom mjestu'
-      body: 'Vodena okruženja zahtijevaju povjerenje. olagoon proizvodi dizajnirani su oko stabilnosti, izdržljivosti, sigurnosti i dosljednih performansi.'
-    - title: 'Dizajn usmjeren na čovjeka'
-      body: 'Proizvodi trebaju služiti ljudima, a ne tehnologiji. Svaka dizajnerska odluka počinje razumijevanjem toga kako ljudi koriste plovila, gdje istražuju i s kojim se izazovima susreću.'
-    - title: 'Pristupačno istraživanje'
-      body: 'Voda ne bi trebala pripadati samo stručnjacima. olagoon stvara opremu koja većem broju ljudi omogućuje sigurno iskustvo rijeka, jezera, oceana i obalnih okruženja.'
-    - title: 'Kontinuirane inovacije'
-      body: 'Inovacija nije samo stvaranje novih proizvoda. To je poboljšavanje svakog detalja — materijala, konstrukcija, proizvodnje i korisničkog iskustva.'
+    - title: 'Reliability First'
+      body: 'Water environments demand trust. olagoon products are designed around stability, durability, safety, and consistent performance.'
+    - title: 'Human-Centered Design'
+      body: 'Products should serve people, not technology. Every design decision begins with understanding how people use watercraft, where they explore, and what challenges they face.'
+    - title: 'Accessible Exploration'
+      body: 'Water should not belong only to experts. olagoon creates equipment that allows more people to safely experience rivers, lakes, oceans, and coastal environments.'
+    - title: 'Continuous Innovation'
+      body: 'Innovation is not only creating new products. It is improving every detail — materials, structures, manufacturing, and user experience.'
 
 engineeringDna:
-  tagline: 'Inženjerski DNA'
-  title: 'Kako olagoon stvara proizvode'
+  tagline: 'Engineering DNA'
+  title: 'How olagoon Creates Products'
   areas:
-    - title: 'Znanost o materijalima'
-      body: 'olagoon se fokusira na odabir odgovarajućih materijala za različita morska okruženja. Ključni kriteriji uključuju otpornost na habanje, otpornost na UV zračenje, stabilnost pod tlakom i dugotrajnu izdržljivost.'
-      items: ['Otpornost na habanje', 'Otpornost na UV', 'Stabilnost pod tlakom', 'Dugotrajna izdržljivost']
-    - title: 'Konstrukcijsko inženjerstvo'
-      body: 'Napuhiva plovila zahtijevaju preciznu ravnotežu između krutosti, težine, prenosivosti i stabilnosti. olagoon inženjering fokusira se na optimizaciju tih čimbenika pomoću drop-stitch tehnologije i napredne izrade šavova.'
-      items: ['Krutost', 'Optimizacija težine', 'Prenosivost', 'Stabilnost']
-    - title: 'Preciznost proizvodnje'
-      body: 'Svaki proizvod prolazi kroz kontrolirane procese: priprema materijala, precizno rezanje, zavarivanje i lijepljenje, montaža, kontrola kvalitete i provjera performansi.'
-      items: ['Priprema materijala', 'Precizno rezanje', 'Zavarivanje i lijepljenje', 'Montaža i kontrola kvalitete']
-    - title: 'Inženjerstvo scenarija korištenja'
-      body: 'Proizvodi se razvijaju oko stvarnih primjena — rekreacije, avanture i profesionalne upotrebe — čime se osigurava da svaki dizajn udovoljava specifičnim zahtjevima namijenjenog okruženja.'
-      items: ['Rekreacija', 'Avantura', 'Profesionalno', 'Komercijalno']
+    - title: 'Material Science'
+      body: 'olagoon focuses on selecting appropriate materials for different marine environments. Key considerations include abrasion resistance, UV resistance, pressure stability, and long-term durability.'
+      items: ['Abrasion Resistance', 'UV Resistance', 'Pressure Stability', 'Long-Term Durability']
+    - title: 'Structural Engineering'
+      body: 'Inflatable watercraft require precise balance between rigidity, weight, portability, and stability. olagoon engineering focuses on optimizing these factors through drop-stitch core technology and advanced seam construction.'
+      items: ['Rigidity', 'Weight Optimization', 'Portability', 'Stability']
+    - title: 'Manufacturing Precision'
+      body: 'Every product goes through controlled processes: material preparation, precision cutting, welding and bonding, assembly, quality inspection, and performance verification.'
+      items: ['Material Prep', 'Precision Cutting', 'Welding & Bonding', 'Assembly & QC']
+    - title: 'User Scenario Engineering'
+      body: 'Products are developed around real applications — recreation, adventure, and professional use — ensuring each design meets the specific demands of its intended environment.'
+      items: ['Recreation', 'Adventure', 'Professional', 'Commercial']
 
 trustSignals:
-  tagline: 'Signali povjerenja'
-  title: 'Zašto je olagoon pouzdan partner'
+  tagline: 'Trust Signals'
+  title: 'Why olagoon Is A Reliable Partner'
   manufacturing:
-    title: 'Proizvodni kapacitet'
-    body: 'Proizvodni pogon od 12,000 m² s više od 200 vještih radnika i 14+ R&D inženjera. ISO 9001 certificirani sustav upravljanja kvalitetom. Godišnja proizvodnja od 15,000+ plovila za više od 50 zemalja.'
+    title: 'Manufacturing Capability'
+    body: '12,000 m² production facility with 200+ skilled workers and 14+ R&D engineers. ISO 9001 certified quality management system. Annual output of 15,000+ watercraft units serving 50+ countries.'
     stats:
-      - label: 'Veličina pogona'
+      - label: 'Facility Size'
         value: '12,000 m²'
-      - label: 'Broj zaposlenih'
+      - label: 'Workforce'
         value: '200+'
-      - label: 'R&D inženjeri'
+      - label: 'R&D Engineers'
         value: '14+'
-      - label: 'Godišnji kapacitet'
+      - label: 'Annual Capacity'
         value: '15,000+'
   quality:
-    title: 'Posvećenost kvaliteti'
-    body: 'Od kontrole materijala do završnih ispitivanja, olagoon održava sustavne procese kvalitete kako bi isporučio pouzdanu opremu za more. Svaka jedinica prije otpreme prolazi ispitivanje tlaka, kontrolu šavova i provjeru performansi.'
+    title: 'Quality Commitment'
+    body: 'From material inspection to final testing, olagoon maintains systematic quality processes to deliver dependable marine products. Every unit undergoes pressure testing, seam inspection, and performance verification before shipping.'
     items:
-      - 'CE certifikacija — svi proizvodi ispunjavaju europske standarde sigurnosti'
-      - 'ISO 9001:2015 — certificirani sustav upravljanja kvalitetom'
-      - 'UKCA oznaka — sukladnost s tržištem Ujedinjenog Kraljevstva'
-      - 'FCC sukladnost — sukladnost elektroničkih komponenti za SAD'
+      - 'CE Certified — All products meet European safety standards'
+      - 'ISO 9001:2015 — Quality management system certified'
+      - 'UKCA Marked — UK market conformity'
+      - 'FCC Compliant — US electronic component compliance'
   global:
-    title: 'Globalna prisutnost'
-    body: 'olagoon opslužuje kupce na brojnim globalnim tržištima, podržavajući distributere, outdoor brendove i profesionalne korisnike na moru u više od 50 zemalja diljem Europe, regije Azije-Pacifika, Amerike, Bliskog istoka i Afrike.'
+    title: 'Global Presence'
+    body: 'olagoon serves customers across multiple global markets, supporting distributors, outdoor brands, and professional marine users in 50+ countries across Europe, Asia-Pacific, Americas, Middle East, and Africa.'
 
 comparison:
-  tagline: 'Pozicioniranje brenda'
-  title: 'olagoon na tržištu'
-  position: 'Brend za rekreaciju na moru orijentiran na inženjering, koji spaja stručnost u proizvodnji napuhivih proizvoda s kolekcijama zajedničkog brendiranja, rješenjima po mjeri i dubokim proizvodnim iskustvom.'
+  tagline: 'Brand Positioning'
+  title: 'olagoon in the Market'
+  position: 'Engineering-focused marine recreation brand combining inflatable production expertise with co-branded collections, custom solutions, and deep manufacturing experience.'
   strengths:
-    - 'Stručnost u inženjeringu napuhivih plovila'
-    - 'Puna mogućnost zajedničkog brendiranja i privatnih oznaka'
-    - 'Razvoj i dizajn proizvoda po mjeri'
-    - 'Proizvodni pogon od 12,000 m² s ISO 9001 certifikatom'
+    - 'Inflatable watercraft engineering expertise'
+    - 'Full co-brand and private-label capability'
+    - 'Custom product development and design'
+    - '12,000 m² ISO 9001 certified production facility'
   bestFor:
-    - 'Korisnici outdoor rekreacije koji traže pouzdana napuhiva plovila'
-    - 'Operateri na moru kojima je potrebna komercijalna oprema'
-    - 'Brend partneri koji traže kolekcije zajedničkog brendiranja'
-    - 'Profesionalne spasilačke i patrolne organizacije'
+    - 'Outdoor recreation users seeking reliable inflatable watercraft'
+    - 'Marine operators requiring commercial-grade equipment'
+    - 'Brand partners seeking co-branded collections'
+    - 'Professional rescue and patrol organizations'
 
 cta:
-  title: 'Spremni za partnerstvo s proizvođačem<br />kojem je stalo do kvalitete?'
-  subtitle: 'Kontaktirajte naš tim kako biste razgovarali o svom projektu zajedničkog brendiranja ili privatne oznake — bez pritiska minimalne količine narudžbe, samo iskreni savjeti.'
+  title: 'Ready to partner with a manufacturer<br />that cares about quality?'
+  subtitle: 'Contact our team to discuss your co-brand or private-label project — no minimum order pressure, just honest advice.'
   actions:
     - variant: primary
-      text: 'Započnite razgovor'
+      text: Start a conversation
       href: /contact/
-    - text: 'Istražite naše proizvode'
+    - text: Explore our products
       href: /products/

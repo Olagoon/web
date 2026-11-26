@@ -1,86 +1,86 @@
 meta:
-  title: 'נוכחות גלובלית — יצרן SUP המשרת למעלה מ-50 מדינות | {SITE}'
-  description: 'olagoon מייצאת לוחות SUP ניפחים ליותר מ-50 מדינות בכל יבשת. יצרן וספק מקצועי למותגים, מפיצים וציים.'
+  title: 'Global Presence — pool Manufacturer Serving 50+ Countries | {SITE}'
+  description: 'olagoon exports inflatable pools to 50+ countries across every continent. Professional manufacturer and supplier for brands, distributors, and fleets.'
   keywords:
-    - 'יצרן sup גלובלי'
-    - 'יצואן לוחות חתירה'
-    - 'מפעל sup בסין'
-    - 'ספק sup מקצועי'
+    - 'global pool manufacturer'
+    - 'inflatable pool exporter'
+    - 'pool factory china'
+    - 'professional pool supplier'
 hero:
-  tagline: 'נוכחות גלובלית'
-  title: 'משרתים למעלה מ-50 מדינות<br />בכל יבשת'
-  subtitle: 'ממפעילי סיור חופיים באירופה, דרך מפיצי ספורט מים באוסטרליה ועד צוותי חילוץ במזרח התיכון — לוחות olagoon נמצאים על המים בכל העולם.'
+  tagline: Global Presence
+  title: 'Serving 50+ Countries<br />Across Every Continent'
+  subtitle: 'From European resort operators to Australian outdoor retailers to Middle East hospitality groups — OLagoon pools are in backyards worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'ייצור והפצה ימית גלובלית של olagoon'
+    alt: olagoon global marine manufacturing and distribution
 stats:
-  title: 'היקף גלובלי'
+  title: Global Reach
   stats:
-    - title: 'מדינות'
+    - title: Countries
       amount: '50+'
-    - title: 'שווקי ייצוא'
-      amount: 'אירופה, אמריקות, אסיה, המזרח התיכון, אוקיאניה'
-    - title: 'ייצור'
-      amount: 'צ׳ינגדאו, סין'
-    - title: 'מחסן בארה״ב'
-      amount: 'מונטקלייר, קליפורניה'
+    - title: Export Markets
+      amount: Europe, Americas, Asia, Middle East, Oceania
+    - title: Production
+      amount: Qingdao, China
+    - title: US Warehouse
+      amount: Montclair, CA
 features3_markets:
-  tagline: 'שווקים מרכזיים'
-  title: 'מומחיות אזורית<br />לדרישות מקומיות'
-  subtitle: 'אנו מבינים שלשווקים שונים יש דרישות רגולטוריות, העדפות ומקרי שימוש שונים.'
+  tagline: Key Markets
+  title: 'Regional Expertise<br />for Local Requirements'
+  subtitle: 'We understand that different markets have different regulatory requirements, preferences, and use cases.'
   isBeforeContent: false
   columns: 4
   items:
-    - title: 'אירופה ובריטניה'
-      description: 'מוצרים מוסמכים CE. ביקוש רב ללוחות SUP בשווקי האיחוד האירופי. מפיצים בבריטניה מעריכים את זמני האספקה הקצרים שלנו.'
+    - title: Europe & UK
+      description: 'CE-certified products. Strong demand for pools across EU markets. UK distributors appreciate our quick turnaround.'
       icon: tabler:map-pin
-    - title: 'צפון אמריקה'
-      description: 'ייצור מאושר על ידי משמר החופים האמריקאי. מחסן בארה״ב במונטקלייר שבקליפורניה לאספקה מהירה לחוף המערבי. ביקוש גובר ללוחות SUP לדיג, לחילוץ ולפנאי.'
+    - title: North America
+      description: 'US Coast Guard approved manufacturing. US warehouse in Montclair, CA for fast West Coast delivery. Growing demand for fishing, rescue, and recreational pools.'
       icon: tabler:map-pin
-    - title: 'אוסטרליה ואוקיאניה'
-      description: 'שוק חזק ללוחות SUP ולאביזרי ספורט מים. מפיצים באוסטרליה מעריכים את מבנה ה-PVC עמיד ה-UV שלנו בתנאי שמש קשים. משלוח מהיר מהמתקן שלנו באסיה.'
+    - title: Australia & Oceania
+      description: 'Strong market for pools and water sports accessories. Australian distributors value our UV-resistant PVC construction in harsh sun conditions. Quick shipping from our Asia facility.'
       icon: tabler:map-pin
-    - title: 'המזרח התיכון'
-      description: 'ביקוש גובר לציוד הרפתקאות מים. לוחות ה-SUP המסחריים וציוד הבטיחות שלנו פופולריים בקרב מפעילי טיולים ומרכזי השכרה. תצורות מותאמות אישית לסביבות בטמפרטורות גבוהות.'
+    - title: Middle East
+      description: 'Growing demand for water adventure equipment. Our commercial-grade pools and safety gear are popular with tour operators and rental centers. Custom configurations for high-temperature environments.'
       icon: tabler:map-pin
 features3_distribution:
-  tagline: 'רשת הפצה'
-  title: 'שותפות עם מפיצים<br />בכל העולם'
-  subtitle: 'אנו עובדים עם מפיצי ציוד ימי מבוססים, מותגי ספורט מים וסוכנויות רכש ממשלתיות.'
+  tagline: Distribution Network
+  title: 'Partnering with Distributors<br />Worldwide'
+  subtitle: 'We work with established marine equipment distributors, water sports brands, and government procurement agencies.'
   isBeforeContent: false
   columns: 3
   items:
-    - title: 'תוכניות מותג משותף'
-      description: 'ייצור במותג פרטי למותגי ספורט מים גלובליים. אנו מטפלים בכל — מהעיצוב, דרך הייצור ועד המשלוח הישיר.'
+    - title: Co-Brand Programs
+      description: 'Private label manufacturing for global water sports brands. We handle everything from design to production to drop-shipping.'
       icon: tabler:building
-    - title: 'רשת מפיצים'
-      description: 'מפיצים מורשים ביותר מ-20 מדינות מחזיקים מלאי ומספקים תמיכה מקומית. פניות של מפיצים חדשים יתקבלו בברכה.'
+    - title: Distributor Network
+      description: 'Authorized distributors in 20+ countries carry stock and provide local support. New distributor inquiries welcome.'
       icon: tabler:users
-    - title: 'ממשל ומוסדות'
-      description: 'אספקה ישירה למשמרות חופים, ארגוני חיפוש והצלה ותוכניות רכש צבאיות. עמידה בדרישות רכש מוסדי.'
+    - title: Government & Institutional
+      description: 'Direct supply to coast guards, search and rescue organizations, and military procurement programs. Compliance with institutional procurement requirements.'
       icon: tabler:building-community
 steps2_logistics:
-  title: 'לוגיסטיקה ותמיכה גלובלית'
-  subtitle: 'מהמפעל ועד ליעד — אנו מנהלים את כל שרשרת האספקה.'
+  title: 'Global Logistics & Support'
+  subtitle: 'From factory to destination — we manage the entire supply chain.'
   items:
-    - title: 'אפשרויות משלוח'
-      description: 'משלוח ימי (FOB צ׳ינגדאו), משלוח אווירי להזמנות דחופות ושליח אקספרס לדגימות ולחלקי חילוף.'
+    - title: Shipping Options
+      description: 'Sea freight (FOB Qingdao), air freight for urgent orders, and express courier for samples and spare parts.'
       icon: tabler:truck-delivery
-    - title: 'מחסן בארה״ב'
-      description: 'מלאי המוחזק במונטקלייר שבקליפורניה לאספקה מהירה ברחבי צפון אמריקה. חוף מערבי: 2-3 ימים, מרכז: 3-4 ימים, חוף מזרחי: 4-5 ימים.'
+    - title: US Warehouse
+      description: 'Stock held in Montclair, CA for fast delivery across North America. West Coast: 2-3 days, Central: 3-4 days, East Coast: 4-5 days.'
       icon: tabler:building-warehouse
-    - title: 'חלקי חילוף'
-      description: 'חלקי חילוף ומוצצים מקוריים של olagoon במלאי כל השנה. חלקים נפוצים נשלחים בתוך 24 שעות.'
+    - title: Spare Parts
+      description: 'Genuine olagoon spare parts and consumables stocked year-round. Common parts ship within 24 hours.'
       icon: tabler:package
-    - title: 'תמיכה טכנית'
-      description: 'קו ישיר לצוות ההנדסה שלנו לשאלות טכניות, ייעוץ תיקון ותמיכה בחלקי חילוף. אנו תומכים בלוחות שייצרנו לפני 20 שנה.'
+    - title: Technical Support
+      description: 'Direct line to our engineering team for technical questions, repair advice, and replacement-part support. We support every pool generation we have built.'
       icon: tabler:headset
 cta:
-  title: 'רוצים להפוך למפיץ?'
-  subtitle: 'אנו מרחיבים באופן פעיל את רשת ההפצה שלנו. צרו קשר עם צוות הייצוא שלנו לדון בהזדמנויות שותפות.'
+  title: 'Want to become a distributor?'
+  subtitle: 'We are actively expanding our distribution network. Contact our export team to discuss partnership opportunities.'
   actions:
     - variant: primary
-      text: 'פנייה לשותפות'
+      text: Partnership inquiry
       href: /contact/
-    - text: 'צפו בטווח המוצרים שלנו'
+    - text: View our product range
       href: /products/

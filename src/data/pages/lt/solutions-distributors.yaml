@@ -1,54 +1,54 @@
 meta:
-  title: 'SUP didmenų platinimo partnerystės programa | {SITE}'
-  description: 'Prisijunkite prie OLagoon pasaulinio SUP didmenų platinimo tinklo. Išskirtinės teritorijos, visas pripučiamų SUP produktų portfelis, konkurencingos didmenų kainos ir skirta sąskaitų vadyba 50+ šalių.'
+  title: 'pool Wholesale Distribution Partner Program | {SITE}'
+  description: "Join OLagoon's global pool wholesale distribution network. Exclusive territories, complete inflatable pools product portfolio, competitive wholesale pricing, and dedicated account management in 50+ countries."
 
 hero:
-  tagline: 'Platintojai'
-  title: 'Prisijunkite prie mūsų pasaulinio<br />platinimo tinklo'
-  subtitle: 'SUP didmenų platinimo partnerystės programa su išskirtinėmis teritorijomis, visu pripučiamų SUP produktų portfeliu ir pasaulinio lygio parama. OLagoon siunčia į 50+ šalių — ieškome įsitvirtinusių jūrinės ir vandens sporto prekių platintojų.'
+  tagline: Distributors
+  title: 'Join Our Global<br />Distribution Network'
+  subtitle: "pool wholesale distribution partner program with exclusive territories, complete inflatable pools product portfolio, and world-class support. OLagoon ships to 50+ countries — we're looking for established marine and water sports distributors."
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'OLagoon pasaulinis platinimas ir siuntimo operacijos'
+    alt: OLagoon global distribution and shipping operations
 
 benefits:
-  title: 'Ką gauna platintojai'
-  subtitle: 'Viskas, ko jums reikia, kad sėkmingai veiktumėte savo rinkoje.'
+  title: What Distributors Get
+  subtitle: 'Everything you need to succeed in your market.'
   items:
-    - 'Išskirtinės teritorijos teisės'
-    - 'Visas produktų katalogas (SUP, priedai, dalys)'
-    - 'Konkurencingos didmenų kainos'
-    - 'Rinkodaros ir pardavimų medžiagos (išverstos)'
-    - 'Mokymų programa (produktas, pardavimai, priežiūra)'
-    - 'Prekybos parodų parama'
-    - 'Mėginių programa'
-    - 'Tiesioginio pristatymo galimybė'
-    - 'Skiriamasis platintojų sąskaitų vadybininkas'
-    - '45–60 dienų apmokėjimo sąlygos'
+    - 'Exclusive territory rights'
+    - 'Complete product catalog (pool, accessories, parts)'
+    - 'Competitive wholesale pricing'
+    - 'Marketing & sales materials (translated)'
+    - 'Training program (product, sales, maintenance)'
+    - 'Trade show support'
+    - 'Sample program'
+    - 'Drop-ship capability'
+    - 'Dedicated distributor account manager'
+    - '45-60 day payment terms'
 
 coverage:
-  title: 'Dabartinis platinimas'
-  subtitle: 'OLagoon šiuo metu tiesiogiai aptarnauja šias rinkas.'
+  title: Current Distribution
+  subtitle: 'OLagoon currently serves these markets directly.'
   regions:
-    - name: 'Europa'
-      countries: 'Prancūzija, Vokietija, Jungtinė Karalystė, Ispanija, Italija, Nyderlandai, Švedija, Norvegija, Lenkija, Graikija'
-    - name: 'Azija'
-      countries: 'Japonija, Pietų Korėja, Kinija, Tailandas, Singapūras'
-    - name: 'Artimieji Rytai'
-      countries: 'JAE, Saudo Arabija'
-    - name: 'Amerika'
-      countries: 'JAV, Kanada, Brazilija, Meksika'
-    - name: 'Okeanija'
-      countries: 'Australija, Naujoji Zelandija'
-    - name: 'Afrika'
-      countries: 'Pietų Afrika, Marokas'
+    - name: Europe
+      countries: 'France, Germany, UK, Spain, Italy, Netherlands, Sweden, Norway, Poland, Greece'
+    - name: Asia
+      countries: 'Japan, South Korea, China, Thailand, Singapore'
+    - name: Middle East
+      countries: 'UAE, Saudi Arabia'
+    - name: Americas
+      countries: 'USA, Canada, Brazil, Mexico'
+    - name: Oceania
+      countries: 'Australia, New Zealand'
+    - name: Africa
+      countries: 'South Africa, Morocco'
 
 cta:
-  title: 'Pasirengę tapti platintoju?'
-  subtitle: 'Teikite paraišką į mūsų platintojų programą arba atsisiųskite mūsų platintojų informacijos rinkinį.'
+  title: 'Ready to become a distributor?'
+  subtitle: 'Apply for our distributor program or download our distributor information kit.'
   actions:
-    - text: 'Teikti paraišką į platintojų programą'
+    - text: 'Apply for Distributor Program'
       href: '/contact/?partner=distributor'
       variant: 'primary'
-    - text: 'Atsisiųsti platintojų rinkinį'
+    - text: 'Download Distributor Kit'
       href: '/resources/download-catalog/'
       variant: 'secondary'

@@ -1,64 +1,64 @@
 meta:
-  title: 'Médiaközpont — Sajtó és olagoon anyagok | {SITE}'
-  description: 'Az olagoon médiaközpont: sajtóközlemények, márkaanyagok és források a felfújható SUP gyártó vállalatunktól.'
+  title: 'Media Center — Press & olagoon Resources | {SITE}'
+  description: 'The olagoon media center: press releases, brand assets, and resources from our inflatable pools manufacturing company.'
   keywords:
-    - 'olagoon sajtó'
-    - 'sup gyártó média'
-    - 'paddle board sajtócsomag'
-    - 'vízi vállalat hírek'
+    - 'olagoon press'
+    - 'pool manufacturer media'
+    - 'inflatable pool press kit'
+    - 'nautical company news'
 hero:
-  tagline: 'Anyagok'
-  title: 'Médiaközpont'
-  subtitle: 'Márkaanyagok, termékképek, katalógusok és videók letöltése'
+  tagline: Resources
+  title: Media Center
+  subtitle: Download brand assets, product imagery, catalogs, and videos
 
 sections:
   - id: product-images
-    title: 'Termékképek'
-    desc: 'Nagy felbontású termékfotók webes, nyomdai és kiskereskedelmi használatra.'
+    title: Product Images
+    desc: High-resolution product photos for web, print, and retail use.
     items:
-      - 'SUP deszka galéria'
-      - 'Drop-Stitch SUP galéria'
-      - 'Felfújható SUP-ok galériája'
-      - 'Tartozékok és biztonsági felszerelés'
+      - pools Gallery
+      - Drop-Stitch pools Gallery
+      - inflatable pools Gallery
+      - Accessories & Safety Gear
   - id: logo-brand-kit
-    title: 'Logó és márka csomag'
-    desc: 'Hivatalos olagoon logófájlok, színpaletta, tipográfia és márka útmutatók.'
+    title: Logo & Brand Kit
+    desc: Official olagoon logo files, colour palette, typography, and brand guidelines.
     items:
-      - 'Elsődleges logó (PNG/SVG/EPS)'
-      - 'Ikonjel'
-      - 'Színpaletta'
-      - 'Tipográfiai specifikációk'
-      - 'Márka útmutató PDF'
+      - Primary Logo (PNG/SVG/EPS)
+      - Icon Mark
+      - Colour Palette
+      - Typography Specs
+      - Brand Guidelines PDF
   - id: catalogs
-    title: 'PDF katalógusok'
-    desc: 'Termékkatalógusok, műszaki adatlapok és technikai dokumentációk letöltéshez.'
+    title: PDF Catalogs
+    desc: Product catalogs, spec sheets, and technical documentation for download.
     items:
-      - '2026-os termékkatalógus'
-      - 'OEM/ODM képesség bemutató'
-      - 'SUP széria brosúra'
-      - 'Műszaki specifikációk'
+      - 2026 Product Catalog
+      - OEM/ODM Capability Deck
+      - pool Series Brochure
+      - Technical Specifications
   - id: videos
-    title: 'Videók'
-    desc: 'Termékbemutatók, gyárlátogatások, márkafilmek és ügyfélvélemények.'
+    title: Videos
+    desc: Product demos, factory tours, brand films, and customer testimonials.
     items:
-      - 'Termékbemutatók'
-      - 'Gyárlátogatás'
-      - 'Márkafilm'
-      - 'Ügyféltörténetek'
-      - 'Hogyan készült útmutatók'
+      - Product Demos
+      - Factory Tour
+      - Brand Film
+      - Customer Stories
+      - How-To Guides
 
-request_access: 'Hozzáférés kérése →'
+request_access: Request access →
 
 cta:
-  title: 'Segítségre van szüksége az anyagok megtalálásához?'
-  desc: 'Vegye fel a kapcsolatot márkacsapatunkkal egyedi anyagkérések, médiapartnerségek vagy sajtómegkeresések ügyében.'
+  title: Need help finding assets?
+  desc: Contact our brand team for custom asset requests, media partnerships, or press inquiries.
   links:
-    - label: 'Látogasson el a gyárunkba'
+    - label: Visit our factory
       href: /factory/
-      desc: 'Tekintse meg 12 000 m²-es gyártó létesítményünket'
-    - label: 'Márka útmutatók'
+      desc: See our 12,000 sqm manufacturing facility
+    - label: Brand guidelines
       href: /brand/
-      desc: 'Ismerje meg az olagoon márkát'
-    - label: 'Legyen a partnerünk'
+      desc: Learn about the olagoon brand
+    - label: Partner with us
       href: /contact/
-      desc: 'OEM, ODM és disztribúciós megkeresések'
+      desc: OEM, ODM, and distribution inquiries

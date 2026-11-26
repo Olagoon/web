@@ -1,39 +1,39 @@
 meta:
-  title: 'Ang Brand na olagoon — Marine Engineering at Partnership | {SITE}'
-  description: 'olagoon: isang inflatable marine brand na nakikipagpartner sa mga water sports brand, distributor, nautical club, at enterprise sa pamamagitan ng mga co-branded na koleksyon, private label, at mga programang country distribution.'
+  title: 'The olagoon Brand — Marine Engineering & Partnership | {SITE}'
+  description: 'olagoon: an inflatable marine brand partnering with water sports brands, distributors, nautical clubs, and enterprises through co-branded collections, private label, and country distribution programs.'
   keywords:
-    - 'brand ng olagoon'
-    - 'brand ng inflatable SUP'
-    - 'china sup manufacturer'
+    - 'olagoon brand'
+    - 'inflatable pools brand'
+    - 'china pool manufacturer'
 hero:
-  tagline: 'Brand'
+  tagline: Brand
   title: '{BRAND}'
-  subtitle: 'Pagganap sa Karagatan para sa Bawat Surfer'
-  cta: 'Tuklasin ang Kagamitan →'
+  subtitle: Ocean Performance for Every Surfer
+  cta: Explore Gear →
   cta_link: /products/
-  secondary_cta: 'Matutong Mag-surf'
+  secondary_cta: Explore Pools
   secondary_cta_link: /guides/
 
 position:
-  tagline: 'Posisyon'
-  subtitle: 'Pagganap sa Karagatan para sa Bawat Surfer'
+  tagline: Position
+  subtitle: Ocean Performance for Every Surfer
 
 products_section:
-  tagline: 'Mga Produkto'
-  cta: 'Lahat ng Produkto →'
+  tagline: Products
+  cta: All Products →
   cta_link: /products/
 
 global_section:
-  tagline: 'Pandaigdig'
-  title: 'Available sa {count} Rehiyon'
+  tagline: Global
+  title: Available in {count} Regions
 
 social_section:
-  tagline: 'Social'
-  title: 'Ang binabasa ng mga surfer'
-  read_guide: 'Basahin ang gabay →'
+  tagline: Social
+  title: What surfers are reading
+  read_guide: Read guide →
 
 cta_section:
-  title: 'Simulan ang iyong paglalakbay sa karagatan'
-  subtitle: 'Bawat produkto ay CE certified. May warranty. Dinisenyo para sa totoong surf.'
+  title: Start your ocean journey
+  subtitle: Every product CE certified. Backed by warranty. Engineered for real backyards.
   cta_suffix: '→'
-  secondary_cta: 'Tungkol sa {BRAND}'
+  secondary_cta: About {BRAND}

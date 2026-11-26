@@ -1,72 +1,72 @@
 meta:
-  title: 'מדוע olagoon — 7 סיבות שמותגים גלובליים בוחרים בנו | {SITE}'
-  description: 'מדוע מותגים גלובליים בוחרים ב-olagoon: הסמכות CE ו-ISO, MOQ גמיש, תבניות מותאמות אישית וזמני אספקה של 30 יום ממפעל SUP ניפחים מקצועי.'
+  title: 'Why olagoon — 7 Reasons Global Brands Choose Us | {SITE}'
+  description: 'Why global brands choose olagoon: CE and ISO certifications, flexible MOQ, custom molds, and 30-day lead times from a professional inflatable pools factory.'
   keywords:
-    - 'למה לבחור ב-olagoon'
-    - 'יצרן sup ניפחים'
-    - 'מפעל sup בסין'
-    - 'ספק לוחות חתירה ניפחים'
+    - 'why choose olagoon'
+    - 'inflatable pools manufacturer'
+    - 'pool factory china'
+    - 'inflatable pool supplier'
 hero:
-  tagline: 'מדוע olagoon'
-  title: 'שבע סיבות שמותגים גלובליים<br />בוחרים ב-olagoon'
-  subtitle: 'לא כל היצרנים נולדו שווים. הנה מה שהופך את olagoon לשותף המועדף על מפיצים, מותגים ומפעילים ברחבי העולם.'
+  tagline: Why olagoon
+  title: 'Seven Reasons Why Global Brands<br />Choose olagoon'
+  subtitle: 'Not all manufacturers are created equal. Here is what makes olagoon the preferred partner for distributors, brands, and operators worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: 'איכות ומומחיות הייצור של olagoon'
+    alt: olagoon manufacturing quality and expertise
 stats:
-  title: 'אמון במספרים'
+  title: Trust in Numbers
   stats:
-    - title: 'שנים בפעילות'
-      amount: 'מאז 2012'
-    - title: 'לוחות שנבנו'
-      amount: '15,000+'
-    - title: 'לקוחות חוזרים'
+    - title: Years in Business
+      amount: Since 2012
+    - title: Pools Built
+      amount: 15,000+
+    - title: Repeat Customers
       amount: '85%'
-    - title: 'תביעות אחריות'
-      amount: 'פחות מ-2%'
+    - title: Warranty Claims
+      amount: '<2%'
 features3_reasons:
-  tagline: 'למה לבחור ב-olagoon'
-  title: 'שבע סיבות לשתף איתנו פעולה'
+  tagline: Why Choose olagoon
+  title: 'Seven Reasons to Partner With Us'
   isBeforeContent: false
   columns: 3
   items:
-    - title: '1. ייצור אמיתי, לא סחר קנייה ומכירה'
-      description: 'אנו הבעלים והמפעילים של מפעל בשטח 12,000 מ״ר. כשאתם שותפים של olagoon, אתם עובדים ישירות עם האנשים שמעצבים, מהנדסים ובונים את המוצרים שלכם — בלי מתווכים.'
+    - title: '1. Real Manufacturing, Not Trading'
+      description: 'We own and operate a 12,000 m² factory. When you partner with olagoon, you work directly with the people who design, engineer, and build your products — no middlemen.'
       icon: tabler:building-factory
-    - title: '2. גישה מונחית הנדסה'
-      description: 'תהליך העיצוב שלנו מתחיל במקרה השימוש, לא בקטגוריית המוצר. אנו מייעלים את צורת הגוף, את בחירת החומרים ואת התצורה בהתאם לאופן שבו הלוח ישמש בפועל.'
+    - title: '2. Engineering-Led Approach'
+      description: 'Our design process starts with the use case, not the product category. We optimize wall structure, material selection, and configuration for how the pool will actually be used.'
       icon: tabler:engine
-    - title: '3. איכות מוסמכת'
-      description: 'הסמכת CE, מערכת איכות ISO, עמידה ב-BSCI, עמידה ב-REACH, אישור USCG. כל מוצר עומד בתקנים בינלאומיים — לא רק הצהרות.'
+    - title: '3. Certified Quality'
+      description: 'CE certified, ISO quality system, BSCI compliant, REACH compliant, USCG approved. Every product meets international standards — not just claims.'
       icon: tabler:certificate
-    - title: '4. מיתוג משותף גמיש'
-      description: 'צבעי דפנות, פריסת סיפון, מיתוג, אריזה — אנו מתאימים אישית למפרט שלכם. בלי לחץ של כמות הזמנה מינימלית. התחילו עם אב-טיפוס, התרחבו בביטחון.'
+    - title: '4. Flexible Co-Branding'
+      description: 'Rail colors, deck layout, branding, packaging — we customize to your specifications. No minimum order pressure. Start with a prototype, scale with confidence.'
       icon: tabler:adjustments
-    - title: '5. לוגיסטיקה גלובלית'
-      description: 'מחסן בארה״ב בקליפורניה, משלוח ישיר מצ׳ינגדאו, משלוח אווירי להזמנות דחופות. אנו מטפלים במסמכי המכס ובתיעוד.'
+    - title: '5. Global Logistics'
+      description: 'US warehouse in California, direct shipping from Qingdao, air freight for urgent orders. We handle customs paperwork and documentation.'
       icon: tabler:truck-delivery
-    - title: '6. תמיכה לכל החיים'
-      description: 'אנו תומכים בלוחות שייצרנו לפני 20 שנה. חלקי חילוף מקוריים, ייעוץ טכני, הדרכת תיקון — הצוות שלנו זמין כשאתם זקוקים לנו.'
+    - title: '6. Lifetime Support'
+      description: 'We support every pool generation we have built. Genuine spare parts, technical advice, repair guidance — our team is available when you need us.'
       icon: tabler:lifebuoy
-    - title: '7. מפרטים כנים'
-      description: 'דירוגי עומס אמיתיים, ממדים אמיתיים, משקל אמיתי. בלי ניפוח שיווקי. מה שאנו מפרסמים הוא מה שאתם מקבלים — מאומת בבדיקות עצמאיות.'
+    - title: '7. Honest Specifications'
+      description: 'Real load ratings, real dimensions, real weight. No marketing inflation. What we publish is what you get — verified by independent testing.'
       icon: tabler:ruler-measure
 testimonials:
-  tagline: 'מותגים ברחבי העולם נותנים בנו אמון'
-  title: 'מה אומרים השותפים שלנו'
+  tagline: Trusted by Brands Worldwide
+  title: What Our Partners Say
   items:
-    - content: 'עבדנו עם כמה יצרנים בסין, אך olagoon בולטת בתמיכת ההנדסה ובאיכות העקבית שלה. הם מתייחסים למותג שלנו כאילו היה שלהם.'
-      name: '— שותף מיתוג משותף, מותג ספורט מים אירופי'
-    - content: 'לוחות ה-SUP שלהם בשירות הצי שלנו למעלה מ-5 שנים. תחזוקה מינימלית, עמידות UV מעולה. האחריות ל-5 שנים נותנת לנו ביטחון.'
-      name: '— מפעיל צי, קבוצת אתרי נופש במזרח התיכון'
-    - content: 'הצוות של olagoon עזר לנו לפתח עיצוב לוח SUP מותאם אישית מהקונספט ועד הייצור ב-90 יום. האיכות עלתה על הציפיות שלנו.'
-      name: '— מפיץ, Watersports אוסטרליה'
+    - content: 'We have worked with several manufacturers in China, but olagoon stands out for their engineering support and consistent quality. They treat our brand as their own.'
+      name: '— Co-Brand Partner, European Water Sports Brand'
+    - content: 'Their pools have been in service with our fleet for over 5 years. Minimal maintenance, excellent UV resistance. The 5-year warranty gives us confidence.'
+      name: '— Fleet Operator, Middle East Resort Group'
+    - content: 'The olagoon team helped us develop a custom pools design from concept to production in 90 days. The quality exceeded our expectations.'
+      name: '— Distributor, Australian Watersports'
 cta:
-  title: 'מוכנים לחוות את ההבדל?'
-  subtitle: 'צרו קשר עם הצוות שלנו לדון בפרויקט שלכם. לא נדרשת התחייבות — רק ייעוץ כן על ייצור.'
+  title: 'Ready to experience the difference?'
+  subtitle: 'Contact our team to discuss your project. No commitment required — just honest advice about manufacturing.'
   actions:
     - variant: primary
-      text: 'דברו עם הצוות שלנו'
+      text: Talk to our team
       href: /contact/
-    - text: 'הורידו את קטלוג המוצרים'
+    - text: Download product catalog
       href: /resources/download-catalog/

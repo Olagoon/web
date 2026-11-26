@@ -1,24 +1,24 @@
 meta:
-  title: Hvor køber du oppustelige paddleboards fra OLagoon | OLagoon
-  description: Find ud af, hvordan du køber et oppusteligt paddleboard fra OLagoon — via en officiel distributør i dit land eller direkte fra OLagoon-teamet.
+  title: Where to Buy OLagoon Inflatable Pools | OLagoon
+  description: Find out how to buy an OLagoon inflatable pool — through an official distributor in your country or directly from the OLagoon team. Tell us where you live and we will point you to your nearest dealer.
 hero:
-  tagline: Hvor du køber
-  title: Kom ud på vandet med din OLagoon SUP
-  subtitle: OLagoon-bræt når padlere i over 50 lande. Find den nemmeste måde at få dit eget på — via en officiel forhandler i nærheden eller direkte fra OLagoon-teamet.
+  tagline: Where to Buy
+  title: Get Your OLagoon pool on the Water
+  subtitle: OLagoon pools reach families in 50+ countries. Find the simplest way to get yours — through an official distributor near you or directly from the OLagoon team.
 channels:
   items:
-    - title: Officielle landdistributører
-      description: OLagoon samarbejder med eksklusive distributører i mange lande. Fortæl os, hvor du padler, så forbinder vi dig med din lokale forhandler, priser og tilgængelighed.
-      cta: Find din lokale forhandler
+    - title: Official Country Distributors
+      description: OLagoon works with exclusive distributors in many countries. Tell us where you live and we will connect you with your local dealer, pricing, and availability.
+      cta: Find Your Local Dealer
       href: /contact/?subject=Where to Buy
-    - title: Bestil direkte fra OLagoon
-      description: Endnu ingen distributør i dit land? OLagoon-teamet kan arrangere direkte bestillinger og forsendelse, så du kan komme ud på vandet, uanset hvor du bor.
-      cta: Spørg om tilgængelighed
+    - title: Order Direct from OLagoon
+      description: No distributor in your country yet? The OLagoon team can arrange direct orders and shipping so you can get on the water wherever you live.
+      cta: Request Availability
       href: /contact/?subject=Where to Buy
 form_intro:
-  title: Spørg om tilgængelighed
-  subtitle: Send os en besked med dit land og det bræt, du er interesseret i. Vores team svarer inden for én hverdag med din nærmeste forhandler eller muligheder for direkte bestilling.
+  title: Ask About Availability
+  subtitle: Send us a message with your country and the pool you are interested in. Our team will reply within one business day with your nearest dealer or direct-order options.
 business_note:
-  text: Køber du for en klub, et resort eller en butik? Udforsk vores forretnings- og partnerprogrammer.
-  cta: Til forretningspartnere
+  text: Buying for a club, resort, or store? Explore our business and partnership programs.
+  cta: For Business Partners
   href: /solutions/

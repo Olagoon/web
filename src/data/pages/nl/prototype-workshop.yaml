@@ -1,110 +1,95 @@
 meta:
-  title: Prototype Werkplaats — Volledige Schaal SUP-prototyping & Zeeproeven | {SITE}
-  description: Van CAD naar waterklaar board in 8-12 weken. Onze Prototype Werkplaats bouwt, monteert en test op zee op maat gemaakte opblaasbare SUP's. Begin vandaag nog met uw prototypeproject.
-back_text: Terug naar R&D Centrum
-home_label: Home
+  title: 'Prototype Workshop — Full-Scale pool Prototyping & Sea Trials | {SITE}'
+  description: 'From CAD to backyard-ready pool in 8-12 weeks. Our Prototype Workshop builds, rigs, and water-tests custom inflatable pools. Start your prototype project today.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
+
 hero:
-  tagline: Lab 05
-  title: Prototype Werkplaats
-  subtitle: Van CAD-model tot waterklaar board — gebouwd, uitgerust en bewezen
-  image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-  image_alt: OLagoon prototype werkplaats boardfabricage
-intro: >-
-  Een CAD-model, hoe gedetailleerd ook, kan niet laten zien hoe een board daadwerkelijk zal varen totdat deze het water ontmoet. Daarom is onze Prototype Werkplaats ontworpen om engineeringgegevens zo snel en nauwkeurig mogelijk om te zetten in een fysiek, waterklaar board. Elk nieuw
-  OLagoon-model — en elke belangrijke custom build — gaat door deze werkplaats voordat het productiegereedschap wordt ingezet.
+  tagline: 'Lab 05'
+  title: 'Prototype Workshop'
+  subtitle: 'From CAD model to water-ready pool — built, fitted, and proven'
+  image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+  image_alt: 'OLagoon prototype workshop pool fabrication'
+
+intro: 'A CAD model, no matter how detailed, cannot reveal how a pool will actually perform until it meets the water. That is why our Prototype Workshop is designed to translate engineering data into a physical, water-ready pool as quickly and accurately as possible. Every new OLagoon model — and every significant custom build — passes through this workshop before the production tooling is committed.'
+
 content_html: |
-  <h2>Waar ontwerp werkelijkheid wordt</h2>
+  <h2>Where design becomes reality</h2>
+  <p>The workshop is fully equipped for simultaneous fabrication of hull, rails, and rigging. This parallel-workflow approach cuts prototype lead time to 8-12 weeks from engineering release, compared to the industry norm of 16-20 weeks. When your application demands a specialised solution, we can move from concept to on-water validation in under three months.</p>
 
-  <p>De werkplaats is volledig uitgerust voor de gelijktijdige fabricage van romp, rails en tuigage. Deze parallelle werkwijze verkort de doorlooptijd van het prototype van engineeringrelease tot 8-12 weken, vergeleken met de industriestandaard van 16-20 weken. Wanneer uw toepassing een
-  gespecialiseerde oplossing vereist, kunnen we in minder dan drie maanden van concept naar validatie op het water gaan.</p>
-
-
-  <h2>Mogelijkheden van de werkplaats</h2>
-
+  <h2>Workshop capabilities</h2>
   <table>
-    <thead><tr><th>Werkstation</th><th>Apparatuur</th><th>Doel</th></tr></thead>
+    <thead><tr><th>Workstation</th><th>Equipment</th><th>Purpose</th></tr></thead>
     <tbody>
-      <tr><td>Rompfabricage</td><td>CNC-stoffensnijder, hitelaminatiepers, voorbereidingsstation voor drop-stitch-kernen</td><td>Productie van rompen op ware grootte in alle drie de constructietypen</td></tr>
-      <tr><td>Rail- &amp; kamermontage</td><td>RF-laspers, hete-luchthechtstation, opblaastestmal</td><td>Fabricage van rails- en kamersconstructies op ware grootte met alle schotten en ventielen</td></tr>
-      <tr><td>Tuigage &amp; afbouw</td><td>Frijnmal voor vindozen, lasarmaturen voor bagagemontages en handvatten, snijstation voor dekpadding</td><td>Volledige uitrusting: vinnen, bagagemontages, leash-pluggen, handvatten, dekpads, ventielen</td></tr>
-      <tr><td>Instrumentenruimte</td><td>GPS-snelheidssensor, druksensoren, accelerometers, thermokoppelarray, datalogger</td><td>Installatie en kalibratie van zeeproef-instrumentatie</td></tr>
+      <tr><td>Hull fabrication</td><td>CNC fabric cutter, heat-lamination press, drop-stitch core preparation station</td><td>Full-scale hull production in all three construction types</td></tr>
+      <tr><td>Rail &amp; chamber assembly</td><td>RF welding press, hot-air tacking station, inflation test jig</td><td>Fabrication of full-size rail and chamber assemblies with all baffles and valves</td></tr>
+      <tr><td>Rigging &amp; fitting</td><td>Fin-box routing jig, cargo-mount and handle welding fixtures, deck-pad cutting station</td><td>Complete outfitting: fins, cargo mounts, leash plugs, handles, deck pads, valves</td></tr>
+      <tr><td>Instrumentation bay</td><td>GPS speed sensor, pressure transducers, accelerometers, thermocouple array, data-logger</td><td>Sea-trial instrumentation installation and calibration</td></tr>
     </tbody>
   </table>
 
-
-  <h2>Het prototype-traject — stap voor stap</h2>
-
+  <h2>The prototype journey — step by step</h2>
   <ol>
-    <li><strong>Engineeringoverdracht</strong> — Het ontwerppakket (3D-model, FEA-rapport, stuklijst, lamineerschema) wordt formeel beoordeeld door de werkplaatsleider en de projectingenieur. Eventuele productiepunten worden gesignaleerd en opgelost voordat met snijden wordt begonnen.</li>
-    <li><strong>Rompfabricage</strong> — De romp wordt gebouwd volgens de engineeringspecificatie. Voor enkelvoudige constructie: de drop-stitch-kern wordt gelamineerd met de gespecificeerde PVC-buitenlaag. Voor dubbellagige constructie: de extra buitenlaag wordt aangebracht over het basislaminaat voordat het patroon wordt gesneden. Voor gefuseerde constructie: de laminatieparameters worden geladen uit het goedgekeurde procesblad en geverifieerd op een eerste testcoupe.</li>
-    <li><strong>Railfabricage</strong> — Het weefsel wordt gesneden met CNC-patroonmallen en vervolgens met RF-lassen tot rails en kamers op ware grootte gevormd. Elke kamer wordt opgeblazen tot testdruk en gedurende 24 uur voor initiële stabilisatie achtergelaten.</li>
-    <li><strong>Montage &amp; tuigage</strong> — Romp en rails worden gekoppeld. Vindozen en bagagemontages worden geplaatst, leash-pluggen en draaghandvatten worden geïnstalleerd, de opblaasventiel wordt met het juiste koppel aangedraaid en de dekpad wordt aangebracht en uitgelijnd.</li>
-    <li><strong>Statische tests</strong> — Voordat het board het water raakt, ondergaat het: een drijfvermogencheck (volledige belasting + 30 % reserve), een drukhoudtest van de kamers, een lekkagetest van de ventielen en een trekktest op handvatten en montages.</li>
-    <li><strong>Zeeproefprogramma</strong> — 20 uur testen op het water, hieronder in detail beschreven.</li>
-    <li><strong>Prototype-review</strong> — Er wordt een formele afstemmingsvergadering gehouden met de teams voor engineering, productie en kwaliteit. Eventuele noodzakelijke ontwerpwijzigingen worden gedocumenteerd en verwerkt in de productierelease.</li>
+    <li><strong>Engineering handover</strong> — The design package (3D model, FEA report, bill of materials, layup schedule) is formally reviewed by the workshop lead and the project engineer. Any manufacturing concerns are flagged and resolved before cutting begins.</li>
+    <li><strong>Hull production</strong> — The hull is built according to the engineering specification. For single-layer construction: the drop-stitch core is laminated with the specified PVC skin. For double-layer construction: the additional skin is applied over the base laminate before the pattern is cut. For fused construction: the lamination parameters are loaded from the approved process sheet and verified on a first-off coupon.</li>
+    <li><strong>Rail fabrication</strong> — Fabric is cut using CNC-pattern templates, then RF-welded into full-size rails and chambers. Each chamber is inflated to test pressure and left for 24 h for initial stabilisation.</li>
+    <li><strong>Assembly &amp; rigging</strong> — Hull and rails are mated. Fin boxes and cargo mounts are fitted, leash plugs and carry handles are installed, the inflation valve is torqued in, and the deck pad is applied and aligned.</li>
+    <li><strong>Static tests</strong> — Before the pool is filled, it undergoes: structural check (full water load + 30 % reserve), chamber pressure-hold test, valve leak-down test, handle and mount pull-test.</li>
+    <li><strong>Sea trial programme</strong> — 20 hours of in-water testing, detailed below.</li>
+    <li><strong>Prototype review</strong> — A formal sign-off meeting is held with engineering, production, and quality teams. Any required design changes are documented and incorporated into the production release.</li>
   </ol>
 
-
   <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
-    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Zeeproefprogramma van 20 uur — testschema</p>
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20-Hour Sea Trial Programme — Test Schedule</p>
     <div class="space-y-2 text-sm">
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">Vaargewenning op vlak water — tracking bij lage snelheid, draaien, controle van houding en trim</span>
+        <span class="flex-1">Flat-water familiarisation — low-speed tracking, turning, stance and trim check</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">4 h</span>
-        <span class="flex-1">Snelheidsproef — met GPS geverifieerde topsnelheid, kruissnelheid en volgehouden tempo bij 3 slagfrequenties</span>
+        <span class="flex-1">Speed trial — GPS-verified top speed, cruise speed, sustained pace at 3 stroke rates</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Draaiproef — draaicirkel bij pivot- en sweepturns, boardrespons, bakboord en stuurboord</span>
+        <span class="flex-1">Stability test — wall rigidity, floor firmness, and seating comfort under full load</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Golftest — herhaalde passages door 0.5–1.0 m kortgolvig water; accelerometer op de rijderspositie</span>
+        <span class="flex-1">Chop test — repeated runs through 0.5–1.0 m chop; accelerometer at the rider stance position</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Stabiliteitstest — statische hellingshoek met 4 rijkunstenaars van verschillend gewicht, excentrische belasting aan stuurboord</span>
+        <span class="flex-1">Stability test — static heel angle with 4 riders of varying weight, offset load to starboard</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Duurrit — 3 uur aaneengesloten op kruistempo; bewaking van kamerdruk, railtemperatuur en vermoeidheid van de rijder</span>
+        <span class="flex-1">Endurance run — 3 h continuous at cruise pace; monitoring of chamber pressure, rail temperature, and rider fatigue</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">Eindinspectie — inspectie van alle componenten na de proefvaart, alle bevestigingen aandraaien/controleren, bevindingen documenteren</span>
+        <span class="flex-1">Final inspection — post-trial inspection of all components, tighten/check all fasteners, document findings</span>
       </div>
     </div>
   </div>
 
-
-  <h2>Maatwerkprototyping voor bijzondere toepassingen</h2>
-
-  <p>De prototypewerkplaats is de plek waar we de problemen oplossen die standaard productieboards niet kunnen aanpakken. Recente voorbeelden zijn onder meer:</p>
-
+  <h2>Custom prototyping for unique applications</h2>
+  <p>The Prototype Workshop is where we solve the problems that standard production pools cannot address. Recent examples include:</p>
   <ul>
-    <li>Een goed zichtbaar reddings-SUP voor een zoek- en reddingsorganisatie, met geïntegreerde grijphandvatten, montagepunten voor reddingsuitrusting en een romp met hoog drijfvermogen voor het bergen van slachtoffers — allemaal geprototypeerd, gemonteerd en getest in onze faciliteit.</li>
-    <li>Een expeditie-touring-SUP voor een hydrografische meetcontractant, met een afneembare instrumentenmast, afgedichte uitrustingpoorten en een laaggeprofileerde transducerbevestiging die ontworpen is om weerstand te minimaliseren.</li>
-    <li>Een compact vis-SUP voor een resortvloot, waarbij het prototype is gebruikt om stabiliteit, uitrustingsopties en duurzaamheid onder dagelijkse verhuur te valideren voordat de klant overging tot een vloot van vier stuks.</li>
+    <li>A high-visibility rescue pool for a search-and-rescue organisation, requiring integrated grab handles, gear mounts for rescue equipment, and a high-buoyancy hull for casualty recovery — all prototyped, fitted, and tested at our facility.</li>
+    <li>An expedition touring pool for a hydrographic survey contractor, with a removable instrument mast, sealed gear ports, and a low-profile transducer mount designed to minimise drag.</li>
+    <li>A compact fishing pool for a resort fleet, where the prototype was used to validate stability, gear rigging, and durability under daily rental use before the client committed to a fleet of four.</li>
   </ul>
 
+  <h2>Our prototyping team</h2>
+  <p>The workshop is staffed by eight multi-skilled marine technicians, each cross-trained in at least two of the three core disciplines (hull, rail, rigging). The team lead is a master fabricator with 16 years of experience spanning custom one-off builds to production series. Every prototype is assigned a dedicated project engineer who serves as the single point of contact for the client throughout the build and trial process.</p>
 
-  <h2>Ons prototypingteam</h2>
+  <h2>Client involvement</h2>
+  <p>We actively encourage our clients to attend key milestones during the prototype build — particularly the initial fit-out review and the sea trial. Your operational feedback during these stages is invaluable in fine-tuning the pool before it enters production. We do not build in a vacuum; we build in partnership with you.</p>
+  <p>The 20-hour water trial is also an opportunity for your team to familiarise themselves with the pool's operation, layout, and maintenance requirements, ensuring a smooth transition to service when the production pools are delivered.</p>
 
-  <p>De werkplaats wordt bemand door acht veelzijdige maritieme technici, die elk zijn opgeleid in ten minste twee van de drie kerndisciplines (romp, rails, tuigage). De teamleider is een meesterfabrikant met 16 jaar ervaring, van unieke op maat gebouwde exemplaren tot productieseries. Aan elk
-  prototype wordt een toegewijde projectingenieur toegewezen die gedurende het hele bouw- en testtraject het vaste aanspreekpunt voor de klant is.</p>
-
-
-  <h2>Betrokkenheid van de klant</h2>
-
-  <p>We moedigen onze klanten actief aan om aanwezig te zijn bij de belangrijkste mijlpalen tijdens de bouw van het prototype — in het bijzonder de eerste inrichtingsreview en de zeeproef. Uw operationele feedback tijdens deze fasen is van onschatbare waarde bij het finetunen van het board voordat
-  het in productie gaat. We bouwen niet in een vacuüm; we bouwen in partnerschap met u.</p>
-
-  <p>De zeeproef van 20 uur is ook een gelegenheid voor uw team om vertrouwd te raken met het vaargedrag van het board, de indeling van het dek en de onderhoudsvereisten, zodat de overgang naar gebruik vlekkeloos verloopt wanneer de productieboards worden geleverd.</p>
 cta:
-  title: Begin je prototypeproject
-  subtitle: Vertel ons over het board dat u nodig heeft en wij zullen een prototype-ontwikkelingsplan voorstellen.
-  button_text: Neem contact op met ons prototypingteam
+  title: 'Start your prototype project'
+  subtitle: 'Tell us about the pool you need and we will propose a prototype development plan.'
+  button_text: 'Contact our prototyping team'
   button_link: /contact/

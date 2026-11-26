@@ -1,114 +1,122 @@
 meta:
-  title: 'Σχετικά με την olagoon — Μάρκα Φουσκωτών SUP & Θαλάσσιων Σπορ | {SITE}'
-  description: 'Η olagoon είναι μια παγκόσμια μάρκα φουσκωτών SUP και θαλάσσιων σπορ, που διοικείται από την Olagoon LLC (ΗΠΑ) και την ομάδα λειτουργίας μας στο Qingdao. Ανακαλύψτε την ιστορία μας, τη μηχανική, την πιστοποιημένη ποιότητα και τα προγράμματα συνεργατών χωρών.'
+  title: 'About OLagoon — inflatable pools & Water Sports Brand | {SITE}'
+  description: 'OLagoon is a global inflatable pools and water sports brand, operated by Olagoon LLC and built by our Qingdao Operation Team. Discover our story, engineering, certified quality, and country partner programs.'
   keywords:
-    - 'μάρκα φουσκωτών SUP'
-    - 'μάρκα θαλάσσιων σπορ'
-    - 'διανομέας SUP ανά χώρα'
-    - 'co-branded συλλογές SUP'
+    - 'inflatable pools brand'
+    - 'water sports brand'
+    - 'country pool distributor'
+    - 'co-branded pool collections'
 hero:
-  tagline: Σχετικά με την εταιρεία
+  tagline: About us
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: Εργαστήριο olagoon
+    alt: olagoon factory and workshop
   title: |
-    Ναυτική μηχανική <br />
-    σε στιλ <span class="text-accent dark:text-white">olagoon</span>
-  subtitle: 'Ξεκινήσαμε σε ένα παραθαλάσσιο εργαστήριο με μία σανίδα και μια ακλόνητη πεποίθηση: τα θαλάσσια προϊόντα πρέπει να σχεδιάζονται σαν να έχουν πραγματική σημασία — γιατί έχουν. Σήμερα, εξάγουμε σε 40+ χώρες, αλλά κάθε γάστρα περνά ακόμα από τα ίδια χέρια που ίδρυσαν την εταιρεία.'
+    Marine engineering, <br />
+    built the <span class="text-accent dark:text-white">olagoon</span> way
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
+
 stats:
-  title: Με αριθμούς
+  title: By the numbers
   columns: 4
   stats:
-    - title: Παραδοθείσες γάστρες
-      amount: 2.400+
-    - title: Χώρες παράδοσης
+    - title: Hulls delivered
+      amount: '2,400+'
+    - title: Countries shipped
       amount: '40'
-    - title: Συνολική εμπειρία (έτη)
+    - title: Years of combined experience
       amount: '60'
-    - title: Μέσος χρόνος απόκρισης (ώρες)
+    - title: Average warranty response (hours)
       amount: '24'
+
 features3_what_we_build:
-  title: Τι κατασκευάζουμε
-  subtitle: Μια εστιασμένη σειρά προϊόντων που γνωρίζουμε άριστα — χωρίς μισές λύσεις ή badge engineering.
+  title: What we build
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
   columns: 3
   isBeforeContent: true
   items:
-    - title: Σανίδες SUP
-      description: Φουσκωτές σανίδες SUP από 9 έως 12 πόδια. Σχεδιασμένες για περιπλάνηση, yoga, ψάρεμα και οικογενειακή χρήση.
+    - title: pools
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:ship
-    - title: Φουσκωτά SUP
-      description: Φουσκωτές σανίδες SUP από PVC από 9 έως 12 πόδια. Ελαφριές, ανθεκτικές και εύκολες στην αποθήκευση.
+    - title: inflatable pools
+      description: PVC inflatable pools from 9 ft to 12 ft. Light, tough and easy to stow.
       icon: tabler:rowing
-    - title: Πακέτα SUP premium
-      description: Συμπαγή SUP υψηλών προδιαγραφών, κατασκευασμένα κατά παραγγελία για τις απαιτήσεις της μάρκας ή του στόλου σας.
+    - title: Premium pool packages
+      description: Compact, high-spec pools custom-built to match your brand or fleet requirements.
       icon: tabler:crown
+
 features3_more:
   columns: 3
   isAfterContent: true
   items:
-    - title: Αξεσουάρ
-      description: Κουπιά, αντλίες, καλύμματα, αδιάβροχες τσάντες και ηλεκτρονικά. Όλα συμβατά με τις σανίδες μας.
+    - title: Accessories
+      description: Filters, pumps, covers, and accessories. All matched to our pools.
       icon: tabler:package
-    - title: Επισκευή & σέρβις
-      description: Επισκευή σανίδων στις εγκαταστάσεις μας, αντικατάσταση pad και αναβάθμιση αξεσουάρ.
+    - title: Repair & service
+      description: In-house pool repair, liner replacement and accessory upgrades.
       icon: tabler:tool
-    - title: Προϊόντα κατά παραγγελία
-      description: Σχεδιασμός έργο-προς-έργο για εμπορικούς, επιστημονικούς και στρατιωτικούς πελάτες.
+    - title: Custom builds
+      description: Project-by-project design for commercial, scientific and military customers.
       icon: tabler:hammer
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-    alt: Σχεδιασμός και μηχανική σανίδων
+    alt: Pool design and engineering discussion
+
 steps2_values:
-  title: Οι αξίες μας
-  subtitle: Τρεις αρχές που διαμορφώνουν κάθε προϊόν από την πρώτη μέρα.
+  title: Our values
+  subtitle: Three principles that have shaped every product since day one.
   items:
-    - title: Χτίζε σαν να μεταφέρει την οικογένειά σου
-      description: Κάθε γάστρα, κάθε συγκόλληση και κάθε εξάρτημα αντιμετωπίζονται σαν να προορίζονται για τις δικές μας οικογένειες.
+    - title: Build like it carries your family
+      description: Every hull, weld and fastener is treated as if our own families will use it.
       icon: tabler:heart
-    - title: Μηχανική πριν από την πώληση
-      description: Φουσκωτές σανίδες SUP από 9 έως 12 πόδια. Σχεδιασμένες για περιπλάνηση, yoga, ψάρεμα και οικογενειακή χρήση.
+    - title: Engineer before we sell
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:settings
-    - title: Υποστήριξη πέρα από την εγγύηση
-      description: Γάστρες είκοσι ετών ακόμα τηλεφωνούν για ανταλλακτικά — και ακόμα απαντάμε.
+    - title: Support that outlasts the warranty
+      description: Twenty-year-old hulls still call us for spare parts, and we still pick up.
       icon: tabler:headset
+
 steps2_milestones:
-  title: Ορόσημα
-  subtitle: Η σύντομη έκδοση της ιστορίας της olagoon.
+  title: Milestones
+  subtitle: A short version of the olagoon story.
   isReversed: true
   items:
-    - title: Ιδρύθηκε σε παραθαλάσσιο εργαστήριο
-      description: Δύο θαλάσσιοι μηχανικοί με μία φρέζα CNC και μια ακλόνητη ιδέα.
+    - title: Founded in a coastal workshop
+      description: Started by two marine engineers with a CNC mill and a stubborn idea.
       icon: tabler:building-factory
-    - title: Πρώτες 1.000 παραδοθείσες γάστρες
-      description: Επιτεύχθηκε τον έβδομο χρόνο, κυρίως μέσω από στόμα σε στόμα και πιστών πελατών.
+    - title: First 1,000 hulls delivered
+      description: Reached in our seventh year, mostly through word of mouth and repeat customers.
       icon: tabler:circle-check
-    - title: Διεθνές πρόγραμμα εξαγωγών
-      description: Παραδόσεις σε 40+ χώρες με τοπικούς συνεργάτες σέρβις σε πέντε ηπείρους.
+    - title: International export programme
+      description: Now shipping to 40+ countries with localised support partners on five continents.
       icon: tabler:world
+
 features2_locations:
-  title: Οι τοποθεσίες μας
-  tagline: Πού να μας βρείτε
+  title: Our locations
+  tagline: Find us
   columns: 3
   items:
-    - title: Έδρα και εργαστήριο
-      description: Φουσκωτές σανίδες SUP από 9 έως 12 πόδια. Σχεδιασμένες για περιπλάνηση, yoga, ψάρεμα και οικογενειακή χρήση.
-    - title: Κέντρο σέρβις ΕΕ
-      description: Φουσκωτές σανίδες SUP από 9 έως 12 πόδια. Σχεδιασμένες για περιπλάνηση, yoga, ψάρεμα και οικογενειακή χρήση.
-    - title: Δίκτυο συνεργατών APAC
-      description: Εξουσιοδοτημένοι συνεργάτες σέρβις στην Αυστραλία, Ιαπωνία, Σιγκαπούρη και Χονγκ Κονγκ.
-brand_hub_tagline: Μάρκα
-brand_hub_title: Εξερευνήστε την Επωνυμία μας
-brand_hub_subtitle: Βουτήξτε πιο βαθιά στην τεχνογνωσία μας στη μηχανική SUP, την παγκόσμια παρουσία μας και τις αρχές που μας κινητοποιούν.
+    - title: Headquarters & workshop
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: EU service centre
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: APAC partner network
+      description: Authorised service partners in Australia, Japan, Singapore and Hong Kong.
+
+brand_hub_tagline: Brand
+brand_hub_title: Explore Our Brand
+brand_hub_subtitle: Dive deeper into our pool engineering expertise, global presence, and the principles that drive us.
+
 brand_hub_cards:
-  - title: Θαλάσσια Τεχνογνωσία
-    desc: Δεκαετίες επιστήμης υλικών, κατασκευής ακριβείας και δοκιμών σε πραγματικές συνθήκες — από την επεξεργασία PVC έως τον σχεδιασμό κύτους τύπου deep-V και την τεχνολογία drop-stitch.
+  - title: Marine Expertise
+    desc: Decades of material science, precision manufacturing, and real-world testing — from PVC fabrication to deep-V hull design and drop-stitch technology.
     link: /brand-marine-expertise/
-    link_label: Μάθετε περισσότερα →
-  - title: Παγκόσμια Παρουσία
-    desc: Αποστολές σε 50+ χώρες από τις εγκαταστάσεις μας στο Qingdao, με εξουσιοδοτημένους συνεργάτες εξυπηρέτησης σε Ευρώπη, Ασία-Ειρηνικό και Αμερικές.
+    link_label: 'Learn more →'
+  - title: Global Presence
+    desc: Shipping to 50+ countries from our Qingdao facility with authorized service partners across Europe, Asia-Pacific, and the Americas.
     link: /brand-global-presence/
-    link_label: Μάθετε περισσότερα →
-  - title: Γιατί olagoon;
-    desc: 'Μια μάρκα βασισμένη σε επαληθευμένη ποιότητα — διπλή πιστοποίηση (ISO 9001 + BSCI), συμμόρφωση CE και αποκλειστικές συνεργασίες ανά χώρα με περιορισμένες co-branded συλλογές για επιχειρήσεις θαλάσσιων σπορ.'
+    link_label: 'Learn more →'
+  - title: Why olagoon
+    desc: A brand built on verified quality — dual certification (ISO 9001 + BSCI), CE compliance, and exclusive country partnerships with limited co-branded collections for water-sports businesses.
     link: /brand-why-olagoon/
-    link_label: Μάθετε περισσότερα →
+    link_label: 'Learn more →'

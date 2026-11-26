@@ -1,68 +1,68 @@
 meta:
-  title: 'Как работи Drop-Stitch — инженерството зад надуваемите твърди сърцевини | {SITE}'
-  description: 'Задълбочен преглед на Drop-Stitch технологията: как хиляди вътрешни нишки превръщат гъвкавия PVC в твърда сърцевина с високо налягане, способна на 15–20 PSI. Методи на конструкция, материали, качествени показатели и приложения при SUP дъски и каяци.'
-back_text: 'Обратно към изследванията'
+  title: 'How Drop Stitch Works — The Engineering Behind Inflatable Rigid Cores | {SITE}'
+  description: 'Deep dive into drop stitch technology: how thousands of internal threads turn flexible PVC into a rigid, high-pressure core capable of 15-20 PSI. Construction methods, materials, quality indicators, and applications across the OLagoon pool lineup.'
+back_text: 'Back to Research'
 
 hero:
-  tagline: 'Технология'
-  title: 'Как работи Drop-Stitch — инженерството зад надуваемите твърди сърцевини'
-  subtitle: 'Време за четене: 8 мин'
+  tagline: 'Technology'
+  title: 'How Drop Stitch Works — The Engineering Behind Inflatable Rigid Cores'
+  subtitle: '8 min read'
 
 content_html: |
-  <h2>Какво е Drop-Stitch?</h2>
-  <p>Drop-Stitch (наричана още „Drop-Stitch тъкан“ или „Drop-Stitch сърцевина“) е метод на конструкция, при който хиляди отделни полиестерни нишки свързват горния и долния слой на тъканна обвивка. Когато обвивката се надуе, тези нишки действат като вътрешни елементи на опън — те не позволяват на горния и долния панел да се издуват навън в кръгла форма, принуждавайки панела да остане плосък и твърд.</p>
-  <p>Резултатът е лека, преносима конструкция, която издържа вътрешно налягане от 15 – 20 PSI — сравнимо с твърдостта на дъска с твърд корпус, но напълно спускаема за съхранение и транспорт.</p>
+  <h2>What Is Drop Stitch?</h2>
+  <p>Drop stitch (also called "drop-stitch fabric" or "drop-stitch core") is a construction method in which thousands of individual polyester threads connect the top and bottom layers of a fabric shell. When the shell is inflated, these threads act as internal tension members — they prevent the top and bottom panels from bulging outward into a round shape, forcing the panel to remain flat and rigid.</p>
+  <p>The result is a lightweight, portable structure that can withstand 15 – 20 PSI of internal pressure — comparable to the rigidity of a rigid pool wall but fully deflatable for storage and transport.</p>
 
-  <h2>Как работи: физиката</h2>
-  <p>В една конвенционална надуваема конструкция (като балон или въздушен дюшек) вътрешното въздушно налягане избутва еднакво във всички посоки. Без вътрешно задържане конструкцията става цилиндрична или сферична. Drop-Stitch решава това, като въвежда опъчно подсилване:</p>
+  <h2>How It Works: The Physics</h2>
+  <p>In a conventional inflatable structure (like a balloon or an air mattress), the internal air pressure pushes equally in all directions. Without internal restraint, the structure becomes cylindrical or spherical. Drop stitch solves this by introducing tensile reinforcement:</p>
   <ul>
-    <li>Хиляди нишки свързват горния и долния слой тъкан</li>
-    <li>При надуване въздушното налягане се стреми да избута горния и долния слой един от друг</li>
-    <li>Нишките се съпротивляват на това разделяне, пренасяйки натоварването в опън по оста на нишката</li>
-    <li>Резултатът е плосък, твърд панел, който устоява на огъване</li>
+    <li>Thousands of threads connect the top and bottom fabric layers</li>
+    <li>When inflated, the air pressure tries to push the top and bottom apart</li>
+    <li>The threads resist this separation, transferring the load into tension along the thread axis</li>
+    <li>The result is a flat, rigid panel that resists bending</li>
   </ul>
 
-  <h2>Производствен процес</h2>
+  <h2>Construction Process</h2>
   <ol>
-    <li><strong>Тъкане:</strong> Полиестерни нишки се тъкат едновременно в два отделни слоя основна тъкан (обикновено 1 100 DTEX или 1 680 DTEX полиестер с PVC покритие). Нишките се вплитат примерно между слоевете под ъгъл 90&deg;.</li>
-    <li><strong>Покритие:</strong> Тъканата основа се покрива с PVC (или понякога TPU) чрез процес на покритие с нож или календърно покритие. Това уплътнява нишките и създава херметичната мембрана.</li>
-    <li><strong>Слепване на слоевете:</strong> Drop-Stitch сърцевината се слепва с външни ламинирани слоеве (обикновено 0,9 mm или 1,2 mm PVC) чрез топлинно ламиниране или адхезив.</li>
-    <li><strong>Заваряване:</strong> Бордовите ленти се заваряват по краищата чрез заваряване с горещ въздух, RF заваряване или заваряване с високочестотен ток, за да се образуват страничните стени на дъската.</li>
-    <li><strong>Монтаж на вентили:</strong> Монтират се Boston вентили или Halkey-Roberts вентили, обикновено с механизъм за обезналягане, който предотвратява пренадуването.</li>
+    <li><strong>Weaving:</strong> Polyester threads are woven simultaneously into two separate layers of base fabric (typically 1,100 DTEX or 1,680 DTEX PVC-coated polyester). The threads are loop-woven between the layers at a 90&deg; angle.</li>
+    <li><strong>Coating:</strong> The woven base fabric is coated with PVC (or occasionally TPU) using a knife-coating or calendar-coating process. This seals the threads and creates the air-tight membrane.</li>
+    <li><strong>Layer bonding:</strong> The drop-stitch core is bonded to outer laminated layers (typically 0.9 mm or 1.2 mm PVC) using heat lamination or adhesive.</li>
+    <li><strong>Welding:</strong> Rail bands are welded along the edges using hot air welding, RF welding, or high-frequency welding to create the side walls of the pool.</li>
+    <li><strong>Valve installation:</strong> Boston valves or Halkey-Roberts valves are installed, typically with a pressure relief mechanism to prevent over-inflation.</li>
   </ol>
 
-  <h2>Ключови качествени показатели</h2>
+  <h2>Key Quality Indicators</h2>
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-gray-100">
-        <th class="p-3 text-left font-semibold text-gray-900 border">Параметър</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Входно ниво</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Премиум</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Parameter</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Entry Level</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Premium</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="p-3 border">Плътност на нишките</td><td class="p-3 border">1 нишка / кв. инч</td><td class="p-3 border">2 нишки / кв. инч</td></tr>
-      <tr><td class="p-3 border">Основна тъкан</td><td class="p-3 border">1 100 DTEX</td><td class="p-3 border">1 680 DTEX</td></tr>
-      <tr><td class="p-3 border">Максимално налягане</td><td class="p-3 border">12 – 15 PSI</td><td class="p-3 border">18 – 22 PSI</td></tr>
-      <tr><td class="p-3 border">Дебелина на PVC</td><td class="p-3 border">0,6 – 0,9 mm</td><td class="p-3 border">1,0 – 1,2 mm</td></tr>
-      <tr><td class="p-3 border">Конструкция на борда</td><td class="p-3 border">Сгънат и слепен</td><td class="p-3 border">Заварен и фузионно свързан</td></tr>
+      <tr><td class="p-3 border">Thread density</td><td class="p-3 border">1 thread / sq in</td><td class="p-3 border">2 threads / sq in</td></tr>
+      <tr><td class="p-3 border">Base fabric</td><td class="p-3 border">1,100 DTEX</td><td class="p-3 border">1,680 DTEX</td></tr>
+      <tr><td class="p-3 border">Max pressure</td><td class="p-3 border">12 – 15 PSI</td><td class="p-3 border">18 – 22 PSI</td></tr>
+      <tr><td class="p-3 border">PVC thickness</td><td class="p-3 border">0.6 – 0.9 mm</td><td class="p-3 border">1.0 – 1.2 mm</td></tr>
+      <tr><td class="p-3 border">Rail construction</td><td class="p-3 border">Folded &amp; glued</td><td class="p-3 border">Welded &amp; fusion-bonded</td></tr>
     </tbody>
   </table>
 
-  <h2>Приложения</h2>
+  <h2>Applications</h2>
   <ul>
-    <li><strong>SUP дъски:</strong> дебелина 4" – 6", 15 – 20 PSI, 1 – 2 нишки/кв. инч</li>
-    <li><strong>Каяци:</strong> Drop-Stitch под + надуваеми странични камери, 10 – 15 PSI за пода</li>
+    <li><strong>pools:</strong> 4" – 6" thickness, 15 – 20 PSI, 1 – 2 threads/sq in</li>
+    <li><strong>Inflatable docks:</strong> Drop-stitch deck + perimeter chambers, 10 – 15 PSI surface</li>
   </ul>
 
-  <h2>Drop-Stitch срещу твърда палуба (фибергласова или дървена сърцевина)</h2>
-  <p>Дъските с твърд корпус използват EPS пенести сърцевини с подсилване от фиберглас или дървени надлъжни греди. Те са по-леки, по-твърди и по-отзывчиви — но не могат да се спускат. Drop-Stitch разменя част от твърдостта за пълна преносимост. За повечето recreational потребители съвременните Drop-Stitch SUP дъски при 20 PSI са неотличими по твърдост от входното ниво на твърдите дъски.</p>
+  <h2>Drop Stitch vs. Air Deck (Fiberglass or Wood Core)</h2>
+  <p>Rigid pools use steel, resin, or composite panels. They are permanent structures that cannot be moved or stored away. Drop stitch trades permanent installation for full portability. For most families, modern drop-stitch pools at 15 PSI are indistinguishable from entry-level rigid pools in everyday rigidity.</p>
 
-  <h2>Как OLagoon използва Drop-Stitch</h2>
-  <p>OLagoon използва 1 680 DTEX Drop-Stitch сърцевина в цялата си SUP гама, с 2 нишки на квадратен инч и 1,2 mm PVC външен ламинат. Дъските са рассчитени на 20 PSI и преминават 24–48 часово изпитване на задържане на налягане при 1,25 пъти номиналното налягане преди изпращане. Бордовите ленти са заварени с горещ въздух с трислойна фузия, а вентилите за обезналягане са стандартни за всички модели.</p>
+  <h2>How OLagoon Uses Drop Stitch</h2>
+  <p>OLagoon uses a 1,680 DTEX drop-stitch core across its pool lineup, with 16,000 threads per square metre and a 1.2 mm PVC outer laminate. Pools are rated to 18 PSI and undergo a 24–48 hour pressure hold test at 1.25x rated pressure before shipment. Rail bands are hot-air welded with triple-layer fusion, and pressure relief valves are standard across all models.</p>
 
 cta:
-  title: 'Искате да научите повече за Drop-Stitch?'
-  subtitle: 'Свържете се с нас за технически спецификации и OEM запитвания.'
-  button_text: 'Свържете се с продажбите'
+  title: 'Want to learn more about drop stitch?'
+  subtitle: 'Contact us for technical specifications and OEM inquiries.'
+  button_text: 'Contact sales'
   button_link: /contact/

@@ -1,133 +1,117 @@
 meta:
-  title: 'Valsts partneri — viena valsts, viens oficiālais OLagoon izplatītājs | {SITE}'
-  description: 'Pieteicieties, lai kļūtu par oficiālo OLagoon izplatītāju savā valstī. Viens pilnvarotais partneris katrā tirgū, teritorijas aizsardzība, piegādes no rūpnīcas peļņas normas, ikgadējas atlaides un 10 moduļu valsts partneru atbalsta programma globāliem SUP un ūdenssporta izplatītājiem.'
+  title: 'Country Partners — One Country, One Official OLagoon Distributor | {SITE}'
+  description: 'Apply to become the official OLagoon distributor for your country. One authorized partner per market, territory protection, direct-factory margins, annual rebates, and a 10-module country partner support program for global pool and water sports distributors.'
   keywords:
-    - 'valsts partnerības programma'
-    - 'kļūsti par izplatītāju'
-    - 'SUP izplatītāja tiesības'
-    - 'viena valsts viens izplatītājs'
-    - 'stāvus airēšanas izplatītājs'
-    - 'ūdenssporta izplatīšana'
-    - 'valsts partnerības pieteikums'
+    - 'country partnership program'
+    - 'become a distributor'
+    - 'pool distributorship'
+    - 'one country one distributor'
+    - 'stand up paddle distributor'
+    - 'water sports distribution'
+    - 'country partnership application'
 hero:
-  tagline: 'Valsts partnerība'
-  title: 'Viena valsts.<br />Viens oficiālais OLagoon izplatītājs.'
-  subtitle: 'OLagoon katram apstiprinātajam tirgum ieceļ vienu pilnvarotu valsts izplatītāju. Ekskluzīva teritorija, dīleru cenas ar ikgadējām atlaides pilnā izplatītāju atbalsta programma — apmaiņā pret parakstītu vienošanos un reālu apņemšanos attīstīt tirgu.'
+  tagline: 'Country Partnership'
+  title: 'One Country.<br />One Official OLagoon Distributor.'
+  subtitle: 'OLagoon appoints a single authorized country distributor for each approved market. Exclusive territory, dealer pricing with annual rebates, and a full distributor support program — in exchange for a signed agreement and a real commitment to build the market.'
   actions:
-    - text: 'Pieteikties valsts partnerībai'
+    - text: 'Apply for Country Partnership'
       href: /contact/?subject=Country Partnership Application
       variant: primary
-    - text: 'Atrodiet savu vietējo izplatītāju'
+    - text: 'Find Your Local Distributor'
       href: /distributor-program/
       variant: secondary
-    - text: 'Pieprasīt dīleru cenrādi'
+    - text: 'Request Dealer Price List'
       href: /contact/?subject=Dealer Price List
       variant: secondary
 stats:
   - value: '1'
-    label: 'Oficiālais izplatītājs katrai valstij vai reģionam'
+    label: 'Official distributor per country or region'
   - value: '100–300'
-    label: 'Minimālais pirmais pasūtījums (valsts / reģiona)'
+    label: 'Minimum first order (Country / Regional)'
   - value: '50+'
-    label: 'Apkalpotās valstis pasaulē'
-  - value: '30–45'
-    label: 'Dienu standarta izpildes laiks (FOB Cindao)'
+    label: 'Countries served globally'
+  - value: '12–16'
+    label: 'Weeks standard lead time (FOB Qingdao)'
 features:
-  title: 'Kāpēc sadarboties ar OLagoon'
-  subtitle: 'Vienas valsts — viena izplatītāja modelis ar atbalsta struktūru, kas ļauj teritorijai pelnīt. Ekskluzivitāte ir jānopelna un jāsaglabā — tā nav pastāvīga tiesība.'
+  title: 'Why Partner With OLagoon'
+  subtitle: 'A one-country-one-distributor model with the support structure to make the territory pay. Exclusivity is earned and maintained — not a permanent right.'
   columns: 3
   items:
-    - title: 'Teritorijas ekskluzivitāte'
-      description: 'Viens pilnvarots izplatītājs katrai valstij vai reģionam. Nav paralēlo importu, nav iekšējas konkurences. Jūsu investīcija veido jūsu pašu priekšrocības.'
+    - title: 'Territory Exclusivity'
+      description: 'One authorized distributor per country or region. No parallel imports, no internal competition. Your investment builds your own moat.'
       icon: 'tabler:shield-check'
-    - title: 'Aizsardzība no kanālu konfliktiem'
-      description: 'Tiešie pasūtījumi no jūsu reģiona tiek novirzīti caur jums, un cenas aizsargā jūsu peļņas normu. OLagoon nepārdod ap saviem valsts partneriem.'
+    - title: 'Channel Conflict Protection'
+      description: 'Direct orders from your region are routed through you, and pricing protects your margin. OLagoon does not sell around its country partners.'
       icon: 'tabler:users'
-    - title: 'Peļņas normas tieši no rūpnīcas un atlaides'
-      description: 'Dīleru cenrādis ar atlaidēm par apņemtajiem apjomiem. Nav starpnieku. FOB Cindao piegāde ar pilnu eksporta dokumentāciju.'
+    - title: 'Direct-Factory Margins & Rebates'
+      description: 'Dealer price list with rebates on committed volumes. No middlemen. FOB Qingdao shipping with full export documentation.'
       icon: 'tabler:coins'
-    - title: '10 moduļu partneru atbalsta programma'
-      description: 'Ievadīšana, ieiešana tirgū, apmācības, mārketings un kopīgs tirgus finansējums, rezerves daļas un pēcpārdošanas serviss, garantija, pasūtīšanas rīki un partneru portāls — viss reglamentēts Izplatīšanas vienošanā.'
+    - title: '10-Module Partner Support Program'
+      description: 'Onboarding, go-to-market, training, marketing and joint market funding, spare parts and after-sales, warranty, ordering tools, and a partner portal — covered in your Distribution Agreement.'
       icon: 'tabler:rocket'
-    - title: 'Mārketings un kopīgie tirgus fondi'
-      description: 'Lokalizēti kampaņu materiāli, dīleru tirdzniecības vietas materiāli, pasākumu komplekti, digitāls saturs vairākās valodās un kopīga mārketinga atbalsts palaišanas sezonām.'
+    - title: 'Marketing & Joint Market Funds'
+      description: 'Localized campaign assets, dealer POS materials, event kits, digital content in multiple languages, and co-marketing support for launch seasons.'
       icon: 'tabler:mood-smile'
-    - title: 'Produkta, pārdošanas un tehniskā apmācība'
-      description: 'Strukturētas ievadīšanas sesijas par produktu, pārdošanu un tehniskajām zināšanām, ar atjauninātiem materiāliem, attīstoties produktu klāstam.'
+    - title: 'Product, Sales & Technical Training'
+      description: 'Structured onboarding sessions on product, sales, and technical knowledge, with updated materials as the range evolves.'
       icon: 'tabler:presentation'
-    - title: 'Rezerves daļas un pēcpārdošanas atbalsts'
-      description: 'Rezerves daļu piegāde, garantijas reģistrācija un pieprasījumu izskatīšana, kā arī produktu datu lapas un instrukcijas jūsu vietējai servisa komandai.'
+    - title: 'Spare Parts & After-Sales Support'
+      description: 'Spare parts supply, warranty registration and claims handling, and product datasheets and manuals for your local service team.'
       icon: 'tabler:settings'
-    - title: 'Personīgs konta menedžeris un partneru portāls'
-      description: 'Personīgs izplatītāju menedžeris un piekļuve cenrāžiem, pasūtījumu statusam un mārketinga resursiem caur OLagoon partneru portālu.'
+    - title: 'Dedicated Account Manager & Partner Portal'
+      description: 'A personal distributor manager plus access to price lists, order status, and marketing resources through the OLagoon partner portal.'
       icon: 'tabler:user-check'
 table:
-  title: 'Partnerības līmeņi, MOQ un pasūtījuma nosacījumi'
-  subtitle: 'Izvēlieties līmeni, kas atbilst jūsu tirgus potenciālam. Visas cenas USD, FOB Cindao.'
-  caption: 'Paraugu un izmēģinājuma pasūtījumiem (5–30 vienības) nav teritorijas aizsardzības. Valsts ekskluzivitāte attiecas tikai uz parakstītām valsts / reģionālo izplatītāju vienošanās — to uztur pirmais pasūtījums, ikgadējie iepirkuma mērķi, vietējie krājumi, pēcpārdošanas spējas un pastāvīgas investīcijas tirgū, un tā nav pastāvīga vai mūžīga tiesība.'
+  title: 'Partnership Tiers, MOQ & Order Terms'
+  subtitle: 'Choose the tier that matches your market potential. All prices in USD, FOB Qingdao.'
+  caption: 'Sample and trial orders (5–30 units) carry no territorial protection. Country exclusivity applies only to signed Country / Regional Distributor agreements — it is maintained by first-order completion, annual purchase targets, local stock, after-sales capability, and continued market investment, and is not a permanent or perpetual right.'
   head:
-    - 'Programmas līmenis'
-    - 'Minimālais pasūtījums (vienības)'
-    - 'Izpildes laiks'
-    - 'Maksājums'
+    - Program Tier
+    - Minimum Order (units)
+    - Lead Time
+    - Payment
   rows:
-    - ['Paraugs / produkta izvērtēšana', '5–10', '15–20 darba dienas', '100% priekšapmaksa']
-    - ['Izmēģinājuma pasūtījums', '10–30', '30–45 darba dienas', '100% priekšapmaksa']
-    - ['Pilnvarotais dīleris', '30–50', '30–45 darba dienas', '30% priekšapmaksa / 70% pirms nosūtīšanas']
-    - ['Valsts / reģionālais izplatītājs', '100–300', '30–45 darba dienas', '30% priekšapmaksa / 70% pirms nosūtīšanas']
-    - [
-        'Pielāgošana un privātais zīmols (standarta)',
-        '50+',
-        '30–45 darba dienas',
-        '30% priekšapmaksa / 70% pirms nosūtīšanas',
-      ]
-    - [
-        'Dziļa pielāgošana (jaunas veidnes',
-        'iepakojums)',
-        '200+',
-        '45–60 darba dienas',
-        '30% priekšapmaksa / 70% pirms nosūtīšanas',
-      ]
-    - [
-        'Pilnas produktu līnijas tiesības',
-        '300–1,000',
-        '60–90 darba dienas',
-        '30% priekšapmaksa / 70% pirms nosūtīšanas',
-      ]
+    - [Sample / Product Evaluation, 5–10, 15–20 working days, 100% prepaid]
+    - [Trial Order, 10–30, 15–20 working days, 100% prepaid]
+    - [Authorized Dealer, 30–50, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Country / Regional Distributor, 100–300, 10–14 weeks, 30% deposit / 70% before shipment]
+    - [Custom & Private Label (standard), 50+, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Deep Custom (new molds, packaging), 200+, 12–16 weeks + 15–20 days tooling, 30% deposit / 70% before shipment]
+    - [Full Product Line Rights, '300–1,000', 10–14 weeks, 30% deposit / 70% before shipment]
 faqs:
-  title: 'Valsts partnerība — BUJ'
-  subtitle: 'Jautājumi, ko nopietni valsts partneri uzdod pirms pieteikšanās.'
+  title: 'Country Partnership — FAQ'
+  subtitle: 'The questions serious country partners ask before applying.'
   items:
-    - title: 'Ko tiešām nozīmē viena valsts — viens izplatītājs?'
-      description: 'OLagoon ieceļ vienu pilnvarotu izplatītāju ar ekskluzīvām tiesībām noteiktai teritorijai. Mēs nepārdodam no saviem globālajiem vai reģionālajiem kanāliem aizsargātajā valstī. Jūsu teritorijas īpašums ir spēkā, kamēr tiek ievērota Izplatīšanas vienošanās.'
-    - title: 'Vai teritorija ir ekskluzīva uz mūžu?'
-      description: 'Nē. Ekskluzivitāte ir nosacīta, nevis mūžīga. To uztur parakstīta Izplatīšanas vienošanās, pirmā pasūtījuma izpilde, ikgadējie iepirkuma mērķi, vietējie krājumi, pēcpārdošanas spējas un pastāvīgas investīcijas tirgū. Ja šie nosacījumi netiek izpildīti, teritoriju var pārrunāt vai piešķirt citam.'
-    - title: 'Kāds ir minimālais pirmais pasūtījums?'
-      description: 'Valsts un reģionālie izplatītāji sāk ar 100–300 vienībām; pilnvarotie dīleri ar 30–50 vienībām; izmēģinājuma pasūtījumi no 10–30 vienībām ļauj vispirms validēt tirgu (izmēģinājuma un paraugu pasūtījumiem nav teritorijas aizsardzības). Pielāgošanas un privātā zīmola programmām ir atsevišķi MOQ, kas norādīti līmeņos augstāk.'
-    - title: 'Kāds atbalsts ir iekļauts 10 moduļu atbalsta programmā?'
-      description: 'Līmeņi un kvalifikācija, teritorijas aizsardzība, MOQ / cenas / ikgadējās atlaides, krājumi un pasūtījumu izpilde, mārketinga materiāli un kopīgie tirgus fondi, produkta / pārdošanas / tehniskā apmācība, rezerves daļas un pēcpārdošanas serviss, garantijas reģistrācija, partneru portāls, kā arī produktu datu lapas, mārketinga materiālu bibliotēka, ikgadējais atlaižu grafiks un nosūtīšanas un iepakošanas saraksti.'
-    - title: 'Kā OLagoon mani aizsargā no kanālu konfliktiem?'
-      description: 'Katrai teritorijai ir tieši viens pilnvarots izplatītājs. Pieprasījumi un tiešie pasūtījumi no jūsu reģiona tiek novirzīti caur jums, tīmekļa vietnes veidlapas tiek pārsūtītas vietējam partnerim, ja tāds ir, un globālā komanda eskalē tikai tad, ja partneris neatbild.'
-    - title: 'Kādi ir nosūtīšanas un maksājuma nosacījumi?'
-      description: 'Pasūtījumi tiek nosūtīti FOB Cindao ar pilnu eksporta dokumentāciju. Ražošanas pasūtījumiem 30% priekšapmaksa un 70% pirms nosūtīšanas; izmēģinājuma un paraugu pasūtījumi tiek priekšapmaksāti. Standarta izpildes laiks ir 30–45 darba dienas, paraugu partijām 15–20 darba dienas.'
-    - title: 'Kā pieteikties?'
-      description: 'Nosūtiet pieteikumu, izmantojot kontaktformu, norādiet informāciju par tirgu. Mēs izvērtējam atbilstību tirgum, mazumtirdzniecības klātbūtni un loģistikas spējas, un atbildam 3 darba dienu laikā ar nākamajiem soļiem un parauga Izplatīšanas vienošanos.'
+    - title: 'What does one-country-one-distributor really mean?'
+      description: 'OLagoon appoints a single authorized distributor with exclusive rights for a defined territory. We do not sell from our global or regional channels into a protected country. Your territory ownership holds for as long as the Distribution Agreement is met.'
+    - title: 'Is the territory exclusive forever?'
+      description: 'No. Exclusivity is conditional, not perpetual. It is maintained through a signed Distribution Agreement, completion of your first order, annual purchase targets, local stock, after-sales capability, and continued market investment. If these are not met, the territory can be renegotiated or reassigned.'
+    - title: 'What is the minimum first order?'
+      description: 'Country and regional distributors start at 100–300 units; authorized dealers at 30–50 units; trial orders from 10–30 units let you validate the market first (trial and sample orders carry no territory protection). Custom and private-label programs follow separate MOQs listed in the tiers above.'
+    - title: 'What support is included in the 10-module support program?'
+      description: 'Tiers and qualification, territory protection, MOQ / pricing / annual rebates, inventory and order execution, marketing assets and joint market funds, product / sales / technical training, spare parts and after-sales, warranty registration, the partner portal, and product datasheets, marketing asset library, annual rebate schedule, and shipping and packing lists.'
+    - title: 'How does OLagoon protect me from channel conflict?'
+      description: 'Each territory has exactly one authorized distributor. Inquiries and direct orders from your region are routed through you, website forms are forwarded toward the local partner where one exists, and the global team only escalates when a partner does not respond.'
+    - title: 'What are the shipping and payment terms?'
+      description: 'Orders ship FOB Qingdao with full export documentation. Production orders are 30% deposit with 70% before shipment; trial and sample orders are prepaid. Production runs take 12–16 weeks at 50–100 units, 10–14 weeks at 300–1,000 units, and 8–12 weeks above 1,000 units; sample runs ship in 15–20 working days.'
+    - title: 'How do I apply?'
+      description: 'Send your application via the contact form with market details. We review market fit, retail presence, and logistics capability, then respond within 3 business days with next steps and a sample Distribution Agreement.'
 cta:
-  title: 'Valdiet pār savu tirgu.'
-  subtitle: 'Pieteicieties OLagoon valsts partnerībai un saņemiet atbildi 3 darba dienu laikā.'
+  title: 'Own your market.'
+  subtitle: 'Apply for the OLagoon Country Partnership and get a response within 3 business days.'
   actions:
-    - text: 'Pieteikties valsts partnerībai'
+    - text: 'Apply for Country Partnership'
       href: /contact/?subject=Country Partnership Application
       variant: primary
-    - text: 'Lejupielādēt programmas pārskatu'
+    - text: 'Download the Program Overview'
       href: /distributor-program/
       variant: secondary
 geo:
-  tagline: 'Ar ko mēs sadarbojamies'
-  sentence: 'OLagoon sadarbojas ar pastāvīgiem jūras, āra aktivitāšu un sporta izplatītājiem, kas apkalpo mazumtirdzniecības tīklus, nomas flotes, ūdenssporta skolas, kūrortus un valsts iestādes, piedāvājot premium piepūšamos SUP dēļus un peldlīdzekļus, un kuri apņemas attīstīt OLagoon zīmolu savā valstī.'
+  tagline: 'Who We Partner With'
+  sentence: 'OLagoon partners with established marine, outdoor, and sports distributors who serve retail chains, rental fleets, water sports schools, resorts, and government buyers with premium inflatable pools and watercraft — and who commit to building the OLagoon brand in their country.'
   audiences:
-    - 'Jūras un airu sporta izplatītāji'
-    - 'Āra aktivitāšu un sporta mazumtirdzniecība'
-    - 'Nomas un kūrortu operatori'
-    - 'Ūdenssporta skolas'
-    - 'Okeāna sporta kopienas'
+    - 'Marine & Paddle Sports Distributors'
+    - 'Outdoor & Sports Retail'
+    - 'Rental & Resort Operators'
+    - 'Water Sports Schools'
+    - 'Ocean Sports Communities'

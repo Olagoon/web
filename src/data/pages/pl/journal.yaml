@@ -1,22 +1,24 @@
 meta:
-  title: 'Dziennik — artykuły i poradniki morskie | {SITE}'
-  description: 'Dziennik olagoona: artykuły i poradniki o nadmuchiwanych deskach SUP, paddleboardingu i przemyśle morskim.'
+  title: 'Journal — Nautical Articles & Guides | {SITE}'
+  description: 'The olagoon journal: articles and guides about inflatable pools, pool care, and the backyard pool industry.'
   keywords:
-    - 'dziennik SUP'
-    - 'artykuły o paddle boardach'
-    - 'blog nadmuchiwanych SUP'
-    - 'poradniki morskie'
+    - 'pool journal'
+    - 'inflatable pool articles'
+    - 'inflatable pools blog'
+    - 'nautical guides'
 hero:
-  title: Dziennik olagoon
-  subtitle: Najnowsze wiadomości, przygody żeglarskie i historie produktów od zespołu olagoon.
+  title: Journal
+  subtitle: Pool guides, gear comparisons, and backyard stories — written for real conditions.
+
 latest:
-  tagline: Najnowszy
-  title: Przewodniki i porównania
-  browse_all: Przeglądaj wszystkie 20 →
-  read: Czytaj →
+  tagline: Latest
+  title: Guides & Comparisons
+  browse_all: Browse all 20 →
+  read: Read →
+
 social_section:
-  tagline: Treść × Społeczności
-  title: Każdy przewodnik staje się 5 postami w mediach społecznościowych
-  subtitle: TikTok · Instagram · X · Pinterest · Reddit — z każdego artykułu.
-  pipeline_cta: Kanał społeczny →
-  guides_cta: Przeglądaj poradniki
+  tagline: Content × Social
+  title: Every guide becomes 5 social posts
+  subtitle: TikTok · Instagram · X · Pinterest · Reddit — from every article.
+  pipeline_cta: Social Pipeline →
+  guides_cta: Browse Guides

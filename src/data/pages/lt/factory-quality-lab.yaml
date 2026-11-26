@@ -1,68 +1,68 @@
 meta:
-  title: 'Kokybės laboratorija — testavimas ir kokybės užtikrinimas | {SITE}'
-  description: 'Nepriklausoma kokybės laboratorija su ISO 9001 procesais pas olagoon: kiekvienas vienetas išbandomas prieš siunčiant, siekiant garantuoti pripučiamų SUP lentų kokybę.'
+  title: 'Quality Lab — Testing & Quality Assurance | {SITE}'
+  description: 'Independent quality lab with ISO 9001 processes at olagoon: every unit tested before shipment to guarantee inflatable pools quality.'
   keywords:
-    - 'sup kokybės kontrolė'
-    - 'irklavimo lentų testavimo laboratorija'
-    - 'iso 9001 sup gamykla'
-    - 'pripučiamų sup kokybė'
+    - 'pool quality control'
+    - 'inflatable pool testing lab'
+    - 'iso 9001 pool factory'
+    - 'inflatable pools quality'
 hero:
-  tagline: 'Kokybės kontrolės laboratorija'
-  title: 'Testavimo laboratorija ir kokybės užtikrinimas'
-  subtitle: 'Nepriklausoma kokybės laboratorija su ISO 9001 procesais — kiekvienas vienetas išbandomas prieš siunčiant'
+  tagline: Quality Control Laboratory
+  title: Testing Laboratory & Quality Assurance
+  subtitle: Independent quality lab with ISO 9001 processes — every unit tested before shipment
 
-intro: 'olagoon valdo tam skirtą kokybės kontrolės laboratoriją, kuri veikia nepriklausomai nuo gamybos. Kiekviena žaliavų partija ir kiekviena baigta lenta prieš išleidžiamą praeina dokumentuotus patikros protokolus. Mūsų KK komanda atsiskaito tiesiogiai vadovybei, taip užtikrinant nešališkus kokybės sprendimus.'
+intro: olagoon operates a dedicated quality control laboratory that operates independently from production. Every batch of raw material and every finished pool passes through documented inspection protocols before release. Our QC team reports directly to management, ensuring impartial quality decisions.
 
 highlights:
-  - value: '100%'
-    label: 'Vientetai, išbandyti slėgiu'
-    detail: 'Kiekviena kamera, kiekviena lenta'
-  - value: '24–48 h'
-    label: 'Oro sulaikymo testo trukmė'
-    detail: 'Esant 1.25× nominaliam slėgiui'
+  - value: 100%
+    label: Units pressure-tested
+    detail: Every chamber, every pool
+  - value: 24–48 h
+    label: Air retention test duration
+    detail: At 1.25× rated pressure
   - value: '&lt;5%'
-    label: 'Didžiausias leistinas slėgio kritimas'
-    detail: 'Per 24–48 valandų laikymo laikotarpį'
-  - value: 'AQL 2.5'
-    label: 'Pagrindinio defekto riba'
-    detail: 'Pagal ISO 2859 atranką'
+    label: Max allowed pressure drop
+    detail: Over the 24–48 hour hold period
+  - value: AQL 2.5
+    label: Major defect threshold
+    detail: Per ISO 2859 sampling
 
 test_procedures:
-  - title: 'Žaliavų patikra'
-    description: 'Kiekviena įeinanti PVC, „Drop-Stitch“ audinio ir furnitūros partija yra išbandoma prieš priėmimą. Tempimo stipris (ASTM D751), plyšimo atsparumas (ISO 4674) ir UV atsparumas yra patvirtinami. Neatitinkančios medžiagos izoliuojamos ir grąžinamos.'
+  - title: Raw Material Inspection
+    description: Every incoming batch of PVC, drop-stitch fabric, and hardware is tested before acceptance. Tensile strength (ASTM D751), tear resistance (ISO 4674), and UV resistance are verified. Non-conforming materials are quarantined and returned.
     standards:
-      - 'ASTM D751 (tempimas)'
-      - 'ISO 4674 (plyšimas)'
-      - 'ISO 4892 (UV)'
-  - title: 'Proceso metu atliekami KK kontrolės punktai'
-    description: 'Gamybos operatoriai kiekviename etape atlieka savipatikrą. KK auditoriai visos pamainos metu atlieka atsitiktinę atranką. Suvirinimo lupimo testai atliekami kas 50 vienetų. Matmenų patikros atliekamos kas 20-ąjį ruožinį.'
+      - ASTM D751 (tensile)
+      - ISO 4674 (tear)
+      - ISO 4892 (UV)
+  - title: In-Process QC Checkpoints
+    description: Production operators perform self-inspection at each stage. QC auditors conduct random sampling throughout the shift. Weld peel tests are performed every 50 units. Dimensional checks happen every 20th panel.
     standards:
-      - 'ASTM D751 (lupimas)'
-      - 'Vidinis 100 punktų kontrolinis sąrašas'
-      - 'ISO 2859 atranka'
-  - title: '24–48 valandų oro sulaikymo testas'
-    description: 'Kiekviena baliono kamera pripūčiama iki 125 % nominalaus slėgio ir laikoma 24–48 valandas. Slėgio jutikliai registruoja nuolat su temperatūros kompensacija. Bet kuri kamera, viršijanti 5 % slėgio kritimą, automatiškai sukelia partijos pakartotinę patikrą.'
+      - ASTM D751 (peel)
+      - Internal 100-point checklist
+      - ISO 2859 sampling
+  - title: 24–48 Hour Air Retention Test
+    description: Every tube chamber is inflated to 125% of rated pressure and held for 24–48 hours. Pressure sensors log continuously with temperature compensation. Any chamber exceeding 5% pressure drop triggers automatic batch re-inspection.
     standards:
-      - 'EN ISO 25649'
-      - 'CE 2013/53/EU'
-  - title: 'Apkrovos ir balanso testavimas'
-    description: 'Baigtos lentos yra išbandomos esant didžiausiai nominaliai talpai dėl stabilumo ir standumo. Kiekviena lenta prieš galutinio patikrinimo patvirtinimą atlieka vandens testavimą.'
+      - EN ISO 25649
+      - CE 2013/53/EU
+  - title: Load & Balance Testing
+    description: Completed pools are tested at maximum rated capacity for stability and rigidity. Each pool undergoes water testing before final inspection approval.
     standards:
-      - 'ISO 12217'
-      - 'CE 2013/53/EU'
+      - ISO 12217
+      - CE 2013/53/EU
 
 equipment:
-  - name: 'Universalioji testavimo mašina (tempimas)'
-    spec: '5 kN, atitinka ASTM D751'
-  - name: 'Slėgio mažėjimo testuotojas'
-    spec: 'Daugiakanalis, 0–50 psi, duomenų registravimas'
-  - name: 'UV dėvėjimo kamera'
-    spec: 'ISO 4892, 1,000 h ciklai'
-  - name: 'Storio matuoklis (skaitmeninis)'
-    spec: '0.01 mm skiriamoji geba'
-  - name: 'Lupimo testuotojas (suvirinimas)'
-    spec: 'Su varikliu, 50 N talpa'
-  - name: 'Temperatūros kamera'
-    spec: '-40 °C iki +100 °C'
-  - name: 'Nuotėkio nustatymo bakas'
-    spec: '6 m × 2 m, apšviestas'
+  - name: Universal Testing Machine (tensile)
+    spec: 5 kN, ASTM D751 compliant
+  - name: Pressure Decay Tester
+    spec: Multi-channel, 0–50 psi, datalogging
+  - name: UV Weathering Chamber
+    spec: ISO 4892, 1,000 h cycles
+  - name: Thickness Gauge (digital)
+    spec: 0.01 mm resolution
+  - name: Peel Tester (weld)
+    spec: Motorized, 50 N capacity
+  - name: Temperature Chamber
+    spec: -40 °C to +100 °C
+  - name: Leak Detection Tank
+    spec: 6 m × 2 m, illuminated

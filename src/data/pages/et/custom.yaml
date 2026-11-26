@@ -1,89 +1,89 @@
 meta:
-  title: 'Kohandatud labor — kohandatud täispuhutavad sõudelauad | {SITE}'
-  description: 'Kohandatud täispuhutavad sõudelauad:tellisdisain, logo, kohandatud vorm ja tootmine. Eramärgise SUP-partner, MOQ 50 ühikut, CE sertifitseeritud.'
+  title: 'Custom Lab — Custom Inflatable Pool | {SITE}'
+  description: 'Custom inflatable pool: bespoke design, logo, custom mold, and production. Private-label pool partner, MOQ 50 units, CE certified.'
   keywords:
-    - 'kohandatud sõudelaudade tootja'
-    - 'custom inflatable sup'
-    - 'paddle board with logo'
-    - 'eramärgisega täispuhutav SUP'
-    - 'sõudelaudade tootmine'
+    - 'custom inflatable pool manufacturer'
+    - 'custom inflatable pools'
+    - 'inflatable pool with logo'
+    - 'private label inflatable pools'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: 'olagoon kohandatud labor'
-  title: 'Disaini oma<br />SUP-laud'
-  subtitle: 'Kohandatud SUP-partner, kes pakub kaasbrändi, eramärgise ja tellistöö sõudelaudade tootmist ettevõtetele kogu maailmas. Üksikust prototüübist täistootmiseni.'
-  cta: 'Alusta oma projekti'
+  tagline: olagoon Custom Lab
+  title: Design Your Own<br />pools
+  subtitle: Custom pool partner offering co-brand, private label, and bespoke inflatable pool production for businesses worldwide. From a single prototype to full production runs.
+  cta: Start your project
   footer_link: /contact/
 
 steps_section:
-  tagline: 'Kuidas see töötab'
-  title: 'Kontseptsioonist tootmiseni'
-  subtitle: 'Neli sammu teie ideest valmis, veepidava tooteni.'
+  tagline: How it works
+  title: From concept to production
+  subtitle: Four steps from your idea to a finished, sea-ready product.
   steps:
     - num: '01'
-      title: 'Vali oma laud'
-      desc: 'Vali meie põhi-SUP-mudelite hulgast — universaalne, matka-, jooga-, spordi- või laste. Vali suurus, materjal ja värv.'
+      title: Choose Your Pool
+      desc: Select from our core pool models — all-around, touring, yoga, sport, or kids. Pick size, material, and colour.
     - num: '02'
-      title: 'Lae üles oma disain'
-      desc: 'Saada meile oma logo, kujundus või brändijuhised. Meie disainimeeskond valmistab digitaalse eelvaate.'
+      title: Upload Your Design
+      desc: Send us your logo, artwork, or brand guidelines. Our design team prepares a digital proof.
     - num: '03'
-      title: 'AI-maketi ülevaade'
-      desc: 'Vaata fotorealistlikku AI-ga loodud maketti oma kohandatud lauast enne tootmise algust.'
+      title: AI Mockup Review
+      desc: View a photorealistic AI-generated mockup of your custom pool before production begins.
     - num: '04'
-      title: 'Tootmine ja kohaletoimetamine'
-      desc: 'Pärast heakskiitu läheb teie tellimus meie tootmisliinile. Täitmisajad alates 30 päevast.'
+      title: Production & Delivery
+      desc: Once approved, your order enters our production line. Lead times from 30 days.
 
 services_section:
-  tagline: 'Teenused'
-  title: 'Tootmisteenused globaalsetele brändidele'
-  subtitle: 'Paindlikud koostömudelid — lepingulise tootmise kaudu täisteenuse brändiehituseni.'
+  tagline: Services
+  title: Manufacturing services for global brands
+  subtitle: Flexible engagement models — from contract manufacturing to full-service brand building.
   items:
-    - title: 'Kaasbrändi tootmine'
-      desc: 'Me toodame teie disainid vastavalt spetsifikatsioonile — teie IP, teie joonised, teie kvaliteedistandardid. Täielik NDA-kaitse.'
+    - title: Co-Brand Production
+      desc: We produce your designs to spec — your IP, your drawings, your quality standards. Full NDA protection.
       icon: ⚙️
-    - title: 'Disainilahendused'
-      desc: 'Vali 50+ tõestatud platvormi hulgast ja kohanda suurust, värvi, graafikat ja pakendit.'
+    - title: Design Solutions
+      desc: Choose from 50+ proven platforms and customise size, colour, graphics, and packaging.
       icon: '🎨'
-    - title: 'Eramärgis'
-      desc: 'Teie bränd meie toodetel — logo, pakend, hinged, juhendid. Jaemüügivalmis karbist väljas.'
+    - title: Private Label
+      desc: Your brand on our products — logo, packaging, hang tags, manuals. Retail-ready out of the box.
       icon: '🎨'
-    - title: 'Kohandatud bränding'
-      desc: 'Tekipadi trükk, keregraafika, toru kleepsud ja kohandatud sildid — täielik brändi integratsioon.'
+    - title: Custom Branding
+      desc: Deck pad printing, hull graphics, tube decals, and custom labels — full brand integration.
       icon: ⚙️
 
 capabilities_section:
-  tagline: 'Võimekused'
-  title: 'Tootmise ja kohandamise võimekused'
-  subtitle: 'Kõik, mida peate teadma enne tellimuse esitamist.'
+  tagline: Capabilities
+  title: Production & customisation capabilities
+  subtitle: Everything you need to know before placing your order.
   capabilities:
-    - label: 'Tellimuse maht'
-      value: 'MOQ 50 ühikut (SUP)'
-    - label: 'Täitmisaeg'
-      value: '30–45 päeva standardne; 15–20 päeva prototüüpidele'
-    - label: 'Kohandamine'
-      value: 'Suurus, kuju, värv, graafika, pakend, riistvara'
-    - label: 'Materjalid'
-      value: 'PVC, Drop-Stitch, EVA, alumiinium'
-    - label: 'Trükkimine'
-      value: 'Digitaalne (CMYK), sõeltrükk, soojusülekanne, sublimatsioon'
-    - label: 'Sertifitseerimine'
-      value: 'CE, UKCA, FCC (tugi globaalseks vastavuseks)'
+    - label: Order volume
+      value: MOQ 50 units (pool)
+    - label: Lead time
+      value: 12–16 weeks standard (50–100 units); 15–20 days for prototypes
+    - label: Customisation
+      value: Size, shape, colour, graphics, packaging, hardware
+    - label: Materials
+      value: PVC, drop-stitch, EVA, aluminium
+    - label: Printing
+      value: Digital (CMYK), screen printing, heat transfer, sublimation
+    - label: Certification
+      value: CE, UKCA, FCC (support for global compliance)
 
 why_section:
-  tagline: 'Miks olagoon'
-  title: 'Üks tehas. Üks standard. Nulli kompromisse.'
+  tagline: Why olagoon
+  title: One factory. One standard. Zero compromises.
   points:
-    - text: '12 000 m² integreeritud tootmisüksus'
-      highlight: '12 000 m²'
-    - text: '200+ oskustöölist ja inseneri'
-      highlight: '200+'
-    - text: '15 000+ SUP-lauda toodetud aastas'
-      highlight: '15 000+'
-    - text: 'ISO 9001 sertifitseeritud kvaliteedijuhtimine'
-      highlight: 'ISO 9001'
-    - text: 'CE sertifitseeritud tooted EL-i turule'
-      highlight: 'CE'
-  cta: 'Vaata tehase üksikasju'
+    - text: 12,000 m² integrated manufacturing facility
+      highlight: 12,000 m²
+    - text: 200+ skilled workers and engineers
+      highlight: 200+
+    - text: 15,000+ pools produced annually
+      highlight: 15,000+
+    - text: ISO 9001-certified quality management
+      highlight: ISO 9001
+    - text: CE certified products for EU market
+      highlight: CE
+  cta: View factory details
   cta_link: /factory/
   contact:
-    title: 'Valmis arutama oma projekti?'
-    desc: 'Meie meeskond vastab 24 tunni jooksul esialgse hinnapakkumisega.'
+    title: Ready to discuss your project?
+    desc: Our team responds within 24 hours with a preliminary quote.

@@ -1,66 +1,71 @@
 meta:
-  title: Soluzioni per il Noleggio di Flotte SUP | {SITE}
-  description: SUP ad alta rotazione progettati per l'uso quotidiano a noleggio. PVC resistente ai raggi UV, cuciture rinforzate, materiali a rapida asciugatura. Espandi il tuo business di noleggio con OLagoon.
+  title: 'pool Rental Equipment Supplier & Fleet Solutions | {SITE}'
+  description: 'pool rental equipment supplier for rental operators. High-rotation commercial pools engineered for daily use — UV-resistant PVC, reinforced seams, quick-dry materials. Scale your rental business with OLagoon.'
+
 hero:
-  tagline: Operatori di noleggio
-  title: Espandi il tuo business di noleggio<br />con fiducia
-  subtitle: SUP ad alta rotazione progettati per l'uso in noleggio quotidiano, 365 giorni all'anno. I tuoi ricavi non si fermano mai.
+  tagline: Rental Operators
+  title: 'Scale Your Rental Business<br />With Confidence'
+  subtitle: 'pool rental equipment supplier for rental operators. High-rotation pools engineered for daily rental use, 365 days a year. Your revenue never takes a day off.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: Chiosco di noleggio occupato con tavole SUP pronte per gli ospiti
+    alt: Busy rental kiosk with pools ready for guests
+
 features:
-  title: Costruito per il lavoro negli affitti
-  subtitle: Ogni tavola è progettata per 500 cicli di noleggio con una manutenzione minima.
+  title: Built for the Rental Grind
+  subtitle: 'Every board is engineered for 500+ rental cycles with minimal maintenance.'
   items:
-    - title: 500 cicli di noleggio
-      description: Testato per resistere all'uso quotidiano in acqua salata, sole e sabbia.
-      icon: tabler:shield-check
-    - title: Tessuto resistente ai raggi UV
-      description: Nessun sbiadimento o degrado dopo 1 anno di conservazione all'aperto.
-      icon: tabler:sun
-    - title: Cuciture Rinforzate
-      description: 3 volte più resistente della costruzione standard delle tavole gonfiabili.
-      icon: tabler:layers-intersect
-    - title: Materiali ad asciugatura rapida
-      description: Tavole pronte per il prossimo noleggio in meno di 30 minuti.
-      icon: tabler:droplet
-    - title: Stoccaggio Impilabile
-      description: Design salvaspazio — conserva il 40% in più di tavole nella stessa area.
-      icon: tabler:stack
-    - title: Taglie Codificate per Colore
-      description: Il personale afferra immediatamente la tavola giusta grazie alla dimensione codificata a colori.
-      icon: tabler:color-swatch
+    - title: '500+ Rental Cycles'
+      description: 'Tested to survive daily use in saltwater, sun, and sand.'
+      icon: 'tabler:shield-check'
+    - title: 'UV-Resistant Fabric'
+      description: 'No fading or degradation after 1 year of outdoor storage.'
+      icon: 'tabler:sun'
+    - title: 'Reinforced Seams'
+      description: '3x stronger than standard inflatable board construction.'
+      icon: 'tabler:layers-intersect'
+    - title: 'Quick-Dry Materials'
+      description: 'Boards ready for next rental in under 30 minutes.'
+      icon: 'tabler:droplet'
+    - title: 'Stackable Storage'
+      description: 'Space-saving design — store 40% more boards in the same area.'
+      icon: 'tabler:stack'
+    - title: 'Color-Coded Sizes'
+      description: 'Staff grabs the right board instantly with color-coded sizing.'
+      icon: 'tabler:color-swatch'
+
 stats:
-  title: Metriche operative
+  title: Operations Metrics
   stats:
-    - title: Turnover del Consiglio
-      amount: < 5 min
-    - title: Manutenzione annuale
-      amount: ~15 min/tavola
-    - title: Spedizione Parti
-      amount: 48h
-    - title: Tasso di difetto
-      amount: < 0,5%
+    - title: Board Turnover
+      amount: '< 5 min'
+    - title: Annual Maintenance
+      amount: '~15 min/board'
+    - title: Parts Dispatch
+      amount: '48h'
+    - title: Defect Rate
+      amount: '< 0.5%'
+
 fleet_guide:
-  title: Guida alla Dimensione della Flotta
-  subtitle: Stima la dimensione della flotta e il potenziale di ricavo della tua attività di noleggio.
+  title: Fleet Sizing Guide
+  subtitle: 'Estimate the fleet size and revenue potential for your rental operation.'
   tiers:
-    - label: Piccolo chiosco
-      boards: 15-20
-      revenue: $XX.XXX/anno
-    - label: Operazione di medie dimensioni
-      boards: 30-50
-      revenue: $XX.XXX/anno
-    - label: Grande Affitto sulla Spiaggia
-      boards: 50-100
-      revenue: $XXX.XXX/anno
+    - label: Small Kiosk
+      boards: '15-20'
+      revenue: '$XX,XXX/yr'
+    - label: Mid-Size Operation
+      boards: '30-50'
+      revenue: '$XX,XXX/yr'
+    - label: Large Beach Rental
+      boards: '50-100'
+      revenue: '$XXX,XXX/yr'
+
 cta:
-  title: Pronto a far crescere la tua attività di noleggio?
-  subtitle: Ottieni i prezzi di noleggio o confronta i modelli di tavole per la tua attività.
+  title: 'Ready to scale your rental business?'
+  subtitle: 'Get rental pricing or compare board models for your operation.'
   actions:
-    - text: Ottieni i prezzi di noleggio
-      href: /contact/?package=rental
-      variant: primary
-    - text: Confronta i modelli di schede
-      href: /compare/
-      variant: secondary
+    - text: 'Get Rental Pricing'
+      href: '/contact/?package=rental'
+      variant: 'primary'
+    - text: 'Compare Board Models'
+      href: '/compare/'
+      variant: 'secondary'

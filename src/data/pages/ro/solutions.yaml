@@ -1,63 +1,63 @@
 meta:
-  title: 'Soluții de afaceri — SUP pentru fiecare companie | {SITE}'
-  description: 'Soluțiile de afaceri olagoon: flote SUP pentru stațiuni, cluburi, închirieri, distribuție și mărci proprii. Furnizor profesionist de echipamente nautice pentru B2B.'
+  title: 'Business Solutions — pool for Every Business | {SITE}'
+  description: 'olagoon business solutions: pool fleets for resorts, clubs, rentals, distribution, and private labels. Professional nautical equipment supplier for B2B.'
   keywords:
-    - 'soluții de afaceri SUP'
-    - 'furnizor de paddle board-uri gonflabile'
-    - 'echipamente nautice B2B'
-    - 'producător plăci de SUP gonflabile'
+    - 'pool business solutions'
+    - 'inflatable pool supplier'
+    - 'nautical equipment b2b'
+    - 'inflatable pools manufacturer'
 hero:
-  tagline: Soluții de afaceri
-  title: Soluții SUP<br />Pentru orice afacere
-  subtitle: De la stațiuni la retail, de la operatori de închirieri la distribuitori globali — OLagoon oferă soluții SUP complete, adaptate modelului dvs. de afaceri.
+  tagline: Business Solutions
+  title: 'pool Solutions<br />For Every Business'
+  subtitle: 'From resorts to retail, rental operators to global distributors — OLagoon provides complete pool solutions tailored to your business model.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Plăci SUP olagoon pentru aplicații comerciale și profesionale
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools for business and professional applications
 stats:
-  title: olagoon pe scurt
+  title: OLagoon at a Glance
   stats:
-    - title: Ani de experiență
-      amount: Din 2012
-    - title: Soluții personalizate
+    - title: Years Experience
+      amount: Since 2012
+    - title: Custom Solutions
       amount: 100+
-    - title: Piețe deservite
-      amount: 50+
-    - title: Plăci livrate
+    - title: Markets Served
+      amount: '50+'
+    - title: Boards Delivered
       amount: 15,000+
 features3_solutions:
-  tagline: Soluții în funcție de tipul afacerii
-  title: SUP-uri construite pe măsură<br />pentru afacerea dvs.
+  tagline: Solutions By Business Type
+  title: 'Purpose-Built pools<br />For Your Business'
   isBeforeContent: false
   columns: 2
   items:
-    - title: Stațiuni și hoteluri
-      description: Programe complete de flote SUP pentru unitățile de ospitalitate — plăci durabile, branding personalizat și suport pentru instruirea personalului.
+    - title: Resorts & Hotels
+      description: 'Complete pool fleet programs for hospitality properties — durable boards, custom branding, and staff training support.'
       icon: tabler:building
       link: /solutions/resorts-hotels/
-    - title: Cluburi de paddle
-      description: Flote SUP fiabile pentru cluburi de canotaj, programe de lecții și operațiuni cu membri — plăci de calitate comercială, cu prețuri speciale pentru cluburi.
+    - title: Paddle Clubs
+      description: 'Reliable pool fleets for paddle clubs, lesson programs, and membership operations — commercial-grade boards with club pricing.'
       icon: tabler:users
       link: /solutions/resorts-hotels/
-    - title: Operatori de închiriere
-      description: Plăci SUP cu rotație intensă, proiectate pentru închiriere zilnică. Rezistente la UV, cu uscare rapidă, stivuibile — concepute pentru ritmul agitat al închirierilor.
+    - title: Rental Operators
+      description: 'High-rotation pools engineered for daily rental use. UV-resistant, quick-dry, stackable — designed for the rental grind.'
       icon: tabler:currency-dollar
       link: /solutions/rental-operators/
-    - title: Parteneri de retail
-      description: Vindeți cel mai rapid crescând brand SUP din piața dumneavoastră. Gamă completă de produse, materiale de marketing, dropshipping și marje competitive.
+    - title: Retail Partners
+      description: 'Sell the fastest-growing pool brand in your market. Full product line, marketing materials, dropshipping, and competitive margins.'
       icon: tabler:shopping-cart
       link: /solutions/retail-partners/
-    - title: Distribuitori
-      description: Teritorii exclusive, portofoliu complet de produse, management dedicat de cont. Alăturați-vă rețelei noastre globale de distribuție în peste 50 de țări.
+    - title: Distributors
+      description: 'Exclusive territories, complete product portfolio, dedicated account management. Join our global distribution network in 50+ countries.'
       icon: tabler:world
       link: /solutions/distributors/
-    - title: Construiți-vă propria marcă
-      description: Producție OEM/ODM de SUP integrală — design, prototipare, producție de serie și logistică. Lansați-vă brandul cu OLagoon.
+    - title: Build Your Own Brand
+      description: 'End-to-end OEM/ODM pool manufacturing — design, prototyping, mass production, and logistics. Launch your brand with OLagoon.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:
-  title: Nu sunteți sigur care soluție se potrivește nevoilor dvs.?
-  subtitle: Descrieți aplicația dumneavoastră echipei noastre, iar noi vă vom recomanda configurația potrivită.
+  title: 'Not sure which solution fits your needs?'
+  subtitle: 'Describe your application to our team and we will recommend the right configuration.'
   actions:
     - variant: primary
-      text: Obțineți o recomandare
+      text: Get a recommendation
       href: /contact/

@@ -1,89 +1,92 @@
 meta:
-  title: Руководство покупателя OEM — Закупка надувных водных судов из Азии | {SITE}
-  description: 'Полное руководство по поиску надувных SUP и каяков у азиатских производителей: контрольный список оценки фабрики, протоколы контроля качества, проверка соответствия, согласование минимального объема заказа, условия доставки и распространенные ошибки.'
-back_text: Назад к исследованиям
+  title: 'OEM Buyer Guide — Sourcing Inflatable Watercraft from Asia | {SITE}'
+  description: 'Comprehensive guide for sourcing inflatable pools from Asian manufacturers: factory evaluation checklist, QC protocols, compliance verification, MOQ negotiation, shipping terms, and common pitfalls.'
+back_text: 'Back to Research'
+
 hero:
-  tagline: Закупки
-  title: Руководство покупателя OEM — Закупка надувных водных судов из Азии
-  subtitle: 'Время чтения: 12 минут'
-content_html: |-
-  <h2>1. Предварительная квалификация: на что обратить внимание при выборе фабрики</h2>
+  tagline: 'Sourcing'
+  title: 'OEM Buyer Guide — Sourcing Inflatable Watercraft from Asia'
+  subtitle: '12 min read'
 
-  <h3>Сертификаты соответствия</h3>
+content_html: |
+  <h2>1. Pre-Qualification: What to Look for in a Factory</h2>
+
+  <h3>Compliance Certificates</h3>
   <ul>
-    <li><strong>ISO 9001:2015</strong> – Система менеджмента качества</li>
-    <li><strong>Сертификация CE</strong> – Проверьте номер уведомлённого органа</li>
-    <li><strong>BSCI / SMETA / SEDEX</strong> – Аудиты социального соответствия</li>
-    <li><strong>REACH / RoHS</strong> – Декларации о соответствии материалов</li>
+    <li><strong>ISO 9001:2015</strong> – Quality management system</li>
+    <li><strong>CE certification</strong> – Verify the Notified Body number</li>
+    <li><strong>BSCI / SMETA / SEDEX</strong> – Social compliance audits</li>
+    <li><strong>REACH / RoHS</strong> – Material compliance declarations</li>
   </ul>
 
-  <h3>Производственные возможности</h3>
+  <h3>Manufacturing Capabilities</h3>
   <ul>
-    <li>Собственное плетение сердечника drop-stitch или аутсорсинг</li>
-    <li>Линия покрытия / ламинации ПВХ</li>
-    <li>Оборудование для RF-сварки и сварки горячим воздухом</li>
-    <li>Собственное производство форм (CNC-обработка)</li>
-    <li>Испытательная лаборатория (испытания давлением, УФ-старение, испытания на разрыв)</li>
+    <li>Drop-stitch core weaving in-house vs. outsourced</li>
+    <li>PVC coating / lamination line</li>
+    <li>RF welding and hot air welding equipment</li>
+    <li>In-house mold making (CNC machining)</li>
+    <li>Testing lab (pressure testing, UV aging, tensile testing)</li>
   </ul>
 
-  <h3>Проверка опыта</h3>
+  <h3>Experience Verification</h3>
   <ul>
-    <li>Годы производства надувных плавсредств (минимум 5+ лет)</li>
-    <li>Количество инженеров в штате</li>
-    <li>Существующие клиенты OEM/ODM (запросите рекомендации)</li>
-    <li>Экспортные направления – поставляют ли они уже в ваш целевой рынок?</li>
+    <li>Years in inflatable watercraft manufacturing (5+ years minimum)</li>
+    <li>Number of engineers on staff</li>
+    <li>Existing OEM/ODM clients (request references)</li>
+    <li>Export destinations – are they already shipping to your target market?</li>
   </ul>
 
-  <h2>2. Протоколы контроля качества</h2>
-  <p>Входной контроль материалов: прочность на разрыв (ASTM D751 или ISO 1421), сопротивление раздиру (ASTM D2261 или ISO 4674), прочность сцепления, точечные проверки УФ-старения.</p>
-  <p>Контроль в процессе производства: мониторинг прочности швов каждые 50 единиц, проверка крутящего момента клапанов, проверки плотности нитей drop-stitch, проверки размеров по чертежам CAD.</p>
-  <p>Финальная инспекция: 100% тест удержания давления (24 часа, падение не более 5%), визуальный осмотр, тест работы клапанов, выборочные испытания образцов (AQL 2.5 или 4.0 по ISO 2859).</p>
+  <h2>2. Quality Control Protocols</h2>
+  <p>Material incoming QC: tensile strength (ASTM D751 or ISO 1421), tear resistance (ASTM D2261 or ISO 4674), adhesion strength, UV aging spot checks.</p>
+  <p>In-process QC: seam strength monitoring every 50 units, valve torque verification, drop-stitch thread density checks, dimensional checks against CAD drawings.</p>
+  <p>Final inspection: 100% inflation hold test (24 hours, max 5% drop), visual inspection, valve function test, random sample testing (AQL 2.5 or 4.0 per ISO 2859).</p>
 
-  <h2>3. Контрольный список документации о соответствии</h2>
+  <h2>3. Compliance Documentation Checklist</h2>
   <ul>
-    <li>Декларация о соответствии (DoC) со ссылкой на правильную директиву ЕС</li>
-    <li>Сертификат CE от уведомлённого органа</li>
-    <li>Отчёт об испытаниях из аккредитованной лаборатории</li>
-    <li>Паспорта безопасности материалов (MSDS)</li>
-    <li>Декларация о соответствии REACH</li>
-    <li>Спецификация материалов с прослеживаемостью поставщиков</li>
-    <li>Отчёт об инспекции фабрики</li>
+    <li>Declaration of Conformity (DoC) referencing correct EU directive</li>
+    <li>CE certificate from notified body</li>
+    <li>Test report from accredited lab</li>
+    <li>Material safety data sheets (MSDS)</li>
+    <li>REACH compliance declaration</li>
+    <li>Bill of Materials with supplier traceability</li>
+    <li>Factory inspection report</li>
   </ul>
 
-  <h2>4. Переговоры по MOQ</h2>
+  <h2>4. MOQ Negotiation</h2>
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-gray-100">
-        <th class="p-3 text-left font-semibold text-gray-900 border">Тип продукции</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Стандартный MOQ</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Диапазон для переговоров</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Product Type</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Standard MOQ</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Negotiable Range</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="p-3 border">SUP-доски</td><td class="p-3 border">50 – 100 шт.</td><td class="p-3 border">5 – 10 шт. (пробная партия)</td></tr>
-      <tr><td class="p-3 border">Байдарки</td><td class="p-3 border">50 – 100 шт.</td><td class="p-3 border">5 – 10 шт. (пробная партия)</td></tr>
-      <tr><td class="p-3 border">Надувные SUP</td><td class="p-3 border">50 – 100 шт.</td><td class="p-3 border">2 – 5 шт. (пробная партия)</td></tr>
-      <tr><td class="p-3 border">Безопасность / Аксессуары</td><td class="p-3 border">200 – 500 шт.</td><td class="p-3 border">50 – 100 шт. (пробная партия)</td></tr>
+      <tr><td class="p-3 border">pools</td><td class="p-3 border">50 – 100 units</td><td class="p-3 border">5 – 10 units (trial)</td></tr>
+      <tr><td class="p-3 border">Pool accessories</td><td class="p-3 border">200 – 500 units</td><td class="p-3 border">20 – 50 units (trial)</td></tr>
+      <tr><td class="p-3 border">inflatable pools</td><td class="p-3 border">50 – 100 units</td><td class="p-3 border">2 – 5 units (trial)</td></tr>
+      <tr><td class="p-3 border">Safety / Accessories</td><td class="p-3 border">200 – 500 units</td><td class="p-3 border">50 – 100 units (trial)</td></tr>
     </tbody>
   </table>
 
-  <h2>5. Логистика и доставка</h2>
-  <p>Распространённые Incoterms: <strong>FOB</strong> (фабрика доставляет до порта отправления – наиболее распространённый), <strong>EXW</strong> (покупатель сам организует всю доставку от дверей фабрики), <strong>CIF</strong> (фабрика оплачивает фрахт и страховку до порта назначения).</p>
-  <p>Надувные изделия имеют малый вес и большой объём – объёмный вес (DIM) часто определяет стоимость доставки. Запросите вакуумную упаковку для уменьшения объёма на 50–60%. Морская перевозка из Китая в ЕС: 25–35 дней; до западного побережья США: 15–20 дней.</p>
+  <h2>5. Logistics and Shipping</h2>
+  <p>Common Incoterms: <strong>FOB</strong> (Factory delivers to departure port – most common), <strong>EXW</strong> (Buyer arranges all shipping from factory door), <strong>CIF</strong> (Factory pays freight and insurance to destination port).</p>
+  <p>Inflatable products are low-weight, high-volume – volumetric weight (DIM) often determines shipping cost. Request vacuum-packed packaging to reduce volume by 50–60%. Sea freight from China to EU: 25–35 days; to US West Coast: 15–20 days.</p>
 
-  <h2>6. Частые ошибки</h2>
+  <h2>6. Common Pitfalls</h2>
   <ul>
-    <li><strong>Нет аудита фабрики:</strong> Всегда проводите или заказывайте аудит третьей стороны (QIMA, SGS, Bureau Veritas)</li>
-    <li><strong>Только устные спецификации:</strong> Нужен подробный технический лист спецификаций, подписанный обеими сторонами</li>
-    <li><strong>Пропуск утверждения образцов:</strong> Письменное утверждение образцов перед серийным производством</li>
-    <li><strong>Нет контроля качества во время производства:</strong> Инспекция третьей стороной во время производства (DUPRO) и перед отгрузкой (PSI)</li>
-    <li><strong>Игнорирование соответствия:</strong> Проверьте сертификацию CE/UKCA до начала производства</li>
+    <li><strong>No factory audit:</strong> Always perform or commission a third-party audit (QIMA, SGS, Bureau Veritas)</li>
+    <li><strong>Verbal specs only:</strong> Detailed technical specification sheet signed by both parties</li>
+    <li><strong>Skipping sample approval:</strong> Written sign-off on samples before bulk production</li>
+    <li><strong>No QC during production:</strong> Third-party inspection during production (DUPRO) and before shipment (PSI)</li>
+    <li><strong>Ignoring compliance:</strong> Verify CE/UKCA certification before production</li>
   </ul>
 
-  <h2>7. Почему OLagoon</h2>
-  <p>OLagoon производит надувные плавсредства OEM/ODM с 2012 года. Обладая сертифицированным по ISO 9001 предприятием площадью 12,000 m&sup2;, штатом из 25+ инженеров и сертификацией CE всех линеек продукции, мы соответствуем каждому критерию из этого руководства. Мы предлагаем пробные MOQ для новых партнёров и полные комплекты документации о соответствии.</p>
+  <h2>7. Why OLagoon</h2>
+  <p>OLagoon has been manufacturing OEM/ODM inflatable pools since 2012. With a 12,000 m&sup2; ISO 9001 certified facility, 25+ engineers, and CE certification across all product lines, we meet every criterion in this guide. We offer trial MOQs for new partners and full compliance documentation packages.</p>
+
 cta:
-  title: Готовы начать поиск поставщиков?
-  subtitle: Свяжитесь с нашей командой OEM, чтобы обсудить требования вашего проекта.
-  button_text: Запросить предложение
+  title: 'Ready to start sourcing?'
+  subtitle: 'Contact our OEM team to discuss your project requirements.'
+  button_text: 'Request a quote'
   button_link: /contact/

@@ -1,86 +1,86 @@
 meta:
-  title: 'Globaalne kohalolek — supilaudade tootja, kes teenindab üle 50 riigi | {SITE}'
-  description: 'olagoon ekspordib täispuhutavaid SUP-e üle 50 riiki igal kontinendil. Professionaalne tootja ja tarnija kaubamärkidele, jaotajatele ja laevastikele.'
+  title: 'Global Presence — pool Manufacturer Serving 50+ Countries | {SITE}'
+  description: 'olagoon exports inflatable pools to 50+ countries across every continent. Professional manufacturer and supplier for brands, distributors, and fleets.'
   keywords:
-    - 'globaalne supi tootja'
-    - 'supilaudade eksportija'
-    - 'supi tehas hiinas'
-    - 'professionaalne supi tarnija'
+    - 'global pool manufacturer'
+    - 'inflatable pool exporter'
+    - 'pool factory china'
+    - 'professional pool supplier'
 hero:
-  tagline: 'Globaalne kohalolek'
-  title: 'Teenindame üle 50 riigi<br />igal kontinendil'
-  subtitle: 'Alates Euroopa rannikupatrulli operaatoritest kuni Austraalia vesispordi jaotajate ja Lähis-Ida päästemeeskondadeni — olagoon laudad on vees üle kogu maailma.'
+  tagline: Global Presence
+  title: 'Serving 50+ Countries<br />Across Every Continent'
+  subtitle: 'From European resort operators to Australian outdoor retailers to Middle East hospitality groups — OLagoon pools are in backyards worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'olagoon ülemaailmne meretootmine ja jaotus'
+    alt: olagoon global marine manufacturing and distribution
 stats:
-  title: 'Globaalne haardeulatus'
+  title: Global Reach
   stats:
-    - title: 'Riike'
+    - title: Countries
       amount: '50+'
-    - title: 'Eksporditurgud'
-      amount: 'Euroopa, Ameerikad, Aasia, Lähis-Ida, Okeaania'
-    - title: 'Tootmine'
-      amount: 'Qingdao, Hiina'
-    - title: 'USA ladu'
-      amount: 'Montclair, CA'
+    - title: Export Markets
+      amount: Europe, Americas, Asia, Middle East, Oceania
+    - title: Production
+      amount: Qingdao, China
+    - title: US Warehouse
+      amount: Montclair, CA
 features3_markets:
-  tagline: 'Peamised turud'
-  title: 'Piirkonnaekspertiis<br />kohalikele nõuetele'
-  subtitle: 'Me mõistame, et erinevatel turgudel on erinevad regulatoorsed nõuded, eelistused ja kasutusjuhtumid.'
+  tagline: Key Markets
+  title: 'Regional Expertise<br />for Local Requirements'
+  subtitle: 'We understand that different markets have different regulatory requirements, preferences, and use cases.'
   isBeforeContent: false
   columns: 4
   items:
-    - title: 'Euroopa ja Ühendkuningriik'
-      description: 'CE-sertifitseeritud tooted. Tugev nõudlus supilaudade järele ELi turgudel. Ühendkuningriigi jaotajad hindavad meie kiiret läbimõtet.'
+    - title: Europe & UK
+      description: 'CE-certified products. Strong demand for pools across EU markets. UK distributors appreciate our quick turnaround.'
       icon: tabler:map-pin
-    - title: 'Põhja-Ameerika'
-      description: 'USA rannavalve heakskiidetud tootmine. USA ladu Montclairis, CA-s kiireks Lääneranniku tarneks. Kasvav nõudlus kalastus-, pääste- ja vabaaja-SUP-ide järele.'
+    - title: North America
+      description: 'US Coast Guard approved manufacturing. US warehouse in Montclair, CA for fast West Coast delivery. Growing demand for fishing, rescue, and recreational pools.'
       icon: tabler:map-pin
-    - title: 'Austraalia ja Okeaania'
-      description: 'Tugev turg supilaudadele ja vesisporditarvikutele. Austraalia jaotajad hindavad meie UV-kindlat PVC-konstruktsiooni karmis päikeses. Kiire saatmine meie Aasia rajatisest.'
+    - title: Australia & Oceania
+      description: 'Strong market for pools and water sports accessories. Australian distributors value our UV-resistant PVC construction in harsh sun conditions. Quick shipping from our Asia facility.'
       icon: tabler:map-pin
-    - title: 'Lähis-Ida'
-      description: 'Kasvav nõudlus vee-seiklusvarustuse järele. Meie äriklassi SUP-id ja ohutusvarustus on populaarsed tuurioperaatorite ja rendikeskuste seas. Kohandatud konfiguratsioonid kõrgete temperatuuridega keskkondadele.'
+    - title: Middle East
+      description: 'Growing demand for water adventure equipment. Our commercial-grade pools and safety gear are popular with tour operators and rental centers. Custom configurations for high-temperature environments.'
       icon: tabler:map-pin
 features3_distribution:
-  tagline: 'Jaotusvõrgustik'
-  title: 'Koostöö jaotajatega<br />üle kogu maailma'
-  subtitle: 'Me töötame väljakujunenud merendusseadmete jaotajate, vesispordi kaubamärkide ja valitsushankeasutustega.'
+  tagline: Distribution Network
+  title: 'Partnering with Distributors<br />Worldwide'
+  subtitle: 'We work with established marine equipment distributors, water sports brands, and government procurement agencies.'
   isBeforeContent: false
   columns: 3
   items:
-    - title: 'Kaasmärgiprogrammid'
-      description: 'Eramärgitootmine globaalsetele vesispordi kaubamärkidele. Me haldame kõike alates disainist kuni tootmise ja otsetarneni.'
+    - title: Co-Brand Programs
+      description: 'Private label manufacturing for global water sports brands. We handle everything from design to production to drop-shipping.'
       icon: tabler:building
-    - title: 'Jaotajate võrgustik'
-      description: 'Volitatud jaotajad üle 20 riigi hoiavad lattu ja pakuvad kohalikku tuge. Uued jaotuspäringud on oodatud.'
+    - title: Distributor Network
+      description: 'Authorized distributors in 20+ countries carry stock and provide local support. New distributor inquiries welcome.'
       icon: tabler:users
-    - title: 'Valitsus ja asutused'
-      description: 'Otsetarne rannivalvele, otsingu- ja päästeorganisatsioonidele ning sõjalistele hankeprogrammidele. Vastavus asutuste hanke nõuetele.'
+    - title: Government & Institutional
+      description: 'Direct supply to coast guards, search and rescue organizations, and military procurement programs. Compliance with institutional procurement requirements.'
       icon: tabler:building-community
 steps2_logistics:
-  title: 'Globaalne logistika ja tugi'
-  subtitle: 'Tehasest sihtkohta — me haldame kogu tarneahelat.'
+  title: 'Global Logistics & Support'
+  subtitle: 'From factory to destination — we manage the entire supply chain.'
   items:
-    - title: 'Veovalikud'
-      description: 'Meretransport (FOB Qingdao), õhutransport kiireloomuliste tellimuste jaoks ja kiirkuller näidiste ja varuosade jaoks.'
+    - title: Shipping Options
+      description: 'Sea freight (FOB Qingdao), air freight for urgent orders, and express courier for samples and spare parts.'
       icon: tabler:truck-delivery
-    - title: 'USA ladu'
-      description: 'Lattu hoitud kaubad Montclairis, CA-s kiireks tarnimiseks üle Põhja-Ameerika. Läänerannik: 2-3 päeva, keskosa: 3-4 päeva, idarannik: 4-5 päeva.'
+    - title: US Warehouse
+      description: 'Stock held in Montclair, CA for fast delivery across North America. West Coast: 2-3 days, Central: 3-4 days, East Coast: 4-5 days.'
       icon: tabler:building-warehouse
-    - title: 'Varuosad'
-      description: 'Originaal olagoon varuosad ja tarbekaubad laos aastaringselt. Levinud osad saadetakse 24 tunni jooksul.'
+    - title: Spare Parts
+      description: 'Genuine olagoon spare parts and consumables stocked year-round. Common parts ship within 24 hours.'
       icon: tabler:package
-    - title: 'Tehniline tugi'
-      description: 'Otseliin meie insenerimeeskonnani tehniliste küsimuste, remondinõu ja asendusosade toe jaoks. Me toetame laudu, mille ehitasime 20 aastat tagasi.'
+    - title: Technical Support
+      description: 'Direct line to our engineering team for technical questions, repair advice, and replacement-part support. We support every pool generation we have built.'
       icon: tabler:headset
 cta:
-  title: 'Soovid jaotajaks saada?'
-  subtitle: 'Me laiendame aktiivselt oma jaotusvõrgustikku. Võta ühendust meie eksportmeeskonnaga partnerlusvõimaluste arutamiseks.'
+  title: 'Want to become a distributor?'
+  subtitle: 'We are actively expanding our distribution network. Contact our export team to discuss partnership opportunities.'
   actions:
     - variant: primary
-      text: 'Partnerluse päring'
+      text: Partnership inquiry
       href: /contact/
-    - text: 'Vaata meie tootevalikut'
+    - text: View our product range
       href: /products/

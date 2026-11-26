@@ -1,123 +1,123 @@
 meta:
-  title: 'B2B klientų sprendimų matrica | {SITE}'
-  description: 'Išsami OLagoon B2B klientų sprendimų matrica, apimanti 24 klientų tipus — nuo lauko startuolių iki jūrinės aplinkosaugos institucijų.'
+  title: 'B2B Client Solutions Matrix | {SITE}'
+  description: 'Complete OLagoon B2B client solutions matrix covering 24 customer types — from outdoor startups to marine conservation institutions.'
 
 hero:
-  tagline: 'B2B klientų sprendimai'
-  title: '24 B2B sprendimai,<br />pritaikyti jūsų verslui'
-  subtitle: 'Nuo startuolių įkūrėjų iki pasaulinių platintojų — raskite tikslų OLagoon sprendimą, sukurtą jūsų verslo modeliui, pramonei ir tikslams.'
+  tagline: B2B Client Solutions
+  title: '24 B2B Solutions<br />Matched to Your Business'
+  subtitle: 'From startup founders to global distributors — find the exact OLagoon solution designed for your business model, industry, and goals.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
-    alt: 'OLagoon gamykla ir gamybos įmonė'
+    alt: OLagoon factory and manufacturing facility
 
 solutions:
-  title: 'Klientų sprendimų matrica'
-  subtitle: 'Kiekvienas kliento tipas, jų pagrindinis poreikis ir OLagoon sprendimo puslapis, sukurtas jiems.'
+  title: Client Solutions Matrix
+  subtitle: 'Every customer type, their core need, and the OLagoon solution page designed for them.'
   items:
-    - clientType: 'Lauko startuolio įkūrėjas'
-      need: 'Prekės ženklo kūrimas'
-      solutionPage: 'Sukurkite savo SUP prekės ženklą'
-      link: /solutions/sup-brand-startup/
-    - clientType: 'Lauko prekės ženklo vadybininkas'
-      need: 'Lauko prekės ženklo plėtra į vandens sportą'
-      solutionPage: 'Išplėskite lauko prekės ženklą į vandens sportą'
+    - clientType: Outdoor Startup Founder
+      need: Brand Creation
+      solutionPage: Build Your pool Brand
+      link: /solutions/pool-brand-startup/
+    - clientType: Outdoor Brand Manager
+      need: Outdoor Brand Expansion Into Water Sports
+      solutionPage: Expand Outdoor Brand Into Water Sports
       link: /solutions/expand-outdoor-brand-water-sports/
-    - clientType: 'Bangų slankiojimo parduotuvės savininkas'
-      need: 'Bangų slankiojimo verslo atnaujinimas'
-      solutionPage: 'Įtraukite pripučiamą technologiją į bangų slankiojimo verslą'
+    - clientType: Surf Shop Owner
+      need: Surf Business Upgrade
+      solutionPage: Bring Inflatable Technology Into Surf Business
       link: /solutions/inflatable-technology-for-surf-business/
-    - clientType: 'Amazon pardavėjas'
-      need: 'El. prekybos augimas'
-      solutionPage: 'Produktų diferenciacija ir greitas tiekimas'
-      link: /solutions/ecommerce-sup-brand-development/
-    - clientType: 'Žvejybos įrangos prekės ženklas'
-      need: 'Žvejybos SUP'
-      solutionPage: 'Sukurkite savo žvejybos SUP prekės ženklą'
-      link: /solutions/create-fishing-sup-brand/
-    - clientType: 'Jogos ir gerovės prekės ženklas'
-      need: 'Gerovės vandens produktai'
-      solutionPage: 'SUP jogos įrangos sprendimai'
-      link: /solutions/sup-yoga-wellness-equipment/
-    - clientType: 'Kūrėjo prekės ženklas'
-      need: 'Įtakingo asmens prekės ženklas'
-      solutionPage: 'Kūrėjo leidimo SUP startuolis'
-      link: /solutions/creator-influencer-sup-brand/
-    - clientType: 'Irklavimo klubo įkūrėjas'
-      need: 'Klubo parkas'
-      solutionPage: 'Komercinis SUP parkas'
-      link: /solutions/commercial-sup-fleet/
-    - clientType: 'Nuomos verslo savininkas'
-      need: 'Nuomos operacijos'
-      solutionPage: 'Patvarus nuomos parko sprendimas'
-      link: /solutions/durable-sup-rental-fleet/
-    - clientType: 'Kurortų veiklų vadybininkas'
-      need: 'Viešbučio patirtis'
-      solutionPage: 'Kurortų vandens veiklos paketas'
+    - clientType: Amazon Seller
+      need: E-commerce Growth
+      solutionPage: Product Differentiation & Fast Supply
+      link: /solutions/ecommerce-pool-brand-development/
+    - clientType: Fishing Gear Brand
+      need: Fishing pool
+      solutionPage: Create Your Fishing pool Brand
+      link: /solutions/create-fishing-pool-brand/
+    - clientType: Yoga & Wellness Brand
+      need: Wellness Water Products
+      solutionPage: pool Yoga Equipment Solutions
+      link: /solutions/pool-yoga-wellness-equipment/
+    - clientType: Creator Brand
+      need: Influencer Brand
+      solutionPage: Creator Edition pool Startup
+      link: /solutions/creator-influencer-pool-brand/
+    - clientType: Paddle Club Founder
+      need: Club Fleet
+      solutionPage: Commercial pool Fleet
+      link: /solutions/commercial-pool-fleet/
+    - clientType: Rental Business Owner
+      need: Rental Operations
+      solutionPage: Durable Rental Fleet Solution
+      link: /solutions/durable-pool-rental-fleet/
+    - clientType: Resort Activity Manager
+      need: Hotel Experience
+      solutionPage: Resort Water Activity Package
       link: /solutions/resort-water-activity-package/
-    - clientType: 'Vandens sporto akademija'
-      need: 'Mokymai ir švietimas'
-      solutionPage: 'SUP akademijos įrangos programa'
-      link: /solutions/sup-academy-equipment-program/
-    - clientType: 'Kruizinių ir jachtų kompanija'
-      need: 'Jachtos patirtis'
-      solutionPage: 'Prabangus pernešamas SUP paketas'
-      link: /solutions/luxury-portable-sup-package/
-    - clientType: 'Lauko mažmeninės prekybos pirkėjas'
-      need: 'Mažmeninės prekybos kanalas'
-      solutionPage: 'Mažmeninės prekybos privataus prekės ženklo programa'
+    - clientType: Water Sports Academy
+      need: Training & Education
+      solutionPage: pool Academy Equipment Program
+      link: /solutions/pool-academy-equipment-program/
+    - clientType: Cruise & Yacht Company
+      need: Yacht Experience
+      solutionPage: Luxury Portable pool Package
+      link: /solutions/luxury-portable-pool-package/
+    - clientType: Outdoor Retail Buyer
+      need: Retail Channel
+      solutionPage: Retail Private Label Program
       link: /solutions/retail-private-label-program/
-    - clientType: 'Platintojas ir importuotojas'
-      need: 'Regioninis platinimas'
-      solutionPage: 'Regioninis OEM ir tiekimo grandinės partneris'
+    - clientType: Distributor & Importer
+      need: Regional Distribution
+      solutionPage: Regional OEM & Supply Chain Partner
       link: /solutions/regional-oem-supply-chain-partner/
-    - clientType: 'Korporacijų projektų pirkėjas'
-      need: 'Korporacijų renginiai'
-      solutionPage: 'Korporacijų SUP renginių paketas'
-      link: /solutions/corporate-sup-event-package/
-    - clientType: 'Vandens sporto prekės ženklo vadybininkas'
-      need: 'Vandens sporto prekės ženklo plėtra'
-      solutionPage: 'Išplėskite savo vandens sporto portfelį'
+    - clientType: Corporate Project Buyer
+      need: Corporate Events
+      solutionPage: Corporate pool Event Package
+      link: /solutions/corporate-pool-event-package/
+    - clientType: Water Sports Brand Manager
+      need: Water Sports Brand Expansion
+      solutionPage: Expand Your Water Sports Portfolio
       link: /solutions/expand-your-water-sports-portfolio/
-    - clientType: 'Naminiais gyvūnais kelionių prekės ženklo savininkas'
-      need: 'Naminiai gyvūnai lauke'
-      solutionPage: 'Naminiais gyvūnais draugiškų irklentių programa'
+    - clientType: Pet Adventure Brand Owner
+      need: Pet Outdoor
+      solutionPage: Pet-Friendly inflatable pool Program
       link: /solutions/pet-friendly-paddle-board-program/
-    - clientType: 'Paplūdimio rekreacijos operatorius'
-      need: 'Paplūdimio pramogos'
-      solutionPage: 'Išsamūs paplūdimio veiklos įrangos sprendimai'
+    - clientType: Beach Recreation Operator
+      need: Beach Entertainment
+      solutionPage: Complete Beach Activity Equipment Solutions
       link: /solutions/complete-beach-activity-equipment-solutions/
-    - clientType: 'Vandens parko kūrėjas'
-      need: 'Teminės pramogos'
-      solutionPage: 'Komercinis vandens parko SUP parkas'
-      link: /solutions/commercial-water-park-sup-fleet/
-    - clientType: 'Privatios salos ir prabangaus klubo savininkas'
-      need: 'Aukščiausio lygio gyvenimo būdas'
-      solutionPage: 'Premium pasirinktinių SUP kolekcija'
-      link: /solutions/premium-custom-sup-collection/
-    - clientType: 'Turizmo valdybos ir viešo parko operatorius'
-      need: 'Viešieji turizmo projektai'
-      solutionPage: 'Kelionių krypties vandens sporto paketas'
+    - clientType: Water Park Developer
+      need: Theme Entertainment
+      solutionPage: Commercial Water Park pool Fleet
+      link: /solutions/commercial-water-park-pool-fleet/
+    - clientType: Private Island & Luxury Club Owner
+      need: High-End Lifestyle
+      solutionPage: Premium Custom pool Collection
+      link: /solutions/premium-custom-pool-collection/
+    - clientType: Tourism Board & Public Park Operator
+      need: Public Tourism Projects
+      solutionPage: Destination Water Sports Package
       link: /solutions/destination-water-sports-package/
-    - clientType: 'Vaikų nuotykių ir vasaros stovyklų operatorius'
-      need: 'Jaunimo švietimas'
-      solutionPage: 'Vaikų tyrinėjimo SUP programa'
-      link: /solutions/kids-exploration-sup-program/
-    - clientType: 'Vandens gelbėjimo ir saugos organizacija'
-      need: 'Profesionalus gelbėjimas'
-      solutionPage: 'Profesionali vandens gelbėjimo SUP sistema'
-      link: /solutions/professional-water-rescue-sup-system/
-    - clientType: 'Jūrinės aplinkosaugos ir tyrimų institucija'
-      need: 'Aplinkos tyrimai'
-      solutionPage: 'Ekologinių tyrimų ir stebėsenos SUP platforma'
-      link: /solutions/eco-research-monitoring-sup-platform/
+    - clientType: Kids Adventure & Summer Camp Operator
+      need: Youth Education
+      solutionPage: Kids Exploration pool Program
+      link: /solutions/kids-exploration-pool-program/
+    - clientType: Water Rescue & Safety Organization
+      need: Professional Rescue
+      solutionPage: Professional Water Rescue pool System
+      link: /solutions/professional-water-rescue-pool-system/
+    - clientType: Marine Conservation & Research Institution
+      need: Environmental Research
+      solutionPage: Eco Research & Monitoring pool Platform
+      link: /solutions/eco-research-monitoring-pool-platform/
 
 cta:
-  title: 'Nežinote, kuris sprendimas tinka jūsų verslui?'
-  subtitle: 'Apibūdinkite savo projektą mūsų B2B komandai, ir mes rekomenduosime tinkamą konfigūraciją ir kainodarą.'
+  title: 'Not sure which solution fits your business?'
+  subtitle: 'Describe your project to our B2B team and we will recommend the right configuration and pricing.'
   actions:
-    - variant: 'primary'
-      text: 'Kalbėkitės su mūsų B2B komanda'
+    - variant: primary
+      text: Talk to Our B2B Team
       href: /contact/?subject=b2b-solutions
-    - variant: 'secondary'
-      text: 'Atsisiųsti katalogą'
+    - variant: secondary
+      text: Download Catalog
       href: /resources/download-catalog/

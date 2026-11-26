@@ -1,14 +1,14 @@
 meta:
-  title: 'SUP Wholesale & Retail Partner Program | {SITE}'
-  description: 'SUP wholesale partner program for retailers and sporting goods stores. Full product line, dropshipping options, competitive wholesale margins from 20–35%, and low MOQ to start.'
+  title: 'pool Wholesale & Retail Partner Program | {SITE}'
+  description: 'pool wholesale partner program for retailers and sporting goods stores. Full product line, dropshipping options, competitive wholesale margins from 20–35%, and low MOQ to start.'
 
 hero:
   tagline: Retail Partners
-  title: 'Sell Premium Inflatable SUPs<br />With Margins That Work'
-  subtitle: 'Become an OLagoon retail partner — carry the fastest-growing SUP brand in your market with full wholesale pricing, dropshipping, professional marketing materials, and dedicated support.'
+  title: 'Sell Premium inflatable pools<br />With Margins That Work'
+  subtitle: 'Become an OLagoon retail partner — carry the fastest-growing pool brand in your market with full wholesale pricing, dropshipping, professional marketing materials, and dedicated support.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: OLagoon SUP boards displayed in a retail store
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools displayed in a retail store
 
 margin_section:
   title: 'Retail Margins & MOQ'
@@ -46,12 +46,12 @@ margin_section:
 
 product_line:
   title: Complete Product Line
-  subtitle: 'A SUP board for every customer who walks through your door.'
+  subtitle: 'A pools for every customer who walks through your door.'
   items:
     - name: All-Round Series
       description: 'Best seller — fits 80% of customers'
     - name: Touring Series
-      description: 'Performance paddlers — higher margin'
+      description: 'Performance swimmers — higher margin'
     - name: Yoga Series
       description: 'Niche market — premium pricing'
     - name: Kids Series

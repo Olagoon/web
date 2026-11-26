@@ -1,22 +1,24 @@
 meta:
-  title: 'Journal — Nautische Artikelen & Gidsen | {SITE}'
-  description: 'Het olagoon journal: artikelen en gidsen over opblaasbare SUPs, paddle boarding, boten en de nautische industrie.'
+  title: 'Journal — Nautical Articles & Guides | {SITE}'
+  description: 'The olagoon journal: articles and guides about inflatable pools, pool care, and the backyard pool industry.'
   keywords:
-    - 'SUP journal'
-    - 'paddle board artikelen'
-    - 'opblaasbare SUP blog'
-    - 'nautische gidsen'
+    - 'pool journal'
+    - 'inflatable pool articles'
+    - 'inflatable pools blog'
+    - 'nautical guides'
 hero:
-  title: olagoon Dagboek
-  subtitle: Laatste nieuws, zeilavonturen en productverhalen van het olagoon-team.
+  title: Journal
+  subtitle: Pool guides, gear comparisons, and backyard stories — written for real conditions.
+
 latest:
-  tagline: Laatste
-  title: Gidsen & Vergelijkingen
-  browse_all: Blader door alle 20 →
-  read: Lezen →
+  tagline: Latest
+  title: Guides & Comparisons
+  browse_all: Browse all 20 →
+  read: Read →
+
 social_section:
-  tagline: Inhoud × Sociaal
-  title: Elke gids wordt 5 sociale berichten
-  subtitle: TikTok · Instagram · X · Pinterest · Reddit — van elk artikel.
-  pipeline_cta: Sociale pijplijn →
-  guides_cta: Bekijk Gidsen
+  tagline: Content × Social
+  title: Every guide becomes 5 social posts
+  subtitle: TikTok · Instagram · X · Pinterest · Reddit — from every article.
+  pipeline_cta: Social Pipeline →
+  guides_cta: Browse Guides

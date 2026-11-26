@@ -1,106 +1,106 @@
 meta:
-  title: 'Garantija — piepūšamie SUP dēļi | {SITE}'
-  description: 'olagoon garantija un pēcpārdošanas atbalsts piepūšamajiem SUP dēļiem un aksesuāriem. Mūsu kvalitātes apņemšanās partneriem un klientiem.'
+  title: 'Warranty — inflatable pools | {SITE}'
+  description: 'olagoon warranty and after-sales support for inflatable pools and accessories. Our quality commitment for partners and customers.'
   keywords:
-    - 'sup garantija'
-    - 'piepūšamo SUP garantija'
-    - 'airu dēļu garantija'
-    - 'pēcpārdošanas atbalsts'
-label: 'Garantija'
-headline: 'olagoon ražotāja ierobežotā garantija'
-subtitle: 'olagoon stāv aiz katra mūsu ražotā piepūšamā jūras produkta kvalitātes. Šī ierobežotā garantija nosaka nosacījumus un segumu jūsu olagoon produktam.'
+    - 'pool warranty'
+    - 'inflatable pools warranty'
+    - 'inflatable pool guarantee'
+    - 'after-sales support'
+label: 'Warranty'
+headline: 'olagoon Manufacturer Limited Warranty'
+subtitle: 'olagoon stands behind the quality of every inflatable marine product we manufacture. This Limited Warranty sets forth the terms and coverage for your olagoon product.'
 seo:
-  headline: 'olagoon piepūšamo SUP dēļu garantija — 3 gadu ierobežotā garantija | olagoon'
-  description: 'olagoon piedāvā 3 gadu ierobežotu garantiju uz galveno klāja audumu, šuvēm un Drop-Stitch kodola strukturālo integritāti. Tāpat tiek segti piepūšanas vārsti un rūpnīcā uzstādītie aksesuāri. Pilni olagoon piepūšamo SUP dēļu garantijas nosacījumi.'
+  headline: 'olagoon inflatable pools Warranty — 3-Year Limited Warranty | olagoon'
+  description: 'olagoon offers a 3-year limited warranty on primary deck fabric, seams, and drop-stitch core structural integrity. Also covering inflation valves and factory-installed accessories. Full terms and conditions for olagoon inflatable pools warranty.'
   datePublished: '2024-01-01'
   dateModified: '2026-11-18'
 body: |
   <p class="text-lg text-gray-600 dark:text-gray-400 mb-8">
-    Šī ierobežotā garantija attiecas uz jauniem olagoon zīmola piepūšamajiem jūras produktiem, kas iegādāti tieši no olagoon vai no autorizēta olagoon izplatītāja vai mazumtirgotāja. Stāšanās spēkā datums ir verificējamais sākotnējā mazumtirdzniecības pirkuma datums.
+    This Limited Warranty applies to new olagoon branded inflatable marine products purchased directly from olagoon or from an authorized olagoon dealer or retailer. The effective date is the verifiable date of original retail purchase.
   </p>
 
   <div class="bg-sky-50 dark:bg-gray-900 border border-sky-200 dark:border-gray-800 rounded-xl p-6 mb-10">
-    <h2 class="text-xl font-bold mb-3">Garantijas segums un ilgums</h2>
+    <h2 class="text-xl font-bold mb-3">Warranty Coverage & Duration</h2>
     <div class="grid md:grid-cols-2 gap-4">
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 gadi</h3>
-        <p class="text-sm text-gray-600 mt-1">Galvenā cilindra auduma integritāte (CSM/PVC)</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Years</h3>
+        <p class="text-sm text-gray-600 mt-1">Primary tube fabric integrity (CSM/PVC)</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 gadi</h3>
-        <p class="text-sm text-gray-600 mt-1">Stiklšķiedras korpusa strukturālā integritāte</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Years</h3>
+        <p class="text-sm text-gray-600 mt-1">Fiberglass hull structural integrity</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 gadi</h3>
-        <p class="text-sm text-gray-600 mt-1">Piepūšamā cilindra šuvju gaisa noturības spēja</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Years</h3>
+        <p class="text-sm text-gray-600 mt-1">Inflatable tube seam air-holding capability</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 gadi</h3>
-        <p class="text-sm text-gray-600 mt-1">Piepūšanas vārsta darbība</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">3 Years</h3>
+        <p class="text-sm text-gray-600 mt-1">Inflation valve functionality</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-sky-700 dark:text-sky-400">1 gads</h3>
-        <p class="text-sm text-gray-600 mt-1">Rūpnīcā uzstādītie aksesuāri un palīgfurnitūra</p>
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">1 Year</h3>
+        <p class="text-sm text-gray-600 mt-1">Factory-installed accessories and auxiliary fittings</p>
       </div>
       <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
-        <h3 class="font-bold text-amber-700 dark:text-amber-400">1 gads*</h3>
-        <p class="text-sm text-gray-600 mt-1">Komerciāla, nomas vai flotes lietošana — visi komponenti</p>
+        <h3 class="font-bold text-amber-700 dark:text-amber-400">1 Year*</h3>
+        <p class="text-sm text-gray-600 mt-1">Commercial, rental, or fleet use — all components</p>
       </div>
     </div>
-    <p class="text-xs text-gray-500 mt-4">*Komerciāla, valsts, čartera, nomas vai apmācību lietošana saīsina garantiju līdz 1 gadam. Sacensību vai konkurences lietošana pilnībā anulē garantiju.</p>
+    <p class="text-xs text-gray-500 mt-4">*Commercial, governmental, charter, rental, or instructional use reduces warranty to 1 year. Racing or competition use voids warranty entirely.</p>
   </div>
 
-  <h2>Kas ir segts</h2>
-  <h3>Galvenais cilindra audums (3 gadi)</h3>
-  <p>olagoon garantē galveno klāja audumu pret porainības pasliktināšanos, kas būtiski apdraud produkta spēju uzturēt darba piepūšanu. Tas attiecas uz PVC pārklātu audumu un visiem pārējiem ražošanā izmantotajiem klāja auduma materiāliem.</p>
+  <h2>What Is Covered</h2>
+  <h3>Primary Tube Fabric (3 Years)</h3>
+  <p>olagoon warrants the principal deck fabric against porosity deterioration that substantially compromises the product's ability to maintain operational inflation. This applies to PVC coated fabric and all other deck fabric materials used in manufacture.</p>
 
-  <h3>Stiklšķiedras korpusa strukturālā integritāte (3 gadi)</h3>
-  <p>Produktiem ar stiklšķiedras pastiprinātas plastmasas (FRP) korpusu pamata kompozīta struktūra ir garantēta pret strukturālu bojājumu, kas radies materiālu vai izpildījuma defektu dēļ.</p>
+  <h3>Fiberglass Hull Structural Integrity (3 Years)</h3>
+  <p>For products with a fiberglass-reinforced plastic (FRP) hull, the fundamental composite structure is warranted against structural failure due to defects in materials or workmanship.</p>
 
-  <h3>Piepūšamā cilindra šuvju gaisa noturības spēja (3 gadi)</h3>
-  <p>Piepūšamo cilindru šuves, kas savienotas ražošanas laikā, ir garantētas pret ražošanas defektiem, kas izraisa būtisku gaisa noplūdi caur šuvi. Periodiska pārbaude un atbilstoša piepūšanas spiediena uzturēšana ir seguma nosacījumi.</p>
+  <h3>Inflatable Tube Seam Air-Holding Capability (3 Years)</h3>
+  <p>The seams of inflatable tubes, where joined during manufacture, are warranted against manufacturing defects that result in substantial air leakage through the seam. Periodic inspection and maintenance of appropriate inflation pressures are conditions of coverage.</p>
 
-  <h3>Piepūšanas vārsta darbība (3 gadi)</h3>
-  <p>Gaisa piepūšanas vārsti, ko sākotnēji uzstādījis olagoon, ir garantēti pret ražošanas defektiem materiālos vai izpildījumā, kas neļauj vārstam noturēt gaisu, kā paredzēts.</p>
+  <h3>Inflation Valve Functionality (3 Years)</h3>
+  <p>Air inflation valves originally installed by olagoon are warranted against manufacturing defects in materials or workmanship that prevent the valve from holding air as designed.</p>
 
-  <h3>Rūpnīcā uzstādītie aksesuāri (1 gads)</h3>
-  <p>Komponenti un furnitūra, ko ražojis olagoon un kas sākotnēji uzstādīti rūpnīcā, ir garantēti pret materiāla un izpildījuma defektiem vienu gadu. Tas neietver trešo pušu vienumus, kurus sedz tikai to ražotāju garantijas.</p>
+  <h3>Factory-Installed Accessories (1 Year)</h3>
+  <p>Components and fittings manufactured by olagoon and originally installed at the factory are warranted against defects in material and workmanship for one year. This excludes third-party items, which are covered only by their respective manufacturer warranties.</p>
 
-  <h2>Kas nav segts</h2>
+  <h2>What Is Not Covered</h2>
   <ul>
-    <li>Kosmētiski trūkumi, tostarp krāsas maiņa, notraipīšana, izbalēšana, kreveļošanās vai jebkādas izskata izmaiņas</li>
-    <li>Punkcijas, griezumi, plīsumi, ieplīšana vai citi fiziski bojājumi</li>
-    <li>Matēšanās, plaisāšana, berze, skrāpējumi vai pasliktināšanās berzes vai saskares dēļ</li>
-    <li>Degradācija UV starojuma, atmosfēras iedarbes vai vides apstākļu dēļ</li>
-    <li>Bojājumi, kas radušies saskarē ar degvielām, šķīdinātājiem, skābēm, sārmiem vai ķīmiskām vielām</li>
-    <li>Bojājumi neuzmanības, nepareizas lietošanas, rupjas rīcības, negadījuma vai normālas nodilšanas dēļ</li>
-    <li>Gelcoat vai krāsas virsmas problēmas (pūslīši, matēšanās, krāsas maiņa, izbalēšana)</li>
-    <li>Bojājumi trieciena, slodzes, nepareiza atbalsta vai transportēšanas ar piekabi dēļ</li>
-    <li>Bojājumi nepareizas piepūšanas/atspiedēšanas vai neatļautu piepūšanas iekārtu lietošanas dēļ</li>
-    <li>Trešo pušu aprīkojums, komponenti vai sistēmas (tos sedz to ražotāji)</li>
+    <li>Cosmetic flaws including discoloration, staining, fading, chalking, or any alteration in appearance</li>
+    <li>Punctures, cuts, tears, rips, or other physical damage</li>
+    <li>Crazing, cracking, abrasion, scuffing, or deterioration from friction or contact</li>
+    <li>Degradation from UV light exposure, weathering, or atmospheric conditions</li>
+    <li>Damage from contact with fuels, solvents, acids, alkalis, or chemicals</li>
+    <li>Damage from negligence, improper use, abuse, accident, or normal wear and tear</li>
+    <li>Gelcoat or paint surface issues (blistering, crazing, discoloration, fading)</li>
+    <li>Damage from impact, stress, improper support, or trailering</li>
+    <li>Damage from improper inflation/deflation or use of non-approved inflation devices</li>
+    <li>Third-party equipment, components, or systems (covered by their respective manufacturers)</li>
   </ul>
 
-  <h2>Ražotāja pienākums un līdzekļi</h2>
-  <p>olagoon vienīgais un ekskluzīvais pienākums ir olagoon izvēles iespēju remontēt vai aizstāt jebkuru komponentu, kas atzīts par defektīvu materiālos vai izpildījumā un ir segts ar šo garantiju. Remonts vai aizvietošana tiek veikta olagoon vai tā norādītajā autorizētajā servisa centrā. Remontētiem vai aizvietotiem komponentiem garantija attiecas tikai uz sākotnējās garantijas perioda vēl nebeigušos daļu.</p>
+  <h2>Manufacturer's Obligation & Remedy</h2>
+  <p>olagoon's sole and exclusive obligation is the repair or replacement, at olagoon's option, of any component determined to be defective in materials or workmanship and covered under this warranty. Repairs or replacements are performed by olagoon or its designated authorized service facility. Components repaired or replaced are warranted only for the unexpired portion of the original warranty period.</p>
 
-  <h2>Garantijas nosacījumi</h2>
+  <h2>Conditions of Warranty</h2>
   <ul>
-    <li><strong>Reģistrācija:</strong> Produkts ir pareizi jāreģistrē, kā noteikts garantijas nosacījumos.</li>
-    <li><strong>Apkope:</strong> Produkts ir jāapkopo saskaņā ar olagoon publicētajiem norādījumiem, tostarp veicot periodisku pārbaudi un uzturot atbilstošu piepūšanas spiedienu.</li>
-    <li><strong>Sadarbība:</strong> Pircējam ir pilnībā un savlaicīgi jāsadarbojas ar olagoon visos ar garantijas prasībām saistītajos jautājumos.</li>
-    <li><strong>Sākotnējais pircējs:</strong> Šī garantija tiek piešķirta tikai sākotnējam gala lietotājam un nav pārvedama.</li>
+    <li><strong>Registration:</strong> The product must be properly registered as mandated in the warranty terms.</li>
+    <li><strong>Maintenance:</strong> The product must be maintained in accordance with olagoon's published guidelines, including periodic inspection and maintenance of appropriate inflation pressures.</li>
+    <li><strong>Cooperation:</strong> The purchaser must fully and promptly cooperate with olagoon in all matters pertaining to warranty claims.</li>
+    <li><strong>Original Purchaser:</strong> This warranty is extended exclusively to the original end-user purchaser and is not transferable.</li>
   </ul>
 
-  <h2>Komerciāla lietošana</h2>
-  <p>Ja produkts tiek izmantots komerciāliem, valsts, bezpeļņas, čartera, nomas, apmācības vai jebkādiem citiem mērķiem, izņemot privātu atpūtas lietošanu, garantijas periods visiem komponentiem tiek saīsināts līdz vienam (1) gadam no sākotnējā mazumtirdzniecības pirkuma datuma. Lietošana sacīkstēs, ātruma vai izturības sacensībās nekavējoties un neatgriezeniski anulē garantiju pilnībā.</p>
+  <h2>Commercial Use</h2>
+  <p>If the product is used for commercial, governmental, non-profit, charter, rental, instructional, or any purpose other than private recreational use, the warranty period for all components is reduced to one (1) year from the original date of retail purchase. Use in racing, speed or endurance competition immediately and irrevocably voids the warranty entirely.</p>
 
-  <h2>Kā iesniegt garantijas prasījumu</h2>
-  <p>Sazinieties ar olagoon vai savu autorizēto izplatītāju, uzrādot pirkuma apliecinājumu un detalizētu problēmas aprakstu. olagoon izskatīs prasījumu un sniegs norādījumus pārbaudei un servisam.</p>
-  <p>Jautājumos par garantijas servisu, lūdzu, sazinieties ar mums, izmantojot mūsu <a href="/contact/" class="text-sky-600 underline">kontakta lapu</a>, norādiet pasūtījuma numuru un produkta datus.</p>
+  <h2>How to Make a Warranty Claim</h2>
+  <p>Contact olagoon or your authorized dealer with proof of purchase and a detailed description of the issue. olagoon will review the claim and provide instructions for inspection and service.</p>
+  <p>For warranty service inquiries, please contact us through our <a href="/contact/" class="text-sky-600 underline">contact page</a> with your order number and product details.</p>
 
-  <h2>Trešo pušu vienumi</h2>
-  <p>Aprīkojumu, komponentus vai sistēmas, ko ražojušas trešās puses (pat ja tās uzstādījis olagoon), sedz tikai to ražotāju piedāvātās garantijas. olagoon izslēdz jebkādu garantijas atbildību par šādiem trešo pušu vienumiem.</p>
+  <h2>Third-Party Items</h2>
+  <p>Equipment, components, or systems manufactured by third parties (even if installed by olagoon) are covered exclusively by any warranty offered by their respective manufacturer. olagoon expressly disclaims any warranty responsibility for such third-party items.</p>
 
   <p class="text-sm text-gray-500 mt-8 border-t border-gray-200 dark:border-gray-800 pt-6">
-    Šis garantijas paziņojums ir pilnīgās olagoon ražotāja ierobežotās garantijas kopsavilkums. Visus garantijas nosacījumus regulē pilnais juridiskais garantijas dokuments. Specifikācijas var tikt mainītas bez iepriekšēja brīdinājuma. olagoon ir zīmols, ko pārvalda Olagoon LLC (ASV).
+    This warranty statement is a summary of the complete olagoon Manufacturer's Limited Warranty. The full legal warranty document governs all warranty terms and conditions. Specifications subject to change without notice. olagoon is a brand operated by Olagoon LLC.
   </p>

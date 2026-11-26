@@ -1,92 +1,92 @@
 meta:
-  title: 'OEM водич за купце — Набавка надуваних пловила из Азије | {SITE}'
-  description: 'Свеобухватан водич за набавку надуваних SUP плоча и кајака од азијских произвођача: контролна листа за вредновање фабрике, QC протоколи, верификација усклађености, преговарање о MOQ, услови испоруке и честе грешке.'
-back_text: 'Назад на истраживања'
+  title: 'OEM Buyer Guide — Sourcing Inflatable Watercraft from Asia | {SITE}'
+  description: 'Comprehensive guide for sourcing inflatable pools from Asian manufacturers: factory evaluation checklist, QC protocols, compliance verification, MOQ negotiation, shipping terms, and common pitfalls.'
+back_text: 'Back to Research'
 
 hero:
-  tagline: 'Набавка'
-  title: 'OEM водич за купце — Набавка надуваних пловила из Азије'
-  subtitle: 'Читање од 12 минута'
+  tagline: 'Sourcing'
+  title: 'OEM Buyer Guide — Sourcing Inflatable Watercraft from Asia'
+  subtitle: '12 min read'
 
 content_html: |
-  <h2>1. Предквалификација: На шта обратити пажњу код фабрике</h2>
+  <h2>1. Pre-Qualification: What to Look for in a Factory</h2>
 
-  <h3>Сертификати усклађености</h3>
+  <h3>Compliance Certificates</h3>
   <ul>
-    <li><strong>ISO 9001:2015</strong> – Систем управљања квалитетом</li>
-    <li><strong>CE сертификација</strong> – Проверите број нотификованог тела</li>
-    <li><strong>BSCI / SMETA / SEDEX</strong> – Ревизије социјалне усклађености</li>
-    <li><strong>REACH / RoHS</strong> – Изјаве о усклађености материјала</li>
+    <li><strong>ISO 9001:2015</strong> – Quality management system</li>
+    <li><strong>CE certification</strong> – Verify the Notified Body number</li>
+    <li><strong>BSCI / SMETA / SEDEX</strong> – Social compliance audits</li>
+    <li><strong>REACH / RoHS</strong> – Material compliance declarations</li>
   </ul>
 
-  <h3>Производне могућности</h3>
+  <h3>Manufacturing Capabilities</h3>
   <ul>
-    <li>Ткање Drop-Stitch језгра у сопственој производњи наспрам уговарања са спољним извођачима</li>
-    <li>Линија за PVC премазивање / ламинање</li>
-    <li>Опрема за RF заваривање и заваривање топлим ваздухом</li>
-    <li>Сопствена израда калупа (CNC обрада)</li>
-    <li>Испитна лабораторија (тестирање притиска, UV старење, тестирање затезања)</li>
+    <li>Drop-stitch core weaving in-house vs. outsourced</li>
+    <li>PVC coating / lamination line</li>
+    <li>RF welding and hot air welding equipment</li>
+    <li>In-house mold making (CNC machining)</li>
+    <li>Testing lab (pressure testing, UV aging, tensile testing)</li>
   </ul>
 
-  <h3>Верификација искуства</h3>
+  <h3>Experience Verification</h3>
   <ul>
-    <li>Године у производњи надуваних пловила (минимум 5+ година)</li>
-    <li>Број инжењера у сталном запослењу</li>
-    <li>Постојећи OEM/ODM клијенти (затражите референце)</li>
-    <li>Дестинације извоза – да ли већ шаљу на ваше циљно тржиште?</li>
+    <li>Years in inflatable watercraft manufacturing (5+ years minimum)</li>
+    <li>Number of engineers on staff</li>
+    <li>Existing OEM/ODM clients (request references)</li>
+    <li>Export destinations – are they already shipping to your target market?</li>
   </ul>
 
-  <h2>2. Протоколи контроле квалитета</h2>
-  <p>Улазна контрола материјала: затезна чврстоћа (ASTM D751 или ISO 1421), отпорност на цепање (ASTM D2261 или ISO 4674), чврстоћа лепљења, спорадичне провере UV старења.</p>
-  <p>Контрола у процесу: надзор чврстоће шавова на сваких 50 јединица, верификација момента вентила, провере густине Drop-Stitch конца, димензионалне провере према CAD цртежима.</p>
-  <p>Завршни преглед: 100% тест задржавања надувавања (24 сата, максимум 5% пада), визуелни преглед, тест функције вентила, тестирање случајних узорака (AQL 2.5 или 4.0 према ISO 2859).</p>
+  <h2>2. Quality Control Protocols</h2>
+  <p>Material incoming QC: tensile strength (ASTM D751 or ISO 1421), tear resistance (ASTM D2261 or ISO 4674), adhesion strength, UV aging spot checks.</p>
+  <p>In-process QC: seam strength monitoring every 50 units, valve torque verification, drop-stitch thread density checks, dimensional checks against CAD drawings.</p>
+  <p>Final inspection: 100% inflation hold test (24 hours, max 5% drop), visual inspection, valve function test, random sample testing (AQL 2.5 or 4.0 per ISO 2859).</p>
 
-  <h2>3. Контрольна листа документације о усклађености</h2>
+  <h2>3. Compliance Documentation Checklist</h2>
   <ul>
-    <li>Изјава о усклађености (DoC) уз упуту на одговарајућу EU директиву</li>
-    <li>CE сертификат од нотификованог тела</li>
-    <li>Извештај о тестирању од акредитоване лабораторије</li>
-    <li>Безбедносни листови материјала (MSDS)</li>
-    <li>Изјава о усклађености са REACH прописима</li>
-    <li>Списак материјала са трасабилношћу добављача</li>
-    <li>Извештај о инспекцији фабрике</li>
+    <li>Declaration of Conformity (DoC) referencing correct EU directive</li>
+    <li>CE certificate from notified body</li>
+    <li>Test report from accredited lab</li>
+    <li>Material safety data sheets (MSDS)</li>
+    <li>REACH compliance declaration</li>
+    <li>Bill of Materials with supplier traceability</li>
+    <li>Factory inspection report</li>
   </ul>
 
-  <h2>4. Преговарање о MOQ</h2>
+  <h2>4. MOQ Negotiation</h2>
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-gray-100">
-        <th class="p-3 text-left font-semibold text-gray-900 border">Тип производа</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Стандардни MOQ</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Распон за преговоре</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Product Type</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Standard MOQ</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Negotiable Range</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="p-3 border">SUP плоче</td><td class="p-3 border">50 – 100 јединица</td><td class="p-3 border">5 – 10 јединица (пробно)</td></tr>
-      <tr><td class="p-3 border">Кајаци</td><td class="p-3 border">50 – 100 јединица</td><td class="p-3 border">5 – 10 јединица (пробно)</td></tr>
-      <tr><td class="p-3 border">Надуване SUP плоче</td><td class="p-3 border">50 – 100 јединица</td><td class="p-3 border">2 – 5 јединица (пробно)</td></tr>
-      <tr><td class="p-3 border">Безбедносна опрема / Опрема</td><td class="p-3 border">200 – 500 јединица</td><td class="p-3 border">50 – 100 јединица (пробно)</td></tr>
+      <tr><td class="p-3 border">pools</td><td class="p-3 border">50 – 100 units</td><td class="p-3 border">5 – 10 units (trial)</td></tr>
+      <tr><td class="p-3 border">Pool accessories</td><td class="p-3 border">200 – 500 units</td><td class="p-3 border">20 – 50 units (trial)</td></tr>
+      <tr><td class="p-3 border">inflatable pools</td><td class="p-3 border">50 – 100 units</td><td class="p-3 border">2 – 5 units (trial)</td></tr>
+      <tr><td class="p-3 border">Safety / Accessories</td><td class="p-3 border">200 – 500 units</td><td class="p-3 border">50 – 100 units (trial)</td></tr>
     </tbody>
   </table>
 
-  <h2>5. Логистика и испорука</h2>
-  <p>Чести Incoterms услови: <strong>FOB</strong> (Фабрика испоручује до луке поласка – најчешћи), <strong>EXW</strong> (Купац организује сав превоз од врата фабрике), <strong>CIF</strong> (Фабрика плаћа терет и осигурање до луке одредишта).</p>
-  <p>Надувани производи су мале тежине и велике запремине – волуменска тежина (DIM) често одређује трошак испоруке. Затражите паковање у вакууму да смањите запремину за 50–60%. Поморски терет из Кине до EU: 25–35 дана; до западне обале САД: 15–20 дана.</p>
+  <h2>5. Logistics and Shipping</h2>
+  <p>Common Incoterms: <strong>FOB</strong> (Factory delivers to departure port – most common), <strong>EXW</strong> (Buyer arranges all shipping from factory door), <strong>CIF</strong> (Factory pays freight and insurance to destination port).</p>
+  <p>Inflatable products are low-weight, high-volume – volumetric weight (DIM) often determines shipping cost. Request vacuum-packed packaging to reduce volume by 50–60%. Sea freight from China to EU: 25–35 days; to US West Coast: 15–20 days.</p>
 
-  <h2>6. Честе грешке</h2>
+  <h2>6. Common Pitfalls</h2>
   <ul>
-    <li><strong>Без ревизије фабрике:</strong> Увек спроведите или наручите ревизију треће стране (QIMA, SGS, Bureau Veritas)</li>
-    <li><strong>Само усмене спецификације:</strong> Детаљан технички лист спецификација потписан од обе стране</li>
-    <li><strong>Прескакање одобрења узорака:</strong> Писмена потврда узорака пре серијске производње</li>
-    <li><strong>Без контроле квалитета током производње:</strong> Инспекција треће стране током производње (DUPRO) и пре испоруке (PSI)</li>
-    <li><strong>Игнорисање усклађености:</strong> Проверите CE/UKCA сертификацију пре производње</li>
+    <li><strong>No factory audit:</strong> Always perform or commission a third-party audit (QIMA, SGS, Bureau Veritas)</li>
+    <li><strong>Verbal specs only:</strong> Detailed technical specification sheet signed by both parties</li>
+    <li><strong>Skipping sample approval:</strong> Written sign-off on samples before bulk production</li>
+    <li><strong>No QC during production:</strong> Third-party inspection during production (DUPRO) and before shipment (PSI)</li>
+    <li><strong>Ignoring compliance:</strong> Verify CE/UKCA certification before production</li>
   </ul>
 
-  <h2>7. Зашто olagoon</h2>
-  <p>olagoon производи OEM/ODM надувана пловила од 2012. године. Са погоном од 12,000 m&sup2; сертификoваном по ISO 9001, са 25+ инжењера и CE сертификацијом свих линија производа, испуњавамо сваки критеријум из овог водича. Нудимо пробне MOQ вредности за нове партнере и комплетне пакете документације о усклађености.</p>
+  <h2>7. Why OLagoon</h2>
+  <p>OLagoon has been manufacturing OEM/ODM inflatable pools since 2012. With a 12,000 m&sup2; ISO 9001 certified facility, 25+ engineers, and CE certification across all product lines, we meet every criterion in this guide. We offer trial MOQs for new partners and full compliance documentation packages.</p>
 
 cta:
-  title: 'Спремни да започнете набавку?'
-  subtitle: 'Контактирајте наш OEM тим да разговарате о захтевима вашег пројекта.'
-  button_text: 'Затражите понуду'
+  title: 'Ready to start sourcing?'
+  subtitle: 'Contact our OEM team to discuss your project requirements.'
+  button_text: 'Request a quote'
   button_link: /contact/

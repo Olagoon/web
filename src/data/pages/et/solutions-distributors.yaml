@@ -1,54 +1,54 @@
 meta:
-  title: 'SUP-i hulgilevituse partnerprogramm | {SITE}'
-  description: 'Liituge OLagooni globaalse SUP-i hulgilevituse võrgustikuga. Eksklusiivsed territooriumid, täielik täispuhutavate SUP-ide tooteportfell, konkurentsivõimelised hulgihinnad ja pühendatud kontohaldus 50+ riigis.'
+  title: 'pool Wholesale Distribution Partner Program | {SITE}'
+  description: "Join OLagoon's global pool wholesale distribution network. Exclusive territories, complete inflatable pools product portfolio, competitive wholesale pricing, and dedicated account management in 50+ countries."
 
 hero:
-  tagline: 'Levitajad'
-  title: 'Liituge meie globaalse<br />levitusvõrgustikuga'
-  subtitle: 'SUP-i hulgilevituse partnerprogramm koos eksklusiivsete territooriumide, täieliku täispuhutavate SUP-ide tooteportfelli ja maailmaklassi toega. OLagoon saadab 50+ riiki — otsime asutatud mere- ja veespordi levitajaid.'
+  tagline: Distributors
+  title: 'Join Our Global<br />Distribution Network'
+  subtitle: "pool wholesale distribution partner program with exclusive territories, complete inflatable pools product portfolio, and world-class support. OLagoon ships to 50+ countries — we're looking for established marine and water sports distributors."
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'OLagooni globaalne levitus ja saatmisoperatsioonid'
+    alt: OLagoon global distribution and shipping operations
 
 benefits:
-  title: 'Mida levitajad saavad'
-  subtitle: 'Kõik, mida vajate edukaks oma turul.'
+  title: What Distributors Get
+  subtitle: 'Everything you need to succeed in your market.'
   items:
-    - 'Eksklusiivsed territooriumi õigused'
-    - 'Täielik tootekataloog (SUP, tarvikud, varuosad)'
-    - 'Konkurentsivõimelised hulgihinnad'
-    - 'Turundus- ja müügimaterjalid (tõlgitud)'
-    - 'Koolitusprogramm (toode, müük, hooldus)'
-    - 'Messide tugi'
-    - 'Prooviprogramm'
-    - 'Otsetarne võimekus'
-    - 'Pühendatud levitaja kontohaldur'
-    - '45-60-päevased maksetingimused'
+    - 'Exclusive territory rights'
+    - 'Complete product catalog (pool, accessories, parts)'
+    - 'Competitive wholesale pricing'
+    - 'Marketing & sales materials (translated)'
+    - 'Training program (product, sales, maintenance)'
+    - 'Trade show support'
+    - 'Sample program'
+    - 'Drop-ship capability'
+    - 'Dedicated distributor account manager'
+    - '45-60 day payment terms'
 
 coverage:
-  title: 'Praegune levitus'
-  subtitle: 'OLagoon teenindab hetkel neid turge otse.'
+  title: Current Distribution
+  subtitle: 'OLagoon currently serves these markets directly.'
   regions:
-    - name: 'Euroopa'
-      countries: 'Prantsusmaa, Saksamaa, Suurbritannia, Hispaania, Itaalia, Holland, Rootsi, Norra, Poola, Kreeka'
-    - name: 'Aasia'
-      countries: 'Jaapan, Lõuna-Korea, Hiina, Tai, Singapur'
-    - name: 'Lähis-Ida'
-      countries: 'AÜE, Saudi Araabia'
-    - name: 'Ameerikad'
-      countries: 'USA, Kanada, Brasiilia, Mehhiko'
-    - name: 'Okeaania'
-      countries: 'Austraalia, Uus-Meremaa'
-    - name: 'Aafrika'
-      countries: 'Lõuna-Aafrika, Maroko'
+    - name: Europe
+      countries: 'France, Germany, UK, Spain, Italy, Netherlands, Sweden, Norway, Poland, Greece'
+    - name: Asia
+      countries: 'Japan, South Korea, China, Thailand, Singapore'
+    - name: Middle East
+      countries: 'UAE, Saudi Arabia'
+    - name: Americas
+      countries: 'USA, Canada, Brazil, Mexico'
+    - name: Oceania
+      countries: 'Australia, New Zealand'
+    - name: Africa
+      countries: 'South Africa, Morocco'
 
 cta:
-  title: 'Valmis levitajaks saama?'
-  subtitle: 'Kandideerige meie levitajaprogrammile või laadige alla meie levitaja infokomplekt.'
+  title: 'Ready to become a distributor?'
+  subtitle: 'Apply for our distributor program or download our distributor information kit.'
   actions:
-    - text: 'Kandideeri levitajaprogrammile'
+    - text: 'Apply for Distributor Program'
       href: '/contact/?partner=distributor'
       variant: 'primary'
-    - text: 'Laadi alla levitaja komplekt'
+    - text: 'Download Distributor Kit'
       href: '/resources/download-catalog/'
       variant: 'secondary'

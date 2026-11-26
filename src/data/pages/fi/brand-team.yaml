@@ -1,85 +1,85 @@
 meta:
-  title: 'Tiimimme — meri-insinöörit ja rakentajat | {SITE}'
-  description: 'Vuonna 2012 Qingdaossa perustettu olagoon rakennettiin meri-insinöörien, materiaalitutkijoiden ja vesiliikunta-intoilijoiden voimin. Tutustu tehtaan takana olevaan tiimiin.'
+  title: 'Our Team — Marine Engineers & Builders | {SITE}'
+  description: 'Founded in 2012 in Qingdao, olagoon was built by marine engineers, material scientists, and water sports enthusiasts. Meet the team behind the factory.'
   keywords:
-    - 'olagoonin tiimi'
-    - 'meri-insinöörit'
-    - 'täytettävien SUP-lautojen valmistaja'
-    - 'SUP-tehtaan tiimi'
+    - 'olagoon team'
+    - 'marine engineers'
+    - 'inflatable pools manufacturer'
+    - 'pool factory team'
 hero:
-  tagline: Tiimimme
-  title: Ihmiset olagoonin takana<br />— Suunnittelun vapaus vesillä
-  subtitle: Vuonna 2012 Qingdaossa, Kiinassa perustettu olagoon rakennettiin meri-insinöörien, materiaalitieteilijöiden ja vesiurheilun harrastajien toimesta, jotka uskoivat ammattitason täytettävien vesikulkuneuvojen saamiseen saataville maailmanlaajuisesti.
+  tagline: Our Team
+  title: 'The People Behind olagoon<br />— Engineering Freedom on Water'
+  subtitle: 'Founded in 2012 in Qingdao, China, olagoon was built by marine engineers, material scientists, and water sports enthusiasts who believed in making professional-grade inflatable watercraft accessible worldwide.'
   image:
     src: /images/team-all.webp
-    alt: olagoonin koko tiimin kuva — suunnittelu, tuotanto ja johto
+    alt: olagoon full team photo — engineering, production, and leadership
 founding:
-  tagline: Perustamme
-  title: Rannikkopajasta<br />12 000 m² laitokseksi
-  subtitle: olagoon perustettiin meri-insinöörien toimesta, joilla on vuosikymmenten yhdistetty kokemus täytettävien SUP-lautojen suunnittelusta, PVC-valmistuksesta ja maailmanlaajuisesta merivarustevalmistuksesta.
+  tagline: Our Founding
+  title: 'From a Coastal Workshop<br />to a 12,000 m² Facility'
+  subtitle: 'olagoon was founded by a team of marine engineers with decades of combined experience in inflatable pools design, PVC fabrication, and global marine equipment manufacturing.'
   items:
-    - title: 'Perustettu: 2012'
-      description: Perustettu Qingdaossa, Kiinassa — merkittävä merenkulun keskus, jolla on syvä laivanrakennusperintö.
+    - title: 'Founded: 2012'
+      description: 'Established in Qingdao, China — a major maritime hub with deep shipbuilding heritage.'
       icon: tabler:calendar
-    - title: Yli 200 työntekijää
-      description: Sisältäen 50+ T&K-insinööriä, laadunvalvonnan asiantuntijoita ja tuotantoteknikoita.
+    - title: '200+ Employees'
+      description: 'Including 50+ R&D engineers, quality control specialists, and production technicians.'
       icon: tabler:users
-    - title: 12 000 m²:n laitos
-      description: Erillinen tuotantolaitos, jossa on 6 tuotantolinjaa täytettäville SUP-lautoille.
+    - title: '12,000 m² Facility'
+      description: 'Dedicated manufacturing plant with 6 production lines for inflatable pools.'
       icon: tabler:building-factory
-    - title: Yli 50 palvellussa maassa
-      description: Vie Eurooppaan, Amerikkaan, Lähi-itään, Aasia-Tyynimerelle ja Afrikkaan.
+    - title: '50+ Countries Served'
+      description: 'Exporting to Europe, Americas, Middle East, Asia-Pacific, and Africa.'
       icon: tabler:globe
 leadership:
-  tagline: Johto
-  title: Johto & Insinöörijohto
-  subtitle: Johtoryhmämme kokoaa yhteen syvällistä asiantuntemusta meritekniikassa, kansainvälisessä kaupassa ja laadunhallinnassa.
+  tagline: Leadership
+  title: 'Management & Engineering Leadership'
+  subtitle: 'Our leadership team brings together deep expertise in marine engineering, international trade, and quality management.'
   columns: 3
   items:
-    - title: Perustaja ja toimitusjohtaja
-      name: Toby Liu
-      description: Yli 15 vuotta meriteollisuuden valmistuksessa. Aiemmin johti T&K:ta suuressa kiinalaisessa melontaurheilun valmistajassa. Omistaa useita patenteja täytettävien SUP-lautojen suunnittelussa.
+    - title: 'Founder & CEO'
+      name: 'Toby Liu'
+      description: '15+ years in marine manufacturing. Previously led R&D at a major Chinese inflatable products manufacturer. Holds multiple patents in inflatable pools design.'
       icon: tabler:crown
       image: https://assets.olagoon.com/images/olagoon/team/olagoon-toby-liu-team.webp
-    - title: Pääinsinööri
-      name: Zhang Wei
-      description: Yli 20 vuotta PVC-valmistusta ja drop-stitch-suunnittelua. Toiminut aiemmin teknisenä johtajana eurooppalaisessa melontaurheilubrändissä.
+    - title: 'Chief Engineer'
+      name: 'Zhang Wei'
+      description: '20+ years in PVC fabrication and drop-stitch design. Former technical director at a European inflatable products brand.'
       icon: tabler:engine
-      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
-    - title: T&K-johtaja
-      name: Chen Ming
-      description: FT materiaalitieteessä. Erikoistunut drop-stitch-tekniikkaan ja korkeataajuushitsausprosesseihin. Yli 10 vuotta tekstiilikomposiittien parissa.
+      image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
+    - title: 'Head of R&D'
+      name: 'Chen Ming'
+      description: 'PhD in Materials Science. Specializes in drop-stitch technology and high-frequency welding processes. 10+ years in textile composites.'
       icon: tabler:flask
-      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
-    - title: Valmistuspäällikkö
-      name: Liu Qiang
-      description: 18+ vuotta lean-valmistuksessa ja tuotantolinjan optimoinnissa. Six Sigma Black Belt. ISO 9001 laadunvarmistusjärjestelmät otettiin käyttöön.
+      image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
+    - title: 'Production Director'
+      name: 'Liu Qiang'
+      description: '18+ years in lean manufacturing and production line optimization. Six Sigma Black Belt. Implemented ISO 9001 quality systems.'
       icon: tabler:settings
-      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
-    - title: Laadunvalvontapäällikkö
-      name: Wang Fang
-      description: 12+ vuotta merituotannon laadunvalvonnassa. CE- ja ISO-tarkastajaksi hyväksytty. Valvoo jokaisen tuotantosarjan testaamista.
+      image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
+    - title: 'Quality Manager'
+      name: 'Wang Fang'
+      description: '12+ years in marine quality control. Certified CE and ISO auditor. Oversees testing for every production batch.'
       icon: tabler:shield-check
-      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
-    - title: Myynti- ja toimintojen johtaja
-      name: Helen Lee
-      description: Yli 15 vuoden kokemus kansainvälisestä B2B-kaupasta. Hallinnut co-brand- ja jakelukumppanuuksia yli 30 maassa. Sujuvaa neljällä kielellä.
+      image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
+    - title: 'Sales & Operations Director'
+      name: 'Helen Lee'
+      description: '15+ years in international B2B trade. Managed co-brand and distribution partnerships across 30+ countries. Fluent in 4 languages.'
       icon: tabler:briefcase
       image: https://assets.olagoon.com/images/olagoon/team/olagoon-helen-contact-sales.webp
 philosophy:
-  tagline: Suunnittelufilosofia
-  title: Insinöörivetoinen suunnittelu<br />— jokainen yksityiskohta on tärkeä
-  subtitle: Suunnittelufilosofiamme perustuu kolmeen periaatteeseen, jotka ohjaavat jokaista rakentamaamme tuotetta.
+  tagline: Design Philosophy
+  title: 'Engineering-Led Design<br />— Every Detail Matters'
+  subtitle: 'Our engineering philosophy centers on three principles that guide every product we build.'
   list:
-    - 'Luotettavuus ensin: Jokainen olagoon-tuote on testattu kestämään todellisia olosuhteita – kylmän veden pelastustoimista trooppisten lomakohteiden vuokrauksiin. Suunnittelemme ylimitä, missä se on tärkeintä.'
-    - 'Valmistuksen tarkkuus: Laitoksemme käyttävät CNC-leikkausta, korkeataajuushitsausta ja automatisoitua painetestausta. Jokainen sauma, jokainen venttiili ja jokainen liitin täyttää dokumentoidut vaatimukset.'
-    - 'Jatkuva innovaatio: T&K-tiimimme arvioi uusia materiaaleja, tuotantomenetelmiä ja suunnitteluparannuksia jatkuvasti. Emme odota ongelmien ilmaantumista — vaan ennakoimme ne.'
+    - 'Reliability First: Every olagoon product is tested to withstand real-world conditions — from cold-water rescue operations to tropical resort rentals. We over-engineer where it matters most.'
+    - 'Manufacturing Precision: Our facilities use CNC cutting, high-frequency welding, and automated pressure testing. Every seam, every valve, every fitting meets documented specifications.'
+    - 'Continuous Innovation: Our R&D team evaluates new materials, production methods, and design improvements continuously. We do not wait for problems — we anticipate them.'
 cta:
-  title: Haluatko keskustella projektista tiimimme kanssa?
-  subtitle: Insinöörimme ovat valmiita neuvomaan tuotevalinnassa, räätälöinnissä ja co-branded-mallistoissa.
+  title: 'Want to discuss a project with our team?'
+  subtitle: 'Our engineers are ready to advise on product selection, customization, and co-branded collections.'
   actions:
     - variant: primary
-      text: Ota yhteyttä tiimiimme
+      text: Contact our team
       href: /contact/
-    - text: Katso tuotteemme
+    - text: View our products
       href: /products/

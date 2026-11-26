@@ -1,108 +1,110 @@
 meta:
-  title: 'Cunoștințe — ghiduri SUP | {SITE}'
-  description: 'Baza de cunoștințe olagoon: ghiduri despre plăci de SUP gonflabile, materiale pentru paddle board, alegerea plăcilor și informații din industrie pentru mărci și profesioniști.'
+  title: 'Knowledge — Pool Guides | {SITE}'
+  description: 'OLagoon knowledge base: guides on drop-stitch pools, pool materials, water care, and industry insights for owners and professionals.'
   keywords:
-    - 'cunoștințe SUP'
-    - 'ghid SUP gonflabil'
-    - 'materiale paddle board'
-    - 'informații din industria SUP'
+    - 'pool knowledge'
+    - 'drop stitch pool guide'
+    - 'inflatable pool materials'
+    - 'pool care insights'
 hero:
-  tagline: Graficul Cunoașterii
-  title: Cunoașterea Explorării Apei
+  tagline: 'Knowledge Graph'
+  title: 'Backyard Pool Knowledge'
   subtitle: |
-    O bază de cunoștințe structurată care acoperă tehnologia SUP gonflabil,<br />
-    siguranța pe apă, ingineria plăcilor și planificarea aventurilor.
-  taglineSection: Explorează. Învață. Mergi cu încredere.
-clusters:
-  tagline: Grupuri de Cunoaștere
-  title: Explorează pe subiect
-  subtitle: Scufundări profunde în tehnologia, siguranța și abilitățile din spatele fiecărui produs olagoon.
-  items:
-    - title: Cunoaștere SUP
-      description: De la alegerea primei plăci la tehnici avansate de turism — totul despre paddleboarding.
-      icon: tabler:lifebuoy
-      topics:
-        - Cum să alegi primul tău SUP gonflabil
-        - Cea mai bună dimensiune SUP pentru începători
-        - Cât de dificil este paddleboarding-ul?
-        - Comparație între placă gonflabilă și placă rigidă
-        - Listă de verificare siguranță SUP
-    - title: Inginerie și tehnologie SUP
-      description: Ghiduri tehnice despre plăci SUP gonflabile — materiale, metode de construcție și procese de fabricație.
-      icon: tabler:microscope
-      topics:
-        - Aprofundare în tehnologia drop-stitch
-        - Specificații PVC de clasă militară
-        - Laminare prin fuziune vs. lipire adezivă
-        - Tehnologia spumei EVA și metodele de grafică
-        - Tipuri de valve SUP și sisteme de aripioare
+    A structured knowledge base covering drop-stitch pool technology,<br />
+    water safety, materials engineering, and seasonal pool care.
+  taglineSection: 'Explore. Learn. Swim with confidence.'
 
-    - title: Cunoaștere Siguranță
-      description: Cunoștințe esențiale de siguranță pentru fiecare vâslaș — de la alegerea PFD la citirea vremii și tehnici de auto-salvare.
-      icon: tabler:shield
-      topics:
-        - Listă de verificare siguranță SUP
-        - Ai nevoie de vestă de salvare?
-        - Ghid de siguranță pentru vâslit în ocean
-        - Tehnici de reparare pentru produse gonflabile
-        - Conștientizarea vremii și condițiilor apei
-    - title: Tehnologie
-      description: Ingineria din spatele produselor olagoon — materiale, metode de construcție și testare a calității.
-      icon: tabler:microscope
-      topics:
-        - Tehnologie PVC de calitate marină
-        - Miezul drop-stitch explicat
-        - De ce contează PSI-ul pentru SUP-urile gonflabile
-        - Sudare RF vs lipire adezivă
-        - Testare calitate și certificare
-    - title: Stil de viață SUP & utilizări speciale
-      description: Activități SUP specializate — yoga, pescuit, câini, familii și sfaturi de călătorie.
-      icon: tabler:heart
-      topics:
-        - Yoga SUP și meditație pe apă
-        - Pescuit de pe o placă SUP gonflabilă
-        - Paddle boarding cu câini și copii
-        - Călătoriți cu SUP-ul dvs. cu avionul și cu mașina
-        - Accesorii SUP și echipament esențial
-    - title: Comparații și referințe SUP
-      description: Comparații una lângă alta, pentru a vă ajuta să luați decizii informate.
-      icon: tabler:chart-bar
-      topics:
-        - SUP vs kayak — care este potrivit pentru dumneavoastră?
-        - Clasele de materiale PVC, explicate
-        - Siguranța cu cameră unică vs. cu camere multiple
-        - Materialele pentru plăci SUP, explicate
-        - Imprimare UV vs. design EVA block
-featured_guides:
-  tagline: Ghiduri Recomandate
-  title: Cele mai populare resurse de cunoștințe
+clusters:
+  tagline: 'Knowledge Clusters'
+  title: 'Explore by topic'
+  subtitle: 'Deep dives into the technology, safety, and care behind every OLagoon product.'
   items:
-    - title: Bazele SUP
-      href: /learn/water-safety/
-    - title: Placă gonflabilă vs placă rigidă
-      href: /compare/technology/
-    - title: Ghid de siguranță pe apă
-      href: /learn/water-safety/
-    - title: Referință materiale
-      href: /learn/materials/
-    - title: Ghid dimensiuni SUP
-      href: /size-guide/
-    - title: Ghid de dimensiuni SUP
-      href: /guides/sup-size-guide/
-    - title: Centru Tehnologic SUP
-      href: /research/
-    - title: Întreținerea plăcilor SUP
-      href: /technology/
-    - title: Ghid de Touring
-      href: /guides/sup-for-touring/
-    - title: Tehnici de vâslit
-      href: /technology/
+    - title: 'Pool Buying Guides'
+      description: 'From choosing your first pool to comparing sizes — everything about drop-stitch pools.'
+      icon: 'tabler:lifebuoy'
+      topics:
+        - 'How to choose your first drop-stitch pool'
+        - 'Pool size and capacity guide'
+        - 'Compact Plunge vs Family Oasis vs Grand Lagoon'
+        - 'Common pool buying mistakes to avoid'
+        - 'Inflatable vs rigid pool comparison'
+    - title: 'Pool Engineering & Technology'
+      description: 'Technical guides on drop-stitch pools — materials, construction methods, and manufacturing processes.'
+      icon: 'tabler:microscope'
+      topics:
+        - 'Drop-stitch technology deep dive'
+        - 'Marine-grade PVC specifications'
+        - 'Fusion lamination vs adhesive bonding'
+        - 'Reinforced rail and seam engineering'
+        - 'Pool valve types and pressure ratings'
+    - title: 'Pool Safety & Maintenance'
+      description: 'Essential safety knowledge for every pool owner — from supervision rules to water care and repair.'
+      icon: 'tabler:shield'
+      topics:
+        - 'Pool safety checklist and supervision rules'
+        - 'Water care and sanitation basics'
+        - 'Pool inflation PSI guide (10–15 PSI)'
+        - 'Pool storage and winter care'
+        - 'PVC repair techniques'
+    - title: 'Pool Setup & Water Care'
+      description: 'Setup routines, filtration schedules, and water chemistry for a season of clear water.'
+      icon: 'tabler:droplet'
+      topics:
+        - 'First setup: unbox to swim in 30 minutes'
+        - 'Sand filter pump operation and backwashing'
+        - 'Water testing and chemical balance'
+        - 'Algae prevention and troubleshooting'
+        - 'Thermal covers and heat retention'
+    - title: 'Pool Lifestyle & Family'
+      description: 'Getting the most from your pool — family fun, exercise, pets, and entertaining.'
+      icon: 'tabler:heart'
+      topics:
+        - 'Pool games and activities for kids'
+        - 'Water exercise and low-impact fitness'
+        - 'Pool time with dogs and pets'
+        - 'Moving your pool: storage between homes'
+        - 'Pool accessories and gear essentials'
+    - title: 'Pool Comparisons & References'
+      description: 'Side-by-side comparisons to help you make informed decisions.'
+      icon: 'tabler:chart-bar'
+      topics:
+        - 'Inflatable pool vs rigid pool — which is right for you?'
+        - 'PVC material grades explained'
+        - 'Single chamber vs multi-chamber construction'
+        - 'Pool wall heights explained (20 cm standard)'
+        - 'Digital printing vs in-mold graphics'
+
+featured_guides:
+  tagline: 'Featured Guides'
+  title: 'Most popular knowledge resources'
+  items:
+    - title: 'Pool Setup Guide'
+      href: '/guides/pool-setup-guide/'
+    - title: 'Inflatable vs Rigid Pools'
+      href: '/compare/inflatable-vs-hardboard/'
+    - title: 'Water Safety Guide'
+      href: '/learn/water-safety/'
+    - title: 'Materials Reference'
+      href: '/learn/materials/'
+    - title: 'Pool Buying Guide'
+      href: '/guides/choosing-a-drop-stitch-pool/'
+    - title: 'Pool Filtration Guide'
+      href: '/guides/pool-filtration-guide/'
+    - title: 'Pool Tech Center'
+      href: '/research/'
+    - title: 'Pool Water Care'
+      href: '/guides/pool-water-care/'
+    - title: 'Winter Storage Guide'
+      href: '/guides/pool-winter-storage/'
+    - title: 'Site Preparation Guide'
+      href: '/guides/pool-site-preparation/'
+
 cta:
-  title: Începe să explorezi
-  subtitle: Scufundă-te în baza noastră de cunoștințe și obține informațiile de care ai nevoie pentru următoarea ta aventură pe apă.
+  title: 'Start exploring'
+  subtitle: 'Dive into our knowledge base and get the information you need for your backyard pool.'
   actions:
     - variant: primary
-      text: Vizionează toate ghidurile
-      href: /academy/
-    - text: Explorează graficul de cunoaștere
-      href: /knowledge/
+      text: 'Browse all guides'
+      href: '/academy/'
+    - text: 'Explore Knowledge Graph'
+      href: '/knowledge/'

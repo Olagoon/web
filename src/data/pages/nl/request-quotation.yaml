@@ -1,99 +1,99 @@
 meta:
-  title: 'Offerte Aanvragen — OEM-SUP-productie | {SITE}'
-  description: 'Vraag een gedetailleerde offerte aan voor jouw opblaasbare SUP-project. OEM/ODM-productie, private label of aangepaste vloten: we reageren binnen 2 werkdagen.'
+  title: 'Request a Quotation — OEM pool Manufacturing | {SITE}'
+  description: 'Request a detailed quotation for your inflatable pools project. OEM/ODM manufacturing, private label, or custom fleets — we respond within 2 business days.'
   keywords:
-    - 'SUP offerte aanvragen'
-    - 'OEM paddle board offerte'
-    - 'SUP-fabriek offerte'
-    - 'prijs opblaasbare SUP'
+    - 'request pool quote'
+    - 'oem inflatable pool quote'
+    - 'pool factory quotation'
+    - 'inflatable pools price'
 hero_text:
-  tagline: Vraag een offerte aan
-  title: Vraag een Offerte Aan<br />voor Uw Project
-  subtitle: Vertel ons uw wensen en ons team reageert binnen 2 werkdagen met een gedetailleerde offerte.
+  tagline: Get a Quote
+  title: 'Request a Quotation<br />for Your Project'
+  subtitle: 'Tell us about your requirements and our team will respond with a detailed quotation within 2 business days.'
 steps2_process:
-  title: Hoe Het Werkt
-  subtitle: Vier eenvoudige stappen van aanvraag tot offerte.
+  title: How It Works
+  subtitle: 'Four simple steps from inquiry to quotation.'
   items:
-    - title: 'Stap 1: Diens Uw Wensen In'
-      description: Vul het onderstaande formulier in met uw producttype, hoeveelheid en specificaties. Hoe meer detail u verstrekt, hoe nauwkeuriger uw offerte.
+    - title: 'Step 1: Submit Your Requirements'
+      description: 'Fill out the form below with your product type, quantity, and specifications. The more detail you provide, the more accurate your quotation.'
       icon: tabler:file-text
-    - title: 'Stap 2: Wij Beoordelen & Adviseren'
-      description: Ons technische team beoordeelt uw wensen en neemt mogelijk contact met u op voor verduidelijking. Wij geven aanbevelingen over productconfiguratie en opties.
+    - title: 'Step 2: We Review & Advise'
+      description: 'Our engineering team reviews your requirements and may contact you for clarification. We provide recommendations on product configuration and options.'
       icon: tabler:users
-    - title: 'Stap 3: Ontvang Uw Offerte'
-      description: U ontvangt een gedetailleerde offerte inclusief eenheidsprijs, MOQ, levertijd, betalingsvoorwaarden en verzendopties. Doorgaans binnen 48 uur.
+    - title: 'Step 3: Receive Your Quote'
+      description: 'You receive a detailed quotation including unit pricing, MOQ, lead time, payment terms, and shipping options. Typically within 48 hours.'
       icon: tabler:currency-dollar
-    - title: 'Stap 4: Monster & Productie'
-      description: Na acceptatie van de offerte gaan we over tot monsterproductie (indien van toepassing) of direct tot massaproductie. Regelmatige updates gedurende het hele proces.
+    - title: 'Step 4: Sample & Production'
+      description: 'After quote acceptance, we proceed to sample production (if applicable) or directly to mass production. Regular updates throughout the process.'
       icon: tabler:building-factory
 content_form:
-  tagline: Offerteformulier
-  title: Vertel Ons Over Uw Project
-  subtitle: Alle velden met * zijn verplicht.
+  tagline: Quotation Form
+  title: 'Tell Us About Your Project'
+  subtitle: 'All fields with * are required.'
   contact_fields:
-    firstName: Voornaam
-    lastName: Achternaam
-    companyName: Bedrijf
+    firstName: First Name
+    lastName: Last Name
+    companyName: Company Name
     email: E-mail
   fields:
-    - name: Productcategorie
+    - name: Product Category
       type: select
       options:
-        - SUP-board
-        - Opblaasbare SUP
-        - Opblaasbaar SUP-board
-        - Reddingsvest
-        - Maritiem accessoire
-        - OEM/ODM op maat
-    - name: Toepassing
+        - pools
+        - inflatable pools
+        - inflatable pools
+        - Thermal Cover
+        - Marine Accessory
+        - Custom OEM/ODM
+    - name: Application
       type: select
       options:
-        - Duikcentrum
-        - Vissen
-        - Marine Toerisme / Resort
-        - Zoek- en reddingsoperaties
-        - Overheid / Militair
-        - OEM / Eigen merk
-        - Persoonlijk / Recreatief
-        - Overige
-    - name: Aantal
+        - Diving Center
+        - Fishing
+        - Marine Tourism / Resort
+        - Search & Rescue
+        - Government / Military
+        - OEM / Private Label
+        - Personal / Recreational
+        - Other
+    - name: Quantity
       type: text
-      placeholder: bijv. 50 stuks
-    - name: Doelmarkt
+      placeholder: e.g. 50 units
+    - name: Target Market
       type: text
-      placeholder: bijv. Europa, Noord-Amerika, Midden-Oosten
-    - name: Leveringsland
+      placeholder: e.g. Europe, North America, Middle East
+    - name: Delivery Country
       type: text
-      placeholder: bijv. Italië, VAE, VS, Australië
-    - name: Materiaalvoorkeur
+      placeholder: e.g. Italy, UAE, USA, Australia
+    - name: Material Preference
       type: select
       options:
-        - Geen voorkeur
-        - Marine-kwaliteit PVC (1100 dtex)
-        - GFK-romp
-        - Aluminium romp
-    - name: Motorvereisten
+        - No Preference
+        - Marine-Grade PVC (1100 dtex)
+        - Fiberglass Hull
+        - Aluminum Hull
+    - name: Engine Requirement
       type: text
-      placeholder: bijv. standaard peddelsetup, elektrische pomp, aangepaste kleuren
-    - name: Benodigde aanpassingen
+      placeholder: e.g. standard filtration package, electric pump, custom colors
+    - name: Customization Required
       type: text
-      placeholder: bijv. aangepaste kleuren, branding/logo, verpakking, speciale bevestigingen
-    - name: Levertijd
+      placeholder: e.g. custom colors, branding/logo, packaging, special fittings
+    - name: Timeline
       type: text
-      placeholder: bijv. levering binnen 90 dagen
-    - name: Aanvullende vereisten
+      placeholder: e.g. delivery within 90 days
+    - name: Additional Requirements
       type: textarea
-      placeholder: Beschrijf uw toepassing, technische specificaties of eventuele speciale vereisten — voeg indien beschikbaar referentietekeningen, specificaties of links toe
-    - name: Specificatie uploaden
+      placeholder: Describe your application, technical specifications, or any special requirements — include reference drawings, specifications, or links if available
+    - name: Upload Specification
       type: file
-      placeholder: Upload uw specificatieblad, tekening of referentiedocument (PDF, DWG, DXF)
-    - name: Logo / artwork uploaden
+      placeholder: Upload your spec sheet, drawing, or reference document (PDF, DWG, DXF)
+    - name: Upload Logo / Artwork
       type: file
-      placeholder: Upload uw logo of kunstwerk voor aangepaste branding (AI, EPS, PNG)
+      placeholder: Upload your logo or artwork for custom branding (AI, EPS, PNG)
 cta:
-  title: Liever per e-mail bespreken?
-  subtitle: Stuur uw aanvraag rechtstreeks naar ons verkoopteam en wij reageren binnen 24 uur.
+  title: 'Prefer to discuss by email?'
+  subtitle: 'Send your inquiry directly to our sales team and we will respond within 24 hours.'
   actions:
     - variant: primary
-      text: Stuur ons direct een e-mail
+      text: Email us directly
       href: /contact/

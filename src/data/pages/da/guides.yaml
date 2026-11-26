@@ -1,25 +1,26 @@
 meta:
-  title: 'SUP-guides — købe, vælge, træne | {SITE}'
-  description: 'olagoons SUP-guides: hvordan du køber, vælger og træner paddle boarding. Størrelser, materialer og eksperttips til begyndere og professionelle.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'SUP købsguide'
-    - 'hvordan vælge SUP'
-    - 'SUP størrelsesguide'
-    - 'oppusteligt paddle board tips'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
   tagline: Guides
-  title: Ny til SUP?
-  subtitle: Praktiske guides, der hjælper dig med at vælge, bruge og nyde oppustelige SUP-boards.
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
+
 size_guide:
-  tagline: Størrelse & specifikationer
-  title: Find den rette størrelse til dine behov
-  desc: Sammenlign SUP-brætters dimensioner, vægtkapacitet og anbefalede anvendelser. Uanset om du har brug for en touring-SUP, et yogabræt eller en all-around SUP — hjælper vores størrelsesguide dig med at vælge den rette model.
-  link_label: Fuld størrelsesguide med produktspecifikationer →
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: SUP-boards
-      desc: Vælg længden ud fra din vægt og dit brugsformål. Bredere brætter (32"+) giver mere stabilitet. Længere brætter (11–12 ft) holder kursen bedre ved touring.
-    - title: Touring-SUP'er
-      desc: Længere boards (11–12 ft) til at tilbagelægge lange distancer og holde kursen lige. Stabile nok til touring med udstyr. Tjek altid vægtkapaciteten.
-    - title: All-round SUP-brædder
-      desc: Vælg længde ud fra rytterens vægt og brug. Bredere boards (32"+) giver stabilitet. Alsidige til rekreation og fitness.
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

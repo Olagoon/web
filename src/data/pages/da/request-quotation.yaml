@@ -1,99 +1,99 @@
 meta:
-  title: 'Anmod om et tilbud — OEM-SUP-produktion | {SITE}'
-  description: 'Anmod om et detaljeret tilbud til dit oppustelige SUP-projekt. OEM/ODM-produktion, private label eller tilpassede flåder — vi svarer inden for 2 arbejdsdage.'
+  title: 'Request a Quotation — OEM pool Manufacturing | {SITE}'
+  description: 'Request a detailed quotation for your inflatable pools project. OEM/ODM manufacturing, private label, or custom fleets — we respond within 2 business days.'
   keywords:
-    - 'anmod om SUP-tilbud'
-    - 'OEM paddle board tilbud'
-    - 'SUP-fabrik tilbud'
-    - 'pris oppustelig SUP'
+    - 'request pool quote'
+    - 'oem inflatable pool quote'
+    - 'pool factory quotation'
+    - 'inflatable pools price'
 hero_text:
-  tagline: Få et tilbud
-  title: Anmod om et tilbud<br />til dit projekt
-  subtitle: Fortæl os om dine krav, så svarer vores team med et detaljeret tilbud inden for 2 hverdage.
+  tagline: Get a Quote
+  title: 'Request a Quotation<br />for Your Project'
+  subtitle: 'Tell us about your requirements and our team will respond with a detailed quotation within 2 business days.'
 steps2_process:
-  title: Sådan fungerer det
-  subtitle: Fire enkle trin fra forespørgsel til tilbud.
+  title: How It Works
+  subtitle: 'Four simple steps from inquiry to quotation.'
   items:
-    - title: 'Trin 1: Indsend dine krav'
-      description: Udfyld formularen nedenfor med din produkttype, mængde og specifikationer. Jo flere detaljer du giver, desto mere nøjagtigt bliver dit tilbud.
+    - title: 'Step 1: Submit Your Requirements'
+      description: 'Fill out the form below with your product type, quantity, and specifications. The more detail you provide, the more accurate your quotation.'
       icon: tabler:file-text
-    - title: 'Trin 2: Vi gennemgår & rådgiver'
-      description: Vores ingeniørteam gennemgår dine krav og kan kontakte dig for afklaring. Vi giver anbefalinger om produktkonfiguration og muligheder.
+    - title: 'Step 2: We Review & Advise'
+      description: 'Our engineering team reviews your requirements and may contact you for clarification. We provide recommendations on product configuration and options.'
       icon: tabler:users
-    - title: 'Trin 3: Modtag dit tilbud'
-      description: Du modtager et detaljeret tilbud inklusive enhedspris, MOQ, leveringstid, betalingsbetingelser og forsendelsesmuligheder. Typisk inden for 48 timer.
+    - title: 'Step 3: Receive Your Quote'
+      description: 'You receive a detailed quotation including unit pricing, MOQ, lead time, payment terms, and shipping options. Typically within 48 hours.'
       icon: tabler:currency-dollar
-    - title: 'Trin 4: Prøver & produktion'
-      description: Efter tilbudsgodkendelse går vi videre til prøveproduktion (hvis relevant) eller direkte til masseproduktion. Regelmæssige opdateringer gennem hele processen.
+    - title: 'Step 4: Sample & Production'
+      description: 'After quote acceptance, we proceed to sample production (if applicable) or directly to mass production. Regular updates throughout the process.'
       icon: tabler:building-factory
 content_form:
-  tagline: Tilbudsformular
-  title: Fortæl os om dit projekt
-  subtitle: Alle felter med * er påkrævet.
+  tagline: Quotation Form
+  title: 'Tell Us About Your Project'
+  subtitle: 'All fields with * are required.'
   contact_fields:
-    firstName: Fornavn
-    lastName: Efternavn
-    companyName: Virksomhedsnavn
+    firstName: First Name
+    lastName: Last Name
+    companyName: Company Name
     email: E-mail
   fields:
-    - name: Produktkategori
+    - name: Product Category
       type: select
       options:
-        - SUP-board
-        - Oppustelig SUP
-        - Oppustelig SUP-board
-        - Svømmevest
-        - Marin tilbehør
-        - Tilpasset OEM/ODM
-    - name: Anvendelse
+        - pools
+        - inflatable pools
+        - inflatable pools
+        - Thermal Cover
+        - Marine Accessory
+        - Custom OEM/ODM
+    - name: Application
       type: select
       options:
-        - Dykkercenter
-        - Fiskeri
-        - Marin turisme / resort
-        - Eftersøgning og redning
-        - Regering / militær
-        - OEM / Private label
-        - Privat / fritid
-        - Andet
-    - name: Antal
+        - Diving Center
+        - Fishing
+        - Marine Tourism / Resort
+        - Search & Rescue
+        - Government / Military
+        - OEM / Private Label
+        - Personal / Recreational
+        - Other
+    - name: Quantity
       type: text
-      placeholder: f.eks. 50 stk.
-    - name: Målmarked
+      placeholder: e.g. 50 units
+    - name: Target Market
       type: text
-      placeholder: f.eks. Europa, Nordamerika, Mellemøsten
-    - name: Leveringsland
+      placeholder: e.g. Europe, North America, Middle East
+    - name: Delivery Country
       type: text
-      placeholder: f.eks. Italien, UAE, USA, Australien
-    - name: Materialepræference
+      placeholder: e.g. Italy, UAE, USA, Australia
+    - name: Material Preference
       type: select
       options:
-        - Ingen præference
-        - PVC i maritim kvalitet (1100 dtex)
-        - Glasfiberskrog
-        - Aluminiumsskrog
-    - name: Motorkrav
+        - No Preference
+        - Marine-Grade PVC (1100 dtex)
+        - Fiberglass Hull
+        - Aluminum Hull
+    - name: Engine Requirement
       type: text
-      placeholder: f.eks. standard pagajopsætning, elektrisk pumpe, tilpassede farver
-    - name: Ønsket tilpasning
+      placeholder: e.g. standard filtration package, electric pump, custom colors
+    - name: Customization Required
       type: text
-      placeholder: f.eks. tilpassede farver, branding/logo, emballage, specialbeslag
-    - name: Leveringstid
+      placeholder: e.g. custom colors, branding/logo, packaging, special fittings
+    - name: Timeline
       type: text
-      placeholder: f.eks. levering inden for 90 dage
-    - name: Yderligere krav
+      placeholder: e.g. delivery within 90 days
+    - name: Additional Requirements
       type: textarea
-      placeholder: Beskriv din anvendelse, tekniske specifikationer eller eventuelle særlige krav — medtag referencetegninger, specifikationer eller links, hvis tilgængelige
-    - name: Upload specifikation
+      placeholder: Describe your application, technical specifications, or any special requirements — include reference drawings, specifications, or links if available
+    - name: Upload Specification
       type: file
-      placeholder: Upload dit specifikationsark, din tegning eller et referencedokument (PDF, DWG, DXF)
-    - name: Upload logo / grafik
+      placeholder: Upload your spec sheet, drawing, or reference document (PDF, DWG, DXF)
+    - name: Upload Logo / Artwork
       type: file
-      placeholder: Upload dit logo eller din grafik til tilpasset branding (AI, EPS, PNG)
+      placeholder: Upload your logo or artwork for custom branding (AI, EPS, PNG)
 cta:
-  title: Foretrækker du at aftale nærmere på e-mail?
-  subtitle: Send din forespørgsel direkte til vores salgsteam, så svarer vi inden for 24 timer.
+  title: 'Prefer to discuss by email?'
+  subtitle: 'Send your inquiry directly to our sales team and we will respond within 24 hours.'
   actions:
     - variant: primary
-      text: Skriv til os på mail
+      text: Email us directly
       href: /contact/

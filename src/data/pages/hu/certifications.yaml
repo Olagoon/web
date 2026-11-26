@@ -1,68 +1,68 @@
 meta:
-  title: 'Tanúsítványok — CE, ISO 9001 és megfelelőség | {SITE}'
-  description: 'olagoon minőségi tanúsítványok: CE (EN ISO 25649), ISO 9001:2015, BSCI. Megfelelőség és biztonság egy felfújható SUP gyártónál.'
+  title: 'Certifications — CE, ISO 9001 & Compliance | {SITE}'
+  description: 'olagoon quality certifications: CE (EN ISO 25649), ISO 9001:2015, BSCI. Compliance and safety for an inflatable pool manufacturer.'
   keywords:
-    - 'ce tanúsítás sup'
-    - 'iso 9001 sup'
-    - 'vízi megfelelőség'
-    - 'paddle board tanúsítás'
+    - 'ce certification pool'
+    - 'iso 9001 pool'
+    - 'nautical compliance'
+    - 'inflatable pool certification'
 hero:
-  tagline: 'Tanúsítványok és szabványok'
-  title: 'Minőségi tanúsítványok<br />és megfelelőségi szabványok'
-  subtitle: 'Az olagoon SUP gyártás nemzetközi tengeri biztonsági szabványok, minőségirányítási rendszerek és környezetvédelmi előírások szerint tanúsított — CE, ISO 9001, UKCA, BSCI és REACH.'
+  tagline: Certifications & Standards
+  title: 'Quality Certifications<br />& Compliance Standards'
+  subtitle: 'olagoon pool manufacturing is certified to international marine safety standards, quality management systems, and environmental regulations — CE, ISO 9001, UKCA, BSCI, and REACH.'
   image:
     src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
-    alt: 'olagoon minőségi tanúsítványok és megfelelőségi dokumentáció'
+    alt: olagoon quality certifications and compliance documentation
 content_certifications:
-  tagline: 'Tanúsítványaink'
-  title: 'Tanúsított minőség,<br />világszerte elismert'
-  subtitle: 'Minden olagoon terméket olyan tanúsítványok támasztanak alá, amelyek a minőség, a biztonság és a környezetvédelmi felelősség iránti elkötelezettségünket igazolják.'
+  tagline: Our Certifications
+  title: 'Certified Quality,<br />Globally Recognized'
+  subtitle: 'Every olagoon product is backed by certifications that demonstrate our commitment to quality, safety, and environmental responsibility.'
   items:
-    - title: 'CE tanúsított'
-      description: 'Minden olagoon termék megfelel az európai CE jelölési követelményeknek szabadidő vízijárművekre, biztosítva a biztonsági, egészségügyi és környezetvédelmi szabványok teljesülését.'
+    - title: 'CE Certified'
+      description: 'All olagoon products comply with European CE marking requirements for recreational watercraft, ensuring safety, health, and environmental protection standards are met.'
       icon: tabler:certificate
     - title: 'ISO 9001:2015'
-      description: 'Minőségirányítási rendszerünk ISO 9001:2015 tanúsítással rendelkezik, amely a felfújható vízijárművek és vízi felszerelések tervezését, gyártását és disztribúcióját fedi le.'
+      description: 'Our quality management system is ISO 9001:2015 certified, covering design, manufacturing, and distribution of inflatable watercraft and marine equipment.'
       icon: tabler:clipboard-check
-    - title: 'UKCA jelölés'
-      description: 'Az Egyesült Királyság piacán értékesített termékek UKCA jelöléssel rendelkeznek, megerősítve a brit vízi felszerelésekre és személyes vízijárművekre vonatkozó előírásoknak való megfelelést.'
+    - title: 'UKCA Marked'
+      description: 'Products sold in the UK market carry UKCA marking, confirming compliance with UK regulations for marine equipment and personal watercraft.'
       icon: tabler:shield
-    - title: 'BSCI megfelelő'
-      description: 'Az olagoon BSCI (Business Social Compliance Initiative) auditon esett át, igazolva az etikus gyártási gyakorlatokat, a méltányos munkakörülményeket és az ellátási lánc felelősségét.'
+    - title: 'BSCI Compliant'
+      description: 'olagoon is BSCI (Business Social Compliance Initiative) audited, demonstrating ethical manufacturing practices, fair labor conditions, and supply chain responsibility.'
       icon: tabler:heart-handshake
-    - title: 'REACH megfelelő'
-      description: 'Az olagoon termékekben használt minden anyag megfelel az EU REACH vegyszerbiztonsági előírásainak, biztosítva, hogy PVC-ben, EVA-ban vagy alkatrészekben ne legyenek korlátozott anyagok.'
+    - title: 'REACH Compliant'
+      description: 'All materials used in olagoon products comply with EU REACH regulations for chemical safety, ensuring no restricted substances in our PVC, EVA, or components.'
       icon: tabler:flask
-    - title: 'Anyagtesztelés'
-      description: 'A szöveteket húzószilárdságra, szakítószilárdságra, UV-romlásra és hidegrepedési teljesítményre tesztelik. Minden gyártási tétel mintavételes ellenőrzésen esik át.'
+    - title: 'Material Testing'
+      description: 'Fabrics are tested for tensile strength, tear resistance, UV degradation, and cold-crack performance. Every production batch is sampled and verified.'
       icon: tabler:test-pipe
 content_factory:
-  tagline: 'Gyári szabványok'
-  title: 'Gyártási kiválóság<br />— specifikáció szerint építve'
-  subtitle: '12 000 m²-es létesítményünk szigorú minőségkontroll-protokollok alatt működik a gyártás minden szakaszában.'
+  tagline: Factory Standards
+  title: 'Manufacturing Excellence<br />— Built to Specification'
+  subtitle: 'Our 12,000 m² facility operates under strict quality control protocols at every stage of production.'
   list:
-    - 'Beérkező anyag ellenőrzése: Minden alapanyagot — PVC szövet, EVA hab, ragasztók, hardverek — specifikációkkal szemben tesztelnek, mielőtt a gyártásba kerülnek.'
-    - 'Folyamat közbeni minőségkontroll: Minden gyártási szakasznak dokumentált QC ellenőrzési pontjai vannak. A hegesztési szilárdságot, varratigazítást, szelepszerelést és csatlakozó-nyomatékot a vonalon ellenőrzik.'
-    - 'Nyomásvizsgálat: Minden felfújható kamrát a névleges nyomás 1,25-szörösén tesztelnek 24–48 órán át. A nyomásesésnek 5% alatt kell maradnia az átfogó minősítéshez.'
-    - 'Végellenőrzés: A kész termékeket méretpontosság, kozmetikai kivitel, tartozékteljesség és csomagolás épsége szempontjából ellenőrzik szállítás előtt.'
-    - 'Tétel-nyomonkövethetőség: Minden termék sorozatszámmal rendelkezik, amely a gyártási tételrekordokhoz kapcsolódik, lehetővé téve a teljes visszakövethetőséget az alapanyagtól a készáruig.'
+    - 'Incoming Material Inspection: All raw materials — PVC fabric, EVA foam, adhesives, hardware — are tested against specifications before entering production.'
+    - 'In-Process Quality Control: Every production stage has documented QC checkpoints. Weld strength, seam alignment, valve installation, and fitting torque are verified inline.'
+    - 'Pressure Testing: Every inflatable chamber is pressure-tested at 1.25× rated pressure for 24–48 hours. Pressure drop must stay below 5% for a passing grade.'
+    - 'Final Inspection: Completed products are inspected for dimensional accuracy, cosmetic finish, accessory completeness, and packaging integrity before shipping.'
+    - 'Batch Traceability: Every product carries a serial number linked to production batch records, enabling full traceability from raw material to finished goods.'
 content_safety:
-  tagline: 'Tengeri biztonsági szabványok'
-  title: 'A biztonság először<br />— megbízható üzemelésre tervezve'
-  subtitle: 'Az olagoon termékek nemzetközi tengeri biztonsági szabványoknak megfelelően vannak tervezve és tesztelve kereskedelmi és szabadidő használatra.'
+  tagline: Marine Safety Standards
+  title: 'Safety First<br />— Designed for Reliable Operation'
+  subtitle: 'olagoon products are designed and tested to meet international marine safety standards for commercial and recreational use.'
   items:
     - title: 'EN ISO 25649'
-      description: 'A felfújható SUP-ok megfelelnek az EN ISO 25649 szabványoknak a szerkezetre, stabilitásra, felhajtóerőre és terhelési kapacitásra vonatkozóan.'
+      description: 'inflatable pools comply with EN ISO 25649 standards for construction, stability, buoyancy, and load capacity.'
       icon: tabler:sailboat
-    - title: 'SOLAS megfelelőség'
-      description: 'A biztonsági felszerelések és életmentő eszközök megfelelnek a SOLAS (Safety of Life at Sea) követelményeknek, ahol alkalmazható.'
+    - title: 'SOLAS Compliance'
+      description: 'Safety equipment and life-saving appliances meet SOLAS (Safety of Life at Sea) requirements where applicable.'
       icon: tabler:lifebuoy
 cta:
-  title: 'Tanúsított termékekre van szüksége a projektjéhez?'
-  subtitle: 'Vegye fel a kapcsolatot csapatunkkal a tanúsítási követelmények, dokumentáció és az Ön piacára vonatkozó megfelelőség megvitatásához.'
+  title: 'Need certified products for your project?'
+  subtitle: 'Contact our team to discuss certification requirements, documentation, and compliance for your market.'
   actions:
     - variant: primary
-      text: 'Tanúsítási dokumentumok kérése'
+      text: Request certification docs
       href: /contact/
-    - text: 'Minőségi oldalunk megtekintése'
+    - text: View our quality page
       href: /quality/

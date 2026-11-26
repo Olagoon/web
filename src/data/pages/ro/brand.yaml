@@ -1,34 +1,39 @@
 meta:
-  title: 'Marca olagoon — inginerie maritimă și parteneriate | {SITE}'
-  description: 'olagoon: partener de inginerie pentru mărci de sporturi nautice, distribuitori, cluburi nautice și companii — co-brand collections, private label și programe de distribuție pe țări.'
+  title: 'The olagoon Brand — Marine Engineering & Partnership | {SITE}'
+  description: 'olagoon: an inflatable marine brand partnering with water sports brands, distributors, nautical clubs, and enterprises through co-branded collections, private label, and country distribution programs.'
   keywords:
-    - 'marca olagoon'
-    - 'producător plăci de SUP gonflabile'
-    - 'parteneriate SUP'
+    - 'olagoon brand'
+    - 'inflatable pools brand'
+    - 'china pool manufacturer'
 hero:
   tagline: Brand
   title: '{BRAND}'
-  subtitle: Performanță oceanică pentru fiecare surfer
-  cta: Explorați echipamentul →
+  subtitle: Ocean Performance for Every Surfer
+  cta: Explore Gear →
   cta_link: /products/
-  secondary_cta: Învață surfing
+  secondary_cta: Explore Pools
   secondary_cta_link: /guides/
+
 position:
-  tagline: Funcție
-  subtitle: Performanță oceanică pentru fiecare surfer
+  tagline: Position
+  subtitle: Ocean Performance for Every Surfer
+
 products_section:
-  tagline: Produse
-  cta: Toate produsele →
+  tagline: Products
+  cta: All Products →
   cta_link: /products/
+
 global_section:
   tagline: Global
-  title: Disponibil în {count} regiuni
+  title: Available in {count} Regions
+
 social_section:
   tagline: Social
-  title: Ce citesc surferii
-  read_guide: Citiți ghidul →
+  title: What surfers are reading
+  read_guide: Read guide →
+
 cta_section:
-  title: Începe-ți călătoria pe ocean
-  subtitle: Fiecare produs certificat CE. Acoperit de garanție. Proiectat pentru surf real.
-  cta_suffix: →
-  secondary_cta: Despre {BRAND}
+  title: Start your ocean journey
+  subtitle: Every product CE certified. Backed by warranty. Engineered for real backyards.
+  cta_suffix: '→'
+  secondary_cta: About {BRAND}

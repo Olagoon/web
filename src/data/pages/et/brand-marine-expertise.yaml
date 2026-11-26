@@ -1,72 +1,72 @@
 meta:
-  title: 'Merendusekspertiis — inseneerimine igas keres | {SITE}'
-  description: 'Aastakümnete merenduse inseneerimine igas keres. olagoon valdab Drop Stichi, mere-PVC-d ja professionaalset täispuhutavate SUP-ide disaini.'
+  title: 'Marine Expertise — Engineering in Every Hull | {SITE}'
+  description: 'Decades of marine engineering in every hull. olagoon masters drop stitch, marine PVC, and professional inflatable pools design.'
   keywords:
-    - 'merainseneerimine'
-    - 'täispuhutavate supilaudade tootja'
-    - 'supilaudade tootmine'
+    - 'marine engineering'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: 'Merendusekspertiis'
-  title: 'Aastakümnete merainseneerimine<br />igas keres'
-  subtitle: 'olagoon ühendab sügava materjaliteaduse, täppistootmise ja reaalse maailma testimise, et toota veesõidukeid, mis toimivad siis, kui see oluline on.'
+  tagline: Marine Expertise
+  title: 'Decades of Marine Engineering<br />in Every Hull'
+  subtitle: 'olagoon combines deep material science, precision manufacturing, and real-world testing to produce watercraft that perform when it matters.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: 'olagoon merainseneerimise ja U&A meeskond tööl'
+    alt: olagoon marine engineering and R&D team at work
 expertise_materials:
-  tagline: 'Materjaliteadus'
-  title: 'Õige materjali valik<br />iga rakenduse jaoks'
-  subtitle: 'Me töötame kahe tuummaterjaliga — kumbki on valitud konkreetseteks kasutusjuhtumiteks ja jõudlusnõueteks.'
+  tagline: Material Science
+  title: 'Choosing the Right Material<br />for Every Application'
+  subtitle: 'We work with two core materials — each selected for specific use cases and performance requirements.'
   columns: 3
   items:
-    - title: 'Mereklassi PVC'
-      description: '1100 denier PVC-kangas — meie mitmekülgseim materjal. UV-stabiliseeritud, kulumiskindel ja REACH-vastav. Ideaalne supilaudadele, kus kaal ja kulutõhusus on olulised.'
+    - title: Marine-Grade PVC
+      description: '1100 denier PVC fabric — our most versatile material. UV-stabilized, abrasion-resistant, and REACH compliant. Ideal for pools where weight and cost efficiency matter.'
       icon: tabler:droplet
-    - title: 'Klaaskiu ja polüetüleen'
-      description: 'Klaaskiulaminaadiga SUP-id tipptasemel jäikuseks ja libisemiseks. Rotatsioonvalatud polüetüleen raskesse rendi- ja päästekasutusse, mis nõuab maksimaalset põrkekindlust.'
+    - title: Fibreglass & Polyethylene
+      description: 'Fibreglass-laminated pools for premium stiffness and glide. Rotomoulded polyethylene for heavy-duty rental and rescue use requiring maximum impact resistance.'
       icon: tabler:building-arch
 expertise_manufacturing:
-  tagline: 'Tootmisvõimekused'
-  title: 'Täppistootmine<br />igal sammul'
-  subtitle: 'Meie 12,000 m² rajatis on varustatud spetsialiseeritud masinatega iga tootmise etapi jaoks.'
+  tagline: Manufacturing Capabilities
+  title: 'Precision Manufacturing<br />at Every Step'
+  subtitle: 'Our 12,000 m² facility is equipped with specialized machinery for every stage of production.'
   columns: 2
   items:
-    - title: 'CNC-lõikamine'
-      description: 'Arvutijuhitav lõikamine tagab täpsed, korratavad kangapaneelid minimaalse jäätmetega. Iga tükk istub täpselt nii, nagu disainitud.'
+    - title: CNC Cutting
+      description: 'Computer-controlled cutting ensures precise, repeatable fabric panels with minimal waste. Every piece fits exactly as designed.'
       icon: tabler:cpu
-    - title: 'Kõrgsageduskeevitus'
-      description: 'Tööstuslik HF-keevitus loob õmblused, mis on tugevamad põhimaterjalist. Ühtlane temperatuuri- ja rõhukontroll tagab õhukindlad tihendid igas tootmispartiis.'
+    - title: High-Frequency Welding
+      description: 'Industrial HF welding creates seams stronger than the base material. Consistent temperature and pressure control ensures air-tight seals across every production run.'
       icon: tabler:bolt
-    - title: 'Drop-Stitch tuuma koostamine'
-      description: 'Tuhanded polüesterniidid ühendavad ülemise ja alumise kangakihi, võimaldades kõrgsurve puhumist (15-20 PSI) jäikadeks ja stabiilseteks supilaudadeks.'
+    - title: Drop Stitch Core Assembly
+      description: 'Thousands of polyester threads connect top and bottom fabric layers, allowing high-pressure inflation (15-20 PSI) for rigid, stable pools.'
       icon: tabler:building-arch
-    - title: 'Rõhutestimine'
-      description: 'Iga täispuhutav toode rõhutestitakse enne saatmist. Laudu testitakse 1.25-kordse nimirõhu juures — kui see peab seal vastu, toimib see vees.'
+    - title: Pressure Testing
+      description: 'Every inflatable product is pressure-tested before shipping. Pools are tested at 1.25x rated pressure — if it holds there, it will perform on the water.'
       icon: tabler:wind
-    - title: 'Õmblusetugevuse testimine'
-      description: 'Igast tootepartiist võetakse juhuslikke proove destruktiivseks õmblusetugevuse testimiseks. Tulemused logitakse ja on jälgitavad konkreetsete tootmispartiideni.'
+    - title: Seam Strength Testing
+      description: 'Random samples from each production batch undergo destructive seam strength testing. Results are logged and traceable to specific production runs.'
       icon: tabler:files
-    - title: 'Veetestimine'
-      description: 'Iga mudel läbib enne sertifitseerimist meretestid. Reaalne testimine rannikutingimustes valideerib jõudluse, käitumise ja stabiilsuse.'
+    - title: Water Testing
+      description: 'Every model undergoes sea trials before certification. Real-world testing in coastal conditions validates performance, handling, and stability.'
       icon: tabler:droplet
 expertise_design:
-  tagline: 'Disain ja inseneerimine'
-  title: 'Inseneeritud päris tingimustele'
-  subtitle: 'Meie disainifilosoofia algab sellest, kuidas lauda kasutatakse — seejärel ehitatakse inseneerimine selle kasutusjuhu ümber.'
+  tagline: Design & Engineering
+  title: 'Engineered for Real Conditions'
+  subtitle: 'Our design philosophy starts with how the pool will be used — then builds the engineering around that use case.'
   items:
-    - title: 'Jõudluskere disain'
-      description: 'Iga kere kuju on häälestatud oma kasutusjuhu jaoks — veeväljatõrke vöörid turismilibisemiseks, lisatud rokker surfi kerguseks, lamedad stabiilsed profiilid kalastamiseks ja joogaks.'
-    - title: 'Drop-Stitch ohutus'
-      description: 'Igal laual on jäigast Drop-Stitch tuumast tugevdatud äärtega. Kui osa kahjustada, hoiab kõrge tõmbetugevusega Drop-Stitch struktuur laua töökorras.'
-    - title: 'Ergonoomiline tekipaigutus'
-      description: 'Tekikatte tsoonimine, kandekäepideme asukoht ja kinnituspunktid on disainitud sõitja mugavuse ümber pikaks kasutamiseks — olgu selleks turism, kalastamine või patrull.'
-    - title: 'Kohandatud konfiguratsioon'
-      description: 'Äärte värvid, tekikatte konfiguratsioon, tarvikute kinnitused, varustuse maht — iga mudelit saab kohandada vastama konkreetsetele operatsiooninõuetele.'
+    - title: Performance Hull Design
+      description: 'Each pool is tuned for its use case — compact footprints for plunge soaking, family-sized layouts for play, and generous swim areas for daily laps.'
+    - title: Drop-Stitch Safety
+      description: 'Every pool features a rigid drop-stitch core with reinforced walls. If a section is damaged, the high-tensile drop-stitch structure keeps the pool operational.'
+    - title: Ergonomic Deck Layout
+      description: 'Deck-pad zoning, carry-handle position, and mounting points are designed around rider comfort during extended use — whether touring, fishing, or patrolling.'
+    - title: Custom Configuration
+      description: 'Rail colors, deck pad configuration, accessory mounts, gear capacity — each model can be customized to match specific operational requirements.'
 cta:
-  title: 'On sul silmas konkreetne rakendus?'
-  subtitle: 'Meie insenerimeeskond saab nõustada materjalide valiku, disaini ja tootmise osas sinu projektis.'
+  title: 'Have a specific application in mind?'
+  subtitle: 'Our engineering team can advise on material selection, design, and manufacturing for your project.'
   actions:
     - variant: primary
-      text: 'Küsi meie inseneridelt'
+      text: Ask our engineers
       href: /contact/
-    - text: 'Vaata tootevalikut'
+    - text: View product range
       href: /products/

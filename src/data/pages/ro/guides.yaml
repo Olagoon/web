@@ -1,25 +1,26 @@
 meta:
-  title: 'Ghiduri SUP — cumpără, alege, antrenează-te | {SITE}'
-  description: 'Ghidurile SUP olagoon: cum să cumpărați, să alegeți și să practicați paddle boarding-ul. Dimensiuni, materiale și sfaturi de experți pentru începători și profesioniști.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'ghid de cumpărare SUP'
-    - 'cum să alegi SUP'
-    - 'ghid de dimensiuni SUP'
-    - 'sfaturi paddle board gonflabil'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: Ghiduri
-  title: Începător în SUP?
-  subtitle: Ghiduri practice care vă ajută să alegeți, să folosiți și să vă bucurați de plăcile SUP gonflabile.
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
+
 size_guide:
-  tagline: Dimensiuni și specificații
-  title: Găsește dimensiunea potrivită nevoilor tale
-  desc: Compară dimensiunile plăcilor SUP, capacitățile de încărcare și utilizările recomandate. Fie că ai nevoie de un SUP de touring, o placă de yoga sau un SUP all-around — ghidul nostru de dimensiuni te ajută să alegi potrivirea corectă.
-  link_label: Ghid complet cu specificațiile produsului →
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: Plăci SUP
-      desc: Alege lungimea în funcție de greutatea ta și de utilizarea dorită. Plăcile mai late (32"+) oferă mai multă stabilitate. Plăcile mai lungi (11–12 ft) se mențin mai bine pe cursă la touring.
-    - title: SUP-uri de touring
-      desc: Plăci mai lungi (11–12 ft) pentru parcurgerea distanțelor și menținerea traiectoriei drepte. Suficient de stabile pentru touring cu echipament. Verificați întotdeauna capacitatea de greutate.
-    - title: SUP-uri all-around
-      desc: Alegeți lungimea în funcție de greutatea utilizatorului și de modul de utilizare. Plăcile mai late (32"+) oferă stabilitate. Versatile pentru recreere și fitness.
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

@@ -1,86 +1,91 @@
 meta:
-  title: 'Społeczność — przygody SUP i sporty wiosłowe | {SITE}'
-  description: 'Społeczność olagoona: kluby paddleboardowe, wydarzenia SUP, morskie przygody i historie entuzjastów nadmuchiwanych desek do wiosłowania na stojąco.'
+  title: 'Community — Pool Owners & Family Stories | {SITE}'
+  description: 'The OLagoon community: pool owners, family fun, backyard transformations, and stories from inflatable pool enthusiasts.'
   keywords:
-    - 'społeczność paddle'
-    - 'klub SUP'
-    - 'wydarzenia paddleboardowe'
-    - 'przygody SUP'
+    - 'pool owner community'
+    - 'backyard pool club'
+    - 'pool meetups'
+    - 'backyard pool adventures'
 hero:
-  tagline: Społeczność
-  title: Społeczność olagoon
+  tagline: 'Community'
+  title: 'The OLagoon Community'
   subtitle: |
-    Prawdziwi ludzie, prawdziwa woda, prawdziwe przygody. Od weekendowych wioślarzy po<br />
-    profesjonalnych operatorów — odkryj, jak nasza społeczność eksploruje świat na wodzie.
-  image: https://assets.olagoon.com/images/olagoon/team/olagoon-paddle-girls-team.webp
-  imageAlt: społeczność żeglarzy wiosłująca po spokojnych wodach
+    Real people, real backyards, real summers. From first-time owners to<br />
+    hospitality operators — discover how our community makes the most of their pools.
+  image: 'https://assets.olagoon.com/images/olagoon/team/olagoon-helen-contact-sales.webp'
+  imageAlt: 'OLagoon community enjoying a backyard pool'
+
 stats:
-  title: Społeczność w liczbach
+  title: 'Community by the numbers'
   stats:
-    - title: '40+'
-      description: Krajów z klientami olagoon
+    - title: '50+'
+      description: 'Countries with OLagoon customers'
     - title: '12+'
-      description: Lat przygód społeczności
-    - title: 10 000+
-      description: Szczęśliwych wioślarzy na świecie
-    - title: 98%
-      description: Poleciłoby olagoon
+      description: 'Years of backyard fun'
+    - title: '10,000+'
+      description: 'Happy families worldwide'
+    - title: '98%'
+      description: 'Would recommend OLagoon'
+
 stories:
-  tagline: Historie odkrywców
-  title: Prawdziwe przygody prawdziwych ludzi
-  subtitle: Posłuchaj wioślarzy, rodzin i profesjonalistów, którzy używają sprzętu olagoon na wodzie.
+  tagline: 'Owner Stories'
+  title: 'Real backyards from real people'
+  subtitle: 'Hear from families, swimmers, and operators who use OLagoon pools every summer.'
   items:
-    - name: Sarah i Mike
-      title: Właściciele SUP Explorer 11, Kanada
-      content: Zabraliśmy nasze Explorer 11 na tygodniową wyprawę przez Park Algonquin. Świetnie poradziły sobie z przenoskami i przeprawami przez jeziora. Konstrukcja drop-stitch oznaczała, że mogliśmy napompować do 15 PSI i uzyskać wydajność deski sztywnej z deski składanej.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
-      location: Park Algonquin, Kanada
-    - name: Carlos R.
-      title: Jeździec Cheetah Surge, Hiszpania
-      content: Cheetah Surge to mój ulubiony sprzęt do rejsów przybrzeżnych. Żywy design przyciąga wzrok na plaży, a stabilność daje mi pewność na lekkich falach. Świetnie się sprawdza zarówno podczas wycieczek, jak i zwykłego podziwiania zachodu słońca.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
-      location: Costa Brava, Hiszpania
-    - name: Lina i rodzina
-      title: Wioślarze Flowing Lotus, Szwecja
-      content: Weekendowe rodzinne przygody na archipelagu. Flowing Lotus jest wystarczająco stabilna, aby moja córka mogła na niej stać, podczas gdy ja wiosłuję. Pompowanie zajmuje mniej niż 10 minut — żadna przyczepa nie jest potrzebna, tylko czysta rodzinna zabawa na wodzie.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-flowing-lotus-1-1200w.webp
-      location: Archipelag Sztokholmski, Szwecja
-    - name: Kmdr ppor. Andres
-      title: Odkrywca Ocean Voyager, Filipiny
-      content: Używam mojego Ocean Voyager do długodystansowych rejsów przybrzeżnych wokół Palawanu. Po miesiącach codziennego użytku w tropikalnych warunkach deska wciąż działa jak nowa. Kształt turystyczny przecina fale, które zatrzymałyby gorsze deski.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      location: Palawan, Filipiny
-    - name: Emma T.
-      title: Debiutantka Tropical Breeze, Australia
-      content: Nigdy wcześniej nie byłam na SUP-ie. Tropical Breeze jest tak stabilna, że poczułam pewność już za pierwszym razem. Teraz wiosłuję w każdy weekend. Krzywa uczenia się jest praktycznie zerowa — a deska wygląda niesamowicie na wodzie.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp
-      location: Złote Wybrzeże, Australia
+    - name: 'Sarah & Mike'
+      title: 'Family Oasis owners, Canada'
+      content: 'We set up our Family Oasis at the lake cabin for a week. The kids swam every single day. The drop-stitch construction meant the 20 cm walls stayed rock-solid at full fill — a real pool experience from a box that fits in the trunk.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/family-oasis.webp'
+      location: 'Algonquin Park, Canada'
+    - name: 'Carlos R.'
+      title: 'Family Oasis owner, Spain'
+      content: 'The Family Oasis is our go-to for hot summers. The integrated seating is perfect for relaxing while the kids play, and the included sand-filter pump keeps the water crystal clear with barely any maintenance.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/family-oasis.webp'
+      location: 'Costa Brava, Spain'
+    - name: 'Lina & family'
+      title: 'Compact Plunge owners, Sweden'
+      content: 'Weekend fun in our small garden. The Compact Plunge fits our terrace perfectly and still fits the whole family for a cool-down. Sets up in about 30 minutes — no construction needed, just pure family fun all summer.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/compact-plunge.webp'
+      location: 'Stockholm, Sweden'
+    - name: 'Marco & Ana'
+      title: 'Grand Lagoon owners, Philippines'
+      content: 'We use our Grand Lagoon for daily swimming and weekend gatherings. After months of daily use in tropical conditions, the pool still performs like new. The 5 m length is enough for real laps — that would be impossible with lesser pools.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+      location: 'Palawan, Philippines'
+    - name: 'Emma T.'
+      title: 'Compact Plunge owner, Australia'
+      content: 'I had never owned a pool before. The Compact Plunge is so easy to set up that I felt confident on my first try. Now I soak every evening after work. The learning curve is basically zero — and the pool looks amazing on the deck.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/compact-plunge.webp'
+      location: 'Gold Coast, Australia'
+
 adventures_cta:
-  tagline: Podziel się swoją przygodą
-  title: Twoja historia może być tutaj
-  subtitle: 'Oznacz @olagoon_watersports na Instagramie lub użyj #olagoonAdventure, aby mieć szansę na wyróżnienie.'
-  instagram: Obserwuj na Instagramie
-  youtube: Subskrybuj na YouTube
-  facebook: Dołącz na Facebooku
+  tagline: 'Share Your Backyard'
+  title: 'Your story could be here'
+  subtitle: 'Follow OLagoon on Facebook or YouTube and tag your setup with #MyOlagoon for a chance to be featured.'
+  instagram: 'Join on Facebook'
+  youtube: 'Subscribe on YouTube'
+  facebook: 'Join on Facebook'
+
 locations:
-  tagline: Globalna społeczność
-  title: Gdzie podróżuje olagoon
-  subtitle: Od europejskich jezior po wybrzeża Azji Południowo-Wschodniej — nasza społeczność wiosłuje wszędzie.
+  tagline: 'Global Community'
+  title: 'Where OLagoon lives'
+  subtitle: 'Follow OLagoon on Facebook or YouTube and tag your setup with #MyOlagoon for a chance to be featured.'
   regions:
-    - title: Europa
-      description: Jezioro Como · Archipelag Sztokholmski · Costa Brava · Wybrzeże Chorwacji · Szkockie jeziora
-    - title: Azja i Pacyfik
-      description: Palawan · Gold Coast · Zatoka Ha Long · Jezioro Yamanaka · Wybrzeże Bali
-    - title: Ameryki
-      description: Park Algonquin · Wielkie Jeziora · Florida Keys · Jezioro Tahoe · Patagonia
-    - title: Bliski Wschód i Afryka
-      description: Wybrzeże Morza Czerwonego · Jezioro Wiktorii · Półwysep Przylądkowy · Jezioro Galilejskie
+    - title: 'Europe'
+      description: 'Stockholm · Lisbon · Costa Brava · Lake Como · Scottish Highlands'
+    - title: 'Asia Pacific'
+      description: 'Palawan · Gold Coast · Bali · Auckland · Okinawa'
+    - title: 'Americas'
+      description: 'Austin · Toronto · Florida Keys · Lake Tahoe · New Mexico'
+    - title: 'Middle East & Africa'
+      description: 'Dubai · Cape Town · Nairobi · Red Sea Coast · Amman'
+
 cta:
-  title: Gotowy dołączyć do społeczności?
-  subtitle: Każdy produkt olagoon jest certyfikowany CE, objęty gwarancją i zaprojektowany do prawdziwych przygód. Znajdź swój już dziś.
+  title: 'Ready to join the community?'
+  subtitle: 'Every OLagoon pool is CE certified, backed by a 2-year warranty, and designed for real families. Find yours today.'
   actions:
     - variant: primary
-      text: Odkryj produkty
-      href: /products/
-    - text: Podziel się swoją historią
-      href: /contact/
+      text: 'Explore products'
+      href: '/products/'
+    - text: 'Share your story'
+      href: '/contact/'

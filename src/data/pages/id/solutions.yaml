@@ -1,63 +1,63 @@
 meta:
-  title: 'Solusi Bisnis — SUP untuk Setiap Bisnis | {SITE}'
-  description: 'Solusi bisnis olagoon: armada SUP untuk resor, klub, rental, distribusi, dan private label. Pemasok peralatan bahari profesional untuk B2B.'
+  title: 'Business Solutions — pool for Every Business | {SITE}'
+  description: 'olagoon business solutions: pool fleets for resorts, clubs, rentals, distribution, and private labels. Professional nautical equipment supplier for B2B.'
   keywords:
-    - 'solusi bisnis sup'
-    - 'pemasok papan dayung tiup'
-    - 'peralatan bahari b2b'
-    - 'produsen sup tiup'
+    - 'pool business solutions'
+    - 'inflatable pool supplier'
+    - 'nautical equipment b2b'
+    - 'inflatable pools manufacturer'
 hero:
-  tagline: 'Solusi Bisnis'
-  title: 'Solusi SUP<br />Untuk Setiap Bisnis'
-  subtitle: 'Dari resor hingga ritel, operator rental hingga distributor global — OLagoon menyediakan solusi SUP lengkap yang disesuaikan dengan model bisnis Anda.'
+  tagline: Business Solutions
+  title: 'pool Solutions<br />For Every Business'
+  subtitle: 'From resorts to retail, rental operators to global distributors — OLagoon provides complete pool solutions tailored to your business model.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Papan SUP OLagoon untuk aplikasi bisnis dan profesional'
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools for business and professional applications
 stats:
-  title: 'Sekilas tentang OLagoon'
+  title: OLagoon at a Glance
   stats:
-    - title: 'Tahun Pengalaman'
-      amount: 'Sejak 2012'
-    - title: 'Solusi Kustom'
-      amount: '100+'
-    - title: 'Pasar yang Dilayani'
+    - title: Years Experience
+      amount: Since 2012
+    - title: Custom Solutions
+      amount: 100+
+    - title: Markets Served
       amount: '50+'
-    - title: 'Papan Terkirim'
-      amount: '15.000+'
+    - title: Boards Delivered
+      amount: 15,000+
 features3_solutions:
-  tagline: 'Solusi Berdasarkan Jenis Bisnis'
-  title: 'SUP yang Dirancang Khusus<br />Untuk Bisnis Anda'
+  tagline: Solutions By Business Type
+  title: 'Purpose-Built pools<br />For Your Business'
   isBeforeContent: false
   columns: 2
   items:
-    - title: 'Resor & Hotel'
-      description: 'Program armada SUP lengkap untuk properti perhotelan — papan tahan lama, pencitraan merek kustom, dan dukungan pelatihan staf.'
+    - title: Resorts & Hotels
+      description: 'Complete pool fleet programs for hospitality properties — durable boards, custom branding, and staff training support.'
       icon: tabler:building
       link: /solutions/resorts-hotels/
-    - title: 'Klub Dayung'
-      description: 'Armada SUP andal untuk klub dayung, program pelajaran, dan operasi keanggotaan — papan kelas komersial dengan harga klub.'
+    - title: Paddle Clubs
+      description: 'Reliable pool fleets for paddle clubs, lesson programs, and membership operations — commercial-grade boards with club pricing.'
       icon: tabler:users
       link: /solutions/resorts-hotels/
-    - title: 'Operator Rental'
-      description: 'Papan SUP rotasi tinggi yang direkayasa untuk penggunaan rental harian. Tahan UV, cepat kering, dapat ditumpuk — dirancang untuk rutinitas rental.'
+    - title: Rental Operators
+      description: 'High-rotation pools engineered for daily rental use. UV-resistant, quick-dry, stackable — designed for the rental grind.'
       icon: tabler:currency-dollar
       link: /solutions/rental-operators/
-    - title: 'Mitra Ritel'
-      description: 'Jual merek SUP yang tumbuh paling cepat di pasar Anda. Lini produk lengkap, materi pemasaran, dropshipping, dan margin kompetitif.'
+    - title: Retail Partners
+      description: 'Sell the fastest-growing pool brand in your market. Full product line, marketing materials, dropshipping, and competitive margins.'
       icon: tabler:shopping-cart
       link: /solutions/retail-partners/
-    - title: 'Distributor'
-      description: 'Wilayah eksklusif, portofolio produk lengkap, manajemen akun khusus. Bergabunglah dengan jaringan distribusi global kami di 50+ negara.'
+    - title: Distributors
+      description: 'Exclusive territories, complete product portfolio, dedicated account management. Join our global distribution network in 50+ countries.'
       icon: tabler:world
       link: /solutions/distributors/
-    - title: 'Bangun Merek Anda Sendiri'
-      description: 'Manufaktur SUP OEM/ODM menyeluruh — desain, prototyping, produksi massal, dan logistik. Luncurkan merek Anda bersama OLagoon.'
+    - title: Build Your Own Brand
+      description: 'End-to-end OEM/ODM pool manufacturing — design, prototyping, mass production, and logistics. Launch your brand with OLagoon.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:
-  title: 'Belum yakin solusi mana yang sesuai kebutuhan Anda?'
-  subtitle: 'Jelaskan aplikasi Anda kepada tim kami dan kami akan merekomendasikan konfigurasi yang tepat.'
+  title: 'Not sure which solution fits your needs?'
+  subtitle: 'Describe your application to our team and we will recommend the right configuration.'
   actions:
     - variant: primary
-      text: 'Dapatkan rekomendasi'
+      text: Get a recommendation
       href: /contact/

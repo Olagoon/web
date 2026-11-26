@@ -1,26 +1,26 @@
 meta:
-  title: 'SUP vodiči — Kupnja, odabir, vježbanje | {SITE}'
-  description: 'olagoon SUP vodiči: kako kupiti, odabrati i vježbati veslanje na dasci. Veličine, materijali i stručni savjeti za početnike i profesionalce na napuhivim SUP daskama.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'vodič za kupnju sup dasaka'
-    - 'kako odabrati sup dasku'
-    - 'vodič za veličine sup dasaka'
-    - 'savjeti za napuhive paddleboard daske'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: 'Vodiči'
-  title: 'Novi u SUP-u?'
-  subtitle: 'Praktični vodiči koji će vam pomoći odabrati, koristiti i uživati u napuhivim SUP daskama.'
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
 
 size_guide:
-  tagline: 'Veličina i specifikacije'
-  title: 'Pronađite pravu veličinu za svoje potrebe'
-  desc: 'Usporedite dimenzije SUP daska, nosivost i preporučene namjene. Bilo da vam treba touring SUP daska, yoga daska ili all-around SUP — naš vodič za veličine pomaže vam odabrati pravu.'
-  link_label: 'Potpuni vodič za veličine sa specifikacijama proizvoda →'
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: 'SUP daske'
-      desc: 'Odaberite duljinu prema svojoj težini i namjeravanoj upotrebi. Šire daske (32"+) nude više stabilnosti. Duže daske (11–12 ft) bolje prate smjer za touring.'
-    - title: 'Touring SUP daske'
-      desc: 'Duže daske (11–12 ft) za prelaženje udaljenosti i pravocrtno vožnju. Dovoljno stabilne za touring s opremom. Uvijek provjerite nosivost.'
-    - title: 'All-around SUP daske'
-      desc: 'Odaberite duljinu prema težini vozača i namjeni. Šire daske (32"+) za stabilnost. Svestrane za rekreaciju i fitnes.'
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

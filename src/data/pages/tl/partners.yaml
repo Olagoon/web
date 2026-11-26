@@ -1,72 +1,72 @@
 meta:
-  title: 'Mga Partner — Distribusyon at Wholesale | {SITE}'
-  description: 'Maging partner ng olagoon: mga network ng distribusyon, wholesale pricing, mga programang OEM/private label, at suporta para sa mga negosyo ng paddle board sa buong mundo.'
+  title: 'Partners — Distribution & Wholesale | {SITE}'
+  description: 'Become an olagoon partner: distribution networks, wholesale pricing, OEM/private label programs, and support for inflatable pool businesses worldwide.'
   keywords:
-    - 'partner ng sup distribution'
-    - 'wholesale ng paddle board'
-    - 'distributor ng inflatable sup'
-    - 'partnership sa sup'
+    - 'pool distribution partner'
+    - 'inflatable pool wholesale'
+    - 'inflatable pools distributor'
+    - 'pool partnership'
 hero:
-  tagline: 'Mga Partner at Distribusyon'
-  title: 'Maging Partner ng olagoon<br />— Pandaigdigang Network ng Distribusyon'
-  subtitle: 'Sumali sa pandaigdigang network ng partner ng olagoon. Nakipagtulungan kami sa mga marine distributor, paddle sports dealer, equipment retailer, at brand partner sa 50+ bansa.'
+  tagline: Partners & Distribution
+  title: 'Become an olagoon Partner<br />— Global Distribution Network'
+  subtitle: "Join olagoon's global partner network. We work with pool and outdoor distributors, specialty retailers, equipment dealers, and brand partners in 50+ countries."
   image:
     src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
-    alt: 'pandaigdigang partner at distributor network ng olagoon'
+    alt: olagoon global partner and distributor network
 content_programs:
-  tagline: 'Mga Partner Program'
-  title: 'Mga Partner Program<br />Itinayo para sa Paglago'
-  subtitle: "Manapa't distributor, dealer, o brand partner ka, nag-aalok ang olagoon ng mga programang dinisenyo upang suportahan ang iyong negosyo."
+  tagline: Partner Programs
+  title: 'Partner Programs<br />Built for Growth'
+  subtitle: 'Whether you are a distributor, dealer, or brand partner, olagoon offers programs designed to support your business.'
   columns: 3
   items:
     - title: 'Distributor Program'
-      description: 'Eksklusibong distribusyon sa teritoryo na may volume pricing, marketing support, at direktang daan sa pabrika. Kailangang minimum na kompromiso batay sa laki ng teritoryo.'
+      description: 'Exclusive territory distribution with volume pricing, marketing support, and direct factory access. Minimum commitment required based on territory size.'
       icon: tabler:world
     - title: 'Dealer Program'
-      description: 'Direktang dealer pricing, product training, marketing material, at warranty support para sa mga retail location at online store.'
+      description: 'Direct dealer pricing, product training, marketing materials, and warranty support for retail locations and online stores.'
       icon: tabler:building-store
     - title: 'OEM/ODM Partnership'
-      description: 'Full-service na OEM at ODM manufacturing na may custom branding, packaging, at espesipikasyon ng produkto. Mula konsepto hanggang container.'
+      description: 'Full-service OEM and ODM manufacturing with custom branding, packaging, and product specifications. From concept to container.'
       icon: tabler:certificate
     - title: 'Brand Partnership'
-      description: 'Co-branding, private label, at mga eksklusibong programang modelo para sa mga matatag na brand sa espasyo ng marine at outdoor recreation.'
+      description: 'Co-branding, private label, and exclusive model programs for established brands in the marine and outdoor recreation space.'
       icon: tabler:stars
-    - title: 'Gobyerno at Institusyonal'
-      description: 'Mga preferred supplier program para sa mga ahensya ng gobyerno, coast guard, military, at humanitarian na organisasyon. Dokumentasyong handa na sa tender.'
+    - title: 'Government & Institutional'
+      description: 'Preferred supplier programs for government agencies, coast guards, military, and humanitarian organizations. Tender-ready documentation.'
       icon: tabler:building-community
-    - title: 'Resort at Rental Partner'
-      description: 'Fleet pricing, pare-parehong kalidad, at custom branding para sa mga resort, diving center, at rental operation sa buong mundo.'
+    - title: 'Resort & Rental Partner'
+      description: 'Fleet pricing, consistent quality, and custom branding for resorts, diving centers, and rental operations worldwide.'
       icon: tabler:sun
 content_benefits:
-  tagline: 'Bakit Makipagpartner sa Amin'
-  title: 'Bakit Pinipili ng mga Partner ang olagoon'
-  subtitle: 'Nakikinabang ang aming mga partner mula sa tunay na kakayahang magmaniobra, pare-parehong kalidad, at tumutugong suporta.'
+  tagline: Why Partner With Us
+  title: 'Why Partners Choose olagoon'
+  subtitle: 'Our partners benefit from real manufacturing capability, consistent quality, and responsive support.'
   list:
-    - 'Direktang Daan sa Pabrika: Makipagtulungan nang direkta sa aming manufacturing team — walang middleman. Makakuha ng mas mabilis na tugon, mas mabuting presyo, at buong tanaw sa produksyon.'
-    - 'Handa sa Customization: I-brand ang iyong mga produkto na may custom na kulay, logo, packaging, at espesipikasyon. Minimum order quantity na nakaakma sa iyong merkado.'
-    - 'Garantisadong Kalidad: ISO 9001 certified na produksyon na may pagsunod sa CE, UKCA, at BSCI. Bawat produkto ay sinusubukan bago ipadala.'
-    - 'Pandaigdigang Logistics: Pagpapadala mula Qingdao, Tsina na may mga opsyong FOB, CIF, at DDP. US warehouse sa Montclair, CA para sa distribusyon sa North America.'
-    - 'Marketing Support: Mga product catalog, potograpiya, teknikal na dokumentasyon, at digital asset upang suportahan ang iyong pagbebenta.'
-    - 'Training at Suporta: Product training para sa iyong sales team, teknikal na suporta para sa iyong mga customer, at koordinasyon ng warranty service.'
+    - 'Direct Factory Access: Work directly with our manufacturing team — no middlemen. Get faster responses, better pricing, and full visibility into production.'
+    - 'Customization Ready: Brand your products with custom colors, logos, packaging, and specifications. Minimum order quantities tailored to your market.'
+    - 'Quality Guaranteed: ISO 9001 certified production with CE, UKCA, and BSCI compliance. Every product tested before shipping.'
+    - 'Global Logistics: Shipping from Qingdao, China with FOB, CIF, and DDP options. US warehouse in Montclair, CA for North American distribution.'
+    - 'Marketing Support: Product catalogs, photography, technical documentation, and digital assets to support your sales efforts.'
+    - 'Training & Support: Product training for your sales team, technical support for your customers, and warranty service coordination.'
 content_process:
-  tagline: 'Paano Maging Partner'
-  title: 'Simpleng Proseso ng Partnership'
-  subtitle: 'Simple ang aming proseso ng partnership — dinisenyo upang mabilis ka nang makapagbenta ng mga produkto ng olagoon.'
+  tagline: How to Become a Partner
+  title: 'Simple Partnership Process'
+  subtitle: 'Our partnership process is straightforward — designed to get you selling olagoon products quickly.'
   items:
-    - title: 'Hakbang 1: Magsumite ng Aplikasyon'
-      description: 'Punan ang aming partner application form na may profile ng iyong kumpanya, target merkado, at mga interes sa produkto.'
-    - title: 'Hakbang 2: Pagsusuri ng Kwalipikasyon'
-      description: 'Sinusuri ng aming partnership team ang iyong aplikasyon at makikipag-ugnayan sa iyo sa loob ng 3 business day upang talakayin ang mga pagkakataon.'
-    - title: 'Hakbang 3: Kasunduan at Paghahanda'
-      description: 'Pumirmahin ang partnership agreement, buuin ang iyong account, at tumanggap ng partner pricing, marketing material, at sample ng produkto.'
-    - title: 'Hakbang 4: Training at Paglunsad'
-      description: 'Product training, sales support, at marketing collateral ang ibinibigay. Handa ka nang magsimulang magbenta.'
+    - title: 'Step 1: Submit Application'
+      description: 'Complete our partner application form with your company profile, target market, and product interests.'
+    - title: 'Step 2: Qualification Review'
+      description: 'Our partnership team reviews your application and contacts you within 3 business days to discuss opportunities.'
+    - title: 'Step 3: Agreement & Setup'
+      description: 'Sign a partnership agreement, set up your account, and receive partner pricing, marketing materials, and product samples.'
+    - title: 'Step 4: Training & Launch'
+      description: 'Product training, sales support, and marketing collateral provided. You are ready to start selling.'
 cta:
-  title: 'Handa ka na bang maging partner ng olagoon?'
-  subtitle: 'Mag-apply para sa partnership at tutugon ang aming koponan sa loob ng 3 business day.'
+  title: 'Ready to become an olagoon partner?'
+  subtitle: 'Apply for partnership and our team will respond within 3 business days.'
   actions:
     - variant: primary
-      text: 'Mag-apply para sa partnership'
+      text: Apply for partnership
       href: /contact/
-    - text: 'Tingnan ang aming mga produkto'
+    - text: View our products
       href: /products/

@@ -1,72 +1,72 @@
 meta:
-  title: 'Partneri — izplatīšana un vairumtirdzniecība | {SITE}'
-  description: 'Kļūstiet par olagoon partneri: izplatīšanas tīkli, vairumtirdzniecības cenas, OEM/privātā zīmola programmas un atbalsts airu dēļu uzņēmumiem visā pasaulē.'
+  title: 'Partners — Distribution & Wholesale | {SITE}'
+  description: 'Become an olagoon partner: distribution networks, wholesale pricing, OEM/private label programs, and support for inflatable pool businesses worldwide.'
   keywords:
-    - 'sup izplatīšanas partneris'
-    - 'airu dēļu vairumtirdzniecība'
-    - 'piepūšamo sup izplatītājs'
-    - 'sup partnerība'
+    - 'pool distribution partner'
+    - 'inflatable pool wholesale'
+    - 'inflatable pools distributor'
+    - 'pool partnership'
 hero:
-  tagline: 'Partneri un izplatīšana'
-  title: 'Kļūstiet par olagoon partneri<br />— globāls izplatīšanas tīkls'
-  subtitle: 'Pievienojieties olagoon globālajam partneru tīklam. Mēs sadarbojamies ar jūras aprīkojuma izplatītājiem, airu sporta tirgotājiem, aprīkojuma mazumtirgotājiem un zīmolu partneriem 50+ valstīs.'
+  tagline: Partners & Distribution
+  title: 'Become an olagoon Partner<br />— Global Distribution Network'
+  subtitle: "Join olagoon's global partner network. We work with pool and outdoor distributors, specialty retailers, equipment dealers, and brand partners in 50+ countries."
   image:
     src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
-    alt: 'olagoon globālais partneru un izplatītāju tīkls'
+    alt: olagoon global partner and distributor network
 content_programs:
-  tagline: 'Partneru programmas'
-  title: 'Partneru programmas,<br />veidotas izaugsmei'
-  subtitle: 'Neatkarīgi no tā, vai esat izplatītājs, tirgotājs vai zīmola partneris, olagoon piedāvā programmas, kas radītas, lai atbalstītu jūsu uzņēmumu.'
+  tagline: Partner Programs
+  title: 'Partner Programs<br />Built for Growth'
+  subtitle: 'Whether you are a distributor, dealer, or brand partner, olagoon offers programs designed to support your business.'
   columns: 3
   items:
-    - title: 'Izplatītāju programma'
-      description: 'Ekskluzīva izplatīšana teritorijā ar apjoma cenām, mārketinga atbalstu un tiešu piekļuvi rūpnīcai. Nepieciešama minimālā apņemšanās atkarībā no teritorijas lieluma.'
+    - title: 'Distributor Program'
+      description: 'Exclusive territory distribution with volume pricing, marketing support, and direct factory access. Minimum commitment required based on territory size.'
       icon: tabler:world
-    - title: 'Tirgotāju programma'
-      description: 'Tiešās tirgotāju cenas, produktu apmācība, mārketinga materiāli un garantijas atbalsts mazumtirdzniecības vietām un interneta veikaliem.'
+    - title: 'Dealer Program'
+      description: 'Direct dealer pricing, product training, marketing materials, and warranty support for retail locations and online stores.'
       icon: tabler:building-store
-    - title: 'OEM/ODM partnerība'
-      description: 'Pilna servisa OEM un ODM ražošana ar pielāgotu zīmolradi, iepakojumu un produkta specifikācijām. No koncepta līdz konteinerim.'
+    - title: 'OEM/ODM Partnership'
+      description: 'Full-service OEM and ODM manufacturing with custom branding, packaging, and product specifications. From concept to container.'
       icon: tabler:certificate
-    - title: 'Zīmolu partnerība'
-      description: 'Kopīgs zīmols, privātais zīmols un ekskluzīvas modeļu programmas etabliem zīmoliem jūras un āra atpūtas nozarē.'
+    - title: 'Brand Partnership'
+      description: 'Co-branding, private label, and exclusive model programs for established brands in the marine and outdoor recreation space.'
       icon: tabler:stars
-    - title: 'Valsts un institucionālie klienti'
-      description: 'Priekšrocību piegādātāju programmas valsts iestādēm, krasta apsardzei, armijai un humānitārajām organizācijām. Konkursu dokumentācija gatava.'
+    - title: 'Government & Institutional'
+      description: 'Preferred supplier programs for government agencies, coast guards, military, and humanitarian organizations. Tender-ready documentation.'
       icon: tabler:building-community
-    - title: 'Kūrortu un nomas partneri'
-      description: 'Flotes cenas, nemainīga kvalitāte un pielāgota zīmolrade kūrortiem, niršanas centriem un nomas operatoriem visā pasaulē.'
+    - title: 'Resort & Rental Partner'
+      description: 'Fleet pricing, consistent quality, and custom branding for resorts, diving centers, and rental operations worldwide.'
       icon: tabler:sun
 content_benefits:
-  tagline: 'Kāpēc sadarboties ar mums'
-  title: 'Kāpēc partneri izvēlas olagoon'
-  subtitle: 'Mūsu partneri gūst labumu no īstām ražošanas spējām, nemainīgas kvalitātes un atsaucīga atbalsta.'
+  tagline: Why Partner With Us
+  title: 'Why Partners Choose olagoon'
+  subtitle: 'Our partners benefit from real manufacturing capability, consistent quality, and responsive support.'
   list:
-    - 'Tieša piekļuve rūpnīcai: strādājiet tieši ar mūsu ražošanas komandu — bez starpniekiem. Iegūstiet ātrākas atbildes, labākas cenas un pilnīgu ražošanas pārredzamību.'
-    - 'Gatavība pielāgošanai: piešķiriet saviem produktiem pielāgotas krāsas, logotipus, iepakojumu un specifikācijas. Minimālie pasūtījuma apjomi pielāgoti jūsu tirgum.'
-    - 'Garantēta kvalitāte: ISO 9001 sertificēta ražošana ar CE, UKCA un BSCI atbilstību. Katrs produkts pirms nosūtīšanas tiek testēts.'
-    - 'Globālā loģistika: nosūtīšana no Cindao, Ķīnā ar FOB, CIF un DDP opcijām. ASV noliktava Montklērā, Kalifornijā, Ziemeļamerikas izplatīšanai.'
-    - 'Mārketinga atbalsts: produktu katalogi, fotogrāfijas, tehniskā dokumentācija un digitālie materiāli jūsu pārdošanas atbalstam.'
-    - 'Apmācība un atbalsts: produktu apmācība jūsu pārdošanas komandai, tehniskais atbalsts jūsu klientiem un garantijas servisa koordinācija.'
+    - 'Direct Factory Access: Work directly with our manufacturing team — no middlemen. Get faster responses, better pricing, and full visibility into production.'
+    - 'Customization Ready: Brand your products with custom colors, logos, packaging, and specifications. Minimum order quantities tailored to your market.'
+    - 'Quality Guaranteed: ISO 9001 certified production with CE, UKCA, and BSCI compliance. Every product tested before shipping.'
+    - 'Global Logistics: Shipping from Qingdao, China with FOB, CIF, and DDP options. US warehouse in Montclair, CA for North American distribution.'
+    - 'Marketing Support: Product catalogs, photography, technical documentation, and digital assets to support your sales efforts.'
+    - 'Training & Support: Product training for your sales team, technical support for your customers, and warranty service coordination.'
 content_process:
-  tagline: 'Kā kļūt par partneri'
-  title: 'Vienkāršs partnerības process'
-  subtitle: 'Mūsu partnerības process ir vienkāršs — izstrādāts, lai jūs varētu ātri sākt pārdot olagoon produktus.'
+  tagline: How to Become a Partner
+  title: 'Simple Partnership Process'
+  subtitle: 'Our partnership process is straightforward — designed to get you selling olagoon products quickly.'
   items:
-    - title: '1. solis: iesniedziet pieteikumu'
-      description: 'Aizpildiet mūsu partneru pieteikuma formu, norādot savu uzņēmuma profilu, mērķa tirgu un produktu intereses.'
-    - title: '2. solis: kvalifikācijas izvērtēšana'
-      description: 'Mūsu partnerības komanda izskata jūsu pieteikumu un 3 darba dienu laikā sazinās ar jums, lai apspriestu iespējas.'
-    - title: '3. solis: līgums un iestatīšana'
-      description: 'Parakstiet partnerības līgumu, izveidojiet savu kontu un saņemiet partneru cenas, mārketinga materiālus un produktu paraugus.'
-    - title: '4. solis: apmācība un startēšana'
-      description: 'Tiek nodrošināta produktu apmācība, pārdošanas atbalsts un mārketinga materiāli. Jūs esat gatavi sākt pārdot.'
+    - title: 'Step 1: Submit Application'
+      description: 'Complete our partner application form with your company profile, target market, and product interests.'
+    - title: 'Step 2: Qualification Review'
+      description: 'Our partnership team reviews your application and contacts you within 3 business days to discuss opportunities.'
+    - title: 'Step 3: Agreement & Setup'
+      description: 'Sign a partnership agreement, set up your account, and receive partner pricing, marketing materials, and product samples.'
+    - title: 'Step 4: Training & Launch'
+      description: 'Product training, sales support, and marketing collateral provided. You are ready to start selling.'
 cta:
-  title: 'Gatavi kļūt par olagoon partneri?'
-  subtitle: 'Pieteicieties partnerībai, un mūsu komanda atbildēs 3 darba dienu laikā.'
+  title: 'Ready to become an olagoon partner?'
+  subtitle: 'Apply for partnership and our team will respond within 3 business days.'
   actions:
     - variant: primary
-      text: 'Pieteikties partnerībai'
+      text: Apply for partnership
       href: /contact/
-    - text: 'Apskatiet mūsu produktus'
+    - text: View our products
       href: /products/

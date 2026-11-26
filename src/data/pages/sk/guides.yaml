@@ -1,26 +1,26 @@
 meta:
-  title: 'Sprievodcovia SUP — nákup, výber, tréning | {SITE}'
-  description: 'Sprievodcovia SUP od olagoon: ako kúpiť, vybrať a praktizovať paddle boarding. Veľkosti, materiály a odborné tipy pre začiatočníkov aj profesionálov na nafukovacích SUP.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'nákupný sprievodca sup'
-    - 'ako vybrať sup'
-    - 'sprievodca veľkosťou sup'
-    - 'tipy pre nafukovacie paddle boardy'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: 'Sprievodcovia'
-  title: 'Nováčik v SUP?'
-  subtitle: 'Praktickí sprievodcovia, ktorí vám pomôžu vybrať, používať a užívať si nafukovacie dosky SUP.'
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
 
 size_guide:
-  tagline: 'Veľkosť a špecifikácie'
-  title: 'Nájdite správnu veľkosť pre vaše potreby'
-  desc: 'Porovnajte rozmery dosiek SUP, nosnosti a odporúčané použitie. Či potrebujete touring SUP, jogovú dosku alebo univerzálny SUP — náš sprievodca veľkosťami vám pomôže vybrať správnu voľbu.'
-  link_label: 'Kompletný sprievodca veľkosťami so špecifikáciami produktov →'
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: 'Dosky SUP'
-      desc: 'Zvoľte dĺžku podľa svojej hmotnosti a zamýšľaného použitia. Širšie dosky (32"+) ponúkajú väčšiu stabilitu. Dušie dosky (11–12 ft) lepšie držia stopu pri touring.'
-    - title: 'Touring SUP'
-      desc: 'Dušie dosky (11–12 ft) na prekonávanie vzdialeností a priamu stopu. Dostatočne stabilné na touring s výstrojou. Vždy skontrolujte nosnosť.'
-    - title: 'Univerzálne SUP'
-      desc: 'Zvoľte dĺžku podľa hmotnosti jazdca a použitia. Širšie dosky (32"+) pre stabilitu. Univerzálne pre rekreáciu a kondíciu.'
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

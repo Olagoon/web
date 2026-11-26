@@ -1,11 +1,11 @@
 meta:
   title: 'Factory Equipment — Cutting, RF Welding & Printing | {SITE}'
-  description: 'Industrial-grade olagoon manufacturing equipment: PVC cutting, RF welding, digital printing, assembly, and testing for inflatable SUPs.'
+  description: 'Industrial-grade olagoon manufacturing equipment: PVC cutting, RF welding, digital printing, assembly, and testing for inflatable pools.'
   keywords:
-    - 'sup manufacturing equipment'
-    - 'inflatable sup factory'
+    - 'pool manufacturing equipment'
+    - 'inflatable pools factory'
     - 'rf welding pvc'
-    - 'paddle board production'
+    - 'inflatable pool production'
 hero:
   tagline: Equipment
   title: Manufacturing Equipment & Machinery
@@ -35,35 +35,35 @@ categories:
         spec: 8 kW, XY table 2500 × 1200 mm
         desc: Programmable curved-seam welding for complex geometries, logo embossing, and precision patchwork.
 
-  - title: SUP Board Manufacturing
+  - title: pools Manufacturing
     items:
       - name: Drop-Stitch Core Lamination Press
-        spec: Large-format press for board cores up to 14 ft LOA
+        spec: Large-format press for drop-stitch cores up to 5 m length
         desc: Precision lamination of drop-stitch cores to outer PVC laminates. Each layer is pressure-bonded for consistent quality and strength.
       - name: CNC Router (5-axis)
         spec: 3 m × 2 m × 1 m envelope, water-cooled spindle
-        desc: Machining of fin boxes, handle cutouts, and custom board components.
+        desc: Machining of valve ports, handle cutouts, and custom pool components.
 
-  - title: SUP Printing & Decoration
+  - title: pool Printing & Decoration
     items:
       - name: Digital Printer
         spec: High-resolution inkjet, up to 2 m print width
-        desc: Direct-to-fabric digital printing for full-colour SUP deck graphics. Prints custom patterns, gradients, and photo-quality images with UV-resistant water-based inks.
+        desc: Direct-to-fabric digital printing for full-colour pool deck graphics. Prints custom patterns, gradients, and photo-quality images with UV-resistant water-based inks.
       - name: Screen Printing Machine
         spec: Manual and semi-automatic, multi-colour registration
-        desc: Screen printing for SUP board logos, brand marks, and repeating patterns. Provides durable, opaque prints with vibrant colour saturation.
+        desc: Screen printing for pools logos, brand marks, and repeating patterns. Provides durable, opaque prints with vibrant colour saturation.
 
   - title: Assembly & Rigging
     items:
-      - name: Board Assembly Station
+      - name: Pool Assembly Station
         spec: Modular adjustable, multi-station layout
-        desc: Assembly of fin boxes, handles, D-rings, valves, and deck pads onto SUP boards.
+        desc: Assembly of fin boxes, handles, D-rings, valves, and deck pads onto pools.
       - name: Valve Installation Press
         spec: Pneumatic, adjustable pressure
         desc: Precision installation and sealing of Halkey-Roberts and Leafield valves.
       - name: Deck Pad Laminator
         spec: 3 m × 1.5 m, temperature-controlled
-        desc: Heat lamination of EVA foam deck pads to SUP board tops with consistent bond strength.
+        desc: Heat lamination of EVA foam deck pads to pools tops with consistent bond strength.
 
   - title: Testing & Quality Control
     items:

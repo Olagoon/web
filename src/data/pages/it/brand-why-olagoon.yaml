@@ -1,72 +1,72 @@
 meta:
-  title: 'Perché olagoon — 7 Motivi per Cui i Marchi Globali Ci Scelgono | {SITE}'
-  description: 'Perché i marchi globali scelgono olagoon: certificazioni CE e ISO, MOQ flessibile, stampi personalizzati e tempi di consegna di 30 giorni da una fabbrica SUP professionale.'
+  title: 'Why olagoon — 7 Reasons Global Brands Choose Us | {SITE}'
+  description: 'Why global brands choose olagoon: CE and ISO certifications, flexible MOQ, custom molds, and 30-day lead times from a professional inflatable pools factory.'
   keywords:
-    - 'perché scegliere olagoon'
-    - 'produttore di SUP gonfiabili'
-    - 'fabbrica SUP Cina'
-    - 'fornitore di paddle board gonfiabili'
+    - 'why choose olagoon'
+    - 'inflatable pools manufacturer'
+    - 'pool factory china'
+    - 'inflatable pool supplier'
 hero:
-  tagline: Perché un viaggiatore
-  title: Sette motivi per cui i marchi globali<br />scelgono olagoon
-  subtitle: Non tutti i produttori sono creati uguali. Ecco cosa rende OLagoon il partner preferito per distributori, marchi e operatori in tutto il mondo.
+  tagline: Why olagoon
+  title: 'Seven Reasons Why Global Brands<br />Choose olagoon'
+  subtitle: 'Not all manufacturers are created equal. Here is what makes olagoon the preferred partner for distributors, brands, and operators worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: qualità ed esperienza nella produzione di OLagoon
+    alt: olagoon manufacturing quality and expertise
 stats:
-  title: Fiducia nei numeri
+  title: Trust in Numbers
   stats:
-    - title: Anni di attività
-      amount: Dal 2012
-    - title: Tavole costruite
-      amount: '15.000'
-    - title: Clienti abituali
-      amount: 85%
-    - title: Reclami di garanzia
-      amount: <2%
+    - title: Years in Business
+      amount: Since 2012
+    - title: Pools Built
+      amount: 15,000+
+    - title: Repeat Customers
+      amount: '85%'
+    - title: Warranty Claims
+      amount: '<2%'
 features3_reasons:
-  tagline: Perché scegliere olagoon
-  title: Sette ragioni per collaborare con noi
+  tagline: Why Choose olagoon
+  title: 'Seven Reasons to Partner With Us'
   isBeforeContent: false
   columns: 3
   items:
-    - title: 1. Produzione reale, non commercio
-      description: Possediamo e gestiamo una fabbrica di 12.000 m². Quando collabori con olagoon, lavori direttamente con le persone che progettano, ingegnerizzano e costruiscono i tuoi prodotti — senza intermediari.
+    - title: '1. Real Manufacturing, Not Trading'
+      description: 'We own and operate a 12,000 m² factory. When you partner with olagoon, you work directly with the people who design, engineer, and build your products — no middlemen.'
       icon: tabler:building-factory
-    - title: 2. Approccio guidato dall'ingegneria
-      description: Il nostro processo di progettazione inizia dal caso d'uso, non dalla categoria di prodotto. Ottimizziamo la forma dello scafo, la selezione dei materiali e la configurazione in base a come la tavola sarà effettivamente utilizzata.
+    - title: '2. Engineering-Led Approach'
+      description: 'Our design process starts with the use case, not the product category. We optimize wall structure, material selection, and configuration for how the pool will actually be used.'
       icon: tabler:engine
-    - title: 3. Qualità certificata
-      description: Certificato CE, sistema di qualità ISO, conforme BSCI, conforme REACH, approvato USCG. Ogni prodotto soddisfa gli standard internazionali — non solo affermazioni.
+    - title: '3. Certified Quality'
+      description: 'CE certified, ISO quality system, BSCI compliant, REACH compliant, USCG approved. Every product meets international standards — not just claims.'
       icon: tabler:certificate
-    - title: 4. Co-Branding Flessibile
-      description: 'Colori dei longheroni, disposizione del ponte, branding, confezionamento: personalizziamo secondo le vostre specifiche. Nessuna pressione sul numero minimo di ordini. Iniziate con un prototipo, scalate con fiducia.'
+    - title: '4. Flexible Co-Branding'
+      description: 'Rail colors, deck layout, branding, packaging — we customize to your specifications. No minimum order pressure. Start with a prototype, scale with confidence.'
       icon: tabler:adjustments
-    - title: 5. Logistica Globale
-      description: Magazzino negli Stati Uniti in California, spedizione diretta da Qingdao, trasporto aereo per ordini urgenti. Ci occupiamo di pratiche doganali e documentazione.
+    - title: '5. Global Logistics'
+      description: 'US warehouse in California, direct shipping from Qingdao, air freight for urgent orders. We handle customs paperwork and documentation.'
       icon: tabler:truck-delivery
-    - title: 6. Supporto a vita
-      description: 'Supportiamo le tavole che abbiamo costruito 20 anni fa. Ricambi originali, consigli tecnici, indicazioni per le riparazioni: il nostro team è disponibile quando ne avete bisogno.'
+    - title: '6. Lifetime Support'
+      description: 'We support every pool generation we have built. Genuine spare parts, technical advice, repair guidance — our team is available when you need us.'
       icon: tabler:lifebuoy
-    - title: 7. Specifiche Oneste
-      description: Classifiche di carico reali, dimensioni reali, peso reale. Nessuna esagerazione di marketing. Quello che pubblichiamo è ciò che ottieni — verificato da test indipendenti.
+    - title: '7. Honest Specifications'
+      description: 'Real load ratings, real dimensions, real weight. No marketing inflation. What we publish is what you get — verified by independent testing.'
       icon: tabler:ruler-measure
 testimonials:
-  tagline: Fidato dai marchi di tutto il mondo
-  title: Cosa Dicono i Nostri Partner
+  tagline: Trusted by Brands Worldwide
+  title: What Our Partners Say
   items:
-    - content: Abbiamo lavorato con diversi produttori in Cina, ma OLagoon si distingue per il loro supporto ingegneristico e la qualità costante. Trattano il nostro marchio come se fosse il loro.
-      name: — Partner Co-Brand, marchio europeo di sport acquatici
-    - content: Le loro tavole SUP sono in servizio nella nostra flotta da oltre 5 anni. Manutenzione minima, eccellente resistenza ai raggi UV. La garanzia di 5 anni ci dà fiducia.
-      name: — Operatore di flotte, gruppo resort del Medio Oriente
-    - content: Il team di OLagoon ci ha aiutato a sviluppare un design personalizzato per tavola SUP dal concetto alla produzione in 90 giorni. La qualità ha superato le nostre aspettative.
-      name: — Distributore, sport acquatici australiani
+    - content: 'We have worked with several manufacturers in China, but olagoon stands out for their engineering support and consistent quality. They treat our brand as their own.'
+      name: '— Co-Brand Partner, European Water Sports Brand'
+    - content: 'Their pools have been in service with our fleet for over 5 years. Minimal maintenance, excellent UV resistance. The 5-year warranty gives us confidence.'
+      name: '— Fleet Operator, Middle East Resort Group'
+    - content: 'The olagoon team helped us develop a custom pools design from concept to production in 90 days. The quality exceeded our expectations.'
+      name: '— Distributor, Australian Watersports'
 cta:
-  title: Pronto a vivere la differenza?
-  subtitle: Contatta il nostro team per discutere del tuo progetto. Nessun impegno richiesto — solo consigli onesti sulla produzione.
+  title: 'Ready to experience the difference?'
+  subtitle: 'Contact our team to discuss your project. No commitment required — just honest advice about manufacturing.'
   actions:
     - variant: primary
-      text: Parla con il nostro team
+      text: Talk to our team
       href: /contact/
-    - text: Scarica il catalogo dei prodotti
+    - text: Download product catalog
       href: /resources/download-catalog/

@@ -1,80 +1,87 @@
 meta:
-  title: 'Fabrieksapparatuur — Snijden, HF-lassen & Printen | {SITE}'
-  description: 'Industriële productieapparatuur van olagoon: PVC-snijden, HF-lassen, digitaal printen, assembleren en testen voor opblaasbare SUPs.'
+  title: 'Factory Equipment — Cutting, RF Welding & Printing | {SITE}'
+  description: 'Industrial-grade olagoon manufacturing equipment: PVC cutting, RF welding, digital printing, assembly, and testing for inflatable pools.'
   keywords:
-    - 'SUP productieapparatuur'
-    - 'opblaasbare SUP fabriek'
-    - 'HF-lassen PVC'
-    - 'paddle board productie'
+    - 'pool manufacturing equipment'
+    - 'inflatable pools factory'
+    - 'rf welding pvc'
+    - 'inflatable pool production'
 hero:
-  tagline: Apparatuur
-  title: Productieapparatuur & Machines
-  subtitle: Industriële apparatuur voor snijden, lassen, printen en assemblage
-  back_label: Terug naar Fabriek
+  tagline: Equipment
+  title: Manufacturing Equipment & Machinery
+  subtitle: Industrial-grade equipment across cutting, welding, printing, and assembly
+  back_label: Back to Factory
   back_link: /factory/
+
 categories:
-  - title: Snijden & Materiaalvoorbereiding
+  - title: Cutting & Material Preparation
     items:
-      - name: Automatische PVC-snijmachine
-        spec: CNC-gestuurd, 6.5 m × 2.5 m, 0.1 mm nauwkeurigheid
-        desc: Computer gestuurde automatische snijmachine voor PVC- en drop-stitch-stoffen. Nesting-software optimaliseert het materiaalgebruik tot minder dan 5% afval.
-      - name: Stofspreider
-        spec: Max. breedte 3 m, spanningsgestuurde aanvoer
-        desc: Legt stof in enkele of meerdere lagen met gecontroleerde spanning om vervorming voor het snijden te voorkomen.
-  - title: Buislassen & Verbinding
+      - name: Automatic PVC Cutting Machine
+        spec: CNC-controlled, 6.5 m × 2.5 m, 0.1 mm accuracy
+        desc: Computer-controlled automatic cutting machine for PVC and drop-stitch fabrics. Nesting software optimises material utilisation to below 5% waste.
+      - name: Fabric Spreader
+        spec: 3 m max width, tension-controlled feed
+        desc: Lays fabric in single or multiple plies with controlled tension to prevent distortion before cutting.
+
+  - title: Tube Welding & Bonding
     items:
-      - name: Warmteafdichtingsmachine
-        spec: Heetluchtlassen, variabel 200–600 °C, 0.5–5 m/min
-        desc: Heetlucht warmteafdichtingsmachine voor het verbinden en lassen van PVC- en railnaden. Gebruikt voor het vastzetten, afdichten en versmelten van buiskamers en drijfverbindingen.
-      - name: Diëlektrische RF-pers
-        spec: 15 kW, plaat 2000 × 600 mm
-        desc: Hoogfrequent laspers voor hoofdlangsnaden, railbanden en fabricage van grote kamers.
-      - name: CNC-gestuurde RF-lasser
-        spec: 8 kW, XY-tafel 2500 × 1200 mm
-        desc: Programmeerbaar lassen van gebogen naden voor complexe geometrieën, logo-embossing en precisieherstel.
-  - title: SUP-boardproductie
+      - name: Heat Sealing Machine
+        spec: Hot-air welding, variable 200–600 °C, 0.5–5 m/min
+        desc: Hot-air heat sealing machine for bonding and welding PVC and rail seams. Used for tacking, sealing, and fusing tube chambers and float joints.
+      - name: Dielectric RF Press
+        spec: 15 kW, platen 2000 × 600 mm
+        desc: Radio-frequency welding press for main longitudinal seams, rail bands, and large-chamber fabrication.
+      - name: CNC-Controlled RF Welder
+        spec: 8 kW, XY table 2500 × 1200 mm
+        desc: Programmable curved-seam welding for complex geometries, logo embossing, and precision patchwork.
+
+  - title: pools Manufacturing
     items:
-      - name: Drop-Stitch-kernlamineerpers
-        spec: Grootformaat pers voor boardkernen tot 14 ft LOA
-        desc: Precisielaminering van drop-stitch kerns op buitenste PVC-laminaten. Elke laag wordt onder druk verlijmd voor consistente kwaliteit en sterkte.
+      - name: Drop-Stitch Core Lamination Press
+        spec: Large-format press for drop-stitch cores up to 5 m length
+        desc: Precision lamination of drop-stitch cores to outer PVC laminates. Each layer is pressure-bonded for consistent quality and strength.
       - name: CNC Router (5-axis)
-        spec: 3 m × 2 m × 1 m omhulsel, watergekoelde spil
-        desc: Bewerking van vinboxen, handgreepuitsparingen en aangepaste boardcomponenten.
-  - title: SUP-bedrukking & Decoratie
+        spec: 3 m × 2 m × 1 m envelope, water-cooled spindle
+        desc: Machining of valve ports, handle cutouts, and custom pool components.
+
+  - title: pool Printing & Decoration
     items:
-      - name: Digitale printer
-        spec: Hoogwaardige inkjet, printbreedte tot 2 m
-        desc: Direct-op-stof digitale print voor volledig gekleurde SUP-dekgraphics. Print aangepaste patronen, gradients en fotokwaliteit afbeeldingen met UV-bestendige waterbasisinkten.
-      - name: Zeefdrukmachine
-        spec: Handmatig en halfautomatisch, meerkleurige registratie
-        desc: Zeefdruk voor SUP-boardlogo's, merktekens en herhalende patronen. Biedt duurzame, dekkende prints met levendige kleurverzadiging.
-  - title: Montage & Tuigage
+      - name: Digital Printer
+        spec: High-resolution inkjet, up to 2 m print width
+        desc: Direct-to-fabric digital printing for full-colour pool deck graphics. Prints custom patterns, gradients, and photo-quality images with UV-resistant water-based inks.
+      - name: Screen Printing Machine
+        spec: Manual and semi-automatic, multi-colour registration
+        desc: Screen printing for pools logos, brand marks, and repeating patterns. Provides durable, opaque prints with vibrant colour saturation.
+
+  - title: Assembly & Rigging
     items:
-      - name: Board Assembly Station
-        spec: Modulair verstelbaar, multi-station lay-out
-        desc: Montage van vinboxen, handvatten, D-ringen, ventielen en dekpads op SUP-boards.
-      - name: Ventielmontagepers
-        spec: Pneumatisch, instelbare druk
-        desc: Precisie-installatie en afdichting van Halkey-Roberts- en Leafield-kleppen.
+      - name: Pool Assembly Station
+        spec: Modular adjustable, multi-station layout
+        desc: Assembly of fin boxes, handles, D-rings, valves, and deck pads onto pools.
+      - name: Valve Installation Press
+        spec: Pneumatic, adjustable pressure
+        desc: Precision installation and sealing of Halkey-Roberts and Leafield valves.
       - name: Deck Pad Laminator
-        spec: 3 m × 1,5 m, temperatuurgecontroleerd
-        desc: Warmtelaminering van EVA-schuimdekpads op SUP-plaatoppervlakken met constante hechtingssterkte.
-  - title: Testen & Kwaliteitscontrole
+        spec: 3 m × 1.5 m, temperature-controlled
+        desc: Heat lamination of EVA foam deck pads to pools tops with consistent bond strength.
+
+  - title: Testing & Quality Control
     items:
-      - name: Universele trekbank
+      - name: Universal Tensile Tester
         spec: 50 kN, ASTM D751
-        desc: Breekkracht-, rek-op-breek- en scheurvoortplantingstesten voor stofpartijen.
-      - name: Luchtdichtheidstestbank
-        spec: Programmeerbaar, 30 min. drukbehoud
-        desc: Geautomatiseerde drukbehoudtest voor elke buiskamer voor montage.
-      - name: Naadpeltester
-        spec: Gemotoriseerd 180° pelen bij 100 mm/min
-        desc: Pelsterktetest van gelaste en gelijmde naden volgens EN ISO 25649.
-      - name: Xenon-boog-verouderingskamer
-        spec: 2000 h blootstelling
-        desc: UV-bestendigheidstest voor kleurverandering en sterktebehoud.
+        desc: Breaking force, elongation at break, and tear propagation testing for fabric batches.
+      - name: Air Retention Test Rig
+        spec: Programmable, 30-min pressure-hold
+        desc: Automated pressure-hold test for every tube chamber before assembly.
+      - name: Seam Peel Tester
+        spec: Motorised 180° peel at 100 mm/min
+        desc: Weld and glued-seam peel strength testing per EN ISO 25649.
+      - name: Xenon-Arc Weathering Chamber
+        spec: 2000 h exposure
+        desc: UV resistance testing for colour change and strength retention.
+
 cta:
-  title: Geïnteresseerd in een fabrieksrondleiding?
-  desc: Wij verwelkomen bezoekers in onze faciliteit in Qingdao. Bekijk onze apparatuur en processen in persoon.
-  label: Bezoek inplannen →
+  title: Interested in a factory tour?
+  desc: We welcome visitors to our Qingdao facility. See our equipment and processes in person.
+  label: Schedule a visit →
   link: /contact/

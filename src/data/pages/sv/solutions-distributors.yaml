@@ -1,50 +1,54 @@
 meta:
-  title: SUP-distributörspartnerskap | {SITE}
-  description: Gå med i OLagoons globala distributionsnätverk. Exklusiva territorier, komplett produktportfölj, konkurrerande grossistpriser och dedikerad kontoansvarig.
+  title: 'pool Wholesale Distribution Partner Program | {SITE}'
+  description: "Join OLagoon's global pool wholesale distribution network. Exclusive territories, complete inflatable pools product portfolio, competitive wholesale pricing, and dedicated account management in 50+ countries."
+
 hero:
-  tagline: Distributörer
-  title: Gå med i vårt globala<br />distributionsnätverk
-  subtitle: Exklusiva territorier. Komplett produktportfölj. Världsklass support. OLagoon levererar till 50+ länder och vi söker etablerade marina och vattensportåterförsäljare.
+  tagline: Distributors
+  title: 'Join Our Global<br />Distribution Network'
+  subtitle: "pool wholesale distribution partner program with exclusive territories, complete inflatable pools product portfolio, and world-class support. OLagoon ships to 50+ countries — we're looking for established marine and water sports distributors."
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: OLagoons globala distributions- och fraktverksamhet
+    alt: OLagoon global distribution and shipping operations
+
 benefits:
-  title: Vad distributörer får
-  subtitle: Allt du behöver för att lyckas på din marknad.
+  title: What Distributors Get
+  subtitle: 'Everything you need to succeed in your market.'
   items:
-    - Exklusiva territoriella rättigheter
-    - Komplett produktkatalog (SUP, tillbehör, delar)
-    - Konkurrerande grossistpriser
-    - Marknads- och försäljningsmaterial (översatt)
-    - Utbildningsprogram (produkt, försäljning, underhåll)
-    - Mässstöd
-    - Provprogram
-    - Drop-shippning
-    - Dedikerad återförsäljar-kontoansvarig
-    - 45-60 dagars betalningsvillkor
+    - 'Exclusive territory rights'
+    - 'Complete product catalog (pool, accessories, parts)'
+    - 'Competitive wholesale pricing'
+    - 'Marketing & sales materials (translated)'
+    - 'Training program (product, sales, maintenance)'
+    - 'Trade show support'
+    - 'Sample program'
+    - 'Drop-ship capability'
+    - 'Dedicated distributor account manager'
+    - '45-60 day payment terms'
+
 coverage:
-  title: Nuvarande distribution
-  subtitle: OLagoon betjänar dessa marknader direkt.
+  title: Current Distribution
+  subtitle: 'OLagoon currently serves these markets directly.'
   regions:
-    - name: Europa
-      countries: Frankrike, Tyskland, Storbritannien, Spanien, Italien, Nederländerna, Sverige, Norge, Polen, Grekland
-    - name: Asien
-      countries: Japan, Sydkorea, Kina, Thailand, Singapore
-    - name: Mellanöstern
-      countries: Förenta arabemiraten, Saudiarabien
-    - name: Amerika
-      countries: USA, Kanada, Brasilien, Mexiko
-    - name: Oceanien
-      countries: Australien, Nya Zeeland
-    - name: Afrika
-      countries: Sydafrika, Marocko
+    - name: Europe
+      countries: 'France, Germany, UK, Spain, Italy, Netherlands, Sweden, Norway, Poland, Greece'
+    - name: Asia
+      countries: 'Japan, South Korea, China, Thailand, Singapore'
+    - name: Middle East
+      countries: 'UAE, Saudi Arabia'
+    - name: Americas
+      countries: 'USA, Canada, Brazil, Mexico'
+    - name: Oceania
+      countries: 'Australia, New Zealand'
+    - name: Africa
+      countries: 'South Africa, Morocco'
+
 cta:
-  title: Redo att bli distributör?
-  subtitle: Ansök till vårt distributörprogram eller ladda ned vår distributörsinformationspaket.
+  title: 'Ready to become a distributor?'
+  subtitle: 'Apply for our distributor program or download our distributor information kit.'
   actions:
-    - text: Ansök om återförsäljarprogram
-      href: /contact/?partner=distributor
-      variant: primary
-    - text: Ladda ned distributörspaket
-      href: /resources/download-catalog/
-      variant: secondary
+    - text: 'Apply for Distributor Program'
+      href: '/contact/?partner=distributor'
+      variant: 'primary'
+    - text: 'Download Distributor Kit'
+      href: '/resources/download-catalog/'
+      variant: 'secondary'

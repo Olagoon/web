@@ -1,50 +1,54 @@
 meta:
-  title: برنامج شركاء توزيع ألواح SUP | {SITE}
-  description: انضم إلى شبكة التوزيع العالمية لـ OLagoon. مناطق حصرية، ومحفظة منتجات كاملة، وأسعار جملة تنافسية، وإدارة حسابات مخصصة.
+  title: 'pool Wholesale Distribution Partner Program | {SITE}'
+  description: "Join OLagoon's global pool wholesale distribution network. Exclusive territories, complete inflatable pools product portfolio, competitive wholesale pricing, and dedicated account management in 50+ countries."
+
 hero:
-  tagline: الموزعون
-  title: انضم إلى شبكة<br />التوزيع العالمية لدينا
-  subtitle: مناطق حصرية. ومحفظة منتجات كاملة. ودعم عالمي المستوى. تصدر OLagoon إلى أكثر من 50 دولة، ونبحث عن موزعين راسخين في قطاعي الملاحة البحرية والرياضات المائية.
+  tagline: Distributors
+  title: 'Join Our Global<br />Distribution Network'
+  subtitle: "pool wholesale distribution partner program with exclusive territories, complete inflatable pools product portfolio, and world-class support. OLagoon ships to 50+ countries — we're looking for established marine and water sports distributors."
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: عمليات التوزيع والشحن العالمية لشركة olagoon
+    alt: OLagoon global distribution and shipping operations
+
 benefits:
-  title: ما يحصل عليه الموزعون
-  subtitle: كل ما تحتاجه للنجاح في سوقك.
+  title: What Distributors Get
+  subtitle: 'Everything you need to succeed in your market.'
   items:
-    - حقوق حصرية للمنطقة
-    - كتالوج المنتجات الكامل (ألواح SUP، الملحقات، قطع الغيار)
-    - أسعار جملة تنافسية
-    - مواد التسويق والمبيعات (مترجمة)
-    - برنامج تدريبي (المنتج، المبيعات، الصيانة)
-    - دعم المعارض التجارية
-    - برنامج العينات
-    - إمكانية الشحن المباشر (Drop-ship)
-    - مدير حساب مخصص للموزعين
-    - شروط دفع خلال 45-60 يومًا
+    - 'Exclusive territory rights'
+    - 'Complete product catalog (pool, accessories, parts)'
+    - 'Competitive wholesale pricing'
+    - 'Marketing & sales materials (translated)'
+    - 'Training program (product, sales, maintenance)'
+    - 'Trade show support'
+    - 'Sample program'
+    - 'Drop-ship capability'
+    - 'Dedicated distributor account manager'
+    - '45-60 day payment terms'
+
 coverage:
-  title: التوزيع الحالي
-  subtitle: تخدم OLagoon حاليًا هذه الأسواق مباشرة.
+  title: Current Distribution
+  subtitle: 'OLagoon currently serves these markets directly.'
   regions:
-    - name: أوروبا
-      countries: فرنسا، ألمانيا، المملكة المتحدة، إسبانيا، إيطاليا، هولندا، السويد، النرويج، بولندا، اليونان
-    - name: آسيا
-      countries: اليابان، كوريا الجنوبية، الصين، تايلاند، سنغافورة
-    - name: الشرق الأوسط
-      countries: الإمارات العربية المتحدة، السعودية
-    - name: الأمريكتان
-      countries: الولايات المتحدة، كندا، البرازيل، المكسيك
-    - name: أوقيانوسيا
-      countries: أستراليا، نيوزيلندا
-    - name: أفريقيا
-      countries: جنوب أفريقيا، المغرب
+    - name: Europe
+      countries: 'France, Germany, UK, Spain, Italy, Netherlands, Sweden, Norway, Poland, Greece'
+    - name: Asia
+      countries: 'Japan, South Korea, China, Thailand, Singapore'
+    - name: Middle East
+      countries: 'UAE, Saudi Arabia'
+    - name: Americas
+      countries: 'USA, Canada, Brazil, Mexico'
+    - name: Oceania
+      countries: 'Australia, New Zealand'
+    - name: Africa
+      countries: 'South Africa, Morocco'
+
 cta:
-  title: هل أنت مستعد لتصبح موزعًا؟
-  subtitle: قدّم طلبك للانضمام إلى برنامج الموزعين أو حمّل حزمة معلومات الموزعين.
+  title: 'Ready to become a distributor?'
+  subtitle: 'Apply for our distributor program or download our distributor information kit.'
   actions:
-    - text: قدّم طلب الانضمام إلى برنامج الموزعين
-      href: /contact/?partner=distributor
-      variant: primary
-    - text: تنزيل حزمة الموزعين
-      href: /resources/download-catalog/
-      variant: secondary
+    - text: 'Apply for Distributor Program'
+      href: '/contact/?partner=distributor'
+      variant: 'primary'
+    - text: 'Download Distributor Kit'
+      href: '/resources/download-catalog/'
+      variant: 'secondary'

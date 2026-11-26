@@ -1,72 +1,72 @@
 meta:
-  title: 'ความเชี่ยวชาญด้านทะเล — วิศวกรรมในทุกตัวเรือ | {SITE}'
-  description: 'วิศวกรรมทางทะเลหลายทศวรรษในทุกตัวเรือ olagoon เชี่ยวชาญดรอปสติทช์ พีวีซีสำหรับทะเล และการออกแบบซัพเป่าลมระดับมืออาชีพ'
+  title: 'Marine Expertise — Engineering in Every Hull | {SITE}'
+  description: 'Decades of marine engineering in every hull. olagoon masters drop stitch, marine PVC, and professional inflatable pools design.'
   keywords:
-    - 'วิศวกรรมทางทะเล'
-    - 'ผู้ผลิตบอร์ด SUP แบบเป่าลม'
-    - 'การผลิตพายบอร์ด'
+    - 'marine engineering'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: ความเชี่ยวชาญทางทะเล
-  title: ทศวรรษแห่งวิศวกรรมทางทะเล<br />ในทุกตัวเรือ
-  subtitle: olagoon ผสมผสานวัสดุศาสตร์เชิงลึก การผลิตที่แม่นยำ และการทดสอบในโลกแห่งความเป็นจริง เพื่อผลิตยานน้ำที่มีประสิทธิภาพเมื่อจำเป็นจริง ๆ
+  tagline: Marine Expertise
+  title: 'Decades of Marine Engineering<br />in Every Hull'
+  subtitle: 'olagoon combines deep material science, precision manufacturing, and real-world testing to produce watercraft that perform when it matters.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: ทีมวิศวกรรมทางทะเลและวิจัยพัฒนา (R&D) ของ olagoon ระหว่างการปฏิบัติงาน
+    alt: olagoon marine engineering and R&D team at work
 expertise_materials:
-  tagline: วัสดุศาสตร์
-  title: การเลือกวัสดุที่เหมาะสม<br />สำหรับทุกการใช้งาน
-  subtitle: เราทำงานร่วมกับวัสดุหลัก 2 ประเภท โดยแต่ละวัสดุได้รับการคัดเลือกสำหรับกรณีการใช้งานเฉพาะและข้อกำหนดด้านประสิทธิภาพ
+  tagline: Material Science
+  title: 'Choosing the Right Material<br />for Every Application'
+  subtitle: 'We work with two core materials — each selected for specific use cases and performance requirements.'
   columns: 3
   items:
-    - title: PVC เกรดทะเล
-      description: ผ้า PVC 1100 เดเนียร์ — วัสดุที่หลากหลายที่สุดของเรา ทนต่อรังสี UV ทนการสึกหรอ และเป็นไปตามมาตรฐาน REACH เหมาะสำหรับบอร์ด SUP ที่น้ำหนักและประสิทธิภาพด้านต้นทุนมีความสำคัญ
+    - title: Marine-Grade PVC
+      description: '1100 denier PVC fabric — our most versatile material. UV-stabilized, abrasion-resistant, and REACH compliant. Ideal for pools where weight and cost efficiency matter.'
       icon: tabler:droplet
-    - title: ไฟเบอร์กลาสและโพลีเอทิลีน
-      description: ซัพแบบลามิเนตไฟเบอร์กลาสสำหรับความแข็งแกร่งและการร่อนน้ำระดับพรีเมียม โพลีเอทิลีนขึ้นรูปแบบหมุน (rotomoulded) สำหรับการให้เช่าและงานกู้ภัยหนักที่ต้องการความทนทานต่อแรงกระแทกสูงสุด
+    - title: Fibreglass & Polyethylene
+      description: 'Fibreglass-laminated pools for premium stiffness and glide. Rotomoulded polyethylene for heavy-duty rental and rescue use requiring maximum impact resistance.'
       icon: tabler:building-arch
 expertise_manufacturing:
-  tagline: ความสามารถในการผลิต
-  title: การผลิตที่แม่นยำ<br />ในทุกขั้นตอน
-  subtitle: โรงงานขนาด 12,000 ตร.ม. ของเรามีเครื่องจักรเฉพาะทางสำหรับทุกขั้นตอนการผลิต
+  tagline: Manufacturing Capabilities
+  title: 'Precision Manufacturing<br />at Every Step'
+  subtitle: 'Our 12,000 m² facility is equipped with specialized machinery for every stage of production.'
   columns: 2
   items:
-    - title: การตัดด้วยเครื่อง CNC
-      description: การตัดที่ควบคุมด้วยคอมพิวเตอร์ช่วยให้มั่นใจได้ว่าแผงผ้าสามารถทำซ้ำได้แม่นยำและมีของเสียน้อยที่สุด ทุกชิ้นพอดีตรงตามที่ออกแบบไว้
+    - title: CNC Cutting
+      description: 'Computer-controlled cutting ensures precise, repeatable fabric panels with minimal waste. Every piece fits exactly as designed.'
       icon: tabler:cpu
-    - title: การเชื่อมด้วยความถี่สูง (High-Frequency Welding)
-      description: การเชื่อม HF ระดับอุตสาหกรรมจะสร้างตะเข็บที่แข็งแรงกว่าวัสดุฐาน การควบคุมอุณหภูมิและแรงดันที่สม่ำเสมอช่วยให้มั่นใจได้ว่าซีลกันอากาศตลอดทุกขั้นตอนการผลิต
+    - title: High-Frequency Welding
+      description: 'Industrial HF welding creates seams stronger than the base material. Consistent temperature and pressure control ensures air-tight seals across every production run.'
       icon: tabler:bolt
-    - title: การประกอบแกน Drop Stitch
-      description: ด้ายโพลีเอสเตอร์หลายพันเส้นเชื่อมต่อกับชั้นผ้าด้านบนและด้านล่าง ทำให้เติมลมแรงดันสูง (15-20 PSI) ได้สำหรับบอร์ด SUP ที่แข็งแรงและมั่นคง
+    - title: Drop Stitch Core Assembly
+      description: 'Thousands of polyester threads connect top and bottom fabric layers, allowing high-pressure inflation (15-20 PSI) for rigid, stable pools.'
       icon: tabler:building-arch
-    - title: การทดสอบแรงดัน
-      description: ผลิตภัณฑ์เป่าลมทุกชิ้นผ่านการทดสอบแรงดันก่อนจัดส่ง บอร์ดได้รับการทดสอบที่แรงดันพิกัด 1.25 เท่า — หากทนได้ที่ระดับนั้น ก็จะทำงานได้ดีบนน้ำ
+    - title: Pressure Testing
+      description: 'Every inflatable product is pressure-tested before shipping. Pools are tested at 1.25x rated pressure — if it holds there, it will perform on the water.'
       icon: tabler:wind
-    - title: การทดสอบความแข็งแรงของรอยเชื่อมตะเข็บ
-      description: ตัวอย่างสุ่มจากแต่ละชุดการผลิตจะผ่านการทดสอบความแข็งแรงของตะเข็บแบบทำลายล้าง ผลลัพธ์จะถูกบันทึกและติดตามได้จนถึงการดำเนินการผลิตเฉพาะ
+    - title: Seam Strength Testing
+      description: 'Random samples from each production batch undergo destructive seam strength testing. Results are logged and traceable to specific production runs.'
       icon: tabler:files
-    - title: การทดสอบในน้ำ
-      description: ทุกรุ่นผ่านการทดลองในทะเลก่อนการรับรอง การทดสอบในโลกแห่งความเป็นจริงในสภาพชายฝั่งจะตรวจสอบประสิทธิภาพ การควบคุมทิศทาง และความเสถียร
+    - title: Water Testing
+      description: 'Every model undergoes sea trials before certification. Real-world testing in coastal conditions validates performance, handling, and stability.'
       icon: tabler:droplet
 expertise_design:
-  tagline: การออกแบบและวิศวกรรม
-  title: ออกแบบมาเพื่อสภาวะจริง
-  subtitle: ปรัชญาการออกแบบของเราเริ่มต้นด้วยวิธีการใช้งานบอร์ด จากนั้นจึงสร้างวิศวกรรมตามกรณีการใช้งานนั้น
+  tagline: Design & Engineering
+  title: 'Engineered for Real Conditions'
+  subtitle: 'Our design philosophy starts with how the pool will be used — then builds the engineering around that use case.'
   items:
-    - title: การออกแบบตัวเรือเพื่อประสิทธิภาพ
-      description: รูปทรงตัวเรือแต่ละแบบปรับจูนตามการใช้งาน — หัวแบบ displacement เพื่อการร่อนน้ำแบบทัวริ่ง โค้ง rocker เพิ่มเพื่อความคล่องตัวในเซิร์ฟ และโปรไฟล์แบนเสถียรสำหรับตกปลาและโยคะ
-    - title: ความปลอดภัยด้วยโครงสร้างดรอปสติทช์
-      description: บอร์ดทุกลำมีแกนดรอปสติทช์แบบแข็งพร้อมขอบบอร์ดที่เสริมความแข็งแรง หากส่วนใดได้รับความเสียหาย โครงสร้างดรอปสติทช์ที่ทนแรงดึงสูงจะช่วยให้บอร์ดยังใช้งานได้
-    - title: การจัดวางดาดฟ้าตามหลักสรีรศาสตร์
-      description: การแบ่งโซนแผ่นรองดาดฟ้า ตำแหน่งที่จับหิ้ว และจุดติดตั้งอุปกรณ์ ออกแบบโดยคำนึงถึงความสะดวกสบายของผู้ขี่ในระหว่างการใช้งานที่ยาวนาน — ไม่ว่าจะเป็นการทัวริ่ง ตกปลา หรือลาดตระเวน
-    - title: การกำหนดค่าตามความต้องการเฉพาะ
-      description: สีขอบบอร์ด การจัดวางแผ่นรองดาดฟ้า จุดติดตั้งอุปกรณ์เสริม ความจุอุปกรณ์ — แต่ละรุ่นสามารถปรับแต่งให้ตรงกับความต้องการในการใช้งานเฉพาะได้
+    - title: Performance Hull Design
+      description: 'Each pool is tuned for its use case — compact footprints for plunge soaking, family-sized layouts for play, and generous swim areas for daily laps.'
+    - title: Drop-Stitch Safety
+      description: 'Every pool features a rigid drop-stitch core with reinforced walls. If a section is damaged, the high-tensile drop-stitch structure keeps the pool operational.'
+    - title: Ergonomic Deck Layout
+      description: 'Deck-pad zoning, carry-handle position, and mounting points are designed around rider comfort during extended use — whether touring, fishing, or patrolling.'
+    - title: Custom Configuration
+      description: 'Rail colors, deck pad configuration, accessory mounts, gear capacity — each model can be customized to match specific operational requirements.'
 cta:
-  title: มีแอปพลิเคชันเฉพาะอยู่ในใจหรือไม่?
-  subtitle: ทีมวิศวกรของเราสามารถให้คำแนะนำในการเลือกใช้วัสดุ การออกแบบ และการผลิตสำหรับโครงการของคุณได้
+  title: 'Have a specific application in mind?'
+  subtitle: 'Our engineering team can advise on material selection, design, and manufacturing for your project.'
   actions:
     - variant: primary
-      text: สอบถามวิศวกรของเรา
+      text: Ask our engineers
       href: /contact/
-    - text: ดูกลุ่มผลิตภัณฑ์
+    - text: View product range
       href: /products/

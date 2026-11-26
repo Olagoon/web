@@ -1,125 +1,130 @@
 meta:
-  title: ศูนย์ R&D | {SITE}
-  description: การวิจัยและพัฒนา (R&D) — การทดสอบผ้า PVC วิศวกรรมตัวเรือ การเชื่อมด้วยคลื่นความถี่สูง (RF) การทดสอบอุทกพลศาสตร์ และการควบคุมคุณภาพ พร้อมบริการ R&D ตามความต้องการของลูกค้า
+  title: 'R&D Center | {SITE}'
+  description: 'Research & Development — PVC fabric testing, hull engineering, RF welding, hydrodynamic testing, and quality control. Custom R&D services available.'
+
 hero:
-  tagline: ศูนย์วิจัยและพัฒนา
-  title: ศูนย์วิจัยและพัฒนา (R & D Center)
-  subtitle: มุ่งมั่นสู่ความก้าวหน้า
+  tagline: R&D Center
+  title: R & D Center
+  subtitle: Focused on Progress
+
 intro:
-  - >-
-    ศูนย์วิจัยและพัฒนา (R&D Center) ของ olagoon คือพลังขับเคลื่อนเบื้องหลังพันธกิจของเราในการปฏิวัติวงการอุปกรณ์กีฬาทางน้ำ เราเสริมพลังให้นักกีฬาทางน้ำทั่วโลกได้ใช้ผลิตภัณฑ์ที่ปลอดภัย สบาย และสนุกยิ่งขึ้น ผ่านนวัตกรรมที่ไม่หยุดนิ่งในบอร์ดยืนพายแบบเป่าลม (SUP) ทีมวิศวกร นักออกแบบ
-    และผู้เชี่ยวชาญด้านกีฬาทางน้ำผู้หลงใหลในงานของเรา กำลังสร้างอนาคตของอุตสาหกรรมนี้ พร้อมยกระดับมาตรฐานด้านคุณภาพ สมรรถนะ และความยั่งยืนอย่างต่อเนื่อง
-  - ศูนย์วิจัยและพัฒนา (R&D) ของเรารวมนักวิทยาศาสตร์วัสดุ วิศวกรทางทะเล และวิศวกรฝ่ายผลิตไว้ในที่เดียว ตั้งแต่การคิดสูตรผ้าใบและการจำลองตัวเรือ ไปจนถึงการพัฒนากระบวนการเชื่อมและการทดสอบทางทะเลขนาดจริง ทุกขั้นตอนของการพัฒนาผลิตภัณฑ์ขับเคลื่อนด้วยข้อมูลและผ่านการตรวจสอบด้วยการทดสอบ
+  - olagoon's Research and Development (R&D) Center is the driving force behind our mission to revolutionize water sports equipment. We empower water sports enthusiasts globally with safer, more comfortable, and more enjoyable products through relentless innovation in inflatable drop-stitch pool (pools). Our dedicated team of engineers, designers, and passionate water sports experts are shaping the future of the industry, consistently raising the bar for quality, performance, and sustainability.
+  - Our R&D facility brings together material scientists, marine engineers, and production engineers under one roof. From fabric formulation and hull simulation to welding process development and full-scale sea trials, every stage of product development is driven by data and validated by testing.
+
 mission:
-  tagline: พันธกิจของเรา
-  title: สร้างนวัตกรรมเพื่ออนาคตของกีฬาทางน้ำ
+  tagline: Our Mission
+  title: Innovating the Future of Water Sports
   pillars:
     - icon: lightning
-      title: ความก้าวหน้าทางเทคโนโลยี
-      desc: บุกเบิกวัสดุ การออกแบบ และกระบวนการผลิตใหม่ ๆ เพื่อให้ผลิตภัณฑ์มีสมรรถนะและอายุการใช้งานที่เหนือกว่า
+      title: Technological Advancement
+      desc: Pioneering new materials, designs, and manufacturing for superior product performance and longevity.
     - icon: design
-      title: การออกแบบที่ยึดผู้ใช้เป็นศูนย์กลาง
-      desc: เข้าใจความต้องการของผู้ใช้อย่างลึกซึ้งและตอบสนองได้เกินความคาดหมาย ผ่านการออกแบบผลิตภัณฑ์ที่คำนึงถึงหลักสรีรศาสตร์และใช้งานง่าย
+      title: User-Centric Design
+      desc: Deeply understanding and exceeding user needs through ergonomic and intuitive product design.
     - icon: globe
-      title: แนวทางปฏิบัติเพื่อความยั่งยืน
-      desc: ลดผลกระทบต่อสิ่งแวดล้อมของเราด้วยการใช้วัสดุและกระบวนการที่เป็นมิตรกับสิ่งแวดล้อม
+      title: Sustainable Practices
+      desc: Minimizing our environmental footprint by utilizing eco-friendly materials and processes.
     - icon: shield
-      title: ความปลอดภัยที่เหนือกว่าแบบไม่ประนีประนอม
-      desc: รับรองมาตรฐานความปลอดภัยสูงสุดผ่านการทดสอบอย่างเข้มงวดและการรับรองที่ครบถ้วน
+      title: Uncompromising Safety
+      desc: Ensuring the highest safety standards through rigorous testing and certification.
+
 pillars:
-  - title: ความก้าวหน้าทางเทคโนโลยี
-    desc: บุกเบิกวัสดุ การออกแบบ และกระบวนการผลิตใหม่ ๆ เพื่อส่งมอบประสิทธิภาพและอายุการใช้งานของผลิตภัณฑ์ที่เหนือกว่า
+  - title: Technological Advancement
+    desc: Pioneering new materials, designs, and manufacturing processes to deliver superior product performance and longevity.
     icon: tech
-  - title: วัสดุขั้นสูง
-    desc: วิจัยวัสดุ PVC คอมโพสิต และวัสดุทางเลือกที่ยั่งยืนแบบล้ำหน้า เพื่อพัฒนาคุณสมบัติของผลิตภัณฑ์ให้ดียิ่งขึ้น
+  - title: Advanced Materials
+    desc: Investigating cutting-edge PVC, composites, and sustainable alternatives for enhanced product characteristics.
     icon: materials
-  - title: ความยั่งยืน
-    desc: 'พันธสัญญาหลัก: เรามุ่งมั่นดูแลสิ่งแวดล้อมผ่านการผลิตที่ยั่งยืนและการใช้วัสดุที่รีไซเคิลได้'
+  - title: Sustainability
+    desc: 'A Core Commitment: We are dedicated to environmental stewardship through sustainable manufacturing and recyclable materials.'
     icon: sustainability
+
 capabilities:
-  tagline: ความสามารถของเรา
-  title: ขีดความสามารถด้านการวิจัยและพัฒนา
-  subtitle: ความเชี่ยวชาญหลักสี่ด้านที่ทำให้เราควบคุมการพัฒนาผลิตภัณฑ์ได้ครบวงจร — ตั้งแต่การวิจัยวัตถุดิบไปจนถึงการรับรองขั้นสุดท้าย
+  tagline: Capabilities
+  title: R&D Capabilities
+  subtitle: Four core disciplines that give us end-to-end control over product development — from raw material research to final certification.
   groups:
-    - title: วัสดุศาสตร์และเทคโนโลยีผ้าใบ
+    - title: Material Science & Fabric Technology
       items:
-        - การวิเคราะห์และปรับปรุงสูตรวัสดุ PVC
-        - การพัฒนาสารเติมแต่งสำหรับกันรังสี UV ทนไฟ และต้านจุลินทรีย์
-        - วิศวกรรมการเคลือบผ้าหลายชั้นและการยึดติด
-        - การทดสอบเร่งการเสื่อมสภาพ (UV ความร้อน ความชื้น ละอองน้ำเค็ม)
-    - title: วิศวกรรมตัวเรือและอุทกพลศาสตร์
+        - PVC formulation analysis and optimisation
+        - UV stabilisation, flame retardancy, and anti-microbial additive development
+        - Multi-layer fabric lamination and adhesion engineering
+        - Accelerated ageing testing (UV, thermal, humidity, salt spray)
+    - title: Hull Engineering & Hydrodynamics
       items:
-        - การออกแบบตัวเรือ 3D แบบ Parametric และการเพิ่มประสิทธิภาพด้วย CFD
-        - การวิเคราะห์ไฟไนต์เอลิเมนต์สำหรับแรงทางโครงสร้างและแรงกระแทก
-        - การทดสอบในอ่างทดลองลากจูงด้วยโมเดลย่อส่วนและการตรวจสอบสมรรถนะ
-        - การพัฒนาตัวเรือแบบเฉพาะสำหรับภารกิจพิเศษ
-    - title: เทคโนโลยีการเชื่อมและการต่อผืนผ้า
+        - Parametric 3D hull design and CFD optimisation
+        - Finite element analysis for structural and impact loads
+        - Scale-model towing tank testing and performance validation
+        - Custom hull development for special mission profiles
+    - title: Welding & Joining Technology
       items:
-        - การพัฒนาและปรับปรุงกระบวนการเชื่อมไดอิเล็กทริกด้วยคลื่นความถี่วิทยุ (RF)
-        - วิธีการเชื่อมด้วยลมร้อน ลิ่มร้อน และคลื่นเสียงความถี่สูง (Ultrasonic)
-        - การทดสอบการยึดติดด้วยกาวและการรับรองคุณสมบัติเทปปิดรอยต่อ
-        - การจำลองความแข็งแรงของรอยเชื่อมและการคาดการณ์อายุการใช้งาน
-    - title: การทดสอบ การรับรอง และการปฏิบัติตามข้อกำหนด
+        - RF dielectric welding process development and optimisation
+        - Hot-air, hot-wedge, and ultrasonic welding methods
+        - Adhesive bonding and seam tape qualification
+        - Weld strength modelling and lifetime prediction
+    - title: Testing, Certification & Compliance
       items:
-        - การจัดการคุณภาพและการทดสอบตามข้อกำหนด CE
-        - การสนับสนุนการทดสอบและรับรองโดยหน่วยงานอิสระภายนอก
-        - การพัฒนาโปรโตคอลการทดสอบเฉพาะสำหรับการประเมินคุณสมบัติวัสดุในการจัดซื้อ
-        - การวิเคราะห์ความเสียหายระหว่างการใช้งานและการสืบสวนหาสาเหตุต้นตอ
+        - Quality management and CE compliance testing
+        - Independent third-party testing and certification support
+        - Custom test protocol development for procurement qualification
+        - In-service failure analysis and root-cause investigation
+
 rd_numbers:
-  tagline: นวัตกรรม
-  title: งานวิจัยและพัฒนาในเชิงตัวเลข
+  tagline: Innovation
+  title: R&D by the Numbers
   stats:
     - value: '14'
-      label: วิศวกรและนักวิทยาศาสตร์ฝ่าย R&D
+      label: R&D engineers & scientists
     - value: '8'
-      label: สิทธิบัตรที่ใช้งานอยู่และคำขอที่ยื่นไว้
+      label: Active patents & filings
     - value: '6'
-      label: ห้องปฏิบัติการเฉพาะทาง
-    - value: 12 ปี
-      label: ประสบการณ์เฉลี่ยของทีม
+      label: Specialised labs
+    - value: 12 yr
+      label: Average team experience
+
 rd_services:
-  tagline: การวิจัยและพัฒนาเฉพาะตามความต้องการ
-  title: บริการ R&D สำหรับพันธมิตร
+  tagline: Custom R&D
+  title: R&D Services for Partners
   services:
-    - title: การพัฒนาวัสดุตามความต้องการเฉพาะ
-      desc: เราพัฒนาสูตรผ้า โครงสร้างชั้นลามิเนต และระบบกาวเฉพาะ ตามสภาพแวดล้อมการใช้งานและเป้าหมายด้านประสิทธิภาพของคุณ
-    - title: วิศวกรรมผลิตภัณฑ์ OEM / ODM
-      desc: เราพัฒนาสูตรผ้า โครงสร้างชั้นลามิเนต และระบบกาวเฉพาะ ตามสภาพแวดล้อมการใช้งานและเป้าหมายด้านประสิทธิภาพของคุณ
-    - title: การทดสอบและการรับรองโดยหน่วยงานภายนอก
-      desc: ใช้สิ่งอำนวยความสะดวกในการทดสอบที่ได้มาตรฐาน ISO ของเรา สำหรับการทดสอบวัสดุอย่างเป็นอิสระ การตรวจสอบความถูกต้องของผลิตภัณฑ์ และการสนับสนุนด้านการรับรอง
-  cta: ปรึกษาความต้องการด้าน R&D ของคุณ →
+    - title: Custom Material Development
+      desc: We develop custom fabric formulations, laminate stacks, and adhesive systems tailored to your operating environment and performance targets.
+    - title: OEM / ODM Product Engineering
+      desc: We develop custom fabric formulations, laminate stacks, and adhesive systems tailored to your operating environment and performance targets.
+    - title: Third-Party Testing & Certification
+      desc: Use our ISO-compliant test facilities for independent material testing, product validation, and certification support.
+  cta: Discuss your R&D requirements →
   cta_link: /contact/
+
 vision:
-  tagline: วิสัยทัศน์ของเรา
-  title: ร่วมกำหนดอนาคตของกีฬาทางน้ำ
-  body: >-
-    olagoon มุ่งมั่นที่จะเป็นผู้นำอุตสาหกรรมซัพเป่าลมด้วยนวัตกรรมอย่างต่อเนื่อง คุณภาพที่ไม่เคยลดทอน และความมุ่งมั่นอย่างแน่วแน่ต่อความปลอดภัยและความยั่งยืน ซึ่งท้ายที่สุดจะยกระดับประสบการณ์ของนักกีฬาทางน้ำทั่วโลก ศูนย์วิจัยและพัฒนา (R&D Center) ของ olagoon
-    คือสถานที่ที่ความหลงใหลมาบรรจบกับนวัตกรรม เพื่อสร้างมาตรฐานใหม่ให้กับอุตสาหกรรมกีฬาทางน้ำ
+  tagline: Our Vision
+  title: Shaping the Future of Water Sports
+  body: OLagoon strives to lead the inflatable pool industry through continuous innovation, unwavering quality, and a steadfast commitment to safety and sustainability — ultimately enriching backyard summers for families worldwide. The olagoon R&D Center is where passion meets innovation, setting new standards for the water sports industry.
+
 labs_section:
-  tagline: ห้องปฏิบัติการ
-  title: ห้องปฏิบัติการของเรา
+  tagline: Labs
+  title: Our Laboratories
   labs:
     - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
-      title: ห้องปฏิบัติการผ้า PVC
-      description: การวิจัยและทดสอบผ้าดาดฟ้า PVC อย่างต่อเนื่อง ทั้งในด้านความแข็งแรงต่อแรงดึง ความทนทานต่อรังสี UV การเสียดสี และความยืดหยุ่นที่อุณหภูมิต่ำ เพื่อรับประกันความน่าเชื่อถือในระยะยาวในสภาพแวดล้อมทางทะเล
+      title: PVC Fabric Lab
+      description: Continuous research and testing of PVC deck fabrics for tensile strength, UV resistance, abrasion, and low-temperature flexibility to ensure long-term reliability in marine environments.
       href: /randdcenter/pvc-fabric-lab/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-      title: สตูดิโอวิศวกรรมตัวเรือ
-      description: การออกแบบด้วย CAD และการวิเคราะห์ไฟไนต์เอลิเมนต์ของตัวเรือ HDPE อะลูมิเนียม และไฟเบอร์กลาส ตัวเรือทุกลำถูกจำลองแบบดิจิทัลเพื่อวิเคราะห์การกระจายความเค้นและความทนทานต่อแรงกระแทกก่อนสร้างต้นแบบชิ้นแรก
+      title: Hull Engineering Studio
+      description: CAD-driven design and finite element analysis of HDPE, aluminum, and fiberglass hulls. Every hull is digitally simulated for stress distribution and impact resistance before the first prototype is built.
       href: /technology/
-    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
-      title: ศูนย์เชื่อม RF
-      description: โรงงานเชื่อมคลื่นความถี่วิทยุ (RF) เฉพาะทางพร้อมการควบคุมอุณหภูมิและแรงดันอย่างแม่นยำ ผลิตตะเข็บที่แข็งแรงและกันอากาศได้ตามมาตรฐานอุตสาหกรรมทางทะเลสำหรับยานน้ำเป่าลม
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+      title: RF Welding Center
+      description: Dedicated radio-frequency welding facility with precision temperature and pressure control, producing high-strength, airtight seams that meet marine industry standards for inflatable craft.
       href: /randdcenter/rf-welding/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
-      title: ถังทดสอบอุทกพลศาสตร์
-      description: การทดสอบโมเดลย่อส่วนในถังทดสอบของเรา เพื่อปรับปรุงรูปทรงตัวเรือ สมรรถนะการไถลน้ำ ความมั่นคง และประสิทธิภาพการใช้เชื้อเพลิงภายใต้สภาพน้ำหนักบรรทุกและสภาพทะเลที่หลากหลาย
+      title: Hydrodynamic Test Tank
+      description: Scale-model testing in our in-house test tank to optimize hull form, planing performance, stability, and fuel efficiency across a range of load and sea conditions.
       href: /technology/
-    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      title: โรงงานผลิตต้นแบบ
-      description: สถานที่ผลิตต้นแบบขนาดจริงและประกอบอุปกรณ์ครบชุด สำหรับการสร้าง ติดตั้ง และทดสอบทางทะเลของรุ่นใหม่ ๆ ต้นแบบทุกลำต้องผ่านโปรแกรมทดสอบในน้ำอย่างน้อย 20 ชั่วโมงก่อนได้รับอนุมัติให้ผลิต
+    - image: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+      title: Prototype Workshop
+      description: Full-scale prototyping and rigging facility where new models are built, fitted, and sea-trialed. Every prototype undergoes a minimum 20-hour in-water test programme before production approval.
       href: /randdcenter/prototype-workshop/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
-      title: ห้องปฏิบัติการคุณภาพและการตรวจสอบ
-      description: ห้องปฏิบัติการประกันคุณภาพโดยเฉพาะที่ทำการทดสอบความต้านแรงดึง การทดสอบการคงลมแบบวนรอบ การทดสอบการลอกตะเข็บ และการรับรองวัสดุ เพื่อให้แน่ใจว่าบอร์ดทุกลำที่ออกจากโรงงานเป็นไปตามข้อกำหนดที่เราประกาศไว้
+      title: Quality & Inspection Lab
+      description: Dedicated quality assurance lab performing tensile testing, air-retention cycling, seam peel tests, and material certification to ensure every pool leaving the workshop meets our published specifications.
       href: /randdcenter/quality-inspection-lab/

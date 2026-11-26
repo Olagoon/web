@@ -1,71 +1,71 @@
 meta:
-  title: 'Tagapagtustos ng Kagamitang SUP Rental at mga Solusyon sa Fleet | {SITE}'
-  description: 'Tagapagtustos ng kagamitang SUP rental para sa mga operator ng rental. Mga komersyal na SUP board na mataas ang rotasyon na in-engineer para sa araw-araw na paggamit — PVC na UV-resistant, pinalakas na seam, materyales na mabilis matuyo. Palakihin ang iyong negosyong rental sa OLagoon.'
+  title: 'pool Rental Equipment Supplier & Fleet Solutions | {SITE}'
+  description: 'pool rental equipment supplier for rental operators. High-rotation commercial pools engineered for daily use — UV-resistant PVC, reinforced seams, quick-dry materials. Scale your rental business with OLagoon.'
 
 hero:
-  tagline: 'Mga Operator ng Rental'
-  title: 'Palakihin Ang Iyong Negosyong Rental<br />Nang May Kumpiyansa'
-  subtitle: 'Tagapagtustos ng kagamitang SUP rental para sa mga operator ng rental. Mga SUP board na mataas ang rotasyon na in-engineer para sa araw-araw na paggamit sa rental, 365 araw kada taon. Ang iyong kita ay walang pahinga.'
+  tagline: Rental Operators
+  title: 'Scale Your Rental Business<br />With Confidence'
+  subtitle: 'pool rental equipment supplier for rental operators. High-rotation pools engineered for daily rental use, 365 days a year. Your revenue never takes a day off.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: 'Abalang rental kiosk na may mga SUP board na handa na para sa mga bisita'
+    alt: Busy rental kiosk with pools ready for guests
 
 features:
-  title: 'Ginawa para sa Higpit ng Rental'
-  subtitle: 'Ang bawat board ay in-engineer para sa 500+ siklo ng rental nang kaunting pagpapanatili lamang.'
+  title: Built for the Rental Grind
+  subtitle: 'Every board is engineered for 500+ rental cycles with minimal maintenance.'
   items:
-    - title: '500+ Siklo ng Rental'
-      description: 'Sinusubok na makaligtas sa araw-araw na paggamit sa tubig-alat, araw, at buhangin.'
+    - title: '500+ Rental Cycles'
+      description: 'Tested to survive daily use in saltwater, sun, and sand.'
       icon: 'tabler:shield-check'
-    - title: 'Fabric na UV-Resistant'
-      description: 'Walang pagkaputla o pagkasira pagkatapos ng 1 taon na imbakan sa labas.'
+    - title: 'UV-Resistant Fabric'
+      description: 'No fading or degradation after 1 year of outdoor storage.'
       icon: 'tabler:sun'
-    - title: 'Pinalakas na Seam'
-      description: '3x na mas malakas kaysa sa karaniwang konstruksyon ng inflatable board.'
+    - title: 'Reinforced Seams'
+      description: '3x stronger than standard inflatable board construction.'
       icon: 'tabler:layers-intersect'
-    - title: 'Materyales na Mabilis Matuyo'
-      description: 'Ang mga board ay handa na para sa susunod na rental sa mas mababa sa 30 minuto.'
+    - title: 'Quick-Dry Materials'
+      description: 'Boards ready for next rental in under 30 minutes.'
       icon: 'tabler:droplet'
-    - title: 'Imbakan na Matatabunan'
-      description: 'Disenyong nakakatipid ng espasyo — mag-imbak ng 40% pang maraming board sa parehong lugar.'
+    - title: 'Stackable Storage'
+      description: 'Space-saving design — store 40% more boards in the same area.'
       icon: 'tabler:stack'
-    - title: 'Mga Laking May Kodigo ng Kulay'
-      description: 'Agad makukuha ng tauhan ang tamang board gamit ang laking may kodigo ng kulay.'
+    - title: 'Color-Coded Sizes'
+      description: 'Staff grabs the right board instantly with color-coded sizing.'
       icon: 'tabler:color-swatch'
 
 stats:
-  title: 'Mga Sukatan ng Operasyon'
+  title: Operations Metrics
   stats:
-    - title: 'Daloy ng Board'
+    - title: Board Turnover
       amount: '< 5 min'
-    - title: 'Taunang Pagpapanatili'
+    - title: Annual Maintenance
       amount: '~15 min/board'
-    - title: 'Pagpapadala ng Piyesa'
+    - title: Parts Dispatch
       amount: '48h'
-    - title: 'Rate ng Depekto'
+    - title: Defect Rate
       amount: '< 0.5%'
 
 fleet_guide:
-  title: 'Gabay sa Laki ng Fleet'
-  subtitle: 'Tantyahin ang laki ng fleet at potensyal na kita para sa iyong operasyon ng rental.'
+  title: Fleet Sizing Guide
+  subtitle: 'Estimate the fleet size and revenue potential for your rental operation.'
   tiers:
-    - label: 'Maliit na Kiosk'
+    - label: Small Kiosk
       boards: '15-20'
-      revenue: 'XX,XXX USD/taon'
-    - label: 'Katamtamang Operasyon'
+      revenue: '$XX,XXX/yr'
+    - label: Mid-Size Operation
       boards: '30-50'
-      revenue: 'XX,XXX USD/taon'
-    - label: 'Malaking Rental sa Beach'
+      revenue: '$XX,XXX/yr'
+    - label: Large Beach Rental
       boards: '50-100'
-      revenue: 'XXX,XXX USD/taon'
+      revenue: '$XXX,XXX/yr'
 
 cta:
-  title: 'Handa nang palakihin ang iyong negosyong rental?'
-  subtitle: 'Kunin ang presyo ng rental o ihambing ang mga model ng board para sa iyong operasyon.'
+  title: 'Ready to scale your rental business?'
+  subtitle: 'Get rental pricing or compare board models for your operation.'
   actions:
-    - text: 'Kunin ang Presyo ng Rental'
+    - text: 'Get Rental Pricing'
       href: '/contact/?package=rental'
       variant: 'primary'
-    - text: 'Ihambing ang mga Model ng Board'
+    - text: 'Compare Board Models'
       href: '/compare/'
       variant: 'secondary'

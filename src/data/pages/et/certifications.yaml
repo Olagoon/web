@@ -1,68 +1,68 @@
 meta:
-  title: 'Sertifikaadid — CE, ISO 9001 ja vastavus | {SITE}'
-  description: 'olagoon kvaliteedisertifikaadid: CE (EN ISO 25649), ISO 9001:2015, BSCI. Vastavus ja ohutus täispuhutavate SUP-ide tootjale.'
+  title: 'Certifications — CE, ISO 9001 & Compliance | {SITE}'
+  description: 'olagoon quality certifications: CE (EN ISO 25649), ISO 9001:2015, BSCI. Compliance and safety for an inflatable pool manufacturer.'
   keywords:
-    - 'ce certification sup'
-    - 'iso 9001 sup'
+    - 'ce certification pool'
+    - 'iso 9001 pool'
     - 'nautical compliance'
-    - 'sõudelaua sertifitseerimine'
+    - 'inflatable pool certification'
 hero:
-  tagline: 'Sertifikaadid ja standardid'
-  title: 'Kvaliteedisertifikaadid<br />ja vastavusstandardid'
-  subtitle: 'olagoon SUP-i tootmine on sertifitseeritud vastavalt rahvusvahelistele mereohutuse standarditele, kvaliteedijuhtimise süsteemidele ja keskkonnareeglitele — CE, ISO 9001, UKCA, BSCI ja REACH.'
+  tagline: Certifications & Standards
+  title: 'Quality Certifications<br />& Compliance Standards'
+  subtitle: 'olagoon pool manufacturing is certified to international marine safety standards, quality management systems, and environmental regulations — CE, ISO 9001, UKCA, BSCI, and REACH.'
   image:
     src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
-    alt: 'olagoon kvaliteedisertifikaadid ja vastavuse dokumentatsioon'
+    alt: olagoon quality certifications and compliance documentation
 content_certifications:
-  tagline: 'Meie sertifikaadid'
-  title: 'Sertifitseeritud kvaliteet,<br />globaalselt tunnustatud'
-  subtitle: 'Iga olagoon toode on toetatud sertifikaatidega, mis tõestavad meie pühendumust kvaliteedile, ohutusele ja keskkonnavastutusele.'
+  tagline: Our Certifications
+  title: 'Certified Quality,<br />Globally Recognized'
+  subtitle: 'Every olagoon product is backed by certifications that demonstrate our commitment to quality, safety, and environmental responsibility.'
   items:
-    - title: 'CE sertifitseeritud'
-      description: 'Kõik olagoon tooted vastavad Euroopa CE-märgistuse nõuetele vabaaja veesõidukitele, tagades ohutus-, tervise- ja keskkonnakaitse standardite täitmise.'
+    - title: 'CE Certified'
+      description: 'All olagoon products comply with European CE marking requirements for recreational watercraft, ensuring safety, health, and environmental protection standards are met.'
       icon: tabler:certificate
     - title: 'ISO 9001:2015'
-      description: 'Meie kvaliteedijuhtimise süsteem on ISO 9001:2015 sertifitseeritud, hõlmates täispuhutavate veesõidukite ja mereseadmete disaini, tootmist ja levitamist.'
+      description: 'Our quality management system is ISO 9001:2015 certified, covering design, manufacturing, and distribution of inflatable watercraft and marine equipment.'
       icon: tabler:clipboard-check
-    - title: 'UKCA märgistatud'
-      description: 'Suurbritannia turul müüdavad tooted kannavad UKCA märgistust, kinnitades vastavust Suurbritannia mere- ja isiklike veesõidukite määrustele.'
+    - title: 'UKCA Marked'
+      description: 'Products sold in the UK market carry UKCA marking, confirming compliance with UK regulations for marine equipment and personal watercraft.'
       icon: tabler:shield
-    - title: 'BSCI vastavus'
-      description: 'olagoon on BSCI (Business Social Compliance Initiative) auditeeritud, tõestades eetilisi tootmispraktikaid, õiglasi töötingimusi ja tarneahela vastutust.'
+    - title: 'BSCI Compliant'
+      description: 'olagoon is BSCI (Business Social Compliance Initiative) audited, demonstrating ethical manufacturing practices, fair labor conditions, and supply chain responsibility.'
       icon: tabler:heart-handshake
-    - title: 'REACH vastavus'
-      description: 'Kõik olagoon toodetes kasutatavad materjalid vastavad EL REACH keemilise ohutuse määrustele, tagades piiratud ainete puudumise meie PVC-s, EVA-s või komponentides.'
+    - title: 'REACH Compliant'
+      description: 'All materials used in olagoon products comply with EU REACH regulations for chemical safety, ensuring no restricted substances in our PVC, EVA, or components.'
       icon: tabler:flask
-    - title: 'Materjalide testimine'
-      description: 'Kangaid testitakse tõmbetugevuse, rebenevuskindluse, UV-degradatsiooni ja külmpraagile jõudluse osas. Iga tootmispartii valimitakse ja kontrollitakse.'
+    - title: 'Material Testing'
+      description: 'Fabrics are tested for tensile strength, tear resistance, UV degradation, and cold-crack performance. Every production batch is sampled and verified.'
       icon: tabler:test-pipe
 content_factory:
-  tagline: 'Tehase standardid'
-  title: 'Tootmise suurepärasus<br />— ehitatud spetsifikatsioonile'
-  subtitle: 'Meie 12 000 m² objekt töötab range kvaliteedikontrolli protokollide all igal tootmise etapil.'
+  tagline: Factory Standards
+  title: 'Manufacturing Excellence<br />— Built to Specification'
+  subtitle: 'Our 12,000 m² facility operates under strict quality control protocols at every stage of production.'
   list:
-    - 'Sissetuleva materjali kontroll: Kõik toormaterjalid — PVC-kangas, EVA-vaht, liimid, riistvara — testitakse spetsifikatsioonide suhtes enne tootmisse sissemist.'
-    - 'Protsessis kvaliteedikontroll: Igal tootmisetapil on dokumenteeritud QC kontrollpunktid. Keevitus tugevus, õmbluse joondus, ventiilide paigaldus ja liidete moment kontrollitakse liinis.'
-    - 'Rõhutestimine: Iga täispuhutav kamber rõhutestitakse 1,25× nimirõhul 24–48 tundi. Rõhu langus peab jääma alla 5% läbimise hindeks.'
-    - 'Lõplik kontroll: Valmis tooteid kontrollitakse mõõtetäpsuse, välimuse viimistluse, tarvikute täielikkuse ja pakendi terviklikkuse osas enne saatmist.'
-    - 'Partiide jälgitavus: Igal tootel on seerianumber, mis on seotud tootmispartii kirjetega, võimaldades täielikku jälgitavust toormaterjalist valmis kaubani.'
+    - 'Incoming Material Inspection: All raw materials — PVC fabric, EVA foam, adhesives, hardware — are tested against specifications before entering production.'
+    - 'In-Process Quality Control: Every production stage has documented QC checkpoints. Weld strength, seam alignment, valve installation, and fitting torque are verified inline.'
+    - 'Pressure Testing: Every inflatable chamber is pressure-tested at 1.25× rated pressure for 24–48 hours. Pressure drop must stay below 5% for a passing grade.'
+    - 'Final Inspection: Completed products are inspected for dimensional accuracy, cosmetic finish, accessory completeness, and packaging integrity before shipping.'
+    - 'Batch Traceability: Every product carries a serial number linked to production batch records, enabling full traceability from raw material to finished goods.'
 content_safety:
-  tagline: 'Mereohutuse standardid'
-  title: 'Ohutus esikohal<br />— disainitud usaldusväärseks toimimiseks'
-  subtitle: 'olagoon tooted on disainitud ja testitud vastama rahvusvahelistele mereohutuse standarditele äriliseks ja vabaaja kasutuseks.'
+  tagline: Marine Safety Standards
+  title: 'Safety First<br />— Designed for Reliable Operation'
+  subtitle: 'olagoon products are designed and tested to meet international marine safety standards for commercial and recreational use.'
   items:
     - title: 'EN ISO 25649'
-      description: 'Täispuhutavad SUP-id vastavad EN ISO 25649 standarditele ehituse, stabiilsuse, ujuvuse ja koormusmahtuvuse osas.'
+      description: 'inflatable pools comply with EN ISO 25649 standards for construction, stability, buoyancy, and load capacity.'
       icon: tabler:sailboat
-    - title: 'SOLAS vastavus'
-      description: 'Ohutusvarustus ja elupäästvahendid vastavad SOLAS (Safety of Life at Sea) nõuetele, kus kohaldatav.'
+    - title: 'SOLAS Compliance'
+      description: 'Safety equipment and life-saving appliances meet SOLAS (Safety of Life at Sea) requirements where applicable.'
       icon: tabler:lifebuoy
 cta:
-  title: 'Vajate sertifitseeritud tooteid oma projektile?'
-  subtitle: 'Võtke ühendust meie meeskonnaga, et arutada sertifitseerimise nõudeid, dokumentatsiooni ja vastavust teie turule.'
+  title: 'Need certified products for your project?'
+  subtitle: 'Contact our team to discuss certification requirements, documentation, and compliance for your market.'
   actions:
     - variant: primary
-      text: 'Küsi sertifitseerimise dokumente'
+      text: Request certification docs
       href: /contact/
-    - text: 'Vaata meie kvaliteedi lehte'
+    - text: View our quality page
       href: /quality/

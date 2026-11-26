@@ -1,54 +1,54 @@
 meta:
-  title: 'תוכנית שותפות להפצה סיטונאית של SUP | {SITE}'
-  description: 'הצטרפו לרשת ההפצה הסיטונאית הגלובלית של OLagoon ל-SUP. טריטוריות בלעדיות, תיק מוצרי SUP מתנפח מלא, תמחור סיטונאי תחרותי וניהול חשבונות ייעודי ב-50+ מדינות.'
+  title: 'pool Wholesale Distribution Partner Program | {SITE}'
+  description: "Join OLagoon's global pool wholesale distribution network. Exclusive territories, complete inflatable pools product portfolio, competitive wholesale pricing, and dedicated account management in 50+ countries."
 
 hero:
-  tagline: 'מפיצים'
-  title: 'הצטרפו לרשת<br />ההפצה הגלובלית שלנו'
-  subtitle: 'תוכנית שותפות להפצה סיטונאית של SUP עם טריטוריות בלעדיות, תיק מוצרי SUP מתנפח מלא ותמיכה ברמה עולמית. OLagoon משגרת ל-50+ מדינות — אנו מחפשים מפיצי ציוד ימי וספורט מים מבוססים.'
+  tagline: Distributors
+  title: 'Join Our Global<br />Distribution Network'
+  subtitle: "pool wholesale distribution partner program with exclusive territories, complete inflatable pools product portfolio, and world-class support. OLagoon ships to 50+ countries — we're looking for established marine and water sports distributors."
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'פעילות ההפצה והמשלוחים הגלובלית של OLagoon'
+    alt: OLagoon global distribution and shipping operations
 
 benefits:
-  title: 'מה מפיצים מקבלים'
-  subtitle: 'כל מה שצריך כדי להצליח בשוק שלכם.'
+  title: What Distributors Get
+  subtitle: 'Everything you need to succeed in your market.'
   items:
-    - 'זכויות בלעדיות בטריטוריה'
-    - 'קטלוג מוצרים מלא (SUP, אביזרים, חלקים)'
-    - 'תמחור סיטונאי תחרותי'
-    - 'חומרי שיווק ומכירה (מתורגמים)'
-    - 'תוכנית הכשרה (מוצר, מכירות, תחזוקה)'
-    - 'תמיכה בתערוכות מסחר'
-    - 'תוכנית דגימות'
-    - 'יכולת משלוח ישיר ללקוח'
-    - 'מנהל חשבון מפיצים ייעודי'
-    - 'תנאי תשלום של 45-60 יום'
+    - 'Exclusive territory rights'
+    - 'Complete product catalog (pool, accessories, parts)'
+    - 'Competitive wholesale pricing'
+    - 'Marketing & sales materials (translated)'
+    - 'Training program (product, sales, maintenance)'
+    - 'Trade show support'
+    - 'Sample program'
+    - 'Drop-ship capability'
+    - 'Dedicated distributor account manager'
+    - '45-60 day payment terms'
 
 coverage:
-  title: 'הפצה נוכחית'
-  subtitle: 'OLagoon משרתת כיום את השווקים האלה ישירות.'
+  title: Current Distribution
+  subtitle: 'OLagoon currently serves these markets directly.'
   regions:
-    - name: 'אירופה'
-      countries: 'צרפת, גרמניה, בריטניה, ספרד, איטליה, הולנד, שוודיה, נורווגיה, פולין, יוון'
-    - name: 'אסיה'
-      countries: 'יפן, קוריאה הדרומית, סין, תאילנד, סינגפור'
-    - name: 'המזרח התיכון'
+    - name: Europe
+      countries: 'France, Germany, UK, Spain, Italy, Netherlands, Sweden, Norway, Poland, Greece'
+    - name: Asia
+      countries: 'Japan, South Korea, China, Thailand, Singapore'
+    - name: Middle East
       countries: 'UAE, Saudi Arabia'
-    - name: 'אמריקות'
-      countries: 'ארצות הברית, קנדה, ברזיל, מקסיקו'
-    - name: 'אוקיאניה'
+    - name: Americas
+      countries: 'USA, Canada, Brazil, Mexico'
+    - name: Oceania
       countries: 'Australia, New Zealand'
-    - name: 'אפריקה'
+    - name: Africa
       countries: 'South Africa, Morocco'
 
 cta:
-  title: 'מוכנים להפוך למפיץ?'
-  subtitle: 'הגישו מועמדות לתוכנית המפיצים שלנו או הורידו את ערכת המידע למפיצים.'
+  title: 'Ready to become a distributor?'
+  subtitle: 'Apply for our distributor program or download our distributor information kit.'
   actions:
-    - text: 'הגישו מועמדות לתוכנית המפיצים'
+    - text: 'Apply for Distributor Program'
       href: '/contact/?partner=distributor'
       variant: 'primary'
-    - text: 'הורידו את ערכת המפיצים'
+    - text: 'Download Distributor Kit'
       href: '/resources/download-catalog/'
       variant: 'secondary'

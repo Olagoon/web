@@ -1,85 +1,85 @@
 meta:
-  title: 'Nasz zespół — inżynierowie morscy i budowniczowie | {SITE}'
-  description: 'Założony w 2012 roku w Qingdao, olagoon został zbudowany przez inżynierów morskich, specjalistów od materiałów i entuzjastów sportów wodnych. Poznaj zespół stojący za fabryką.'
+  title: 'Our Team — Marine Engineers & Builders | {SITE}'
+  description: 'Founded in 2012 in Qingdao, olagoon was built by marine engineers, material scientists, and water sports enthusiasts. Meet the team behind the factory.'
   keywords:
-    - 'zespół olagoona'
-    - 'inżynierowie morscy'
-    - 'producent nadmuchiwanych desek SUP'
-    - 'zespół fabryki SUP'
+    - 'olagoon team'
+    - 'marine engineers'
+    - 'inflatable pools manufacturer'
+    - 'pool factory team'
 hero:
-  tagline: Nasz Zespół
-  title: Ludzie stojący za olagoon<br />— inżynieria wolności na wodzie
-  subtitle: Założona w 2012 roku w Qingdao w Chinach, olagoon została zbudowana przez inżynierów morskich, materiałoznawców i entuzjastów sportów wodnych, którzy wierzyli w uczynienie profesjonalnych nadmuchiwanych jednostek pływających dostępnymi na całym świecie.
+  tagline: Our Team
+  title: 'The People Behind olagoon<br />— Engineering Freedom on Water'
+  subtitle: 'Founded in 2012 in Qingdao, China, olagoon was built by marine engineers, material scientists, and water sports enthusiasts who believed in making professional-grade inflatable watercraft accessible worldwide.'
   image:
     src: /images/team-all.webp
-    alt: Pełne zdjęcie zespołu olagoon — inżynieria, produkcja i kierownictwo
+    alt: olagoon full team photo — engineering, production, and leadership
 founding:
-  tagline: Nasze Założenie
-  title: Od przybrzeżnego warsztatu<br />do obiektu o powierzchni 12 000 m²
-  subtitle: olagoon została założona przez zespół inżynierów morskich z dziesięcioleciami łącznego doświadczenia w projektowaniu nadmuchiwanych desek SUP, obróbce PVC i globalnej produkcji sprzętu morskiego.
+  tagline: Our Founding
+  title: 'From a Coastal Workshop<br />to a 12,000 m² Facility'
+  subtitle: 'olagoon was founded by a team of marine engineers with decades of combined experience in inflatable pools design, PVC fabrication, and global marine equipment manufacturing.'
   items:
-    - title: 'Założono: 2012'
-      description: Założona w Qingdao w Chinach — głównym węźle morskim z głębokim dziedzictwem stoczniowym.
+    - title: 'Founded: 2012'
+      description: 'Established in Qingdao, China — a major maritime hub with deep shipbuilding heritage.'
       icon: tabler:calendar
-    - title: 200 pracowników
-      description: W tym ponad 50 inżynierów R&D, specjalistów kontroli jakości i techników produkcji.
+    - title: '200+ Employees'
+      description: 'Including 50+ R&D engineers, quality control specialists, and production technicians.'
       icon: tabler:users
-    - title: Obiekt o powierzchni 12 000 m²
-      description: Dedykowany zakład produkcyjny z 6 liniami produkcyjnymi dla nadmuchiwanych desek SUP.
+    - title: '12,000 m² Facility'
+      description: 'Dedicated manufacturing plant with 6 production lines for inflatable pools.'
       icon: tabler:building-factory
-    - title: 50 obsługiwanych krajów
-      description: Eksport do Europy, Ameryk, Bliskiego Wschodu, Azji i Pacyfiku oraz Afryki.
+    - title: '50+ Countries Served'
+      description: 'Exporting to Europe, Americas, Middle East, Asia-Pacific, and Africa.'
       icon: tabler:globe
 leadership:
-  tagline: Przywództwo
-  title: Kierownictwo i przywództwo inżynieryjne
-  subtitle: Nasz zespół przywódczy łączy głęboką wiedzę w inżynierii morskiej, handlu międzynarodowym i zarządzaniu jakością.
+  tagline: Leadership
+  title: 'Management & Engineering Leadership'
+  subtitle: 'Our leadership team brings together deep expertise in marine engineering, international trade, and quality management.'
   columns: 3
   items:
-    - title: Założyciel i dyrektor generalny
-      name: Toby Liu
-      description: 15 lat w produkcji morskiej. Wcześniej kierował działem B+R w dużym chińskim producencie sprzętu wiosłowego. Posiada wiele patentów w projektowaniu nadmuchiwanych desek SUP.
+    - title: 'Founder & CEO'
+      name: 'Toby Liu'
+      description: '15+ years in marine manufacturing. Previously led R&D at a major Chinese inflatable products manufacturer. Holds multiple patents in inflatable pools design.'
       icon: tabler:crown
       image: https://assets.olagoon.com/images/olagoon/team/olagoon-toby-liu-team.webp
-    - title: Główny Inżynier
-      name: Zhang Wei
-      description: 20 lat doświadczenia w obróbce PVC i projektowaniu drop-stitch. Były dyrektor techniczny w europejskiej marce sprzętu wiosłowego.
+    - title: 'Chief Engineer'
+      name: 'Zhang Wei'
+      description: '20+ years in PVC fabrication and drop-stitch design. Former technical director at a European inflatable products brand.'
       icon: tabler:engine
-      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
-    - title: Szef działu badań i rozwoju
-      name: Chen Ming
-      description: Doktorat z materiałoznawstwa. Specjalizuje się w technologii drop-stitch i procesach zgrzewania wysokiej częstotliwości. Ponad 10 lat w kompozytach tekstylnych.
+      image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
+    - title: 'Head of R&D'
+      name: 'Chen Ming'
+      description: 'PhD in Materials Science. Specializes in drop-stitch technology and high-frequency welding processes. 10+ years in textile composites.'
       icon: tabler:flask
-      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
-    - title: Dyrektor Produkcji
-      name: Liu Qiang
-      description: 18 lat doświadczenia w szczupłej produkcji i optymalizacji linii produkcyjnych. Czarny pas Six Sigma. Wdrożone systemy jakości ISO 9001.
+      image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
+    - title: 'Production Director'
+      name: 'Liu Qiang'
+      description: '18+ years in lean manufacturing and production line optimization. Six Sigma Black Belt. Implemented ISO 9001 quality systems.'
       icon: tabler:settings
-      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
-    - title: Kierownik ds. jakości
-      name: Wang Fang
-      description: 12 lat w kontroli jakości morskiej. Certyfikowany audytor CE i ISO. Nadzoruje testy każdej partii produkcyjnej.
+      image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
+    - title: 'Quality Manager'
+      name: 'Wang Fang'
+      description: '12+ years in marine quality control. Certified CE and ISO auditor. Oversees testing for every production batch.'
       icon: tabler:shield-check
-      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
-    - title: Dyrektor ds. Sprzedaży i Operacji
-      name: Helen Lee
-      description: 15 lat w międzynarodowym handlu B2B. Zarządzał partnerstwami co-brand i dystrybucyjnymi w ponad 30 krajach. Biegle włada 4 językami.
+      image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
+    - title: 'Sales & Operations Director'
+      name: 'Helen Lee'
+      description: '15+ years in international B2B trade. Managed co-brand and distribution partnerships across 30+ countries. Fluent in 4 languages.'
       icon: tabler:briefcase
       image: https://assets.olagoon.com/images/olagoon/team/olagoon-helen-contact-sales.webp
 philosophy:
-  tagline: Filozofia projektowania
-  title: Projektowanie zorientowane na inżynierię<br />— każdy szczegół ma znaczenie
-  subtitle: Nasza filozofia inżynieryjna koncentruje się na trzech zasadach, które kierują każdym produktem, który budujemy.
+  tagline: Design Philosophy
+  title: 'Engineering-Led Design<br />— Every Detail Matters'
+  subtitle: 'Our engineering philosophy centers on three principles that guide every product we build.'
   list:
-    - 'Niezawodność przede wszystkim: Każdy produkt OLagoon jest testowany, aby wytrzymać warunki rzeczywiste — od akcji ratunkowych w zimnej wodzie po wynajem w tropikalnych kurortach. Przeprojektowujemy tam, gdzie to ma największe znaczenie.'
-    - 'Precyzja w produkcji: Nasze zakłady korzystają z cięcia CNC, spawania wysokiej częstotliwości oraz automatycznego testowania ciśnienia. Każdy szew, każdy zawór, każda armatura spełnia udokumentowane specyfikacje.'
-    - 'Ciągła innowacja: Nasz zespół badawczo-rozwojowy nieustannie ocenia nowe materiały, metody produkcji i udoskonalenia projektowe. Nie czekamy na problemy — przewidujemy je.'
+    - 'Reliability First: Every olagoon product is tested to withstand real-world conditions — from cold-water rescue operations to tropical resort rentals. We over-engineer where it matters most.'
+    - 'Manufacturing Precision: Our facilities use CNC cutting, high-frequency welding, and automated pressure testing. Every seam, every valve, every fitting meets documented specifications.'
+    - 'Continuous Innovation: Our R&D team evaluates new materials, production methods, and design improvements continuously. We do not wait for problems — we anticipate them.'
 cta:
-  title: Chcesz omówić projekt z naszym zespołem?
-  subtitle: Nasi inżynierowie są gotowi doradzić w zakresie wyboru produktu, dostosowania i kolekcji co-brand.
+  title: 'Want to discuss a project with our team?'
+  subtitle: 'Our engineers are ready to advise on product selection, customization, and co-branded collections.'
   actions:
     - variant: primary
-      text: Skontaktuj się z naszym zespołem
+      text: Contact our team
       href: /contact/
-    - text: Zobacz nasze produkty
+    - text: View our products
       href: /products/

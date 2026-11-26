@@ -1,117 +1,117 @@
 meta:
-  title: 'Dobavitelj opreme SUP za letovišča in hotele | Rešitve flot za letovišča | {SITE}'
-  description: 'Dobavitelj opreme SUP za hotele in letovišča po vsem svetu. Komercialne flote napihljivih SUP desk, označevanje po meri, usposabljanje osebja in paketi, optimizirani za donosnost, od 20 do 100+ desk.'
+  title: 'Resort & Hotel pool Equipment Supplier | Resort Fleet Solutions | {SITE}'
+  description: 'Resort pool equipment supplier for hotels and resorts worldwide. Commercial-grade inflatable pools fleets, custom branding, staff training, and ROI-optimized packages from 20 to 100+ boards.'
 
 hero:
-  tagline: 'Letovišča in hoteli'
-  title: 'Spremenite svojo obalo v center prihodkov<br />s premijskimi flotami SUP'
-  subtitle: 'OLagoon opremlja letovišča po vsem svetu s komercialnimi flotami napihljivih SUP desk — od začetnih paketov z 20 deskami do vodilnih programov s 100+ deskami. Vključno z označevanjem po meri, usposabljanjem osebja in rezervnimi deli.'
+  tagline: Resorts & Hotels
+  title: 'Turn Your Waterfront Into a Revenue Centre<br />With Premium pool Fleets'
+  subtitle: 'OLagoon equips resorts worldwide with commercial-grade inflatable pools fleets — from 20-board starter packages to 100+ board flagship programs. Custom branding, staff training, and replacement parts included.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: 'Gosti letovišča uživajo v SUP deskanju na nedotaknjeni plaži'
+    alt: Resort guests enjoying poolsing on a pristine beach
 
 roi_section:
-  title: 'Model prihodkov letovišča od SUP'
-  subtitle: 'Kako letovišča z eno samo naložbo ustvarjajo 50,000 - 200,000+ USD letnega prihodka iz najema SUP.'
+  title: 'The Resort pool Revenue Model'
+  subtitle: 'How resorts generate $50,000 - $200,000+ annual pool rental income with a single investment.'
   metrics:
-    - metric: '50K–200K+ USD'
-      label: 'Letni prihodek od SUP'
-      detail: 'Na letovišče, glede na velikost flote in zasedenost'
-    - metric: '4–6 mesecev'
-      label: 'Povprečno obdobje povrata'
-      detail: 'Povračilo celotne naložbe v floto v eni sezoni'
+    - metric: '$50K–$200K+'
+      label: Annual pool Revenue
+      detail: Per resort, based on fleet size and occupancy
+    - metric: '4–6 Months'
+      label: Average Payback Period
+      detail: Recoup full fleet investment within one season
     - metric: '40%'
-      label: 'Povečanje prihodkov'
-      detail: 'Povprečno povečanje po prehodu na flote OLagoon'
+      label: Revenue Increase
+      detail: Average boost after switching to OLagoon fleets
     - metric: '500+'
-      label: 'Ciklov najema na desko'
-      detail: 'Komercialna trajnost za vsakodnevno uporabo'
+      label: Rental Cycles Per Board
+      detail: Commercial-grade durability for daily use
 
 packages:
-  title: 'Sistem paketov za letovišča'
-  subtitle: 'Izberite paket, ki ustreza vaši kapaciteti gostov in ciljem prihodkov. Vsi paketi vključujejo 12-mesečno garancijo in certifikacijo CE.'
+  title: Resort Package System
+  subtitle: 'Choose the package that fits your guest capacity and revenue goals. All packages include 12-month warranty and CE certification.'
   items:
-    - name: 'Začetni paket'
-      tagline: 'Za butična letovišča, do 20 gostov dnevno'
+    - name: Starter Package
+      tagline: 'For boutique resorts, up to 20 guests/day'
       features:
-        - '20 SUP desk (3 velikosti za odrasle/otroke)'
-        - '20 vesel (nastavljiva) + 20 rešilnih jopičev'
-        - '4 dvojno delujoče črpalke (električna po želji)'
-        - '2 stojali za shranjevanje + reparaturni komplet'
-        - 'Tisk logotipa po meri na deskah'
-        - '12-mesečna garancija + certifikat CE'
-      revenue: '50K–80K USD letni potencial prihodkov'
-      cta_text: 'Pridobite začetni paket'
-    - name: 'Premium paket'
-      tagline: 'Za velika letovišča, 50-100 gostov dnevno'
+        - '20 pools (3 sizes for adults/kids)'
+        - '20 paddles (adjustable) + 20 life vests'
+        - '4 dual-action pumps (electric optional)'
+        - '2 storage racks + repair kit'
+        - 'Custom logo print on boards'
+        - '12-month warranty + CE certified'
+      revenue: '$50K–$80K annual revenue potential'
+      cta_text: 'Get Starter Package'
+    - name: Premium Package
+      tagline: 'For large resorts, 50-100 guests/day'
       features:
-        - '50 SUP desk (5 velikosti, mešana flota)'
-        - '50 vesel + 50 rešilnih jopičev'
-        - '10 dvojno delujočih črpalk + 2 električni črpalki'
-        - '5 stojal za shranjevanje + 2 vozička'
-        - 'Popolno označevanje po meri (deske, vesla, torbe)'
-        - 'Usposabljanje osebja (spletno)'
-        - 'Odpošiljanje rezervnih delov v 48 urah'
-        - '12-mesečna garancija + certifikat CE'
-      revenue: '120K–200K+ USD letni potencial prihodkov'
+        - '50 pools (5 sizes, mixed fleet)'
+        - '50 paddles + 50 life vests'
+        - '10 dual-action pumps + 2 electric pumps'
+        - '5 storage racks + 2 roller carts'
+        - 'Full custom branding (boards, paddles, bags)'
+        - 'Staff training session (online)'
+        - '48-hour replacement parts dispatch'
+        - '12-month warranty + CE certified'
+      revenue: '$120K–$200K+ annual revenue potential'
       popular: true
-      cta_text: 'Pridobite premium paket'
-    - name: 'Vodilni paket'
-      tagline: 'Za ultra-premijska letovišča, 100+ gostov dnevno'
+      cta_text: 'Get Premium Package'
+    - name: Flagship Package
+      tagline: 'For ultra-premium resorts, 100+ guests/day'
       features:
-        - '100+ SUP desk (celoten razpon velikosti)'
-        - 'Popoln komplet dodatkov (vesla, jopiči, črpalke, vozički)'
-        - 'Usposabljanje osebja na lokaciji (2 dneva)'
-        - 'Posvečen upravitelj računa'
-        - 'Prednostni rezervni deli (odpošiljanje v 24 h)'
-        - 'Popolno označevanje po meri (deske + dodatki)'
-        - 'Marketinški foto/video paket'
-        - '24-mesečna garancija + certifikat CE'
-      revenue: '200K+ USD letni potencial prihodkov'
-      cta_text: 'Pridobite vodilni paket'
+        - '100+ pools (full size range)'
+        - 'Complete accessory set (paddles, vests, pumps, carts)'
+        - 'On-site staff training (2 days)'
+        - 'Dedicated account manager'
+        - 'Priority replacement parts (24h dispatch)'
+        - 'Full custom branding (boards + accessories)'
+        - 'Marketing photo/video package'
+        - '24-month warranty + CE certified'
+      revenue: '$200K+ annual revenue potential'
+      cta_text: 'Get Flagship Package'
 
 case_study:
-  quote: 'Od prehoda na OLagoon se je naš prihodek iz najema SUP povečal za 40 %. Stroški zamenjave desk so se zmanjšali za 60 %. Celotno naložbo v floto smo povrnili v 4 mesecih.'
-  author: 'Vodja vodnih dejavnosti'
-  location: 'petzvezdično letovišče, Maldivi'
+  quote: 'Since switching to OLagoon, our pool rental revenue increased 40%. Board replacement costs dropped 60%. We recouped our full fleet investment in 4 months.'
+  author: 'Water Activities Manager'
+  location: '5-star resort, Maldives'
   results:
-    - label: 'Rast prihodkov'
+    - label: 'Revenue Growth'
       value: '+40%'
-    - label: 'Zmanjšanje stroškov'
+    - label: 'Cost Reduction'
       value: '-60%'
-    - label: 'Obdobje povrata'
-      value: '4 meseci'
+    - label: 'Payback Period'
+      value: '4 Months'
 
 features:
-  title: 'Zakaj letovišča izbirajo OLagoon'
-  subtitle: 'Komercialna trajnost, globalna logistika in partner, ki razume gostinstvo.'
+  title: Why Resorts Choose OLagoon
+  subtitle: 'Commercial-grade durability, global logistics, and a partner who understands hospitality.'
   items:
-    - title: '500+ ciklov najema'
-      description: 'Vsaka deska je preskušena, da preživi 500+ ciklov najema v slani vodi, soncu in pesku.'
+    - title: '500+ Rental Cycles'
+      description: 'Every board is tested to survive 500+ rental cycles in saltwater, sun, and sand.'
       icon: 'tabler:shield-check'
-    - title: 'Odpošiljanje delov v 48 h'
-      description: 'Rezervni deli se odpošljejo v 48 urah — vaš prihodek iz najema nikoli ne obstane.'
+    - title: '48h Parts Dispatch'
+      description: 'Replacement parts shipped within 48 hours — your rental revenue never stops.'
       icon: 'tabler:truck-delivery'
-    - title: 'Označevanje po meri'
-      description: 'Uskladite identiteto svojega letovišča z barvami in logotipom po meri na vsaki deski.'
+    - title: 'Custom Branding'
+      description: 'Match your resort identity with custom colors and logo on every board.'
       icon: 'tabler:palette'
-    - title: 'Usposabljanje osebja'
-      description: 'Spletni programi usposabljanja in usposabljanja na lokaciji za vašo ekipo za dejavnosti.'
+    - title: 'Staff Training'
+      description: 'Online and on-site training programs for your activities team.'
       icon: 'tabler:school'
-    - title: 'Globalna logistika'
-      description: 'Dostava v 50+ držav z možnostmi združenega prevoza.'
+    - title: 'Global Logistics'
+      description: 'Shipping to 50+ countries with consolidated freight options.'
       icon: 'tabler:world'
-    - title: 'Certifikat CE'
-      description: 'Vsa oprema je certificirana CE, ISO 9001:2015 — varnost in kakovost sta zagotovljeni.'
+    - title: 'CE Certified'
+      description: 'All equipment CE certified, ISO 9001:2015 — safety and quality guaranteed.'
       icon: 'tabler:certificate'
 
 cta:
-  title: 'Pripravljeni spremeniti svojo obalo v center prihodkov?'
-  subtitle: 'Pridobite ponudbo za paket za letovišča ali prenesite naš popoln katalog za letovišča.'
+  title: 'Ready to turn your waterfront into a revenue centre?'
+  subtitle: 'Get your resort package quote or download our complete resort catalog.'
   actions:
-    - text: 'Pridobite paket za letovišča'
+    - text: 'Get Resort Package'
       href: '/contact/?package=resort'
       variant: 'primary'
-    - text: 'Prenesite katalog za letovišča'
+    - text: 'Download Resort Catalog'
       href: '/resources/download-catalog/'
       variant: 'secondary'

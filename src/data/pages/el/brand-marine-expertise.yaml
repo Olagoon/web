@@ -1,72 +1,72 @@
 meta:
-  title: 'Ναυτική τεχνογνωσία — μηχανική σε κάθε γάστρα | {SITE}'
-  description: 'Δεκαετίες ναυτικής μηχανικής σε κάθε γάστρα. Η olagoon κατέχει την κατασκευή drop stitch, το ναυτικό PVC και τον επαγγελματικό σχεδιασμό φουσκωτών SUP.'
+  title: 'Marine Expertise — Engineering in Every Hull | {SITE}'
+  description: 'Decades of marine engineering in every hull. olagoon masters drop stitch, marine PVC, and professional inflatable pools design.'
   keywords:
-    - 'ναυτική μηχανική'
-    - 'κατασκευαστής φουσκωτών σανίδων SUP'
-    - 'παραγωγή paddle board'
+    - 'marine engineering'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: Θαλάσσια Τεχνογνωσία
-  title: Δεκαετίες Θαλάσσιας Μηχανικής<br />σε Κάθε Κύτος
-  subtitle: Η olagoon συνδυάζει βαθιά επιστήμη υλικών, κατασκευή ακριβείας και δοκιμές πραγματικού κόσμου για να παράγει σκάφη που αποδίδουν όταν έχει σημασία.
+  tagline: Marine Expertise
+  title: 'Decades of Marine Engineering<br />in Every Hull'
+  subtitle: 'olagoon combines deep material science, precision manufacturing, and real-world testing to produce watercraft that perform when it matters.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: Η ομάδα ναυτικής μηχανικής και Έρευνας & Ανάπτυξης της olagoon σε δράση
+    alt: olagoon marine engineering and R&D team at work
 expertise_materials:
-  tagline: Επιστήμη Υλικών
-  title: Επιλέγοντας το Σωστό Υλικό<br />για Κάθε Εφαρμογή
-  subtitle: Δουλεύουμε με δύο βασικά υλικά — το καθένα επιλεγμένο για συγκεκριμένες περιπτώσεις χρήσης και απαιτήσεις απόδοσης.
+  tagline: Material Science
+  title: 'Choosing the Right Material<br />for Every Application'
+  subtitle: 'We work with two core materials — each selected for specific use cases and performance requirements.'
   columns: 3
   items:
-    - title: PVC Θαλάσσιας Ποιότητας
-      description: Ύφασμα PVC 1100 denier — το πιο ευέλικτο υλικό μας. Σταθεροποιημένο έναντι UV, ανθεκτικό στη φθορά και σύμφωνο με τον κανονισμό REACH. Ιδανικό για σανίδες SUP όπου το βάρος και η οικονομική αποδοτικότητα μετράνε.
+    - title: Marine-Grade PVC
+      description: '1100 denier PVC fabric — our most versatile material. UV-stabilized, abrasion-resistant, and REACH compliant. Ideal for pools where weight and cost efficiency matter.'
       icon: tabler:droplet
-    - title: Fibreglass & Πολυαιθυλένιο
-      description: SUP με επένδυση fiberglass για premium ακαμψία και ολίσθηση. Πολυαιθυλένιο rotomoulded για βαρέως τύπου χρήση ενοικίασης και διάσωσης που απαιτεί μέγιστη αντοχή σε κρούσεις.
+    - title: Fibreglass & Polyethylene
+      description: 'Fibreglass-laminated pools for premium stiffness and glide. Rotomoulded polyethylene for heavy-duty rental and rescue use requiring maximum impact resistance.'
       icon: tabler:building-arch
 expertise_manufacturing:
-  tagline: Δυνατότητες Παραγωγής
-  title: Κατασκευή Ακριβείας<br />σε Κάθε Βήμα
-  subtitle: Η εγκατάστασή μας 12.000 m² είναι εξοπλισμένη με εξειδικευμένα μηχανήματα για κάθε στάδιο παραγωγής.
+  tagline: Manufacturing Capabilities
+  title: 'Precision Manufacturing<br />at Every Step'
+  subtitle: 'Our 12,000 m² facility is equipped with specialized machinery for every stage of production.'
   columns: 2
   items:
-    - title: Κοπή CNC
-      description: Η κοπή με υπολογιστή εξασφαλίζει ακριβή, επαναλαμβανόμενα πάνελ υφάσματος με ελάχιστα απόβλητα. Κάθε κομμάτι ταιριάζει ακριβώς όπως σχεδιάστηκε.
+    - title: CNC Cutting
+      description: 'Computer-controlled cutting ensures precise, repeatable fabric panels with minimal waste. Every piece fits exactly as designed.'
       icon: tabler:cpu
-    - title: Συγκόλληση Υψηλής Συχνότητας
-      description: Η βιομηχανική συγκόλληση HF δημιουργεί ραφές ισχυρότερες από το βασικό υλικό. Ο συνεπής έλεγχος θερμοκρασίας και πίεσης εξασφαλίζει αεροστεγείς σφραγίσεις σε κάθε παραγωγή.
+    - title: High-Frequency Welding
+      description: 'Industrial HF welding creates seams stronger than the base material. Consistent temperature and pressure control ensures air-tight seals across every production run.'
       icon: tabler:bolt
-    - title: Συναρμολόγηση Πυρήνα Drop Stitch
-      description: Χιλιάδες πολυεστερικές κλωστές συνδέουν τα πάνω και κάτω στρώματα υφάσματος, επιτρέποντας φούσκωμα υψηλής πίεσης (15-20 PSI) για άκαμπτες, σταθερές σανίδες SUP.
+    - title: Drop Stitch Core Assembly
+      description: 'Thousands of polyester threads connect top and bottom fabric layers, allowing high-pressure inflation (15-20 PSI) for rigid, stable pools.'
       icon: tabler:building-arch
-    - title: Δοκιμές Πίεσης
-      description: Κάθε φουσκωτό προϊόν υποβάλλεται σε δοκιμή πίεσης πριν από την αποστολή. Οι σανίδες δοκιμάζονται στο 1,25x της ονομαστικής πίεσης — αν αντέξει εκεί, θα αποδώσει στο νερό.
+    - title: Pressure Testing
+      description: 'Every inflatable product is pressure-tested before shipping. Pools are tested at 1.25x rated pressure — if it holds there, it will perform on the water.'
       icon: tabler:wind
-    - title: Δοκιμή Αντοχής Ραφών
-      description: Τυχαία δείγματα από κάθε παρτίδα παραγωγής υποβάλλονται σε καταστροφική δοκιμή αντοχής ραφής. Τα αποτελέσματα καταγράφονται και είναι ιχνηλάσιμα σε συγκεκριμένες παραγωγές.
+    - title: Seam Strength Testing
+      description: 'Random samples from each production batch undergo destructive seam strength testing. Results are logged and traceable to specific production runs.'
       icon: tabler:files
-    - title: Δοκιμές στο Νερό
-      description: Κάθε μοντέλο SUP υποβάλλεται σε θαλάσσιες δοκιμές πριν από την πιστοποίηση. Οι δοκιμές πραγματικών συνθηκών σε παράκτιες συνθήκες επικυρώνουν την απόδοση, τον χειρισμό και τη σταθερότητα.
+    - title: Water Testing
+      description: 'Every model undergoes sea trials before certification. Real-world testing in coastal conditions validates performance, handling, and stability.'
       icon: tabler:droplet
 expertise_design:
-  tagline: Σχεδιασμός & Μηχανική
-  title: Σχεδιασμένο για Πραγματικές Συνθήκες
-  subtitle: Η φιλοσοφία σχεδιασμού μας ξεκινά με το πώς θα χρησιμοποιηθεί η σανίδα — και στη συνέχεια χτίζει τη μηχανική γύρω από αυτήν την περίπτωση χρήσης.
+  tagline: Design & Engineering
+  title: 'Engineered for Real Conditions'
+  subtitle: 'Our design philosophy starts with how the pool will be used — then builds the engineering around that use case.'
   items:
-    - title: Σχεδιασμός Απόδοσης Γάστρας
-      description: Το σχήμα κάθε γάστρας ρυθμίζεται για την περίπτωσή της χρήσης — πλώρες εκτόπισσης για ολίσθηση στην περιπλάνηση, επιπλέον rocker για ευελιξία στο σερφ, επίπεδα σταθερά προφίλ για ψάρεμα και yoga.
-    - title: Ασφάλεια Drop-Stitch
-      description: Κάθε σανίδα διαθέτει άκαμπτο πυρήνα drop-stitch με ενισχυμένα rails. Εάν ένα τμήμα υποστεί ζημιά, η δομή drop-stitch υψηλής αντοχής σε εφελκυσμό διατηρεί τη σανίδα λειτουργική.
-    - title: Εργονομική Διάταξη Καταστρώματος
-      description: Η ζωνοποίηση deck-pad, η θέση χειρολαβής μεταφοράς και τα σημεία τοποθέτησης σχεδιάζονται γύρω από την άνεση του αναβάτη κατά την παρατεταμένη χρήση — είτε για περιπλάνηση, ψάρεμα ή περιπολία.
-    - title: Προσαρμοσμένη Διαμόρφωση
-      description: Χρώματα rails, διαμόρφωση deck pad, βάσεις αξεσουάρ, χωρητικότητα εξοπλισμού — κάθε μοντέλο μπορεί να προσαρμοστεί σε συγκεκριμένες επιχειρησιακές απαιτήσεις.
+    - title: Performance Hull Design
+      description: 'Each pool is tuned for its use case — compact footprints for plunge soaking, family-sized layouts for play, and generous swim areas for daily laps.'
+    - title: Drop-Stitch Safety
+      description: 'Every pool features a rigid drop-stitch core with reinforced walls. If a section is damaged, the high-tensile drop-stitch structure keeps the pool operational.'
+    - title: Ergonomic Deck Layout
+      description: 'Deck-pad zoning, carry-handle position, and mounting points are designed around rider comfort during extended use — whether touring, fishing, or patrolling.'
+    - title: Custom Configuration
+      description: 'Rail colors, deck pad configuration, accessory mounts, gear capacity — each model can be customized to match specific operational requirements.'
 cta:
-  title: Έχετε κατά νου μια συγκεκριμένη εφαρμογή;
-  subtitle: Η ομάδα μηχανικών μας μπορεί να συμβουλεύσει για την επιλογή υλικών, τον σχεδιασμό και την κατασκευή για το έργο σας.
+  title: 'Have a specific application in mind?'
+  subtitle: 'Our engineering team can advise on material selection, design, and manufacturing for your project.'
   actions:
     - variant: primary
-      text: Ρωτήστε τους μηχανικούς μας
+      text: Ask our engineers
       href: /contact/
-    - text: Δείτε τη γκάμα προϊόντων
+    - text: View product range
       href: /products/

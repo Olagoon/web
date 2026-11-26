@@ -1,34 +1,39 @@
 meta:
-  title: 'Brandet olagoon — Marine Engineering & Partnerskab | {SITE}'
-  description: 'olagoon: et oppusteligt marinebrand, der samarbejder med vandsportsbrands, distributører, nautiske klubber og virksomheder gennem co-brand-kollektioner, private label og landsdækkende distributionsprogrammer.'
+  title: 'The olagoon Brand — Marine Engineering & Partnership | {SITE}'
+  description: 'olagoon: an inflatable marine brand partnering with water sports brands, distributors, nautical clubs, and enterprises through co-branded collections, private label, and country distribution programs.'
   keywords:
-    - 'brandet olagoon'
-    - 'producent af oppustelige SUP'
-    - 'SUP-fabrik Kina'
+    - 'olagoon brand'
+    - 'inflatable pools brand'
+    - 'china pool manufacturer'
 hero:
-  tagline: Mærke
+  tagline: Brand
   title: '{BRAND}'
-  subtitle: Ocean-ydeevne til enhver surfer
-  cta: Udforsk udstyret →
+  subtitle: Ocean Performance for Every Surfer
+  cta: Explore Gear →
   cta_link: /products/
-  secondary_cta: Lær at surfe
+  secondary_cta: Explore Pools
   secondary_cta_link: /guides/
+
 position:
-  tagline: Stilling
-  subtitle: Ocean-ydeevne til enhver surfer
+  tagline: Position
+  subtitle: Ocean Performance for Every Surfer
+
 products_section:
-  tagline: Produkter
-  cta: Alle produkter →
+  tagline: Products
+  cta: All Products →
   cta_link: /products/
+
 global_section:
-  tagline: Globalt
-  title: Fås i {count} regioner
+  tagline: Global
+  title: Available in {count} Regions
+
 social_section:
-  tagline: Sociale medier
-  title: Det, surferne læser
-  read_guide: Læs guiden →
+  tagline: Social
+  title: What surfers are reading
+  read_guide: Read guide →
+
 cta_section:
-  title: Begynd din oceanrejse
-  subtitle: Ethvert produkt CE-certificeret. Dækket af garanti. Designet til ægte surf.
-  cta_suffix: →
-  secondary_cta: Om {BRAND}
+  title: Start your ocean journey
+  subtitle: Every product CE certified. Backed by warranty. Engineered for real backyards.
+  cta_suffix: '→'
+  secondary_cta: About {BRAND}

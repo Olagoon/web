@@ -1,111 +1,117 @@
 meta:
-  title: Решения для флота SUP курорта | {SITE}
-  description: Полные решения для флота SUP для курортов и отелей. Доски коммерческого класса, индивидуальный брендинг, обучение персонала и пакеты с оптимизированной окупаемостью от 20 до 100 досок.
+  title: 'Resort & Hotel pool Equipment Supplier | Resort Fleet Solutions | {SITE}'
+  description: 'Resort pool equipment supplier for hotels and resorts worldwide. Commercial-grade inflatable pools fleets, custom branding, staff training, and ROI-optimized packages from 20 to 100+ boards.'
+
 hero:
-  tagline: Курорты и отели
-  title: Превратите прибрежную территорию в центр доходов<br />с премиальными SUP-флотами
-  subtitle: OLagoon оснащает курорты по всему миру надувными SUP-флотами коммерческого класса — от стартовых пакетов на 20 досок до флагманских программ на 100+ досок. Индивидуальный брендинг, обучение персонала и запчасти включены.
+  tagline: Resorts & Hotels
+  title: 'Turn Your Waterfront Into a Revenue Centre<br />With Premium pool Fleets'
+  subtitle: 'OLagoon equips resorts worldwide with commercial-grade inflatable pools fleets — from 20-board starter packages to 100+ board flagship programs. Custom branding, staff training, and replacement parts included.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: Гости курорта наслаждаются занятиями SUP-серфингом на нетронутом пляже
+    alt: Resort guests enjoying poolsing on a pristine beach
+
 roi_section:
-  title: Модель дохода курортного SUP
-  subtitle: Как курорты зарабатывают от $50 000 до $200 000 ежегодного дохода от аренды SUP с одной инвестиции.
+  title: 'The Resort pool Revenue Model'
+  subtitle: 'How resorts generate $50,000 - $200,000+ annual pool rental income with a single investment.'
   metrics:
-    - metric: $50 тыс.–$200 тыс.+
-      label: Годовой доход от SUP
-      detail: По курорту, в зависимости от размера флота и заполняемости
-    - metric: 4–6 месяцев
-      label: Средний срок окупаемости
-      detail: Окупить полные инвестиции в флот за один сезон
-    - metric: 40%
-      label: Рост доходов
-      detail: Средний прирост после перехода на флоты OLagoon
+    - metric: '$50K–$200K+'
+      label: Annual pool Revenue
+      detail: Per resort, based on fleet size and occupancy
+    - metric: '4–6 Months'
+      label: Average Payback Period
+      detail: Recoup full fleet investment within one season
+    - metric: '40%'
+      label: Revenue Increase
+      detail: Average boost after switching to OLagoon fleets
     - metric: '500+'
-      label: Арендные циклы на плату
-      detail: Прочность коммерческого уровня для повседневного использования
+      label: Rental Cycles Per Board
+      detail: Commercial-grade durability for daily use
+
 packages:
-  title: Система курортного пакета
-  subtitle: Выберите пакет, соответствующий вашей вместимости гостей и целям по доходам. Все пакеты включают 12-месячную гарантию и сертификацию CE.
+  title: Resort Package System
+  subtitle: 'Choose the package that fits your guest capacity and revenue goals. All packages include 12-month warranty and CE certification.'
   items:
-    - name: Стартовый пакет
-      tagline: Для бутик-курортов, до 20 гостей в день
+    - name: Starter Package
+      tagline: 'For boutique resorts, up to 20 guests/day'
       features:
-        - 20 SUP-досок (3 размера для взрослых/детей)
-        - 20 весел (регулируемые) + 20 спасательных жилетов
-        - 4 помпы двойного действия (электрическая опционально)
-        - 2 стойки для хранения + ремкомплект
-        - Индивидуальная печать логотипа на досках
-        - 12-месячная гарантия + Сертификат CE
-      revenue: 'Потенциальный годовой доход: 50–80 тыс. долларов США'
-      cta_text: Получить стартовый пакет
-    - name: Премиум-пакет
-      tagline: Для больших курортов, 50-100 гостей в день
+        - '20 pools (3 sizes for adults/kids)'
+        - '20 paddles (adjustable) + 20 life vests'
+        - '4 dual-action pumps (electric optional)'
+        - '2 storage racks + repair kit'
+        - 'Custom logo print on boards'
+        - '12-month warranty + CE certified'
+      revenue: '$50K–$80K annual revenue potential'
+      cta_text: 'Get Starter Package'
+    - name: Premium Package
+      tagline: 'For large resorts, 50-100 guests/day'
       features:
-        - 50 SUP-досок (5 размеров, смешанный флот)
-        - 50 весёл + 50 спасательных жилетов
-        - 10 помп двойного действия + 2 электрические помпы
-        - 5 стоек для хранения + 2 тележки
-        - Полный индивидуальный брендинг (доски, весла, сумки)
-        - Сессия по обучению персонала (онлайн)
-        - Отправка запчастей в течение 48 часов
-        - 12-месячная гарантия + Сертификат CE
-      revenue: Потенциал годового дохода $120K–$200K
+        - '50 pools (5 sizes, mixed fleet)'
+        - '50 paddles + 50 life vests'
+        - '10 dual-action pumps + 2 electric pumps'
+        - '5 storage racks + 2 roller carts'
+        - 'Full custom branding (boards, paddles, bags)'
+        - 'Staff training session (online)'
+        - '48-hour replacement parts dispatch'
+        - '12-month warranty + CE certified'
+      revenue: '$120K–$200K+ annual revenue potential'
       popular: true
-      cta_text: Получить премиум-пакет
-    - name: Флагманский пакет
-      tagline: Для ультрапремиальных курортов, 100+ гостей в день
+      cta_text: 'Get Premium Package'
+    - name: Flagship Package
+      tagline: 'For ultra-premium resorts, 100+ guests/day'
       features:
-        - 100+ SUP-досок (полная линейка размеров)
-        - Полный комплект аксессуаров (весла, жилеты, помпы, тележки)
-        - Обучение персонала на месте (2 дня)
-        - Выделенный менеджер по работе с клиентами
-        - Запчасти приоритетной замены (отправка в течение 24 часов)
-        - Полный индивидуальный брендинг (доски + аксессуары)
-        - Маркетинговый пакет фото/видео
-        - 24-месячная гарантия + Сертификат CE
-      revenue: Потенциальный годовой доход $200 000
-      cta_text: Получить флагманский пакет
+        - '100+ pools (full size range)'
+        - 'Complete accessory set (paddles, vests, pumps, carts)'
+        - 'On-site staff training (2 days)'
+        - 'Dedicated account manager'
+        - 'Priority replacement parts (24h dispatch)'
+        - 'Full custom branding (boards + accessories)'
+        - 'Marketing photo/video package'
+        - '24-month warranty + CE certified'
+      revenue: '$200K+ annual revenue potential'
+      cta_text: 'Get Flagship Package'
+
 case_study:
-  quote: С момента перехода на OLagoon, наш доход от аренды SUP увеличился на 40%. Расходы на замену досок снизились на 60%. Мы вернули полную инвестицию в наш парк за 4 месяца.
-  author: Менеджер по водным мероприятиям
-  location: Пятизвёздочный курорт, Мальдивы
+  quote: 'Since switching to OLagoon, our pool rental revenue increased 40%. Board replacement costs dropped 60%. We recouped our full fleet investment in 4 months.'
+  author: 'Water Activities Manager'
+  location: '5-star resort, Maldives'
   results:
-    - label: Рост доходов
-      value: +40%
-    - label: Сокращение затрат
+    - label: 'Revenue Growth'
+      value: '+40%'
+    - label: 'Cost Reduction'
       value: '-60%'
-    - label: Срок окупаемости
-      value: 4 месяца
+    - label: 'Payback Period'
+      value: '4 Months'
+
 features:
-  title: Почему курорты выбирают OLagoon
-  subtitle: Коммерческая прочность, глобальная логистика и партнёр, который понимает сферу гостеприимства.
+  title: Why Resorts Choose OLagoon
+  subtitle: 'Commercial-grade durability, global logistics, and a partner who understands hospitality.'
   items:
-    - title: 500 арендных велосипедов
-      description: Каждая доска тестируется на выживание в 500 циклов аренды в солёной воде, на солнце и в песке.
-      icon: tabler:shield-check
-    - title: Отправка запчастей в течение 48 часов
-      description: Запасные части отправляются в течение 48 часов — ваш доход от аренды никогда не останавливается.
-      icon: tabler:truck-delivery
-    - title: Пользовательский брендинг
-      description: Согласуйте идентичность вашего курорта с индивидуальными цветами и логотипом на каждой доске.
-      icon: tabler:palette
-    - title: Обучение персонала
-      description: Онлайн и очные обучающие программы для вашей команды по деятельности.
-      icon: tabler:school
-    - title: Глобальная логистика
-      description: Доставка в более чем 50 стран с вариантами консолидации грузов.
-      icon: tabler:world
-    - title: Сертификат CE
-      description: Все оборудования сертифицировано по CE, ISO 9001:2015 — гарантия безопасности и качества.
-      icon: tabler:certificate
+    - title: '500+ Rental Cycles'
+      description: 'Every board is tested to survive 500+ rental cycles in saltwater, sun, and sand.'
+      icon: 'tabler:shield-check'
+    - title: '48h Parts Dispatch'
+      description: 'Replacement parts shipped within 48 hours — your rental revenue never stops.'
+      icon: 'tabler:truck-delivery'
+    - title: 'Custom Branding'
+      description: 'Match your resort identity with custom colors and logo on every board.'
+      icon: 'tabler:palette'
+    - title: 'Staff Training'
+      description: 'Online and on-site training programs for your activities team.'
+      icon: 'tabler:school'
+    - title: 'Global Logistics'
+      description: 'Shipping to 50+ countries with consolidated freight options.'
+      icon: 'tabler:world'
+    - title: 'CE Certified'
+      description: 'All equipment CE certified, ISO 9001:2015 — safety and quality guaranteed.'
+      icon: 'tabler:certificate'
+
 cta:
-  title: Готовы превратить прибрежную территорию в центр доходов?
-  subtitle: Получите стоимость пакета для курорта или скачайте наш полный каталог курорта.
+  title: 'Ready to turn your waterfront into a revenue centre?'
+  subtitle: 'Get your resort package quote or download our complete resort catalog.'
   actions:
-    - text: Получить курортный пакет
-      href: /contact/?package=resort
-      variant: primary
-    - text: Скачать каталог курорта
-      href: /resources/download-catalog/
-      variant: secondary
+    - text: 'Get Resort Package'
+      href: '/contact/?package=resort'
+      variant: 'primary'
+    - text: 'Download Resort Catalog'
+      href: '/resources/download-catalog/'
+      variant: 'secondary'

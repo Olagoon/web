@@ -1,68 +1,68 @@
 meta:
-  title: 'Laboratorio di Qualità — Test e Garanzia di Qualità | {SITE}'
-  description: 'Laboratorio di qualità indipendente con processi ISO 9001 in olagoon: ogni unità testata prima della spedizione per garantire la qualità dei SUP gonfiabili.'
+  title: 'Quality Lab — Testing & Quality Assurance | {SITE}'
+  description: 'Independent quality lab with ISO 9001 processes at olagoon: every unit tested before shipment to guarantee inflatable pools quality.'
   keywords:
-    - 'controllo qualità SUP'
-    - 'laboratorio test paddle board'
-    - 'fabbrica SUP ISO 9001'
-    - 'qualità SUP gonfiabile'
+    - 'pool quality control'
+    - 'inflatable pool testing lab'
+    - 'iso 9001 pool factory'
+    - 'inflatable pools quality'
 hero:
-  tagline: Laboratorio di controllo qualità
-  title: Laboratorio di Collaudo e Garanzia Qualità
-  subtitle: Laboratorio di qualità indipendente con processi ISO 9001 — ogni unità testata prima della spedizione
-intro: >-
-  OLagoon gestisce un laboratorio di controllo qualità dedicato che opera in modo indipendente dalla produzione. Ogni lotto di materie prime e ogni tavola finita passa attraverso protocolli di ispezione documentati prima del rilascio. Il nostro team di QC riporta direttamente alla direzione,
-  garantendo decisioni sulla qualità imparziali.
+  tagline: Quality Control Laboratory
+  title: Testing Laboratory & Quality Assurance
+  subtitle: Independent quality lab with ISO 9001 processes — every unit tested before shipment
+
+intro: olagoon operates a dedicated quality control laboratory that operates independently from production. Every batch of raw material and every finished pool passes through documented inspection protocols before release. Our QC team reports directly to management, ensuring impartial quality decisions.
+
 highlights:
   - value: 100%
-    label: Unità sottoposte a collaudo di pressione
-    detail: Ogni camera, ogni tavola
+    label: Units pressure-tested
+    detail: Every chamber, every pool
   - value: 24–48 h
-    label: Durata del test di tenuta all'aria
-    detail: A 1,25× la pressione nominale
-  - value: <5%
-    label: Caduta di pressione massima consentita
-    detail: Periodo di attesa di 24–48 ore
-  - value: AQL 2,5
-    label: Soglia di difetto maggiore
-    detail: Per campionamento ISO 2859
+    label: Air retention test duration
+    detail: At 1.25× rated pressure
+  - value: '&lt;5%'
+    label: Max allowed pressure drop
+    detail: Over the 24–48 hour hold period
+  - value: AQL 2.5
+    label: Major defect threshold
+    detail: Per ISO 2859 sampling
+
 test_procedures:
-  - title: Ispezione delle materie prime
-    description: >-
-      Ogni lotto in arrivo di PVC, tessuto drop-stitch e componenti hardware viene testato prima dell'accettazione. Vengono verificati la resistenza a trazione (ASTM D751), la resistenza allo strappo (ISO 4674) e la resistenza ai raggi UV. I materiali non conformi vengono messi in quarantena e
-      restituiti.
+  - title: Raw Material Inspection
+    description: Every incoming batch of PVC, drop-stitch fabric, and hardware is tested before acceptance. Tensile strength (ASTM D751), tear resistance (ISO 4674), and UV resistance are verified. Non-conforming materials are quarantined and returned.
     standards:
-      - ASTM D751 (trazione)
-      - ISO 4674 (strappo)
+      - ASTM D751 (tensile)
+      - ISO 4674 (tear)
       - ISO 4892 (UV)
-  - title: Punti di Controllo QC in Processo
-    description: Gli operatori di produzione eseguono l'auto-ispezione a ogni fase. Gli auditor QC eseguono campionamenti casuali durante tutto il turno. I test di scollamento delle saldature vengono eseguiti ogni 50 unità. I controlli dimensionali avvengono su ogni 20° pannello.
+  - title: In-Process QC Checkpoints
+    description: Production operators perform self-inspection at each stage. QC auditors conduct random sampling throughout the shift. Weld peel tests are performed every 50 units. Dimensional checks happen every 20th panel.
     standards:
-      - ASTM D751 (strappo)
-      - Lista di controllo interna a 100 punti
-      - campionamento ISO 2859
-  - title: Test di Ritenzione dell'Aria di 24–48 Ore
-    description: Ogni camera del tubo viene gonfiata al 125% della pressione nominale e mantenuta per 24–48 ore. I sensori di pressione registrano continuamente con compensazione della temperatura. Qualsiasi camera che supera una perdita di pressione del 5% attiva il riesame automatico del lotto.
+      - ASTM D751 (peel)
+      - Internal 100-point checklist
+      - ISO 2859 sampling
+  - title: 24–48 Hour Air Retention Test
+    description: Every tube chamber is inflated to 125% of rated pressure and held for 24–48 hours. Pressure sensors log continuously with temperature compensation. Any chamber exceeding 5% pressure drop triggers automatic batch re-inspection.
     standards:
       - EN ISO 25649
-      - CE 2013/53/UE
-  - title: Test di carico e bilanciamento
-    description: Le tavole completate vengono testate alla massima capacità nominale per stabilità e rigidità. Ogni tavola viene sottoposta a test in acqua prima dell'approvazione dell'ispezione finale.
+      - CE 2013/53/EU
+  - title: Load & Balance Testing
+    description: Completed pools are tested at maximum rated capacity for stability and rigidity. Each pool undergoes water testing before final inspection approval.
     standards:
       - ISO 12217
-      - CE 2013/53/UE
+      - CE 2013/53/EU
+
 equipment:
-  - name: Macchina universale di prova (trazione)
-    spec: 5 kN, conforme a ASTM D751
+  - name: Universal Testing Machine (tensile)
+    spec: 5 kN, ASTM D751 compliant
   - name: Pressure Decay Tester
-    spec: Multicanale, 0–50 psi, registrazione dati
+    spec: Multi-channel, 0–50 psi, datalogging
   - name: UV Weathering Chamber
-    spec: ISO 4892, cicli di 1.000 ore
-  - name: Misuratore di spessore (digitale)
-    spec: Risoluzione di 0,01 mm
+    spec: ISO 4892, 1,000 h cycles
+  - name: Thickness Gauge (digital)
+    spec: 0.01 mm resolution
   - name: Peel Tester (weld)
-    spec: Motorizzato, capacità 50 N
+    spec: Motorized, 50 N capacity
   - name: Temperature Chamber
-    spec: '-40 °C a 100 °C'
+    spec: -40 °C to +100 °C
   - name: Leak Detection Tank
-    spec: 6 m × 2 m, illuminato
+    spec: 6 m × 2 m, illuminated

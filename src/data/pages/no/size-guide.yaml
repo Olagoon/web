@@ -1,61 +1,60 @@
 meta:
-  title: Størrelses- & spesifikasjonsguide — oppblåsbare SUPer | {SITE}
-  description: Dimensjoner, kapasiteter og anbefalt bruk for hvert olagoon-produkt. Finn riktig størrelse på oppblåsbar SUP for dine behov.
+  title: Size & Specs Guide — Drop-Stitch Inflatable Pools | {SITE}
+  description: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory. Find the right inflatable pool size for your backyard.
   keywords:
-    - SUP størrelsesguide
-    - paddle board dimensjoner
-    - oppblåsbar SUP spesifikasjoner
-    - SUP størrelsestabell
+    - inflatable pool size guide
+    - drop-stitch pool dimensions
+    - inflatable pool specs
+    - pool size chart
 hero:
-  title: Størrelses- og spesifikasjonsguide
-  subtitle: Dimensjoner, kapasiteter og anbefalt bruk for hvert olagoon-produkt.
+  title: Size & Specs Guide
+  subtitle: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory.
 categories:
-  inflatable: Oppblåsbare SUP-brett designet for bærbarhet uten å gå på kompromiss med ytelsen. Velg riktig størrelse etter vekt og padlingsstil.
-  sup: Stående padlebrett for touring, yoga, trening og fritidspadling. Velg etter lengde og brukervekt.
-  accessory: Tilbehør og sikkerhetsutstyr som kompletterer vannsportsutstyret ditt. Universale størrelser med flere alternativer.
+  pool: Drop-stitch inflatable pools with rigid 20 cm sit-on walls. Choose by backyard size, household, and how many people will swim.
+  accessory: Accessories and maintenance equipment to complement your OLagoon pool. Universal fit across all three pool models.
 table:
   headers:
-    product: Produkt
-    length: Lengde
-    width: Bredde
-    weight: Vekt
-    max_load: Maks. last
-    best_for: Best egnet til
+    product: Product
+    length: Length
+    width: Width
+    weight: Weight
+    max_load: Capacity
+    best_for: Best For
 how_to_choose:
-  title: Slik velger du riktig størrelse
+  title: How to Choose the Right Size
   cards:
-    - title: SUP-brett
-      description: Velg lengde basert på vekt og bruksområde. Bredere brett (32"+) gir mer stabilitet. Lengre brett (11-12 fot) holder kursen bedre under tur. Tyngre padlere trenger brett med større volum.
-    - title: Touring SUP-brett
-      description: Lengre brett (11–12 fot) er best for å dekke avstand og touring. Bredere brett (32"+) gir mer stabilitet. Sjekk vektkapasiteten for total last inkludert utstyr.
-    - title: All-round SUP-brett
-      description: Velg lengde etter brukervekt og bruksområde. All-round-brett egner seg til fritid, trening og yoga. Mindre brett er mer manøvrerbare.
+    - title: Measure Your Space
+      description: Allow at least 60 cm of clear walkway around the pool. The Compact Plunge fits most patios and decks; the Family Oasis needs a small lawn; the Grand Lagoon suits a large backyard.
+    - title: Count Your Swimmers
+      description: Two adults? The Compact Plunge. A family of four to six? The Family Oasis. Regular pool parties of eight or more? The Grand Lagoon.
+    - title: Check Your Ground
+      description: Any firm, level surface works — lawn, pavers, or a concrete pad. Lay the protective ground mat first and confirm decks are rated for a filled pool.
 finder:
-  title: Finn brettet ditt
-  subtitle: Svar på tre raske spørsmål, så finner vi riktig brett for deg.
-  q_experience: Din padleerfaring
-  exp_beginner: Nybegynner
-  exp_beginner_hint: Ny til padling
-  exp_intermediate: Middels
-  exp_intermediate_hint: Trygg på vannet
-  exp_advanced: Avansert
-  exp_advanced_hint: Erfaren padler
-  q_use: Hvordan skal du bruke brettet ditt?
-  use_allaround: Allround & Fritid
-  use_touring: Touring & Distanse
-  use_yoga: Yoga & Trening
-  use_fishing: Fiske
-  use_performance: Surf, Race & Hvittvann
-  use_family: Familie & Flerpersons
-  use_kids: Barn & Ungdom
-  q_weight: Padlerens vekt
-  w_lt140: Under 140 lbs (64 kg)
-  w_140_180: 140-180 lbs (64-82 kg)
-  w_180_230: 180-230 lbs (82-104 kg)
-  w_gt230: Over 230 lbs (104 kg)
-  results_title: Dine treff
-  results_hint: Velg erfaring, planlagt bruk og vekt for å se passende brett.
-  badge_best: Beste valg
-  view_details: Se detaljer
-  start_over: Start på nytt
-  compare_all: Sammenlign alle brett
+  title: Find Your Pool
+  subtitle: Answer three quick questions and we will match you with the right pool.
+  q_experience: Who will use it?
+  exp_beginner: Adults only
+  exp_beginner_hint: Plunge, soak, and recovery
+  exp_intermediate: Family with kids
+  exp_intermediate_hint: Play and swim together
+  exp_advanced: Entertaining crowds
+  exp_advanced_hint: Parties and gatherings
+  q_use: How will you use your pool?
+  use_allaround: Cold plunge & recovery
+  use_touring: Family fun & kids play
+  use_yoga: Soaking & relaxation
+  use_fishing: Pool parties
+  use_performance: Fitness & exercise
+  use_family: Family & multi-person
+  use_kids: Kids & teens
+  q_weight: Backyard size
+  w_lt140: Small patio or deck
+  w_140_180: Small to mid lawn
+  w_180_230: Mid to large lawn
+  w_gt230: Large backyard
+  results_title: Your matches
+  results_hint: Select your swimmers, planned use, and backyard size to see your pool matches.
+  badge_best: Best Match
+  view_details: View details
+  start_over: Start over
+  compare_all: Compare all pools

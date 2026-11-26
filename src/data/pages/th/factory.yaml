@@ -1,263 +1,274 @@
 meta:
-  title: 'โรงงานและการผลิต — SUP แบบสูบลม OEM | {SITE}'
-  description: 'เยี่ยมชมโรงงานของ olagoon: สิ่งอำนวยความสะดวกขนาด 12,000 ตร.ม. พร้อมการตัด การเชื่อม HF การพิมพ์ การประกอบ และห้องปฏิบัติการคุณภาพสำหรับการผลิต OEM/ODM ของบอร์ด SUP แบบเป่าลม'
+  title: 'Factory & Manufacturing — inflatable pools OEM | {SITE}'
+  description: 'Tour the olagoon factory: 12,000 m² plant with cutting, RF welding, printing, assembly, and quality lab for inflatable pools OEM/ODM manufacturing.'
   keywords:
-    - 'โรงงาน SUP จีน'
-    - 'โรงงานพายบอร์ดแบบสูบลม'
-    - 'ผู้ผลิต SUP OEM'
-    - 'การผลิต SUP แบบสูบลม'
+    - 'pool factory china'
+    - 'inflatable pool factory'
+    - 'oem pool manufacturer'
+    - 'inflatable pools manufacturing'
 hero:
-  tagline: โรงงาน
-  title: โรงงานและการผลิต
-  subtitle: 12,000 ตร.ม. ของการผลิตแบบครบวงจร — จากวัตถุดิบถึงบอร์ดที่ผลิตเสร็จ
+  tagline: Factory
+  title: Factory & Manufacturing
+  subtitle: 12,000 m² of integrated manufacturing — from raw material to finished pool
+
 intro:
-  - >-
-    ในฐานะแผนกผลิตของ **Olagoon LLC** ทีมปฏิบัติการชิงเต่าของ olagoon ควบคุมทุกขั้นตอนการผลิต — ตั้งแต่การรับวัตถุดิบ PVC และไฟเบอร์กลาสเข้าโรงงานจนถึงการตรวจสอบก่อนส่งมอบครั้งสุดท้ายของบอร์ดที่ผลิตเสร็จ โรงงานผลิตของเราในเขตพัฒนาเศรษฐกิจชิงเต่า (Qingdao Economic Development Zone) มีพื้นที่ 12,000 ตารางเมตร
-    พร้อมเวิร์กช็อปเฉพาะสำหรับการตัด PVC การซีลความร้อนท่อ การขึ้นรูปแม่พิมพ์ FRP การพิมพ์ดิจิทัลบนบอร์ด SUP การประกอบขั้นสุดท้าย และการทดสอบคุณภาพ
-  - ด้วยการผสานงานออกแบบ วิศวกรรม การทำต้นแบบ การผลิต และการทดสอบไว้ในที่เดียวกัน เราจึงขจัดความไร้ประสิทธิภาพของการผลิตแบบรับจ้างและควบคุมคุณภาพการประกอบ การเลือกวัสดุ และกำหนดเวลาจัดส่งได้โดยตรง SUP ทุกลำที่ออกจากโรงงานของเราสร้างโดยคนของเรา ด้วยอุปกรณ์ของเรา และตามมาตรฐานของเรา
+  - As the production arm of **Olagoon LLC**, olagoon's Qingdao Operation Team controls every stage of production — from the arrival of raw PVC and fiberglass materials to the final pre-delivery inspection of the finished pool. Our manufacturing facility in the Qingdao Economic Development Zone spans 12,000 square metres and houses dedicated workshops for PVC cutting, tube heat sealing, FRP mould fabrication, pool digital printing, final assembly, and quality testing.
+  - By integrating design, engineering, prototyping, manufacturing, and testing under one roof, we eliminate the inefficiencies of contract manufacturing and maintain direct control over build quality, material selection, and delivery timelines. Every pool that leaves our workshop is built by our people, on our equipment, to our standards.
+
 stats:
-  - value: 12,000 ตร.ม.
-    label: ตร.ม. พื้นที่ทั้งหมด
+  - value: 12,000 m²
+    label: Manufacturing floor
   - value: 200+
-    label: พนักงานมีฝีมือ
+    label: Skilled workers
   - value: 15,000+
-    label: SUP ที่ผลิตต่อปี
+    label: pools produced annually
   - value: ISO 9001
-    label: รับรองคุณภาพ
-intelligence_tagline: ระบบอัจฉริยะในโรงงาน
-intelligence_title: สำรวจขีดความสามารถด้านการผลิตของเรา
+    label: Quality certified
+
+intelligence_tagline: Factory Intelligence
+intelligence_title: Explore Our Manufacturing Capabilities
+
 intelligence_cards:
-  - title: กำลังการผลิต
+  - title: Production Capacity
     icon: C
     icon_bg: blue
-    desc: โรงงานขนาด 12,000 ตร.ม. ผลิต SUP มากกว่า 15,000 ลำต่อปีจากไลน์ผลิตบอร์ด SUP และอุปกรณ์ความปลอดภัย พนักงานมากกว่า 200 คน ทำงาน 2 กะ
+    desc: '12,000 m² facility producing 15,000+ pools/yr across pools and safety equipment lines. 200+ workers, 2 shifts.'
     metrics:
       - label: MOQ
-        value: 'SUP: 5–10'
-      - label: ระยะเวลาการผลิต (Lead Time)
-        value: 30–45 วัน
+        value: 'Samples 5–10 · Bulk 50+'
+      - label: Lead Time
+        value: '12–16 weeks (bulk)'
     link: /factory/capacity/
-    link_label: ดูรายละเอียดความจุทั้งหมด →
-  - title: ห้องปฏิบัติการคุณภาพและการทดสอบ
+    link_label: Full capacity details →
+  - title: Quality Lab & Testing
     icon: Q
     icon_bg: green
-    desc: 'ห้องปฏิบัติการควบคุมคุณภาพอิสระที่มีการทดสอบ 4 ขั้นตอน: การตรวจสอบวัตถุดิบ (แรงดึง การฉีกขาด UV) การทดสอบแรงดัน 24–48 ชั่วโมงที่ 1.25 เท่าของแรงดันกำหนด การทดสอบการลอกตะเข็บ และการตรวจสอบน้ำหนักและการสมดุลบนบอร์ดทุกลำ'
+    desc: 'Independent QC lab with 4 testing stages: raw material inspection (tensile, tear, UV), 24–48h pressure hold at 1.25x rated pressure on every pool, load/balance verification, and seam peel strength testing by batch sampling every 50 units (ASTM D751).'
     metrics:
-      - label: อุปกรณ์ห้องปฏิบัติการ
-        value: เครื่องทดสอบแรงดึง ห้องควบคุมอุณหภูมิ ถังทดสอบการรั่วซึม
-      - label: มาตรฐาน
-        value: ISO 9001, CE, AS 1799
+      - label: Lab Equipment
+        value: 'Tensile tester, temp chamber, leak tank'
+      - label: Standards
+        value: 'ISO 9001, CE, AS 1799'
     link: /factory/quality-lab/
-    link_label: ขั้นตอนและอุปกรณ์ในห้องปฏิบัติการ →
-  - title: ขีดความสามารถด้าน OEM/ODM
+    link_label: 'Lab procedures & equipment →'
+  - title: OEM/ODM Capability
     icon: O
     icon_bg: purple
-    desc: 'บริการ OEM/ODM ครบวงจร: ออกแบบแม่พิมพ์เฉพาะ บรรจุภัณฑ์แบรนด์ส่วนตัว สีบอร์ดเฉพาะ กราฟิกดาดฟ้า (พิมพ์ดิจิทัลและสกรีน) และโลจิสติกส์ drop-ship'
+    desc: 'End-to-end OEM/ODM services: custom mould design, private-label packaging, custom pool colors, deck graphics (digital & screen printing), and drop-ship logistics.'
     metrics:
-      - label: การรับรองมาตรฐาน
-        value: ISO 9001, BSCI, CE, REACH
-      - label: การจัดส่ง
-        value: FOB, CIF, DDP จัดส่งไปยัง 50+ ประเทศ
+      - label: Certifications
+        value: 'ISO 9001, BSCI, CE, REACH'
+      - label: Shipping
+        value: 'FOB, CIF, DDP to 50+ countries'
     link: /factory/oem-capability/
-    link_label: บริการ OEM ครบวงจร →
+    link_label: 'Full OEM services →'
+
 workshops_section:
-  tagline: เวิร์กช็อป
-  title: โรงงานผลิตเฉพาะทาง
+  tagline: Workshops
+  title: Manufacturing Workshops
   workshops:
-    - title: การตัด PVC และการเตรียมวัสดุ
-      description: เครื่องตัด CNC อัตโนมัติตัดผ้า PVC และผ้าดรอปสติตช์ด้วยความแม่นยำระดับต่ำกว่ามิลลิเมตร การจัดวางชิ้นงานโดยการคำนวณด้วยคอมพิวเตอร์ช่วยลดเศษวัสดุ และรับประกันว่าชิ้นส่วนทุกชิ้นตรงตามสเปกมิติก่อนการเชื่อม
+    - title: PVC Cutting & Material Preparation
+      description: Automatic CNC cutting machines process PVC and drop-stitch fabrics with sub-millimetre precision. Computer-optimised nesting minimises material waste and ensures every panel meets its dimensional specification before welding.
       image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
-    - title: การเชื่อมท่อและการปิดผนึกด้วยความร้อน
-      description: เวิร์กช็อปเชื่อมเฉพาะทางพร้อมเครื่องซีลความร้อนและเครื่องอัดไดอิเล็กตริก RF เครื่องซีลลมร้อนยึดและเชื่อมช่องท่อ PVC ในขณะที่การเชื่อมด้วย RF ให้รอยตะเข็บสุญญากาศความแข็งแรงสูงซึ่งเกินข้อกำหนด EN ISO 25649
+    - title: Tube Welding & Heat Sealing
+      description: Dedicated welding workshop with heat sealing machines and RF dielectric presses. Hot-air heat sealers bond and fuse PVC tube chambers, while RF welds produce high-strength airtight seams that exceed EN ISO 25649 requirements.
       image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    - title: แม่พิมพ์ FRP และการขึ้นรูปวัสดุคอมโพสิต
-      description: แม่พิมพ์ FRP แบบกำหนดเองสำหรับชิ้นส่วน SUP ผลิตด้วยการขึ้นรูปไฟเบอร์กลาสแบบ hand-lay-up ด้วยเรซินโพลิเอสเตอร์และไวนิลเอสเตอร์ แต่ละชั้นถูกรีดด้วยมือและอัดสุญญากาศเพื่อคุณภาพที่สม่ำเสมอ บูธพ่นเจลโคตให้ผิวเรียบมันที่ทนทานต่อรังสี UV ระดับงานทางทะเล
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
-    - title: การพิมพ์และการตกแต่งลวดลาย SUP
-      description: บอร์ด SUP ตกแต่งด้วยการพิมพ์ดิจิทัล สำหรับกราฟิกสีเต็มรูปแบบ และการพิมพ์สกรีน สำหรับโลโก้และลวดลายที่ทำซ้ำ การพิมพ์ดิจิทัลให้ลวดลายบนดาดฟ้าคุณภาพระดับภาพถ่าย ขณะที่การพิมพ์สกรีนให้เครื่องหมายแบรนด์ที่คงทนและสดใส
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
-    - title: การประกอบขั้นสุดท้ายและการติดตั้งชิ้นส่วน
-      description: สายการประกอบที่ติดตั้งวาล์ว ห่วงรูปตัว D ด้ามจับ กล่องครีบหาง และแผ่นรองดาดฟ้าให้กับบอร์ด SUP ทุกใบ บอร์ดแต่ละใบต้องผ่านเช็คลิสต์การประกอบ 100 จุด โดยมีหัวหน้าทีมเซ็นรับรอง
+    - title: FRP Moulds & Composite Fabrication
+      description: Custom FRP moulds for pool components, produced using hand-lay-up fiberglass moulding with polyester and vinylester resin systems. Each layer is hand-rolled and vacuum-bagged for consistent quality. Gelcoat spray booth provides a high-gloss, UV-resistant marine finish.
+      image: https://assets.olagoon.com/images/olagoon/products/family-oasis.webp
+    - title: pool Printing & Decoration
+      description: pools are decorated using digital printing for full-colour graphics and screen printing for logos and repeating patterns. Digital printers produce photo-quality deck designs, while screen printing delivers durable, vivid brand marks.
+      image: https://assets.olagoon.com/images/olagoon/products/family-oasis.webp
+    - title: Final Assembly & Rigging
+      description: Assembly line where drop-stitch cores are finished with rails, wall surfaces are applied, and valves, fittings, and accessories are installed. Each pool follows a 100-point assembly checklist signed off by the team lead.
       image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
-    - title: การทดสอบคุณภาพและการตรวจสอบ
-      description: บอร์ดทุกลำที่ผลิตเสร็จต้องผ่านการทดสอบการคงความดันลม การตรวจสอบการลอกของรอยต่อ และการตรวจระบบทั้งหมดก่อนจัดส่ง ห้องปฏิบัติการคุณภาพของเราทำงานแยกจากสายการผลิตและรายงานตรงต่อผู้บริหาร
+    - title: Quality Testing & Inspection
+      description: Every completed pool undergoes mandatory air-retention testing and a full systems check before shipping, with seam peel strength verified by batch sampling every 50 units. Our quality lab operates independently from production and reports directly to management.
       image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
+
 equipment_section:
-  tagline: อุปกรณ์
-  title: อุปกรณ์การผลิตหลัก
-  view_full: ดูรายการอุปกรณ์ทั้งหมด →
+  tagline: Equipment
+  title: Key Manufacturing Equipment
+  view_full: View full equipment list →
   view_full_link: /factory/equipment/
   items:
-    - name: เครื่องตัด PVC อัตโนมัติ
-      spec: ควบคุมด้วยเครื่อง CNC ความแม่นยำ 0.1 มม.
-    - name: เครื่องซีลความร้อน
-      spec: ลมร้อน อุณหภูมิ 200–300 °C สำหรับการเชื่อมติดท่อลม
-    - name: เครื่องอัดเชื่อมไดอิเล็กตริก RF
-      spec: การเชื่อมตะเข็บแบบสุญญากาศ 15 kW
-    - name: แม่พิมพ์ขึ้นรูปด้วยมือ (ไฟเบอร์กลาส)
-      spec: แม่พิมพ์บอร์ด SUP สูงสุด 14 ฟุต
-    - name: เครื่องพิมพ์ดิจิทัล
-      spec: ลายกราฟิกเต็มสีบนดาดฟ้าบอร์ด SUP
-    - name: เครื่องพิมพ์สกรีน
-      spec: การพิมพ์โลโก้หลายสี
+    - name: Automatic PVC Cutting Machine
+      spec: CNC-controlled, 0.1 mm accuracy
+    - name: Heat Sealing Machine
+      spec: Hot-air, 200–300 °C, for tube bonding
+    - name: RF Dielectric Welding Press
+      spec: 15 kW, airtight seam welding
+    - name: Fiberglass Hand-Lay-Up Moulds
+      spec: pools moulds up to 14 ft
+    - name: Digital Printer
+      spec: Full-colour pool deck graphics
+    - name: Screen Printing Machine
+      spec: Multi-colour logo printing
+
 qc_section:
-  tagline: การควบคุมคุณภาพ
-  title: กระบวนการทดสอบและการประกันคุณภาพ
-  subtitle: บอร์ดทุกลำต้องผ่านการทดสอบภาคบังคับก่อนจัดส่ง ห้องปฏิบัติการคุณภาพของเราทำงานแยกอิสระจากสายการผลิตและรายงานตรงต่อฝ่ายบริหาร
+  tagline: Quality Control
+  title: Testing & Quality Assurance Process
+  subtitle: Every pool undergoes mandatory testing before shipping. Our quality lab operates independently from production and reports directly to management.
   steps:
     - step: '1'
-      title: การตรวจสอบวัตถุดิบ
-      desc: ผ้า PVC และ drop-stitch ทุกชิ้นต้องผ่านการทดสอบแรงดึง (ASTM D751) การลามของการฉีกขาด และการตรวจสอบความทนทานต่อรังสี UV ก่อนเข้าสู่กระบวนการผลิต
+      title: Raw Material Inspection
+      desc: PVC and drop-stitch fabrics undergo tensile testing (ASTM D751), tear propagation, and UV resistance verification before any batch enters production.
     - step: '2'
-      title: การทดสอบกักเก็บอากาศ 24–48 ชั่วโมง
-      desc: ห้องเป่าลมทุกห้องจะถูกเติมลมที่ 125% ของแรงดันที่กำหนดและคงไว้เป็นเวลา 24–48 ชั่วโมง หากแรงดันลดลงมากกว่า 5% จะถูกปฏิเสธโดยอัตโนมัติและนำไปตรวจสอบรอยต่อตะเข็บใหม่
+      title: 24–48 Hour Air Retention Test
+      desc: Every tube chamber is inflated to 125% of rated pressure and held for 24–48 hours. Pressure drop exceeding 5% triggers automatic rejection and seam re-inspection.
     - step: '3'
-      title: การทดสอบน้ำหนักบรรทุกและการทรงตัว
-      desc: บอร์ดที่ประกอบเสร็จแล้วจะถูกโหลดของหนักตามพิกัดสูงสุดและทดสอบความมั่นคงและความแข็งแกร่ง บอร์ดทุกลำผ่านการทดสอบในน้ำก่อนการตรวจสอบขั้นสุดท้าย
+      title: Load & Balance Testing
+      desc: Completed pools are loaded to maximum rated capacity and tested for stability and rigidity. Each pool is water-tested before final inspection.
+
 oem_section:
-  tagline: โครงการ OEM
-  title: กรณีศึกษาความร่วมมือด้านแบรนด์และ OEM
-  subtitle: จากแนวคิดสู่ตู้คอนเทนเนอร์ — วิธีที่เราช่วยแบรนด์ระดับโลกเปิดตัวและขยายกลุ่มผลิตภัณฑ์ SUP แบบเป่าลม
+  tagline: OEM Projects
+  title: Brand & OEM Partnership Case Studies
+  subtitle: From concept to container — how we help global brands launch and scale their inflatable pools lines.
   cases:
-    - challenge: ผู้ค้าปลีกสินค้ากลางแจ้งในยุโรปต้องการไลน์ซัพแบรนด์เฉพาะ (private label) พร้อมลวดลายบนเด็คที่ไม่ซ้ำใคร วัสดุ PVC ที่เป็นมิตรต่อสิ่งแวดล้อม และบรรจุภัณฑ์พร้อมวางจำหน่าย — ทั้งหมดส่งมอบภายใน 60 วัน
-      solution: พัฒนารูปแบบไฟล์พิมพ์ดิจิทัลที่กำหนดเอง จัดหา PVC ที่ผ่านมาตรฐาน REACH และลดรอบการยืนยันตัวอย่างจาก 3 รอบเหลือ 1 รอบ โดยให้ทีมออกแบบมาประจำการร่วมที่โรงงานชิงเต่าของเรา
-      result: 55 วันนับจากลงนาม PO ถึง FOB จำนวน 2,400 ลำใน 4 SKU คำสั่งซื้อซ้ำถูกวางก่อนที่คอนเทนเนอร์ชุดแรกจะมาถึงด้วยซ้ำ
-    - challenge: สตาร์ตอัปกีฬาทางน้ำของสหรัฐฯ ต้องการซัพ drop-stitch สมรรถนะสูงที่มีรูปทรงเฉพาะ แพ็กเกจแบบร่วมแบรนด์ และใบรับรอง BSCI เพื่อวางจำหน่ายในช่องทางรีเทล
-      solution: ปรับแม่พิมพ์ SUP ที่มีอยู่เดิมให้มีโครงร่างใหม่ พัฒนางานออกแบบบรรจุภัณฑ์ร่วมแบรนด์ (Co-branded) และจัดเตรียมเอกสารการตรวจสอบ BSCI ครบชุด
-      result: ประสบความสำเร็จในการวางจำหน่ายในเครือร้านค้าปลีกอุปกรณ์กลางแจ้งรายใหญ่ของสหรัฐฯ 3 ราย ยอดจำหน่ายมากกว่า 5,000 ลำในปีแรก ด้วยอัตรา sell-through 98%
-    - challenge: ตัวแทนจำหน่ายในออสเตรเลียต้องการกลุ่มผลิตภัณฑ์ SUP ที่ได้รับการรับรอง CE พร้อมสีตามความต้องการเฉพาะ และเป็นไปตามมาตรฐานของออสเตรเลีย
-      solution: ผลิตตัวอย่างก่อนการผลิตจริง (pre-production) จำนวน 4 รูปแบบสี พร้อมการทดสอบมาตรฐานร่วมกับหน่วยตรวจสอบอิสระ
-      result: เปิดตัวกลุ่มผลิตภัณฑ์ SUP 3 รุ่นในตลาด AU/NZ ตามมาด้วยการชนะประมูลภาครัฐสำหรับ SUP ลาดตระเวนจำนวน 12 ลำ
+    - challenge: European outdoor retailer needed a private-label pool line with unique deck graphics, eco-friendly PVC, and retail-ready packaging — all delivered in 60 days.
+      solution: Developed custom digital print files, sourced REACH-compliant PVC, and compressed sampling from 3 rounds to 1 by co-locating the design team at our Qingdao factory.
+      result: 55 days from signed PO to FOB. 2,400 units across 4 SKUs. Repeat order placed before first container arrived.
+    - challenge: US watersports startup needed a high-performance drop-stitch pool with custom shape, co-branded packaging, and BSCI certification for retail placement.
+      solution: Adapted existing pool mould with modified outline, developed co-branded packaging artwork, and provided full BSCI audit documentation.
+      result: Successfully listed in 3 major US outdoor chains. 5,000+ units in first year with 98% sell-through rate.
+    - challenge: Australian distributor required a CE-certified pool range with custom colours and compliance with Australian standards.
+      solution: Produced pre-production samples with 4 colour variants and coordinated third-party compliance testing.
+      result: 3-model pool range launched in AU/NZ market. Followed by government tender win for 12 patrol pools.
+
 faq_section:
-  tagline: คำถามที่พบบ่อย
-  title: คำถามที่พบบ่อยสำหรับ B2B และ OEM
+  tagline: FAQ
+  title: B2B & OEM Frequently Asked Questions
   questions:
-    - q: จำนวนการสั่งซื้อขั้นต่ำ (MOQ) สำหรับบอร์ด SUP เป่าลมแบบ OEM คือเท่าใด?
-      a: MOQ เริ่มต้นที่ 5–10 ลำสำหรับรุ่น OEM มาตรฐาน โครงการแม่พิมพ์เฉพาะและการทำแบรนด์ส่วนตัว (private-label) ต้องมีปริมาณขั้นต่ำ 200 ลำ ขึ้นอยู่กับความซับซ้อน พร้อมรองรับคำสั่งซื้อทดลองและชุดตัวอย่างสำหรับแบรนด์ที่เพิ่งเปิดตัว
-    - q: olagoon ได้รับการรับรอง BSCI หรือไม่?
-      a: ใช่ โรงงานของเรามีใบรับรองการปฏิบัติตามมาตรฐานสังคม BSCI ที่ยังมีผลบังคับใช้ (รายงานการตรวจประเมินพร้อมให้ตามคำขอ) เรายังถือ ISO 9001 สำหรับการจัดการคุณภาพ และสินค้าทั้งหมดมีการรับรอง CE เอกสารการปฏิบัติตามข้อกำหนด REACH และ RoHS จัดส่งให้พร้อมกับสินค้า OEM ทุกชุด
-    - q: โดยทั่วไปคำสั่งซื้อแบบ OEM ใช้เวลาผลิตรอรับสินค้านานเท่าใด?
-      a: ระยะเวลาผลิตมาตรฐานคือ 30–45 วันนับจากการยืนยันคำสั่งซื้อและการชำระเงินมัดจำสำหรับการผลิต OEM แบบจำนวนมาก การพัฒนาแม่พิมพ์เฉพาะเพิ่มเวลา 15–20 วันสำหรับการขึ้นรูป มีบริการผลิตด่วนสำหรับคำสั่งซื้อเร่งด่วนและช่วงความต้องการสูงตามฤดูกาล ตัวอย่างต้นแบบโดยทั่วไปจัดส่งภายใน 15–20 วัน
-    - q: คุณสามารถจัดส่งแบบ FOB ชิงเต่า หรือ CIF ถึงท่าเรือของเราได้หรือไม่?
-      a: ใช่ เราจัดส่งแบบ FOB ชิงเต่า (Qingdao), CIF ท่าเรือหลักทั่วโลก และ DDP สำหรับพันธมิตรที่ผ่านการคัดกรอง ทีมโลจิสติกส์ของเราดูแลการจองตู้คอนเทนเนอร์ เอกสารการส่งออก และพิธีการศุลกากร เราส่งออกไปยังกว่า 50 ประเทศทั่วตลาด EU, US, AU และเอเชีย
-b2b_moq: 'MOQ มาตรฐาน: 5–10 หน่วยต่อรุ่น ยินดีต้อนรับคำสั่งซื้อทดลองสำหรับพันธมิตรใหม่'
+    - q: What is the minimum order quantity (MOQ) for OEM inflatable pools?
+      a: Samples and trial orders start at 5–10 units. Standard production MOQ is 50 units. Custom moulds and private-label projects require a minimum of 200 units depending on complexity.
+    - q: Does olagoon hold BSCI certification?
+      a: Yes. Our factory maintains valid BSCI social compliance certification (audit report available on request). We also hold ISO 9001 for quality management and all products carry CE certification. REACH and RoHS compliance documentation provided with every OEM shipment.
+    - q: What is the typical lead time for an OEM order?
+      a: Production runs take 12–16 weeks for 50–100 units, 10–14 weeks for 300–1,000 units, and 8–12 weeks above 1,000 units, from confirmed PO and deposit to FOB Qingdao. Custom mould development adds 15–20 days for tooling. Expedited production is available for urgent orders and seasonal rushes. Prototype samples typically ship within 15–20 days.
+    - q: Can you ship FOB Qingdao or CIF to our port?
+      a: Yes. We ship FOB Qingdao, CIF major global ports, and DDP for qualified partners. Our logistics team manages container booking, export documentation, and customs clearance. We ship to 50+ countries across EU, US, AU, and Asia markets.
+
+b2b_moq: 'Samples from 5–10 units. Standard production MOQ: 50 units per model.'
+
 production_flow:
-  tagline: ขั้นตอนการผลิต
-  title: จากวัสดุสู่บอร์ดสำเร็จรูป
-  subtitle: บอร์ดทุกลำผ่านกระบวนการผลิต 6 ขั้นตอน โดยมีจุดตรวจสอบ QC ในทุกขั้นตอน ไม่มีการลัดขั้นตอน ไม่มีการข้ามการตรวจสอบ
+  tagline: Production Flow
+  title: From Material to Finished Pool
+  subtitle: Every pool passes through 6 production stages with QC checkpoints at every step. No shortcuts, no skipped inspections.
   stages:
     - stage: '01'
-      title: การรับวัสดุและการตรวจสอบคุณภาพขาเข้า
-      description: วัสดุที่เข้ามาทั้งหมดจะถูกบันทึกด้วยหมายเลขล็อต/ชุดการผลิตในระบบ ERP ของเรา ม้วนผ้า PVC แกน drop-stitch วาล์ว กาว และอุปกรณ์ฮาร์ดแวร์ จะถูกแยกกักไว้จนกว่าจะผ่านการอนุมัติจากแผนก QC
-      qc_check: ความแข็งแรงดึง (ASTM D751) ความต้านทานการฉีกขาด (ISO 4674) การวัดความหนา ความหนืดของกาว และการสแกนตรวจหาข้อบกพร่องด้วยตา
-      qc_threshold: ทดสอบ 100% ของทุกล็อตการผลิต ไม่อนุมัติหากแรงดึงต่ำกว่า 90% ของข้อกำหนด แรงฉีกขาดต่ำกว่าค่าขั้นต่ำ หรือพบตำหนิทางสายตาใด ๆ
-      responsibility: ทีม QC ตรวจสอบสินค้าขาเข้า (พนักงานตรวจสอบ 3 คน)
+      title: Material Receiving & Incoming QC
+      description: 'All incoming materials are logged by batch/lot number in our ERP system. PVC fabric rolls, drop-stitch cores, valves, adhesives, and hardware are quarantined until QC sign-off.'
+      qc_check: 'Tensile strength (ASTM D751), tear resistance (ISO 4674), thickness gauge, adhesive viscosity, visual defect scan'
+      qc_threshold: '100% of batches tested. Reject if tensile < 90% of spec, tear < spec min, or any visual defect'
+      responsibility: Incoming QC team (3 inspectors)
     - stage: '02'
-      title: การตัดด้วย CNC และการเตรียมวัสดุ
-      description: การจัดวางชิ้นส่วนด้วยคอมพิวเตอร์แบบ optimized nesting วางแพทเทิร์นแผ่นบนผ้า PVC เพื่อลดของเสียให้เหลือน้อยที่สุด เครื่องตัด CNC อัตโนมัติคงความแม่นยำของตำแหน่งที่ 0.1 mm
-      qc_check: ตรวจสอบมิติเทียบกับไฟล์ CAD DXF ตรวจสอบคุณภาพขอบ และตรวจสอบจำนวนแผ่นผ้า
-      qc_threshold: วัดทุกแผงลำดับที่ 20 ค่าเผื่อคลาดเคลื่อน ±0.5 มม. ปฏิเสธทั้งล็อตหากเกินค่าเผื่อมากกว่า 2%
-      responsibility: หัวหน้าแผนกตัดวัสดุ
+      title: CNC Cutting & Material Prep
+      description: 'Computer-optimized nesting lays out panels on PVC stock to minimize waste. Automatic CNC cutting machines maintain 0.1 mm positional accuracy.'
+      qc_check: 'Dimensional check against CAD DXF files, edge quality inspection, panel count verification'
+      qc_threshold: 'Every 20th panel measured. Tolerance ±0.5 mm. Reject batch if >2% out of tolerance'
+      responsibility: Cutting workshop lead
     - stage: '03'
-      title: การเชื่อมและการยึดติด Drop-Stitch
-      description: แกนดรอปสติตช์ (Drop-stitch) ถูกยึดติดกับชั้นลามิเนต PVC ชั้นนอกด้วยการอัดรีดด้วยความร้อน ห้องลมของท่อเชื่อมด้วยวิธี RF หรือการเชื่อมด้วยลมร้อน แถบขอบเรือเชื่อมติดด้วยการหลอมรวมสามชั้น
-      qc_check: การทดสอบการลอกตะเข็บทุก 50 ชิ้น (ASTM D751) การวัดความกว้างรอยเชื่อม การตรวจสอบบันทึกอุณหภูมิของเครื่องเชื่อมลมร้อน การตรวจสอบรอยต่อด้วยสายตาภายใต้แสงไฟหลัง
-      qc_threshold: แรงลอกขั้นต่ำ 8 N/cm ความคลาดเคลื่อนของความกว้างรอยเชื่อม ±1 มม. พบร่องที่มองเห็นได้ = ปฏิเสธสินค้า
-      responsibility: การควบคุมคุณภาพการเชื่อม (ผู้ตรวจสอบ 2 คนต่อกะ)
+      title: Welding & Drop-Stitch Bonding
+      description: 'Drop-stitch cores are bonded to outer PVC laminates using heat lamination. Tube chambers are RF-welded or hot-air welded. Rail bands are triple-layer fusion bonded.'
+      qc_check: 'Peel test every 50 units (ASTM D751), weld width measurement, hot-air temperature log review, visual seam inspection under backlight'
+      qc_threshold: 'Peel strength min 8 N/cm. Weld width tolerance ±1 mm. Any visible channeling = reject'
+      responsibility: Welding QC (2 inspectors per shift)
     - stage: '04'
-      title: การประกอบและติดตั้งอุปกรณ์
-      description: 'บอร์ดเข้าสู่ขั้นตอนการประกอบขั้นสุดท้าย ซึ่งชิ้นส่วนทั้งหมดจะถูกประกอบเข้าด้วยกัน: ขอบบอร์ดที่ติดกาวและเชื่อม การติดตั้งวาล์ว ห่วงรูปตัว D ที่จับ กล่องครีบ และการติดตั้งถุงสำหรับยกย้าย บอร์ดแต่ละลำดำเนินการตามรายการตรวจสอบการประกอบ 100 จุด'
-      qc_check: การลงนามรับรองรายการตรวจสอบ 100 จุดต่อลำ การทดสอบการทำงานของวาล์ว (เปิด/ปิด 10 รอบ) การตรวจสอบแรงบิดของอุปกรณ์ และการตรวจสอบด้วยสายตา
-      qc_threshold: 'นโยบายปลอดข้อบกพร่องโดยสิ้นเชิงสำหรับชิ้นส่วนที่สำคัญต่อความปลอดภัย (วาล์ว ห่วงรูปตัว D ที่จับ) ข้อบกพร่องด้านรูปลักษณ์เล็กน้อย: AQL 2.5 (ISO 2859)'
-      responsibility: หัวหน้าทีมประกอบ + ฝ่ายควบคุมคุณภาพสายการผลิต
+      title: Assembly & Rigging
+      description: 'Pools move to final assembly where all components are mated: rails glued and welded, valves installed, D-rings, handles, drain ports, and carry bag fitting. Each unit follows a 100-point assembly checklist.'
+      qc_check: '100-point checklist sign-off per unit, valve function test (10 open/close cycles), hardware torque verification, visual inspection'
+      qc_threshold: 'Zero-defect policy on safety-critical items (valves, D-rings, handles). Minor cosmetic: AQL 2.5 (ISO 2859)'
+      responsibility: Assembly team lead + line QC
     - stage: '05'
-      title: การทดสอบแรงดันและการพักสินค้าเพื่อควบคุมคุณภาพ
-      description: ทุกช่องถูกเป่าลมถึง 1.25 เท่าของแรงดันที่กำหนด (โดยทั่วไป 20–25 PSI) และคงไว้เป็นเวลา 24–48 ชั่วโมง เซ็นเซอร์วัดแรงดันบันทึกข้อมูลอย่างต่อเนื่อง ช่องที่แรงดันลดเกิน 5% จะถูกคัดออกและส่งไปตรวจสอบตะเข็บซ้ำ
-      qc_check: บันทึกการคงแรงดัน 24–48 ชั่วโมง ตรวจสอบการสอบเทียบเซนเซอร์ทุกวัน การอ่านค่าแรงดันที่ชดเชยอุณหภูมิ และการทดสอบตะเข็บซ้ำหลังการซ่อม
-      qc_threshold: แรงดันลดลงสูงสุด 5% ภายใน 24–48 ชม. ที่อุณหภูมิคงที่ ห้องลมใดเกินเกณฑ์นี้ = ทดสอบซ้ำ 100% ทั้งล็อตการผลิต
-      responsibility: ห้องปฏิบัติการคุณภาพ (เป็นอิสระจากฝ่ายผลิต รายงานตรงต่อฝ่ายบริหาร)
+      title: Pressure Testing & Quality Hold
+      description: 'Every chamber is inflated to 1.25× rated pressure (typically 20–25 PSI) and held for 24–48 hours. Pressure sensors log continuously. Chambers exceeding 5% pressure drop are rejected and sent for seam re-inspection.'
+      qc_check: '24–48h pressure hold log, sensor calibration verified daily, temperature-compensated pressure reading, seam re-test after repair'
+      qc_threshold: 'Max 5% pressure drop over 24–48h at stable temp. Any chamber exceeding this = 100% re-test of entire production batch'
+      responsibility: Quality lab (independent of production, reports to management)
     - stage: '06'
-      title: การตรวจสอบขั้นสุดท้ายและการบรรจุ
-      description: การตรวจสอบขั้นสุดท้ายด้านรูปลักษณ์และการทำงาน ทั้งตำหนิบบนพื้นผิว ความสม่ำเสมอของสี การตรวจสอบป้ายกำกับ / BIN ความสมบูรณ์ของบรรจุภัณฑ์ และความครบถ้วนของอุปกรณ์เสริม ผลิตภัณฑ์จะถูกบรรจุแบบสูญญากาศ ใส่กล่อง และจัดวางบนพาเลทเพื่อเตรียมโหลดตู้คอนเทนเนอร์
-      qc_check: ตรวจสอบด้วยสายตาอย่างละเอียด รายการตรวจเช็คอุปกรณ์ตาม SKU ทดสอบการตกของบรรจุภัณฑ์ (1 ม. สุ่มตัวอย่าง) ตรวจสอบการสแกนฉลาก/บาร์โค้ด
-      qc_threshold: AQL 2.5 สำหรับข้อบกพร่องร้ายแรง AQL 4.0 สำหรับข้อบกพร่องเล็กน้อย ไม่ยอมรับข้อบกพร่องด้านความปลอดภัยแม้แต่รายเดียว ตรวจสอบด้วยสายตา 100% ทุกยูนิต
-      responsibility: ทีม QC ขั้นสุดท้าย (พนักงานตรวจสอบ 4 คน) + หัวหน้าทีมบรรจุภัณฑ์
+      title: Final Inspection & Packing
+      description: 'Final visual and functional inspection. Surface defects, color consistency, label/BIN verification, packaging integrity, and accessory completeness. Units are vacuum-packed, boxed, and palletized for container loading.'
+      qc_check: 'Full visual inspection, accessory checklist per SKU, packaging drop test (1 m, random sample), label/bar code scan verification'
+      qc_threshold: 'AQL 2.5 for major defects, AQL 4.0 for minor. Zero tolerance on safety defects. 100% of units visually inspected'
+      responsibility: Final QC team (4 inspectors) + Packing team lead
+
 workforce:
-  tagline: ทีมงานของเรา
-  title: บุคลากรและความเชี่ยวชาญ
+  tagline: Our People
+  title: Workforce & Expertise
   engineers: 25+
-  engineers_detail: วิศวกรครอบคลุมฝ่ายวิจัยและพัฒนา (R&D) การออกแบบแม่พิมพ์ ห้องปฏิบัติการวัสดุ และวิศวกรรมการผลิต โดยมีประสบการณ์เฉลี่ยมากกว่า 7 ปีในอุตสาหกรรมการผลิตผลิตภัณฑ์เป่าลม
-  shift_pattern: ทำงาน 2 กะต่อวัน (07:00–15:30, 15:30–00:00) มีกะกลางคืนเสริมสำหรับคำสั่งซื้อเร่งด่วน
-  training: อบรม QC รายเดือน ซ้อมความปลอดภัยรายไตรมาส ประเมินทักษะรายปี พนักงานใหม่ต้องผ่านการปฐมนิเทศ 40 ชั่วโมงก่อนเริ่มทำงานในสายการผลิต
+  engineers_detail: 'Engineers across R&D, mold design, materials lab, and production engineering. Average 7+ years in inflatable manufacturing.'
+  shift_pattern: '2 shifts/day (07:00–15:30, 15:30–00:00). Optional night shift for urgent orders.'
+  training: 'Monthly QC training, quarterly safety drills, annual skills assessment. New hires complete 40-hour induction before working on production line.'
   departments:
     - name: R&D & Engineering
       count: 25+
-      role: การออกแบบผลิตภัณฑ์ วิศวกรรมแม่พิมพ์ ห้องปฏิบัติการวัสดุ
+      role: Product design, mold engineering, materials lab
     - name: Cutting & Material Prep
       count: 15
-      role: การตัดด้วย CNC การเตรียมชิ้นส่วนแผ่น และการจัดการวัสดุ
+      role: CNC cutting, panel preparation, material handling
     - name: Welding & Lamination
       count: 40
-      role: การเชื่อม RF การเชื่อมลมร้อน การยึดติดแบบ Drop-Stitch
-    - name: SUP Core Bonding
+      role: RF welding, hot-air welding, drop-stitch bonding
+    - name: pool Core Bonding
       count: 30
-      role: การเคลือบดรอปสติทช์ การยึดด้วยความร้อน การหลอมแถบขอบ
+      role: Drop-stitch lamination, heat bonding, rail band fusion
     - name: Assembly & Rigging
       count: 35
-      role: การประกอบขั้นสุดท้าย การติดตั้งฮาร์ดแวร์ การตรวจสอบระบบ
+      role: Final assembly, hardware installation, systems check
     - name: Quality Control
       count: 12
-      role: การควบคุมคุณภาพขาเข้า การควบคุมคุณภาพระหว่างกระบวนการ การตรวจสอบขั้นสุดท้าย และการทดสอบในห้องปฏิบัติการ
+      role: Incoming QC, in-process QC, final inspection, lab testing
     - name: Logistics & Packing
       count: 20
-      role: บรรจุภัณฑ์ การบรรจุตู้คอนเทนเนอร์ เอกสารการส่งออก
+      role: Packaging, container loading, export documentation
     - name: Management & Admin
       count: 15
-      role: ฝ่ายขาย จัดซื้อ ทรัพยากรมนุษย์ การเงิน การปฏิบัติตามกฎระเบียบ
+      role: Sales, procurement, HR, finance, compliance
+
 material_traceability:
-  tagline: การตรวจสอบย้อนกลับ
-  title: การติดตามวัสดุและการควบคุมล็อตการผลิต
-  description: >-
-    วัตถุดิบทุกชุดการผลิตจะได้รับหมายเลขล็อตเฉพาะในระบบ ERP ของเรา ตั้งแต่วัตถุดิบเข้าสู่โรงงาน ผ่านกระบวนการผลิต จนถึงผลิตภัณฑ์สำเร็จรูป รายการวัสดุของบอร์ดแต่ละลำเชื่อมโยงกลับไปยังชุดการผลิตเดิมของซัพพลายเออร์ได้ทั้งหมด
-    ทำให้สามารถตรวจสอบย้อนกลับต้นทางได้อย่างครบถ้วนสำหรับการสอบถามด้านคุณภาพหรือการปฏิบัติตามข้อกำหนดใดๆ
-  system: ระบบ ERP ที่พัฒนาขึ้นเอง (ระบบภายในของ Qingdao Vatrad Group) + ป้ายระบุล็อตการผลิตติดกับใบสั่งผลิตแต่ละใบ
-  coverage: 100% ของวัสดุการผลิต — PVC, ผ้า Drop-Stitch, กาว, วาล์ว, อุปกรณ์ฮาร์ดแวร์, บรรจุภัณฑ์
-  records_retained: 10 ปี (ตามข้อกำหนด CE 2013/53/EU)
+  tagline: Traceability
+  title: Material Tracking & Batch Control
+  description: Every batch of raw material is assigned a unique lot number in our ERP system. From arrival through production to the finished product, each pool's bill of materials links back to the original supplier batch. This enables full upstream traceability for any quality or compliance inquiry.
+  system: Custom ERP (Qingdao Vatrad Group internal system) + physical batch tags on each work order
+  coverage: 100% of production materials — PVC, drop-stitch fabric, adhesives, valves, hardware, packaging
+  records_retained: 10 years (per CE 2013/53/EU requirement)
   suppliers:
-    - material: PVC เกรดสำหรับงานทางทะเล
-      source: ซัพพลายเออร์จากจีนและเกาหลี
+    - material: Marine-grade PVC
+      source: Chinese and Korean suppliers
       certified: ISO 9001, REACH, RoHS
-    - material: ผ้าดรอปสติทช์
-      source: การทอภายในโรงงาน + พาร์ทเนอร์ภายนอก
-      certified: การควบคุมคุณภาพภายใน + ซัพพลายเออร์ที่ผ่าน ISO 9001
-    - material: วาล์วและอุปกรณ์ประกอบ
-      source: ซัพพลายเออร์ OEM ในจีน
-      certified: ISO 9001, ใบรับรองวัสดุประจำชุดการผลิต
+    - material: Drop-stitch fabric
+      source: In-house weaving + external partner
+      certified: Internal QC + supplier ISO 9001
+    - material: Valves & Hardware
+      source: Chinese OEM suppliers
+      certified: ISO 9001, material certs per batch
+
 qc_dashboard:
-  tagline: การควบคุมคุณภาพ (QC) ผ่านตัวเลข
-  title: ตัวชี้วัดการควบคุมคุณภาพ
-  subtitle: ข้อมูลผ่าน/ไม่ผ่านจริงจากสายการผลิตของเรา ห้องปฏิบัติการตรวจสอบคุณภาพทำงานแยกอิสระจากฝ่ายผลิตและรายงานตรงต่อผู้บริหาร
+  tagline: QC by the Numbers
+  title: Quality Control Metrics
+  subtitle: Real pass/fail data from our production line. Our quality lab operates independently from production and reports directly to management.
   stats:
     - value: 100%
-      label: ทุกยูนิตผ่านการทดสอบแรงดัน
-      detail: บอร์ดทุกลำ ทุกห้องอากาศ ทุกชุดการผลิต
-    - value: <5%
-      label: แรงดันลดสูงสุดที่ยอมรับได้
-      detail: ตลอด 24–48 ชั่วโมงที่ความดัน 1.25 เท่าของความดันที่กำหนด
+      label: Units pressure-tested
+      detail: Every pool, every chamber, every batch
+    - value: '<5%'
+      label: Max allowable pressure drop
+      detail: Over 24–48h at 1.25× rated pressure
     - value: AQL 2.5
-      label: เกณฑ์ข้อบกพร่องร้ายแรง
-      detail: ตามมาตรฐานการสุ่มตัวอย่าง ISO 2859
+      label: Major defect threshold
+      detail: Per ISO 2859 sampling standard
     - value: 24–48h
-      label: ระยะเวลาการคงแรงดัน
-      detail: ขึ้นอยู่กับประเภทสินค้า
+      label: Pressure hold duration
+      detail: Depending on product category
     - value: 1.25×
-      label: แรงดันทดสอบเทียบกับแรงดันที่กำหนด
-      detail: เผื่อความปลอดภัยในทุกห้องลม
+      label: Test pressure vs rated
+      detail: Safety margin on every chamber
     - value: 0%
-      label: ความคลาดเคลื่อนที่ยอมรับได้ของข้อบกพร่องด้านความปลอดภัย
-      detail: วาล์ว ห่วง D-ring ตะเข็บ และแรงลอยตัว
+      label: Tolerance on safety defects
+      detail: Valves, D-rings, seams, buoyancy
+
 process_cta:
-  title: ชมกระบวนการผลิตของเรา
-  desc: ติดตาม SUP หนึ่งลำผ่านทุกขั้นตอนการผลิต ตั้งแต่วัตถุดิบจนถึงบอร์ดที่พร้อมออกสู่ทะเล
-  label: ดูกระบวนการผลิต →
+  title: See our manufacturing process
+  desc: Follow a pool through every stage of production — from raw material to backyard-ready pool.
+  label: View production process →
   link: /factory/process/

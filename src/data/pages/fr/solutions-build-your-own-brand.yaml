@@ -1,115 +1,115 @@
 meta:
-  title: 'Créer sa Marque de Paddle — Fabricant OEM | {SITE}'
-  description: "Lancez votre propre marque de paddle gonflable avec olagoon : de l'idée au marché. Service OEM/ODM complet, prototypage, moule personnalisé et marque privée."
-  keywords:
-    - 'créer marque de paddle'
-    - 'paddle marque privée'
-    - 'OEM paddle gonflable'
-    - 'fabricant paddle pour marque privée'
+  title: 'Private Label pool Manufacturing & Custom Brand Launch | {SITE}'
+  description: 'Private label pool manufacturer for new inflatable pool brands. Launch your own pool brand with OLagoon — full OEM/ODM service including design, prototyping, custom branding, production, and global logistics.'
+
 hero:
-  tagline: Construisez Votre Propre Marque
-  title: Lancez Votre Propre<br />Marque SUP
-  subtitle: Vous avez la vision. Nous avons l'usine, l'expertise et la chaîne d'approvisionnement. Ensemble, nous construirons une marque qui se démarque.
+  tagline: Build Your Own Brand
+  title: 'Launch Your Own<br />pool Brand'
+  subtitle: "You have the vision. We have the factory, the expertise, and the supply chain. Private label pool manufacturing and custom pool brand development — together, we'll build a brand that stands out."
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Planche SUP personnalisée d'une marque sur l'eau
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: Custom branded pools on water
+
 process:
-  title: Votre Parcours de Marque
-  subtitle: De l'idée au marché en 5 phases.
+  title: Your Brand Journey
+  subtitle: 'From idea to market in 5 phases.'
   steps:
-    - phase: Phase 1
-      title: Idée
-      period: Week 1-2
+    - phase: 'Phase 1'
+      title: 'Idea'
+      period: 'Week 1-2'
       items:
-        - Étude de marché et analyse concurrentielle
-        - Définition du client cible
-        - Atelier de positionnement de marque
-        - Stratégie de gamme de produits
-    - phase: Phase 2
-      title: Design
-      period: Week 3-6
+        - 'Market research & competitor analysis'
+        - 'Target customer definition'
+        - 'Brand positioning workshop'
+        - 'Product line strategy'
+    - phase: 'Phase 2'
+      title: 'Design'
+      period: 'Week 3-6'
       items:
-        - Forme de planche et design graphique
-        - Assortiment des couleurs et sélection des matériaux
-        - Spécification des accessoires
-        - Conception d'emballage et d'étiquette
-    - phase: Phase 3
-      title: Prototype
-      period: Week 7-10
+        - 'Board shape & graphic design'
+        - 'Color matching & material selection'
+        - 'Accessory specification'
+        - 'Packaging & label design'
+    - phase: 'Phase 3'
+      title: 'Prototype'
+      period: 'Week 7-10'
       items:
-        - Production d'échantillons
-        - Tests qualité (pression, flottabilité, UV)
-        - Ajustements de design
-        - Approbation finale
-    - phase: Phase 4
-      title: Production
-      period: Week 11-14
+        - 'Sample production'
+        - 'Quality testing (pressure, buoyancy, UV)'
+        - 'Design adjustments'
+        - 'Final approval'
+    - phase: 'Phase 4'
+      title: 'Production'
+      period: 'Week 11-14'
       items:
-        - Fabrication en série
-        - Inspection CQ (par unité)
-        - Fret maritime / aérien
-        - Documents de dédouanement
-    - phase: Phase 5
-      title: Lancement
-      period: Week 15-16
+        - 'Bulk manufacturing'
+        - 'QC inspection (per unit)'
+        - 'Sea freight / air freight'
+        - 'Customs clearance documents'
+    - phase: 'Phase 5'
+      title: 'Launch'
+      period: 'Week 15-16'
       items:
-        - Photographie du produit
-        - Flux produits web
-        - Matériel marketing
-        - Support au lancement
+        - 'Product photography'
+        - 'Website product feed'
+        - 'Marketing materials'
+        - 'Launch support'
+
 packages:
-  title: Packs de Démarrage
-  subtitle: Forfaits conçus pour chaque étape de la croissance de la marque.
+  title: Startup Packages
+  subtitle: 'Packages designed for every stage of brand growth.'
   items:
-    - name: Marque Démarrage
-      tagline: 50–100 unités · 2 modèles
+    - name: Starter Brand
+      tagline: '50-100 units · 2 board models'
       features:
-        - Impression de logo basique
-        - Emballage standard
-        - Support par email
-    - name: Marque en Croissance
-      tagline: 300–1 000 unités · 3–5 modèles
+        - 'Basic logo printing'
+        - 'Standard packaging'
+        - 'Email support'
+    - name: Growing Brand
+      tagline: '300-1,000 units · 3-5 board models'
       features:
-        - Couleur personnalisée + logo
-        - Emballage personnalisé
-        - Photos produits
-        - Gestionnaire dédié
-    - name: Marque Établie
-      tagline: 1 000+ unités · Gamme complète
+        - 'Custom color + logo'
+        - 'Custom packaging'
+        - 'Product photos'
+        - 'Dedicated manager'
+    - name: Established Brand
+      tagline: '1,000+ units · Full product line'
       features:
-        - Personnalisation complète
-        - Emballage premium
-        - Documents marketing
-        - Production prioritaire
+        - 'Full customization'
+        - 'Premium packaging'
+        - 'Marketing collateral'
+        - 'Priority production'
+
 features:
-  title: Pourquoi les Marques Choisissent OLagoon
-  subtitle: 10+ ans d'expérience OEM, certification complète et le MOQ le plus bas de l'industrie.
+  title: Why Brands Choose OLagoon
+  subtitle: '10+ years of OEM experience, full certification, and the lowest MOQ in the industry.'
   items:
-    - title: 10+ Ans d'Expérience OEM
-      description: 2 400+ coques livrées à des marques dans le monde entier.
-      icon: tabler:clock
-    - title: Certification Complète
-      description: CE / ISO / UKCA / BSCI / REACH — tout certifié.
-      icon: tabler:certificate
-    - title: Délai de 30 Jours
-      description: Plus rapide que la moyenne du secteur de la commande à l'expédition.
-      icon: tabler:truck-delivery
-    - title: MOQ Bas
-      description: À partir de 50 unités — le plus bas de l'industrie.
-      icon: tabler:package
-    - title: Design Interne
-      description: Support de conception complet du concept à l'illustration finale.
-      icon: tabler:palette
-    - title: Logistique mondiale
-      description: Fret maritime, fret aérien et support de dédouanement.
-      icon: tabler:world
+    - title: '10+ Years OEM Experience'
+      description: '2,400+ hulls delivered to brands worldwide.'
+      icon: 'tabler:clock'
+    - title: 'Full Certification'
+      description: 'CE / ISO / UKCA / BSCI / REACH — all certified.'
+      icon: 'tabler:certificate'
+    - title: 'Tiered Lead Times'
+      description: 'Samples in 15–20 days; production in 8–16 weeks by volume.'
+      icon: 'tabler:truck-delivery'
+    - title: 'Low MOQ'
+      description: 'From 50 units — lowest in the industry.'
+      icon: 'tabler:package'
+    - title: 'In-House Design'
+      description: 'Full design support from concept to final artwork.'
+      icon: 'tabler:palette'
+    - title: 'Global Logistics'
+      description: 'Sea freight, air freight, and customs clearance support.'
+      icon: 'tabler:world'
+
 cta:
-  title: Prêt à lancer votre marque ?
-  subtitle: Commencez votre parcours de marque ou téléchargez notre guide OEM.
+  title: 'Ready to launch your brand?'
+  subtitle: 'Start your brand journey or download our OEM guide.'
   actions:
-    - text: Commencez votre aventure de marque
-      href: /contact/?package=oem
-      variant: primary
-    - text: Télécharger le guide OEM
-      href: /resources/download-catalog/
-      variant: secondary
+    - text: 'Start Your Brand Journey'
+      href: '/contact/?package=oem'
+      variant: 'primary'
+    - text: 'Download OEM Guide'
+      href: '/resources/download-catalog/'
+      variant: 'secondary'

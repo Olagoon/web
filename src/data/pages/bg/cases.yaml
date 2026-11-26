@@ -1,96 +1,96 @@
 meta:
-  title: 'Казуси — партньорства и съвместни марки | {SITE}'
-  description: 'Реални проекти, реални резултати: SUP флотилии за курорти, собствени марки, дистрибуция и спасяване. Вижте как olagoon подкрепя своите партньори.'
+  title: 'Case Studies — Pool Partnership & OEM Projects | {SITE}'
+  description: 'Real projects, real results: resort pool programs, private label lines, dealer distribution, and community pools. See how OLagoon supports its partners.'
   keywords:
-    - 'казуси за sup'
-    - 'партньорски проекти за дъски за гребане'
-    - 'референции за sup марки'
-    - 'примери за морски проекти'
+    - 'pool case studies'
+    - 'inflatable pool partnership projects'
+    - 'drop stitch pool brand references'
+    - 'OEM pool project examples'
 hero:
-  tagline: 'Казуси'
-  title: 'Реални проекти, реални резултати<br />— olagoon в действие'
-  subtitle: 'Вижте как olagoon си партнира с дистрибутори, марки и оператори по целия свят, за да доставя персонализирани морски решения за всяко приложение.'
+  tagline: Case Studies
+  title: 'Real Projects, Real Results<br />— OLagoon in Action'
+  subtitle: 'See how OLagoon partners with dealers, brands, and operators worldwide to deliver drop-stitch pool solutions for every application.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'казуси за olagoon — проекти за персонализирано морско производство'
+    alt: OLagoon case studies — custom pool manufacturing projects
 features3_cases:
-  tagline: 'Представени казуси'
-  title: 'Персонализирани решения<br />за реални предизвикателства'
+  tagline: Featured Cases
+  title: 'Custom Solutions<br />For Real Challenges'
   isBeforeContent: false
   columns: 3
   items:
-    - title: 'Флотилия на европейски център за гмуркане'
-      customer: 'BlueMed Diving Centers'
-      country: 'Гърция'
-      industry: 'Гмуркане и морски туризъм'
-      challenge: 'Изискваха се 12 SUP, конфигурирани за гмуркане, за верига от центрове за гмуркане на няколко гръцки острова. Всяка дъска трябваше да има персонализирани крепления за оборудване, място за съхранение на 8 бутилки и стабилна платформа за влизане на водолази в открита вода. Флотилията трябваше да пристигне в рамките на 60 дни за началото на туристическия сезон.'
-      solution: 'Произведохме 12 модела SUP Voyager Dive с вградени стойки за оборудване, стабилни платформи и екстра широка Drop-Stitch конструкция за стабилност при качване. Всяка дъска беше брандирана с ливреята на флотилията на клиента. Всичките 12 дъски бяха изпитани под налягане и експедирани от Циндао в рамките на 55 дни.'
-      product: 'SUP Voyager Dive'
-      results: 'Всичките 12 дъски бяха доставени навреме за туристическия сезон. Флотилията е в ежедневна експлоатация от 18+ месеца без нито един материален дефект. Клиентът поръча 6 допълнителни единици през втората година.'
-      image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp'
-      quote: 'SUP Voyager Dive е гръбнакът на нашите ежедневни операции по гмуркане. Стабилността е отлична, а подредбата за съхранение на оборудването поддържа палубата чиста и безопасна за нашите гости.'
-      icon: tabler:lifebuoy
-    - title: 'Програма за съвместна марка с австралийски дистрибутор'
-      customer: 'Pacific Watersports Pty Ltd'
-      country: 'Австралия'
-      industry: 'Програма за съвместни марки и партньорства'
-      challenge: 'Австралийски дистрибутор се нуждаеше от гама SUP дъски под собствена марка на конкурентни цени, за да се конкурира с китайските марки, продаващи директно на потребителите. Изискваха се 8 уникални модела, обхващащи от начинаещи до напреднали, с персонализирани графики, персонализирани опаковки и дропшипинг изпълнение до търговските обекти.'
-      solution: 'Разработихме 8 SUP модела (универсален, туристически, йога, детски, спортен, ултракомпактен, ултрастабилен, за бързи води) с ексклузивен австралийски графичен пакет. Персонализирани търговски опаковки с QR кодове, водещи към видеа за настройка. Дропшипинг логистиката беше конфигурирана от Циндао директно до австралийските търговски магазини.'
-      product: 'Персонализирана SUP линия (8 модела)'
-      results: 'От концепцията до първата пратка за 90 дни. Процент на продаваемост на едро от 85% през първия сезон. Дистрибуторът разшири партньорството с допълнителни SUP модели през втората година.'
-      image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp'
-      quote: 'olagoon достави пълна SUP линия за 90 дни — от първоначалния дизайн до търговската зала. Качеството съответства на марки, продавани на два пъти по-висока цена.'
-      icon: tabler:currency-dollar
-    - title: 'Доставка на спасително оборудване за Близкия изток'
-      customer: 'Национална агенция за гражданска защита'
-      country: 'Обединени арабски емирства'
-      industry: 'Издирване и спасяване'
-      challenge: 'Организация за гражданска защита се нуждаеше от 20 патрулно готови SUP за крайбрежно издирване и спасяване, пристанищна охрана и реагиране при наводнения. Изискваха се дъски с висока видимост, пълно спасително оборудване и съответствие с местните морски разпоредби.'
-      solution: 'Доставихме 20 модела SUP Patrol с високо видима оранжева Drop-Stitch конструкция, пълни пакети за безопасност, рефлектираща лента SOLAS и подсилена конструкция. Всяка дъска беше CE сертифицирана и изпитана по приложимите стандарти. Пакетът документация включваше сертификати за съответствие за местна регистрация.'
-      product: 'SUP Patrol'
-      results: 'Флотилията е разположена в 5 крайбрежни станции. Дъските работят при екстремна жега (45°C+) без деградация. Представянето и издръжливостта надхвърлиха спецификациите.'
-      image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp'
-      quote: 'SUP Patrol надхвърли нашите оперативни изисквания. При екстремни горещини дъските не показват признаци на UV деградация след 24 месеца ежедневно използване.'
-      icon: tabler:alert-triangle
-    - title: 'Европейско партньорство със съвместна марка'
-      customer: 'North Sea Marine Equipment BV'
-      country: 'Нидерландия'
-      industry: 'Програма за съвместни марки и партньорства'
-      challenge: 'Утвърдена европейска морска марка искаше да навлезе в пазара на SUP, без да инвестира в производствени мощности. Нуждаеше се от партньор за бяла марка, способен да произвежда 5 SUP модела (от 9 до 12 фута) с частно брандиране, CE сертифициране и изключителни права за дистрибуция в ЕС.'
-      solution: 'Установихме споразумение за производство под бяла марка за 5 SUP модела. Всеки модел беше брандиран с логата и цветовата схема на клиента. Подготвена беше CE документация за всеки модел. Предоставени бяха изключителни права за дистрибуция в ЕС с минимални ангажименти за поръчки. Предоставена беше техническа документация за локалната сервизна мрежа.'
-      product: 'Персонализирана SUP линия (5 модела)'
-      results: 'Подписано многогодишно споразумение. Първата производствена серия от 50 броя беше експедирана в рамките на 75 дни. Марката беше представена на голям търговски изложение с положителен прием от дилърите.'
-      image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp'
-      quote: 'Сътрудничеството с olagoon ни позволи да влезем в пазара на SUP, без да строим фабрика — те доставиха пълно ключово решение с CE сертифициране и документация за дилърска поддръжка.'
-      icon: tabler:building
-    - title: 'Флотилия на карибски курорт'
-      customer: 'Paradise Island Resorts Ltd'
-      country: 'Бахамски острови'
-      industry: 'Морски туризъм и хотелиерство'
-      challenge: 'Луксозен курорт се нуждаеше от пълна флотилия оборудване за водни спортове за активности на гостите: 40 SUP дъски за екскурзии с водач, 20 допълнителни SUP за изследване на лагуната, 10 SUP дъски за гостеви екскурзии, плюс аксесоари. Цялото оборудване трябваше да носи брандинга на курорта и да бъде доставено преди пиковия туристически сезон.'
-      solution: 'Произведохме пълен SUP пакет: 40 дъски SUP Voyager (универсален модел), 20 дъски SUP Explorer, 10 дъски SUP Touring, плюс спасителни жилетки, гребла, помпи и ремонтни комплекти. Цялото оборудване беше отпечатано с логото и тропическата цветова схема на курорта. Контейнерна пратка с пълна описна листовка.'
-      product: 'Пълен SUP пакет (70+ единици)'
-      results: 'Флотилията пристигна 6 седмици преди пиковия сезон. Оценките на гостите за водните спортове се повишиха с 40% спрямо предходната година. Оборудването издържа 3 сезона само с рутинна поддръжка.'
-      image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp'
-      quote: 'Подходът с пълен пакет означаваше, че получихме всичко необходимо в една пратка — дъски и аксесоари, всички брандирани и готови за използване от гостите. Нашите гости оценяват качеството на оборудването.'
+    - title: Caribbean Resort Pool Program
+      customer: Paradise Island Resorts Ltd
+      country: Bahamas
+      industry: Hospitality & Resort Operations
+      challenge: 'Luxury resort wanted to add guest swimming capacity without a construction project. Needed 12 pools across three properties, custom resort branding, matched filtration, and delivery before peak season — all within 60 days.'
+      solution: 'Produced 12 Family Oasis pools with custom resort graphics, 8 sand filter pumps, thermal covers, and entry steps. Each pool was pressure-tested and branded with the customer livery. All units shipped from Qingdao within 55 days.'
+      product: Family Oasis Resort Package
+      results: 'All 12 pools delivered on time for peak season. Pools have been in daily operation for 18+ months with zero material failures. The resort ordered 6 additional units in year two.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/family-oasis.webp'
+      quote: 'The Family Oasis pools became our most requested guest amenity. Setup took minutes, water care is simple, and the resort branding looks fantastic.'
       icon: tabler:beach
-    - title: 'Договор за крайбрежен патрул в САЩ'
-      customer: 'Atlantic Coastal Security Agency'
-      country: 'Съединени щати'
-      industry: 'Морска сигурност и правоприлагане'
-      challenge: 'Американска агенция за крайбрежна сигурност изискваше патрулни SUP за тежки условия при операции на открита вода. Нуждаеха се високоефективни дъски с оборудване по военни спецификации и съответствие с разпоредбите на Бреговата охрана на САЩ.'
-      solution: 'Проектирахме SUP Patrol с подсилена Drop-Stitch конструкция, цветови схеми с висока видимост, крепления за шифрована комуникационна апаратура и интегрирани точки за закрепване на оборудване. Дъските са подсилени за тежки операции. Предоставена беше документация за съответствие с USCG.'
-      product: 'SUP Patrol'
-      results: 'Агенцията докладва 95% готовност за мисии през първите 12 месеца. Направена е допълнителна поръчка за 8 броя.'
-      image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp'
-      quote: 'SUP Patrol дава на нашите екипажи представянето, необходимо за операции на открита вода. Подсилената конструкция осигурява критична издръжливост, без да се жертва управляемостта.'
+    - title: Australian Distributor Private-Label Program
+      customer: Pacific Leisure Pty Ltd
+      country: Australia
+      industry: Private Label & Distribution
+      challenge: 'Australian distributor needed a private-label pool range at competitive pricing to compete with direct-to-consumer imports. Required models covering plunge, family, and lounge segments, with custom graphics, retail packaging, and drop-ship fulfillment.'
+      solution: 'Developed a 3-model private-label line (2 m plunge, 3 m family, 5 m lounge) with exclusive Australian graphics package. Custom retail packaging with QR codes linking to setup videos. Drop-ship logistics configured from Qingdao direct to Australian retail stores.'
+      product: Custom Pool Line (3 models)
+      results: 'Concept to first shipment in 90 days. Retail sell-through rate of 85% in first season. Distributor expanded the partnership with accessory SKUs in year two.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+      quote: 'OLagoon delivered a complete pool line in 90 days — from initial design to retail floor. The quality matches brands selling at twice the price point.'
+      icon: tabler:currency-dollar
+    - title: US Community Pool Program
+      customer: Riverside Parks & Recreation
+      country: United States
+      industry: Municipal & Community Programs
+      challenge: 'City parks department needed seasonal swimming capacity for three neighborhood parks without permanent pool construction budgets. Required durable pools, easy staff setup, and ADA-considerate entry options for public programs.'
+      solution: 'Supplied 6 Grand Lagoon pools with sand filter pumps, ground mats, entry steps, and thermal covers. High-visibility safety graphics, reinforced construction, and staff training materials were included with each unit.'
+      product: Grand Lagoon Community Package
+      results: 'Pools deployed across 3 parks for two seasons. Operating in sustained heat and heavy public use with no degradation. Summer program attendance doubled.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+      quote: 'The Grand Lagoon pools survived two summers of daily public use with only routine water care. Our staff can set one up in under 30 minutes.'
+      icon: tabler:building-community
+    - title: European White-Label Partnership
+      customer: NordPool Equipment BV
+      country: Netherlands
+      industry: White Label & Brand Licensing
+      challenge: 'Established European outdoor brand wanted to enter the backyard pool market without investing in manufacturing. Needed a white-label partner capable of producing a 3-model pool line with private branding, CE documentation, and exclusive EU distribution rights.'
+      solution: 'Established white-label manufacturing agreement for a 3-model line. Each model branded with customer logos and color scheme. CE certification documentation prepared per model. Exclusive EU distribution rights granted with minimum order commitments.'
+      product: Custom Pool Line (3 models)
+      results: 'Multi-year agreement signed. First production run of 50 units shipped within 75 days. Brand launched at a major trade show with positive dealer reception.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/family-oasis.webp'
+      quote: 'Working with OLagoon allowed us to enter the pool market without building a factory — they delivered a complete turnkey solution with CE documentation and dealer support.'
+      icon: tabler:building
+    - title: Holiday Park Rental Fleet
+      customer: SunnyFields Holiday Parks
+      country: France
+      industry: Tourism & Rental Operations
+      challenge: 'Chain of 5 holiday parks wanted to offer pool rentals to guests at campsites without permanent infrastructure. Needed a durable fleet with fast turnover, simple water care, and compact off-season storage.'
+      solution: 'Produced a 15-pool fleet of Compact Plunge and Family Oasis models with matched filtration, quick-drain valve configurations, and shared spare-parts kits. Staff training covered setup, water care, and turnover procedures.'
+      product: Rental Fleet (15 units)
+      results: 'Fleet launched across 5 parks in spring. Rental utilization reached 70% in the first season. Pools stack in a storage room over winter with zero winterization cost.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/compact-plunge.webp'
+      quote: 'The complete package approach meant we received everything we needed in one shipment — pools, filters, and spares, all branded and ready for guests.'
+      icon: tabler:sun
+    - title: US Retail Chain Rollout
+      customer: GreatOutdoors Retail Co.
+      country: United States
+      industry: Retail & Distribution
+      challenge: 'National outdoor retailer wanted a premium inflatable pool program for the spring season across 40 stores. Required reliable supply of 800 units, retail-ready packaging, in-store display materials, and a warranty support process.'
+      solution: 'Built a 3-SKU retail program (Compact Plunge, Family Oasis, sand filter pump) with shelf-ready packaging, planogram displays, and a dedicated warranty line. Production scheduled across two runs with QA sampling at each stage. 800 units delivered to regional DCs in phases.'
+      product: Retail Pool Program (800 units)
+      results: 'Program sold through 92% by mid-summer. Warranty claims below 0.5%. Retailer renewed the program for the following season with expanded accessory SKUs.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/sand-filter-pump.webp'
+      quote: 'OLagoon gave us a turnkey seasonal program — the pools sold through fast, and their warranty handling kept our customer service team out of trouble.'
       icon: tabler:shield
 cta:
-  title: 'Имате проект, който искате да обсъдите?'
-  subtitle: 'Всяко партньорство с olagoon започва с разговор. Разкажете ни за вашите изисквания и ние ще разработим решение.'
+  title: 'Have a project you want to discuss?'
+  subtitle: 'Every OLagoon partnership starts with a conversation. Tell us about your requirements and we will develop a solution.'
   actions:
     - variant: primary
-      text: 'Стартирайте вашия проект'
+      text: Start your project
       href: /contact/
-    - text: 'Вижте нашите възможности'
-      href: /brand-marine-expertise/
+    - text: View our capabilities
+      href: /factory/

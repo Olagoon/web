@@ -1,24 +1,24 @@
 meta:
-  title: Gdje kupiti napuhave paddle ploče OLagoon | OLagoon
-  description: Saznajte kako kupiti napuhavu paddle ploču OLagoon — preko službenog distributera u vašoj zemlji ili izravno od tima OLagoon.
+  title: Where to Buy OLagoon Inflatable Pools | OLagoon
+  description: Find out how to buy an OLagoon inflatable pool — through an official distributor in your country or directly from the OLagoon team. Tell us where you live and we will point you to your nearest dealer.
 hero:
-  tagline: Gdje kupiti
-  title: Izađite na vodu sa svojim OLagoon SUP-om
-  subtitle: OLagoon daske dopiru do veslača u više od 50 zemalja. Pronađite najjednostavniji način da dođete do svoje — preko službenog distributera u vašoj blizini ili izravno od tima OLagoon.
+  tagline: Where to Buy
+  title: Get Your OLagoon pool on the Water
+  subtitle: OLagoon pools reach families in 50+ countries. Find the simplest way to get yours — through an official distributor near you or directly from the OLagoon team.
 channels:
   items:
-    - title: Službeni distributeri po zemljama
-      description: OLagoon surađuje s ekskluzivnim distributerima u mnogim zemljama. Recite nam gdje veslate i povezat ćemo vas s vašim lokalnim prodavačem, cijenama i dostupnošću.
-      cta: Pronađite lokalnog prodavača
+    - title: Official Country Distributors
+      description: OLagoon works with exclusive distributors in many countries. Tell us where you live and we will connect you with your local dealer, pricing, and availability.
+      cta: Find Your Local Dealer
       href: /contact/?subject=Where to Buy
-    - title: Izravna narudžba od OLagoona
-      description: Još nema distributera u vašoj zemlji? Tim OLagoon može organizirati izravne narudžbe i dostavu kako biste izašli na vodu, gdje god živjeli.
-      cta: Pitajte o dostupnosti
+    - title: Order Direct from OLagoon
+      description: No distributor in your country yet? The OLagoon team can arrange direct orders and shipping so you can get on the water wherever you live.
+      cta: Request Availability
       href: /contact/?subject=Where to Buy
 form_intro:
-  title: Pitajte o dostupnosti
-  subtitle: Pošaljite nam poruku s vašom zemljom i daskom koja vas zanima. Naš tim će odgovoriti u roku od jednog radnog dana s najbližim prodavačem ili opcijama izravne narudžbe.
+  title: Ask About Availability
+  subtitle: Send us a message with your country and the pool you are interested in. Our team will reply within one business day with your nearest dealer or direct-order options.
 business_note:
-  text: Kupujete za klub, resort ili trgovinu? Istražite naše poslovne i partnerske programe.
-  cta: Za poslovne partnere
+  text: Buying for a club, resort, or store? Explore our business and partnership programs.
+  cta: For Business Partners
   href: /solutions/

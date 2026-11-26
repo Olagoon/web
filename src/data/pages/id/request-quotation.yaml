@@ -1,99 +1,99 @@
 meta:
-  title: 'Minta Penawaran — Manufaktur SUP OEM | {SITE}'
-  description: 'Minta penawaran rinci untuk proyek SUP tiup Anda. Manufaktur OEM/ODM, private label, atau armada kustom — kami merespons dalam 2 hari kerja.'
+  title: 'Request a Quotation — OEM pool Manufacturing | {SITE}'
+  description: 'Request a detailed quotation for your inflatable pools project. OEM/ODM manufacturing, private label, or custom fleets — we respond within 2 business days.'
   keywords:
-    - 'minta penawaran sup'
-    - 'penawaran papan dayung oem'
-    - 'penawaran pabrik sup'
-    - 'harga sup tiup'
+    - 'request pool quote'
+    - 'oem inflatable pool quote'
+    - 'pool factory quotation'
+    - 'inflatable pools price'
 hero_text:
-  tagline: 'Minta Penawaran'
-  title: 'Minta Penawaran<br />untuk Proyek Anda'
-  subtitle: 'Ceritakan kebutuhan Anda dan tim kami akan merespons dengan penawaran rinci dalam 2 hari kerja.'
+  tagline: Get a Quote
+  title: 'Request a Quotation<br />for Your Project'
+  subtitle: 'Tell us about your requirements and our team will respond with a detailed quotation within 2 business days.'
 steps2_process:
-  title: 'Cara Kerjanya'
-  subtitle: 'Empat langkah sederhana dari pertanyaan hingga penawaran.'
+  title: How It Works
+  subtitle: 'Four simple steps from inquiry to quotation.'
   items:
-    - title: 'Langkah 1: Kirim Kebutuhan Anda'
-      description: 'Isi formulir di bawah dengan jenis produk, kuantitas, dan spesifikasi Anda. Semakin detail informasi yang Anda berikan, semakin akurat penawaran Anda.'
+    - title: 'Step 1: Submit Your Requirements'
+      description: 'Fill out the form below with your product type, quantity, and specifications. The more detail you provide, the more accurate your quotation.'
       icon: tabler:file-text
-    - title: 'Langkah 2: Kami Tinjau & Saran'
-      description: 'Tim rekayasa kami meninjau kebutuhan Anda dan mungkin menghubungi Anda untuk klarifikasi. Kami memberikan rekomendasi tentang konfigurasi dan opsi produk.'
+    - title: 'Step 2: We Review & Advise'
+      description: 'Our engineering team reviews your requirements and may contact you for clarification. We provide recommendations on product configuration and options.'
       icon: tabler:users
-    - title: 'Langkah 3: Terima Penawaran Anda'
-      description: 'Anda menerima penawaran rinci termasuk harga per unit, MOQ, waktu tunggu, syarat pembayaran, dan opsi pengiriman. Biasanya dalam 48 jam.'
+    - title: 'Step 3: Receive Your Quote'
+      description: 'You receive a detailed quotation including unit pricing, MOQ, lead time, payment terms, and shipping options. Typically within 48 hours.'
       icon: tabler:currency-dollar
-    - title: 'Langkah 4: Sampel & Produksi'
-      description: 'Setelah penawaran disetujui, kami melanjutkan ke produksi sampel (jika berlaku) atau langsung ke produksi massal. Pembaruan rutin sepanjang proses.'
+    - title: 'Step 4: Sample & Production'
+      description: 'After quote acceptance, we proceed to sample production (if applicable) or directly to mass production. Regular updates throughout the process.'
       icon: tabler:building-factory
 content_form:
-  tagline: 'Formulir Penawaran'
-  title: 'Ceritakan Proyek Anda'
-  subtitle: 'Semua kolom bertanda * wajib diisi.'
+  tagline: Quotation Form
+  title: 'Tell Us About Your Project'
+  subtitle: 'All fields with * are required.'
   contact_fields:
-    firstName: 'Nama Depan'
-    lastName: 'Nama Belakang'
-    companyName: 'Nama Perusahaan'
-    email: 'Email'
+    firstName: First Name
+    lastName: Last Name
+    companyName: Company Name
+    email: E-mail
   fields:
-    - name: 'Kategori Produk'
+    - name: Product Category
       type: select
       options:
-        - 'Papan SUP'
-        - 'SUP Tiup'
-        - 'Papan SUP Tiup'
-        - 'Rompi Pelampung'
-        - 'Aksesori Marinir'
-        - 'OEM/ODM Kustom'
-    - name: 'Aplikasi'
+        - pools
+        - inflatable pools
+        - inflatable pools
+        - Thermal Cover
+        - Marine Accessory
+        - Custom OEM/ODM
+    - name: Application
       type: select
       options:
-        - 'Pusat Selam'
-        - 'Memancing'
-        - 'Pariwisata Marinir / Resor'
-        - 'Pencarian & Penyelamatan'
-        - 'Pemerintah / Militer'
-        - 'OEM / Private Label'
-        - 'Pribadi / Rekreasi'
-        - 'Lainnya'
-    - name: 'Kuantitas'
+        - Diving Center
+        - Fishing
+        - Marine Tourism / Resort
+        - Search & Rescue
+        - Government / Military
+        - OEM / Private Label
+        - Personal / Recreational
+        - Other
+    - name: Quantity
       type: text
-      placeholder: 'mis. 50 unit'
-    - name: 'Pasar Target'
+      placeholder: e.g. 50 units
+    - name: Target Market
       type: text
-      placeholder: 'mis. Eropa, Amerika Utara, Timur Tengah'
-    - name: 'Negara Tujuan Pengiriman'
+      placeholder: e.g. Europe, North America, Middle East
+    - name: Delivery Country
       type: text
-      placeholder: 'mis. Italia, UEA, AS, Australia'
-    - name: 'Preferensi Material'
+      placeholder: e.g. Italy, UAE, USA, Australia
+    - name: Material Preference
       type: select
       options:
-        - 'Tanpa Preferensi'
-        - 'PVC Kelas Marinir (1100 dtex)'
-        - 'Lambung Fiberglass'
-        - 'Lambung Aluminium'
-    - name: 'Kebutuhan Penggerak'
+        - No Preference
+        - Marine-Grade PVC (1100 dtex)
+        - Fiberglass Hull
+        - Aluminum Hull
+    - name: Engine Requirement
       type: text
-      placeholder: 'mis. setelan dayung standar, pompa listrik, warna kustom'
-    - name: 'Kustomisasi yang Dibutuhkan'
+      placeholder: e.g. standard filtration package, electric pump, custom colors
+    - name: Customization Required
       type: text
-      placeholder: 'mis. warna kustom, pencitraan merek/logo, pengemasan, fitting khusus'
-    - name: 'Linimasa'
+      placeholder: e.g. custom colors, branding/logo, packaging, special fittings
+    - name: Timeline
       type: text
-      placeholder: 'mis. pengiriman dalam 90 hari'
-    - name: 'Kebutuhan Tambahan'
+      placeholder: e.g. delivery within 90 days
+    - name: Additional Requirements
       type: textarea
-      placeholder: 'Jelaskan aplikasi, spesifikasi teknis, atau persyaratan khusus Anda — sertakan gambar referensi, spesifikasi, atau tautan jika tersedia'
-    - name: 'Unggah Spesifikasi'
+      placeholder: Describe your application, technical specifications, or any special requirements — include reference drawings, specifications, or links if available
+    - name: Upload Specification
       type: file
-      placeholder: 'Unggah lembar spesifikasi, gambar, atau dokumen referensi Anda (PDF, DWG, DXF)'
-    - name: 'Unggah Logo / Artwork'
+      placeholder: Upload your spec sheet, drawing, or reference document (PDF, DWG, DXF)
+    - name: Upload Logo / Artwork
       type: file
-      placeholder: 'Unggah logo atau artwork Anda untuk pencitraan merek kustom (AI, EPS, PNG)'
+      placeholder: Upload your logo or artwork for custom branding (AI, EPS, PNG)
 cta:
-  title: 'Lebih suka diskusi lewat email?'
-  subtitle: 'Kirim pertanyaan Anda langsung ke tim penjualan kami dan kami akan merespons dalam 24 jam.'
+  title: 'Prefer to discuss by email?'
+  subtitle: 'Send your inquiry directly to our sales team and we will respond within 24 hours.'
   actions:
     - variant: primary
-      text: 'Email kami langsung'
+      text: Email us directly
       href: /contact/

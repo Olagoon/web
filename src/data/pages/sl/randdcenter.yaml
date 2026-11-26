@@ -1,130 +1,130 @@
 meta:
-  title: 'Center za raziskave in razvoj | {SITE}'
-  description: 'Raziskave in razvoj — preskušanje tkanin PVC, inženiring trupov, varjenje RF, hidrodinamično preskušanje in nadzor kakovosti. Storitve raziskav in razvoja po meri so na voljo.'
+  title: 'R&D Center | {SITE}'
+  description: 'Research & Development — PVC fabric testing, hull engineering, RF welding, hydrodynamic testing, and quality control. Custom R&D services available.'
 
 hero:
-  tagline: 'Center za raziskave in razvoj'
-  title: 'Center za raziskave in razvoj'
-  subtitle: 'Usmerjeni v napredek'
+  tagline: R&D Center
+  title: R & D Center
+  subtitle: Focused on Progress
 
 intro:
-  - 'Center olagoon za raziskave in razvoj (R&D) je gonilna sila našega poslanstva preoblikovanja opreme za vodne športe. Ljubiteljem vodnih športov po vsem svetu omogočamo varnejše, bolj udobne in prijetnejše izdelke z neomajnim inoviranjem na področju napihljivih desk za stoječe veslanje (SUP). Naša predana ekipa inženirjev, oblikovalcev in strastnih strokovnjakov za vodne športe oblikuje prihodnost panoge in dosledno dviguje merila kakovosti, zmogljivosti in trajnosti.'
-  - 'Naša raziskovalno-razvojna naprava povezuje znanstvenike s področja materialov ter pomorske in proizvodne inženirje pod eno streho. Od formulacij tkanin in simulacij trupov do razvoja postopkov varjenja in preskušanj na morju v polni velikosti je vsaka stopnja razvoja izdelka podprta s podatki in potrjena s preskušanjem.'
+  - olagoon's Research and Development (R&D) Center is the driving force behind our mission to revolutionize water sports equipment. We empower water sports enthusiasts globally with safer, more comfortable, and more enjoyable products through relentless innovation in inflatable drop-stitch pool (pools). Our dedicated team of engineers, designers, and passionate water sports experts are shaping the future of the industry, consistently raising the bar for quality, performance, and sustainability.
+  - Our R&D facility brings together material scientists, marine engineers, and production engineers under one roof. From fabric formulation and hull simulation to welding process development and full-scale sea trials, every stage of product development is driven by data and validated by testing.
 
 mission:
-  tagline: 'Naše poslanstvo'
-  title: 'Inoviranje prihodnosti vodnih športov'
+  tagline: Our Mission
+  title: Innovating the Future of Water Sports
   pillars:
     - icon: lightning
-      title: 'Tehnološki napredek'
-      desc: 'Pionirstvo novih materialov, oblik in proizvodnje za vrhunsko zmogljivost in dolgo življenjsko dobo izdelkov.'
+      title: Technological Advancement
+      desc: Pioneering new materials, designs, and manufacturing for superior product performance and longevity.
     - icon: design
-      title: 'Oblikovanje osredotočeno na uporabnika'
-      desc: 'Globoko razumevanje in preseganje potreb uporabnikov z ergonomskim in intuitivnim oblikovanjem izdelkov.'
+      title: User-Centric Design
+      desc: Deeply understanding and exceeding user needs through ergonomic and intuitive product design.
     - icon: globe
-      title: 'Trajnostne prakse'
-      desc: 'Zmanjševanje našega okoljskega odtisa z uporabo okolju prijaznih materialov in postopkov.'
+      title: Sustainable Practices
+      desc: Minimizing our environmental footprint by utilizing eco-friendly materials and processes.
     - icon: shield
-      title: 'Neomajna varnost'
-      desc: 'Zagotavljanje najvišjih varnostnih standardov z doslednim preskušanjem in certificiranjem.'
+      title: Uncompromising Safety
+      desc: Ensuring the highest safety standards through rigorous testing and certification.
 
 pillars:
-  - title: 'Tehnološki napredek'
-    desc: 'Pionirstvo novih materialov, oblik in proizvodnih postopkov za vrhunsko zmogljivost in dolgo življenjsko dobo izdelkov.'
+  - title: Technological Advancement
+    desc: Pioneering new materials, designs, and manufacturing processes to deliver superior product performance and longevity.
     icon: tech
-  - title: 'Napredni materiali'
-    desc: 'Raziskovanje najsodobnejših materialov PVC, kompozitov in trajnostnih alternativ za izboljšane lastnosti izdelkov.'
+  - title: Advanced Materials
+    desc: Investigating cutting-edge PVC, composites, and sustainable alternatives for enhanced product characteristics.
     icon: materials
-  - title: 'Trajnost'
-    desc: 'Temeljna zaveza: Posvečeni smo skrbni za okolje s trajnostno proizvodnjo in recikliranimi materiali.'
+  - title: Sustainability
+    desc: 'A Core Commitment: We are dedicated to environmental stewardship through sustainable manufacturing and recyclable materials.'
     icon: sustainability
 
 capabilities:
-  tagline: 'Zmožnosti'
-  title: 'Zmožnosti raziskav in razvoja'
-  subtitle: 'Štiri temeljne discipline, ki nam dajejo popoln nadzor nad razvojem izdelkov — od raziskav surovin do končne certifikacije.'
+  tagline: Capabilities
+  title: R&D Capabilities
+  subtitle: Four core disciplines that give us end-to-end control over product development — from raw material research to final certification.
   groups:
-    - title: 'Znanost o materialih in tehnologija tkanin'
+    - title: Material Science & Fabric Technology
       items:
-        - 'Analiza in optimizacija formulacij PVC'
-        - 'Razvoj dodatkov za stabilizacijo proti UV, negorljivost in antimikrobno zaščito'
-        - 'Večplastna laminacija tkanin in inženiring oprijema'
-        - 'Pospešeno preskušanje staranja (UV, toplota, vlažnost, slana meglica)'
-    - title: 'Inženiring trupov in hidrodinamika'
+        - PVC formulation analysis and optimisation
+        - UV stabilisation, flame retardancy, and anti-microbial additive development
+        - Multi-layer fabric lamination and adhesion engineering
+        - Accelerated ageing testing (UV, thermal, humidity, salt spray)
+    - title: Hull Engineering & Hydrodynamics
       items:
-        - 'Parametrično 3D oblikovanje trupov in optimizacija CFD'
-        - 'Analiza končnih elementov za strukturne in udarne obremenitve'
-        - 'Preskušanje vlečenja modelov v merilu in preverjanje zmogljivosti'
-        - 'Razvoj trupov po meri za posebne profile uporabe'
-    - title: 'Tehnologija varjenja in spajanja'
+        - Parametric 3D hull design and CFD optimisation
+        - Finite element analysis for structural and impact loads
+        - Scale-model towing tank testing and performance validation
+        - Custom hull development for special mission profiles
+    - title: Welding & Joining Technology
       items:
-        - 'Razvoj in optimizacija postopka dielektričnega varjenja RF'
-        - 'Metode varjenja z vročim zrakom, vročim klinom in z ultrazvokom'
-        - 'Lepljenje in kvalifikacija lepilnih trakov za šive'
-        - 'Modeliranje trdnosti varov in napoved življenjske dobe'
-    - title: 'Preskušanje, certifikacija in skladnost'
+        - RF dielectric welding process development and optimisation
+        - Hot-air, hot-wedge, and ultrasonic welding methods
+        - Adhesive bonding and seam tape qualification
+        - Weld strength modelling and lifetime prediction
+    - title: Testing, Certification & Compliance
       items:
-        - 'Upravljanje kakovosti in preskušanje skladnosti s CE'
-        - 'Neodvisno preskušanje tretjih oseb in podpora pri certifikaciji'
-        - 'Razvoj protokolov preskušanj po meri za kvalifikacijo javnih naročil'
-        - 'Analiza odpovedi v uporabi in raziskovanje vzrokov'
+        - Quality management and CE compliance testing
+        - Independent third-party testing and certification support
+        - Custom test protocol development for procurement qualification
+        - In-service failure analysis and root-cause investigation
 
 rd_numbers:
-  tagline: 'Inovacije'
-  title: 'Raziskave in razvoj v številkah'
+  tagline: Innovation
+  title: R&D by the Numbers
   stats:
     - value: '14'
-      label: 'Inženirji in znanstveniki na področju raziskav in razvoja'
+      label: R&D engineers & scientists
     - value: '8'
-      label: 'Aktivni patenti in prijave'
+      label: Active patents & filings
     - value: '6'
-      label: 'Specializirani laboratoriji'
-    - value: '12 let'
-      label: 'Povprečne izkušnje ekipe'
+      label: Specialised labs
+    - value: 12 yr
+      label: Average team experience
 
 rd_services:
-  tagline: 'Raziskave in razvoj po meri'
-  title: 'Storitve raziskav in razvoja za partnerje'
+  tagline: Custom R&D
+  title: R&D Services for Partners
   services:
-    - title: 'Razvoj materialov po meri'
-      desc: 'Razvijamo formulacije tkanin, sloje laminatov in sisteme lepil po meri, prilagojene vašemu obratovalnemu okolju in ciljem zmogljivosti.'
-    - title: 'Inženiring izdelkov OEM / ODM'
-      desc: 'Razvijamo formulacije tkanin, sloje laminatov in sisteme lepil po meri, prilagojene vašemu obratovalnemu okolju in ciljem zmogljivosti.'
-    - title: 'Preskušanje in certifikacija pri tretjih osebah'
-      desc: 'Uporabite naše preskusne zmogljivosti, skladne z ISO, za neodvisno preskušanje materialov, preverjanje izdelkov in podporo pri certifikaciji.'
-  cta: 'Pogovorite se o svojih zahtevah glede raziskav in razvoja →'
+    - title: Custom Material Development
+      desc: We develop custom fabric formulations, laminate stacks, and adhesive systems tailored to your operating environment and performance targets.
+    - title: OEM / ODM Product Engineering
+      desc: We develop custom fabric formulations, laminate stacks, and adhesive systems tailored to your operating environment and performance targets.
+    - title: Third-Party Testing & Certification
+      desc: Use our ISO-compliant test facilities for independent material testing, product validation, and certification support.
+  cta: Discuss your R&D requirements →
   cta_link: /contact/
 
 vision:
-  tagline: 'Naša vizija'
-  title: 'Oblikovanje prihodnosti vodnih športov'
-  body: 'olagoon si prizadeva voditi panogo napihljivih SUP s stalnimi inovacijami, neomajno kakovostjo in trdno zavezanostjo varnosti ter trajnosti — s čimer bogati izkušnje ljubiteljev vodnih športov po vsem svetu. Center olagoon za raziskave in razvoj je kraj, kjer se strast srečuje z inovacijami in določa nova merila panogi vodnih športov.'
+  tagline: Our Vision
+  title: Shaping the Future of Water Sports
+  body: OLagoon strives to lead the inflatable pool industry through continuous innovation, unwavering quality, and a steadfast commitment to safety and sustainability — ultimately enriching backyard summers for families worldwide. The olagoon R&D Center is where passion meets innovation, setting new standards for the water sports industry.
 
 labs_section:
-  tagline: 'Laboratoriji'
-  title: 'Naši laboratoriji'
+  tagline: Labs
+  title: Our Laboratories
   labs:
     - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
-      title: 'Laboratorij za tkanine PVC'
-      description: 'Nenehne raziskave in preskušanje tkanin iz PVC za palube glede natezne trdnosti, odpornosti proti UV, obrabe in prožnosti pri nizkih temperaturah za dolgoročno zanesljivost v morskem okolju.'
+      title: PVC Fabric Lab
+      description: Continuous research and testing of PVC deck fabrics for tensile strength, UV resistance, abrasion, and low-temperature flexibility to ensure long-term reliability in marine environments.
       href: /randdcenter/pvc-fabric-lab/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-      title: 'Studio za inženiring trupov'
-      description: 'Oblikovanje na podlagi CAD in analiza končnih elementov trupov iz HDPE, aluminija in steklenih vlaken. Vsak trup se digitalno simulira za porazdelitev napetosti in odpornost na udarce, preden se zgradi prvi prototip.'
+      title: Hull Engineering Studio
+      description: CAD-driven design and finite element analysis of HDPE, aluminum, and fiberglass hulls. Every hull is digitally simulated for stress distribution and impact resistance before the first prototype is built.
       href: /technology/
-    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
-      title: 'Center za varjenje RF'
-      description: 'Namenska naprava za varjenje z radiofrekvenco z natančnim nadzorom temperature in tlaka, ki ustvarja visokotrdna, zrakotesna tesnila v skladu s standardi pomorske panoge za napihljiva plovila.'
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+      title: RF Welding Center
+      description: Dedicated radio-frequency welding facility with precision temperature and pressure control, producing high-strength, airtight seams that meet marine industry standards for inflatable craft.
       href: /randdcenter/rf-welding/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
-      title: 'Hidrodinamični preskusni bazen'
-      description: 'Preskušanje modelov v merilu v našem lastnem preskusnem bazenu za optimizacijo oblike trupa, zmogljivosti drsenja, stabilnosti in učinkovitosti v različnih pogojih obremenitve in morja.'
+      title: Hydrodynamic Test Tank
+      description: Scale-model testing in our in-house test tank to optimize hull form, planing performance, stability, and fuel efficiency across a range of load and sea conditions.
       href: /technology/
-    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      title: 'Delavnica za prototipe'
-      description: 'Naprava za izdelavo prototipov v polni velikosti in njihovo opremljanje, kjer se gradijo, opremijo in preizkušajo na morju novi modeli. Vsak prototip pred odobritvijo proizvodnje opravi najmanj 20-urni preskusni program v vodi.'
+    - image: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+      title: Prototype Workshop
+      description: Full-scale prototyping and rigging facility where new models are built, fitted, and sea-trialed. Every prototype undergoes a minimum 20-hour in-water test programme before production approval.
       href: /randdcenter/prototype-workshop/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
-      title: 'Laboratorij za kakovost in pregledovanje'
-      description: 'Namenski laboratorij zagotavljanja kakovosti, ki izvaja natezna preskušanja, cikle zadrževanja zraka, preskuse luščenja šivov in certifikacijo materialov, da vsaka deska, ki zapusti delavnico, ustreza našim objavljenim specifikacijam.'
+      title: Quality & Inspection Lab
+      description: Dedicated quality assurance lab performing tensile testing, air-retention cycling, seam peel tests, and material certification to ensure every pool leaving the workshop meets our published specifications.
       href: /randdcenter/quality-inspection-lab/

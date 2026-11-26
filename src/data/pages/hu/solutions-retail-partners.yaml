@@ -1,103 +1,103 @@
 meta:
-  title: 'SUP nagykereskedelmi és kiskereskedelmi partnerprogram | {SITE}'
-  description: 'SUP nagykereskedelmi partnerprogram kiskereskedőknek és sportboltoknak. Teljes termékvonal, dropshipping opciók, versenyképes nagykereskedelmi árrések 20–35%-tól és alacsony MOQ a kezdéshez.'
+  title: 'pool Wholesale & Retail Partner Program | {SITE}'
+  description: 'pool wholesale partner program for retailers and sporting goods stores. Full product line, dropshipping options, competitive wholesale margins from 20–35%, and low MOQ to start.'
 
 hero:
-  tagline: 'Kiskereskedelmi partnerek'
-  title: 'Értékesítsen prémium felfújható SUP-okat<br />működő árrésekkel'
-  subtitle: 'Legyen OLagoon kiskereskedelmi partner — vigye a leggyorsabban növekvő SUP márkát a piacán teljes nagykereskedelmi árazással, dropshippinggel, professzionális marketinganyagokkal és dedikált támogatással.'
+  tagline: Retail Partners
+  title: 'Sell Premium inflatable pools<br />With Margins That Work'
+  subtitle: 'Become an OLagoon retail partner — carry the fastest-growing pool brand in your market with full wholesale pricing, dropshipping, professional marketing materials, and dedicated support.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: OLagoon SUP lapok kiskereskedelmi boltban kiállítva
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools displayed in a retail store
 
 margin_section:
-  title: 'Kiskereskedelmi árrések és MOQ'
-  subtitle: 'A kiskereskedelmi jövedezettségre tervezett nagykereskedelmi árazási szintek.'
+  title: 'Retail Margins & MOQ'
+  subtitle: 'Wholesale pricing tiers designed for retail profitability.'
   items:
-    - tier: 'Alap partner'
+    - tier: 'Basic Partner'
       discount: '20%'
-      moq: '500 egység/év'
-      margin_note: '~150–250 USD haszon laponként'
+      moq: '500 units/yr'
+      margin_note: '~$150–250 profit per board'
       features:
-        - 'Hozzáférés a teljes termékvonalhoz'
-        - 'Marketinganyag csomag'
-        - 'E-mail támogatás'
-        - 'Termékkatalógus hozzáférés'
-    - tier: 'Prémium partner'
+        - 'Access to full product line'
+        - 'Marketing materials package'
+        - 'Email support'
+        - 'Product catalog access'
+    - tier: 'Premium Partner'
       discount: '30%'
-      moq: '2 000+ egység/év'
-      margin_note: '~250–400 USD haszon laponként'
+      moq: '2,000+ units/yr'
+      margin_note: '~$250–400 profit per board'
       features:
-        - 'Dedikált ügyfélmenedzser'
-        - 'Kizárólagos területi védelem'
-        - 'Egyedi marketingtámogatás'
-        - 'Első hozzáférés az új termékekhez'
-        - 'Munkatársi képzések'
-    - tier: 'Zászlóshajó partner'
+        - 'Dedicated account manager'
+        - 'Exclusive territory protection'
+        - 'Custom marketing support'
+        - 'First access to new products'
+        - 'Staff training sessions'
+    - tier: 'Flagship Partner'
       discount: '35%+'
-      moq: '5 000+ egység/év'
-      margin_note: '~350–500+ USD haszon laponként'
+      moq: '5,000+ units/yr'
+      margin_note: '~$350–500+ profit per board'
       features:
-        - 'Közös márkás marketingkampányok'
-        - 'Bolti kiállítási támogatás'
-        - 'Helyszíni munkatársi képzés'
-        - 'Közösségi média közös promóciók'
-        - 'Elsőbbségi gyártási allokáció'
+        - 'Co-branded marketing campaigns'
+        - 'In-store display support'
+        - 'On-site staff training'
+        - 'Joint social media promotions'
+        - 'Priority production allocation'
 
 product_line:
-  title: 'Teljes termékvonal'
-  subtitle: 'SUP lap minden ügyfélnek, aki belép az ajtaján.'
+  title: Complete Product Line
+  subtitle: 'A pools for every customer who walks through your door.'
   items:
-    - name: 'All-Round széria'
-      description: 'Legkelendőbb — az ügyfelek 80%-ának megfelel'
-    - name: 'Touring széria'
-      description: 'Teljesítmény evezők — magasabb árrés'
-    - name: 'Jóga széria'
-      description: 'Fűtők piac — prémium árazás'
-    - name: 'Gyerek széria'
-      description: 'Családi ügyfelek — visszatérő vásárló'
-    - name: 'Verseny széria'
-      description: 'Rajongói piac — márka fény'
-    - name: 'Kiegészítők'
-      description: 'Magas árrésű kiegészítők (evezők, mellények, szivattyúk, táskák)'
+    - name: All-Round Series
+      description: 'Best seller — fits 80% of customers'
+    - name: Touring Series
+      description: 'Performance swimmers — higher margin'
+    - name: Yoga Series
+      description: 'Niche market — premium pricing'
+    - name: Kids Series
+      description: 'Family customers — repeat buyer'
+    - name: Racing Series
+      description: 'Enthusiast market — brand halo'
+    - name: Accessories
+      description: 'High margin add-ons (paddles, vests, pumps, bags)'
 
 catalog:
-  title: 'Kiskereskedelmi partner források'
-  subtitle: 'Töltse le átfogó kiskereskedelmi partner csomagunkat.'
+  title: Retail Partner Resources
+  subtitle: 'Download our comprehensive retail partner kit.'
   items:
-    - name: '2026-os termékkatalógus'
-      desc: 'Teljes kínálat specifikációkkal, árazással és rendelési információkkal'
+    - name: '2026 Product Catalog'
+      desc: 'Full lineup with specs, pricing, and ordering information'
       icon: 'tabler:file-text'
       link: '/resources/download-catalog/'
-    - name: 'Kiskereskedelmi partner útmutató'
-      desc: 'Árréskalkulátor, árucsoport-elrendezési tippek és bevált gyakorlatok'
+    - name: 'Retail Partner Guide'
+      desc: 'Margin calculator, merchandising tips, and best practices'
       icon: 'tabler:book'
       link: '/resources/download-catalog/'
-    - name: 'Marketingeszköz csomag'
-      desc: 'Nagy felbontású termékfotók, életmód képek és POS anyagok'
+    - name: 'Marketing Asset Pack'
+      desc: 'Hi-res product photos, lifestyle images, and POS materials'
       icon: 'tabler:photo'
       link: '/media/'
 
 support:
-  title: 'Kiskereskedelmi partner támogatás'
-  subtitle: 'Minden, amire szüksége van a magabiztos értékesítéshez.'
+  title: Retail Partner Support
+  subtitle: 'Everything you need to sell confidently.'
   items:
-    - 'Nagy felbontású termékképek (professzionális fotózás)'
-    - 'Életmód fotók közösségi médiához, weboldalhoz és katalógushoz'
-    - 'Marketinganyagok — plakátok, polccímkék, banner'
-    - 'Termékképző videók munkatársi oktatáshoz'
-    - 'Közösségi média tartalomcsomag (heti bejegyzések)'
-    - 'SEO-optimalizált termék leírások'
-    - 'Dropshipping opció elérhető — nincs készletkockázat'
-    - '30 napos fizetési határidő'
+    - 'High-res product images (professional photography)'
+    - 'Lifestyle photos for social media, website, and catalog'
+    - 'Marketing materials — posters, shelf talkers, banners'
+    - 'Product training videos for staff education'
+    - 'Social media content pack (weekly posts)'
+    - 'SEO-optimized product descriptions'
+    - 'Dropshipping option available — no inventory risk'
+    - 'Net 30 payment terms'
 
 cta:
-  title: 'Készen áll, hogy OLagoon kiskereskedelmi partner legyen?'
-  subtitle: 'Jelentkezzen partnerségre vagy töltse le kiskereskedelmi katalógusunkat a kezdéshez.'
+  title: 'Ready to become an OLagoon retail partner?'
+  subtitle: 'Apply for partnership or download our retail catalog to get started.'
   actions:
-    - text: 'Jelentkezés partnerségre'
+    - text: 'Apply for Partnership'
       href: '/contact/?partner=retail'
       variant: 'primary'
-    - text: 'Kiskereskedelmi katalógus letöltése'
+    - text: 'Download Retail Catalog'
       href: '/resources/download-catalog/'
       variant: 'secondary'

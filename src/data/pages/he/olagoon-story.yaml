@@ -1,158 +1,158 @@
 meta:
-  title: 'הסיפור שלנו — יצרן SUP ניפחים | {SITE}'
-  description: 'מסדנה חופית ועד יצרן ימי גלובלי: סיפורו של olagoon — הנדסה של חופש על המים, עם מפעל מוסמך בשטח 12,000 מ״ר.'
+  title: 'Our Story — inflatable pools Manufacturer | {SITE}'
+  description: 'From a coastal workshop to a global marine manufacturer: the olagoon story of engineering freedom on water with a 12,000 m² certified factory.'
   keywords:
-    - 'ההיסטוריה של olagoon'
-    - 'מותג olagoon'
-    - 'יצרן SUP ניפחים'
-    - 'יצרן לוחות חתירה ניפחים'
+    - 'olagoon history'
+    - 'olagoon brand'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pools manufacturer'
 hero:
-  tagline: 'הסיפור שלנו'
-  title: 'olagoon — הנדסה של חופש על המים'
-  subtitle: 'מסדנה חופית ועד יצרן ימי גלובלי — המסע שלנו בנוי על אמונה עקשנית: כלי שיט צריכים להיות מהונדסים כאילו שיש להם חשיבות, כי יש להם.'
+  tagline: Our Story
+  title: 'olagoon — Engineering Freedom On Water'
+  subtitle: 'From a coastal workshop to a global marine manufacturer — our journey is built on a stubborn belief: watercraft should be engineered like they matter, because they do.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'מפעל olagoon ומתקן הייצור הימי בצ׳ינגדאו'
+    alt: olagoon factory and marine manufacturing facility in Qingdao
 
 stats:
-  title: 'olagoon במספרים'
+  title: olagoon by the Numbers
   stats:
-    - title: 'שנת ייסוד'
+    - title: Founded
       amount: 2012
-    - title: 'מתקן'
+    - title: Facility
       amount: '12,000 m²'
-    - title: 'מדינות מוגשות'
+    - title: Countries Served
       amount: '50+'
-    - title: 'קיבולת שנתית'
+    - title: Annual Capacity
       amount: '15,000+ units'
-    - title: 'עובדים'
+    - title: Employees
       amount: '200+'
-    - title: 'מהנדסי מו״פ'
+    - title: R&D Engineers
       amount: '14+'
 
 timeline:
   - year: '2012'
-    title: 'יסודות הייצור הימי'
-    body: 'olagoon החל כסדנה מתמחה לכלי שיט בצ׳ינגדאו שבסין, במחויבות לאומנות ימית ולייצור כלי שיט. ההתמקדות המוקדמת הייתה בבניית מוצרים ניפחים אמינים באמצעות ניסיון הנדסי מעשי ומשמעת ייצור.'
+    title: 'Marine Manufacturing Foundation'
+    body: 'olagoon began as a specialized watercraft workshop in Qingdao, China, committed to marine craftsmanship and watercraft manufacturing. The early focus was building reliable inflatable products through practical engineering experience and manufacturing discipline.'
   - year: '2015'
-    title: 'ייצוא ראשון והסמכת CE'
-    body: 'הזמנות הייצוא הראשונות הגיעו ליפן ולקוריאה. הושגה הסמכת CE עבור קווי המוצרים המרכזיים, מה שסימן את כניסתו של olagoon לשווקים בינלאומיים. החברה החלה לשרת משתמשים מסחריים ומשתמשי פנאי מחוץ לסין.'
+    title: 'First Export & CE Certification'
+    body: "Initial export orders reached Japan and Korea. CE certification was achieved for core product lines, marking olagoon's entry into international markets. The company began serving commercial and recreational users beyond China."
   - year: '2018'
-    title: 'הרחבת המפעל'
-    body: 'עברנו למתקן ייצור בשטח 12,000 מ״ר. נוספו קווי ריתוך RF וקיבולת ייצור Drop-Stitch, מה שאפשר ייצור בהיקף גדול יותר ושיפור מערכות בקרת האיכות.'
+    title: 'Factory Expansion'
+    body: 'Relocated to a 12,000 m² production facility. Added RF welding lines and drop-stitch production capacity, enabling larger-scale manufacturing and improved quality control systems.'
   - year: '2020'
-    title: 'הקמת מרכז מו״פ'
-    body: 'נפתח מרכז מו״פ ייעודי עם מעבדת בדי PVC, מכל בדיקות הידרודינמי וסטודיו לסימולציית CAD/FEA. פיתוח המוצרים הורחב והתמקד במבנה קל משקל, בעמידות משופרת ובעיצוב הממוקד במשתמש.'
+    title: 'R&D Center Established'
+    body: 'Opened a dedicated R&D center with PVC fabric lab, hydrodynamic test tank, and CAD/FEA simulation studio. Product development expanded to focus on lightweight construction, improved durability, and user-centered design.'
   - year: '2022'
-    title: 'הסמכה וצמיחה גלובלית'
-    body: 'הושגה הסמכת ISO 9001. הצוות הורחב ל-14 מהנדסי מו״פ ולמעלה מ-200 עובדים. המוצרים הגיעו ללקוחות ברחבי אירופה, אמריקות ואסיה-פסיפיק באמצעות שותפויות הפצה ומותג משותף.'
+    title: 'Certification & Global Growth'
+    body: 'Achieved ISO 9001 certification. Expanded to 14 R&D engineers and 200+ workers. Products reached customers across Europe, Americas, and Asia-Pacific through distributor and co-brand partnerships.'
   - year: '2024'
-    title: 'סטודיו לחדשנות ועיצוב'
-    body: 'הושק סטודיו עיצוב וחדשנות בשירות מלא עבור פרויקטים מותאמים אישית של מותג משותף, מהקונספט ועד לייצור. חוזקו יישומים ימיים מקצועיים, לרבות חילוץ, שימוש מסחרי וחוזים ממשלתיים.'
+    title: 'Innovation & Design Studio'
+    body: 'Launched full-service design and innovation studio for custom co-brand projects, from concept to production. Strengthened professional marine applications including rescue, commercial, and government contracts.'
   - year: '2026'
-    title: 'בונים את עתיד חקר המים'
-    body: 'כיום olagoon ממשיך לפתח מערכות SUP ואביזרים ימיים — ומחבר בין אנשים וארגונים לבין מקווי המים של העולם. מעל 50 מדינות מוגשות, קיבולת שנתית של למעלה מ-15,000 יחידות.'
+    title: 'Building The Future Of Water Exploration'
+    body: "Today, olagoon continues to develop pool systems and marine accessories — connecting people and organizations with the world's waters. 50+ countries served, 15,000+ units annual capacity."
 
 content_founding:
-  tagline: 'ההתחלה'
-  title: 'נולד על שפת המים'
-  subtitle: 'olagoon התחיל בסדנה חופית בצ׳ינגדאו עם לוח אחד וחזון: לבנות כלי שיט ניפחים שיוכלו לעמוד בתנאים ימיים אמיתיים.'
+  tagline: The Beginning
+  title: 'Born on the Waterfront'
+  subtitle: 'OLagoon started in a Qingdao workshop in 2012 with one pool and a vision: to build inflatable pools that could handle real family use, season after season.'
   paragraphs:
-    - 'ב-2012 ראו המייסדים שלנו פער בשוק — רוב כלי השיט הניפחים היו זולים אך בלתי אמינים, או איכותיים אך יקרים בצורה שאינה מאפשרת לרכוש אותם. הם האמינו שיש מקום ליצרן שיספק גם איכות וגם תמורה.'
-    - 'הגוף הראשון נבנה בעבודת יד, נבדק במים מקומיים ושופר על בסיס משוב אמיתי מדייגים ומפעילים מסחריים קטנים. לולאת המשוב הזו — בנייה, בדיקה, הקשבה, שיפור — נמצאת עד היום בלב פילוסופיית ההנדסה שלנו.'
-    - 'עד 2015 עברה השמועה את גבולות צ׳ינגדאו. מפיצים בינלאומיים החלו לבקש דגימות. מה שהתחיל כסדנה מקומית הפך לספק גלובלי.'
+    - 'In 2012, our founders saw a gap in the market — most inflatable watercraft were either affordable but unreliable, or high-quality but prohibitively expensive. They believed there was room for a manufacturer that delivered both quality and value.'
+    - 'The first hull was built by hand, tested in local waters, and refined based on real feedback from fishermen and small commercial operators. That feedback loop — build, test, listen, improve — remains at the core of our engineering philosophy today.'
+    - 'By 2015, word had spread beyond Qingdao. International distributors began requesting samples. What started as a local workshop was becoming a global supplier.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: 'סדנת הייצור המוקדמת של olagoon והמחלקת ייצור'
+    alt: olagoon early production workshop and manufacturing
 
 content_growth:
-  tagline: 'צמיחה וחדשנות'
-  title: 'מסדנה למתקן בשטח 12,000 מ״ר'
-  subtitle: 'השקעה מתמדת באנשים, בציוד ובתהליכים הפכה את olagoon למתקן ייצור ימי מודרני.'
+  tagline: Growth & Innovation
+  title: 'From Workshop to 12,000 m² Facility'
+  subtitle: 'Continuous investment in people, equipment, and process has transformed olagoon into a modern marine manufacturing facility.'
   paragraphs:
-    - 'ככל שהביקוש גדל, כך גדל גם המתקן שלנו. התרחבנו מסדנה קטנה למפעל בשטח 12,000 מ״ר עם קווי ייצור ייעודיים ללוחות SUP ולאביזרים.'
-    - 'השקענו במכונות חיתוך CNC, בציוד ריתוך בתדירות גבוהה, בקווי ייצור Drop-Stitch ובעמדות בדיקה מקיפות — מה שמאפשר לנו לשלוט בכל היבט של איכות הייצור.'
-    - 'כיום הצוות שלנו, ובו למעלה מ-200 עובדים, כולל מהנדסים ימיים, מדעני חומרים, מומחי בקרת איכות ובעלי מלאכה מיומנים — רבים מהם נמצאים עם olagoon מהימים הראשונים.'
+    - 'As demand grew, so did our facility. We expanded from a small workshop to a 12,000 m² factory with dedicated production lines for pools and accessories.'
+    - 'We invested in CNC cutting machines, high-frequency welding equipment, drop stitch production lines, and comprehensive testing rigs — allowing us to control every aspect of production quality.'
+    - 'Today, our team of 200+ includes marine engineers, material scientists, quality control specialists, and skilled craftspeople — many of whom have been with olagoon since the early days.'
 
 philosophy:
-  tagline: 'פילוסופיית המותג'
-  title: 'הנדסה של חופש על המים'
-  body: 'חופש על המים אינו רק עניין של תנועה. הוא מייצג גילוי של מקומות חדשים, יצירת חוויות בחיק הטבע, חיבור בין אנשים לטבע והעצמת משימות מקצועיות. ההנדסה היא שהופכת את החופש הזה לאפשרי.'
+  tagline: 'Brand Philosophy'
+  title: 'Engineering Freedom On Water'
+  body: 'Freedom on water is not only about movement. It represents discovering new places, creating outdoor experiences, connecting people with nature, and enabling professional missions. Engineering makes that freedom possible.'
   pillars:
-    - title: 'אמינות לפני הכל'
-      body: 'סביבות מים דורשות אמון. מוצרי olagoon מתוכננים סביב יציבות, עמידות, בטיחות וביצועים עקביים.'
-    - title: 'עיצוב הממוקד באדם'
-      body: 'מוצרים צריכים לשרת אנשים, לא טכנולוגיה. כל החלטת עיצוב מתחילה בהבנת האופן שבו אנשים משתמשים בכלי שיט, לאן הם יוצאים לחקור ובאילו אתגרים הם נתקלים.'
-    - title: 'חקר נגיש'
-      body: 'המים לא צריכים להיות נחלתם של מומחים בלבד. olagoon יוצרת ציוד המאפשר ליותר אנשים לחוות בבטחה נהרות, אגמים, אוקיינוסים וסביבות חוף.'
-    - title: 'חדשנות מתמדת'
-      body: 'חדשנות אינה רק יצירת מוצרים חדשים. היא שיפור של כל פרט — חומרים, מבנים, ייצור וחוויית משתמש.'
+    - title: 'Reliability First'
+      body: 'Water environments demand trust. olagoon products are designed around stability, durability, safety, and consistent performance.'
+    - title: 'Human-Centered Design'
+      body: 'Products should serve people, not technology. Every design decision begins with understanding how people use watercraft, where they explore, and what challenges they face.'
+    - title: 'Accessible Exploration'
+      body: 'Water should not belong only to experts. olagoon creates equipment that allows more people to safely experience rivers, lakes, oceans, and coastal environments.'
+    - title: 'Continuous Innovation'
+      body: 'Innovation is not only creating new products. It is improving every detail — materials, structures, manufacturing, and user experience.'
 
 engineeringDna:
-  tagline: 'DNA הנדסי'
-  title: 'כיצד olagoon יוצרת מוצרים'
+  tagline: 'Engineering DNA'
+  title: 'How olagoon Creates Products'
   areas:
-    - title: 'מדע החומרים'
-      body: 'olagoon מתמקדת בבחירת חומרים מתאימים לסביבות ימיות שונות. שיקולים מרכזיים כוללים עמידות לשחיקה, עמידות ל-UV, יציבות בלחץ ועמידות לטווח ארוך.'
-      items: ['עמידות לשחיקה', 'עמידות ל-UV', 'יציבות בלחץ', 'עמידות לטווח ארוך']
-    - title: 'הנדסה מבנית'
-      body: 'כלי שיט ניפחים דורשים איזון מדויק בין קשיחות, משקל, ניידות ויציבות. ההנדסה של olagoon מתמקדת באופטימיזציה של גורמים אלה באמצעות טכנולוגיית הליבה מסוג Drop-Stitch ובניית תפרים מתקדמת.'
-      items: ['קשיחות', 'אופטימיזציית משקל', 'ניידות', 'יציבות']
-    - title: 'דיוק ייצור'
-      body: 'כל מוצר עובר תהליכים מבוקרים: הכנת חומרים, חיתוך מדויק, ריתוך והדבקה, הרכבה, בדיקת איכות ואימות ביצועים.'
-      items: ['הכנת חומרים', 'חיתוך מדויק', 'ריתוך והדבקה', 'הרכבה ובקרת איכות']
-    - title: 'הנדסת תרחישי משתמש'
-      body: 'המוצרים מפותחים סביב יישומים אמיתיים — פנאי, הרפתקאות ושימוש מקצועי — תוך הבטחה שכל עיצוב עומד בדרישות הספציפיות של הסביבה שלה.'
-      items: ['פנאי', 'הרפתקאות', 'מקצועי', 'מסחרי']
+    - title: 'Material Science'
+      body: 'olagoon focuses on selecting appropriate materials for different marine environments. Key considerations include abrasion resistance, UV resistance, pressure stability, and long-term durability.'
+      items: ['Abrasion Resistance', 'UV Resistance', 'Pressure Stability', 'Long-Term Durability']
+    - title: 'Structural Engineering'
+      body: 'Inflatable watercraft require precise balance between rigidity, weight, portability, and stability. olagoon engineering focuses on optimizing these factors through drop-stitch core technology and advanced seam construction.'
+      items: ['Rigidity', 'Weight Optimization', 'Portability', 'Stability']
+    - title: 'Manufacturing Precision'
+      body: 'Every product goes through controlled processes: material preparation, precision cutting, welding and bonding, assembly, quality inspection, and performance verification.'
+      items: ['Material Prep', 'Precision Cutting', 'Welding & Bonding', 'Assembly & QC']
+    - title: 'User Scenario Engineering'
+      body: 'Products are developed around real applications — recreation, adventure, and professional use — ensuring each design meets the specific demands of its intended environment.'
+      items: ['Recreation', 'Adventure', 'Professional', 'Commercial']
 
 trustSignals:
-  tagline: 'אותות אמון'
-  title: 'מדוע olagoon הוא שותף אמין'
+  tagline: 'Trust Signals'
+  title: 'Why olagoon Is A Reliable Partner'
   manufacturing:
-    title: 'יכולת ייצור'
-    body: 'מתקן ייצור בשטח 12,000 מ״ר עם למעלה מ-200 עובדים מיומנים ולמעלה מ-14 מהנדסי מו״פ. מערכת ניהול איכות מוסמכת ISO 9001. תפוקה שנתית של למעלה מ-15,000 כלי שיט המשרתת למעלה מ-50 מדינות.'
+    title: 'Manufacturing Capability'
+    body: '12,000 m² production facility with 200+ skilled workers and 14+ R&D engineers. ISO 9001 certified quality management system. Annual output of 15,000+ watercraft units serving 50+ countries.'
     stats:
-      - label: 'שטח המתקן'
+      - label: 'Facility Size'
         value: '12,000 m²'
-      - label: 'כוח עבודה'
+      - label: 'Workforce'
         value: '200+'
-      - label: 'מהנדסי מו״פ'
+      - label: 'R&D Engineers'
         value: '14+'
-      - label: 'קיבולת שנתית'
+      - label: 'Annual Capacity'
         value: '15,000+'
   quality:
-    title: 'מחויבות לאיכות'
-    body: 'מבדיקת החומרים ועד הבדיקות הסופיות, olagoon מקיימת תהליכי איכות שיטתיים כדי לספק מוצרים ימיים אמינים. כל יחידה עוברת בדיקת לחץ, בדיקת תפרים ואימות ביצועים לפני המשלוח.'
+    title: 'Quality Commitment'
+    body: 'From material inspection to final testing, olagoon maintains systematic quality processes to deliver dependable marine products. Every unit undergoes pressure testing, seam inspection, and performance verification before shipping.'
     items:
-      - 'מוסמך CE — כל המוצרים עומדים בתקני הבטיחות האירופיים'
-      - 'ISO 9001:2015 — מערכת ניהול איכות מוסמכת'
-      - 'סימון UKCA — עמידה בדרישות השוק הבריטי'
-      - 'עומד בדרישות FCC — תאימות רכיבים אלקטרוניים לארה״ב'
+      - 'CE Certified — All products meet European safety standards'
+      - 'ISO 9001:2015 — Quality management system certified'
+      - 'UKCA Marked — UK market conformity'
+      - 'FCC Compliant — US electronic component compliance'
   global:
-    title: 'נוכחות גלובלית'
-    body: 'olagoon משרתת לקוחות בשווקים גלובליים רבים, ותומכת במפיצים, במותגי פעילויות חוץ ובמשתמשים ימיים מקצועיים בלמעלה מ-50 מדינות ברחבי אירופה, אסיה-פסיפיק, אמריקות, המזרח התיכון ואפריקה.'
+    title: 'Global Presence'
+    body: 'olagoon serves customers across multiple global markets, supporting distributors, outdoor brands, and professional marine users in 50+ countries across Europe, Asia-Pacific, Americas, Middle East, and Africa.'
 
 comparison:
-  tagline: 'מיצוב המותג'
-  title: 'olagoon בשוק'
-  position: 'מותג פנאי ימי הממוקד בהנדסה, המשלב מומחיות בייצור ניפחים עם אוספים במותג משותף, פתרונות מותאמים אישית וניסיון ייצור עמוק.'
+  tagline: 'Brand Positioning'
+  title: 'olagoon in the Market'
+  position: 'Engineering-focused marine recreation brand combining inflatable production expertise with co-branded collections, custom solutions, and deep manufacturing experience.'
   strengths:
-    - 'מומחיות בהנדסה של כלי שיט ניפחים'
-    - 'יכולת מלאה למותג משותף ולמותג פרטי'
-    - 'פיתוח ועיצוב מוצרים בהתאמה אישית'
-    - 'מתקן ייצור מוסמך ISO 9001 בשטח 12,000 מ״ר'
+    - 'Inflatable watercraft engineering expertise'
+    - 'Full co-brand and private-label capability'
+    - 'Custom product development and design'
+    - '12,000 m² ISO 9001 certified production facility'
   bestFor:
-    - 'משתמשי פנאי בחיק הטבע המחפשים כלי שיט ניפחים אמינים'
-    - 'מפעילים ימיים הזקוקים לציוד ברמה מסחרית'
-    - 'שותפי מותג המחפשים אוספים במותג משותף'
-    - 'ארגוני חילוץ וסיור מקצועיים'
+    - 'Outdoor recreation users seeking reliable inflatable watercraft'
+    - 'Marine operators requiring commercial-grade equipment'
+    - 'Brand partners seeking co-branded collections'
+    - 'Professional rescue and patrol organizations'
 
 cta:
-  title: 'מוכנים לשתף פעולה עם יצרן<br />שאכפת לו מאיכות?'
-  subtitle: 'צרו קשר עם הצוות שלנו כדי לדון בפרויקט המותג המשותף או המותג הפרטי שלכם — בלי לחץ על כמות הזמנה מינימלית, רק ייעוץ הוגן.'
+  title: 'Ready to partner with a manufacturer<br />that cares about quality?'
+  subtitle: 'Contact our team to discuss your co-brand or private-label project — no minimum order pressure, just honest advice.'
   actions:
     - variant: primary
-      text: 'פתחו בשיחה'
+      text: Start a conversation
       href: /contact/
-    - text: 'גלו את המוצרים שלנו'
+    - text: Explore our products
       href: /products/

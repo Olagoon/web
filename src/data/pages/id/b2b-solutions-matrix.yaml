@@ -1,123 +1,123 @@
 meta:
-  title: 'Matriks Solusi Klien B2B | {SITE}'
-  description: 'Matriks solusi klien B2B OLagoon lengkap yang mencakup 24 jenis pelanggan — dari startup outdoor hingga lembaga konservasi bahari.'
+  title: 'B2B Client Solutions Matrix | {SITE}'
+  description: 'Complete OLagoon B2B client solutions matrix covering 24 customer types — from outdoor startups to marine conservation institutions.'
 
 hero:
-  tagline: 'Solusi Klien B2B'
-  title: '24 Solusi B2B<br />Yang Sesuai dengan Bisnis Anda'
-  subtitle: 'Dari pendiri startup hingga distributor global — temukan solusi OLagoon yang tepat yang dirancang untuk model bisnis, industri, dan tujuan Anda.'
+  tagline: B2B Client Solutions
+  title: '24 B2B Solutions<br />Matched to Your Business'
+  subtitle: 'From startup founders to global distributors — find the exact OLagoon solution designed for your business model, industry, and goals.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
-    alt: 'Pabrik dan fasilitas manufaktur OLagoon'
+    alt: OLagoon factory and manufacturing facility
 
 solutions:
-  title: 'Matriks Solusi Klien'
-  subtitle: 'Setiap jenis pelanggan, kebutuhan inti mereka, dan halaman solusi OLagoon yang dirancang untuk mereka.'
+  title: Client Solutions Matrix
+  subtitle: 'Every customer type, their core need, and the OLagoon solution page designed for them.'
   items:
-    - clientType: 'Pendiri Startup Outdoor'
-      need: 'Penciptaan Merek'
-      solutionPage: 'Bangun Merek SUP Anda'
-      link: /solutions/sup-brand-startup/
-    - clientType: 'Manajer Merek Outdoor'
-      need: 'Ekspansi Merek Outdoor ke Olahraga Air'
-      solutionPage: 'Perluas Merek Outdoor ke Olahraga Air'
+    - clientType: Outdoor Startup Founder
+      need: Brand Creation
+      solutionPage: Build Your pool Brand
+      link: /solutions/pool-brand-startup/
+    - clientType: Outdoor Brand Manager
+      need: Outdoor Brand Expansion Into Water Sports
+      solutionPage: Expand Outdoor Brand Into Water Sports
       link: /solutions/expand-outdoor-brand-water-sports/
-    - clientType: 'Pemilik Toko Selancar'
-      need: 'Peningkatan Bisnis Selancar'
-      solutionPage: 'Hadirkan Teknologi Tiup ke Bisnis Selancar'
+    - clientType: Surf Shop Owner
+      need: Surf Business Upgrade
+      solutionPage: Bring Inflatable Technology Into Surf Business
       link: /solutions/inflatable-technology-for-surf-business/
-    - clientType: 'Penjual Amazon'
-      need: 'Pertumbuhan E-commerce'
-      solutionPage: 'Diferensiasi Produk & Pasokan Cepat'
-      link: /solutions/ecommerce-sup-brand-development/
-    - clientType: 'Merek Peralatan Memancing'
-      need: 'SUP Memancing'
-      solutionPage: 'Ciptakan Merek SUP Memancing Anda'
-      link: /solutions/create-fishing-sup-brand/
-    - clientType: 'Merek Yoga & Kebugaran'
-      need: 'Produk Kebugaran Air'
-      solutionPage: 'Solusi Peralatan SUP Yoga'
-      link: /solutions/sup-yoga-wellness-equipment/
-    - clientType: 'Merek Kreator'
-      need: 'Merek Influencer'
-      solutionPage: 'Startup SUP Edisi Kreator'
-      link: /solutions/creator-influencer-sup-brand/
-    - clientType: 'Pendiri Klub Dayung'
-      need: 'Armada Klub'
-      solutionPage: 'Armada SUP Komersial'
-      link: /solutions/commercial-sup-fleet/
-    - clientType: 'Pemilik Bisnis Penyewaan'
-      need: 'Operasi Penyewaan'
-      solutionPage: 'Solusi Armada Sewa yang Tahan Lama'
-      link: /solutions/durable-sup-rental-fleet/
-    - clientType: 'Manajer Aktivitas Resor'
-      need: 'Pengalaman Hotel'
-      solutionPage: 'Paket Aktivitas Air Resor'
+    - clientType: Amazon Seller
+      need: E-commerce Growth
+      solutionPage: Product Differentiation & Fast Supply
+      link: /solutions/ecommerce-pool-brand-development/
+    - clientType: Fishing Gear Brand
+      need: Fishing pool
+      solutionPage: Create Your Fishing pool Brand
+      link: /solutions/create-fishing-pool-brand/
+    - clientType: Yoga & Wellness Brand
+      need: Wellness Water Products
+      solutionPage: pool Yoga Equipment Solutions
+      link: /solutions/pool-yoga-wellness-equipment/
+    - clientType: Creator Brand
+      need: Influencer Brand
+      solutionPage: Creator Edition pool Startup
+      link: /solutions/creator-influencer-pool-brand/
+    - clientType: Paddle Club Founder
+      need: Club Fleet
+      solutionPage: Commercial pool Fleet
+      link: /solutions/commercial-pool-fleet/
+    - clientType: Rental Business Owner
+      need: Rental Operations
+      solutionPage: Durable Rental Fleet Solution
+      link: /solutions/durable-pool-rental-fleet/
+    - clientType: Resort Activity Manager
+      need: Hotel Experience
+      solutionPage: Resort Water Activity Package
       link: /solutions/resort-water-activity-package/
-    - clientType: 'Akademi Olahraga Air'
-      need: 'Pelatihan & Pendidikan'
-      solutionPage: 'Program Peralatan Akademi SUP'
-      link: /solutions/sup-academy-equipment-program/
-    - clientType: 'Perusahaan Kapal Pesiar & Yacht'
-      need: 'Pengalaman Yacht'
-      solutionPage: 'Paket SUP Portabel Mewah'
-      link: /solutions/luxury-portable-sup-package/
-    - clientType: 'Pembeli Ritel Outdoor'
-      need: 'Kanal Ritel'
-      solutionPage: 'Program Label Pribadi Ritel'
+    - clientType: Water Sports Academy
+      need: Training & Education
+      solutionPage: pool Academy Equipment Program
+      link: /solutions/pool-academy-equipment-program/
+    - clientType: Cruise & Yacht Company
+      need: Yacht Experience
+      solutionPage: Luxury Portable pool Package
+      link: /solutions/luxury-portable-pool-package/
+    - clientType: Outdoor Retail Buyer
+      need: Retail Channel
+      solutionPage: Retail Private Label Program
       link: /solutions/retail-private-label-program/
-    - clientType: 'Distributor & Importir'
-      need: 'Distribusi Regional'
-      solutionPage: 'Mitra OEM & Rantai Pasokan Regional'
+    - clientType: Distributor & Importer
+      need: Regional Distribution
+      solutionPage: Regional OEM & Supply Chain Partner
       link: /solutions/regional-oem-supply-chain-partner/
-    - clientType: 'Pembeli Proyek Korporat'
-      need: 'Acara Korporat'
-      solutionPage: 'Paket Acara SUP Korporat'
-      link: /solutions/corporate-sup-event-package/
-    - clientType: 'Manajer Merek Olahraga Air'
-      need: 'Ekspansi Merek Olahraga Air'
-      solutionPage: 'Perluas Portofolio Olahraga Air Anda'
+    - clientType: Corporate Project Buyer
+      need: Corporate Events
+      solutionPage: Corporate pool Event Package
+      link: /solutions/corporate-pool-event-package/
+    - clientType: Water Sports Brand Manager
+      need: Water Sports Brand Expansion
+      solutionPage: Expand Your Water Sports Portfolio
       link: /solutions/expand-your-water-sports-portfolio/
-    - clientType: 'Pemilik Merek Petualangan Hewan Peliharaan'
-      need: 'Hewan Peliharaan di Alam Terbuka'
-      solutionPage: 'Program Papan Dayung Ramah Hewan Peliharaan'
+    - clientType: Pet Adventure Brand Owner
+      need: Pet Outdoor
+      solutionPage: Pet-Friendly inflatable pool Program
       link: /solutions/pet-friendly-paddle-board-program/
-    - clientType: 'Operator Rekreasi Pantai'
-      need: 'Hiburan Pantai'
-      solutionPage: 'Solusi Peralatan Aktivitas Pantai Lengkap'
+    - clientType: Beach Recreation Operator
+      need: Beach Entertainment
+      solutionPage: Complete Beach Activity Equipment Solutions
       link: /solutions/complete-beach-activity-equipment-solutions/
-    - clientType: 'Pengembang Taman Air'
-      need: 'Hiburan Bertema'
-      solutionPage: 'Armada SUP Taman Air Komersial'
-      link: /solutions/commercial-water-park-sup-fleet/
-    - clientType: 'Pemilik Pulau Pribadi & Klub Mewah'
-      need: 'Gaya Hidup Kelas Atas'
-      solutionPage: 'Koleksi SUP Kustom Premium'
-      link: /solutions/premium-custom-sup-collection/
-    - clientType: 'Dewan Pariwisata & Operator Taman Publik'
-      need: 'Proyek Pariwisata Publik'
-      solutionPage: 'Paket Olahraga Air Destinasi'
+    - clientType: Water Park Developer
+      need: Theme Entertainment
+      solutionPage: Commercial Water Park pool Fleet
+      link: /solutions/commercial-water-park-pool-fleet/
+    - clientType: Private Island & Luxury Club Owner
+      need: High-End Lifestyle
+      solutionPage: Premium Custom pool Collection
+      link: /solutions/premium-custom-pool-collection/
+    - clientType: Tourism Board & Public Park Operator
+      need: Public Tourism Projects
+      solutionPage: Destination Water Sports Package
       link: /solutions/destination-water-sports-package/
-    - clientType: 'Operator Petualangan Anak & Kamp Musim Panas'
-      need: 'Pendidikan Pemuda'
-      solutionPage: 'Program SUP Eksplorasi Anak'
-      link: /solutions/kids-exploration-sup-program/
-    - clientType: 'Organisasi Penyelamatan & Keselamatan Air'
-      need: 'Penyelamatan Profesional'
-      solutionPage: 'Sistem SUP Penyelamatan Air Profesional'
-      link: /solutions/professional-water-rescue-sup-system/
-    - clientType: 'Lembaga Konservasi & Riset Bahari'
-      need: 'Riset Lingkungan'
-      solutionPage: 'Platform SUP Riset & Pemantauan Ekologis'
-      link: /solutions/eco-research-monitoring-sup-platform/
+    - clientType: Kids Adventure & Summer Camp Operator
+      need: Youth Education
+      solutionPage: Kids Exploration pool Program
+      link: /solutions/kids-exploration-pool-program/
+    - clientType: Water Rescue & Safety Organization
+      need: Professional Rescue
+      solutionPage: Professional Water Rescue pool System
+      link: /solutions/professional-water-rescue-pool-system/
+    - clientType: Marine Conservation & Research Institution
+      need: Environmental Research
+      solutionPage: Eco Research & Monitoring pool Platform
+      link: /solutions/eco-research-monitoring-pool-platform/
 
 cta:
-  title: 'Belum yakin solusi mana yang cocok untuk bisnis Anda?'
-  subtitle: 'Jelaskan proyek Anda kepada tim B2B kami dan kami akan merekomendasikan konfigurasi dan harga yang tepat.'
+  title: 'Not sure which solution fits your business?'
+  subtitle: 'Describe your project to our B2B team and we will recommend the right configuration and pricing.'
   actions:
     - variant: primary
-      text: 'Bicara dengan Tim B2B Kami'
+      text: Talk to Our B2B Team
       href: /contact/?subject=b2b-solutions
     - variant: secondary
-      text: 'Unduh Katalog'
+      text: Download Catalog
       href: /resources/download-catalog/

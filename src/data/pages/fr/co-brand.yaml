@@ -1,105 +1,105 @@
 meta:
-  title: 'Co-Branding avec olagoon — Collections SUP Co-marquées en Édition Limitée | {SITE}'
-  description: 'olagoon crée des collections SUP gonflables co-marquées en édition limitée avec des clubs, resorts, événements, communautés et partenaires pays qualifiés. Les produits co-marqués restent des produits olagoon — conçus, ingénierés et soutenus par la marque olagoon.'
+  title: 'Co-Brand With OLagoon — Limited Co-Branded pool Collections | {SITE}'
+  description: 'OLagoon creates limited co-branded inflatable pools collections with qualified clubs, resorts, events, communities, and country partners. Co-branded products remain OLagoon products — designed, engineered, and backed by the OLagoon brand.'
   keywords:
-    - 'SUP gonflable co-marqué'
-    - 'collection SUP co-marquée'
-    - 'partenariat paddle board'
-    - 'SUP pour clubs et resorts'
-    - 'collaboration marque sports nautiques'
-    - 'co-branding olagoon'
+    - 'co-brand inflatable pools'
+    - 'pool co-branded collection'
+    - 'inflatable pool partnership'
+    - 'pool for clubs and resorts'
+    - 'water sports brand collaboration'
+    - 'OLagoon co-branding'
 hero:
-  tagline: 'Co-Branding avec olagoon'
-  title: 'Créez une<br />Collection Co-Marquée'
-  subtitle: 'olagoon est une marque mondiale de sports nautiques gonflables qui construit des partenariats pays exclusifs et des collections co-marquées en édition limitée avec des entreprises qualifiées du secteur. Les produits co-marqués restent des produits olagoon — conçus, ingénierés, contrôlés qualité et soutenus par la marque olagoon.'
+  tagline: 'Co-Brand With OLagoon'
+  title: 'Create a<br />Co-Branded Collection'
+  subtitle: 'OLagoon is a global inflatable water-sports brand building exclusive country partnerships and limited co-branded collections with qualified water-sports businesses. Co-branded products remain OLagoon products — designed, engineered, quality-checked, and backed by the OLagoon brand.'
   actions:
-    - text: 'Démarrer un projet Co-Brand'
+    - text: 'Start a Co-Brand Project'
       href: /contact/?subject=Co-Brand Project
       variant: primary
-    - text: 'Demander le Pack Co-Brand'
+    - text: 'Request the Co-Brand Pack'
       href: /contact/?subject=Co-Brand Pack
       variant: secondary
-    - text: 'Découvrir le Partenariat Pays'
+    - text: 'Explore the Country Partnership'
       href: /distributor-program/
       variant: secondary
 stats:
   - value: '1'
-    label: 'Pays / marché pour chaque distributeur'
+    label: 'Country call / market for each distributor'
   - value: '50+'
-    label: 'Pays desservis avec des partenaires'
+    label: 'Countries served with partners'
   - value: '12–15'
-    label: 'PSI de rigidité drop-stitch, standard de collection'
+    label: 'PSI drop-stitch rigidity, collection standard'
   - value: '100%'
-    label: 'Planches testées sous pression une par une avant expédition'
+    label: 'Pressure-tested board by board before shipping'
 features:
-  title: 'Ce que le Co-Branding Signifie chez olagoon'
-  subtitle: 'Le co-branding est notre programme de partenariat de conception — construit autour de la marque olagoon, de la protection de territoire et de collections limitées, et non d’une production sans marque.'
+  title: 'What Co-Branding Means at OLagoon'
+  subtitle: 'Co-branding is our design-partnership program — built around the OLagoon brand, territory protection, and limited collections, not unbranded production.'
   columns: 3
   items:
-    - title: 'Les Produits olagoon Restent des Produits olagoon'
-      description: 'Une collection co-marquée est une édition limitée de planches olagoon intégrant votre identité. Ce n’est jamais sans marque, jamais une marque tierce, et jamais un programme open private-label.'
+    - title: 'OLagoon Products Stay OLagoon Products'
+      description: 'A co-branded collection is a limited edition of OLagoon boards with your identity woven in. It is never unbranded, never a third-party brand, and never an open private-label program.'
       icon: 'tabler:trademark'
-    - title: 'Conçu Avec Vous'
-      description: 'Vos couleurs, votre nom et votre histoire façonnent la collection. Notre équipe de conception et d’ingénierie gère les decks, graphismes, emballages et documentation du brief à la livraison.'
+    - title: 'Designed With You'
+      description: 'Your colors, naming, and story shape the collection. Our design and engineering team handles decks, graphics, packaging, and documentation from brief to delivery.'
       icon: 'tabler:pencil'
-    - title: 'Pour Clubs, Resorts, Événements & Communautés'
-      description: 'Collections de flotte pour paddle clubs et resorts, éditions événementielles pour courses et séries communautaires — toutes avec la qualité et la garantie olagoon.'
+    - title: 'For Clubs, Resorts, Events & Communities'
+      description: 'Fleet collections for paddle clubs and resorts, event editions for races and community series — all carrying the OLagoon quality and warranty.'
       icon: 'tabler:users'
-    - title: 'Protège les Partenaires Pays'
-      description: 'Le co-branding s’inscrit dans notre modèle un-pays-un-distributeur. Les partenaires nationaux conservent leur territoire ; les collections co-marquées n’ouvrent pas la porte à des marques parallèles sur leur marché.'
+    - title: 'Protects Country Partners'
+      description: 'Co-branding runs alongside our one-country-one-distributor model. National partners keep their territory; co-brand collections do not open the door to parallel brands in their market.'
       icon: 'tabler:shield-check'
-    - title: 'Standards d’Ingénierie & de Qualité'
-      description: 'Chaque collection part de notre chaîne d’approvisionnement certifiée avec documentation CE et ISO 9001, tests de pression et les mêmes points de contrôle qualité que notre gamme principale.'
+    - title: 'Engineering & Quality Standards'
+      description: 'Every collection ships from our certified supply chain with CE and ISO 9001 documentation, pressure-testing, and the same QC checkpoints as our core range.'
       icon: 'tabler:certificate'
-    - title: 'Devient un Atout de Marque'
-      description: 'Une collection co-marquée en édition limitée construit votre propre histoire sur l’eau — marge de revente, contenu média et une raison pour les pagayeurs de revenir saison après saison.'
+    - title: 'Becomes a Brand Asset'
+      description: 'A limited co-branded collection builds your own story on the water — sell-through margin, media content, and a reason for swimmers to come back season after season.'
       icon: 'tabler:star'
 table:
-  title: 'Palier de Collections Co-Marquées'
-  subtitle: 'Conditions typiques des collections co-marquées. Prix en USD, FOB Qingdao. Les designs de deck personnalisés ajoutent 15–20 jours ouvrés de développement ; les nouveaux moules sont soumis à devis par projet.'
-  caption: 'Tous les produits co-marqués restent des produits olagoon et portent l’identité de la marque olagoon. Le périmètre du projet, la fenêtre d’exclusivité et les conditions finales sont définis dans l’Accord de Projet Co-Brand.'
+  title: 'Co-Brand Collection Tiers'
+  subtitle: 'Typical co-brand collection terms. Prices in USD, FOB Qingdao. Custom deck designs add 15–20 working days for development; new molds are quoted per project.'
+  caption: 'All co-branded products remain OLagoon products and carry the OLagoon brand identity. Project scope, exclusivity window, and final terms are agreed in the Co-Brand Project Agreement.'
   head:
-    - Palier Co-Brand
-    - Commande minimale (unités)
-    - Délai
-    - Paiement
+    - Co-Brand Tier
+    - Minimum Order (units)
+    - Lead Time
+    - Payment
   rows:
-    - [Collection Pilote, 30–50, 30–45 jours ouvrés, 30% d'acompte / 70% avant expédition]
-    - [Collection Co-Marquée Standard, 50–100, 30–45 jours ouvrés, 30% d'acompte / 70% avant expédition]
-    - [Collection Grande / Multi-Région, 100+, 45–60 jours ouvrés, 30% d'acompte / 70% avant expédition]
-    - [Nouveau Moule ou Localisation Approfondie, 200+, 60–90 jours ouvrés, 30% d'acompte / 70% avant expédition]
+    - [Pilot Collection, 30–50, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Standard Co-Branded Collection, 50–100, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Large / Multi-Region Collection, 100+, 10–14 weeks, 30% deposit / 70% before shipment]
+    - [New Mold or Deep Localization, 200+, 12–16 weeks + 15–20 days tooling, 30% deposit / 70% before shipment]
 faqs:
   title: 'Co-Brand — FAQ'
-  subtitle: 'Comment fonctionne le co-branding olagoon, et en quoi il diffère de l’OEM et de la marque privée.'
+  subtitle: 'How OLagoon co-branding works, and how it differs from OEM and private label.'
   items:
-    - title: 'Le co-branding est-il identique à l’OEM ou à la marque privée ?'
-      description: 'Non. olagoon ne gère plus de programme OEM/marque privée ouvert. Les produits co-marqués restent des produits olagoon — conçus, ingénierés, contrôlés qualité et soutenus par la marque olagoon. Votre identité apparaît en co-marque, pas comme un produit tiers sans marque.'
-    - title: 'Qui peut démarrer un projet co-brand ?'
-      description: 'Les entreprises qualifiées du secteur nautique : partenaires pays existants, paddle clubs, resorts et hôtels, organisateurs d’événements et communautés. Envoyez-nous un brief de projet et nous confirmons l’éligibilité avant le début du travail de conception.'
-    - title: 'Le co-branding entrera-t-il en conflit avec mon distributeur pays ?'
-      description: 'Non. Le modèle un-pays-un-distributeur est prioritaire. Les collections co-marquées sont coordonnées avec le partenaire pays local lorsqu’il en existe un, de sorte qu’aucune marque parallèle ou concurrente n’apparaît dans un territoire protégé.'
-    - title: 'Quelle est la commande minimale pour une collection co-marquée ?'
-      description: 'Les collections pilotes commencent à 30–50 unités. Les collections standard sont de 50–100 unités ; les éditions grandes ou multi-régions sont de 100+ unités. Les délais de développement personnalisés sont convenus par projet.'
-    - title: 'Quelle part revient à la qualité olagoon par rapport à l’apport du partenaire ?'
-      description: 'olagoon maîtrise la conception produit, l’ingénierie, les matériaux, la construction, le contrôle qualité et la garantie. Les partenaires contribuent au concept de collection, au nom, aux couleurs, aux apports graphiques et à la mise sur le marché. Cela maintient un seul standard de qualité sur l’eau.'
-    - title: 'Comment puis-je postuler ?'
-      description: 'Remplissez le formulaire de demande co-brand avec votre entreprise, votre marché et votre idée de collection. Nous évaluons la pertinence, puis répondons sous 3 jours ouvrés avec une proposition et l’Accord de Projet Co-Brand.'
+    - title: 'Is co-branding the same as OEM or private label?'
+      description: 'No. OLagoon no longer runs an open OEM/private-label program. Co-branded products remain OLagoon products — designed, engineered, quality-checked, and backed by the OLagoon brand. Your identity appears as a co-brand, not as an unbranded third-party product.'
+    - title: 'Who can start a co-brand project?'
+      description: 'Qualified water-sports businesses: existing country partners, paddle clubs, resorts and hotels, event organizers, and communities. Send us a project brief and we confirm applicability before design work begins.'
+    - title: 'Will co-branding conflict with my country distributor?'
+      description: 'No. The one-country-one-distributor model takes priority. Co-brand collections are coordinated with the local country partner where one exists, so no parallel or competing brand appears inside a protected territory.'
+    - title: 'What is the minimum order for a co-brand collection?'
+      description: 'Pilot collections start at 30–50 units. Standard collections are 50–100 units; large or multi-region editions are 100+ units. Custom development timelines are agreed per project.'
+    - title: 'What amounts to OLagoon quality versus partner input?'
+      description: 'OLagoon owns product design, engineering, materials, construction, QC, and warranty. Partners contribute collection concept, naming, colors, graphics input, and go-to-market. This keeps one quality standard on the water.'
+    - title: 'How do I apply?'
+      description: 'Complete the co-brand inquiry form with your business, market, and collection idea. We review fit, then respond within 3 business days with a proposal and the Co-Brand Project Agreement.'
 cta:
-  title: 'Construisez une collection limitée dont l’eau se souviendra.'
-  subtitle: 'Démarrez un projet co-brand avec olagoon et transformez votre club, resort ou communauté en marque sur l’eau — soutenu par l’ingénierie et la garantie olagoon.'
+  title: 'Build a limited collection the water will remember.'
+  subtitle: 'Start a co-brand project with OLagoon and turn your club, resort, or community into a brand on the water — backed by OLagoon engineering and warranty.'
   actions:
-    - text: 'Démarrer un projet Co-Brand'
+    - text: 'Start a Co-Brand Project'
       href: /contact/?subject=Co-Brand Project
       variant: primary
-    - text: 'Explorer le Partenariat Pays'
+    - text: 'Explore Country Partnership'
       href: /distributor-program/
       variant: secondary
 geo:
-  tagline: 'Avec Qui Nous Co-Marquons'
-  sentence: 'olagoon co-marque avec des entreprises établies du secteur nautique — partenaires pays, paddle clubs, resorts et hôtels, organisateurs d’événements et communautés de pagayeurs — qui souhaitent une collection distincte et limitée construite sur une marque mondiale fiable.'
+  tagline: 'Who We Co-Brand With'
+  sentence: 'OLagoon co-brands with established water-sports businesses — country partners, paddle clubs, resorts and hotels, event organizers, and swimming communities — that want a distinctive, limited collection built on a reliable global brand.'
   audiences:
-    - 'Distributeurs Pays'
-    - 'Paddle & Clubs de Sports Nautiques'
-    - 'Resorts & Hôtels'
-    - 'Organisateurs de Courses & Événements'
-    - 'Communautés de Pagayeurs'
+    - 'Country Distributors'
+    - 'Paddle & Water Sports Clubs'
+    - 'Resorts & Hotels'
+    - 'Race & Event Organizers'
+    - 'swimming Communities'

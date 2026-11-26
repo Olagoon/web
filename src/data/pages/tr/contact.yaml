@@ -1,145 +1,146 @@
 meta:
-  title: 'İletişim — Ortaklık ve ürün soruları | {SITE}'
-  description: 'Ortaklık, ortak marka ve özel etiket soruları veya profesyonel filolar için olagoon ile iletişime geçin. Şişme SUP tahtası markası, 2 iş günü içinde yanıt veriyoruz.'
+  title: 'Contact — Partnership & Product Inquiries | {SITE}'
+  description: 'Contact olagoon for partnership, co-brand, and private-label inquiries, or professional fleets. inflatable pools brand, we respond within 2 business days.'
   keywords:
-    - 'olagoon iletişim'
-    - 'SUP distribütör teklifi'
-    - 'profesyonel SUP tedarikçisi'
-    - 'SUP üreticisi iletişim'
+    - 'pool distributor quote'
+    - 'professional pool supplier'
+    - 'contact pool manufacturer'
 hero_text:
-  tagline: İletişim
-  title: BİZE ULAŞIN
+  tagline: Contact
+  title: GET IN TOUCH
 contact_form:
   id: form
-  title: Mesaj Gönderin
-  subtitle: Fiyat teklifi, teknik sorular veya iş birliği için bize yazın. Bir iş günü içinde yanıtlıyoruz.
+  title: Send us a message
+  subtitle: For quotes, technical questions or partnership enquiries, drop us a line. We reply within one business day.
   email_to: info@olagoon.com
-  submit_button: Talep gönder → Teklif al
-  success_message: Teşekkürler! Mesajınız alındı. Bir iş günü içinde yanıtlayacağız.
-  error_message: Gönderim sırasında bir hata oluştu. Lütfen tekrar deneyin veya doğrudan e-posta adresine yazın.
+  submit_button: Send Inquiry → Get a Quote
+  success_message: Thanks! Your message has landed in our inbox. We will reply within one business day.
+  error_message: Something went wrong sending your message. Please try again or email us directly.
   default_country_code: '+1'
   captcha:
-    label: 'Anti-spam: aşağıdaki işlemi çözün'
+    label: 'Anti-spam: please solve the following'
   fields:
     - name: country
-      label: Ülke
+      label: Country
       row: 1
       type: select
       optionsKey: countries
       step: 1
     - name: orderVolume
-      label: Tahmini Sipariş Hacmi
+      label: Estimated Order Volume
       row: 2
       type: select
       options:
         - value: ''
-          label: Tahmini hacminizi seçin...
+          label: Select your estimated volume...
         - value: sample
-          label: Yalnızca Numune / Prototip
+          label: Samples / Prototypes only
         - value: '5-10'
-          label: 5–10 birim (Standart MOQ)
+          label: 5–10 units (Samples / Trial)
+        - value: '50-100'
+          label: 50–100 units
         - value: '100-500'
-          label: 100–500 adet
+          label: 100–500 units
         - value: '500-plus'
-          label: 500+ adet (Toplu fiyatlandırma)
+          label: 500+ units (Volume pricing)
       step: 1
     - name: customization
-      label: Özelleştirme gerekli mi?
+      label: Customization Needed?
       row: 3
       type: select
       options:
         - value: ''
-          label: Özelleştirme türünü seçin...
+          label: Select customization type...
         - value: none
-          label: Standart ürün (özelleştirme yok)
+          label: Standard product (no customization)
         - value: logo
-          label: Yalnızca Özel Logo / Markalama
+          label: Custom Logo / Branding only
         - value: full
-          label: Tam Ortak Marka (boyut, renk, grafik, paketleme)
+          label: Full Co-Brand (size, color, graphics, packaging)
         - value: consultation
-          label: Emin değilim — danışmanlık gerekiyor
+          label: Not sure — need consultation
       step: 1
     - name: productInterest
-      label: İlgilenilen Ürün Kategorileri
+      label: Product Categories of Interest
       row: 4
       type: select
       options:
         - value: ''
-          label: Ürün kategorisi seçin...
+          label: Select product category...
         - value: all
-          label: Tüm ürünler / Tam katalog
-        - value: sup
-          label: SUP Tahtaları / Kürekli Tahtalar
+          label: All products / Full catalog
+        - value: pool
+          label: pools / inflatable pool
         - value: safety
-          label: Güvenlik Ekipmanları / Can Yelekleri
+          label: Pool Accessories & Spare Parts
         - value: accessory
-          label: Aksesuarlar (pompalar, kürekler, çantalar)
+          label: Accessories (pumps, oars, bags)
       step: 1
     - name: firstName
-      label: Ad
+      label: First Name
       row: 1
       step: 2
     - name: lastName
-      label: Soyad
+      label: Last Name
       row: 1
       step: 2
     - name: companyName
-      label: Şirket
+      label: Company Name
       row: 2
       step: 2
     - name: email
-      label: E-posta
+      label: E-mail
       row: 3
       type: email
       step: 2
     - name: tel
-      label: Telefon
+      label: TEL
       row: 3
       type: tel
       withCountryCode: true
       step: 2
     - name: address
-      label: Adres
+      label: Address
       row: 4
       step: 2
     - name: zip
-      label: Posta Kodu
+      label: Zip / Postal Code
       row: 5
       step: 2
     - name: subject
-      label: Konu
+      label: Subject
       row: 1
       step: 3
     - name: message
-      label: Mesaj
+      label: Message
       row: 2
       type: textarea
       rows: 6
       step: 3
 features2_other_ways:
-  title: Diğer İletişim Yolları
+  title: Other ways to reach us
   columns: 3
   items:
-    - title: Satış Soruları
-      description: Fiyat teklifleri, konfigürasyonlar, bayi başvuruları ve toptan siparişler.
+    - title: Sales enquiries
+      description: Quotes, configurations, dealer applications and bulk orders.
       icon: tabler:shopping-bag
-    - title: Teknik Destek
-      description: Garanti, onarım, yedek parça ve kullanım soruları.
+    - title: Technical support
+      description: Warranty, repairs, spare parts and operating questions.
       icon: tabler:tool
-    - title: Basın ve Ortaklıklar
-      description: Medya kitleri, sponsorluk ve sektör iş birlikleri.
+    - title: Press & partnerships
+      description: Media kits, sponsorship and industry collaboration.
       icon: tabler:news
-    - title: Telefon
-      description: +1 279 732 3333
+    - title: Phone
+      description: '+1 279 732 3333'
       icon: tabler:headset
-    - title: E-posta
+    - title: Email
       description: info@olagoon.com
       icon: tabler:mail
-    - title: Genel Merkez
+    - title: Headquarters
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
       icon: tabler:map-pin
 map:
-  title: Konumumuz
-  subtitle: Bizi Ziyaret Edin
+  title: Our Location
+  subtitle: Visit us at our headquarters
   address: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
   zoom: 15

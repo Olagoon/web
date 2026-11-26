@@ -1,85 +1,85 @@
 meta:
-  title: 'Ang Aming Team — Mga Marine Engineer at Tagabuo | {SITE}'
-  description: 'Itinatag noong 2012 sa Qingdao, ang olagoon ay binuo ng mga marine engineer, materials scientist, at mahihilig sa water sports. Makilala ang team sa likod ng pabrika.'
+  title: 'Our Team — Marine Engineers & Builders | {SITE}'
+  description: 'Founded in 2012 in Qingdao, olagoon was built by marine engineers, material scientists, and water sports enthusiasts. Meet the team behind the factory.'
   keywords:
     - 'olagoon team'
     - 'marine engineers'
-    - 'manufacturer ng inflatable sup'
-    - 'sup factory team'
+    - 'inflatable pools manufacturer'
+    - 'pool factory team'
 hero:
-  tagline: 'Ang Aming Team'
-  title: 'Ang mga Tao sa Likod ng olagoon<br />— Engineering ng Kalayaan sa Tubig'
-  subtitle: 'Itinatag noong 2012 sa Qingdao, Tsina, ang olagoon ay binuo ng mga marine engineer, materials scientist, at mahihilig sa water sports na naniniwala na gawing abot-kaya ng mga propesyonal na antas na inflatable watercraft sa buong mundo.'
+  tagline: Our Team
+  title: 'The People Behind olagoon<br />— Engineering Freedom on Water'
+  subtitle: 'Founded in 2012 in Qingdao, China, olagoon was built by marine engineers, material scientists, and water sports enthusiasts who believed in making professional-grade inflatable watercraft accessible worldwide.'
   image:
     src: /images/team-all.webp
-    alt: 'kumpletong litrato ng team ng olagoon — engineering, produksyon, at pamunuan'
+    alt: olagoon full team photo — engineering, production, and leadership
 founding:
-  tagline: 'Ang Aming Pagkatatag'
-  title: 'Mula sa Coastal Workshop<br />hanggang sa Pasilidad na 12,000 m²'
-  subtitle: 'Itinatag ang olagoon ng isang team ng mga marine engineer na may dekadang pinagsamang karanasan sa disenyo ng inflatable SUP, pagbuo ng PVC, at paggawa ng kagamitang pandagat sa buong mundo.'
+  tagline: Our Founding
+  title: 'From a Coastal Workshop<br />to a 12,000 m² Facility'
+  subtitle: 'olagoon was founded by a team of marine engineers with decades of combined experience in inflatable pools design, PVC fabrication, and global marine equipment manufacturing.'
   items:
-    - title: 'Itinatag: 2012'
-      description: 'Itinatag sa Qingdao, Tsina — isang pangunahing sentro sa martimo na may malalim na mana ng paggawa ng barko.'
+    - title: 'Founded: 2012'
+      description: 'Established in Qingdao, China — a major maritime hub with deep shipbuilding heritage.'
       icon: tabler:calendar
-    - title: '200+ Empleyado'
-      description: 'Kabilang ang 50+ R&D engineer, espesyalista sa quality control, at technician ng produksyon.'
+    - title: '200+ Employees'
+      description: 'Including 50+ R&D engineers, quality control specialists, and production technicians.'
       icon: tabler:users
-    - title: 'Pasilidad na 12,000 m²'
-      description: 'Nakalaang planta ng paggawa na may 6 na production line para sa mga inflatable SUP board.'
+    - title: '12,000 m² Facility'
+      description: 'Dedicated manufacturing plant with 6 production lines for inflatable pools.'
       icon: tabler:building-factory
-    - title: '50+ Bansang Pinaglilingkuran'
-      description: 'Nag-e-export sa Europe, Amerika, Middle East, Asia-Pacific, at Africa.'
+    - title: '50+ Countries Served'
+      description: 'Exporting to Europe, Americas, Middle East, Asia-Pacific, and Africa.'
       icon: tabler:globe
 leadership:
-  tagline: 'Pamunuan'
-  title: 'Pamunuan ng Pamamahala at Engineering'
-  subtitle: 'Ang aming leadership team ay nagsasama ng malalim na kadalubhasaan sa marine engineering, internasyonal na kalakalan, at quality management.'
+  tagline: Leadership
+  title: 'Management & Engineering Leadership'
+  subtitle: 'Our leadership team brings together deep expertise in marine engineering, international trade, and quality management.'
   columns: 3
   items:
-    - title: 'Tagapagtatag at CEO'
+    - title: 'Founder & CEO'
       name: 'Toby Liu'
-      description: '15+ taon sa paggawa ng kagamitang pandagat. Dati niyang pinamunuan ang R&D sa isang pangunahing Tsino na tagagawa ng paddle sports. May hawak na maraming patent sa disenyo ng inflatable SUP.'
+      description: '15+ years in marine manufacturing. Previously led R&D at a major Chinese inflatable products manufacturer. Holds multiple patents in inflatable pools design.'
       icon: tabler:crown
       image: https://assets.olagoon.com/images/olagoon/team/olagoon-toby-liu-team.webp
     - title: 'Chief Engineer'
       name: 'Zhang Wei'
-      description: '20+ taon sa pagbuo ng PVC at disenyo ng drop-stitch. Dating technical director sa isang European na brand ng paddle sports.'
+      description: '20+ years in PVC fabrication and drop-stitch design. Former technical director at a European inflatable products brand.'
       icon: tabler:engine
       image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
-    - title: 'Pangulo ng R&D'
+    - title: 'Head of R&D'
       name: 'Chen Ming'
-      description: 'PhD sa Materials Science. Dalubhasa sa teknolohiyang drop-stitch at proseso ng high-frequency welding. 10+ taon sa textile composite.'
+      description: 'PhD in Materials Science. Specializes in drop-stitch technology and high-frequency welding processes. 10+ years in textile composites.'
       icon: tabler:flask
       image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
-    - title: 'Direktor ng Produksyon'
+    - title: 'Production Director'
       name: 'Liu Qiang'
-      description: '18+ taon sa lean manufacturing at optimisasyon ng production line. Six Sigma Black Belt. Nagpatupad ng ISO 9001 quality system.'
+      description: '18+ years in lean manufacturing and production line optimization. Six Sigma Black Belt. Implemented ISO 9001 quality systems.'
       icon: tabler:settings
       image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
-    - title: 'Manager ng Kalidad'
+    - title: 'Quality Manager'
       name: 'Wang Fang'
-      description: '12+ taon sa quality control na pang-dagat. Sertipikadong CE at ISO auditor. Namamahala sa pagsubok ng bawat production batch.'
+      description: '12+ years in marine quality control. Certified CE and ISO auditor. Oversees testing for every production batch.'
       icon: tabler:shield-check
       image: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E'
-    - title: 'Direktor ng Benta at Operasyon'
+    - title: 'Sales & Operations Director'
       name: 'Helen Lee'
-      description: '15+ taon sa internasyonal na kalakalang B2B. Namahala sa mga partnership na co-brand at distribusyon sa 30+ bansa. Bihirang magsalita ng 4 na wika.'
+      description: '15+ years in international B2B trade. Managed co-brand and distribution partnerships across 30+ countries. Fluent in 4 languages.'
       icon: tabler:briefcase
       image: https://assets.olagoon.com/images/olagoon/team/olagoon-helen-contact-sales.webp
 philosophy:
-  tagline: 'Pilosopiya sa Disenyo'
-  title: 'Disenyong Hinihimok ng Engineering<br />— Bawat Detalye ay Mahalaga'
-  subtitle: 'Ang aming pilosopiya sa engineering ay nakatuon sa tatlong prinsipyo na gumagabay sa bawat produktong aming ginagawa.'
+  tagline: Design Philosophy
+  title: 'Engineering-Led Design<br />— Every Detail Matters'
+  subtitle: 'Our engineering philosophy centers on three principles that guide every product we build.'
   list:
-    - 'Maasahan Muna: Ang bawat produkto ng olagoon ay sinusubok na makayanan ang tunay na kundisyon — mula sa operasyon ng pagliligtas sa malamig na tubig hanggang sa rental ng tropical resort. Labis naming ini-engineer kung saan ito pinakamahalaga.'
-    - 'Kawastuhan sa Paggawa: Ang aming mga pasilidad ay gumagamit ng CNC cutting, high-frequency welding, at automated pressure testing. Ang bawat seam, bawat valve, bawat fitting ay tumutugon sa naka-dokumentong espesipikasyon.'
-    - 'Tuloy-tuloy na Inobasyon: Ang aming R&D team ay tuloy-tuloy na nagtataya ng mga bagong materyal, paraan ng produksyon, at pagpapabuti sa disenyo. Hindi kami naghihintay ng problema — inaanticipate namin ang mga ito.'
+    - 'Reliability First: Every olagoon product is tested to withstand real-world conditions — from cold-water rescue operations to tropical resort rentals. We over-engineer where it matters most.'
+    - 'Manufacturing Precision: Our facilities use CNC cutting, high-frequency welding, and automated pressure testing. Every seam, every valve, every fitting meets documented specifications.'
+    - 'Continuous Innovation: Our R&D team evaluates new materials, production methods, and design improvements continuously. We do not wait for problems — we anticipate them.'
 cta:
-  title: 'Nais bang talakayin ang isang proyekto sa aming team?'
-  subtitle: 'Handa na ang aming mga engineer na magpayo tungkol sa pagpili ng produkto, customization, at mga koleksyong co-branded.'
+  title: 'Want to discuss a project with our team?'
+  subtitle: 'Our engineers are ready to advise on product selection, customization, and co-branded collections.'
   actions:
     - variant: primary
-      text: 'Makipag-ugnayan sa aming team'
+      text: Contact our team
       href: /contact/
-    - text: 'Tingnan ang aming mga produkto'
+    - text: View our products
       href: /products/

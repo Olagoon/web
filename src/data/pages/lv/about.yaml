@@ -1,122 +1,122 @@
 meta:
-  title: 'Par OLagoon — piepūšamo SUP un ūdens sporta zīmols | {SITE}'
-  description: 'OLagoon ir globāls piepūšamo SUP un ūdens sporta zīmols, ko pārvalda Olagoon LLC (ASV) un ko veido mūsu Cindao operāciju komanda. Atklājiet mūsu stāstu, inženieriju, sertificēto kvalitāti un valstu partneru programmas.'
+  title: 'About OLagoon — inflatable pools & Water Sports Brand | {SITE}'
+  description: 'OLagoon is a global inflatable pools and water sports brand, operated by Olagoon LLC and built by our Qingdao Operation Team. Discover our story, engineering, certified quality, and country partner programs.'
   keywords:
-    - 'piepūšamo SUP zīmols'
-    - 'ūdens sporta zīmols'
-    - 'valsts sup izplatītājs'
-    - 'kopīga zīmola sup kolekcijas'
+    - 'inflatable pools brand'
+    - 'water sports brand'
+    - 'country pool distributor'
+    - 'co-branded pool collections'
 hero:
-  tagline: 'Par mums'
+  tagline: About us
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'olagoon rūpnīca un darbnīca'
+    alt: olagoon factory and workshop
   title: |
-    Jūras inženierija, <br />
-    veidota <span class="text-accent dark:text-white">olagoon</span> ceļā
-  subtitle: 'Mēs sākām piekrastes darbnīcā ar vienu dēli un neatlaidīgu pārliecību: jūras produkti ir jāizstrādā tā, it kā tie būtu svarīgi, jo tādi tie arī ir. Šodien mēs nosūtām produktus uz vairāk nekā 40 valstīm, taču katrs korpuss joprojām iziet cauri tām pašām rokām, kuras nodibināja uzņēmumu.'
+    Marine engineering, <br />
+    built the <span class="text-accent dark:text-white">olagoon</span> way
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
 
 stats:
-  title: 'Skaitļos'
+  title: By the numbers
   columns: 4
   stats:
-    - title: 'Piegādātie korpusi'
+    - title: Hulls delivered
       amount: '2,400+'
-    - title: 'Valstis, uz kurām nosūtām'
+    - title: Countries shipped
       amount: '40'
-    - title: 'Kopējais pieredzes gadi'
+    - title: Years of combined experience
       amount: '60'
-    - title: 'Vidējā garantijas atbildes laika (stundas)'
+    - title: Average warranty response (hours)
       amount: '24'
 
 features3_what_we_build:
-  title: 'Ko mēs radām'
-  subtitle: 'Mēs sākām piekrastes darbnīcā ar vienu dēli un neatlaidīgu pārliecību: jūras produkti ir jāizstrādā tā, it kā tie būtu svarīgi, jo tādi tie arī ir. Šodien mēs nosūtām produktus uz vairāk nekā 40 valstīm, taču katrs korpuss joprojām iziet cauri tām pašām rokām, kuras nodibināja uzņēmumu.'
+  title: What we build
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
   columns: 3
   isBeforeContent: true
   items:
-    - title: 'SUP dēļi'
-      description: 'Piepūšamie SUP dēļi no 9 pēdām līdz 12 pēdām. Izstrādāti tūrismam, jogai, makšķerēšanai un ģimenes lietošanai.'
+    - title: pools
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:ship
-    - title: 'Piepūšamie SUP dēļi'
-      description: 'PVC piepūšamie SUP dēļi no 9 pēdām līdz 12 pēdām. Viegli, izturīgi un ērti glabājami.'
+    - title: inflatable pools
+      description: PVC inflatable pools from 9 ft to 12 ft. Light, tough and easy to stow.
       icon: tabler:rowing
-    - title: 'Premium SUP paketes'
-      description: 'Kompakti, augstas specifikācijas SUP dēļi, kas pielāgoti jūsu zīmola vai flotes prasībām.'
+    - title: Premium pool packages
+      description: Compact, high-spec pools custom-built to match your brand or fleet requirements.
       icon: tabler:crown
 
 features3_more:
   columns: 3
   isAfterContent: true
   items:
-    - title: 'Aksesuāri'
-      description: 'Airi, sūkņi, pārvalki, sausie maisi un elektronika. Viss saderīgs ar mūsu dēļiem.'
+    - title: Accessories
+      description: Filters, pumps, covers, and accessories. All matched to our pools.
       icon: tabler:package
-    - title: 'Remonts un serviss'
-      description: 'Dēļu remonts, pārklājumu nomaiņa un aksesuāru uzlabošana mūsu pašu darbnīcā.'
+    - title: Repair & service
+      description: In-house pool repair, liner replacement and accessory upgrades.
       icon: tabler:tool
-    - title: 'Pielāgoti būvējumi'
-      description: 'Projektu pa projektam dizains komerciāliem, zinātniskiem un militāriem klientiem.'
+    - title: Custom builds
+      description: Project-by-project design for commercial, scientific and military customers.
       icon: tabler:hammer
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-    alt: 'Dēļu dizaina un inženierijas apspriede'
+    alt: Pool design and engineering discussion
 
 steps2_values:
-  title: 'Mūsu vērtības'
-  subtitle: 'Trīs principi, kas ir veidojuši katru produktu kopš paša sākuma.'
+  title: Our values
+  subtitle: Three principles that have shaped every product since day one.
   items:
-    - title: 'Būvējiet tā, it kā tas nestu jūsu ģimeni'
-      description: 'Ar katru korpusu, metinājumu un stiprinājumu apietas tā, it kā to lietotu mūsu pašu ģimenes.'
+    - title: Build like it carries your family
+      description: Every hull, weld and fastener is treated as if our own families will use it.
       icon: tabler:heart
-    - title: 'Vispirms inženierija, tad pārdošana'
-      description: 'Piepūšamie SUP dēļi no 9 pēdām līdz 12 pēdām. Izstrādāti tūrismam, jogai, makšķerēšanai un ģimenes lietošanai.'
+    - title: Engineer before we sell
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:settings
-    - title: 'Atbalsts, kas pārdzīvo garantiju'
-      description: 'Divdesmit gadus veciem korpusiem joprojām zvana pēc rezerves daļām, un mēs joprojām atbildam.'
+    - title: Support that outlasts the warranty
+      description: Twenty-year-old hulls still call us for spare parts, and we still pick up.
       icon: tabler:headset
 
 steps2_milestones:
-  title: 'Atskaites punkti'
-  subtitle: 'Īsa olagoon stāsta versija.'
+  title: Milestones
+  subtitle: A short version of the olagoon story.
   isReversed: true
   items:
-    - title: 'Dibināts piekrastes darbnīcā'
-      description: 'Sāka divi jūras inženieri ar CNC frēzi un neatlaidīgu ideju.'
+    - title: Founded in a coastal workshop
+      description: Started by two marine engineers with a CNC mill and a stubborn idea.
       icon: tabler:building-factory
-    - title: 'Pirmie 1,000 korpusi piegādāti'
-      description: 'Sasniegts mūsu septītajā gadā, galvenokārt pateicoties mutvārdu atsauksmēm un atkārtotiem klientiem.'
+    - title: First 1,000 hulls delivered
+      description: Reached in our seventh year, mostly through word of mouth and repeat customers.
       icon: tabler:circle-check
-    - title: 'Starptautiskās eksporta programma'
-      description: 'Šodien nosūtām uz 40+ valstīm ar lokalizētiem atbalsta partneriem piecos kontinentos.'
+    - title: International export programme
+      description: Now shipping to 40+ countries with localised support partners on five continents.
       icon: tabler:world
 
 features2_locations:
-  title: 'Mūsu atrašanās vietas'
-  tagline: 'Atrodiet mūs'
+  title: Our locations
+  tagline: Find us
   columns: 3
   items:
-    - title: 'Galvenā mītne un darbnīca'
-      description: 'Piepūšamie SUP dēļi no 9 pēdām līdz 12 pēdām. Izstrādāti tūrismam, jogai, makšķerēšanai un ģimenes lietošanai.'
-    - title: 'ES servisa centrs'
-      description: 'Piepūšamie SUP dēļi no 9 pēdām līdz 12 pēdām. Izstrādāti tūrismam, jogai, makšķerēšanai un ģimenes lietošanai.'
-    - title: 'Āzijas un Klusā okeāna partneru tīkls'
-      description: 'Autorizēti servisa partneri Austrālijā, Japānā, Singapūrā un Honkongā.'
+    - title: Headquarters & workshop
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: EU service centre
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: APAC partner network
+      description: Authorised service partners in Australia, Japan, Singapore and Hong Kong.
 
-brand_hub_tagline: 'Zīmols'
-brand_hub_title: 'Iepazīstieties ar mūsu zīmolu'
-brand_hub_subtitle: 'Iedziļinieties mūsu SUP inženierijas zināšanās, globālajā klātbūtnē un principos, kas mūs vada.'
+brand_hub_tagline: Brand
+brand_hub_title: Explore Our Brand
+brand_hub_subtitle: Dive deeper into our pool engineering expertise, global presence, and the principles that drive us.
 
 brand_hub_cards:
-  - title: 'Jūras kompetence'
-    desc: 'Gadu desmiti materiālu zinātnē, precīzā ražošanā un reālā testēšanā — no PVC izgatavošanas līdz dziļa V formas korpusa dizainam un Drop-Stitch tehnoloģijai.'
+  - title: Marine Expertise
+    desc: Decades of material science, precision manufacturing, and real-world testing — from PVC fabrication to deep-V hull design and drop-stitch technology.
     link: /brand-marine-expertise/
-    link_label: 'Uzzināt vairāk →'
-  - title: 'Globālā klātbūtne'
-    desc: 'Nosūtām uz 50+ valstīm no mūsu Cindao objekta ar autorizētiem servisa partneriem visā Eiropā, Āzijas un Klusā okeāna reģionā un Amerikā.'
+    link_label: 'Learn more →'
+  - title: Global Presence
+    desc: Shipping to 50+ countries from our Qingdao facility with authorized service partners across Europe, Asia-Pacific, and the Americas.
     link: /brand-global-presence/
-    link_label: 'Uzzināt vairāk →'
-  - title: 'Kāpēc olagoon'
-    desc: 'Zīmols, kas balstīts uz pārbaudītu kvalitāti — dubultā sertifikācija (ISO 9001 + BSCI), CE atbilstība un ekskluzīvas valsts partnerības ar ierobežotām kopīga zīmola kolekcijām ūdens sporta uzņēmumiem.'
+    link_label: 'Learn more →'
+  - title: Why olagoon
+    desc: A brand built on verified quality — dual certification (ISO 9001 + BSCI), CE compliance, and exclusive country partnerships with limited co-branded collections for water-sports businesses.
     link: /brand-why-olagoon/
-    link_label: 'Uzzināt vairāk →'
+    link_label: 'Learn more →'

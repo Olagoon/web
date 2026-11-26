@@ -1,22 +1,24 @@
 meta:
-  title: 'المجلة — مقالات وأدلة بحرية | {SITE}'
-  description: 'مجلة olagoon: مقالات وأدلة عن ألواح SUP القابلة للنفخ، والتجديف على الألواح، والصناعة البحرية.'
+  title: 'Journal — Nautical Articles & Guides | {SITE}'
+  description: 'The olagoon journal: articles and guides about inflatable pools, pool care, and the backyard pool industry.'
   keywords:
-    - 'مجلة SUP'
-    - 'مقالات ألواح التجديف'
-    - 'مدونة SUP القابلة للنفخ'
-    - 'أدلة بحرية'
+    - 'pool journal'
+    - 'inflatable pool articles'
+    - 'inflatable pools blog'
+    - 'nautical guides'
 hero:
-  title: مجلة olagoon
-  subtitle: آخر الأخبار والمغامرات البحرية وقصص المنتجات من فريق olagoon.
+  title: Journal
+  subtitle: Pool guides, gear comparisons, and backyard stories — written for real conditions.
+
 latest:
-  tagline: الأحدث
-  title: الأدلة والمقارنات
-  browse_all: تصفح جميع الـ 20 →
-  read: اقرأ ←
+  tagline: Latest
+  title: Guides & Comparisons
+  browse_all: Browse all 20 →
+  read: Read →
+
 social_section:
-  tagline: المحتوى × الاجتماعي
-  title: كل دليل يتحول إلى 5 منشورات على وسائل التواصل الاجتماعي
-  subtitle: TikTok · Instagram · X · Pinterest · Reddit — من كل مقال.
-  pipeline_cta: خط أنابيب التواصل الاجتماعي ←
-  guides_cta: تصفح الأدلة
+  tagline: Content × Social
+  title: Every guide becomes 5 social posts
+  subtitle: TikTok · Instagram · X · Pinterest · Reddit — from every article.
+  pipeline_cta: Social Pipeline →
+  guides_cta: Browse Guides

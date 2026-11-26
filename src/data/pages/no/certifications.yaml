@@ -1,68 +1,68 @@
 meta:
-  title: 'Sertifiseringer — CE, ISO 9001 & samsvar | {SITE}'
-  description: 'afars kvalitetssertifiseringer: CE (EN ISO 25649), ISO 9001:2015, BSCI. Samsvar og sikkerhet for en produsent av oppblåsbare SUP-er.'
+  title: 'Certifications — CE, ISO 9001 & Compliance | {SITE}'
+  description: 'olagoon quality certifications: CE (EN ISO 25649), ISO 9001:2015, BSCI. Compliance and safety for an inflatable pool manufacturer.'
   keywords:
-    - 'CE-sertifisering paddle board'
-    - 'ISO 9001 paddle board'
-    - 'nautisk samsvar'
-    - 'paddle board sertifisering'
+    - 'ce certification pool'
+    - 'iso 9001 pool'
+    - 'nautical compliance'
+    - 'inflatable pool certification'
 hero:
-  tagline: Sertifiseringer og standarder
-  title: Kvalitetssertifiseringer<br />& Overholdelsesstandarder
-  subtitle: olagoon SUP-produksjon er sertifisert til internasjonale marine sikkerhetsstandarder, kvalitetsstyringssystemer og miljøbestemmelser — CE, ISO 9001, UKCA, BSCI og REACH.
+  tagline: Certifications & Standards
+  title: 'Quality Certifications<br />& Compliance Standards'
+  subtitle: 'olagoon pool manufacturing is certified to international marine safety standards, quality management systems, and environmental regulations — CE, ISO 9001, UKCA, BSCI, and REACH.'
   image:
     src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
-    alt: olagoon kvalitetssertifiseringer og samsvarsdokumentasjon
+    alt: olagoon quality certifications and compliance documentation
 content_certifications:
-  tagline: Våre sertifiseringer
-  title: Sertifisert kvalitet,<br />globalt anerkjent
-  subtitle: Hvert olagoon-produkt støttes av sertifiseringer som viser vår forpliktelse til kvalitet, sikkerhet og miljøansvar.
+  tagline: Our Certifications
+  title: 'Certified Quality,<br />Globally Recognized'
+  subtitle: 'Every olagoon product is backed by certifications that demonstrate our commitment to quality, safety, and environmental responsibility.'
   items:
-    - title: CE-sertifisert
-      description: Alle olagoon-produkter oppfyller europeiske CE-merkingkrav for rekreasjonsfartøyer, og sikrer at sikkerhets-, helse- og miljøvernstandarder oppfylles.
+    - title: 'CE Certified'
+      description: 'All olagoon products comply with European CE marking requirements for recreational watercraft, ensuring safety, health, and environmental protection standards are met.'
       icon: tabler:certificate
-    - title: ISO 9001:2015
-      description: Kvalitetsstyringssystemet vårt er ISO 9001:2015-sertifisert og dekker design, produksjon og distribusjon av oppblåsbare farkoster og marineutstyr.
+    - title: 'ISO 9001:2015'
+      description: 'Our quality management system is ISO 9001:2015 certified, covering design, manufacturing, and distribution of inflatable watercraft and marine equipment.'
       icon: tabler:clipboard-check
-    - title: UKCA-merket
-      description: Produkter solgt på det britiske markedet bærer UKCA-merking, som bekrefter samsvar med britiske forskrifter for marineutstyr og personlige vannscootere.
+    - title: 'UKCA Marked'
+      description: 'Products sold in the UK market carry UKCA marking, confirming compliance with UK regulations for marine equipment and personal watercraft.'
       icon: tabler:shield
-    - title: BSCI-samsvarig
-      description: olagoon er BSCI (Business Social Compliance Initiative) revidert, noe som viser etisk produksjonspraksis, rettferdige arbeidsforhold og ansvar i forsyningskjeden.
+    - title: 'BSCI Compliant'
+      description: 'olagoon is BSCI (Business Social Compliance Initiative) audited, demonstrating ethical manufacturing practices, fair labor conditions, and supply chain responsibility.'
       icon: tabler:heart-handshake
-    - title: REACH-kompatibel
-      description: Alle materialer som brukes i olagoon-produkter overholder EUs REACH-forskrifter for kjemikaliesikkerhet, og sikrer at ingen begrensede stoffer finnes i vår PVC, EVA eller komponenter.
+    - title: 'REACH Compliant'
+      description: 'All materials used in olagoon products comply with EU REACH regulations for chemical safety, ensuring no restricted substances in our PVC, EVA, or components.'
       icon: tabler:flask
-    - title: Materialtesting
-      description: Stoffer testes for strekkfasthet, rivestyrke, UV-nedbrytning og kaldsprekkytelse. Hver produksjonsbatch prøvetas og verifiseres.
+    - title: 'Material Testing'
+      description: 'Fabrics are tested for tensile strength, tear resistance, UV degradation, and cold-crack performance. Every production batch is sampled and verified.'
       icon: tabler:test-pipe
 content_factory:
-  tagline: Fabrikkstandarder
-  title: Produksjonseksellens<br />— bygget til spesifikasjon
-  subtitle: 12.000 m²-anlegget vårt opererer under strenge kvalitetskontrollprotokoller på hvert produksjonstrinn.
+  tagline: Factory Standards
+  title: 'Manufacturing Excellence<br />— Built to Specification'
+  subtitle: 'Our 12,000 m² facility operates under strict quality control protocols at every stage of production.'
   list:
-    - 'Inngående materialinspeksjon: Alle råmaterialer — PVC-stoff, EVA-skum, lim, beslag — testes mot spesifikasjoner før de settes i produksjon.'
-    - 'Kontroll under produksjon: Hvert produksjonsstadium har dokumenterte kvalitetskontrollpunkter. Sveise-styrke, sømjustering, ventilinstallasjon og monteringsmoment verifiseres inline.'
-    - 'Trykktesting: Hvert oppblåsbart kammer trykktestes ved 1,25× nominelt trykk i 24–48 timer. Trykkfallet må være under 5 % for å bestå.'
-    - 'Sluttinspeksjon: Ferdige produkter inspiseres for dimensjonsnøyaktighet, overflatekvalitet, tilbehørskompletthet og emballasjeintegritet før forsendelse.'
-    - 'Batchsporing: Hvert produkt bærer et serienummer knyttet til produksjonsbatchposter, som muliggjør full sporing fra råmateriale til ferdig vare.'
+    - 'Incoming Material Inspection: All raw materials — PVC fabric, EVA foam, adhesives, hardware — are tested against specifications before entering production.'
+    - 'In-Process Quality Control: Every production stage has documented QC checkpoints. Weld strength, seam alignment, valve installation, and fitting torque are verified inline.'
+    - 'Pressure Testing: Every inflatable chamber is pressure-tested at 1.25× rated pressure for 24–48 hours. Pressure drop must stay below 5% for a passing grade.'
+    - 'Final Inspection: Completed products are inspected for dimensional accuracy, cosmetic finish, accessory completeness, and packaging integrity before shipping.'
+    - 'Batch Traceability: Every product carries a serial number linked to production batch records, enabling full traceability from raw material to finished goods.'
 content_safety:
-  tagline: Marine sikkerhetsstandarder
-  title: Sikkerhet først<br />— designet for pålitelig drift
-  subtitle: olagoon-produkter er designet og testet for å oppfylle internasjonale marine sikkerhetsstandarder for kommersiell og rekreasjonsbruk.
+  tagline: Marine Safety Standards
+  title: 'Safety First<br />— Designed for Reliable Operation'
+  subtitle: 'olagoon products are designed and tested to meet international marine safety standards for commercial and recreational use.'
   items:
-    - title: EN ISO 25649
-      description: Oppblåsbare SUP-er oppfyller EN ISO 25649-standarder for konstruksjon, stabilitet, oppdrift og lastekapasitet.
+    - title: 'EN ISO 25649'
+      description: 'inflatable pools comply with EN ISO 25649 standards for construction, stability, buoyancy, and load capacity.'
       icon: tabler:sailboat
-    - title: SOLAS-samsvar
-      description: Sikkerhetsutstyr og redningsapparater oppfyller SOLAS-krav (Safety of Life at Sea) der det er aktuelt.
+    - title: 'SOLAS Compliance'
+      description: 'Safety equipment and life-saving appliances meet SOLAS (Safety of Life at Sea) requirements where applicable.'
       icon: tabler:lifebuoy
 cta:
-  title: Trenger du sertifiserte produkter for prosjektet ditt?
-  subtitle: Kontakt teamet vårt for å diskutere sertifiseringskrav, dokumentasjon og overholdelse for ditt marked.
+  title: 'Need certified products for your project?'
+  subtitle: 'Contact our team to discuss certification requirements, documentation, and compliance for your market.'
   actions:
     - variant: primary
-      text: Be om sertifiseringsdokumenter
+      text: Request certification docs
       href: /contact/
-    - text: Se vår kvalitetsside
+    - text: View our quality page
       href: /quality/

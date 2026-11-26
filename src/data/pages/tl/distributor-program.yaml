@@ -1,122 +1,117 @@
 meta:
-  title: 'Mga Country Partner — Isang Bansa, Isang Opisyal na Distributor ng OLagoon | {SITE}'
-  description: 'Mag-apply upang maging opisyal na distributor ng OLagoon para sa iyong bansa. Isang awtorisadong partner kada market, proteksyon sa teritoryo, direct-factory na margin, taunang rebate, at 10-module na programa ng suporta para sa mga distributor ng SUP at water sports sa buong mundo.'
+  title: 'Country Partners — One Country, One Official OLagoon Distributor | {SITE}'
+  description: 'Apply to become the official OLagoon distributor for your country. One authorized partner per market, territory protection, direct-factory margins, annual rebates, and a 10-module country partner support program for global pool and water sports distributors.'
   keywords:
-    - 'programa ng partnership ng bansa'
+    - 'country partnership program'
     - 'become a distributor'
-    - 'SUP distributorship'
-    - 'isang bansa isang distributor'
-    - 'distributor ng stand up paddle'
-    - 'distribusyon ng water sports'
-    - 'aplikasyon ng partnership ng bansa'
+    - 'pool distributorship'
+    - 'one country one distributor'
+    - 'stand up paddle distributor'
+    - 'water sports distribution'
+    - 'country partnership application'
 hero:
   tagline: 'Country Partnership'
-  title: 'Isang Bansa.<br />Isang Opisyal na Distributor ng OLagoon.'
-  subtitle: 'Nagtatalaga ang OLagoon ng iisang awtorisadong country distributor para sa bawat aprubadong market. Eksklusibong teritoryo, presyo ng dealer na may taunang rebate, at kumpletong programa ng suporta sa distributor — bilang kapalit ng napirmahang kasunduan at tunay na komitment na buuin ang market.'
+  title: 'One Country.<br />One Official OLagoon Distributor.'
+  subtitle: 'OLagoon appoints a single authorized country distributor for each approved market. Exclusive territory, dealer pricing with annual rebates, and a full distributor support program — in exchange for a signed agreement and a real commitment to build the market.'
   actions:
-    - text: 'Mag-apply para sa Country Partnership'
+    - text: 'Apply for Country Partnership'
       href: /contact/?subject=Country Partnership Application
       variant: primary
-    - text: 'Hanapin ang Iyong Lokal na Distributor'
+    - text: 'Find Your Local Distributor'
       href: /distributor-program/
       variant: secondary
-    - text: 'Humiling ng Dealer Price List'
+    - text: 'Request Dealer Price List'
       href: /contact/?subject=Dealer Price List
       variant: secondary
 stats:
   - value: '1'
-    label: 'Opisyal na distributor kada bansa o rehiyon'
+    label: 'Official distributor per country or region'
   - value: '100–300'
-    label: 'Pinakamababang unang order (Country / Regional)'
+    label: 'Minimum first order (Country / Regional)'
   - value: '50+'
-    label: 'Mga bansang pinaglilingkuran sa buong mundo'
-  - value: '30–45'
-    label: 'Araw na karaniwang lead time (FOB Qingdao)'
+    label: 'Countries served globally'
+  - value: '12–16'
+    label: 'Weeks standard lead time (FOB Qingdao)'
 features:
-  title: 'Bakit Mag-partner sa OLagoon'
-  subtitle: 'Modelong isang-bansa-isang-distributor na may estruktura ng suporta para kumita ang teritoryo. Ang eksklusibidad ay pinaghihirapan at pinapanatili — hindi itong permanente na karapatan.'
+  title: 'Why Partner With OLagoon'
+  subtitle: 'A one-country-one-distributor model with the support structure to make the territory pay. Exclusivity is earned and maintained — not a permanent right.'
   columns: 3
   items:
-    - title: 'Eksklusibidad ng Teritoryo'
-      description: 'Isang awtorisadong distributor kada bansa o rehiyon. Walang parallel import, walang panloob na kompetisyon. Ang iyong pamumuhunan ay nagtatatag ng iyong sariling depensa.'
+    - title: 'Territory Exclusivity'
+      description: 'One authorized distributor per country or region. No parallel imports, no internal competition. Your investment builds your own moat.'
       icon: 'tabler:shield-check'
-    - title: 'Proteksyon laban sa Channel Conflict'
-      description: 'Ang mga direktang order mula sa iyong rehiyon ay dumadaan sa iyo, at ang pagpepresyo ay nagpoprotekta sa iyong margin. Hindi nagbebenta ang OLagoon sa paligid ng mga country partner nito.'
+    - title: 'Channel Conflict Protection'
+      description: 'Direct orders from your region are routed through you, and pricing protects your margin. OLagoon does not sell around its country partners.'
       icon: 'tabler:users'
-    - title: 'Direct-Factory na Margin at Rebate'
-      description: 'Dealer price list na may rebate sa mga napirmahang volume. Walang middleman. FOB Qingdao shipping na may kumpletong export documentation.'
+    - title: 'Direct-Factory Margins & Rebates'
+      description: 'Dealer price list with rebates on committed volumes. No middlemen. FOB Qingdao shipping with full export documentation.'
       icon: 'tabler:coins'
-    - title: '10-Module na Programa ng Suporta sa Partner'
-      description: 'Onboarding, go-to-market, training, marketing at joint market funding, spare parts at after-sales, warranty, mga tool sa pag-order, at partner portal — lahat ay nakasama sa iyong Distribution Agreement.'
+    - title: '10-Module Partner Support Program'
+      description: 'Onboarding, go-to-market, training, marketing and joint market funding, spare parts and after-sales, warranty, ordering tools, and a partner portal — covered in your Distribution Agreement.'
       icon: 'tabler:rocket'
-    - title: 'Marketing at Joint Market Funds'
-      description: 'Localized na campaign asset, POS material para sa dealer, event kit, digital na nilalaman sa maraming wika, at co-marketing support para sa mga season ng paglulunsad.'
+    - title: 'Marketing & Joint Market Funds'
+      description: 'Localized campaign assets, dealer POS materials, event kits, digital content in multiple languages, and co-marketing support for launch seasons.'
       icon: 'tabler:mood-smile'
-    - title: 'Training sa Produkto, Benta at Teknikal'
-      description: 'Istrukturadong session ng onboarding tungkol sa produkto, benta, at teknikal na kaalaman, na may na-update na materyales habang lumalawak ang linya.'
+    - title: 'Product, Sales & Technical Training'
+      description: 'Structured onboarding sessions on product, sales, and technical knowledge, with updated materials as the range evolves.'
       icon: 'tabler:presentation'
-    - title: 'Suporta sa Spare Parts at After-Sales'
-      description: 'Suplay ng spare parts, pagpaparehistro ng warranty at paghawak ng claim, at mga product datasheet at manual para sa iyong lokal na service team.'
+    - title: 'Spare Parts & After-Sales Support'
+      description: 'Spare parts supply, warranty registration and claims handling, and product datasheets and manuals for your local service team.'
       icon: 'tabler:settings'
-    - title: 'Nakalaang Account Manager at Partner Portal'
-      description: 'Personal na distributor manager kasama ang access sa mga price list, status ng order, at mga marketing resource sa pamamagitan ng OLagoon partner portal.'
+    - title: 'Dedicated Account Manager & Partner Portal'
+      description: 'A personal distributor manager plus access to price lists, order status, and marketing resources through the OLagoon partner portal.'
       icon: 'tabler:user-check'
 table:
-  title: 'Mga Antas ng Partnership, MOQ at mga Tuntunin sa Order'
-  subtitle: 'Piliin ang antas na tumutugma sa potensyal ng iyong market. Lahat ng presyo ay nasa USD, FOB Qingdao.'
-  caption: 'Ang mga sample at trial order (5–30 unit) ay walang proteksyon sa teritoryo. Ang eksklusibidad sa bansa ay nalalapat lamang sa napirmahang kasunduan ng Distributor ng Bansa / Rehiyon — ito ay pinapanatili sa pamamagitan ng pagkumpleto ng unang order, taunang target ng pagbili, lokal na stock, kakayahang after-sales, at patuloy na pamumuhunan sa market, at hindi ito permanente o walang-hanggang karapatan.'
+  title: 'Partnership Tiers, MOQ & Order Terms'
+  subtitle: 'Choose the tier that matches your market potential. All prices in USD, FOB Qingdao.'
+  caption: 'Sample and trial orders (5–30 units) carry no territorial protection. Country exclusivity applies only to signed Country / Regional Distributor agreements — it is maintained by first-order completion, annual purchase targets, local stock, after-sales capability, and continued market investment, and is not a permanent or perpetual right.'
   head:
-    - 'Antas ng Programa'
-    - 'Pinakamababang Order (unit)'
-    - 'Lead Time'
-    - 'Pagbabayad'
+    - Program Tier
+    - Minimum Order (units)
+    - Lead Time
+    - Payment
   rows:
-    - ['Sample / Pagsusuri ng Produkto', '5–10', '15–20 working days', '100% prepaid']
-    - ['Trial Order', '10–30', '30–45 working days', '100% prepaid']
-    - ['Authorized Dealer', '30–50', '30–45 working days', '30% deposito / 70% bago mag-shipment']
-    - ['Distributor ng Bansa / Rehiyon', '100–300', '30–45 working days', '30% deposito / 70% bago mag-shipment']
-    - ['Custom at Private Label (standard)', '50+', '30–45 working days', '30% deposito / 70% bago mag-shipment']
-    - ['Deep Custom (new molds', 'packaging)', '200+', '45–60 working days', '30% deposito / 70% bago mag-shipment']
-    - [
-        'Buong Karapatan sa Linya ng Produkto',
-        '300–1,000',
-        '60–90 working days',
-        '30% deposito / 70% bago mag-shipment',
-      ]
+    - [Sample / Product Evaluation, 5–10, 15–20 working days, 100% prepaid]
+    - [Trial Order, 10–30, 15–20 working days, 100% prepaid]
+    - [Authorized Dealer, 30–50, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Country / Regional Distributor, 100–300, 10–14 weeks, 30% deposit / 70% before shipment]
+    - [Custom & Private Label (standard), 50+, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Deep Custom (new molds, packaging), 200+, 12–16 weeks + 15–20 days tooling, 30% deposit / 70% before shipment]
+    - [Full Product Line Rights, '300–1,000', 10–14 weeks, 30% deposit / 70% before shipment]
 faqs:
-  title: 'Partnership ng Bansa — FAQ'
-  subtitle: 'Mga tanong ng mga seryosong country partner bago mag-apply.'
+  title: 'Country Partnership — FAQ'
+  subtitle: 'The questions serious country partners ask before applying.'
   items:
-    - title: 'Ano talaga ang ibig sabihin ng isang-bansa-isang-distributor?'
-      description: "Nagtatalaga ang OLagoon ng iisang awtorisadong distributor na may eksklusibong karapatan sa isang tinukoy na teritoryo. Hindi kami nagbebenta mula sa aming global o regional channel papasok sa isang protektadong bansa. Ang iyong pagmamay-ari ng teritoryo ay tumatagal hangga't natutugunan ang Distribution Agreement."
-    - title: 'Eksklusibo ba ang teritoryo magpakailanman?'
-      description: 'Hindi. Ang eksklusibidad ay may kundisyon, hindi permanente. Ito ay pinapanatili sa pamamagitan ng napirmahang Distribution Agreement, pagkumpleto ng iyong unang order, taunang target ng pagbili, lokal na stock, kakayahang after-sales, at patuloy na pamumuhunan sa market. Kung hindi natutugunan ang mga ito, maaaring muling pag-usapan o muling italaga ang teritoryo.'
-    - title: 'Ano ang pinakamababang unang order?'
-      description: 'Ang mga country at regional distributor ay nagsisimula sa 100–300 unit; ang mga awtorisadong dealer sa 30–50 unit; ang mga trial order mula 10–30 unit ay nagpapahintulot sa iyo na unang patunayan ang market (walang proteksyon sa teritoryo ang mga trial at sample order). Ang mga custom at private-label na programa ay sumusunod sa hiwalay na MOQ na nakalista sa mga antas sa itaas.'
-    - title: 'Anong suporta ang kasama sa 10-module na support program?'
-      description: 'Mga antas at kwalipikasyon, proteksyon sa teritoryo, MOQ / presyo / taunang rebate, imbentaryo at pagpapatupad ng order, marketing asset at joint market funds, training sa produkto / benta / teknikal, spare parts at after-sales, pagpaparehistro ng warranty, partner portal, at mga product datasheet, library ng marketing asset, iskedyul ng taunang rebate, at shipping at packing list.'
-    - title: 'Paano ako pinoprotektahan ng OLagoon laban sa channel conflict?'
-      description: 'Ang bawat teritoryo ay may eksaktong isang awtorisadong distributor. Ang mga inquiry at direktang order mula sa iyong rehiyon ay dumadaan sa iyo, ipinapasa ang mga form sa website patungo sa lokal na partner kung mayroon, at ang global team ay umaakyat lamang ng isyu kapag ang isang partner ay hindi tumutugon.'
-    - title: 'Ano ang mga tuntunin sa pagpapadala at pagbabayad?'
-      description: 'Ang mga order ay ipinapadala nang FOB Qingdao na may kumpletong export documentation. Ang mga production order ay 30% deposito na may 70% bago mag-shipment; ang mga trial at sample order ay prepaid. Ang karaniwang lead time ay 30–45 working days, na may 15–20 working days para sa mga sample run.'
-    - title: 'Paano ako mag-a-apply?'
-      description: 'Ipadala ang iyong aplikasyon sa pamamagitan ng contact form na may detalye ng market. Sinusuri namin ang angkop ng market, presensya sa retail, at kakayahang logistics, pagkatapos ay tumutugon kami sa loob ng 3 business day na may mga susunod na hakbang at halimbawa ng Distribution Agreement.'
+    - title: 'What does one-country-one-distributor really mean?'
+      description: 'OLagoon appoints a single authorized distributor with exclusive rights for a defined territory. We do not sell from our global or regional channels into a protected country. Your territory ownership holds for as long as the Distribution Agreement is met.'
+    - title: 'Is the territory exclusive forever?'
+      description: 'No. Exclusivity is conditional, not perpetual. It is maintained through a signed Distribution Agreement, completion of your first order, annual purchase targets, local stock, after-sales capability, and continued market investment. If these are not met, the territory can be renegotiated or reassigned.'
+    - title: 'What is the minimum first order?'
+      description: 'Country and regional distributors start at 100–300 units; authorized dealers at 30–50 units; trial orders from 10–30 units let you validate the market first (trial and sample orders carry no territory protection). Custom and private-label programs follow separate MOQs listed in the tiers above.'
+    - title: 'What support is included in the 10-module support program?'
+      description: 'Tiers and qualification, territory protection, MOQ / pricing / annual rebates, inventory and order execution, marketing assets and joint market funds, product / sales / technical training, spare parts and after-sales, warranty registration, the partner portal, and product datasheets, marketing asset library, annual rebate schedule, and shipping and packing lists.'
+    - title: 'How does OLagoon protect me from channel conflict?'
+      description: 'Each territory has exactly one authorized distributor. Inquiries and direct orders from your region are routed through you, website forms are forwarded toward the local partner where one exists, and the global team only escalates when a partner does not respond.'
+    - title: 'What are the shipping and payment terms?'
+      description: 'Orders ship FOB Qingdao with full export documentation. Production orders are 30% deposit with 70% before shipment; trial and sample orders are prepaid. Production runs take 12–16 weeks at 50–100 units, 10–14 weeks at 300–1,000 units, and 8–12 weeks above 1,000 units; sample runs ship in 15–20 working days.'
+    - title: 'How do I apply?'
+      description: 'Send your application via the contact form with market details. We review market fit, retail presence, and logistics capability, then respond within 3 business days with next steps and a sample Distribution Agreement.'
 cta:
-  title: 'Pagmay-ari ng iyong market.'
-  subtitle: 'Mag-apply para sa OLagoon Country Partnership at makatanggap ng tugon sa loob ng 3 business day.'
+  title: 'Own your market.'
+  subtitle: 'Apply for the OLagoon Country Partnership and get a response within 3 business days.'
   actions:
-    - text: 'Mag-apply para sa Country Partnership'
+    - text: 'Apply for Country Partnership'
       href: /contact/?subject=Country Partnership Application
       variant: primary
-    - text: 'I-download ang Program Overview'
+    - text: 'Download the Program Overview'
       href: /distributor-program/
       variant: secondary
 geo:
-  tagline: 'Kanino Kami Nagtutulungan'
-  sentence: 'Nagtutulungan ang OLagoon sa mga established na distributor ng marine, outdoor, at sports na naglilingkod sa mga retail chain, rental fleet, paaralan ng water sports, resort, at mamimiling gobyerno gamit ang premium na inflatable SUP board at watercraft — at nagko-commit na buuin ang brand ng OLagoon sa kanilang bansa.'
+  tagline: 'Who We Partner With'
+  sentence: 'OLagoon partners with established marine, outdoor, and sports distributors who serve retail chains, rental fleets, water sports schools, resorts, and government buyers with premium inflatable pools and watercraft — and who commit to building the OLagoon brand in their country.'
   audiences:
-    - 'Mga Distributor ng Marine at Paddle Sports'
-    - 'Retail ng Outdoor at Sports'
-    - 'Mga Operator ng Rental at Resort'
-    - 'Mga Paaralan ng Water Sports'
-    - 'Mga Komunidad ng Ocean Sports'
+    - 'Marine & Paddle Sports Distributors'
+    - 'Outdoor & Sports Retail'
+    - 'Rental & Resort Operators'
+    - 'Water Sports Schools'
+    - 'Ocean Sports Communities'

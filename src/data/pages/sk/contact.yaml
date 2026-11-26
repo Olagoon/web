@@ -1,144 +1,146 @@
 meta:
-  title: 'Kontakt — partnerstvá a produktové dopyty | {SITE}'
-  description: 'Kontaktujte olagoon pre partnerstvá, co-brand a private-label dopyty či profesionálne flotily. Značka nafukovacích SUP, odpovedáme do 2 pracovných dní.'
+  title: 'Contact — Partnership & Product Inquiries | {SITE}'
+  description: 'Contact olagoon for partnership, co-brand, and private-label inquiries, or professional fleets. inflatable pools brand, we respond within 2 business days.'
   keywords:
-    - 'ponuka distribútor sup'
-    - 'profesionálny dodávateľ sup'
-    - 'kontakt výrobca sup'
+    - 'pool distributor quote'
+    - 'professional pool supplier'
+    - 'contact pool manufacturer'
 hero_text:
-  tagline: 'Kontakt'
-  title: 'SPOJTE SA S NAMI'
+  tagline: Contact
+  title: GET IN TOUCH
 contact_form:
   id: form
-  title: 'Pošlite nám správu'
-  subtitle: 'Pre ponuky, technické otázky alebo partnerstvá nám napíšte. Odpovedáme do jedného pracovného dňa.'
+  title: Send us a message
+  subtitle: For quotes, technical questions or partnership enquiries, drop us a line. We reply within one business day.
   email_to: info@olagoon.com
-  submit_button: 'Odoslať dopyt → Získať ponuku'
-  success_message: 'Ďakujeme! Vaša správa dorazila do našej schránky. Odpovieme do jedného pracovného dňa.'
-  error_message: 'Pri odosielaní správy sa niečo pokazilo. Skúste to znova alebo nám napíšte e-mail priamo.'
+  submit_button: Send Inquiry → Get a Quote
+  success_message: Thanks! Your message has landed in our inbox. We will reply within one business day.
+  error_message: Something went wrong sending your message. Please try again or email us directly.
   default_country_code: '+1'
   captcha:
-    label: 'Antispam: prosím vyriešte nasledujúce'
+    label: 'Anti-spam: please solve the following'
   fields:
     - name: country
-      label: 'Krajina'
+      label: Country
       row: 1
       type: select
       optionsKey: countries
       step: 1
     - name: orderVolume
-      label: 'Odhadovaný objem objednávky'
+      label: Estimated Order Volume
       row: 2
       type: select
       options:
         - value: ''
-          label: 'Vyberte odhadovaný objem...'
+          label: Select your estimated volume...
         - value: sample
-          label: 'Iba vzorky / prototypy'
+          label: Samples / Prototypes only
         - value: '5-10'
-          label: '5–10 kusov (štandardné MOQ)'
+          label: 5–10 units (Samples / Trial)
+        - value: '50-100'
+          label: 50–100 units
         - value: '100-500'
-          label: '100–500 kusov'
+          label: 100–500 units
         - value: '500-plus'
-          label: '500+ kusov (objemové ceny)'
+          label: 500+ units (Volume pricing)
       step: 1
     - name: customization
-      label: 'Potrebujete customizáciu?'
+      label: Customization Needed?
       row: 3
       type: select
       options:
         - value: ''
-          label: 'Vyberte typ customizácie...'
+          label: Select customization type...
         - value: none
-          label: 'Štandardný produkt (bez customizácie)'
+          label: Standard product (no customization)
         - value: logo
-          label: 'Iba vlastné logo / branding'
+          label: Custom Logo / Branding only
         - value: full
-          label: 'Kompletný co-brand (veľkosť, farba, grafika, balenie)'
+          label: Full Co-Brand (size, color, graphics, packaging)
         - value: consultation
-          label: 'Nie som si istý — potrebujem konzultáciu'
+          label: Not sure — need consultation
       step: 1
     - name: productInterest
-      label: 'Kategórie produktov záujmu'
+      label: Product Categories of Interest
       row: 4
       type: select
       options:
         - value: ''
-          label: 'Vyberte kategóriu produktu...'
+          label: Select product category...
         - value: all
-          label: 'Všetky produkty / kompletný katalóg'
-        - value: sup
-          label: 'Dosky SUP / paddleboardy'
+          label: All products / Full catalog
+        - value: pool
+          label: pools / inflatable pool
         - value: safety
-          label: 'Bezpečnostné vybavenie / záchranné vesty'
+          label: Pool Accessories & Spare Parts
         - value: accessory
-          label: 'Príslušenstvo (kompresory, veslá, tašky)'
+          label: Accessories (pumps, oars, bags)
       step: 1
     - name: firstName
-      label: 'Meno'
+      label: First Name
       row: 1
       step: 2
     - name: lastName
-      label: 'Priezvisko'
+      label: Last Name
       row: 1
       step: 2
     - name: companyName
-      label: 'Názov spoločnosti'
+      label: Company Name
       row: 2
       step: 2
     - name: email
-      label: 'E-mail'
+      label: E-mail
       row: 3
       type: email
       step: 2
     - name: tel
-      label: 'TELEFÓN'
+      label: TEL
       row: 3
       type: tel
       withCountryCode: true
       step: 2
     - name: address
-      label: 'Adresa'
+      label: Address
       row: 4
       step: 2
     - name: zip
-      label: 'PSČ'
+      label: Zip / Postal Code
       row: 5
       step: 2
     - name: subject
-      label: 'Predmet'
+      label: Subject
       row: 1
       step: 3
     - name: message
-      label: 'Správa'
+      label: Message
       row: 2
       type: textarea
       rows: 6
       step: 3
 features2_other_ways:
-  title: 'Ďalšie spôsoby, ako nás kontaktovať'
+  title: Other ways to reach us
   columns: 3
   items:
-    - title: 'Predajné dopyty'
-      description: 'Ponuky, konfigurácie, žiadosti dealerov a hromadné objednávky.'
+    - title: Sales enquiries
+      description: Quotes, configurations, dealer applications and bulk orders.
       icon: tabler:shopping-bag
-    - title: 'Technická podpora'
-      description: 'Záruka, opravy, náhradné diely a prevádzkové otázky.'
+    - title: Technical support
+      description: Warranty, repairs, spare parts and operating questions.
       icon: tabler:tool
-    - title: 'Tlač a partnerstvá'
-      description: 'Mediálne sady, sponzoring a spolupráca v odvetví.'
+    - title: Press & partnerships
+      description: Media kits, sponsorship and industry collaboration.
       icon: tabler:news
-    - title: 'Telefón'
+    - title: Phone
       description: '+1 279 732 3333'
       icon: tabler:headset
-    - title: 'E-mail'
+    - title: Email
       description: info@olagoon.com
       icon: tabler:mail
-    - title: 'Sídlo'
-      description: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'
+    - title: Headquarters
+      description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
       icon: tabler:map-pin
 map:
-  title: 'Naša lokalita'
-  subtitle: 'Navštívte nás v našom sídle'
-  address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'
+  title: Our Location
+  subtitle: Visit us at our headquarters
+  address: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
   zoom: 15

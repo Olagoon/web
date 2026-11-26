@@ -1,99 +1,99 @@
 meta:
-  title: 'Richiedi un Preventivo — Produzione OEM di SUP | {SITE}'
-  description: 'Richiedi un preventivo dettagliato per il tuo progetto di SUP gonfiabile. Produzione OEM/ODM, marchio privato o flotte personalizzate: rispondiamo entro 2 giorni lavorativi.'
+  title: 'Request a Quotation — OEM pool Manufacturing | {SITE}'
+  description: 'Request a detailed quotation for your inflatable pools project. OEM/ODM manufacturing, private label, or custom fleets — we respond within 2 business days.'
   keywords:
-    - 'richiedere preventivo SUP'
-    - 'preventivo OEM paddle board'
-    - 'quotazione fabbrica SUP'
-    - 'prezzo SUP gonfiabile'
+    - 'request pool quote'
+    - 'oem inflatable pool quote'
+    - 'pool factory quotation'
+    - 'inflatable pools price'
 hero_text:
-  tagline: Richiedi un preventivo
-  title: Richiedi un preventivo<br />per il tuo progetto
-  subtitle: Dicci i tuoi requisiti e il nostro team risponderà con un preventivo dettagliato entro 2 giorni lavorativi.
+  tagline: Get a Quote
+  title: 'Request a Quotation<br />for Your Project'
+  subtitle: 'Tell us about your requirements and our team will respond with a detailed quotation within 2 business days.'
 steps2_process:
-  title: Come Funziona
-  subtitle: Quattro semplici passi dalla richiesta di informazioni al preventivo.
+  title: How It Works
+  subtitle: 'Four simple steps from inquiry to quotation.'
   items:
-    - title: 'Passo 1: Invia le tue richieste'
-      description: Compila il modulo sottostante con il tipo di prodotto, la quantità e le specifiche. Più dettagli fornisci, più accurato sarà il tuo preventivo.
+    - title: 'Step 1: Submit Your Requirements'
+      description: 'Fill out the form below with your product type, quantity, and specifications. The more detail you provide, the more accurate your quotation.'
       icon: tabler:file-text
-    - title: 'Fase 2: Esaminiamo e Consigliamo'
-      description: Il nostro team di ingegneri esamina le vostre esigenze e potrebbe contattarvi per chiarimenti. Forniamo raccomandazioni sulla configurazione e le opzioni del prodotto.
+    - title: 'Step 2: We Review & Advise'
+      description: 'Our engineering team reviews your requirements and may contact you for clarification. We provide recommendations on product configuration and options.'
       icon: tabler:users
-    - title: 'Passo 3: Ricevi il tuo preventivo'
-      description: Riceverai un preventivo dettagliato che include il prezzo unitario, la quantità minima d'ordine, i tempi di consegna, le condizioni di pagamento e le opzioni di spedizione. Di solito entro 48 ore.
+    - title: 'Step 3: Receive Your Quote'
+      description: 'You receive a detailed quotation including unit pricing, MOQ, lead time, payment terms, and shipping options. Typically within 48 hours.'
       icon: tabler:currency-dollar
-    - title: 'Fase 4: Campione e Produzione'
-      description: Dopo l'accettazione del preventivo, procediamo con la produzione di campioni (se applicabile) o direttamente con la produzione di massa. Aggiornamenti regolari durante tutto il processo.
+    - title: 'Step 4: Sample & Production'
+      description: 'After quote acceptance, we proceed to sample production (if applicable) or directly to mass production. Regular updates throughout the process.'
       icon: tabler:building-factory
 content_form:
-  tagline: Modulo di preventivo
-  title: Parlaci del tuo progetto
-  subtitle: Tutti i campi con * sono obbligatori.
+  tagline: Quotation Form
+  title: 'Tell Us About Your Project'
+  subtitle: 'All fields with * are required.'
   contact_fields:
-    firstName: Nome
-    lastName: Cognome
-    companyName: Azienda
-    email: Email
+    firstName: First Name
+    lastName: Last Name
+    companyName: Company Name
+    email: E-mail
   fields:
-    - name: Categoria di prodotto
+    - name: Product Category
       type: select
       options:
-        - Tavola SUP
-        - SUP Gonfiabile
-        - Tavola SUP Gonfiabile
-        - Giubbotto Salvagente
-        - Accessorio Marino
-        - OEM/ODM Personalizzato
-    - name: Applicazione
+        - pools
+        - inflatable pools
+        - inflatable pools
+        - Thermal Cover
+        - Marine Accessory
+        - Custom OEM/ODM
+    - name: Application
       type: select
       options:
-        - Centro Subacqueo
-        - Pesca
-        - Turismo Marino / Resort
-        - Ricerca e soccorso
-        - Governo / Militare
-        - OEM / Etichetta Privata
-        - Personale / Ricreativo
-        - Altro
-    - name: Quantità
+        - Diving Center
+        - Fishing
+        - Marine Tourism / Resort
+        - Search & Rescue
+        - Government / Military
+        - OEM / Private Label
+        - Personal / Recreational
+        - Other
+    - name: Quantity
       type: text
-      placeholder: ad es. 50 unità
-    - name: Mercato di riferimento
+      placeholder: e.g. 50 units
+    - name: Target Market
       type: text
-      placeholder: ad es. Europa, Nord America, Medio Oriente
-    - name: Paese di consegna
+      placeholder: e.g. Europe, North America, Middle East
+    - name: Delivery Country
       type: text
-      placeholder: ad es. Italia, EAU, USA, Australia
-    - name: Materiale preferito
+      placeholder: e.g. Italy, UAE, USA, Australia
+    - name: Material Preference
       type: select
       options:
-        - Nessuna preferenza
-        - PVC di grado marina (1100 dtex)
-        - Scafo in vetroresina
-        - Scafo in alluminio
-    - name: Requisiti motore
+        - No Preference
+        - Marine-Grade PVC (1100 dtex)
+        - Fiberglass Hull
+        - Aluminum Hull
+    - name: Engine Requirement
       type: text
-      placeholder: es. setup pagaia standard, pompa elettrica, colori personalizzati
-    - name: Personalizzazione richiesta
+      placeholder: e.g. standard filtration package, electric pump, custom colors
+    - name: Customization Required
       type: text
-      placeholder: ad esempio colori personalizzati, marchio/logo, confezionamento, accessori speciali
-    - name: Tempi di consegna
+      placeholder: e.g. custom colors, branding/logo, packaging, special fittings
+    - name: Timeline
       type: text
-      placeholder: ad esempio consegna entro 90 giorni
-    - name: Requisiti aggiuntivi
+      placeholder: e.g. delivery within 90 days
+    - name: Additional Requirements
       type: textarea
-      placeholder: Descrivi la tua applicazione, specifiche tecniche o eventuali requisiti speciali — includi disegni di riferimento, specifiche o link se disponibili
-    - name: Carica specifiche
+      placeholder: Describe your application, technical specifications, or any special requirements — include reference drawings, specifications, or links if available
+    - name: Upload Specification
       type: file
-      placeholder: Carica la tua scheda tecnica, disegno o documento di riferimento (PDF, DWG, DXF)
-    - name: Carica logo / grafica
+      placeholder: Upload your spec sheet, drawing, or reference document (PDF, DWG, DXF)
+    - name: Upload Logo / Artwork
       type: file
-      placeholder: "Carica il tuo logo o opera d'arte per la personalizzazione del marchio (AI, EPS, PNG)"
+      placeholder: Upload your logo or artwork for custom branding (AI, EPS, PNG)
 cta:
-  title: Preferisci discutere via email?
-  subtitle: Invia la tua richiesta direttamente al nostro team di vendita e risponderemo entro 24 ore.
+  title: 'Prefer to discuss by email?'
+  subtitle: 'Send your inquiry directly to our sales team and we will respond within 24 hours.'
   actions:
     - variant: primary
-      text: Inviaci un'email direttamente
+      text: Email us directly
       href: /contact/

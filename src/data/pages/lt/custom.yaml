@@ -1,89 +1,89 @@
 meta:
-  title: 'Pritaikymo laboratorija — pasirinktinės pripučiamos irklentės | {SITE}'
-  description: 'Pasirinktinės pripučiamos irklentės: individualus dizainas, logotipas, pasirinktinė formelė ir gamyba. Privataus prekės ženklo SUP partneris, MOQ 50 vienetų, CE sertifikuota.'
+  title: 'Custom Lab — Custom Inflatable Pool | {SITE}'
+  description: 'Custom inflatable pool: bespoke design, logo, custom mold, and production. Private-label pool partner, MOQ 50 units, CE certified.'
   keywords:
-    - 'pasirinktinių irklentių gamintojas'
-    - 'pasirinktinis pripučiamas sup'
-    - 'irklentė su logotipu'
-    - 'privatus prekės ženklas pripučiamam sup'
-    - 'irklentės gamyba'
+    - 'custom inflatable pool manufacturer'
+    - 'custom inflatable pools'
+    - 'inflatable pool with logo'
+    - 'private label inflatable pools'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: 'olagoon pritaikymo laboratorija'
-  title: 'Sukurkite savo<br />SUP lentą'
-  subtitle: 'Pasirinktinio SUP partneris, siūlantis bendrą prekės ženklą, privatų prekės ženklą ir individualią irklentės gamybą verslams visame pasaulyje. Nuo vieno prototipo iki pilnų gamybos serijų.'
-  cta: 'Pradėkite savo projektą'
+  tagline: olagoon Custom Lab
+  title: Design Your Own<br />pools
+  subtitle: Custom pool partner offering co-brand, private label, and bespoke inflatable pool production for businesses worldwide. From a single prototype to full production runs.
+  cta: Start your project
   footer_link: /contact/
 
 steps_section:
-  tagline: 'Kaip tai veikia'
-  title: 'Nuo koncepcijos iki gamybos'
-  subtitle: 'Keturi žingsniai nuo jūsų idėjos iki baigto, jūrai paruošto produkto.'
+  tagline: How it works
+  title: From concept to production
+  subtitle: Four steps from your idea to a finished, sea-ready product.
   steps:
     - num: '01'
-      title: 'Pasirinkite savo lentą'
-      desc: 'Pasirinkite iš mūsų pagrindinių SUP modelių — universalus, turizmo, joga, sporto ar vaikų. Pasirinkite dydį, medžiagą ir spalvą.'
+      title: Choose Your Pool
+      desc: Select from our core pool models — all-around, touring, yoga, sport, or kids. Pick size, material, and colour.
     - num: '02'
-      title: 'Įkelkite savo dizainą'
-      desc: 'Atsiųskite mums savo logotipą, dizainą ar prekės ženklo gaires. Mūsų dizaino komanda paruoš skaitmeninį maketą.'
+      title: Upload Your Design
+      desc: Send us your logo, artwork, or brand guidelines. Our design team prepares a digital proof.
     - num: '03'
-      title: 'AI maketo peržiūra'
-      desc: 'Peržiūrėkite fotorealistinį AI sugeneruotą maketą jūsų pasirinktinei lentai prieš gamybos pradžią.'
+      title: AI Mockup Review
+      desc: View a photorealistic AI-generated mockup of your custom pool before production begins.
     - num: '04'
-      title: 'Gamyba ir pristatymas'
-      desc: 'Patvirtinus, jūsų užsakymas patenka į mūsų gamybos liniją. Terminai nuo 30 dienų.'
+      title: Production & Delivery
+      desc: Once approved, your order enters our production line. Lead times from 30 days.
 
 services_section:
-  tagline: 'Paslaugos'
-  title: 'Gamybos paslaugos pasauliniams prekės ženklams'
-  subtitle: 'Lankstūs bendradarbiavimo modeliai — nuo sutartinės gamybos iki visapusiško prekės ženklo kūrimo.'
+  tagline: Services
+  title: Manufacturing services for global brands
+  subtitle: Flexible engagement models — from contract manufacturing to full-service brand building.
   items:
-    - title: 'Bendra prekės ženklo gamyba'
-      desc: 'Mes gaminame jūsų dizainus pagal specifikacijas — jūsų intelektinė nuosavybė, jūsų brėžiniai, jūsų kokybės standartai. Pilna NDA apsauga.'
-      icon: '⚙️'
-    - title: 'Dizaino sprendimai'
-      desc: 'Pasirinkite iš 50+ įrodytų platformų ir pritaikykite dydį, spalvą, grafiką ir pakuotę.'
+    - title: Co-Brand Production
+      desc: We produce your designs to spec — your IP, your drawings, your quality standards. Full NDA protection.
+      icon: ⚙️
+    - title: Design Solutions
+      desc: Choose from 50+ proven platforms and customise size, colour, graphics, and packaging.
       icon: '🎨'
-    - title: 'Privatus prekės ženklas'
-      desc: 'Jūsų prekės ženklas ant mūsų produktų — logotipas, pakuotė, kabinamos etiketės, vadovai. Paruošta mažmeninei prekybai iškart iš dėžės.'
+    - title: Private Label
+      desc: Your brand on our products — logo, packaging, hang tags, manuals. Retail-ready out of the box.
       icon: '🎨'
-    - title: 'Pasirinktinis prekės ženklas'
-      desc: 'Denio kilimėlio spausdinimas, korpuso grafika, vamzdelio lipdukai ir pasirinktinės etiketės — pilna prekės ženklo integracija.'
-      icon: '⚙️'
+    - title: Custom Branding
+      desc: Deck pad printing, hull graphics, tube decals, and custom labels — full brand integration.
+      icon: ⚙️
 
 capabilities_section:
-  tagline: 'Galimybės'
-  title: 'Gamybos ir pritaikymo galimybės'
-  subtitle: 'Viskas, ką reikia žinoti prieš pateikiant užsakymą.'
+  tagline: Capabilities
+  title: Production & customisation capabilities
+  subtitle: Everything you need to know before placing your order.
   capabilities:
-    - label: 'Užsakymo kiekis'
-      value: 'MOQ 50 vienetų (SUP)'
-    - label: 'Terminas'
-      value: '30–45 dienos standartinis; 15–20 dienų prototipams'
-    - label: 'Pritaikymas'
-      value: 'Dydis, forma, spalva, grafika, pakuotė, furnitūra'
-    - label: 'Medžiagos'
-      value: 'PVC, „Drop-Stitch", EVA, aliuminis'
-    - label: 'Spausdinimas'
-      value: 'Skaitmeninis (CMYK), šilkografija, terminis perkėlimas, sublimacija'
-    - label: 'Sertifikavimas'
-      value: 'CE, UKCA, FCC (parama pasaulinei atitikčiai)'
+    - label: Order volume
+      value: MOQ 50 units (pool)
+    - label: Lead time
+      value: 12–16 weeks standard (50–100 units); 15–20 days for prototypes
+    - label: Customisation
+      value: Size, shape, colour, graphics, packaging, hardware
+    - label: Materials
+      value: PVC, drop-stitch, EVA, aluminium
+    - label: Printing
+      value: Digital (CMYK), screen printing, heat transfer, sublimation
+    - label: Certification
+      value: CE, UKCA, FCC (support for global compliance)
 
 why_section:
-  tagline: 'Kodėl olagoon'
-  title: 'Viena gamykla. Vienas standartas. Jokių kompromisų.'
+  tagline: Why olagoon
+  title: One factory. One standard. Zero compromises.
   points:
-    - text: '12 000 m² integruota gamybos įmonė'
-      highlight: '12 000 m²'
-    - text: '200+ kvalifikuotų darbuotojų ir inžinierių'
-      highlight: '200+'
-    - text: '15 000+ SUP lentų, pagamintų per metus'
-      highlight: '15 000+'
-    - text: 'ISO 9001 sertifikuota kokybės vadyba'
-      highlight: 'ISO 9001'
-    - text: 'CE sertifikuoti produktai ES rinkai'
-      highlight: 'CE'
-  cta: 'Peržiūrėti gamyklos detalės'
+    - text: 12,000 m² integrated manufacturing facility
+      highlight: 12,000 m²
+    - text: 200+ skilled workers and engineers
+      highlight: 200+
+    - text: 15,000+ pools produced annually
+      highlight: 15,000+
+    - text: ISO 9001-certified quality management
+      highlight: ISO 9001
+    - text: CE certified products for EU market
+      highlight: CE
+  cta: View factory details
   cta_link: /factory/
   contact:
-    title: 'Pasirengę aptarti savo projektą?'
-    desc: 'Mūsų komanda atsako per 24 valandas su preliminariu pasiūlymu.'
+    title: Ready to discuss your project?
+    desc: Our team responds within 24 hours with a preliminary quote.

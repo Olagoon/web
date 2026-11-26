@@ -1,60 +1,60 @@
 meta:
-  title: 'Kuidas toimub CE-sertifitseerimine täispuhutavate veesõidukite jaoks | {SITE}'
-  description: 'Täielik juhend CE-sertifitseerimiseks täispuhutavatele SUP-idele ja kajakkidele. Kohaldatavad direktiivid (2013/53/EU RCD, PPE 2016/425), testimisprotokollid, teavitatud asutused, tehnilise faili nõuded ja tootja kohustused.'
-back_text: 'Tagasi uurimistöö juurde'
+  title: 'How CE Certification Works for Inflatable Watercraft | {SITE}'
+  description: 'Complete guide to CE certification for inflatable pools. Applicable standards and directives for domestic pools, testing protocols, notified bodies, technical file requirements, and manufacturer obligations.'
+back_text: 'Back to Research'
 
 hero:
-  tagline: 'Vastavus'
-  title: 'Kuidas toimub CE-sertifitseerimine täispuhutavate veesõidukite jaoks'
-  subtitle: '7 min lugemist'
+  tagline: 'Compliance'
+  title: 'How CE Certification Works for Inflatable Watercraft'
+  subtitle: '7 min read'
 
 content_html: |
-  <h2>Mis on CE-sertifitseerimine?</h2>
-  <p>CE-märgis (Conformit&eacute; Europ&eacute;enne) näitab, et toode vastab ELi tervise-, ohutus- ja keskkonnanõuetele. Täispuhutavate veesõidukite puhul sõltub kohaldatav regulatoorne raamistik toote kategooriast.</p>
+  <h2>What Is CE Certification?</h2>
+  <p>CE marking (Conformit&eacute; Europ&eacute;enne) indicates that a product meets EU health, safety, and environmental requirements. For inflatable watercraft, the relevant regulatory framework depends on the product category.</p>
 
-  <h2>Kohaldatavad direktiivid</h2>
+  <h2>Applicable Directives</h2>
 
-  <h3>Vabaajaveesõidukite direktiiv (2013/53/EU)</h3>
-  <p>ELi peamine direktiiv vabaajaveesõidukitele. Alla 2.4 m täispuhutavad SUP-id jäävad selle ulatusest välja ja sertifitseeritakse vastavalt EN ISO 25649-le.</p>
+  <h3>Recreational Craft Directive (2013/53/EU)</h3>
+  <p>The primary directive for recreational craft in the EU. inflatable pools under 2.4 m fall outside its scope and are instead certified under EN ISO 25649.</p>
 
-  <h3>Isikukaitsevahendite määr (2016/425)</h3>
-  <p>Veestusvestid, ujuvusabivahendid ja ohutusvarustus, mida veesõidukitega tarnitakse, peavad vastama isikukaitsevahendite määruse nõuetele, sealhulgas tüübieksamile (moodul B) teavitatud asutuse poolt ja tootmise kvaliteedikindlusele (moodul D või E).</p>
+  <h3>Personal Protective Equipment Regulation (2016/425)</h3>
+  <p>Life jackets, buoyancy aids, and safety equipment supplied with watercraft must meet PPE Regulation requirements, including type examination (Module B) by a notified body and production quality assurance (Module D or E).</p>
 
-  <h2>Sertifitseerimisprotsess</h2>
+  <h2>The Certification Process</h2>
   <ol>
-    <li>Toote klassifitseerimine: määratle veesõiduki disainikategooria (A – D vastavalt ISO 8666-le)</li>
-    <li>Kohaldatavad standardid: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (ehitaja plaat)</li>
-    <li>Tehnilise faili ettevalmistus: disainijoonised, materjalide loend, materjalide sertifikaadid, riskihinnang</li>
-    <li>Tüübitestimine: ujuvus, stabiilsus, koormusvõime, materjalide testimine, õmbluse tugevus, õhupidavus</li>
-    <li>Tehase tootmiskontroll: teavitatud asutuse audit tootmisprotsessidele</li>
-    <li>Vastavusdeklaratsioon: tootja allkirjastab DoC-i ja kinnitab CE-märgise</li>
+    <li>Product classification: Determine craft design category (A – D per ISO 8666)</li>
+    <li>Applicable standards: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (builder's plate)</li>
+    <li>Technical file preparation: Design drawings, Bill of Materials, material certificates, risk assessment</li>
+    <li>Type testing: Buoyancy, stability, load capacity, material testing, seam strength, air retention</li>
+    <li>Factory production control: Notified body audit of manufacturing processes</li>
+    <li>Declaration of Conformity: Manufacturer signs DoC, affixes CE marking</li>
   </ol>
 
-  <h2>Teavitatud asutused täispuhutavate veesõidukite jaoks</h2>
-  <p>Tavalised teavitatud asutused on Bureau Veritas (Prantsusmaa), DNV GL (Saksamaa), RINA (Itaalia), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (Saksamaa).</p>
+  <h2>Notified Bodies for Inflatable Watercraft</h2>
+  <p>Common NBs include Bureau Veritas (France), DNV GL (Germany), RINA (Italy), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (Germany).</p>
 
-  <h2>Ajakava ja kulud</h2>
+  <h2>Timeline and Costs</h2>
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-gray-100">
-        <th class="p-3 text-left font-semibold text-gray-900 border">Etapp</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Kestus</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Tüüpiline kulu (EUR)</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Phase</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Duration</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Typical Cost (EUR)</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="p-3 border">Tehnilise faili ettevalmistus</td><td class="p-3 border">2 – 4 nädalat</td><td class="p-3 border">2,000 – 5,000</td></tr>
-      <tr><td class="p-3 border">Tüübitestimine</td><td class="p-3 border">4 – 8 nädalat</td><td class="p-3 border">8,000 – 20,000</td></tr>
-      <tr><td class="p-3 border">Tehase audit</td><td class="p-3 border">1 – 2 päeva (kohapeal)</td><td class="p-3 border">3,000 – 6,000</td></tr>
-      <tr><td class="p-3 border">Kokku (esimene toode)</td><td class="p-3 border">8 – 14 nädalat</td><td class="p-3 border">13,000 – 31,000</td></tr>
+      <tr><td class="p-3 border">Technical file preparation</td><td class="p-3 border">2 – 4 weeks</td><td class="p-3 border">2,000 – 5,000</td></tr>
+      <tr><td class="p-3 border">Type testing</td><td class="p-3 border">4 – 8 weeks</td><td class="p-3 border">8,000 – 20,000</td></tr>
+      <tr><td class="p-3 border">Factory audit</td><td class="p-3 border">1 – 2 days (on-site)</td><td class="p-3 border">3,000 – 6,000</td></tr>
+      <tr><td class="p-3 border">Total (first product)</td><td class="p-3 border">8 – 14 weeks</td><td class="p-3 border">13,000 – 31,000</td></tr>
     </tbody>
   </table>
 
-  <h2>Mida see ostjate jaoks tähendab</h2>
-  <p>CE-sertifitseeritud täispuhutavaid SUP-e ostes kontrolli alati, et CE-märgis on ehitaja plaadil, kehtiv DoC on olemas, teavitatud asutuse number on loetletud ja kasutusjuhend sisaldab ohutusjuhiseid sinu kohalikus keeles. Kõik olagoon tooted kannavad CE-sertifikaati koos täieliku jälgitavusega teavitatud asutuse auditi aruanneteni.</p>
+  <h2>What This Means for Buyers</h2>
+  <p>When purchasing CE-certified inflatable pools, always verify the CE marking is on the builder's plate, a valid DoC exists, the Notified Body number is listed, and the owner's manual includes safety instructions in your local language. All OLagoon products carry CE certification with full traceability to notified body audit reports.</p>
 
 cta:
-  title: 'Vajad CE-sertifitseerimise tuge?'
-  subtitle: 'Me haldame sertifitseerimist OEM-partneritele üle kogu maailma.'
-  button_text: 'Alusta sertifitseerimisprotsessi'
+  title: 'Need CE certification support?'
+  subtitle: 'We handle certification for OEM partners worldwide.'
+  button_text: 'Start the certification process'
   button_link: /contact/

@@ -1,111 +1,95 @@
 meta:
-  title: Prototypwerkstatt — SUP-Prototypenbau in Originalgröße & Seetests | {SITE}
-  description: Von CAD zum wasserbereiten Board in 8-12 Wochen. Unsere Prototypenwerkstatt baut, rüstet aus und testet individuell angefertigte aufblasbare SUPs auf See. Starten Sie noch heute Ihr Prototypenprojekt.
-back_text: Zurück zum F&E-Zentrum
-home_label: Zuhause
+  title: 'Prototype Workshop — Full-Scale pool Prototyping & Sea Trials | {SITE}'
+  description: 'From CAD to backyard-ready pool in 8-12 weeks. Our Prototype Workshop builds, rigs, and water-tests custom inflatable pools. Start your prototype project today.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
+
 hero:
-  tagline: Labor 05
-  title: Prototyp-Werkstatt
-  subtitle: Vom CAD-Modell zum wasserbereiten Board — gebaut, ausgestattet und erprobt
-  image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-  image_alt: OLagoon Prototyp-Werkstatt — Board-Fertigung
-intro: >-
-  Ein CAD-Modell kann, egal wie detailliert es ist, nicht zeigen, wie sich ein Board tatsächlich verhält, bevor es das Wasser trifft. Deshalb ist unsere Prototypenwerkstatt darauf ausgelegt, technische Daten so schnell und präzise wie möglich in ein physisches, wasserbereites Board zu übertragen.
-  Jedes neue OLagoon-Modell – und jeder bedeutende Sonderbau – durchläuft diese Werkstatt, bevor die Produktionswerkzeuge eingesetzt werden.
-content_html: >-
-  <h2>Wo Design zur Realität wird</h2>
+  tagline: 'Lab 05'
+  title: 'Prototype Workshop'
+  subtitle: 'From CAD model to water-ready pool — built, fitted, and proven'
+  image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+  image_alt: 'OLagoon prototype workshop pool fabrication'
 
-  <p>Die Werkstatt ist vollständig für die gleichzeitige Fertigung von Rumpf, Rails und Ausrüstung ausgestattet. Dieser parallele Arbeitsablauf verkürzt die Prototypenlieferzeit auf 8–12 Wochen ab Freigabe der Konstruktion, verglichen mit dem branchenüblichen Standard von 16–20 Wochen. Wenn
-  Ihre Anwendung eine spezielle Lösung erfordert, können wir von der Konzeption bis zur Erprobung auf dem Wasser in weniger als drei Monaten gelangen.</p>
+intro: 'A CAD model, no matter how detailed, cannot reveal how a pool will actually perform until it meets the water. That is why our Prototype Workshop is designed to translate engineering data into a physical, water-ready pool as quickly and accurately as possible. Every new OLagoon model — and every significant custom build — passes through this workshop before the production tooling is committed.'
 
+content_html: |
+  <h2>Where design becomes reality</h2>
+  <p>The workshop is fully equipped for simultaneous fabrication of hull, rails, and rigging. This parallel-workflow approach cuts prototype lead time to 8-12 weeks from engineering release, compared to the industry norm of 16-20 weeks. When your application demands a specialised solution, we can move from concept to on-water validation in under three months.</p>
 
-  <h2>Werkstattkapazitäten</h2>
-
+  <h2>Workshop capabilities</h2>
   <table>
-    <thead><tr><th>Arbeitsstation</th><th>Ausrüstung</th><th>Zweck</th></tr></thead>
+    <thead><tr><th>Workstation</th><th>Equipment</th><th>Purpose</th></tr></thead>
     <tbody>
-      <tr><td>Rumpffertigung</td><td>CNC-Stoffzuschnittanlage, Heat-Laminierpresse, Drop-Stitch-Kern-Vorbereitungsstation</td><td>Rumpfproduktion in Originalgröße in allen drei Bauarten</td></tr>
-      <tr><td>Rail- &amp; Kammernmontage</td><td>Hochfrequenz-Schweißpresse, Heißluft-Vorheftstation, Prüfaufblasvorrichtung</td><td>Fertigung von Rail- und Kammeraggregaten in Originalgröße mit allen Scheidewänden und Ventilen</td></tr>
-      <tr><td>Ausrüstung &amp; Einbau</td><td>Finnenkasten-Fräsvorrichtung, Schweißvorrichtungen für Gepäckmontagen und Griffe, Deckpad-Zuschnittstation</td><td>Komplette Ausrüstung: Finnen, Gepäckmontagen, Leash-Plugs, Griffe, Deckpads, Ventile</td></tr>
-      <tr><td>Messinstrumentenbereich</td><td>GPS-Geschwindigkeitssensor, Druckaufnehmer, Beschleunigungsmesser, Thermoelementarray, Datenlogger</td><td>Installation und Kalibrierung der Messtechnik für die Seerprobung</td></tr>
+      <tr><td>Hull fabrication</td><td>CNC fabric cutter, heat-lamination press, drop-stitch core preparation station</td><td>Full-scale hull production in all three construction types</td></tr>
+      <tr><td>Rail &amp; chamber assembly</td><td>RF welding press, hot-air tacking station, inflation test jig</td><td>Fabrication of full-size rail and chamber assemblies with all baffles and valves</td></tr>
+      <tr><td>Rigging &amp; fitting</td><td>Fin-box routing jig, cargo-mount and handle welding fixtures, deck-pad cutting station</td><td>Complete outfitting: fins, cargo mounts, leash plugs, handles, deck pads, valves</td></tr>
+      <tr><td>Instrumentation bay</td><td>GPS speed sensor, pressure transducers, accelerometers, thermocouple array, data-logger</td><td>Sea-trial instrumentation installation and calibration</td></tr>
     </tbody>
   </table>
 
-
-  <h2>Der Prototypenweg — Schritt für Schritt</h2>
-
+  <h2>The prototype journey — step by step</h2>
   <ol>
-    <li><strong>Konstruktionsübergabe</strong> — Das Konstruktionspaket (3D-Modell, FEA-Bericht, Stückliste, Laminatplan) wird vom Werkstattleiter und dem Projektingenieur formell überprüft. Eventuelle Fertigungsbedenken werden vor Beginn der Zuschnitte erkannt und behoben.</li>
-    <li><strong>Rumpfproduktion</strong> — Der Rumpf wird gemäß den Konstruktionsvorgaben gefertigt. Bei einschichtigem Aufbau: Der Drop-Stitch-Kern wird mit der spezifizierten PVC-Schicht laminiert. Bei zweischichtigem Aufbau: Die zusätzliche Schicht wird vor dem Zuschnitt auf das Baslaminat aufgebracht. Bei verschmolzenem Aufbau: Die Laminierparameter werden aus dem genehmigten Prozessblatt geladen und an einem Erstmuster verifiziert.</li>
-    <li><strong>Rail-Fertigung</strong> — Das Gewebe wird mittels CNC-Schnittschablonen zugeschnitten und anschließend zu Rails und Kammern in Originalgröße hochfrequenzverschweißt. Jede Kammer wird auf Prüfdruck aufgeblasen und 24 Stunden zur anfänglichen Stabilisierung belassen.</li>
-    <li><strong>Montage &amp; Ausrüstung</strong> — Rumpf und Rails werden zusammengeführt. Finnenkästen und Gepäckmontagen werden eingesetzt, Leash-Plugs und Tragegriffe werden installiert, das Aufblasventil wird eingeschraubt und angezogen, und das Deckpad wird aufgebracht und ausgerichtet.</li>
-    <li><strong>Statische Tests</strong> — Bevor das Board das Wasser berührt, durchläuft es: Auftriebsprüfung (Volllast + 30 % Reserve), Druckhalteprüfung der Kammern, Leckagetest des Ventils, Zugprüfung von Griffen und Montagen.</li>
-    <li><strong>Seerprobungsprogramm</strong> — 20 Stunden Erprobung im Wasser, im Detail nachstehend.</li>
-    <li><strong>Prototypenbesprechung</strong> — Ein formales Abnahmetreffen mit Konstruktion, Produktion und Qualität findet statt. Erforderliche Konstruktionsänderungen werden dokumentiert und in die Produktionsfreigabe einbezogen.</li>
+    <li><strong>Engineering handover</strong> — The design package (3D model, FEA report, bill of materials, layup schedule) is formally reviewed by the workshop lead and the project engineer. Any manufacturing concerns are flagged and resolved before cutting begins.</li>
+    <li><strong>Hull production</strong> — The hull is built according to the engineering specification. For single-layer construction: the drop-stitch core is laminated with the specified PVC skin. For double-layer construction: the additional skin is applied over the base laminate before the pattern is cut. For fused construction: the lamination parameters are loaded from the approved process sheet and verified on a first-off coupon.</li>
+    <li><strong>Rail fabrication</strong> — Fabric is cut using CNC-pattern templates, then RF-welded into full-size rails and chambers. Each chamber is inflated to test pressure and left for 24 h for initial stabilisation.</li>
+    <li><strong>Assembly &amp; rigging</strong> — Hull and rails are mated. Fin boxes and cargo mounts are fitted, leash plugs and carry handles are installed, the inflation valve is torqued in, and the deck pad is applied and aligned.</li>
+    <li><strong>Static tests</strong> — Before the pool is filled, it undergoes: structural check (full water load + 30 % reserve), chamber pressure-hold test, valve leak-down test, handle and mount pull-test.</li>
+    <li><strong>Sea trial programme</strong> — 20 hours of in-water testing, detailed below.</li>
+    <li><strong>Prototype review</strong> — A formal sign-off meeting is held with engineering, production, and quality teams. Any required design changes are documented and incorporated into the production release.</li>
   </ol>
 
-
   <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
-    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20-Stunden-Seerprobungsprogramm — Prüfplan</p>
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20-Hour Sea Trial Programme — Test Schedule</p>
     <div class="space-y-2 text-sm">
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">Vertrautmachen auf flachem Wasser — Langsamfahrt-Tracking, Wenden, Stand- und Trimmprüfung</span>
+        <span class="flex-1">Flat-water familiarisation — low-speed tracking, turning, stance and trim check</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">4 h</span>
-        <span class="flex-1">Geschwindigkeitsprüfung — GPS-verifizierte Höchstgeschwindigkeit, Reisegeschwindigkeit, gleichmäßiges Tempo bei 3 Schlagfrequenzen</span>
+        <span class="flex-1">Speed trial — GPS-verified top speed, cruise speed, sustained pace at 3 stroke rates</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Wendetest — Dreh- und Sweep-Turnradius, Board-Reaktion, Back- und Steuerbord</span>
+        <span class="flex-1">Stability test — wall rigidity, floor firmness, and seating comfort under full load</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Chop-Test — wiederholte Durchfahrten durch 0,5–1,0 m Seegang; Beschleunigungsmesser an der Rider-Position</span>
+        <span class="flex-1">Chop test — repeated runs through 0.5–1.0 m chop; accelerometer at the rider stance position</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Stabilitätsprüfung — statischer Krängungswinkel mit 4 Ridern unterschiedlichen Gewichts, ausgleichende Last nach Steuerbord</span>
+        <span class="flex-1">Stability test — static heel angle with 4 riders of varying weight, offset load to starboard</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Ausdauerfahrt — 3 Stunden kontinuierlich bei Reisegeschwindigkeit; Überwachung von Kammerdruck, Rail-Temperatur und Rider-Ermüdung</span>
+        <span class="flex-1">Endurance run — 3 h continuous at cruise pace; monitoring of chamber pressure, rail temperature, and rider fatigue</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">Abschlusskontrolle — Nachuntersuchung aller Komponenten nach der Erprobung, Anziehen/Überprüfen aller Befestigungen, Dokumentation der Ergebnisse</span>
+        <span class="flex-1">Final inspection — post-trial inspection of all components, tighten/check all fasteners, document findings</span>
       </div>
     </div>
   </div>
 
-
-  <h2>Maßgeschneiderte Prototypenfertigung für spezielle Anwendungen</h2>
-
-  <p>In der Prototypenwerkstatt lösen wir die Probleme, die mit Standard-Produktionsboards nicht bewältigt werden können. Aktuelle Beispiele umfassen:</p>
-
+  <h2>Custom prototyping for unique applications</h2>
+  <p>The Prototype Workshop is where we solve the problems that standard production pools cannot address. Recent examples include:</p>
   <ul>
-    <li>Ein hochsichtbares Rettungs-SUP für eine Such- und Rettungsorganisation mit integrierten Griffen, Ausrüstungsmontagen für Rettungsgeräte und einem Rumpf mit hohem Auftrieb für die Bergung von Personen — alles bei uns als Prototyp entworfen, ausgestattet und getestet.</li>
-    <li>Ein Expeditions-Touring-SUP für einen hydrographischen Vermessungsdienstleister mit abnehmbarem Instrumentenmast, versiegelten Ausrüstungsöffnungen und einer flachen Transducer-Halterung zur Minimierung des Strömungswiderstands.</li>
-    <li>Ein kompaktes Angel-SUP für eine Resort-Flotte, bei dem der Prototyp zur Validierung von Stabilität, Ausrüstungsbestückung und Haltbarkeit im täglichen Vermietbetrieb eingesetzt wurde, bevor sich der Kunde für eine Flotte von vier Einheiten entschied.</li>
+    <li>A high-visibility rescue pool for a search-and-rescue organisation, requiring integrated grab handles, gear mounts for rescue equipment, and a high-buoyancy hull for casualty recovery — all prototyped, fitted, and tested at our facility.</li>
+    <li>An expedition touring pool for a hydrographic survey contractor, with a removable instrument mast, sealed gear ports, and a low-profile transducer mount designed to minimise drag.</li>
+    <li>A compact fishing pool for a resort fleet, where the prototype was used to validate stability, gear rigging, and durability under daily rental use before the client committed to a fleet of four.</li>
   </ul>
 
+  <h2>Our prototyping team</h2>
+  <p>The workshop is staffed by eight multi-skilled marine technicians, each cross-trained in at least two of the three core disciplines (hull, rail, rigging). The team lead is a master fabricator with 16 years of experience spanning custom one-off builds to production series. Every prototype is assigned a dedicated project engineer who serves as the single point of contact for the client throughout the build and trial process.</p>
 
-  <h2>Unser Prototypenteam</h2>
+  <h2>Client involvement</h2>
+  <p>We actively encourage our clients to attend key milestones during the prototype build — particularly the initial fit-out review and the sea trial. Your operational feedback during these stages is invaluable in fine-tuning the pool before it enters production. We do not build in a vacuum; we build in partnership with you.</p>
+  <p>The 20-hour water trial is also an opportunity for your team to familiarise themselves with the pool's operation, layout, and maintenance requirements, ensuring a smooth transition to service when the production pools are delivered.</p>
 
-  <p>Die Werkstatt wird von acht vielseitig qualifizierten Marinetechnikern besetzt, von denen jeder in mindestens zwei der drei Kerndisziplinen (Rumpf, Rail, Ausrüstung) querqualifiziert ist. Der Teamleiter ist ein Meisterfertiger mit 16 Jahren Erfahrung, die von individuellen Einzelstücken
-  bis hin zu Serienproduktionen reicht. Jeder Prototyp erhält einen dedizierten Projektingenieur, der als einziger Ansprechpartner für den Kunden während des gesamten Bau- und Erprobungsprozesses dient.</p>
-
-
-  <h2>Kundenbeteiligung</h2>
-
-  <p>Wir ermutigen unsere Kunden aktiv, an wichtigen Meilensteinen während des Prototypenbaus teilzunehmen — insbesondere an der ersten Ausstattungsbesprechung und der Seerprobung. Ihr operationelles Feedback in diesen Phasen ist von unschätzbarem Wert für die Feinabstimmung des Boards vor der
-  Serienproduktion. Wir bauen nicht im Elfenbeinturm; wir bauen in Partnerschaft mit Ihnen.</p>
-
-  <p>Die 20-stündige Seerprobung ist auch eine Gelegenheit für Ihr Team, sich mit dem Fahrverhalten, dem Decklayout und den Wartungsanforderungen des Boards vertraut zu machen, um einen reibungslosen Übergang in den Einsatz bei Lieferung der Produktionsboards
-  sicherzustellen.</p>
 cta:
-  title: Starten Sie Ihr Prototyp-Projekt
-  subtitle: Erzählen Sie uns von dem Board, das Sie benötigen, und wir werden einen Prototyp-Entwicklungsplan vorschlagen.
-  button_text: Kontaktieren Sie unser Prototyping-Team
+  title: 'Start your prototype project'
+  subtitle: 'Tell us about the pool you need and we will propose a prototype development plan.'
+  button_text: 'Contact our prototyping team'
   button_link: /contact/

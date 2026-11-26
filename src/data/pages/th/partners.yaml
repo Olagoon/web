@@ -1,72 +1,72 @@
 meta:
-  title: 'พันธมิตร — การจัดจำหน่ายและขายส่ง | {SITE}'
-  description: 'เป็นพันธมิตรกับ olagoon: เครือข่ายการจัดจำหน่าย ราคาขายส่ง โปรแกรม OEM/แบรนด์ส่วนตัว และการสนับสนุนสำหรับธุรกิจพายบอร์ดทั่วโลก'
+  title: 'Partners — Distribution & Wholesale | {SITE}'
+  description: 'Become an olagoon partner: distribution networks, wholesale pricing, OEM/private label programs, and support for inflatable pool businesses worldwide.'
   keywords:
-    - 'พันธมิตรการจัดจำหน่าย SUP'
-    - 'พายบอร์ดขายส่ง'
-    - 'ตัวแทนจำหน่าย SUP แบบสูบลม'
-    - 'ความร่วมมือ SUP'
+    - 'pool distribution partner'
+    - 'inflatable pool wholesale'
+    - 'inflatable pools distributor'
+    - 'pool partnership'
 hero:
-  tagline: พันธมิตรและการจัดจำหน่าย
-  title: ร่วมเป็นพันธมิตรที่ห่างไกล<br />— เครือข่ายการจัดจำหน่ายทั่วโลก
-  subtitle: เข้าร่วมเครือข่ายพันธมิตรทั่วโลกของ olagoon เราให้บริการร่วมกับตัวแทนจำหน่ายสินค้าทางทะเล ดีลเลอร์เรือ ร้านค้าปลีกอุปกรณ์ และพันธมิตรแบรนด์ใน 50+ ประเทศ
+  tagline: Partners & Distribution
+  title: 'Become an olagoon Partner<br />— Global Distribution Network'
+  subtitle: "Join olagoon's global partner network. We work with pool and outdoor distributors, specialty retailers, equipment dealers, and brand partners in 50+ countries."
   image:
     src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
-    alt: เครือข่ายพันธมิตรและตัวแทนจำหน่ายทั่วโลกของ olagoon
+    alt: olagoon global partner and distributor network
 content_programs:
-  tagline: โปรแกรมพันธมิตร
-  title: โปรแกรมพันธมิตร<br />สร้างขึ้นเพื่อการเติบโต
-  subtitle: ไม่ว่าคุณจะเป็นผู้จัดจำหน่าย ตัวแทนจำหน่าย หรือหุ้นส่วนแบรนด์ olagoon เสนอโปรแกรมที่ออกแบบมาเพื่อสนับสนุนธุรกิจของคุณ
+  tagline: Partner Programs
+  title: 'Partner Programs<br />Built for Growth'
+  subtitle: 'Whether you are a distributor, dealer, or brand partner, olagoon offers programs designed to support your business.'
   columns: 3
   items:
-    - title: โปรแกรมตัวแทนจำหน่าย
-      description: การกระจายอาณาเขตพิเศษด้วยการกำหนดราคาตามปริมาณ การสนับสนุนด้านการตลาด และการเข้าถึงโรงงานโดยตรง ข้อผูกพันขั้นต่ำที่กำหนดตามขนาดอาณาเขต
+    - title: 'Distributor Program'
+      description: 'Exclusive territory distribution with volume pricing, marketing support, and direct factory access. Minimum commitment required based on territory size.'
       icon: tabler:world
-    - title: โปรแกรมตัวแทนจำหน่าย
-      description: การกำหนดราคาของตัวแทนจำหน่ายโดยตรง การฝึกอบรมผลิตภัณฑ์ เอกสารทางการตลาด และการสนับสนุนการรับประกันสำหรับร้านค้าปลีกและร้านค้าออนไลน์
+    - title: 'Dealer Program'
+      description: 'Direct dealer pricing, product training, marketing materials, and warranty support for retail locations and online stores.'
       icon: tabler:building-store
-    - title: ความร่วมมือแบบ OEM/ODM
-      description: การผลิต OEM และ ODM แบบครบวงจรพร้อมการสร้างแบรนด์ บรรจุภัณฑ์ และข้อกำหนดเฉพาะของผลิตภัณฑ์ที่กำหนดเอง จากแนวคิดสู่คอนเทนเนอร์
+    - title: 'OEM/ODM Partnership'
+      description: 'Full-service OEM and ODM manufacturing with custom branding, packaging, and product specifications. From concept to container.'
       icon: tabler:certificate
-    - title: ความร่วมมือด้านแบรนด์
-      description: การสร้างแบรนด์ร่วม ฉลากส่วนตัว และโปรแกรมโมเดลพิเศษสำหรับแบรนด์ที่มีชื่อเสียงในพื้นที่สันทนาการทางทะเลและกลางแจ้ง
+    - title: 'Brand Partnership'
+      description: 'Co-branding, private label, and exclusive model programs for established brands in the marine and outdoor recreation space.'
       icon: tabler:stars
-    - title: หน่วยงานภาครัฐและสถาบัน
-      description: โปรแกรมซัพพลายเออร์ที่ต้องการสำหรับหน่วยงานภาครัฐ หน่วยยามชายฝั่ง ทหาร และองค์กรด้านมนุษยธรรม เอกสารพร้อมประกวดราคา.
+    - title: 'Government & Institutional'
+      description: 'Preferred supplier programs for government agencies, coast guards, military, and humanitarian organizations. Tender-ready documentation.'
       icon: tabler:building-community
-    - title: พาร์ทเนอร์รีสอร์ทและธุรกิจให้เช่า
-      description: การกำหนดราคากลุ่มยานพาหนะ คุณภาพที่สม่ำเสมอ และการสร้างแบรนด์ที่กำหนดเองสำหรับรีสอร์ท ศูนย์ดำน้ำ และการดำเนินการให้เช่าทั่วโลก
+    - title: 'Resort & Rental Partner'
+      description: 'Fleet pricing, consistent quality, and custom branding for resorts, diving centers, and rental operations worldwide.'
       icon: tabler:sun
 content_benefits:
-  tagline: ทำไมต้องเป็นพันธมิตรกับเรา
-  title: เหตุใดพันธมิตรจึงเลือกห่างไกลกว่า
-  subtitle: พันธมิตรของเราได้รับประโยชน์จากความสามารถในการผลิตที่แท้จริง คุณภาพที่สม่ำเสมอ และการสนับสนุนที่ตอบสนอง
+  tagline: Why Partner With Us
+  title: 'Why Partners Choose olagoon'
+  subtitle: 'Our partners benefit from real manufacturing capability, consistent quality, and responsive support.'
   list:
-    - 'เข้าถึงโรงงานโดยตรง: ทำงานร่วมกับทีมผลิตของเราโดยตรง — ไม่มีคนกลาง ได้รับการตอบกลับที่รวดเร็วขึ้น ราคาที่ดีขึ้น และมองเห็นกระบวนการผลิตได้อย่างครบถ้วน'
-    - 'พร้อมปรับแต่งได้ทันที: ใส่แบรนด์บนผลิตภัณฑ์ของคุณด้วยสี โลโก้ บรรจุภัณฑ์ และข้อกำหนดจำเพาะตามต้องการ พร้อมปริมาณการสั่งซื้อขั้นต่ำที่ปรับให้เหมาะกับตลาดของคุณ'
-    - 'รับประกันคุณภาพ: กระบวนการผลิตที่ได้รับการรับรอง ISO 9001 พร้อมปฏิบัติตาม CE, UKCA และ BSCI สินค้าทุกชิ้นผ่านการทดสอบก่อนจัดส่ง'
-    - 'โลจิสติกส์ระดับโลก: จัดส่งจากเมืองชิงเต่า ประเทศจีน พร้อมตัวเลือก FOB, CIF และ DDP มีคลังสินค้าในสหรัฐอเมริกา เมืองมอนต์แคลร์ รัฐแคลิฟอร์เนีย สำหรับการจัดจำหน่ายในอเมริกาเหนือ'
-    - 'การสนับสนุนด้านการตลาด: แคตตาล็อกสินค้า ภาพถ่าย เอกสารทางเทคนิค และสื่อดิจิทัล เพื่อสนับสนุนความพยายามด้านการขายของคุณ'
-    - 'การฝึกอบรมและการสนับสนุน: ฝึกอบรมผลิตภัณฑ์ให้ทีมขายของคุณ สนับสนุนด้านเทคนิคแก่ลูกค้าของคุณ และการประสานงานบริการรับประกัน'
+    - 'Direct Factory Access: Work directly with our manufacturing team — no middlemen. Get faster responses, better pricing, and full visibility into production.'
+    - 'Customization Ready: Brand your products with custom colors, logos, packaging, and specifications. Minimum order quantities tailored to your market.'
+    - 'Quality Guaranteed: ISO 9001 certified production with CE, UKCA, and BSCI compliance. Every product tested before shipping.'
+    - 'Global Logistics: Shipping from Qingdao, China with FOB, CIF, and DDP options. US warehouse in Montclair, CA for North American distribution.'
+    - 'Marketing Support: Product catalogs, photography, technical documentation, and digital assets to support your sales efforts.'
+    - 'Training & Support: Product training for your sales team, technical support for your customers, and warranty service coordination.'
 content_process:
-  tagline: วิธีการเป็นพันธมิตร
-  title: กระบวนการหุ้นส่วนที่เรียบง่าย
-  subtitle: กระบวนการเป็นพันธมิตรของเรานั้นตรงไปตรงมา — ออกแบบมาเพื่อช่วยให้คุณขายผลิตภัณฑ์ที่ห่างไกลได้รวดเร็วยิ่งขึ้น
+  tagline: How to Become a Partner
+  title: 'Simple Partnership Process'
+  subtitle: 'Our partnership process is straightforward — designed to get you selling olagoon products quickly.'
   items:
-    - title: 'ขั้นตอนที่ 1: ยื่นใบสมัคร'
-      description: กรอกแบบฟอร์มใบสมัครพันธมิตรของเราโดยระบุโปรไฟล์บริษัท ตลาดเป้าหมาย และความสนใจในผลิตภัณฑ์ของคุณ
-    - title: 'ขั้นตอนที่ 2: การตรวจสอบคุณสมบัติ'
-      description: ทีมพันธมิตรของเราจะตรวจสอบใบสมัครของคุณและติดต่อคุณภายใน 3 วันทำการเพื่อหารือเกี่ยวกับโอกาสต่างๆ
-    - title: 'ขั้นตอนที่ 3: การตกลงและการเริ่มต้นความร่วมมือ'
-      description: ลงนามข้อตกลงความร่วมมือ ตั้งค่าบัญชีของคุณ และรับราคาพันธมิตร เอกสารทางการตลาด และตัวอย่างผลิตภัณฑ์
-    - title: 'ขั้นตอนที่ 4: การฝึกอบรมและการเปิดตัว'
-      description: มีการฝึกอบรมผลิตภัณฑ์ การสนับสนุนการขาย และเอกสารทางการตลาด คุณพร้อมที่จะเริ่มขายแล้ว
+    - title: 'Step 1: Submit Application'
+      description: 'Complete our partner application form with your company profile, target market, and product interests.'
+    - title: 'Step 2: Qualification Review'
+      description: 'Our partnership team reviews your application and contacts you within 3 business days to discuss opportunities.'
+    - title: 'Step 3: Agreement & Setup'
+      description: 'Sign a partnership agreement, set up your account, and receive partner pricing, marketing materials, and product samples.'
+    - title: 'Step 4: Training & Launch'
+      description: 'Product training, sales support, and marketing collateral provided. You are ready to start selling.'
 cta:
-  title: พร้อมที่จะเป็นพันธมิตรที่ห่างไกลแล้วหรือยัง?
-  subtitle: สมัครเป็นพันธมิตรและทีมงานของเราจะตอบกลับภายใน 3 วันทำการ
+  title: 'Ready to become an olagoon partner?'
+  subtitle: 'Apply for partnership and our team will respond within 3 business days.'
   actions:
     - variant: primary
-      text: สมัครเป็นหุ้นส่วน
+      text: Apply for partnership
       href: /contact/
-    - text: ดูผลิตภัณฑ์ของเรา
+    - text: View our products
       href: /products/

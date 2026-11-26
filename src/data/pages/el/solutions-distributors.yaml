@@ -1,50 +1,54 @@
 meta:
-  title: Πρόγραμμα Συνεργατών Διανομής SUP | {SITE}
-  description: Γίνετε μέλος του παγκόσμιου δικτύου διανομής της olagoon. Αποκλειστικές περιοχές, πλήρες χαρτοφυλάκιο προϊόντων, ανταγωνιστικές τιμές χονδρικής και εξειδικευμένη διαχείριση λογαριασμού.
+  title: 'pool Wholesale Distribution Partner Program | {SITE}'
+  description: "Join OLagoon's global pool wholesale distribution network. Exclusive territories, complete inflatable pools product portfolio, competitive wholesale pricing, and dedicated account management in 50+ countries."
+
 hero:
-  tagline: Διανομείς
-  title: Συμμετάσχετε στον Παγκόσμιο<br />Δίκτυο Κατανομής μας
-  subtitle: Αποκλειστικές περιοχές δραστηριότητας. Πλήρες χαρτοφυλάκιο προϊόντων. Υποστήριξη παγκόσμιας κλάσης. Η olagoon εξάγει σε 50+ χώρες και αναζητούμε καθιερωμένους διανομείς θαλάσσιων σπορ και ναυτικού εξοπλισμού.
+  tagline: Distributors
+  title: 'Join Our Global<br />Distribution Network'
+  subtitle: "pool wholesale distribution partner program with exclusive territories, complete inflatable pools product portfolio, and world-class support. OLagoon ships to 50+ countries — we're looking for established marine and water sports distributors."
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: Παγκόσμιες δραστηριότητες διανομής και αποστολής της OLagoon
+    alt: OLagoon global distribution and shipping operations
+
 benefits:
-  title: Τι Λαμβάνουν οι Διανομείς
-  subtitle: Όλα όσα χρειάζεστε για να επιτύχετε στην αγορά σας.
+  title: What Distributors Get
+  subtitle: 'Everything you need to succeed in your market.'
   items:
-    - Αποκλειστικά δικαιώματα περιοχής
-    - Πλήρης κατάλογος προϊόντων (SUP, αξεσουάρ, τμήματα)
-    - Ανταγωνιστικές τιμές χονδρικής
-    - Διαφημιστικό & εμπορικό υλικό (μεταφρασμένο)
-    - Πρόγραμμα εκπαίδευσης (προϊόν, πωλήσεις, συντήρηση)
-    - Υποστήριξη σε εκθέσεις
-    - Πρόγραμμα δειγμάτων
-    - Δυνατότητα drop-ship
-    - Αποκλειστικός υπεύθυνος λογαριασμού διανομέων
-    - Όροι πληρωμής 45-60 ημερών
+    - 'Exclusive territory rights'
+    - 'Complete product catalog (pool, accessories, parts)'
+    - 'Competitive wholesale pricing'
+    - 'Marketing & sales materials (translated)'
+    - 'Training program (product, sales, maintenance)'
+    - 'Trade show support'
+    - 'Sample program'
+    - 'Drop-ship capability'
+    - 'Dedicated distributor account manager'
+    - '45-60 day payment terms'
+
 coverage:
-  title: Τρέχουσα Διανομή
-  subtitle: Το olagoon εξυπηρετεί αυτή τη στιγμή απευθείας αυτές τις αγορές.
+  title: Current Distribution
+  subtitle: 'OLagoon currently serves these markets directly.'
   regions:
-    - name: Ευρώπη
-      countries: Γαλλία, Γερμανία, Ηνωμένο Βασίλειο, Ισπανία, Ιταλία, Ολλανδία, Σουηδία, Νορβηγία, Πολωνία, Ελλάδα
-    - name: Ασία
-      countries: Ιαπωνία, Νότια Κορέα, Κίνα, Ταϊλάνδη, Σιγκαπούρη
-    - name: Μέση Ανατολή
-      countries: ΗΑΕ, Σαουδική Αραβία
-    - name: Αμερική
-      countries: ΗΠΑ, Καναδάς, Βραζιλία, Μεξικό
-    - name: Ωκεανία
-      countries: Αυστραλία, Νέα Ζηλανδία
-    - name: Αφρική
-      countries: Νότια Αφρική, Μαρόκο
+    - name: Europe
+      countries: 'France, Germany, UK, Spain, Italy, Netherlands, Sweden, Norway, Poland, Greece'
+    - name: Asia
+      countries: 'Japan, South Korea, China, Thailand, Singapore'
+    - name: Middle East
+      countries: 'UAE, Saudi Arabia'
+    - name: Americas
+      countries: 'USA, Canada, Brazil, Mexico'
+    - name: Oceania
+      countries: 'Australia, New Zealand'
+    - name: Africa
+      countries: 'South Africa, Morocco'
+
 cta:
-  title: Έτοιμοι να γίνετε διανομέας;
-  subtitle: Υποβάλετε αίτηση για το πρόγραμμα διανομέων μας ή κατεβάστε το πληροφοριακό κιτ διανομέων.
+  title: 'Ready to become a distributor?'
+  subtitle: 'Apply for our distributor program or download our distributor information kit.'
   actions:
-    - text: Υποβολή αίτησης για το Πρόγραμμα Διανομέων
-      href: /contact/?partner=distributor
-      variant: primary
-    - text: Λήψη Κιτ Διανομέα
-      href: /resources/download-catalog/
-      variant: secondary
+    - text: 'Apply for Distributor Program'
+      href: '/contact/?partner=distributor'
+      variant: 'primary'
+    - text: 'Download Distributor Kit'
+      href: '/resources/download-catalog/'
+      variant: 'secondary'

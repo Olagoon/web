@@ -1,55 +1,58 @@
 meta:
-  title: 'OEM- & private label-produktion | {SITE}'
-  description: 'Fra koncept til container: tilpas hver detalje i din oppustelige SUP-serie. Komplet OEM/ODM-service for private label paddle board-brands.'
+  title: 'OEM & Private Label Manufacturing | {SITE}'
+  description: 'From concept to container: customize every detail of your inflatable pools line. Full OEM/ODM service for private label inflatable pool brands.'
   keywords:
-    - 'OEM SUP-produktion'
-    - 'paddle board under eget mærke'
-    - 'OEM oppustelig SUP'
-    - 'tilpasset SUP-fabrik'
+    - 'oem pool manufacturing'
+    - 'private label inflatable pool'
+    - 'oem inflatable pools'
+    - 'custom pool factory'
 hero:
-  tagline: OEM/ODM-produktion
-  title: OEM- og private label-produktion
-  subtitle: Fra koncept til container — tilpas hver detalje i din oppustelige SUP-serie
-intro: >-
-  olagoon tilbyder omfattende OEM- og ODM-services til brands, distributører og offentlige myndigheder verden over. Med over 10 års eksporterfaring og en 12.000 m² fabrik certificeret efter ISO 9001 & BSCI klarer vi alt fra produktdesign og formudvikling til fuldskalaproduktion, emballage og
-  logistik.
+  tagline: OEM/ODM Manufacturing
+  title: OEM & Private Label Manufacturing
+  subtitle: From concept to container — customize every detail of your inflatable pools line
+
+intro: olagoon offers comprehensive OEM and ODM services for brands, distributors, and government agencies worldwide. With 10+ years of export experience and a 12,000 m² ISO 9001 & BSCI certified factory, we handle everything from product design and mold development to full-scale production, packaging, and logistics.
+
 highlight:
   - value: 10+
-    label: Års OEM-erfaring
-    detail: Siden 2012
+    label: Years OEM experience
+    detail: Since 2012
   - value: 50+
-    label: Eksportlande
-    detail: Global rækkevidde
+    label: Export countries
+    detail: Global reach
   - value: 200+
-    label: Leverede specialprojekter
-    detail: På tværs af alle produktlinjer
-  - value: 30–45
-    label: Standard leveringstid (dage)
-    detail: Fra PO til FOB
+    label: Custom projects delivered
+    detail: Across all product lines
+  - value: 12–16
+    label: Standard lead time (weeks)
+    detail: 50–100 units, from PO to FOB
+
 services:
-  - title: Produktdesign & Engineering
-    description: Vores interne F&U-team arbejder ud fra dit koncept eller din specifikation for at udvikle CAD-tegninger, 3D-modeller og prototyper. Vi tilbyder formdesign, optimering af skrogform og vejledning i materialevalg.
-  - title: Tilpasset branding og grafik
-    description: Fuldfarvet digitaltryk, serigrafi, prægning og etiketteringsmuligheder. Vi udvikler brandspecifik dækgrafik, branding af tube og detailklar emballage.
-  - title: Tilpasning af materialer og specifikationer
-    description: Vælg mellem PVC (standard, miljøvenlig, brandhæmmende), drop-stitch og hybridkonstruktioner. Tilpassede slangefarver, stofvægte og forstærkningsmuligheder.
-  - title: Emballage & logistik
-    description: Skræddersyet detailemballage, private-label-kasser, vakuumpakning, palletering og containerlæsning. Leveringsvilkår FOB Qingdao, CIF eller DDP er tilgængelige.
+  - title: Product Design & Engineering
+    description: Our in-house R&D team works with your concept or spec to develop CAD drawings, 3D models, and prototypes. We offer mold design, hull shape optimization, and material selection guidance.
+  - title: Custom Branding & Graphics
+    description: Full-color digital printing, screen printing, embossing, and label options. We develop brand-specific deck graphics, tube branding, and retail-ready packaging.
+  - title: Material & Specification Customization
+    description: Choose from PVC (standard, eco-friendly, fire-retardant), drop-stitch, and hybrid constructions. Custom tube colors, fabric weights, and reinforcement options.
+  - title: Packaging & Logistics
+    description: Custom retail packaging, private-label boxes, vacuum packing, palletizing, and container loading. FOB Qingdao, CIF, or DDP shipping terms available.
+
 moq_table:
-  - product: Opslåelige SUP-boards
-    standard_moq: 5–10 enheder
-    custom_moq: 200+ enheder
-    lead_time: 30–45 dage
-  - product: Redningsveste og sikkerhed
-    standard_moq: 100–200 enheder
-    custom_moq: 1.000+ enheder
-    lead_time: 20–30 dage
+  - product: inflatable pools
+    standard_moq: 50 units (samples 5–10)
+    custom_moq: 200+ units
+    lead_time: 12–16 weeks
+  - product: Pool Accessories
+    standard_moq: 100–200 units
+    custom_moq: 1,000+ units
+    lead_time: 20–30 days
+
 why_us:
-  - title: Vertikal integration
-    description: Vi ejer vores fabrik, forme og forsyningskæde — uden mellemmænd, uden underleverandører. Det giver os kontrol over kvalitet, pris og levering.
-  - title: Dobbelt certificering
-    description: ISO 9001-certificering af kvalitetsledelse og BSCI-certificering af social compliance. Fabriksauditrapporter fås efter anmodning.
-  - title: CE-overensstemmelse
-    description: Alle standardmodeller er CE-certificeret i henhold til 2013/53/EU. Tilpassede modeller kan CE-certificeres gennem vores etablerede proces.
-  - title: Lav MOQ
-    description: Start med så få som 5 enheder på standardmodeller. Vi hjælper nye brands i luften uden at binde for meget lager.
+  - title: Vertical Integration
+    description: We own our factory, molds, and supply chain — no middlemen, no subcontractors. This gives us control over quality, cost, and delivery.
+  - title: Dual Certification
+    description: ISO 9001 quality management and BSCI social compliance certification. Factory audit reports available upon request.
+  - title: CE Compliance
+    description: All standard models carry CE 2013/53/EU certification. Custom models can be CE certified through our established process.
+  - title: Low MOQ
+    description: Start with samples from 5–10 units; standard production runs from 50 units. We help emerging brands launch without overcommitting inventory.

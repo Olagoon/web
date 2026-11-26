@@ -1,71 +1,71 @@
 meta:
-  title: 'Dobavljač opreme za iznajmljivanje SUP-a i rješenja za flote | {SITE}'
-  description: 'Dobavljač opreme za iznajmljivanje SUP-a za operatere iznajmljivanja. Komercijalne SUP daske za veliku rotaciju, konstruirane za svakodnevnu upotrebu — PVC otporan na UV zrake, ojačani šavovi, materijali koji se brzo suše. Povećajte svoj posao iznajmljivanja s OLagoonom.'
+  title: 'pool Rental Equipment Supplier & Fleet Solutions | {SITE}'
+  description: 'pool rental equipment supplier for rental operators. High-rotation commercial pools engineered for daily use — UV-resistant PVC, reinforced seams, quick-dry materials. Scale your rental business with OLagoon.'
 
 hero:
-  tagline: 'Operateri iznajmljivanja'
-  title: 'Povećajte svoj posao iznajmljivanja<br />sa samopouzdanjem'
-  subtitle: 'Dobavljač opreme za iznajmljivanje SUP-a za operatere iznajmljivanja. SUP daske za veliku rotaciju, konstruirane za svakodnevno iznajmljivanje, 365 dana u godini. Vaši prihodi nikad ne uzimaju slobodan dan.'
+  tagline: Rental Operators
+  title: 'Scale Your Rental Business<br />With Confidence'
+  subtitle: 'pool rental equipment supplier for rental operators. High-rotation pools engineered for daily rental use, 365 days a year. Your revenue never takes a day off.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: 'Prometna pozornica za iznajmljivanje s SUP daskama spremnim za goste'
+    alt: Busy rental kiosk with pools ready for guests
 
 features:
-  title: 'Konstruirano za naporeno iznajmljivanje'
-  subtitle: 'Svaka daska je konstruirana za 500+ ciklusa iznajmljivanja uz minimalno održavanje.'
+  title: Built for the Rental Grind
+  subtitle: 'Every board is engineered for 500+ rental cycles with minimal maintenance.'
   items:
-    - title: '500+ ciklusa iznajmljivanja'
-      description: 'Testirano da preživi svakodnevnu upotrebu u slanoj vodi, suncu i pijesku.'
+    - title: '500+ Rental Cycles'
+      description: 'Tested to survive daily use in saltwater, sun, and sand.'
       icon: 'tabler:shield-check'
-    - title: 'Tkanina otporna na UV zrake'
-      description: 'Bez blijeđenja ili degradacije nakon 1 godine skladištenja na otvorenom.'
+    - title: 'UV-Resistant Fabric'
+      description: 'No fading or degradation after 1 year of outdoor storage.'
       icon: 'tabler:sun'
-    - title: 'Ojačani šavovi'
-      description: '3x jači od standardne konstrukcije napuhivih daska.'
+    - title: 'Reinforced Seams'
+      description: '3x stronger than standard inflatable board construction.'
       icon: 'tabler:layers-intersect'
-    - title: 'Materijali koji se brzo suše'
-      description: 'Daske spremne za sljedeće iznajmljivanje za manje od 30 minuta.'
+    - title: 'Quick-Dry Materials'
+      description: 'Boards ready for next rental in under 30 minutes.'
       icon: 'tabler:droplet'
-    - title: 'Skladištenje u slaganju'
-      description: 'Dizajn koji štedi prostor — pohranite 40% više daska na istom prostoru.'
+    - title: 'Stackable Storage'
+      description: 'Space-saving design — store 40% more boards in the same area.'
       icon: 'tabler:stack'
-    - title: 'Veličine označene bojama'
-      description: 'Osoblje odmah grabi pravu dasku uz veličine označene bojama.'
+    - title: 'Color-Coded Sizes'
+      description: 'Staff grabs the right board instantly with color-coded sizing.'
       icon: 'tabler:color-swatch'
 
 stats:
-  title: 'Metrike poslovanja'
+  title: Operations Metrics
   stats:
-    - title: 'Obrtaj daska'
+    - title: Board Turnover
       amount: '< 5 min'
-    - title: 'Godišnje održavanje'
-      amount: '~15 min/daska'
-    - title: 'Otprema dijelova'
+    - title: Annual Maintenance
+      amount: '~15 min/board'
+    - title: Parts Dispatch
       amount: '48h'
-    - title: 'Stopa defekata'
+    - title: Defect Rate
       amount: '< 0.5%'
 
 fleet_guide:
-  title: 'Vodič za veličinu flote'
-  subtitle: 'Procijenite veličinu flote i potencijal prihoda svog poslovanja iznajmljivanja.'
+  title: Fleet Sizing Guide
+  subtitle: 'Estimate the fleet size and revenue potential for your rental operation.'
   tiers:
-    - label: 'Mala pozornica'
+    - label: Small Kiosk
       boards: '15-20'
-      revenue: '$XX,XXX/god'
-    - label: 'Poslovanje srednje veličine'
+      revenue: '$XX,XXX/yr'
+    - label: Mid-Size Operation
       boards: '30-50'
-      revenue: '$XX,XXX/god'
-    - label: 'Veliko iznajmljivanje na plaži'
+      revenue: '$XX,XXX/yr'
+    - label: Large Beach Rental
       boards: '50-100'
-      revenue: '$XXX,XXX/god'
+      revenue: '$XXX,XXX/yr'
 
 cta:
-  title: 'Spremni povećati svoj posao iznajmljivanja?'
-  subtitle: 'Nabavite cijene za iznajmljivanje ili usporedite modele daska za svoje poslovanje.'
+  title: 'Ready to scale your rental business?'
+  subtitle: 'Get rental pricing or compare board models for your operation.'
   actions:
-    - text: 'Nabavite cijene za iznajmljivanje'
+    - text: 'Get Rental Pricing'
       href: '/contact/?package=rental'
       variant: 'primary'
-    - text: 'Usporedite modele daska'
+    - text: 'Compare Board Models'
       href: '/compare/'
       variant: 'secondary'

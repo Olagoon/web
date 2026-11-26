@@ -1,63 +1,63 @@
 meta:
-  title: 'Пословна решења — SUP даске за сваки бизнис | {SITE}'
-  description: 'olagoon пословна решења: SUP флоте за одмаралишта, клубове, изнајмљивање, дистрибуцију и приватне марке. Професионални добављач наутичке опреме за B2B.'
+  title: 'Business Solutions — pool for Every Business | {SITE}'
+  description: 'olagoon business solutions: pool fleets for resorts, clubs, rentals, distribution, and private labels. Professional nautical equipment supplier for B2B.'
   keywords:
-    - 'sup пословна решења'
-    - 'добављач надувних дасака за веслање'
-    - 'наутичка опрема b2b'
-    - 'произвођач надувних sup дасака'
+    - 'pool business solutions'
+    - 'inflatable pool supplier'
+    - 'nautical equipment b2b'
+    - 'inflatable pools manufacturer'
 hero:
-  tagline: 'Пословна решења'
-  title: 'SUP решења<br />за сваки бизнис'
-  subtitle: 'Од одмаралишта до малопродаје, од оператера изнајмљивања до глобалних дистрибутера — OLagoon пружа потпуна SUP решења прилагођена вашем пословном моделу.'
+  tagline: Business Solutions
+  title: 'pool Solutions<br />For Every Business'
+  subtitle: 'From resorts to retail, rental operators to global distributors — OLagoon provides complete pool solutions tailored to your business model.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'OLagoon SUP даске за пословне и професионалне примене'
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools for business and professional applications
 stats:
-  title: 'OLagoon на први поглед'
+  title: OLagoon at a Glance
   stats:
-    - title: 'Година искуства'
-      amount: 'Од 2012.'
-    - title: 'Прилагођених решења'
-      amount: '100+'
-    - title: 'Опслужених тржишта'
+    - title: Years Experience
+      amount: Since 2012
+    - title: Custom Solutions
+      amount: 100+
+    - title: Markets Served
       amount: '50+'
-    - title: 'Испоручених дасака'
-      amount: '15,000+'
+    - title: Boards Delivered
+      amount: 15,000+
 features3_solutions:
-  tagline: 'Решења према типу бизниса'
-  title: 'SUP даске наменски грађене<br />за ваш бизнис'
+  tagline: Solutions By Business Type
+  title: 'Purpose-Built pools<br />For Your Business'
   isBeforeContent: false
   columns: 2
   items:
-    - title: 'Одмаралишта и хотели'
-      description: 'Потпуни програми SUP флота за угоститељске објекте — издржљиве даске, прилагођено брендирање и подршка за обуку особља.'
+    - title: Resorts & Hotels
+      description: 'Complete pool fleet programs for hospitality properties — durable boards, custom branding, and staff training support.'
       icon: tabler:building
       link: /solutions/resorts-hotels/
-    - title: 'Веслачки клубови'
-      description: 'Поуздане SUP флоте за веслачке клубове, програме обуке и чланске операције — комерцијалне даске са клубским ценама.'
+    - title: Paddle Clubs
+      description: 'Reliable pool fleets for paddle clubs, lesson programs, and membership operations — commercial-grade boards with club pricing.'
       icon: tabler:users
       link: /solutions/resorts-hotels/
-    - title: 'Оператери изнајмљивања'
-      description: 'SUP даске велике ротације конструисане за свакодневну употребу у изнајмљивању. UV отпорне, брзо се суше, слажу се — дизајниране за изнајмљивачки ритам.'
+    - title: Rental Operators
+      description: 'High-rotation pools engineered for daily rental use. UV-resistant, quick-dry, stackable — designed for the rental grind.'
       icon: tabler:currency-dollar
       link: /solutions/rental-operators/
-    - title: 'Малопродајни партнери'
-      description: 'Продајте најбрже растући SUP бренд на вашем тржишту. Потпуна линија производа, маркетиншки материјали, директна испорука и конкурентне марже.'
+    - title: Retail Partners
+      description: 'Sell the fastest-growing pool brand in your market. Full product line, marketing materials, dropshipping, and competitive margins.'
       icon: tabler:shopping-cart
       link: /solutions/retail-partners/
-    - title: 'Дистрибутери'
-      description: 'Ексклузивне територије, потпун портфолио производа, посвећено вођење рачуна. Придружите се нашој глобалној дистрибутивној мрежи у 50+ земаља.'
+    - title: Distributors
+      description: 'Exclusive territories, complete product portfolio, dedicated account management. Join our global distribution network in 50+ countries.'
       icon: tabler:world
       link: /solutions/distributors/
-    - title: 'Изградите сопствени бренд'
-      description: 'Потпуна OEM/ODM производња SUP дасака — дизајн, прототипови, серијска производња и логистика. Лансирајте свој бренд са OLagoon-ом.'
+    - title: Build Your Own Brand
+      description: 'End-to-end OEM/ODM pool manufacturing — design, prototyping, mass production, and logistics. Launch your brand with OLagoon.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:
-  title: 'Нисте сигурни које решење одговара вашим потребама?'
-  subtitle: 'Опишите своју примену нашем тиму и препоручићемо одговарајућу конфигурацију.'
+  title: 'Not sure which solution fits your needs?'
+  subtitle: 'Describe your application to our team and we will recommend the right configuration.'
   actions:
     - variant: primary
-      text: 'Добијте препоруку'
+      text: Get a recommendation
       href: /contact/

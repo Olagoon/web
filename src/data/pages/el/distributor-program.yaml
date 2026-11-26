@@ -1,117 +1,117 @@
 meta:
-  title: 'Συνεργάτες Χώρας — Μία Χώρα, Ένας Επίσημος Διανομέας OLagoon | {SITE}'
-  description: 'Υποβάλετε αίτηση για να γίνετε ο επίσημος διανομέας OLagoon για τη χώρα σας. Ένας εξουσιοδοτημένος συνεργάτης ανά αγορά, προστασία περιοχής, περιθώρια απευθείας από το εργοστάσιο, ετήσιες εκπτώσεις και ένα πρόγραμμα υποστήριξης συνεργάτη χώρας με 10 ενότητες για παγκόσμιους διανομείς SUP και θαλάσσιων σπορ.'
+  title: 'Country Partners — One Country, One Official OLagoon Distributor | {SITE}'
+  description: 'Apply to become the official OLagoon distributor for your country. One authorized partner per market, territory protection, direct-factory margins, annual rebates, and a 10-module country partner support program for global pool and water sports distributors.'
   keywords:
-    - 'πρόγραμμα συνεργασίας χώρας'
-    - 'γίνετε διανομέας'
-    - 'διανομή SUP'
-    - 'μία χώρα ένας διανομέας'
-    - 'διανομέας paddle board'
-    - 'διανομή θαλάσσιων σπορ'
-    - 'αίτηση συνεργασίας χώρας'
+    - 'country partnership program'
+    - 'become a distributor'
+    - 'pool distributorship'
+    - 'one country one distributor'
+    - 'stand up paddle distributor'
+    - 'water sports distribution'
+    - 'country partnership application'
 hero:
-  tagline: 'Συνεργασία Χώρας'
-  title: 'Μία Χώρα.<br />Ένας Επίσημος Διανομέας OLagoon.'
-  subtitle: 'Η OLagoon ορίζει έναν μόνο εξουσιοδοτημένο διανομέα χώρας για κάθε εγκεκριμένη αγορά. Αποκλειστική περιοχή, τιμές αντιπροσώπου με ετήσιες εκπτώσεις και ένα πλήρες πρόγραμμα υποστήριξης διανομέα — με αντάλλαγμα μια υπογεγραμμένη συμφωνία και πραγματική δέσμευση για την ανάπτυξη της αγοράς.'
+  tagline: 'Country Partnership'
+  title: 'One Country.<br />One Official OLagoon Distributor.'
+  subtitle: 'OLagoon appoints a single authorized country distributor for each approved market. Exclusive territory, dealer pricing with annual rebates, and a full distributor support program — in exchange for a signed agreement and a real commitment to build the market.'
   actions:
-    - text: 'Αίτηση για Συνεργασία Χώρας'
+    - text: 'Apply for Country Partnership'
       href: /contact/?subject=Country Partnership Application
       variant: primary
-    - text: 'Βρείτε τον Τοπικό Διανομέα'
+    - text: 'Find Your Local Distributor'
       href: /distributor-program/
       variant: secondary
-    - text: 'Ζητήστε Τιμοκατάλογο Αντιπροσώπου'
+    - text: 'Request Dealer Price List'
       href: /contact/?subject=Dealer Price List
       variant: secondary
 stats:
   - value: '1'
-    label: 'Επίσημος διανομέας ανά χώρα ή περιοχή'
+    label: 'Official distributor per country or region'
   - value: '100–300'
-    label: 'Ελάχιστη πρώτη παραγγελία (Χώρα / Περιφέρεια)'
+    label: 'Minimum first order (Country / Regional)'
   - value: '50+'
-    label: 'Χώρες που εξυπηρετούνται παγκοσμίως'
-  - value: '30–45'
-    label: 'Ημέρες τυπικός χρόνος παράδοσης (FOB Qingdao)'
+    label: 'Countries served globally'
+  - value: '12–16'
+    label: 'Weeks standard lead time (FOB Qingdao)'
 features:
-  title: 'Γιατί Συνεργασία με την OLagoon'
-  subtitle: 'Ένα μοντέλο μία χώρα — ένας διανομέας με υποδομή υποστήριξης που κάνει την περιοχή να αποδίδει. Η αποκλειστικότητα κερδίζεται και διατηρείται — δεν είναι μόνιμο δικαίωμα.'
+  title: 'Why Partner With OLagoon'
+  subtitle: 'A one-country-one-distributor model with the support structure to make the territory pay. Exclusivity is earned and maintained — not a permanent right.'
   columns: 3
   items:
-    - title: 'Αποκλειστικότητα Περιοχής'
-      description: 'Ένας εξουσιοδοτημένος διανομέας ανά χώρα ή περιοχή. Καμία παράλληλη εισαγωγή, κανένας εσωτερικός ανταγωνισμός. Η επένδυσή σας χτίζει το δικό σας οχυρό.'
+    - title: 'Territory Exclusivity'
+      description: 'One authorized distributor per country or region. No parallel imports, no internal competition. Your investment builds your own moat.'
       icon: 'tabler:shield-check'
-    - title: 'Προστασία από Συγκρούσεις Καναλιών'
-      description: 'Οι άμεσες παραγγελίες από την περιοχή σας δρομολογούνται μέσω εσάς και οι τιμές προστατεύουν το περιθώριό σας. Η OLagoon δεν πουλά πέρα από τους συνεργάτες χώρας της.'
+    - title: 'Channel Conflict Protection'
+      description: 'Direct orders from your region are routed through you, and pricing protects your margin. OLagoon does not sell around its country partners.'
       icon: 'tabler:users'
-    - title: 'Περιθώρια Απευθείας από το Εργοστάσιο & Εκπτώσεις'
-      description: 'Τιμοκατάλογος αντιπροσώπου με εκπτώσεις για δεσμευμένους όγκους. Καμία ενδιάμεση. Αποστολή FOB Qingdao με πλήρη τεκμηρίωση εξαγωγής.'
+    - title: 'Direct-Factory Margins & Rebates'
+      description: 'Dealer price list with rebates on committed volumes. No middlemen. FOB Qingdao shipping with full export documentation.'
       icon: 'tabler:coins'
-    - title: 'Πρόγραμμα Υποστήριξης Συνεργάτη με 10 Ενότητες'
-      description: 'Ενσωμάτωση, προσέγγιση αγοράς, εκπαίδευση, μάρκετινγκ και κοινή χρηματοδότηση της αγοράς, ανταλλακτικά και εξυπηρέτηση μετά την πώληση, εγγύηση, εργαλεία παραγγελιών και πύλη συνεργατών — καλυμμένα στη Συμφωνία Διανομής σας.'
+    - title: '10-Module Partner Support Program'
+      description: 'Onboarding, go-to-market, training, marketing and joint market funding, spare parts and after-sales, warranty, ordering tools, and a partner portal — covered in your Distribution Agreement.'
       icon: 'tabler:rocket'
-    - title: 'Μάρκετινγκ & Κοινά Ταμεία Αγοράς'
-      description: 'Τοπικοποιημένα υλικά καμπάνιας, υλικά σημείου πώλησης για αντιπροσώπους, κιτ εκδηλώσεων, ψηφιακό περιεχόμενο σε πολλές γλώσσες και υποστήριξη συν-μάρκετινγκ για τις εποχές λανσαρίσματος.'
+    - title: 'Marketing & Joint Market Funds'
+      description: 'Localized campaign assets, dealer POS materials, event kits, digital content in multiple languages, and co-marketing support for launch seasons.'
       icon: 'tabler:mood-smile'
-    - title: 'Εκπαίδευση Προϊόντος, Πωλήσεων & Τεχνική'
-      description: 'Δομημένες συνεδρίες ενσωμάτωσης για το προϊόν, τις πωλήσεις και τις τεχνικές γνώσεις, με ενημερωμένο υλικό καθώς εξελίσσεται η γκάμα.'
+    - title: 'Product, Sales & Technical Training'
+      description: 'Structured onboarding sessions on product, sales, and technical knowledge, with updated materials as the range evolves.'
       icon: 'tabler:presentation'
-    - title: 'Ανταλλακτικά & Υποστήριξη Μετά την Πώληση'
-      description: 'Προμήθεια ανταλλακτικών, καταγραφή εγγυήσεων και διαχείριση απαιτήσεων, καθώς και φύλλα τεχνικών προδιαγραφών και εγχειρίδια για την τοπική ομάδα εξυπηρέτησής σας.'
+    - title: 'Spare Parts & After-Sales Support'
+      description: 'Spare parts supply, warranty registration and claims handling, and product datasheets and manuals for your local service team.'
       icon: 'tabler:settings'
-    - title: 'Αφιερωμένος Διαχειριστής Λογαριασμού & Πύλη Συνεργατών'
-      description: 'Ένας προσωπικός διαχειριστής διανομέα συν πρόσβαση σε τιμοκαταλόγους, κατάσταση παραγγελιών και πόρους μάρκετινγκ μέσω της πύλης συνεργατών της OLagoon.'
+    - title: 'Dedicated Account Manager & Partner Portal'
+      description: 'A personal distributor manager plus access to price lists, order status, and marketing resources through the OLagoon partner portal.'
       icon: 'tabler:user-check'
 table:
-  title: 'Επίπεδα Συνεργασίας, MOQ & Όροι Παραγγελίας'
-  subtitle: 'Επιλέξτε το επίπεδο που ταιριάζει στο δυναμικό της αγοράς σας. Όλες οι τιμές σε USD, FOB Qingdao.'
-  caption: 'Οι δειγματικές και δοκιμαστικές παραγγελίες (5–30 τεμάχια) δεν έχουν προστασία περιοχής. Η αποκλειστικότητα χώρας ισχύει μόνο για υπογεγραμμένες συμφωνίες Country / Regional Distributor — διατηρείται με την ολοκλήρωση της πρώτης παραγγελίας, ετήσιους στόχους αγορών, τοπικό απόθεμα, ικανότητα εξυπηρέτησης μετά την πώληση και συνεχή επένδυση στην αγορά, και δεν αποτελεί μόνιμο ή αέναο δικαίωμα.'
+  title: 'Partnership Tiers, MOQ & Order Terms'
+  subtitle: 'Choose the tier that matches your market potential. All prices in USD, FOB Qingdao.'
+  caption: 'Sample and trial orders (5–30 units) carry no territorial protection. Country exclusivity applies only to signed Country / Regional Distributor agreements — it is maintained by first-order completion, annual purchase targets, local stock, after-sales capability, and continued market investment, and is not a permanent or perpetual right.'
   head:
-    - Επίπεδο Προγράμματος
-    - Ελάχιστη Παραγγελία (τεμάχια)
-    - Χρόνος Παράδοσης
-    - Πληρωμή
+    - Program Tier
+    - Minimum Order (units)
+    - Lead Time
+    - Payment
   rows:
-    - [Sample / Product Evaluation, 5–10, 15–20 εργάσιμες ημέρες, 100% prepaid]
-    - [Trial Order, 10–30, 30–45 εργάσιμες ημέρες, 100% prepaid]
-    - [Authorized Dealer, 30–50, 30–45 εργάσιμες ημέρες, 30% προκαταβολή / 70% πριν την αποστολή]
-    - [Country / Regional Distributor, 100–300, 30–45 εργάσιμες ημέρες, 30% προκαταβολή / 70% πριν την αποστολή]
-    - [Custom & Private Label (standard), 50+, 30–45 εργάσιμες ημέρες, 30% προκαταβολή / 70% πριν την αποστολή]
-    - [Deep Custom (new molds, packaging), 200+, 45–60 εργάσιμες ημέρες, 30% προκαταβολή / 70% πριν την αποστολή]
-    - [Full Product Line Rights, '300–1,000', 60–90 εργάσιμες ημέρες, 30% προκαταβολή / 70% πριν την αποστολή]
+    - [Sample / Product Evaluation, 5–10, 15–20 working days, 100% prepaid]
+    - [Trial Order, 10–30, 15–20 working days, 100% prepaid]
+    - [Authorized Dealer, 30–50, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Country / Regional Distributor, 100–300, 10–14 weeks, 30% deposit / 70% before shipment]
+    - [Custom & Private Label (standard), 50+, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Deep Custom (new molds, packaging), 200+, 12–16 weeks + 15–20 days tooling, 30% deposit / 70% before shipment]
+    - [Full Product Line Rights, '300–1,000', 10–14 weeks, 30% deposit / 70% before shipment]
 faqs:
-  title: 'Συνεργασία Χώρας — Συχνές Ερωτήσεις'
-  subtitle: 'Οι ερωτήσεις που κάνουν οι σοβαροί συνεργάτες χώρας πριν υποβάλουν αίτηση.'
+  title: 'Country Partnership — FAQ'
+  subtitle: 'The questions serious country partners ask before applying.'
   items:
-    - title: 'Τι σημαίνει στην πραγματικότητα «μία χώρα — ένας διανομέας»;'
-      description: 'Η OLagoon ορίζει έναν μόνο εξουσιοδοτημένο διανομέα με αποκλειστικά δικαιώματα για μια συγκεκριμένη περιοχή. Δεν πουλάμε μέσω των παγκόσμιων ή περιφερειακών καναλιών μας σε μια προστατευμένη χώρα. Η κυριότητά σας στην περιοχή διαρκεί όσο πληρούνται οι όροι της Συμφωνίας Διανομής.'
-    - title: 'Είναι η περιοχή αποκλειστική για πάντα;'
-      description: 'Όχι. Η αποκλειστικότητα είναι υπό όρους, όχι αέναη. Διατηρείται μέσω υπογεγραμμένης Συμφωνίας Διανομής, ολοκλήρωσης της πρώτης παραγγελίας, ετήσιων στόχων αγορών, τοπικού αποθέματος, ικανότητας εξυπηρέτησης μετά την πώληση και συνεχούς επένδυσης στην αγορά. Αν δεν πληρούνται, η περιοχή μπορεί να επαναδιαπραγματευτεί ή να ανατεθεί εκ νέου.'
-    - title: 'Ποια είναι η ελάχιστη πρώτη παραγγελία;'
-      description: 'Οι διανομείς χώρας και περιφέρειας ξεκινούν από 100–300 τεμάχια· οι εξουσιοδοτημένοι αντιπρόσωποι από 30–50 τεμάχια· οι δοκιμαστικές παραγγελίες από 10–30 τεμάχια σάς επιτρέπουν να δοκιμάσετε πρώτα την αγορά (οι δοκιμαστικές και δειγματικές παραγγελίες δεν έχουν προστασία περιοχής). Τα προγράμματα εξατομίκευσης και private label ακολουθούν ξεχωριστά MOQ που αναφέρονται στα παραπάνω επίπεδα.'
-    - title: 'Ποια υποστήριξη περιλαμβάνει το πρόγραμμα των 10 ενοτήτων;'
-      description: 'Επίπεδα και προϋποθέσεις, προστασία περιοχής, MOQ / τιμολόγηση / ετήσιες εκπτώσεις, διαχείριση αποθέματος και εκτέλεση παραγγελιών, υλικό μάρκετινγκ και κοινά ταμεία αγοράς, εκπαίδευση προϊόντος / πωλήσεων / τεχνική, ανταλλακτικά και εξυπηρέτηση μετά την πώληση, καταγραφή εγγυήσεων, πύλη συνεργατών, καθώς και φύλλα τεχνικών προδιαγραφών, βιβλιοθήκη υλικού μάρκετινγκ, πρόγραμμα ετήσιων εκπτώσεων και λίστες αποστολής και συσκευασίας.'
-    - title: 'Πώς με προστατεύει η OLagoon από συγκρούσεις καναλιών;'
-      description: 'Κάθε περιοχή έχει ακριβώς έναν εξουσιοδοτημένο διανομέα. Τα αιτήματα και οι άμεσες παραγγελίες από την περιοχή σας δρομολογούνται μέσω εσάς, οι φόρμες του ιστότοπου προωθούνται στον τοπικό συνεργάτη όπου υπάρχει, και η παγκόσμια ομάδα επεμβαίνει μόνο όταν ένας συνεργάτης δεν ανταποκρίνεται.'
-    - title: 'Ποιοι είναι οι όροι αποστολής και πληρωμής;'
-      description: 'Οι παραγγελίες αποστέλλονται FOB Qingdao με πλήρη τεκμηρίωση εξαγωγής. Οι παραγγελίες παραγωγής είναι με 30% προκαταβολή και 70% πριν την αποστολή· οι δοκιμαστικές και δειγματικές παραγγελίες είναι προπληρωμένες. Ο τυπικός χρόνος παράδοσης είναι 30–45 εργάσιμες ημέρες, με 15–20 εργάσιμες ημέρες για δειγματικές παραγωγές.'
-    - title: 'Πώς υποβάλλω αίτηση;'
-      description: 'Στείλτε την αίτησή σας μέσω της φόρμας επικοινωνίας με στοιχεία της αγοράς. Αξιολογούμε την καταλληλότητα της αγοράς, την παρουσία στο λιανικό εμπόριο και τη δυνατότητα logistics, και στη συνέχεια απαντάμε εντός 3 εργάσιμων ημερών με τα επόμενα βήματα και ένα δείγμα Συμφωνίας Διανομής.'
+    - title: 'What does one-country-one-distributor really mean?'
+      description: 'OLagoon appoints a single authorized distributor with exclusive rights for a defined territory. We do not sell from our global or regional channels into a protected country. Your territory ownership holds for as long as the Distribution Agreement is met.'
+    - title: 'Is the territory exclusive forever?'
+      description: 'No. Exclusivity is conditional, not perpetual. It is maintained through a signed Distribution Agreement, completion of your first order, annual purchase targets, local stock, after-sales capability, and continued market investment. If these are not met, the territory can be renegotiated or reassigned.'
+    - title: 'What is the minimum first order?'
+      description: 'Country and regional distributors start at 100–300 units; authorized dealers at 30–50 units; trial orders from 10–30 units let you validate the market first (trial and sample orders carry no territory protection). Custom and private-label programs follow separate MOQs listed in the tiers above.'
+    - title: 'What support is included in the 10-module support program?'
+      description: 'Tiers and qualification, territory protection, MOQ / pricing / annual rebates, inventory and order execution, marketing assets and joint market funds, product / sales / technical training, spare parts and after-sales, warranty registration, the partner portal, and product datasheets, marketing asset library, annual rebate schedule, and shipping and packing lists.'
+    - title: 'How does OLagoon protect me from channel conflict?'
+      description: 'Each territory has exactly one authorized distributor. Inquiries and direct orders from your region are routed through you, website forms are forwarded toward the local partner where one exists, and the global team only escalates when a partner does not respond.'
+    - title: 'What are the shipping and payment terms?'
+      description: 'Orders ship FOB Qingdao with full export documentation. Production orders are 30% deposit with 70% before shipment; trial and sample orders are prepaid. Production runs take 12–16 weeks at 50–100 units, 10–14 weeks at 300–1,000 units, and 8–12 weeks above 1,000 units; sample runs ship in 15–20 working days.'
+    - title: 'How do I apply?'
+      description: 'Send your application via the contact form with market details. We review market fit, retail presence, and logistics capability, then respond within 3 business days with next steps and a sample Distribution Agreement.'
 cta:
-  title: 'Κατέχετε την αγορά σας.'
-  subtitle: 'Κάντε αίτηση για τη Συνεργασία Χώρας OLagoon και λάβετε απάντηση εντός 3 εργάσιμων ημερών.'
+  title: 'Own your market.'
+  subtitle: 'Apply for the OLagoon Country Partnership and get a response within 3 business days.'
   actions:
-    - text: 'Αίτηση για Συνεργασία Χώρας'
+    - text: 'Apply for Country Partnership'
       href: /contact/?subject=Country Partnership Application
       variant: primary
-    - text: 'Λήψη της Επισκόπησης Προγράμματος'
+    - text: 'Download the Program Overview'
       href: /distributor-program/
       variant: secondary
 geo:
-  tagline: 'Με Ποιον Συνεργαζόμαστε'
-  sentence: 'Η OLagoon συνεργάζεται με καταξιωμένους διανομείς της ναυτιλιακής, της υπαίθρου και των αθλητικών ειδών που εξυπηρετούν αλυσίδες λιανικής, στόλους ενοικίασης, σχολές θαλάσσιων σπορ, θέρετρα και κρατικούς αγοραστές με premium φουσκωτές σανίδες SUP και σκάφη — και που δεσμεύονται να αναπτύξουν τη μάρκα OLagoon στη χώρα τους.'
+  tagline: 'Who We Partner With'
+  sentence: 'OLagoon partners with established marine, outdoor, and sports distributors who serve retail chains, rental fleets, water sports schools, resorts, and government buyers with premium inflatable pools and watercraft — and who commit to building the OLagoon brand in their country.'
   audiences:
-    - 'Ναυτιλιακοί & Αθλημάτων Κουπιού Διανομείς'
-    - 'Λιανική Υπαίθρου & Αθλητικών'
-    - 'Φορείς Ενοικίασης & Θερέτρων'
-    - 'Σχολές Θαλάσσιων Σπορ'
-    - 'Κοινότητες Ωκεάνιων Σπορ'
+    - 'Marine & Paddle Sports Distributors'
+    - 'Outdoor & Sports Retail'
+    - 'Rental & Resort Operators'
+    - 'Water Sports Schools'
+    - 'Ocean Sports Communities'

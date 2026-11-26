@@ -1,117 +1,117 @@
 meta:
-  title: 'Pembekal Peralatan SUP Resort & Hotel | Penyelesaian Armada Resort | {SITE}'
-  description: 'Pembekal peralatan SUP resort untuk hotel dan resort di seluruh dunia. Armada SUP boleh tiup gred komersial, penjenamaan tersuai, latihan staf, dan pakej dioptimumkan ROI daripada 20 hingga 100+ papan.'
+  title: 'Resort & Hotel pool Equipment Supplier | Resort Fleet Solutions | {SITE}'
+  description: 'Resort pool equipment supplier for hotels and resorts worldwide. Commercial-grade inflatable pools fleets, custom branding, staff training, and ROI-optimized packages from 20 to 100+ boards.'
 
 hero:
-  tagline: 'Resort & Hotel'
-  title: 'Jadikan Tepi Air Anda Pusat Hasil<br />Dengan Armada SUP Premium'
-  subtitle: 'OLagoon melengkapi resort di seluruh dunia dengan armada SUP boleh tiup gred komersial — daripada pakej permulaan 20 papan hingga program utama 100+ papan. Penjenamaan tersuai, latihan staf, dan alat ganti disertakan.'
+  tagline: Resorts & Hotels
+  title: 'Turn Your Waterfront Into a Revenue Centre<br />With Premium pool Fleets'
+  subtitle: 'OLagoon equips resorts worldwide with commercial-grade inflatable pools fleets — from 20-board starter packages to 100+ board flagship programs. Custom branding, staff training, and replacement parts included.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: 'Tetamu resort menikmati papan SUP di pantai yang bersih'
+    alt: Resort guests enjoying poolsing on a pristine beach
 
 roi_section:
-  title: 'Model Hasil SUP Resort'
-  subtitle: 'Bagaimana resort menjana pendapatan sewaan SUP tahunan 50,000 - 200,000+ USD dengan satu pelaburan.'
+  title: 'The Resort pool Revenue Model'
+  subtitle: 'How resorts generate $50,000 - $200,000+ annual pool rental income with a single investment.'
   metrics:
-    - metric: '50K–200K+ USD'
-      label: 'Hasil SUP Tahunan'
-      detail: 'Setiap resort, berdasarkan saiz armada dan kadar penghunian'
-    - metric: '4–6 Bulan'
-      label: 'Tempoh Bayar Balik Purata'
-      detail: 'Pulihkan pelaburan armada penuh dalam satu musim'
+    - metric: '$50K–$200K+'
+      label: Annual pool Revenue
+      detail: Per resort, based on fleet size and occupancy
+    - metric: '4–6 Months'
+      label: Average Payback Period
+      detail: Recoup full fleet investment within one season
     - metric: '40%'
-      label: 'Peningkatan Hasil'
-      detail: 'Peningkatan purata selepas beralih kepada armada OLagoon'
+      label: Revenue Increase
+      detail: Average boost after switching to OLagoon fleets
     - metric: '500+'
-      label: 'Kitaran Sewaan Setiap Papan'
-      detail: 'Ketahanan gred komersial untuk penggunaan harian'
+      label: Rental Cycles Per Board
+      detail: Commercial-grade durability for daily use
 
 packages:
-  title: 'Sistem Pakej Resort'
-  subtitle: 'Pilih pakej yang sesuai dengan kapasiti tetamu dan matlamat hasil anda. Semua pakej merangkumi waranti 12 bulan dan pensijilan CE.'
+  title: Resort Package System
+  subtitle: 'Choose the package that fits your guest capacity and revenue goals. All packages include 12-month warranty and CE certification.'
   items:
-    - name: 'Pakej Permulaan'
-      tagline: 'Untuk resort butik, sehingga 20 tetamu/hari'
+    - name: Starter Package
+      tagline: 'For boutique resorts, up to 20 guests/day'
       features:
-        - '20 papan SUP (3 saiz untuk dewasa/kanak-kanak)'
-        - '20 dayung (boleh laras) + 20 jaket keselamatan'
-        - '4 pam tindakan berganda (elektrik pilihan)'
-        - '2 rak penyimpanan + kit pembaikan'
-        - 'Cetakan logo tersuai pada papan'
-        - 'Waranti 12 bulan + tersijil CE'
-      revenue: 'Potensi hasil tahunan 50K–80K USD'
-      cta_text: 'Dapatkan Pakej Permulaan'
-    - name: 'Pakej Premium'
-      tagline: 'Untuk resort besar, 50-100 tetamu/hari'
+        - '20 pools (3 sizes for adults/kids)'
+        - '20 paddles (adjustable) + 20 life vests'
+        - '4 dual-action pumps (electric optional)'
+        - '2 storage racks + repair kit'
+        - 'Custom logo print on boards'
+        - '12-month warranty + CE certified'
+      revenue: '$50K–$80K annual revenue potential'
+      cta_text: 'Get Starter Package'
+    - name: Premium Package
+      tagline: 'For large resorts, 50-100 guests/day'
       features:
-        - '50 papan SUP (5 saiz, armada bercampur)'
-        - '50 dayung + 50 jaket keselamatan'
-        - '10 pam tindakan berganda + 2 pam elektrik'
-        - '5 rak penyimpanan + 2 troli bergolek'
-        - 'Penjenamaan tersuai penuh (papan, dayung, beg)'
-        - 'Sesi latihan staf (dalam talian)'
-        - 'Penghantaran alat ganti dalam 48 jam'
-        - 'Waranti 12 bulan + tersijil CE'
-      revenue: 'Potensi hasil tahunan 120K–200K+ USD'
+        - '50 pools (5 sizes, mixed fleet)'
+        - '50 paddles + 50 life vests'
+        - '10 dual-action pumps + 2 electric pumps'
+        - '5 storage racks + 2 roller carts'
+        - 'Full custom branding (boards, paddles, bags)'
+        - 'Staff training session (online)'
+        - '48-hour replacement parts dispatch'
+        - '12-month warranty + CE certified'
+      revenue: '$120K–$200K+ annual revenue potential'
       popular: true
-      cta_text: 'Dapatkan Pakej Premium'
-    - name: 'Pakej Utama'
-      tagline: 'Untuk resort ultra-premium, 100+ tetamu/hari'
+      cta_text: 'Get Premium Package'
+    - name: Flagship Package
+      tagline: 'For ultra-premium resorts, 100+ guests/day'
       features:
-        - '100+ papan SUP (julat saiz penuh)'
-        - 'Set aksesori lengkap (dayung, jaket keselamatan, pam, troli)'
-        - 'Latihan staf di lokasi (2 hari)'
-        - 'Pengurus akaun khusus'
-        - 'Alat ganti keutamaan (penghantaran 24 jam)'
-        - 'Penjenamaan tersuai penuh (papan + aksesori)'
-        - 'Pakej foto/video pemasaran'
-        - 'Waranti 24 bulan + tersijil CE'
-      revenue: 'Potensi hasil tahunan 200K+ USD'
-      cta_text: 'Dapatkan Pakej Utama'
+        - '100+ pools (full size range)'
+        - 'Complete accessory set (paddles, vests, pumps, carts)'
+        - 'On-site staff training (2 days)'
+        - 'Dedicated account manager'
+        - 'Priority replacement parts (24h dispatch)'
+        - 'Full custom branding (boards + accessories)'
+        - 'Marketing photo/video package'
+        - '24-month warranty + CE certified'
+      revenue: '$200K+ annual revenue potential'
+      cta_text: 'Get Flagship Package'
 
 case_study:
-  quote: 'Sejak beralih kepada OLagoon, hasil sewaan SUP kami meningkat 40%. Kos penggantian papan menurun 60%. Kami memulihkan pelaburan armada penuh dalam masa 4 bulan.'
-  author: 'Pengurus Aktiviti Air'
-  location: 'resort 5 bintang, Maldives'
+  quote: 'Since switching to OLagoon, our pool rental revenue increased 40%. Board replacement costs dropped 60%. We recouped our full fleet investment in 4 months.'
+  author: 'Water Activities Manager'
+  location: '5-star resort, Maldives'
   results:
-    - label: 'Pertumbuhan Hasil'
+    - label: 'Revenue Growth'
       value: '+40%'
-    - label: 'Pengurangan Kos'
+    - label: 'Cost Reduction'
       value: '-60%'
-    - label: 'Tempoh Bayar Balik'
-      value: '4 Bulan'
+    - label: 'Payback Period'
+      value: '4 Months'
 
 features:
-  title: 'Mengapa Resort Memilih OLagoon'
-  subtitle: 'Ketahanan gred komersial, logistik global, dan rakan kongsi yang memahami industri perhotelan.'
+  title: Why Resorts Choose OLagoon
+  subtitle: 'Commercial-grade durability, global logistics, and a partner who understands hospitality.'
   items:
-    - title: '500+ Kitaran Sewaan'
-      description: 'Setiap papan diuji untuk bertahan 500+ kitaran sewaan dalam air masin, panas matahari, dan pasir.'
+    - title: '500+ Rental Cycles'
+      description: 'Every board is tested to survive 500+ rental cycles in saltwater, sun, and sand.'
       icon: 'tabler:shield-check'
-    - title: 'Penghantaran Alat Ganti 48 Jam'
-      description: 'Alat ganti dihantar dalam masa 48 jam — hasil sewaan anda tidak pernah berhenti.'
+    - title: '48h Parts Dispatch'
+      description: 'Replacement parts shipped within 48 hours — your rental revenue never stops.'
       icon: 'tabler:truck-delivery'
-    - title: 'Penjenamaan Tersuai'
-      description: 'Padankan identiti resort anda dengan warna dan logo tersuai pada setiap papan.'
+    - title: 'Custom Branding'
+      description: 'Match your resort identity with custom colors and logo on every board.'
       icon: 'tabler:palette'
-    - title: 'Latihan Staf'
-      description: 'Program latihan dalam talian dan di lokasi untuk pasukan aktiviti anda.'
+    - title: 'Staff Training'
+      description: 'Online and on-site training programs for your activities team.'
       icon: 'tabler:school'
-    - title: 'Logistik Global'
-      description: 'Penghantaran ke 50+ negara dengan pilihan pengangkutan disatukan.'
+    - title: 'Global Logistics'
+      description: 'Shipping to 50+ countries with consolidated freight options.'
       icon: 'tabler:world'
-    - title: 'Tersijil CE'
-      description: 'Semua peralatan tersijil CE, ISO 9001:2015 — keselamatan dan kualiti terjamin.'
+    - title: 'CE Certified'
+      description: 'All equipment CE certified, ISO 9001:2015 — safety and quality guaranteed.'
       icon: 'tabler:certificate'
 
 cta:
-  title: 'Sedia menjadikan tepi air anda pusat hasil?'
-  subtitle: 'Dapatkan sebut harga pakej resort anda atau muat turun katalog resort lengkap kami.'
+  title: 'Ready to turn your waterfront into a revenue centre?'
+  subtitle: 'Get your resort package quote or download our complete resort catalog.'
   actions:
-    - text: 'Dapatkan Pakej Resort'
+    - text: 'Get Resort Package'
       href: '/contact/?package=resort'
       variant: 'primary'
-    - text: 'Muat Turun Katalog Resort'
+    - text: 'Download Resort Catalog'
       href: '/resources/download-catalog/'
       variant: 'secondary'

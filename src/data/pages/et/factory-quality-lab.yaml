@@ -1,68 +1,68 @@
 meta:
-  title: 'Kvaliteedilabor — testimine ja kvaliteedikindlus | {SITE}'
-  description: 'Sõltumatu kvaliteedilabor ISO 9001 protsessidega olagoon juures: iga üksus testitud enne saatmist, et tagada täispuhutavate supilaudade kvaliteet.'
+  title: 'Quality Lab — Testing & Quality Assurance | {SITE}'
+  description: 'Independent quality lab with ISO 9001 processes at olagoon: every unit tested before shipment to guarantee inflatable pools quality.'
   keywords:
-    - 'supi kvaliteedikontroll'
-    - 'supilaudade testimislabor'
-    - 'iso 9001 supi tehas'
-    - 'täispuhutavate supilaudade kvaliteet'
+    - 'pool quality control'
+    - 'inflatable pool testing lab'
+    - 'iso 9001 pool factory'
+    - 'inflatable pools quality'
 hero:
-  tagline: 'Kvaliteedikontrolli laboratoorium'
-  title: 'Testimislabor ja kvaliteedikindlus'
-  subtitle: 'Sõltumatu kvaliteedilabor ISO 9001 protsessidega — iga üksus testitud enne saatmist'
+  tagline: Quality Control Laboratory
+  title: Testing Laboratory & Quality Assurance
+  subtitle: Independent quality lab with ISO 9001 processes — every unit tested before shipment
 
-intro: 'olagoon haldab pühendatud kvaliteedikontrolli laboratooriumi, mis tegutseb tootmisest sõltumatult. Iga toormaterjali partii ja iga valmis laud läbib enne vabastamist dokumenteeritud inspektsiooniprotokollid. Meie kvaliteedikontrolli meeskond allub otse juhtkonnale, tagades erapooletud kvaliteediotsused.'
+intro: olagoon operates a dedicated quality control laboratory that operates independently from production. Every batch of raw material and every finished pool passes through documented inspection protocols before release. Our QC team reports directly to management, ensuring impartial quality decisions.
 
 highlights:
-  - value: '100%'
-    label: 'Ühikuid rõhutestitud'
-    detail: 'Iga kamber, iga laud'
-  - value: '24–48 h'
-    label: 'Õhupidavuse testi kestus'
-    detail: '1.25-kordsel nimirõhul'
+  - value: 100%
+    label: Units pressure-tested
+    detail: Every chamber, every pool
+  - value: 24–48 h
+    label: Air retention test duration
+    detail: At 1.25× rated pressure
   - value: '&lt;5%'
-    label: 'Maksimaalne lubatud rõhulangus'
-    detail: '24–48 tunni pidamisperioodi jooksul'
-  - value: 'AQL 2.5'
-    label: 'Suure vea lävi'
-    detail: 'Vastavalt ISO 2859 valimile'
+    label: Max allowed pressure drop
+    detail: Over the 24–48 hour hold period
+  - value: AQL 2.5
+    label: Major defect threshold
+    detail: Per ISO 2859 sampling
 
 test_procedures:
-  - title: 'Toormaterjali kontroll'
-    description: 'Iga sissetulev PVC-, Drop-Stitch-kanga ja riistvara partii testitakse enne vastuvõtmist. Verifitseeritakse tõmbetugevus (ASTM D751), rebimiskindlus (ISO 4674) ja UV-kindlus. Mittevastavad materjalid pannakse karantiini ja tagastatakse.'
+  - title: Raw Material Inspection
+    description: Every incoming batch of PVC, drop-stitch fabric, and hardware is tested before acceptance. Tensile strength (ASTM D751), tear resistance (ISO 4674), and UV resistance are verified. Non-conforming materials are quarantined and returned.
     standards:
-      - 'ASTM D751 (tõmbe)'
-      - 'ISO 4674 (rebimine)'
-      - 'ISO 4892 (UV)'
-  - title: 'Protsessisisened kvaliteedikontrolli punktid'
-    description: 'Tootmisoperaatorid teevad iga etapi juures enesekontrolli. Kvaliteediaudiitorid viivad läbi juhusliku valimi kogu vahetuse jooksul. Keevitusõmbluste eemaldustestid tehakse iga 50 ühiku järel. Mõõtmiskontrollid tehakse iga 20. paneeli järel.'
+      - ASTM D751 (tensile)
+      - ISO 4674 (tear)
+      - ISO 4892 (UV)
+  - title: In-Process QC Checkpoints
+    description: Production operators perform self-inspection at each stage. QC auditors conduct random sampling throughout the shift. Weld peel tests are performed every 50 units. Dimensional checks happen every 20th panel.
     standards:
-      - 'ASTM D751 (eemaldus)'
-      - 'Sisemine 100-punktiline kontroll-loend'
-      - 'ISO 2859 valim'
-  - title: '24–48-tunnine õhupidavuse test'
-    description: 'Iga torukamber pumbatakse üles 125%-le nimirõhust ja hoitakse 24–48 tundi. Rõhuandurid logivad pidevalt koos temperatuuri kompenseerimisega. Iga kamber, mille rõhulangus ületab 5%, käivitab automaatse partii uue kontrolli.'
+      - ASTM D751 (peel)
+      - Internal 100-point checklist
+      - ISO 2859 sampling
+  - title: 24–48 Hour Air Retention Test
+    description: Every tube chamber is inflated to 125% of rated pressure and held for 24–48 hours. Pressure sensors log continuously with temperature compensation. Any chamber exceeding 5% pressure drop triggers automatic batch re-inspection.
     standards:
-      - 'EN ISO 25649'
-      - 'CE 2013/53/EU'
-  - title: 'Koormus- ja tasakaalutestimine'
-    description: 'Valmis laudu testitakse maksimaalse nimirõhu korral stabiilsuse ja jäikuse osas. Iga laud läbib veetestimise enne lõppkontrolli heakskiitmist.'
+      - EN ISO 25649
+      - CE 2013/53/EU
+  - title: Load & Balance Testing
+    description: Completed pools are tested at maximum rated capacity for stability and rigidity. Each pool undergoes water testing before final inspection approval.
     standards:
-      - 'ISO 12217'
-      - 'CE 2013/53/EU'
+      - ISO 12217
+      - CE 2013/53/EU
 
 equipment:
-  - name: 'Universaalne katsemasin (tõmbe)'
-    spec: '5 kN, ASTM D751 vastavus'
-  - name: 'Rõhulanguse testija'
-    spec: 'Mitmekanaliline, 0–50 psi, andmete logimine'
-  - name: 'UV-ilmastikukamber'
-    spec: 'ISO 4892, 1,000 h tsüklid'
-  - name: 'Paksuse mõõtja (digitaalne)'
-    spec: 'Lahutus 0.01 mm'
-  - name: 'Eemaldustester (keevitus)'
-    spec: 'Mootoriga, võimsus 50 N'
-  - name: 'Temperatuurikamber'
-    spec: '-40 °C kuni +100 °C'
-  - name: 'Lekke tuvastamise paak'
-    spec: '6 m × 2 m, valgustatud'
+  - name: Universal Testing Machine (tensile)
+    spec: 5 kN, ASTM D751 compliant
+  - name: Pressure Decay Tester
+    spec: Multi-channel, 0–50 psi, datalogging
+  - name: UV Weathering Chamber
+    spec: ISO 4892, 1,000 h cycles
+  - name: Thickness Gauge (digital)
+    spec: 0.01 mm resolution
+  - name: Peel Tester (weld)
+    spec: Motorized, 50 N capacity
+  - name: Temperature Chamber
+    spec: -40 °C to +100 °C
+  - name: Leak Detection Tank
+    spec: 6 m × 2 m, illuminated

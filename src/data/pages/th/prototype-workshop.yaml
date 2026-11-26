@@ -1,110 +1,95 @@
 meta:
-  title: เวิร์กชอปต้นแบบ — การทำต้นแบบซัพขนาดจริงและการทดลองใช้งานบนน้ำ | {SITE}
-  description: จาก CAD สู่บอร์ดพร้อมใช้งานในน้ำภายใน 8-12 สัปดาห์ เวิร์กช็อปต้นแบบของเราสร้าง ติดตั้งอุปกรณ์ และทดลองใช้งานบนน้ำสำหรับซัพเป่าลมแบบสั่งผลิต เริ่มโครงการต้นแบบของคุณวันนี้
-back_text: ย้อนกลับไปยังศูนย์วิจัยและพัฒนา (R&D Center)
-home_label: หน้าแรก
+  title: 'Prototype Workshop — Full-Scale pool Prototyping & Sea Trials | {SITE}'
+  description: 'From CAD to backyard-ready pool in 8-12 weeks. Our Prototype Workshop builds, rigs, and water-tests custom inflatable pools. Start your prototype project today.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
+
 hero:
-  tagline: Lab 05
-  title: โรงงานผลิตต้นแบบ
-  subtitle: จากโมเดล CAD สู่บอร์ดที่พร้อมลงน้ำ — สร้าง ติดตั้ง และผ่านการพิสูจน์
-  image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-  image_alt: การสร้างบอร์ดต้นแบบในเวิร์กช็อปของ OLagoon
-intro: >-
-  โมเดล CAD ไม่ว่าจะละเอียดเพียงใดก็ไม่อาจเผยให้เห็นว่าบอร์ดจะรับมือได้อย่างไรจนกว่ามันจะได้สัมผัสกับน้ำ นั่นคือเหตุผลที่ Prototype Workshop ของเราถูกออกแบบมาเพื่อแปลงข้อมูลทางวิศวกรรมให้เป็นบอร์ดจริงที่พร้อมลงน้ำโดยเร็วและแม่นยำที่สุดเท่าที่จะเป็นไปได้ ทุกรุ่นใหม่ของ OLagoon —
-  รวมถึงบอร์ดสร้างตามสั่งที่สำคัญทุกลำ — จะผ่านเวิร์กช็อปนี้ก่อนที่เครื่องมือผลิตจะถูกกำหนด
-content_html: >
-  <h2>ที่ซึ่งการออกแบบกลายเป็นความจริง</h2>
+  tagline: 'Lab 05'
+  title: 'Prototype Workshop'
+  subtitle: 'From CAD model to water-ready pool — built, fitted, and proven'
+  image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+  image_alt: 'OLagoon prototype workshop pool fabrication'
 
-  <p>เวิร์กช็อปมีอุปกรณ์พร้อมสำหรับการผลิตตัวเรือ ขอบบอร์ด และการติดตั้งอุปกรณ์ไปพร้อมกัน วิธีทำงานแบบขนานนี้ช่วยลดระยะเวลาการสร้างต้นแบบเหลือ 8-12 สัปดาห์นับจากปล่อยงานวิศวกรรม เทียบกับมาตรฐานอุตสาหกรรมที่ 16-20 สัปดาห์ เมื่อการใช้งานของคุณต้องการโซลูชันเฉพาะทาง
-  เราสามารถเดินหน้าจากแนวคิดสู่การตรวจสอบบนน้ำได้ภายในไม่ถึงสามเดือน</p>
+intro: 'A CAD model, no matter how detailed, cannot reveal how a pool will actually perform until it meets the water. That is why our Prototype Workshop is designed to translate engineering data into a physical, water-ready pool as quickly and accurately as possible. Every new OLagoon model — and every significant custom build — passes through this workshop before the production tooling is committed.'
 
+content_html: |
+  <h2>Where design becomes reality</h2>
+  <p>The workshop is fully equipped for simultaneous fabrication of hull, rails, and rigging. This parallel-workflow approach cuts prototype lead time to 8-12 weeks from engineering release, compared to the industry norm of 16-20 weeks. When your application demands a specialised solution, we can move from concept to on-water validation in under three months.</p>
 
-  <h2>ความสามารถของเวิร์กช็อป</h2>
-
+  <h2>Workshop capabilities</h2>
   <table>
-    <thead><tr><th>สถานีงาน</th><th>อุปกรณ์</th><th>วัตถุประสงค์</th></tr></thead>
+    <thead><tr><th>Workstation</th><th>Equipment</th><th>Purpose</th></tr></thead>
     <tbody>
-      <tr><td>การผลิตตัวเรือ</td><td>เครื่องตัดผ้า CNC, เครื่องอัดลามิเนตด้วยความร้อน, สถานีเตรียมแกนดรอปสติทช์</td><td>การผลิตตัวเรือขนาดเต็มในวิธีการสร้างทั้งสามแบบ</td></tr>
-      <tr><td>การประกอบขอบบอร์ดและห้องลม</td><td>เครื่องเชื่อมอัด RF, สถานีเชื่อมยึดด้วยลมร้อน, อุปกรณ์จับยึดทดสอบการเติมลม</td><td>การผลิตชุดขอบบอร์ดและห้องลมขนาดเต็มพร้อมผนังกั้นและวาล์วทั้งหมด</td></tr>
-      <tr><td>การติดตั้งอุปกรณ์และเครื่องมือ</td><td>แม่พิมพ์เจาะร่องกล่องครีบ, อุปกรณ์จับยึดเชื่อมจุดติดตั้งสัมภาระและจุดจับ, สถานีตัดแผ่นรองดาดฟ้า</td><td>การติดตั้งครบชุด: ครีบ จุดติดตั้งสัมภาระ จุดเสียบสายกันหลุด จุดจับ แผ่นรองดาดฟ้า วาล์ว</td></tr>
-      <tr><td>ห้องติดตั้งเครื่องมือวัด</td><td>เซนเซอร์วัดความเร็ว GPS, ทรานสดิวเซอร์วัดความดัน, มาตรวัดความเร่ง, ชุดเทอร์โมคัปเปิล, เครื่องบันทึกข้อมูล</td><td>การติดตั้งและปรับเทียบเครื่องมือวัดสำหรับการทดลองใช้งานบนน้ำ</td></tr>
+      <tr><td>Hull fabrication</td><td>CNC fabric cutter, heat-lamination press, drop-stitch core preparation station</td><td>Full-scale hull production in all three construction types</td></tr>
+      <tr><td>Rail &amp; chamber assembly</td><td>RF welding press, hot-air tacking station, inflation test jig</td><td>Fabrication of full-size rail and chamber assemblies with all baffles and valves</td></tr>
+      <tr><td>Rigging &amp; fitting</td><td>Fin-box routing jig, cargo-mount and handle welding fixtures, deck-pad cutting station</td><td>Complete outfitting: fins, cargo mounts, leash plugs, handles, deck pads, valves</td></tr>
+      <tr><td>Instrumentation bay</td><td>GPS speed sensor, pressure transducers, accelerometers, thermocouple array, data-logger</td><td>Sea-trial instrumentation installation and calibration</td></tr>
     </tbody>
   </table>
 
-
-  <h2>เส้นทางการสร้างต้นแบบ — ทีละขั้นตอน</h2>
-
+  <h2>The prototype journey — step by step</h2>
   <ol>
-    <li><strong>การส่งมอบงานวิศวกรรม</strong> — ชุดเอกสารการออกแบบ (โมเดล 3 มิติ, รายงาน FEA, รายการวัสดุ, ตารางการขึ้นรูป) ได้รับการตรวจสอบอย่างเป็นทางการโดยหัวหน้าเวิร์กช็อปและวิศวกรโครงการ ข้อกังวลด้านการผลิตทั้งหมดจะถูกระบุและแก้ไขก่อนเริ่มการตัด</li>
-    <li><strong>การผลิตตัวเรือ</strong> — ตัวเรือถูกสร้างตามข้อกำหนดทางวิศวกรรม สำหรับการสร้างแบบชั้นเดียว: แกนดรอปสติทช์ถูกลามิเนตด้วยผิว PVC ตามข้อกำหนด สำหรับการสร้างแบบสองชั้น: ผิวเพิ่มเติมถูกประยุกต์ทับลามิเนตฐานก่อนตัดแบบ สำหรับการสร้างแบบ fusion: พารามิเตอร์การลามิเนตถูกโหลดจากใบกระบวนการที่ได้รับอนุมัติและตรวจสอบบนชิ้นงานตัวอย่างชิ้นแรก</li>
-    <li><strong>การผลิตขอบบอร์ด</strong> — ผ้าถูกตัดด้วยแม่แบบลาย CNC จากนั้นเชื่อม RF ให้เป็นขอบบอร์ดและห้องลมขนาดเต็ม แต่ละห้องถูกเติมลมจนถึงแรงดันทดสอบและปล่อยทิ้งไว้ 24 ชั่วโมงเพื่อการคงทรงตัวในช่วงแรก</li>
-    <li><strong>การประกอบและการติดตั้งอุปกรณ์</strong> — ตัวเรือและขอบบอร์ดถูกประกอบเข้าด้วยกัน กล่องครีบและจุดติดตั้งสัมภาระถูกติดตั้ง จุดเสียบสายกันหลุดและจุดจับถูกติดตั้ง วาล์วเติมลมถูกขันให้แน่น และแผ่นรองดาดฟ้าถูกวางและจัดตำแหน่ง</li>
-    <li><strong>การทดสอบแบบนิ่ง</strong> — ก่อนที่บอร์ดจะแตะน้ำ จะมีการทดสอบ: การตรวจสอบการลอยตัว (น้ำหนักเต็ม + ส่วนสำรอง 30%), การทดสอบคงแรงดันห้องลม, การทดสอบการรั่วของวาล์ว, การทดสอบแรงดึงจุดจับและจุดติดตั้ง</li>
-    <li><strong>โปรแกรมการทดลองบนน้ำ</strong> — การทดสอบในน้ำ 20 ชั่วโมง รายละเอียดด้านล่าง</li>
-    <li><strong>การทบทวนต้นแบบ</strong> — การประชุมลงนามรับรองอย่างเป็นทางการจัดขึ้นร่วมกับทีมวิศวกรรม ทีมผลิต และทีมคุณภาพ การเปลี่ยนแปลงการออกแบบที่จำเป็นทั้งหมดจะถูกบันทึกและนำไปใช้ในการปล่อยผลิตจริง</li>
+    <li><strong>Engineering handover</strong> — The design package (3D model, FEA report, bill of materials, layup schedule) is formally reviewed by the workshop lead and the project engineer. Any manufacturing concerns are flagged and resolved before cutting begins.</li>
+    <li><strong>Hull production</strong> — The hull is built according to the engineering specification. For single-layer construction: the drop-stitch core is laminated with the specified PVC skin. For double-layer construction: the additional skin is applied over the base laminate before the pattern is cut. For fused construction: the lamination parameters are loaded from the approved process sheet and verified on a first-off coupon.</li>
+    <li><strong>Rail fabrication</strong> — Fabric is cut using CNC-pattern templates, then RF-welded into full-size rails and chambers. Each chamber is inflated to test pressure and left for 24 h for initial stabilisation.</li>
+    <li><strong>Assembly &amp; rigging</strong> — Hull and rails are mated. Fin boxes and cargo mounts are fitted, leash plugs and carry handles are installed, the inflation valve is torqued in, and the deck pad is applied and aligned.</li>
+    <li><strong>Static tests</strong> — Before the pool is filled, it undergoes: structural check (full water load + 30 % reserve), chamber pressure-hold test, valve leak-down test, handle and mount pull-test.</li>
+    <li><strong>Sea trial programme</strong> — 20 hours of in-water testing, detailed below.</li>
+    <li><strong>Prototype review</strong> — A formal sign-off meeting is held with engineering, production, and quality teams. Any required design changes are documented and incorporated into the production release.</li>
   </ol>
 
-
   <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
-    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">โปรแกรมการทดลองบนน้ำ 20 ชั่วโมง — ตารางการทดสอบ</p>
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20-Hour Sea Trial Programme — Test Schedule</p>
     <div class="space-y-2 text-sm">
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">การฝึกคุ้นเคยบนน้ำนิ่ง — การรักษาทิศทางที่ความเร็วต่ำ การเลี้ยว การตรวจสอบท่ายืนและมุมทริม</span>
+        <span class="flex-1">Flat-water familiarisation — low-speed tracking, turning, stance and trim check</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">4 h</span>
-        <span class="flex-1">การทดสอบความเร็ว — ความเร็วสูงสุดที่ยืนยันด้วย GPS ความเร็วพายปกติ จังหวะพายต่อเนื่องที่อัตราการพาย 3 ระดับ</span>
+        <span class="flex-1">Speed trial — GPS-verified top speed, cruise speed, sustained pace at 3 stroke rates</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">การทดสอบการเลี้ยว — รัศมีการเลี้ยวแบบหมุนคว้างและแบบกวาด การตอบสนองของบอร์ด ทางกราบซ้ายและกราบขวา</span>
+        <span class="flex-1">Stability test — wall rigidity, floor firmness, and seating comfort under full load</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">การทดสอบคลื่นลม — วิ่งซ้ำผ่านคลื่นลม 0.5–1.0 ม. ติดตั้งมาตรวัดความเร่งที่ตำแหน่งท่ายืนของผู้ขี่</span>
+        <span class="flex-1">Chop test — repeated runs through 0.5–1.0 m chop; accelerometer at the rider stance position</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">การทดสอบเสถียรภาพ — มุมเอียงสถิตกับผู้ขี่ 4 คนที่น้ำหนักแตกต่างกัน น้ำหนักแบบไม่สมมาตรทางกราบขวา</span>
+        <span class="flex-1">Stability test — static heel angle with 4 riders of varying weight, offset load to starboard</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">การวิ่งทดสอบความทนทาน — วิ่งต่อเนื่อง 3 ชั่วโมงที่ความเร็วพายปกติ พร้อมตรวจสอบแรงดันห้องลม อุณหภูมิขอบบอร์ด และความเหนื่อยล้าของผู้ขี่</span>
+        <span class="flex-1">Endurance run — 3 h continuous at cruise pace; monitoring of chamber pressure, rail temperature, and rider fatigue</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">การตรวจสอบขั้นสุดท้าย — ตรวจสอบชิ้นส่วนทั้งหมดหลังการทดลอง ขันและตรวจสอบสลักเกลียวทั้งหมด บันทึกผลการตรวจสอบ</span>
+        <span class="flex-1">Final inspection — post-trial inspection of all components, tighten/check all fasteners, document findings</span>
       </div>
     </div>
   </div>
 
-
-  <h2>การสร้างต้นแบบตามสั่งสำหรับการใช้งานพิเศษ</h2>
-
-  <p>เวิร์กช็อปต้นแบบคือสถานที่ที่เราแก้ปัญหาที่บอร์ดผลิตรุ่นมาตรฐานไม่สามารถรองรับได้ ตัวอย่างล่าสุด ได้แก่:</p>
-
+  <h2>Custom prototyping for unique applications</h2>
+  <p>The Prototype Workshop is where we solve the problems that standard production pools cannot address. Recent examples include:</p>
   <ul>
-    <li>ซัพกู้ภัยสีสะท้อนการมองเห็นสูงสำหรับองค์กรค้นหาและกู้ภัย ซึ่งต้องการจุดจับแบบบูรณาการ จุดติดตั้งอุปกรณ์กู้ภัย และตัวเรือแรงลอยตัวสูงสำหรับการกู้ผู้ประสบภัย — ทั้งหมดถูกสร้างต้นแบบ ติดตั้ง และทดสอบที่โรงงานของเรา</li>
-    <li>ซัพทัวริ่งสำรวจระยะไกลสำหรับผู้รับเหมาสำรวจอุทกศาสตร์ พร้อมเสาเครื่องมือถอดได้ ช่องติดตั้งอุปกรณ์แบบปิดผนึก และแท่นติดตั้งทรานสดิวเซอร์แบบต่ำที่ออกแบบเพื่อลดแรงต้าน</li>
-    <li>ซัพตกปลาขนาดกะทัดรัดสำหรับฝูงเรือรีสอร์ต ซึ่งใช้ต้นแบบในการตรวจสอบเสถียรภาพ การติดตั้งอุปกรณ์ และความทนทานภายใต้การให้เช่ารายวัน ก่อนที่ลูกค้าจะตัดสินใจสั่งทั้งฝูงเรือสี่ลำ</li>
+    <li>A high-visibility rescue pool for a search-and-rescue organisation, requiring integrated grab handles, gear mounts for rescue equipment, and a high-buoyancy hull for casualty recovery — all prototyped, fitted, and tested at our facility.</li>
+    <li>An expedition touring pool for a hydrographic survey contractor, with a removable instrument mast, sealed gear ports, and a low-profile transducer mount designed to minimise drag.</li>
+    <li>A compact fishing pool for a resort fleet, where the prototype was used to validate stability, gear rigging, and durability under daily rental use before the client committed to a fleet of four.</li>
   </ul>
 
+  <h2>Our prototyping team</h2>
+  <p>The workshop is staffed by eight multi-skilled marine technicians, each cross-trained in at least two of the three core disciplines (hull, rail, rigging). The team lead is a master fabricator with 16 years of experience spanning custom one-off builds to production series. Every prototype is assigned a dedicated project engineer who serves as the single point of contact for the client throughout the build and trial process.</p>
 
-  <h2>ทีมงานสร้างต้นแบบของเรา</h2>
+  <h2>Client involvement</h2>
+  <p>We actively encourage our clients to attend key milestones during the prototype build — particularly the initial fit-out review and the sea trial. Your operational feedback during these stages is invaluable in fine-tuning the pool before it enters production. We do not build in a vacuum; we build in partnership with you.</p>
+  <p>The 20-hour water trial is also an opportunity for your team to familiarise themselves with the pool's operation, layout, and maintenance requirements, ensuring a smooth transition to service when the production pools are delivered.</p>
 
-  <p>เวิร์กช็อปมีช่างเทคนิคทางทะเลที่เชี่ยวชาญหลากหลาย 8 คน โดยแต่ละคนผ่านการฝึกอบรมข้ามสาขาอย่างน้อยสองในสามสาขาหลัก (ตัวเรือ ขอบบอร์ด การติดตั้งอุปกรณ์) หัวหน้าทีมเป็นช่างฝีมือชั้นสูงที่มีประสบการณ์ 16 ปี ครอบคลุมตั้งแต่งานสร้างตามสั่งแบบเดี่ยวจนถึงสายการผลิตแบบต่อเนื่อง
-  ต้นแบบทุกลำได้รับวิศวกรโครงการประจำซึ่งเป็นผู้ติดต่อเพียงจุดเดียวของลูกค้าตลอดกระบวนการสร้างและการทดลอง</p>
-
-
-  <h2>การมีส่วนร่วมของลูกค้า</h2>
-
-  <p>เราสนับสนุนให้ลูกค้าเข้าร่วมในช่วงสำคัญระหว่างการสร้างต้นแบบ — โดยเฉพาะการตรวจสอบการติดตั้งอุปกรณ์เบื้องต้นและการทดลองบนน้ำ ข้อเสนอแนะด้านการปฏิบัติงานของคุณในช่วงเหล่านี้มีค่าอย่างยิ่งในการปรับแต่งบอร์ดก่อนเข้าสู่การผลิต เราไม่ได้สร้างบอร์ดอย่างโดดเดี่ยว
-  เราสร้างบอร์ดร่วมกับคุณในฐานะพันธมิตร</p>
-
-  <p>การทดลองบนน้ำ 20 ชั่วโมงยังเป็นโอกาสให้ทีมงานของคุณทำความคุ้นเคยกับการควบคุมบอร์ด เค้าโครงดาดฟ้า และข้อกำหนดการบำรุงรักษา เพื่อให้การเปลี่ยนผ่านสู่การใช้งานจริงเป็นไปอย่างราบรื่นเมื่อบอร์ดรุ่นผลิตจริงถูกส่งมอบ</p>
 cta:
-  title: เริ่มโครงการต้นแบบของคุณ
-  subtitle: แจ้งรายละเอียดบอร์ดที่คุณต้องการ แล้วเราจะเสนอแผนการพัฒนาต้นแบบให้
-  button_text: ติดต่อทีมงานด้านต้นแบบของเรา
+  title: 'Start your prototype project'
+  subtitle: 'Tell us about the pool you need and we will propose a prototype development plan.'
+  button_text: 'Contact our prototyping team'
   button_link: /contact/

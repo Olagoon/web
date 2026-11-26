@@ -1,68 +1,68 @@
 meta:
-  title: 'Pensijilan — CE, ISO 9001 & Pematuhan | {SITE}'
-  description: 'Pensijilan kualiti olagoon: CE (EN ISO 25649), ISO 9001:2015, BSCI. Pematuhan dan keselamatan untuk pengilang SUP boleh tiup.'
+  title: 'Certifications — CE, ISO 9001 & Compliance | {SITE}'
+  description: 'olagoon quality certifications: CE (EN ISO 25649), ISO 9001:2015, BSCI. Compliance and safety for an inflatable pool manufacturer.'
   keywords:
-    - 'pensijilan ce sup'
-    - 'iso 9001 sup'
-    - 'pematuhan nautika'
-    - 'pensijilan papan dayung'
+    - 'ce certification pool'
+    - 'iso 9001 pool'
+    - 'nautical compliance'
+    - 'inflatable pool certification'
 hero:
-  tagline: 'Pensijilan & Piawaian'
-  title: 'Pensijilan Kualiti<br />& Piawaian Pematuhan'
-  subtitle: 'Pembuatan SUP olagoon disahkan mengikut piawaian keselamatan marin antarabangsa, sistem pengurusan kualiti, dan peraturan alam sekitar — CE, ISO 9001, UKCA, BSCI, dan REACH.'
+  tagline: Certifications & Standards
+  title: 'Quality Certifications<br />& Compliance Standards'
+  subtitle: 'olagoon pool manufacturing is certified to international marine safety standards, quality management systems, and environmental regulations — CE, ISO 9001, UKCA, BSCI, and REACH.'
   image:
     src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
-    alt: 'pensijilan kualiti olagoon dan dokumentasi pematuhan'
+    alt: olagoon quality certifications and compliance documentation
 content_certifications:
-  tagline: 'Pensijilan Kami'
-  title: 'Kualiti Tersijil,<br />Diakui di Peringkat Global'
-  subtitle: 'Setiap produk olagoon disokong oleh pensijilan yang menunjukkan komitmen kami terhadap kualiti, keselamatan, dan tanggungjawab alam sekitar.'
+  tagline: Our Certifications
+  title: 'Certified Quality,<br />Globally Recognized'
+  subtitle: 'Every olagoon product is backed by certifications that demonstrate our commitment to quality, safety, and environmental responsibility.'
   items:
-    - title: 'Tersijil CE'
-      description: 'Semua produk olagoon mematuhi keperluan penandaan CE Eropah untuk kraf air rekreasi, memastikan piawaian keselamatan, kesihatan, dan perlindungan alam sekitar dipenuhi.'
+    - title: 'CE Certified'
+      description: 'All olagoon products comply with European CE marking requirements for recreational watercraft, ensuring safety, health, and environmental protection standards are met.'
       icon: tabler:certificate
     - title: 'ISO 9001:2015'
-      description: 'Sistem pengurusan kualiti kami tersijil ISO 9001:2015, merangkumi reka bentuk, pembuatan, dan pengedaran kenderaan air boleh tiup serta peralatan marin.'
+      description: 'Our quality management system is ISO 9001:2015 certified, covering design, manufacturing, and distribution of inflatable watercraft and marine equipment.'
       icon: tabler:clipboard-check
-    - title: 'Penandaan UKCA'
-      description: 'Produk yang dijual di pasaran UK membawa penandaan UKCA, mengesahkan pematuhan dengan peraturan UK bagi peralatan marin dan kraf air peribadi.'
+    - title: 'UKCA Marked'
+      description: 'Products sold in the UK market carry UKCA marking, confirming compliance with UK regulations for marine equipment and personal watercraft.'
       icon: tabler:shield
-    - title: 'Patuh BSCI'
-      description: 'olagoon diaudit BSCI (Business Social Compliance Initiative), menunjukkan amalan pembuatan yang beretika, keadaan buruh yang adil, dan tanggungjawab rantai bekalan.'
+    - title: 'BSCI Compliant'
+      description: 'olagoon is BSCI (Business Social Compliance Initiative) audited, demonstrating ethical manufacturing practices, fair labor conditions, and supply chain responsibility.'
       icon: tabler:heart-handshake
-    - title: 'Patuh REACH'
-      description: 'Semua bahan yang digunakan dalam produk olagoon mematuhi peraturan REACH EU untuk keselamatan kimia, memastikan tiada bahan terhad dalam PVC, EVA, atau komponen kami.'
+    - title: 'REACH Compliant'
+      description: 'All materials used in olagoon products comply with EU REACH regulations for chemical safety, ensuring no restricted substances in our PVC, EVA, or components.'
       icon: tabler:flask
-    - title: 'Pengujian Bahan'
-      description: 'Fabrik diuji untuk kekuatan tegangan, rintangan koyakan, degradasi UV, dan prestasi retak-sejuk. Setiap kelompok pengeluaran disampel dan disahkan.'
+    - title: 'Material Testing'
+      description: 'Fabrics are tested for tensile strength, tear resistance, UV degradation, and cold-crack performance. Every production batch is sampled and verified.'
       icon: tabler:test-pipe
 content_factory:
-  tagline: 'Piawaian Kilang'
-  title: 'Kecemerlangan Pembuatan<br />— Dibina Mengikut Spesifikasi'
-  subtitle: 'Kemudahan kami seluas 12,000 m² beroperasi di bawah protokol kawalan kualiti yang ketat pada setiap peringkat pengeluaran.'
+  tagline: Factory Standards
+  title: 'Manufacturing Excellence<br />— Built to Specification'
+  subtitle: 'Our 12,000 m² facility operates under strict quality control protocols at every stage of production.'
   list:
-    - 'Pemeriksaan Bahan Masuk: Semua bahan mentah — fabrik PVC, buih EVA, pelekat, perkakasan — diuji terhadap spesifikasi sebelum memasuki pengeluaran.'
-    - 'Kawalan Kualiti Dalam Proses: Setiap peringkat pengeluaran mempunyai titik semakan QC yang didokumenkan. Kekuatan kimpalan, penjajaran jahitan, pemasangan injap, dan tork kelengkapan disahkan dalam talian.'
-    - 'Ujian Tekanan: Setiap kebuk boleh tiup diuji tekanan pada tekanan nominal 1.25× selama 24–48 jam. Kejatuhan tekanan mesti kekal di bawah 5% untuk lulus.'
-    - 'Pemeriksaan Akhir: Produk siap diperiksa untuk ketepatan dimensi, kemasan kosmetik, kelengkapan aksesori, dan integriti pembungkusan sebelum dihantar.'
-    - 'Kebolehsurihan Kelompok: Setiap produk membawa nombor siri yang dipautkan kepada rekod kelompok pengeluaran, membolehkan kebolehsurihan penuh daripada bahan mentah hingga barang siap.'
+    - 'Incoming Material Inspection: All raw materials — PVC fabric, EVA foam, adhesives, hardware — are tested against specifications before entering production.'
+    - 'In-Process Quality Control: Every production stage has documented QC checkpoints. Weld strength, seam alignment, valve installation, and fitting torque are verified inline.'
+    - 'Pressure Testing: Every inflatable chamber is pressure-tested at 1.25× rated pressure for 24–48 hours. Pressure drop must stay below 5% for a passing grade.'
+    - 'Final Inspection: Completed products are inspected for dimensional accuracy, cosmetic finish, accessory completeness, and packaging integrity before shipping.'
+    - 'Batch Traceability: Every product carries a serial number linked to production batch records, enabling full traceability from raw material to finished goods.'
 content_safety:
-  tagline: 'Piawaian Keselamatan Marin'
-  title: 'Keselamatan Didahulukan<br />— Direka untuk Operasi yang Boleh Dipercayai'
-  subtitle: 'Produk olagoon direka dan diuji untuk memenuhi piawaian keselamatan marin antarabangsa bagi penggunaan komersial dan rekreasi.'
+  tagline: Marine Safety Standards
+  title: 'Safety First<br />— Designed for Reliable Operation'
+  subtitle: 'olagoon products are designed and tested to meet international marine safety standards for commercial and recreational use.'
   items:
     - title: 'EN ISO 25649'
-      description: 'SUP boleh tiup mematuhi piawaian EN ISO 25649 untuk pembinaan, kestabilan, keapungan, dan kapasiti beban.'
+      description: 'inflatable pools comply with EN ISO 25649 standards for construction, stability, buoyancy, and load capacity.'
       icon: tabler:sailboat
-    - title: 'Pematuhan SOLAS'
-      description: 'Peralatan keselamatan dan peralatan menyelamat nyawa memenuhi keperluan SOLAS (Safety of Life at Sea) jika terpakai.'
+    - title: 'SOLAS Compliance'
+      description: 'Safety equipment and life-saving appliances meet SOLAS (Safety of Life at Sea) requirements where applicable.'
       icon: tabler:lifebuoy
 cta:
-  title: 'Perlukan produk tersijil untuk projek anda?'
-  subtitle: 'Hubungi pasukan kami untuk membincangkan keperluan pensijilan, dokumentasi, dan pematuhan untuk pasaran anda.'
+  title: 'Need certified products for your project?'
+  subtitle: 'Contact our team to discuss certification requirements, documentation, and compliance for your market.'
   actions:
     - variant: primary
-      text: 'Minta dokumen pensijilan'
+      text: Request certification docs
       href: /contact/
-    - text: 'Lihat halaman kualiti kami'
+    - text: View our quality page
       href: /quality/

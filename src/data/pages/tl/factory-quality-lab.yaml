@@ -1,68 +1,68 @@
 meta:
-  title: 'Quality Lab — Testing at Quality Assurance | {SITE}'
-  description: 'Independiyenteng quality lab na may mga prosesong ISO 9001 sa olagoon: bawat unit ay sinusubukan bago ipadala upang garantisahin ang kalidad ng inflatable SUP.'
+  title: 'Quality Lab — Testing & Quality Assurance | {SITE}'
+  description: 'Independent quality lab with ISO 9001 processes at olagoon: every unit tested before shipment to guarantee inflatable pools quality.'
   keywords:
-    - 'quality control ng sup'
-    - 'testing lab ng paddle board'
-    - 'iso 9001 sup factory'
-    - 'kalidad ng inflatable sup'
+    - 'pool quality control'
+    - 'inflatable pool testing lab'
+    - 'iso 9001 pool factory'
+    - 'inflatable pools quality'
 hero:
-  tagline: 'Laboratoryo ng Kontrol ng Kalidad'
-  title: 'Testing Laboratory at Quality Assurance'
-  subtitle: 'Independiyenteng quality lab na may mga prosesong ISO 9001 — bawat unit ay sinusubukan bago ipadala'
+  tagline: Quality Control Laboratory
+  title: Testing Laboratory & Quality Assurance
+  subtitle: Independent quality lab with ISO 9001 processes — every unit tested before shipment
 
-intro: 'Nagpapatakbo ang olagoon ng isang nakalaang quality control laboratory na gumagana nang independiyente mula sa produksyon. Bawat batch ng hilaw na materyales at bawat natapos na board ay dumadaan sa naka-dokumentong inspection protocol bago palayain. Ang aming QC team ay nag-uulat nang direkta sa pamunuan, na nagsisiguro ng walang-kinikiling desisyon sa kalidad.'
+intro: olagoon operates a dedicated quality control laboratory that operates independently from production. Every batch of raw material and every finished pool passes through documented inspection protocols before release. Our QC team reports directly to management, ensuring impartial quality decisions.
 
 highlights:
-  - value: '100%'
-    label: 'Mga unit na pressure-tested'
-    detail: 'Bawat chamber, bawat board'
-  - value: '24–48 h'
-    label: 'Tagal ng air retention test'
-    detail: 'Sa 1.25× na rated na presyon'
+  - value: 100%
+    label: Units pressure-tested
+    detail: Every chamber, every pool
+  - value: 24–48 h
+    label: Air retention test duration
+    detail: At 1.25× rated pressure
   - value: '&lt;5%'
-    label: 'Pinakamataas na pinapayagang pagbaba ng presyon'
-    detail: 'Sa buong 24–48 oras na paghawak'
-  - value: 'AQL 2.5'
-    label: 'Hangganan ng malaking depekto'
-    detail: 'Ayon sa sampling ng ISO 2859'
+    label: Max allowed pressure drop
+    detail: Over the 24–48 hour hold period
+  - value: AQL 2.5
+    label: Major defect threshold
+    detail: Per ISO 2859 sampling
 
 test_procedures:
-  - title: 'Inspeksyon ng Hilaw na Materyales'
-    description: 'Bawat papasok na batch ng PVC, drop-stitch fabric, at hardware ay sinusubukan bago tanggapin. Ang tensile strength (ASTM D751), tear resistance (ISO 4674), at UV resistance ay bineberipika. Ang mga materyales na hindi tumutugod ay iniihiwalay at ibinabalik.'
+  - title: Raw Material Inspection
+    description: Every incoming batch of PVC, drop-stitch fabric, and hardware is tested before acceptance. Tensile strength (ASTM D751), tear resistance (ISO 4674), and UV resistance are verified. Non-conforming materials are quarantined and returned.
     standards:
-      - 'ASTM D751 (tensile)'
-      - 'ISO 4674 (tear)'
-      - 'ISO 4892 (UV)'
-  - title: 'Mga QC Checkpoint sa Proseso'
-    description: 'Ang mga production operator ay nagsasagawa ng self-inspection sa bawat yugto. Ang mga QC auditor ay nagsasagawa ng random sampling sa buong shift. Ang mga weld peel test ay isinasagawa bawat 50 unit. Ang dimensional check ay ginagawa sa bawat ika-20 panel.'
+      - ASTM D751 (tensile)
+      - ISO 4674 (tear)
+      - ISO 4892 (UV)
+  - title: In-Process QC Checkpoints
+    description: Production operators perform self-inspection at each stage. QC auditors conduct random sampling throughout the shift. Weld peel tests are performed every 50 units. Dimensional checks happen every 20th panel.
     standards:
-      - 'ASTM D751 (peel)'
-      - 'Internal na 100-point checklist'
-      - 'Sampling ng ISO 2859'
-  - title: '24–48 Oras na Air Retention Test'
-    description: 'Bawat tube chamber ay pinipresyar sa 125% ng rated na presyon at hinihintay nang 24–48 oras. Ang mga pressure sensor ay tuloy-tuloy na nagla-log na may temperature compensation. Anumang chamber na lumampas sa 5% na pagbaba ng presyon ay nagti-trigger ng automatikong muling inspeksyon ng batch.'
+      - ASTM D751 (peel)
+      - Internal 100-point checklist
+      - ISO 2859 sampling
+  - title: 24–48 Hour Air Retention Test
+    description: Every tube chamber is inflated to 125% of rated pressure and held for 24–48 hours. Pressure sensors log continuously with temperature compensation. Any chamber exceeding 5% pressure drop triggers automatic batch re-inspection.
     standards:
-      - 'EN ISO 25649'
-      - 'CE 2013/53/EU'
-  - title: 'Load at Balance Testing'
-    description: 'Ang mga natapos na board ay sinusubukan sa pinakamataas na rated na kapasidad para sa stability at rigidity. Bawat board ay sumasailalim sa water testing bago ang pag-apruba sa panghuling inspeksyon.'
+      - EN ISO 25649
+      - CE 2013/53/EU
+  - title: Load & Balance Testing
+    description: Completed pools are tested at maximum rated capacity for stability and rigidity. Each pool undergoes water testing before final inspection approval.
     standards:
-      - 'ISO 12217'
-      - 'CE 2013/53/EU'
+      - ISO 12217
+      - CE 2013/53/EU
 
 equipment:
-  - name: 'Unibersal na Makinang Pagsubok (tensile)'
-    spec: '5 kN, sumusunod sa ASTM D751'
-  - name: 'Pressure Decay Tester'
-    spec: 'Maraming channel, 0–50 psi, pagtatala ng datos'
-  - name: 'UV Weathering Chamber'
-    spec: 'ISO 4892, 1,000 h na cycle'
-  - name: 'Panukat ng Kapal (digital)'
-    spec: '0.01 mm resolution'
-  - name: 'Peel Tester (weld)'
-    spec: 'Motorizado, 50 N kapasidad'
-  - name: 'Temperature Chamber'
-    spec: '-40 °C hanggang +100 °C'
-  - name: 'Leak Detection Tank'
-    spec: '6 m × 2 m, may ilaw'
+  - name: Universal Testing Machine (tensile)
+    spec: 5 kN, ASTM D751 compliant
+  - name: Pressure Decay Tester
+    spec: Multi-channel, 0–50 psi, datalogging
+  - name: UV Weathering Chamber
+    spec: ISO 4892, 1,000 h cycles
+  - name: Thickness Gauge (digital)
+    spec: 0.01 mm resolution
+  - name: Peel Tester (weld)
+    spec: Motorized, 50 N capacity
+  - name: Temperature Chamber
+    spec: -40 °C to +100 °C
+  - name: Leak Detection Tank
+    spec: 6 m × 2 m, illuminated

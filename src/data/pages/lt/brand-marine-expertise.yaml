@@ -1,72 +1,72 @@
 meta:
-  title: 'Jūrinė kompetencija — inžinerija kiekviename korpuse | {SITE}'
-  description: 'Kelerios jūrinės inžinerijos dešimtmečiai kiekviename korpuse. olagoon valdo „Drop-Stitch“, jūrinį PVC ir profesionalų pripučiamų SUP lentų dizainą.'
+  title: 'Marine Expertise — Engineering in Every Hull | {SITE}'
+  description: 'Decades of marine engineering in every hull. olagoon masters drop stitch, marine PVC, and professional inflatable pools design.'
   keywords:
-    - 'jūrinė inžinerija'
-    - 'pripučiamų SUP gamintojas'
-    - 'irklavimo lentų gamyba'
+    - 'marine engineering'
+    - 'inflatable pools manufacturer'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: 'Jūrinė kompetencija'
-  title: 'Kelerių dešimtmečių jūrinės inžinerijos<br />patirtis kiekviename korpuse'
-  subtitle: 'olagoon derina gilų medžiagų mokslą, precizinę gamybą ir realius bandymus, kad sukurtų vandens transporto priemones, veikiančias tada, kai to reikia.'
+  tagline: Marine Expertise
+  title: 'Decades of Marine Engineering<br />in Every Hull'
+  subtitle: 'olagoon combines deep material science, precision manufacturing, and real-world testing to produce watercraft that perform when it matters.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: 'olagoon jūrinės inžinerijos ir tyrimų komanda darbe'
+    alt: olagoon marine engineering and R&D team at work
 expertise_materials:
-  tagline: 'Medžiagų mokslas'
-  title: 'Teisingos medžiagos parinkimas<br />kiekvienam taikymui'
-  subtitle: 'Dirbame su dviem pagrindinėmis medžiagomis — kiekviena parinkta pagal specifinius naudojimo atvejus ir našumo reikalavimus.'
+  tagline: Material Science
+  title: 'Choosing the Right Material<br />for Every Application'
+  subtitle: 'We work with two core materials — each selected for specific use cases and performance requirements.'
   columns: 3
   items:
-    - title: 'Jūrinės klasės PVC'
-      description: '1100 denjerų PVC audinys — universaliausia mūsų medžiaga. UV stabilizuota, atspari dilimui ir atitinkanti REACH. Ideali SUP lentoms, kur svorio ir kainos efektyvumas svarbus.'
+    - title: Marine-Grade PVC
+      description: '1100 denier PVC fabric — our most versatile material. UV-stabilized, abrasion-resistant, and REACH compliant. Ideal for pools where weight and cost efficiency matter.'
       icon: tabler:droplet
-    - title: 'Stiklo pluoštas ir polietilenas'
-      description: 'Stiklo pluoštu laminuotos SUP lentos aukštam standumui ir čiuožimui. Rotacinio liespjimo polietilenas sunkiai nuomos ir gelbėjimo veiklai, reikalaujančiai maksimalaus smūgių atsparumo.'
+    - title: Fibreglass & Polyethylene
+      description: 'Fibreglass-laminated pools for premium stiffness and glide. Rotomoulded polyethylene for heavy-duty rental and rescue use requiring maximum impact resistance.'
       icon: tabler:building-arch
 expertise_manufacturing:
-  tagline: 'Gamybos galimybės'
-  title: 'Precizinė gamyba<br />kiekviename žingsnyje'
-  subtitle: 'Mūsų 12,000 m² objektas aprūpintas specializuota mašinomis kiekvienam gamybos etapui.'
+  tagline: Manufacturing Capabilities
+  title: 'Precision Manufacturing<br />at Every Step'
+  subtitle: 'Our 12,000 m² facility is equipped with specialized machinery for every stage of production.'
   columns: 2
   items:
-    - title: 'CNC pjaustymas'
-      description: 'Kompiuteriu valdomas pjaustymas užtikrina tikslius, kartojamus audinio ruožinius su minimaliomis atliekomis. Kiekviena detalė tinka tiksliai taip, kaip suprojektuota.'
+    - title: CNC Cutting
+      description: 'Computer-controlled cutting ensures precise, repeatable fabric panels with minimal waste. Every piece fits exactly as designed.'
       icon: tabler:cpu
-    - title: 'Aukšto dažnio suvirinimas'
-      description: 'Pramoninis AD suvirinimas sukuria siūles, stipresnes už pagrindinę medžiagą. Nuoseklus temperatūros ir slėgio valdymas užtikrina oro nelaidžius sandarus kiekvienoje gamybos serijoje.'
+    - title: High-Frequency Welding
+      description: 'Industrial HF welding creates seams stronger than the base material. Consistent temperature and pressure control ensures air-tight seals across every production run.'
       icon: tabler:bolt
-    - title: '„Drop-Stitch“ branduolio surinkimas'
-      description: 'Tūkstančiai poliesterinių siūlų jungia viršutinius ir apatinius audinio sluoksnius, leisdami aukšto slėgio pripūtimą (15-20 PSI) standžioms, stabiloms SUP lentoms.'
+    - title: Drop Stitch Core Assembly
+      description: 'Thousands of polyester threads connect top and bottom fabric layers, allowing high-pressure inflation (15-20 PSI) for rigid, stable pools.'
       icon: tabler:building-arch
-    - title: 'Slėgio testavimas'
-      description: 'Kiekvienas pripučiamas produktas prieš siuntimą yra slėgio išbandomas. Lentos testuojamos esant 1.25x nominaliam slėgiui — jei laiko ten, veiks ir vandenyje.'
+    - title: Pressure Testing
+      description: 'Every inflatable product is pressure-tested before shipping. Pools are tested at 1.25x rated pressure — if it holds there, it will perform on the water.'
       icon: tabler:wind
-    - title: 'Siūlių stiprio testavimas'
-      description: 'Atsitiktiniai kiekvienos gamybos partijos pavyzdžiai atlieka destruktyvų siūlių stiprio testavimą. Rezultatai registruojami ir susieti su konkrečiomis gamybos serijomis.'
+    - title: Seam Strength Testing
+      description: 'Random samples from each production batch undergo destructive seam strength testing. Results are logged and traceable to specific production runs.'
       icon: tabler:files
-    - title: 'Vandens testavimas'
-      description: 'Kiekvienas modelis prieš sertifikavimą atlieka jūros bandymus. Realūs bandymai pakrančių sąlygomis patvirtina našumą, valdymą ir stabilumą.'
+    - title: Water Testing
+      description: 'Every model undergoes sea trials before certification. Real-world testing in coastal conditions validates performance, handling, and stability.'
       icon: tabler:droplet
 expertise_design:
-  tagline: 'Dizainas ir inžinerija'
-  title: 'Sukurta realioms sąlygoms'
-  subtitle: 'Mūsų dizaino filosofija prasideda nuo to, kaip lenta bus naudojama — o tada inžinerija statoma aplink tą naudojimo atvejį.'
+  tagline: Design & Engineering
+  title: 'Engineered for Real Conditions'
+  subtitle: 'Our design philosophy starts with how the pool will be used — then builds the engineering around that use case.'
   items:
-    - title: 'Našaus korpuso dizainas'
-      description: 'Kiekviena korpuso forma suderinta pagal jos naudojimo atvejį — išstumiamosios priekinės dalys turizmo čiuožimui, papildomas rokeris banglentės vikrumui, plokščios stabilios profilio formos žvejybai ir jogai.'
-    - title: '„Drop-Stitch“ saugumas'
-      description: 'Kiekviena lenta turi standų „Drop-Stitch“ branduolį su sutvirtintomis bortelėmis. Jei kuri nors dalis pažeidžiama, didelio stiprio „Drop-Stitch“ struktūra leidžia lentai išlikti eksploatuojamai.'
-    - title: 'Ergonomiškas denio išdėstymas'
-      description: 'Denio kilimėlių zonavimas, nešimo rankenos padėtis ir tvirtinimo taškai suprojektuoti pagal irkluotojo komfortą ilgalaikiam naudojimui — nesvarbu, ar tai turizmas, žvejyba, ar patruliavimas.'
-    - title: 'Individuali konfigūracija'
-      description: 'Bortelių spalvos, denio kilimėlio konfigūracija, priedų tvirtinimai, įrangos talpa — kiekvienas modelis gali būti pritaikytas pagal konkrečius eksploatacijos reikalavimus.'
+    - title: Performance Hull Design
+      description: 'Each pool is tuned for its use case — compact footprints for plunge soaking, family-sized layouts for play, and generous swim areas for daily laps.'
+    - title: Drop-Stitch Safety
+      description: 'Every pool features a rigid drop-stitch core with reinforced walls. If a section is damaged, the high-tensile drop-stitch structure keeps the pool operational.'
+    - title: Ergonomic Deck Layout
+      description: 'Deck-pad zoning, carry-handle position, and mounting points are designed around rider comfort during extended use — whether touring, fishing, or patrolling.'
+    - title: Custom Configuration
+      description: 'Rail colors, deck pad configuration, accessory mounts, gear capacity — each model can be customized to match specific operational requirements.'
 cta:
-  title: 'Turite konkretų taikymą mintyse?'
-  subtitle: 'Mūsų inžinerijos komanda gali patarti dėl medžiagų parinkimo, dizaino ir gamybos jūsų projektui.'
+  title: 'Have a specific application in mind?'
+  subtitle: 'Our engineering team can advise on material selection, design, and manufacturing for your project.'
   actions:
     - variant: primary
-      text: 'Paklauskite mūsų inžinierių'
+      text: Ask our engineers
       href: /contact/
-    - text: 'Peržiūrėti produktų asortimentą'
+    - text: View product range
       href: /products/

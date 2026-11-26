@@ -1,263 +1,274 @@
 meta:
-  title: 'Fabrikk & produksjon — oppblåsbar SUP-OEM | {SITE}'
-  description: 'Besøk afars fabrikk: anlegg på 12 000 m² med skjæring, HF-sveising, trykk, montering og kvalitetslabb for OEM/ODM-produksjon av oppblåsbare SUPer.'
+  title: 'Factory & Manufacturing — inflatable pools OEM | {SITE}'
+  description: 'Tour the olagoon factory: 12,000 m² plant with cutting, RF welding, printing, assembly, and quality lab for inflatable pools OEM/ODM manufacturing.'
   keywords:
-    - 'SUP-fabrikk Kina'
-    - 'oppblåsbar paddle board fabrikk'
-    - 'OEM SUP-produsent'
-    - 'oppblåsbar SUP produksjon'
+    - 'pool factory china'
+    - 'inflatable pool factory'
+    - 'oem pool manufacturer'
+    - 'inflatable pools manufacturing'
 hero:
-  tagline: Fabrikk
-  title: Fabrikk og produksjon
-  subtitle: 12 000 m² integrert produksjon — fra råvare til ferdig brett
+  tagline: Factory
+  title: Factory & Manufacturing
+  subtitle: 12,000 m² of integrated manufacturing — from raw material to finished pool
+
 intro:
-  - >-
-    Som produksjonsarmen til **Olagoon LLC** kontrollerer olagoons Qingdao-operasjonsteam hvert steg i produksjonen — fra mottak av rå PVC- og glassfibermaterialer til endelig forhåndskontroll av det ferdige brettet. Produksjonsanlegget vårt i Qingdao Economic Development Zone dekker 12 000
-    kvadratmeter og rommer dedikerte verksteder for PVC-kutting, rørvarmforsegling, FRP-formfremstilling, digitalt SUP-trykk, sluttmontering og kvalitetstesting.
-  - >-
-    Ved å integrere design, ingeniørkunst, prototyping, produksjon og testing under ett tak eliminerer vi ineffektiviteten ved kontraktsproduksjon og opprettholder direkte kontroll over byggekvalitet, materialvalg og leveringstider. Hvert brett som forlater verkstedet vårt er bygget av våre folk, på
-    vårt utstyr, etter våre standarder.
+  - As the production arm of **Olagoon LLC**, olagoon's Qingdao Operation Team controls every stage of production — from the arrival of raw PVC and fiberglass materials to the final pre-delivery inspection of the finished pool. Our manufacturing facility in the Qingdao Economic Development Zone spans 12,000 square metres and houses dedicated workshops for PVC cutting, tube heat sealing, FRP mould fabrication, pool digital printing, final assembly, and quality testing.
+  - By integrating design, engineering, prototyping, manufacturing, and testing under one roof, we eliminate the inefficiencies of contract manufacturing and maintain direct control over build quality, material selection, and delivery timelines. Every pool that leaves our workshop is built by our people, on our equipment, to our standards.
+
 stats:
-  - value: 12 000 m²
-    label: Produksjonsgulv
+  - value: 12,000 m²
+    label: Manufacturing floor
   - value: 200+
-    label: Kvalifiserte arbeidere
-  - value: 15 000+
-    label: SUP-brett produsert årlig
+    label: Skilled workers
+  - value: 15,000+
+    label: pools produced annually
   - value: ISO 9001
-    label: Kvalitetssertifisert
-intelligence_tagline: Fabrikkintelligens
-intelligence_title: Utforsk våre produksjonsmuligheter
+    label: Quality certified
+
+intelligence_tagline: Factory Intelligence
+intelligence_title: Explore Our Manufacturing Capabilities
+
 intelligence_cards:
-  - title: Produksjonskapasitet
+  - title: Production Capacity
     icon: C
     icon_bg: blue
-    desc: Anlegg på 12 000 m² som produserer 15 000+ SUP per år på SUP-brett- og sikkerhetsutstyrslinjer. 200+ arbeidere, 2 skift.
+    desc: '12,000 m² facility producing 15,000+ pools/yr across pools and safety equipment lines. 200+ workers, 2 shifts.'
     metrics:
       - label: MOQ
-        value: 'SUP: 5–10'
-      - label: Leveringstid
-        value: 30–45 dager
+        value: 'Samples 5–10 · Bulk 50+'
+      - label: Lead Time
+        value: '12–16 weeks (bulk)'
     link: /factory/capacity/
-    link_label: Fullstendige kapasitetsdetaljer →
-  - title: Kvalitetslaboratorium og testing
+    link_label: Full capacity details →
+  - title: Quality Lab & Testing
     icon: Q
     icon_bg: green
-    desc: 'Uavhengig kvalitetskontrollaboratorium med 4 testfaser: råvareinspeksjon (strekk, riv, UV), 24–48 timers trykkhold ved 1,25x nominelt trykk, sømavskallingstesting og last-/balanseverifisering på hvert brett.'
+    desc: 'Independent QC lab with 4 testing stages: raw material inspection (tensile, tear, UV), 24–48h pressure hold at 1.25x rated pressure on every pool, load/balance verification, and seam peel strength testing by batch sampling every 50 units (ASTM D751).'
     metrics:
-      - label: Laboratorieutstyr
-        value: Trekkstyrkeprøver, kammer, lekkasjetank
-      - label: Standarder
-        value: ISO 9001, CE, AS 1799
+      - label: Lab Equipment
+        value: 'Tensile tester, temp chamber, leak tank'
+      - label: Standards
+        value: 'ISO 9001, CE, AS 1799'
     link: /factory/quality-lab/
-    link_label: Laboratorieprosedyrer og -utstyr →
-  - title: OEM/ODM-kapasitet
+    link_label: 'Lab procedures & equipment →'
+  - title: OEM/ODM Capability
     icon: O
     icon_bg: purple
-    desc: 'OEM/ODM-tjenester fra ende til ende: design av tilpassede former, emballasje med privat merke, tilpassede brettfarger, dekkgrafikk (digital- og silketrykk) og drop shipping-logistikk.'
+    desc: 'End-to-end OEM/ODM services: custom mould design, private-label packaging, custom pool colors, deck graphics (digital & screen printing), and drop-ship logistics.'
     metrics:
-      - label: Sertifiseringer
-        value: ISO 9001, BSCI, CE, REACH
-      - label: Frakt
-        value: FOB, CIF, DDP til 50+ land
+      - label: Certifications
+        value: 'ISO 9001, BSCI, CE, REACH'
+      - label: Shipping
+        value: 'FOB, CIF, DDP to 50+ countries'
     link: /factory/oem-capability/
-    link_label: Fullstendige OEM-tjenester →
+    link_label: 'Full OEM services →'
+
 workshops_section:
-  tagline: Verksteder
-  title: Produksjonsverksteder
+  tagline: Workshops
+  title: Manufacturing Workshops
   workshops:
-    - title: PVC-kutting og materialforberedelse
-      description: Automatiske CNC-kuttmaskiner bearbeider PVC- og drop-stitch-stoffer med submillimeter-presisjon. Datamaskinoptimalisert plassering minimerer materialsvinn og sikrer at hver panel oppfyller sine dimensjonsspesifikasjoner før sveising.
+    - title: PVC Cutting & Material Preparation
+      description: Automatic CNC cutting machines process PVC and drop-stitch fabrics with sub-millimetre precision. Computer-optimised nesting minimises material waste and ensures every panel meets its dimensional specification before welding.
       image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
-    - title: Rørsveising og varmeforsegling
-      description: Dedikert sveiseverksted med varmluftssveisemaskiner og dielektriske RF-presser. Varmluftssveisere føyer sammen og smelter PVC-rørkamre, mens RF-sveising produserer høyfaste, lufttette sømmer som overgår EN ISO 25649-kravene.
+    - title: Tube Welding & Heat Sealing
+      description: Dedicated welding workshop with heat sealing machines and RF dielectric presses. Hot-air heat sealers bond and fuse PVC tube chambers, while RF welds produce high-strength airtight seams that exceed EN ISO 25649 requirements.
       image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    - title: FRP-former og komposittfremstilling
-      description: Tilpassede FRP-former til SUP-komponenter produseres med håndopplegging av glassfiber med polyester- og vinylesterharpikssystemer. Hvert lag håndrulles og vakuumpakkes for jevn kvalitet. Gelcoat-sprøytebod gir en høyglanset, UV-bestandig marin overflate.
-      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-warehouse-storage.webp
-    - title: SUP-trykk og dekorasjon
-      description: SUP-brett dekoreres med digitaltrykk for helfarget grafikk og silketrykk for logoer og gjentakende mønstre. Digitale skrivere produserer fotokvalitets dekkdesign, mens silketrykk leverer holdbare, livlige merkevaremerker.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    - title: Sluttmontering og rigging
-      description: Monteringslinje der drop-stitch-kjerner ferdigstilles med lister, EVA-dekk påføres, og finner, ventiler og tilbehør monteres. Hvert brett følger en 100-punkts monteringssjekkliste som teamleder signerer.
+    - title: FRP Moulds & Composite Fabrication
+      description: Custom FRP moulds for pool components, produced using hand-lay-up fiberglass moulding with polyester and vinylester resin systems. Each layer is hand-rolled and vacuum-bagged for consistent quality. Gelcoat spray booth provides a high-gloss, UV-resistant marine finish.
+      image: https://assets.olagoon.com/images/olagoon/products/family-oasis.webp
+    - title: pool Printing & Decoration
+      description: pools are decorated using digital printing for full-colour graphics and screen printing for logos and repeating patterns. Digital printers produce photo-quality deck designs, while screen printing delivers durable, vivid brand marks.
+      image: https://assets.olagoon.com/images/olagoon/products/family-oasis.webp
+    - title: Final Assembly & Rigging
+      description: Assembly line where drop-stitch cores are finished with rails, wall surfaces are applied, and valves, fittings, and accessories are installed. Each pool follows a 100-point assembly checklist signed off by the team lead.
       image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
-    - title: Kvalitetstesting og inspeksjon
-      description: Hvert ferdig brett gjennomgår obligatorisk lufttetthetstesting, sømrivningskontroll og full systemkontroll før frakt. Kvalitetslaben vår opererer uavhengig av produksjonen og rapporterer direkte til ledelsen.
+    - title: Quality Testing & Inspection
+      description: Every completed pool undergoes mandatory air-retention testing and a full systems check before shipping, with seam peel strength verified by batch sampling every 50 units. Our quality lab operates independently from production and reports directly to management.
       image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
+
 equipment_section:
-  tagline: Utstyr
-  title: Nøkkelproduksjonsutstyr
-  view_full: Se fullstendig utstyrsliste →
+  tagline: Equipment
+  title: Key Manufacturing Equipment
+  view_full: View full equipment list →
   view_full_link: /factory/equipment/
   items:
-    - name: Automatisk PVC-kuttmaskin
-      spec: CNC-styrt, 0,1 mm nøyaktighet
-    - name: Varmluftssveisemaskin
-      spec: Varmluft, 200–300 °C, for rørfesting
-    - name: Dielektrisk RF-presse
-      spec: 15 kW, lufttett sømsveising
-    - name: Glassfiber håndopplegningsformer
-      spec: SUP-brettformer opptil 14 fot
-    - name: Digital skriver
-      spec: Helfarget SUP-dekkgrafikk
-    - name: Silketrykkmaskin
-      spec: Flerfarget logotrykk
+    - name: Automatic PVC Cutting Machine
+      spec: CNC-controlled, 0.1 mm accuracy
+    - name: Heat Sealing Machine
+      spec: Hot-air, 200–300 °C, for tube bonding
+    - name: RF Dielectric Welding Press
+      spec: 15 kW, airtight seam welding
+    - name: Fiberglass Hand-Lay-Up Moulds
+      spec: pools moulds up to 14 ft
+    - name: Digital Printer
+      spec: Full-colour pool deck graphics
+    - name: Screen Printing Machine
+      spec: Multi-colour logo printing
+
 qc_section:
-  tagline: Kvalitetskontroll
-  title: Test- og kvalitetssikringsprosess
-  subtitle: Hvert brett gjennomgår obligatorisk testing før frakt. Kvalitetslaben vår opererer uavhengig av produksjonen og rapporterer direkte til ledelsen.
+  tagline: Quality Control
+  title: Testing & Quality Assurance Process
+  subtitle: Every pool undergoes mandatory testing before shipping. Our quality lab operates independently from production and reports directly to management.
   steps:
     - step: '1'
-      title: Råvareinspeksjon
-      desc: PVC- og drop-stitch-stoffer gjennomgår strekktesting (ASTM D751), rivingsspredning og UV-bestandighetsverifisering før en batch slippes inn i produksjonen.
+      title: Raw Material Inspection
+      desc: PVC and drop-stitch fabrics undergo tensile testing (ASTM D751), tear propagation, and UV resistance verification before any batch enters production.
     - step: '2'
-      title: 24–48-timers lufttetthetstest
-      desc: Hvert rørkammer pumpes til 125 % av nominelt trykk og holdes i 24–48 timer. Trykkfall over 5 % utløser automatisk avvisning og ny søminspeksjon.
+      title: 24–48 Hour Air Retention Test
+      desc: Every tube chamber is inflated to 125% of rated pressure and held for 24–48 hours. Pressure drop exceeding 5% triggers automatic rejection and seam re-inspection.
     - step: '3'
-      title: Last- og balansetest
-      desc: Ferdige brett lastes til maksimal vurdert kapasitet og testes for stabilitet og stivhet. Hvert brett vannprøves før endelig inspeksjon.
+      title: Load & Balance Testing
+      desc: Completed pools are loaded to maximum rated capacity and tested for stability and rigidity. Each pool is water-tested before final inspection.
+
 oem_section:
-  tagline: OEM-prosjekter
-  title: Merkevare- og OEM-partnerskaps casestudier
-  subtitle: Fra konsept til container — hvordan vi hjelper globale merker med å lansere og skalere oppblåsbare SUP-linjer.
+  tagline: OEM Projects
+  title: Brand & OEM Partnership Case Studies
+  subtitle: From concept to container — how we help global brands launch and scale their inflatable pools lines.
   cases:
-    - challenge: En europeisk utendørsforhandler trengte en private-label SUP-linje med unik dekkgrafikk, miljøvennlig PVC og detaljhandelsklar emballasje — alt levert på 60 dager.
-      solution: Vi utviklet tilpassede digitale trykkfiler, hentet REACH-kompatibel PVC og komprimerte prøvetaking fra 3 runder til 1 ved å plassere designteamet på fabrikken vår i Qingdao.
-      result: 55 dager fra signert PO til FOB. 2 400 enheter fordelt på 4 SKU-er. Gjentatt bestilling lagt før første container ankom.
-    - challenge: En amerikansk vannsportsstartup trengte en høyytelses drop-stitch-SUP med tilpasset skrogform, sammerkevareemballasje og BSCI-sertifisering for detaljhandelsplassering.
-      solution: Vi tilpasset en eksisterende drop-stitch-SUP-form med modifisert rockerprofil, utviklet sammerkevareemballasjegrafikk og leverte full BSCI-revisjonsdokumentasjon.
-      result: Vellykket lansert i 3 store amerikanske utendørskjeder. Over 5 000 enheter første år med 98 % salgsgjennomstrømming.
-    - challenge: En australsk distributør trengte et CE-sertifisert SUP-utvalg med tilpassede farger og samsvar med australske standarder.
-      solution: Vi produserte førproduksjonsprøver med 4 fargevarianter og koordinerte tredjeparts samsvarstesting.
-      result: 3-modells SUP-utvalg lansert i AU/NZ-markedet. Deretter vunnet et offentlig anbud for 12 patrulje-SUP-er.
+    - challenge: European outdoor retailer needed a private-label pool line with unique deck graphics, eco-friendly PVC, and retail-ready packaging — all delivered in 60 days.
+      solution: Developed custom digital print files, sourced REACH-compliant PVC, and compressed sampling from 3 rounds to 1 by co-locating the design team at our Qingdao factory.
+      result: 55 days from signed PO to FOB. 2,400 units across 4 SKUs. Repeat order placed before first container arrived.
+    - challenge: US watersports startup needed a high-performance drop-stitch pool with custom shape, co-branded packaging, and BSCI certification for retail placement.
+      solution: Adapted existing pool mould with modified outline, developed co-branded packaging artwork, and provided full BSCI audit documentation.
+      result: Successfully listed in 3 major US outdoor chains. 5,000+ units in first year with 98% sell-through rate.
+    - challenge: Australian distributor required a CE-certified pool range with custom colours and compliance with Australian standards.
+      solution: Produced pre-production samples with 4 colour variants and coordinated third-party compliance testing.
+      result: 3-model pool range launched in AU/NZ market. Followed by government tender win for 12 patrol pools.
+
 faq_section:
-  tagline: Ofte stilte spørsmål
-  title: B2B- og OEM vanlige spørsmål
+  tagline: FAQ
+  title: B2B & OEM Frequently Asked Questions
   questions:
-    - q: Hva er minimumsbestillingsmengde (MOQ) for OEM av oppblåsbare SUP-brett?
-      a: MOQ starter på 5–10 enheter for standard OEM-modeller. Tilpassede former og private-label-prosjekter krever minimum 200 enheter avhengig av kompleksitet. Prøvebestillinger og testserier er tilgjengelige for nye merkelanseringer.
-    - q: Er olagoon BSCI-sertifisert?
-      a: Ja. Fabrikken vår opprettholder gyldig BSCI-sosialt samsvarssertifikat (revisjonsrapport tilgjengelig på forespørsel). Vi har også ISO 9001-sertifisert kvalitetsstyring, og alle produkter er CE-sertifiserte. REACH- og RoHS-samsvarsdokumentasjon følger med hver OEM-forsendelse.
-    - q: Hva er typisk leveringstid for en OEM-bestilling?
-      a: Standard leveringstid er 30–45 dager fra bekreftet bestilling og depositum for OEM-serieproduksjon. Utvikling av tilpassede former legger til 15–20 dager for verktøyfremstilling. Akselerert produksjon er tilgjengelig for hastende ordrer og sesongtopper. Prototypprøver sendes vanligvis innen 15–20 dager.
-    - q: Kan dere sende FOB Qingdao eller CIF til havnen vår?
-      a: Ja. Vi sender FOB Qingdao, CIF til større globale havner og DDP for kvalifiserte partnere. Logistikkteamet vårt håndterer containerbooking, eksportdokumentasjon og tollearbeid. Vi sender til 50+ land på tvers av EU-, USA-, AU- og Asia-markedene.
-b2b_moq: 'Standard MOQ: 5–10 enheter per modell. Prøvebestillinger velkommen for nye partnerskap.'
+    - q: What is the minimum order quantity (MOQ) for OEM inflatable pools?
+      a: Samples and trial orders start at 5–10 units. Standard production MOQ is 50 units. Custom moulds and private-label projects require a minimum of 200 units depending on complexity.
+    - q: Does olagoon hold BSCI certification?
+      a: Yes. Our factory maintains valid BSCI social compliance certification (audit report available on request). We also hold ISO 9001 for quality management and all products carry CE certification. REACH and RoHS compliance documentation provided with every OEM shipment.
+    - q: What is the typical lead time for an OEM order?
+      a: Production runs take 12–16 weeks for 50–100 units, 10–14 weeks for 300–1,000 units, and 8–12 weeks above 1,000 units, from confirmed PO and deposit to FOB Qingdao. Custom mould development adds 15–20 days for tooling. Expedited production is available for urgent orders and seasonal rushes. Prototype samples typically ship within 15–20 days.
+    - q: Can you ship FOB Qingdao or CIF to our port?
+      a: Yes. We ship FOB Qingdao, CIF major global ports, and DDP for qualified partners. Our logistics team manages container booking, export documentation, and customs clearance. We ship to 50+ countries across EU, US, AU, and Asia markets.
+
+b2b_moq: 'Samples from 5–10 units. Standard production MOQ: 50 units per model.'
+
 production_flow:
-  tagline: Produksjonsflyt
-  title: Fra råvare til ferdig brett
-  subtitle: Hvert brett gjennomgår 6 produksjonsstadier med kvalitetskontrollpunkter på hvert trinn. Ingen snarveier, ingen hoppede inspeksjoner.
+  tagline: Production Flow
+  title: From Material to Finished Pool
+  subtitle: Every pool passes through 6 production stages with QC checkpoints at every step. No shortcuts, no skipped inspections.
   stages:
     - stage: '01'
-      title: Mottak av materialer og innkommende QC
-      description: Alt innkommende materiell loggføres etter batch-/lot-nummer i vårt ERP-system. PVC-stoffruller, drop-stitch-kjerner, ventiler, lim og maskinvare karantenebehandles til QC-godkjenning.
-      qc_check: Trekestyrke (ASTM D751), rivemotstand (ISO 4674), tykkelsmåler, viskositet av lim, visuell defektskanning
-      qc_threshold: 100 % av partiene testes. Avvis ved strekkfasthet < 90 % av spesifikasjonen, rivestyrke < minimumsspesifikasjonen, eller synlige feil.
-      responsibility: Mottakskontrollteam (3 inspektører)
+      title: Material Receiving & Incoming QC
+      description: 'All incoming materials are logged by batch/lot number in our ERP system. PVC fabric rolls, drop-stitch cores, valves, adhesives, and hardware are quarantined until QC sign-off.'
+      qc_check: 'Tensile strength (ASTM D751), tear resistance (ISO 4674), thickness gauge, adhesive viscosity, visual defect scan'
+      qc_threshold: '100% of batches tested. Reject if tensile < 90% of spec, tear < spec min, or any visual defect'
+      responsibility: Incoming QC team (3 inspectors)
     - stage: '02'
-      title: CNC-kutting og materialforberedelse
-      description: Dataoptimert netting legger ut paneler på PVC-lager for å minimere svinn. Automatiske CNC-skjæremaskiner opprettholder 0,1 mm posisjonsnøyaktighet.
-      qc_check: Dimensjonssjekk mot CAD DXF-filer, kantkvalitetsinspeksjon, paneltallverifisering
-      qc_threshold: Hvert 20. panel målt. Toleranse ±0,5 mm. Avvis parti hvis >2% utenfor toleranse
-      responsibility: Ledelse for skjæreverksted
+      title: CNC Cutting & Material Prep
+      description: 'Computer-optimized nesting lays out panels on PVC stock to minimize waste. Automatic CNC cutting machines maintain 0.1 mm positional accuracy.'
+      qc_check: 'Dimensional check against CAD DXF files, edge quality inspection, panel count verification'
+      qc_threshold: 'Every 20th panel measured. Tolerance ±0.5 mm. Reject batch if >2% out of tolerance'
+      responsibility: Cutting workshop lead
     - stage: '03'
-      title: Sveising og drop-stitch-bonding
-      description: Drop-stitch-kjerner bindes til ytre PVC-laminater ved varmelaminering. Rørkamre er RF-sveisede eller varmluftssveisede. Railbånd er trelags smeltelagt.
-      qc_check: Peeltest hver 50. enhet (ASTM D751), måling av sveisebredde, gjennomgang av varmluftstemperaturlogg, visuell sømunderlag under bakbelysning
-      qc_threshold: Peel-styrke min. 8 N/cm. Sveisebredde-toleranse ±1 mm. Synlig kanalisering = avvisning
-      responsibility: Sveise-QC (2 inspektører per skift)
+      title: Welding & Drop-Stitch Bonding
+      description: 'Drop-stitch cores are bonded to outer PVC laminates using heat lamination. Tube chambers are RF-welded or hot-air welded. Rail bands are triple-layer fusion bonded.'
+      qc_check: 'Peel test every 50 units (ASTM D751), weld width measurement, hot-air temperature log review, visual seam inspection under backlight'
+      qc_threshold: 'Peel strength min 8 N/cm. Weld width tolerance ±1 mm. Any visible channeling = reject'
+      responsibility: Welding QC (2 inspectors per shift)
     - stage: '04'
-      title: Montering og utrustning
-      description: 'Brettene flyttes til sluttmontering der alle komponenter settes sammen: lister limes og sveises, ventiler installeres, D-ringer, håndtak, finnebokser og bærebag-tilpasning. Hver enhet følger en 100-punkts monteringssjekkliste.'
-      qc_check: 100-punkts sjekkliste godkjenning per enhet, ventilfunksjonstest (10 åpne/lukke-sykluser), momentverifisering av maskinvare, visuell inspeksjon
-      qc_threshold: 'Nullfeil-policy på sikkerhetskritiske komponenter (ventiler, D-ringer, håndtak). Mindre kosmetisk: AQL 2.5 (ISO 2859)'
-      responsibility: Monteringsteamleder + linjekvalitetskontroll
+      title: Assembly & Rigging
+      description: 'Pools move to final assembly where all components are mated: rails glued and welded, valves installed, D-rings, handles, drain ports, and carry bag fitting. Each unit follows a 100-point assembly checklist.'
+      qc_check: '100-point checklist sign-off per unit, valve function test (10 open/close cycles), hardware torque verification, visual inspection'
+      qc_threshold: 'Zero-defect policy on safety-critical items (valves, D-rings, handles). Minor cosmetic: AQL 2.5 (ISO 2859)'
+      responsibility: Assembly team lead + line QC
     - stage: '05'
-      title: Trykktesting og kvalitetskontroll
-      description: Hvert kammer blåses opp til 1,25× nominelt trykk (typisk 20–25 PSI) og holdes i 24–48 timer. Trykksensorer logger kontinuerlig. Kamre som overskrider 5 % trykkfall forkastes og sendes til sømrevisjon.
-      qc_check: 24–48-timers trykkelogg, sensorkalibrering verifisert daglig, temperaturkompensert trykkavlesning, sømre-test etter reparasjon
-      qc_threshold: Maks 5 % trykkfall over 24–48 timer ved stabil temperatur. Et kammer som overskriver dette = 100 % retesting av hele produksjonsbatchen
-      responsibility: Kvalitetslaboratorium (uavhengig av produksjon, rapporterer til ledelsen)
+      title: Pressure Testing & Quality Hold
+      description: 'Every chamber is inflated to 1.25× rated pressure (typically 20–25 PSI) and held for 24–48 hours. Pressure sensors log continuously. Chambers exceeding 5% pressure drop are rejected and sent for seam re-inspection.'
+      qc_check: '24–48h pressure hold log, sensor calibration verified daily, temperature-compensated pressure reading, seam re-test after repair'
+      qc_threshold: 'Max 5% pressure drop over 24–48h at stable temp. Any chamber exceeding this = 100% re-test of entire production batch'
+      responsibility: Quality lab (independent of production, reports to management)
     - stage: '06'
-      title: Sluttinspeksjon og pakking
-      description: Avsluttende visuell og funksjonell inspeksjon. Overflatedefekter, fargekonsistens, etikett-/BIN-verifisering, emballasjens integritet og tilbehørsfullstendighet. Enheter er vakuum-pakket, esket og palletert for containerlasting.
-      qc_check: Fullstendig visuell inspeksjon, tilbehørsliste per SKU, falltest av emballasje (1 m, tilfeldig utvalg), etikett-/strekkodeverifisering
-      qc_threshold: AQL 2,5 for alvorlige feil, AQL 4,0 for mindre feil. Nulltoleranse for sikkerhetsfeil. 100 % av enhetene visuelt inspisert
-      responsibility: Slutt-QC-team (4 inspektører) + pakkingsteamleder
+      title: Final Inspection & Packing
+      description: 'Final visual and functional inspection. Surface defects, color consistency, label/BIN verification, packaging integrity, and accessory completeness. Units are vacuum-packed, boxed, and palletized for container loading.'
+      qc_check: 'Full visual inspection, accessory checklist per SKU, packaging drop test (1 m, random sample), label/bar code scan verification'
+      qc_threshold: 'AQL 2.5 for major defects, AQL 4.0 for minor. Zero tolerance on safety defects. 100% of units visually inspected'
+      responsibility: Final QC team (4 inspectors) + Packing team lead
+
 workforce:
-  tagline: Våre ansatte
-  title: Arbeidsstyrke og kompetanse
+  tagline: Our People
+  title: Workforce & Expertise
   engineers: 25+
-  engineers_detail: Ingeniører innen FoU, formutforming, materiallaboratorium og produksjonsteknikk. Gjennomsnittlig 7+ år i oppblåsbare produksjon.
-  shift_pattern: 2 skift/dag (07:00–15:30, 15:30–00:00). Valgfritt nattskift for hasteordrer.
-  training: Månedlig kvalitetstrening, kvartalsvise sikkerhetsøvelser, årlig ferdighetsvurdering. Nyansatte fullfører 40 timers innføring før de arbeider i produksjonslinjen.
+  engineers_detail: 'Engineers across R&D, mold design, materials lab, and production engineering. Average 7+ years in inflatable manufacturing.'
+  shift_pattern: '2 shifts/day (07:00–15:30, 15:30–00:00). Optional night shift for urgent orders.'
+  training: 'Monthly QC training, quarterly safety drills, annual skills assessment. New hires complete 40-hour induction before working on production line.'
   departments:
     - name: R&D & Engineering
       count: 25+
-      role: Produkt design, formverksted, materiallaboratorium
+      role: Product design, mold engineering, materials lab
     - name: Cutting & Material Prep
       count: 15
-      role: CNC-kutting, panelproduksjon, materialhåndtering
+      role: CNC cutting, panel preparation, material handling
     - name: Welding & Lamination
       count: 40
-      role: RF-sveising, varmluftssveising, drop-stitch-bonding
-    - name: SUP Core Bonding
+      role: RF welding, hot-air welding, drop-stitch bonding
+    - name: pool Core Bonding
       count: 30
-      role: Drop-stitch-laminering, varmesveising, railband-sammenføyning
+      role: Drop-stitch lamination, heat bonding, rail band fusion
     - name: Assembly & Rigging
       count: 35
-      role: Sluttmontering, installasjon av hardware, systemsjekk
+      role: Final assembly, hardware installation, systems check
     - name: Quality Control
       count: 12
-      role: Inngående QC, prosess-QC, sluttkontroll, laboratorietesting
+      role: Incoming QC, in-process QC, final inspection, lab testing
     - name: Logistics & Packing
       count: 20
-      role: Pakking, containerlasting, eksportdokumentasjon
+      role: Packaging, container loading, export documentation
     - name: Management & Admin
       count: 15
-      role: Salg, innkjøp, HR, økonomi, compliance
+      role: Sales, procurement, HR, finance, compliance
+
 material_traceability:
-  tagline: Sporbarhet
-  title: Materialsporing og batchkontroll
-  description: Hvert parti råvare tildeles et unikt partinummer i vårt ERP-system. Fra ankomst gjennom produksjon til ferdig produkt, er hvert bretts stykklister knyttet tilbake til opprinnelig leverandørparti. Dette muliggjør full oppstrøms sporet for ethvert kvalitets- eller samsvarsspørsmål.
-  system: Tilpasset ERP (Qingdao Vatrad Groups interne system) + fysiske batchkoder på hver arbeidsordre
-  coverage: 100 % av produksjonsmaterialene — PVC, drop-stitch-stoff, lim, ventiler, beslag, emballasje
-  records_retained: 10 år (i henhold til CE 2013/53/EU-krav)
+  tagline: Traceability
+  title: Material Tracking & Batch Control
+  description: Every batch of raw material is assigned a unique lot number in our ERP system. From arrival through production to the finished product, each pool's bill of materials links back to the original supplier batch. This enables full upstream traceability for any quality or compliance inquiry.
+  system: Custom ERP (Qingdao Vatrad Group internal system) + physical batch tags on each work order
+  coverage: 100% of production materials — PVC, drop-stitch fabric, adhesives, valves, hardware, packaging
+  records_retained: 10 years (per CE 2013/53/EU requirement)
   suppliers:
-    - material: Marin-grade PVC
-      source: Kinesiske og koreanske leverandører
+    - material: Marine-grade PVC
+      source: Chinese and Korean suppliers
       certified: ISO 9001, REACH, RoHS
-    - material: Drop-stitch-stoff
-      source: Intern veving + ekstern partner
-      certified: Intern QC + leverandør ISO 9001
-    - material: Ventiler og maskinvare
-      source: Kinesiske OEM-leverandører
-      certified: ISO 9001, materialsertifikater per batch
+    - material: Drop-stitch fabric
+      source: In-house weaving + external partner
+      certified: Internal QC + supplier ISO 9001
+    - material: Valves & Hardware
+      source: Chinese OEM suppliers
+      certified: ISO 9001, material certs per batch
+
 qc_dashboard:
-  tagline: QC i tall
-  title: Kvalitetskontrollmålinger
-  subtitle: Ekte bestått/ikke-bestått-data fra vår produksjonslinje. Vårt kvalitetslaboratorium opererer uavhengig av produksjonen og rapporterer direkte til ledelsen.
+  tagline: QC by the Numbers
+  title: Quality Control Metrics
+  subtitle: Real pass/fail data from our production line. Our quality lab operates independently from production and reports directly to management.
   stats:
     - value: 100%
-      label: Enheter trykktestet
-      detail: Hvert brett, hvert kammer, hver batch
-    - value: <5%
-      label: Maksimalt tillatt trykkfall
-      detail: Over 24–48 timer ved 1,25× nominelt trykk
-    - value: AQL 2,5
-      label: Terskel for alvorlige feil
-      detail: I henhold til ISO 2859-standard for prøvetaking
-    - value: 24–48 t
-      label: Trykkelighetens varighet
-      detail: Avhengig av produktkategori
-    - value: 1,25×
-      label: Testtrykk vs nominell
-      detail: Sikkerhetsmargin på hvert kammer
+      label: Units pressure-tested
+      detail: Every pool, every chamber, every batch
+    - value: '<5%'
+      label: Max allowable pressure drop
+      detail: Over 24–48h at 1.25× rated pressure
+    - value: AQL 2.5
+      label: Major defect threshold
+      detail: Per ISO 2859 sampling standard
+    - value: 24–48h
+      label: Pressure hold duration
+      detail: Depending on product category
+    - value: 1.25×
+      label: Test pressure vs rated
+      detail: Safety margin on every chamber
     - value: 0%
-      label: Toleranse for sikkerhetsfeil
-      detail: Ventiler, D-ringer, sømmer, oppdrift
+      label: Tolerance on safety defects
+      detail: Valves, D-rings, seams, buoyancy
+
 process_cta:
-  title: Se produksjonsprosessen vår
-  desc: Følg et brett gjennom hvert steg i produksjonen — fra råvare til sjøklart brett.
-  label: Se produksjonsprosessen →
+  title: See our manufacturing process
+  desc: Follow a pool through every stage of production — from raw material to backyard-ready pool.
+  label: View production process →
   link: /factory/process/

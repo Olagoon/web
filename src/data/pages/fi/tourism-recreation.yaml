@@ -1,91 +1,69 @@
 meta:
-  title: 'Turismi ja Virkistys — Ilmalla täytettävät SUP-laudat | {SITE}'
-  description: 'Merenkulkuvälineitä turismiin ja virkistykseen: ilmalla täytettävät SUP-laudat ja tarvikkeet järville, merille ja ulkoiluaktiviteetteihin. Opastetuista retkistä rannikkopurjehduksiin.'
+  title: 'Pools for Holidays, Vacation Homes & Recreation | {SITE}'
+  description: 'Drop-stitch pools for tourism and recreation: portable backyard pools for vacation homes, holiday parks, and seasonal getaways. Set up anywhere in under 30 minutes.'
   keywords:
-    - 'sup turismi'
-    - 'virkistyskäyttöinen ilmatäytteinen sup'
-    - 'ilmatäytteinen sup vapaa-aikaan'
-    - 'sup vuokrausvarusteet'
-label: Käyttötapaus
-headline: SUP-laudat lomiin, matkoihin ja päiviksi vedellä
-subtitle: Opastetuista kalastusretkistä rannikkopurjehduksiin olagoon asettaa standardin kestävyydelle, turvallisuudelle ja suorituskyvylle ilmatäytteisissä SUP-lautoissa.
+    - 'portable pool'
+    - 'vacation home pool'
+    - 'recreational drop stitch pool'
+    - 'seasonal pool'
+label: 'Use Case'
+headline: 'Pools for Holidays, Vacation Homes & Days in the Sun'
+subtitle: 'From weekend cabins to holiday parks, OLagoon sets the benchmark for durability, safety, and value in drop-stitch portable pools.'
 seo:
-  headline: 'Ilmatäytteiset SUP-laudat matkailuun ja virkistykseen: kattava opas'
-  description: 'Löydä oikea ilmatäytteinen SUP lomiin ja päiväretkiin — monikäyttölaudat, retkilaudat ja kalastuslaudat järville, joille ja rannikoille. Pakkaa tavaratilaan, ota lentoon ja melo missä tahdot.'
+  headline: 'Portable Pools for Tourism & Recreation: The Complete Guide'
+  description: 'Discover the right drop-stitch pool for vacation homes, holiday rentals, and seasonal recreation — three sizes, matched filtration, and a 2-year warranty. Set up anywhere in under 30 minutes.'
   datePublished: '2024-06-01'
   dateModified: '2026-06-01'
 faqs:
-  - question: Mikä SUP-laudan tyyppi sopii parhaiten lomiin ja matkustamiseen?
-    answer: Useimmille paras valinta on monikäyttöinen ilmatäytteinen SUP — vakaa, anteeksiantava ja helppo kuljettaa. Pidempiin päiväretkiin tai usean päivän seikkailuihin retkilauta pitää suunnan paremmin ja mahtuu mukaan enemmän varusteita, kun taas kalastuslaudat tarjoavat vapatelineen ja vakaan alustan.
-  - question: Mitä materiaaleja olagoon käyttää turismiluokan ilmatäytteisissä SUP-lautoissa?
-    answer: >-
-      Käytämme meriluokan PVC-materiaalia, jolla on korkea vetolujuus ja monikerroksiset päällysteet erinomaisen UV-kestävyyden, kulumiskestävyyden ja pitkän käyttöiän takaamiseksi. Kaikki kankaat hankitaan tunnetuilta maailmanlaajuisilta toimittajilta ja ne läpäisevät tiukan saapumistarkastuksen.
-  - question: Tarjoaako olagoon CE-sertifiointia virkistyskäyttöisille SUP-lautoille?
-    answer: Kyllä. Jokainen olagoon-lauta on CE-sertifioitu ja tehtaamme on ISO 9001 -sertifioitu — voit ostaa luottavaisin mielin, missä tahansa melot.
-  - question: Voinko kiinnittää laitteita ja varusteita lautaani?
-    answer: Voit. D-renkaat mahdollistavat kuivan pussin, kylmalaukun tai kajakkiripustimen kiinnittämisen, ja keulassa oleva kuminauha-varusteverkko pitää tavarat ulottuvilla. Kalastusversiot lisäävät vapatelineet ja kiinnikkeet.
-  - question: Mikä on olagoonin takuu turismi- ja virkistyskäyttöisille SUP-lautoille?
-    answer: olagoonin ilmatäytteiset SUP-laudat sisältävät 3 vuoden rajoitetun takuun materiaali- ja valmistusvirheille sekä nopean tuen, jos jotain menee pieleen.
-body: >
-  <h2>olagoon-standardi — Sitoutuminen moitteettomaan merenkulkumestaruuteen</h2>
+  - question: Which pool size is best for a vacation home?
+    answer: 'For most vacation properties, the Family Oasis (3 m × 2 m) is the best choice — big enough for the whole family, small enough to store in a closet over winter. Couples and small cabins love the Compact Plunge (2 m × 1.5 m), while larger properties host the whole lake house with the Grand Lagoon (5 m × 2.5 m).'
+  - question: What materials does OLagoon use for its pools?
+    answer: 'We use marine-grade high-tensile PVC with multi-layer coatings for superior UV resistance, abrasion resistance, and longevity. All fabrics are sourced from reputable global suppliers and undergo rigorous incoming inspection.'
+  - question: Does OLagoon provide CE certification for its pools?
+    answer: 'Yes. OLagoon pools are built in an ISO 9001 certified facility and meet applicable European safety standards, so you can buy with confidence wherever you install your pool.'
+  - question: How long does setup really take?
+    answer: 'Plan on under 30 minutes from box to filling: roll the pool out on a prepared surface, inflate the 20 cm walls with the included pump, connect the filter, and start filling. No tools and no professional installation are required.'
+  - question: What is the warranty on OLagoon pools?
+    answer: 'OLagoon pools come with a 2-year limited warranty covering defects in materials and workmanship, plus responsive support if anything goes wrong.'
+body: |
+  <h2>The OLagoon Standard — A Commitment to Flawless Drop-Stitch Craftsmanship</h2>
+  <p>In the world of seasonal recreation, the portable drop-stitch pool stands as a testament to versatility, convenience, and accessibility. From weekend cabins to holiday parks and vacation rentals, a pool that sets up in minutes transforms any property into a destination.</p>
+  <p>However, not all portable pools are created equal. The true measure of a pool lies not just in its intended application, but in the integrity of its construction, the quality of its materials, and the precision of its design. OLagoon distinguishes itself as a premier designer and manufacturer, producing drop-stitch pools that are engineered for excellence across every tourism and recreation segment.</p>
 
-  <p>Merivirkistyksen laajassa ja dynaamisessa maailmassa ilmatäytteinen SUP-lauta seisoo monipuolisuuden, mukavuuden ja saavutettavuuden todistuskappaleena. Rauhallisista kalastusretkistä tyynillä järvillä rentoihin rannikkopurjehduksiin, ilmatäytteiset SUP-laudat palvelevat lukemattomia tarkoituksia.</p>
-
-  <p>Eivät kuitenkaan kaikki ilmatäytteiset SUP-laudat ole samanarvoisia. Ilmatäytteisen SUP-laudan todellinen mitta ei ole vain sen tarkoitettu käyttö, vaan rakenteen eheys, materiaalien laatu ja suunnittelun tarkkuus. olagoon erottuu huippuluokan suunnittelijana ja valmistajana tuottaen ilmatäytteisiä SUP-lautoja, jotka on suunniteltu erinomaisuuteen jokaisessa turismin ja virkistyksen segmentissä.</p>
-
-
-  <h2>Materiaalitiede: Kestävyyden perusta</h2>
-
-  <p>Materiaalien valinta on kriittisin tekijä ilmatäytteisen SUP-laudan käyttöiän ja suorituskyvyn määrittämisessä. olagoon sijoittaa merkittäviä resursseja parhaiden saatavilla olevien kankaiden ja komponenttien tunnistamiseen, testaamiseen ja hankintaan maailmanlaajuisesti.</p>
-
+  <h2>Material Science: The Foundation of Durability</h2>
+  <p>The choice of materials is the most critical factor in determining a pool's longevity and performance. OLagoon invests considerable resources in identifying, testing, and procuring the finest fabrics and components available globally.</p>
   <ul>
-    <li><strong>Ylivoimainen kankaanhankinta:</strong> Meriluokan PVC, jolla on korkea vetolujuus ja monikerroksiset päällysteet, valittu parannettua kestävyyttä, UV-kestävyyttä ja kulumiskestävyyttä varten.</li>
-    <li><strong>Drop-stitch-rakenne:</strong> Tuhannet sisäiset polyesterilangat yhdistävät ylä- ja alakerrokset luoden jäykän rakenteen 12–15 PSI:n paineessa.</li>
-    <li><strong>Lämpöhitsatut saumat:</strong> PVC-rakenteemme käyttävät yksinomaan lämpöhitsattuja saumoja (RF-hitsaus), jotka tuottavat vahvoja, ilmastiiviitä liitoksia ylittäen ISO-vaatimukset.</li>
-    <li><strong>Laajennettu UV-suoja:</strong> PVC-kankaat UV-suojatakuilla SUP-lautoille, jotka altistuvat usein voimakkaalle auringonvalolle.</li>
+    <li><strong>Superior Fabric Sourcing:</strong> Marine-grade, high-tensile strength PVC with multi-layer coatings, selected for enhanced durability, UV resistance, and abrasion resistance.</li>
+    <li><strong>Drop-Stitch Construction:</strong> Thousands of internal polyester threads connect top and bottom layers, creating rigid 20 cm walls at 10–15 PSI.</li>
+    <li><strong>Thermo-Welded Seams:</strong> Our PVC constructions exclusively use thermo-welded seams (RF welding) that produce high-strength, airtight bonds exceeding industry requirements.</li>
+    <li><strong>Extended UV Protection:</strong> PVC fabrics with UV stabilization for pools exposed to harsh sunlight all season long.</li>
   </ul>
 
+  <h2>Design Philosophy: Precision Engineering for Every Property</h2>
+  <p>Our design team comprises experienced inflatable engineers and materials specialists who leverage advanced CAD software and real-world testing to create pools that are structurally rigid, exceptionally stable, and robust.</p>
 
-  <h2>Suunnittelufilosofia: Tarkkuusinsinööriä jokaiseen segmenttiin</h2>
+  <h3>Compact Plunge — Cabins & Couples</h3>
+  <p>The 2 m × 1.5 m plunge pool fits the smallest decks and patios. Perfect for cooling off after a hike or a quiet soak at the cabin, it stores in a closet between visits.</p>
 
-  <p>Suunnittelutiimimme muodostuu kokeneista lautojen suunnittelijoista ja ilmatäytteisen teknologian asiantuntijoista, jotka hyödyntävät edistynyttä CAD-ohjelmistoa ja todellisia testejä luodakseen lautoja, jotka ovat hydrodynaamisesti tehokkaita, poikkeuksellisen vakaita ja kestäviä.</p>
+  <h3>Family Oasis — Vacation Homes & Rentals</h3>
+  <p>The 3 m × 2 m family pool with integrated seating is the sweet spot for vacation properties. Kids play, adults lounge, and the whole thing folds away when the season ends.</p>
 
+  <h3>Grand Lagoon — Lake Houses & Hospitality</h3>
+  <p>The 5 m × 2.5 m flagship swim lounge hosts the whole group. High-density drop-stitch construction rated to 18 PSI keeps the 20 cm walls rock-solid with a full crowd inside.</p>
 
-  <h3>Kalastus-SUP-laudat</h3>
+  <h2>Manufacturing Excellence: Precision at Every Step</h2>
+  <p>OLagoon employs highly skilled technicians who are masters of their craft. Our 12,000 m² Qingdao production facility is equipped with state-of-the-art machinery, including automatic CNC cutting machines, RF dielectric welders, hot-air heat sealers, and digital printers. Every pool follows documented procedures with traceability.</p>
+  <p>Our multi-layered quality control system includes stringent checks at each manufacturing step, culminating in comprehensive testing of every finished pool before shipping. This commitment to quality is built in from the very beginning, not merely inspected at the end.</p>
 
-  <p>Suunniteltu vakaudelle ja hiljaiselle toiminnalle. Kalastusmääritykset sisältävät vapatelineiden kiinnikkeitä, varusteen kiinnityspisteitä ja hiljaisia, vakaita alustoja, jotka minimoivat kalojen häirinnän.</p>
-
-
-  <h3>Jooga- ja kuntoilu-SUP-laudat</h3>
-
-  <p>Leveitä, vakaita alustoja koko pituuden kattavilla kansimatoilla joogaa vedessä, kuntoiluun ja ryhmävenytyksiin. Drop-stitch-rakenne pitää alustan kalliomaisen vakaana jalkojen alla.</p>
-
-
-  <h3>All-around- ja retkeily-SUP-laudat</h3>
-
-  <p>Suuritiheyksinen drop-stitch-rakenne armeijaluokan PVC:llä, arvioitu 18 PSI:hin poikkeuksellisen jäykkyyden saavuttamiseksi. Täydet tarvikesarjat sisältävät pumpun, repun, leashin, korjaussarjan ja melan.</p>
-
-
-  <h2>Valmistuksen erinomaisuus: Tarkkuus jokaisessa vaiheessa</h2>
-
-  <p>olagoon työllistää korkeasti koulutettuja teknikoita, ammattinsa mestareita. Tuotantolaitoksemme on varustettu huippuluokan koneilla, mukaan lukien automaattiset CNC-leikkurit, RF-dielektriset hitsauskoneet, kuumailmahitsaimet ja digitaaliset tulostimet. Jokainen SUP-lauta noudattaa dokumentoituja menetelmiä jäljitettävyydellä.</p>
-
-  <p>Monikerroksinen laadunvalvontajärjestelmämme sisältää tiukat tarkastukset jokaisessa valmistusvaiheessa, huipentuen kattaviin testauksiin jokaisesta valmiista laudasta ennen toimitusta. Tämä sitoutuminen laatuun on rakennettu sisään alusta alkaen, ei vain tarkastettu lopussa.</p>
-
-
-  <h2>Laadunvalvonta ja testaus</h2>
-
+  <h2>Quality Control & Testing</h2>
   <ul>
-    <li><strong>100 % ilmanpitotesti:</strong> Jokainen kammio paineistetaan käyttörajojen yli ilmastiiviyyden varmistamiseksi.</li>
-    <li><strong>Saumojen irtoamistarkastus:</strong> Hitsien ja liimojen lujuus varmistetaan fyysisillä irtoamistesteillä.</li>
-    <li><strong>UV-kestävyyden validointi:</strong> Materiaalit altistetaan simuloidulle auringonvalolle hajoamiskestävyyden arvioimiseksi.</li>
-    <li><strong>Kulutustestit:</strong> Materiaalinäytteitä testataan hankaavia pintoja vastaan kulumiskestävyyden määrittämiseksi.</li>
-    <li><strong>Täydellinen järjestelmätarkastus:</strong> Jokainen SUP-lauta käy läpi lopputarkastuksen ennen toimitushyväksyntää.</li>
+    <li><strong>100% Air-Retention Testing:</strong> Every chamber is pressure-tested beyond operating limits to verify airtightness.</li>
+    <li><strong>Seam Peel Verification:</strong> Weld and glue strength is verified through physical peel testing on batch samples every 50 units (ASTM D751).</li>
+    <li><strong>UV Resistance Validation:</strong> Materials are exposed to simulated sunlight to evaluate degradation resistance.</li>
+    <li><strong>Abrasion Testing:</strong> Material samples are tested against abrasive surfaces for wear resistance.</li>
+    <li><strong>Full Systems Check:</strong> Every pool undergoes final inspection before shipping approval.</li>
   </ul>
 
-
-  <h2>Miksi melojat valitsevat olagoonin</h2>
-
-  <p>Jokainen olagoon-lauta valmistetaan omassa tehtaassamme drop-stitch-rakenteella, lämpöhitsatuilla saumoilla ja merikäyttöön soveltuvalla PVC:llä, joka testataan lauta kerrallaan ennen lähetystä — sama laatu olipa kyseessä ensimmäinen tai viides lautesi.</p>
-
-  <p>Pakkaa se tavaratilaan, ota mukaan lentomatkalle ja täytä missä tahansa minuuteissa. Ensimmäisestä soudosta rauhallisella järvellä viikon pituiseen rannikkoreittiin — minne sinä viet omasi?</p>
+  <h2>Why Owners Choose OLagoon</h2>
+  <p>Every OLagoon pool is built in our own factory with drop-stitch construction, thermo-welded seams, and marine-grade PVC that is tested unit by unit before it ships — the same quality whether it is your first pool or your fifth.</p>
+  <p>Roll it out, inflate the walls, connect the filter, and fill. From a first swim at the cabin to a full season at the lake house — where will you set up yours?</p>

@@ -1,110 +1,95 @@
 meta:
-  title: Prototyyppityöpaja — Täysimittainen SUP-prototyyppityö ja meritestit | {SITE}
-  description: CAD-mallista vesikelpoiseksi laudaksi 8–12 viikossa. Prototyyppityöpajamme rakentaa, varustaa ja meritestaa mukautetut täytettävät SUP-laudat. Aloita prototyyppiprojektisi tänään.
-back_text: Takaisin tutkimus- ja kehityskeskukseen
-home_label: Koti
+  title: 'Prototype Workshop — Full-Scale pool Prototyping & Sea Trials | {SITE}'
+  description: 'From CAD to backyard-ready pool in 8-12 weeks. Our Prototype Workshop builds, rigs, and water-tests custom inflatable pools. Start your prototype project today.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
+
 hero:
-  tagline: Laboratorio 05
-  title: Prototyyppipaja
-  subtitle: CAD-mallista vesikelpoiseksi laudaksi — rakennettu, varusteltu ja todistettu
-  image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-  image_alt: OLagoonin prototyyppipajan laudanvalmistus
-intro: >-
-  CAD-malli, olipa se kuinka yksityiskohtainen tahansa, ei voi paljastaa, miten lauta todellisuudessa käyttäytyy, ennen kuin se kohtaa veden. Siksi prototyyppipajamme on suunniteltu muuttamaan suunnittelutiedot fyysiseksi, vesikelpoiseksi laudaksi mahdollisimman nopeasti ja tarkasti. Jokainen
-  uusi OLagoon-malli — ja jokainen merkittävä mittatilausrakennus — käy tämän pajan läpi ennen kuin tuotantotyökalut vahvistetaan.
-content_html: >
-  <h2>Missä suunnittelu muuttuu todellisuudeksi</h2>
+  tagline: 'Lab 05'
+  title: 'Prototype Workshop'
+  subtitle: 'From CAD model to water-ready pool — built, fitted, and proven'
+  image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+  image_alt: 'OLagoon prototype workshop pool fabrication'
 
-  <p>Työpaja on täysin varusteltu rungon, reunojen ja varustelun samanaikaiseen valmistukseen. Tämä rinnakkainen työnkulku lyhentää prototyypin valmistusaikaa 8–12 viikkoon insinöörin luovutuksesta lähtien, verrattuna teollisuuden normiin 16–20 viikkoa. Kun sovelluksessasi vaaditaan
-  erikoistunutta ratkaisua, voimme siirtyä konseptista vesikokeisiin alle kolmessa kuukaudessa.</p>
+intro: 'A CAD model, no matter how detailed, cannot reveal how a pool will actually perform until it meets the water. That is why our Prototype Workshop is designed to translate engineering data into a physical, water-ready pool as quickly and accurately as possible. Every new OLagoon model — and every significant custom build — passes through this workshop before the production tooling is committed.'
 
+content_html: |
+  <h2>Where design becomes reality</h2>
+  <p>The workshop is fully equipped for simultaneous fabrication of hull, rails, and rigging. This parallel-workflow approach cuts prototype lead time to 8-12 weeks from engineering release, compared to the industry norm of 16-20 weeks. When your application demands a specialised solution, we can move from concept to on-water validation in under three months.</p>
 
-  <h2>Työpajan valmiudet</h2>
-
+  <h2>Workshop capabilities</h2>
   <table>
-    <thead><tr><th>Työasema</th><th>Varusteet</th><th>Tarkoitus</th></tr></thead>
+    <thead><tr><th>Workstation</th><th>Equipment</th><th>Purpose</th></tr></thead>
     <tbody>
-      <tr><td>Rungon valmistus</td><td>CNC-kankaanleikkuri, kuumalaminointipuristin, drop-stitch-ytimen valmistusasema</td><td>Täysimittainen rungon valmistus kaikissa kolmessa rakennetyypissä</td></tr>
-      <tr><td>Reunojen ja kammioden kokoonpano</td><td>RF-hitsauspuristin, kuuman ilman esikiinnitysasema, ilmanpainetestijigi</td><td>Täysikokoisten reuna- ja kammio-kokoonpanojen valmistus kaikkine väliseinineen ja venttiileineen</td></tr>
-      <tr><td>Varustelu ja asennus</td><td>Eväkiskojen uritusjigi, lastikiinnikkeiden ja kahvojen hitsauskiinnikkeet, kansipehmusteen leikkausasema</td><td>Täydellinen varustelu: evät, lastikiinnikkeet, taljaplugit, kahvat, kansipehmusteet, venttiilit</td></tr>
-      <tr><td>Instrumentointilahti</td><td>GPS-nopeusanturi, paineanturit, kiihtyvyysanturit, termoparritosarja, datankeruulaite</td><td>Meritestien instrumentoinnin asennus ja kalibrointi</td></tr>
+      <tr><td>Hull fabrication</td><td>CNC fabric cutter, heat-lamination press, drop-stitch core preparation station</td><td>Full-scale hull production in all three construction types</td></tr>
+      <tr><td>Rail &amp; chamber assembly</td><td>RF welding press, hot-air tacking station, inflation test jig</td><td>Fabrication of full-size rail and chamber assemblies with all baffles and valves</td></tr>
+      <tr><td>Rigging &amp; fitting</td><td>Fin-box routing jig, cargo-mount and handle welding fixtures, deck-pad cutting station</td><td>Complete outfitting: fins, cargo mounts, leash plugs, handles, deck pads, valves</td></tr>
+      <tr><td>Instrumentation bay</td><td>GPS speed sensor, pressure transducers, accelerometers, thermocouple array, data-logger</td><td>Sea-trial instrumentation installation and calibration</td></tr>
     </tbody>
   </table>
 
-
-  <h2>Prototyypin matka — vaihe vaiheelta</h2>
-
+  <h2>The prototype journey — step by step</h2>
   <ol>
-    <li><strong>Insinöörin luovutus</strong> — Suunnittelupaketti (3D-malli, FEA-raportti, osaluettelo, laminointiohjelma) tarkastetaan virallisesti työpajan johtajan ja projekti-insinöörin toimesta. Kaikki valmistukseen liittyvät huolenaiheet merkitään ja ratkaistaan ennen leikkauksen aloittamista.</li>
-    <li><strong>Rungon tuotanto</strong> — Runko rakennetaan insinöörin spesifikaation mukaan. Yksikerrosrakenteessa drop-stitch-ydin laminoidaan määritetyllä PVC-päälliskankaalla. Kaksikerrosrakenteessa ylimääräinen päälliskangas levitetään pohjalaminaatin päälle ennen kaavan leikkaamista. Fuusiorakenteessa laminointiparametrit ladataan hyväksytystä prosessilomakkeesta ja varmistetaan ensikappaleella.</li>
-    <li><strong>Reunojen valmistus</strong> — Kangas leikataan CNC-kaavamalleilla, sitten RF-hitataan täysikokoisiksi reunoiksi ja kammioiksi. Jokainen kammio paiskotaan testipaineeseen ja jätetään 24 tunniksi alkuvakautusta varten.</li>
-    <li><strong>Kokoonpano ja varustelu</strong> — Runko ja reunat liitetään toisiinsa. Eväkiskot ja lastikiinnikkeet asennetaan, taljaplugit ja kantokahvat asennetaan, täyttöventtiili kiristetään paikalleen ja kansipehmuste liimataan ja kohdistetaan.</li>
-    <li><strong>Staattiset testit</strong> — Ennen kuin lauta koskettaa vettä, se läpäisee: kelluntatarkistus (täysi kuorma + 30 % varalla), kammion painepitotesti, venttiilin vuototesti, kahvojen ja kiinnikkeiden vetotesti.</li>
-    <li><strong>Merikoeohjelma</strong> — 20 tuntia vedessä testausta, yksityiskohtaisesti alla.</li>
-    <li><strong>Prototyypin tarkistus</strong> — Virallinen hyväksymiskokous järjestetään suunnittelu-, tuotanto- ja laaturyhmien kanssa. Kaikki tarvittavat suunnittelumuutokset dokumentoidaan ja sisällytetään tuotantojulkaisuun.</li>
+    <li><strong>Engineering handover</strong> — The design package (3D model, FEA report, bill of materials, layup schedule) is formally reviewed by the workshop lead and the project engineer. Any manufacturing concerns are flagged and resolved before cutting begins.</li>
+    <li><strong>Hull production</strong> — The hull is built according to the engineering specification. For single-layer construction: the drop-stitch core is laminated with the specified PVC skin. For double-layer construction: the additional skin is applied over the base laminate before the pattern is cut. For fused construction: the lamination parameters are loaded from the approved process sheet and verified on a first-off coupon.</li>
+    <li><strong>Rail fabrication</strong> — Fabric is cut using CNC-pattern templates, then RF-welded into full-size rails and chambers. Each chamber is inflated to test pressure and left for 24 h for initial stabilisation.</li>
+    <li><strong>Assembly &amp; rigging</strong> — Hull and rails are mated. Fin boxes and cargo mounts are fitted, leash plugs and carry handles are installed, the inflation valve is torqued in, and the deck pad is applied and aligned.</li>
+    <li><strong>Static tests</strong> — Before the pool is filled, it undergoes: structural check (full water load + 30 % reserve), chamber pressure-hold test, valve leak-down test, handle and mount pull-test.</li>
+    <li><strong>Sea trial programme</strong> — 20 hours of in-water testing, detailed below.</li>
+    <li><strong>Prototype review</strong> — A formal sign-off meeting is held with engineering, production, and quality teams. Any required design changes are documented and incorporated into the production release.</li>
   </ol>
 
-
   <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
-    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20 tunnin merikoeohjelma — Testiaikataulu</p>
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20-Hour Sea Trial Programme — Test Schedule</p>
     <div class="space-y-2 text-sm">
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">Tutustuminen tyynellä vedellä — hitaan vauhdin suuntavakaus, kääntyminen, asento- ja trimmitarkistus</span>
+        <span class="flex-1">Flat-water familiarisation — low-speed tracking, turning, stance and trim check</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">4 h</span>
-        <span class="flex-1">Nopeuskoe — GPS-varmistettu huippunopeus, matkanopeus, ylläpidetty vauhti 3 melontatahdissa</span>
+        <span class="flex-1">Speed trial — GPS-verified top speed, cruise speed, sustained pace at 3 stroke rates</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Kääntötesti — työkäännöksen ja sivumelonnan säde, laudan vaste, vasen ja oikea puoli</span>
+        <span class="flex-1">Stability test — wall rigidity, floor firmness, and seating comfort under full load</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Aallokkotesti — toistuvat ajot 0,5–1,0 m aallokossa; kiihtyvyysanturi melojan asentokohdassa</span>
+        <span class="flex-1">Chop test — repeated runs through 0.5–1.0 m chop; accelerometer at the rider stance position</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Vakautesti — staattinen kallistuskulma 4 eripainoisella melojalla, siirretty kuorma oikealle puolelle</span>
+        <span class="flex-1">Stability test — static heel angle with 4 riders of varying weight, offset load to starboard</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
-        <span class="flex-1">Kestävyyssuju — 3 tuntia jatkuvasti matkanopeudella; kammion paineen, reunan lämpötilan ja melojan väsymyksen seuranta</span>
+        <span class="flex-1">Endurance run — 3 h continuous at cruise pace; monitoring of chamber pressure, rail temperature, and rider fatigue</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
         <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
-        <span class="flex-1">Lopullinen tarkastus — kokeen jälkeinen tarkastus kaikille komponenteille, kiristä/tarkasta kaikki kiinnikkeet, dokumentoi havainnot</span>
+        <span class="flex-1">Final inspection — post-trial inspection of all components, tighten/check all fasteners, document findings</span>
       </div>
     </div>
   </div>
 
-
-  <h2>Mukautettu prototyyppityö ainutlaatuisiin käyttötapauksiin</h2>
-
-  <p>Prototyyppityöpaja on paikka, jossa ratkomme ongelmat, joita normaalit tuotantolaudat eivät pysty ratkaisemaan. Viimeaikaisia esimerkkejä:</p>
-
+  <h2>Custom prototyping for unique applications</h2>
+  <p>The Prototype Workshop is where we solve the problems that standard production pools cannot address. Recent examples include:</p>
   <ul>
-    <li>Korkean näkyvyyden pelastus-SUP etsintä- ja pelastusjärjestölle, joka vaatii integroituja tartuntakahvoja, varustekiinnikkeitä pelastusvälineille ja suuren kelluvuuden runkoa uhrien pelastamiseen — kaikki prototyyppinä rakennettuna, varusteltuna ja testattuna laitoksellamme.</li>
-    <li>Retkeily-SUP hydrografisen mittausurakoitsijan käyttöön, irrotettavalla instrumenttimastolla, tiivistetyillä varusteporteilla ja matalalla transducer-kiinnikkeellä, joka on suunniteltu minimoimaan vesis vastus.</li>
-    <li>Kompakti kalastus-SUP lomakohteen laitteistoon, jossa prototyyppiä käytettiin validoimaan vakaus, varusteriggaus ja kestävyys päivittäisessä vuokrauskäytössä ennen kuin asiakas sitoutui neljän laudan kokoonpanoon.</li>
+    <li>A high-visibility rescue pool for a search-and-rescue organisation, requiring integrated grab handles, gear mounts for rescue equipment, and a high-buoyancy hull for casualty recovery — all prototyped, fitted, and tested at our facility.</li>
+    <li>An expedition touring pool for a hydrographic survey contractor, with a removable instrument mast, sealed gear ports, and a low-profile transducer mount designed to minimise drag.</li>
+    <li>A compact fishing pool for a resort fleet, where the prototype was used to validate stability, gear rigging, and durability under daily rental use before the client committed to a fleet of four.</li>
   </ul>
 
+  <h2>Our prototyping team</h2>
+  <p>The workshop is staffed by eight multi-skilled marine technicians, each cross-trained in at least two of the three core disciplines (hull, rail, rigging). The team lead is a master fabricator with 16 years of experience spanning custom one-off builds to production series. Every prototype is assigned a dedicated project engineer who serves as the single point of contact for the client throughout the build and trial process.</p>
 
-  <h2>Prototyyppitiimimme</h2>
+  <h2>Client involvement</h2>
+  <p>We actively encourage our clients to attend key milestones during the prototype build — particularly the initial fit-out review and the sea trial. Your operational feedback during these stages is invaluable in fine-tuning the pool before it enters production. We do not build in a vacuum; we build in partnership with you.</p>
+  <p>The 20-hour water trial is also an opportunity for your team to familiarise themselves with the pool's operation, layout, and maintenance requirements, ensuring a smooth transition to service when the production pools are delivered.</p>
 
-  <p>Työpajassa työskentelee kahdeksan monitaitoista meriteknikkoa, joista jokainen on koulutettu vähintään kahteen kolmesta ydinalueesta (runko, reunat, varustelu). Tiimin johtaja on mestarivalmistaja, jolla on 16 vuoden kokemus yksittäiskappaleina rakennetuista kohteista tuotantosarjoihin. Jokaiselle
-  prototyypille nimetään oma projekti-insinööri, joka toimii asiakkaan ainoana yhteyshenkilönä koko rakennus- ja koeajoprosessin ajan.</p>
-
-
-  <h2>Asiakkaan osallistuminen</h2>
-
-  <p>Kannustamme asiakkaitamme aktiivisesti osallistumaan prototyypin rakennuksen tärkeisiin virstanpylväisiin — erityisesti alkuvarustelun tarkastukseen ja merikokeeseen. Toiminnallinen palaute näissä vaiheissa on arvokasta laudan hienosäätämiseksi ennen kuin se siirtyy tuotantoon. Emme rakenna
-  tyhjiössä; rakennamme kumppanuutena kanssanne.</p>
-
-  <p>20 tunnin merikoe on myös mahdollisuus tiimillesi tutustua laudan käsittelyyn, kansirakenteen asetteluun ja huoltovaatimuksiin, mikä varmistaa sujuvan siirtymän käyttöön, kun tuotantolaudat luovutetaan.</p>
 cta:
-  title: Aloita prototyyppiprojektisi
-  subtitle: Kerro tarvitsemastasi laudasta ja ehdotamme prototyypin kehityssuunnitelmaa.
-  button_text: Ota yhteys prototyyppitiimiimme
+  title: 'Start your prototype project'
+  subtitle: 'Tell us about the pool you need and we will propose a prototype development plan.'
+  button_text: 'Contact our prototyping team'
   button_link: /contact/

@@ -1,95 +1,95 @@
 meta:
-  title: 'Workshop Prototipe — Pembuatan Prototipe SUP Skala Penuh & Uji Laut | {SITE}'
-  description: 'Dari CAD menjadi papan siap air dalam 8-12 minggu. Workshop Prototipe kami membangun, melengkapi, dan menguji laut SUP tiup kustom. Mulai proyek prototipe Anda hari ini.'
-back_text: 'Kembali ke Pusat R&D'
-home_label: 'Beranda'
+  title: 'Prototype Workshop — Full-Scale pool Prototyping & Sea Trials | {SITE}'
+  description: 'From CAD to backyard-ready pool in 8-12 weeks. Our Prototype Workshop builds, rigs, and water-tests custom inflatable pools. Start your prototype project today.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
 
 hero:
   tagline: 'Lab 05'
-  title: 'Workshop Prototipe'
-  subtitle: 'Dari model CAD menjadi papan siap air — dibangun, dilengkapi, dan terbukti'
-  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp'
-  image_alt: 'Fabrikasi papan di workshop prototipe OLagoon'
+  title: 'Prototype Workshop'
+  subtitle: 'From CAD model to water-ready pool — built, fitted, and proven'
+  image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+  image_alt: 'OLagoon prototype workshop pool fabrication'
 
-intro: 'Model CAD, seberkas detail apa pun, tidak dapat mengungkapkan bagaimana papan benar-benar berkendara hingga bertemu air. Itulah mengapa Workshop Prototipe kami dirancang untuk menerjemahkan data rekayasa menjadi papan fisik yang siap air secepat dan seakurat mungkin. Setiap model OLagoon baru — dan setiap pembuatan kustom signifikan — melewati workshop ini sebelum perkakas produksi dikomitmenkan.'
+intro: 'A CAD model, no matter how detailed, cannot reveal how a pool will actually perform until it meets the water. That is why our Prototype Workshop is designed to translate engineering data into a physical, water-ready pool as quickly and accurately as possible. Every new OLagoon model — and every significant custom build — passes through this workshop before the production tooling is committed.'
 
 content_html: |
-  <h2>Tempat desain menjadi kenyataan</h2>
-  <p>Workshop ini dilengkapi penuh untuk fabrikasi simultan lambung, rail, dan rigging. Pendekatan alur kerja paralel ini memangkas waktu tunggu prototipe menjadi 8-12 minggu sejak rilis rekayasa, dibandingkan norma industri 16-20 minggu. Ketika aplikasi Anda menuntut solusi khusus, kami dapat bergerak dari konsep hingga validasi di air dalam waktu kurang dari tiga bulan.</p>
+  <h2>Where design becomes reality</h2>
+  <p>The workshop is fully equipped for simultaneous fabrication of hull, rails, and rigging. This parallel-workflow approach cuts prototype lead time to 8-12 weeks from engineering release, compared to the industry norm of 16-20 weeks. When your application demands a specialised solution, we can move from concept to on-water validation in under three months.</p>
 
-  <h2>Kemampuan workshop</h2>
+  <h2>Workshop capabilities</h2>
   <table>
-    <thead><tr><th>Stasiun Kerja</th><th>Peralatan</th><th>Tujuan</th></tr></thead>
+    <thead><tr><th>Workstation</th><th>Equipment</th><th>Purpose</th></tr></thead>
     <tbody>
-      <tr><td>Fabrikasi lambung</td><td>Pemotong kain CNC, press laminasi panas, stasiun penyiapan inti drop-stitch</td><td>Produksi lambung skala penuh dalam ketiga tipe konstruksi</td></tr>
-      <tr><td>Perakitan rail &amp; ruang</td><td>Press las RF, stasiun tacking udara panas, jig uji tiup</td><td>Fabrikasi perakitan rail dan ruang ukuran penuh dengan semua baffle dan valve</td></tr>
-      <tr><td>Rigging &amp; fitting</td><td>Jig routing fin-box, fixture las mount kargo dan pegangan, stasiun pemotongan deck-pad</td><td>Pelengkapan menyeluruh: sirip, mount kargo, leash plug, pegangan, deck pad, valve</td></tr>
-      <tr><td>Ruang instrumentasi</td><td>Sensor kecepatan GPS, transduser tekanan, akselerometer, rangkaian termokopel, pencatat data</td><td>Instalasi dan kalibrasi instrumentasi uji laut</td></tr>
+      <tr><td>Hull fabrication</td><td>CNC fabric cutter, heat-lamination press, drop-stitch core preparation station</td><td>Full-scale hull production in all three construction types</td></tr>
+      <tr><td>Rail &amp; chamber assembly</td><td>RF welding press, hot-air tacking station, inflation test jig</td><td>Fabrication of full-size rail and chamber assemblies with all baffles and valves</td></tr>
+      <tr><td>Rigging &amp; fitting</td><td>Fin-box routing jig, cargo-mount and handle welding fixtures, deck-pad cutting station</td><td>Complete outfitting: fins, cargo mounts, leash plugs, handles, deck pads, valves</td></tr>
+      <tr><td>Instrumentation bay</td><td>GPS speed sensor, pressure transducers, accelerometers, thermocouple array, data-logger</td><td>Sea-trial instrumentation installation and calibration</td></tr>
     </tbody>
   </table>
 
-  <h2>Perjalanan prototipe — langkah demi langkah</h2>
+  <h2>The prototype journey — step by step</h2>
   <ol>
-    <li><strong>Serah terima rekayasa</strong> — Paket desain (model 3D, laporan FEA, daftar material, jadwal layup) ditinjau secara formal oleh pemimpin workshop dan insinyur proyek. Setiap kekhawatiran manufaktur ditandai dan diselesaikan sebelum pemotongan dimulai.</li>
-    <li><strong>Produksi lambung</strong> — Lambung dibangun sesuai spesifikasi rekayasa. Untuk konstruksi satu lapis: inti drop-stitch dilaminasi dengan kulit PVC yang dispesifikasikan. Untuk konstruksi dua lapis: kulit tambahan diaplikasikan di atas laminat dasar sebelum pola dipotong. Untuk konstruksi fusi: parameter laminasi dimuat dari lembar proses yang disetujui dan diverifikasi pada kupon pertama.</li>
-    <li><strong>Fabrikasi rail</strong> — Kain dipotong menggunakan templat pola CNC, kemudian dilas RF menjadi rail dan ruang ukuran penuh. Setiap ruang dikembangkan hingga tekanan uji dan dibiarkan selama 24 jam untuk stabilisasi awal.</li>
-    <li><strong>Perakitan &amp; rigging</strong> — Lambung dan rail disatukan. Fin box dan mount kargo dipasang, leash plug dan pegangan bawa dipasang, valve tiup dipasang dengan torsi, dan deck pad diaplikasikan serta disejajarkan.</li>
-    <li><strong>Uji statis</strong> — Sebelum papan menyentuh air, papan menjalani: pemeriksaan daya apung (beban penuh + 30 % cadangan), uji tahan tekanan ruang, uji kebocoran valve, uji tarik pegangan dan mount.</li>
-    <li><strong>Program uji laut</strong> — 20 jam pengujian di air, dirinci di bawah.</li>
-    <li><strong>Tinjauan prototipe</strong> — Rapat persetujuan formal diadakan dengan tim rekayasa, produksi, dan kualitas. Setiap perubahan desain yang diperlukan didokumentasikan dan dimasukkan ke dalam rilis produksi.</li>
+    <li><strong>Engineering handover</strong> — The design package (3D model, FEA report, bill of materials, layup schedule) is formally reviewed by the workshop lead and the project engineer. Any manufacturing concerns are flagged and resolved before cutting begins.</li>
+    <li><strong>Hull production</strong> — The hull is built according to the engineering specification. For single-layer construction: the drop-stitch core is laminated with the specified PVC skin. For double-layer construction: the additional skin is applied over the base laminate before the pattern is cut. For fused construction: the lamination parameters are loaded from the approved process sheet and verified on a first-off coupon.</li>
+    <li><strong>Rail fabrication</strong> — Fabric is cut using CNC-pattern templates, then RF-welded into full-size rails and chambers. Each chamber is inflated to test pressure and left for 24 h for initial stabilisation.</li>
+    <li><strong>Assembly &amp; rigging</strong> — Hull and rails are mated. Fin boxes and cargo mounts are fitted, leash plugs and carry handles are installed, the inflation valve is torqued in, and the deck pad is applied and aligned.</li>
+    <li><strong>Static tests</strong> — Before the pool is filled, it undergoes: structural check (full water load + 30 % reserve), chamber pressure-hold test, valve leak-down test, handle and mount pull-test.</li>
+    <li><strong>Sea trial programme</strong> — 20 hours of in-water testing, detailed below.</li>
+    <li><strong>Prototype review</strong> — A formal sign-off meeting is held with engineering, production, and quality teams. Any required design changes are documented and incorporated into the production release.</li>
   </ol>
 
   <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
-    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Program Uji Laut 20 Jam — Jadwal Pengujian</p>
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20-Hour Sea Trial Programme — Test Schedule</p>
     <div class="space-y-2 text-sm">
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
-        <span class="w-12 text-xs font-bold text-blue-600">2 jam</span>
-        <span class="flex-1">Familiarisasi air tenang — pelacakan kecepatan rendah, berbelok, pemeriksaan postur dan trim</span>
+        <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
+        <span class="flex-1">Flat-water familiarisation — low-speed tracking, turning, stance and trim check</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
-        <span class="w-12 text-xs font-bold text-blue-600">4 jam</span>
-        <span class="flex-1">Uji kecepatan — kecepatan tertinggi terverifikasi GPS, kecepatan jelajah, kecepatan berkelanjutan pada 3 laju dayungan</span>
+        <span class="w-12 text-xs font-bold text-blue-600">4 h</span>
+        <span class="flex-1">Speed trial — GPS-verified top speed, cruise speed, sustained pace at 3 stroke rates</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
-        <span class="w-12 text-xs font-bold text-blue-600">3 jam</span>
-        <span class="flex-1">Uji berbelok — radius pivot-turn dan sweep-turn, respons papan, kiri dan kanan</span>
+        <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
+        <span class="flex-1">Stability test — wall rigidity, floor firmness, and seating comfort under full load</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
-        <span class="w-12 text-xs font-bold text-blue-600">3 jam</span>
-        <span class="flex-1">Uji riak — lintasan berulang melalui riak 0,5–1,0 m; akselerometer pada posisi postur pengendara</span>
+        <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
+        <span class="flex-1">Chop test — repeated runs through 0.5–1.0 m chop; accelerometer at the rider stance position</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
-        <span class="w-12 text-xs font-bold text-blue-600">3 jam</span>
-        <span class="flex-1">Uji stabilitas — sudut kemiringan statis dengan 4 pengendara bobot beragam, beban offset ke kanan</span>
+        <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
+        <span class="flex-1">Stability test — static heel angle with 4 riders of varying weight, offset load to starboard</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
-        <span class="w-12 text-xs font-bold text-blue-600">3 jam</span>
-        <span class="flex-1">Jalur ketahanan — 3 jam berkelanjutan pada kecepatan jelajah; pemantauan tekanan ruang, suhu rail, dan kelelahan pengendara</span>
+        <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
+        <span class="flex-1">Endurance run — 3 h continuous at cruise pace; monitoring of chamber pressure, rail temperature, and rider fatigue</span>
       </div>
       <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
-        <span class="w-12 text-xs font-bold text-blue-600">2 jam</span>
-        <span class="flex-1">Inspeksi akhir — inspeksi pasca-uji seluruh komponen, mengencangkan/memeriksa semua pengencang, mendokumentasikan temuan</span>
+        <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
+        <span class="flex-1">Final inspection — post-trial inspection of all components, tighten/check all fasteners, document findings</span>
       </div>
     </div>
   </div>
 
-  <h2>Prototipe kustom untuk aplikasi unik</h2>
-  <p>Workshop Prototipe adalah tempat kami memecahkan masalah yang tidak dapat diatasi oleh papan produksi standar. Contoh terkini meliputi:</p>
+  <h2>Custom prototyping for unique applications</h2>
+  <p>The Prototype Workshop is where we solve the problems that standard production pools cannot address. Recent examples include:</p>
   <ul>
-    <li>SUP penyelamatan berkepadaran tinggi untuk organisasi search-and-rescue, yang membutuhkan pegangan grab terintegrasi, mount peralatan untuk peralatan penyelamatan, dan lambung daya apung tinggi untuk pemulihan korban — semuanya diprototipekan, dilengkapi, dan diuji di fasilitas kami.</li>
-    <li>SUP touring ekspedisi untuk kontraktor survei hidrografi, dengan tiang instrumen yang dapat dilepas, port peralatan tersegel, dan mount transduser low-profile yang dirancang untuk meminimalkan hambatan.</li>
-    <li>SUP memancing ringkas untuk armada resor, di mana prototipe digunakan untuk memvalidasi stabilitas, rigging peralatan, dan daya tahan dalam penggunaan rental harian sebelum klien berkomitmen pada armada empat unit.</li>
+    <li>A high-visibility rescue pool for a search-and-rescue organisation, requiring integrated grab handles, gear mounts for rescue equipment, and a high-buoyancy hull for casualty recovery — all prototyped, fitted, and tested at our facility.</li>
+    <li>An expedition touring pool for a hydrographic survey contractor, with a removable instrument mast, sealed gear ports, and a low-profile transducer mount designed to minimise drag.</li>
+    <li>A compact fishing pool for a resort fleet, where the prototype was used to validate stability, gear rigging, and durability under daily rental use before the client committed to a fleet of four.</li>
   </ul>
 
-  <h2>Tim prototyping kami</h2>
-  <p>Workshop ini dijalankan oleh delapan teknisi marinir multi-keahlian, masing-masing dilatih silang dalam minimal dua dari tiga disiplin inti (lambung, rail, rigging). Pemimpin tim adalah fabrikator master dengan pengalaman 16 tahun mulai dari pembuatan one-off kustom hingga seri produksi. Setiap prototipe ditugaskan seorang insinyur proyek khusus yang menjadi titik kontak tunggal untuk klien selama proses pembuatan dan uji coba.</p>
+  <h2>Our prototyping team</h2>
+  <p>The workshop is staffed by eight multi-skilled marine technicians, each cross-trained in at least two of the three core disciplines (hull, rail, rigging). The team lead is a master fabricator with 16 years of experience spanning custom one-off builds to production series. Every prototype is assigned a dedicated project engineer who serves as the single point of contact for the client throughout the build and trial process.</p>
 
-  <h2>Keterlibatan klien</h2>
-  <p>Kami secara aktif mendorong klien kami untuk menghadiri milestone penting selama pembuatan prototipe — khususnya tinjauan fit-out awal dan uji laut. Masukan operasional Anda selama tahap ini sangat berharga untuk menyempurnakan papan sebelum memasuki produksi. Kami tidak membangun dalam kehampaan; kami membangun dalam kemitraan dengan Anda.</p>
-  <p>Uji laut 20 jam juga merupakan kesempatan bagi tim Anda untuk membiasakan diri dengan pengendalian papan, tata letak deck, dan persyaratan perawatan, memastikan transisi mulus ke layanan ketika papan produksi dikirim.</p>
+  <h2>Client involvement</h2>
+  <p>We actively encourage our clients to attend key milestones during the prototype build — particularly the initial fit-out review and the sea trial. Your operational feedback during these stages is invaluable in fine-tuning the pool before it enters production. We do not build in a vacuum; we build in partnership with you.</p>
+  <p>The 20-hour water trial is also an opportunity for your team to familiarise themselves with the pool's operation, layout, and maintenance requirements, ensuring a smooth transition to service when the production pools are delivered.</p>
 
 cta:
-  title: 'Mulai proyek prototipe Anda'
-  subtitle: 'Ceritakan papan yang Anda butuhkan dan kami akan mengusulkan rencana pengembangan prototipe.'
-  button_text: 'Hubungi tim prototyping kami'
+  title: 'Start your prototype project'
+  subtitle: 'Tell us about the pool you need and we will propose a prototype development plan.'
+  button_text: 'Contact our prototyping team'
   button_link: /contact/

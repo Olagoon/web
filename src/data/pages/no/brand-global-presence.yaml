@@ -1,86 +1,86 @@
 meta:
-  title: 'Global Tilstedeværelse — SUP-produsent som betjener 50+ land | {SITE}'
-  description: 'olagoon eksporterer oppblåsbare SUPer til over 50 land på alle kontinenter. Profesjonell produsent og leverandør for merker, distributører og flåter.'
+  title: 'Global Presence — pool Manufacturer Serving 50+ Countries | {SITE}'
+  description: 'olagoon exports inflatable pools to 50+ countries across every continent. Professional manufacturer and supplier for brands, distributors, and fleets.'
   keywords:
-    - 'global SUP-produsent'
-    - 'paddle board eksportør'
-    - 'SUP-fabrikk Kina'
-    - 'profesjonell SUP-leverandør'
+    - 'global pool manufacturer'
+    - 'inflatable pool exporter'
+    - 'pool factory china'
+    - 'professional pool supplier'
 hero:
-  tagline: Global tilstedeværelse
-  title: Betjener 50+ land<br />over alle kontinenter
-  subtitle: Fra europeiske kystpatruljeoperatører til australske vannsportsdistributører til redningsteam i Midtøsten — olagoon-brett er på vannet over hele verden.
+  tagline: Global Presence
+  title: 'Serving 50+ Countries<br />Across Every Continent'
+  subtitle: 'From European resort operators to Australian outdoor retailers to Middle East hospitality groups — OLagoon pools are in backyards worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: olagoon global maritim produksjon og distribusjon
+    alt: olagoon global marine manufacturing and distribution
 stats:
-  title: Global rekkevidde
+  title: Global Reach
   stats:
-    - title: Land
-      amount: 50+
-    - title: Eksportmarkeder
-      amount: Europa, Amerika, Asia, Midtøsten, Oseania
-    - title: Produksjon
-      amount: Qingdao, Kina
-    - title: USA-lager
+    - title: Countries
+      amount: '50+'
+    - title: Export Markets
+      amount: Europe, Americas, Asia, Middle East, Oceania
+    - title: Production
+      amount: Qingdao, China
+    - title: US Warehouse
       amount: Montclair, CA
 features3_markets:
-  tagline: Nøkkelmarkeder
-  title: Regional ekspertise<br />for lokale krav
-  subtitle: Vi forstår at ulike markeder har ulike regulatoriske krav, preferanser og bruksområder.
+  tagline: Key Markets
+  title: 'Regional Expertise<br />for Local Requirements'
+  subtitle: 'We understand that different markets have different regulatory requirements, preferences, and use cases.'
   isBeforeContent: false
   columns: 4
   items:
-    - title: Europa og Storbritannia
-      description: CE-sertifiserte produkter. Sterk etterspørsel etter SUP-brett på EU-markeder. Britiske distributører setter pris på vår raske behandling.
+    - title: Europe & UK
+      description: 'CE-certified products. Strong demand for pools across EU markets. UK distributors appreciate our quick turnaround.'
       icon: tabler:map-pin
-    - title: Nord-Amerika
-      description: US Coast Guard godkjent produksjon. US-lager i Montclair, CA for rask levering til vestkysten. Økende etterspørsel etter fiske-, rednings- og rekreasjons-SUP-er.
+    - title: North America
+      description: 'US Coast Guard approved manufacturing. US warehouse in Montclair, CA for fast West Coast delivery. Growing demand for fishing, rescue, and recreational pools.'
       icon: tabler:map-pin
-    - title: Australia og Oseania
-      description: Sterkt marked for SUP-brett og vannsportstilbehør. Australske distributører verdsetter vår UV-bestandige PVC-konstruksjon under harde solforhold. Rask frakt fra vårt asiatiske anlegg.
+    - title: Australia & Oceania
+      description: 'Strong market for pools and water sports accessories. Australian distributors value our UV-resistant PVC construction in harsh sun conditions. Quick shipping from our Asia facility.'
       icon: tabler:map-pin
-    - title: Midtøsten
-      description: Økende etterspørsel etter vanneventyrutstyr. Våre SUP-er og sikkerhetsutstyr i kommersiell klasse er populære hos turoperatører og utleiesentre. Tilpassede konfigurasjoner for høytemperaturmiljøer.
+    - title: Middle East
+      description: 'Growing demand for water adventure equipment. Our commercial-grade pools and safety gear are popular with tour operators and rental centers. Custom configurations for high-temperature environments.'
       icon: tabler:map-pin
 features3_distribution:
-  tagline: Distribusjonsnettverk
-  title: Samarbeider med distributører<br />over hele verden
-  subtitle: Vi samarbeider med etablerte marine utstyrsdistributører, vannsportsmerkevarer og offentlige innkjøpsetater.
+  tagline: Distribution Network
+  title: 'Partnering with Distributors<br />Worldwide'
+  subtitle: 'We work with established marine equipment distributors, water sports brands, and government procurement agencies.'
   isBeforeContent: false
   columns: 3
   items:
-    - title: Co-brand-programmer
-      description: Private label-produksjon for globale vannsportsmerkevarer. Vi håndterer alt fra design til produksjon til drop-shipping.
+    - title: Co-Brand Programs
+      description: 'Private label manufacturing for global water sports brands. We handle everything from design to production to drop-shipping.'
       icon: tabler:building
-    - title: Distributørnettverk
-      description: Autoriserte distributører i 20+ land har lager og gir lokal støtte. Nye distributørforespørsler velkomne.
+    - title: Distributor Network
+      description: 'Authorized distributors in 20+ countries carry stock and provide local support. New distributor inquiries welcome.'
       icon: tabler:users
-    - title: Statlig og institusjonell
-      description: Direkte forsyning til kystvakter, søk- og redningsorganisasjoner og militære innkjøpsprogrammer. Samsvar med institusjonelle innkjøpskrav.
+    - title: Government & Institutional
+      description: 'Direct supply to coast guards, search and rescue organizations, and military procurement programs. Compliance with institutional procurement requirements.'
       icon: tabler:building-community
 steps2_logistics:
-  title: Global logistikk & støtte
-  subtitle: Fra fabrikk til destinasjon — vi håndterer hele forsyningskjeden.
+  title: 'Global Logistics & Support'
+  subtitle: 'From factory to destination — we manage the entire supply chain.'
   items:
-    - title: Fraktalternativer
-      description: Sjøfrakt (FOB Qingdao), luftfrakt for hasteordre og ekspressbud for prøver og reservedeler.
+    - title: Shipping Options
+      description: 'Sea freight (FOB Qingdao), air freight for urgent orders, and express courier for samples and spare parts.'
       icon: tabler:truck-delivery
-    - title: USA-lager
-      description: 'Lager i Montclair, CA for rask levering over hele Nord-Amerika. Vestkysten: 2-3 dager, Sentralt: 3-4 dager, Østkysten: 4-5 dager.'
+    - title: US Warehouse
+      description: 'Stock held in Montclair, CA for fast delivery across North America. West Coast: 2-3 days, Central: 3-4 days, East Coast: 4-5 days.'
       icon: tabler:building-warehouse
-    - title: Reservedeler
-      description: Ekte olagoon-reservedeler og forbruksvarer på lager året rundt. Vanlige deler sendes innen 24 timer.
+    - title: Spare Parts
+      description: 'Genuine olagoon spare parts and consumables stocked year-round. Common parts ship within 24 hours.'
       icon: tabler:package
-    - title: Teknisk support
-      description: Direktlinje til ingeniørteamet vårt for tekniske spørsmål, reparasjonsråd og støtte på reservedeler. Vi støtter brett vi bygget for 20 år siden.
+    - title: Technical Support
+      description: 'Direct line to our engineering team for technical questions, repair advice, and replacement-part support. We support every pool generation we have built.'
       icon: tabler:headset
 cta:
-  title: Vil du bli distributør?
-  subtitle: Vi utvider aktivt distribusjonsnettverket vårt. Kontakt eksportteamet vårt for å diskutere partnerskapsmuligheter.
+  title: 'Want to become a distributor?'
+  subtitle: 'We are actively expanding our distribution network. Contact our export team to discuss partnership opportunities.'
   actions:
     - variant: primary
-      text: Partnerspørsel
+      text: Partnership inquiry
       href: /contact/
-    - text: Se vårt produktsortiment
+    - text: View our product range
       href: /products/

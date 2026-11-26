@@ -1,54 +1,54 @@
 meta:
-  title: 'SUP vairumtirdzniecības izplatīšanas partneru programma | {SITE}'
-  description: 'Pievienojieties OLagoon globālajam SUP vairumtirdzniecības izplatīšanas tīklam. Ekskluzīvas teritorijas, pilns piepūšamo SUP produktu portfelis, konkurētspējīgas vairumtirdzniecības cenas un atveltīta kontu pārvaldība 50+ valstīs.'
+  title: 'pool Wholesale Distribution Partner Program | {SITE}'
+  description: "Join OLagoon's global pool wholesale distribution network. Exclusive territories, complete inflatable pools product portfolio, competitive wholesale pricing, and dedicated account management in 50+ countries."
 
 hero:
-  tagline: 'Izplatītāji'
-  title: 'Pievienojieties mūsu globālajam<br />izplatīšanas tīklam'
-  subtitle: 'SUP vairumtirdzniecības izplatīšanas partneru programma ar ekskluzīvām teritorijām, pilnu piepūšamo SUP produktu portfeli un pasaules līmeņa atbalstu. OLagoon piegādā uz 50+ valstīm — mēs meklējam pastāvīgus jūras un ūdenssporta izplatītājus.'
+  tagline: Distributors
+  title: 'Join Our Global<br />Distribution Network'
+  subtitle: "pool wholesale distribution partner program with exclusive territories, complete inflatable pools product portfolio, and world-class support. OLagoon ships to 50+ countries — we're looking for established marine and water sports distributors."
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'OLagoon globālā izplatīšanas un piegādes operācijas'
+    alt: OLagoon global distribution and shipping operations
 
 benefits:
-  title: 'Ko saņem izplatītāji'
-  subtitle: 'Viss, kas jums nepieciešams, lai gūtu panākumus savā tirgū.'
+  title: What Distributors Get
+  subtitle: 'Everything you need to succeed in your market.'
   items:
-    - 'Ekskluzīvas teritorijas tiesības'
-    - 'Pilns produktu katalogs (SUP, piederumi, daļas)'
-    - 'Konkurētspējīgas vairumtirdzniecības cenas'
-    - 'Mārketinga un pārdošanas materiāli (tulkoti)'
-    - 'Apmācību programma (produkts, pārdošana, apkope)'
-    - 'Tirdzniecības izstāžu atbalsts'
-    - 'Paraugu programma'
-    - 'Drop-ship iespējas'
-    - 'Atveltīts izplatītāju konta menedžeris'
-    - '45-60 dienu maksājuma nosacījumi'
+    - 'Exclusive territory rights'
+    - 'Complete product catalog (pool, accessories, parts)'
+    - 'Competitive wholesale pricing'
+    - 'Marketing & sales materials (translated)'
+    - 'Training program (product, sales, maintenance)'
+    - 'Trade show support'
+    - 'Sample program'
+    - 'Drop-ship capability'
+    - 'Dedicated distributor account manager'
+    - '45-60 day payment terms'
 
 coverage:
-  title: 'Pašreizējā izplatīšana'
-  subtitle: 'OLagoon šobrīd apkalpo šos tirgus tieši.'
+  title: Current Distribution
+  subtitle: 'OLagoon currently serves these markets directly.'
   regions:
-    - name: 'Eiropa'
-      countries: 'Francija, Vācija, Apvienotā Karaliste, Spānija, Itālija, Nīderlande, Zviedrija, Norvēģija, Polija, Grieķija'
-    - name: 'Āzija'
-      countries: 'Japāna, Dienvidkoreja, Ķīna, Taizeme, Singapūra'
-    - name: 'Tuvie Austrumi'
-      countries: 'AAE, Saūda Arābija'
-    - name: 'Amerika'
-      countries: 'ASV, Kanāda, Brazīlija, Meksika'
-    - name: 'Okeānija'
-      countries: 'Austrālija, Jaunzēlande'
-    - name: 'Āfrika'
-      countries: 'Dienvidāfrika, Maroka'
+    - name: Europe
+      countries: 'France, Germany, UK, Spain, Italy, Netherlands, Sweden, Norway, Poland, Greece'
+    - name: Asia
+      countries: 'Japan, South Korea, China, Thailand, Singapore'
+    - name: Middle East
+      countries: 'UAE, Saudi Arabia'
+    - name: Americas
+      countries: 'USA, Canada, Brazil, Mexico'
+    - name: Oceania
+      countries: 'Australia, New Zealand'
+    - name: Africa
+      countries: 'South Africa, Morocco'
 
 cta:
-  title: 'Gatavs kļūt par izplatītāju?'
-  subtitle: 'Pieteicieties mūsu izplatītāju programmā vai lejupielādējiet mūsu izplatītāju informācijas komplektu.'
+  title: 'Ready to become a distributor?'
+  subtitle: 'Apply for our distributor program or download our distributor information kit.'
   actions:
-    - text: 'Pieteikties izplatītāju programmā'
+    - text: 'Apply for Distributor Program'
       href: '/contact/?partner=distributor'
       variant: 'primary'
-    - text: 'Lejupielādēt izplatītāju komplektu'
+    - text: 'Download Distributor Kit'
       href: '/resources/download-catalog/'
       variant: 'secondary'

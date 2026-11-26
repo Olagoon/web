@@ -1,85 +1,89 @@
 meta:
-  title: 'Custom Lab — προσαρμοσμένες φουσκωτές σανίδες paddle board | {SITE}'
-  description: 'Προσαρμοσμένες φουσκωτές σανίδες paddle board: ιδιότυπο design, λογότυπο, δικό σας καλούπι και παραγωγή. Συνεργάτης SUP ιδιωτικής ετικέτας, MOQ 50 τεμάχια, πιστοποίηση CE.'
+  title: 'Custom Lab — Custom Inflatable Pool | {SITE}'
+  description: 'Custom inflatable pool: bespoke design, logo, custom mold, and production. Private-label pool partner, MOQ 50 units, CE certified.'
   keywords:
-    - 'κατασκευαστής προσαρμοσμένων paddle board'
-    - 'προσαρμοσμένο φουσκωτό SUP'
-    - 'paddle board με λογότυπο'
-    - 'φουσκωτό SUP ιδιωτικής ετικέτας'
-    - 'παραγωγή paddle board'
+    - 'custom inflatable pool manufacturer'
+    - 'custom inflatable pools'
+    - 'inflatable pool with logo'
+    - 'private label inflatable pools'
+    - 'inflatable pool manufacturing'
 hero:
   tagline: olagoon Custom Lab
-  title: Σχεδιάστε τη δική σας<br />σανίδα SUP
-  subtitle: Συνεργάτης προσαρμοσμένων SUP που προσφέρει co-brand, ιδιωτική ετικέτα και παραγωγή προσαρμοσμένων paddle board κατά παραγγελία για επιχειρήσεις παγκοσμίως. Από ένα μεμονωμένο πρωτότυπο έως πλήρεις σειρές παραγωγής.
-  cta: Ξεκινήστε το έργο
+  title: Design Your Own<br />pools
+  subtitle: Custom pool partner offering co-brand, private label, and bespoke inflatable pool production for businesses worldwide. From a single prototype to full production runs.
+  cta: Start your project
   footer_link: /contact/
+
 steps_section:
-  tagline: Πώς λειτουργεί
-  title: Από τη σύλληψη στην παραγωγή
-  subtitle: Τέσσερα βήματα από την ιδέα σας σε ένα ολοκληρωμένο, έτοιμο για θάλασσα προϊόν.
+  tagline: How it works
+  title: From concept to production
+  subtitle: Four steps from your idea to a finished, sea-ready product.
   steps:
     - num: '01'
-      title: Επιλέξτε σανίδα
-      desc: Διαλέξτε από τα βασικά μας μοντέλα SUP — all-around, touring, yoga, sport ή kids. Επιλέξτε μέγεθος, υλικό και χρώμα.
+      title: Choose Your Pool
+      desc: Select from our core pool models — all-around, touring, yoga, sport, or kids. Pick size, material, and colour.
     - num: '02'
-      title: Υποβάλετε το σχέδιό σας
-      desc: Στείλτε μας το λογότυπο, τα γραφικά ή τις οδηγίες επωνυμίας σας. Η ομάδα σχεδιασμού μας θα ετοιμάσει ένα ψηφιακό δείγμα.
+      title: Upload Your Design
+      desc: Send us your logo, artwork, or brand guidelines. Our design team prepares a digital proof.
     - num: '03'
-      title: Προεπισκόπηση AI mockup
-      desc: Δείτε ένα φωτορεαλιστικό mockup με τεχνητή νοημοσύνη της προσαρμοσμένης σανίδας σας πριν ξεκινήσει η παραγωγή.
+      title: AI Mockup Review
+      desc: View a photorealistic AI-generated mockup of your custom pool before production begins.
     - num: '04'
-      title: Παραγωγή και παράδοση
-      desc: Μετά την έγκριση, η παραγγελία σας εισέρχεται στην πιστοποιημένη ISO γραμμή παραγωγής μας. Χρόνος παράδοσης από 30 ημέρες.
+      title: Production & Delivery
+      desc: Once approved, your order enters our production line. Lead times from 30 days.
+
 services_section:
-  tagline: Υπηρεσίες
-  title: Υπηρεσίες παραγωγής για παγκόσμιες επωνυμίες
-  subtitle: Ευέλικτα μοντέλα συνεργασίας — από συμβατική παραγωγή έως ολοκληρωμένη δημιουργία επωνυμίας.
+  tagline: Services
+  title: Manufacturing services for global brands
+  subtitle: Flexible engagement models — from contract manufacturing to full-service brand building.
   items:
-    - title: Παραγωγή Co-Brand
-      desc: Παράγουμε σύμφωνα με τις προδιαγραφές σας — η πνευματική σας ιδιοκτησία, τα σχέδιά σας, τα ποιοτικά σας πρότυπα. Πλήρης προστασία NDA.
+    - title: Co-Brand Production
+      desc: We produce your designs to spec — your IP, your drawings, your quality standards. Full NDA protection.
       icon: ⚙️
-    - title: Σχεδιαστικές Λύσεις
-      desc: Επιλέξτε από πάνω από 50 δοκιμασμένες πλατφόρμες και προσαρμόστε μέγεθος, χρώμα, γραφικά και συσκευασία.
-      icon: 🎨
-    - title: Ιδιωτική ετικέτα
-      desc: Η επωνυμία σας στα προϊόντα μας — λογότυπο, συσκευασία, ετικέτες, οδηγίες. Έτοιμο προς πώληση κατευθείαν από το κουτί.
-      icon: 🏷️
-    - title: Προσαρμοσμένη επωνυμία
-      desc: Εκτύπωση καταστρώματος, γραφικά γάστρας, αυτοκόλλητα σωλήνων και προσαρμοσμένες ετικέτες — πλήρης ενσωμάτωση επωνυμίας.
-      icon: ✨
+    - title: Design Solutions
+      desc: Choose from 50+ proven platforms and customise size, colour, graphics, and packaging.
+      icon: '🎨'
+    - title: Private Label
+      desc: Your brand on our products — logo, packaging, hang tags, manuals. Retail-ready out of the box.
+      icon: '🎨'
+    - title: Custom Branding
+      desc: Deck pad printing, hull graphics, tube decals, and custom labels — full brand integration.
+      icon: ⚙️
+
 capabilities_section:
-  tagline: Δυνατότητες
-  title: Παραγωγικές δυνατότητες και προσαρμογή
-  subtitle: Όλα όσα πρέπει να γνωρίζετε πριν υποβάλετε παραγγελία.
+  tagline: Capabilities
+  title: Production & customisation capabilities
+  subtitle: Everything you need to know before placing your order.
   capabilities:
-    - label: Όγκος παραγγελίας
-      value: MOQ 50 τεμ. (SUP)
-    - label: Χρόνος παράδοσης
-      value: 30–45 ημέρες standard, 15–20 ημέρες για πρωτότυπα
-    - label: Προσαρμογή
-      value: Μέγεθος, σχήμα, χρώμα, γραφικά, συσκευασία, εξαρτήματα
-    - label: Υλικά
-      value: PVC, drop-stitch, EVA, αλουμίνιο
-    - label: Εκτύπωση
-      value: Ψηφιακή (CMYK), μεταξοτυπία, θερμική μεταφορά, sublimation
-    - label: Πιστοποίηση
-      value: CE, UKCA, FCC (υποστήριξη παγκόσμιας συμμόρφωσης)
+    - label: Order volume
+      value: MOQ 50 units (pool)
+    - label: Lead time
+      value: 12–16 weeks standard (50–100 units); 15–20 days for prototypes
+    - label: Customisation
+      value: Size, shape, colour, graphics, packaging, hardware
+    - label: Materials
+      value: PVC, drop-stitch, EVA, aluminium
+    - label: Printing
+      value: Digital (CMYK), screen printing, heat transfer, sublimation
+    - label: Certification
+      value: CE, UKCA, FCC (support for global compliance)
+
 why_section:
-  tagline: Γιατί olagoon
-  title: Ένα εργοστάσιο. Ένα πρότυπο. Καμία υποχώρηση.
+  tagline: Why olagoon
+  title: One factory. One standard. Zero compromises.
   points:
-    - text: Ολοκληρωμένη παραγωγική μονάδα 12.000 τ.μ.
-      highlight: 12.000 τ.μ.
-    - text: Πάνω από 200 ειδικευμένοι εργαζόμενοι και μηχανικοί
+    - text: 12,000 m² integrated manufacturing facility
+      highlight: 12,000 m²
+    - text: 200+ skilled workers and engineers
       highlight: 200+
-    - text: Πάνω από 15.000 σανίδες SUP που παράγονται ετησίως
-      highlight: 15.000+
-    - text: Πιστοποιημένο σύστημα διαχείρισης ποιότητας ISO 9001
+    - text: 15,000+ pools produced annually
+      highlight: 15,000+
+    - text: ISO 9001-certified quality management
       highlight: ISO 9001
-    - text: Προϊόντα πιστοποιημένα CE για την αγορά της ΕΕ
+    - text: CE certified products for EU market
       highlight: CE
-  cta: Δείτε λεπτομέρειες εργοστασίου
+  cta: View factory details
   cta_link: /factory/
   contact:
-    title: Έτοιμοι να συζητήσετε το έργο σας;
-    desc: Η ομάδα μας απαντά εντός 24 ωρών με αρχική προσφορά.
+    title: Ready to discuss your project?
+    desc: Our team responds within 24 hours with a preliminary quote.

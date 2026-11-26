@@ -1,54 +1,54 @@
 meta:
-  title: 'Програм партнера за продају SUP плоча на велико | {SITE}'
-  description: 'Придружите се olagoon глобалној мрежи дистрибуције SUP плоча на велико. Ексклузивне територије, комплетан портфолио производа надуваних SUP плоча, конкурентске цене на велико и посвећено вођење налога у 50+ земаља.'
+  title: 'pool Wholesale Distribution Partner Program | {SITE}'
+  description: "Join OLagoon's global pool wholesale distribution network. Exclusive territories, complete inflatable pools product portfolio, competitive wholesale pricing, and dedicated account management in 50+ countries."
 
 hero:
-  tagline: 'Дистрибутери'
-  title: 'Придружите се нашој глобалној<br />дистрибуционој мрежи'
-  subtitle: 'Партнерски програм дистрибуције SUP плоча на велико са ексклузивним територијама, комплетним портфолиом производа надуваних SUP плоча и подршком светске класе. olagoon испоручује у 50+ земаља — тражимо утврђене дистрибутере опреме за воде и водених спортова.'
+  tagline: Distributors
+  title: 'Join Our Global<br />Distribution Network'
+  subtitle: "pool wholesale distribution partner program with exclusive territories, complete inflatable pools product portfolio, and world-class support. OLagoon ships to 50+ countries — we're looking for established marine and water sports distributors."
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'olagoon глобалне операције дистрибуције и испоруке'
+    alt: OLagoon global distribution and shipping operations
 
 benefits:
-  title: 'Шта дистрибутери добијају'
-  subtitle: 'Све што вам треба да успете на вашем тржишту.'
+  title: What Distributors Get
+  subtitle: 'Everything you need to succeed in your market.'
   items:
-    - 'Ексклузивна територијална права'
-    - 'Комплетан каталог производа (SUP, додаци, делови)'
-    - 'Конкурентске цене на велико'
-    - 'Маркетиншки и продајни материјали (преведени)'
-    - 'Програм обуке (производ, продаја, одржавање)'
-    - 'Подршка на сајмовима'
-    - 'Програм узорака'
-    - 'Могућност директне испоруке'
-    - 'Посвећени менаџер налога дистрибутера'
-    - 'Услови плаћања од 45-60 дана'
+    - 'Exclusive territory rights'
+    - 'Complete product catalog (pool, accessories, parts)'
+    - 'Competitive wholesale pricing'
+    - 'Marketing & sales materials (translated)'
+    - 'Training program (product, sales, maintenance)'
+    - 'Trade show support'
+    - 'Sample program'
+    - 'Drop-ship capability'
+    - 'Dedicated distributor account manager'
+    - '45-60 day payment terms'
 
 coverage:
-  title: 'Тренутна дистрибуција'
-  subtitle: 'olagoon тренутно директно опслужује ова тржишта.'
+  title: Current Distribution
+  subtitle: 'OLagoon currently serves these markets directly.'
   regions:
-    - name: 'Европа'
-      countries: 'Француска, Немачка, УК, Шпанија, Италија, Холандија, Шведска, Норвешка, Пољска, Грчка'
-    - name: 'Азија'
-      countries: 'Јапан, Јужна Кореја, Кина, Тајланд, Сингапур'
-    - name: 'Блиски исток'
-      countries: 'УАЕ, Саудијска Арабија'
-    - name: 'Америке'
-      countries: 'САД, Канада, Бразил, Мексико'
-    - name: 'Океанија'
-      countries: 'Аустралија, Нови Зеланд'
-    - name: 'Африка'
-      countries: 'Јужна Африка, Мароко'
+    - name: Europe
+      countries: 'France, Germany, UK, Spain, Italy, Netherlands, Sweden, Norway, Poland, Greece'
+    - name: Asia
+      countries: 'Japan, South Korea, China, Thailand, Singapore'
+    - name: Middle East
+      countries: 'UAE, Saudi Arabia'
+    - name: Americas
+      countries: 'USA, Canada, Brazil, Mexico'
+    - name: Oceania
+      countries: 'Australia, New Zealand'
+    - name: Africa
+      countries: 'South Africa, Morocco'
 
 cta:
-  title: 'Спремни да постанете дистрибутер?'
-  subtitle: 'Пријавите се за наш програм за дистрибутере или преузмите наш информативни комплет за дистрибутере.'
+  title: 'Ready to become a distributor?'
+  subtitle: 'Apply for our distributor program or download our distributor information kit.'
   actions:
-    - text: 'Пријавите се за програм за дистрибутере'
+    - text: 'Apply for Distributor Program'
       href: '/contact/?partner=distributor'
       variant: 'primary'
-    - text: 'Преузмите комплет за дистрибутере'
+    - text: 'Download Distributor Kit'
       href: '/resources/download-catalog/'
       variant: 'secondary'

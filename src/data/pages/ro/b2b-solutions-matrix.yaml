@@ -1,120 +1,123 @@
 meta:
-  title: Matricea de soluții pentru clienți B2B | {SITE}
-  description: Matrice completă a soluțiilor B2B pentru clienți OLagoon, care acoperă 24 de tipuri de clienți — de la startup-uri outdoor la instituții de conservare marină.
+  title: 'B2B Client Solutions Matrix | {SITE}'
+  description: 'Complete OLagoon B2B client solutions matrix covering 24 customer types — from outdoor startups to marine conservation institutions.'
+
 hero:
-  tagline: Soluții pentru clienți B2B
-  title: 24 de soluții B2B<br />Potrivite afacerii dvs.
-  subtitle: De la fondatorii de startup-uri la distribuitori globali — găsiți soluția OLagoon exactă, proiectată pentru modelul dvs. de afaceri, industria și obiectivele dvs.
+  tagline: B2B Client Solutions
+  title: '24 B2B Solutions<br />Matched to Your Business'
+  subtitle: 'From startup founders to global distributors — find the exact OLagoon solution designed for your business model, industry, and goals.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
-    alt: Fabrica și unitatea de producție olagoon
+    alt: OLagoon factory and manufacturing facility
+
 solutions:
-  title: Matricea Soluțiilor pentru Clienți
-  subtitle: Fiecare tip de client, nevoia sa principală și pagina de soluții OLagoon creată special pentru acesta.
+  title: Client Solutions Matrix
+  subtitle: 'Every customer type, their core need, and the OLagoon solution page designed for them.'
   items:
-    - clientType: Fondator de startup outdoor
-      need: Creare de brand
-      solutionPage: Construiți-vă brandul SUP
-      link: /solutions/sup-brand-startup/
-    - clientType: Manager de marcă outdoor
-      need: Extinderea unui brand outdoor în sporturile nautice
-      solutionPage: Extindeți un brand de exterior către sporturile nautice
+    - clientType: Outdoor Startup Founder
+      need: Brand Creation
+      solutionPage: Build Your pool Brand
+      link: /solutions/pool-brand-startup/
+    - clientType: Outdoor Brand Manager
+      need: Outdoor Brand Expansion Into Water Sports
+      solutionPage: Expand Outdoor Brand Into Water Sports
       link: /solutions/expand-outdoor-brand-water-sports/
-    - clientType: Proprietar de magazin de surf
-      need: Modernizarea afacerii de surf
-      solutionPage: Aduceți tehnologia gonflabilă în afacerea dumneavoastră de surf
+    - clientType: Surf Shop Owner
+      need: Surf Business Upgrade
+      solutionPage: Bring Inflatable Technology Into Surf Business
       link: /solutions/inflatable-technology-for-surf-business/
-    - clientType: Vânzător Amazon
-      need: Creșterea comerțului electronic
-      solutionPage: Diferențierea produselor și livrare rapidă
-      link: /solutions/ecommerce-sup-brand-development/
-    - clientType: Brand de echipament de pescuit
-      need: SUP de pescuit
-      solutionPage: Creează-ți propriul brand de SUP pentru pescuit
-      link: /solutions/create-fishing-sup-brand/
-    - clientType: Brand de Yoga și Wellness
-      need: Produse acvatice pentru wellness
-      solutionPage: Soluții de echipamente pentru SUP yoga
-      link: /solutions/sup-yoga-wellness-equipment/
-    - clientType: Brand de creator
-      need: Brand de influencer
-      solutionPage: Startup SUP Ediția Creator
-      link: /solutions/creator-influencer-sup-brand/
-    - clientType: Fondator de club de paddle
-      need: Flotă pentru cluburi
-      solutionPage: Flotă comercială de SUP
-      link: /solutions/commercial-sup-fleet/
-    - clientType: Proprietar de afacere de închirieri
-      need: Operațiuni de închiriere
-      solutionPage: Soluție durabilă pentru flote de închiriere
-      link: /solutions/durable-sup-rental-fleet/
-    - clientType: Manager de activități pentru resort
-      need: Experiența hotelieră
-      solutionPage: Pachet de activități acvatice pentru resorturi
+    - clientType: Amazon Seller
+      need: E-commerce Growth
+      solutionPage: Product Differentiation & Fast Supply
+      link: /solutions/ecommerce-pool-brand-development/
+    - clientType: Fishing Gear Brand
+      need: Fishing pool
+      solutionPage: Create Your Fishing pool Brand
+      link: /solutions/create-fishing-pool-brand/
+    - clientType: Yoga & Wellness Brand
+      need: Wellness Water Products
+      solutionPage: pool Yoga Equipment Solutions
+      link: /solutions/pool-yoga-wellness-equipment/
+    - clientType: Creator Brand
+      need: Influencer Brand
+      solutionPage: Creator Edition pool Startup
+      link: /solutions/creator-influencer-pool-brand/
+    - clientType: Paddle Club Founder
+      need: Club Fleet
+      solutionPage: Commercial pool Fleet
+      link: /solutions/commercial-pool-fleet/
+    - clientType: Rental Business Owner
+      need: Rental Operations
+      solutionPage: Durable Rental Fleet Solution
+      link: /solutions/durable-pool-rental-fleet/
+    - clientType: Resort Activity Manager
+      need: Hotel Experience
+      solutionPage: Resort Water Activity Package
       link: /solutions/resort-water-activity-package/
-    - clientType: Academia de Sporturi Acvatice
-      need: Instruire și educație
-      solutionPage: Programul de Echipamente SUP Academy
-      link: /solutions/sup-academy-equipment-program/
-    - clientType: Companie de croaziere și iahturi
-      need: Experiență pe iaht
-      solutionPage: Pachet SUP portabil de lux
-      link: /solutions/luxury-portable-sup-package/
-    - clientType: Cumpărător retail outdoor
-      need: Canal de retail
-      solutionPage: Program retail de marcă proprie
+    - clientType: Water Sports Academy
+      need: Training & Education
+      solutionPage: pool Academy Equipment Program
+      link: /solutions/pool-academy-equipment-program/
+    - clientType: Cruise & Yacht Company
+      need: Yacht Experience
+      solutionPage: Luxury Portable pool Package
+      link: /solutions/luxury-portable-pool-package/
+    - clientType: Outdoor Retail Buyer
+      need: Retail Channel
+      solutionPage: Retail Private Label Program
       link: /solutions/retail-private-label-program/
-    - clientType: Distribuitor și importator
-      need: Distribuție regională
-      solutionPage: Partener regional OEM și în lanțul de aprovizionare
+    - clientType: Distributor & Importer
+      need: Regional Distribution
+      solutionPage: Regional OEM & Supply Chain Partner
       link: /solutions/regional-oem-supply-chain-partner/
-    - clientType: Cumpărător de proiecte corporative
-      need: Evenimente corporate
-      solutionPage: Pachet corporate pentru evenimente SUP
-      link: /solutions/corporate-sup-event-package/
-    - clientType: Manager de brand pentru sporturi nautice
-      need: Extindere pentru branduri de sporturi acvatice
-      solutionPage: Extindeți-vă portofoliul de sporturi acvatice
+    - clientType: Corporate Project Buyer
+      need: Corporate Events
+      solutionPage: Corporate pool Event Package
+      link: /solutions/corporate-pool-event-package/
+    - clientType: Water Sports Brand Manager
+      need: Water Sports Brand Expansion
+      solutionPage: Expand Your Water Sports Portfolio
       link: /solutions/expand-your-water-sports-portfolio/
-    - clientType: Proprietar de brand pentru aventuri cu animale de companie
-      need: Outdoor pentru animale de companie
-      solutionPage: Program de paddle board prietenos cu animalele de companie
+    - clientType: Pet Adventure Brand Owner
+      need: Pet Outdoor
+      solutionPage: Pet-Friendly inflatable pool Program
       link: /solutions/pet-friendly-paddle-board-program/
-    - clientType: Operator de recreere pe plajă
-      need: Divertisment pe plajă
-      solutionPage: Soluții complete de echipamente pentru activități pe plajă
+    - clientType: Beach Recreation Operator
+      need: Beach Entertainment
+      solutionPage: Complete Beach Activity Equipment Solutions
       link: /solutions/complete-beach-activity-equipment-solutions/
-    - clientType: Dezvoltator de parc acvatic
-      need: Divertisment tematic
-      solutionPage: Flotă SUP pentru parcuri acvatice comerciale
-      link: /solutions/commercial-water-park-sup-fleet/
-    - clientType: Proprietar de insulă privată și club de lux
-      need: Stil de viață de lux
-      solutionPage: Colecție Premium de SUP Personalizate
-      link: /solutions/premium-custom-sup-collection/
-    - clientType: Organisme de turism și operatori de parcuri publice
-      need: Proiecte de turism public
-      solutionPage: Pachet de sporturi nautice pentru destinații
+    - clientType: Water Park Developer
+      need: Theme Entertainment
+      solutionPage: Commercial Water Park pool Fleet
+      link: /solutions/commercial-water-park-pool-fleet/
+    - clientType: Private Island & Luxury Club Owner
+      need: High-End Lifestyle
+      solutionPage: Premium Custom pool Collection
+      link: /solutions/premium-custom-pool-collection/
+    - clientType: Tourism Board & Public Park Operator
+      need: Public Tourism Projects
+      solutionPage: Destination Water Sports Package
       link: /solutions/destination-water-sports-package/
-    - clientType: Operator de aventuri pentru copii și tabere de vară
-      need: Educație pentru tineret
-      solutionPage: Program de explorare SUP pentru copii
-      link: /solutions/kids-exploration-sup-program/
-    - clientType: Organizație de Salvare Acvatică și Siguranță
-      need: Salvare profesională
-      solutionPage: Sistem profesional de salvare pe apă cu SUP
-      link: /solutions/professional-water-rescue-sup-system/
-    - clientType: Instituție de conservare și cercetare marină
-      need: Cercetare de mediu
-      solutionPage: Platformă SUP pentru cercetare ecologică și monitorizare
-      link: /solutions/eco-research-monitoring-sup-platform/
+    - clientType: Kids Adventure & Summer Camp Operator
+      need: Youth Education
+      solutionPage: Kids Exploration pool Program
+      link: /solutions/kids-exploration-pool-program/
+    - clientType: Water Rescue & Safety Organization
+      need: Professional Rescue
+      solutionPage: Professional Water Rescue pool System
+      link: /solutions/professional-water-rescue-pool-system/
+    - clientType: Marine Conservation & Research Institution
+      need: Environmental Research
+      solutionPage: Eco Research & Monitoring pool Platform
+      link: /solutions/eco-research-monitoring-pool-platform/
+
 cta:
-  title: Nu sunteți sigur care soluție se potrivește afacerii dvs.?
-  subtitle: Descrieți proiectul dvs. echipei noastre B2B, iar noi vă vom recomanda configurația și prețurile potrivite.
+  title: 'Not sure which solution fits your business?'
+  subtitle: 'Describe your project to our B2B team and we will recommend the right configuration and pricing.'
   actions:
     - variant: primary
-      text: Discutați cu echipa noastră B2B
+      text: Talk to Our B2B Team
       href: /contact/?subject=b2b-solutions
     - variant: secondary
-      text: Descarcă catalogul
+      text: Download Catalog
       href: /resources/download-catalog/

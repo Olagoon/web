@@ -1,89 +1,89 @@
 meta:
-  title: 'Custom Lab — Персонализирани надуваеми дъски за гребане | {SITE}'
-  description: 'Персонализирани надуваеми дъски за гребане: дизайн по поръчка, лого, персонализирана форма и производство. SUP партньор под собствена марка, MOQ 50 броя, CE сертифицирано.'
+  title: 'Custom Lab — Custom Inflatable Pool | {SITE}'
+  description: 'Custom inflatable pool: bespoke design, logo, custom mold, and production. Private-label pool partner, MOQ 50 units, CE certified.'
   keywords:
-    - 'производител на персонализирани дъски за гребане'
-    - 'персонализирана надуваема sup'
-    - 'дъска за гребане с лого'
-    - 'надуваема sup под собствена марка'
-    - 'производство на дъски за гребане'
+    - 'custom inflatable pool manufacturer'
+    - 'custom inflatable pools'
+    - 'inflatable pool with logo'
+    - 'private label inflatable pools'
+    - 'inflatable pool manufacturing'
 hero:
   tagline: olagoon Custom Lab
-  title: Проектирайте своя собствена<br />SUP дъска
-  subtitle: Партньор за персонализирани SUP, предлагащ съвместна марка, собствена марка и производство на дъски за гребане по поръчка за бизнеси по целия свят. От единичен прототип до пълни производствени серии.
-  cta: Стартирайте вашия проект
+  title: Design Your Own<br />pools
+  subtitle: Custom pool partner offering co-brand, private label, and bespoke inflatable pool production for businesses worldwide. From a single prototype to full production runs.
+  cta: Start your project
   footer_link: /contact/
 
 steps_section:
-  tagline: Как работи
-  title: От концепцията до производството
-  subtitle: Четири стъпки от вашата идея до готов продукт, готов за морето.
+  tagline: How it works
+  title: From concept to production
+  subtitle: Four steps from your idea to a finished, sea-ready product.
   steps:
     - num: '01'
-      title: Изберете вашата дъска
-      desc: Изберете от нашите основни SUP модели — универсални, туристически, йога, спортни или детски. Определете размер, материал и цвят.
+      title: Choose Your Pool
+      desc: Select from our core pool models — all-around, touring, yoga, sport, or kids. Pick size, material, and colour.
     - num: '02'
-      title: Качете вашия дизайн
-      desc: Изпратете ни вашето лого, художествено оформление или насоки за марката. Нашият дизайнерски екип подготвя дигитален проект.
+      title: Upload Your Design
+      desc: Send us your logo, artwork, or brand guidelines. Our design team prepares a digital proof.
     - num: '03'
-      title: Преглед на AI макет
-      desc: Вижте фотореалистичен AI-генериран макет на вашата персонализирана дъска, преди да започне производството.
+      title: AI Mockup Review
+      desc: View a photorealistic AI-generated mockup of your custom pool before production begins.
     - num: '04'
-      title: Производство и доставка
-      desc: След одобрение вашата поръчка влиза в нашата производствена линия. Срокове за изпълнение от 30 дни.
+      title: Production & Delivery
+      desc: Once approved, your order enters our production line. Lead times from 30 days.
 
 services_section:
-  tagline: Услуги
-  title: Производствени услуги за глобални марки
-  subtitle: Гъвкави модели на сътрудничество — от договорно производство до изграждане на марка с пълна услуга.
+  tagline: Services
+  title: Manufacturing services for global brands
+  subtitle: Flexible engagement models — from contract manufacturing to full-service brand building.
   items:
-    - title: Производство със съвместна марка
-      desc: Произвеждаме вашите дизайни по спецификация — вашата интелектуална собственост, вашите чертежи, вашите стандарти за качество. Пълна NDA защита.
+    - title: Co-Brand Production
+      desc: We produce your designs to spec — your IP, your drawings, your quality standards. Full NDA protection.
       icon: ⚙️
-    - title: Дизайнерски решения
-      desc: Изберете измежду 50+ доказани платформи и персонализирайте размер, цвят, графики и опаковка.
+    - title: Design Solutions
+      desc: Choose from 50+ proven platforms and customise size, colour, graphics, and packaging.
       icon: '🎨'
-    - title: Собствена марка
-      desc: Вашата марка върху нашите продукти — лого, опаковка, етикети с връзки, наръчници. Готови за продажба директно от кутията.
+    - title: Private Label
+      desc: Your brand on our products — logo, packaging, hang tags, manuals. Retail-ready out of the box.
       icon: '🎨'
-    - title: Персонализирано брандиране
-      desc: Печат на палубната подложка, графики по корпуса, деколи по тръбите и персонализирани етикети — пълна интеграция на марката.
+    - title: Custom Branding
+      desc: Deck pad printing, hull graphics, tube decals, and custom labels — full brand integration.
       icon: ⚙️
 
 capabilities_section:
-  tagline: Възможности
-  title: Възможности за производство и персонализация
-  subtitle: Всичко, което трябва да знаете, преди да направите поръчката си.
+  tagline: Capabilities
+  title: Production & customisation capabilities
+  subtitle: Everything you need to know before placing your order.
   capabilities:
-    - label: Обем на поръчката
-      value: MOQ 50 броя (SUP)
-    - label: Срок за изпълнение
-      value: 30–45 дни стандартно; 15–20 дни за прототипи
-    - label: Персонализация
-      value: Размер, форма, цвят, графики, опаковка, крепежни елементи
-    - label: Материали
-      value: PVC, Drop-Stitch, EVA, алуминий
-    - label: Печат
-      value: Дигитален (CMYK), ситопечат, термопренос, сублимация
-    - label: Сертифициране
-      value: CE, UKCA, FCC (подкрепа за глобално съответствие)
+    - label: Order volume
+      value: MOQ 50 units (pool)
+    - label: Lead time
+      value: 12–16 weeks standard (50–100 units); 15–20 days for prototypes
+    - label: Customisation
+      value: Size, shape, colour, graphics, packaging, hardware
+    - label: Materials
+      value: PVC, drop-stitch, EVA, aluminium
+    - label: Printing
+      value: Digital (CMYK), screen printing, heat transfer, sublimation
+    - label: Certification
+      value: CE, UKCA, FCC (support for global compliance)
 
 why_section:
-  tagline: Защо olagoon
-  title: Една фабрика. Един стандарт. Нула компромиси.
+  tagline: Why olagoon
+  title: One factory. One standard. Zero compromises.
   points:
-    - text: 12 000 м² интегрирано производствено съоръжение
-      highlight: 12 000 м²
-    - text: 200+ квалифицирани работници и инженери
+    - text: 12,000 m² integrated manufacturing facility
+      highlight: 12,000 m²
+    - text: 200+ skilled workers and engineers
       highlight: 200+
-    - text: 15 000+ SUP дъски, произвеждани годишно
-      highlight: 15 000+
-    - text: ISO 9001 сертифицирано управление на качеството
+    - text: 15,000+ pools produced annually
+      highlight: 15,000+
+    - text: ISO 9001-certified quality management
       highlight: ISO 9001
-    - text: CE сертифицирани продукти за пазара на ЕС
+    - text: CE certified products for EU market
       highlight: CE
-  cta: Вижте детайлите за фабриката
+  cta: View factory details
   cta_link: /factory/
   contact:
-    title: Готови ли сте да обсъдите вашия проект?
-    desc: Нашият екип отговаря в рамките на 24 часа с предварителна оферта.
+    title: Ready to discuss your project?
+    desc: Our team responds within 24 hours with a preliminary quote.

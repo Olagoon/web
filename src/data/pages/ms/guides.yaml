@@ -1,26 +1,26 @@
 meta:
-  title: 'Panduan SUP — Beli, Pilih, Berlatih | {SITE}'
-  description: 'Panduan SUP olagoon: cara membeli, memilih, dan berlatih papan dayung. Pensizan, bahan, dan tip pakar untuk pemula dan profesional SUP boleh tiup.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'panduan pembelian sup'
-    - 'cara memilih sup'
-    - 'panduan saiz sup'
-    - 'tip papan dayung boleh tiup'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: 'Panduan'
-  title: 'Baharu dalam SUP?'
-  subtitle: 'Panduan praktikal untuk membantu anda memilih, menggunakan, dan menikmati papan SUP boleh tiup.'
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
 
 size_guide:
-  tagline: 'Saiz & Spesifikasi'
-  title: 'Cari Saiz yang Sesuai untuk Anda'
-  desc: 'Bandingkan dimensi papan SUP, kapasiti berat, dan kegunaan yang disyorkan. Sama ada anda memerlukan SUP touring, papan yoga, atau SUP serba boleh — panduan saiz kami membantu anda memilih yang paling sesuai.'
-  link_label: 'Panduan saiz penuh dengan spesifikasi produk →'
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: 'Papan SUP'
-      desc: 'Pilih panjang berdasarkan berat badan dan kegunaan yang anda maksudkan. Papan lebih lebar (32"+) menawarkan lebih kestabilan. Papan lebih panjang (11–12 ft) menjejak lebih baik untuk touring.'
-    - title: 'SUP Touring'
-      desc: 'Papan lebih panjang (11–12 ft) untuk menempuh jarak dan menjejak lurus. Cukup stabil untuk touring bersama kelengkapan. Sentiasa semak kapasiti berat.'
-    - title: 'SUP Serba Boleh'
-      desc: 'Pilih panjang mengikut berat penunggang dan kegunaan. Papan lebih lebar (32"+) untuk kestabilan. Serbaguna untuk rekreasi dan kecergasan.'
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

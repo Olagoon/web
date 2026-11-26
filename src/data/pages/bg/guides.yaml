@@ -1,26 +1,26 @@
 meta:
-  title: 'SUP наръчници — Купете, изберете, практикувайте | {SITE}'
-  description: 'olagoon SUP наръчници: как да купите, изберете и практикувате гребане в изправено положение. Размери, материали и експертни съвети за начинаещи и професионалисти с надуваеми SUP.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'наръчник за покупка на sup'
-    - 'как да избера sup'
-    - 'наръчник за размери на sup'
-    - 'съвети за надуваеми дъски за гребане'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: Наръчници
-  title: Нови ли сте в SUP?
-  subtitle: Практически наръчници, които да ви помогнат да изберете, използвате и се наслаждавате на надуваеми SUP дъски.
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
 
 size_guide:
-  tagline: Размер и спецификации
-  title: Намерете правилния размер за вашите нужди
-  desc: Сравнете размерите на SUP дъските, товароносимостта и препоръчаните употреби. Независимо дали ви е необходима туристическа SUP, йога дъска или универсална SUP — нашият наръчник за размери ви помага да изберете подходящата.
-  link_label: 'Пълен наръчник за размери със спецификации на продуктите →'
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: SUP дъски
-      desc: Изберете дължина според вашето тегло и предназначената употреба. По-широките дъски (32"+) предлагат повече стабилност. По-дългите дъски (11–12 фута) се движат по-право при туризъм.
-    - title: Туристически SUP
-      desc: По-дълги дъски (11–12 фута) за покриване на разстояния и право движение. Достатъчно стабилни за туризъм с оборудване. Винаги проверявайте товароносимостта.
-    - title: Универсални SUP
-      desc: Изберете дължина според теглото на ездача и употребата. По-широки дъски (32"+) за стабилност. Универсални за отдих и фитнес.
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

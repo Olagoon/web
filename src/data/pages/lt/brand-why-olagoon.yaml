@@ -1,72 +1,72 @@
 meta:
-  title: 'Kodėl olagoon — 7 priežastys, kodėl pasauliniai prekės ženklai renkasi mus | {SITE}'
-  description: 'Kodėl pasauliniai prekės ženklai renkasi olagoon: CE ir ISO sertifikatai, lankstus MOQ, individualios formos ir 30 dienų gamybos terminai iš profesionalios pripučiamų SUP lentų gamyklos.'
+  title: 'Why olagoon — 7 Reasons Global Brands Choose Us | {SITE}'
+  description: 'Why global brands choose olagoon: CE and ISO certifications, flexible MOQ, custom molds, and 30-day lead times from a professional inflatable pools factory.'
   keywords:
-    - 'kodėl rinktis olagoon'
-    - 'pripučiamų sup gamintojas'
-    - 'sup gamykla kinijoje'
-    - 'pripučiamų irklavimo lentų tiekėjas'
+    - 'why choose olagoon'
+    - 'inflatable pools manufacturer'
+    - 'pool factory china'
+    - 'inflatable pool supplier'
 hero:
-  tagline: 'Kodėl olagoon'
-  title: 'Septynios priežastys, kodėl pasauliniai prekės ženklai<br />renkasi olagoon'
-  subtitle: 'Ne visi gamintojai yra vienodi. Štai kas daro olagoon pageidaujamu partneriu platintojams, prekės ženklams ir operatoriams visame pasaulyje.'
+  tagline: Why olagoon
+  title: 'Seven Reasons Why Global Brands<br />Choose olagoon'
+  subtitle: 'Not all manufacturers are created equal. Here is what makes olagoon the preferred partner for distributors, brands, and operators worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: 'olagoon gamybos kokybė ir kompetencija'
+    alt: olagoon manufacturing quality and expertise
 stats:
-  title: 'Pasitikėjimas skaičiais'
+  title: Trust in Numbers
   stats:
-    - title: 'Metų rinkoje'
-      amount: 'Nuo 2012 m.'
-    - title: 'Pagamintų lentų'
-      amount: '15,000+'
-    - title: 'Grįžtantys klientai'
+    - title: Years in Business
+      amount: Since 2012
+    - title: Pools Built
+      amount: 15,000+
+    - title: Repeat Customers
       amount: '85%'
-    - title: 'Garantiniai reikalavimai'
+    - title: Warranty Claims
       amount: '<2%'
 features3_reasons:
-  tagline: 'Kodėl rinktis olagoon'
-  title: 'Septynios priežastys bendradarbiauti su mumis'
+  tagline: Why Choose olagoon
+  title: 'Seven Reasons to Partner With Us'
   isBeforeContent: false
   columns: 3
   items:
-    - title: '1. Reali gamyba, o ne prekyba'
-      description: 'Mes valdome ir eksploatuojame 12,000 m² gamyklą. Bendradarbiaudami su olagoon dirbate tiesiogiai su žmonėmis, kurie projektuoja, kuria ir gamina jūsų produktus — be tarpininkų.'
+    - title: '1. Real Manufacturing, Not Trading'
+      description: 'We own and operate a 12,000 m² factory. When you partner with olagoon, you work directly with the people who design, engineer, and build your products — no middlemen.'
       icon: tabler:building-factory
-    - title: '2. Inžinerijai orientuotas požiūris'
-      description: 'Mūsų dizaino procesas prasideda nuo naudojimo atvejo, o ne produkto kategorijos. Optimizuojame korpuso formą, medžiagų parinkimą ir konfigūraciją pagal tai, kaip lenta iš tiesų bus naudojama.'
+    - title: '2. Engineering-Led Approach'
+      description: 'Our design process starts with the use case, not the product category. We optimize wall structure, material selection, and configuration for how the pool will actually be used.'
       icon: tabler:engine
-    - title: '3. Sertifikuota kokybė'
-      description: 'CE sertifikatas, ISO kokybės sistema, BSCI atitiktis, REACH atitiktis, USCG patvirtinimas. Kiekvienas produktas atitinka tarptautinius standartus — o ne tik deklaracijas.'
+    - title: '3. Certified Quality'
+      description: 'CE certified, ISO quality system, BSCI compliant, REACH compliant, USCG approved. Every product meets international standards — not just claims.'
       icon: tabler:certificate
-    - title: '4. Lankstus bendras prekės ženklas'
-      description: 'Bortelių spalvos, denio išdėstymas, ženklinimas, pakavimas — pritaikome pagal jūsų specifikacijas. Jokio minimalaus užsakymo spaudimo. Pradėkite nuo prototipo, auginkite su pasitikėjimu.'
+    - title: '4. Flexible Co-Branding'
+      description: 'Rail colors, deck layout, branding, packaging — we customize to your specifications. No minimum order pressure. Start with a prototype, scale with confidence.'
       icon: tabler:adjustments
-    - title: '5. Pasaulinė logistika'
-      description: 'JAV sandėlis Kalifornijoje, tiesioginis siuntimas iš Cindao, oro kroviniai skubiems užsakymams. Mes tvarkome muito dokumentus ir dokumentaciją.'
+    - title: '5. Global Logistics'
+      description: 'US warehouse in California, direct shipping from Qingdao, air freight for urgent orders. We handle customs paperwork and documentation.'
       icon: tabler:truck-delivery
-    - title: '6. Ilgalaikis palaikymas'
-      description: 'Mes remiame lentas, kurias pagaminome prieš 20 metų. Originalios atsarginės dalys, techniniai patarimai, remonto konsultacijos — mūsų komanda yra prieinama, kai mūsų reikia.'
+    - title: '6. Lifetime Support'
+      description: 'We support every pool generation we have built. Genuine spare parts, technical advice, repair guidance — our team is available when you need us.'
       icon: tabler:lifebuoy
-    - title: '7. Sąžiningos specifikacijos'
-      description: 'Realios apkrovos reitingai, realūs matmenys, realus svoris. Jokios rinkodaros išpūtimo. Ką skelbiame, tą ir gaunate — patvirtinta nepriklausomo testavimo.'
+    - title: '7. Honest Specifications'
+      description: 'Real load ratings, real dimensions, real weight. No marketing inflation. What we publish is what you get — verified by independent testing.'
       icon: tabler:ruler-measure
 testimonials:
-  tagline: 'Pasaulinių prekės ženklų pasitikėjimas'
-  title: 'Ką sako mūsų partneriai'
+  tagline: Trusted by Brands Worldwide
+  title: What Our Partners Say
   items:
-    - content: 'Dirbome su keliais gamintojais Kinijoje, tačiau olagoon išsiskiria savo inžinerijos palaikymu ir nuosekliąja kokybe. Jie elgiasi su mūsų prekės ženklu kaip su savo.'
-      name: '— Bendro prekės ženklo partneris, Europos vandens sporto prekės ženklas'
-    - content: 'Jų SUP lentos mūsų flotilėje tarnauja daugiau nei 5 metus. Minimali priežiūra, puikus UV atsparumas. 5 metų garantija suteikia mums pasitikėjimo.'
-      name: '— Flotilės operatorius, Artimųjų Rytų kurortų grupė'
-    - content: 'olagoon komanda padėjo mums sukurti individualų SUP lentos dizainą nuo koncepcijos iki gamybos per 90 dienų. Kokybė viršijo mūsų lūkesčius.'
-      name: '— Platintojas, Australijos vandens sporto įmonė'
+    - content: 'We have worked with several manufacturers in China, but olagoon stands out for their engineering support and consistent quality. They treat our brand as their own.'
+      name: '— Co-Brand Partner, European Water Sports Brand'
+    - content: 'Their pools have been in service with our fleet for over 5 years. Minimal maintenance, excellent UV resistance. The 5-year warranty gives us confidence.'
+      name: '— Fleet Operator, Middle East Resort Group'
+    - content: 'The olagoon team helped us develop a custom pools design from concept to production in 90 days. The quality exceeded our expectations.'
+      name: '— Distributor, Australian Watersports'
 cta:
-  title: 'Pasirengę patirti skirtumą?'
-  subtitle: 'Susisiekite su mūsų komanda aptarti savo projekto. Įsipareigojimas nereikalingas — tik sąžiningi patarimai apie gamybą.'
+  title: 'Ready to experience the difference?'
+  subtitle: 'Contact our team to discuss your project. No commitment required — just honest advice about manufacturing.'
   actions:
     - variant: primary
-      text: 'Pasikalbėti su mūsų komanda'
+      text: Talk to our team
       href: /contact/
-    - text: 'Atsisiųsti produktų katalogą'
+    - text: Download product catalog
       href: /resources/download-catalog/

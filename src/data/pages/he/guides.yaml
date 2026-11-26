@@ -1,26 +1,26 @@
 meta:
-  title: 'מדריכי SUP — קנייה, בחירה ותרגול | {SITE}'
-  description: 'מדריכי ה-SUP של olagoon: כיצד לקנות, לבחור ולתרגל חתירה בעמידה. מידות, חומרים וטיפים מומחים למתחילים ולמקצוענים ב-SUP מתנפח.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'מדריך קניית SUP'
-    - 'כיצד לבחור SUP'
-    - 'מדריך מידות SUP'
-    - 'טיפים ללוח חתירה מתנפח'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: 'מדריכים'
-  title: 'חדשים בעולם ה-SUP?'
-  subtitle: 'מדריכים מעשיים שיעזרו לכם לבחור, להשתמש וליהנות מלוחות SUP מתנפחים.'
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
 
 size_guide:
-  tagline: 'מידות ומפרט'
-  title: 'מצאו את המידה המתאימה לצרכים שלכם'
-  desc: 'השוו מידות לוחות SUP, כושר נשיאה ושימושים מומלצים. בין אם אתם צריכים SUP לטיולים, לוח יוגה או SUP רב-שימושי — מדריך המידות שלנו יעזור לכם לבחור את ההתאמה הנכונה.'
-  link_label: 'מדריך מידות מלא עם מפרטי מוצר ←'
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: 'לוחות SUP'
-      desc: 'בחרו אורך בהתאם למשקל שלכם ולשימוש המיועד. לוחות רחבים יותר (32"+) מציעים יציבות רבה יותר. לוחות ארוכים יותר (11–12 רגל) שומרים טוב יותר על מסלול בטיולים.'
-    - title: 'SUP לטיולים'
-      desc: 'לוחות ארוכים יותר (11–12 רגל) לכיסוי מרחקים ולשמירה על קו ישר. יציבים מספיק לטיולים עם ציוד. בדקו תמיד את כושר הנשיאה.'
-    - title: 'SUP רב-שימושי'
-      desc: 'בחרו אורך לפי משקל הרוכב והשימוש. לוחות רחבים יותר (32"+) ליציבות. גמישים לפנאי ולכושר.'
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

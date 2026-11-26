@@ -1,68 +1,68 @@
 meta:
-  title: 'Лаборатория за качество — изпитвания и осигуряване на качеството | {SITE}'
-  description: 'Независима лаборатория за качество с процеси по ISO 9001 при olagoon: всяка единица се изпитва преди изпращане, за да гарантира качеството на надуваемите SUP дъски.'
+  title: 'Quality Lab — Testing & Quality Assurance | {SITE}'
+  description: 'Independent quality lab with ISO 9001 processes at olagoon: every unit tested before shipment to guarantee inflatable pools quality.'
   keywords:
-    - 'контрол на качеството на sup'
-    - 'лаборатория за изпитване на дъски за гребане'
-    - 'sup фабрика с iso 9001'
-    - 'качество на надуваеми sup'
+    - 'pool quality control'
+    - 'inflatable pool testing lab'
+    - 'iso 9001 pool factory'
+    - 'inflatable pools quality'
 hero:
-  tagline: 'Лаборатория за контрол на качеството'
-  title: 'Изпитвателна лаборатория и осигуряване на качеството'
-  subtitle: 'Независима лаборатория за качество с процеси по ISO 9001 — всяка единица се изпитва преди изпращане'
+  tagline: Quality Control Laboratory
+  title: Testing Laboratory & Quality Assurance
+  subtitle: Independent quality lab with ISO 9001 processes — every unit tested before shipment
 
-intro: 'olagoon поддържа специализирана лаборатория за контрол на качеството, която работи независимо от производството. Всяка партида суровини и всяка завършена дъска преминава през документирани протоколи за инспекция, преди да бъде одобрена. Нашият екип за контрол на качеството докладва директно на ръководството, което гарантира безпристрастни качествени решения.'
+intro: olagoon operates a dedicated quality control laboratory that operates independently from production. Every batch of raw material and every finished pool passes through documented inspection protocols before release. Our QC team reports directly to management, ensuring impartial quality decisions.
 
 highlights:
-  - value: '100%'
-    label: 'Изпитани на налягане единици'
-    detail: 'Всяка камера, всяка дъска'
-  - value: '24–48 h'
-    label: 'Продължителност на изпитването на задържане на въздуха'
-    detail: 'При 1,25× номинално налягане'
+  - value: 100%
+    label: Units pressure-tested
+    detail: Every chamber, every pool
+  - value: 24–48 h
+    label: Air retention test duration
+    detail: At 1.25× rated pressure
   - value: '&lt;5%'
-    label: 'Максимално допустим спад на налягането'
-    detail: 'През 24–48 часовия период на задържане'
-  - value: 'AQL 2.5'
-    label: 'Праг за основни дефекти'
-    detail: 'Съгласно извадка по ISO 2859'
+    label: Max allowed pressure drop
+    detail: Over the 24–48 hour hold period
+  - value: AQL 2.5
+    label: Major defect threshold
+    detail: Per ISO 2859 sampling
 
 test_procedures:
-  - title: 'Инспекция на суровините'
-    description: 'Всяка входяща партида PVC, Drop-Stitch тъкан и фурнитура се изпитва преди приемане. Проверяват се якост на опън (ASTM D751), устойчивост на разкъсване (ISO 4674) и UV устойчивост. Несъответстващите материали се подлагат на карантина и се връщат.'
+  - title: Raw Material Inspection
+    description: Every incoming batch of PVC, drop-stitch fabric, and hardware is tested before acceptance. Tensile strength (ASTM D751), tear resistance (ISO 4674), and UV resistance are verified. Non-conforming materials are quarantined and returned.
     standards:
-      - 'ASTM D751 (опън)'
-      - 'ISO 4674 (разкъсване)'
-      - 'ISO 4892 (UV)'
-  - title: 'Контролни точки по време на производството'
-    description: 'Производствените оператори извършват самоинспекция на всеки етап. Одиторите за контрол на качеството провеждат случайни проверки през целия екип. Изпитвания на отлепване на заваръци се извършват на всеки 50 единици. Размерни проверки се правят на всеки 20-ти панел.'
+      - ASTM D751 (tensile)
+      - ISO 4674 (tear)
+      - ISO 4892 (UV)
+  - title: In-Process QC Checkpoints
+    description: Production operators perform self-inspection at each stage. QC auditors conduct random sampling throughout the shift. Weld peel tests are performed every 50 units. Dimensional checks happen every 20th panel.
     standards:
-      - 'ASTM D751 (отлепване)'
-      - 'Вътрешен 100-точков контролен списък'
-      - 'Извадка по ISO 2859'
-  - title: '24–48 часово изпитване на задържане на въздуха'
-    description: 'Всяка тръбна камера се надува до 125% от номиналното налягане и се задържа 24–48 часа. Датчиците за налягане записват непрекъснато с температурна компенсация. Всяка камера, надвишаваща 5% спад на налягането, задейства автоматична повторна инспекция на партидата.'
+      - ASTM D751 (peel)
+      - Internal 100-point checklist
+      - ISO 2859 sampling
+  - title: 24–48 Hour Air Retention Test
+    description: Every tube chamber is inflated to 125% of rated pressure and held for 24–48 hours. Pressure sensors log continuously with temperature compensation. Any chamber exceeding 5% pressure drop triggers automatic batch re-inspection.
     standards:
-      - 'EN ISO 25649'
-      - 'CE 2013/53/EU'
-  - title: 'Изпитване на товар и баланс'
-    description: 'Завършените дъски се изпитват при максимален номинален капацитет за стабилност и твърдост. Всяка дъска преминава изпитване във вода преди финалното одобрение на инспекцията.'
+      - EN ISO 25649
+      - CE 2013/53/EU
+  - title: Load & Balance Testing
+    description: Completed pools are tested at maximum rated capacity for stability and rigidity. Each pool undergoes water testing before final inspection approval.
     standards:
-      - 'ISO 12217'
-      - 'CE 2013/53/EU'
+      - ISO 12217
+      - CE 2013/53/EU
 
 equipment:
-  - name: 'Универсална изпитвателна машина (опън)'
-    spec: '5 kN, съответстваща на ASTM D751'
-  - name: 'Тестер за спад на налягане'
-    spec: 'многоканален, 0–50 psi, регистрация на данни'
-  - name: 'Камера за UV стареене'
-    spec: 'ISO 4892, цикли от 1,000 h'
-  - name: 'Дебелиномер (цифров)'
-    spec: 'резолюция 0,01 mm'
-  - name: 'Тестер за отлепване (заварен шев)'
-    spec: 'моторизиран, капацитет 50 N'
-  - name: 'Температурна камера'
-    spec: '-40 °C до +100 °C'
-  - name: 'Резервоар за откриване на течове'
-    spec: '6 m × 2 m, осветен'
+  - name: Universal Testing Machine (tensile)
+    spec: 5 kN, ASTM D751 compliant
+  - name: Pressure Decay Tester
+    spec: Multi-channel, 0–50 psi, datalogging
+  - name: UV Weathering Chamber
+    spec: ISO 4892, 1,000 h cycles
+  - name: Thickness Gauge (digital)
+    spec: 0.01 mm resolution
+  - name: Peel Tester (weld)
+    spec: Motorized, 50 N capacity
+  - name: Temperature Chamber
+    spec: -40 °C to +100 °C
+  - name: Leak Detection Tank
+    spec: 6 m × 2 m, illuminated

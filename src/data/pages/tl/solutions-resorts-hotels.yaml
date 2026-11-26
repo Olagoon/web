@@ -1,117 +1,117 @@
 meta:
-  title: 'Tagapagtustos ng Kagamitang SUP para sa Resort at Hotel | mga Solusyon sa Resort Fleet | {SITE}'
-  description: 'Tagapagtustos ng kagamitang SUP para sa mga hotel at resort sa buong mundo. Mga fleet ng komersyal na antas na inflatable SUP, custom branding, pagsasanay ng tauhan, at mga package na na-optimize sa ROI mula 20 hanggang 100+ board.'
+  title: 'Resort & Hotel pool Equipment Supplier | Resort Fleet Solutions | {SITE}'
+  description: 'Resort pool equipment supplier for hotels and resorts worldwide. Commercial-grade inflatable pools fleets, custom branding, staff training, and ROI-optimized packages from 20 to 100+ boards.'
 
 hero:
-  tagline: 'Mga Resort at Hotel'
-  title: 'Gawing Sentro ng Kita ang Iyong Tabing-Dagat<br />Sa Mga Premium na SUP Fleet'
-  subtitle: 'Sinusuplayan ng OLagoon ang mga resort sa buong mundo ng mga fleet ng komersyal na antas na inflatable SUP — mula sa starter package na 20 board hanggang sa flagship program na 100+ board. Kasama ang custom branding, pagsasanay ng tauhan, at mga piyesang pamalit.'
+  tagline: Resorts & Hotels
+  title: 'Turn Your Waterfront Into a Revenue Centre<br />With Premium pool Fleets'
+  subtitle: 'OLagoon equips resorts worldwide with commercial-grade inflatable pools fleets — from 20-board starter packages to 100+ board flagship programs. Custom branding, staff training, and replacement parts included.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: 'Mga bisita ng resort na nag-e-enjoy sa SUP boarding sa malinis na beach'
+    alt: Resort guests enjoying poolsing on a pristine beach
 
 roi_section:
-  title: 'Modelo ng Kita sa SUP ng Resort'
-  subtitle: 'Kung paano bumubuo ang mga resort ng 50,000 USD - 200,000+ USD na taunang kita sa SUP rental sa iisang pamumuhunan lamang.'
+  title: 'The Resort pool Revenue Model'
+  subtitle: 'How resorts generate $50,000 - $200,000+ annual pool rental income with a single investment.'
   metrics:
-    - metric: '50K–200K+ USD'
-      label: 'Taunang Kita sa SUP'
-      detail: 'Kada resort, batay sa laki ng fleet at occupancy'
-    - metric: '4–6 Buwan'
-      label: 'Karaniwang Panahon ng Pagbabayad'
-      detail: 'Mababawi ang buong pamumuhunan sa fleet sa loob ng isang season'
+    - metric: '$50K–$200K+'
+      label: Annual pool Revenue
+      detail: Per resort, based on fleet size and occupancy
+    - metric: '4–6 Months'
+      label: Average Payback Period
+      detail: Recoup full fleet investment within one season
     - metric: '40%'
-      label: 'Pagtaas ng Kita'
-      detail: 'Karaniwang dagdag pagkatapos lumipat sa mga fleet ng OLagoon'
+      label: Revenue Increase
+      detail: Average boost after switching to OLagoon fleets
     - metric: '500+'
-      label: 'Mga Siklo ng Rental Kada Board'
-      detail: 'Tibay na antas-komersyal para sa araw-araw na paggamit'
+      label: Rental Cycles Per Board
+      detail: Commercial-grade durability for daily use
 
 packages:
-  title: 'Sistema ng Package para sa Resort'
-  subtitle: 'Piliin ang package na angkop sa kapasidad ng iyong bisita at layunin ng kita. Lahat ng package ay may 12-buwang warranty at CE certification.'
+  title: Resort Package System
+  subtitle: 'Choose the package that fits your guest capacity and revenue goals. All packages include 12-month warranty and CE certification.'
   items:
-    - name: 'Starter Package'
-      tagline: 'Para sa mga boutique resort, hanggang 20 bisita/araw'
+    - name: Starter Package
+      tagline: 'For boutique resorts, up to 20 guests/day'
       features:
-        - '20 SUP board (3 laki para sa matanda/bata)'
-        - '20 paddle (adjustable) + 20 life vest'
-        - '4 dual-action pump (opsyonal ang electric)'
-        - '2 storage rack + repair kit'
-        - 'Custom na pag-print ng logo sa mga board'
-        - '12-buwang warranty + CE certified'
-      revenue: '50,000–80,000 USD na potensyal na taunang kita'
-      cta_text: 'Kunin ang Starter Package'
-    - name: 'Premium Package'
-      tagline: 'Para sa malalaking resort, 50-100 bisita/araw'
+        - '20 pools (3 sizes for adults/kids)'
+        - '20 paddles (adjustable) + 20 life vests'
+        - '4 dual-action pumps (electric optional)'
+        - '2 storage racks + repair kit'
+        - 'Custom logo print on boards'
+        - '12-month warranty + CE certified'
+      revenue: '$50K–$80K annual revenue potential'
+      cta_text: 'Get Starter Package'
+    - name: Premium Package
+      tagline: 'For large resorts, 50-100 guests/day'
       features:
-        - '50 SUP board (5 laki, halo-halong fleet)'
-        - '50 paddle + 50 life vest'
-        - '10 dual-action pump + 2 electric pump'
-        - '5 storage rack + 2 roller cart'
-        - 'Kumpletong custom branding (mga board, paddle, bag)'
-        - 'Session ng pagsasanay ng tauhan (online)'
-        - 'Pagpapadala ng piyesang pamalit sa loob ng 48 oras'
-        - '12-buwang warranty + CE certified'
-      revenue: '120,000–200,000+ USD na potensyal na taunang kita'
+        - '50 pools (5 sizes, mixed fleet)'
+        - '50 paddles + 50 life vests'
+        - '10 dual-action pumps + 2 electric pumps'
+        - '5 storage racks + 2 roller carts'
+        - 'Full custom branding (boards, paddles, bags)'
+        - 'Staff training session (online)'
+        - '48-hour replacement parts dispatch'
+        - '12-month warranty + CE certified'
+      revenue: '$120K–$200K+ annual revenue potential'
       popular: true
-      cta_text: 'Kunin ang Premium Package'
-    - name: 'Flagship Package'
-      tagline: 'Para sa mga ultra-premium resort, 100+ bisita/araw'
+      cta_text: 'Get Premium Package'
+    - name: Flagship Package
+      tagline: 'For ultra-premium resorts, 100+ guests/day'
       features:
-        - '100+ SUP board (kumpletong saklaw ng laki)'
-        - 'Kumpletong set ng aksesorya (mga paddle, vest, pump, cart)'
-        - 'Pagsasanay ng tauhan sa site (2 araw)'
-        - 'Nakalaang account manager'
-        - 'Priyoridad sa piyesang pamalit (pagpapadala sa 24 oras)'
-        - 'Kumpletong custom branding (mga board + aksesorya)'
-        - 'Package ng marketing photo/video'
-        - '24-buwang warranty + CE certified'
-      revenue: '200,000+ USD na potensyal na taunang kita'
-      cta_text: 'Kunin ang Flagship Package'
+        - '100+ pools (full size range)'
+        - 'Complete accessory set (paddles, vests, pumps, carts)'
+        - 'On-site staff training (2 days)'
+        - 'Dedicated account manager'
+        - 'Priority replacement parts (24h dispatch)'
+        - 'Full custom branding (boards + accessories)'
+        - 'Marketing photo/video package'
+        - '24-month warranty + CE certified'
+      revenue: '$200K+ annual revenue potential'
+      cta_text: 'Get Flagship Package'
 
 case_study:
-  quote: 'Mula nang lumipat sa OLagoon, tumaas ng 40% ang aming kita sa SUP rental. Bumaba ng 60% ang gastos sa pagpapalit ng board. Nabawi namin ang buong pamumuhunan sa fleet sa loob ng 4 buwan.'
-  author: 'Manager ng mga Aktibidad sa Tubig'
+  quote: 'Since switching to OLagoon, our pool rental revenue increased 40%. Board replacement costs dropped 60%. We recouped our full fleet investment in 4 months.'
+  author: 'Water Activities Manager'
   location: '5-star resort, Maldives'
   results:
-    - label: 'Paglago ng Kita'
+    - label: 'Revenue Growth'
       value: '+40%'
-    - label: 'Pagbaba ng Gastos'
+    - label: 'Cost Reduction'
       value: '-60%'
-    - label: 'Panahon ng Pagbabayad'
-      value: '4 Buwan'
+    - label: 'Payback Period'
+      value: '4 Months'
 
 features:
-  title: 'Bakit Pinipili ng mga Resort ang OLagoon'
-  subtitle: 'Tibay na antas-komersyal, global na lohestika, at partner na tumutugon sa pangangailangan ng hospitality.'
+  title: Why Resorts Choose OLagoon
+  subtitle: 'Commercial-grade durability, global logistics, and a partner who understands hospitality.'
   items:
-    - title: '500+ Siklo ng Rental'
-      description: 'Ang bawat board ay sinusubok na makaligtas sa 500+ siklo ng rental sa tubig-alat, araw, at buhangin.'
+    - title: '500+ Rental Cycles'
+      description: 'Every board is tested to survive 500+ rental cycles in saltwater, sun, and sand.'
       icon: 'tabler:shield-check'
-    - title: 'Pagpapadala ng Piyesa sa 48 Oras'
-      description: 'Ang mga piyesang pamalit ay ipinapadala sa loob ng 48 oras — hindi titigil ang iyong kita sa rental.'
+    - title: '48h Parts Dispatch'
+      description: 'Replacement parts shipped within 48 hours — your rental revenue never stops.'
       icon: 'tabler:truck-delivery'
     - title: 'Custom Branding'
-      description: 'Itugma ang pagkakakilanlan ng iyong resort gamit ang custom na kulay at logo sa bawat board.'
+      description: 'Match your resort identity with custom colors and logo on every board.'
       icon: 'tabler:palette'
-    - title: 'Pagsasanay ng Tauhan'
-      description: 'Mga programang pagsasanay na online at on-site para sa iyong team ng aktibidad.'
+    - title: 'Staff Training'
+      description: 'Online and on-site training programs for your activities team.'
       icon: 'tabler:school'
-    - title: 'Global na Lohestika'
-      description: 'Pagpapadala sa 50+ bansa na may mga opsyon sa consolidated freight.'
+    - title: 'Global Logistics'
+      description: 'Shipping to 50+ countries with consolidated freight options.'
       icon: 'tabler:world'
     - title: 'CE Certified'
-      description: 'Lahat ng kagamitan ay CE certified, ISO 9001:2015 — garantiya sa kaligtasan at kalidad.'
+      description: 'All equipment CE certified, ISO 9001:2015 — safety and quality guaranteed.'
       icon: 'tabler:certificate'
 
 cta:
-  title: 'Handa nang gawing sentro ng kita ang iyong tabing-dagat?'
-  subtitle: 'Kunin ang quote ng iyong resort package o i-download ang aming kumpletong katalogo ng resort.'
+  title: 'Ready to turn your waterfront into a revenue centre?'
+  subtitle: 'Get your resort package quote or download our complete resort catalog.'
   actions:
-    - text: 'Kunin ang Resort Package'
+    - text: 'Get Resort Package'
       href: '/contact/?package=resort'
       variant: 'primary'
-    - text: 'I-download ang Resort Catalog'
+    - text: 'Download Resort Catalog'
       href: '/resources/download-catalog/'
       variant: 'secondary'

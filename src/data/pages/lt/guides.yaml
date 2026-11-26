@@ -1,26 +1,26 @@
 meta:
-  title: 'SUP vadovai — pirkite, rinkitės, praktikuokite | {SITE}'
-  description: 'olagoon SUP vadovai: kaip pirkti, rinktis ir praktikuoti irklentę. Dydžiai, medžiagos ir ekspertų patarimai pripučiamų SUP pradedantiesiems ir profesionalams.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'sup pirkimo vadovas'
-    - 'kaip išsirinkti sup'
-    - 'sup dydžių vadovas'
-    - 'pripučiamų irklentių patarimai'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: 'Vadovai'
-  title: 'Naujokas SUP srityje?'
-  subtitle: 'Praktiniai vadovai, padedantys jums rinktis, naudoti ir mėgautis pripučiamomis SUP lentomis.'
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
 
 size_guide:
-  tagline: 'Dydis ir specifikacijos'
-  title: 'Raskite tinkamą dydį savo poreikiams'
-  desc: 'Palyginkite SUP lentų matmenis, keliamąją galią ir rekomenduojamus naudojimus. Nesvarbu, ar jums reikia turizmo SUP, jogos lentos ar universalios SUP — mūsų dydžių vadovas padės išsirinkti tinkamą.'
-  link_label: 'Visas dydžių vadovas su produkto specifikacijomis →'
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: 'SUP lentos'
-      desc: 'Pasirinkite ilgį pagal savo svorį ir numatytą naudojimą. Platesnės lentos (32"+) suteikia daugiau stabilumo. Ilgesnės lentos (11–12 pėdų) geriau laiko kryptį turizmui.'
-    - title: 'Turizmo SUP'
-      desc: 'Ilgesnės lentos (11–12 pėdų) atstumo įveikimui ir tiesiamam judėjimui. Pakankamai stabilios turizmui su įranga. Visada patikrinkite keliamąją galią.'
-    - title: 'Universalios SUP'
-      desc: 'Pasirinkite ilgį pagal raitelio svorį ir naudojimą. Platesnės lentos (32"+) stabilumui. Universalios rekreacijai ir treniravimuisi.'
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

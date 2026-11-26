@@ -1,10 +1,10 @@
 meta:
   title: 'Contact — Partnership & Product Inquiries | {SITE}'
-  description: 'Contact olagoon for partnership, co-brand, and private-label inquiries, or professional fleets. Inflatable SUP brand, we respond within 2 business days.'
+  description: 'Contact olagoon for partnership, co-brand, and private-label inquiries, or professional fleets. inflatable pools brand, we respond within 2 business days.'
   keywords:
-    - 'sup distributor quote'
-    - 'professional sup supplier'
-    - 'contact sup manufacturer'
+    - 'pool distributor quote'
+    - 'professional pool supplier'
+    - 'contact pool manufacturer'
 hero_text:
   tagline: Contact
   title: GET IN TOUCH
@@ -69,10 +69,10 @@ contact_form:
           label: Select product category...
         - value: all
           label: All products / Full catalog
-        - value: sup
-          label: SUP Boards / Paddleboards
+        - value: pool
+          label: pools / inflatable pool
         - value: safety
-          label: Safety Equipment / Life Vests
+          label: Pool Accessories & Spare Parts
         - value: accessory
           label: Accessories (pumps, oars, bags)
       step: 1

@@ -1,11 +1,11 @@
 meta:
-  title: 'Co-Brand With OLagoon — Limited Co-Branded SUP Collections | {SITE}'
-  description: 'OLagoon creates limited co-branded inflatable SUP collections with qualified clubs, resorts, events, communities, and country partners. Co-branded products remain OLagoon products — designed, engineered, and backed by the OLagoon brand.'
+  title: 'Co-Brand With OLagoon — Limited Co-Branded pool Collections | {SITE}'
+  description: 'OLagoon creates limited co-branded inflatable pools collections with qualified clubs, resorts, events, communities, and country partners. Co-branded products remain OLagoon products — designed, engineered, and backed by the OLagoon brand.'
   keywords:
-    - 'co-brand inflatable SUP'
-    - 'SUP co-branded collection'
-    - 'paddle board partnership'
-    - 'SUP for clubs and resorts'
+    - 'co-brand inflatable pools'
+    - 'pool co-branded collection'
+    - 'inflatable pool partnership'
+    - 'pool for clubs and resorts'
     - 'water sports brand collaboration'
     - 'OLagoon co-branding'
 hero:
@@ -52,7 +52,7 @@ features:
       description: 'Every collection ships from our certified supply chain with CE and ISO 9001 documentation, pressure-testing, and the same QC checkpoints as our core range.'
       icon: 'tabler:certificate'
     - title: 'Becomes a Brand Asset'
-      description: 'A limited co-branded collection builds your own story on the water — sell-through margin, media content, and a reason for paddlers to come back season after season.'
+      description: 'A limited co-branded collection builds your own story on the water — sell-through margin, media content, and a reason for swimmers to come back season after season.'
       icon: 'tabler:star'
 table:
   title: 'Co-Brand Collection Tiers'
@@ -96,10 +96,10 @@ cta:
       variant: secondary
 geo:
   tagline: 'Who We Co-Brand With'
-  sentence: 'OLagoon co-brands with established water-sports businesses — country partners, paddle clubs, resorts and hotels, event organizers, and paddling communities — that want a distinctive, limited collection built on a reliable global brand.'
+  sentence: 'OLagoon co-brands with established water-sports businesses — country partners, paddle clubs, resorts and hotels, event organizers, and swimming communities — that want a distinctive, limited collection built on a reliable global brand.'
   audiences:
     - 'Country Distributors'
     - 'Paddle & Water Sports Clubs'
     - 'Resorts & Hotels'
     - 'Race & Event Organizers'
-    - 'Paddling Communities'
+    - 'swimming Communities'

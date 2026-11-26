@@ -1,38 +1,38 @@
 meta:
-  title: 'Laboratoryo ng Kalidad at Pagsusuri — Pagsusuri at Sertipikasyon ng SUP na Sumusunod sa ISO | {SITE}'
-  description: 'Independiyenteng beripikasyon ng kalidad para sa mga inflatable SUP. Tensile testing, air-retention cycling, seam peel test, at sertipikasyon ng materyales. Makipag-ugnayan sa aming quality lab para sa third-party testing.'
-back_text: 'Bumalik sa R&D Center'
+  title: 'Quality & Inspection Lab — ISO-Compliant pool Testing & Certification | {SITE}'
+  description: 'Independent quality verification for inflatable pools. Tensile testing, air-retention cycling, seam peel tests, and material certification. Contact our quality lab for third-party testing.'
+back_text: 'Back to R&D Center'
 home_label: 'Home'
 
 hero:
   tagline: 'Lab 06'
-  title: 'Laboratoryo ng Kalidad at Pagsusuri'
-  subtitle: 'Independiyenteng beripikasyon — bawat pagsubok ay napasa bago ang paghahatid'
+  title: 'Quality & Inspection Lab'
+  subtitle: 'Independent verification — every test passed before delivery'
   image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp'
-  image_alt: 'Laboratoryo ng quality inspection ng OLagoon para sa UV testing'
+  image_alt: 'OLagoon quality inspection laboratory UV testing'
 
-intro: 'Bawat board na lumalabas sa aming workshop ay may dalang sertipikasyon na napasa nito ang isang tinukoy na hanay ng quality inspection at material test. Ang aming Laboratoryo ng Kalidad at Pagsusuri ay isang independiyenteng tungkulin sa loob ng organisasyon — ito ay nag-uulat direktamente sa managing director, hindi sa produksyon — upang masiguro na walang komersyal na pressure ang makakasira sa inspection gate. Kapag ang isang batch ng materyales o isang buong board ay hindi tumutugon sa inilathalang espesipikasyon, may awtoridad ang lab na ihinto ang pagpapadala hanggang sa maresolba ang non-conformance.'
+intro: 'Every pool that leaves our workshop carries the certification that it has passed a defined set of quality inspections and material tests. Our Quality & Inspection Lab is an independent function within the organisation — it reports directly to the managing director, not to production — ensuring that no commercial pressure can compromise the inspection gate. If a material batch or a completed pool does not meet the published specification, the lab has the authority to halt shipment until the non-conformance is resolved.'
 
 content_html: |
-  <h2>Magtiwala, ngunit beripikahin</h2>
-  <p>Ang lab ay gumagana sa ilalim ng quality management system na nakabatay sa mga prinsipyo, at ang aming mga paraan ng pagsubok ay batay sa mga pamantayan ng ISO, ASTM, at EN kung saan naaangkop. Pinapanatili namin ang detalyadong talaan ng bawat isinagawang pagsubok, na lumilikha ng kumpletong traceability chain mula sa pagtanggap ng hilaw na materyales hanggang sa huling paghahatid ng board.</p>
+  <h2>Trust, but verify</h2>
+  <p>The lab operates under a quality management system aligned with principles, and our test methods are based on ISO, ASTM, and EN standards wherever applicable. We maintain detailed records of every test performed, creating a complete traceability chain from raw material receipt to final pool delivery.</p>
 
-  <h2>Kagamitan at kakayahan sa pagsubok</h2>
+  <h2>Test equipment and capabilities</h2>
   <table>
-    <thead><tr><th>Kagamitan</th><th>Mga Isinagawang Pagsubok</th><th>Pamantayan / Paraan</th></tr></thead>
+    <thead><tr><th>Equipment</th><th>Tests Performed</th><th>Standard / Method</th></tr></thead>
     <tbody>
-      <tr><td>Universal testing machine (50 kN)</td><td>Tensile strength (tela), peel resistance (mga seam), tear propagation</td><td>ISO 1421, ISO 4674</td></tr>
-      <tr><td>Air-retention test rig (programmable)</td><td>1000-cycle na inflation/deflation endurance, 30 min na pressure-hold test</td><td>EN ISO 25649 (internal)</td></tr>
-      <tr><td>Seam-peel jig (motorised 180° peel)</td><td>Peel strength ng weld at glued-seam sa 100 mm/min</td><td>ISO 1421 / ASTM D1876</td></tr>
-      <tr><td>Hydrostatic head tester</td><td>Paglaban ng tela sa pagpasok ng tubig (0–1000 mbar)</td><td>ISO 811</td></tr>
-      <tr><td>Digital thickness gauge &amp; micrometre</td><td>Kapal ng tela, kapal ng rail wall, kapal ng adhesive-film</td><td>ISO 2286-3</td></tr>
-      <tr><td>Environmental chamber</td><td>Temperature conditioning (-40 °C hanggang +80 °C) para sa cold-crack at heat-ageing test</td><td>ISO 188, ISO 4675</td></tr>
-      <tr><td>Colour spectrophotometer</td><td>Pagsukat ng Delta-E colour pagkatapos ng UV exposure</td><td>ISO 105-A05 / ASTM D2244</td></tr>
+      <tr><td>Universal testing machine (50 kN)</td><td>Tensile strength (fabric), peel resistance (seams), tear propagation</td><td>ISO 1421, ISO 4674</td></tr>
+      <tr><td>Air-retention test rig (programmable)</td><td>1000-cycle inflation/deflation endurance, 30 min pressure-hold test</td><td>EN ISO 25649 (internal)</td></tr>
+      <tr><td>Seam-peel jig (motorised 180° peel)</td><td>Weld and glued-seam peel strength at 100 mm/min</td><td>ISO 1421 / ASTM D1876</td></tr>
+      <tr><td>Hydrostatic head tester</td><td>Water penetration resistance of fabric (0–1000 mbar)</td><td>ISO 811</td></tr>
+      <tr><td>Digital thickness gauge &amp; micrometre</td><td>Fabric thickness, rail wall thickness, adhesive-film thickness</td><td>ISO 2286-3</td></tr>
+      <tr><td>Environmental chamber</td><td>Temperature conditioning (-40 °C to +80 °C) for cold-crack and heat-ageing tests</td><td>ISO 188, ISO 4675</td></tr>
+      <tr><td>Colour spectrophotometer</td><td>Delta-E colour measurement after UV exposure</td><td>ISO 105-A05 / ASTM D2244</td></tr>
     </tbody>
   </table>
 
-  <h2>Mga inspection gate — mula materyales hanggang paghahatid</h2>
-  <p>Sinisunod ng bawat board ang isang tinukoy na quality plan na may mga mandatoryong inspection point. Walang board ang makakaligtas sa anumang gate; bawat gate ay dapat mapirmahan ng isang quality inspector bago magsimula ang susunod na yugto ng produksyon.</p>
+  <h2>The inspection gates — from material to delivery</h2>
+  <p>Every pool follows a defined quality plan with mandatory inspection points. No pool can skip a gate; each gate must be signed off by a quality inspector before the next production stage begins.</p>
 
   <div class="not-prose my-8">
     <div class="relative">
@@ -41,47 +41,47 @@ content_html: |
         <div class="flex gap-4">
           <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 1</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Inspeksyon ng papasok na materyales</p>
-            <p class="text-xs text-gray-500 mt-1">Batch ng tela, batch ng adhesive, hardware — lahat ay tinitinglaban sa incoming specification bago palayain sa produksyon.</p>
+            <p class="text-sm font-semibold">Incoming material inspection</p>
+            <p class="text-xs text-gray-500 mt-1">Fabric batch, adhesive batch, hardware — all checked against incoming specification before release to production.</p>
           </div>
         </div>
         <div class="flex gap-4">
           <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 2</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">In-process na inspeksyon ng weld</p>
-            <p class="text-xs text-gray-500 mt-1">First-off weld coupon na sinusubukan (peel + visual) sa simula ng bawat production shift.</p>
+            <p class="text-sm font-semibold">In-process weld inspection</p>
+            <p class="text-xs text-gray-500 mt-1">First-off weld coupon tested (peel + visual) at start of each production shift.</p>
           </div>
         </div>
         <div class="flex gap-4">
           <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 3</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Air test ng chamber</p>
-            <p class="text-xs text-gray-500 mt-1">Bawat chamber ay pinipresyar sa 1.5 x working pressure, pinapanatili nang 30 min. Naka-log ang data bawat serial number.</p>
+            <p class="text-sm font-semibold">Chamber air test</p>
+            <p class="text-xs text-gray-500 mt-1">Each chamber pressurised to 1.5 x working pressure, held 30 min. Data logged per serial number.</p>
           </div>
         </div>
         <div class="flex gap-4">
           <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 4</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Inspeksyon bago paghahatid</p>
-            <p class="text-xs text-gray-500 mt-1">Ang buong board ay sinspeksyunan: lahat ng fastener ay naka-torque, gumagana ang mga fitting, walang cosmetic defect. 100-point na checklist.</p>
+            <p class="text-sm font-semibold">Pre-delivery inspection</p>
+            <p class="text-xs text-gray-500 mt-1">Complete pool inspected: all fasteners torqued, fittings functional, no cosmetic defects. 100-point checklist.</p>
           </div>
         </div>
         <div class="flex gap-4">
           <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 5</div>
           <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
-            <p class="text-sm font-semibold">Panghuling sertipikasyon</p>
-            <p class="text-xs text-gray-500 mt-1">Binubuo ang mga test report, sinusuri ang mga inspection record, inisyu ang Certificate of Conformance.</p>
+            <p class="text-sm font-semibold">Final certification</p>
+            <p class="text-xs text-gray-500 mt-1">Test reports compiled, inspection records reviewed, Certificate of Conformance issued.</p>
           </div>
         </div>
       </div>
     </div>
   </div>
 
-  <h2>Mga pangunahing metric ng kalidad (2025 rolling average)</h2>
+  <h2>Key quality metrics (2025 rolling average)</h2>
   <div class="not-prose my-8 grid grid-cols-2 md:grid-cols-4 gap-4">
     <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
       <span class="block text-2xl font-bold text-blue-600">99.7 %</span>
-      <span class="text-xs text-gray-500">First-pass yield (batch ng tela)</span>
+      <span class="text-xs text-gray-500">First-pass yield (fabric batch)</span>
     </div>
     <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
       <span class="block text-2xl font-bold text-blue-600">&lt; 0.2 %</span>
@@ -89,32 +89,32 @@ content_html: |
     </div>
     <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
       <span class="block text-2xl font-bold text-blue-600">100 %</span>
-      <span class="text-xs text-gray-500">Mga chamber na air-tested bago ang assembly</span>
+      <span class="text-xs text-gray-500">Chambers air-tested before assembly</span>
     </div>
     <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
       <span class="block text-2xl font-bold text-blue-600">EN ISO 25649</span>
-      <span class="text-xs text-gray-500">Pagsunod sa design category</span>
+      <span class="text-xs text-gray-500">Design category compliance</span>
     </div>
   </div>
 
-  <h2>Ang aming koponan ng kalidad</h2>
-  <p>Ang lab ay pinapatakbo ng isang quality manager (10 taon sa marine QA, ASQ Certified Quality Engineer), dalawang quality inspector (bawat isa ay may Level 2 NDT certification sa visual testing), at isang materials technician na responsable sa lahat ng physical testing. Sumasailalim ang koponan sa taunang proficiency testing sa pamamagitan ng isang independiyenteng third-party provider upang masiguro na tumpak at mabubuo muli ang aming mga resulta ng pagsubok.</p>
+  <h2>Our quality team</h2>
+  <p>The lab is staffed by a quality manager (10 years in marine QA, ASQ Certified Quality Engineer), two quality inspectors (each with Level 2 NDT certification in visual testing), and a materials technician responsible for all physical testing. The team undergoes annual proficiency testing through an independent third-party provider to ensure that our test results remain accurate and reproducible.</p>
 
-  <h2>Independiyenteng pagsusuri para sa mga client</h2>
-  <p>Available ang aming Quality &amp; Inspection Lab para sa mga serbisyo ng independiyenteng pagsusuri. Kung kailangan mong beripikahin ang isang fabric specification, i-validate ang isang bagong adhesive system, o makakuha ng third-party test report para sa isang procurement qualification, maaari naming isagawa ang mga pagsubok ayon sa naaangkop na pamantayan at mag-isyu ng certified test report.</p>
-  <p>Mga halimbawa ng kamakailang third-party testing work:</p>
+  <h2>Independent testing for clients</h2>
+  <p>Our Quality &amp; Inspection Lab is available for independent testing services. If you need to verify a fabric specification, validate a new adhesive system, or obtain a third-party test report for a procurement qualification, we can perform the tests to the applicable standard and issue a certified test report.</p>
+  <p>Examples of recent third-party testing work:</p>
   <ul>
-    <li>Pagkompara ng peel-strength ng limang competitive na adhesive film product para sa isang European military procurement programme.</li>
-    <li>Pag-aaral ng accelerated ageing (UV + thermal cycling) para sa isang bagong orange-pigmented na PVC formulation, na may regular na interim measurement sa bawat 500 h.</li>
-    <li>Validasyon ng air-retention sa 50 prototype baffle valve para sa isang bagong high-pressure chamber design.</li>
+    <li>Peel-strength comparison of five competitive adhesive film products for a European military procurement programme.</li>
+    <li>Accelerated ageing study (UV + thermal cycling) for a new orange-pigmented PVC formulation, with regular interim measurements at 500 h intervals.</li>
+    <li>Air-retention validation of 50 prototype baffle valves for a new high-pressure chamber design.</li>
   </ul>
 
-  <h2>Ang aming pangako sa iyo</h2>
-  <p>Kapag tumanggap ka ng isang board na OLagoon, tumatanggap ka rin ng quality dossier nito — isang pinagsamang talaan ng mga resulta ng pagsubok na naaangkop sa iyong partikular na board. Fabric batch certificate, weld peel test, chamber air-test log, at pre-delivery inspection checklist. Bawat numero ay mababakas. Bawat inspector ay nakikilala. Hindi ito basta papel lamang — ito ang aming pangako na ang aming naihatid ay ang aming tinukoy.</p>
-  <p>Kung mayroon kang anumang alalahanin tungkol sa kalidad, maaari mong direktang makipag-ugnayan sa lab — nakalimbag ang mga detalye ng pakikipag-ugnayan sa iyong certificate of conformance. Seryoso naming tinutugunan ang bawat tanong at nakakompromiso kaming magsagawa ng pormal na imbestigasyon sa loob ng 48 oras.</p>
+  <h2>Our commitment to you</h2>
+  <p>When you receive an OLagoon pool, you also receive its quality dossier — a compiled record of the test results that apply to your specific pool. Fabric batch certificate, weld peel tests, chamber air-test logs, and pre-delivery inspection checklist. Every number is traceable. Every inspector is identified. This is not just paperwork — it is our promise that what we delivered is what we specified.</p>
+  <p>If you ever have a quality concern, you can contact the lab directly — the contact details are printed on your certificate of conformance. We take every query seriously and commit to a formal investigation within 48 hours.</p>
 
 cta:
-  title: 'Kailangan ng independiyenteng pagsusuri o beripikasyon ng kalidad?'
-  subtitle: 'Tumatanggap ang aming lab ng third-party testing work — makipag-ugnayan sa amin na may iyong mga kinakailangan.'
-  button_text: 'Makipag-ugnayan sa quality lab'
+  title: 'Need independent testing or quality verification?'
+  subtitle: 'Our lab accepts third-party testing work — contact us with your requirements.'
+  button_text: 'Contact the quality lab'
   button_link: /contact/

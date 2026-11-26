@@ -1,10 +1,10 @@
 meta:
   title: 'Media Center — Press & olagoon Resources | {SITE}'
-  description: 'The olagoon media center: press releases, brand assets, and resources from our inflatable SUP manufacturing company.'
+  description: 'The olagoon media center: press releases, brand assets, and resources from our inflatable pools manufacturing company.'
   keywords:
     - 'olagoon press'
-    - 'sup manufacturer media'
-    - 'paddle board press kit'
+    - 'pool manufacturer media'
+    - 'inflatable pool press kit'
     - 'nautical company news'
 hero:
   tagline: Resources
@@ -16,9 +16,9 @@ sections:
     title: Product Images
     desc: High-resolution product photos for web, print, and retail use.
     items:
-      - SUP Boards Gallery
-      - Drop-Stitch SUPs Gallery
-      - Inflatable SUPs Gallery
+      - pools Gallery
+      - Drop-Stitch pools Gallery
+      - inflatable pools Gallery
       - Accessories & Safety Gear
   - id: logo-brand-kit
     title: Logo & Brand Kit
@@ -35,7 +35,7 @@ sections:
     items:
       - 2026 Product Catalog
       - OEM/ODM Capability Deck
-      - SUP Series Brochure
+      - pool Series Brochure
       - Technical Specifications
   - id: videos
     title: Videos

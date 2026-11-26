@@ -1,103 +1,103 @@
 meta:
-  title: 'Program maloprodajnih partnerjev SUP — prodaja na debelo | {SITE}'
-  description: 'Program partnerjev za prodajo SUP na debelo za maloprodajalce in trgovine s športno opremo. Celotna ponudba izdelkov, možnosti dropshippinga, konkurenčne marže prodaje na debelo od 20–35 % in nizek MOQ za začetek.'
+  title: 'pool Wholesale & Retail Partner Program | {SITE}'
+  description: 'pool wholesale partner program for retailers and sporting goods stores. Full product line, dropshipping options, competitive wholesale margins from 20–35%, and low MOQ to start.'
 
 hero:
-  tagline: 'Maloprodajni partnerji'
-  title: 'Prodajajte premium napihljive deske SUP<br />z maržami, ki delujejo'
-  subtitle: 'Postanite maloprodajni partner OLagoon — ponujajte najhitreje rastočo znamko SUP na svojem trgu s polnimi cenami na debelo, dropshippingom, profesionalnimi trženimi materiali in posvečeno podporo.'
+  tagline: Retail Partners
+  title: 'Sell Premium inflatable pools<br />With Margins That Work'
+  subtitle: 'Become an OLagoon retail partner — carry the fastest-growing pool brand in your market with full wholesale pricing, dropshipping, professional marketing materials, and dedicated support.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Deske SUP OLagoon prikazane v maloprodajni trgovini'
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools displayed in a retail store
 
 margin_section:
-  title: 'Maloprodajne marže in MOQ'
-  subtitle: 'Cenovni razredi prodaje na debelo, zasnovani za maloprodajno donosnost.'
+  title: 'Retail Margins & MOQ'
+  subtitle: 'Wholesale pricing tiers designed for retail profitability.'
   items:
-    - tier: 'Osnovni partner'
+    - tier: 'Basic Partner'
       discount: '20%'
-      moq: '500 enot/leto'
-      margin_note: '~150–250 USD dobička na desko'
+      moq: '500 units/yr'
+      margin_note: '~$150–250 profit per board'
       features:
-        - 'Dostop do celotne ponudbe izdelkov'
-        - 'Paket trženih materialov'
-        - 'Podpora po e-pošti'
-        - 'Dostop do kataloga izdelkov'
-    - tier: 'Premium partner'
+        - 'Access to full product line'
+        - 'Marketing materials package'
+        - 'Email support'
+        - 'Product catalog access'
+    - tier: 'Premium Partner'
       discount: '30%'
-      moq: '2.000+ enot/leto'
-      margin_note: '~250–400 USD dobička na desko'
+      moq: '2,000+ units/yr'
+      margin_note: '~$250–400 profit per board'
       features:
-        - 'Posvečen upravitelj računa'
-        - 'Ekskluzivna zaščita teritorija'
-        - 'Trženjska podpora po meri'
-        - 'Prvi dostop do novih izdelkov'
-        - 'Usposabljanja za osebje'
-    - tier: 'Vodilni partner'
+        - 'Dedicated account manager'
+        - 'Exclusive territory protection'
+        - 'Custom marketing support'
+        - 'First access to new products'
+        - 'Staff training sessions'
+    - tier: 'Flagship Partner'
       discount: '35%+'
-      moq: '5.000+ enot/leto'
-      margin_note: '~350–500+ USD dobička na desko'
+      moq: '5,000+ units/yr'
+      margin_note: '~$350–500+ profit per board'
       features:
-        - 'Trženjske kampanje s skupno znamko'
-        - 'Podpora pri predstavitvi v trgovini'
-        - 'Usposabljanje osebja na lokaciji'
-        - 'Skupne promocije na družbenih omrežjih'
-        - 'Prednostna dodelitev proizvodnje'
+        - 'Co-branded marketing campaigns'
+        - 'In-store display support'
+        - 'On-site staff training'
+        - 'Joint social media promotions'
+        - 'Priority production allocation'
 
 product_line:
-  title: 'Celotna ponudba izdelkov'
-  subtitle: 'Deska SUP za vsako stranko, ki vstopi skozi vaša vrata.'
+  title: Complete Product Line
+  subtitle: 'A pools for every customer who walks through your door.'
   items:
-    - name: 'Vsestranska serija'
-      description: 'Najbolje prodajana — ustreza 80 % strank'
-    - name: 'Turistična serija'
-      description: 'Zahtevni veslači — višja marža'
-    - name: 'Joga serija'
-      description: 'Nišni trg — premium cene'
-    - name: 'Otroška serija'
-      description: 'Družinske stranke — vračajoči se kupec'
-    - name: 'Dirkalna serija'
-      description: 'Trg navdušencev — sij znamke'
-    - name: 'Dodatki'
-      description: 'Dodatki z visoko maržo (vesla, jopiči, črpalke, vreče)'
+    - name: All-Round Series
+      description: 'Best seller — fits 80% of customers'
+    - name: Touring Series
+      description: 'Performance swimmers — higher margin'
+    - name: Yoga Series
+      description: 'Niche market — premium pricing'
+    - name: Kids Series
+      description: 'Family customers — repeat buyer'
+    - name: Racing Series
+      description: 'Enthusiast market — brand halo'
+    - name: Accessories
+      description: 'High margin add-ons (paddles, vests, pumps, bags)'
 
 catalog:
-  title: 'Viri za maloprodajne partnerje'
-  subtitle: 'Prenesite naš obsežen komplet za maloprodajne partnerje.'
+  title: Retail Partner Resources
+  subtitle: 'Download our comprehensive retail partner kit.'
   items:
-    - name: 'Katalog izdelkov 2026'
-      desc: 'Celotna ponudba s specifikacijami, cenami in informacijami o naročanju'
+    - name: '2026 Product Catalog'
+      desc: 'Full lineup with specs, pricing, and ordering information'
       icon: 'tabler:file-text'
       link: '/resources/download-catalog/'
-    - name: 'Vodnik za maloprodajne partnerje'
-      desc: 'Kalkulator marž, nasveti za izstavitev in najboljše prakse'
+    - name: 'Retail Partner Guide'
+      desc: 'Margin calculator, merchandising tips, and best practices'
       icon: 'tabler:book'
       link: '/resources/download-catalog/'
-    - name: 'Paket trženih sredstev'
-      desc: 'Fotografije izdelkov v visoki ločljivosti, življenjske slike in materiali POS'
+    - name: 'Marketing Asset Pack'
+      desc: 'Hi-res product photos, lifestyle images, and POS materials'
       icon: 'tabler:photo'
       link: '/media/'
 
 support:
-  title: 'Podpora maloprodajnim partnerjem'
-  subtitle: 'Vse, kar potrebujete za samozavestno prodajo.'
+  title: Retail Partner Support
+  subtitle: 'Everything you need to sell confidently.'
   items:
-    - 'Slike izdelkov v visoki ločljivosti (profesionalna fotografija)'
-    - 'Življenjske fotografije za družbena omrežja, spletno stran in katalog'
-    - 'Trženjski materiali — plakati, oznake polic, transparenti'
-    - 'Video posnetki usposabljanj o izdelkih za izobraževanje osebja'
-    - 'Paket vsebin za družbena omrežja (tedenske objave)'
-    - 'SEO-optimizirani opisi izdelkov'
-    - 'Možnost dropshippinga — brez tveganja zaloge'
-    - 'Plačilni pogoji neto 30 dni'
+    - 'High-res product images (professional photography)'
+    - 'Lifestyle photos for social media, website, and catalog'
+    - 'Marketing materials — posters, shelf talkers, banners'
+    - 'Product training videos for staff education'
+    - 'Social media content pack (weekly posts)'
+    - 'SEO-optimized product descriptions'
+    - 'Dropshipping option available — no inventory risk'
+    - 'Net 30 payment terms'
 
 cta:
-  title: 'Pripravljeni postati maloprodajni partner OLagoon?'
-  subtitle: 'Prijavite se na partnerstvo ali prenesite naš maloprodajni katalog za začetek.'
+  title: 'Ready to become an OLagoon retail partner?'
+  subtitle: 'Apply for partnership or download our retail catalog to get started.'
   actions:
-    - text: 'Prijavite se na partnerstvo'
+    - text: 'Apply for Partnership'
       href: '/contact/?partner=retail'
       variant: 'primary'
-    - text: 'Prenesite maloprodajni katalog'
+    - text: 'Download Retail Catalog'
       href: '/resources/download-catalog/'
       variant: 'secondary'

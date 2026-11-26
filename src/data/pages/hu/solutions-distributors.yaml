@@ -1,54 +1,54 @@
 meta:
-  title: 'SUP nagykereskedelmi disztribúciós partnerprogram | {SITE}'
-  description: 'Csatlakozzon az OLagoon globális SUP nagykereskedelmi disztribúciós hálózatához. Kizárólagos területek, teljes felfújható SUP termékportfólió, versenyképes nagykereskedelmi árazás és dedikált ügyfélkezelés 50+ országban.'
+  title: 'pool Wholesale Distribution Partner Program | {SITE}'
+  description: "Join OLagoon's global pool wholesale distribution network. Exclusive territories, complete inflatable pools product portfolio, competitive wholesale pricing, and dedicated account management in 50+ countries."
 
 hero:
-  tagline: 'Forgalmazók'
-  title: 'Csatlakozzon globális<br />disztribúciós hálózatunkhoz'
-  subtitle: 'SUP nagykereskedelmi disztribúciós partnerprogram kizárólagos területekkel, teljes felfújható SUP termékportfólióval és világosszínvonalú támogatással. Az OLagoon 50+ országba szállít — bevált vízi és vízisport-forgalmazókat keresünk.'
+  tagline: Distributors
+  title: 'Join Our Global<br />Distribution Network'
+  subtitle: "pool wholesale distribution partner program with exclusive territories, complete inflatable pools product portfolio, and world-class support. OLagoon ships to 50+ countries — we're looking for established marine and water sports distributors."
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'OLagoon globális disztribúciós és szállítási műveletek'
+    alt: OLagoon global distribution and shipping operations
 
 benefits:
-  title: 'Amit a forgalmazók kapnak'
-  subtitle: 'Minden, amire szüksége van a piacán való sikeres működéshez.'
+  title: What Distributors Get
+  subtitle: 'Everything you need to succeed in your market.'
   items:
-    - 'Kizárólagos területi jogok'
-    - 'Teljes termékkatalógus (SUP, tartozékok, alkatrészek)'
-    - 'Versenyképes nagykereskedelmi árazás'
-    - 'Marketing- és értékesítési anyagok (lefordítva)'
-    - 'Képzési program (termék, értékesítés, karbantartás)'
-    - 'Szakvásárlói támogatás'
-    - 'Mintaprogram'
-    - 'Drop-ship képesség'
-    - 'Dedikált forgalmazói ügyfélmenedzser'
-    - '45-60 napos fizetési feltételek'
+    - 'Exclusive territory rights'
+    - 'Complete product catalog (pool, accessories, parts)'
+    - 'Competitive wholesale pricing'
+    - 'Marketing & sales materials (translated)'
+    - 'Training program (product, sales, maintenance)'
+    - 'Trade show support'
+    - 'Sample program'
+    - 'Drop-ship capability'
+    - 'Dedicated distributor account manager'
+    - '45-60 day payment terms'
 
 coverage:
-  title: 'Jelenlegi disztribúció'
-  subtitle: 'Az OLagoon jelenleg ezeket a piacokat szolgálja ki közvetlenül.'
+  title: Current Distribution
+  subtitle: 'OLagoon currently serves these markets directly.'
   regions:
-    - name: 'Európa'
-      countries: 'Franciaország, Németország, Egyesült Királyság, Spanyolország, Olaszország, Hollandia, Svédország, Norvégia, Lengyelország, Görögország'
-    - name: 'Ázsia'
-      countries: 'Japán, Dél-Korea, Kína, Thaiföld, Szingapúr'
-    - name: 'Közel-Kelet'
-      countries: 'EAE, Szaúd-Arábia'
-    - name: 'Amerika'
-      countries: 'USA, Kanada, Brazília, Mexikó'
-    - name: 'Óceánia'
-      countries: 'Ausztrália, Új-Zéland'
-    - name: 'Afrika'
-      countries: 'Dél-afrikai Köztársaság, Marokkó'
+    - name: Europe
+      countries: 'France, Germany, UK, Spain, Italy, Netherlands, Sweden, Norway, Poland, Greece'
+    - name: Asia
+      countries: 'Japan, South Korea, China, Thailand, Singapore'
+    - name: Middle East
+      countries: 'UAE, Saudi Arabia'
+    - name: Americas
+      countries: 'USA, Canada, Brazil, Mexico'
+    - name: Oceania
+      countries: 'Australia, New Zealand'
+    - name: Africa
+      countries: 'South Africa, Morocco'
 
 cta:
-  title: 'Készen áll a forgalmazóvá válásra?'
-  subtitle: 'Jelentkezzen forgalmazói programunkba, vagy töltse le forgalmazói információs csomagunkat.'
+  title: 'Ready to become a distributor?'
+  subtitle: 'Apply for our distributor program or download our distributor information kit.'
   actions:
-    - text: 'Jelentkezés forgalmazói programba'
+    - text: 'Apply for Distributor Program'
       href: '/contact/?partner=distributor'
       variant: 'primary'
-    - text: 'Forgalmazói csomag letöltése'
+    - text: 'Download Distributor Kit'
       href: '/resources/download-catalog/'
       variant: 'secondary'

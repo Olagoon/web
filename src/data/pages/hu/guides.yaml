@@ -1,26 +1,26 @@
 meta:
-  title: 'SUP útmutatók — Vásárlás, választás, gyakorlás | {SITE}'
-  description: 'olagoon SUP útmutatók: hogyan vásároljon, válasszon és gyakorolja a paddle boardozást. Méretezés, anyagok és szakértői tippek felfújható SUP kezdőknek és haladóknak.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'sup vásárlási útmutató'
-    - 'hogyan válasszon sup-ot'
-    - 'sup méret útmutató'
-    - 'felfújható paddle board tippek'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: 'Útmutatók'
-  title: 'Újonnan érkezett a SUP világában?'
-  subtitle: 'Gyakorlati útmutatók a felfújható SUP deszkák kiválasztásához, használatához és élvezetéhez.'
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
 
 size_guide:
-  tagline: 'Méret és specifikációk'
-  title: 'Találja meg a megfelelő méretet az igényeihez'
-  desc: 'Hasonlítsa össze a SUP deszka méreteket, súlykapacitásokat és ajánlott felhasználásokat. Legyen szó túra SUP-ról, jógadeszkáról vagy all-around SUP-ról — méret útmutatónk segít a megfelelő választásban.'
-  link_label: 'Teljes méret útmutató termékspecifikációkkal →'
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: 'SUP deszkák'
-      desc: 'Válasszon hosszúságot a súlya és a tervezett használat alapján. A szélesebb deszkák (32"+) nagyobb stabilitást nyújtanak. A hosszabb deszkák (11–12 láb) jobban tartják az irányt túrázáshoz.'
-    - title: 'Túra SUP-ok'
-      desc: 'Hosszabb deszkák (11–12 láb) távolságok megtételéhez és egyenes iránytartáshoz. Elég stabilak felszereléssel történő túrázáshoz. Mindig ellenőrizze a súlykapacitást.'
-    - title: 'All-Around SUP-ok'
-      desc: 'Válasszon hosszúságot a versenyző súlya és a használat szerint. Szélesebb deszkák (32"+) a stabilitásért. Sokoldalúak szabadidőre és fitneszre.'
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

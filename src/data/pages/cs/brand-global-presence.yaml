@@ -1,86 +1,86 @@
 meta:
-  title: 'Globální přítomnost — výrobce SUP ve více než 50 zemích | {SITE}'
-  description: 'olagoon vyváží nafukovací SUP prkna do více než 50 zemí na všech kontinentech. Profesionální výrobce a dodavatel pro značky, distributory a flotily.'
+  title: 'Global Presence — pool Manufacturer Serving 50+ Countries | {SITE}'
+  description: 'olagoon exports inflatable pools to 50+ countries across every continent. Professional manufacturer and supplier for brands, distributors, and fleets.'
   keywords:
-    - 'globální výrobce SUP'
-    - 'vývozce paddleboardů'
-    - 'SUP továrna Čína'
-    - 'profesionální dodavatel SUP'
+    - 'global pool manufacturer'
+    - 'inflatable pool exporter'
+    - 'pool factory china'
+    - 'professional pool supplier'
 hero:
-  tagline: Globální přítomnost
-  title: Obsluhujeme 50+ zemí<br />na každém kontinentu
-  subtitle: Od evropských operátorů pobřežních hlídek po australské distributory vodních sportů a záchranné týmy na Blízkém východě — prkna olagoon jsou na vodě po celém světě.
+  tagline: Global Presence
+  title: 'Serving 50+ Countries<br />Across Every Continent'
+  subtitle: 'From European resort operators to Australian outdoor retailers to Middle East hospitality groups — OLagoon pools are in backyards worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: olagoon – globální výroba a distribuce námořního vybavení
+    alt: olagoon global marine manufacturing and distribution
 stats:
-  title: Globální dosah
+  title: Global Reach
   stats:
-    - title: Země
-      amount: 50+
-    - title: Exportní trhy
-      amount: Evropa, Amerika, Asie, Střední východ, Oceánie
-    - title: Výroba
-      amount: Qingdao, Čína
-    - title: Sklad v USA
+    - title: Countries
+      amount: '50+'
+    - title: Export Markets
+      amount: Europe, Americas, Asia, Middle East, Oceania
+    - title: Production
+      amount: Qingdao, China
+    - title: US Warehouse
       amount: Montclair, CA
 features3_markets:
-  tagline: Klíčové trhy
-  title: Regionální odbornost<br />pro místní požadavky
-  subtitle: Chápeme, že různé trhy mají různé regulační požadavky, preference a případy použití.
+  tagline: Key Markets
+  title: 'Regional Expertise<br />for Local Requirements'
+  subtitle: 'We understand that different markets have different regulatory requirements, preferences, and use cases.'
   isBeforeContent: false
   columns: 4
   items:
-    - title: Evropa a Velká Británie
-      description: Produkty s certifikací CE. Silná poptávka po SUP prknech na trzích EU. Britští distributoři oceňují naše rychlé vyřízení.
+    - title: Europe & UK
+      description: 'CE-certified products. Strong demand for pools across EU markets. UK distributors appreciate our quick turnaround.'
       icon: tabler:map-pin
-    - title: Severní Amerika
-      description: Výroba schválená americkou pobřežní stráží. Sklad v USA v Montclair, CA pro rychlé doručení na západní pobřeží. Rostoucí poptávka po rybářských, záchranných a rekreačních SUP.
+    - title: North America
+      description: 'US Coast Guard approved manufacturing. US warehouse in Montclair, CA for fast West Coast delivery. Growing demand for fishing, rescue, and recreational pools.'
       icon: tabler:map-pin
-    - title: Austrálie a Oceánie
-      description: Silný trh pro SUP prkna a příslušenství pro vodní sporty. Australští distributoři oceňují naši UV-odolnou PVC konstrukci v náročných slunečních podmínkách. Rychlé odeslání z našeho asijského zařízení.
+    - title: Australia & Oceania
+      description: 'Strong market for pools and water sports accessories. Australian distributors value our UV-resistant PVC construction in harsh sun conditions. Quick shipping from our Asia facility.'
       icon: tabler:map-pin
-    - title: Střední východ
-      description: Rostoucí poptávka po vybavení pro vodní dobrodružství. Naše komerční SUP a bezpečnostní vybavení jsou oblíbené u provozovatelů túr a půjčoven. Vlastní konfigurace pro prostředí s vysokými teplotami.
+    - title: Middle East
+      description: 'Growing demand for water adventure equipment. Our commercial-grade pools and safety gear are popular with tour operators and rental centers. Custom configurations for high-temperature environments.'
       icon: tabler:map-pin
 features3_distribution:
-  tagline: Distribuční síť
-  title: Partnerství s distributory<br />po celém světě
-  subtitle: Spolupracujeme s etablovanými distributory námořního vybavení, značkami vodních sportů a vládními nákupními agenturami.
+  tagline: Distribution Network
+  title: 'Partnering with Distributors<br />Worldwide'
+  subtitle: 'We work with established marine equipment distributors, water sports brands, and government procurement agencies.'
   isBeforeContent: false
   columns: 3
   items:
-    - title: Programy Co-Brand
-      description: Výroba privátních značek pro globální značky vodních sportů. Zajišťujeme vše od návrhu přes výrobu až po přímou dopravu.
+    - title: Co-Brand Programs
+      description: 'Private label manufacturing for global water sports brands. We handle everything from design to production to drop-shipping.'
       icon: tabler:building
-    - title: Síť distributorů
-      description: Autorizovaní distributoři ve 20+ zemích mají skladové zásoby a poskytují místní podporu. Dotazy nových distributorů vítány.
+    - title: Distributor Network
+      description: 'Authorized distributors in 20+ countries carry stock and provide local support. New distributor inquiries welcome.'
       icon: tabler:users
-    - title: Vládní a institucionální
-      description: Přímé dodávky pobřežním strážím, pátracím a záchranným organizacím a vojenským nákupním programům. Soulad s požadavky institucionálních nákupů.
+    - title: Government & Institutional
+      description: 'Direct supply to coast guards, search and rescue organizations, and military procurement programs. Compliance with institutional procurement requirements.'
       icon: tabler:building-community
 steps2_logistics:
-  title: Globální logistika a podpora
-  subtitle: Z továrny do cíle — řídíme celý dodavatelský řetězec.
+  title: 'Global Logistics & Support'
+  subtitle: 'From factory to destination — we manage the entire supply chain.'
   items:
-    - title: Možnosti dopravy
-      description: Námořní přeprava (FOB Qingdao), letecká přeprava pro naléhavé objednávky a expresní kurýr pro vzorky a náhradní díly.
+    - title: Shipping Options
+      description: 'Sea freight (FOB Qingdao), air freight for urgent orders, and express courier for samples and spare parts.'
       icon: tabler:truck-delivery
-    - title: Sklad v USA
-      description: 'Skladové zásoby v Montclair, CA pro rychlé doručení po celé Severní Americe. Západní pobřeží: 2-3 dny, Střed: 3-4 dny, Východní pobřeží: 4-5 dní.'
+    - title: US Warehouse
+      description: 'Stock held in Montclair, CA for fast delivery across North America. West Coast: 2-3 days, Central: 3-4 days, East Coast: 4-5 days.'
       icon: tabler:building-warehouse
-    - title: Náhradní díly
-      description: Originální náhradní díly olagoon a spotřební materiál skladem po celý rok. Běžné díly odesílány do 24 hodin.
+    - title: Spare Parts
+      description: 'Genuine olagoon spare parts and consumables stocked year-round. Common parts ship within 24 hours.'
       icon: tabler:package
-    - title: Technická podpora
-      description: Přímá linka k našemu inženýrskému týmu pro technické dotazy, rady ohledně oprav a podporu při renovaci. Podporujeme prkna, která jsme vyrobili před 20 lety.
+    - title: Technical Support
+      description: 'Direct line to our engineering team for technical questions, repair advice, and replacement-part support. We support every pool generation we have built.'
       icon: tabler:headset
 cta:
-  title: Chcete se stát distributorem?
-  subtitle: Aktivně rozšiřujeme naši distribuční síť. Kontaktujte náš exportní tým a prodiskutujte možnosti partnerství.
+  title: 'Want to become a distributor?'
+  subtitle: 'We are actively expanding our distribution network. Contact our export team to discuss partnership opportunities.'
   actions:
     - variant: primary
-      text: Poptávka ohledně partnerství
+      text: Partnership inquiry
       href: /contact/
-    - text: Zobrazit naši nabídku produktů
+    - text: View our product range
       href: /products/

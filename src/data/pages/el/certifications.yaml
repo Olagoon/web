@@ -1,68 +1,68 @@
 meta:
-  title: 'Πιστοποιήσεις — CE, ISO 9001 και συμμόρφωση | {SITE}'
-  description: 'Οι πιστοποιήσεις ποιότητας της olagoon: CE (EN ISO 25649), ISO 9001:2015, BSCI. Συμμόρφωση και ασφάλεια για έναν κατασκευαστή φουσκωτών σανίδων SUP.'
+  title: 'Certifications — CE, ISO 9001 & Compliance | {SITE}'
+  description: 'olagoon quality certifications: CE (EN ISO 25649), ISO 9001:2015, BSCI. Compliance and safety for an inflatable pool manufacturer.'
   keywords:
-    - 'πιστοποίηση CE paddle board'
-    - 'ISO 9001 paddle board'
-    - 'ναυτική συμμόρφωση'
-    - 'πιστοποίηση paddle board'
+    - 'ce certification pool'
+    - 'iso 9001 pool'
+    - 'nautical compliance'
+    - 'inflatable pool certification'
 hero:
-  tagline: Πιστοποιήσεις & Πρότυπα
-  title: Πιστοποιήσεις Ποιότητας<br />& Πρότυπα Συμμόρφωσης
-  subtitle: Τα προϊόντα olagoon κατασκευάζονται σύμφωνα με διεθνή πρότυπα θαλάσσιας ασφάλειας, συστήματα διαχείρισης ποιότητας και περιβαλλοντικούς κανονισμούς.
+  tagline: Certifications & Standards
+  title: 'Quality Certifications<br />& Compliance Standards'
+  subtitle: 'olagoon pool manufacturing is certified to international marine safety standards, quality management systems, and environmental regulations — CE, ISO 9001, UKCA, BSCI, and REACH.'
   image:
     src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
-    alt: Πιστοποιήσεις ποιότητας olagoon και τεκμηρίωση συμμόρφωσης
+    alt: olagoon quality certifications and compliance documentation
 content_certifications:
-  tagline: Οι Πιστοποιήσεις μας
-  title: Πιστοποιημένη Ποιότητα,<br />Παγκόσμια Αναγνωρισμένη
-  subtitle: Κάθε προϊόν olagoon υποστηρίζεται από πιστοποιήσεις που αποδεικνύουν τη δέσμευσή μας για ποιότητα, ασφάλεια και περιβαλλοντική ευθύνη.
+  tagline: Our Certifications
+  title: 'Certified Quality,<br />Globally Recognized'
+  subtitle: 'Every olagoon product is backed by certifications that demonstrate our commitment to quality, safety, and environmental responsibility.'
   items:
-    - title: CE Πιστοποιημένο
-      description: Όλα τα προϊόντα olagoon συμμορφώνονται με τις ευρωπαϊκές απαιτήσεις σήμανσης CE για σκάφη αναψυχής, διασφαλίζοντας ότι πληρούνται τα πρότυπα ασφάλειας, υγείας και προστασίας του περιβάλλοντος.
+    - title: 'CE Certified'
+      description: 'All olagoon products comply with European CE marking requirements for recreational watercraft, ensuring safety, health, and environmental protection standards are met.'
       icon: tabler:certificate
-    - title: ISO 9001:2015
-      description: Το σύστημα διαχείρισης ποιότητάς μας είναι πιστοποιημένο ISO 9001:2015, καλύπτοντας τον σχεδιασμό, την κατασκευή και τη διανομή φουσκωτών σκαφών και θαλάσσιου εξοπλισμού.
+    - title: 'ISO 9001:2015'
+      description: 'Our quality management system is ISO 9001:2015 certified, covering design, manufacturing, and distribution of inflatable watercraft and marine equipment.'
       icon: tabler:clipboard-check
-    - title: UKCA Marked
-      description: Τα προϊόντα που πωλούνται στην αγορά του ΗΒ φέρουν σήμανση UKCA, επιβεβαιώνοντας τη συμμόρφωση με τους κανονισμούς του ΗΒ για θαλάσσιο εξοπλισμό και προσωπικά σκάφη.
+    - title: 'UKCA Marked'
+      description: 'Products sold in the UK market carry UKCA marking, confirming compliance with UK regulations for marine equipment and personal watercraft.'
       icon: tabler:shield
-    - title: Συμμόρφωση με BSCI
-      description: Η olagoon ελέγχεται από την BSCI (Business Social Compliance Initiative), αποδεικνύοντας ηθικές πρακτικές κατασκευής, δίκαιες συνθήκες εργασίας και υπευθυνότητα εφοδιαστικής αλυσίδας.
+    - title: 'BSCI Compliant'
+      description: 'olagoon is BSCI (Business Social Compliance Initiative) audited, demonstrating ethical manufacturing practices, fair labor conditions, and supply chain responsibility.'
       icon: tabler:heart-handshake
-    - title: Συμμόρφωση REACH
-      description: Όλα τα υλικά που χρησιμοποιούνται στα προϊόντα olagoon συμμορφώνονται με τους κανονισμούς REACH της ΕΕ για χημική ασφάλεια, διασφαλίζοντας ότι δεν υπάρχουν περιορισμένες ουσίες στο PVC, EVA ή στα εξαρτήματά μας.
+    - title: 'REACH Compliant'
+      description: 'All materials used in olagoon products comply with EU REACH regulations for chemical safety, ensuring no restricted substances in our PVC, EVA, or components.'
       icon: tabler:flask
-    - title: Δοκιμή Υλικών
-      description: Τα υφάσματα ελέγχονται για αντοχή εφελκυσμού, αντοχή σε σχίσιμο, υποβάθμιση UV και απόδοση σε ψυχρή ρωγμή. Κάθε παρτίδα παραγωγής δειγματοληπτείται και επαληθεύεται.
+    - title: 'Material Testing'
+      description: 'Fabrics are tested for tensile strength, tear resistance, UV degradation, and cold-crack performance. Every production batch is sampled and verified.'
       icon: tabler:test-pipe
 content_factory:
-  tagline: Πρότυπα Εργοστασίου
-  title: Κατασκευαστική Αριστεία<br />— Κατασκευασμένο σύμφωνα με Προδιαγραφές
-  subtitle: Η εγκατάστασή μας 12.000 m² λειτουργεί υπό αυστηρά πρωτόκολλα ποιοτικού ελέγχου σε κάθε στάδιο παραγωγής.
+  tagline: Factory Standards
+  title: 'Manufacturing Excellence<br />— Built to Specification'
+  subtitle: 'Our 12,000 m² facility operates under strict quality control protocols at every stage of production.'
   list:
-    - 'Επιθεώρηση Εισερχόμενων Υλικών: Όλες οι πρώτες ύλες — PVC ύφασμα, αφρός EVA, κόλλες, εξαρτήματα — ελέγχονται έναντι προδιαγραφών πριν εισέλθουν στην παραγωγή.'
-    - 'Ποιοτικός Έλεγχος Εν Διαδικασία: Κάθε στάδιο παραγωγής έχει τεκμηριωμένα σημεία ελέγχου QC. Η αντοχή συγκόλλησης, η ευθυγράμμιση ραφής, η εγκατάσταση βαλβίδας και η ροπή σύνδεσης επαληθεύονται στη γραμμή.'
-    - 'Δοκιμή Πίεσης: Κάθε φουσκωτός θάλαμος δοκιμάζεται στο 1,25× της ονομαστικής πίεσης για 24–48 ώρες. Η πτώση πίεσης πρέπει να παραμένει κάτω από 5% για επιτυχία.'
-    - 'Τελική Επιθεώρηση: Τα ολοκληρωμένα προϊόντα ελέγχονται για διαστατική ακρίβεια, αισθητική εμφάνιση, πληρότητα αξεσουάρ και ακεραιότητα συσκευασίας πριν από την αποστολή.'
-    - 'Ιχνηλασιμότητα Παρτίδας: Κάθε προϊόν φέρει σειριακό αριθμό συνδεδεμένο με αρχεία παρτίδας παραγωγής, επιτρέποντας πλήρη ιχνηλασιμότητα από την πρώτη ύλη έως το τελικό προϊόν.'
+    - 'Incoming Material Inspection: All raw materials — PVC fabric, EVA foam, adhesives, hardware — are tested against specifications before entering production.'
+    - 'In-Process Quality Control: Every production stage has documented QC checkpoints. Weld strength, seam alignment, valve installation, and fitting torque are verified inline.'
+    - 'Pressure Testing: Every inflatable chamber is pressure-tested at 1.25× rated pressure for 24–48 hours. Pressure drop must stay below 5% for a passing grade.'
+    - 'Final Inspection: Completed products are inspected for dimensional accuracy, cosmetic finish, accessory completeness, and packaging integrity before shipping.'
+    - 'Batch Traceability: Every product carries a serial number linked to production batch records, enabling full traceability from raw material to finished goods.'
 content_safety:
-  tagline: Πρότυπα Θαλάσσιας Ασφάλειας
-  title: Ασφάλεια Πρώτα<br />— Σχεδιασμένο για Αξιόπιστη Λειτουργία
-  subtitle: Τα προϊόντα olagoon σχεδιάζονται και δοκιμάζονται για να πληρούν διεθνή πρότυπα θαλάσσιας ασφάλειας για εμπορική και ψυχαγωγική χρήση.
+  tagline: Marine Safety Standards
+  title: 'Safety First<br />— Designed for Reliable Operation'
+  subtitle: 'olagoon products are designed and tested to meet international marine safety standards for commercial and recreational use.'
   items:
-    - title: EN ISO 25649
-      description: Τα φουσκωτά SUP συμμορφώνονται με τα πρότυπα EN ISO 25649 για κατασκευή, σταθερότητα, πλευστότητα και χωρητικότητα φορτίου.
+    - title: 'EN ISO 25649'
+      description: 'inflatable pools comply with EN ISO 25649 standards for construction, stability, buoyancy, and load capacity.'
       icon: tabler:sailboat
-    - title: Συμμόρφωση SOLAS
-      description: Ο εξοπλισμός ασφαλείας και τα σωστικά μέσα πληρούν τις απαιτήσεις SOLAS όπου ισχύουν.
+    - title: 'SOLAS Compliance'
+      description: 'Safety equipment and life-saving appliances meet SOLAS (Safety of Life at Sea) requirements where applicable.'
       icon: tabler:lifebuoy
 cta:
-  title: Χρειάζεστε πιστοποιημένα προϊόντα για το έργο σας;
-  subtitle: Επικοινωνήστε με την ομάδα μας για να συζητήσετε τις απαιτήσεις πιστοποίησης, τεκμηρίωσης και συμμόρφωσης για την αγορά σας.
+  title: 'Need certified products for your project?'
+  subtitle: 'Contact our team to discuss certification requirements, documentation, and compliance for your market.'
   actions:
     - variant: primary
-      text: Ζητήστε τα έγγραφα πιστοποίησης
+      text: Request certification docs
       href: /contact/
-    - text: Δείτε τη σελίδα ποιότητάς μας
+    - text: View our quality page
       href: /quality/

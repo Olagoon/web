@@ -1,89 +1,89 @@
 meta:
-  title: 'מרכז הריתוך RF — חיבור דיאלקטרי לתפרים אטומים | {SITE}'
-  description: 'טכנולוגיית ריתוך בתדר רדיו המספקת תפרים אטומים תואמי תקנות. בדיקות קילוף, אימות שמירת אוויר ומפרטי תפרים מותאמים אישית.'
-back_text: 'חזרה למרכז המו״פ'
-home_label: 'בית'
+  title: 'RF Welding Center — Dielectric Bonding for Airtight Seams | {SITE}'
+  description: 'Radio-frequency welding technology delivering compliant airtight seams. Peel testing, air-retention validation, and custom seam specifications.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
 
 hero:
-  tagline: 'מעבדה 03'
-  title: 'מרכז הריתוך RF'
-  subtitle: 'טכנולוגיית חיבור דיאלקטרי לריתוכים שמחזיקים מעמד תחת לחץ'
-  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-1-1200w.webp'
-  image_alt: 'תהליך החיבור הדיאלקטרי בריתוך RF של olagoon'
+  tagline: 'Lab 03'
+  title: 'RF Welding Center'
+  subtitle: 'Dielectric bonding technology for welds that hold under pressure'
+  image: 'https://assets.olagoon.com/images/olagoon/products/family-oasis.webp'
+  image_alt: 'OLagoon RF welding dielectric bonding process'
 
-intro: 'SUP מתנפח אמין רק כמו התפרים שלו. ריתוך חלש אחד עלול לפגוע בתא שלם — ובים, כשל של תא אינו אי-נוחות; הוא מפגע בטיחותי. ב-olagoon השקענו במרכז ריתוך ייעודי בתדר רדיו (RF) המשלב מכבשי ריתוך דיאלקטריים בדרגה תעשייתית עם בקרת תהליך קפדנית ובדיקות לאחר ריתוך. כל תפר שאנו מייצרים מתועד, ניתן למעקב ומוסמך כעומד בדרישות EN ISO 25649 או עולה עליהן — התקן האירופי לציוד פנאי מתנפח.'
+intro: 'An inflatable pool is only as reliable as its seams. A single weak weld can compromise an entire chamber — and at sea, a chamber failure is not an inconvenience; it is a safety hazard. At OLagoon, we have invested in a dedicated Radio-Frequency (RF) Welding Center that combines industrial-grade dielectric welding presses with rigorous process control and post-weld testing. Every seam we produce is documented, traceable, and certified to meet or exceed the requirements of EN ISO 25649 — the European standard for inflatable leisure equipment.'
 
 content_html: |
-  <h2>המדע שמאחורי התפר</h2>
-  <p>ריתוך RF משתמש באנרגיה אלקטרומגנטית בתדירות גבוהה (בדרך כלל 27.12 MHz) כדי לעורר את המולקולות הקוטביות בתוך בד מצופה PVC, ולייצר חום בדיוק בממשק החומר. בניגוד לריתוך באוויר חם או בטריז חם, ריתוך RF יוצר קשר מולקולרי אמיתי — שתי שכבות הבד מתמזגות לחומר הומוגני יחיד באזור הריתוך, ונוצר חיבור החזק כמו חומר האם עצמו.</p>
+  <h2>The science behind the seam</h2>
+  <p>RF welding uses high-frequency electromagnetic energy (typically 27.12 MHz) to excite the polar molecules within PVC-coated fabric, generating heat precisely at the material interface. Unlike hot-air or hot-wedge welding, RF welding creates a true molecular bond — the two fabric layers fuse into a single homogeneous material at the weld zone, producing a joint that is as strong as the parent material itself.</p>
 
-  <h2>ציוד ריתוך ובקרת תהליך</h2>
-  <p>מרכז הריתוך שלנו מצויד ב:</p>
+  <h2>Welding equipment and process control</h2>
+  <p>Our welding centre is equipped with:</p>
   <table>
-    <thead><tr><th>מכונה</th><th>הספק / קיבולת</th><th>יישום</th></tr></thead>
+    <thead><tr><th>Machine</th><th>Power / Capacity</th><th>Application</th></tr></thead>
     <tbody>
-      <tr><td>מכבש RF דיאלקטרי 1</td><td>15 kW, לוח 2000 × 600 מ״מ</td><td>תפרים אורכיים ראשיים, חיבורי מסילה לגוף השיט</td></tr>
-      <tr><td>מכבש RF דיאלקטרי 2</td><td>10 kW, לוח 1500 × 500 מ״מ</td><td>ריתוכי מחיצות, חיבורי סגירת מסילות, טלאי שסתומים</td></tr>
-      <tr><td>מרתך RF מבוקר CNC</td><td>8 kW, שולחן XY 2500 × 1200 מ״מ</td><td>תפרים מעוקלים, טבעות לוגו/פאנלים, עבודת טלאים מדויקת</td></tr>
-      <tr><td>מרתך טריז חם אוטומטי</td><td>טמפרטורה משתנה, עד 1.2 m/min</td><td>שיטת גיבוי לבדי מסילות PVC עבים ולעבודות תיקון</td></tr>
+      <tr><td>Dielectric RF press 1</td><td>15 kW, platen 2000 × 600 mm</td><td>Main longitudinal seams, rail-to-hull joints</td></tr>
+      <tr><td>Dielectric RF press 2</td><td>10 kW, platen 1500 × 500 mm</td><td>Baffle welds, rail closure joints, valve patches</td></tr>
+      <tr><td>CNC controlled RF welder</td><td>8 kW, XY table 2500 × 1200 mm</td><td>Curved seams, logo/panel embossing, precision patchwork</td></tr>
+      <tr><td>Hot-wedge automatic welder</td><td>Variable temperature, 1.2 m/min max</td><td>Backup method for thick PVC rail fabric and repair work</td></tr>
     </tbody>
   </table>
-  <p>כל מכבש RF מצויד בניטור טמפרטורה ולחץ במעגל סגור. פרמטרי הריתוך — הספק, זמן לחיצה, זמן קירור, לחץ אלקטרודה — מתוכנתים לפי סוג החומר ונרשמים במערכת ביצוע הייצור (MES) שלנו לעקיבות מלאה.</p>
+  <p>Every RF press is equipped with closed-loop temperature and pressure monitoring. Weld parameters — power, press time, cooling time, electrode pressure — are programmed per material type and recorded in our Manufacturing Execution System (MES) for full traceability.</p>
 
-  <h2>בדיקות איכות ריתוך — כל תפר, כל לוח</h2>
-  <p>שלמות הריתוך מאומתת באמצעות פרוטוקול חובה של ארבע בדיקות:</p>
+  <h2>Weld quality tests — every seam, every pool</h2>
+  <p>Weld integrity is verified through a mandatory four-test protocol:</p>
   <ol>
-    <li><strong>בדיקה חזותית</strong> — 100% מהתפרים נבדקים חזותית לאיתור כוויות חודרות, חוסר יישור, זיהום או היתוך חלקי. סף שיעור הדחיות: 0.5% מהמטרים הליניאריים.</li>
-    <li><strong>בדיקת קילוף</strong> — רצועה ברוחב 25 מ״מ נחתכת מדגימת בדיקה שרותכה עם כל אצוות ייצור. כוח קילוף מינימלי: 120 N/25 מ״מ עבור PVC 1100 dtex.</li>
-    <li><strong>בדיקת שמירת אוויר</strong> — כל תא שלם מועלה ללחץ של 1.5× מלחץ העבודה ומוחזק במשך 30 דקות. ירידת הלחץ לא תעלה על 2%.</li>
-    <li><strong>בדיקת מחזורים תרמיים</strong> — דגימות בדיקה עוברות מחזורים מ-20 °C ועד +60 °C במשך 50 מחזורים, ואז נבדקות שוב בקילוף. אובדן חוזק מקובל: &lt; 10%.</li>
+    <li><strong>Visual inspection</strong> — 100 % of seams are visually inspected for burn-through, misalignment, contamination, or incomplete fusion. Reject rate threshold: 0.5 % of linear metres.</li>
+    <li><strong>Peel test</strong> — A 25 mm wide strip is cut from a test coupon welded with each production batch. Minimum peel force: 120 N/25 mm for PVC 1100 dtex.</li>
+    <li><strong>Air-retention test</strong> — Every completed chamber is pressurised to 1.5 × working pressure and held for 30 minutes. Pressure drop must not exceed 2 %.</li>
+    <li><strong>Thermal cycling test</strong> — Sample coupons are cycled from -20 °C to +60 °C for 50 cycles, then peel-tested again. Acceptable strength loss: &lt; 10 %.</li>
   </ol>
 
   <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
-    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">השוואת חוזק קילוף — ריתוך RF מול ריתוך באוויר חם (PVC 1100 dtex)</p>
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Peel Strength Comparison — RF vs Hot-Air Welding (PVC 1100 dtex)</p>
     <div class="space-y-3">
       <div class="flex items-center gap-3">
-        <span class="w-24 text-xs font-medium">ריתוך RF</span>
+        <span class="w-24 text-xs font-medium">RF Weld</span>
         <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
           <div class="h-full bg-blue-600 rounded" style="width:92%"></div>
         </div>
         <span class="text-xs font-bold w-12 text-right">184 N</span>
       </div>
       <div class="flex items-center gap-3">
-        <span class="w-24 text-xs font-medium">אוויר חם</span>
+        <span class="w-24 text-xs font-medium">Hot-Air</span>
         <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
           <div class="h-full bg-gray-400 rounded" style="width:65%"></div>
         </div>
         <span class="text-xs font-bold w-12 text-right">130 N</span>
       </div>
       <div class="flex items-center gap-3">
-        <span class="w-24 text-xs font-medium">מינימום</span>
+        <span class="w-24 text-xs font-medium">Min</span>
         <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
           <div class="h-full bg-green-500 rounded" style="width:48%"></div>
         </div>
         <span class="text-xs font-bold w-12 text-right">96 N</span>
       </div>
     </div>
-    <p class="text-xs text-gray-400 mt-2">ריתוך RF משיג בעקביות 90-95% מחוזק חומר האם, הרבה מעל המינימום.</p>
+    <p class="text-xs text-gray-400 mt-2">RF welding consistently achieves 90-95 % of parent-material strength, well above the minimum.</p>
   </div>
 
-  <h2>מומחיות מקצועית</h2>
-  <p>צוות הריתוך שלנו מנוהל על ידי מהנדס תהליך בכיר ותיק עם 11 שנות ניסיון בריתוך דיאלקטרי של טקסטיל מצופה. כל מפעיל משלים תוכנית הסמכה פנימית של 6 חודשים בטרם הותר לו לעבוד על תפרי ייצור. נדרשת הסמכה מחדש מדי שנה, ובכללה בדיקת ריתוך מעשית המוערכת מול הסטנדרט הפנימי שלנו בדרגה A (חוזק קילוף ≥ 160 N/25 מ״מ).</p>
+  <h2>Professional expertise</h2>
+  <p>Our welding team is led by a senior process engineer with 11 years of experience in dielectric welding of coated textiles. Each operator completes a 6-month in-house certification programme before being allowed to work on production seams. Recertification is required annually, including a practical weld test evaluated against our internal Grade-A standard (peel strength ≥ 160 N/25 mm).</p>
 
-  <h2>פתרונות ריתוך מותאמים לדרישות ייחודיות</h2>
-  <p>אנו מבינים שמפרט ריתוך אחד אינו מתאים לכל יישום. מרכז הריתוך RF שלנו מפתח באופן שגרתי תצורות תפר מותאמות עבור לקוחות בעלי דרישות מיוחדות:</p>
+  <h2>Custom welding solutions for unique requirements</h2>
+  <p>We understand that one welding specification does not fit every application. Our RF Welding Center routinely develops custom seam configurations for clients with special requirements:</p>
   <ul>
-    <li><strong>טלאי חיזוק רב-שכבתיים</strong> — עבור אזורים בשחיקה גבוהה כגון מסילות החרטום והירכתיים, אנו מפתחים ריתוכי RF רב-שלביים המשלבים שכבה חיצונית עמידה לשחיקה מבלי לפגוע בגמישות.</li>
-    <li><strong>תפרים מוליכים או אטומים ל-RF</strong> — עבור יישומים צבאיים או יישומי מעקב הדורשים מיסוך אלקטרומגנטי, אנו מרתכים שכבות רשת מוליכה בתוך ערימת התפר.</li>
-    <li><strong>ריתוך פאנלים בשינוי צבע</strong> — פאנלי בד דו-צבעיים (למשל גוף כתום + סיפון אפור) מרותכים בחפיפה מוסתרת לשמירה על אסתטיקת המותג ללא קו חיבור נראה לעין.</li>
+    <li><strong>Multi-layer reinforcement patches</strong> — for high-wear areas such as the nose and tail rails, we develop multi-pass RF welds that integrate a wear-resistant outer layer without compromising flexibility.</li>
+    <li><strong>Conductive or RF-opaque seams</strong> — for military or surveillance applications requiring electromagnetic shielding, we weld in conductive mesh layers within the seam stack-up.</li>
+    <li><strong>Colour-change panel welding</strong> — dual-colour fabric panels (e.g. orange hull + grey deck) welded with a concealed overlap to maintain brand aesthetics without a visible join line.</li>
   </ul>
 
-  <h2>המחויבות שלנו כלפיכם</h2>
-  <p>כל לוח שאנו מוסרים נושא את ערבון איכות הריתוך שלנו: אם תפר כלשהו נכשל בשירות רגיל במהלך תקופת האחריות, אנו מתקנים או מחליפים את התא הפגוע ללא עלות, ומתבצעת חקירת שורש הבעיה למניעת הישנות. זו אינה רק אחריות מוצר — זו מחויבות לשיפור מתמיד המונע על ידי נתונים תפעוליים מהעולם האמיתי.</p>
-  <p>כשאתם בוחרים ב-olagoon, אתם בוחרים בתפרים מהונדסים, נבדקים ומתועדים — לא רק מרותכים. זה ההבדל בין לוח שצף לבין לוח שמבצע.</p>
+  <h2>Our commitment to you</h2>
+  <p>Every pool we deliver carries our weld-quality guarantee: if any seam fails in normal service within the warranty period, we repair or replace the affected chamber at no cost, and a root-cause investigation is performed to prevent recurrence. This is not simply a warranty — it is a commitment to continuous improvement driven by real-world operational data.</p>
+  <p>When you choose OLagoon, you are choosing seams that are engineered, tested, and documented — not just welded. That is the difference between a pool that holds water and a pool that holds up season after season.</p>
 
 cta:
-  title: 'דונו בדרישות הריתוך שלכם'
-  subtitle: 'מפרטי תפרים מותאמים אישית, תאימות חומרים או אימות תהליך.'
-  button_text: 'צרו קשר עם צוות הריתוך שלנו'
+  title: 'Discuss your welding requirements'
+  subtitle: 'Custom seam specifications, material compatibility, or process validation.'
+  button_text: 'Contact our welding team'
   button_link: /contact/

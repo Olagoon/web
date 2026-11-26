@@ -1,15 +1,15 @@
 meta:
   title: 'Certifications — CE, ISO 9001 & Compliance | {SITE}'
-  description: 'olagoon quality certifications: CE (EN ISO 25649), ISO 9001:2015, BSCI. Compliance and safety for an inflatable SUP manufacturer.'
+  description: 'olagoon quality certifications: CE (EN ISO 25649), ISO 9001:2015, BSCI. Compliance and safety for an inflatable pool manufacturer.'
   keywords:
-    - 'ce certification sup'
-    - 'iso 9001 sup'
+    - 'ce certification pool'
+    - 'iso 9001 pool'
     - 'nautical compliance'
-    - 'paddle board certification'
+    - 'inflatable pool certification'
 hero:
   tagline: Certifications & Standards
   title: 'Quality Certifications<br />& Compliance Standards'
-  subtitle: 'olagoon SUP manufacturing is certified to international marine safety standards, quality management systems, and environmental regulations — CE, ISO 9001, UKCA, BSCI, and REACH.'
+  subtitle: 'olagoon pool manufacturing is certified to international marine safety standards, quality management systems, and environmental regulations — CE, ISO 9001, UKCA, BSCI, and REACH.'
   image:
     src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
     alt: olagoon quality certifications and compliance documentation
@@ -52,7 +52,7 @@ content_safety:
   subtitle: 'olagoon products are designed and tested to meet international marine safety standards for commercial and recreational use.'
   items:
     - title: 'EN ISO 25649'
-      description: 'Inflatable SUPs comply with EN ISO 25649 standards for construction, stability, buoyancy, and load capacity.'
+      description: 'inflatable pools comply with EN ISO 25649 standards for construction, stability, buoyancy, and load capacity.'
       icon: tabler:sailboat
     - title: 'SOLAS Compliance'
       description: 'Safety equipment and life-saving appliances meet SOLAS (Safety of Life at Sea) requirements where applicable.'

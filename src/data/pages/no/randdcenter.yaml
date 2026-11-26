@@ -1,125 +1,130 @@
 meta:
-  title: FoU-senter | {SITE}
-  description: Forskning og utvikling – PVC-stofftesting, skrogteknikk, RF-sveising, hydrodynamisk testing og kvalitetskontroll. Tilpassede FoU-tjenester tilgjengelig.
+  title: 'R&D Center | {SITE}'
+  description: 'Research & Development — PVC fabric testing, hull engineering, RF welding, hydrodynamic testing, and quality control. Custom R&D services available.'
+
 hero:
-  tagline: FoU-senter
-  title: FoU-senter
-  subtitle: Fokusert på fremgang
+  tagline: R&D Center
+  title: R & D Center
+  subtitle: Focused on Progress
+
 intro:
-  - >-
-    olagoons forsknings- og utviklingsavdeling (R&D) er drivkraften bak vårt oppdrag å revolusjonere vannsportsutstyr. Vi gir vannsportsentusiaster over hele verden sikrere, mer komfortable og mer fornøyelige produkter gjennom utrettelig innovasjon innen oppblåsbare padlebrett (SUP-er). Vårt
-    dedikerte team av ingeniører, designere og lidenskapelige vannsportseksperter former fremtiden for bransjen og hever stadig listen for kvalitet, ytelse og bærekraft.
-  - Vår FoU-fasilitet samler materialvitenskapsfolk, marineingeniører og produksjonsingeniører under ett tak. Fra stoffformulering og skrogsimulering til sveiseprosessutvikling og fullskala sjøforsøk, hvert stadium av produktutviklingen drives av data og valideres gjennom testing.
+  - olagoon's Research and Development (R&D) Center is the driving force behind our mission to revolutionize water sports equipment. We empower water sports enthusiasts globally with safer, more comfortable, and more enjoyable products through relentless innovation in inflatable drop-stitch pool (pools). Our dedicated team of engineers, designers, and passionate water sports experts are shaping the future of the industry, consistently raising the bar for quality, performance, and sustainability.
+  - Our R&D facility brings together material scientists, marine engineers, and production engineers under one roof. From fabric formulation and hull simulation to welding process development and full-scale sea trials, every stage of product development is driven by data and validated by testing.
+
 mission:
-  tagline: Vår misjon
-  title: Innovasjon av fremtiden for vannsport
+  tagline: Our Mission
+  title: Innovating the Future of Water Sports
   pillars:
     - icon: lightning
-      title: Teknologisk utvikling
-      desc: Pionervirksomhet innen nye materialer, design og produksjon for overlegen ytelse og levetid.
+      title: Technological Advancement
+      desc: Pioneering new materials, designs, and manufacturing for superior product performance and longevity.
     - icon: design
-      title: Brukersentrert design
-      desc: Dyp forståelse og overgåelse av brukerbehov gjennom ergonomisk og intuitiv produktdesign.
+      title: User-Centric Design
+      desc: Deeply understanding and exceeding user needs through ergonomic and intuitive product design.
     - icon: globe
-      title: Bærekraftig praksis
-      desc: Minimering av vårt miljøavtrykk ved bruk av miljøvennlige materialer og prosesser.
+      title: Sustainable Practices
+      desc: Minimizing our environmental footprint by utilizing eco-friendly materials and processes.
     - icon: shield
-      title: Kompromissløs sikkerhet
-      desc: Sikrer de høyeste sikkerhetsstandardene gjennom grundig testing og sertifisering.
+      title: Uncompromising Safety
+      desc: Ensuring the highest safety standards through rigorous testing and certification.
+
 pillars:
-  - title: Teknologisk utvikling
-    desc: Pionervirksomhet innen nye materialer, design og produksjonsprosesser for å levere overlegen ytelse og levetid.
+  - title: Technological Advancement
+    desc: Pioneering new materials, designs, and manufacturing processes to deliver superior product performance and longevity.
     icon: tech
-  - title: Avanserte materialer
-    desc: Utforskning av banebrytende PVC, kompositter og bærekraftige alternativer for forbedrede produktegenskaper.
+  - title: Advanced Materials
+    desc: Investigating cutting-edge PVC, composites, and sustainable alternatives for enhanced product characteristics.
     icon: materials
-  - title: Bærekraft
-    desc: 'En kjerneforpliktelse: Vi er dedikert til miljøansvar gjennom bærekraftig produksjon og resirkulerbare materialer.'
+  - title: Sustainability
+    desc: 'A Core Commitment: We are dedicated to environmental stewardship through sustainable manufacturing and recyclable materials.'
     icon: sustainability
+
 capabilities:
-  tagline: Ferdigheter
-  title: FoU-kapasiteter
-  subtitle: Fire kjerneområder som gir oss full kontroll over produktutvikling — fra råmaterialforskning til sluttsertifisering.
+  tagline: Capabilities
+  title: R&D Capabilities
+  subtitle: Four core disciplines that give us end-to-end control over product development — from raw material research to final certification.
   groups:
-    - title: Materialvitenskap og tekstilteknologi
+    - title: Material Science & Fabric Technology
       items:
-        - PVC-formuleringsoptimalisering og -analyse
-        - UV-stabilisering, flammehemming og utvikling av antimikrobielle tilsetningsstoffer
-        - Flerlags stofflaminering og vedheftingsteknologi
-        - Akselerert aldringstesting (UV, termisk, fuktighet, saltspray)
-    - title: Skrogteknikk og hydrodynamikk
+        - PVC formulation analysis and optimisation
+        - UV stabilisation, flame retardancy, and anti-microbial additive development
+        - Multi-layer fabric lamination and adhesion engineering
+        - Accelerated ageing testing (UV, thermal, humidity, salt spray)
+    - title: Hull Engineering & Hydrodynamics
       items:
-        - Parametrisk 3D-skrogdesign og CFD-optimalisering
-        - Endelig elementanalyse for strukturelle og støtbelastninger
-        - Modelltowingtank-testing og ytelsesvalidering
-        - Tilpasset skrogutvikling for spesielle oppdragsprofiler
-    - title: Sveiseteknologi og sammenføyingsteknologi
+        - Parametric 3D hull design and CFD optimisation
+        - Finite element analysis for structural and impact loads
+        - Scale-model towing tank testing and performance validation
+        - Custom hull development for special mission profiles
+    - title: Welding & Joining Technology
       items:
-        - RF-dielektrisk sveise prosessutvikling og optimalisering
-        - Varmluft-, varmkile- og ultralyd-sveise metoder
-        - Limbinding og sømteipkvalifisering
-        - Modellering av sveiseholdbarhet og levetidsforutsigelse
-    - title: Testing, sertifisering og etterlevelse
+        - RF dielectric welding process development and optimisation
+        - Hot-air, hot-wedge, and ultrasonic welding methods
+        - Adhesive bonding and seam tape qualification
+        - Weld strength modelling and lifetime prediction
+    - title: Testing, Certification & Compliance
       items:
-        - Kvalitetsledelse og CE-samsvarstesting
-        - Uavhengig tredjepartstesting og sertifiseringsstøtte
-        - Utvikling av tilpassede testprotokoller for innkjøpskvalifisering
-        - Driftsfeilanalyse og årsaksundersøkelse
+        - Quality management and CE compliance testing
+        - Independent third-party testing and certification support
+        - Custom test protocol development for procurement qualification
+        - In-service failure analysis and root-cause investigation
+
 rd_numbers:
-  tagline: Innovasjon
-  title: F&U i tall
+  tagline: Innovation
+  title: R&D by the Numbers
   stats:
     - value: '14'
-      label: FoU-ingeniører og forskere
+      label: R&D engineers & scientists
     - value: '8'
-      label: Aktive patenter og søknader
+      label: Active patents & filings
     - value: '6'
-      label: Spesialiserte laboratorier
-    - value: 12 år
-      label: Gjennomsnittlig teamerfaring
+      label: Specialised labs
+    - value: 12 yr
+      label: Average team experience
+
 rd_services:
-  tagline: Skreddersydd FoU
-  title: F&U-tjenester for partnere
+  tagline: Custom R&D
+  title: R&D Services for Partners
   services:
-    - title: Tilpasset materialutvikling
-      desc: Vi utvikler tilpassede stoffformuleringer, laminatstakker og limsystemer skreddersydd for ditt driftsmiljø og ytelsesmål.
-    - title: OEM / ODM-produktutvikling
-      desc: Vi utvikler tilpassede stoffformuleringer, laminatstakker og limsystemer skreddersydd for ditt driftsmiljø og ytelsesmål.
-    - title: Tredjepartstesting og sertifisering
-      desc: Benytt våre ISO-sertifiserte testfasiliteter for uavhengig materialtesting, produktvalidering og sertifiseringsstøtte.
-  cta: Diskuter dine F&U-krav →
+    - title: Custom Material Development
+      desc: We develop custom fabric formulations, laminate stacks, and adhesive systems tailored to your operating environment and performance targets.
+    - title: OEM / ODM Product Engineering
+      desc: We develop custom fabric formulations, laminate stacks, and adhesive systems tailored to your operating environment and performance targets.
+    - title: Third-Party Testing & Certification
+      desc: Use our ISO-compliant test facilities for independent material testing, product validation, and certification support.
+  cta: Discuss your R&D requirements →
   cta_link: /contact/
+
 vision:
-  tagline: Vår visjon
-  title: Forme fremtiden for vannsport
-  body: >-
-    olagoon arbeider for å lede industrien for oppblåsbare SUP-er gjennom kontinuerlig innovasjon, urokkelig kvalitet og et ubrytelig engasjement for sikkerhet og bærekraft – og beriker dermed opplevelsene til vannsportentusiaster over hele verden. olagoon FoU-senteret er der lidenskap møter
-    innovasjon, og setter nye standarder for vannsportsindustrien.
+  tagline: Our Vision
+  title: Shaping the Future of Water Sports
+  body: OLagoon strives to lead the inflatable pool industry through continuous innovation, unwavering quality, and a steadfast commitment to safety and sustainability — ultimately enriching backyard summers for families worldwide. The olagoon R&D Center is where passion meets innovation, setting new standards for the water sports industry.
+
 labs_section:
-  tagline: Laboratorier
-  title: Våre laboratorier
+  tagline: Labs
+  title: Our Laboratories
   labs:
     - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
-      title: PVC-stofflaboratorium
-      description: Kontinuerlig forskning og testing av PVC-dekkstoffer for trekkfasthet, UV-resistens, slitasje og fleksibilitet ved lave temperaturer for å sikre langsiktig pålitelighet i marine miljøer.
+      title: PVC Fabric Lab
+      description: Continuous research and testing of PVC deck fabrics for tensile strength, UV resistance, abrasion, and low-temperature flexibility to ensure long-term reliability in marine environments.
       href: /randdcenter/pvc-fabric-lab/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-      title: Skrogteknisk studio
-      description: CAD-drevet design og endelig elementanalyse av HDPE-, aluminiums- og glassfiberskrog. Hvert skrog simuleres digitalt for spenningsfordeling og støtmotstand før den første prototypen bygges.
+      title: Hull Engineering Studio
+      description: CAD-driven design and finite element analysis of HDPE, aluminum, and fiberglass hulls. Every hull is digitally simulated for stress distribution and impact resistance before the first prototype is built.
       href: /technology/
-    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
-      title: RF-sveisesenter
-      description: Dedikert sveiseanlegg for radiofrekvenssveising med presis temperatur- og trykkontroll, som produserer høyfester tetteste sommer som oppfyller marineindustriens standarder for oppblåsbare farkoster.
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+      title: RF Welding Center
+      description: Dedicated radio-frequency welding facility with precision temperature and pressure control, producing high-strength, airtight seams that meet marine industry standards for inflatable craft.
       href: /randdcenter/rf-welding/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
-      title: Hydrodynamisk testtank
-      description: Modelltesting i vår interne testtank for å optimalisere skrogform, planeytelse, stabilitet og drivstoffeffektivitet under ulike last- og sjøforhold.
+      title: Hydrodynamic Test Tank
+      description: Scale-model testing in our in-house test tank to optimize hull form, planing performance, stability, and fuel efficiency across a range of load and sea conditions.
       href: /technology/
-    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      title: Prototypverksted
-      description: Fullskala prototyping og utrustning der nye modeller bygges, utrustes og prøvekjøres. Hver prototype gjennomgår minimum 20 timers vanntest før produksjonsgodkjenning.
+    - image: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+      title: Prototype Workshop
+      description: Full-scale prototyping and rigging facility where new models are built, fitted, and sea-trialed. Every prototype undergoes a minimum 20-hour in-water test programme before production approval.
       href: /randdcenter/prototype-workshop/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
-      title: Kvalitets- og inspeksjonslaboratorium
-      description: Dedikert kvalitetssikringslaboratorium som utfører trekktesting, luftretensjonssykling, sømskalltester og materialgodkjenning for å sikre at hvert brett som forlater verkstedet oppfyller våre publiserte spesifikasjoner.
+      title: Quality & Inspection Lab
+      description: Dedicated quality assurance lab performing tensile testing, air-retention cycling, seam peel tests, and material certification to ensure every pool leaving the workshop meets our published specifications.
       href: /randdcenter/quality-inspection-lab/

@@ -1,54 +1,54 @@
 meta:
-  title: 'Partnerský program veľkoobchodnej distribúcie SUP | {SITE}'
-  description: 'Pridajte sa k globálnej veľkoobchodnej distribučnej sieti SUP značky OLagoon. Exkluzívne teritóriá, kompletné portfólio nafukovacích produktov SUP, konkurencieschopné veľkoobchodné ceny a vyhradené riadenie účtov vo viac než 50 krajinách.'
+  title: 'pool Wholesale Distribution Partner Program | {SITE}'
+  description: "Join OLagoon's global pool wholesale distribution network. Exclusive territories, complete inflatable pools product portfolio, competitive wholesale pricing, and dedicated account management in 50+ countries."
 
 hero:
-  tagline: 'Distribútori'
-  title: 'Pridajte sa k našej globálnej<br />distribučnej sieti'
-  subtitle: 'Partnerský program veľkoobchodnej distribúcie SUP s exkluzívnymi teritóriami, kompletným portfóliom nafukovacích produktov SUP a podporou na svetovej úrovni. OLagoon expeduje do 50+ krajín — hľadáme etablovaných distribútorov námorného a vodného vybavenia.'
+  tagline: Distributors
+  title: 'Join Our Global<br />Distribution Network'
+  subtitle: "pool wholesale distribution partner program with exclusive territories, complete inflatable pools product portfolio, and world-class support. OLagoon ships to 50+ countries — we're looking for established marine and water sports distributors."
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: 'Globálna distribúcia a prepravné operácie OLagoon'
+    alt: OLagoon global distribution and shipping operations
 
 benefits:
-  title: 'Čo distribútori získajú'
-  subtitle: 'Všetko, čo potrebujete na úspech na vašom trhu.'
+  title: What Distributors Get
+  subtitle: 'Everything you need to succeed in your market.'
   items:
-    - 'Exkluzívne práva k teritóriu'
-    - 'Kompletný produktový katalóg (SUP, príslušenstvo, diely)'
-    - 'Konkurencieschopné veľkoobchodné ceny'
-    - 'Marketingové a predajné materiály (preložené)'
-    - 'Tréningový program (produkt, predaj, údržba)'
-    - 'Podpora na veľtrhoch'
-    - 'Vzorkový program'
-    - 'Možnosť drop-ship'
-    - 'Vyhradený manažér distribučného účtu'
-    - 'Platebné podmienky 45–60 dní'
+    - 'Exclusive territory rights'
+    - 'Complete product catalog (pool, accessories, parts)'
+    - 'Competitive wholesale pricing'
+    - 'Marketing & sales materials (translated)'
+    - 'Training program (product, sales, maintenance)'
+    - 'Trade show support'
+    - 'Sample program'
+    - 'Drop-ship capability'
+    - 'Dedicated distributor account manager'
+    - '45-60 day payment terms'
 
 coverage:
-  title: 'Súčasná distribúcia'
-  subtitle: 'OLagoon v súčasnosti obsluhuje tieto trhy priamo.'
+  title: Current Distribution
+  subtitle: 'OLagoon currently serves these markets directly.'
   regions:
-    - name: 'Európa'
-      countries: 'Francúzsko, Nemecko, Veľká Británia, Španielsko, Taliansko, Holandsko, Švédsko, Nórsko, Poľsko, Grécko'
-    - name: 'Ázia'
-      countries: 'Japonsko, Južná Kórea, Čína, Thajsko, Singapur'
-    - name: 'Blízky východ'
-      countries: 'SAE, Saudská Arábia'
-    - name: 'Amerika'
-      countries: 'USA, Kanada, Brazília, Mexiko'
-    - name: 'Oceánia'
-      countries: 'Austrália, Nový Zéland'
-    - name: 'Afrika'
-      countries: 'Južná Afrika, Maroko'
+    - name: Europe
+      countries: 'France, Germany, UK, Spain, Italy, Netherlands, Sweden, Norway, Poland, Greece'
+    - name: Asia
+      countries: 'Japan, South Korea, China, Thailand, Singapore'
+    - name: Middle East
+      countries: 'UAE, Saudi Arabia'
+    - name: Americas
+      countries: 'USA, Canada, Brazil, Mexico'
+    - name: Oceania
+      countries: 'Australia, New Zealand'
+    - name: Africa
+      countries: 'South Africa, Morocco'
 
 cta:
-  title: 'Pripravení stať sa distribútorom?'
-  subtitle: 'Prihláste sa do nášho distribučného programu alebo stiahnite náš informačný balík pre distribútorov.'
+  title: 'Ready to become a distributor?'
+  subtitle: 'Apply for our distributor program or download our distributor information kit.'
   actions:
-    - text: 'Prihlásiť sa do distribučného programu'
+    - text: 'Apply for Distributor Program'
       href: '/contact/?partner=distributor'
       variant: 'primary'
-    - text: 'Stiahnuť distribučný balík'
+    - text: 'Download Distributor Kit'
       href: '/resources/download-catalog/'
       variant: 'secondary'

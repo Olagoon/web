@@ -1,35 +1,39 @@
 meta:
-  title: 'Marka olagoon — Inżynieria morska i partnerstwo | {SITE}'
-  description: 'olagoon: nadmuchiwana marka morska współpracująca z markami sportów wodnych, dystrybutorami, klubami nautycznymi i firmami w ramach kolekcji co-brand, private label i programów dystrybucji krajowej.'
+  title: 'The olagoon Brand — Marine Engineering & Partnership | {SITE}'
+  description: 'olagoon: an inflatable marine brand partnering with water sports brands, distributors, nautical clubs, and enterprises through co-branded collections, private label, and country distribution programs.'
   keywords:
-    - 'marka olagoon'
-    - 'marka nadmuchiwanych desek SUP'
-    - 'chiński producent SUP'
-    - 'partner marek SUP'
+    - 'olagoon brand'
+    - 'inflatable pools brand'
+    - 'china pool manufacturer'
 hero:
-  tagline: Marka
+  tagline: Brand
   title: '{BRAND}'
-  subtitle: Wydajność oceaniczna dla każdego surfera
-  cta: Poznaj sprzęt →
+  subtitle: Ocean Performance for Every Surfer
+  cta: Explore Gear →
   cta_link: /products/
-  secondary_cta: Naucz się surfować
-  secondary_cta_link: /przewodniki/
+  secondary_cta: Explore Pools
+  secondary_cta_link: /guides/
+
 position:
-  tagline: Pozycja
-  subtitle: Wydajność oceaniczna dla każdego surfera
+  tagline: Position
+  subtitle: Ocean Performance for Every Surfer
+
 products_section:
-  tagline: Produkty
-  cta: Wszystkie produkty →
+  tagline: Products
+  cta: All Products →
   cta_link: /products/
+
 global_section:
-  tagline: Globalnie
-  title: Dostępne w {count} regionach
+  tagline: Global
+  title: Available in {count} Regions
+
 social_section:
-  tagline: Social media
-  title: Co czytają surferzy
-  read_guide: Przeczytaj przewodnik →
+  tagline: Social
+  title: What surfers are reading
+  read_guide: Read guide →
+
 cta_section:
-  title: Rozpocznij swoją oceaniczną przygodę
-  subtitle: Każdy produkt certyfikowany CE. Objęty gwarancją. Zaprojektowany do prawdziwego surfowania.
-  cta_suffix: →
-  secondary_cta: O {BRAND}
+  title: Start your ocean journey
+  subtitle: Every product CE certified. Backed by warranty. Engineered for real backyards.
+  cta_suffix: '→'
+  secondary_cta: About {BRAND}

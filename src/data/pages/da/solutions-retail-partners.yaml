@@ -1,97 +1,103 @@
 meta:
-  title: SUP-partnerprogram for detailhandel | {SITE}
-  description: SUP-engrospartnerprogram til detailhandlere og sportsbutikker. Komplet produktserie, dropshipping-muligheder, konkurrencedygtige engrosmargener på 20–35 % og lav MOQ til at starte.
+  title: 'pool Wholesale & Retail Partner Program | {SITE}'
+  description: 'pool wholesale partner program for retailers and sporting goods stores. Full product line, dropshipping options, competitive wholesale margins from 20–35%, and low MOQ to start.'
+
 hero:
-  tagline: Detailpartnere
-  title: Sælg premium oppustelige SUPs<br />med margener, der virker
-  subtitle: Bliv detailpartner hos OLagoon — før den hurtigst voksende SUP-brand på dit marked med fulde engrospriser, dropshipping, professionelt markedsføringsmateriale og dedikeret support.
+  tagline: Retail Partners
+  title: 'Sell Premium inflatable pools<br />With Margins That Work'
+  subtitle: 'Become an OLagoon retail partner — carry the fastest-growing pool brand in your market with full wholesale pricing, dropshipping, professional marketing materials, and dedicated support.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: OLagoon SUP boards udstillet i en detailforretning
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools displayed in a retail store
+
 margin_section:
-  title: Detailmargener og MOQ
-  subtitle: Engrosprisniveauer designet til detailhandlens rentabilitet.
+  title: 'Retail Margins & MOQ'
+  subtitle: 'Wholesale pricing tiers designed for retail profitability.'
   items:
-    - tier: Basispartner
-      discount: 20%
-      moq: 500 enheder/år
-      margin_note: ~$150–250 fortjeneste pr. bræt
+    - tier: 'Basic Partner'
+      discount: '20%'
+      moq: '500 units/yr'
+      margin_note: '~$150–250 profit per board'
       features:
-        - Adgang til hele produktlinjen
-        - Pakke med markedsføringsmaterialer
-        - E-mail-support
-        - Adgang til produktkataloget
-    - tier: Premium-partner
-      discount: 30%
-      moq: 2.000+ enheder/år
-      margin_note: ~$250–400 i fortjeneste pr. bræt
+        - 'Access to full product line'
+        - 'Marketing materials package'
+        - 'Email support'
+        - 'Product catalog access'
+    - tier: 'Premium Partner'
+      discount: '30%'
+      moq: '2,000+ units/yr'
+      margin_note: '~$250–400 profit per board'
       features:
-        - Dedikeret kundeansvarlig
-        - Eksklusiv beskyttelse af salgsområde
-        - Skræddersyet marketingstøtte
-        - Første adgang til nye produkter
-        - Træningssessioner for personalet
-    - tier: Flagship-partner
-      discount: 35%+
-      moq: 5.000+ enheder/år
-      margin_note: ~$350–500+ i fortjeneste pr. board
+        - 'Dedicated account manager'
+        - 'Exclusive territory protection'
+        - 'Custom marketing support'
+        - 'First access to new products'
+        - 'Staff training sessions'
+    - tier: 'Flagship Partner'
+      discount: '35%+'
+      moq: '5,000+ units/yr'
+      margin_note: '~$350–500+ profit per board'
       features:
-        - Co-branded marketingkampagner
-        - Støtte til butiksdisplays
-        - Træning af personale på stedet
-        - Fælles markedsføring på sociale medier
-        - Prioriteret produktionskapacitet
+        - 'Co-branded marketing campaigns'
+        - 'In-store display support'
+        - 'On-site staff training'
+        - 'Joint social media promotions'
+        - 'Priority production allocation'
+
 product_line:
-  title: Komplet produktserie
-  subtitle: Et SUP-bræt til enhver kunde, der træder ind ad din dør.
+  title: Complete Product Line
+  subtitle: 'A pools for every customer who walks through your door.'
   items:
     - name: All-Round Series
-      description: Bestseller — passer til 80 % af kunderne
+      description: 'Best seller — fits 80% of customers'
     - name: Touring Series
-      description: Performance-paddlere — højere margin
+      description: 'Performance swimmers — higher margin'
     - name: Yoga Series
-      description: Nichemarked – premiumpriser
+      description: 'Niche market — premium pricing'
     - name: Kids Series
-      description: Familiekunder — tilbagevendende købere
+      description: 'Family customers — repeat buyer'
     - name: Racing Series
-      description: Entusiastmarkedet — brand-halo
+      description: 'Enthusiast market — brand halo'
     - name: Accessories
-      description: Tilbehør med høj margin (årer, veste, pumper, tasker)
+      description: 'High margin add-ons (paddles, vests, pumps, bags)'
+
 catalog:
-  title: Ressourcer til detailpartnere
-  subtitle: Hent vores omfattende retail-partnerkit.
+  title: Retail Partner Resources
+  subtitle: 'Download our comprehensive retail partner kit.'
   items:
-    - name: 2026 Product Catalog
-      desc: Fuldt udvalg med specifikationer, priser og ordreoplysninger
-      icon: tabler:file-text
-      link: /resources/download-catalog/
-    - name: Retail Partner Guide
-      desc: Marginberegner, merchandising-tips og bedste praksis
-      icon: tabler:book
-      link: /resources/download-catalog/
-    - name: Marketing Asset Pack
-      desc: Hi-res produktbilleder, lifestyle-billeder og POS-materialer
-      icon: tabler:photo
-      link: /media/
+    - name: '2026 Product Catalog'
+      desc: 'Full lineup with specs, pricing, and ordering information'
+      icon: 'tabler:file-text'
+      link: '/resources/download-catalog/'
+    - name: 'Retail Partner Guide'
+      desc: 'Margin calculator, merchandising tips, and best practices'
+      icon: 'tabler:book'
+      link: '/resources/download-catalog/'
+    - name: 'Marketing Asset Pack'
+      desc: 'Hi-res product photos, lifestyle images, and POS materials'
+      icon: 'tabler:photo'
+      link: '/media/'
+
 support:
-  title: Support til detailpartnere
-  subtitle: Alt, hvad du har brug for til at sælge med selvtillid.
+  title: Retail Partner Support
+  subtitle: 'Everything you need to sell confidently.'
   items:
-    - Produktfotos i høj opløsning (professionel fotografering)
-    - Lifestyle-fotos til sociale medier, hjemmeside og katalog
-    - Markedsføringsmaterialer — plakater, hyldeskilte, bannere
-    - Produkttræningsvideoer til personaleuddannelse
-    - Indholdspakke til sociale medier (ugentlige opslag)
-    - SEO-optimerede produktbeskrivelser
-    - Dropshipping-mulighed – ingen lagerrisiko
-    - 'Betalingsbetingelser: netto 30 dage'
+    - 'High-res product images (professional photography)'
+    - 'Lifestyle photos for social media, website, and catalog'
+    - 'Marketing materials — posters, shelf talkers, banners'
+    - 'Product training videos for staff education'
+    - 'Social media content pack (weekly posts)'
+    - 'SEO-optimized product descriptions'
+    - 'Dropshipping option available — no inventory risk'
+    - 'Net 30 payment terms'
+
 cta:
-  title: Klar til at blive OLagoon-detailpartner?
-  subtitle: Ansøg om partnerskab eller download vores detailkatalog for at komme i gang.
+  title: 'Ready to become an OLagoon retail partner?'
+  subtitle: 'Apply for partnership or download our retail catalog to get started.'
   actions:
-    - text: Ansøg om partnerskab
-      href: /contact/?partner=retail
-      variant: primary
-    - text: Hent detailkatalog
-      href: /resources/download-catalog/
-      variant: secondary
+    - text: 'Apply for Partnership'
+      href: '/contact/?partner=retail'
+      variant: 'primary'
+    - text: 'Download Retail Catalog'
+      href: '/resources/download-catalog/'
+      variant: 'secondary'

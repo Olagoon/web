@@ -1,80 +1,87 @@
 meta:
-  title: 'Echipamente de fabrică — tăiere, sudare HF și printare | {SITE}'
-  description: 'Echipamente de producție de nivel industrial olagoon: tăiere PVC, sudare HF, printare digitală, asamblare și testare a plăcilor de SUP gonflabile.'
+  title: 'Factory Equipment — Cutting, RF Welding & Printing | {SITE}'
+  description: 'Industrial-grade olagoon manufacturing equipment: PVC cutting, RF welding, digital printing, assembly, and testing for inflatable pools.'
   keywords:
-    - 'echipamente de producție SUP'
-    - 'fabrica de SUP gonflabile'
-    - 'sudare HF PVC'
-    - 'producție paddle board'
+    - 'pool manufacturing equipment'
+    - 'inflatable pools factory'
+    - 'rf welding pvc'
+    - 'inflatable pool production'
 hero:
-  tagline: Echipament
-  title: Echipamente și Mașini de Fabricație
-  subtitle: Echipamente industriale pentru tăiere, sudură, imprimare și asamblare
-  back_label: Înapoi la Fabrica
+  tagline: Equipment
+  title: Manufacturing Equipment & Machinery
+  subtitle: Industrial-grade equipment across cutting, welding, printing, and assembly
+  back_label: Back to Factory
   back_link: /factory/
+
 categories:
-  - title: Tăiere și Pregătirea Materialelor
+  - title: Cutting & Material Preparation
     items:
-      - name: Mașină de Tăiat Automată PVC
-        spec: Controlată CNC, 6.5 m × 2.5 m, precizie 0.1 mm
-        desc: Mașină de tăiat automată controlată de calculator pentru țesături PVC și drop-stitch. Software-ul de imbricare optimizează utilizarea materialului sub 5% deșeu.
-      - name: Întinzător de Țesătură
-        spec: Lățime max 3 m, alimentare cu tensiune controlată
-        desc: Așază țesătura în straturi simple sau multiple cu tensiune controlată pentru a preveni deformarea înainte de tăiere.
-  - title: Sudura și Legarea Țevilor
+      - name: Automatic PVC Cutting Machine
+        spec: CNC-controlled, 6.5 m × 2.5 m, 0.1 mm accuracy
+        desc: Computer-controlled automatic cutting machine for PVC and drop-stitch fabrics. Nesting software optimises material utilisation to below 5% waste.
+      - name: Fabric Spreader
+        spec: 3 m max width, tension-controlled feed
+        desc: Lays fabric in single or multiple plies with controlled tension to prevent distortion before cutting.
+
+  - title: Tube Welding & Bonding
     items:
-      - name: Mașină de Etanșare Termică
-        spec: Sudură cu aer cald, variabil 200–600 °C, 0.5–5 m/min
-        desc: Mașină de etanșare termică cu aer cald pentru lipirea și sudarea cusăturilor PVC și a bordurilor. Folosită pentru fixare, etanșare și fuzionarea camerelor de țeavă și a îmbinărilor de flotare.
-      - name: Presă RF Dielectrică
-        spec: 15 kW, placă 2000 × 600 mm
-        desc: Presă de sudură de înaltă frecvență pentru cusăturile longitudinale principale, îmbinările cadă-țeavă și fabricarea camerelor mari.
-      - name: Sudor RF Controlat CNC
-        spec: 8 kW, masă XY 2500 × 1200 mm
-        desc: Sudură programabilă a cusăturilor curbe pentru geometrii complexe, embosare logo și petice de precizie.
-  - title: Fabricația Carenatei SUP
+      - name: Heat Sealing Machine
+        spec: Hot-air welding, variable 200–600 °C, 0.5–5 m/min
+        desc: Hot-air heat sealing machine for bonding and welding PVC and rail seams. Used for tacking, sealing, and fusing tube chambers and float joints.
+      - name: Dielectric RF Press
+        spec: 15 kW, platen 2000 × 600 mm
+        desc: Radio-frequency welding press for main longitudinal seams, rail bands, and large-chamber fabrication.
+      - name: CNC-Controlled RF Welder
+        spec: 8 kW, XY table 2500 × 1200 mm
+        desc: Programmable curved-seam welding for complex geometries, logo embossing, and precision patchwork.
+
+  - title: pools Manufacturing
     items:
-      - name: Presă de Laminare a Miezurilor Drop-Stitch
-        spec: Presă de format mare pentru miezuri de plăci de până la 14 ft LOA
-        desc: Laminare de precizie a miezurilor drop-stitch pe laminatele exterioare din PVC. Fiecare strat este lipit prin presiune pentru o calitate și o rezistență constante.
+      - name: Drop-Stitch Core Lamination Press
+        spec: Large-format press for drop-stitch cores up to 5 m length
+        desc: Precision lamination of drop-stitch cores to outer PVC laminates. Each layer is pressure-bonded for consistent quality and strength.
       - name: CNC Router (5-axis)
-        spec: Ambalaj de 3 m × 2 m × 1 m, ax răcit cu apă
-        desc: Prelucrarea cutiilor de aripioare, a decupajelor pentru mâner și a componentelor personalizate de placă.
-  - title: Imprimare și Decorațiune SUP
+        spec: 3 m × 2 m × 1 m envelope, water-cooled spindle
+        desc: Machining of valve ports, handle cutouts, and custom pool components.
+
+  - title: pool Printing & Decoration
     items:
-      - name: Imprimantă Digitală
-        spec: Injet de înaltă rezoluție, lățime de imprimare până la 2 m
-        desc: Imprimare digitală directă pe țesătură pentru grafice de punte SUP full-color. Imprimă modele personalizate, gradiente și imagini de calitate foto cu cerneluri pe bază de apă rezistente la UV.
-      - name: Mașină de Serigrafie
-        spec: Manuală și semiautomată, înregistrare multicolor
-        desc: Serigrafie pentru logo-uri de table SUP, mărci și modele repetitive. Oferă imprimări durabile, opace cu saturație vibrantă a culorii.
-  - title: Asamblare și Echipare
+      - name: Digital Printer
+        spec: High-resolution inkjet, up to 2 m print width
+        desc: Direct-to-fabric digital printing for full-colour pool deck graphics. Prints custom patterns, gradients, and photo-quality images with UV-resistant water-based inks.
+      - name: Screen Printing Machine
+        spec: Manual and semi-automatic, multi-colour registration
+        desc: Screen printing for pools logos, brand marks, and repeating patterns. Provides durable, opaque prints with vibrant colour saturation.
+
+  - title: Assembly & Rigging
     items:
-      - name: Board Assembly Station
-        spec: Aspect modular ajustabil, cu mai multe stații
-        desc: Montarea casetelor pentru aripioare, a mânerelor, inelelor D, supapelor și covorașelor de punte pe plăcile SUP.
-      - name: Presă pentru montarea supapelor
-        spec: Pneumatic, presiune reglabilă
-        desc: Montare și etanșare de precizie a supapelor Halkey-Roberts și Leafield.
+      - name: Pool Assembly Station
+        spec: Modular adjustable, multi-station layout
+        desc: Assembly of fin boxes, handles, D-rings, valves, and deck pads onto pools.
+      - name: Valve Installation Press
+        spec: Pneumatic, adjustable pressure
+        desc: Precision installation and sealing of Halkey-Roberts and Leafield valves.
       - name: Deck Pad Laminator
-        spec: 3 m × 1,5 m, cu temperatură controlată
-        desc: Laminare la cald a plăcuțelor de punte din spumă EVA pe suprafața superioară a plăcilor SUP, cu o aderență constantă.
-  - title: Testare și Controlul Calității
+        spec: 3 m × 1.5 m, temperature-controlled
+        desc: Heat lamination of EVA foam deck pads to pools tops with consistent bond strength.
+
+  - title: Testing & Quality Control
     items:
-      - name: Tester Universal de Tracțiune
+      - name: Universal Tensile Tester
         spec: 50 kN, ASTM D751
-        desc: Testarea forței de rupere, alungirii la rupere și propagării rupturii pentru loturi de țesătură.
-      - name: Stand de Testare a Retenției de Aer
-        spec: Programabil, menținere presiune 30 min
-        desc: Test automatizat de menținere a presiunii pentru fiecare cameră de țeavă înainte de asamblare.
-      - name: Tester de Decojire a Cusăturilor
-        spec: Decojire motorizată 180° la 100 mm/min
-        desc: Testarea rezistenței la decojire a cusăturilor sudate și lipite conform EN ISO 25649.
-      - name: Cameră de Îmbătrânire cu Arc de Xeno
-        spec: 2000 h expunere
-        desc: Test de rezistență UV pentru schimbarea culorii și menținerea rezistenței.
+        desc: Breaking force, elongation at break, and tear propagation testing for fabric batches.
+      - name: Air Retention Test Rig
+        spec: Programmable, 30-min pressure-hold
+        desc: Automated pressure-hold test for every tube chamber before assembly.
+      - name: Seam Peel Tester
+        spec: Motorised 180° peel at 100 mm/min
+        desc: Weld and glued-seam peel strength testing per EN ISO 25649.
+      - name: Xenon-Arc Weathering Chamber
+        spec: 2000 h exposure
+        desc: UV resistance testing for colour change and strength retention.
+
 cta:
-  title: Interesat de o vizită la fabrică?
-  desc: Întâmpinăm vizitatori în facilitățile noastre din Qingdao. Vedeți echipamentul și procesele noastre personal.
-  label: Programați o vizită →
+  title: Interested in a factory tour?
+  desc: We welcome visitors to our Qingdao facility. See our equipment and processes in person.
+  label: Schedule a visit →
   link: /contact/

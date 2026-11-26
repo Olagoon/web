@@ -1,39 +1,39 @@
 meta:
-  title: 'olagoon kaubamärk — mereinseneeria ja partnerlus | {SITE}'
-  description: 'olagoon: täispuhutavate meretoetete kaubamärk, mis teeb koostööd veespordi kaubamärkide, jaotajate, merendusklubide ja ettevõtetega ühisbrändikollektsioonide, eramärgi ja riikide jaotusprogrammide kaudu.'
+  title: 'The olagoon Brand — Marine Engineering & Partnership | {SITE}'
+  description: 'olagoon: an inflatable marine brand partnering with water sports brands, distributors, nautical clubs, and enterprises through co-branded collections, private label, and country distribution programs.'
   keywords:
-    - 'olagoon kaubamärk'
-    - 'täispuhutavate supide kaubamärk'
-    - 'hiina supide tootja'
+    - 'olagoon brand'
+    - 'inflatable pools brand'
+    - 'china pool manufacturer'
 hero:
-  tagline: 'Kaubamärk'
+  tagline: Brand
   title: '{BRAND}'
-  subtitle: 'Ookeani jõudlus igale veespordihuvilisele'
-  cta: 'Vaata varustust →'
+  subtitle: Ocean Performance for Every Surfer
+  cta: Explore Gear →
   cta_link: /products/
-  secondary_cta: 'Õpi sõudma'
+  secondary_cta: Explore Pools
   secondary_cta_link: /guides/
 
 position:
-  tagline: 'Positsioon'
-  subtitle: 'Ookeani jõudlus igale veespordihuvilisele'
+  tagline: Position
+  subtitle: Ocean Performance for Every Surfer
 
 products_section:
-  tagline: 'Tooted'
-  cta: 'Kõik tooted →'
+  tagline: Products
+  cta: All Products →
   cta_link: /products/
 
 global_section:
-  tagline: 'Globaalne'
-  title: 'Saadaval {count} piirkonnas'
+  tagline: Global
+  title: Available in {count} Regions
 
 social_section:
-  tagline: 'Sotsiaalne'
-  title: 'Mida veespordihuvilised loevad'
-  read_guide: 'Loe juhendit →'
+  tagline: Social
+  title: What surfers are reading
+  read_guide: Read guide →
 
 cta_section:
-  title: 'Alusta oma ookeani teekonda'
-  subtitle: 'Iga toode CE-sertifitseeritud. Garantiiga toetatud. Disainitud päris veespordiks.'
+  title: Start your ocean journey
+  subtitle: Every product CE certified. Backed by warranty. Engineered for real backyards.
   cta_suffix: '→'
-  secondary_cta: '{BRAND}ist'
+  secondary_cta: About {BRAND}

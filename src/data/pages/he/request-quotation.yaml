@@ -1,99 +1,99 @@
 meta:
-  title: 'בקשת הצעת מחיר — ייצור SUP מסוג OEM | {SITE}'
-  description: 'בקשו הצעת מחיר מפורטת לפרויקט לוחות ה-SUP הניפחים שלכם. ייצור OEM/ODM, מותג פרטי או ציים מותאמים אישית — אנו מגיבים בתוך 2 ימי עסקים.'
+  title: 'Request a Quotation — OEM pool Manufacturing | {SITE}'
+  description: 'Request a detailed quotation for your inflatable pools project. OEM/ODM manufacturing, private label, or custom fleets — we respond within 2 business days.'
   keywords:
-    - 'בקשת הצעת מחיר ל-sup'
-    - 'הצעת מחיר ללוח חתירה oem'
-    - 'הצעת מחיר ממפעל sup'
-    - 'מחיר sup ניפחים'
+    - 'request pool quote'
+    - 'oem inflatable pool quote'
+    - 'pool factory quotation'
+    - 'inflatable pools price'
 hero_text:
-  tagline: 'קבלת הצעת מחיר'
-  title: 'בקשת הצעת מחיר<br />לפרויקט שלכם'
-  subtitle: 'ספרו לנו על הדרישות שלכם והצוות שלנו יגיב עם הצעת מחיר מפורטת בתוך 2 ימי עסקים.'
+  tagline: Get a Quote
+  title: 'Request a Quotation<br />for Your Project'
+  subtitle: 'Tell us about your requirements and our team will respond with a detailed quotation within 2 business days.'
 steps2_process:
-  title: 'כיצד זה עובד'
-  subtitle: 'ארבעה שלבים פשוטים מהפנייה ועד הצעת המחיר.'
+  title: How It Works
+  subtitle: 'Four simple steps from inquiry to quotation.'
   items:
-    - title: 'שלב 1: הגשת הדרישות שלכם'
-      description: 'מלאו את הטופס למטה עם סוג המוצר, הכמות והמפרט שלכם. ככל שתספקו יותר פרטים, הצעת המחיר שלכם תהיה מדויקת יותר.'
+    - title: 'Step 1: Submit Your Requirements'
+      description: 'Fill out the form below with your product type, quantity, and specifications. The more detail you provide, the more accurate your quotation.'
       icon: tabler:file-text
-    - title: 'שלב 2: אנו סוקרים ומייעצים'
-      description: 'צוות ההנדסה שלנו סוקר את הדרישות שלכם ועשוי ליצור איתכם קשר לצורך הבהרות. אנו מספקים המלצות על תצורת המוצר והאפשרויות.'
+    - title: 'Step 2: We Review & Advise'
+      description: 'Our engineering team reviews your requirements and may contact you for clarification. We provide recommendations on product configuration and options.'
       icon: tabler:users
-    - title: 'שלב 3: קבלת הצעת המחיר'
-      description: 'אתם מקבלים הצעת מחיר מפורטת הכוללת תמחור ליחידה, MOQ, זמן אספקה, תנאי תשלום ואפשרויות משלוח. בדרך כלל בתוך 48 שעות.'
+    - title: 'Step 3: Receive Your Quote'
+      description: 'You receive a detailed quotation including unit pricing, MOQ, lead time, payment terms, and shipping options. Typically within 48 hours.'
       icon: tabler:currency-dollar
-    - title: 'שלב 4: דגימה וייצור'
-      description: 'לאחר קבלת הצעת המחיר, אנו עוברים לייצור דגימה (אם רלוונטי) או ישירות לייצור סדרתי. עדכונים קבועים לאורך כל התהליך.'
+    - title: 'Step 4: Sample & Production'
+      description: 'After quote acceptance, we proceed to sample production (if applicable) or directly to mass production. Regular updates throughout the process.'
       icon: tabler:building-factory
 content_form:
-  tagline: 'טופס הצעת מחיר'
-  title: 'ספרו לנו על הפרויקט שלכם'
-  subtitle: 'כל השדות המסומנים ב-* הם שדות חובה.'
+  tagline: Quotation Form
+  title: 'Tell Us About Your Project'
+  subtitle: 'All fields with * are required.'
   contact_fields:
-    firstName: 'שם פרטי'
-    lastName: 'שם משפחה'
-    companyName: 'שם החברה'
-    email: 'דוא״ל'
+    firstName: First Name
+    lastName: Last Name
+    companyName: Company Name
+    email: E-mail
   fields:
-    - name: 'קטגוריית מוצר'
+    - name: Product Category
       type: select
       options:
-        - 'לוח SUP'
-        - 'SUP ניפחים'
-        - 'לוח SUP ניפחים'
-        - 'אפוד הצלה'
-        - 'אביזר ימי'
-        - 'OEM/ODM מותאם אישית'
-    - name: 'יישום'
+        - pools
+        - inflatable pools
+        - inflatable pools
+        - Thermal Cover
+        - Marine Accessory
+        - Custom OEM/ODM
+    - name: Application
       type: select
       options:
-        - 'מרכז צלילה'
-        - 'דיג'
-        - 'תיירות ימית / אתר נופש'
-        - 'חיפוש והצלה'
-        - 'ממשל / צבא'
-        - 'OEM / מותג פרטי'
-        - 'אישי / פנאי'
-        - 'אחר'
-    - name: 'כמות'
+        - Diving Center
+        - Fishing
+        - Marine Tourism / Resort
+        - Search & Rescue
+        - Government / Military
+        - OEM / Private Label
+        - Personal / Recreational
+        - Other
+    - name: Quantity
       type: text
-      placeholder: 'למשל 50 יחידות'
-    - name: 'שוק יעד'
+      placeholder: e.g. 50 units
+    - name: Target Market
       type: text
-      placeholder: 'למשל אירופה, צפון אמריקה, המזרח התיכון'
-    - name: 'מדינת אספקה'
+      placeholder: e.g. Europe, North America, Middle East
+    - name: Delivery Country
       type: text
-      placeholder: 'למשל איטליה, איחוד האמירויות, ארה״ב, אוסטרליה'
-    - name: 'העדפת חומר'
+      placeholder: e.g. Italy, UAE, USA, Australia
+    - name: Material Preference
       type: select
       options:
-        - 'ללא העדפה'
-        - 'PVC בדרגה ימית (1100 דטקס)'
-        - 'גוף פיברגלס'
-        - 'גוף אלומיניום'
-    - name: 'דרישת הנעה'
+        - No Preference
+        - Marine-Grade PVC (1100 dtex)
+        - Fiberglass Hull
+        - Aluminum Hull
+    - name: Engine Requirement
       type: text
-      placeholder: 'למשל מערך משוט סטנדרטי, משאבה חשמלית, צבעים מותאמים אישית'
-    - name: 'התאמה אישית נדרשת'
+      placeholder: e.g. standard filtration package, electric pump, custom colors
+    - name: Customization Required
       type: text
-      placeholder: 'למשל צבעים מותאמים אישית, מיתוג/לוגו, אריזה, מתקנים מיוחדים'
-    - name: 'לוח זמנים'
+      placeholder: e.g. custom colors, branding/logo, packaging, special fittings
+    - name: Timeline
       type: text
-      placeholder: 'למשל אספקה בתוך 90 יום'
-    - name: 'דרישות נוספות'
+      placeholder: e.g. delivery within 90 days
+    - name: Additional Requirements
       type: textarea
-      placeholder: 'תארו את היישום שלכם, מפרטים טכניים או כל דרישה מיוחדת — כללו שרטוטי ייחוס, מפרטים או קישורים אם ישנם'
-    - name: 'העלאת מפרט'
+      placeholder: Describe your application, technical specifications, or any special requirements — include reference drawings, specifications, or links if available
+    - name: Upload Specification
       type: file
-      placeholder: 'העלו את גיליון המפרט, השרטוט או מסמך ייחוס (PDF, DWG, DXF)'
-    - name: 'העלאת לוגו / גרפיקה'
+      placeholder: Upload your spec sheet, drawing, or reference document (PDF, DWG, DXF)
+    - name: Upload Logo / Artwork
       type: file
-      placeholder: 'העלו את הלוגו או הגרפיקה שלכם למיתוג מותאם אישית (AI, EPS, PNG)'
+      placeholder: Upload your logo or artwork for custom branding (AI, EPS, PNG)
 cta:
-  title: 'מעדיפים לדון בדוא״ל?'
-  subtitle: 'שלחו את הפנייה שלכם ישירות לצוות המכירות שלנו ונגיב בתוך 24 שעות.'
+  title: 'Prefer to discuss by email?'
+  subtitle: 'Send your inquiry directly to our sales team and we will respond within 24 hours.'
   actions:
     - variant: primary
-      text: 'שלחו לנו דוא״ל ישירות'
+      text: Email us directly
       href: /contact/

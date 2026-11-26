@@ -1,123 +1,123 @@
 meta:
-  title: 'Matrica B2B rješenja za klijente | {SITE}'
-  description: 'Potpuna matrica OLagoon B2B rješenja za klijente koja obuhvaća 24 vrste kupaca — od startupova u prirodi do institucija za zaštitu mora.'
+  title: 'B2B Client Solutions Matrix | {SITE}'
+  description: 'Complete OLagoon B2B client solutions matrix covering 24 customer types — from outdoor startups to marine conservation institutions.'
 
 hero:
-  tagline: 'B2B rješenja za klijente'
-  title: '24 B2B rješenja<br />prilagođena vašem poslovanju'
-  subtitle: 'Od osnivača startupa do globalnih distributera — pronađite točno OLagoon rješenje dizajnirano za vaš poslovni model, industriju i ciljeve.'
+  tagline: B2B Client Solutions
+  title: '24 B2B Solutions<br />Matched to Your Business'
+  subtitle: 'From startup founders to global distributors — find the exact OLagoon solution designed for your business model, industry, and goals.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
-    alt: 'OLagoon tvornica i proizvodni objekt'
+    alt: OLagoon factory and manufacturing facility
 
 solutions:
-  title: 'Matrica rješenja za klijente'
-  subtitle: 'Svaka vrsta kupca, njezina temeljna potreba i stranica OLagoon rješenja dizajnirana za nju.'
+  title: Client Solutions Matrix
+  subtitle: 'Every customer type, their core need, and the OLagoon solution page designed for them.'
   items:
-    - clientType: 'Osnivač startupa za aktivnosti u prirodi'
-      need: 'Izgradnja marke'
-      solutionPage: 'Izgradite svoju marku SUP dasaka'
-      link: /solutions/sup-brand-startup/
-    - clientType: 'Voditelj marke opreme za prirodu'
-      need: 'Širenje marke u vodene sportove'
-      solutionPage: 'Proširite marku u vodene sportove'
+    - clientType: Outdoor Startup Founder
+      need: Brand Creation
+      solutionPage: Build Your pool Brand
+      link: /solutions/pool-brand-startup/
+    - clientType: Outdoor Brand Manager
+      need: Outdoor Brand Expansion Into Water Sports
+      solutionPage: Expand Outdoor Brand Into Water Sports
       link: /solutions/expand-outdoor-brand-water-sports/
-    - clientType: 'Vlasnik surf shopa'
-      need: 'Nadogradnja surf poslovanja'
-      solutionPage: 'Unesite napuhivu tehnologiju u surf poslovanje'
+    - clientType: Surf Shop Owner
+      need: Surf Business Upgrade
+      solutionPage: Bring Inflatable Technology Into Surf Business
       link: /solutions/inflatable-technology-for-surf-business/
-    - clientType: 'Prodavač na Amazonu'
-      need: 'Rast e-trgovine'
-      solutionPage: 'Diferencijacija proizvoda i brza opskrba'
-      link: /solutions/ecommerce-sup-brand-development/
-    - clientType: 'Marka ribolovne opreme'
-      need: 'Ribolovna SUP daska'
-      solutionPage: 'Stvorite svoju marku ribolovnih SUP dasaka'
-      link: /solutions/create-fishing-sup-brand/
-    - clientType: 'Marka za yogu i wellness'
-      need: 'Wellness proizvodi za vodu'
-      solutionPage: 'Rješenja za opremu za SUP yogu'
-      link: /solutions/sup-yoga-wellness-equipment/
-    - clientType: 'Marka kreatora sadržaja'
-      need: 'Marka influencera'
-      solutionPage: 'Pokretanje SUP marke za kreatore'
-      link: /solutions/creator-influencer-sup-brand/
-    - clientType: 'Osnivač veslačkog kluba'
-      need: 'Klupska flota'
-      solutionPage: 'Komercijalna flota SUP dasaka'
-      link: /solutions/commercial-sup-fleet/
-    - clientType: 'Vlasnik poslovanja iznajmljivanja'
-      need: 'Poslovanje iznajmljivanja'
-      solutionPage: 'Rješenje trajne flote za iznajmljivanje'
-      link: /solutions/durable-sup-rental-fleet/
-    - clientType: 'Voditelj aktivnosti u odmaralištu'
-      need: 'Hotelski doživljaj'
-      solutionPage: 'Paket vodenih aktivnosti za odmarališta'
+    - clientType: Amazon Seller
+      need: E-commerce Growth
+      solutionPage: Product Differentiation & Fast Supply
+      link: /solutions/ecommerce-pool-brand-development/
+    - clientType: Fishing Gear Brand
+      need: Fishing pool
+      solutionPage: Create Your Fishing pool Brand
+      link: /solutions/create-fishing-pool-brand/
+    - clientType: Yoga & Wellness Brand
+      need: Wellness Water Products
+      solutionPage: pool Yoga Equipment Solutions
+      link: /solutions/pool-yoga-wellness-equipment/
+    - clientType: Creator Brand
+      need: Influencer Brand
+      solutionPage: Creator Edition pool Startup
+      link: /solutions/creator-influencer-pool-brand/
+    - clientType: Paddle Club Founder
+      need: Club Fleet
+      solutionPage: Commercial pool Fleet
+      link: /solutions/commercial-pool-fleet/
+    - clientType: Rental Business Owner
+      need: Rental Operations
+      solutionPage: Durable Rental Fleet Solution
+      link: /solutions/durable-pool-rental-fleet/
+    - clientType: Resort Activity Manager
+      need: Hotel Experience
+      solutionPage: Resort Water Activity Package
       link: /solutions/resort-water-activity-package/
-    - clientType: 'Akademija vodenih sportova'
-      need: 'Obuka i edukacija'
-      solutionPage: 'Program opreme za SUP akademiju'
-      link: /solutions/sup-academy-equipment-program/
-    - clientType: 'Tvrtka za krstarenja i jahte'
-      need: 'Doživljaj jahte'
-      solutionPage: 'Luksuzni prijenosni SUP paket'
-      link: /solutions/luxury-portable-sup-package/
-    - clientType: 'Kupac u maloprodaji opreme za prirodu'
-      need: 'Maloprodajni kanal'
-      solutionPage: 'Program maloprodajne privatne marke'
+    - clientType: Water Sports Academy
+      need: Training & Education
+      solutionPage: pool Academy Equipment Program
+      link: /solutions/pool-academy-equipment-program/
+    - clientType: Cruise & Yacht Company
+      need: Yacht Experience
+      solutionPage: Luxury Portable pool Package
+      link: /solutions/luxury-portable-pool-package/
+    - clientType: Outdoor Retail Buyer
+      need: Retail Channel
+      solutionPage: Retail Private Label Program
       link: /solutions/retail-private-label-program/
-    - clientType: 'Distributer i uvoznik'
-      need: 'Regionalna distribucija'
-      solutionPage: 'Regionalni OEM partner i partner u lancu opskrbe'
+    - clientType: Distributor & Importer
+      need: Regional Distribution
+      solutionPage: Regional OEM & Supply Chain Partner
       link: /solutions/regional-oem-supply-chain-partner/
-    - clientType: 'Kupac korporativnih projekata'
-      need: 'Korporativni događaji'
-      solutionPage: 'Paket korporativnih SUP događaja'
-      link: /solutions/corporate-sup-event-package/
-    - clientType: 'Voditelj marke vodenih sportova'
-      need: 'Širenje marke vodenih sportova'
-      solutionPage: 'Proširite svoj portfelj vodenih sportova'
+    - clientType: Corporate Project Buyer
+      need: Corporate Events
+      solutionPage: Corporate pool Event Package
+      link: /solutions/corporate-pool-event-package/
+    - clientType: Water Sports Brand Manager
+      need: Water Sports Brand Expansion
+      solutionPage: Expand Your Water Sports Portfolio
       link: /solutions/expand-your-water-sports-portfolio/
-    - clientType: 'Vlasnik marke za pustolovine s kućnim ljubimcima'
-      need: 'Boravak kućnih ljubimaca u prirodi'
-      solutionPage: 'Program daska za veslanje prijateljskih ljubimcima'
+    - clientType: Pet Adventure Brand Owner
+      need: Pet Outdoor
+      solutionPage: Pet-Friendly inflatable pool Program
       link: /solutions/pet-friendly-paddle-board-program/
-    - clientType: 'Operater rekreacije na plaži'
-      need: 'Zabava na plaži'
-      solutionPage: 'Kompletna rješenja opreme za aktivnosti na plaži'
+    - clientType: Beach Recreation Operator
+      need: Beach Entertainment
+      solutionPage: Complete Beach Activity Equipment Solutions
       link: /solutions/complete-beach-activity-equipment-solutions/
-    - clientType: 'Razvojni investitor vodenih parkova'
-      need: 'Tematska zabava'
-      solutionPage: 'Komercijalna flota SUP dasaka za vodene parkove'
-      link: /solutions/commercial-water-park-sup-fleet/
-    - clientType: 'Vlasnik privatnog otoka i luksuznog kluba'
-      need: 'Visokostilski način života'
-      solutionPage: 'Premium kolekcija prilagođenih SUP dasaka'
-      link: /solutions/premium-custom-sup-collection/
-    - clientType: 'Operater turističkih zajednica i javnih parkova'
-      need: 'Javni turistički projekti'
-      solutionPage: 'Paket vodenih sportova za destinacije'
+    - clientType: Water Park Developer
+      need: Theme Entertainment
+      solutionPage: Commercial Water Park pool Fleet
+      link: /solutions/commercial-water-park-pool-fleet/
+    - clientType: Private Island & Luxury Club Owner
+      need: High-End Lifestyle
+      solutionPage: Premium Custom pool Collection
+      link: /solutions/premium-custom-pool-collection/
+    - clientType: Tourism Board & Public Park Operator
+      need: Public Tourism Projects
+      solutionPage: Destination Water Sports Package
       link: /solutions/destination-water-sports-package/
-    - clientType: 'Operater dječjih pustolovina i ljetnih kampova'
-      need: 'Edukacija mladih'
-      solutionPage: 'Program SUP dasaka za istraživanje djece'
-      link: /solutions/kids-exploration-sup-program/
-    - clientType: 'Organizacija za spašavanje na vodi i sigurnost'
-      need: 'Profesionalno spašavanje'
-      solutionPage: 'Profesionalni SUP sustav za spašavanje na vodi'
-      link: /solutions/professional-water-rescue-sup-system/
-    - clientType: 'Institucija za zaštitu i istraživanje mora'
-      need: 'Istraživanje okoliša'
-      solutionPage: 'SUP platforma za eko-istraživanje i praćenje'
-      link: /solutions/eco-research-monitoring-sup-platform/
+    - clientType: Kids Adventure & Summer Camp Operator
+      need: Youth Education
+      solutionPage: Kids Exploration pool Program
+      link: /solutions/kids-exploration-pool-program/
+    - clientType: Water Rescue & Safety Organization
+      need: Professional Rescue
+      solutionPage: Professional Water Rescue pool System
+      link: /solutions/professional-water-rescue-pool-system/
+    - clientType: Marine Conservation & Research Institution
+      need: Environmental Research
+      solutionPage: Eco Research & Monitoring pool Platform
+      link: /solutions/eco-research-monitoring-pool-platform/
 
 cta:
-  title: 'Niste sigurno koje rješenje odgovara vašem poslovanju?'
-  subtitle: 'Opišite svoj projekt našem B2B timu, a mi ćemo preporučiti pravu konfiguraciju i cijenu.'
+  title: 'Not sure which solution fits your business?'
+  subtitle: 'Describe your project to our B2B team and we will recommend the right configuration and pricing.'
   actions:
     - variant: primary
-      text: 'Razgovarajte s našim B2B timom'
+      text: Talk to Our B2B Team
       href: /contact/?subject=b2b-solutions
     - variant: secondary
-      text: 'Preuzmite katalog'
+      text: Download Catalog
       href: /resources/download-catalog/

@@ -1,39 +1,39 @@
 meta:
-  title: 'Merek olagoon — Rekayasa Marinir & Kemitraan | {SITE}'
-  description: 'olagoon: merek marinir tiup yang bermitra dengan merek olahraga air, distributor, klub bahari, dan perusahaan melalui koleksi ko-brand, private label, dan program distribusi negara.'
+  title: 'The olagoon Brand — Marine Engineering & Partnership | {SITE}'
+  description: 'olagoon: an inflatable marine brand partnering with water sports brands, distributors, nautical clubs, and enterprises through co-branded collections, private label, and country distribution programs.'
   keywords:
-    - 'merek olagoon'
-    - 'merek SUP tiup'
-    - 'produsen sup tiongkok'
+    - 'olagoon brand'
+    - 'inflatable pools brand'
+    - 'china pool manufacturer'
 hero:
-  tagline: 'Merek'
+  tagline: Brand
   title: '{BRAND}'
-  subtitle: 'Performa Samudra untuk Setiap Peselancar'
-  cta: 'Jelajahi Perlengkapan →'
+  subtitle: Ocean Performance for Every Surfer
+  cta: Explore Gear →
   cta_link: /products/
-  secondary_cta: 'Belajar Berselancar'
+  secondary_cta: Explore Pools
   secondary_cta_link: /guides/
 
 position:
-  tagline: 'Posisi'
-  subtitle: 'Performa Samudra untuk Setiap Peselancar'
+  tagline: Position
+  subtitle: Ocean Performance for Every Surfer
 
 products_section:
-  tagline: 'Produk'
-  cta: 'Semua Produk →'
+  tagline: Products
+  cta: All Products →
   cta_link: /products/
 
 global_section:
-  tagline: 'Global'
-  title: 'Tersedia di {count} Wilayah'
+  tagline: Global
+  title: Available in {count} Regions
 
 social_section:
-  tagline: 'Sosial'
-  title: 'Yang sedang dibaca peselancar'
-  read_guide: 'Baca panduan →'
+  tagline: Social
+  title: What surfers are reading
+  read_guide: Read guide →
 
 cta_section:
-  title: 'Mulai perjalanan samudra Anda'
-  subtitle: 'Setiap produk bersertifikat CE. Didukung garansi. Dirancang untuk berselancar sungguhan.'
+  title: Start your ocean journey
+  subtitle: Every product CE certified. Backed by warranty. Engineered for real backyards.
   cta_suffix: '→'
-  secondary_cta: 'Tentang {BRAND}'
+  secondary_cta: About {BRAND}

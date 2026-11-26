@@ -1,11 +1,11 @@
 meta:
-  title: 'About OLagoon — Inflatable SUP & Water Sports Brand | {SITE}'
-  description: 'OLagoon is a global inflatable SUP and water sports brand, operated by Olagoon LLC and built by our Qingdao Operation Team. Discover our story, engineering, certified quality, and country partner programs.'
+  title: 'About OLagoon — inflatable pools & Water Sports Brand | {SITE}'
+  description: 'OLagoon is a global inflatable pools and water sports brand, operated by Olagoon LLC and built by our Qingdao Operation Team. Discover our story, engineering, certified quality, and country partner programs.'
   keywords:
-    - 'inflatable SUP brand'
+    - 'inflatable pools brand'
     - 'water sports brand'
-    - 'country sup distributor'
-    - 'co-branded sup collections'
+    - 'country pool distributor'
+    - 'co-branded pool collections'
 hero:
   tagline: About us
   image:
@@ -14,7 +14,7 @@ hero:
   title: |
     Marine engineering, <br />
     built the <span class="text-accent dark:text-white">olagoon</span> way
-  subtitle: 'We started in a coastal workshop with one board and a stubborn belief: marine products should be engineered like they matter, because they do. Today we ship to over 40 countries, but every hull still passes through the same hands that started the company.'
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
 
 stats:
   title: By the numbers
@@ -31,18 +31,18 @@ stats:
 
 features3_what_we_build:
   title: What we build
-  subtitle: 'We started in a coastal workshop with one board and a stubborn belief: marine products should be engineered like they matter, because they do. Today we ship to over 40 countries, but every hull still passes through the same hands that started the company.'
+  subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
   columns: 3
   isBeforeContent: true
   items:
-    - title: SUP boards
-      description: Inflatable SUP boards from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+    - title: pools
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:ship
-    - title: Inflatable SUPs
-      description: PVC inflatable SUP boards from 9 ft to 12 ft. Light, tough and easy to stow.
+    - title: inflatable pools
+      description: PVC inflatable pools from 9 ft to 12 ft. Light, tough and easy to stow.
       icon: tabler:rowing
-    - title: Premium SUP packages
-      description: Compact, high-spec SUPs custom-built to match your brand or fleet requirements.
+    - title: Premium pool packages
+      description: Compact, high-spec pools custom-built to match your brand or fleet requirements.
       icon: tabler:crown
 
 features3_more:
@@ -50,17 +50,17 @@ features3_more:
   isAfterContent: true
   items:
     - title: Accessories
-      description: Paddles, pumps, covers, dry-bags and electronics. All matched to our boards.
+      description: Filters, pumps, covers, and accessories. All matched to our pools.
       icon: tabler:package
     - title: Repair & service
-      description: In-house board repair, pad replacement and accessory upgrades.
+      description: In-house pool repair, liner replacement and accessory upgrades.
       icon: tabler:tool
     - title: Custom builds
       description: Project-by-project design for commercial, scientific and military customers.
       icon: tabler:hammer
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
-    alt: Board design and engineering discussion
+    alt: Pool design and engineering discussion
 
 steps2_values:
   title: Our values
@@ -70,7 +70,7 @@ steps2_values:
       description: Every hull, weld and fastener is treated as if our own families will use it.
       icon: tabler:heart
     - title: Engineer before we sell
-      description: Inflatable SUP boards from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
       icon: tabler:settings
     - title: Support that outlasts the warranty
       description: Twenty-year-old hulls still call us for spare parts, and we still pick up.
@@ -97,15 +97,15 @@ features2_locations:
   columns: 3
   items:
     - title: Headquarters & workshop
-      description: Inflatable SUP boards from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
     - title: EU service centre
-      description: Inflatable SUP boards from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
+      description: inflatable pools from 9 ft to 12 ft. Designed for touring, yoga, fishing and family use.
     - title: APAC partner network
       description: Authorised service partners in Australia, Japan, Singapore and Hong Kong.
 
 brand_hub_tagline: Brand
 brand_hub_title: Explore Our Brand
-brand_hub_subtitle: Dive deeper into our SUP engineering expertise, global presence, and the principles that drive us.
+brand_hub_subtitle: Dive deeper into our pool engineering expertise, global presence, and the principles that drive us.
 
 brand_hub_cards:
   - title: Marine Expertise

@@ -1,24 +1,24 @@
 meta:
-  title: 'Jurnal — Artikel & Panduan Nautika | {SITE}'
-  description: 'Jurnal olagoon: artikel dan panduan tentang SUP boleh tiup, papan dayung, dan industri nautika.'
+  title: 'Journal — Nautical Articles & Guides | {SITE}'
+  description: 'The olagoon journal: articles and guides about inflatable pools, pool care, and the backyard pool industry.'
   keywords:
-    - 'jurnal sup'
-    - 'artikel papan dayung'
-    - 'blog sup boleh tiup'
-    - 'panduan nautika'
+    - 'pool journal'
+    - 'inflatable pool articles'
+    - 'inflatable pools blog'
+    - 'nautical guides'
 hero:
-  title: 'Jurnal'
-  subtitle: 'Panduan surfing, perbandingan kelengkapan, dan kisah lautan — ditulis untuk keadaan sebenar.'
+  title: Journal
+  subtitle: Pool guides, gear comparisons, and backyard stories — written for real conditions.
 
 latest:
-  tagline: 'Terkini'
-  title: 'Panduan & Perbandingan'
-  browse_all: 'Layari semua 20 →'
-  read: 'Baca →'
+  tagline: Latest
+  title: Guides & Comparisons
+  browse_all: Browse all 20 →
+  read: Read →
 
 social_section:
-  tagline: 'Kandungan × Sosial'
-  title: 'Setiap panduan menjadi 5 siaran sosial'
-  subtitle: 'TikTok · Instagram · X · Pinterest · Reddit — daripada setiap artikel.'
-  pipeline_cta: 'Saluran Sosial →'
-  guides_cta: 'Layari Panduan'
+  tagline: Content × Social
+  title: Every guide becomes 5 social posts
+  subtitle: TikTok · Instagram · X · Pinterest · Reddit — from every article.
+  pipeline_cta: Social Pipeline →
+  guides_cta: Browse Guides

@@ -1,86 +1,91 @@
 meta:
-  title: 'المجتمع — مغامرات SUP ورياضة التجديف | {SITE}'
-  description: 'مجتمع olagoon: أندية التجديف، وفعاليات SUP، والمغامرات البحرية، وقصص عشاق ألواح التجديف وقوفاً القابلة للنفخ.'
+  title: 'Community — Pool Owners & Family Stories | {SITE}'
+  description: 'The OLagoon community: pool owners, family fun, backyard transformations, and stories from inflatable pool enthusiasts.'
   keywords:
-    - 'مجتمع التجديف'
-    - 'نادي SUP'
-    - 'فعاليات التجديف'
-    - 'مغامرات SUP'
+    - 'pool owner community'
+    - 'backyard pool club'
+    - 'pool meetups'
+    - 'backyard pool adventures'
 hero:
-  tagline: المجتمع
-  title: مجتمع أفارير
+  tagline: 'Community'
+  title: 'The OLagoon Community'
   subtitle: |
-    أناس حقيقيون، مياه حقيقية، مغامرات حقيقية. من المجدفين في عطلة نهاية الأسبوع إلى<br />
-    المشغلين المحترفين — اكتشف كيف يستكشف مجتمعنا العالم على الماء.
-  image: https://assets.olagoon.com/images/olagoon/team/olagoon-paddle-girls-team.webp
-  imageAlt: مجتمع olagoon التجديف على المياه الهادئة
+    Real people, real backyards, real summers. From first-time owners to<br />
+    hospitality operators — discover how our community makes the most of their pools.
+  image: 'https://assets.olagoon.com/images/olagoon/team/olagoon-helen-contact-sales.webp'
+  imageAlt: 'OLagoon community enjoying a backyard pool'
+
 stats:
-  title: المجتمع بالأرقام
+  title: 'Community by the numbers'
   stats:
-    - title: '40+'
-      description: دولة بها عملاء أفارير
+    - title: '50+'
+      description: 'Countries with OLagoon customers'
     - title: '12+'
-      description: عاماً من مغامرات المجتمع
-    - title: 10,000+
-      description: مجداف سعيد حول العالم
-    - title: 98%
-      description: سيوصون بأفارير
+      description: 'Years of backyard fun'
+    - title: '10,000+'
+      description: 'Happy families worldwide'
+    - title: '98%'
+      description: 'Would recommend OLagoon'
+
 stories:
-  tagline: قصص المستكشفين
-  title: مغامرات حقيقية من أناس حقيقيين
-  subtitle: اسمع من المجدفين والعائلات والمحترفين الذين يستخدمون معدات أفارير على الماء.
+  tagline: 'Owner Stories'
+  title: 'Real backyards from real people'
+  subtitle: 'Hear from families, swimmers, and operators who use OLagoon pools every summer.'
   items:
-    - name: سارة ومايك
-      title: مالكا SUP Explorer 11، كندا
-      content: أخذنا لوحي Explorer 11 في رحلة لمدة أسبوع عبر منتزه ألجونكوين. تعاملا مع حمولات البر والعبور في البحيرات بشكل جميل. البناء بالخياطة المتساقطة يعني أننا نستطيع النفخ إلى 15 PSI والحصول على أداء اللوح الصلب من لوح قابل للحزم.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
-      location: منتزه ألجونكوين، كندا
-    - name: كارلوس ر.
-      title: راكب Cheetah Surge، إسبانيا
-      content: Cheetah Surge هو خياري الأول للجولات الساحلية. التصميم الحيوي يلفت الأنظار على الشاطئ، والثبات يمنحني الثقة في الأمواج الخفيفة. يتعامل بشكل رائع سواء كنت أتجول أو أستمتع بغروب الشمس.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
-      location: كوستا برافا، إسبانيا
-    - name: لينا والعائلة
-      title: مجدفو Flowing Lotus، السويد
-      content: مغامرات عائلية في عطلة نهاية الأسبوع على الأرخبيل. Flowing Lotus مستقر بما يكفي لابنتي لتقف عليه بينما أجدف. ينفخ في أقل من 10 دقائق — لا حاجة لمقطورة، فقط متعة عائلية نقية على الماء.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-flowing-lotus-1-1200w.webp
-      location: أرخبيل ستوكهولم، السويد
-    - name: النقيب أندريس
-      title: مستكشف Ocean Voyager، الفلبين
-      content: أستخدم Ocean Voyager الخاص بي للجولات الساحلية لمسافات طويلة حول بالاوان. بعد أشهر من الاستخدام اليومي في الظروف الاستوائية، لا يزال اللوح يؤدي كالجديد. الشكل السياحي يقطع الأمواج التي قد توقف الألواح الأقل.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      location: بالاوان، الفلبين
-    - name: إيما تي.
-      title: مبتدئة Tropical Breeze، أستراليا
-      content: لم أكن قد ركبت SUP من قبل. Tropical Breeze مستقر جداً لدرجة أنني شعرت بالثقة في محاولتي الأولى. الآن أتجدول كل عطلة نهاية أسبوع. منحنى التعلم صفر تقريباً — واللوح يبدو رائعاً على الماء.
-      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp
-      location: غولد كوست، أستراليا
+    - name: 'Sarah & Mike'
+      title: 'Family Oasis owners, Canada'
+      content: 'We set up our Family Oasis at the lake cabin for a week. The kids swam every single day. The drop-stitch construction meant the 20 cm walls stayed rock-solid at full fill — a real pool experience from a box that fits in the trunk.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/family-oasis.webp'
+      location: 'Algonquin Park, Canada'
+    - name: 'Carlos R.'
+      title: 'Family Oasis owner, Spain'
+      content: 'The Family Oasis is our go-to for hot summers. The integrated seating is perfect for relaxing while the kids play, and the included sand-filter pump keeps the water crystal clear with barely any maintenance.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/family-oasis.webp'
+      location: 'Costa Brava, Spain'
+    - name: 'Lina & family'
+      title: 'Compact Plunge owners, Sweden'
+      content: 'Weekend fun in our small garden. The Compact Plunge fits our terrace perfectly and still fits the whole family for a cool-down. Sets up in about 30 minutes — no construction needed, just pure family fun all summer.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/compact-plunge.webp'
+      location: 'Stockholm, Sweden'
+    - name: 'Marco & Ana'
+      title: 'Grand Lagoon owners, Philippines'
+      content: 'We use our Grand Lagoon for daily swimming and weekend gatherings. After months of daily use in tropical conditions, the pool still performs like new. The 5 m length is enough for real laps — that would be impossible with lesser pools.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp'
+      location: 'Palawan, Philippines'
+    - name: 'Emma T.'
+      title: 'Compact Plunge owner, Australia'
+      content: 'I had never owned a pool before. The Compact Plunge is so easy to set up that I felt confident on my first try. Now I soak every evening after work. The learning curve is basically zero — and the pool looks amazing on the deck.'
+      image: 'https://assets.olagoon.com/images/olagoon/products/compact-plunge.webp'
+      location: 'Gold Coast, Australia'
+
 adventures_cta:
-  tagline: شارك مغامرتك
-  title: قصتك قد تكون هنا
-  subtitle: 'أشر @olagoon_watersports على إنستغرام أو استخدم #olagoonAdventure لفرصة الظهور.'
-  instagram: تابع على إنستغرام
-  youtube: اشترك على يوتيوب
-  facebook: انضم على فيسبوك
+  tagline: 'Share Your Backyard'
+  title: 'Your story could be here'
+  subtitle: 'Follow OLagoon on Facebook or YouTube and tag your setup with #MyOlagoon for a chance to be featured.'
+  instagram: 'Join on Facebook'
+  youtube: 'Subscribe on YouTube'
+  facebook: 'Join on Facebook'
+
 locations:
-  tagline: مجتمع عالمي
-  title: أين تسافر أفارير
-  subtitle: من البحيرات الأوروبية إلى السواحل الجنوبية شرق آسيا — مجتمعنا يجدف في كل مكان.
+  tagline: 'Global Community'
+  title: 'Where OLagoon lives'
+  subtitle: 'Follow OLagoon on Facebook or YouTube and tag your setup with #MyOlagoon for a chance to be featured.'
   regions:
-    - title: أوروبا
-      description: بحيرة كومو · أرخبيل ستوكهولم · كوستا برافا · الساحل الكرواتي · بحيرات اسكتلندا
-    - title: آسيا والمحيط الهادئ
-      description: بالاوان · غولد كوست · خليج ها لونج · بحيرة ياماناكا · ساحل بالي
-    - title: الأمريكتان
-      description: منتزه ألجونكوين · البحيرات العظمى · فلوريدا كيز · بحيرة تاهو · باتاغونيا
-    - title: الشرق الأوسط وأفريقيا
-      description: ساحل البحر الأحمر · بحيرة فيكتوريا · شبه جزيرة كيب · بحيرة طبريا
+    - title: 'Europe'
+      description: 'Stockholm · Lisbon · Costa Brava · Lake Como · Scottish Highlands'
+    - title: 'Asia Pacific'
+      description: 'Palawan · Gold Coast · Bali · Auckland · Okinawa'
+    - title: 'Americas'
+      description: 'Austin · Toronto · Florida Keys · Lake Tahoe · New Mexico'
+    - title: 'Middle East & Africa'
+      description: 'Dubai · Cape Town · Nairobi · Red Sea Coast · Amman'
+
 cta:
-  title: هل أنت مستعد للانضمام إلى المجتمع؟
-  subtitle: كل منتج من أفارير معتمد CE ومدعوم بالضمان ومصمم لمغامرات حقيقية. اعثر على منتجك اليوم.
+  title: 'Ready to join the community?'
+  subtitle: 'Every OLagoon pool is CE certified, backed by a 2-year warranty, and designed for real families. Find yours today.'
   actions:
     - variant: primary
-      text: استكشف المنتجات
-      href: /products/
-    - text: شارك قصتك
-      href: /contact/
+      text: 'Explore products'
+      href: '/products/'
+    - text: 'Share your story'
+      href: '/contact/'

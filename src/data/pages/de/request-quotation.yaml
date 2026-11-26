@@ -1,99 +1,99 @@
 meta:
-  title: 'Angebot anfordern — OEM-SUP-Fertigung | {SITE}'
-  description: 'Fordern Sie ein detailliertes Angebot für Ihr aufblasbares SUP-Projekt an. OEM/ODM-Fertigung, Eigenmarken oder kundenspezifische Flotten — Antwort in 2 Werktagen.'
+  title: 'Request a Quotation — OEM pool Manufacturing | {SITE}'
+  description: 'Request a detailed quotation for your inflatable pools project. OEM/ODM manufacturing, private label, or custom fleets — we respond within 2 business days.'
   keywords:
-    - 'SUP-Angebot anfordern'
-    - 'OEM-Paddleboard-Angebot'
-    - 'SUP-Fabrik Angebot'
-    - 'Preis aufblasbares SUP'
+    - 'request pool quote'
+    - 'oem inflatable pool quote'
+    - 'pool factory quotation'
+    - 'inflatable pools price'
 hero_text:
-  tagline: Ein Angebot einholen
-  title: Angebot anfordern<br />für Ihr Projekt
-  subtitle: Teilen Sie uns Ihre Anforderungen mit. Wir antworten mit einem detaillierten Angebot innerhalb von 2 Werktagen.
+  tagline: Get a Quote
+  title: 'Request a Quotation<br />for Your Project'
+  subtitle: 'Tell us about your requirements and our team will respond with a detailed quotation within 2 business days.'
 steps2_process:
-  title: Wie es funktioniert
-  subtitle: Vier einfache Schritte von der Anfrage bis zum Angebot.
+  title: How It Works
+  subtitle: 'Four simple steps from inquiry to quotation.'
   items:
-    - title: 'Schritt 1: Anforderungen senden'
-      description: Formular mit Produkttyp, Menge und Spezifikationen ausfüllen. Je detaillierter, desto genauer das Angebot.
+    - title: 'Step 1: Submit Your Requirements'
+      description: 'Fill out the form below with your product type, quantity, and specifications. The more detail you provide, the more accurate your quotation.'
       icon: tabler:file-text
-    - title: 'Schritt 2: Wir prüfen & beraten'
-      description: Unser Engineering-Team prüft Ihre Anforderungen und gibt Empfehlungen zu Produktkonfiguration.
+    - title: 'Step 2: We Review & Advise'
+      description: 'Our engineering team reviews your requirements and may contact you for clarification. We provide recommendations on product configuration and options.'
       icon: tabler:users
-    - title: 'Schritt 3: Angebot erhalten'
-      description: Sie erhalten ein detailliertes Angebot mit Preisen, MOQ, Lieferzeit, Zahlungsbedingungen und Versandoptionen. In der Regel innerhalb von 48 Stunden.
+    - title: 'Step 3: Receive Your Quote'
+      description: 'You receive a detailed quotation including unit pricing, MOQ, lead time, payment terms, and shipping options. Typically within 48 hours.'
       icon: tabler:currency-dollar
-    - title: 'Schritt 4: Muster & Produktion'
-      description: Nach Angebotsannahme erfolgt die Musterproduktion (falls zutreffend) oder direkt die Massen
+    - title: 'Step 4: Sample & Production'
+      description: 'After quote acceptance, we proceed to sample production (if applicable) or directly to mass production. Regular updates throughout the process.'
       icon: tabler:building-factory
 content_form:
-  tagline: Angebotsformular
-  title: Erzählen Sie uns von Ihrem Projekt
-  subtitle: Alle mit * gekennzeichneten Felder sind Pflichtfelder.
+  tagline: Quotation Form
+  title: 'Tell Us About Your Project'
+  subtitle: 'All fields with * are required.'
   contact_fields:
-    firstName: Vorname
-    lastName: Nachname
-    companyName: Unternehmen
-    email: E-Mail
+    firstName: First Name
+    lastName: Last Name
+    companyName: Company Name
+    email: E-mail
   fields:
-    - name: Produktkategorie
+    - name: Product Category
       type: select
       options:
-        - SUP-Board
-        - Aufblasbares SUP
-        - Aufblasbares SUP-Board
-        - Schwimmweste
-        - Marine-Zubehör
-        - Individuelles OEM/ODM
-    - name: Anwendung
+        - pools
+        - inflatable pools
+        - inflatable pools
+        - Thermal Cover
+        - Marine Accessory
+        - Custom OEM/ODM
+    - name: Application
       type: select
       options:
-        - Tauchzentrum
-        - Angeln
-        - Marine Tourismus / Resort
-        - Suche & Rettung
-        - Regierung / Militär
-        - OEM / Eigenmarke
-        - Persönlich / Freizeit
-        - Andere
-    - name: Stückzahl
+        - Diving Center
+        - Fishing
+        - Marine Tourism / Resort
+        - Search & Rescue
+        - Government / Military
+        - OEM / Private Label
+        - Personal / Recreational
+        - Other
+    - name: Quantity
       type: text
-      placeholder: z. B. 50 Stück
-    - name: Zielmarkt
+      placeholder: e.g. 50 units
+    - name: Target Market
       type: text
-      placeholder: z. B. Europa, Nordamerika, Naher Osten
-    - name: Lieferland
+      placeholder: e.g. Europe, North America, Middle East
+    - name: Delivery Country
       type: text
-      placeholder: z. B. Italien, VAE, USA, Australien
-    - name: Bevorzugtes Material
+      placeholder: e.g. Italy, UAE, USA, Australia
+    - name: Material Preference
       type: select
       options:
-        - Keine Präferenz
-        - Marine-PVC (1100 dtex)
-        - GFK-Rumpf
-        - Aluminium-Rumpf
-    - name: Motoranforderung
+        - No Preference
+        - Marine-Grade PVC (1100 dtex)
+        - Fiberglass Hull
+        - Aluminum Hull
+    - name: Engine Requirement
       type: text
-      placeholder: z. B. Standard-Paddel-Ausrüstung, elektrische Pumpe, individuelle Farben
-    - name: Erforderliche Anpassungen
+      placeholder: e.g. standard filtration package, electric pump, custom colors
+    - name: Customization Required
       type: text
-      placeholder: z. B. individuelle Farben, Marken-/Logoanpassung, Verpackung, spezielle Armaturen
-    - name: Zeitplan
+      placeholder: e.g. custom colors, branding/logo, packaging, special fittings
+    - name: Timeline
       type: text
-      placeholder: z. B. Lieferung innerhalb von 90 Tagen
-    - name: Zusätzliche Anforderungen
+      placeholder: e.g. delivery within 90 days
+    - name: Additional Requirements
       type: textarea
-      placeholder: Beschreiben Sie Ihre Anwendung, technische Spezifikationen oder besondere Anforderungen – fügen Sie, falls verfügbar, Referenzzeichnungen, Spezifikationen oder Links bei
-    - name: Spezifikation hochladen
+      placeholder: Describe your application, technical specifications, or any special requirements — include reference drawings, specifications, or links if available
+    - name: Upload Specification
       type: file
-      placeholder: Laden Sie Ihr Datenblatt, Ihre Zeichnung oder Ihr Referenzdokument (PDF, DWG, DXF) hoch
-    - name: Logo / Artwork hochladen
+      placeholder: Upload your spec sheet, drawing, or reference document (PDF, DWG, DXF)
+    - name: Upload Logo / Artwork
       type: file
-      placeholder: Laden Sie Ihr Logo oder Artwork für individuelles Branding hoch (AI, EPS, PNG)
+      placeholder: Upload your logo or artwork for custom branding (AI, EPS, PNG)
 cta:
-  title: Lieber per E-Mail besprechen?
-  subtitle: Senden Sie Ihre Anfrage direkt an unser Verkaufsteam. Wir antworten innerhalb von 24 Stunden.
+  title: 'Prefer to discuss by email?'
+  subtitle: 'Send your inquiry directly to our sales team and we will respond within 24 hours.'
   actions:
     - variant: primary
-      text: Senden Sie uns direkt eine E-Mail
+      text: Email us directly
       href: /contact/

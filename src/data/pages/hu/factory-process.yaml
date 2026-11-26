@@ -1,52 +1,52 @@
 meta:
-  title: 'Gyártási folyamat — A nyersanyagtól a SUP-ig | {SITE}'
-  description: 'A nyersanyagtól a vízre kész SUP-ig: az afarar gyártási folyamat minden lépése az irányításunk alatt, a vágástól és hegesztéstől a tesztelésig.'
+  title: 'Manufacturing Process — From Raw Material to pool | {SITE}'
+  description: 'From raw material to sea-ready pool: every step of the olagoon manufacturing process under our control, from cutting and welding to testing.'
   keywords:
-    - 'sup gyártási folyamat'
-    - 'felfújható sup gyár'
-    - 'paddle lap gyártási lépések'
-    - 'pvc hegesztés sup'
+    - 'pool manufacturing process'
+    - 'inflatable pools factory'
+    - 'inflatable pool production steps'
+    - 'pvc welding pool'
 hero:
-  tagline: 'Folyamat'
-  title: 'Gyártási folyamat'
-  subtitle: 'A nyersanyagtól a vízre kész lapig — minden lépés az irányításunk alatt'
-  back_label: 'Vissza a gyárhoz'
+  tagline: Process
+  title: Manufacturing Process
+  subtitle: From raw material to backyard-ready pool — every step under our control
+  back_label: Back to Factory
   back_link: /factory/
 
-intro: 'Azokkal a márkákkal ellentétben, amelyek a gyártást harmadik fél gyáraiba externalizálják, az afarar saját tulajdonban tartja és működteti a teljes gyártási láncot. Ez a vertikális integráció lehetővé teszi számunkra a szigorú minőség-ellenőrzés fenntartását minden szakaszban, a gyors reagálást egyedi igényekre és a következetes termékminőség biztosítását tételről tételre. Így épül egy lap a létesítményünkben.'
+intro: Unlike brands that outsource production to third-party factories, olagoon owns and operates its entire manufacturing chain. This vertical integration allows us to maintain strict quality control at every stage, respond quickly to custom requirements, and deliver consistent product quality batch after batch. Here is how a pool is built in our facility.
 
 steps:
   - step: '01'
-    title: 'Anyagbeérkezés és ellenőrzés'
-    description: 'Minden beérkező PVC szövet, üvegszálas szőnyeg, gyanta és hardver tételt specifikáció szerint ellenőriznek. Szövetmintákat tesztelnek húzószilárdságra, vastagság-egyenletességre és UV-állóságra a gyártásba való kiadás előtt. A nem megfelelő anyagok karanténba kerülnek és visszaküldésre.'
-    duration: '1–2 nap'
+    title: Material Receipt & Inspection
+    description: Every incoming batch of PVC fabric, fiberglass mat, resin, and hardware is inspected against specification. Fabric samples are tested for tensile strength, thickness uniformity, and UV resistance before release to production. Non-conforming materials are quarantined and returned.
+    duration: 1–2 days
   - step: '02'
-    title: 'Automatikus PVC vágás'
-    description: 'A jóváhagyott szöveteket az automatikus CNC vágógépre fektetik és milliméter alatti pontossággal vágják. A számítógéppel optimalizált beágyazás úgy rendezi a paneleket, hogy minimalizálja a hulladékot — jellemzően 5% alatt. A kivágott paneleket lapmodell és kamra szerint címkézik, majd kötegekben szállítják a hegesztő műhelybe.'
-    duration: '2–4 óra laponkénti szett'
+    title: Automatic PVC Cutting
+    description: Approved fabrics are laid on the automatic CNC cutting machine and cut with sub-millimetre accuracy. Computer-optimised nesting arranges panels to minimise waste — typically below 5%. Cut panels are labelled by pool model and chamber, then bundled for transfer to the welding workshop.
+    duration: 2–4 hours per pool kit
   - step: '03'
-    title: 'Cső hőzárás és hegesztés'
-    description: 'A paneleket rögzítik és kötik hőzáró gépekkel, forró levegős hegesztéssel 200–300 °C szabályozott hőmérsékleten. A fő varratokat RF dielektromos hegesztéssel erősítik légmentes, nagy szilárdságú illesztésekhez. A kész kamrákat a munkanyomás 1,5-szeresére fújják fel 30 perces levegőretenció-érvényesítéshez.'
-    duration: '1–2 nap laponként'
+    title: Tube Heat Sealing & Welding
+    description: Panels are tacked and bonded using heat sealing machines with hot-air welding at controlled temperatures of 200–300 °C. Main seams are reinforced with RF dielectric welding for airtight, high-strength joints. Completed chambers are inflated to 1.5× working pressure for 30-minute air-retention validation.
+    duration: 1–2 days per pool
   - step: '04'
-    title: 'SUP nyomtatás és díszítés'
-    description: 'A SUP lap fedélzeti grafikáit digitális nyomtatással viszik fel teljes színű fotóminőségű dizájnokhoz, és szitanyomással tartós logókhoz és ismétlődő mintákhoz. A nyomatok UV- és kopásállóságra történő kezelése és lezárása.'
-    duration: '1–2 nap'
+    title: pool Printing & Decoration
+    description: pools deck graphics are applied using digital printing for full-colour photo-quality designs, and screen printing for durable logos and repeating patterns. Prints are cured and sealed for UV and abrasion resistance.
+    duration: 1–2 days
   - step: '05'
-    title: 'Végső szerelés és felszerelés'
-    description: 'A lapokat a szerelővonalon szerelik fel uszonyokkal, szelepekkel, EVA fedélzetekkel és kiegészítőkkel. Minden egység 100 pontos szerelési ellenőrzőlistát követ kötelező jóváhagyással minden szakaszban.'
-    duration: '2–4 nap'
+    title: Final Assembly & Rigging
+    description: Pools are rigged on the assembly line with valves, fittings, and accessories. Each unit follows a 100-point assembly checklist with mandatory sign-off at each stage.
+    duration: 2–4 days
   - step: '06'
-    title: 'Minőségi tesztelés és ellenőrzés'
-    description: 'Minden elkészült lap kötelező minőségi kapun megy át: kamra-levegőretenció teszt, hardver funkcióellenőrzés, csavar meghúzási érvényesítés és esztétikai ellenőrzés. Az egyedi és prototípus gyártások vízi próbákat is kapnak stabilitágra és kezelhetőségre.'
-    duration: '1–2 nap'
+    title: Quality Testing & Inspection
+    description: 'Every completed pool undergoes mandatory quality gate: chamber air-retention test, hardware function check, fastener torque verification, and cosmetic inspection. Custom and prototype builds also receive in-water trials covering stability and handling.'
+    duration: 1–2 days
   - step: '07'
-    title: 'Csomagolás és szállítás'
-    description: 'A lapokat leeresztik, előírás szerint összehajtják, nehéz teherbírású szőtt zsákokba vagy rétegelt lemez ládákba csomagolják és szállításra rakodják. Minden csomagot modellel, sorozatszámmal és célponttal címkéznek. Összehangoljuk a fuvardelayerekkel az FCL és LCL konténer szállításokat világszerte.'
-    duration: '1 nap'
+    title: Packing & Shipping
+    description: Pools are deflated, folded per procedure, packed in heavy-duty woven bags or plywood crates, and loaded for shipment. Each package is labelled with model, serial number, and destination. We coordinate with freight forwarders for FCL and LCL container shipments worldwide.
+    duration: 1 day
 
 cta:
-  title: 'Tekintse meg berendezéseinket és gépeinket'
-  desc: 'Fedezze fel az ipari minőségű berendezéseket minden afarar lap mögött.'
-  label: 'Berendezések megtekintése →'
+  title: See our equipment and machinery
+  desc: Explore the industrial-grade equipment behind every OLagoon pool.
+  label: View equipment →
   link: /factory/equipment/

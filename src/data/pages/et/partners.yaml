@@ -1,72 +1,72 @@
 meta:
-  title: 'Partnerid — jaotus ja hulgimüük | {SITE}'
-  description: 'Hakka olagoon partneriks: jaotusvõrgustikud, hulgihinnad, OEM/eramärgi programmid ja tugi supilauaettevõtetele üle kogu maailma.'
+  title: 'Partners — Distribution & Wholesale | {SITE}'
+  description: 'Become an olagoon partner: distribution networks, wholesale pricing, OEM/private label programs, and support for inflatable pool businesses worldwide.'
   keywords:
-    - 'supi jaotuspartner'
-    - 'supilaudade hulgimüük'
-    - 'täispuhutava supi jaotaja'
-    - 'supi partnerlus'
+    - 'pool distribution partner'
+    - 'inflatable pool wholesale'
+    - 'inflatable pools distributor'
+    - 'pool partnership'
 hero:
-  tagline: 'Partnerid ja jaotus'
-  title: 'Hakka olagoon partneriks<br />— ülemaailmne jaotusvõrgustik'
-  subtitle: 'Liitu olagoon ülemaailmse partnerite võrgustikuga. Me töötame merenduse jaotajate, sõudespordi edasimüüjate, varustuse jaemüüjate ja kaubamärgipartneritega üle 50 riigis.'
+  tagline: Partners & Distribution
+  title: 'Become an olagoon Partner<br />— Global Distribution Network'
+  subtitle: "Join olagoon's global partner network. We work with pool and outdoor distributors, specialty retailers, equipment dealers, and brand partners in 50+ countries."
   image:
     src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
-    alt: 'olagoon ülemaailmne partnerite ja jaotajate võrgustik'
+    alt: olagoon global partner and distributor network
 content_programs:
-  tagline: 'Partnerprogrammid'
-  title: 'Kasvuks ehitatud<br />partnerprogrammid'
-  subtitle: 'Olenemata sellest, kas oled jaotaja, edasimüüja või kaubamärgipartner, pakub olagoon programme, mis on loodud toetama sinu ettevõtet.'
+  tagline: Partner Programs
+  title: 'Partner Programs<br />Built for Growth'
+  subtitle: 'Whether you are a distributor, dealer, or brand partner, olagoon offers programs designed to support your business.'
   columns: 3
   items:
-    - title: 'Jaotusprogramm'
-      description: 'Eksklusiivne territooriumi jaotus koos mahuhindade, turundustoega ja otsese tehase ligipääsuga. Nõutav minimaalne kohustus sõltuvalt territooriumi suurusest.'
+    - title: 'Distributor Program'
+      description: 'Exclusive territory distribution with volume pricing, marketing support, and direct factory access. Minimum commitment required based on territory size.'
       icon: tabler:world
-    - title: 'Edasimüüja programm'
-      description: 'Otseedasimüüja hinnad, toodete koolitus, turundusmaterjalid ja garantii tugi jaemüügikohtadele ja e-poodidele.'
+    - title: 'Dealer Program'
+      description: 'Direct dealer pricing, product training, marketing materials, and warranty support for retail locations and online stores.'
       icon: tabler:building-store
-    - title: 'OEM/ODM partnerlus'
-      description: 'Täisteenuse OEM ja ODM tootmine koos kohandatud kaubamärgi, pakendi ja toote spetsifikatsioonidega. Kontseptsioonist konteinerini.'
+    - title: 'OEM/ODM Partnership'
+      description: 'Full-service OEM and ODM manufacturing with custom branding, packaging, and product specifications. From concept to container.'
       icon: tabler:certificate
-    - title: 'Kaubamärgi partnerlus'
-      description: 'Kaasmärgitootmine, eramärk ja eksklusiivsete mudelite programmid väljakujunenud kaubamärkidele merenduse ja välispordi valdkonnas.'
+    - title: 'Brand Partnership'
+      description: 'Co-branding, private label, and exclusive model programs for established brands in the marine and outdoor recreation space.'
       icon: tabler:stars
-    - title: 'Valitsus ja asutused'
-      description: 'Eelistatud tarnija programmid valitsusasutustele, rannavalvele, sõjaväele ja humanitaarorganisatsioonidele. Hankevalmidusega dokumentatsioon.'
+    - title: 'Government & Institutional'
+      description: 'Preferred supplier programs for government agencies, coast guards, military, and humanitarian organizations. Tender-ready documentation.'
       icon: tabler:building-community
-    - title: 'Kuurordi ja rendi partner'
-      description: 'Laevastiku hinnad, ühtlane kvaliteet ja kohandatud kaubamärk kuurortidele, sukeldumiskeskustele ja rendioperaatoritele üle kogu maailma.'
+    - title: 'Resort & Rental Partner'
+      description: 'Fleet pricing, consistent quality, and custom branding for resorts, diving centers, and rental operations worldwide.'
       icon: tabler:sun
 content_benefits:
-  tagline: 'Miks meiega partneriks hakata'
-  title: 'Miks partnerid valivad olagoon'
-  subtitle: 'Meie partnerid saavad kasu tegelikust tootmisvõimekusest, ühtlasest kvaliteedist ja vastuvõtlikust toest.'
+  tagline: Why Partner With Us
+  title: 'Why Partners Choose olagoon'
+  subtitle: 'Our partners benefit from real manufacturing capability, consistent quality, and responsive support.'
   list:
-    - 'Otsene tehase ligipääs: Tööta otse meie tootmisemeeskonnaga — vahendajaid pole. Saad kiiremaid vastuseid, paremaid hindu ja täieliku nähtavuse tootmisesse.'
-    - 'Kohandamisvalmidus: Brändi oma tooted kohandatud värvide, logode, pakendi ja spetsifikatsioonidega. Minimaalsed tellimiskogused kohandatud sinu turule.'
-    - 'Garanteeritud kvaliteet: ISO 9001 sertifitseeritud tootmine koos CE, UKCA ja BSCI vastavusega. Iga toode testitud enne saatmist.'
-    - 'Globaalne logistika: Saatmine Qingdaost Hiinast koos FOB, CIF ja DDP valikutega. USA ladu Montclairis, CA-s Põhja-Ameerika jaotuseks.'
-    - 'Turundustugi: Toote kataloogid, fotograafia, tehniline dokumentatsioon ja digitaalsed materjalid sinu müügi toetamiseks.'
-    - 'Koolitus ja tugi: Toodete koolitus sinu müügimeeskonnale, tehniline tugi sinu klientidele ja garantiiteeninduse koordineerimine.'
+    - 'Direct Factory Access: Work directly with our manufacturing team — no middlemen. Get faster responses, better pricing, and full visibility into production.'
+    - 'Customization Ready: Brand your products with custom colors, logos, packaging, and specifications. Minimum order quantities tailored to your market.'
+    - 'Quality Guaranteed: ISO 9001 certified production with CE, UKCA, and BSCI compliance. Every product tested before shipping.'
+    - 'Global Logistics: Shipping from Qingdao, China with FOB, CIF, and DDP options. US warehouse in Montclair, CA for North American distribution.'
+    - 'Marketing Support: Product catalogs, photography, technical documentation, and digital assets to support your sales efforts.'
+    - 'Training & Support: Product training for your sales team, technical support for your customers, and warranty service coordination.'
 content_process:
-  tagline: 'Kuidas partneriks saada'
-  title: 'Lihtne partnerlusprotsess'
-  subtitle: 'Meie partnerlusprotsess on otsekohene — loodud, et sa hakkaksid olagoon tooteid kiiresti müüma.'
+  tagline: How to Become a Partner
+  title: 'Simple Partnership Process'
+  subtitle: 'Our partnership process is straightforward — designed to get you selling olagoon products quickly.'
   items:
-    - title: 'Samm 1: Esita taotlus'
-      description: 'Täida meie partnerluse taotlusvorm koos oma ettevõtte profiili, sihtturu ja tootehuvidesid.'
-    - title: 'Samm 2: Kvalifitseerimise läbivaatus'
-      description: 'Meie partnerlusmeeskond vaatab sinu taotluse läbi ja võtab sinuga ühendust 3 tööpäeva jooksul võimaluste arutamiseks.'
-    - title: 'Samm 3: Leping ja seadistamine'
-      description: 'Allkirjasta partnerlusleping, seadista oma konto ja saa partnerhinnad, turundusmaterjalid ja tootenäidised.'
-    - title: 'Samm 4: Koolitus ja käivitamine'
-      description: 'Toodete koolitus, müügitugi ja turundusmaterjalid. Oled valmis müüma hakkama.'
+    - title: 'Step 1: Submit Application'
+      description: 'Complete our partner application form with your company profile, target market, and product interests.'
+    - title: 'Step 2: Qualification Review'
+      description: 'Our partnership team reviews your application and contacts you within 3 business days to discuss opportunities.'
+    - title: 'Step 3: Agreement & Setup'
+      description: 'Sign a partnership agreement, set up your account, and receive partner pricing, marketing materials, and product samples.'
+    - title: 'Step 4: Training & Launch'
+      description: 'Product training, sales support, and marketing collateral provided. You are ready to start selling.'
 cta:
-  title: 'Valmis olagoon partneriks saama?'
-  subtitle: 'Taotle partnerlust ja meie meeskond vastab 3 tööpäeva jooksul.'
+  title: 'Ready to become an olagoon partner?'
+  subtitle: 'Apply for partnership and our team will respond within 3 business days.'
   actions:
     - variant: primary
-      text: 'Taotle partnerlust'
+      text: Apply for partnership
       href: /contact/
-    - text: 'Vaata meie tooteid'
+    - text: View our products
       href: /products/

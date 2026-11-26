@@ -1,39 +1,39 @@
 meta:
-  title: 'המותג olagoon — הנדסה ימית ושותפות | {SITE}'
-  description: 'olagoon: מותג ימי ניפחים המשתף פעולה עם מותגי ספורט מים, מפיצים, מועדונים ימיים וארגונים באמצעות אוספים במותג משותף, מותג פרטי ותוכניות הפצה ארציות.'
+  title: 'The olagoon Brand — Marine Engineering & Partnership | {SITE}'
+  description: 'olagoon: an inflatable marine brand partnering with water sports brands, distributors, nautical clubs, and enterprises through co-branded collections, private label, and country distribution programs.'
   keywords:
-    - 'מותג olagoon'
-    - 'מותג SUP ניפחים'
-    - 'יצרן sup סין'
+    - 'olagoon brand'
+    - 'inflatable pools brand'
+    - 'china pool manufacturer'
 hero:
-  tagline: 'מותג'
+  tagline: Brand
   title: '{BRAND}'
-  subtitle: 'ביצועים באוקיינוס לכל גולש'
-  cta: 'גלו ציוד →'
+  subtitle: Ocean Performance for Every Surfer
+  cta: Explore Gear →
   cta_link: /products/
-  secondary_cta: 'למדו לגלוש'
+  secondary_cta: Explore Pools
   secondary_cta_link: /guides/
 
 position:
-  tagline: 'מיצוב'
-  subtitle: 'ביצועים באוקיינוס לכל גולש'
+  tagline: Position
+  subtitle: Ocean Performance for Every Surfer
 
 products_section:
-  tagline: 'מוצרים'
-  cta: 'כל המוצרים →'
+  tagline: Products
+  cta: All Products →
   cta_link: /products/
 
 global_section:
-  tagline: 'גלובלי'
-  title: 'זמין ב-{count} אזורים'
+  tagline: Global
+  title: Available in {count} Regions
 
 social_section:
-  tagline: 'חברתי'
-  title: 'מה גולשים קוראים'
-  read_guide: 'קראו מדריך →'
+  tagline: Social
+  title: What surfers are reading
+  read_guide: Read guide →
 
 cta_section:
-  title: 'התחילו את מסע האוקיינוס שלכם'
-  subtitle: 'כל מוצר מוסמך CE. נתמך באחריות. מעוצב לגלישה אמיתית.'
+  title: Start your ocean journey
+  subtitle: Every product CE certified. Backed by warranty. Engineered for real backyards.
   cta_suffix: '→'
-  secondary_cta: 'על אודות {BRAND}'
+  secondary_cta: About {BRAND}

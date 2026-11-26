@@ -1,72 +1,72 @@
 meta:
-  title: 'Miks olagoon — 7 põhjust, miks globaalsed kaubamärgid meid valivad | {SITE}'
-  description: 'Miks globaalsed kaubamärgid valivad olagoon: CE- ja ISO-sertifikaadid, paindlik MOQ, kohandatud vormid ja 30-päevased täitmisajad professionaalsest täispuhutavate supilaudade tehases.'
+  title: 'Why olagoon — 7 Reasons Global Brands Choose Us | {SITE}'
+  description: 'Why global brands choose olagoon: CE and ISO certifications, flexible MOQ, custom molds, and 30-day lead times from a professional inflatable pools factory.'
   keywords:
-    - 'miks valida olagoon'
-    - 'täispuhutavate supilaudade tootja'
-    - 'supi tehas hiinas'
-    - 'täispuhutavate supilaudade tarnija'
+    - 'why choose olagoon'
+    - 'inflatable pools manufacturer'
+    - 'pool factory china'
+    - 'inflatable pool supplier'
 hero:
-  tagline: 'Miks olagoon'
-  title: 'Seitse põhjust, miks globaalsed kaubamärgid<br />validavad olagoon'
-  subtitle: 'Kõik tootjad pole võrdsed. Siin on see, mis teeb olagoon eelistatud partneriks jaotajatele, kaubamärkidele ja operaatoritele üle kogu maailma.'
+  tagline: Why olagoon
+  title: 'Seven Reasons Why Global Brands<br />Choose olagoon'
+  subtitle: 'Not all manufacturers are created equal. Here is what makes olagoon the preferred partner for distributors, brands, and operators worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: 'olagoon tootmise kvaliteet ja ekspertiis'
+    alt: olagoon manufacturing quality and expertise
 stats:
-  title: 'Usaldus arvudes'
+  title: Trust in Numbers
   stats:
-    - title: 'Aastaid tegutsemist'
-      amount: 'Alates 2012'
-    - title: 'Ehitatud laudu'
-      amount: '15,000+'
-    - title: 'Korduvkliente'
+    - title: Years in Business
+      amount: Since 2012
+    - title: Pools Built
+      amount: 15,000+
+    - title: Repeat Customers
       amount: '85%'
-    - title: 'Garantiinõudeid'
+    - title: Warranty Claims
       amount: '<2%'
 features3_reasons:
-  tagline: 'Miks valida olagoon'
-  title: 'Seitse põhjust meiega partneriks saada'
+  tagline: Why Choose olagoon
+  title: 'Seven Reasons to Partner With Us'
   isBeforeContent: false
   columns: 3
   items:
-    - title: '1. Tegelik tootmine, mitte vahendus'
-      description: 'Me omame ja haldame 12,000 m² tehas. olagooniga partnerdades töötad otse inimestega, kes disainivad, inseneerivad ja ehitavad sinu tooteid — vahendajaid pole.'
+    - title: '1. Real Manufacturing, Not Trading'
+      description: 'We own and operate a 12,000 m² factory. When you partner with olagoon, you work directly with the people who design, engineer, and build your products — no middlemen.'
       icon: tabler:building-factory
-    - title: '2. Inseneerimisjuhitud lähenemine'
-      description: 'Meie disainiprotsess algab kasutusjuhust, mitte tootekategooriast. Optimeerime kere kuju, materjalide valiku ja konfiguratsiooni selle järgi, kuidas lauda tegelikult kasutatakse.'
+    - title: '2. Engineering-Led Approach'
+      description: 'Our design process starts with the use case, not the product category. We optimize wall structure, material selection, and configuration for how the pool will actually be used.'
       icon: tabler:engine
-    - title: '3. Sertifitseeritud kvaliteet'
-      description: 'CE-sertifikaat, ISO kvaliteedisüsteem, BSCI-vastavus, REACH-vastavus, USCG heakskiit. Iga toode vastab rahvusvahelistele standarditele — mitte ainult väidetele.'
+    - title: '3. Certified Quality'
+      description: 'CE certified, ISO quality system, BSCI compliant, REACH compliant, USCG approved. Every product meets international standards — not just claims.'
       icon: tabler:certificate
-    - title: '4. Paindlik kaasmärgitootmine'
-      description: 'Äärte värvid, tekipaigutus, bränding, pakend — me kohandame sinu spetsifikatsioonide järgi. Minimaaltellimuse survet ei ole. Alusta prototüübiga, skaala kindlustundega.'
+    - title: '4. Flexible Co-Branding'
+      description: 'Rail colors, deck layout, branding, packaging — we customize to your specifications. No minimum order pressure. Start with a prototype, scale with confidence.'
       icon: tabler:adjustments
-    - title: '5. Globaalne logistika'
-      description: 'USA ladu Californias, otsesaatmine Qingdaost, õhutransport kiireloomulikele tellimustele. Me haldame tollipaberit ja dokumentatsiooni.'
+    - title: '5. Global Logistics'
+      description: 'US warehouse in California, direct shipping from Qingdao, air freight for urgent orders. We handle customs paperwork and documentation.'
       icon: tabler:truck-delivery
-    - title: '6. Eluaegne tugi'
-      description: 'Me toetame laudu, mille ehitasime 20 aastat tagasi. Originaalvaruosad, tehniline nõu, remondijuhised — meie meeskond on saadaval, kui meid vajad.'
+    - title: '6. Lifetime Support'
+      description: 'We support every pool generation we have built. Genuine spare parts, technical advice, repair guidance — our team is available when you need us.'
       icon: tabler:lifebuoy
-    - title: '7. Ausad spetsifikatsioonid'
-      description: 'Tegelikud koormushinded, tegelikud mõõtmed, tegelik kaal. Turunduse ülepaisutust ei ole. See, mida me avaldame, on see, mida sa saad — verifitseeritud sõltumatu testimisega.'
+    - title: '7. Honest Specifications'
+      description: 'Real load ratings, real dimensions, real weight. No marketing inflation. What we publish is what you get — verified by independent testing.'
       icon: tabler:ruler-measure
 testimonials:
-  tagline: 'Usaldatud kaubamärkide poolt üle kogu maailma'
-  title: 'Mida meie partnerid ütlevad'
+  tagline: Trusted by Brands Worldwide
+  title: What Our Partners Say
   items:
-    - content: 'Oleme töötanud mitme Hiina tootjaga, kuid olagoon eristub oma inseneritoe ja ühtlase kvaliteedi poolest. Nad kohtlevad meie kaubamärki nagu omaenest.'
-      name: '— Kaasmärgipartner, Euroopa vesispordi kaubamärk'
-    - content: 'Nende supilauad on olnud meie laevastikus teenistuses üle 5 aasta. Minimaalne hooldus, suurepärane UV-kindlus. 5-aastane garantii annab meile kindlustunde.'
-      name: '— Laevastikuoperaator, Lähis-Ida kuurordigrupp'
-    - content: 'olagoon meeskond aitas meil arendada kohandatud supilaua disaini kontseptsioonist tootmiseni 90 päevaga. Kvaliteet ületas meie ootusi.'
-      name: '— Jaotaja, Austraalia vesispordiettevõte'
+    - content: 'We have worked with several manufacturers in China, but olagoon stands out for their engineering support and consistent quality. They treat our brand as their own.'
+      name: '— Co-Brand Partner, European Water Sports Brand'
+    - content: 'Their pools have been in service with our fleet for over 5 years. Minimal maintenance, excellent UV resistance. The 5-year warranty gives us confidence.'
+      name: '— Fleet Operator, Middle East Resort Group'
+    - content: 'The olagoon team helped us develop a custom pools design from concept to production in 90 days. The quality exceeded our expectations.'
+      name: '— Distributor, Australian Watersports'
 cta:
-  title: 'Valmis erinevust kogema?'
-  subtitle: 'Võta ühendust meie meeskonnaga oma projekti arutamiseks. Kohustust pole — ainult aus nõuanne tootmise kohta.'
+  title: 'Ready to experience the difference?'
+  subtitle: 'Contact our team to discuss your project. No commitment required — just honest advice about manufacturing.'
   actions:
     - variant: primary
-      text: 'Räägi meie meeskonnaga'
+      text: Talk to our team
       href: /contact/
-    - text: 'Laadi alla tootekataloog'
+    - text: Download product catalog
       href: /resources/download-catalog/

@@ -1,105 +1,105 @@
 meta:
-  title: 'Jenama Bersama Dengan OLagoon — Koleksi SUP Jenama Bersama Terhad | {SITE}'
-  description: 'OLagoon mencipta koleksi SUP boleh tiup jenama bersama terhad bersama kelab, taman peranginan, acara, komuniti dan rakan kongsi negara yang berkelayakan. Produk jenama bersama kekal sebagai produk OLagoon — direka, direkayasa dan disokong oleh jenama OLagoon.'
+  title: 'Co-Brand With OLagoon — Limited Co-Branded pool Collections | {SITE}'
+  description: 'OLagoon creates limited co-branded inflatable pools collections with qualified clubs, resorts, events, communities, and country partners. Co-branded products remain OLagoon products — designed, engineered, and backed by the OLagoon brand.'
   keywords:
-    - 'SUP boleh tiup jenama bersama'
-    - 'koleksi SUP jenama bersama'
-    - 'perkongsian papan dayung'
-    - 'SUP untuk kelab dan taman peranginan'
-    - 'kolaborasi jenama sukan air'
-    - 'penjenamaan bersama OLagoon'
+    - 'co-brand inflatable pools'
+    - 'pool co-branded collection'
+    - 'inflatable pool partnership'
+    - 'pool for clubs and resorts'
+    - 'water sports brand collaboration'
+    - 'OLagoon co-branding'
 hero:
-  tagline: 'Jenama Bersama Dengan OLagoon'
-  title: 'Cipta<br />Koleksi Jenama Bersama'
-  subtitle: 'OLagoon ialah jenama sukan air boleh tiup global yang membina perkongsian negara eksklusif dan koleksi jenama bersama terhad bersama perniagaan sukan air yang berkelayakan. Produk jenama bersama kekal sebagai produk OLagoon — direka, direkayasa, diperiksa kualiti dan disokong oleh jenama OLagoon.'
+  tagline: 'Co-Brand With OLagoon'
+  title: 'Create a<br />Co-Branded Collection'
+  subtitle: 'OLagoon is a global inflatable water-sports brand building exclusive country partnerships and limited co-branded collections with qualified water-sports businesses. Co-branded products remain OLagoon products — designed, engineered, quality-checked, and backed by the OLagoon brand.'
   actions:
-    - text: 'Mulakan Projek Jenama Bersama'
+    - text: 'Start a Co-Brand Project'
       href: /contact/?subject=Co-Brand Project
       variant: primary
-    - text: 'Minta Pakej Jenama Bersama'
+    - text: 'Request the Co-Brand Pack'
       href: /contact/?subject=Co-Brand Pack
       variant: secondary
-    - text: 'Terokai Perkongsian Negara'
+    - text: 'Explore the Country Partnership'
       href: /distributor-program/
       variant: secondary
 stats:
   - value: '1'
-    label: 'Panggilan negara / pasaran bagi setiap pengedar'
+    label: 'Country call / market for each distributor'
   - value: '50+'
-    label: 'Negara dilayani bersama rakan kongsi'
+    label: 'Countries served with partners'
   - value: '12–15'
-    label: 'Kekakuan drop-stitch PSI, piawaian koleksi'
+    label: 'PSI drop-stitch rigidity, collection standard'
   - value: '100%'
-    label: 'Diuji tekanan papan demi papan sebelum dihantar'
+    label: 'Pressure-tested board by board before shipping'
 features:
-  title: 'Maksud Penjenamaan Bersama di OLagoon'
-  subtitle: 'Penjenamaan bersama ialah program perkongsian reka bentuk kami — dibina sekitar jenama OLagoon, perlindungan wilayah dan koleksi terhad, bukan pengeluaran tanpa jenama.'
+  title: 'What Co-Branding Means at OLagoon'
+  subtitle: 'Co-branding is our design-partnership program — built around the OLagoon brand, territory protection, and limited collections, not unbranded production.'
   columns: 3
   items:
-    - title: 'Produk OLagoon Kekal Produk OLagoon'
-      description: 'Koleksi jenama bersama ialah edisi terhad papan OLagoon dengan identiti anda terjalin di dalamnya. Ia tidak pernah tanpa jenama, tidak pernah jenama pihak ketiga dan tidak pernah program label persendirian terbuka.'
+    - title: 'OLagoon Products Stay OLagoon Products'
+      description: 'A co-branded collection is a limited edition of OLagoon boards with your identity woven in. It is never unbranded, never a third-party brand, and never an open private-label program.'
       icon: 'tabler:trademark'
-    - title: 'Direka Bersama Anda'
-      description: 'Warna, penamaan dan kisah anda membentuk koleksi tersebut. Pasukan reka bentuk dan kejuruteraan kami mengendalikan dek, grafik, pembungkusan dan dokumentasi daripada ringkasan hingga penyerahan.'
+    - title: 'Designed With You'
+      description: 'Your colors, naming, and story shape the collection. Our design and engineering team handles decks, graphics, packaging, and documentation from brief to delivery.'
       icon: 'tabler:pencil'
-    - title: 'Untuk Kelab, Taman Peranginan, Acara & Komuniti'
-      description: 'Koleksi armada bagi kelab dayung dan taman peranginan, edisi acara bagi perlumbaan dan siri komuniti — semuanya membawa kualiti dan waranti OLagoon.'
+    - title: 'For Clubs, Resorts, Events & Communities'
+      description: 'Fleet collections for paddle clubs and resorts, event editions for races and community series — all carrying the OLagoon quality and warranty.'
       icon: 'tabler:users'
-    - title: 'Melindungi Rakan Kongsi Negara'
-      description: 'Penjenamaan bersama berjalan seiring model satu-negara-satu-pengedar kami. Rakan kongsi negara mengekalkan wilayah mereka; koleksi jenama bersama tidak membuka pintu kepada jenama selari di pasaran mereka.'
+    - title: 'Protects Country Partners'
+      description: 'Co-branding runs alongside our one-country-one-distributor model. National partners keep their territory; co-brand collections do not open the door to parallel brands in their market.'
       icon: 'tabler:shield-check'
-    - title: 'Piawaian Kejuruteraan & Kualiti'
-      description: 'Setiap koleksi dihantar daripada rantaian bekalan bersijil kami dengan dokumentasi CE dan ISO 9001, ujian tekanan dan titik semakan QC yang sama seperti julat teras kami.'
+    - title: 'Engineering & Quality Standards'
+      description: 'Every collection ships from our certified supply chain with CE and ISO 9001 documentation, pressure-testing, and the same QC checkpoints as our core range.'
       icon: 'tabler:certificate'
-    - title: 'Menjadi Aset Jenama'
-      description: 'Koleksi jenama bersama terhad membina kisah anda sendiri di atas air — margin jualan, kandungan media dan alasan bagi pendayung untuk kembali musim demi musim.'
+    - title: 'Becomes a Brand Asset'
+      description: 'A limited co-branded collection builds your own story on the water — sell-through margin, media content, and a reason for swimmers to come back season after season.'
       icon: 'tabler:star'
 table:
-  title: 'Tahap Koleksi Jenama Bersama'
-  subtitle: 'Terma koleksi jenama bersama biasa. Harga dalam USD, FOB Qingdao. Reka bentuk dek tersuai menambah 15–20 hari bekerja untuk pembangunan; acuan baharu disebut harga mengikut projek.'
-  caption: 'Semua produk jenama bersama kekal sebagai produk OLagoon dan membawa identiti jenama OLagoon. Skop projek, tempoh keeksklusifan dan terma akhir dipersetujui dalam Perjanjian Projek Jenama Bersama.'
+  title: 'Co-Brand Collection Tiers'
+  subtitle: 'Typical co-brand collection terms. Prices in USD, FOB Qingdao. Custom deck designs add 15–20 working days for development; new molds are quoted per project.'
+  caption: 'All co-branded products remain OLagoon products and carry the OLagoon brand identity. Project scope, exclusivity window, and final terms are agreed in the Co-Brand Project Agreement.'
   head:
-    - Tahap Jenama Bersama
-    - Pesanan Minimum (unit)
-    - Masa Tertib
-    - Pembayaran
+    - Co-Brand Tier
+    - Minimum Order (units)
+    - Lead Time
+    - Payment
   rows:
-    - [Koleksi Rintisan, 30–50, 30–45 hari bekerja, 'Deposit 30% / 70% sebelum penghantaran']
-    - [Koleksi Jenama Bersama Standard, 50–100, 30–45 hari bekerja, 'Deposit 30% / 70% sebelum penghantaran']
-    - [Koleksi Besar / Pelbagai Wilayah, 100+, 45–60 hari bekerja, 'Deposit 30% / 70% sebelum penghantaran']
-    - [Acuan Baharu atau Penyetempatan Mendalam, 200+, 60–90 hari bekerja, 'Deposit 30% / 70% sebelum penghantaran']
+    - [Pilot Collection, 30–50, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Standard Co-Branded Collection, 50–100, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Large / Multi-Region Collection, 100+, 10–14 weeks, 30% deposit / 70% before shipment]
+    - [New Mold or Deep Localization, 200+, 12–16 weeks + 15–20 days tooling, 30% deposit / 70% before shipment]
 faqs:
-  title: 'Jenama Bersama — FAQ'
-  subtitle: 'Bagaimana penjenamaan bersama OLagoon berfungsi, dan bagaimana ia berbeza daripada OEM dan label persendirian.'
+  title: 'Co-Brand — FAQ'
+  subtitle: 'How OLagoon co-branding works, and how it differs from OEM and private label.'
   items:
-    - title: 'Adakah penjenamaan bersama sama dengan OEM atau label persendirian?'
-      description: 'Tidak. OLagoon tidak lagi menjalankan program OEM/label persendirian terbuka. Produk jenama bersama kekal sebagai produk OLagoon — direka, direkayasa, diperiksa kualiti dan disokong oleh jenama OLagoon. Identiti anda muncul sebagai jenama bersama, bukan sebagai produk pihak ketiga tanpa jenama.'
-    - title: 'Siapakah yang boleh memulakan projek jenama bersama?'
-      description: 'Perniagaan sukan air yang berkelayakan: rakan kongsi negara sedia ada, kelab dayung, taman peranginan dan hotel, penganjur acara serta komuniti. Hantarkan ringkasan projek kepada kami dan kami akan mengesahkan kesesuaian sebelum kerja reka bentuk bermula.'
-    - title: 'Adakah penjenamaan bersama akan berkonflik dengan pengedar negara saya?'
-      description: 'Tidak. Model satu-negara-satu-pengedar diutamakan. Koleksi jenama bersama diselaraskan dengan rakan kongsi negara tempatan di mana ia wujud, supaya tiada jenama selari atau bersaing muncul dalam wilayah yang dilindungi.'
-    - title: 'Berapakah pesanan minimum bagi koleksi jenama bersama?'
-      description: 'Koleksi rintisan bermula pada 30–50 unit. Koleksi standard ialah 50–100 unit; edisi besar atau pelbagai wilayah ialah 100+ unit. Garis masa pembangunan tersuai dipersetujui mengikut projek.'
-    - title: 'Apakah yang menjadi kualiti OLagoon berbanding sumbangan rakan kongsi?'
-      description: 'OLagoon memiliki reka bentuk produk, kejuruteraan, bahan, binaan, QC dan waranti. Rakan kongsi menyumbang konsep koleksi, penamaan, warna, input grafik dan strategi pasaran. Ini mengekalkan satu piawaian kualiti di atas air.'
-    - title: 'Bagaimanakah cara memohon?'
-      description: 'Lengkapkan borang pertanyaan jenama bersama dengan perniagaan, pasaran dan idea koleksi anda. Kami menyemak kesesuaian, kemudian membalas dalam masa 3 hari bekerja dengan cadangan dan Perjanjian Projek Jenama Bersama.'
+    - title: 'Is co-branding the same as OEM or private label?'
+      description: 'No. OLagoon no longer runs an open OEM/private-label program. Co-branded products remain OLagoon products — designed, engineered, quality-checked, and backed by the OLagoon brand. Your identity appears as a co-brand, not as an unbranded third-party product.'
+    - title: 'Who can start a co-brand project?'
+      description: 'Qualified water-sports businesses: existing country partners, paddle clubs, resorts and hotels, event organizers, and communities. Send us a project brief and we confirm applicability before design work begins.'
+    - title: 'Will co-branding conflict with my country distributor?'
+      description: 'No. The one-country-one-distributor model takes priority. Co-brand collections are coordinated with the local country partner where one exists, so no parallel or competing brand appears inside a protected territory.'
+    - title: 'What is the minimum order for a co-brand collection?'
+      description: 'Pilot collections start at 30–50 units. Standard collections are 50–100 units; large or multi-region editions are 100+ units. Custom development timelines are agreed per project.'
+    - title: 'What amounts to OLagoon quality versus partner input?'
+      description: 'OLagoon owns product design, engineering, materials, construction, QC, and warranty. Partners contribute collection concept, naming, colors, graphics input, and go-to-market. This keeps one quality standard on the water.'
+    - title: 'How do I apply?'
+      description: 'Complete the co-brand inquiry form with your business, market, and collection idea. We review fit, then respond within 3 business days with a proposal and the Co-Brand Project Agreement.'
 cta:
-  title: 'Bina koleksi terhad yang akan dikenang oleh air.'
-  subtitle: 'Mulakan projek jenama bersama dengan OLagoon dan jadikan kelab, taman peranginan atau komuniti anda sebagai jenama di atas air — disokong oleh kejuruteraan dan waranti OLagoon.'
+  title: 'Build a limited collection the water will remember.'
+  subtitle: 'Start a co-brand project with OLagoon and turn your club, resort, or community into a brand on the water — backed by OLagoon engineering and warranty.'
   actions:
-    - text: 'Mulakan Projek Jenama Bersama'
+    - text: 'Start a Co-Brand Project'
       href: /contact/?subject=Co-Brand Project
       variant: primary
-    - text: 'Terokai Perkongsian Negara'
+    - text: 'Explore Country Partnership'
       href: /distributor-program/
       variant: secondary
 geo:
-  tagline: 'Kami Berjenama Bersama Siapa'
-  sentence: 'OLagoon berjenama bersama perniagaan sukan air yang mantap — rakan kongsi negara, kelab dayung, taman peranginan dan hotel, penganjur acara serta komuniti pendayung — yang mahu koleksi terhad tersendiri yang dibina di atas jenama global yang boleh dipercayai.'
+  tagline: 'Who We Co-Brand With'
+  sentence: 'OLagoon co-brands with established water-sports businesses — country partners, paddle clubs, resorts and hotels, event organizers, and swimming communities — that want a distinctive, limited collection built on a reliable global brand.'
   audiences:
-    - 'Pengedar Negara'
-    - 'Kelab Dayung & Sukan Air'
-    - 'Taman Peranginan & Hotel'
-    - 'Penganjur Perlumbaan & Acara'
-    - 'Komuniti Pendayung'
+    - 'Country Distributors'
+    - 'Paddle & Water Sports Clubs'
+    - 'Resorts & Hotels'
+    - 'Race & Event Organizers'
+    - 'swimming Communities'

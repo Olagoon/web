@@ -1,89 +1,89 @@
 meta:
-  title: 'מעבדת התאמה אישית — לוחות חתירה מתנפחים מותאמים אישית | {SITE}'
-  description: 'לוחות חתירה מתנפחים מותאמים אישית: עיצוב בהתאמה אישית, לוגו, תבנית מותאמת אישית וייצור. שותף SUP למותג פרטי, MOQ של 50 יחידות, מוסמך CE.'
+  title: 'Custom Lab — Custom Inflatable Pool | {SITE}'
+  description: 'Custom inflatable pool: bespoke design, logo, custom mold, and production. Private-label pool partner, MOQ 50 units, CE certified.'
   keywords:
-    - 'יצרן לוחות חתירה מותאמים אישית'
-    - 'SUP מתנפח מותאם אישית'
-    - 'לוח חתירה עם לוגו'
-    - 'SUP מתנפח במותג פרטי'
-    - 'ייצור לוחות חתירה'
+    - 'custom inflatable pool manufacturer'
+    - 'custom inflatable pools'
+    - 'inflatable pool with logo'
+    - 'private label inflatable pools'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: 'מעבדת ההתאמה האישית של olagoon'
-  title: 'עצבו לוח SUP<br />משלכם'
-  subtitle: 'שותף SUP מותאם אישית המציע מיתוג משותף, מותג פרטי וייצור לוחות חתירה בהתאמה אישית עבור עסקים ברחבי העולם. מאב טיפוס יחיד ועד סדרות ייצור מלאות.'
-  cta: 'התחילו את הפרויקט שלכם'
+  tagline: olagoon Custom Lab
+  title: Design Your Own<br />pools
+  subtitle: Custom pool partner offering co-brand, private label, and bespoke inflatable pool production for businesses worldwide. From a single prototype to full production runs.
+  cta: Start your project
   footer_link: /contact/
 
 steps_section:
-  tagline: 'איך זה עובד'
-  title: 'מקונספט ועד ייצור'
-  subtitle: 'ארבעה צעדים מהרעיון שלכם ועד מוצר מוגמר ומוכן לים.'
+  tagline: How it works
+  title: From concept to production
+  subtitle: Four steps from your idea to a finished, sea-ready product.
   steps:
     - num: '01'
-      title: 'בחרו את הלוח שלכם'
-      desc: 'בחרו מתוך דגמי ה-SUP המרכזיים שלנו — all-around, טיולים, יוגה, ספורט או ילדים. בחרו גודל, חומר וצבע.'
+      title: Choose Your Pool
+      desc: Select from our core pool models — all-around, touring, yoga, sport, or kids. Pick size, material, and colour.
     - num: '02'
-      title: 'העלו את העיצוב שלכם'
-      desc: 'שלחו לנו את הלוגו, הגרפיקה או הנחיות המותג שלכם. צוות העיצוב שלנו מכין הוכחה דיגיטלית.'
+      title: Upload Your Design
+      desc: Send us your logo, artwork, or brand guidelines. Our design team prepares a digital proof.
     - num: '03'
-      title: 'סקירת דמות AI'
-      desc: 'צפו בדמות פוטוריאליסטית שנוצרה ב-AI של הלוח המותאם אישית שלכם לפני תחילת הייצור.'
+      title: AI Mockup Review
+      desc: View a photorealistic AI-generated mockup of your custom pool before production begins.
     - num: '04'
-      title: 'ייצור ומסירה'
-      desc: 'לאחר האישור, ההזמנה שלכם נכנסת לקו הייצור שלנו. זמני אספקה החל מ-30 יום.'
+      title: Production & Delivery
+      desc: Once approved, your order enters our production line. Lead times from 30 days.
 
 services_section:
-  tagline: 'שירותים'
-  title: 'שירותי ייצור למותגים גלובליים'
-  subtitle: 'מודלים גמישים של התקשרות — מייצור בקבלנות ועד בניית מותג בשירות מלא.'
+  tagline: Services
+  title: Manufacturing services for global brands
+  subtitle: Flexible engagement models — from contract manufacturing to full-service brand building.
   items:
-    - title: 'ייצור במיתוג משותף'
-      desc: 'אנו מייצרים את העיצובים שלכם לפי מפרט — הקניין הרוחני שלכם, השרטוטים שלכם, תקני האיכות שלכם. הגנת NDA מלאה.'
+    - title: Co-Brand Production
+      desc: We produce your designs to spec — your IP, your drawings, your quality standards. Full NDA protection.
       icon: ⚙️
-    - title: 'פתרונות עיצוב'
-      desc: 'בחרו מתוך 50+ פלטפורמות מוכחות והתאימו אישית גודל, צבע, גרפיקה ואריזה.'
+    - title: Design Solutions
+      desc: Choose from 50+ proven platforms and customise size, colour, graphics, and packaging.
       icon: '🎨'
-    - title: 'מותג פרטי'
-      desc: 'המותג שלכם על המוצרים שלנו — לוגו, אריזה, תגיות תלייה, מדריכים. מוכן לקמעונאות ישר מהקופסה.'
+    - title: Private Label
+      desc: Your brand on our products — logo, packaging, hang tags, manuals. Retail-ready out of the box.
       icon: '🎨'
-    - title: 'מיתוג מותאם אישית'
-      desc: 'הדפסה על משטח הסיפון, גרפיקת גוף, מדבקות צינור ותוויות מותאמות אישית — שילוב מותג מלא.'
+    - title: Custom Branding
+      desc: Deck pad printing, hull graphics, tube decals, and custom labels — full brand integration.
       icon: ⚙️
 
 capabilities_section:
-  tagline: 'יכולות'
-  title: 'יכולות ייצור והתאמה אישית'
-  subtitle: 'כל מה שצריך לדעת לפני שמזמינים.'
+  tagline: Capabilities
+  title: Production & customisation capabilities
+  subtitle: Everything you need to know before placing your order.
   capabilities:
-    - label: 'היקף הזמנה'
-      value: 'MOQ 50 יחידות (SUP)'
-    - label: 'זמן אספקה'
-      value: '30–45 יום סטנדרטי; 15–20 יום לאבות טיפוס'
-    - label: 'התאמה אישית'
-      value: 'גודל, צורה, צבע, גרפיקה, אריזה, חומרה'
-    - label: 'חומרים'
-      value: 'PVC, Drop-Stitch, EVA, אלומיניום'
-    - label: 'הדפסה'
-      value: 'דיגיטלית (CMYK), משי, העברת חום, סבלימציה'
-    - label: 'הסמכה'
-      value: 'CE, UKCA, FCC (תמיכה בתאימות גלובלית)'
+    - label: Order volume
+      value: MOQ 50 units (pool)
+    - label: Lead time
+      value: 12–16 weeks standard (50–100 units); 15–20 days for prototypes
+    - label: Customisation
+      value: Size, shape, colour, graphics, packaging, hardware
+    - label: Materials
+      value: PVC, drop-stitch, EVA, aluminium
+    - label: Printing
+      value: Digital (CMYK), screen printing, heat transfer, sublimation
+    - label: Certification
+      value: CE, UKCA, FCC (support for global compliance)
 
 why_section:
-  tagline: 'למה olagoon'
-  title: 'מפעל אחד. סטנדרט אחד. אפס פשרות.'
+  tagline: Why olagoon
+  title: One factory. One standard. Zero compromises.
   points:
-    - text: 'מתקן ייצור משולב בשטח 12,000 מ״ר'
-      highlight: '12,000 מ״ר'
-    - text: '200+ עובדים ומהנדסים מיומנים'
-      highlight: '200+'
-    - text: '15,000+ לוחות SUP מיוצרים מדי שנה'
-      highlight: '15,000+'
-    - text: 'ניהול איכות מוסמך ISO 9001'
-      highlight: 'ISO 9001'
-    - text: 'מוצרים מוסמכים CE לשוק האירופי'
-      highlight: 'CE'
-  cta: 'צפו בפרטי המפעל'
+    - text: 12,000 m² integrated manufacturing facility
+      highlight: 12,000 m²
+    - text: 200+ skilled workers and engineers
+      highlight: 200+
+    - text: 15,000+ pools produced annually
+      highlight: 15,000+
+    - text: ISO 9001-certified quality management
+      highlight: ISO 9001
+    - text: CE certified products for EU market
+      highlight: CE
+  cta: View factory details
   cta_link: /factory/
   contact:
-    title: 'מוכנים לדון בפרויקט שלכם?'
-    desc: 'הצוות שלנו מגיב תוך 24 שעות עם הצעת מחיר ראשונית.'
+    title: Ready to discuss your project?
+    desc: Our team responds within 24 hours with a preliminary quote.

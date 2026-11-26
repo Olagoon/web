@@ -1,24 +1,24 @@
 meta:
-  title: أين تشتري ألواح التجديف القابلة للنفخ OLagoon | OLagoon
-  description: اعرف كيف تشتري لوح تجديف قابل للنفخ من OLagoon — عبر موزع رسمي في دولتك أو مباشرة من فريق OLagoon.
+  title: Where to Buy OLagoon Inflatable Pools | OLagoon
+  description: Find out how to buy an OLagoon inflatable pool — through an official distributor in your country or directly from the OLagoon team. Tell us where you live and we will point you to your nearest dealer.
 hero:
-  tagline: أين تشتري
-  title: احصل على لوح SUP من OLagoon وانطلق على الماء
-  subtitle: تصل ألواح OLagoon إلى مستخدميها في أكثر من 50 دولة. اعثر على أسهل طريقة للحصول على لوحك — عبر موزع رسمي بالقرب منك أو مباشرة من فريق OLagoon.
+  tagline: Where to Buy
+  title: Get Your OLagoon pool on the Water
+  subtitle: OLagoon pools reach families in 50+ countries. Find the simplest way to get yours — through an official distributor near you or directly from the OLagoon team.
 channels:
   items:
-    - title: الموزعون الرسميون حسب الدولة
-      description: تتعامل OLagoon مع موزعين حصريين في العديد من الدول. أخبرنا أين تتجدف وسنربطك بالموزع المحلي والأسعار والتوافر.
-      cta: اعثر على موزعك المحلي
+    - title: Official Country Distributors
+      description: OLagoon works with exclusive distributors in many countries. Tell us where you live and we will connect you with your local dealer, pricing, and availability.
+      cta: Find Your Local Dealer
       href: /contact/?subject=Where to Buy
-    - title: اطلب مباشرة من OLagoon
-      description: لا يوجد موزع في دولتك بعد؟ يمكن لفريق OLagoon ترتيب الطلبات المباشرة والشحن لتستمتع بالماء أينما كنت.
-      cta: استفسر عن التوافر
+    - title: Order Direct from OLagoon
+      description: No distributor in your country yet? The OLagoon team can arrange direct orders and shipping so you can get on the water wherever you live.
+      cta: Request Availability
       href: /contact/?subject=Where to Buy
 form_intro:
-  title: استفسر عن التوافر
-  subtitle: أرسل لنا رسالة تتضمن دولتك واللوح الذي يهمك. سيرد فريقنا خلال يوم عمل واحد مع أقرب موزع أو خيارات الطلب المباشر.
+  title: Ask About Availability
+  subtitle: Send us a message with your country and the pool you are interested in. Our team will reply within one business day with your nearest dealer or direct-order options.
 business_note:
-  text: تشتري لنادٍ أو منتجع أو متجر؟ استكشف برامج الأعمال والشراكة لدينا.
-  cta: لشركاء الأعمال
+  text: Buying for a club, resort, or store? Explore our business and partnership programs.
+  cta: For Business Partners
   href: /solutions/

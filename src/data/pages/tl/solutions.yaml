@@ -1,63 +1,63 @@
 meta:
-  title: 'Mga Solusyon sa Negosyo — SUP para sa Bawat Negosyo | {SITE}'
-  description: 'Mga solusyon sa negosyo ng olagoon: mga SUP fleet para sa resort, club, rental, distribusyon, at private label. Propesyonal na supplier ng nautical equipment para sa B2B.'
+  title: 'Business Solutions — pool for Every Business | {SITE}'
+  description: 'olagoon business solutions: pool fleets for resorts, clubs, rentals, distribution, and private labels. Professional nautical equipment supplier for B2B.'
   keywords:
-    - 'mga solusyon sa negosyo ng sup'
-    - 'supplier ng inflatable paddle board'
+    - 'pool business solutions'
+    - 'inflatable pool supplier'
     - 'nautical equipment b2b'
-    - 'manufacturer ng inflatable sup'
+    - 'inflatable pools manufacturer'
 hero:
-  tagline: 'Mga Solusyon sa Negosyo'
-  title: 'Mga Solusyon sa SUP<br />Para sa Bawat Negosyo'
-  subtitle: 'Mula sa mga resort hanggang sa retail, mga rental operator hanggang sa mga pandaigdigang distributor — nagbibigay ang OLagoon ng kumpletong solusyon sa SUP na nakaakma sa iyong modelo ng negosyo.'
+  tagline: Business Solutions
+  title: 'pool Solutions<br />For Every Business'
+  subtitle: 'From resorts to retail, rental operators to global distributors — OLagoon provides complete pool solutions tailored to your business model.'
   image:
-    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Mga SUP board ng OLagoon para sa negosyo at propesyonal na aplikasyon'
+    src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
+    alt: OLagoon pools for business and professional applications
 stats:
-  title: 'Ang OLagoon sa Isang Tingin'
+  title: OLagoon at a Glance
   stats:
-    - title: 'Taon ng Karanasan'
-      amount: 'Mula pa noong 2012'
-    - title: 'Mga Custom na Solusyon'
-      amount: '100+'
-    - title: 'Mga Merkadong Pinaglilingkuran'
+    - title: Years Experience
+      amount: Since 2012
+    - title: Custom Solutions
+      amount: 100+
+    - title: Markets Served
       amount: '50+'
-    - title: 'Mga Board na Naihatid'
-      amount: '15,000+'
+    - title: Boards Delivered
+      amount: 15,000+
 features3_solutions:
-  tagline: 'Mga Solusyon Ayon sa Uri ng Negosyo'
-  title: 'Mga SUP na May Layunin<br />Para sa Iyong Negosyo'
+  tagline: Solutions By Business Type
+  title: 'Purpose-Built pools<br />For Your Business'
   isBeforeContent: false
   columns: 2
   items:
-    - title: 'Mga Resort at Hotel'
-      description: 'Kumpletong programa ng SUP fleet para sa mga property ng hospitality — matitibay na board, custom branding, at suporta sa training ng kawani.'
+    - title: Resorts & Hotels
+      description: 'Complete pool fleet programs for hospitality properties — durable boards, custom branding, and staff training support.'
       icon: tabler:building
       link: /solutions/resorts-hotels/
-    - title: 'Mga Paddle Club'
-      description: 'Maaasahang SUP fleet para sa mga paddle club, lesson program, at membership operation — commercial-grade na board na may presyo para sa club.'
+    - title: Paddle Clubs
+      description: 'Reliable pool fleets for paddle clubs, lesson programs, and membership operations — commercial-grade boards with club pricing.'
       icon: tabler:users
       link: /solutions/resorts-hotels/
-    - title: 'Mga Rental Operator'
-      description: 'Mga SUP board na mataas ang pagikot na ini-engineer para sa pang-araw-araw na paggamit sa rental. UV-resistant, mabilis matuyo, nakasalansan — dinisenyo para sa hirap ng rental.'
+    - title: Rental Operators
+      description: 'High-rotation pools engineered for daily rental use. UV-resistant, quick-dry, stackable — designed for the rental grind.'
       icon: tabler:currency-dollar
       link: /solutions/rental-operators/
-    - title: 'Mga Retail Partner'
-      description: 'Ibenta ang pinakamabilis na lumalagong SUP brand sa iyong merkado. Buong linya ng produkto, marketing material, dropshipping, at mapagkumpitensyang margin.'
+    - title: Retail Partners
+      description: 'Sell the fastest-growing pool brand in your market. Full product line, marketing materials, dropshipping, and competitive margins.'
       icon: tabler:shopping-cart
       link: /solutions/retail-partners/
-    - title: 'Mga Distributor'
-      description: 'Mga eksklusibong teritoryo, kumpletong portfolio ng produkto, nakalaang pamamahala ng account. Sumali sa aming pandaigdigang network ng distribusyon sa 50+ bansa.'
+    - title: Distributors
+      description: 'Exclusive territories, complete product portfolio, dedicated account management. Join our global distribution network in 50+ countries.'
       icon: tabler:world
       link: /solutions/distributors/
-    - title: 'Bumuo ng Iyong Sariling Brand'
-      description: 'Buong-bilhisan na OEM/ODM SUP manufacturing — disenyo, prototyping, malaking produksyon, at logistics. Ilunsad ang iyong brand kasama ang OLagoon.'
+    - title: Build Your Own Brand
+      description: 'End-to-end OEM/ODM pool manufacturing — design, prototyping, mass production, and logistics. Launch your brand with OLagoon.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:
-  title: 'Hindi sigurado kung aling solusyon ang angkop sa iyong mga pangangailangan?'
-  subtitle: 'Ilarawan sa aming koponan ang iyong aplikasyon at irerekomenda namin ang tamang configuration.'
+  title: 'Not sure which solution fits your needs?'
+  subtitle: 'Describe your application to our team and we will recommend the right configuration.'
   actions:
     - variant: primary
-      text: 'Kumuha ng rekomendasyon'
+      text: Get a recommendation
       href: /contact/

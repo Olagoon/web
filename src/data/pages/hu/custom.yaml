@@ -1,89 +1,89 @@
 meta:
-  title: 'Egyedi labor — Egyedi felfújható paddle boardok | {SITE}'
-  description: 'Egyedi felfújható paddle boardok: egyedi tervezés, logó, egyedi forma és gyártás. Saját márkás SUP partner, MOQ 50 egység, CE tanúsított.'
+  title: 'Custom Lab — Custom Inflatable Pool | {SITE}'
+  description: 'Custom inflatable pool: bespoke design, logo, custom mold, and production. Private-label pool partner, MOQ 50 units, CE certified.'
   keywords:
-    - 'egyedi paddle board gyártó'
-    - 'egyedi felfújható sup'
-    - 'paddle board logóval'
-    - 'saját márkás felfújható sup'
-    - 'paddle board gyártás'
+    - 'custom inflatable pool manufacturer'
+    - 'custom inflatable pools'
+    - 'inflatable pool with logo'
+    - 'private label inflatable pools'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: 'olagoon egyedi labor'
-  title: 'Tervezze meg saját<br />SUP deszkáját'
-  subtitle: 'Egyedi SUP partner, amely co-brand, saját márkás és egyedi paddle board gyártást kínál vállalkozásoknak világszerte. Egyetlen prototípustól a teljes gyártási sorokig.'
-  cta: 'Projekt indítása'
+  tagline: olagoon Custom Lab
+  title: Design Your Own<br />pools
+  subtitle: Custom pool partner offering co-brand, private label, and bespoke inflatable pool production for businesses worldwide. From a single prototype to full production runs.
+  cta: Start your project
   footer_link: /contact/
 
 steps_section:
-  tagline: 'Hogyan működik'
-  title: 'A koncepciótól a gyártásig'
-  subtitle: 'Négy lépés az Ön ötletétől a kész, tengerre alkalmas termékig.'
+  tagline: How it works
+  title: From concept to production
+  subtitle: Four steps from your idea to a finished, sea-ready product.
   steps:
     - num: '01'
-      title: 'Válassza ki a deszkáját'
-      desc: 'Válasszon alap SUP modelljeinkből — all-around, túra, jóga, sport vagy gyerek. Válasszon méretet, anyagot és színt.'
+      title: Choose Your Pool
+      desc: Select from our core pool models — all-around, touring, yoga, sport, or kids. Pick size, material, and colour.
     - num: '02'
-      title: 'Töltse fel a tervezését'
-      desc: 'Küldje el logóját, grafikáját vagy márka útmutatóját. Tervezőcsapatunk digitális előnézetet készít.'
+      title: Upload Your Design
+      desc: Send us your logo, artwork, or brand guidelines. Our design team prepares a digital proof.
     - num: '03'
-      title: 'AI modell átnézése'
-      desc: 'Tekintse meg az egyedi deszkája fotórealisztikus, AI által generált modelljét a gyártás megkezdése előtt.'
+      title: AI Mockup Review
+      desc: View a photorealistic AI-generated mockup of your custom pool before production begins.
     - num: '04'
-      title: 'Gyártás és szállítás'
-      desc: 'Jóváhagyás után a rendelése bekerül a termelési vonalunkra. Átfutási idő 30 naptól.'
+      title: Production & Delivery
+      desc: Once approved, your order enters our production line. Lead times from 30 days.
 
 services_section:
-  tagline: 'Szolgáltatások'
-  title: 'Gyártási szolgáltatások globális márkáknak'
-  subtitle: 'Rugalmas együttműködési modellek — a szerződéses gyártástól a teljes szolgáltatású márkáépítésig.'
+  tagline: Services
+  title: Manufacturing services for global brands
+  subtitle: Flexible engagement models — from contract manufacturing to full-service brand building.
   items:
-    - title: 'Co-brand gyártás'
-      desc: 'Az Ön terveit specifikáció szerint gyártjuk — az Ön szellemi tulajdona, az Ön rajzai, az Ön minőségi szabványai. Teljes NDA-védelem.'
+    - title: Co-Brand Production
+      desc: We produce your designs to spec — your IP, your drawings, your quality standards. Full NDA protection.
       icon: ⚙️
-    - title: 'Tervezési megoldások'
-      desc: 'Válasszon 50+ bevált platform közül, és szabhassa testre a méretet, színt, grafikát és csomagolást.'
+    - title: Design Solutions
+      desc: Choose from 50+ proven platforms and customise size, colour, graphics, and packaging.
       icon: '🎨'
-    - title: 'Saját márka'
-      desc: 'Az Ön márkája a termékeinken — logó, csomagolás, akasztócímkék, kézikönyvek. A dobozból kivéve azonnal értékesíthető.'
+    - title: Private Label
+      desc: Your brand on our products — logo, packaging, hang tags, manuals. Retail-ready out of the box.
       icon: '🎨'
-    - title: 'Egyedi márkázás'
-      desc: 'Fedélzetpárna-nyomtatás, hajótestgrafika, csőmatricák és egyedi címkék — teljes márkaintegráció.'
+    - title: Custom Branding
+      desc: Deck pad printing, hull graphics, tube decals, and custom labels — full brand integration.
       icon: ⚙️
 
 capabilities_section:
-  tagline: 'Képességek'
-  title: 'Gyártási és testreszabási képességek'
-  subtitle: 'Minden, amit tudnia kell a rendelése leadása előtt.'
+  tagline: Capabilities
+  title: Production & customisation capabilities
+  subtitle: Everything you need to know before placing your order.
   capabilities:
-    - label: 'Rendelési mennyiség'
-      value: 'MOQ 50 egység (SUP)'
-    - label: 'Átfutási idő'
-      value: '30–45 nap standard; 15–20 nap prototípusokhoz'
-    - label: 'Testreszabás'
-      value: 'Méret, forma, szín, grafika, csomagolás, hardver'
-    - label: 'Anyagok'
-      value: 'PVC, drop-stitch, EVA, alumínium'
-    - label: 'Nyomtatás'
-      value: 'Digitális (CMYK), szitanyomtatás, hőátvitel, szublimáció'
-    - label: 'Tanúsítás'
-      value: 'CE, UKCA, FCC (támogatás a globális megfeleléshez)'
+    - label: Order volume
+      value: MOQ 50 units (pool)
+    - label: Lead time
+      value: 12–16 weeks standard (50–100 units); 15–20 days for prototypes
+    - label: Customisation
+      value: Size, shape, colour, graphics, packaging, hardware
+    - label: Materials
+      value: PVC, drop-stitch, EVA, aluminium
+    - label: Printing
+      value: Digital (CMYK), screen printing, heat transfer, sublimation
+    - label: Certification
+      value: CE, UKCA, FCC (support for global compliance)
 
 why_section:
-  tagline: 'Miért az olagoon'
-  title: 'Egy gyár. Egy szabvány. Nulla kompromisszum.'
+  tagline: Why olagoon
+  title: One factory. One standard. Zero compromises.
   points:
-    - text: '12 000 m² integrált gyártási létesítmény'
-      highlight: '12 000 m²'
-    - text: '200+ képzett munkás és mérnök'
-      highlight: '200+'
-    - text: '15 000+ évente gyártott SUP deszka'
-      highlight: '15 000+'
-    - text: 'ISO 9001 tanúsítású minőségirányítás'
-      highlight: 'ISO 9001'
-    - text: 'CE tanúsított termékek az EU-s piacra'
-      highlight: 'CE'
-  cta: 'Gyári részletek megtekintése'
+    - text: 12,000 m² integrated manufacturing facility
+      highlight: 12,000 m²
+    - text: 200+ skilled workers and engineers
+      highlight: 200+
+    - text: 15,000+ pools produced annually
+      highlight: 15,000+
+    - text: ISO 9001-certified quality management
+      highlight: ISO 9001
+    - text: CE certified products for EU market
+      highlight: CE
+  cta: View factory details
   cta_link: /factory/
   contact:
-    title: 'Készen áll a projektje megvitatására?'
-    desc: 'Csapatunk 24 órán belül válaszol előzetes árajánlattal.'
+    title: Ready to discuss your project?
+    desc: Our team responds within 24 hours with a preliminary quote.

@@ -1,89 +1,92 @@
 meta:
-  title: Guía del Comprador OEM — Aprovisionamiento de Equipos Acuáticos Inflables desde Asia | {SITE}
-  description: 'Guía completa para el aprovisionamiento de SUP inflables y kayaks de fabricantes asiáticos: lista de verificación de evaluación de fábrica, protocolos de control de calidad, verificación de cumplimiento, negociación de MOQ, términos de envío y errores comunes.'
-back_text: Volver a la investigación
+  title: 'OEM Buyer Guide — Sourcing Inflatable Watercraft from Asia | {SITE}'
+  description: 'Comprehensive guide for sourcing inflatable pools from Asian manufacturers: factory evaluation checklist, QC protocols, compliance verification, MOQ negotiation, shipping terms, and common pitfalls.'
+back_text: 'Back to Research'
+
 hero:
-  tagline: Aprovisionamiento
-  title: 'Guía del Comprador OEM: Aprovisionamiento de Equipos Acuáticos Inflables desde Asia'
-  subtitle: Lectura de 12 min
-content_html: |-
-  <h2>1. Pre-cualificación: qué buscar en una fábrica</h2>
+  tagline: 'Sourcing'
+  title: 'OEM Buyer Guide — Sourcing Inflatable Watercraft from Asia'
+  subtitle: '12 min read'
 
-  <h3>Certificados de cumplimiento</h3>
+content_html: |
+  <h2>1. Pre-Qualification: What to Look for in a Factory</h2>
+
+  <h3>Compliance Certificates</h3>
   <ul>
-    <li><strong>ISO 9001:2015</strong> – Sistema de gestión de calidad</li>
-    <li><strong>Certificación CE</strong> – Verificar el número del organismo notificado</li>
-    <li><strong>BSCI / SMETA / SEDEX</strong> – Auditorías de cumplimiento social</li>
-    <li><strong>REACH / RoHS</strong> – Declaraciones de cumplimiento de materiales</li>
+    <li><strong>ISO 9001:2015</strong> – Quality management system</li>
+    <li><strong>CE certification</strong> – Verify the Notified Body number</li>
+    <li><strong>BSCI / SMETA / SEDEX</strong> – Social compliance audits</li>
+    <li><strong>REACH / RoHS</strong> – Material compliance declarations</li>
   </ul>
 
-  <h3>Capacidades de fabricación</h3>
+  <h3>Manufacturing Capabilities</h3>
   <ul>
-    <li>Tejido del núcleo de drop stitch interno frente a subcontratado</li>
-    <li>Línea de recubrimiento / laminación de PVC</li>
-    <li>Equipos de soldadura RF y soldadura por aire caliente</li>
-    <li>Fabricación de moldes interna (mecanizado CNC)</li>
-    <li>Laboratorio de pruebas (pruebas de presión, envejecimiento UV, pruebas de tracción)</li>
+    <li>Drop-stitch core weaving in-house vs. outsourced</li>
+    <li>PVC coating / lamination line</li>
+    <li>RF welding and hot air welding equipment</li>
+    <li>In-house mold making (CNC machining)</li>
+    <li>Testing lab (pressure testing, UV aging, tensile testing)</li>
   </ul>
 
-  <h3>Verificación de la experiencia</h3>
+  <h3>Experience Verification</h3>
   <ul>
-    <li>Años en la fabricación de equipos acuáticos inflables (mínimo 5 años)</li>
-    <li>Número de ingenieros en plantilla</li>
-    <li>Clientes OEM/ODM existentes (solicitar referencias)</li>
-    <li>Destinos de exportación: ¿ya envían a su mercado objetivo?</li>
+    <li>Years in inflatable watercraft manufacturing (5+ years minimum)</li>
+    <li>Number of engineers on staff</li>
+    <li>Existing OEM/ODM clients (request references)</li>
+    <li>Export destinations – are they already shipping to your target market?</li>
   </ul>
 
-  <h2>2. Protocolos de control de calidad</h2>
-  <p>Control de calidad de materiales entrantes: resistencia a la tracción (ASTM D751 o ISO 1421), resistencia al desgarro (ASTM D2261 o ISO 4674), resistencia de adherencia, comprobaciones puntuales de envejecimiento UV.</p>
-  <p>Control de calidad en proceso: seguimiento de la resistencia de costuras cada 50 unidades, verificación del par de las válvulas, comprobaciones de la densidad de hilos del drop stitch y comprobaciones dimensionales frente a los planos CAD.</p>
-  <p>Inspección final: prueba de retención de inflado al 100% (24 horas, caída máxima del 5%), inspección visual, prueba de funcionamiento de válvulas y ensayo por muestreo aleatorio (AQL 2.5 o 4.0 según ISO 2859).</p>
+  <h2>2. Quality Control Protocols</h2>
+  <p>Material incoming QC: tensile strength (ASTM D751 or ISO 1421), tear resistance (ASTM D2261 or ISO 4674), adhesion strength, UV aging spot checks.</p>
+  <p>In-process QC: seam strength monitoring every 50 units, valve torque verification, drop-stitch thread density checks, dimensional checks against CAD drawings.</p>
+  <p>Final inspection: 100% inflation hold test (24 hours, max 5% drop), visual inspection, valve function test, random sample testing (AQL 2.5 or 4.0 per ISO 2859).</p>
 
-  <h2>3. Lista de verificación de documentación de cumplimiento</h2>
+  <h2>3. Compliance Documentation Checklist</h2>
   <ul>
-    <li>Declaración de conformidad (DoC) que haga referencia a la directiva de la UE correcta</li>
-    <li>Certificado CE del organismo notificado</li>
-    <li>Informe de ensayo de un laboratorio acreditado</li>
-    <li>Fichas de datos de seguridad de materiales (MSDS)</li>
-    <li>Declaración de cumplimiento REACH</li>
-    <li>Lista de materiales con trazabilidad del proveedor</li>
-    <li>Informe de inspección de fábrica</li>
+    <li>Declaration of Conformity (DoC) referencing correct EU directive</li>
+    <li>CE certificate from notified body</li>
+    <li>Test report from accredited lab</li>
+    <li>Material safety data sheets (MSDS)</li>
+    <li>REACH compliance declaration</li>
+    <li>Bill of Materials with supplier traceability</li>
+    <li>Factory inspection report</li>
   </ul>
 
-  <h2>4. Negociación del MOQ</h2>
+  <h2>4. MOQ Negotiation</h2>
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-gray-100">
-        <th class="p-3 text-left font-semibold text-gray-900 border">Tipo de producto</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">MOQ estándar</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Rango negociable</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Product Type</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Standard MOQ</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Negotiable Range</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="p-3 border">Tablas de SUP</td><td class="p-3 border">50 – 100 unidades</td><td class="p-3 border">5 – 10 unidades (prueba)</td></tr>
-      <tr><td class="p-3 border">Kayaks</td><td class="p-3 border">50 – 100 unidades</td><td class="p-3 border">5 – 10 unidades (prueba)</td></tr>
-      <tr><td class="p-3 border">SUP inflables</td><td class="p-3 border">50 – 100 unidades</td><td class="p-3 border">2 – 5 unidades (prueba)</td></tr>
-      <tr><td class="p-3 border">Seguridad / Accesorios</td><td class="p-3 border">200 – 500 unidades</td><td class="p-3 border">50 – 100 unidades (prueba)</td></tr>
+      <tr><td class="p-3 border">pools</td><td class="p-3 border">50 – 100 units</td><td class="p-3 border">5 – 10 units (trial)</td></tr>
+      <tr><td class="p-3 border">Pool accessories</td><td class="p-3 border">200 – 500 units</td><td class="p-3 border">20 – 50 units (trial)</td></tr>
+      <tr><td class="p-3 border">inflatable pools</td><td class="p-3 border">50 – 100 units</td><td class="p-3 border">2 – 5 units (trial)</td></tr>
+      <tr><td class="p-3 border">Safety / Accessories</td><td class="p-3 border">200 – 500 units</td><td class="p-3 border">50 – 100 units (trial)</td></tr>
     </tbody>
   </table>
 
-  <h2>5. Logística y envíos</h2>
-  <p>Incoterms comunes: <strong>FOB</strong> (la fábrica entrega en el puerto de salida – el más común), <strong>EXW</strong> (el comprador gestiona todo el envío desde la puerta de la fábrica), <strong>CIF</strong> (la fábrica paga el flete y el seguro hasta el puerto de destino).</p>
-  <p>Los productos hinchables son de bajo peso y gran volumen; el peso volumétrico (DIM) suele determinar el coste del envío. Solicite un embalaje al vacío para reducir el volumen entre un 50 y un 60%. Flete marítimo desde China a la UE: 25–35 días; a la costa oeste de EE. UU.: 15–20 días.</p>
+  <h2>5. Logistics and Shipping</h2>
+  <p>Common Incoterms: <strong>FOB</strong> (Factory delivers to departure port – most common), <strong>EXW</strong> (Buyer arranges all shipping from factory door), <strong>CIF</strong> (Factory pays freight and insurance to destination port).</p>
+  <p>Inflatable products are low-weight, high-volume – volumetric weight (DIM) often determines shipping cost. Request vacuum-packed packaging to reduce volume by 50–60%. Sea freight from China to EU: 25–35 days; to US West Coast: 15–20 days.</p>
 
-  <h2>6. Errores comunes</h2>
+  <h2>6. Common Pitfalls</h2>
   <ul>
-    <li><strong>Sin auditoría de fábrica:</strong> Realice o contrate siempre una auditoría de terceros (QIMA, SGS, Bureau Veritas)</li>
-    <li><strong>Solo especificaciones verbales:</strong> Hoja de especificaciones técnicas detallada firmada por ambas partes</li>
-    <li><strong>Omitir la aprobación de muestras:</strong> Aprobación por escrito de las muestras antes de la producción en serie</li>
-    <li><strong>Sin control de calidad durante la producción:</strong> Inspección de terceros durante la producción (DUPRO) y antes del envío (PSI)</li>
-    <li><strong>Ignorar el cumplimiento:</strong> Verificar la certificación CE/UKCA antes de la producción</li>
+    <li><strong>No factory audit:</strong> Always perform or commission a third-party audit (QIMA, SGS, Bureau Veritas)</li>
+    <li><strong>Verbal specs only:</strong> Detailed technical specification sheet signed by both parties</li>
+    <li><strong>Skipping sample approval:</strong> Written sign-off on samples before bulk production</li>
+    <li><strong>No QC during production:</strong> Third-party inspection during production (DUPRO) and before shipment (PSI)</li>
+    <li><strong>Ignoring compliance:</strong> Verify CE/UKCA certification before production</li>
   </ul>
 
-  <h2>7. Por qué OLagoon</h2>
-  <p>OLagoon fabrica equipos acuáticos inflables OEM/ODM desde 2012. Con unas instalaciones certificadas ISO 9001 de 12,000 m&sup2;, más de 25 ingenieros y certificación CE en todas las líneas de producto, cumplimos todos los criterios de esta guía. Ofrecemos MOQ de prueba para nuevos socios y paquetes completos de documentación de cumplimiento.</p>
+  <h2>7. Why OLagoon</h2>
+  <p>OLagoon has been manufacturing OEM/ODM inflatable pools since 2012. With a 12,000 m&sup2; ISO 9001 certified facility, 25+ engineers, and CE certification across all product lines, we meet every criterion in this guide. We offer trial MOQs for new partners and full compliance documentation packages.</p>
+
 cta:
-  title: ¿Listo para empezar a abastecer?
-  subtitle: Contacte a nuestro equipo de OEM para discutir los requisitos de su proyecto.
-  button_text: Solicitar presupuesto
+  title: 'Ready to start sourcing?'
+  subtitle: 'Contact our OEM team to discuss your project requirements.'
+  button_text: 'Request a quote'
   button_link: /contact/

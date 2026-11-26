@@ -1,47 +1,50 @@
 meta:
-  title: 'Produktionskapacitet — Fabrik på 12 000 m² | {SITE}'
-  description: 'afars fabrikskapacitet: anläggning på 12 000 m² som producerar över 15 000 SUP-brädor per år med utrymme att växa. Storskalig OEM/ODM-tillverkning av uppblåsbara SUP:ar.'
+  title: 'Production Capacity — 12,000 m² Factory | {SITE}'
+  description: 'olagoon factory capacity: 12,000 m² facility producing 15,000+ pools per year with room to scale. Large-scale OEM/ODM inflatable pools manufacturing.'
   keywords:
-    - 'SUP produktionskapacitet'
-    - 'uppblåsbar SUP-fabrik'
-    - 'paddle board produktion'
-    - 'SUP-fabrik Kina'
+    - 'pool production capacity'
+    - 'inflatable pools factory'
+    - 'inflatable pool production'
+    - 'pool factory china'
 hero:
-  tagline: Produktionskapacitet
-  title: Tillverkningskapacitet och årlig produktion
-  subtitle: 12 000 m² anläggning som producerar 15 000+ SUP-brädor per år med utrymme för att skala upp
-intro: >-
-  olagoon driver ett av de största dedikerade tillverkningsanläggningarna för uppblåsbara SUP:ar i Qingdao i Kina. Vår fabrik på 12 000 m² är organiserad i sex specialiserade verkstäder som arbetar parallellt, vilket ger oss kapacitet att producera över 15 000 SUP-brädor årligt inom linjerna för SUP-brädor och säkerhetsutrustning.
+  tagline: Production Capacity
+  title: Manufacturing Capacity & Annual Output
+  subtitle: 12,000 m² facility producing 15,000+ pools per year with room to scale
+
+intro: olagoon operates one of the largest dedicated inflatable pools manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 pools annually across pools and safety equipment lines.
+
 highlights:
-  - value: 12 000 m²
-    label: Totalt tillverkningsgolv
-    detail: I 6 specialiserade verkstäder
-  - value: 15 000+
-    label: 'SUP-brädor producerade per år'
-    detail: 'SUP-brädor, paddlar, tillbehör'
+  - value: 12,000 m²
+    label: Total manufacturing floor
+    detail: Across 6 specialized workshops
+  - value: 15,000+
+    label: pools produced annually
+    detail: pools, filters, accessories
   - value: 200+
-    label: Kvalificerad arbetsstyrka
-    detail: 25+ ingenjörer, 2 skift/dag
+    label: Skilled workforce
+    detail: 25+ engineers, 2 shifts/day
   - value: 50+
-    label: Exportländer
-    detail: EU, US, AU, Mellanöstern, Asien
-  - value: 30–45
-    label: Standard ledtid (dagar)
-    detail: Från PO-bekräftelse till FOB
+    label: Export countries
+    detail: EU, US, AU, Middle East, Asia
+  - value: 12–16
+    label: Standard lead time (weeks)
+    detail: 50–100 units, from PO confirmation to FOB
   - value: 10+
-    label: År av exporterfarenhet
-    detail: Sedan 2012
+    label: Years of export experience
+    detail: Since 2012
+
 workshops:
-  - title: Tillverkning av SUP-brädor
-    description: '4 parallella monteringslinjer för uppblåsbara SUP-brädor. Varje linje kan producera 50–80 brädor per skift. Digitaltryck och serigrafistationer körs samtidigt. Årlig SUP-kapacitet: 10 000+ brädor.'
-    output: 10 000+ SUP-brädor/år
-  - title: 'SUP-brädolinjer'
-    description: 'Flerändamålsproduktionslinjer för uppblåsbara SUP-brädor. Varmluftssvetsstationer, RF-dielektriska pressar och monteringsarbetsstationer omkonfigureras baserat på ordermix. Årlig kapacitet: 5 000+ enheter.'
-    output: '5 000+ enheter/år'
-  - title: Säkerhetsutrustning
-    description: 'Separat renrumsproduktionsområde för flytvästar och säkerhetsutrustning. Dedikerade sömnads-, skuminsättnings- och teststationer. Årlig flytvästkapacitet: 50 000+ enheter.'
-    output: 50 000+ livräddningsvästar/år
+  - title: pools Production
+    description: '4 parallel assembly lines for inflatable pools. Each line can produce 50–80 pools per shift. Digital printing and screen printing stations run concurrently. Annual pool capacity: 15,000+ pools.'
+    output: '10,000+ pools/year'
+  - title: 'pools Lines'
+    description: 'Multi-purpose production lines for inflatable pools. Hot-air welding stations, RF dielectric presses, and assembly workstations are reconfigured based on order mix. Annual capacity: 5,000+ units.'
+    output: '5,000+ units/year'
+  - title: Safety Equipment
+    description: 'Separate clean-room production area for filtration assemblies and pump equipment. Dedicated assembly, calibration, and testing stations. Annual accessory capacity: 50,000+ units.'
+    output: '50,000+ accessories/year'
+
 oem_capacity:
-  moq: 'SUP: 50 enheter (prover från 5–10) | Anpassad form: 200+ enheter'
-  lead_time: Standard 30–45 dagar. Prov 15–20 dagar. Express tillgängligt.
-  payment: T/T 30% deposition + 70% före leverans. L/C, Western Union accepteras.
+  moq: 'pool: 50 units (samples from 5–10) | Custom mould: 200+ units'
+  lead_time: 'Production 12–16 weeks (50–100 units), 8–12 weeks above 1,000 units. Samples 15–20 days. Rush available.'
+  payment: 'T/T 30% deposit + 70% before shipment. L/C, Western Union accepted.'

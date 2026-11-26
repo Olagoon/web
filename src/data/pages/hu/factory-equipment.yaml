@@ -1,87 +1,87 @@
 meta:
-  title: 'Gyári berendezések — Vágás, RF hegesztés és nyomtatás | {SITE}'
-  description: 'Ipari minőségű afarar gyártóberendezések: PVC vágás, RF hegesztés, digitális nyomtatás, szerelés és tesztelés felfújható SUP-okhoz.'
+  title: 'Factory Equipment — Cutting, RF Welding & Printing | {SITE}'
+  description: 'Industrial-grade olagoon manufacturing equipment: PVC cutting, RF welding, digital printing, assembly, and testing for inflatable pools.'
   keywords:
-    - 'sup gyártóberendezések'
-    - 'felfújható sup gyár'
-    - 'rf hegesztés pvc'
-    - 'paddle lap gyártás'
+    - 'pool manufacturing equipment'
+    - 'inflatable pools factory'
+    - 'rf welding pvc'
+    - 'inflatable pool production'
 hero:
-  tagline: 'Berendezések'
-  title: 'Gyártóberendezések és gépek'
-  subtitle: 'Ipari minőségű berendezések a vágás, hegesztés, nyomtatás és szerelés területén'
-  back_label: 'Vissza a gyárhoz'
+  tagline: Equipment
+  title: Manufacturing Equipment & Machinery
+  subtitle: Industrial-grade equipment across cutting, welding, printing, and assembly
+  back_label: Back to Factory
   back_link: /factory/
 
 categories:
-  - title: 'Vágás és anyag-előkészítés'
+  - title: Cutting & Material Preparation
     items:
-      - name: 'Automatikus PVC vágógép'
-        spec: 'CNC-vezérelt, 6,5 m × 2,5 m, 0,1 mm pontosság'
-        desc: 'Számítógép-vezérelt automatikus vágógép PVC és drop-stitch szövetekhez. A beágyazó szoftver optimalizálja az anyagkihasználtságot 5% alatti hulladékra.'
-      - name: 'Szövetterítő'
-        spec: '3 m max szélesség, feszesség-szabályozott adagolás'
-        desc: 'Szövetet fektet egy vagy több rétegben szabályozott feszességgel a torzulás megelőzésére vágás előtt.'
+      - name: Automatic PVC Cutting Machine
+        spec: CNC-controlled, 6.5 m × 2.5 m, 0.1 mm accuracy
+        desc: Computer-controlled automatic cutting machine for PVC and drop-stitch fabrics. Nesting software optimises material utilisation to below 5% waste.
+      - name: Fabric Spreader
+        spec: 3 m max width, tension-controlled feed
+        desc: Lays fabric in single or multiple plies with controlled tension to prevent distortion before cutting.
 
-  - title: 'Csőhegesztés és kötés'
+  - title: Tube Welding & Bonding
     items:
-      - name: 'Hőzárógép'
-        spec: 'Forró levegős hegesztés, változtatható 200–600 °C, 0,5–5 m/perc'
-        desc: 'Forró levegős hőzárógép PVC és oldalpálya varratok kötéséhez és hegesztéséhez. Rögzítéshez, tömítéshez és csőkamrák valamint úszóelem illesztések összeolvasztásához használjuk.'
-      - name: 'Dielektromos RF présgép'
-        spec: '15 kW, priten 2000 × 600 mm'
-        desc: 'Rádiófrekvenciás hegesztő présgép fő hosszanti varratokhoz, oldalpálya sávokhoz és nagy kamra gyártáshoz.'
-      - name: 'CNC-vezérelt RF hegesztő'
-        spec: '8 kW, XY asztal 2500 × 1200 mm'
-        desc: 'Programozható ívelt varrat hegesztés komplex geometriákhoz, logó domborításhoz és precíziós foltozáshoz.'
+      - name: Heat Sealing Machine
+        spec: Hot-air welding, variable 200–600 °C, 0.5–5 m/min
+        desc: Hot-air heat sealing machine for bonding and welding PVC and rail seams. Used for tacking, sealing, and fusing tube chambers and float joints.
+      - name: Dielectric RF Press
+        spec: 15 kW, platen 2000 × 600 mm
+        desc: Radio-frequency welding press for main longitudinal seams, rail bands, and large-chamber fabrication.
+      - name: CNC-Controlled RF Welder
+        spec: 8 kW, XY table 2500 × 1200 mm
+        desc: Programmable curved-seam welding for complex geometries, logo embossing, and precision patchwork.
 
-  - title: 'SUP lap gyártás'
+  - title: pools Manufacturing
     items:
-      - name: 'Drop-stitch mag lamináló présgép'
-        spec: 'Nagy formátumú présgép 14 láb LOA-ig lapmagokhoz'
-        desc: 'A drop-stitch magok precíziós laminálása külső PVC laminátumokhoz. Minden réteg nyomás alatt kötődik a következetes minőség és szilárdság érdekében.'
-      - name: 'CNC marógép (5 tengelyes)'
-        spec: '3 m × 2 m × 1 m munkatér, vízhűtéses orsó'
-        desc: 'Usonydobozok, fogantyú kivágások és egyedi lap alkatrészek megmunkálása.'
+      - name: Drop-Stitch Core Lamination Press
+        spec: Large-format press for drop-stitch cores up to 5 m length
+        desc: Precision lamination of drop-stitch cores to outer PVC laminates. Each layer is pressure-bonded for consistent quality and strength.
+      - name: CNC Router (5-axis)
+        spec: 3 m × 2 m × 1 m envelope, water-cooled spindle
+        desc: Machining of valve ports, handle cutouts, and custom pool components.
 
-  - title: 'SUP nyomtatás és díszítés'
+  - title: pool Printing & Decoration
     items:
-      - name: 'Digitális nyomtató'
-        spec: 'Nagy felbontású tintasugaras, 2 m nyomtatási szélességig'
-        desc: 'Közvetlen szövetre történő digitális nyomtatás teljes színű SUP fedélzeti grafikákhoz. Egyedi mintákat, áttűnéseket és fotóminőségű képeket nyomtat UV-álló vízalapú tintákkal.'
-      - name: 'Szitanyomó gép'
-        spec: 'Kézi és félautomata, több színű igazítás'
-        desc: 'Szitanyomás SUP lap logókhoz, márkajelekhez és ismétlődő mintákhoz. Tartós, fedő nyomatokat biztosít élénk színtelítettséggel.'
+      - name: Digital Printer
+        spec: High-resolution inkjet, up to 2 m print width
+        desc: Direct-to-fabric digital printing for full-colour pool deck graphics. Prints custom patterns, gradients, and photo-quality images with UV-resistant water-based inks.
+      - name: Screen Printing Machine
+        spec: Manual and semi-automatic, multi-colour registration
+        desc: Screen printing for pools logos, brand marks, and repeating patterns. Provides durable, opaque prints with vibrant colour saturation.
 
-  - title: 'Szerelés és felszerelés'
+  - title: Assembly & Rigging
     items:
-      - name: 'Lap szerelőállomás'
-        spec: 'Moduláris állítható, többállomásos elrendezés'
-        desc: 'Usonydobozok, fogantyúk, D-gyűrűk, szelepek és fedélzeti burkolatok szerelése SUP lapokra.'
-      - name: 'Szelepbeszerelő présgép'
-        spec: 'Pneumatikus, állítható nyomás'
-        desc: 'Halkey-Roberts és Leafield szelepek precíziós beszerelése és tömítése.'
-      - name: 'Fedélzeti burkolat lamináló'
-        spec: '3 m × 1,5 m, hőmérséklet-szabályozott'
-        desc: 'EVA hab fedélzeti burkolatok hőlaminálása SUP lap tetejére következetes kötésszilárdsággal.'
+      - name: Pool Assembly Station
+        spec: Modular adjustable, multi-station layout
+        desc: Assembly of fin boxes, handles, D-rings, valves, and deck pads onto pools.
+      - name: Valve Installation Press
+        spec: Pneumatic, adjustable pressure
+        desc: Precision installation and sealing of Halkey-Roberts and Leafield valves.
+      - name: Deck Pad Laminator
+        spec: 3 m × 1.5 m, temperature-controlled
+        desc: Heat lamination of EVA foam deck pads to pools tops with consistent bond strength.
 
-  - title: 'Tesztelés és minőség-ellenőrzés'
+  - title: Testing & Quality Control
     items:
-      - name: 'Univerzális húzótesztelő'
-        spec: '50 kN, ASTM D751'
-        desc: 'Szakítóerő, szakadási nyúlás és szakadás terjedés tesztelése szövet tételekhez.'
-      - name: 'Levegőretenció tesztállvány'
-        spec: 'Programozható, 30 perces nyomástartás'
-        desc: 'Automatizált nyomástartási teszt minden csőkamrához szerelés előtt.'
-      - name: 'Varmathámlasztó tesztelő'
-        spec: 'Motoros 180° hámlás 100 mm/perc sebességgel'
-        desc: 'Hegesztett és ragasztott varmat hámlási szilárdság tesztelése EN ISO 25649 szerint.'
-      - name: 'Xenon ív állapotvizsgáló kamra'
-        spec: '2000 órás expozíció'
-        desc: 'UV-állóság tesztelés színváltozásra és szilárdságmegőrzésre.'
+      - name: Universal Tensile Tester
+        spec: 50 kN, ASTM D751
+        desc: Breaking force, elongation at break, and tear propagation testing for fabric batches.
+      - name: Air Retention Test Rig
+        spec: Programmable, 30-min pressure-hold
+        desc: Automated pressure-hold test for every tube chamber before assembly.
+      - name: Seam Peel Tester
+        spec: Motorised 180° peel at 100 mm/min
+        desc: Weld and glued-seam peel strength testing per EN ISO 25649.
+      - name: Xenon-Arc Weathering Chamber
+        spec: 2000 h exposure
+        desc: UV resistance testing for colour change and strength retention.
 
 cta:
-  title: 'Érdekli a gyárlátogatás?'
-  desc: 'Szívesen látjuk a látogatókat csingtaói létesítményünkben. Tekintse meg berendezéseinket és folyamatainkat személyesen.'
-  label: 'Látogatás egyeztetése →'
+  title: Interested in a factory tour?
+  desc: We welcome visitors to our Qingdao facility. See our equipment and processes in person.
+  label: Schedule a visit →
   link: /contact/

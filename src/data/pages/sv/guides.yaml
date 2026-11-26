@@ -1,25 +1,26 @@
 meta:
-  title: 'SUP-guider — köpa, välja, träna | {SITE}'
-  description: 'afars SUP-guider: hur du köper, väljer och tränar paddle boarding. Storlekar, material och experttips för nybörjare och proffs.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'SUP köpguide'
-    - 'hur väljer man SUP'
-    - 'SUP storleksguide'
-    - 'uppblåsbart paddle board tips'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: Guider
-  title: Ny med SUP?
-  subtitle: Praktiska guider som hjälper dig att välja, använda och njuta av uppblåsbara SUP-brädor.
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
+
 size_guide:
-  tagline: Storlek och specifikationer
-  title: Hitta rätt storlek för dina behov
-  desc: Jämför SUP-brädans mått, viktkapacitet och rekommenderade användningsområden. Oavsett om du behöver en touring-SUP, en yogabräda eller en allround-SUP — vår storleksguide hjälper dig att välja rätt.
-  link_label: Fullständig storleksguide med produktspecifikationer →
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: SUP-bräder
-      desc: Välj längd baserat på din vikt och avsedda användning. Bredare brädor (32"+) ger mer stabilitet. Längre brädor (11–12 ft) följer bättre spår vid touring.
-    - title: Touring SUP:ar
-      desc: Längre brädor (11–12 ft) för att täcka sträckor och hålla en rak kurs. Tillräckligt stabila för turutrustning. Kontrollera alltid viktkapaciteten.
-    - title: Allround-SUPs
-      desc: Välj längd efter ryttarens vikt och användning. Bredare brädor (32"+) för stabilitet. Mångsidig för rekreation och träning.
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

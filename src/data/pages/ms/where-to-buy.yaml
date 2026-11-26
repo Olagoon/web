@@ -1,24 +1,24 @@
 meta:
-  title: Di Mana Membeli Papan Dayung Tiup OLagoon | OLagoon
-  description: Ketahui cara membeli papan dayung tiup OLagoon — melalui pengedar rasmi di negara anda atau terus daripada pasukan OLagoon.
+  title: Where to Buy OLagoon Inflatable Pools | OLagoon
+  description: Find out how to buy an OLagoon inflatable pool — through an official distributor in your country or directly from the OLagoon team. Tell us where you live and we will point you to your nearest dealer.
 hero:
-  tagline: Di Mana Membeli
-  title: Bawa SUP OLagoon Anda ke Air
-  subtitle: Papan OLagoon sampai kepada pelayar di lebih 50 negara. Cari cara termudah untuk mendapatkan milik anda — melalui pengedar rasmi berhampiran anda atau terus daripada pasukan OLagoon.
+  tagline: Where to Buy
+  title: Get Your OLagoon pool on the Water
+  subtitle: OLagoon pools reach families in 50+ countries. Find the simplest way to get yours — through an official distributor near you or directly from the OLagoon team.
 channels:
   items:
-    - title: Pengedar Rasmi mengikut Negara
-      description: OLagoon bekerjasama dengan pengedar eksklusif di banyak negara. Beritahu kami di mana anda berkayak dan kami akan menghubungkan anda dengan peniaga tempatan, harga dan ketersediaan.
-      cta: Cari Peniaga Tempatan Anda
+    - title: Official Country Distributors
+      description: OLagoon works with exclusive distributors in many countries. Tell us where you live and we will connect you with your local dealer, pricing, and availability.
+      cta: Find Your Local Dealer
       href: /contact/?subject=Where to Buy
-    - title: Pesan Terus daripada OLagoon
-      description: Belum ada pengedar di negara anda? Pasukan OLagoon boleh menguruskan pesanan terus dan penghantaran supaya anda boleh ke air di mana-mana anda tinggal.
-      cta: Tanya Ketersediaan
+    - title: Order Direct from OLagoon
+      description: No distributor in your country yet? The OLagoon team can arrange direct orders and shipping so you can get on the water wherever you live.
+      cta: Request Availability
       href: /contact/?subject=Where to Buy
 form_intro:
-  title: Tanya Ketersediaan
-  subtitle: Hantarkan kami mesej dengan negara anda dan papan yang anda minati. Pasukan kami akan membalas dalam satu hari bekerja dengan peniaga terdekat atau pilihan pesanan terus.
+  title: Ask About Availability
+  subtitle: Send us a message with your country and the pool you are interested in. Our team will reply within one business day with your nearest dealer or direct-order options.
 business_note:
-  text: Membeli untuk kelab, resort atau kedai? Terokai program perniagaan dan perkongsian kami.
-  cta: Untuk Rakan Perniagaan
+  text: Buying for a club, resort, or store? Explore our business and partnership programs.
+  cta: For Business Partners
   href: /solutions/

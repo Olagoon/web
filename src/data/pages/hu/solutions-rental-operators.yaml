@@ -1,71 +1,71 @@
 meta:
-  title: 'SUP kölcsönzési felszerelés-beszállító és flottamegoldások | {SITE}'
-  description: 'SUP kölcsönzési felszerelés-beszállító kölcsönző üzemeltetőknek. Nagy forgalmú kereskedelmi SUP deszkák napi használatra tervezve — UV-álló PVC, megerősített varratok, gyorsan szárító anyagok. Növelje kölcsönzési vállalkozását az OLagoonrel.'
+  title: 'pool Rental Equipment Supplier & Fleet Solutions | {SITE}'
+  description: 'pool rental equipment supplier for rental operators. High-rotation commercial pools engineered for daily use — UV-resistant PVC, reinforced seams, quick-dry materials. Scale your rental business with OLagoon.'
 
 hero:
-  tagline: 'Kölcsönző üzemeltetők'
-  title: 'Növelje kölcsönzési vállalkozását<br />bizalommal'
-  subtitle: 'SUP kölcsönzési felszerelés-beszállító kölcsönző üzemeltetőknek. Nagy forgalmú SUP deszkák, amelyeket napi kölcsönzési használatra terveztek, év 365 napján. Az Ön bevétele sosem tart pihenőnapot.'
+  tagline: Rental Operators
+  title: 'Scale Your Rental Business<br />With Confidence'
+  subtitle: 'pool rental equipment supplier for rental operators. High-rotation pools engineered for daily rental use, 365 days a year. Your revenue never takes a day off.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: 'Forgalmas kölcsönző pavilon vendégre váró SUP deszkákkal'
+    alt: Busy rental kiosk with pools ready for guests
 
 features:
-  title: 'A kölcsönzési megterhelésre építve'
-  subtitle: 'Minden deszkát 500+ kölcsönzési ciklusra terveztek minimális karbantartással.'
+  title: Built for the Rental Grind
+  subtitle: 'Every board is engineered for 500+ rental cycles with minimal maintenance.'
   items:
-    - title: '500+ kölcsönzési ciklus'
-      description: 'A napi használat túlélésére tesztelve sós vízben, napon és homokban.'
+    - title: '500+ Rental Cycles'
+      description: 'Tested to survive daily use in saltwater, sun, and sand.'
       icon: 'tabler:shield-check'
-    - title: 'UV-álló szövet'
-      description: 'Nincs kifakulás vagy romlás 1 év szabadban töltött tárolás után sem.'
+    - title: 'UV-Resistant Fabric'
+      description: 'No fading or degradation after 1 year of outdoor storage.'
       icon: 'tabler:sun'
-    - title: 'Megerősített varratok'
-      description: '3-szor erősebbek a standard felfújható deszka szerkezetnél.'
+    - title: 'Reinforced Seams'
+      description: '3x stronger than standard inflatable board construction.'
       icon: 'tabler:layers-intersect'
-    - title: 'Gyorsan szárító anyagok'
-      description: 'A deszkák 30 percen belül készen állnak a következő kölcsönzésre.'
+    - title: 'Quick-Dry Materials'
+      description: 'Boards ready for next rental in under 30 minutes.'
       icon: 'tabler:droplet'
-    - title: 'Rakodható tárolás'
-      description: 'Helytakarékos kialakítás — 40%-kal több deszka tárolható ugyanazon a területen.'
+    - title: 'Stackable Storage'
+      description: 'Space-saving design — store 40% more boards in the same area.'
       icon: 'tabler:stack'
-    - title: 'Színkódolt méretek'
-      description: 'A személyzet azonnal a megfelelő deszkát ragadja meg a színkódolt méretezésnek köszönhetően.'
+    - title: 'Color-Coded Sizes'
+      description: 'Staff grabs the right board instantly with color-coded sizing.'
       icon: 'tabler:color-swatch'
 
 stats:
-  title: 'Üzemeltetési mutatók'
+  title: Operations Metrics
   stats:
-    - title: 'Deszkaátforgatás'
-      amount: '< 5 perc'
-    - title: 'Éves karbantartás'
-      amount: '~15 perc/deszka'
-    - title: 'Alkatrész-kiszállítás'
+    - title: Board Turnover
+      amount: '< 5 min'
+    - title: Annual Maintenance
+      amount: '~15 min/board'
+    - title: Parts Dispatch
       amount: '48h'
-    - title: 'Hibaarány'
-      amount: '< 0,5%'
+    - title: Defect Rate
+      amount: '< 0.5%'
 
 fleet_guide:
-  title: 'Flottaméretezési útmutató'
-  subtitle: 'Becslés a kölcsönzési működése flottaméretéről és bevételi potenciáljáról.'
+  title: Fleet Sizing Guide
+  subtitle: 'Estimate the fleet size and revenue potential for your rental operation.'
   tiers:
-    - label: 'Kis pavilon'
+    - label: Small Kiosk
       boards: '15-20'
-      revenue: 'XX XXX USD/év'
-    - label: 'Közepes működés'
+      revenue: '$XX,XXX/yr'
+    - label: Mid-Size Operation
       boards: '30-50'
-      revenue: 'XX XXX USD/év'
-    - label: 'Nagy tengerparti kölcsönző'
+      revenue: '$XX,XXX/yr'
+    - label: Large Beach Rental
       boards: '50-100'
-      revenue: 'XXX XXX USD/év'
+      revenue: '$XXX,XXX/yr'
 
 cta:
-  title: 'Készen áll a kölcsönzési vállalkozása növelésére?'
-  subtitle: 'Kaphat kölcsönzési árazást, vagy összehasonlíthatja a deszkamodelleket a működéséhez.'
+  title: 'Ready to scale your rental business?'
+  subtitle: 'Get rental pricing or compare board models for your operation.'
   actions:
-    - text: 'Kölcsönzési árazás beszerzése'
+    - text: 'Get Rental Pricing'
       href: '/contact/?package=rental'
       variant: 'primary'
-    - text: 'Deszkamodellek összehasonlítása'
+    - text: 'Compare Board Models'
       href: '/compare/'
       variant: 'secondary'

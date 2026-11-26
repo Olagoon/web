@@ -1,85 +1,89 @@
 meta:
-  title: 'مختبر التخصيص — ألواح تجديف قابلة للنفخ مخصصة | {SITE}'
-  description: 'ألواح تجديف قابلة للنفخ مخصصة: تصميم فريد، وشعار، وقالب خاص، وإنتاج. شريك SUP للعلامة الخاصة، الحد الأدنى للطلب 50 قطعة، معتمد CE.'
+  title: 'Custom Lab — Custom Inflatable Pool | {SITE}'
+  description: 'Custom inflatable pool: bespoke design, logo, custom mold, and production. Private-label pool partner, MOQ 50 units, CE certified.'
   keywords:
-    - 'مصنّع ألواح تجديف مخصصة'
-    - 'SUP قابلة للنفخ مخصصة'
-    - 'ألواح تجديف بشعار'
-    - 'SUP قابلة للنفخ ذات علامة خاصة'
-    - 'إنتاج ألواح التجديف'
+    - 'custom inflatable pool manufacturer'
+    - 'custom inflatable pools'
+    - 'inflatable pool with logo'
+    - 'private label inflatable pools'
+    - 'inflatable pool manufacturing'
 hero:
-  tagline: مختبر olagoon المخصص
-  title: صمم لوح SUP<br />الخاص بك
-  subtitle: نقدم إنتاج العلامة المشتركة والعلامة الخاصة والعلامات التجارية المخصصة للشركات في جميع أنحاء العالم. من نموذج أولي واحد إلى دفعات إنتاج كاملة.
-  cta: ابدأ مشروعك
+  tagline: olagoon Custom Lab
+  title: Design Your Own<br />pools
+  subtitle: Custom pool partner offering co-brand, private label, and bespoke inflatable pool production for businesses worldwide. From a single prototype to full production runs.
+  cta: Start your project
   footer_link: /contact/
+
 steps_section:
-  tagline: كيف يعمل
-  title: من الفكرة إلى الإنتاج
-  subtitle: أربع خطوات من فكرتك إلى منتج نهائي جاهز للبحر.
+  tagline: How it works
+  title: From concept to production
+  subtitle: Four steps from your idea to a finished, sea-ready product.
   steps:
     - num: '01'
-      title: اختر لوحك
-      desc: اختر من موديلات SUP الأساسية — متعدد الأغراض، سياحي، يوغا، رياضي، أو للأطفال. حدد الحجم والمادة واللون.
+      title: Choose Your Pool
+      desc: Select from our core pool models — all-around, touring, yoga, sport, or kids. Pick size, material, and colour.
     - num: '02'
-      title: حمّل تصميمك
-      desc: أرسل لنا شعارك أو أعمالك الفنية أو إرشادات علامتك التجارية. فريق التصميم لدينا يعد نموذجاً رقمياً أولياً.
+      title: Upload Your Design
+      desc: Send us your logo, artwork, or brand guidelines. Our design team prepares a digital proof.
     - num: '03'
-      title: مراجعة النموذج بالذكاء الاصطناعي
-      desc: شاهد نموذجاً واقعياً مولّداً بالذكاء الاصطناعي للوحك المخصص قبل بدء الإنتاج.
+      title: AI Mockup Review
+      desc: View a photorealistic AI-generated mockup of your custom pool before production begins.
     - num: '04'
-      title: الإنتاج والتسليم
-      desc: بعد الموافقة، يدخل طلبك خط الإنتاج المعتمد ISO لدينا. مهلة التسليم من 30 يوماً.
+      title: Production & Delivery
+      desc: Once approved, your order enters our production line. Lead times from 30 days.
+
 services_section:
-  tagline: الخدمات
-  title: خدمات تصنيع للعلامات التجارية العالمية
-  subtitle: نماذج شراكة مرنة — من التصنيع التعاقدي إلى بناء العلامة التجارية الكامل.
+  tagline: Services
+  title: Manufacturing services for global brands
+  subtitle: Flexible engagement models — from contract manufacturing to full-service brand building.
   items:
-    - title: إنتاج العلامة المشتركة
-      desc: ننتج تصاميمك حسب المواصفات — ملكيتك الفكرية، رسوماتك، معايير الجودة الخاصة بك. حماية كاملة بموجب NDA.
+    - title: Co-Brand Production
+      desc: We produce your designs to spec — your IP, your drawings, your quality standards. Full NDA protection.
       icon: ⚙️
-    - title: حلول التصميم
-      desc: اختر من أكثر من 50 منصة مثبتة وخصص الحجم واللون والرسومات والتغليف.
-      icon: 🎨
-    - title: العلامة التجارية الخاصة
-      desc: علامتك التجارية على منتجاتنا — الشعار، التغليف، البطاقات، الكتيبات. جاهز للبيع بالتجزئة.
-      icon: 🎨
-    - title: العلامة التجارية المخصصة
-      desc: طباعة سطح اللوح، رسومات الهيكل، ملصقات الأنابيب، وملصقات مخصصة — تكامل كامل للعلامة التجارية.
+    - title: Design Solutions
+      desc: Choose from 50+ proven platforms and customise size, colour, graphics, and packaging.
+      icon: '🎨'
+    - title: Private Label
+      desc: Your brand on our products — logo, packaging, hang tags, manuals. Retail-ready out of the box.
+      icon: '🎨'
+    - title: Custom Branding
+      desc: Deck pad printing, hull graphics, tube decals, and custom labels — full brand integration.
       icon: ⚙️
+
 capabilities_section:
-  tagline: القدرات
-  title: قدرات الإنتاج والتخصيص
-  subtitle: كل ما تحتاج معرفته قبل تقديم طلبك.
+  tagline: Capabilities
+  title: Production & customisation capabilities
+  subtitle: Everything you need to know before placing your order.
   capabilities:
-    - label: حجم الطلب
-      value: MOQ 50 واحدة (SUP)
-    - label: مهلة التسليم
-      value: 30–45 يوماً قياسي؛ 15–20 يوماً للنماذج الأولية
-    - label: التخصيص
-      value: الحجم، الشكل، اللون، الرسومات، التغليف، المعدات
-    - label: المواد
-      value: PVC، drop-stitch، رغوة EVA، ألومنيوم
-    - label: الطباعة
-      value: رقمية (CMYK)، طباعة حريرية، نقل حراري، تسامي
-    - label: الشهادات
-      value: CE، ، UKCA، FCC (دعم الامتثال العالمي)
+    - label: Order volume
+      value: MOQ 50 units (pool)
+    - label: Lead time
+      value: 12–16 weeks standard (50–100 units); 15–20 days for prototypes
+    - label: Customisation
+      value: Size, shape, colour, graphics, packaging, hardware
+    - label: Materials
+      value: PVC, drop-stitch, EVA, aluminium
+    - label: Printing
+      value: Digital (CMYK), screen printing, heat transfer, sublimation
+    - label: Certification
+      value: CE, UKCA, FCC (support for global compliance)
+
 why_section:
-  tagline: لماذا olagoon
-  title: مصنع واحد. معيار واحد. لا تنازلات.
+  tagline: Why olagoon
+  title: One factory. One standard. Zero compromises.
   points:
-    - text: منشأة تصنيع متكاملة 12,000 متر مربع
-      highlight: 12,000 م²
-    - text: أكثر من 200 عامل ماهر ومهندس
-      highlight: أكثر من 200
-    - text: أكثر من 15,000 لوح SUP ينتج سنوياً
-      highlight: '15,000+'
-    - text: نظام إدارة جودة معتمد ISO 9001
+    - text: 12,000 m² integrated manufacturing facility
+      highlight: 12,000 m²
+    - text: 200+ skilled workers and engineers
+      highlight: 200+
+    - text: 15,000+ pools produced annually
+      highlight: 15,000+
+    - text: ISO 9001-certified quality management
       highlight: ISO 9001
-    - text: منتجات معتمدة CE لسوق الاتحاد الأوروبي
+    - text: CE certified products for EU market
       highlight: CE
-  cta: عرض تفاصيل المصنع
+  cta: View factory details
   cta_link: /factory/
   contact:
-    title: مستعد لمناقشة مشروعك؟
-    desc: فريقنا يرد خلال 24 ساعة بعرض سعر مبدئي.
+    title: Ready to discuss your project?
+    desc: Our team responds within 24 hours with a preliminary quote.

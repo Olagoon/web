@@ -1,89 +1,91 @@
 meta:
-  title: Kapcsolat — Partnerségi és termékmegkeresések | {SITE}
-  description: Vegye fel a kapcsolatot az olagoontel partnershipség, co-brand és saját márkás megkeresések vagy professzionális flották ügyében. Felfújható SUP márka, 2 munkanapon belül válaszolunk.
+  title: 'Contact — Partnership & Product Inquiries | {SITE}'
+  description: 'Contact olagoon for partnership, co-brand, and private-label inquiries, or professional fleets. inflatable pools brand, we respond within 2 business days.'
   keywords:
-    - sup forgalmazói árajánlat
-    - professzionális sup beszállító
-    - kapcsolat sup gyártóval
+    - 'pool distributor quote'
+    - 'professional pool supplier'
+    - 'contact pool manufacturer'
 hero_text:
-  tagline: Kapcsolat
-  title: VEGYE FEL VELÜNK A KAPCSOLATOT
+  tagline: Contact
+  title: GET IN TOUCH
 contact_form:
   id: form
-  title: Küldjön üzenetet
-  subtitle: Árajánlatok, műszaki kérdések vagy partnerségi megkeresések esetén írjon nekünk. Egy munkanapon belül válaszolunk.
+  title: Send us a message
+  subtitle: For quotes, technical questions or partnership enquiries, drop us a line. We reply within one business day.
   email_to: info@olagoon.com
-  submit_button: Megkeresés küldése → Árajánlat kérése
-  success_message: Köszönjük! Üzenete megérkezett a postaládánkba. Egy munkanapon belül válaszolunk.
-  error_message: Hiba történt az üzenet küldése közben. Kérjük, próbálja újra, vagy írjon nekünk közvetlenül e-mailben.
+  submit_button: Send Inquiry → Get a Quote
+  success_message: Thanks! Your message has landed in our inbox. We will reply within one business day.
+  error_message: Something went wrong sending your message. Please try again or email us directly.
   default_country_code: '+1'
   captcha:
-    label: 'Levélszemét ellen: kérjük, oldja meg a következőt'
+    label: 'Anti-spam: please solve the following'
   fields:
     - name: country
-      label: Ország
+      label: Country
       row: 1
       type: select
       optionsKey: countries
       step: 1
     - name: orderVolume
-      label: Becsült rendelési mennyiség
+      label: Estimated Order Volume
       row: 2
       type: select
       options:
         - value: ''
-          label: Válassza ki a becsült mennyiséget...
+          label: Select your estimated volume...
         - value: sample
-          label: Csak minták / prototípusok
-        - value: 5-10
-          label: 5–10 egység (standard MOQ)
-        - value: 100-500
-          label: 100–500 egység
-        - value: 500-plus
-          label: 500+ egység (mennyiségi árazás)
+          label: Samples / Prototypes only
+        - value: '5-10'
+          label: 5–10 units (Samples / Trial)
+        - value: '50-100'
+          label: 50–100 units
+        - value: '100-500'
+          label: 100–500 units
+        - value: '500-plus'
+          label: 500+ units (Volume pricing)
       step: 1
     - name: customization
-      label: Szükséges testreszabás?
+      label: Customization Needed?
       row: 3
       type: select
       options:
         - value: ''
-          label: Válassza ki a testreszabás típusát...
+          label: Select customization type...
         - value: none
-          label: Standard termék (testreszabás nélkül)
+          label: Standard product (no customization)
         - value: logo
-          label: Csak egyedi logó / márkázás
+          label: Custom Logo / Branding only
         - value: full
-          label: Teljes co-brand (méret, szín, grafika, csomagolás)
+          label: Full Co-Brand (size, color, graphics, packaging)
         - value: consultation
-          label: Nem biztos benne — konzultációra van szükségem
+          label: Not sure — need consultation
       step: 1
     - name: productInterest
-      label: Érdeklődésre tartott termékkategóriák
+      label: Product Categories of Interest
       row: 4
       type: select
       options:
         - value: ''
-          label: Válasszon termékkategóriát...
+          label: Select product category...
         - value: all
-          label: Minden termék / teljes katalógus
-        - value: sup
-          label: SUP deszkák / paddleboardok
+          label: All products / Full catalog
+        - value: pool
+          label: pools / inflatable pool
         - value: safety
-          label: Biztonsági felszerelés / mentőmellények
+          label: Pool Accessories & Spare Parts
         - value: accessory
-          label: Kiegészítők (pumpák, evezők, táskák)
+          label: Accessories (pumps, oars, bags)
       step: 1
     - name: firstName
-      label: Keresztnév
+      label: First Name
       row: 1
       step: 2
     - name: lastName
-      label: Vezetéknév
+      label: Last Name
       row: 1
       step: 2
     - name: companyName
-      label: Cégnév
+      label: Company Name
       row: 2
       step: 2
     - name: email
@@ -92,53 +94,53 @@ contact_form:
       type: email
       step: 2
     - name: tel
-      label: TELEFON
+      label: TEL
       row: 3
       type: tel
       withCountryCode: true
       step: 2
     - name: address
-      label: Cím
+      label: Address
       row: 4
       step: 2
     - name: zip
-      label: Irányítószám
+      label: Zip / Postal Code
       row: 5
       step: 2
     - name: subject
-      label: Tárgy
+      label: Subject
       row: 1
       step: 3
     - name: message
-      label: Üzenet
+      label: Message
       row: 2
       type: textarea
       rows: 6
       step: 3
 features2_other_ways:
-  title: Egyéb módok a elérésünkre
+  title: Other ways to reach us
   columns: 3
   items:
-    - title: Értékesítési megkeresések
-      description: Árajánlatok, konfigurációk, kereskedői jelentkezések és tömeges rendelések.
+    - title: Sales enquiries
+      description: Quotes, configurations, dealer applications and bulk orders.
       icon: tabler:shopping-bag
-    - title: Műszaki támogatás
-      description: Garancia, javítások, cserealkatrészek és üzemeltetési kérdések.
+    - title: Technical support
+      description: Warranty, repairs, spare parts and operating questions.
       icon: tabler:tool
-    - title: Sajtó és partnerségek
-      description: Médiaanyagok, szponzoráció és iparági együttműködés.
+    - title: Press & partnerships
+      description: Media kits, sponsorship and industry collaboration.
       icon: tabler:news
-    - title: Telefon
-      description: +1 279 732 3333
+    - title: Phone
+      description: '+1 279 732 3333'
       icon: tabler:headset
-    - title: E-mail
+    - title: Email
       description: info@olagoon.com
       icon: tabler:mail
-    - title: Székhely
+    - title: Headquarters
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
       icon: tabler:map-pin
 map:
-  title: Elhelyezkedésünk
-  subtitle: Látogasson el hozzánk a székhelyünkre
+  title: Our Location
+  subtitle: Visit us at our headquarters
   address: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
   zoom: 15

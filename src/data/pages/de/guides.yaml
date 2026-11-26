@@ -1,25 +1,26 @@
 meta:
-  title: 'SUP-Guides — Kaufen, Auswählen, Üben | {SITE}'
-  description: 'olagoon-SUP-Guides: wie man Paddleboarding kauft, auswählt und übt. Größen, Materialien und Profi-Tipps für Anfänger und Profis aufblasbarer SUPs.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'SUP-Kaufberatung'
-    - 'SUP auswählen'
-    - 'SUP-Größenberatung'
-    - 'Tipps für aufblasbares Paddleboard'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: Anleitungen
-  title: Neu im SUP?
-  subtitle: Praktische Leitfäden, die Ihnen helfen, aufblasbare SUP-Boards auszuwählen, zu benutzen und zu genießen.
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
+
 size_guide:
-  tagline: Größe & Spezifikationen
-  title: Finden Sie die richtige Größe für Ihre Bedürfnisse
-  desc: Vergleichen Sie SUP-Board-Abmessungen, Gewichtskapazitäten und empfohlene Verwendungen. Egal, ob Sie ein Touring-SUP, ein Yoga-Board oder ein Allround-SUP benötigen – unser Größenleitfaden hilft Ihnen, die richtige Auswahl zu treffen.
-  link_label: Größenübersicht mit Produktspezifikationen →
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: SUP-Boards
-      desc: Wähle die Länge basierend auf deinem Gewicht und deinem vorgesehenen Einsatz. Breitere Bretter (32" bieten mehr Stabilität. Längere Boards (11–12 Fuß) Schienen sind besser für Touren.
-    - title: Touring-SUPs
-      desc: Längere Bretter (11–12 ft), um Distanz zu überwinden und geradeaus zu fahren. Stabil genug für Touren mit Ausrüstung. Überprüfen Sie immer die Gewichtskapazität.
-    - title: Allround-SUPs
-      desc: Wähle die Länge nach Reitergewicht und benutze sie. Breitere Bretter (32" ) für Stabilität. Vielseitig für Freizeit und Fitness.
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

@@ -1,26 +1,26 @@
 meta:
-  title: 'SUP-i juhendid — osta, vali, harjuta | {SITE}'
-  description: 'olagoon SUP-i juhendid: kuidas osta, valida ja harjutada sõudelauda. Suurused, materjalid ja ekspertnipid täispuhutavate SUP-ide algajatele ja proffidele.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'sup buying guide'
-    - 'how to choose sup'
-    - 'sup sizing guide'
-    - 'täispuhutava sõudelaua nipid'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: 'Juhendid'
-  title: 'Uus SUP-i maailmas?'
-  subtitle: 'Praktilised juhendid, mis aitavad sul valida, kasutada ja nautida täispuhutavaid SUP-laudu.'
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
 
 size_guide:
-  tagline: 'Suurus ja spetsifikatsioonid'
-  title: 'Leia õige suurus oma vajadustele'
-  desc: 'Võrle SUP-laudade mõõte, kaalumahtuvusi ja soovitatud kasutusi. Olgu sul vaja matka-SUP-i, joogalauda või universaalset SUP-i — meie suuruse juhend aitab sul õige valida.'
-  link_label: 'Täielik suuruse juhend koos toote spetsifikatsioonidega →'
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: 'SUP-lauad'
-      desc: 'Vali pikkus vastavalt oma kaalule ja kasutuseesmärgile. Laiemad lauad (32"+) pakuvad rohkem stabiilsust. Pikemad lauad (11–12 ft) hoiavad kurssi paremini matkamisel.'
-    - title: 'Matka SUP-id'
-      desc: 'Pikemad lauad (11–12 ft) vahemaa läbimiseks ja sirge kurssihoidmiseks. Piisavalt stabiilsed varustusega matkamiseks. Kontrolli alati kaalumahtuvust.'
-    - title: 'Universaalsed SUP-id'
-      desc: 'Vali pikkus sõidu kaalu ja kasutuse järgi. Laiemad lauad (32"+) stabiilsuse jaoks. Mitmekülgne vabaajaks ja fitnessiks.'
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.

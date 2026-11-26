@@ -1,92 +1,92 @@
 meta:
-  title: 'Panduan Pembeli OEM — Pengadaan Kapal Air Tiup dari Asia | {SITE}'
-  description: 'Panduan komprehensif untuk pengadaan SUP tiup dan kano dari produsen Asia: daftar periksa evaluasi pabrik, protokol QC, verifikasi kepatuhan, negosiasi MOQ, ketentuan pengiriman, dan kesalahan umum.'
-back_text: 'Kembali ke Riset'
+  title: 'OEM Buyer Guide — Sourcing Inflatable Watercraft from Asia | {SITE}'
+  description: 'Comprehensive guide for sourcing inflatable pools from Asian manufacturers: factory evaluation checklist, QC protocols, compliance verification, MOQ negotiation, shipping terms, and common pitfalls.'
+back_text: 'Back to Research'
 
 hero:
-  tagline: 'Pengadaan'
-  title: 'Panduan Pembeli OEM — Pengadaan Kapal Air Tiup dari Asia'
-  subtitle: 'Waktu baca 12 menit'
+  tagline: 'Sourcing'
+  title: 'OEM Buyer Guide — Sourcing Inflatable Watercraft from Asia'
+  subtitle: '12 min read'
 
 content_html: |
-  <h2>1. Pra-Kualifikasi: Apa yang Perlu Dicari di Sebuah Pabrik</h2>
+  <h2>1. Pre-Qualification: What to Look for in a Factory</h2>
 
-  <h3>Sertifikat Kepatuhan</h3>
+  <h3>Compliance Certificates</h3>
   <ul>
-    <li><strong>ISO 9001:2015</strong> – Sistem manajemen kualitas</li>
-    <li><strong>Sertifikasi CE</strong> – Verifikasi nomor Notified Body</li>
-    <li><strong>BSCI / SMETA / SEDEX</strong> – Audit kepatuhan sosial</li>
-    <li><strong>REACH / RoHS</strong> – Deklarasi kepatuhan material</li>
+    <li><strong>ISO 9001:2015</strong> – Quality management system</li>
+    <li><strong>CE certification</strong> – Verify the Notified Body number</li>
+    <li><strong>BSCI / SMETA / SEDEX</strong> – Social compliance audits</li>
+    <li><strong>REACH / RoHS</strong> – Material compliance declarations</li>
   </ul>
 
-  <h3>Kapabilitas Manufaktur</h3>
+  <h3>Manufacturing Capabilities</h3>
   <ul>
-    <li>Penenunan inti drop-stitch in-house vs. outsourcing</li>
-    <li>Lini pelapisan / laminasi PVC</li>
-    <li>Peralatan pengelasan RF dan las udara panas</li>
-    <li>Pembuatan cetakan in-house (pemesinan CNC)</li>
-    <li>Lab pengujian (pengujian tekanan, penuaan UV, pengujian tarik)</li>
+    <li>Drop-stitch core weaving in-house vs. outsourced</li>
+    <li>PVC coating / lamination line</li>
+    <li>RF welding and hot air welding equipment</li>
+    <li>In-house mold making (CNC machining)</li>
+    <li>Testing lab (pressure testing, UV aging, tensile testing)</li>
   </ul>
 
-  <h3>Verifikasi Pengalaman</h3>
+  <h3>Experience Verification</h3>
   <ul>
-    <li>Tahun pengalaman dalam manufaktur kapal air tiup (minimal 5+ tahun)</li>
-    <li>Jumlah insinyur yang dimiliki</li>
-    <li>Klien OEM/ODM yang sudah ada (minta referensi)</li>
-    <li>Tujuan ekspor – apakah mereka sudah mengirim ke pasar target Anda?</li>
+    <li>Years in inflatable watercraft manufacturing (5+ years minimum)</li>
+    <li>Number of engineers on staff</li>
+    <li>Existing OEM/ODM clients (request references)</li>
+    <li>Export destinations – are they already shipping to your target market?</li>
   </ul>
 
-  <h2>2. Protokol Kontrol Kualitas</h2>
-  <p>QC material masuk: kekuatan tarik (ASTM D751 atau ISO 1421), ketahanan sobek (ASTM D2261 atau ISO 4674), kekuatan adhesi, pemeriksaan acak penuaan UV.</p>
-  <p>QC dalam proses: pemantauan kekuatan sambungan setiap 50 unit, verifikasi torsi valve, pemeriksaan densitas benang drop-stitch, pemeriksaan dimensi terhadap gambar CAD.</p>
-  <p>Inspeksi akhir: uji tahan inflasi 100% (24 jam, penurunan maksimum 5%), inspeksi visual, uji fungsi valve, pengujian sampel acak (AQL 2.5 atau 4.0 sesuai ISO 2859).</p>
+  <h2>2. Quality Control Protocols</h2>
+  <p>Material incoming QC: tensile strength (ASTM D751 or ISO 1421), tear resistance (ASTM D2261 or ISO 4674), adhesion strength, UV aging spot checks.</p>
+  <p>In-process QC: seam strength monitoring every 50 units, valve torque verification, drop-stitch thread density checks, dimensional checks against CAD drawings.</p>
+  <p>Final inspection: 100% inflation hold test (24 hours, max 5% drop), visual inspection, valve function test, random sample testing (AQL 2.5 or 4.0 per ISO 2859).</p>
 
-  <h2>3. Daftar Periksa Dokumentasi Kepatuhan</h2>
+  <h2>3. Compliance Documentation Checklist</h2>
   <ul>
-    <li>Deklarasi Kesesuaian (DoC) yang merujuk pada direktif UE yang benar</li>
-    <li>Sertifikat CE dari notified body</li>
-    <li>Laporan pengujian dari lab terakreditasi</li>
-    <li>Lembar data keselamatan material (MSDS)</li>
-    <li>Deklarasi kepatuhan REACH</li>
-    <li>Daftar Material dengan keterlacakan pemasok</li>
-    <li>Laporan inspeksi pabrik</li>
+    <li>Declaration of Conformity (DoC) referencing correct EU directive</li>
+    <li>CE certificate from notified body</li>
+    <li>Test report from accredited lab</li>
+    <li>Material safety data sheets (MSDS)</li>
+    <li>REACH compliance declaration</li>
+    <li>Bill of Materials with supplier traceability</li>
+    <li>Factory inspection report</li>
   </ul>
 
-  <h2>4. Negosiasi MOQ</h2>
+  <h2>4. MOQ Negotiation</h2>
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-gray-100">
-        <th class="p-3 text-left font-semibold text-gray-900 border">Jenis Produk</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">MOQ Standar</th>
-        <th class="p-3 text-left font-semibold text-gray-900 border">Rentang yang Dapat Dinegosiasikan</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Product Type</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Standard MOQ</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Negotiable Range</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="p-3 border">Papan SUP</td><td class="p-3 border">50 – 100 unit</td><td class="p-3 border">5 – 10 unit (uji coba)</td></tr>
-      <tr><td class="p-3 border">Kano</td><td class="p-3 border">50 – 100 unit</td><td class="p-3 border">5 – 10 unit (uji coba)</td></tr>
-      <tr><td class="p-3 border">SUP Tiup</td><td class="p-3 border">50 – 100 unit</td><td class="p-3 border">2 – 5 unit (uji coba)</td></tr>
-      <tr><td class="p-3 border">Keselamatan / Aksesori</td><td class="p-3 border">200 – 500 unit</td><td class="p-3 border">50 – 100 unit (uji coba)</td></tr>
+      <tr><td class="p-3 border">pools</td><td class="p-3 border">50 – 100 units</td><td class="p-3 border">5 – 10 units (trial)</td></tr>
+      <tr><td class="p-3 border">Pool accessories</td><td class="p-3 border">200 – 500 units</td><td class="p-3 border">20 – 50 units (trial)</td></tr>
+      <tr><td class="p-3 border">inflatable pools</td><td class="p-3 border">50 – 100 units</td><td class="p-3 border">2 – 5 units (trial)</td></tr>
+      <tr><td class="p-3 border">Safety / Accessories</td><td class="p-3 border">200 – 500 units</td><td class="p-3 border">50 – 100 units (trial)</td></tr>
     </tbody>
   </table>
 
-  <h2>5. Logistik dan Pengiriman</h2>
-  <p>Incoterms yang umum: <strong>FOB</strong> (Pabrik mengantar ke pelabuhan keberangkatan – paling umum), <strong>EXW</strong> (Pembeli mengatur seluruh pengiriman dari pintu pabrik), <strong>CIF</strong> (Pabrik membayar ongkos angkut dan asuransi hingga pelabuhan tujuan).</p>
-  <p>Produk tiup berbobot ringan dengan volume besar – berat volumetrik (DIM) sering menentukan biaya pengiriman. Minta kemasan vakum untuk mengurangi volume sebesar 50–60%. Angkutan laut dari Tiongkok ke UE: 25–35 hari; ke Pantai Barat AS: 15–20 hari.</p>
+  <h2>5. Logistics and Shipping</h2>
+  <p>Common Incoterms: <strong>FOB</strong> (Factory delivers to departure port – most common), <strong>EXW</strong> (Buyer arranges all shipping from factory door), <strong>CIF</strong> (Factory pays freight and insurance to destination port).</p>
+  <p>Inflatable products are low-weight, high-volume – volumetric weight (DIM) often determines shipping cost. Request vacuum-packed packaging to reduce volume by 50–60%. Sea freight from China to EU: 25–35 days; to US West Coast: 15–20 days.</p>
 
-  <h2>6. Kesalahan Umum</h2>
+  <h2>6. Common Pitfalls</h2>
   <ul>
-    <li><strong>Tanpa audit pabrik:</strong> Selalu lakukan atau pesan audit pihak ketiga (QIMA, SGS, Bureau Veritas)</li>
-    <li><strong>Spesifikasi lisan saja:</strong> Lembar spesifikasi teknis rinci yang ditandatangani kedua pihak</li>
-    <li><strong>Melewatkan persetujuan sampel:</strong> Persetujuan tertulis atas sampel sebelum produksi massal</li>
-    <li><strong>Tanpa QC selama produksi:</strong> Inspeksi pihak ketiga selama produksi (DUPRO) dan sebelum pengiriman (PSI)</li>
-    <li><strong>Mengabaikan kepatuhan:</strong> Verifikasi sertifikasi CE/UKCA sebelum produksi</li>
+    <li><strong>No factory audit:</strong> Always perform or commission a third-party audit (QIMA, SGS, Bureau Veritas)</li>
+    <li><strong>Verbal specs only:</strong> Detailed technical specification sheet signed by both parties</li>
+    <li><strong>Skipping sample approval:</strong> Written sign-off on samples before bulk production</li>
+    <li><strong>No QC during production:</strong> Third-party inspection during production (DUPRO) and before shipment (PSI)</li>
+    <li><strong>Ignoring compliance:</strong> Verify CE/UKCA certification before production</li>
   </ul>
 
-  <h2>7. Mengapa OLagoon</h2>
-  <p>OLagoon telah memproduksi kapal air tiup OEM/ODM sejak 2012. Dengan fasilitas seluas 12,000 m&sup2; bersertifikat ISO 9001, 25+ insinyur, dan sertifikasi CE di seluruh lini produk, kami memenuhi setiap kriteria dalam panduan ini. Kami menawarkan MOQ uji coba untuk mitra baru dan paket dokumentasi kepatuhan lengkap.</p>
+  <h2>7. Why OLagoon</h2>
+  <p>OLagoon has been manufacturing OEM/ODM inflatable pools since 2012. With a 12,000 m&sup2; ISO 9001 certified facility, 25+ engineers, and CE certification across all product lines, we meet every criterion in this guide. We offer trial MOQs for new partners and full compliance documentation packages.</p>
 
 cta:
-  title: 'Siap memulai pengadaan?'
-  subtitle: 'Hubungi tim OEM kami untuk mendiskusikan persyaratan proyek Anda.'
-  button_text: 'Minta penawaran'
+  title: 'Ready to start sourcing?'
+  subtitle: 'Contact our OEM team to discuss your project requirements.'
+  button_text: 'Request a quote'
   button_link: /contact/

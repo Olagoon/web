@@ -1,117 +1,117 @@
 meta:
-  title: 'Kūrortu un viesnīcu SUP aprīkojuma piegādātājs | Kūrortu flotu risinājumi | {SITE}'
-  description: 'Kūrortu SUP aprīkojuma piegādātājs viesnīcām un kūrortiem visā pasaulē. Komerciāla līmeņa piepūšamo SUP flotes, pielāgots zīmolējums, personāla apmācība un ROI optimizētas paketes no 20 līdz 100+ dēļiem.'
+  title: 'Resort & Hotel pool Equipment Supplier | Resort Fleet Solutions | {SITE}'
+  description: 'Resort pool equipment supplier for hotels and resorts worldwide. Commercial-grade inflatable pools fleets, custom branding, staff training, and ROI-optimized packages from 20 to 100+ boards.'
 
 hero:
-  tagline: 'Kūrorti un viesnīcas'
-  title: 'Pārvērtiet savu piekrasti par ieņēmumu centru<br />ar premium SUP flotēm'
-  subtitle: 'OLagoon aprīko kūrortus visā pasaulē ar komerciāla līmeņa piepūšamo SUP flotēm — no 20 dēļu startera paketēm līdz 100+ dēļu flagmaņa programmām. Iekļauts pielāgots zīmolējums, personāla apmācība un rezerves daļas.'
+  tagline: Resorts & Hotels
+  title: 'Turn Your Waterfront Into a Revenue Centre<br />With Premium pool Fleets'
+  subtitle: 'OLagoon equips resorts worldwide with commercial-grade inflatable pools fleets — from 20-board starter packages to 100+ board flagship programs. Custom branding, staff training, and replacement parts included.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: 'Kūrorta viesi izbauda SUP braukšanu neskartā pludmalē'
+    alt: Resort guests enjoying poolsing on a pristine beach
 
 roi_section:
-  title: 'Kūrorta SUP ieņēmumu modelis'
-  subtitle: 'Kā kūrorti ar vienu investīciju gada laikā gūst 50,000 - 200,000+ USD SUP nomas ieņēmumus.'
+  title: 'The Resort pool Revenue Model'
+  subtitle: 'How resorts generate $50,000 - $200,000+ annual pool rental income with a single investment.'
   metrics:
-    - metric: '50 000–200 000+ USD'
-      label: 'Ikgadējie SUP ieņēmumi'
-      detail: 'Uz kūrortu, atkarībā no flotes izmēra un noslodzes'
-    - metric: '4–6 mēneši'
-      label: 'Vidējais atmaksāšanās periods'
-      detail: 'Pilna flotes investīcija atmaksājas vienas sezonas laikā'
+    - metric: '$50K–$200K+'
+      label: Annual pool Revenue
+      detail: Per resort, based on fleet size and occupancy
+    - metric: '4–6 Months'
+      label: Average Payback Period
+      detail: Recoup full fleet investment within one season
     - metric: '40%'
-      label: 'Ieņēmumu pieaugums'
-      detail: 'Vidējais pieaugums pēc pāriešanas uz OLagoon flotēm'
+      label: Revenue Increase
+      detail: Average boost after switching to OLagoon fleets
     - metric: '500+'
-      label: 'Nomas cikli uz dēli'
-      detail: 'Komerciāla līmeņa izturība ikdienas lietošanai'
+      label: Rental Cycles Per Board
+      detail: Commercial-grade durability for daily use
 
 packages:
-  title: 'Kūrortu paketu sistēma'
-  subtitle: 'Izvēlieties paketi, kas atbilst jūsu viesu ietilpībai un ieņēmumu mērķiem. Visās paketēs iekļauta 12 mēnešu garantija un CE sertifikācija.'
+  title: Resort Package System
+  subtitle: 'Choose the package that fits your guest capacity and revenue goals. All packages include 12-month warranty and CE certification.'
   items:
-    - name: 'Sākuma pakete'
-      tagline: 'Boutique kūrortiem, līdz 20 viesiem dienā'
+    - name: Starter Package
+      tagline: 'For boutique resorts, up to 20 guests/day'
       features:
-        - '20 SUP dēļi (3 izmēri pieaugušajiem/bērniem)'
-        - '20 airi (regulējami) + 20 glābšanas vestes'
-        - '4 divfāzes sūkņi (elektriskie pēc izvēles)'
-        - '2 glabāšanas statnes + remonta komplekts'
-        - 'Pielāgots logotipa drukājums uz dēļiem'
-        - '12 mēnešu garantija + CE sertifikāts'
-      revenue: 'Ikgadējais ieņēmumu potenciāls 50 000–80 000 USD'
-      cta_text: 'Iegādāties sākuma paketi'
-    - name: 'Premium pakete'
-      tagline: 'Lieliem kūrortiem, 50-100 viesiem dienā'
+        - '20 pools (3 sizes for adults/kids)'
+        - '20 paddles (adjustable) + 20 life vests'
+        - '4 dual-action pumps (electric optional)'
+        - '2 storage racks + repair kit'
+        - 'Custom logo print on boards'
+        - '12-month warranty + CE certified'
+      revenue: '$50K–$80K annual revenue potential'
+      cta_text: 'Get Starter Package'
+    - name: Premium Package
+      tagline: 'For large resorts, 50-100 guests/day'
       features:
-        - '50 SUP dēļi (5 izmēri, jaukta flote)'
-        - '50 airi + 50 glābšanas vestes'
-        - '10 divfāzes sūkņi + 2 elektriskie sūkņi'
-        - '5 glabāšanas statnes + 2 ratiņi'
-        - 'Pilnībā pielāgots zīmolējums (dēļi, airi, somas)'
-        - 'Personāla apmācības sesija (tiešsaistē)'
-        - 'Rezerves daļu nosūtīšana 48 stundu laikā'
-        - '12 mēnešu garantija + CE sertifikāts'
-      revenue: 'Ikgadējais ieņēmumu potenciāls 120 000–200 000+ USD'
+        - '50 pools (5 sizes, mixed fleet)'
+        - '50 paddles + 50 life vests'
+        - '10 dual-action pumps + 2 electric pumps'
+        - '5 storage racks + 2 roller carts'
+        - 'Full custom branding (boards, paddles, bags)'
+        - 'Staff training session (online)'
+        - '48-hour replacement parts dispatch'
+        - '12-month warranty + CE certified'
+      revenue: '$120K–$200K+ annual revenue potential'
       popular: true
-      cta_text: 'Iegādāties premium paketi'
-    - name: 'Flagmaņa pakete'
-      tagline: 'Ultra premium kūrortiem, 100+ viesiem dienā'
+      cta_text: 'Get Premium Package'
+    - name: Flagship Package
+      tagline: 'For ultra-premium resorts, 100+ guests/day'
       features:
-        - '100+ SUP dēļi (pilns izmēru klāsts)'
-        - 'Pilns piederumu komplekts (airi, vestes, sūkņi, ratiņi)'
-        - 'Personāla apmācība uz vietas (2 dienas)'
-        - 'Atveltīts konta menedžeris'
-        - 'Prioritārās rezerves daļas (nosūtīšana 24 h laikā)'
-        - 'Pilnībā pielāgots zīmolējums (dēļi + piederumi)'
-        - 'Mārketinga foto/video pakete'
-        - '24 mēnešu garantija + CE sertifikāts'
-      revenue: 'Ikgadējais ieņēmumu potenciāls 200 000+ USD'
-      cta_text: 'Iegādāties flagmaņa paketi'
+        - '100+ pools (full size range)'
+        - 'Complete accessory set (paddles, vests, pumps, carts)'
+        - 'On-site staff training (2 days)'
+        - 'Dedicated account manager'
+        - 'Priority replacement parts (24h dispatch)'
+        - 'Full custom branding (boards + accessories)'
+        - 'Marketing photo/video package'
+        - '24-month warranty + CE certified'
+      revenue: '$200K+ annual revenue potential'
+      cta_text: 'Get Flagship Package'
 
 case_study:
-  quote: 'Kopš pāriešanas uz OLagoon mūsu SUP nomas ieņēmumi pieauga par 40%. Dēļu nomaišanas izmaksas samazinājās par 60%. Pilnu flotes investīciju atmaksājām 4 mēnešos.'
-  author: 'Ūdens aktivitāšu vadītājs'
-  location: '5 zvaigžņu kūrorts, Maldīvija'
+  quote: 'Since switching to OLagoon, our pool rental revenue increased 40%. Board replacement costs dropped 60%. We recouped our full fleet investment in 4 months.'
+  author: 'Water Activities Manager'
+  location: '5-star resort, Maldives'
   results:
-    - label: 'Ieņēmumu pieaugums'
+    - label: 'Revenue Growth'
       value: '+40%'
-    - label: 'Izmaksu samazinājums'
+    - label: 'Cost Reduction'
       value: '-60%'
-    - label: 'Atmaksāšanās periods'
-      value: '4 mēneši'
+    - label: 'Payback Period'
+      value: '4 Months'
 
 features:
-  title: 'Kāpēc kūrorti izvēlas OLagoon'
-  subtitle: 'Komerciāla līmeņa izturība, globālā loģistika un partneris, kas izprot viesmīlību.'
+  title: Why Resorts Choose OLagoon
+  subtitle: 'Commercial-grade durability, global logistics, and a partner who understands hospitality.'
   items:
-    - title: '500+ nomas cikli'
-      description: 'Katrs dēlis ir testēts, lai izdzīvotu 500+ nomas ciklus sālsūdenī, saulē un smiltīs.'
+    - title: '500+ Rental Cycles'
+      description: 'Every board is tested to survive 500+ rental cycles in saltwater, sun, and sand.'
       icon: 'tabler:shield-check'
-    - title: 'Rezerves daļu nosūtīšana 48 h'
-      description: 'Rezerves daļas nosūtītas 48 stundu laikā — jūsu nomas ieņēmumi neapstājas nekad.'
+    - title: '48h Parts Dispatch'
+      description: 'Replacement parts shipped within 48 hours — your rental revenue never stops.'
       icon: 'tabler:truck-delivery'
-    - title: 'Pielāgots zīmolējums'
-      description: 'Saderiniet savu kūrorta identitāti ar pielāgotām krāsām un logotipu uz katra dēļa.'
+    - title: 'Custom Branding'
+      description: 'Match your resort identity with custom colors and logo on every board.'
       icon: 'tabler:palette'
-    - title: 'Personāla apmācība'
-      description: 'Tiešsaistes un klātienes apmācību programmas jūsu aktivitāšu komandai.'
+    - title: 'Staff Training'
+      description: 'Online and on-site training programs for your activities team.'
       icon: 'tabler:school'
-    - title: 'Globālā loģistika'
-      description: 'Piegāde uz 50+ valstīm ar konsolidētas kravas opcijām.'
+    - title: 'Global Logistics'
+      description: 'Shipping to 50+ countries with consolidated freight options.'
       icon: 'tabler:world'
-    - title: 'CE sertificēts'
-      description: 'Viss aprīkojums CE sertificēts, ISO 9001:2015 — garantēta drošība un kvalitāte.'
+    - title: 'CE Certified'
+      description: 'All equipment CE certified, ISO 9001:2015 — safety and quality guaranteed.'
       icon: 'tabler:certificate'
 
 cta:
-  title: 'Gatavi pārvērst savu piekrasti par ieņēmumu centru?'
-  subtitle: 'Saņemiet savas kūrorta paketes piedāvājumu vai lejupielādējiet mūsu pilno kūrortu katalogu.'
+  title: 'Ready to turn your waterfront into a revenue centre?'
+  subtitle: 'Get your resort package quote or download our complete resort catalog.'
   actions:
-    - text: 'Iegādāties kūrorta paketi'
+    - text: 'Get Resort Package'
       href: '/contact/?package=resort'
       variant: 'primary'
-    - text: 'Lejupielādēt kūrortu katalogu'
+    - text: 'Download Resort Catalog'
       href: '/resources/download-catalog/'
       variant: 'secondary'

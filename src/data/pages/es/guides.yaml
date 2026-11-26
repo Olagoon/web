@@ -1,25 +1,26 @@
 meta:
-  title: 'Guías de SUP — Comprar, Elegir, Practicar | {SITE}'
-  description: 'Guías de SUP de olagoon: cómo comprar, elegir y practicar paddle surf. Tallas, materiales y consejos de expertos para principiantes y profesionales.'
+  title: 'pool Guides — Buy, Choose, Practice | {SITE}'
+  description: 'olagoon pool guides: how to buy, choose, and set up inflatable pools. Sizing, materials, and expert tips for beginners and pros.'
   keywords:
-    - 'guía de compra de SUP'
-    - 'cómo elegir SUP'
-    - 'guía de tallas de SUP'
-    - 'consejos de paddle surf hinchable'
+    - 'pool buying guide'
+    - 'how to choose pool'
+    - 'pool sizing guide'
+    - 'inflatable pool tips'
 hero:
-  tagline: Guías
-  title: ¿Nuevo en SUP?
-  subtitle: Guías prácticas para ayudarte a elegir, usar y disfrutar de las tablas SUP inflables.
+  tagline: Guides
+  title: New to pool?
+  subtitle: Practical guides to help you choose, use, and enjoy inflatable pools.
+
 size_guide:
-  tagline: Tamaño y especificaciones
-  title: Encuentra el tamaño adecuado para tus necesidades
-  desc: Compara las dimensiones de las tablas de SUP, las capacidades de peso y los usos recomendados. Ya sea que necesites un SUP de turismo, una tabla de yoga o un SUP polivalente, nuestra guía de tallas te ayuda a elegir la opción adecuada.
-  link_label: Guía de tamaño completo con especificaciones del producto →
+  tagline: Size & Specs
+  title: Find the Right Size for Your Needs
+  desc: Compare pool dimensions, water capacity, and recommended uses. Whether you need a compact plunge, a family pool, or a grand swim lounge — our size guide helps you choose the right fit.
+  link_label: 'Full size guide with product specs →'
   link: /size-guide/
   cards:
-    - title: Tablas de SUP
-      desc: Elige la longitud según tu peso y el uso previsto. Las tablas más anchas (32") ofrecen más estabilidad. Las tablas más largas (11–12 pies) son mejores para el turismo.
-    - title: SUPs de turismo
-      desc: Tablas más largas (11–12 pies) para cubrir distancias y mantener la trayectoria recta. Lo suficientemente estables para recorrer con equipo. Siempre verifica la capacidad de peso.
-    - title: SUPs Todo Terreno
-      desc: Elige la longitud según el peso del ciclista y su uso. Tablas más anchas (32") para mayor estabilidad. Versátil para la recreación y el fitness.
+    - title: pools
+      desc: Choose size based on your household and intended use. Larger pools (3 m+) fit the whole family. Compact models (2 m) fit patios and small gardens.
+    - title: Touring pools
+      desc: Grand Lagoon (5 m × 2.5 m) for real lap swimming and full-family use. Always check your available space and water capacity.
+    - title: All-Around pools
+      desc: Choose size by household and use. Family Oasis (3 m × 2 m) balances play space and backyard footprint. Versatile for recreation and fitness.
