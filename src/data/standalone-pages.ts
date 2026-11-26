@@ -12,38 +12,38 @@ export const standalonePages: StandalonePage[] = [
     slug: 'engineering-perfection',
     title: 'Engineering Perfection',
     description:
-      "olagoon's engineering philosophy: precision manufacturing, premium material selection, rigorous quality control, and segment-specific design for recreational and professional inflatable SUP boards.",
+      "OLagoon's engineering philosophy: precision manufacturing, premium material selection, rigorous quality control, and size-specific design for drop-stitch inflatable pools and accessories.",
     pageType: 'about',
     sections: [
       {
         heading: 'Superior Material Sourcing',
-        body: 'We invest considerable resources in identifying, testing, and procuring the finest fabrics, adhesives, and components available globally. Sourcing protocol includes batch testing for tensile strength, tear resistance, coating adhesion, and UV stability.',
+        body: 'We invest considerable resources in identifying, testing, and procuring the finest fabrics and components available globally. Sourcing protocol includes batch testing for tensile strength, tear resistance, coating adhesion, and UV stability.',
       },
       {
         heading: 'Precision Engineering & Design',
-        body: 'Our design team comprises experienced naval architects who leverage advanced CAD software and real-world testing to create hulls that are hydrodynamically efficient, exceptionally stable, and robust.',
+        body: 'Our engineering team leverages advanced CAD software and real-world pressure testing to create drop-stitch pool structures that are rigid at 10-15 PSI, dimensionally stable, and built to hold thousands of liters without bulging.',
       },
       {
         heading: 'Craftsmanship & Manufacturing Excellence',
-        body: 'olagoon employs highly skilled technicians. Our production facility is equipped with state-of-the-art CNC cutting machines and thermo-welding equipment.',
+        body: 'OLagoon employs highly skilled technicians. Our production facility is equipped with state-of-the-art CNC cutting machines and thermo-welding equipment.',
       },
       {
         heading: 'Rigorous Quality Control & Testing',
-        body: 'Multi-layered QC system with stringent checks at each critical step, culminating in comprehensive final testing including 24–48 hour pressure holding tests, leak detection, dimensional verification, and functional tests.',
+        body: 'Multi-layered QC system with stringent checks at each critical step, culminating in comprehensive final testing including 24-48 hour pressure holding tests, leak detection, dimensional verification, and functional tests.',
       },
     ],
     features: [
-      { label: 'Recreational SUPs', desc: 'Versatile design for paddling with stability and safety priority' },
-      { label: 'Touring SUPs', desc: 'Long-distance hull design for exploration and fitness' },
-      { label: 'Fishing SUPs', desc: 'Exceptional stability, rod holders, gear mounts' },
-      { label: 'Yoga SUPs', desc: 'Wide stable platform with full-deck traction pad' },
+      { label: 'Compact Plunge Pools', desc: 'Space-saving plunge design with rigid 20cm walls' },
+      { label: 'Family Pools', desc: 'Full-size swim area engineered for daily family use' },
+      { label: 'Grand Lagoons', desc: 'Large-format pools with yacht-grade construction' },
+      { label: 'Pool Accessories', desc: 'Filtration, covers, ground protection, and safe entry' },
     ],
   },
   {
     slug: 'oem-odm-manufacturer',
-    title: 'Inflatable SUP OEM/ODM Manufacturer',
+    title: 'Inflatable Pool OEM/ODM Manufacturer',
     description:
-      'olagoon is a premier OEM/ODM manufacturer of inflatable SUP boards and accessories, operated by Olagoon LLC. CE-certified factory. Drop-stitch core lamination, custom mold design, private label. 12,000 m\u00B2 facility in Qingdao, China.',
+      'OLagoon is a premier OEM/ODM manufacturer of drop-stitch inflatable pools and accessories, operated by Olagoon LLC. CE-certified factory. Drop-stitch core lamination, custom mold design, private label. 12,000 m\u00B2 facility in Qingdao, China.',
     pageType: 'capability',
     sections: [
       {
@@ -52,11 +52,11 @@ export const standalonePages: StandalonePage[] = [
       },
       {
         heading: '3D Mold Prototyping',
-        body: 'We design and CNC-machine custom molds for SUP boards. Prototype samples produced within 15\u20140 working days.',
+        body: 'We design and CNC-machine custom molds for inflatable pools. Prototype samples produced within 15\u201340 working days.',
       },
       {
         heading: 'Material Selection & Sample Production',
-        body: 'Choose from military-grade PVC (0.9mm–1.2mm), Hypalon CSM, or drop-stitch core fabrics. Pre-production samples with your brand colours, logo, and packaging.',
+        body: 'Choose from military-grade laminated PVC (0.9mm\u20131.2mm) with double-layer drop-stitch cores. Pre-production samples with your brand colours, logo, and packaging.',
       },
       {
         heading: 'CE Compliance',
@@ -64,7 +64,7 @@ export const standalonePages: StandalonePage[] = [
       },
       {
         heading: 'Bulk Production & Inline QC',
-        body: '100-point quality checklist. Each unit undergoes 24–48 hour pressure retention testing and visual inspection before packing; seam peel strength is verified by batch sampling every 50 units (ASTM D751).',
+        body: '100-point quality checklist. Each unit undergoes 24\u201348 hour pressure retention testing and visual inspection before packing; seam peel strength is verified by batch sampling every 50 units (ASTM D751).',
       },
       {
         heading: 'FOB Qingdao Logistics',
@@ -72,7 +72,7 @@ export const standalonePages: StandalonePage[] = [
       },
     ],
     features: [
-      { label: '12,000 m² Facility', desc: 'ISO 9001 certified workshop in Qingdao' },
+      { label: '12,000 m\u00B2 Facility', desc: 'ISO 9001 certified workshop in Qingdao' },
       { label: '200+ Skilled Workers', desc: 'Experienced manufacturing workforce' },
       { label: '15,000+ Units/Year', desc: 'Annual production capacity' },
       { label: '50+ Countries', desc: 'Global export reach' },
@@ -84,28 +84,28 @@ export const standalonePages: StandalonePage[] = [
     slug: 'design-powerhouse',
     title: 'Design & Innovation',
     description:
-      'olagoon is more than a factory — we are a design-driven manufacturer. In-house R&D, hydrodynamic simulation, custom ODM solutions, and advanced material engineering for global B2B partners.',
+      'OLagoon is more than a factory \u2014 we are a design-driven manufacturer. In-house R&D, structural simulation, custom ODM solutions, and advanced drop-stitch material engineering for global B2B partners.',
     pageType: 'capability',
     sections: [
       {
         heading: 'Proprietary R&D & Engineering',
-        body: 'Our in-house R&D team consists of veteran marine engineers, industrial designers, and water sports enthusiasts. We leverage advanced hydrodynamic simulation and CAD v4.2 to optimize hull panel curvature, ensuring every SUP delivers trackability, speed, and stability matching rigid boards.',
+        body: 'Our in-house R&D team consists of veteran polymer engineers, industrial designers, and pool usability specialists. We leverage advanced structural simulation and CAD to optimize wall panel geometry, ensuring every OLagoon pool delivers rigidity, capacity, and comfort that rivals rigid pools.',
       },
       {
         heading: 'Ergonomics & Advanced Material Integration',
-        body: 'Our design philosophy centers around rider ergonomics — from precise ergonomic seat placement to engineered drop-stitch internal chamber architecture. We continuously innovate with military-grade PVC, reinforced drop-stitch hull panels, and UV-resistant coatings.',
+        body: 'Our design philosophy centers around the swimmer \u2014 from wall height and entry ergonomics to engineered drop-stitch chamber architecture. We continuously innovate with military-grade PVC, reinforced drop-stitch panels, and UV-resistant coatings.',
       },
       {
         heading: 'Turnkey ODM & White-Label Solutions',
-        body: 'We offer comprehensive ODM services including customized hull geometry, localized trend-driven graphic designs, branding placement, and bespoke accessory ecosystems. From sketch to shelf, we bring your brand vision to life.',
+        body: 'We offer comprehensive ODM services including customized pool geometry, localized trend-driven graphic designs, branding placement, and bespoke accessory ecosystems. From sketch to shelf, we bring your brand vision to life.',
       },
     ],
     features: [
-      { label: 'Hydrodynamic Simulation', desc: 'CFD and CAD-optimized hull curvature' },
-      { label: 'Ergonomic Engineering', desc: 'Precision rider-centric design' },
+      { label: 'Structural Simulation', desc: 'CAD-optimized wall and floor geometry' },
+      { label: 'Ergonomic Engineering', desc: 'Precision swimmer-centric design' },
       { label: 'Custom Mold & Tooling', desc: 'CNC-machined molds, 15-20 day prototypes' },
       { label: 'Bespoke Accessory Ecosystems', desc: 'Complete OEM accessory packages' },
-      { label: '14+ In-House Engineers', desc: 'Marine, industrial, and materials expertise' },
+      { label: '14+ In-House Engineers', desc: 'Polymer, industrial, and materials expertise' },
       { label: '8+ Registered Patents', desc: 'Proprietary design and manufacturing IP' },
     ],
   },

@@ -1,21 +1,19 @@
 slides:
-  - image: https://assets.olagoon.com/images/olagoon/hero/olagoon-hero-design-concept.webp
-    label: Design & Innovation
+  - image: /images/olagoon/hero/pool-lagoon-hero.webp
+    label: The OLagoon Collection
     categories:
-      - SUP
+      - POOL
       - ACCESSORY
-  - image: https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
-    label: R&D Team
+  - image: /images/olagoon/hero/kids-pool-fun.webp
+    label: Family Fun
     categories:
-      - SUP
-      - ACCESSORY
-  - image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
-    label: Production Workshop
+      - POOL
+  - image: /images/olagoon/hero/lakeside-olagoon.webp
+    label: Your Backyard Lagoon
     categories:
-      - SUP
-      - ACCESSORY
-  - image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
-    label: olagoon Factory
+      - POOL
+  - image: /images/olagoon/hero/production-dept.webp
+    label: OLagoon Factory
     categories:
-      - SUP
+      - POOL
       - ACCESSORY

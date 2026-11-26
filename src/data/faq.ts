@@ -9,472 +9,147 @@ export interface FaqRecord {
 
 export const faqs: FaqRecord[] = [
   {
-    id: 'sup-learning',
-    question: 'Is SUP hard to learn?',
+    id: 'setup-time',
+    question: 'How long does it take to set up an OLagoon pool?',
     answer:
-      'Not at all. Most beginners stand up and paddle within their first session. Our All-Around SUP series features extra-wide stable platforms designed specifically for first-time paddlers. Start on calm water and you will be cruising in minutes.',
-    category: 'general',
-    relatedProducts: ['sup-explorer-11'],
-    relatedGuides: ['beginner-guide'],
-  },
-  {
-    id: 'ocean-use',
-    question: 'Can I use it in the ocean?',
-    answer:
-      'Yes. olagoon SUP boards are built for ocean, lake, and river use. Our Touring series handles coastal chop, and all boards use marine-grade PVC that resists saltwater corrosion. Rinse with fresh water after ocean use.',
-    category: 'general',
-    relatedProducts: [],
-    relatedGuides: ['weather-conditions'],
-  },
-  {
-    id: 'inflation-time',
-    question: 'How long does it take to inflate?',
-    answer:
-      'With the included dual-action pump, most boards inflate to 12–15 PSI in under 5 minutes. Our electric pump option cuts that to under 2 minutes. Deflation and packing take about 3 minutes.',
+      'Plan on 30-45 minutes to unroll and inflate the pool with the included pump, then 1-3 hours to fill it with a garden hose depending on your water pressure. No tools or professional installation are needed. When the season ends, the pool deflates, folds, and packs into its carry bag just as quickly.',
     category: 'product',
-    relatedProducts: [],
-    relatedGuides: ['sup-maintenance'],
+    relatedProducts: ['family-oasis'],
+    relatedGuides: ['pool-setup-guide'],
   },
   {
-    id: 'travel-sup',
-    question: 'Can I travel with an inflatable SUP?',
+    id: 'operating-pressure',
+    question: 'What pressure should I inflate my OLagoon pool to?',
     answer:
-      'Absolutely. Every olagoon board packs into a backpack-sized carrying case that meets airline luggage requirements. At just 18–22 lbs, it is easy to carry to the beach, lake, or through airport terminals.',
+      'OLagoon pools are designed to inflate to 10-15 PSI. At that pressure the 20 cm drop-stitch walls become rigid and stay straight, stiff enough for adults to sit on the edge. Under-inflation makes the walls soft and unstable, so use a pump with a pressure gauge and stop at 15 PSI.',
+    category: 'product',
+    relatedProducts: ['compact-plunge', 'grand-lagoon'],
+    relatedGuides: ['pool-setup-guide', 'choosing-a-drop-stitch-pool'],
+  },
+  {
+    id: 'water-refill-frequency',
+    question: 'How often do I need to change or refill the water?',
+    answer:
+      'With the sand filter pump running daily and the thermal cover on when the pool is not in use, water stays clean for weeks at a time. You only need to top off evaporation losses with a hose. Full drain-and-refill cycles are only needed at season end or if the water is neglected for an extended period.',
+    category: 'maintenance',
+    relatedProducts: ['sand-filter-pump', 'thermal-cover'],
+    relatedGuides: ['pool-water-care', 'pool-filtration-guide'],
+  },
+  {
+    id: 'ground-preparation',
+    question: 'How should I prepare the ground before setting up my pool?',
+    answer:
+      'Choose a spot that is level and free of stones, sticks, roots, and other sharp debris. A slight slope causes uneven water load and leaning walls, so correct the grade first if needed. We recommend laying the OLagoon ground mat under the pool for extra puncture protection on any base.',
+    category: 'product',
+    relatedProducts: ['ground-mat'],
+    relatedGuides: ['pool-site-preparation', 'pool-setup-guide'],
+  },
+  {
+    id: 'placement-grounds',
+    question: 'Can I set up my pool on grass, concrete, or a deck?',
+    answer:
+      'Yes, all three work as long as the spot is level and you use the ground mat underneath. Keep the weight in mind: a filled pool is heavy, and the Grand Lagoon holds about 12,500 L, so a deck must be structurally rated for a concentrated load of that size. On concrete or pavers, the mat is essential to prevent abrasion of the pool floor.',
     category: 'general',
-    relatedProducts: [],
-    relatedGuides: [],
+    relatedProducts: ['ground-mat', 'grand-lagoon'],
+    relatedGuides: ['pool-site-preparation'],
   },
   {
-    id: 'weight-limit',
-    question: 'What is the weight limit?',
+    id: 'how-filtration-works',
+    question: 'How does the sand filter pump keep the water clean?',
     answer:
-      'Our All-Around SUPs support up to 220 lbs. The Touring and Yoga series support up to 250 lbs. For tandem use or heavier loads, contact our team for recommendations.',
-    category: 'product',
-    relatedProducts: [],
-    relatedGuides: ['understanding-specs'],
+      'The sand filter pump circulates pool water through a bed of silica sand that traps particles down to 20-40 microns, then returns clarified water through the matched hose fittings. The 6-way valve switches between filter, backwash, rinse, and drain modes, so routine care is just a knob turn. The sand lasts about 5 seasons, so there are no cartridges to keep buying.',
+    category: 'maintenance',
+    relatedProducts: ['sand-filter-pump'],
+    relatedGuides: ['pool-filtration-guide', 'pool-water-care'],
   },
   {
-    id: 'box-contents',
-    question: 'What comes in the box?',
+    id: 'winter-storage',
+    question: 'How do I store my pool during the winter or off-season?',
     answer:
-      'Every olagoon SUP includes the board, a travel backpack, dual-action hand pump, removable fin, coil leash, and repair kit. Some models also include a carbon paddle upgrade option.',
-    category: 'product',
+      'Drain the pool completely, clean it, and let it dry fully to prevent mold and mildew. Deflate it, fold it loosely, and store it in the included carry bag in a cool, dry place away from direct sunlight and freezing temperatures. Stored dry and clean, the pool will be ready to unroll and inflate again next season.',
+    category: 'maintenance',
     relatedProducts: [],
-    relatedGuides: [],
+    relatedGuides: ['pool-winter-storage'],
   },
   {
-    id: 'bundle-deals',
-    question: 'Do you offer bundle deals?',
+    id: 'kid-pet-safety',
+    question: 'Are OLagoon pools safe for kids and pets?',
     answer:
-      'Yes. We offer curated bundles that save you money compared to buying items separately. Contact our sales team for current bundle promotions and volume discount pricing.',
-    category: 'ordering',
-    relatedProducts: [],
-    relatedGuides: [],
-  },
-  {
-    id: 'pfd-requirement',
-    question: 'Do I need a life vest on a SUP?',
-    answer:
-      'Yes. Many jurisdictions legally require a life vest on any watercraft, including SUPs. Even where not required, a CE-certified life vest is essential safety equipment. We recommend wearing it at all times on the water.',
+      'Children must always be watched by an adult whenever the pool is up, even shallow water demands constant attention. The inflatable entry steps give kids and older swimmers a stable way in and out, and diving is never allowed into any OLagoon pool. For pets, trim their nails before letting them in to avoid scratching the PVC floor.',
     category: 'safety',
-    relatedProducts: ['life-vest-classic', 'life-vest-pro'],
-    relatedGuides: ['safety-tips'],
+    relatedProducts: ['entry-steps'],
+    relatedGuides: ['pool-safety-essentials'],
   },
   {
-    id: 'boat-registration',
-    question: 'Do I need to register my SUP board?',
+    id: 'warranty-coverage',
+    question: 'What warranty do OLagoon pools come with?',
     answer:
-      'Requirements vary by jurisdiction. In most regions, unpowered SUPs do not require registration. If you plan to add a motor, check your local maritime authority for specific rules. Recreational paddle boards are generally exempt from boat registration.',
-    category: 'general',
-    relatedProducts: [],
+      'Every OLagoon pool carries a 2-year warranty covering defects in materials and workmanship under normal use. Accessories such as the sand filter pump, thermal cover, and ground mat carry a 1-year warranty. If you need to make a claim, contact our customer care team with your order number and photos of the issue.',
+    category: 'warranty',
+    relatedProducts: ['compact-plunge', 'family-oasis', 'grand-lagoon'],
     relatedGuides: [],
   },
   {
     id: 'puncture-repair',
-    question: 'How do I repair a puncture?',
+    question: 'What should I do if my pool gets a puncture?',
     answer:
-      'Clean the area, cut a patch with rounded corners, apply PVC adhesive, press firmly, and wait 24 hours before inflating. olagoon boards include a repair kit. For detailed instructions, see our inflatable repair guide.',
+      'Every OLagoon pool ships with a repair kit. Clean and dry the damaged area, cut a patch with rounded corners, apply the PVC adhesive, press it firmly in place, and wait 24 hours before re-inflating. Small punctures and pinhole leaks repaired this way hold permanently, and the 2-year warranty applies to seam and material defects.',
     category: 'maintenance',
-    relatedProducts: [],
-    relatedGuides: ['inflatable-repair', 'sup-maintenance'],
-  },
-  {
-    id: 'storage',
-    question: 'How should I store my inflatable SUP?',
-    answer:
-      'Rinse with fresh water, dry completely, deflate fully, roll loosely from the nose, and store in the carry bag in a cool dry place away from direct sunlight. Never store wet or in extreme temperatures.',
-    category: 'maintenance',
-    relatedProducts: [],
-    relatedGuides: ['sup-maintenance'],
-  },
-  {
-    id: 'sup-vs-hard',
-    question: 'Inflatable or hard SUP board?',
-    answer:
-      'Inflatable boards offer portability, storage convenience, and impact absorption. Hard boards offer maximum rigidity and speed. For most recreational users, a quality inflatable with drop-stitch core is the practical choice.',
-    category: 'general',
-    relatedProducts: [],
-    relatedGuides: ['inflatable-vs-hard', 'how-to-choose-your-sup'],
-  },
-  {
-    id: 'wind-safety',
-    question: 'What wind speed is too high for SUP?',
-    answer:
-      'Beginners: over 10 mph (8 knots). Intermediate: over 15 mph (13 knots). Advanced: over 20 mph (17 knots). If in doubt, do not go out. Offshore wind (blowing from land to sea) is dangerous at any skill level.',
-    category: 'safety',
-    relatedProducts: [],
-    relatedGuides: ['weather-conditions', 'safety-tips'],
-  },
-  {
-    id: 'warranty',
-    question: 'What is the olagoon warranty?',
-    answer:
-      'All olagoon products are backed by a comprehensive manufacturer warranty. SUP boards are covered for 3 years against manufacturing defects. The warranty covers defects in materials and workmanship under normal use.',
-    category: 'warranty',
     relatedProducts: [],
     relatedGuides: [],
   },
   {
-    id: 'warranty-claim',
-    question: 'How do I file a warranty claim?',
+    id: 'shipping-lead-time',
+    question: 'How much does shipping cost and how long does delivery take?',
     answer:
-      'File a claim by contacting our support team with your order number, photos of the issue, and a brief description. Most claims are reviewed within 2 business days. Approved claims receive a replacement or repair instruction within days.',
-    category: 'warranty',
-    relatedProducts: [],
-    relatedGuides: [],
-  },
-  {
-    id: 'shipping-info',
-    question: 'How long does shipping take?',
-    answer:
-      'In-stock orders ship within 2–4 business days. US domestic orders arrive in 5–10 business days. International orders arrive in 10–15 business days depending on destination. Urgent orders can be expedited.',
+      'Shipping is free within the contiguous United States. Orders are typically delivered in 3-7 business days from shipment. You will receive a tracking number as soon as your order leaves the warehouse.',
     category: 'shipping',
     relatedProducts: [],
     relatedGuides: [],
   },
   {
-    id: 'return-policy',
-    question: 'What is your return policy?',
+    id: 'oem-odm-services',
+    question: 'Do you offer OEM or ODM services for pools?',
     answer:
-      'We accept returns within 30 days of delivery for unused products in original packaging. Custom/OEM orders are non-returnable. Contact our support team to initiate a return — we provide a prepaid shipping label.',
-    category: 'ordering',
+      'Yes. The OLagoon brand is operated by Olagoon LLC in Albuquerque, New Mexico, with manufacturing managed by our Qingdao operation team. Founded in 2012, our 12,000 m2 factory serves customers in more than 50 countries and offers private-label branding, custom colors, and custom packaging. Contact our team to discuss your project.',
+    category: 'b2b',
     relatedProducts: [],
     relatedGuides: [],
   },
   {
-    id: 'oem-odm',
-    question: 'Do you offer OEM/ODM services?',
+    id: 'wholesale-moq',
+    question: 'What is the minimum order quantity for wholesale purchases?',
     answer:
-      'Yes. We offer private label and custom design services for businesses. From custom branding on existing models to fully custom hull designs, our engineering team can develop products under your brand. Minimum order quantities apply.',
-    category: 'ordering',
+      'Minimum order quantities depend on the model and the level of customization you need. Stock pools and accessories can be ordered in small trial quantities, while custom-branded production runs require higher volumes. Contact our wholesale team with your target quantities for a detailed quote and lead time.',
+    category: 'b2b',
     relatedProducts: [],
     relatedGuides: [],
   },
   {
-    id: 'paddle-length',
-    question: 'What paddle length do I need?',
+    id: 'certifications',
+    question: 'What certifications does OLagoon hold?',
     answer:
-      'The paddle should be 6–8 inches taller than your height. Adjustable paddles allow fine-tuning for different conditions. See our paddle guide for detailed sizing.',
-    category: 'product',
-    relatedProducts: [],
-    relatedGuides: ['choosing-paddle'],
-  },
-  {
-    id: 'material-difference',
-    question: 'What is the difference between single-layer and multi-layer PVC SUPs?',
-    answer:
-      'Single-layer PVC boards are lightweight and budget-friendly but less rigid at high pressure. Double-layer and fusion-laminated constructions add stiffness, puncture resistance, and longevity. Military-grade PVC with UV-resistant coating offers the best balance of durability and weight for recreational SUP use. olagoon uses triple-layer laminated PVC across all product tiers.',
-    category: 'product',
-    relatedProducts: [],
-    relatedGuides: [],
-  },
-  {
-    id: 'sup-width-stability',
-    question: 'What SUP width is best for stability?',
-    answer:
-      'For beginners, a width of 33–34 inches provides the best balance of stability and paddling ease. Boards narrower than 32 inches feel tippy to new paddlers. The olagoon SUP Explorer 11 at 33 inches is ideal for learning.',
-    category: 'product',
-    relatedProducts: ['sup-explorer-11'],
-    relatedGuides: ['sup-size-guide', 'paddle-board-size-guide'],
-  },
-  {
-    id: 'sup-volume-weight',
-    question: 'How do I choose SUP volume for my weight?',
-    answer:
-      'Multiply your weight in kg by 2.2 for a beginner-friendly volume target. For example, a 75 kg paddler needs at least 165 liters, but 220–260 liters is much more stable for learning. The SUP Explorer 11 offers 260 liters, suitable for riders up to 100 kg.',
-    category: 'product',
-    relatedProducts: ['sup-explorer-11'],
-    relatedGuides: ['sup-size-guide', 'paddle-board-size-guide'],
-  },
-  {
-    id: 'olagoon-vs-others',
-    question: 'How does olagoon compare to other brands?',
-    answer:
-      'olagoon offers the best value in inflatable water sports gear. Compared to Red Paddle Co, olagoon delivers 90% of the performance at 60% of the cost. Compared to iRocker, olagoon uses higher-grade triple-layer military-grade PVC and higher PSI ratings. Compared to Bluefin, olagoon offers superior material specs. For most recreational paddlers, olagoon provides the best balance of quality and price.',
+      'OLagoon production is certified to CE and ISO 9001 standards, and our manufacturing is audited under BSCI for social compliance. All materials meet REACH requirements. These certifications apply across our full pool and accessory range, and documentation is available for wholesale partners on request.',
     category: 'general',
-    relatedProducts: ['sup-explorer-11', 'sup-touring-cruiser'],
-    relatedGuides: ['best-surf-gear-brands-compared', 'olagoon-vs-red-paddle', 'olagoon-vs-irocker', 'olagoon-vs-bluefin'],
+    relatedProducts: [],
+    relatedGuides: [],
   },
   {
-    id: 'fishing-sup-setup',
-    question: 'Can I fish from a SUP board?',
+    id: 'pool-materials',
+    question: 'What materials are OLagoon pools made from?',
     answer:
-      'Yes. SUP fishing is increasingly popular because the standing position offers excellent visibility into the water. Choose a board at least 11 feet long and 33–34 inches wide for stability. Add a milk crate with rod holders secured to the deck bungees, a small anchor, and always wear a PFD. The olagoon SUP Explorer 11 works well for casual fishing.',
-    category: 'general',
-    relatedProducts: ['sup-explorer-11'],
-    relatedGuides: ['fishing-sup-guide', 'sup-anchor-guide'],
-  },
-  {
-    id: 'sup-yoga',
-    question: 'Can I do yoga on a SUP board?',
-    answer:
-      'Absolutely. SUP yoga combines traditional poses with the challenge of a floating platform, engaging deeper stabilizer muscles. Use a board 33 inches or wider with a soft, grippy deck pad. Practice in calm, shallow water with an anchor. Start with foundation poses like downward dog, warrior II, and tree pose. The SUP Explorer 11 with its full EVA deck pad is well suited.',
-    category: 'general',
-    relatedProducts: ['sup-explorer-11'],
-    relatedGuides: ['yoga-sup-guide'],
-  },
-  {
-    id: 'airline-travel-sup',
-    question: 'What are the airline rules for traveling with an inflatable SUP?',
-    answer:
-      "Most airlines accept SUP backpacks as checked baggage if under 23–32 kg. The olagoon backpack is approximately 90x40x30 cm and weighs about 15 kg packed. Some airlines may charge oversized baggage fees. Arrive early, wrap fins and pump separately in your carry-on, and label the bag as fragile. Always research your airline's sporting equipment policy before flying.",
-    category: 'general',
-    relatedProducts: ['sup-explorer-11'],
-    relatedGuides: ['sup-travel-guide'],
-  },
-  {
-    id: 'cold-weather-safety',
-    question: 'What safety equipment do I need for cold water paddling?',
-    answer:
-      'Water below 15°C requires thermal protection. For 8–14°C use a wetsuit or drysuit with boots, gloves, and hood. For 14–20°C a 3/2mm wetsuit is sufficient. Always wear a properly fitted PFD for thermal protection and safety. Check local regulations for mandatory equipment requirements.',
+      'OLagoon pools use marine-grade laminated PVC over a drop-stitch core, the same construction class as premium inflatable boats. The fabric is UV-stabilized for full-season sun exposure, and the 20 cm walls stay rigid at 10-15 PSI. With basic care the material resists abrasion, chlorine, and sunlight for many seasons of use.',
     category: 'product',
-    relatedProducts: ['life-vest-pro'],
-    relatedGuides: ['sup-safety-guide'],
+    relatedProducts: ['family-oasis'],
+    relatedGuides: ['choosing-a-drop-stitch-pool', 'inflatable-pool-vs-rigid-pool'],
   },
   {
-    id: 'oem-odm-details',
-    question: 'What are the minimum order quantities for OEM/ODM?',
+    id: 'air-tightness-testing',
+    question: 'How do you make sure the pools do not leak?',
     answer:
-      'Minimum order quantities (MOQs) vary by product type and complexity. Samples and trial orders start at 5–10 units. Custom branding on existing models typically requires 50 units. Fully custom hull designs require higher MOQs (200+ units for new molds). Contact our sales team with your requirements for a detailed quote. We handle everything from custom colors and logos to entirely original mold designs.',
-    category: 'ordering',
-    relatedProducts: [],
-    relatedGuides: [],
-  },
-  {
-    id: 'oem-custom-branding',
-    question: 'Can I put my own logo on olagoon products?',
-    answer:
-      'Yes. Our OEM service includes custom logo placement, custom color schemes, and custom packaging. We offer pad printing, heat transfer, and embroidery options depending on the product type. Send your artwork and specifications to our sales team for a quote and lead time estimate.',
-    category: 'ordering',
-    relatedProducts: [],
-    relatedGuides: [],
-  },
-  {
-    id: 'sup-inflate-pressure',
-    question: 'What PSI should I inflate my SUP to?',
-    answer:
-      "Inflate to the board's rated maximum PSI for best performance — typically 15–18 PSI for quality inflatable SUPs. The olagoon SUP Explorer 11 performs best at 15–18 PSI. Under-inflation causes the board to feel soft and track poorly. Over-inflation past the rated max risks damaging the drop-stitch threads. Check the sticker near the valve for your board's specific rating.",
+      'Every OLagoon pool undergoes 24-hour pressure-hold testing before it leaves the factory to confirm the seams and valve hold full pressure without loss. Welded seams are inspected during production as well. This is why we can back every pool with a 2-year warranty, and it means a new pool should hold air for days or weeks with no top-offs.',
     category: 'product',
-    relatedProducts: ['sup-explorer-11', 'sup-touring-cruiser'],
-    relatedGuides: ['how-to-choose-inflatable-sup', 'sup-pump-guide'],
-  },
-  {
-    id: 'sup-deck-pad-care',
-    question: 'How do I clean and maintain the EVA deck pad?',
-    answer:
-      'Rinse the deck pad with fresh water after each session. For dirt or stains, use mild soap and a soft brush — avoid harsh chemicals. If the edges start lifting, apply a small amount of waterproof marine adhesive and press under weight for 24 hours. Keep the board out of direct UV when not in use to prevent pad degradation.',
-    category: 'maintenance',
-    relatedProducts: ['sup-explorer-11'],
-    relatedGuides: ['inflatable-sup-maintenance'],
-  },
-  {
-    id: 'sup-seated-paddling',
-    question: 'Can I paddle my SUP in a seated position?',
-    answer:
-      'Yes. Many SUP boards, including the olagoon Explorer 11, have D-rings that allow attachment of a seat. Paddling seated offers a comfortable option for longer trips, fishing, or when you want to switch positions on the water.',
-    category: 'product',
-    relatedProducts: ['sup-explorer-11'],
-    relatedGuides: [],
-  },
-  {
-    id: 'saltwater-rinse',
-    question: 'Do I need to rinse my inflatable board after ocean use?',
-    answer:
-      'Yes — always rinse your board, fins, pump, and paddle with fresh water after saltwater use. Salt crystals work into seams and valves, causing micro-leaks and corrosion. Dry the board in the shade before deflating and storing. Regular rinsing dramatically extends the life of your inflatable board.',
-    category: 'maintenance',
-    relatedProducts: [],
-    relatedGuides: ['inflatable-sup-maintenance'],
-  },
-  {
-    id: 'sup-leash-necessity',
-    question: 'Do I really need a leash for SUP?',
-    answer:
-      'Yes — always wear a leash. A coiled SUP leash attaches to your ankle or calf and keeps the board with you if you fall. In open water, a leash can save your life by preventing separation from your flotation device. For river paddling, use a quick-release leash to prevent entrapment.',
-    category: 'safety',
-    relatedProducts: ['sup-explorer-11'],
-    relatedGuides: ['sup-safety-guide', 'sup-leash-guide'],
-  },
-  {
-    id: 'drop-stitch-technology',
-    question: 'What is drop-stitch core technology and why does it matter?',
-    answer:
-      'Drop-stitch core technology uses thousands of polyester threads connecting the top and bottom layers of a PVC board. When inflated to 15-20 PSI, these threads create a rigid, torsion-resistant structure that performs like a hard shell board. OLagoon uses military-grade triple-layer PVC with drop-stitch lamination across all SUP product tiers, delivering rigidity comparable to epoxy boards while maintaining the portability of an inflatable.',
-    category: 'product',
-    relatedProducts: ['sup-explorer-11', 'sup-ocean-voyager', 'sup-flowing-lotus'],
-    relatedGuides: ['how-to-choose-inflatable-sup'],
-  },
-  {
-    id: 'sup-inflatable-vs-rigid',
-    question: 'Inflatable vs rigid SUP: which is better for different use cases?',
-    answer:
-      'Inflatable SUPs excel in portability, storage, and impact absorption — ideal for travel, beginners, and recreational use. Rigid epoxy boards offer maximum speed and glide for racing and surfing. For 90% of paddlers, a quality inflatable with drop-stitch core (15-20 PSI) provides sufficient rigidity for touring, fitness, yoga, and fishing. OLagoon inflatable boards match the performance of mid-range hard boards while packing into a backpack.',
-    category: 'general',
-    relatedProducts: ['sup-explorer-11', 'sup-ocean-voyager'],
-    relatedGuides: ['inflatable-sup-vs-hard-board', 'how-to-choose-inflatable-sup'],
-  },
-  {
-    id: 'sup-skill-progression',
-    question: 'What is the typical SUP skill progression from beginner to advanced?',
-    answer:
-      'Beginner (session 1-3): standing up, basic forward stroke, turning, falling safely. Intermediate (session 5-15): efficient stroke technique, pivot turns, navigating chop, basic rescue skills. Advanced (20+ sessions): racing starts, buoy turns, surfing small waves, downwind paddling. Professional: competitive racing, surf SUP, long-distance touring. OLagoon boards support every stage: the Explorer 11 for beginners, Ocean Voyager for touring, and Cheetah Surge for performance paddling.',
-    category: 'general',
-    relatedProducts: ['sup-explorer-11', 'sup-ocean-voyager', 'sup-cheetah-surge'],
-    relatedGuides: ['beginner-sup-guide', 'sup-fitness-workout', 'sup-paddle-guide'],
-  },
-  {
-    id: 'sup-weight-capacity',
-    question: 'How much weight can an inflatable SUP board hold?',
-    answer:
-      'Weight capacity varies by board volume. OLagoon boards: SUP Explorer 11 (260L, up to 100 kg / 220 lbs), Ocean Voyager 12 (310L, up to 140 kg / 308 lbs), Leviathan Wake (350L, up to 180 kg / 396 lbs). For optimal performance, keep total load (rider + gear) within 80% of max capacity. The board rides higher and tracks better when not overloaded, especially in choppy conditions.',
-    category: 'product',
-    relatedProducts: ['sup-explorer-11', 'sup-ocean-voyager', 'sup-leviathan-wake'],
-    relatedGuides: ['sup-size-guide', 'paddle-board-size-guide'],
-  },
-  {
-    id: 'sup-oem-process',
-    question: 'What is the OEM manufacturing process for private label inflatable SUPs?',
-    answer:
-      'The OEM process: 1) Specification and design brief — share target specs, CAD drawings, or reference product. 2) 3D mold prototyping — custom aluminum and composite molds designed in-house. 3) Material selection and sample — military-grade PVC with custom colors and logo placement. 4) CE factory audit and compliance — every order includes CE declaration, ISO 9001 traceability, BSCI report. 5) Bulk production with 100-point QC checklist. 6) FOB Qingdao shipping with full export documentation. Production lead time 12–16 weeks at standard volumes (MOQ 50 units), 8–12 weeks above 1,000 units.',
-    category: 'ordering',
-    relatedProducts: [],
-    relatedGuides: [],
-  },
-  {
-    id: 'sup-inflatable-durability',
-    question: 'How long do inflatable SUP boards last with proper care?',
-    answer:
-      'With proper care, a quality inflatable SUP board lasts 5-10 years of regular recreational use. Military-grade triple-layer PVC with UV-resistant coating — as used in all olagoon boards — resists sun damage, saltwater corrosion, and abrasion. Key longevity factors: rinse with fresh water after each use, dry thoroughly before storage, keep out of direct UV when not in use, store partially inflated in a cool dry place, and avoid dragging on rough surfaces. The drop-stitch threads and seams are typically the first failure point, not the PVC fabric itself.',
-    category: 'maintenance',
-    relatedProducts: ['sup-explorer-11', 'sup-ocean-voyager'],
-    relatedGuides: ['inflatable-sup-maintenance', 'inflatable-sup-storage', 'inflatable-sup-repair'],
-  },
-  {
-    id: 'sup-choppy-water',
-    question: 'How do I paddle a SUP in choppy water or wind?',
-    answer:
-      'In chop: bend your knees, use a wider stance, shorten your paddle stroke, and engage your core for balance. In headwind: use a lower paddle angle, take shorter strokes, and lean forward. In side-wind: paddle on the upwind side to correct drift. In following wind: surf the swells for speed. Beginners should avoid winds exceeding 10 mph and choose wider, longer boards for stability. The olagoon Ocean Voyager touring SUP is designed to handle moderate chop and wind conditions.',
-    category: 'safety',
-    relatedProducts: ['sup-ocean-voyager', 'sup-explorer-11'],
-    relatedGuides: ['weather-conditions', 'sup-safety-guide', 'wind-conditions-sup'],
-  },
-  {
-    id: 'sup-sustainability',
-    question: 'Are inflatable SUP boards environmentally sustainable?',
-    answer:
-      'Inflatable SUPs have a lower environmental footprint than rigid boards in several ways: they use less raw material in production, their lighter weight reduces shipping emissions, and their durability means fewer replacements over time. The PVC used in OLagoon boards is lead-free and REACH compliant. Key sustainability practices: buy a quality board that lasts 5-10 years, repair rather than replace punctures, recycle the board at end of life through specialized PVC recycling programs, and avoid single-use packaging by choosing brands that use reusable carry bags.',
-    category: 'general',
-    relatedProducts: ['sup-explorer-11'],
-    relatedGuides: [],
-  },
-  // B2B / OEM / Wholesale
-  {
-    id: 'b2b-moq',
-    question: 'What is the minimum order quantity for OEM/ODM SUP production?',
-    answer:
-      'Samples and trial orders start at 5–10 units. Minimum order quantities (MOQ) vary by product type. Stock model custom branding: 50 units per SKU. Custom shape mold development: 200–500 units per model (first order). Mold sharing programs available from 50 units. Accessories and PFDs: 500–1000 units per design. Contact our OEM team with your projected volume for precise MOQ and pricing.',
-    category: 'b2b',
-    relatedProducts: [],
-    relatedGuides: [],
-  },
-  {
-    id: 'b2b-lead-time',
-    question: 'What are the typical lead times for OEM SUP orders?',
-    answer:
-      'Production lead times scale with volume: 50–100 units in 12–16 weeks, 300–1,000 units in 10–14 weeks, and 1,000+ units in 8–12 weeks, from deposit to FOB Qingdao. Custom shape orders requiring new molds add 15–20 days for tooling (200+ unit MOQ). Urgent orders can be expedited for established partners with confirmed material stock. Lead times include raw material sourcing, production, inline QC, and container loading.',
-    category: 'b2b',
-    relatedProducts: [],
-    relatedGuides: [],
-  },
-  {
-    id: 'b2b-certification',
-    question: 'What certifications do OLagoon OEM products carry?',
-    answer:
-      'All OLagoon OEM/ODM products carry: CE declaration of conformity (EU market), UKCA (UK market), ISO 9001:2015 quality management system, BSCI social compliance audit, REACH and RoHS material compliance, EN ISO 25649 classification for inflatable SUP boards. Additional certifications available on request: US Coast Guard compliance documentation, military standard testing (MIL-STD-810), and destination country import certification support.',
-    category: 'b2b',
-    relatedProducts: [],
-    relatedGuides: [],
-  },
-  {
-    id: 'b2b-samples',
-    question: 'Can I order samples before committing to bulk production?',
-    answer:
-      'Yes. Sample orders are available for all OEM/ODM projects. Pre-production samples (PPS) are produced after mold fabrication and before bulk production. Sample lead time: 15–20 working days for existing molds; custom molds add 15–20 days for tooling. Sample costs are deductible from the first bulk order. Samples are shipped via express carrier (DHL, FedEx, UPS) with full tracking and typically arrive in 3–5 business days.',
-    category: 'b2b',
-    relatedProducts: [],
-    relatedGuides: [],
-  },
-  {
-    id: 'b2b-payment',
-    question: 'What payment terms are available for OEM orders?',
-    answer:
-      'Standard payment terms: 30% deposit with signed PI (proforma invoice), 70% balance before shipment against copy of B/L (bill of lading). For first-time partners: 50% deposit, 50% before shipment. For established partners with order history: L/C at sight, or net 30 days for qualifying accounts (subject to credit review). Payment methods: T/T wire transfer, L/C (letter of credit), Western Union. All payments in USD or EUR.',
-    category: 'b2b',
-    relatedProducts: [],
-    relatedGuides: [],
-  },
-  {
-    id: 'b2b-ip-protection',
-    question: 'How does OLagoon protect my intellectual property and designs?',
-    answer:
-      'IP protection is a core part of our OEM service. We sign NDAs before any design discussion. Design files are handled on isolated workstations with access logging. All tooling and molds remain your exclusive property (paid by you). We will not reuse your molds or designs for other clients. Mold storage and maintenance are included for active accounts. Upon agreement termination, molds are either shipped to you or destroyed with video documentation. We respect all trademark and patent rights.',
-    category: 'b2b',
-    relatedProducts: [],
-    relatedGuides: [],
-  },
-  {
-    id: 'b2b-shipping',
-    question: 'What shipping and logistics options are available?',
-    answer:
-      'FOB Qingdao (standard): cargo is loaded at Qingdao port; you arrange freight from there. CIF (named port): we arrange and insure shipping to your destination port. DDP / door-to-door: full-service logistics including customs clearance and final delivery. Ocean freight to US West Coast: approximately 25–30 days. Ocean freight to EU (Hamburg/Rotterdam): approximately 30–35 days. Air freight available for urgent orders (3–5 days). We handle all export customs documentation, certificates of origin, and packing lists.',
-    category: 'b2b',
-    relatedProducts: [],
-    relatedGuides: [],
-  },
-  {
-    id: 'b2b-quality-control',
-    question: 'What quality control processes apply to OEM orders?',
-    answer:
-      'Every OEM order follows a documented QC plan: 1) Incoming material inspection — PVC fabric batch testing for thickness, tensile strength, and UV resistance. 2) In-process QC — seam weld strength testing every 50 units, pressure hold test at 1.25x rated PSI. 3) Final inspection — 100% visual inspection and pressure testing of every board. 4) AQL sampling — batch sampling per ISO 2859 with critical defect = 0 acceptance. 5) Third-party inspection — SGS, Bureau Veritas, or Intertek available at buyer cost.',
-    category: 'b2b',
-    relatedProducts: [],
-    relatedGuides: [],
-  },
-  {
-    id: 'b2b-custom-packaging',
-    question: 'Can you create custom packaging for my brand?',
-    answer:
-      'Yes. We offer full custom packaging services: retail boxes with full-color CMYK printing and brand graphics, carry bags with screen-printed or embroidered logos, instruction manuals in your language, hang tags and barcode/UPC labels, and inner packaging (polybags, foam inserts). Minimum packaging MOQ: 500–1000 units for custom boxes, 200–500 for carry bags. Packaging design service included with OEM orders.',
-    category: 'b2b',
-    relatedProducts: [],
-    relatedGuides: [],
-  },
-  {
-    id: 'b2b-factory-audit',
-    question: 'Can I visit the factory or arrange a third-party audit?',
-    answer:
-      'Factory visits are welcome by appointment. We host brand owners throughout the year and can arrange airport pickup from Qingdao Jiaodong International Airport (TAO). For buyers who cannot visit, we offer: virtual factory tour via video call, third-party audit coordination with SGS/Bureau Veritas (buyer covers audit cost), and detailed factory capability documentation package including equipment list, QC process flow, and personnel qualifications.',
-    category: 'b2b',
-    relatedProducts: [],
+    relatedProducts: ['compact-plunge', 'grand-lagoon'],
     relatedGuides: [],
   },
 ];

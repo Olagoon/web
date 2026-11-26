@@ -1,48 +1,49 @@
 cases:
-  - id: beginner
-    title: Beginner Water Sports
-    desc: Stable SUP boards for first-time users.
+  - id: small-backyard
+    title: Small Backyard Plunge
+    desc: A compact rigid pool for tight spaces.
     scenario: >-
-      A family visiting a lake for the weekend wants to try paddle boarding.
-      They need stable, easy-to-launch equipment with clear safety guidance.
+      A couple with a small townhouse yard wants a real swimming pool for
+      cooling off and relaxing after work, without permanent construction.
     solution: >-
-      The SUP Explorer 11 provides wide-body stability for beginners. The Life
-      Vest Classic ensures CE-certified flotation. The Dual-Action Pump inflates
-      both boards in about 15–20 minutes.
+      The Compact Plunge Pool fits a 2m x 1.5m footprint and sets up on any
+      level surface. The Ground Mat protects the base, and the Thermal Pool
+      Cover keeps the water warm and clean between swims.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
+      - Compact Plunge Pool
+      - Ground Mat
+      - Thermal Pool Cover
+    image: /images/olagoon/products/compact-plunge.webp
 
-  - id: outdoor
-    title: Outdoor Exploration
-    desc: Portable SUP boards for rivers, lakes, and coastal trips.
+  - id: family-fun
+    title: Family Backyard Fun
+    desc: A full-size pool for the whole family.
     scenario: >-
-      An outdoor enthusiast plans a week-long river trip and needs a board that
-      packs small, inflates at camp, and handles varying currents.
+      A family of four wants a pool the kids can actually swim and play in all
+      summer, with clean water and easy entry for little ones.
     solution: >-
-      The SUP Explorer 11 packs into a backpack and inflates in about 8–12 minutes with the
-      included Dual-Action Pump. Its
-      drop-stitch construction handles lakes, slow rivers, and coastal paddling.
+      The Family Oasis Pool offers a 3m x 2m swim area with rigid 20cm
+      drop-stitch walls. The Sand Filter Pump keeps the water clear, and the
+      Entry Steps give children a safe, stable way in and out.
     products:
-      - SUP Explorer 11
-      - Carbon Paddle
-      - Life Vest Classic
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
+      - Family Oasis Pool
+      - Sand Filter Pump
+      - Entry Steps
+    image: /images/olagoon/products/family-oasis.webp
 
-  - id: family
-    title: Family Recreation
-    desc: Stable SUP boards for day trips and watersports.
+  - id: entertaining
+    title: Entertaining & Hosting
+    desc: A statement lagoon for gatherings.
     scenario: >-
-      A family of four wants stable SUP boards for weekend lake outings and
-      paddling together.
+      A homeowner who loves weekend gatherings wants a showpiece pool big
+      enough for guests of all ages, plus reliable water care with zero fuss.
     solution: >-
-      The SUP Explorer 11 provides stable, wide-body boards for all ages. The
-      Life Vest Classic keeps everyone safe. The Dual-Action Pump inflates
-      all boards in about 15–20 minutes.
+      The Grand Lagoon Pool delivers a 5m x 2.5m swim zone engineered like a
+      yacht deck. The Sand Filter Pump and Thermal Pool Cover keep the water
+      party-ready, and the Entry Steps complete the resort feel.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
+      - Grand Lagoon Pool
+      - Sand Filter Pump
+      - Entry Steps
+      - Thermal Pool Cover
+    image: /images/olagoon/products/grand-lagoon.webp
