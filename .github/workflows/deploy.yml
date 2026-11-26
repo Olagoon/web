@@ -86,7 +86,7 @@ jobs:
           fi
           if [ -z "$VID" ]; then
             echo "Creating Vectorize index ai-index (768 dims, cosine)..."
-            RESP=$(cf "/vectorize/v2/indexes" '{"name":"ai-index","dimensions":768,"metric":"cosine"}')
+            RESP=$(cf "/vectorize/v2/indexes" '{"name":"ai-index","config":{"dimensions":768,"metric":"cosine"}}')
             must_ok "Vectorize create" "$RESP"
           fi
 
