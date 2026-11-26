@@ -4,7 +4,6 @@ import { readFileSync, writeFileSync } from 'node:fs';
 
 const FILE = 'src/data/site/i18n-config.json';
 let raw = readFileSync(FILE, 'utf8');
-const beforeYacht = raw;
 
 // 1) Drop orphan yachtTender lines (then repair any dangling comma).
 const lines = raw.split('\n');

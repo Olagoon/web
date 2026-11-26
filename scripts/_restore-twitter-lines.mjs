@@ -6,7 +6,7 @@ let fixed = 0;
 for (const f of files) {
   const p = 'src/' + f;
   let t = fs.readFileSync(p, 'utf-8');
-  const re = /\n  twitter:\n(?:\n)*    cardType: summary_large_image/;
+  const re = /\n {2}twitter:\n(?:\n)* {4}cardType: summary_large_image/;
   if (re.test(t)) {
     t = t.replace(re, "\n  twitter:\n    handle: ''\n    site: ''\n    cardType: summary_large_image");
     fs.writeFileSync(p, t, 'utf-8');

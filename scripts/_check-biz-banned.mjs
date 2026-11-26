@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 
-const BANNED = /(?<![a-zA-Z])(sups?|paddles?|paddling|paddlers?|surfing|surfers|surfer|surfs|surf|kayaks?|vests?|wetsuit|isup|boards?)(?![a-zA-Z])/i;
+const BANNED =
+  /(?<![a-zA-Z])(sups?|paddles?|paddling|paddlers?|surfing|surfers|surfer|surfs|surf|kayaks?|vests?|wetsuit|isup|boards?)(?![a-zA-Z])/i;
 
 const files = [
   'src/data/biz-solutions/index.ts',

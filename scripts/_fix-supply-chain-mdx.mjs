@@ -2,8 +2,10 @@
 import { readFileSync, writeFileSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
 
-const FROM = "excerpt: 'From German-made PVC formulations to vertically integrated production in Qingdao, OLagoon's 2025 supply chain upgrades cut lead times and secure capacity for 15,000 pools a year.'";
-const TO = "excerpt: 'From German-made PVC formulations to vertically integrated production in Qingdao, OLagoon''s 2025 supply chain upgrades cut lead times and secure capacity for 15,000 pools a year.'";
+const FROM =
+  "excerpt: 'From German-made PVC formulations to vertically integrated production in Qingdao, OLagoon's 2025 supply chain upgrades cut lead times and secure capacity for 15,000 pools a year.'";
+const TO =
+  "excerpt: 'From German-made PVC formulations to vertically integrated production in Qingdao, OLagoon''s 2025 supply chain upgrades cut lead times and secure capacity for 15,000 pools a year.'";
 
 const targets = ['src/content/news'];
 let fixed = 0;

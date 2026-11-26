@@ -281,7 +281,8 @@ module.exports = {
   'home.why.olagoon.warranty': 'Garanti & support',
   'home.why.olagoon.warranty.point1': 'Klare garantibetingelser på hvert bræt, med responsiv eftermarkedssupport.',
   'home.why.olagoon.warranty.point2': 'Dedikeret eftermarkedsteam med hurtig respons.',
-  'home.why.olagoon.warranty.point3': 'Fuld transparens i forsyningskæden for klubber, detailhandlere og brandpartnere.',
+  'home.why.olagoon.warranty.point3':
+    'Fuld transparens i forsyningskæden for klubber, detailhandlere og brandpartnere.',
   'nav.home': 'Forside',
   'oem.desc':
     'OLagoon — førende OEM/ODM-producent af oppustelige SUP-brætter. CE-certificeret. Specialform, privat label, bulk-engros. Fra idé til marked på 16 uger.',

@@ -46,7 +46,11 @@ function walk(dir) {
   for (const name of readdirSync(dir)) {
     const p = join(dir, name);
     let st;
-    try { st = statSync(p); } catch { continue; }
+    try {
+      st = statSync(p);
+    } catch {
+      continue;
+    }
     if (st.isDirectory()) {
       if (skipDirs.has(name)) continue;
       walk(p);
@@ -56,12 +60,14 @@ function walk(dir) {
   }
 }
 for (const r of ['src', 'workers', 'functions']) {
-  try { walk(r); } catch {}
+  try {
+    walk(r);
+  } catch {
+    /* optional dir */
+  }
 }
 const fileContents = new Map(
-  files
-    .filter((f) => !f.replace(/\\/g, '/').includes('i18n-config'))
-    .map((f) => [f, readFileSync(f, 'utf8')])
+  files.filter((f) => !f.replace(/\\/g, '/').includes('i18n-config')).map((f) => [f, readFileSync(f, 'utf8')])
 );
 const isUsed = (k) => {
   for (const [, c] of fileContents) {
@@ -106,7 +112,11 @@ console.log('\n== COPY_EN ==');
 console.log(copyEn.sort().join('\n'));
 console.log('\n== MANUAL (used + dirty/missing EN — need authored pool values) ==');
 for (const k of manual.sort()) {
-  console.log(`${k} = ${String(cfg.en[k] ?? 'MISSING').replace(/\n/g, ' ').slice(0, 100)}`);
+  console.log(
+    `${k} = ${String(cfg.en[k] ?? 'MISSING')
+      .replace(/\n/g, ' ')
+      .slice(0, 100)}`
+  );
 }
 
 // ---------- final validation ----------

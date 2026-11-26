@@ -11,8 +11,13 @@ function walk(d) {
     else if (e.name.endsWith('.mdx') || e.name.endsWith('.md')) {
       const raw = readFileSync(p, 'utf8');
       const m = raw.match(/^---\r?\n([\s\S]*?)\r?\n---/);
-      if (!m) { bad.push([p, 'NO FRONTMATTER']); continue; }
-      try { yaml.load(m[1]); } catch (err) {
+      if (!m) {
+        bad.push([p, 'NO FRONTMATTER']);
+        continue;
+      }
+      try {
+        yaml.load(m[1]);
+      } catch (err) {
         bad.push([p, `${err.message.split('\n')[0]} @${err.mark ? err.mark.line + ':' + err.mark.column : '?'}`]);
       }
     }

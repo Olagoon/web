@@ -32,8 +32,9 @@ const node = nodes.find((n) => (n.slug && (n.slug.en || n.id)) === slug);
 const page = node ? useCaseFromNode(node, lang) : null;
 
 const productCategoryUrl: Record<string, string> = {
-  'inflatable-sup': '/inflatable-sup',
-  'safety-equipment': '/v2/life-jacket-buying-guide',
+  'inflatable-pool': '/products',
+  'steel-frame-pool': '/compare/inflatable-pool-vs-steel-frame-pool',
+  'hard-sided-pool': '/compare/inflatable-pool-vs-hard-sided-pool',
 };
 
 const useCaseCrumbs = page
@@ -61,7 +62,7 @@ const graphJsonLd = page
   : null;
 
 const metaTitle = page?.title || slug || 'Use Case';
-const metaDesc = page?.description || 'Learn about OLagoon inflatable SUP applications across industries.';
+const metaDesc = page?.description || 'Learn about OLagoon drop-stitch inflatable pool applications and use cases.';
 const metadata = { title: metaTitle, description: metaDesc };
 ---
 

@@ -21,7 +21,12 @@ module.exports = {
     title: '私たちの物語 — インフレータブルSUPボード・ボートのメーカー | {SITE}',
     description:
       '沿岸の工房から世界のボートメーカーへ：12,000㎡の認定工場を備えたolagoonの、技術と水の自由をめぐる物語。',
-    keywords: ['olagoonの歴史', 'olagoonブランド', 'インフレータブルSUPボードメーカー', 'インフレータブルボートメーカー'],
+    keywords: [
+      'olagoonの歴史',
+      'olagoonブランド',
+      'インフレータブルSUPボードメーカー',
+      'インフレータブルボートメーカー',
+    ],
   },
   'brand-global-presence': {
     title: 'グローバル展開 — 50カ国以上で供給するSUPメーカー | {SITE}',
@@ -56,7 +61,12 @@ module.exports = {
     title: 'olagoonブランド — プロフェッショナル船舶メーカー | {SITE}',
     description:
       'olagoon：ブランド、ディストリビューター、ヨットクラブ、企業向けにOEM/ODM生産を提供するインフレータブルSUPボード・ボートのプロフェッショナルメーカー。',
-    keywords: ['olagoonブランド', 'インフレータブルSUPボードメーカー', 'インフレータブルボートメーカー', 'SUP工場 中国'],
+    keywords: [
+      'olagoonブランド',
+      'インフレータブルSUPボードメーカー',
+      'インフレータブルボートメーカー',
+      'SUP工場 中国',
+    ],
   },
   cases: {
     title: '導入事例 — 成功したOEMプロジェクト | {SITE}',

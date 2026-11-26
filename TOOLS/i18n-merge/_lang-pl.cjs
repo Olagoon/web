@@ -195,7 +195,8 @@ module.exports = {
   'home.community.gallery.boats.desc':
     'Rodziny i odkrywcy czerpiący radość z pływania łodziami dmuchanymi OLagoon po jeziorach i wodach przybrzeżnych.',
   'home.community.gallery.sup': 'Deski SUP',
-  'home.community.gallery.sup.desc': 'Pływacze odkrywający jeziora, rzeki i wybrzeża na dmuchanych deskach SUP OLagoon.',
+  'home.community.gallery.sup.desc':
+    'Pływacze odkrywający jeziora, rzeki i wybrzeża na dmuchanych deskach SUP OLagoon.',
   'home.community.gallery.title': 'Przygody Klientów',
   'home.community.gallery.viewAll': 'Zobacz całą galerię',
   'home.engineering.design': 'Projektowanie produktów',

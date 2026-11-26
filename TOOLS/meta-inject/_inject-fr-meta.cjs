@@ -69,7 +69,12 @@ const PAGE_META = {
     title: 'Pourquoi olagoon — 7 Raisons de Choisir Notre Usine | {SITE}',
     description:
       'Marques mondiales choisissent olagoon : certifications CE et ISO, MOQ flexible, moule personnalisé, délai de 30 jours. Fabricant professionnel de SUP gonflables.',
-    keywords: ['pourquoi choisir olagoon', 'fabricant SUP gonflable', 'usine SUP Chine', 'fournisseur paddle gonflable'],
+    keywords: [
+      'pourquoi choisir olagoon',
+      'fabricant SUP gonflable',
+      'usine SUP Chine',
+      'fournisseur paddle gonflable',
+    ],
   },
   brand: {
     title: 'Marque olagoon — Fabricant Nautique Professionnel | {SITE}',

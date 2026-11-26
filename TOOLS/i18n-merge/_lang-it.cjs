@@ -286,7 +286,8 @@ module.exports = {
   'home.why.olagoon.title': 'Una Qualità di Cui Fidarsi',
   'home.why.olagoon.viewMore': 'Vedi Altro →',
   'home.why.olagoon.warranty': 'Garanzia & Assistenza',
-  'home.why.olagoon.warranty.point1': 'Termini di garanzia chiari su ogni tavola, con assistenza post-vendita reattiva.',
+  'home.why.olagoon.warranty.point1':
+    'Termini di garanzia chiari su ogni tavola, con assistenza post-vendita reattiva.',
   'home.why.olagoon.warranty.point2': 'Team post-vendita dedicato con risposta rapida.',
   'home.why.olagoon.warranty.point3':
     'Trasparenza completa della supply chain per circoli, rivenditori e brand partner.',

@@ -7,11 +7,20 @@ const DIR = 'src/data/pages';
 // Ordered: longest first. [pattern, replacement, flags]
 const RULES = [
   // --- images (R2 + local): sup-series decorative shots -> pool products
-  [/products\/sup-series\/sup-(?:ocean-voyager|ocean-pulse|touring|leviathan-wake|rheo|horizon-lines)[^'"\s]*/g, 'products/grand-lagoon.webp'],
-  [/products\/sup-series\/sup-(?:yoga|flowing-lotus|medusa-glow|jungle-mandala|tropical-breeze|dolphin-wave|cheetah-surge)[^'"\s]*/g, 'products/family-oasis.webp'],
+  [
+    /products\/sup-series\/sup-(?:ocean-voyager|ocean-pulse|touring|leviathan-wake|rheo|horizon-lines)[^'"\s]*/g,
+    'products/grand-lagoon.webp',
+  ],
+  [
+    /products\/sup-series\/sup-(?:yoga|flowing-lotus|medusa-glow|jungle-mandala|tropical-breeze|dolphin-wave|cheetah-surge)[^'"\s]*/g,
+    'products/family-oasis.webp',
+  ],
   [/products\/sup-series\/sup-(?:mini|giant|fishing|lure-skiff)[^'"\s]*/g, 'products/compact-plunge.webp'],
   [/factory\/olagoon-sup-manufacturing[^'"\s]*/g, 'factory/olagoon-production-department.webp'],
-  [/scenarios\/(?:all-around|dock-platform|fishing|giant|surf|touring|whitewater|yoga)\/[^'"\s]*/g, 'hero/kids-pool-fun.webp'],
+  [
+    /scenarios\/(?:all-around|dock-platform|fishing|giant|surf|touring|whitewater|yoga)\/[^'"\s]*/g,
+    'hero/kids-pool-fun.webp',
+  ],
   [/products\/olagoon-life-vest[^'"\s]*/g, 'products/sand-filter-pump.webp'],
   [/team\/olagoon-paddle-girls-team\.webp/g, 'team/olagoon-helen-contact-sales.webp'],
   [/use-cases\/olagoon-beginner-use-case\.webp/g, 'use-cases/olagoon-family-use-case.webp'],
@@ -62,11 +71,14 @@ for (const f of files) {
 console.log(`poolified ${totalChanged}/${files.length} root page YAMLs`);
 
 // remaining hits per file (Tier B leftovers for hand-fixing)
-const BANNED = /(?<![a-zA-Z])(sups?|paddles?|paddling|paddlers?|surf|kayak|isup|boards?|life ?vests?|wetsuit)(?![a-zA-Z])/i;
 const left = [];
 for (const f of files) {
   const raw = readFileSync(join(DIR, f), 'utf8');
-  const hits = [...raw.matchAll(/.{0,30}(?<![a-zA-Z])(sups?|paddles?|paddling|paddlers?|surf|kayak|isup|boards?|life ?vests?|wetsuit)(?![a-zA-Z]).{0,20}/gi)].length;
+  const hits = [
+    ...raw.matchAll(
+      /.{0,30}(?<![a-zA-Z])(sups?|paddles?|paddling|paddlers?|surf|kayak|isup|boards?|life ?vests?|wetsuit)(?![a-zA-Z]).{0,20}/gi
+    ),
+  ].length;
   if (hits > 0) left.push([f, hits]);
 }
 left.sort((a, b) => b[1] - a[1]);

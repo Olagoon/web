@@ -4,7 +4,9 @@ import { join } from 'node:path';
 
 const DIR = 'src/data/pages';
 const files = ['solutions-by-industry.yaml', 'solutions-by-use-case.yaml'];
-const langs = readdirSync(DIR, { withFileTypes: true }).filter((d) => d.isDirectory()).map((d) => d.name);
+const langs = readdirSync(DIR, { withFileTypes: true })
+  .filter((d) => d.isDirectory())
+  .map((d) => d.name);
 let copied = 0;
 for (const f of files) {
   const raw = readFileSync(join(DIR, f), 'utf8');

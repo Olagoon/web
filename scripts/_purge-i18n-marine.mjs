@@ -60,6 +60,8 @@ for (const loc of Object.keys(cfg)) {
 }
 if (residual > 0) throw new Error('residual keys remain');
 const en = cfg['en'];
-const keptKeys = Object.keys(en).filter((k) => k.startsWith('solutionsByIndustry.') || k.startsWith('solutionsByUseCase.'));
+const keptKeys = Object.keys(en).filter(
+  (k) => k.startsWith('solutionsByIndustry.') || k.startsWith('solutionsByUseCase.')
+);
 console.log('JSON valid; residual keys: 0; EN kept keys:', keptKeys.length);
 console.log(keptKeys.join('\n'));

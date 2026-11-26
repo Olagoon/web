@@ -12,7 +12,7 @@ import { getRatingStats } from '~/data/reviews';
 const metadata = {
   title: `Product Comparison — ${SITE.name}`,
   description:
-    'Compare olagoon inflatable SUPs and accessories side by side. Length, width, weight, capacity, and more.',
+    'Compare olagoon inflatable pools and accessories side by side. Length, width, weight, capacity, and more.',
 };
 
 const products = await getProducts();
@@ -84,10 +84,10 @@ for (const p of products) {
     <a href="/products" class="text-sm text-sky-600 hover:text-sky-700">&larr; Products</a>
     <h1 class="mt-4 text-4xl font-semibold text-gray-900">Product Comparison</h1>
     <p class="mt-4 text-lg text-gray-500">
-      Compare all olagoon products side by side. Find the right board or accessory for your needs.
+      Compare all OLagoon products side by side. Find the right pool or accessory for your needs.
     </p>
 
-    <h2 id="paddle-boards" class="mt-14 text-2xl font-semibold text-gray-900">Paddle Boards</h2>
+    <h2 id="inflatable-pools" class="mt-14 text-2xl font-semibold text-gray-900">Inflatable Pools</h2>
     <div class="mt-6 overflow-x-auto">
       <table class="w-full text-sm border-collapse">
         <thead>
@@ -230,16 +230,16 @@ for (const p of products) {
     </div>
 
     <div class="mt-14 rounded-2xl bg-sky-50 border border-sky-100 px-6 py-10 text-center">
-      <h2 class="text-2xl font-semibold text-gray-900">Not sure which board is right for you?</h2>
+      <h2 class="text-2xl font-semibold text-gray-900">Not sure which pool is right for you?</h2>
       <p class="mt-3 text-gray-600 max-w-2xl mx-auto">
-        Use our size guide to find the right board in under a minute — or ask our team, we are happy to help.
+        Use our size guide to find the right pool in under a minute — or ask our team, we are happy to help.
       </p>
       <div class="mt-6 flex flex-wrap justify-center gap-3">
         <a
           href="/size-guide/"
           class="px-6 py-3 bg-sky-600 text-white text-sm font-semibold rounded-lg hover:bg-sky-700 transition-colors"
         >
-          Find Your Board
+          Find Your Pool
         </a>
         <a
           href="/contact/"
@@ -252,10 +252,9 @@ for (const p of products) {
 
     <section class="sr-only" data-ai-block="definition" aria-hidden="true">
       <p>
-        olagoon product comparison tables covering {products.length} products: {boardProducts.length} paddle boards and {
-          accessoryProducts.length
-        } accessories. Compare best-for audience, skill level, length, width, weight, max load, and material. Includes a size
-        guide call-to-action for board selection help.
+        olagoon product comparison tables covering {products.length} products: {boardProducts.length} inflatable pools and
+        {accessoryProducts.length} accessories. Compare best-for audience, skill level, length, width, weight, max load, and
+        material. Includes a size guide call-to-action for pool selection help.
       </p>
     </section>
   </section>

@@ -446,7 +446,7 @@ const solutions: BizSolution[] = [
       customer: {
         location: 'Boulder, Colorado, United States',
         background:
-          "A 22-year-old outdoor gear brand with $48M annual revenue, strong presence in US specialty retail and REI, and a loyal customer base in camping and hiking categories. The category management team identified backyard recreation as the fastest-growing adjacency in their customer research, with 61% of their email list owning or planning to buy an above-ground pool.",
+          'A 22-year-old outdoor gear brand with $48M annual revenue, strong presence in US specialty retail and REI, and a loyal customer base in camping and hiking categories. The category management team identified backyard recreation as the fastest-growing adjacency in their customer research, with 61% of their email list owning or planning to buy an above-ground pool.',
         goal: "To launch a co-branded 'Basecamp Backyard' pool line for the following spring season with 3 SKUs, retail-ready packaging, and first-year sales of $3.2M without building internal inflatable expertise.",
       },
       steps: [
@@ -671,8 +671,8 @@ const solutions: BizSolution[] = [
       customer: {
         location: 'Austin, Texas, United States',
         background:
-          "A two-person ecommerce team running a $2.1M home-goods portfolio across Amazon and Shopify. They spotted drop-stitch pools trending in spring search data but found only commodity ring pools below $200 and rigid pools above $3,000 — nothing in the $800-1,500 premium-portable band.",
-        goal: "To launch a single hero pool SKU on Amazon with $150,000 first-season revenue and a 4.5+ star rating, using less than $60,000 of inventory capital.",
+          'A two-person ecommerce team running a $2.1M home-goods portfolio across Amazon and Shopify. They spotted drop-stitch pools trending in spring search data but found only commodity ring pools below $200 and rigid pools above $3,000 — nothing in the $800-1,500 premium-portable band.',
+        goal: 'To launch a single hero pool SKU on Amazon with $150,000 first-season revenue and a 4.5+ star rating, using less than $60,000 of inventory capital.',
       },
       steps: [
         {
@@ -688,7 +688,7 @@ const solutions: BizSolution[] = [
         {
           title: 'Step 3 - Replenishment Scaling and Bundle Expansion',
           detail:
-            "Sell-through hit 82% by week 9, triggering a 600-unit replenishment order delivered in 4 weeks via reserved capacity. A sand-filter-pump bundle at $1,149 raised average order value 21%. By season end the brand had added the Family Oasis size as a second ASIN.",
+            'Sell-through hit 82% by week 9, triggering a 600-unit replenishment order delivered in 4 weeks via reserved capacity. A sand-filter-pump bundle at $1,149 raised average order value 21%. By season end the brand had added the Family Oasis size as a second ASIN.',
         },
       ],
       results: [
@@ -719,8 +719,7 @@ const solutions: BizSolution[] = [
         },
         {
           title: 'One-Team Execution',
-          description:
-            'Engineering, packaging, content, and logistics handled by a single OLagoon program manager.',
+          description: 'Engineering, packaging, content, and logistics handled by a single OLagoon program manager.',
         },
       ],
     },
@@ -807,7 +806,7 @@ const solutions: BizSolution[] = [
         {
           title: 'Leased Spaces Cannot Commit to Construction',
           description:
-            "Most wellness studios lease their locations. Landlords rarely approve permanent water installations, and operators cannot risk capital in a space they do not own.",
+            'Most wellness studios lease their locations. Landlords rarely approve permanent water installations, and operators cannot risk capital in a space they do not own.',
         },
         {
           title: 'Recovery Demand Is Exploding but Product Options Are Commodity-Grade',
@@ -897,7 +896,7 @@ const solutions: BizSolution[] = [
         location: 'Helsinki, Finland',
         background:
           "A Nordic wellness group operating three recovery studios built around sauna, contrast therapy, and guided breathwork. Members consistently ranked cold immersion as their most requested addition, but the group's existing steel plunge tubs cost €9,000 per unit, and its leased harborside studio prohibited permanent installations entirely.",
-        goal: "To equip all three studios with cold plunge and warm relaxation pools within one quarter, keeping per-location investment under €25,000 and converting at least 40% of sauna sessions into full recovery-circuit visits.",
+        goal: 'To equip all three studios with cold plunge and warm relaxation pools within one quarter, keeping per-location investment under €25,000 and converting at least 40% of sauna sessions into full recovery-circuit visits.',
       },
       steps: [
         {
@@ -1122,7 +1121,7 @@ const solutions: BizSolution[] = [
         location: 'Orlando, Florida, United States',
         background:
           "A nine-year event rental company with 240 inflatable attractions and 18 delivery crews serving Greater Orlando's backyard party, graduation, and corporate picnic market. Clients asked for pool rentals every summer week, but the owner refused to rent commodity pools after an early test fleet failed at a 22% per-rental damage rate.",
-        goal: "To launch a premium pool rental line with 12 rental-grade units, $85,000 in first-season rental revenue, and zero mid-event equipment failures.",
+        goal: 'To launch a premium pool rental line with 12 rental-grade units, $85,000 in first-season rental revenue, and zero mid-event equipment failures.',
       },
       steps: [
         {
@@ -1138,7 +1137,7 @@ const solutions: BizSolution[] = [
         {
           title: 'Step 3 - Season Launch and Fleet Sellout',
           detail:
-            "The pool line launched Memorial Day weekend at $349 for a weekend Family Oasis rental and $549 for the Grand Lagoon, including delivery, setup, and Monday pickup. The 12-unit fleet sold out every weekend from mid-June through the first week of August. Two units suffered guest damage — a punctured base and a torn valve collar — and both were repaired with fleet patch kits and returned to service within four days.",
+            'The pool line launched Memorial Day weekend at $349 for a weekend Family Oasis rental and $549 for the Grand Lagoon, including delivery, setup, and Monday pickup. The 12-unit fleet sold out every weekend from mid-June through the first week of August. Two units suffered guest damage — a punctured base and a torn valve collar — and both were repaired with fleet patch kits and returned to service within four days.',
         },
       ],
       results: [
@@ -1169,8 +1168,7 @@ const solutions: BizSolution[] = [
         },
         {
           title: 'Growth Partnership',
-          description:
-            'Fleet expansion planning, volume pricing, and demand-timing support as your bookings sell out.',
+          description: 'Fleet expansion planning, volume pricing, and demand-timing support as your bookings sell out.',
         },
       ],
     },
@@ -1363,7 +1361,7 @@ const solutions: BizSolution[] = [
         {
           title: 'Step 3 - Season Operation and Guest Response',
           detail:
-            "The pools operated daily from the May long weekend through Thanksgiving. The Grand Lagoon anchored the afternoon family program while lake swimming warmed up, and the two Family Oasis pools absorbed weekend overflow. By season end the pools appeared in 62% of five-star guest reviews, and front-desk staff reported the pool as the most-asked-about amenity at booking.",
+            'The pools operated daily from the May long weekend through Thanksgiving. The Grand Lagoon anchored the afternoon family program while lake swimming warmed up, and the two Family Oasis pools absorbed weekend overflow. By season end the pools appeared in 62% of five-star guest reviews, and front-desk staff reported the pool as the most-asked-about amenity at booking.',
         },
       ],
       results: [
@@ -1567,7 +1565,7 @@ const solutions: BizSolution[] = [
         {
           title: 'Step 1 - Satellite Site and Host Family Program',
           detail:
-            "OLagoon helped the academy structure a host-family program: families with suitable backyards received discounted lessons in exchange for hosting classes. Four hosts were recruited from the existing waitlist, each qualified on access, shade, and level ground. Each site received one Family Oasis pool with a full accessory kit including sand-filter pump, entry steps, ground mat, and thermal cover.",
+            'OLagoon helped the academy structure a host-family program: families with suitable backyards received discounted lessons in exchange for hosting classes. Four hosts were recruited from the existing waitlist, each qualified on access, shade, and level ground. Each site received one Family Oasis pool with a full accessory kit including sand-filter pump, entry steps, ground mat, and thermal cover.',
         },
         {
           title: 'Step 2 - Fleet Deployment and Instructor Training',
@@ -1802,7 +1800,7 @@ const solutions: BizSolution[] = [
         {
           title: 'Step 3 - Season Performance and Listing Update',
           detail:
-            "Listings were updated in April with new pool-forward photography, the private-pool filter tag, and refreshed amenity descriptions. Weekly rates on the equipped villas were raised 22% for the May season. By July, all ten properties had reached 90%+ occupancy, and guest reviews mentioned the pool in 71% of five-star ratings.",
+            'Listings were updated in April with new pool-forward photography, the private-pool filter tag, and refreshed amenity descriptions. Weekly rates on the equipped villas were raised 22% for the May season. By July, all ten properties had reached 90%+ occupancy, and guest reviews mentioned the pool in 71% of five-star ratings.',
         },
       ],
       results: [
@@ -2473,7 +2471,7 @@ const solutions: BizSolution[] = [
         {
           title: 'Step 2 - Branding and Production Prep',
           detail:
-            "Campaign artwork was proofed and printed as full wall graphics, with entry steps and cover styling coordinated to the launch palette. The agency rehearsed the fold-pack in its warehouse, and OLagoon provided a 90-minute crew run-sheet covering inflation to 10-15 PSI, fill sequencing from the venue supply, and a 40-minute teardown plan.",
+            'Campaign artwork was proofed and printed as full wall graphics, with entry steps and cover styling coordinated to the launch palette. The agency rehearsed the fold-pack in its warehouse, and OLagoon provided a 90-minute crew run-sheet covering inflation to 10-15 PSI, fill sequencing from the venue supply, and a 40-minute teardown plan.',
         },
         {
           title: 'Step 3 - Event Execution and Fleet Reuse',
@@ -2547,7 +2545,10 @@ const solutions: BizSolution[] = [
       },
     ],
     cta: {
-      primaryAction: { text: 'Design Your Event Pool Experience', href: '/contact?subject=corporate-event-pool-package' },
+      primaryAction: {
+        text: 'Design Your Event Pool Experience',
+        href: '/contact?subject=corporate-event-pool-package',
+      },
       secondaryAction: { text: 'View Pool Products', href: '/products' },
     },
   },
@@ -2703,7 +2704,7 @@ const solutions: BizSolution[] = [
         {
           title: 'Step 3 - Season Operation and Family Response',
           detail:
-            "Pools operated daily from mid-June through early August in 20-minute session blocks with counselor rotations. The water zones ran 14,800 camper visits across the season with zero incidents, and camper surveys ranked water programming the top camp activity. By the August family weekend, next-season enrollment deposits were up 23% year over year.",
+            'Pools operated daily from mid-June through early August in 20-minute session blocks with counselor rotations. The water zones ran 14,800 camper visits across the season with zero incidents, and camper surveys ranked water programming the top camp activity. By the August family weekend, next-season enrollment deposits were up 23% year over year.',
         },
       ],
       results: [

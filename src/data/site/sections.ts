@@ -25,7 +25,11 @@ export const SITE_SECTIONS: SiteSection[] = [
   { label: 'Technology', path: '/technology', sitemap: { entity: 'technology', type: 'technology', priority: '0.7' } },
   { label: 'Academy', path: '/academy', sitemap: { entity: 'academy', type: 'education', priority: '0.7' } },
   { label: 'Size Guide', path: '/size-guide', sitemap: { entity: 'size-guide', type: 'product', priority: '0.5' } },
-  { label: 'olagoon Story', path: '/olagoon-story', sitemap: { entity: 'olagoon-story', type: 'brand', priority: '0.8' } },
+  {
+    label: 'olagoon Story',
+    path: '/olagoon-story',
+    sitemap: { entity: 'olagoon-story', type: 'brand', priority: '0.8' },
+  },
   { label: 'Gallery', path: '/gallery', sitemap: { entity: 'gallery', type: 'media', priority: '0.5' } },
   { label: 'Warranty', path: '/warranty', sitemap: { entity: 'warranty', type: 'support', priority: '0.5' } },
   { label: 'Factory', path: '/factory', sitemap: { entity: 'factory', type: 'service', priority: '0.7' } },
@@ -56,11 +60,6 @@ export const SITE_SECTIONS: SiteSection[] = [
     sitemap: { entity: 'olagoon-vs-traditional', type: 'compare', priority: '0.7' },
   },
   {
-    label: 'SUP Basics',
-    path: '/en/learn/sup-basics',
-    sitemap: { entity: 'sup-basics', type: 'guide', priority: '0.8' },
-  },
-  {
     label: 'Inflatable Technology',
     path: '/en/learn/inflatable-technology',
     sitemap: { entity: 'inflatable-technology', type: 'guide', priority: '0.7' },
@@ -74,11 +73,6 @@ export const SITE_SECTIONS: SiteSection[] = [
     label: 'olagoon AI Brand Profile',
     path: '/llms/brand/olagoon',
     sitemap: { entity: 'llms-brand', type: 'reference', priority: '0.3' },
-  },
-  {
-    label: 'SUP Types AI Reference',
-    path: '/llms/compare/sup-types',
-    sitemap: { entity: 'llms-compare', type: 'reference', priority: '0.3' },
   },
   {
     label: 'Drop-Stitch Technology AI Reference',
@@ -109,16 +103,6 @@ export const SITE_SECTIONS: SiteSection[] = [
     label: 'Drop-Stitch Core Technology',
     path: '/en/learn/drop-stitch-core',
     sitemap: { entity: 'drop-stitch-core', type: 'guide', priority: '0.7' },
-  },
-  {
-    label: 'Intermediate Paddling Techniques',
-    path: '/en/learn/intermediate-techniques',
-    sitemap: { entity: 'intermediate-techniques', type: 'guide', priority: '0.6' },
-  },
-  {
-    label: 'SUP Size Guide',
-    path: '/en/learn/sup-size-guide',
-    sitemap: { entity: 'sup-size-guide-learn', type: 'guide', priority: '0.8' },
   },
   {
     label: 'Marine Industry Authority',

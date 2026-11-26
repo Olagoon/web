@@ -28,47 +28,37 @@ interface UseCaseEntry {
 
 const defaultCases: UseCaseEntry[] = [
   {
-    id: 'beginner',
-    title: 'Beginner Water Sports',
-    desc: 'Stable SUP boards for first-time users.',
+    id: 'small-backyard',
+    title: 'Small Backyard Plunge',
+    desc: 'A compact rigid pool for tight spaces.',
     scenario:
-      'A family visiting a lake for the weekend wants to try paddle boarding. They need stable, easy-to-launch equipment with clear safety guidance.',
+      'A couple with a small townhouse yard wants a real swimming pool for cooling off and relaxing after work, without permanent construction.',
     solution:
-      'The SUP Explorer 11 provides wide-body stability for beginners. The Life Vest Classic ensures CE-certified flotation. The Dual-Action Pump inflates both boards in under 10 minutes.',
-    products: ['SUP Explorer 11', 'Life Vest Classic', 'Dual-Action Pump'],
-    image: 'https://assets.olagoon.com/images/olagoon/use-cases/olagoon-beginner-use-case.webp',
+      'The Compact Plunge Pool fits a 2m x 1.5m footprint and sets up on any level surface. The Ground Mat protects the base, and the Thermal Pool Cover keeps the water warm and clean between swims.',
+    products: ['Compact Plunge Pool', 'Ground Mat', 'Thermal Pool Cover'],
+    image: '/images/olagoon/products/compact-plunge.webp',
   },
   {
-    id: 'outdoor',
-    title: 'Outdoor Exploration',
-    desc: 'Portable SUPs for rivers, lakes, and coastal trips.',
+    id: 'family-fun',
+    title: 'Family Backyard Fun',
+    desc: 'A full-size pool for the whole family.',
     scenario:
-      'An outdoor enthusiast plans a week-long river trip and needs a board that packs small, inflates at camp, and handles varying conditions.',
+      'A family of four wants a pool the kids can actually swim and play in all summer, with clean water and easy entry for little ones.',
     solution:
-      'The SUP Explorer 11 packs into a backpack and inflates in under 5 minutes. Its drop-stitch construction handles lakes, slow rivers, and coastal paddling.',
-    products: ['SUP Explorer 11', 'Carbon Paddle', 'Life Vest Classic'],
-    image: 'https://assets.olagoon.com/images/olagoon/use-cases/olagoon-outdoor-events.webp',
+      'The Family Oasis Pool offers a 3m x 2m swim area with rigid 20cm drop-stitch walls. The Sand Filter Pump keeps the water clear, and the Entry Steps give children a safe, stable way in and out.',
+    products: ['Family Oasis Pool', 'Sand Filter Pump', 'Entry Steps'],
+    image: '/images/olagoon/products/family-oasis.webp',
   },
   {
-    id: 'pro',
-    title: 'Professional Operations',
-    desc: 'Commercial-grade SUPs for tour operators and professional use.',
+    id: 'entertaining',
+    title: 'Entertaining & Hosting',
+    desc: 'A statement lagoon for gatherings.',
     scenario:
-      'A coastal tour operator needs a fleet of durable SUPs that run daily trips in varying water conditions and meet commercial safety regulations.',
+      'A homeowner who loves weekend gatherings wants a showpiece pool big enough for guests of all ages, plus reliable water care with zero fuss.',
     solution:
-      'SUP boards like the Explorer 11 and Tour 12 use military-grade PVC drop-stitch construction for all-weather durability. Multiple units can be deployed with consistent performance.',
-    products: ['SUP Explorer 11', 'SUP Tour 12', 'Life Vest Pro'],
-    image: 'https://assets.olagoon.com/images/olagoon/use-cases/olagoon-professional-use-case.webp',
-  },
-  {
-    id: 'family',
-    title: 'Family Recreation',
-    desc: 'Stable SUPs for day trips, paddling, and watersports.',
-    scenario: 'A family of four wants stable SUPs for weekend lake outings, paddling, and recreational fun.',
-    solution:
-      'The AirDeck 360 seats up to five with a reinforced air deck floor. It inflates at the launch site, stores in the car, and handles both calm lakes and sheltered coastal waters.',
-    products: ['AirDeck 360', 'Life Vest Classic', 'Dual-Action Pump'],
-    image: 'https://assets.olagoon.com/images/olagoon/use-cases/olagoon-family-use-case.webp',
+      'The Grand Lagoon Pool delivers a 5m x 2.5m swim zone engineered like a yacht deck. The Sand Filter Pump and Thermal Pool Cover keep the water party-ready, and the Entry Steps complete the resort feel.',
+    products: ['Grand Lagoon Pool', 'Sand Filter Pump', 'Entry Steps', 'Thermal Pool Cover'],
+    image: '/images/olagoon/products/grand-lagoon.webp',
   },
 ];
 
@@ -215,7 +205,7 @@ if (token) {
               type="text"
               name={'c' + i + '.products'}
               value={c.products.join(', ')}
-              placeholder="SUP Explorer 11, Life Vest Classic, Dual-Action Pump"
+              placeholder="Compact Plunge Pool, Sand Filter Pump, Entry Steps"
               class="w-full px-3 py-2 border border-gray-300 dark:border-gray-700 rounded-md bg-white dark:bg-gray-900 text-sm"
             />
           </div>

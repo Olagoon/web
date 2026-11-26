@@ -281,7 +281,8 @@ module.exports = {
   'home.why.olagoon.warranty': 'Garanti ve Destek',
   'home.why.olagoon.warranty.point1': 'Her tabloda net garanti koşulları ve hızlı satış sonrası destek.',
   'home.why.olagoon.warranty.point2': 'Hızlı yanıt veren özel satış sonrası ekip.',
-  'home.why.olagoon.warranty.point3': 'Kulüpler, perakendeciler ve marka ortakları için tam tedarik zinciri şeffaflığı.',
+  'home.why.olagoon.warranty.point3':
+    'Kulüpler, perakendeciler ve marka ortakları için tam tedarik zinciri şeffaflığı.',
   'nav.home': 'Ana Sayfa',
   'oem.desc':
     'OLagoon — şişme SUP tablolarının önde gelen OEM/ODM üreticisi. CE sertifikalı. Özel kalıp, özel etiket, toplu toptan satış. Fikirden pazara 16 haftada.',

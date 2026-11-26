@@ -4,7 +4,9 @@ const d = fs.readFileSync('dist/en/solutions/wellness-spa-pool-program/index.htm
 const re = /(?<![a-zA-Z])sup(?![a-zA-Z])/gi;
 let m;
 while ((m = re.exec(d)) !== null) {
-  console.log('SUP hit @' + m.index + ': ...' + d.slice(Math.max(0, m.index - 90), m.index + 90).replace(/\n/g, ' ') + '...\n');
+  console.log(
+    'SUP hit @' + m.index + ': ...' + d.slice(Math.max(0, m.index - 90), m.index + 90).replace(/\n/g, ' ') + '...\n'
+  );
 }
 
 const md = fs.readFileSync('dist/en/b2b-solutions-matrix/index.html', 'utf8');

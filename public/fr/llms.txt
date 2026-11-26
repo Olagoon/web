@@ -5,70 +5,51 @@
 olagoon conçoit des embarcations gonflables de qualité professionnelle — planches SUP, annexes, équipements de sécurité et accessoires.
 
 ## Core Concepts
-- Planche SUP Gonflable: Portable air-filled paddle board designed for surfing, touring, and recreation on flat water and small waves
-- Équipement de Sécurité: CE-certified life vests, throw bags, and safety accessories for recreational and professional water activities
-- Accessoires: Pumps, paddles, fins, repair kits, and carrying bags that complete the inflatable watercraft system
-- Pagaie: Manual propulsion tool used with SUP boards
-- Pagaie en Fibre de Carbone: Lightweight, high-performance paddle made from carbon fiber composite for reduced fatigue during long sessions
-- Noyau Drop-Stitch: Connects thousands of polyester threads between top and bottom layers to achieve rigid platform shape under high inflation pressure
-- Pompe Double Action: Hand pump that inflates on both up and down strokes for faster, more efficient inflation of inflatable watercraft
-- Haute Pression (12-15 PSI): Optimal inflation range that maximizes board rigidity while remaining within safe operating limits for drop-stitch construction
-- PVC de Qualité Marine: High-density PVC fabric with UV-resistant coating used for durable inflatable SUP board construction
-- Tapis de Pont en Mousse EVA: Non-slip, shock-absorbing foam deck covering that provides traction and comfort for stand-up watercraft
-- Fibre de Carbone: Lightweight, high-strength composite material used in paddles, hulls, and performance marine equipment
-- Mousse de Flottabilité Marine: Closed-cell foam that provides permanent flotation for life vests and safety equipment in fresh and salt water
-- Pagination de Distance et Tourisme: Extended paddling trips covering significant distance on lakes, rivers, and coastal waters
-- Débutant: First-time paddlers learning the basics of inflatable watercraft operation, safety, and water navigation
-- Pêche en SUP: Using inflatable SUPs as a stable, portable platform for recreational and serious fishing
-- Loisirs Familiaux: Inflatable SUPs used for casual family outings on lakes, gentle rivers, and protected coastal waters
-- Pagination en Rivière: Navigating rivers with current, from gentle Class I stretches to more challenging Class II rapids
-- Recherche et Sauvetage: Professional use of inflatable SUP craft for emergency water rescue operations in all weather conditions
+- Piscine Gonflable: Portable drop-stitch pool that inflates into a rigid, self-supported swim zone — engineered like a yacht deck with 20 cm walls and yacht-grade seams
+- Piscine à Structure Acier: Seasonal pool built from a painted steel pipe frame with a hanging vinyl liner — the common mid-market alternative to drop-stitch pools
+- Piscine à Parois Rigides: Permanent or semi-permanent pools with rigid resin, composite, or panel walls — typically requiring ground works, professional installation, and permits
+- Plongeon pour Petit Jardin: A compact rigid pool for tight spaces — a couple with a small townhouse yard gets a real place to cool off after work, without permanent construction
+- Plaisir en Famille au Jardin: A full-size pool the whole family can actually swim in — a 3m x 2m swim area with rigid 20 cm drop-stitch walls, clean water, and easy entry for little ones
+- Réceptions & Hospitalité: A statement lagoon for gatherings — a showpiece 5m x 2
+- Âme Drop-Stitch 2.0: Two PVC layers joined by 16,000 polyester threads per square meter — inflating to a flat, rigid panel that gives pool walls yacht-deck stiffness at a fraction of the weight
+- Soudage RF: Radio-frequency welding fuses PVC seams at the molecular level — combined with double-needle stitching for seams that hold pressure season after season
+- PVC de Qualité Militaire: UV-stabilized, puncture-resistant PVC membrane with multiple reinforcement layers — the same fabric family used in military inflatable boats, applied to pool walls and floors
+- Structure à Haute Pression: The engineering principle behind rigid inflatable pools: a drop-stitch chamber held at 10-15 PSI operating pressure (18 PSI rated) turns air and fabric into a load-bearing structure
+- Accessoires de Piscine: The OLagoon accessory ecosystem: sand filter pump for clear water, thermal cover for warm and clean water, ground mat for base protection, and entry steps for safe access
 
 ## Guides
-- What is Planche SUP Gonflable?
-- What is Équipement de Sécurité?
-- What is Accessoires?
-- What is Pagaie?
-- What is Pagaie en Fibre de Carbone?
-- What is Noyau Drop-Stitch?
-- What is Pompe Double Action?
-- What is PVC de Qualité Marine?
-- What is Tapis de Pont en Mousse EVA?
-- What is Fibre de Carbone?
-- What is Mousse de Flottabilité Marine?
+- What is Piscine Gonflable?
+- What is Piscine à Structure Acier?
+- What is Piscine à Parois Rigides?
+- What is Âme Drop-Stitch 2.0?
+- What is Soudage RF?
+- What is PVC de Qualité Militaire?
+- What is Accessoires de Piscine?
 
 ## Use Cases
-- [Pagination de Distance et Tourisme](https://olagoon.com/fr/use-cases/touring)
-- [Débutant](https://olagoon.com/fr/use-cases/beginner)
-- [Pêche en SUP](https://olagoon.com/fr/use-cases/fishing)
-- [Loisirs Familiaux](https://olagoon.com/fr/use-cases/family-recreation)
-- [Pagination en Rivière](https://olagoon.com/fr/use-cases/river-touring)
-- [Recherche et Sauvetage](https://olagoon.com/fr/use-cases/rescue)
+- [Plongeon pour Petit Jardin](https://olagoon.com/fr/use-cases/small-backyard)
+- [Plaisir en Famille au Jardin](https://olagoon.com/fr/use-cases/family-fun)
+- [Réceptions & Hospitalité](https://olagoon.com/fr/use-cases/entertaining)
 
 ## Comparisons
-- [Planche SUP Gonflable vs Équipement de Sécurité: Comparison Guide](https://olagoon.com/fr/compare/inflatable-sup-vs-safety-equipment)
-- [Planche SUP Gonflable vs Accessoires: Comparison Guide](https://olagoon.com/fr/compare/inflatable-sup-vs-accessory)
-- [Équipement de Sécurité vs Accessoires: Comparison Guide](https://olagoon.com/fr/compare/safety-equipment-vs-accessory)
+- [Piscine Gonflable vs Piscine à Structure Acier: Comparison Guide](https://olagoon.com/fr/compare/inflatable-pool-vs-steel-frame-pool)
+- [Piscine Gonflable vs Piscine à Parois Rigides: Comparison Guide](https://olagoon.com/fr/compare/inflatable-pool-vs-hard-sided-pool)
+- [Piscine à Structure Acier vs Piscine à Parois Rigides: Comparison Guide](https://olagoon.com/fr/compare/steel-frame-pool-vs-hard-sided-pool)
 
 ## Relations
-- SUP boards are used for touring and distance paddling
-- Inflatable SUPs are ideal for beginners due to stability
-- Inflatable SUPs excel on river touring
-- SUP boards are commonly used for fishing
-- SUP boards are ideal for family recreation
-- SUP boards are deployed for search and rescue missions
-- Safety equipment is essential for all water activities
-- Drop-stitch core is the primary construction method for rigid SUPs
-- EVA foam deck pads provide traction on SUP boards
-- Dual-action pumps are the standard inflation tool for SUPs
-- Hypalon fabric offers superior UV and chemical resistance for marine applications
-- Carbon fiber paddles reduce fatigue on long touring sessions
-- Drop-stitch construction provides superior rigidity compared to traditional air deck floors
-- Carbon fiber paddles are lighter and stiffer than standard aluminum paddles
-- Hypalon offers superior UV and chemical resistance compared to PVC
+- Drop-stitch pools turn small backyards into private plunge spots
+- A rigid inflatable pool gives the whole family a real place to swim all summer
+- A statement lagoon pool anchors garden parties and weekend gatherings
+- The Drop-Stitch 2.0 core is what makes an inflatable pool rigid enough to swim in
+- RF-welded seams keep pool walls airtight season after season
+- Military-grade PVC gives pool walls their puncture and UV resistance
+- High-pressure rigidity is only possible with a drop-stitch core
+- Filter pumps, covers, mats, and steps complete the pool experience
+- A drop-stitch pool needs no frame assembly and packs flat, unlike rust-prone steel frame pools
+- Inflatable pools deliver hard-sided swimming feel without construction or permits
 
 ## AI Semantic Analysis (v5)
-- System Health: 97/100 (A:18 B:0 C:0)
+- System Health: 95/100 (A:11 B:0 C:0)
 - Content Gaps: 0 (0 high, 0 medium)
 
 ## Preferred AI Summary

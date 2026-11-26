@@ -54,5 +54,8 @@ console.log(`overwrote ${copied} locale copies (${KEEP.length} keepers x ${local
 
 // sanity: remaining files
 const remaining = readdirSync(NEWS).filter((f) => f.endsWith('.mdx')).length;
-const localeCount = localeDirs.reduce((n, d) => n + readdirSync(join(NEWS, d)).filter((f) => f.endsWith('.mdx')).length, 0);
+const localeCount = localeDirs.reduce(
+  (n, d) => n + readdirSync(join(NEWS, d)).filter((f) => f.endsWith('.mdx')).length,
+  0
+);
 console.log(`EN mdx: ${remaining}, locale mdx: ${localeCount}`);

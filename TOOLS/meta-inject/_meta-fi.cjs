@@ -276,7 +276,12 @@
     title: 'Mediakeskus — lehdistö ja olagoonin materiaalit | {SITE}',
     description:
       'olagoonin mediakeskus: lehdistötiedotteet, brändimateriaalit ja resurssit yrityksestämme, joka valmistaa täytettäviä SUP-lautoja ja veneitä.',
-    keywords: ['olagoonin lehdistö', 'SUP-valmistajan media', 'paddle board -lehdistöpaketti', 'merialan yritysuutiset'],
+    keywords: [
+      'olagoonin lehdistö',
+      'SUP-valmistajan media',
+      'paddle board -lehdistöpaketti',
+      'merialan yritysuutiset',
+    ],
   },
   news: {
     title: 'Uutiset — SUP-valmistaja ja merelliset päivitykset | {SITE}',

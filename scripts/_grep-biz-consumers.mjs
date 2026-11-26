@@ -1,6 +1,6 @@
 import { execSync } from 'node:child_process';
 
-let out = '';
+let out;
 try {
   out = execSync('git grep -l "biz-solutions" -- ":!node_modules" ":!dist" ":!src/i18n/generated"', {
     encoding: 'utf8',

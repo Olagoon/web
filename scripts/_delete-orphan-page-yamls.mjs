@@ -39,6 +39,9 @@ console.log('routing.ts cleaned');
 // middleware: redirect target /solutions/distributors/ -> /solutions/
 const mw = 'functions/_middleware.ts';
 let middleware = readFileSync(mw, 'utf8');
-middleware = middleware.replace("'/solutions/rescue-watercraft': '/solutions/distributors/',", "'/solutions/rescue-watercraft': '/solutions/',");
+middleware = middleware.replace(
+  "'/solutions/rescue-watercraft': '/solutions/distributors/',",
+  "'/solutions/rescue-watercraft': '/solutions/',"
+);
 writeFileSync(mw, middleware, 'utf8');
 console.log('middleware LEGACY_REDIRECTS fixed');

@@ -278,7 +278,8 @@ module.exports = {
   'home.why.olagoon.title': 'Kvalita, které můžete věřit',
   'home.why.olagoon.viewMore': 'Zobrazit více →',
   'home.why.olagoon.warranty': 'Záruka a podpora',
-  'home.why.olagoon.warranty.point1': 'Jasná záruční podmínky u každého prkna s rychle reagujícím poprodejním servisem.',
+  'home.why.olagoon.warranty.point1':
+    'Jasná záruční podmínky u každého prkna s rychle reagujícím poprodejním servisem.',
   'home.why.olagoon.warranty.point2': 'Vyhrazený poprodejní tým s rychlou odezvou.',
   'home.why.olagoon.warranty.point3':
     'Plná transparentnost dodavatelského řetězce pro kluby, maloobchodníky a partnerské značky.',

@@ -62,7 +62,9 @@ for (const rel of FILES) {
 const guidesTs = fs.readFileSync(path.join(ROOT, 'src/data/guides.ts'), 'utf8');
 const guideSlugs = [...guidesTs.matchAll(/slug:\s*'([^']+)'/g)].map((m) => m[1]);
 const topGuidesText = fs.readFileSync(path.join(ROOT, 'src/data/site/top-guides.yaml'), 'utf8');
-const topSlugs = [...topGuidesText.matchAll(/-\s'(pool-[a-z-]+|choosing-[a-z-]+|inflatable-[a-z-]+)'/g)].map((m) => m[1]);
+const topSlugs = [...topGuidesText.matchAll(/-\s'(pool-[a-z-]+|choosing-[a-z-]+|inflatable-[a-z-]+)'/g)].map(
+  (m) => m[1]
+);
 for (const s of topSlugs) {
   if (!guideSlugs.includes(s)) {
     console.log(`SLUG MISMATCH: top-guides references '${s}' not in guides.ts`);

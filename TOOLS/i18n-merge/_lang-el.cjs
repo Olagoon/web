@@ -193,7 +193,8 @@ module.exports = {
   'home.community.gallery.boats.desc':
     'Οικογένειες και εξερευνητές απολαμβάνουν τα φουσκωτά σκάφη OLagoon σε λίμνες και παράκτια νερά.',
   'home.community.gallery.sup': 'SUP Σανίδες',
-  'home.community.gallery.sup.desc': 'Κωπηλάτες εξερευνούν λίμνες, ποτάμια και ακτογραμμές με φουσκωτά SUP της OLagoon.',
+  'home.community.gallery.sup.desc':
+    'Κωπηλάτες εξερευνούν λίμνες, ποτάμια και ακτογραμμές με φουσκωτά SUP της OLagoon.',
   'home.community.gallery.title': 'Περιπέτειες Πελατών',
   'home.community.gallery.viewAll': 'Δείτε την Πλήρη Συλλογή',
   'home.engineering.design': 'Σχεδιασμός Προϊόντων',

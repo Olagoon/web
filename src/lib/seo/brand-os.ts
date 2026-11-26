@@ -225,7 +225,8 @@ const CTA_RULES: Array<{
     keywords: ['safety', 'protection', 'life vest', 'marine safety'],
   },
   {
-    match: (s) => ['why-olagoon', 'manufacturing-process', 'factory-tour', 'quality-control'].some((k) => s.includes(k)),
+    match: (s) =>
+      ['why-olagoon', 'manufacturing-process', 'factory-tour', 'quality-control'].some((k) => s.includes(k)),
     cta: { text: 'Visit our factory', link: '/factory', reason: 'Brand content — manufacturing hub' },
     products: ['sup-explorer-11', 'life-vest-pro'],
     keywords: ['olagoon', 'manufacturer', 'factory', 'OEM'],

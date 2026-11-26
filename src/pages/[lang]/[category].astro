@@ -30,20 +30,20 @@ if (!activeCategory) {
 
 const t = (key: string) => getUiForLang(lang || defaultLang)?.[key] || getUiForLang('en')?.[key] || '';
 const categoryKey = (cat: string) =>
-  ({ INFLATABLE: 'inflatables', SUP: 'sups', ACCESSORY: 'accessories' })[cat] || cat.toLowerCase();
+  ({ INFLATABLE: 'inflatables', ACCESSORY: 'accessories' })[cat] || cat.toLowerCase();
 const catName = t('home.category.' + (activeCategory || '')) || urlSlug || '';
 
 const localizedProducts = getLocalizedProducts(lang!);
 const filteredProducts = localizedProducts.filter((p) => p.category.toLowerCase() === activeCategory);
 
 const defaultVisuals: Record<string, string> = {
-  'sup-explorer-11': 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp',
-  'airdeck-360': 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp',
-  'life-vest-classic': 'https://assets.olagoon.com/images/olagoon/products/olagoon-life-vest-classic.webp',
-  'life-vest-pro':
-    'https://assets.olagoon.com/images/olagoon/products/life-jacket-olagoon-inflatable-boat-olagoon-factory-exterior.webp',
-  'oars-pump-set': 'https://assets.olagoon.com/images/olagoon/products/olagoon-electric-pump.webp',
-  'zb-mt350': 'https://assets.olagoon.com/images/olagoon/products/olagoon-zb-mt350-inflatable-olagoon-dinghy-category.webp',
+  'compact-plunge': 'https://assets.olagoon.com/images/olagoon/products/compact-plunge.webp',
+  'family-oasis': 'https://assets.olagoon.com/images/olagoon/products/family-oasis.webp',
+  'grand-lagoon': 'https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp',
+  'sand-filter-pump': 'https://assets.olagoon.com/images/olagoon/products/sand-filter-pump.webp',
+  'thermal-cover': 'https://assets.olagoon.com/images/olagoon/products/thermal-cover.webp',
+  'ground-mat': 'https://assets.olagoon.com/images/olagoon/products/ground-mat.webp',
+  'entry-steps': 'https://assets.olagoon.com/images/olagoon/products/entry-steps.webp',
 };
 const rawVisuals = ((
   pageContentData[`${lang}/site-product-visuals`] ||

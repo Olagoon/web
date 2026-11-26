@@ -1,7 +1,8 @@
 // Scan built dist HTML for banned words with real global offsets + context.
 import { readFileSync } from 'node:fs';
 
-const re = /(?<![a-zA-Z])(sups?|paddles?|paddling|paddlers?|surfing|surfers?|surfer|surfs|surf|kayaks?|vests?|wetsuit|isup|boards?)(?![a-zA-Z])/gi;
+const re =
+  /(?<![a-zA-Z])(sups?|paddles?|paddling|paddlers?|surfing|surfers?|surfer|surfs|surf|kayaks?|vests?|wetsuit|isup|boards?)(?![a-zA-Z])/gi;
 const files = process.argv.slice(2);
 let total = 0;
 for (const f of files) {

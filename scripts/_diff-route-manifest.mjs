@@ -47,4 +47,10 @@ for (const r of removed) {
   groups[seg] = (groups[seg] || 0) + 1;
 }
 console.log('\nREMOVED GROUPS:');
-console.log(Object.entries(groups).sort((a, b) => b[1] - a[1]).slice(0, 20).map((g) => g.join(': ')).join('\n'));
+console.log(
+  Object.entries(groups)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 20)
+    .map((g) => g.join(': '))
+    .join('\n')
+);

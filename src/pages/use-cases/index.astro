@@ -14,7 +14,6 @@ interface UseCaseEntry {
 }
 
 const d = useCasesData as any;
-const caseSlugMap: Record<string, string> = { family: 'family-recreation', outdoor: 'river-touring' };
 const useCases: UseCaseEntry[] = (d.cases ?? []).map((c: any) => ({
   id: c.id,
   title: c.title,
@@ -22,38 +21,28 @@ const useCases: UseCaseEntry[] = (d.cases ?? []).map((c: any) => ({
   image: c.image,
 }));
 
-const staticUseCases = [
+const useCaseFaqs = [
   {
-    id: 'touring',
-    title: 'Touring & Distance Paddling',
-    desc: 'Efficient, gear-carrying inflatable SUPs for lakes, coastlines, and multi-day expeditions.',
-    image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp',
+    q: 'How long does an OLagoon pool take to set up?',
+    a: 'Unbox, lay the Ground Mat, roll out the pool, and inflate with the included pump — most setups take 15-25 minutes with no tools and no construction.',
   },
   {
-    id: 'tourism-recreation',
-    title: 'Tourism & Recreation',
-    desc: 'Stable, easy-to-pack SUPs for holidays, lake days, travel, and paddling with family and friends.',
-    image: 'https://assets.olagoon.com/images/olagoon/use-cases/olagoon-professional-use-case.webp',
+    q: 'Do I need a perfectly flat surface?',
+    a: 'A level surface gives the best water line and stability. Lawns, patios, and decks all work — put the Ground Mat down first to protect the base.',
   },
   {
-    id: 'fishing',
-    title: 'Fishing',
-    desc: 'Stable inflatable SUP boards for recreational and sport fishing in lakes, rivers, and coastal waters.',
-    image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp',
+    q: 'How do I keep the water clean all summer?',
+    a: 'Run the Sand Filter Pump daily and keep the Thermal Pool Cover on between swims. It blocks debris, holds heat, and keeps water swim-ready.',
   },
   {
-    id: 'rescue',
-    title: 'Search & Rescue',
-    desc: 'High-buoyancy, rapid-deployment rescue platforms for professional teams.',
-    image: 'https://assets.olagoon.com/images/olagoon/use-cases/olagoon-professional-use-case.webp',
+    q: 'Can I leave the pool up all summer?',
+    a: 'Yes. The UV-stabilized military-grade PVC walls are built for full-season sun. At the end of the season, drain, deflate, and store the pool flat.',
   },
 ];
 
-const allUseCases = [...useCases, ...staticUseCases];
-
 const metadata = {
   title: `Use Cases & Applications | ${SITE.name}`,
-  description: `Explore olagoon inflatable SUP boards for touring, fishing, family fun, river paddling, and beginner-friendly adventures.`,
+  description: `Explore OLagoon drop-stitch inflatable pools for small backyards, family fun, garden entertaining, and hosting.`,
   ignoreTitleTemplate: true,
 };
 ---
@@ -80,40 +69,11 @@ const metadata = {
   <JsonLd
     type="FAQPage"
     data={{
-      mainEntity: [
-        {
-          '@type': 'Question',
-          name: 'Which SUP is best for beginners?',
-          acceptedAnswer: {
-            '@type': 'Answer',
-            text: 'Wide, stable all-around boards are the best starting point. Most beginners are standing and paddling confidently within their first session.',
-          },
-        },
-        {
-          '@type': 'Question',
-          name: 'Can I use one board for touring and fishing?',
-          acceptedAnswer: {
-            '@type': 'Answer',
-            text: 'Yes. Stable touring platforms with gear mounts handle both, though dedicated fishing SUPs add rod holders, extra deck space, and higher weight capacity.',
-          },
-        },
-        {
-          '@type': 'Question',
-          name: 'Are inflatable SUPs good for families?',
-          acceptedAnswer: {
-            '@type': 'Answer',
-            text: 'Absolutely. Modern drop-stitch boards are rigid and durable, and they pack into a backpack — easy to store at home and bring along on weekend trips.',
-          },
-        },
-        {
-          '@type': 'Question',
-          name: 'What should I look for in a river-touring board?',
-          acceptedAnswer: {
-            '@type': 'Answer',
-            text: 'Choose reinforced construction and a shorter all-around shape that maneuvers well in currents, and always wear a leash and buoyancy aid.',
-          },
-        },
-      ],
+      mainEntity: useCaseFaqs.map((f) => ({
+        '@type': 'Question',
+        name: f.q,
+        acceptedAnswer: { '@type': 'Answer', text: f.a },
+      })),
     }}
   />
 
@@ -128,15 +88,16 @@ const metadata = {
       <span class="text-sm font-medium text-sky-600 tracking-wide uppercase">Use Cases</span>
       <h1 class="mt-4 text-4xl font-bold text-gray-900">Applications & Use Cases</h1>
       <p class="mt-4 text-lg text-gray-500">
-        From first-time fun to multi-day expeditions — find the right board for how you paddle.
+        From plunge pools for compact yards to statement lagoons for hosting — find the right OLagoon pool for how you
+        play.
       </p>
     </div>
 
     <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
       {
-        allUseCases.map((uc) => (
+        useCases.map((uc) => (
           <a
-            href={`/use-cases/${caseSlugMap[uc.id] || uc.id}`}
+            href={`/use-cases/${uc.id}`}
             class="group bg-white border border-gray-200 rounded-2xl overflow-hidden hover:shadow-lg transition-all hover:-translate-y-0.5 flex flex-col"
           >
             <div class="h-44 bg-gray-100 overflow-hidden">
@@ -166,65 +127,22 @@ const metadata = {
       <div class="text-center mb-10">
         <span class="text-sm font-medium text-sky-600 tracking-wide uppercase">FAQs</span>
         <h2 class="mt-4 text-3xl font-bold text-gray-900">Use Case FAQ</h2>
-        <p class="mt-3 text-gray-500">Common questions about choosing a board for how you paddle.</p>
+        <p class="mt-3 text-gray-500">Common questions about choosing an OLagoon pool.</p>
       </div>
       <div class="space-y-4 max-w-3xl mx-auto">
-        <details class="bg-white border border-gray-200 rounded-xl overflow-hidden group">
-          <summary
-            class="px-6 py-4 font-semibold text-gray-900 cursor-pointer hover:bg-gray-50 transition-colors list-none flex items-center justify-between"
-          >
-            <span>Which SUP is best for beginners?</span>
-            <span class="text-gray-400 group-open:rotate-180 transition-transform shrink-0">▼</span>
-          </summary>
-          <div class="px-6 pb-4">
-            <p class="text-gray-600 leading-relaxed">
-              Wide, stable all-around boards are the best starting point. Most beginners are standing and paddling
-              confidently within their first session.
-            </p>
-          </div>
-        </details>
-        <details class="bg-white border border-gray-200 rounded-xl overflow-hidden group">
-          <summary
-            class="px-6 py-4 font-semibold text-gray-900 cursor-pointer hover:bg-gray-50 transition-colors list-none flex items-center justify-between"
-          >
-            <span>Can I use one board for touring and fishing?</span>
-            <span class="text-gray-400 group-open:rotate-180 transition-transform shrink-0">▼</span>
-          </summary>
-          <div class="px-6 pb-4">
-            <p class="text-gray-600 leading-relaxed">
-              Yes. Stable touring platforms with gear mounts handle both, though dedicated fishing SUPs add rod holders,
-              extra deck space, and higher weight capacity.
-            </p>
-          </div>
-        </details>
-        <details class="bg-white border border-gray-200 rounded-xl overflow-hidden group">
-          <summary
-            class="px-6 py-4 font-semibold text-gray-900 cursor-pointer hover:bg-gray-50 transition-colors list-none flex items-center justify-between"
-          >
-            <span>Are inflatable SUPs good for families?</span>
-            <span class="text-gray-400 group-open:rotate-180 transition-transform shrink-0">▼</span>
-          </summary>
-          <div class="px-6 pb-4">
-            <p class="text-gray-600 leading-relaxed">
-              Absolutely. Modern drop-stitch boards are rigid and durable, and they pack into a backpack — easy to store
-              at home and bring along on weekend trips.
-            </p>
-          </div>
-        </details>
-        <details class="bg-white border border-gray-200 rounded-xl overflow-hidden group">
-          <summary
-            class="px-6 py-4 font-semibold text-gray-900 cursor-pointer hover:bg-gray-50 transition-colors list-none flex items-center justify-between"
-          >
-            <span>What should I look for in a river-touring board?</span>
-            <span class="text-gray-400 group-open:rotate-180 transition-transform shrink-0">▼</span>
-          </summary>
-          <div class="px-6 pb-4">
-            <p class="text-gray-600 leading-relaxed">
-              Choose reinforced construction and a shorter all-around shape that maneuvers well in currents, and always
-              wear a leash and buoyancy aid.
-            </p>
-          </div>
-        </details>
+        {
+          useCaseFaqs.map((f) => (
+            <details class="bg-white border border-gray-200 rounded-xl overflow-hidden group">
+              <summary class="px-6 py-4 font-semibold text-gray-900 cursor-pointer hover:bg-gray-50 transition-colors list-none flex items-center justify-between">
+                <span>{f.q}</span>
+                <span class="text-gray-400 group-open:rotate-180 transition-transform shrink-0">▼</span>
+              </summary>
+              <div class="px-6 pb-4">
+                <p class="text-gray-600 leading-relaxed">{f.a}</p>
+              </div>
+            </details>
+          ))
+        }
       </div>
     </section>
   </div>

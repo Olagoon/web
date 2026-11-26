@@ -80,7 +80,8 @@ module.exports = {
   },
   'disaster-relief': {
     title: '災害救援用充氣船 — OEM 生產 | {SITE}',
-    description: 'OLagoon 生產專為災害救援與人道援助設計的充氣船：洪水救援、醫療後送、援助物資運送與人員載運。CE 認證。',
+    description:
+      'OLagoon 生產專為災害救援與人道援助設計的充氣船：洪水救援、醫療後送、援助物資運送與人員載運。CE 認證。',
     keywords: ['災害用充氣船', '救援艇製造商', '人道救援船艇', 'OEM 充氣船'],
   },
   'factory-capacity': {

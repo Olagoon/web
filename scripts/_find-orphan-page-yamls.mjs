@@ -7,7 +7,7 @@ const REGISTRY = 'src/data/site/pages.yaml';
 
 const registryText = readFileSync(REGISTRY, 'utf8');
 const registered = new Set(
-  [...registryText.matchAll(/^  file: (.+)$/gm)].map((m) => m[1].trim().replace('src/data/pages/', ''))
+  [...registryText.matchAll(/^ {2}file: (.+)$/gm)].map((m) => m[1].trim().replace('src/data/pages/', ''))
 );
 
 const rootYamls = readdirSync(PAGES_DIR).filter((f) => f.endsWith('.yaml'));
@@ -36,7 +36,9 @@ const contents = files
 
 for (const orphan of orphans) {
   const key = orphan.replace(/\.yaml$/, '');
-  const refs = contents.filter(({ c }) => c.includes(`'${key}'`) || c.includes(`"${key}"`) || c.includes(`'${key}.yaml'`));
+  const refs = contents.filter(
+    ({ c }) => c.includes(`'${key}'`) || c.includes(`"${key}"`) || c.includes(`'${key}.yaml'`)
+  );
   // locale copies count
   const localeDirs = readdirSync(PAGES_DIR, { withFileTypes: true }).filter((d) => d.isDirectory());
   let localeCopies = 0;

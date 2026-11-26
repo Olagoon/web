@@ -306,19 +306,6 @@
     - { key: test_procedures, type: steps, label: 'Test Procedures' }
     - { key: equipment, type: features, label: 'Lab Equipment' }
 
-- slug: fishing
-  label: Fishing
-  path: /en/use-cases/fishing
-  permalink: /products/
-  file: src/data/pages/fishing.yaml
-  sections:
-    - { key: label, type: content, label: 'Page Label' }
-    - { key: headline, type: content, label: 'Headline' }
-    - { key: subtitle, type: content, label: 'Subtitle' }
-    - { key: seo, type: content, label: 'SEO Metadata' }
-    - { key: faqs, type: faqs, label: 'FAQs' }
-    - { key: body, type: content, label: 'Body Content' }
-
 - slug: gallery
   label: Gallery
   path: /gallery
@@ -537,7 +524,6 @@
     - { key: hero, type: hero, label: 'Top Hero' }
     - { key: stats, type: stats, label: 'Statistics' }
     - { key: testimonials, type: testimonials, label: 'Testimonials' }
-    - { key: faqs_sup, type: faqs, label: 'FAQs - SUP' }
     - { key: cta, type: cta, label: 'Bottom CTA' }
 
 - slug: warranty
@@ -545,18 +531,6 @@
   path: /warranty
   permalink: /warranty/
   file: src/data/pages/warranty.yaml
-  sections:
-    - { key: label, type: content, label: 'Page Label' }
-    - { key: headline, type: content, label: 'Headline' }
-    - { key: subtitle, type: content, label: 'Subtitle' }
-    - { key: seo, type: content, label: 'SEO Metadata' }
-    - { key: body, type: content, label: 'Body Content' }
-
-- slug: what-is-sup
-  label: What is SUP
-  path: /en/guides/what-is-sup
-  permalink: /en/guides/technology/
-  file: src/data/pages/what-is-sup.yaml
   sections:
     - { key: label, type: content, label: 'Page Label' }
     - { key: headline, type: content, label: 'Headline' }

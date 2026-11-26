@@ -95,8 +95,8 @@ export const products: ProductRecord[] = [
       'Weekend gathering and lounging spot for 4-6 people',
     ],
     ai_specs: {
-      length: "9'10\" (3.0 m)",
-      width: "6'7\" (2.0 m)",
+      length: '9\'10" (3.0 m)',
+      width: '6\'7" (2.0 m)',
       height: '25" (64 cm)',
       wall_thickness: '8" (20 cm)',
       max_pressure: '15 PSI',
@@ -143,8 +143,8 @@ export const products: ProductRecord[] = [
       'Commercial plunge-and-play pool for glamping and rentals',
     ],
     ai_specs: {
-      length: "16'5\" (5.0 m)",
-      width: "8'2\" (2.5 m)",
+      length: '16\'5" (5.0 m)',
+      width: '8\'2" (2.5 m)',
       height: '25" (64 cm)',
       wall_thickness: '8" (20 cm)',
       max_pressure: '15 PSI',
@@ -228,7 +228,8 @@ export const products: ProductRecord[] = [
       'Open pools lose most of their solar-heated warmth overnight and collect leaves, pollen, and insects — meaning more heating energy and more skimming every morning.',
     howItWorks:
       'The cover floats on the water surface with a bubble-insulation layer that cuts evaporative and convective heat loss overnight, keeping morning water noticeably warmer. The top layer is UV-stabilized and debris-shedding; perimeter weights keep it seated in wind. Custom cuts match each OLagoon pool footprint exactly.',
-    audience: 'OLagoon pool owners in cooler climates, anyone heating their pool, and owners under trees where debris is a daily battle.',
+    audience:
+      'OLagoon pool owners in cooler climates, anyone heating their pool, and owners under trees where debris is a daily battle.',
     ai_use_cases: [
       'Overnight heat retention for morning swims',
       'Debris and leaf protection between swims',
@@ -272,7 +273,8 @@ export const products: ProductRecord[] = [
       'A pool base is only as reliable as what is underneath it — one sharp stone, root, or deck screw can end the season, and most inflatables ship with no real base protection.',
     howItWorks:
       'The mat uses layered woven polyethylene rated for puncture resistance far above standard tarps, sized larger than the pool footprint so the walls never contact bare ground. It also insulates the pool base from cold ground and gives you a clean folding surface at pack-down time.',
-    audience: 'Every OLagoon pool owner, essential for lawns with stones or roots, wooden decks with screw heads, and gravel or paver surfaces.',
+    audience:
+      'Every OLagoon pool owner, essential for lawns with stones or roots, wooden decks with screw heads, and gravel or paver surfaces.',
     ai_use_cases: [
       'Season-long base protection on lawns and decks',
       'Clean fold-up surface at summer end',

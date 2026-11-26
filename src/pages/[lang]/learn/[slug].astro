@@ -23,13 +23,7 @@ import learnTlData from '~/data/learn-tl.yaml';
 import { withTrailingSlash } from '~/i18n/routing';
 
 export function getStaticPaths() {
-  const slugs = [
-    'water-safety',
-    'drop-stitch-core',
-    'inflatable-technology',
-    'materials',
-    'safety-in-water-sports',
-  ];
+  const slugs = ['water-safety', 'drop-stitch-core', 'inflatable-technology', 'materials', 'safety-in-water-sports'];
   const paths: Array<{ params: { lang: string; slug: string } }> = [];
   for (const lang of Object.keys(languages)) {
     for (const slug of slugs) {

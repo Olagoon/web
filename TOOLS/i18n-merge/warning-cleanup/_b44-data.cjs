@@ -143,7 +143,8 @@ module.exports = {
   'techspecs.paramTubeDiam': 'Διάμετρος Σωλήνα',
   'techspecs.paramWarranty': 'Εγγύηση',
   'techspecs.paramWeight': 'Βάρος',
-  'techspecs.subtitle': 'Αναλυτικές διαστάσεις, υλικά, χωρητικότητες και δεδομένα απόδοσης για όλα τα προϊόντα olagoon.',
+  'techspecs.subtitle':
+    'Αναλυτικές διαστάσεις, υλικά, χωρητικότητες και δεδομένα απόδοσης για όλα τα προϊόντα olagoon.',
   'techspecs.sup': 'Σανίδες SUP',
   'techspecs.supDesc': 'Φουσκωτές σανίδες SUP drop-stitch υψηλής πίεσης με άκαμπτη δομή.',
   'techspecs.title': 'Τεχνικές Προδιαγραφές',

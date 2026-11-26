@@ -73,23 +73,13 @@
       "@type": "ContactPoint",
       "telephone": "+1-279-732-3333",
       "contactType": "sales",
-      "availableLanguage": [
-        "English",
-        "Chinese",
-        "French",
-        "Spanish",
-        "Arabic",
-        "German"
-      ]
+      "availableLanguage": ["English", "Chinese", "French", "Spanish", "Arabic", "German"]
     },
     {
       "@type": "ContactPoint",
       "telephone": "+1-279-732-3333",
       "contactType": "customer service",
-      "availableLanguage": [
-        "English",
-        "Chinese"
-      ]
+      "availableLanguage": ["English", "Chinese"]
     }
   ],
   "sameAs": [

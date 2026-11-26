@@ -3,7 +3,9 @@ import { readFileSync, writeFileSync, readdirSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 
 const DIR = 'src/data/pages';
-const langs = readdirSync(DIR, { withFileTypes: true }).filter((d) => d.isDirectory()).map((d) => d.name);
+const langs = readdirSync(DIR, { withFileTypes: true })
+  .filter((d) => d.isDirectory())
+  .map((d) => d.name);
 const roots = readdirSync(DIR).filter((f) => f.endsWith('.yaml'));
 
 let copied = 0;

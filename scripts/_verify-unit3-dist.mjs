@@ -1,7 +1,8 @@
 // One-off: verify distinct titles after seo-meta remap + rescan banned terms.
 import { readFileSync } from 'node:fs';
 
-const re = /(?<![a-zA-Z])(sups?|paddles?|paddling|paddlers?|surfing|surfers?|surfer|surfs|surf|kayaks?|vests?|wetsuit|isup|boards?)(?![a-zA-Z])/gi;
+const re =
+  /(?<![a-zA-Z])(sups?|paddles?|paddling|paddlers?|surfing|surfers?|surfer|surfs|surf|kayaks?|vests?|wetsuit|isup|boards?)(?![a-zA-Z])/gi;
 const files = [
   'dist/en/solutions/index.html',
   'dist/en/solutions/by-industry/index.html',

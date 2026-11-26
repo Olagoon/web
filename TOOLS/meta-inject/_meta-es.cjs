@@ -27,7 +27,12 @@ module.exports = {
     title: 'Nuestra Historia — Fabricante de SUP Hinchables y Barcas | {SITE}',
     description:
       'De un taller costero a un fabricante marino global: la historia de olagoon, ingeniería para la libertad sobre el agua con una fábrica certificada de 12.000 m².',
-    keywords: ['historia de olagoon', 'marca olagoon', 'fabricante de SUP hinchable', 'fabricante de barcas hinchables'],
+    keywords: [
+      'historia de olagoon',
+      'marca olagoon',
+      'fabricante de SUP hinchable',
+      'fabricante de barcas hinchables',
+    ],
   },
   'brand-global-presence': {
     title: 'Presencia Global — Fabricante de SUP para 50+ Países | {SITE}',

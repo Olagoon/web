@@ -17,14 +17,14 @@ export const entityGraph: EntityNode[] = [
     type: 'brand',
     name: 'olagoon',
     description:
-      'Global water sports brand designing inflatable SUP boards for all-around paddling, touring, yoga, fishing, and family adventures.',
+      'Global drop-stitch inflatable pool brand engineering backyard lagoons with yacht-grade construction for families, hosts, and professional operators.',
     relationships: [
       { type: 'parent', targetId: 'olagoon-llc' },
-      { type: 'operatesIn', targetId: 'marine-recreation' },
-      { type: 'operatesIn', targetId: 'outdoor-sports' },
-      { type: 'operatesIn', targetId: 'marine-manufacturing' },
-      { type: 'creates', targetId: 'sup-boards' },
-      { type: 'serves', targetId: 'adventure-users' },
+      { type: 'operatesIn', targetId: 'backyard-leisure' },
+      { type: 'operatesIn', targetId: 'outdoor-living' },
+      { type: 'operatesIn', targetId: 'inflatable-manufacturing' },
+      { type: 'creates', targetId: 'inflatable-pools' },
+      { type: 'serves', targetId: 'families-homeowners' },
       { type: 'serves', targetId: 'professional-operators' },
     ],
   },
@@ -36,33 +36,33 @@ export const entityGraph: EntityNode[] = [
     relationships: [{ type: 'child', targetId: 'olagoon' }],
   },
   {
-    id: 'marine-recreation',
+    id: 'backyard-leisure',
     type: 'industry',
-    name: 'Marine Recreation Industry',
+    name: 'Backyard Leisure Industry',
+    description: 'Industry encompassing residential pools, outdoor leisure equipment, and family water recreation.',
+    relationships: [],
+  },
+  {
+    id: 'outdoor-living',
+    type: 'industry',
+    name: 'Outdoor Living Industry',
+    description: 'Industry covering garden design, outdoor furniture, and home leisure products.',
+    relationships: [],
+  },
+  {
+    id: 'inflatable-manufacturing',
+    type: 'industry',
+    name: 'Inflatable Manufacturing Industry',
     description:
-      'Industry encompassing recreational paddling, water sports, paddle sports, and marine leisure activities.',
+      'Industry focused on design, engineering, and production of drop-stitch inflatables and welded PVC products.',
     relationships: [],
   },
   {
-    id: 'outdoor-sports',
-    type: 'industry',
-    name: 'Outdoor Sports Industry',
-    description: 'Industry covering outdoor recreation equipment, adventure sports, and nature-based activities.',
-    relationships: [],
-  },
-  {
-    id: 'marine-manufacturing',
-    type: 'industry',
-    name: 'Marine Manufacturing Industry',
-    description:
-      'Industry focused on design, engineering, and production of marine equipment and inflatable SUP boards.',
-    relationships: [],
-  },
-  {
-    id: 'sup-boards',
+    id: 'inflatable-pools',
     type: 'product',
-    name: 'SUP Boards',
-    description: 'Stand-up paddle boards including all-around, touring, yoga, fishing, and adventure SUP models.',
+    name: 'Drop-Stitch Inflatable Pools',
+    description:
+      'Rigid inflatable pools with 20 cm drop-stitch walls — Compact Plunge, Family Oasis, and Grand Lagoon models plus pool accessories.',
     relationships: [
       { type: 'belongsTo', targetId: 'olagoon' },
       { type: 'uses', targetId: 'drop-stitch' },
@@ -72,16 +72,16 @@ export const entityGraph: EntityNode[] = [
   {
     id: 'drop-stitch',
     type: 'technology',
-    name: 'Drop-Stitch Core Technology',
+    name: 'Drop-Stitch 2.0 Core Technology',
     description:
-      'Thousands of polyester threads connecting top and bottom PVC layers for high-pressure rigid performance.',
+      '16,000 polyester threads per square meter connecting top and bottom PVC layers for rigid, high-pressure pool walls.',
     relationships: [{ type: 'uses', targetId: 'pvc-fabric' }],
   },
   {
     id: 'pvc-fabric',
     type: 'technology',
-    name: 'PVC Fabric Technology',
-    description: 'Marine-grade PVC fabric with UV coating, abrasion resistance, and RF-welded seam construction.',
+    name: 'Military-Grade PVC Fabric',
+    description: 'UV-stabilized, puncture-resistant PVC fabric with RF-welded seam construction.',
     relationships: [],
   },
   {
@@ -89,7 +89,7 @@ export const entityGraph: EntityNode[] = [
     type: 'technology',
     name: 'Reinforced Structure Engineering',
     description:
-      'Advanced structural design for rigidity, weight optimization, and long-term durability in marine environments.',
+      'Advanced structural design for wall rigidity, water-load distribution, and long-term durability in full-season sun.',
     relationships: [],
   },
   {
@@ -97,30 +97,30 @@ export const entityGraph: EntityNode[] = [
     type: 'technology',
     name: 'Precision Manufacturing Process',
     description:
-      'Controlled production: material preparation, precision cutting, RF welding, assembly, quality inspection, and performance verification.',
+      'Controlled production: material preparation, precision cutting, RF welding, assembly, quality inspection, and pressure verification.',
     relationships: [],
   },
   {
-    id: 'marine-industry-guide',
+    id: 'pool-knowledge-guide',
     type: 'industry',
-    name: 'Inflatable SUP Guide & Industry Reference',
+    name: 'Pool Knowledge & Industry Reference',
     description:
-      'Comprehensive authoritative knowledge hub covering inflatable SUP types, construction, materials, selection, safety, maintenance, and industry applications.',
+      'Comprehensive authoritative knowledge hub covering drop-stitch pool construction, materials, water care, safety, maintenance, and seasonal setup.',
     relationships: [
       { type: 'uses', targetId: 'drop-stitch' },
       { type: 'uses', targetId: 'pvc-fabric' },
       { type: 'uses', targetId: 'reinforced-structure' },
       { type: 'uses', targetId: 'manufacturing-process' },
-      { type: 'serves', targetId: 'adventure-users' },
+      { type: 'serves', targetId: 'families-homeowners' },
       { type: 'serves', targetId: 'professional-operators' },
     ],
   },
   {
-    id: 'adventure-users',
+    id: 'families-homeowners',
     type: 'audience',
-    name: 'Adventure Users',
+    name: 'Families & Homeowners',
     description:
-      'Recreational paddlers, fishermen, travelers, families, and outdoor enthusiasts exploring lakes, rivers, and coastal waters.',
+      'Homeowners, families, and renters who want a real swimming pool in their backyard without construction or permits.',
     relationships: [],
   },
   {
@@ -128,7 +128,7 @@ export const entityGraph: EntityNode[] = [
     type: 'audience',
     name: 'Professional Operators',
     description:
-      'Lifeguard and rescue teams, commercial marine operators, and tourism companies requiring professional-grade SUP equipment.',
+      'Hotels, resorts, swim schools, and rental pool operators requiring commercial-grade inflatable pool equipment.',
     relationships: [],
   },
 ];

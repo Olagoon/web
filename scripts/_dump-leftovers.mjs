@@ -3,7 +3,8 @@ import { readFileSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
 
 const DIR = 'src/data/pages';
-const RE = /(?<![a-zA-Z])(sups?|paddles?|paddling|paddlers?|surf|surfing|kayak|kayaks?|isup|boards?|life ?vests?|wetsuit)(?![a-zA-Z])/i;
+const RE =
+  /(?<![a-zA-Z])(sups?|paddles?|paddling|paddlers?|surf|surfing|kayak|kayaks?|isup|boards?|life ?vests?|wetsuit)(?![a-zA-Z])/i;
 
 for (const f of readdirSync(DIR).filter((x) => x.endsWith('.yaml'))) {
   const raw = readFileSync(join(DIR, f), 'utf8');

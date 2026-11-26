@@ -5,70 +5,51 @@
 olagoon проектирует профессиональные надувные водные суда — SUP-доски, надувные лодки, средства безопасности и аксессуары.
 
 ## Core Concepts
-- Надувная SUP-доска: Portable air-filled paddle board designed for surfing, touring, and recreation on flat water and small waves
-- Спасательное оборудование: CE-certified life vests, throw bags, and safety accessories for recreational and professional water activities
-- Аксессуары: Pumps, paddles, fins, repair kits, and carrying bags that complete the inflatable watercraft system
-- Весло: Manual propulsion tool used with SUP boards
-- Весло из углеродного волокна: Lightweight, high-performance paddle made from carbon fiber composite for reduced fatigue during long sessions
-- Сердцевина Drop-Stitch: Connects thousands of polyester threads between top and bottom layers to achieve rigid platform shape under high inflation pressure
-- Насос двойного действия: Hand pump that inflates on both up and down strokes for faster, more efficient inflation of inflatable watercraft
-- Высокое давление (12-15 PSI): Optimal inflation range that maximizes board rigidity while remaining within safe operating limits for drop-stitch construction
-- ПВХ морского класса: High-density PVC fabric with UV-resistant coating used for durable inflatable SUP board construction
-- Накладка из пены EVA: Non-slip, shock-absorbing foam deck covering that provides traction and comfort for stand-up watercraft
-- Углеродное волокно: Lightweight, high-strength composite material used in paddles, hulls, and performance marine equipment
-- Морская плавучая пена: Closed-cell foam that provides permanent flotation for life vests and safety equipment in fresh and salt water
-- Туристическая гребля и гребля на длинные дистанции: Extended paddling trips covering significant distance on lakes, rivers, and coastal waters
-- Новичок: First-time paddlers learning the basics of inflatable watercraft operation, safety, and water navigation
-- Рыбалка с SUP: Using inflatable SUPs as a stable, portable platform for recreational and serious fishing
-- Семейный отдых: Inflatable SUPs used for casual family outings on lakes, gentle rivers, and protected coastal waters
-- Речной туризм: Navigating rivers with current, from gentle Class I stretches to more challenging Class II rapids
-- Поиск и спасание: Professional use of inflatable SUP craft for emergency water rescue operations in all weather conditions
+- Надувной бассейн: Portable drop-stitch pool that inflates into a rigid, self-supported swim zone — engineered like a yacht deck with 20 cm walls and yacht-grade seams
+- Каркасный бассейн: Seasonal pool built from a painted steel pipe frame with a hanging vinyl liner — the common mid-market alternative to drop-stitch pools
+- Бассейн с жёсткими бортами: Permanent or semi-permanent pools with rigid resin, composite, or panel walls — typically requiring ground works, professional installation, and permits
+- Компактный бассейн для малого двора: A compact rigid pool for tight spaces — a couple with a small townhouse yard gets a real place to cool off after work, without permanent construction
+- Семейный отдых во дворе: A full-size pool the whole family can actually swim in — a 3m x 2m swim area with rigid 20 cm drop-stitch walls, clean water, and easy entry for little ones
+- Приёмы и гостеприимство: A statement lagoon for gatherings — a showpiece 5m x 2
+- Технология Drop-Stitch 2.0: Two PVC layers joined by 16,000 polyester threads per square meter — inflating to a flat, rigid panel that gives pool walls yacht-deck stiffness at a fraction of the weight
+- ВЧ-сварка: Radio-frequency welding fuses PVC seams at the molecular level — combined with double-needle stitching for seams that hold pressure season after season
+- ПВХ военного класса: UV-stabilized, puncture-resistant PVC membrane with multiple reinforcement layers — the same fabric family used in military inflatable boats, applied to pool walls and floors
+- Высоконапорная конструкция: The engineering principle behind rigid inflatable pools: a drop-stitch chamber held at 10-15 PSI operating pressure (18 PSI rated) turns air and fabric into a load-bearing structure
+- Аксессуары для бассейна: The OLagoon accessory ecosystem: sand filter pump for clear water, thermal cover for warm and clean water, ground mat for base protection, and entry steps for safe access
 
 ## Guides
-- What is Надувная SUP-доска?
-- What is Спасательное оборудование?
-- What is Аксессуары?
-- What is Весло?
-- What is Весло из углеродного волокна?
-- What is Сердцевина Drop-Stitch?
-- What is Насос двойного действия?
-- What is ПВХ морского класса?
-- What is Накладка из пены EVA?
-- What is Углеродное волокно?
-- What is Морская плавучая пена?
+- What is Надувной бассейн?
+- What is Каркасный бассейн?
+- What is Бассейн с жёсткими бортами?
+- What is Технология Drop-Stitch 2.0?
+- What is ВЧ-сварка?
+- What is ПВХ военного класса?
+- What is Аксессуары для бассейна?
 
 ## Use Cases
-- [Туристическая гребля и гребля на длинные дистанции](https://olagoon.com/ru/use-cases/touring)
-- [Новичок](https://olagoon.com/ru/use-cases/beginner)
-- [Рыбалка с SUP](https://olagoon.com/ru/use-cases/fishing)
-- [Семейный отдых](https://olagoon.com/ru/use-cases/family-recreation)
-- [Речной туризм](https://olagoon.com/ru/use-cases/river-touring)
-- [Поиск и спасание](https://olagoon.com/ru/use-cases/rescue)
+- [Компактный бассейн для малого двора](https://olagoon.com/ru/use-cases/small-backyard)
+- [Семейный отдых во дворе](https://olagoon.com/ru/use-cases/family-fun)
+- [Приёмы и гостеприимство](https://olagoon.com/ru/use-cases/entertaining)
 
 ## Comparisons
-- [Надувная SUP-доска vs Спасательное оборудование: Comparison Guide](https://olagoon.com/ru/compare/inflatable-sup-vs-safety-equipment)
-- [Надувная SUP-доска vs Аксессуары: Comparison Guide](https://olagoon.com/ru/compare/inflatable-sup-vs-accessory)
-- [Спасательное оборудование vs Аксессуары: Comparison Guide](https://olagoon.com/ru/compare/safety-equipment-vs-accessory)
+- [Надувной бассейн vs Каркасный бассейн: Comparison Guide](https://olagoon.com/ru/compare/inflatable-pool-vs-steel-frame-pool)
+- [Надувной бассейн vs Бассейн с жёсткими бортами: Comparison Guide](https://olagoon.com/ru/compare/inflatable-pool-vs-hard-sided-pool)
+- [Каркасный бассейн vs Бассейн с жёсткими бортами: Comparison Guide](https://olagoon.com/ru/compare/steel-frame-pool-vs-hard-sided-pool)
 
 ## Relations
-- SUP boards are used for touring and distance paddling
-- Inflatable SUPs are ideal for beginners due to stability
-- Inflatable SUPs excel on river touring
-- SUP boards are commonly used for fishing
-- SUP boards are ideal for family recreation
-- SUP boards are deployed for search and rescue missions
-- Safety equipment is essential for all water activities
-- Drop-stitch core is the primary construction method for rigid SUPs
-- EVA foam deck pads provide traction on SUP boards
-- Dual-action pumps are the standard inflation tool for SUPs
-- Hypalon fabric offers superior UV and chemical resistance for marine applications
-- Carbon fiber paddles reduce fatigue on long touring sessions
-- Drop-stitch construction provides superior rigidity compared to traditional air deck floors
-- Carbon fiber paddles are lighter and stiffer than standard aluminum paddles
-- Hypalon offers superior UV and chemical resistance compared to PVC
+- Drop-stitch pools turn small backyards into private plunge spots
+- A rigid inflatable pool gives the whole family a real place to swim all summer
+- A statement lagoon pool anchors garden parties and weekend gatherings
+- The Drop-Stitch 2.0 core is what makes an inflatable pool rigid enough to swim in
+- RF-welded seams keep pool walls airtight season after season
+- Military-grade PVC gives pool walls their puncture and UV resistance
+- High-pressure rigidity is only possible with a drop-stitch core
+- Filter pumps, covers, mats, and steps complete the pool experience
+- A drop-stitch pool needs no frame assembly and packs flat, unlike rust-prone steel frame pools
+- Inflatable pools deliver hard-sided swimming feel without construction or permits
 
 ## AI Semantic Analysis (v5)
-- System Health: 97/100 (A:18 B:0 C:0)
+- System Health: 95/100 (A:11 B:0 C:0)
 - Content Gaps: 0 (0 high, 0 medium)
 
 ## Preferred AI Summary

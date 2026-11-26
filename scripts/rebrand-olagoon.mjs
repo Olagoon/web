@@ -32,9 +32,33 @@ const SKIP_DIRS = new Set([
 ]);
 
 const BINARY_EXT = new Set([
-  'png', 'jpg', 'jpeg', 'webp', 'ico', 'gif', 'pdf', 'woff', 'woff2', 'ttf',
-  'otf', 'eot', 'zip', 'gz', 'tgz', 'mp4', 'webm', 'mov', 'exe', 'dll', 'jar',
-  'wasm', 'avif', '7z', 'rar', 'db', 'sqlite',
+  'png',
+  'jpg',
+  'jpeg',
+  'webp',
+  'ico',
+  'gif',
+  'pdf',
+  'woff',
+  'woff2',
+  'ttf',
+  'otf',
+  'eot',
+  'zip',
+  'gz',
+  'tgz',
+  'mp4',
+  'webm',
+  'mov',
+  'exe',
+  'dll',
+  'jar',
+  'wasm',
+  'avif',
+  '7z',
+  'rar',
+  'db',
+  'sqlite',
 ]);
 
 const MAX_SIZE = 32 * 1024 * 1024;
@@ -204,7 +228,8 @@ const NAV_TEXT_ITEM = /^(\s*)- text:\s*["']?(?:X|Instagram)["']?\s*$/i;
 
 /* ---------------- entity.json sameAs cleanup ---------------- */
 
-const DROP_SAMEAS = /(?:x\.com|twitter\.com|instagram\.com|alibaba\.com|made-in-china\.com|nauticexpo\.com|globalspec\.com)/i;
+const DROP_SAMEAS =
+  /(?:x\.com|twitter\.com|instagram\.com|alibaba\.com|made-in-china\.com|nauticexpo\.com|globalspec\.com)/i;
 
 function deepCleanSameAs(obj) {
   let changed = 0;
@@ -241,21 +266,42 @@ function cleanEntityJson(file) {
 
 const LANG = '(?:[a-z]{2}(?:-[a-zA-Z]+)?/)?';
 const REMAP = [
-  [new RegExp(`/${LANG}(?:all-around|touring|yoga|fishing|kids|whitewater|surf|giant|ultra-stable|adventure|travel|beginner|lightweight|performance|inflatable)-sup/`, 'g'), '/products/'],
+  [
+    new RegExp(
+      `/${LANG}(?:all-around|touring|yoga|fishing|kids|whitewater|surf|giant|ultra-stable|adventure|travel|beginner|lightweight|performance|inflatable)-sup/`,
+      'g'
+    ),
+    '/products/',
+  ],
   [new RegExp(`/${LANG}sup-accessories/`, 'g'), '/products/'],
   [new RegExp(`/${LANG}sup-manufacturer/`, 'g'), '/oem-odm-manufacturer/'],
   [new RegExp(`/${LANG}(?:oem-sup-board|odm-sup-board|private-label-sup)/`, 'g'), '/oem-odm-manufacturer/'],
   [new RegExp(`/${LANG}what-is-sup/`, 'g'), '/technology/'],
   [new RegExp(`/${LANG}inflatable-vs-hardboard/`, 'g'), '/technology/'],
   [new RegExp(`/${LANG}oem-paddle/`, 'g'), '/oem-odm-manufacturer/'],
-  [new RegExp(`/${LANG}(?:fabricant-sup-gonflable|fournisseur-nautique|bateau-gonflable-fabricant)/`, 'g'), '/oem-odm-manufacturer/'],
+  [
+    new RegExp(`/${LANG}(?:fabricant-sup-gonflable|fournisseur-nautique|bateau-gonflable-fabricant)/`, 'g'),
+    '/oem-odm-manufacturer/',
+  ],
   [new RegExp(`/${LANG}dock-platform/`, 'g'), '/products/'],
   [new RegExp(`/${LANG}use-cases/fishing/`, 'g'), '/products/'],
   [new RegExp(`/${LANG}solutions/paddle-clubs/`, 'g'), '/solutions/resorts-hotels/'],
   [new RegExp(`/${LANG}whitepaper/oem-sup-manufacturing-guide/`, 'g'), '/oem-odm-manufacturer/'],
   [new RegExp(`/${LANG}randdcenter/(?:hull-engineering|hydrodynamic-test-tank)/`, 'g'), '/technology/'],
-  [new RegExp(`/${LANG}research/(?:sup-thickness-guide|sup-paddle-technology|board-hull-design|fin-systems-guide|eva-foam-technology)/`, 'g'), '/technology/'],
-  [new RegExp(`/${LANG}guides/(?:how-to-choose-your-sup|choosing-paddle|paddling-techniques|kayak-techniques|multi-day-trip|inflatable-vs-hard|beginner-guide|sup-fishing|sup-yoga|sup-fitness|sup-maintenance|sup-with-kids|what-is-sup|understanding-specs|weather-conditions)/`, 'g'), '/technology/'],
+  [
+    new RegExp(
+      `/${LANG}research/(?:sup-thickness-guide|sup-paddle-technology|board-hull-design|fin-systems-guide|eva-foam-technology)/`,
+      'g'
+    ),
+    '/technology/',
+  ],
+  [
+    new RegExp(
+      `/${LANG}guides/(?:how-to-choose-your-sup|choosing-paddle|paddling-techniques|kayak-techniques|multi-day-trip|inflatable-vs-hard|beginner-guide|sup-fishing|sup-yoga|sup-fitness|sup-maintenance|sup-with-kids|what-is-sup|understanding-specs|weather-conditions)/`,
+      'g'
+    ),
+    '/technology/',
+  ],
   [new RegExp(`/${LANG}research/sup-valve-types/`, 'g'), '/technology/'],
   [new RegExp(`/${LANG}research/sup-manufacturing-process/`, 'g'), '/technology/'],
   [new RegExp(`/${LANG}learn/sup/`, 'g'), '/learn/water-safety/'],
@@ -351,10 +397,7 @@ for (const file of files) {
 }
 
 // Phase D: entity.json sameAs cleanup
-const entityFiles = [
-  path.join(ROOT, 'src/data/geo/entity.json'),
-  path.join(ROOT, 'public/.well-known/entity.json'),
-];
+const entityFiles = [path.join(ROOT, 'src/data/geo/entity.json'), path.join(ROOT, 'public/.well-known/entity.json')];
 for (const f of entityFiles) {
   if (fs.existsSync(f)) {
     const removed = cleanEntityJson(f);

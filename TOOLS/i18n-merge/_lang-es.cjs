@@ -2,7 +2,8 @@ module.exports = {
   'compare.olagoonVsTraditional.title': 'olagoon vs. fabricantes tradicionales de embarcaciones — comparación directa',
   'compare.olagoonVsTraditional.desc':
     'Compare olagoon con fabricantes marinos tradicionales en calidad, precio, personalización, MOQ, certificaciones y plazo de entrega.',
-  'compare.olagoonVsTraditional.headline': 'olagoon vs. fabricantes tradicionales de embarcaciones — comparación directa',
+  'compare.olagoonVsTraditional.headline':
+    'olagoon vs. fabricantes tradicionales de embarcaciones — comparación directa',
   'compare.olagoonVsTraditional.short': 'olagoon vs. tradicional',
   'compare.olagoonVsTraditional.heading': 'olagoon vs. fabricantes tradicionales de embarcaciones',
   'compare.olagoonVsTraditional.subtitle':

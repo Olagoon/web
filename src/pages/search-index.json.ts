@@ -67,8 +67,8 @@ const staticPages: { url: string; title: string; excerpt: string; tags: string[]
     url: '/guides/',
     title: 'Guides',
     excerpt:
-      'Beginner guides for SUP and water sports. Learn how to choose your SUP, safety tips, inflatable vs hard board comparisons, and paddling techniques.',
-    tags: ['guides', 'beginner', 'SUP'],
+      'Guides for OLagoon pool owners. Learn how to choose your pool, water safety tips, inflatable vs frame comparisons, and setup techniques.',
+    tags: ['guides', 'pool', 'setup'],
   },
   {
     url: '/products/bundles/',
@@ -81,20 +81,20 @@ const staticPages: { url: string; title: string; excerpt: string; tags: string[]
     url: '/size-guide/',
     title: 'Size Guide',
     excerpt:
-      'Find the right size inflatable SUP for your needs. Compare dimensions, weight capacities, and recommended uses.',
+      'Find the right size OLagoon pool for your yard. Compare footprints, depths, water capacities, and recommended household sizes.',
     tags: ['size', 'guide', 'dimensions', 'capacity'],
   },
   {
     url: '/products/compare/',
     title: 'Product Comparison',
-    excerpt: 'Compare olagoon inflatable SUPs and accessories side by side. Length, width, weight, capacity, and more.',
+    excerpt: 'Compare OLagoon pools and accessories side by side. Footprint, depth, wall height, capacity, and more.',
     tags: ['compare', 'comparison', 'specs', 'side-by-side'],
   },
   {
     url: '/randdcenter/',
     title: 'R&D Center',
     excerpt:
-      'olagoon Research & Development — PVC fabric testing, RF welding, hydrodynamic testing, and quality control for inflatable SUPs.',
+      'olagoon Research & Development — PVC fabric testing, RF welding, drop-stitch prototyping, and quality control for inflatable pools.',
     tags: ['r&d', 'research', 'engineering', 'testing'],
   },
   {
@@ -107,21 +107,21 @@ const staticPages: { url: string; title: string; excerpt: string; tags: string[]
     url: '/faq/',
     title: 'Frequently Asked Questions',
     excerpt:
-      'Find answers to common questions about olagoon inflatable SUPs — pricing, shipping, warranty, OEM partnerships, rentals, resorts, and retail distribution.',
+      'Find answers to common questions about OLagoon pools — pricing, shipping, warranty, OEM partnerships, rentals, resorts, and retail distribution.',
     tags: ['faq', 'questions', 'answers', 'help', 'b2b', 'oem', 'support'],
   },
   {
     url: '/oem-odm-manufacturer/',
-    title: 'OEM SUP Manufacturing Guide — White Paper',
+    title: 'OEM Pool Manufacturing Guide — White Paper',
     excerpt:
-      'Comprehensive guide to OEM inflatable SUP manufacturing: material selection, production processes, quality control, factory audits, and supply chain management.',
+      'Comprehensive guide to OEM inflatable pool manufacturing: material selection, production processes, quality control, factory audits, and supply chain management.',
     tags: ['whitepaper', 'oem', 'manufacturing', 'guide', 'b2b', 'supply-chain'],
   },
   {
     url: '/resources/',
     title: 'Resource Center',
     excerpt:
-      'olagoon resource center for B2B partners: white papers, industry reports, case studies, ROI calculator, and business tools for SUP OEM, resorts, and rental operators.',
+      'olagoon resource center for B2B partners: white papers, industry reports, case studies, ROI calculator, and business tools for pool OEM, resorts, and rental operators.',
     tags: ['resources', 'b2b', 'whitepaper', 'roi', 'calculator', 'partners'],
   },
 ];

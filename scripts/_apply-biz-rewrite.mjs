@@ -39,10 +39,7 @@ for (const f of files) {
     if (typeEnd < 0) throw new Error('type close not found in ' + f);
     const typeBlock = lines.slice(0, typeEnd + 1).join('\n');
     stub =
-      typeBlock +
-      '\n\n' +
-      `const ${lang}: Record<string, SolutionOverride> = {};\n\n` +
-      `export default ${lang};\n`;
+      typeBlock + '\n\n' + `const ${lang}: Record<string, SolutionOverride> = {};\n\n` + `export default ${lang};\n`;
   } else {
     throw new Error('unexpected file head in ' + f);
   }
