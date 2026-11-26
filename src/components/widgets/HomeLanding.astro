@@ -35,6 +35,29 @@ const specOf = (p: any, label: string): string => (p.specs || []).find((s: any) 
 const faqItems: Array<{ q: string; a: string }> = (page.faqs?.items || []) as Array<{ q: string; a: string }>;
 
 const heroImage = page.hero?.image?.src || '/images/olagoon/hero/pool-lagoon-hero.webp';
+
+// Lifestyle photos for the "Who We Serve" cards (scene shots, not repeat product beauty shots)
+const whoServeImages = [
+  '/images/olagoon/products/round-pool-app-2.webp',
+  '/images/olagoon/hero/kids-pool-fun.webp',
+  '/images/olagoon/products/square-pool-playing.webp',
+];
+const whoServeAlts = [
+  'A compact OLagoon pool on a backyard patio',
+  'Kids playing in an OLagoon family pool',
+  'A group enjoying a large OLagoon pool party',
+];
+
+// Engineering photos: drop-stitch core, rigid walls, filtration, factory pressure testing
+const engineeringImages = [
+  '/images/olagoon/tech/tech-drop-stitch.webp',
+  '/images/olagoon/products/rectangle-square-pool.webp',
+  '/images/olagoon/products/sand-filter-pump-2.webp',
+  '/images/olagoon/factory/olagoon-pressure-testing.webp',
+];
+
+const proofBgImage = '/images/olagoon/hero/lakeside-olagoon.webp';
+const ctaBgImage = '/images/olagoon/products/family-oasis.webp';
 ---
 
 <!-- AI Semantic Blocks (hidden, for AI crawler consumption) -->
@@ -226,19 +249,31 @@ const heroImage = page.hero?.image?.src || '/images/olagoon/hero/pool-lagoon-her
           <p class="mt-4 text-lg text-gray-500 max-w-2xl mx-auto">{page.who_we_serve?.subtitle || ''}</p>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-          {page.who_we_serve.items.map((item: any) => (
+          {page.who_we_serve.items.map((item: any, i: number) => (
             <a
               href={lh(item.link)}
-              class="group relative bg-white rounded-3xl p-8 border border-gray-200 hover:border-primary/30 hover:shadow-xl transition-all duration-500 hover:-translate-y-1 flex flex-col"
+              class="group relative bg-white rounded-3xl border border-gray-200 overflow-hidden hover:border-primary/30 hover:shadow-xl transition-all duration-500 hover:-translate-y-1 flex flex-col"
             >
-              <div class="w-14 h-14 rounded-2xl bg-primary/10 flex items-center justify-center mb-5 text-primary">
-                <Icon name={item.icon || 'tabler:ripple'} class="w-7 h-7" />
+              {whoServeImages[i] && (
+                <div class="aspect-[16/9] bg-gray-100 overflow-hidden">
+                  <img
+                    src={whoServeImages[i]}
+                    alt={whoServeAlts[i] || item.title || ''}
+                    class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                    loading="lazy"
+                  />
+                </div>
+              )}
+              <div class="p-8 flex flex-col flex-1">
+                <div class="w-14 h-14 rounded-2xl bg-primary/10 flex items-center justify-center mb-5 text-primary">
+                  <Icon name={item.icon || 'tabler:ripple'} class="w-7 h-7" />
+                </div>
+                <h3 class="text-xl font-bold text-secondary mb-3">{item.title || ''}</h3>
+                <p class="text-sm text-gray-500 leading-relaxed flex-1">{item.description || ''}</p>
+                <span class="mt-6 inline-flex items-center gap-1 text-sm font-medium text-primary group-hover:gap-2 transition-all">
+                  {item.cta || 'Learn More'} →
+                </span>
               </div>
-              <h3 class="text-xl font-bold text-secondary mb-3">{item.title || ''}</h3>
-              <p class="text-sm text-gray-500 leading-relaxed flex-1">{item.description || ''}</p>
-              <span class="mt-6 inline-flex items-center gap-1 text-sm font-medium text-primary group-hover:gap-2 transition-all">
-                {item.cta || 'Learn More'} →
-              </span>
             </a>
           ))}
         </div>
@@ -263,13 +298,25 @@ const heroImage = page.hero?.image?.src || '/images/olagoon/hero/pool-lagoon-her
           <p class="mt-4 text-lg text-gray-500 max-w-2xl mx-auto">{page.business_solutions?.subtitle || ''}</p>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 reveal">
-          {page.business_solutions.items.map((item: any) => (
-            <div class="bg-[#F8FAFB] rounded-3xl p-8 group hover:shadow-lg transition-all duration-500 hover:-translate-y-1">
-              <div class="w-14 h-14 rounded-2xl bg-primary/10 flex items-center justify-center mb-6 text-primary">
-                <Icon name={item.icon || 'tabler:shield-check'} class="w-7 h-7" />
+          {page.business_solutions.items.map((item: any, i: number) => (
+            <div class="bg-[#F8FAFB] rounded-3xl overflow-hidden group hover:shadow-lg transition-all duration-500 hover:-translate-y-1 flex flex-col">
+              {engineeringImages[i] && (
+                <div class="aspect-[16/10] bg-gray-100 overflow-hidden">
+                  <img
+                    src={engineeringImages[i]}
+                    alt={item.title || ''}
+                    class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                    loading="lazy"
+                  />
+                </div>
+              )}
+              <div class="p-6 flex flex-col flex-1">
+                <div class="w-12 h-12 rounded-2xl bg-primary/10 flex items-center justify-center mb-4 text-primary">
+                  <Icon name={item.icon || 'tabler:shield-check'} class="w-6 h-6" />
+                </div>
+                <h3 class="text-lg font-bold text-secondary">{item.title || ''}</h3>
+                <p class="mt-3 text-sm text-gray-500 leading-relaxed">{item.description || ''}</p>
               </div>
-              <h3 class="text-lg font-bold text-secondary">{item.title || ''}</h3>
-              <p class="mt-3 text-sm text-gray-500 leading-relaxed">{item.description || ''}</p>
             </div>
           ))}
         </div>
@@ -321,9 +368,9 @@ const heroImage = page.hero?.image?.src || '/images/olagoon/hero/pool-lagoon-her
 
 <!-- 06 Proof Points -->
 <section class="relative py-16 md:py-24 px-6 bg-secondary overflow-hidden">
-  <div class="absolute inset-0 opacity-5">
-    <div class="absolute top-10 left-10 w-64 h-64 rounded-full bg-white blur-3xl"></div>
-    <div class="absolute bottom-10 right-10 w-96 h-96 rounded-full bg-primary blur-3xl"></div>
+  <div class="absolute inset-0">
+    <img src={proofBgImage} alt="" class="w-full h-full object-cover opacity-25" loading="lazy" aria-hidden="true" />
+    <div class="absolute inset-0 bg-gradient-to-b from-secondary/85 via-secondary/70 to-secondary/90"></div>
   </div>
   <div class="max-w-6xl mx-auto relative z-10">
     <div class="text-center max-w-3xl mx-auto mb-16 reveal">
@@ -378,27 +425,36 @@ const heroImage = page.hero?.image?.src || '/images/olagoon/hero/pool-lagoon-her
 {
   page.cta?.title ? (
     <section class="max-w-6xl mx-auto py-16 md:py-24 px-6">
-      <div class="bg-primary/5 border border-primary/20 rounded-3xl px-8 py-16 text-center">
-        <h2 class="text-3xl md:text-4xl font-bold text-secondary text-balance">{page.cta?.title || ''}</h2>
-        <p class="mt-4 text-lg text-gray-500 max-w-2xl mx-auto">{page.cta?.subtitle || ''}</p>
-        <div class="mt-8 flex items-center justify-center gap-4 flex-wrap">
-          {(page.cta?.actions || []).map((act: any) =>
-            act.variant === 'primary' ? (
-              <a
-                href={lh(act.href || '/products/')}
-                class="inline-flex items-center gap-2 px-8 py-4 bg-primary hover:bg-[#006a78] text-white font-semibold rounded-full shadow-lg hover:shadow-xl transition-all hover:-translate-y-0.5"
-              >
-                {act.text || 'Shop the Pools'}
-              </a>
-            ) : (
-              <a
-                href={lh(act.href || '/contact/')}
-                class="inline-flex items-center gap-2 px-8 py-4 border-2 border-gray-300 text-gray-700 rounded-full font-medium hover:border-primary hover:text-primary transition-all"
-              >
-                {act.text || 'Contact Us'}
-              </a>
-            )
-          )}
+      <div class="relative rounded-3xl overflow-hidden">
+        <img
+          src={ctaBgImage}
+          alt="The OLagoon Family Oasis pool set up on a backyard lawn"
+          class="absolute inset-0 w-full h-full object-cover"
+          loading="lazy"
+        />
+        <div class="absolute inset-0 bg-secondary/75" />
+        <div class="relative z-10 px-8 py-16 text-center">
+          <h2 class="text-3xl md:text-4xl font-bold text-white text-balance">{page.cta?.title || ''}</h2>
+          <p class="mt-4 text-lg text-white/75 max-w-2xl mx-auto">{page.cta?.subtitle || ''}</p>
+          <div class="mt-8 flex items-center justify-center gap-4 flex-wrap">
+            {(page.cta?.actions || []).map((act: any) =>
+              act.variant === 'primary' ? (
+                <a
+                  href={lh(act.href || '/products/')}
+                  class="inline-flex items-center gap-2 px-8 py-4 bg-primary hover:bg-[#006a78] text-white font-semibold rounded-full shadow-lg hover:shadow-xl transition-all hover:-translate-y-0.5"
+                >
+                  {act.text || 'Shop the Pools'}
+                </a>
+              ) : (
+                <a
+                  href={lh(act.href || '/contact/')}
+                  class="inline-flex items-center gap-2 px-8 py-4 border-2 border-white/40 text-white rounded-full font-medium hover:bg-white/10 hover:border-white/70 transition-all"
+                >
+                  {act.text || 'Contact Us'}
+                </a>
+              )
+            )}
+          </div>
         </div>
       </div>
     </section>
