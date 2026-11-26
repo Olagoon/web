@@ -15,10 +15,9 @@ const { lang } = Astro.params;
 const t = (k: string) => getUiForLang(lang)?.[k] || getUiForLang('en')?.[k] || '';
 
 const metadata = {
-  title: `${t('solutionsByUseCase.title') || 'Solutions by Use Case — Find Your Inflatable SUP'} | ${SITE.name}`,
+  title: `${t('solutionsByUseCase.title') || 'Solutions by Use Case — Find Your Inflatable Pool'} | ${SITE.name}`,
   description:
-    t('solutionsByUseCase.desc') ||
-    'Solutions by use case — match your specific use case to the right olagoon inflatable SUP.',
+    'Solutions by use case — match your specific use case to the right OLagoon inflatable pool. Swim schools, resorts, camps, wellness studios, retail, and family use.',
   ignoreTitleTemplate: true,
 };
 
@@ -26,17 +25,17 @@ const crumbs = [{ name: t('nav.home'), href: `/${lang}/` }, { name: t('solutions
 
 const scenarios = [
   {
-    scenario: 'I need rescue boards for lifeguard or water safety teams',
+    scenario: 'I need training pools for my swim school or aquatic program',
     icon: 'M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-2.5L13.732 4c-.77-.833-1.964-.833-2.732 0L3.34 16.5c-.77.833.192 2.5 1.732 2.5z',
     answer:
-      'Our rescue SUPs (11-14 ft) are designed for rapid deployment. Lightweight for easy transport, wide stable platforms for victim recovery, and military-grade PVC construction for extended UV exposure.',
-    cta: { text: 'View SUP Products', link: withTrailingSlash(`/${lang}/products`) },
+      'Our shallow training pools feature stable 20 cm drop-stitch walls and non-slip interior surfaces. Modular multi-pool layouts for group lessons, with entry steps and ground mats included in school packages.',
+    cta: { text: 'Swim School Program', link: withTrailingSlash(`/${lang}/solutions/swim-school-pool-program`) },
   },
   {
     scenario: t('solutionsByUseCase.scenario2'),
     icon: 'M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9',
     answer: t('solutionsByUseCase.answer2'),
-    cta: { text: t('solutionsByUseCase.cta2'), link: withTrailingSlash(`/${lang}/products`) },
+    cta: { text: t('solutionsByUseCase.cta2'), link: withTrailingSlash(`/${lang}/solutions/resorts-hotels`) },
   },
   {
     scenario: t('solutionsByUseCase.scenario3'),
@@ -45,25 +44,25 @@ const scenarios = [
     cta: { text: t('solutionsByUseCase.cta3'), link: withTrailingSlash(`/${lang}/oem-odm-manufacturer`) },
   },
   {
-    scenario: 'I need fleet boards for my paddle club or SUP school',
+    scenario: 'I need pool packages for my summer camp or community program',
     icon: 'M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z',
     answer:
-      'Mixed-size fleet supply for all skill levels: stable beginner platforms, touring boards, and race boards. Bulk club pricing, custom branding, and membership program support.',
-    cta: { text: 'View SUP Products', link: withTrailingSlash(`/${lang}/products`) },
+      'Durable group-size pools for camps, HOAs, and community programs. Rapid deployment, multi-season storage, and configurations for 8-20+ swimmers. Ground mats, entry steps, and pump bundles available.',
+    cta: { text: 'Camp Pool Packages', link: withTrailingSlash(`/${lang}/solutions/summer-camp-pool-package`) },
   },
   {
-    scenario: 'I need boards for a marine tourism or adventure operation',
+    scenario: 'I need wellness or cold plunge pools for my spa or studio',
     icon: 'M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 12.5V17a2 2 0 01-2 2H6a2 2 0 01-2-2V9a2 2 0 012-2h3.5a2 2 0 012 2v.5',
     answer:
-      'Durable all-around and touring SUPs built for daily guest use, plus giant multi-rider boards for group experiences. UV-stabilized construction for tropical, full-season operation.',
-    cta: { text: 'View SUP Products', link: withTrailingSlash(`/${lang}/products`) },
+      'Compact plunge and relaxation pools for wellness studios and health clubs. Small footprints fit existing rooms, thermal covers maintain water temperature, and premium finishes suit upscale environments.',
+    cta: { text: 'Wellness Pool Program', link: withTrailingSlash(`/${lang}/solutions/wellness-spa-pool-program`) },
   },
   {
-    scenario: 'I need fishing SUPs for my guiding service or retail shop',
+    scenario: 'I want to sell OLagoon pools in my retail store or garden center',
     icon: 'M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z',
     answer:
-      'Fishing-specific SUPs with wide, stable platforms, gear-mount options, and accessory integration. Available for guided-tour fleets or wholesale retail supply.',
-    cta: { text: 'View SUP Products', link: withTrailingSlash(`/${lang}/products`) },
+      'Retail partnerships across the full pool product line, with display support, marketing materials, and dropshipping. Wholesale margins from $200 to $1,200+ per pool depending on model and volume.',
+    cta: { text: 'Retail Partner Program', link: withTrailingSlash(`/${lang}/solutions/retail-partners`) },
   },
   {
     scenario: t('solutionsByUseCase.scenario7'),
@@ -72,10 +71,10 @@ const scenarios = [
     cta: { text: t('solutionsByUseCase.cta7'), link: withTrailingSlash(`/${lang}/design-powerhouse`) },
   },
   {
-    scenario: 'I need a single SUP for personal or family use',
+    scenario: 'I need a single pool for my family or backyard',
     icon: 'M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6',
     answer:
-      'Visit our product catalog to find the right board. Our size guide and product comparisons help match you with the right model. All products CE certified with warranty.',
+      'Visit our product catalog to find the right pool. Our size guide and product comparisons help you match your backyard and household. All pools are CE certified with a 2-year structural warranty.',
     cta: { text: t('solutionsByUseCase.cta8'), link: withTrailingSlash(`/${lang}/products`) },
   },
 ];
@@ -144,19 +143,19 @@ const scenarios = [
     stories={[
       {
         quote:
-          'The fleet arrived branded and ready to rent on day one. When a guest damaged a board mid-season, the replacement arrived within 48 hours.',
+          'The fleet arrived branded and ready to rent on day one. When a guest damaged a pool mid-season, the replacement arrived within 48 hours.',
         narrative:
-          'A beach resort in the Maldives launched a 30-board olagoon SUP fleet with custom branding and staff training included. Rental-grade boards with reinforced rails survive daily guest use, and integrated fleet tracking keeps boards accounted for. The fleet pays for itself within a single high season.',
-        context: 'Resort SUP fleet, Maldives, 2024',
+          'A beach resort in the Maldives launched a 6-pool OLagoon guest fleet with custom branding and staff training included. Rental-grade pools with reinforced walls survive daily guest use, and a mid-season replacement kept the program running. The fleet pays for itself within a single high season.',
+        context: 'Resort pool fleet, Maldives, 2024',
         source: 'Resort Activities Manager',
       },
       {
         quote:
-          'We run three guided tours a day with our olagoon fleet. The boards handle the tropical sun and daily launches without missing a beat.',
+          'We run three poolside sessions a day with our OLagoon fleet. The pools handle the tropical sun and daily setups without missing a beat.',
         narrative:
-          'A marine tourism operator in Southeast Asia runs guided mangrove and lagoon tours with a mixed olagoon fleet — all-around boards for guests and touring boards for guides. After two full seasons of three daily sessions, the UV-stabilized fabric shows no fading and the fusion-welded seams remain fully intact.',
-        context: 'Guided tour operation, Southeast Asia, 2023-2025',
-        source: 'Tour Operation Owner',
+          'An events operator in Southeast Asia runs weddings and corporate activations with an OLagoon rental fleet — family pools for group experiences and plunge pools for wellness zones. After two full seasons of daily setups, the UV-stabilized fabric shows no fading and the welded seams remain fully intact.',
+        context: 'Event rental operation, Southeast Asia, 2023-2025',
+        source: 'Rental Operation Owner',
       },
     ]}
   />
@@ -171,8 +170,8 @@ const scenarios = [
         label: t('solutionsByUseCase.rel1label'),
       },
       {
-        title: 'SUP Products',
-        description: 'Full lineup of CE-certified inflatable SUPs and accessories.',
+        title: 'Pool Products',
+        description: 'Full lineup of CE-certified inflatable pools and accessories.',
         href: withTrailingSlash(`/${lang}/products`),
         label: 'Products',
       },
@@ -193,12 +192,12 @@ const scenarios = [
 
   <section class="sr-only" data-ai-block="definition" aria-hidden="true">
     <p>
-      Use case decision flow for olagoon inflatable SUP boards. Eight scenarios: water safety (rescue SUPs with wide
-      stable platforms), rental fleet (rental-grade SUPs with custom branding), custom branded products (OEM/ODM
-      service, MOQ 50 SUP), paddle clubs and SUP schools (mixed-size fleet supply with bulk club pricing), marine
-      tourism (all-around and touring SUPs plus giant multi-rider boards), fishing (fishing-specific SUPs with
-      gear-mount options), custom SUP design (full ODM from concept to production), personal/family use (product catalog
-      with size guide and comparisons).
+      Use case decision flow for OLagoon inflatable pools. Eight scenarios: swim schools and aquatic programs (shallow
+      training pools with non-slip surfaces), resort rental fleets (commercial-grade pool fleets with custom branding),
+      custom-branded products (OEM/ODM service from 50 units), summer camps and community programs (group-size pool
+      packages for 8-20+ swimmers), wellness and spa operators (compact plunge and relaxation pools), retail stores and
+      garden centers (retail partner program with dropshipping), custom pool design (full ODM from concept to
+      production), personal and family use (product catalog with size guide and comparisons).
     </p>
   </section>
 </Layout>
