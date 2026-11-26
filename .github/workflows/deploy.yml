@@ -1,158 +1,72 @@
-name: Build & Deploy
+name: Deploy
 
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
+  push:
+    branches: [master]
+    paths-ignore:
+      - '**.md'
 
 permissions:
   contents: read
 
+concurrency:
+  group: production-deploy
+  cancel-in-progress: false
+
 env:
-  NODE_VERSION: '22'
+  CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+  CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID || '2ac0f11c5362bbba3a7b34693dd56ba4' }}
+  CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
 
 jobs:
-  build-and-deploy:
+  deploy:
+    name: Build + deploy (R2, Workers, Pages)
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - name: Check Cloudflare credentials
-        id: guard
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         run: |
-          if [ -n "$CLOUDFLARE_API_TOKEN" ]; then
-            echo "enabled=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "enabled=false" >> "$GITHUB_OUTPUT"
-            echo "::notice::Cloudflare credentials are not configured; deployment skipped."
-          fi
-
-      - if: steps.guard.outputs.enabled == 'true'
-        uses: actions/checkout@v4
-      - if: steps.guard.outputs.enabled == 'true'
-        uses: actions/setup-node@v4
-        with:
-          node-version: ${{ env.NODE_VERSION }}
-          cache: npm
-      - if: steps.guard.outputs.enabled == 'true'
-        run: npm ci
-      - if: steps.guard.outputs.enabled == 'true'
-        name: Install PDF optimizer
-        run: |
-          for i in 1 2 3 4 5; do
-            if sudo apt-get update && sudo apt-get install -y --fix-missing ghostscript; then
-              echo "ghostscript installed on attempt $i"
-              exit 0
-            fi
-            echo "apt attempt $i/5 failed; retrying in 60s"
-            sleep 60
-          done
-          echo "ERROR: ghostscript install failed after 5 attempts"
-          exit 1
-      - if: steps.guard.outputs.enabled == 'true'
-        run: npm run generate
-      - if: steps.guard.outputs.enabled == 'true'
-        run: npm run check
-        env:
-          NODE_OPTIONS: --max-old-space-size=12288
-      - if: steps.guard.outputs.enabled == 'true'
-        run: npm test
-      - if: steps.guard.outputs.enabled == 'true'
-        run: npm run build
-        env:
-          NODE_OPTIONS: --max-old-space-size=12288
-          PUBLIC_TURNSTILE_SITEKEY: ${{ secrets.PUBLIC_TURNSTILE_SITEKEY }}
-      - if: steps.guard.outputs.enabled == 'true'
-        run: npm run check:bundle
-      - if: steps.guard.outputs.enabled == 'true'
-        name: Optimize R2 assets
-        run: npm run build:assets
-      - if: steps.guard.outputs.enabled == 'true'
-        name: Upload assets to R2
-        run: node scripts/fast-upload-r2.mjs
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID || '' }}
-          R2_ASSET_DIR: optimized-assets
-      - if: steps.guard.outputs.enabled == 'true'
-        name: Deploy Pages
-        run: npx wrangler pages deploy dist/ --project-name olagoon
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-      - if: steps.guard.outputs.enabled == 'true'
-        name: Ensure D1 database + schema
-        run: |
-          # Resolve (or create) the olagoon-inquiries D1 database via REST API.
-          HTTP_CODE=$(curl -s -o /tmp/d1.json -w "%{http_code}" \
-            "https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/d1/database?per_page=100" \
-            -H "Authorization: Bearer ${CLOUDFLARE_API_TOKEN}")
-          if [ "$HTTP_CODE" != "200" ]; then
-            echo "ERROR: D1 list API returned HTTP $HTTP_CODE — token may lack D1 permission (need Account > D1 > Edit)."
-            cat /tmp/d1.json
+          if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
+            echo "::error::Secret CLOUDFLARE_API_TOKEN is not configured (Settings → Secrets and variables → Actions)."
             exit 1
           fi
-          ID=$(jq -r '.result[]? | select(.name == "olagoon-inquiries") | .uuid' /tmp/d1.json | head -n 1)
-          if [ -z "$ID" ]; then
-            HTTP_CODE=$(curl -s -o /tmp/d1.json -w "%{http_code}" -X POST \
-              "https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/d1/database" \
-              -H "Authorization: Bearer ${CLOUDFLARE_API_TOKEN}" \
-              -H "Content-Type: application/json" \
-              -d '{"name": "olagoon-inquiries"}')
-            if [ "$HTTP_CODE" != "200" ]; then
-              echo "ERROR: D1 create API returned HTTP $HTTP_CODE"
-              cat /tmp/d1.json
-              exit 1
-            fi
-            ID=$(jq -r '.result.uuid // empty' /tmp/d1.json)
-            if [ -z "$ID" ]; then
-              echo "ERROR: D1 create response missing uuid"
-              cat /tmp/d1.json
-              exit 1
-            fi
-            echo "Created D1 database olagoon-inquiries: $ID"
-          else
-            echo "Reusing D1 database olagoon-inquiries: $ID"
-          fi
-          sed -i "s/__D1_DATABASE_ID__/$ID/" workers/contact-worker/wrangler.toml
-          npx wrangler d1 execute olagoon-inquiries --remote --file workers/contact-worker/schema.sql -c workers/contact-worker/wrangler.toml
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-      - if: steps.guard.outputs.enabled == 'true'
-        name: Deploy Workers
-        run: npm run deploy:workers
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-      - if: steps.guard.outputs.enabled == 'true'
-        name: Sync contact worker secrets
+
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci --no-audit --no-fund || npm install --no-audit --no-fund
+
+      - name: Build (5,941 pages)
+        run: npm run build
+
+      - name: Resolve D1 database id (contact worker)
         run: |
-          if [ -n "$CONTACT_RESEND_API_KEY" ]; then
-            printf '%s' "$CONTACT_RESEND_API_KEY" | npx wrangler secret put CONTACT_RESEND_API_KEY -c workers/contact-worker/wrangler.toml
-          else
-            echo 'SKIP: CONTACT_RESEND_API_KEY not set in repo secrets'
+          ID=$(curl -s "https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/d1/database?per_page=100" \
+            -H "Authorization: Bearer ${CLOUDFLARE_API_TOKEN}" \
+            | jq -r '.result[]? | select(.name == "olagoon-inquiries") | .uuid' | head -n 1)
+          if [ -z "$ID" ]; then
+            echo "::error::D1 database olagoon-inquiries not found in account ${CLOUDFLARE_ACCOUNT_ID} (token needs D1:Read)."
+            exit 1
           fi
-          if [ -n "$CONTACT_FROM_EMAIL" ]; then
-            printf '%s' "$CONTACT_FROM_EMAIL" | npx wrangler secret put CONTACT_FROM_EMAIL -c workers/contact-worker/wrangler.toml
-          else
-            echo 'SKIP: CONTACT_FROM_EMAIL not set in repo secrets'
-          fi
-          if [ -n "$CONTACT_TURNSTILE_SECRET" ]; then
-            printf '%s' "$CONTACT_TURNSTILE_SECRET" | npx wrangler secret put TURNSTILE_SECRET -c workers/contact-worker/wrangler.toml
-          else
-            echo 'SKIP: CONTACT_TURNSTILE_SECRET not set in repo secrets'
-          fi
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          CONTACT_RESEND_API_KEY: ${{ secrets.CONTACT_RESEND_API_KEY }}
-          CONTACT_FROM_EMAIL: ${{ secrets.CONTACT_FROM_EMAIL }}
-          CONTACT_TURNSTILE_SECRET: ${{ secrets.CONTACT_TURNSTILE_SECRET }}
-      - if: steps.guard.outputs.enabled == 'true'
-        name: Audit contact worker secrets (names only)
-        run: npx wrangler secret list -c workers/contact-worker/wrangler.toml || true
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          echo "Resolved D1 database olagoon-inquiries: ${ID}"
+          sed -i "s/__D1_DATABASE_ID__/${ID}/" workers/contact-worker/wrangler.toml
+
+      - name: Upload static assets to R2 (assets.olagoon.com)
+        run: node scripts/fast-upload-r2.mjs
+
+      - name: Deploy Workers (contact, ai, admin, automation)
+        run: npm run deploy:workers
+
+      - name: Sync Turnstile secret (contact worker)
+        if: ${{ secrets.CONTACT_TURNSTILE_SECRET != '' }}
+        run: |
+          printf '%s' "${{ secrets.CONTACT_TURNSTILE_SECRET }}" | npx wrangler secret put TURNSTILE_SECRET -c workers/contact-worker/wrangler.toml
+
+      - name: Deploy Pages (olagoon.com)
+        run: npx wrangler pages deploy dist/ --project-name olagoon

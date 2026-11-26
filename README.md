@@ -609,7 +609,7 @@ Per-locale schema helper `createLocaleSchema()` wraps every section in all 22 lo
 | `CLOUDFLARE_ACCOUNT_ID` | 必需 | `2ac0f11c5362bbba3a7b34693dd56ba4` |
 | `CLOUDFLARE_ZONE_ID` | 可选 | 设置后 R2 上传完成会清理 olagoon.com 边缘缓存；未设置跳过 |
 
-当前没有自动部署 workflow（无 `deploy.yml`），部署均在本机执行。若日后添加 CI 部署，还需要 `CONTACT_TURNSTILE_SECRET`（同步 Turnstile 密钥到 contact worker）；D1 database id 由 CI 通过 API 动态解析，无需 Secret。
+自动部署 workflow：`.github/workflows/deploy.yml`（push 到 master 或手动 `workflow_dispatch` 触发，执行顺序：build → 注入 D1 database id → R2 上传 → 4 Workers 部署 → Turnstile 密钥同步（需可选 Secret `CONTACT_TURNSTILE_SECRET`）→ Pages 部署）。D1 database id 由 CI 通过 API 动态解析，无需 Secret。
 
 ### 3. Cloudflare API Token 权限（自定义令牌）
 
