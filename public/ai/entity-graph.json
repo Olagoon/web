@@ -1,1042 +1,185 @@
 {
   "nodes": [
-    {
-      "id": "sup-tour-12",
-      "type": "product",
-      "label": "SUP Tour 12'",
-      "category": "inflatable"
-    },
-    {
-      "id": "tag:sup",
-      "type": "tag",
-      "label": "sup"
-    },
-    {
-      "id": "tag:touring",
-      "type": "tag",
-      "label": "touring"
-    },
-    {
-      "id": "tag:performance",
-      "type": "tag",
-      "label": "performance"
-    },
-    {
-      "id": "sup-explorer-11",
-      "type": "product",
-      "label": "SUP Explorer 11'",
-      "category": "inflatable"
-    },
-    {
-      "id": "tag:beginner",
-      "type": "tag",
-      "label": "beginner"
-    },
-    {
-      "id": "tag:inflatable",
-      "type": "tag",
-      "label": "inflatable"
-    },
-    {
-      "id": "pump-dual",
-      "type": "product",
-      "label": "Dual-Action Pump",
-      "category": "accessory"
-    },
-    {
-      "id": "tag:pump",
-      "type": "tag",
-      "label": "pump"
-    },
-    {
-      "id": "tag:inflation",
-      "type": "tag",
-      "label": "inflation"
-    },
-    {
-      "id": "tag:accessory",
-      "type": "tag",
-      "label": "accessory"
-    },
-    {
-      "id": "paddle-carbon",
-      "type": "product",
-      "label": "Carbon Paddle",
-      "category": "accessory"
-    },
-    {
-      "id": "tag:paddle",
-      "type": "tag",
-      "label": "paddle"
-    },
-    {
-      "id": "tag:carbon",
-      "type": "tag",
-      "label": "carbon"
-    },
-    {
-      "id": "tag:lightweight",
-      "type": "tag",
-      "label": "lightweight"
-    },
-    {
-      "id": "oars-pump-set",
-      "type": "product",
-      "label": "Oars & Pump Set",
-      "category": "accessory"
-    },
-    {
-      "id": "tag:oars",
-      "type": "tag",
-      "label": "oars"
-    },
-    {
-      "id": "life-vest-pro",
-      "type": "product",
-      "label": "Life Vest Pro",
-      "category": "accessory"
-    },
-    {
-      "id": "tag:safety",
-      "type": "tag",
-      "label": "safety"
-    },
-    {
-      "id": "tag:life vest",
-      "type": "tag",
-      "label": "life vest"
-    },
-    {
-      "id": "tag:professional",
-      "type": "tag",
-      "label": "professional"
-    },
-    {
-      "id": "tag:SOLAS",
-      "type": "tag",
-      "label": "SOLAS"
-    },
-    {
-      "id": "life-vest-classic",
-      "type": "product",
-      "label": "Life Vest Classic",
-      "category": "accessory"
-    },
-    {
-      "id": "tag:PFD",
-      "type": "tag",
-      "label": "PFD"
-    },
-    {
-      "id": "kayak-tandem",
-      "type": "product",
-      "label": "Inflatable Kayak Tandem",
-      "category": "inflatable"
-    },
-    {
-      "id": "tag:kayak",
-      "type": "tag",
-      "label": "kayak"
-    },
-    {
-      "id": "tag:tandem",
-      "type": "tag",
-      "label": "tandem"
-    },
-    {
-      "id": "tag:family",
-      "type": "tag",
-      "label": "family"
-    },
-    {
-      "id": "kayak-lite",
-      "type": "product",
-      "label": "Inflatable Kayak Lite",
-      "category": "inflatable"
-    },
-    {
-      "id": "tag:travel",
-      "type": "tag",
-      "label": "travel"
-    },
-    {
-      "id": "airdeck-360",
-      "type": "product",
-      "label": "AirDeck 360",
-      "category": "inflatable"
-    },
-    {
-      "id": "airdeck-270",
-      "type": "product",
-      "label": "AirDeck 270",
-      "category": "inflatable"
-    },
-    {
-      "id": "tag:portable",
-      "type": "tag",
-      "label": "portable"
-    },
-    {
-      "id": "olagoon-supply-chain-2025",
-      "type": "article",
-      "label": "Expand Your Business Horizons — Become a Dealer for Hifond's Leading Brands",
-      "category": "Corporation News"
-    },
-    {
-      "id": "tag:dealership",
-      "type": "tag",
-      "label": "dealership"
-    },
-    {
-      "id": "tag:hifond",
-      "type": "tag",
-      "label": "hifond"
-    },
-    {
-      "id": "tag:partnership",
-      "type": "tag",
-      "label": "partnership"
-    },
-    {
-      "id": "olagoon-rd-center-innovation",
-      "type": "article",
-      "label": "olagoon R&D Center — Forging the Future of Inflatable Water Sports",
-      "category": "Company"
-    },
-    {
-      "id": "tag:innovation",
-      "type": "tag",
-      "label": "innovation"
-    },
-    {
-      "id": "tag:R&D",
-      "type": "tag",
-      "label": "R&D"
-    },
-    {
-      "id": "tag:quality",
-      "type": "tag",
-      "label": "quality"
-    },
-    {
-      "id": "sup-tour-12-launch",
-      "type": "article",
-      "label": "olagoon Launches SUP Tour 12 — A New Standard for Touring Inflatable SUPs",
-      "category": "Product News"
-    },
-    {
-      "id": "tag:product launch",
-      "type": "tag",
-      "label": "product launch"
-    },
-    {
-      "id": "tag:SUP",
-      "type": "tag",
-      "label": "SUP"
-    },
-    {
-      "id": "spring-2026-gear-guide",
-      "type": "article",
-      "label": "Spring 2026 Paddling Gear Guide — What to Check Before Your First Launch",
-      "category": "Guides & Tips"
-    },
-    {
-      "id": "tag:seasonal",
-      "type": "tag",
-      "label": "seasonal"
-    },
-    {
-      "id": "tag:gear guide",
-      "type": "tag",
-      "label": "gear guide"
-    },
-    {
-      "id": "tag:spring",
-      "type": "tag",
-      "label": "spring"
-    },
-    {
-      "id": "seeking-dealers-for-olagoon",
-      "type": "article",
-      "label": "We Are Seeking Dealers for olagoon",
-      "category": "Corporation News"
-    },
-    {
-      "id": "tag:partners",
-      "type": "tag",
-      "label": "partners"
-    },
-    {
-      "id": "tag:USA",
-      "type": "tag",
-      "label": "USA"
-    },
-    {
-      "id": "recycled-pvc-initiative",
-      "type": "article",
-      "label": "olagoon Launches Recycled PVC Initiative for Sustainable Inflatable Manufacturing",
-      "category": "Company"
-    },
-    {
-      "id": "tag:sustainability",
-      "type": "tag",
-      "label": "sustainability"
-    },
-    {
-      "id": "tag:manufacturing",
-      "type": "tag",
-      "label": "manufacturing"
-    },
-    {
-      "id": "tag:environment",
-      "type": "tag",
-      "label": "environment"
-    },
-    {
-      "id": "preparing-sup-summer",
-      "type": "article",
-      "label": "Preparing Your SUP for Summer 2026 — Maintenance Tips for Peak Season",
-      "category": "Guides & Tips"
-    },
-    {
-      "id": "tag:maintenance",
-      "type": "tag",
-      "label": "maintenance"
-    },
-    {
-      "id": "tag:summer",
-      "type": "tag",
-      "label": "summer"
-    },
-    {
-      "id": "miami-boat-show-2026",
-      "type": "article",
-      "label": "olagoon to Exhibit at Miami International Boat Show 2026",
-      "category": "Events"
-    },
-    {
-      "id": "tag:event",
-      "type": "tag",
-      "label": "event"
-    },
-    {
-      "id": "tag:boat show",
-      "type": "tag",
-      "label": "boat show"
-    },
-    {
-      "id": "tag:Miami",
-      "type": "tag",
-      "label": "Miami"
-    },
-    {
-      "id": "tag:exhibition",
-      "type": "tag",
-      "label": "exhibition"
-    },
-    {
-      "id": "life-vest-pro-solas",
-      "type": "article",
-      "label": "Life Vest Pro Receives Full SOLAS Certification for Commercial Marine Use",
-      "category": "Product News"
-    },
-    {
-      "id": "tag:product",
-      "type": "tag",
-      "label": "product"
-    },
-    {
-      "id": "lake-tahoe-paddle-club",
-      "type": "article",
-      "label": "Lake Tahoe Paddle Club Chooses olagoon for Fleet Program",
-      "category": "Customer Stories"
-    },
-    {
-      "id": "tag:customer story",
-      "type": "tag",
-      "label": "customer story"
-    },
-    {
-      "id": "tag:fleet",
-      "type": "tag",
-      "label": "fleet"
-    },
-    {
-      "id": "tag:Lake Tahoe",
-      "type": "tag",
-      "label": "Lake Tahoe"
-    },
-    {
-      "id": "iso-14001-certification",
-      "type": "article",
-      "label": "olagoon Manufacturing Facility Achieves ISO 14001 Environmental Management Certification",
-      "category": "Company"
-    },
-    {
-      "id": "tag:certification",
-      "type": "tag",
-      "label": "certification"
-    },
-    {
-      "id": "tag:ISO",
-      "type": "tag",
-      "label": "ISO"
-    },
-    {
-      "id": "great-lake-sup-challenge",
-      "type": "article",
-      "label": "olagoon Sponsors Great Lake SUP Challenge 2026 — Lake Michigan Crossing",
-      "category": "Community"
-    },
-    {
-      "id": "tag:sponsorship",
-      "type": "tag",
-      "label": "sponsorship"
-    },
-    {
-      "id": "tag:community",
-      "type": "tag",
-      "label": "community"
-    },
+    { "id": "compact-plunge", "type": "product", "label": "The Compact Plunge", "category": "pool" },
+    { "id": "tag:plunge", "type": "tag", "label": "plunge" },
+    { "id": "tag:cold plunge", "type": "tag", "label": "cold plunge" },
+    { "id": "tag:compact", "type": "tag", "label": "compact" },
+    { "id": "tag:patio", "type": "tag", "label": "patio" },
+    { "id": "family-oasis", "type": "product", "label": "The Family Oasis", "category": "pool" },
+    { "id": "tag:family", "type": "tag", "label": "family" },
+    { "id": "tag:backyard", "type": "tag", "label": "backyard" },
+    { "id": "tag:bestseller", "type": "tag", "label": "bestseller" },
+    { "id": "grand-lagoon", "type": "product", "label": "The Grand Lagoon", "category": "pool" },
+    { "id": "tag:party", "type": "tag", "label": "party" },
+    { "id": "tag:entertaining", "type": "tag", "label": "entertaining" },
+    { "id": "tag:flagship", "type": "tag", "label": "flagship" },
+    { "id": "sand-filter-pump", "type": "product", "label": "Sand Filter Pump System", "category": "accessory" },
+    { "id": "tag:filtration", "type": "tag", "label": "filtration" },
+    { "id": "tag:circulation", "type": "tag", "label": "circulation" },
+    { "id": "tag:maintenance", "type": "tag", "label": "maintenance" },
+    { "id": "thermal-cover", "type": "product", "label": "Thermal Pool Cover", "category": "accessory" },
+    { "id": "tag:thermal", "type": "tag", "label": "thermal" },
+    { "id": "tag:heat retention", "type": "tag", "label": "heat retention" },
+    { "id": "tag:debris protection", "type": "tag", "label": "debris protection" },
+    { "id": "ground-mat", "type": "product", "label": "Protective Ground Mat", "category": "accessory" },
+    { "id": "tag:protection", "type": "tag", "label": "protection" },
+    { "id": "tag:puncture prevention", "type": "tag", "label": "puncture prevention" },
+    { "id": "entry-steps", "type": "product", "label": "Inflatable Entry Steps", "category": "accessory" },
+    { "id": "tag:safety", "type": "tag", "label": "safety" },
+    { "id": "tag:entry", "type": "tag", "label": "entry" },
+    { "id": "tag:seating", "type": "tag", "label": "seating" },
     {
       "id": "drop-stitch-2-0",
       "type": "article",
-      "label": "Drop-Stitch 2.0 — Wavefella Next Generation Core Material for Inflatable Boards",
+      "label": "Drop-Stitch 2.0 — OLagoon Next Generation Core Material for Inflatable Pools",
       "category": "Technology"
     },
+    { "id": "tag:technology", "type": "tag", "label": "technology" },
+    { "id": "tag:drop-stitch", "type": "tag", "label": "drop-stitch" },
+    { "id": "tag:innovation", "type": "tag", "label": "innovation" },
+    { "id": "tag:R&D", "type": "tag", "label": "R&D" },
     {
-      "id": "tag:technology",
-      "type": "tag",
-      "label": "technology"
+      "id": "iso-14001-certification",
+      "type": "article",
+      "label": "OLagoon Manufacturing Facility Achieves ISO 14001 Environmental Management Certification",
+      "category": "Company"
     },
+    { "id": "tag:certification", "type": "tag", "label": "certification" },
+    { "id": "tag:ISO", "type": "tag", "label": "ISO" },
+    { "id": "tag:sustainability", "type": "tag", "label": "sustainability" },
     {
-      "id": "tag:drop-stitch",
-      "type": "tag",
-      "label": "drop-stitch"
+      "id": "miami-boat-show-2026",
+      "type": "article",
+      "label": "OLagoon to Exhibit at Miami International Boat Show 2026",
+      "category": "Events"
     },
+    { "id": "tag:event", "type": "tag", "label": "event" },
+    { "id": "tag:boat show", "type": "tag", "label": "boat show" },
+    { "id": "tag:Miami", "type": "tag", "label": "Miami" },
+    { "id": "tag:exhibition", "type": "tag", "label": "exhibition" },
     {
-      "id": "military-grade-pvc",
-      "type": "technology",
-      "label": "Military-Grade PVC Fabric",
-      "category": "materials"
+      "id": "olagoon-rd-center-innovation",
+      "type": "article",
+      "label": "OLagoon R&D Center — Forging the Future of Drop-Stitch Pool Engineering",
+      "category": "Company"
     },
+    { "id": "tag:quality", "type": "tag", "label": "quality" },
     {
-      "id": "tag:pvc",
-      "type": "tag",
-      "label": "pvc"
+      "id": "olagoon-supply-chain-2025",
+      "type": "article",
+      "label": "OLagoon Strengthens Its Global Supply Chain for 2025",
+      "category": "Corporation News"
     },
+    { "id": "tag:supply chain", "type": "tag", "label": "supply chain" },
+    { "id": "tag:manufacturing", "type": "tag", "label": "manufacturing" },
+    { "id": "tag:partnership", "type": "tag", "label": "partnership" },
     {
-      "id": "tag:material",
-      "type": "tag",
-      "label": "material"
+      "id": "recycled-pvc-initiative",
+      "type": "article",
+      "label": "OLagoon Launches Recycled PVC Initiative for Sustainable Pool Manufacturing",
+      "category": "Company"
     },
+    { "id": "tag:environment", "type": "tag", "label": "environment" },
     {
-      "id": "tag:marine",
-      "type": "tag",
-      "label": "marine"
+      "id": "seeking-dealers-for-olagoon",
+      "type": "article",
+      "label": "We Are Seeking Dealers for OLagoon",
+      "category": "Corporation News"
     },
-    {
-      "id": "tag:durability",
-      "type": "tag",
-      "label": "durability"
-    },
+    { "id": "tag:dealership", "type": "tag", "label": "dealership" },
+    { "id": "tag:partners", "type": "tag", "label": "partners" },
+    { "id": "tag:USA", "type": "tag", "label": "USA" },
     {
       "id": "drop-stitch-core",
       "type": "technology",
       "label": "Drop-Stitch Core Construction",
-      "category": "materials"
-    },
-    {
-      "id": "tag:construction",
-      "type": "tag",
-      "label": "construction"
-    },
-    {
-      "id": "tag:rigid",
-      "type": "tag",
-      "label": "rigid"
-    },
-    {
-      "id": "air-deck-floor",
-      "type": "technology",
-      "label": "Air Deck Floor System",
       "category": "construction"
     },
-    {
-      "id": "tag:air-deck",
-      "type": "tag",
-      "label": "air-deck"
-    },
-    {
-      "id": "tag:floor",
-      "type": "tag",
-      "label": "floor"
-    },
-    {
-      "id": "marine-professional-operations",
-      "type": "case-use",
-      "label": "Professional Marine Operations",
-      "category": "professional"
-    },
-    {
-      "id": "env:sea",
-      "type": "environment",
-      "label": "sea"
-    },
-    {
-      "id": "skill:professional",
-      "type": "skill",
-      "label": "professional"
-    },
-    {
-      "id": "family-water-recreation",
-      "type": "case-use",
-      "label": "Family Water Recreation",
-      "category": "recreation"
-    },
-    {
-      "id": "env:lake",
-      "type": "environment",
-      "label": "lake"
-    },
-    {
-      "id": "skill:beginner",
-      "type": "skill",
-      "label": "beginner"
-    },
-    {
-      "id": "coastal-touring",
-      "type": "case-use",
-      "label": "Coastal Touring & Exploration",
-      "category": "recreation"
-    },
-    {
-      "id": "env:coastal",
-      "type": "environment",
-      "label": "coastal"
-    },
-    {
-      "id": "skill:intermediate",
-      "type": "skill",
-      "label": "intermediate"
-    },
-    {
-      "id": "beginner-sup-training",
-      "type": "case-use",
-      "label": "Beginner SUP Training",
-      "category": "training"
-    }
+    { "id": "tag:construction", "type": "tag", "label": "construction" },
+    { "id": "tag:rigid", "type": "tag", "label": "rigid" },
+    { "id": "military-grade-pvc", "type": "technology", "label": "Military-Grade PVC Fabric", "category": "materials" },
+    { "id": "tag:pvc", "type": "tag", "label": "pvc" },
+    { "id": "tag:material", "type": "tag", "label": "material" },
+    { "id": "tag:durability", "type": "tag", "label": "durability" },
+    { "id": "air-deck-floor", "type": "technology", "label": "Air Deck Floor System", "category": "construction" },
+    { "id": "tag:air-deck", "type": "tag", "label": "air-deck" },
+    { "id": "tag:lightweight", "type": "tag", "label": "lightweight" },
+    { "id": "small-backyard", "type": "case-use", "label": "Small Backyard Plunge", "category": "backyard" },
+    { "id": "env:backyard", "type": "environment", "label": "backyard" },
+    { "id": "skill:beginner", "type": "skill", "label": "beginner" },
+    { "id": "family-fun", "type": "case-use", "label": "Family Backyard Fun", "category": "backyard" },
+    { "id": "entertaining", "type": "case-use", "label": "Entertaining & Hosting", "category": "backyard" }
   ],
   "edges": [
-    {
-      "from": "sup-tour-12",
-      "to": "tag:sup",
-      "relation": "tagged"
-    },
-    {
-      "from": "sup-tour-12",
-      "to": "tag:touring",
-      "relation": "tagged"
-    },
-    {
-      "from": "sup-tour-12",
-      "to": "tag:performance",
-      "relation": "tagged"
-    },
-    {
-      "from": "sup-explorer-11",
-      "to": "tag:sup",
-      "relation": "tagged"
-    },
-    {
-      "from": "sup-explorer-11",
-      "to": "tag:beginner",
-      "relation": "tagged"
-    },
-    {
-      "from": "sup-explorer-11",
-      "to": "tag:inflatable",
-      "relation": "tagged"
-    },
-    {
-      "from": "pump-dual",
-      "to": "tag:pump",
-      "relation": "tagged"
-    },
-    {
-      "from": "pump-dual",
-      "to": "tag:inflation",
-      "relation": "tagged"
-    },
-    {
-      "from": "pump-dual",
-      "to": "tag:accessory",
-      "relation": "tagged"
-    },
-    {
-      "from": "paddle-carbon",
-      "to": "tag:paddle",
-      "relation": "tagged"
-    },
-    {
-      "from": "paddle-carbon",
-      "to": "tag:carbon",
-      "relation": "tagged"
-    },
-    {
-      "from": "paddle-carbon",
-      "to": "tag:lightweight",
-      "relation": "tagged"
-    },
-    {
-      "from": "oars-pump-set",
-      "to": "tag:accessory",
-      "relation": "tagged"
-    },
-    {
-      "from": "oars-pump-set",
-      "to": "tag:oars",
-      "relation": "tagged"
-    },
-    {
-      "from": "oars-pump-set",
-      "to": "tag:pump",
-      "relation": "tagged"
-    },
-    {
-      "from": "life-vest-pro",
-      "to": "tag:safety",
-      "relation": "tagged"
-    },
-    {
-      "from": "life-vest-pro",
-      "to": "tag:life vest",
-      "relation": "tagged"
-    },
-    {
-      "from": "life-vest-pro",
-      "to": "tag:professional",
-      "relation": "tagged"
-    },
-    {
-      "from": "life-vest-pro",
-      "to": "tag:SOLAS",
-      "relation": "tagged"
-    },
-    {
-      "from": "life-vest-classic",
-      "to": "tag:safety",
-      "relation": "tagged"
-    },
-    {
-      "from": "life-vest-classic",
-      "to": "tag:life vest",
-      "relation": "tagged"
-    },
-    {
-      "from": "life-vest-classic",
-      "to": "tag:PFD",
-      "relation": "tagged"
-    },
-    {
-      "from": "kayak-tandem",
-      "to": "tag:kayak",
-      "relation": "tagged"
-    },
-    {
-      "from": "kayak-tandem",
-      "to": "tag:tandem",
-      "relation": "tagged"
-    },
-    {
-      "from": "kayak-tandem",
-      "to": "tag:family",
-      "relation": "tagged"
-    },
-    {
-      "from": "kayak-lite",
-      "to": "tag:kayak",
-      "relation": "tagged"
-    },
-    {
-      "from": "kayak-lite",
-      "to": "tag:travel",
-      "relation": "tagged"
-    },
-    {
-      "from": "kayak-lite",
-      "to": "tag:lightweight",
-      "relation": "tagged"
-    },
-    {
-      "from": "airdeck-360",
-      "to": "tag:inflatable",
-      "relation": "tagged"
-    },
-    {
-      "from": "airdeck-360",
-      "to": "tag:family",
-      "relation": "tagged"
-    },
-    {
-      "from": "airdeck-270",
-      "to": "tag:inflatable",
-      "relation": "tagged"
-    },
-    {
-      "from": "airdeck-270",
-      "to": "tag:portable",
-      "relation": "tagged"
-    },
-    {
-      "from": "olagoon-supply-chain-2025",
-      "to": "tag:dealership",
-      "relation": "tagged"
-    },
-    {
-      "from": "olagoon-supply-chain-2025",
-      "to": "tag:hifond",
-      "relation": "tagged"
-    },
-    {
-      "from": "olagoon-supply-chain-2025",
-      "to": "tag:partnership",
-      "relation": "tagged"
-    },
-    {
-      "from": "olagoon-rd-center-innovation",
-      "to": "tag:innovation",
-      "relation": "tagged"
-    },
-    {
-      "from": "olagoon-rd-center-innovation",
-      "to": "tag:R&D",
-      "relation": "tagged"
-    },
-    {
-      "from": "olagoon-rd-center-innovation",
-      "to": "tag:quality",
-      "relation": "tagged"
-    },
-    {
-      "from": "sup-tour-12-launch",
-      "to": "tag:product launch",
-      "relation": "tagged"
-    },
-    {
-      "from": "sup-tour-12-launch",
-      "to": "tag:SUP",
-      "relation": "tagged"
-    },
-    {
-      "from": "sup-tour-12-launch",
-      "to": "tag:touring",
-      "relation": "tagged"
-    },
-    {
-      "from": "spring-2026-gear-guide",
-      "to": "tag:seasonal",
-      "relation": "tagged"
-    },
-    {
-      "from": "spring-2026-gear-guide",
-      "to": "tag:gear guide",
-      "relation": "tagged"
-    },
-    {
-      "from": "spring-2026-gear-guide",
-      "to": "tag:spring",
-      "relation": "tagged"
-    },
-    {
-      "from": "seeking-dealers-for-olagoon",
-      "to": "tag:dealership",
-      "relation": "tagged"
-    },
-    {
-      "from": "seeking-dealers-for-olagoon",
-      "to": "tag:partners",
-      "relation": "tagged"
-    },
-    {
-      "from": "seeking-dealers-for-olagoon",
-      "to": "tag:USA",
-      "relation": "tagged"
-    },
-    {
-      "from": "recycled-pvc-initiative",
-      "to": "tag:sustainability",
-      "relation": "tagged"
-    },
-    {
-      "from": "recycled-pvc-initiative",
-      "to": "tag:manufacturing",
-      "relation": "tagged"
-    },
-    {
-      "from": "recycled-pvc-initiative",
-      "to": "tag:environment",
-      "relation": "tagged"
-    },
-    {
-      "from": "preparing-sup-summer",
-      "to": "tag:seasonal",
-      "relation": "tagged"
-    },
-    {
-      "from": "preparing-sup-summer",
-      "to": "tag:maintenance",
-      "relation": "tagged"
-    },
-    {
-      "from": "preparing-sup-summer",
-      "to": "tag:summer",
-      "relation": "tagged"
-    },
-    {
-      "from": "preparing-sup-summer",
-      "to": "tag:SUP",
-      "relation": "tagged"
-    },
-    {
-      "from": "miami-boat-show-2026",
-      "to": "tag:event",
-      "relation": "tagged"
-    },
-    {
-      "from": "miami-boat-show-2026",
-      "to": "tag:boat show",
-      "relation": "tagged"
-    },
-    {
-      "from": "miami-boat-show-2026",
-      "to": "tag:Miami",
-      "relation": "tagged"
-    },
-    {
-      "from": "miami-boat-show-2026",
-      "to": "tag:exhibition",
-      "relation": "tagged"
-    },
-    {
-      "from": "life-vest-pro-solas",
-      "to": "tag:product",
-      "relation": "tagged"
-    },
-    {
-      "from": "life-vest-pro-solas",
-      "to": "tag:safety",
-      "relation": "tagged"
-    },
-    {
-      "from": "life-vest-pro-solas",
-      "to": "tag:SOLAS",
-      "relation": "tagged"
-    },
-    {
-      "from": "lake-tahoe-paddle-club",
-      "to": "tag:customer story",
-      "relation": "tagged"
-    },
-    {
-      "from": "lake-tahoe-paddle-club",
-      "to": "tag:fleet",
-      "relation": "tagged"
-    },
-    {
-      "from": "lake-tahoe-paddle-club",
-      "to": "tag:Lake Tahoe",
-      "relation": "tagged"
-    },
-    {
-      "from": "iso-14001-certification",
-      "to": "tag:certification",
-      "relation": "tagged"
-    },
-    {
-      "from": "iso-14001-certification",
-      "to": "tag:ISO",
-      "relation": "tagged"
-    },
-    {
-      "from": "iso-14001-certification",
-      "to": "tag:manufacturing",
-      "relation": "tagged"
-    },
-    {
-      "from": "iso-14001-certification",
-      "to": "tag:sustainability",
-      "relation": "tagged"
-    },
-    {
-      "from": "great-lake-sup-challenge",
-      "to": "tag:event",
-      "relation": "tagged"
-    },
-    {
-      "from": "great-lake-sup-challenge",
-      "to": "tag:sponsorship",
-      "relation": "tagged"
-    },
-    {
-      "from": "great-lake-sup-challenge",
-      "to": "tag:SUP",
-      "relation": "tagged"
-    },
-    {
-      "from": "great-lake-sup-challenge",
-      "to": "tag:community",
-      "relation": "tagged"
-    },
-    {
-      "from": "drop-stitch-2-0",
-      "to": "tag:technology",
-      "relation": "tagged"
-    },
-    {
-      "from": "drop-stitch-2-0",
-      "to": "tag:drop-stitch",
-      "relation": "tagged"
-    },
-    {
-      "from": "drop-stitch-2-0",
-      "to": "tag:innovation",
-      "relation": "tagged"
-    },
-    {
-      "from": "drop-stitch-2-0",
-      "to": "tag:R&D",
-      "relation": "tagged"
-    },
-    {
-      "from": "military-grade-pvc",
-      "to": "tag:pvc",
-      "relation": "tagged"
-    },
-    {
-      "from": "military-grade-pvc",
-      "to": "tag:material",
-      "relation": "tagged"
-    },
-    {
-      "from": "military-grade-pvc",
-      "to": "tag:marine",
-      "relation": "tagged"
-    },
-    {
-      "from": "military-grade-pvc",
-      "to": "tag:durability",
-      "relation": "tagged"
-    },
-    {
-      "from": "drop-stitch-core",
-      "to": "tag:drop-stitch",
-      "relation": "tagged"
-    },
-    {
-      "from": "drop-stitch-core",
-      "to": "tag:construction",
-      "relation": "tagged"
-    },
-    {
-      "from": "drop-stitch-core",
-      "to": "tag:rigid",
-      "relation": "tagged"
-    },
-    {
-      "from": "drop-stitch-core",
-      "to": "tag:pvc",
-      "relation": "tagged"
-    },
-    {
-      "from": "air-deck-floor",
-      "to": "tag:air-deck",
-      "relation": "tagged"
-    },
-    {
-      "from": "air-deck-floor",
-      "to": "tag:floor",
-      "relation": "tagged"
-    },
-    {
-      "from": "air-deck-floor",
-      "to": "tag:lightweight",
-      "relation": "tagged"
-    },
-    {
-      "from": "marine-professional-operations",
-      "to": "life-vest-pro",
-      "relation": "recommends"
-    },
-    {
-      "from": "marine-professional-operations",
-      "to": "env:sea",
-      "relation": "occurs_in"
-    },
-    {
-      "from": "marine-professional-operations",
-      "to": "skill:professional",
-      "relation": "requires"
-    },
-    {
-      "from": "family-water-recreation",
-      "to": "kayak-tandem",
-      "relation": "recommends"
-    },
-    {
-      "from": "family-water-recreation",
-      "to": "airdeck-360",
-      "relation": "recommends"
-    },
-    {
-      "from": "family-water-recreation",
-      "to": "life-vest-classic",
-      "relation": "recommends"
-    },
-    {
-      "from": "family-water-recreation",
-      "to": "env:lake",
-      "relation": "occurs_in"
-    },
-    {
-      "from": "family-water-recreation",
-      "to": "skill:beginner",
-      "relation": "requires"
-    },
-    {
-      "from": "coastal-touring",
-      "to": "sup-tour-12",
-      "relation": "recommends"
-    },
-    {
-      "from": "coastal-touring",
-      "to": "kayak-lite",
-      "relation": "recommends"
-    },
-    {
-      "from": "coastal-touring",
-      "to": "env:coastal",
-      "relation": "occurs_in"
-    },
-    {
-      "from": "coastal-touring",
-      "to": "skill:intermediate",
-      "relation": "requires"
-    },
-    {
-      "from": "beginner-sup-training",
-      "to": "sup-explorer-11",
-      "relation": "recommends"
-    },
-    {
-      "from": "beginner-sup-training",
-      "to": "env:lake",
-      "relation": "occurs_in"
-    },
-    {
-      "from": "beginner-sup-training",
-      "to": "skill:beginner",
-      "relation": "requires"
-    }
+    { "from": "compact-plunge", "to": "tag:plunge", "relation": "tagged" },
+    { "from": "compact-plunge", "to": "tag:cold plunge", "relation": "tagged" },
+    { "from": "compact-plunge", "to": "tag:compact", "relation": "tagged" },
+    { "from": "compact-plunge", "to": "tag:patio", "relation": "tagged" },
+    { "from": "family-oasis", "to": "tag:family", "relation": "tagged" },
+    { "from": "family-oasis", "to": "tag:backyard", "relation": "tagged" },
+    { "from": "family-oasis", "to": "tag:bestseller", "relation": "tagged" },
+    { "from": "grand-lagoon", "to": "tag:party", "relation": "tagged" },
+    { "from": "grand-lagoon", "to": "tag:entertaining", "relation": "tagged" },
+    { "from": "grand-lagoon", "to": "tag:flagship", "relation": "tagged" },
+    { "from": "sand-filter-pump", "to": "tag:filtration", "relation": "tagged" },
+    { "from": "sand-filter-pump", "to": "tag:circulation", "relation": "tagged" },
+    { "from": "sand-filter-pump", "to": "tag:maintenance", "relation": "tagged" },
+    { "from": "thermal-cover", "to": "tag:thermal", "relation": "tagged" },
+    { "from": "thermal-cover", "to": "tag:heat retention", "relation": "tagged" },
+    { "from": "thermal-cover", "to": "tag:debris protection", "relation": "tagged" },
+    { "from": "ground-mat", "to": "tag:protection", "relation": "tagged" },
+    { "from": "ground-mat", "to": "tag:puncture prevention", "relation": "tagged" },
+    { "from": "entry-steps", "to": "tag:safety", "relation": "tagged" },
+    { "from": "entry-steps", "to": "tag:entry", "relation": "tagged" },
+    { "from": "entry-steps", "to": "tag:seating", "relation": "tagged" },
+    { "from": "drop-stitch-2-0", "to": "tag:technology", "relation": "tagged" },
+    { "from": "drop-stitch-2-0", "to": "tag:drop-stitch", "relation": "tagged" },
+    { "from": "drop-stitch-2-0", "to": "tag:innovation", "relation": "tagged" },
+    { "from": "drop-stitch-2-0", "to": "tag:R&D", "relation": "tagged" },
+    { "from": "iso-14001-certification", "to": "tag:certification", "relation": "tagged" },
+    { "from": "iso-14001-certification", "to": "tag:ISO", "relation": "tagged" },
+    { "from": "iso-14001-certification", "to": "tag:manufacturing", "relation": "tagged" },
+    { "from": "iso-14001-certification", "to": "tag:sustainability", "relation": "tagged" },
+    { "from": "miami-boat-show-2026", "to": "tag:event", "relation": "tagged" },
+    { "from": "miami-boat-show-2026", "to": "tag:boat show", "relation": "tagged" },
+    { "from": "miami-boat-show-2026", "to": "tag:Miami", "relation": "tagged" },
+    { "from": "miami-boat-show-2026", "to": "tag:exhibition", "relation": "tagged" },
+    { "from": "olagoon-rd-center-innovation", "to": "tag:innovation", "relation": "tagged" },
+    { "from": "olagoon-rd-center-innovation", "to": "tag:R&D", "relation": "tagged" },
+    { "from": "olagoon-rd-center-innovation", "to": "tag:quality", "relation": "tagged" },
+    { "from": "olagoon-supply-chain-2025", "to": "tag:supply chain", "relation": "tagged" },
+    { "from": "olagoon-supply-chain-2025", "to": "tag:manufacturing", "relation": "tagged" },
+    { "from": "olagoon-supply-chain-2025", "to": "tag:partnership", "relation": "tagged" },
+    { "from": "recycled-pvc-initiative", "to": "tag:sustainability", "relation": "tagged" },
+    { "from": "recycled-pvc-initiative", "to": "tag:manufacturing", "relation": "tagged" },
+    { "from": "recycled-pvc-initiative", "to": "tag:environment", "relation": "tagged" },
+    { "from": "seeking-dealers-for-olagoon", "to": "tag:dealership", "relation": "tagged" },
+    { "from": "seeking-dealers-for-olagoon", "to": "tag:partners", "relation": "tagged" },
+    { "from": "seeking-dealers-for-olagoon", "to": "tag:USA", "relation": "tagged" },
+    { "from": "drop-stitch-core", "to": "tag:drop-stitch", "relation": "tagged" },
+    { "from": "drop-stitch-core", "to": "tag:construction", "relation": "tagged" },
+    { "from": "drop-stitch-core", "to": "tag:rigid", "relation": "tagged" },
+    { "from": "military-grade-pvc", "to": "tag:pvc", "relation": "tagged" },
+    { "from": "military-grade-pvc", "to": "tag:material", "relation": "tagged" },
+    { "from": "military-grade-pvc", "to": "tag:durability", "relation": "tagged" },
+    { "from": "air-deck-floor", "to": "tag:air-deck", "relation": "tagged" },
+    { "from": "air-deck-floor", "to": "tag:construction", "relation": "tagged" },
+    { "from": "air-deck-floor", "to": "tag:lightweight", "relation": "tagged" },
+    { "from": "small-backyard", "to": "compact-plunge", "relation": "recommends" },
+    { "from": "small-backyard", "to": "ground-mat", "relation": "recommends" },
+    { "from": "small-backyard", "to": "thermal-cover", "relation": "recommends" },
+    { "from": "small-backyard", "to": "env:backyard", "relation": "occurs_in" },
+    { "from": "small-backyard", "to": "skill:beginner", "relation": "requires" },
+    { "from": "family-fun", "to": "family-oasis", "relation": "recommends" },
+    { "from": "family-fun", "to": "sand-filter-pump", "relation": "recommends" },
+    { "from": "family-fun", "to": "entry-steps", "relation": "recommends" },
+    { "from": "family-fun", "to": "env:backyard", "relation": "occurs_in" },
+    { "from": "family-fun", "to": "skill:beginner", "relation": "requires" },
+    { "from": "entertaining", "to": "grand-lagoon", "relation": "recommends" },
+    { "from": "entertaining", "to": "sand-filter-pump", "relation": "recommends" },
+    { "from": "entertaining", "to": "entry-steps", "relation": "recommends" },
+    { "from": "entertaining", "to": "thermal-cover", "relation": "recommends" },
+    { "from": "entertaining", "to": "env:backyard", "relation": "occurs_in" },
+    { "from": "entertaining", "to": "skill:beginner", "relation": "requires" }
   ]
 }

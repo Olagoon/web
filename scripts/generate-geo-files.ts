@@ -105,8 +105,7 @@ const LANGUAGES: Record<string, string> = {
 };
 
 const CATEGORY_LABELS: Record<string, string> = {
-  INFLATABLE: 'Inflatable Boats',
-  SUP: 'SUP Paddle Boards',
+  POOL: 'Drop-Stitch Pools',
   ACCESSORY: 'Accessories',
 };
 
@@ -244,7 +243,7 @@ function getProductLines(): string[] {
     const heading = lang === 'en' ? 'English' : `${langName}${prefix}`;
     lines.push(`\n### ${heading}\n`);
 
-    const categories = ['INFLATABLE', 'SUP', 'ACCESSORY'];
+    const categories = ['POOL', 'ACCESSORY'];
     for (const cat of categories) {
       const catProducts = products.filter((p) => p.category === cat);
       if (catProducts.length === 0) continue;
@@ -297,7 +296,7 @@ function main(): void {
   if (!fs.existsSync(LLMS_TXT)) {
     fs.writeFileSync(
       LLMS_TXT,
-      `# Olagoon\n\nOlagoon is a professional OEM/ODM manufacturer of inflatable water sports equipment.\n`
+      `# OLagoon\n\nOLagoon is a professional OEM/ODM manufacturer of drop-stitch inflatable pools.\n`
     );
     console.log('[geo] Created default llms.txt');
   }
@@ -320,7 +319,7 @@ function main(): void {
   } else {
     // Default base
     baseParts.push(
-      `# Olagoon Knowledge Base\n\nOlagoon is a water sports equipment manufacturer specializing in inflatable watercraft.`
+      `# OLagoon Knowledge Base\n\nOLagoon is a pool manufacturer specializing in drop-stitch inflatable pools.`
     );
   }
 

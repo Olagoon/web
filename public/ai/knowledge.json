@@ -1,647 +1,280 @@
 {
   "brand": {
-    "name": "olagoon",
-    "description": "Water sports equipment manufacturer — inflatable SUP boards, kayaks, safety equipment, and accessories.",
+    "name": "OLagoon",
+    "description": "Backyard pool manufacturer — drop-stitch inflatable pools, filtration systems, and accessories.",
     "founded": 2012,
-    "certifications": ["CE", "ISO 12402", "SOLAS (Life Vest Pro)"],
-    "materials": ["Marine-grade PVC"],
-    "warranty": "2-year manufacturer warranty"
+    "certifications": ["CE (EN ISO 25649)", "ISO 9001", "ISO 14001", "BSCI", "REACH"],
+    "materials": ["Military-grade PVC", "Drop-stitch core (16,000 threads/m²)"],
+    "warranty": "2-year structural warranty"
   },
   "products": [
     {
-      "id": "SUP-TR12",
-      "name": "SUP Tour 12'",
-      "summary": "12 ft touring SUP for distance paddling. Displacement hull with drop-stitch core.",
-      "description": "A 12 ft touring inflatable SUP board optimized for speed, tracking, and covering distance. Pointed displacement hull, 30\" width, reinforced drop-stitch construction.",
-      "category": "inflatable",
-      "tags": ["sup", "touring", "performance"],
+      "id": "compact-plunge",
+      "name": "The Compact Plunge",
+      "summary": "Compact 2 m × 1.5 m drop-stitch plunge pool with 20 cm rigid walls — big enough for two, small enough for any patio.",
+      "description": "A 2 m × 1.5 m high-pressure drop-stitch inflatable plunge pool with 20 cm sit-on walls, engineered for cold-water recovery, hot-day soaking, and small patios or decks.",
+      "category": "pool",
+      "tags": ["plunge", "cold plunge", "compact", "patio"],
       "specs": [
-        {
-          "label": "Length",
-          "value": "12 ft"
-        },
-        {
-          "label": "Width",
-          "value": "30 in"
-        },
-        {
-          "label": "Thickness",
-          "value": "6 in"
-        },
-        {
-          "label": "Material",
-          "value": "Drop-stitch PVC"
-        },
-        {
-          "label": "Max pressure",
-          "value": "15 PSI"
-        },
-        {
-          "label": "Max load",
-          "value": "250 lbs"
-        },
-        {
-          "label": "Weight",
-          "value": "20 lbs"
-        },
-        {
-          "label": "Hull type",
-          "value": "Displacement"
-        },
-        {
-          "label": "Included",
-          "value": "Backpack, pump, fin, leash, repair kit"
-        }
+        { "label": "Length", "value": "6'7\" (2.0 m)" },
+        { "label": "Width", "value": "4'11\" (1.5 m)" },
+        { "label": "Height", "value": "25\" (64 cm)" },
+        { "label": "Wall thickness", "value": "8\" (20 cm)" },
+        { "label": "Max pressure", "value": "15 PSI" },
+        { "label": "Weight", "value": "48 lbs (22 kg)" },
+        { "label": "Capacity", "value": "2 adults / 530 gal (2,000 L)" },
+        { "label": "Warranty", "value": "2-year structural warranty" }
       ],
-      "price": "749",
+      "price": "999",
       "currency": "USD",
       "inStock": true,
       "featured": true,
-      "image": "/images/olagoon/products/sup-touring.jpg"
+      "image": "/images/olagoon/products/compact-plunge.webp"
     },
     {
-      "id": "SUP-EX11",
-      "name": "SUP Explorer 11'",
-      "summary": "Stable 11 ft inflatable SUP for beginners. Wide-body design with drop-stitch core.",
-      "description": "An 11 ft all-around inflatable SUP board built for stability and ease of use. 32\" wide platform, drop-stitch core at 12-15 PSI, complete with backpack pump and fin.",
-      "category": "inflatable",
-      "tags": ["sup", "beginner", "inflatable"],
+      "id": "family-oasis",
+      "name": "The Family Oasis",
+      "summary": "Best-selling 3 m × 2 m family drop-stitch pool with sit-on walls, sand-filter compatibility, and a 15-minute setup.",
+      "description": "A 3 m × 2 m high-pressure drop-stitch inflatable family pool with 20 cm rigid sit-on walls, a sand-filter pump port, and full-season UV-resistant fabric.",
+      "category": "pool",
+      "tags": ["family", "kids", "backyard", "bestseller"],
       "specs": [
-        {
-          "label": "Length",
-          "value": "11 ft"
-        },
-        {
-          "label": "Width",
-          "value": "32 in"
-        },
-        {
-          "label": "Thickness",
-          "value": "6 in"
-        },
-        {
-          "label": "Material",
-          "value": "Drop-stitch PVC"
-        },
-        {
-          "label": "Max pressure",
-          "value": "15 PSI"
-        },
-        {
-          "label": "Max load",
-          "value": "220 lbs"
-        },
-        {
-          "label": "Weight",
-          "value": "18 lbs"
-        },
-        {
-          "label": "Chambers",
-          "value": "2"
-        },
-        {
-          "label": "Included",
-          "value": "Backpack, pump, fin, leash, repair kit"
-        }
+        { "label": "Length", "value": "9'10\" (3.0 m)" },
+        { "label": "Width", "value": "6'7\" (2.0 m)" },
+        { "label": "Height", "value": "25\" (64 cm)" },
+        { "label": "Wall thickness", "value": "8\" (20 cm)" },
+        { "label": "Max pressure", "value": "15 PSI" },
+        { "label": "Weight", "value": "62 lbs (28 kg)" },
+        { "label": "Capacity", "value": "4-6 people / 1,190 gal (4,500 L)" },
+        { "label": "Warranty", "value": "2-year structural warranty" }
       ],
-      "price": "599",
+      "price": "1,299",
       "currency": "USD",
       "inStock": true,
       "featured": true,
-      "image": "/images/olagoon/products/sup-allround.jpg"
+      "image": "/images/olagoon/products/family-oasis.webp"
     },
     {
-      "id": "ACC-PMP",
-      "name": "Dual-Action Pump",
-      "summary": "High-volume dual-action hand pump for rapid inflation of SUPs, kayaks, and inflatable boards.",
-      "description": "Dual-action hand pump that moves air on both push and pull strokes. Built-in pressure gauge. Includes multiple valve adapters for Halkey-Roberts, Boston, and leaf-valve types.",
-      "category": "accessory",
-      "tags": ["pump", "inflation", "accessory"],
+      "id": "grand-lagoon",
+      "name": "The Grand Lagoon",
+      "summary": "Flagship 5 m × 2.5 m drop-stitch party pool with extra-thick walls, wooden-step compatibility, and space for the whole crew.",
+      "description": "A 5 m × 2.5 m flagship high-pressure drop-stitch inflatable pool with reinforced 20 cm walls, dual filter ports, and accessory compatibility for wooden steps, canopies, and poolside furniture.",
+      "category": "pool",
+      "tags": ["party", "flagship", "entertaining", "large backyard"],
       "specs": [
-        {
-          "label": "Type",
-          "value": "Dual-action hand pump"
-        },
-        {
-          "label": "Airflow",
-          "value": "Both push and pull strokes"
-        },
-        {
-          "label": "Max pressure",
-          "value": "20 PSI"
-        },
-        {
-          "label": "Gauge",
-          "value": "Built-in pressure gauge"
-        },
-        {
-          "label": "Adapters",
-          "value": "Halkey-Roberts, Boston, leaf-valve"
-        },
-        {
-          "label": "Hose length",
-          "value": "36 in"
-        }
+        { "label": "Length", "value": "16'5\" (5.0 m)" },
+        { "label": "Width", "value": "8'2\" (2.5 m)" },
+        { "label": "Height", "value": "25\" (64 cm)" },
+        { "label": "Wall thickness", "value": "8\" (20 cm)" },
+        { "label": "Max pressure", "value": "15 PSI" },
+        { "label": "Weight", "value": "88 lbs (40 kg)" },
+        { "label": "Capacity", "value": "8-10 people / 3,170 gal (12,000 L)" },
+        { "label": "Warranty", "value": "2-year structural warranty" }
       ],
-      "price": "49",
-      "currency": "USD",
-      "inStock": true,
-      "featured": false,
-      "image": "/images/olagoon/products/electric-pump.jpg"
-    },
-    {
-      "id": "ACC-CP",
-      "name": "Carbon Paddle",
-      "summary": "Lightweight adjustable carbon-fiber paddle for SUP and kayaking.",
-      "description": "Full carbon-fiber shaft with nylon blade. Adjustable from 170 cm to 220 cm. Tool-free ferrule mechanism. Weighs only 24 oz.",
-      "category": "accessory",
-      "tags": ["paddle", "carbon", "lightweight"],
-      "specs": [
-        {
-          "label": "Shaft material",
-          "value": "Full carbon fiber"
-        },
-        {
-          "label": "Blade material",
-          "value": "Nylon composite"
-        },
-        {
-          "label": "Length range",
-          "value": "170-220 cm adjustable"
-        },
-        {
-          "label": "Weight",
-          "value": "24 oz"
-        },
-        {
-          "label": "Ferrule",
-          "value": "Tool-free adjustable"
-        },
-        {
-          "label": "Use",
-          "value": "SUP and kayak"
-        }
-      ],
-      "price": "149",
-      "currency": "USD",
-      "inStock": true,
-      "featured": false,
-      "image": "/images/olagoon/products/sup-paddle.jpg"
-    },
-    {
-      "id": "ACC-OAR-PUMP",
-      "name": "Oars & Pump Set",
-      "summary": "Pair of 1.6 m aluminium oars and a 5 L high-flow foot pump. Fits all inflatables in the range.",
-      "description": "Spare or replacement oars and pump. 1.6 m aluminium oars with plastic blade, 5 L high-flow foot pump with pressure gauge.",
-      "category": "accessory",
-      "tags": ["accessory", "oars", "pump"],
-      "specs": [
-        {
-          "label": "Oar length",
-          "value": "1.60 m"
-        },
-        {
-          "label": "Oar material",
-          "value": "Aluminium shaft, plastic blade"
-        },
-        {
-          "label": "Pump volume",
-          "value": "5 L per stroke"
-        },
-        {
-          "label": "Pump max pressure",
-          "value": "1.0 bar (with gauge)"
-        },
-        {
-          "label": "Compatibility",
-          "value": "All inflatables in the range"
-        }
-      ],
-      "price": "180",
-      "currency": "USD",
-      "inStock": true,
-      "featured": false,
-      "image": "/images/olagoon/products/electric-pump.jpg"
-    },
-    {
-      "id": "LV-PRO",
-      "name": "Life Vest Pro",
-      "summary": "SOLAS-compliant automatic inflatable life vest for offshore and rescue operations.",
-      "description": "Professional-grade life vest with automatic hydrostatic inflation. SOLAS compliant with spray hood, waterproof light, and lifting harness attachment.",
-      "category": "accessory",
-      "tags": ["safety", "life vest", "professional", "SOLAS"],
-      "specs": [
-        {
-          "label": "Certification",
-          "value": "CE, ISO 12402, SOLAS"
-        },
-        {
-          "label": "Type",
-          "value": "Automatic inflatable"
-        },
-        {
-          "label": "Inflation",
-          "value": "Hydrostatic trigger"
-        },
-        {
-          "label": "Buoyancy",
-          "value": "SOLAS-grade"
-        },
-        {
-          "label": "Features",
-          "value": "Spray hood, waterproof light, lifting harness, whistle"
-        },
-        {
-          "label": "Backup",
-          "value": "Manual inflation tube"
-        }
-      ],
-      "price": "299",
-      "currency": "USD",
-      "inStock": true,
-      "featured": false,
-      "image": "/images/olagoon/products/life-jacket-2.jpg"
-    },
-    {
-      "id": "LV-CL",
-      "name": "Life Vest Classic",
-      "summary": "CE and ISO certified universal buoyancy aid for recreational water sports.",
-      "description": "Foam-filled life vest with adjustable straps, whistle, reflective strips, and rescue handle. CE certified to ISO 12402. Available in multiple sizes.",
-      "category": "accessory",
-      "tags": ["safety", "life vest", "PFD"],
-      "specs": [
-        {
-          "label": "Certification",
-          "value": "CE, ISO 12402"
-        },
-        {
-          "label": "Type",
-          "value": "Foam-filled buoyancy aid"
-        },
-        {
-          "label": "Buoyancy",
-          "value": "50N+"
-        },
-        {
-          "label": "Sizes",
-          "value": "Child to Adult XL"
-        },
-        {
-          "label": "Features",
-          "value": "Whistle, reflective strips, rescue handle"
-        },
-        {
-          "label": "Closure",
-          "value": "Adjustable chest and side straps"
-        }
-      ],
-      "price": "79",
-      "currency": "USD",
-      "inStock": true,
-      "featured": false,
-      "image": "/images/olagoon/products/life-jacket.png"
-    },
-    {
-      "id": "KAY-TD",
-      "name": "Inflatable Kayak Tandem",
-      "summary": "Two-person inflatable kayak for family recreation. Stable and portable.",
-      "description": "A 12 ft two-person inflatable kayak with separate cockpits and adjustable seats. Drop-stitch floor, removable skeg, packs into a large backpack.",
-      "category": "inflatable",
-      "tags": ["kayak", "tandem", "family"],
-      "specs": [
-        {
-          "label": "Length",
-          "value": "12 ft"
-        },
-        {
-          "label": "Width",
-          "value": "36 in"
-        },
-        {
-          "label": "Material",
-          "value": "Drop-stitch PVC"
-        },
-        {
-          "label": "Chambers",
-          "value": "3 independent"
-        },
-        {
-          "label": "Capacity",
-          "value": "2 persons"
-        },
-        {
-          "label": "Max load",
-          "value": "400 lbs"
-        },
-        {
-          "label": "Weight",
-          "value": "28 lbs"
-        },
-        {
-          "label": "Included",
-          "value": "Backpack, pump, skeg, repair kit"
-        }
-      ],
-      "price": "649",
-      "currency": "USD",
-      "inStock": true,
-      "featured": false,
-      "image": "/images/olagoon/products/rk-expedition.jpg"
-    },
-    {
-      "id": "KAY-LT",
-      "name": "Inflatable Kayak Lite",
-      "summary": "Lightweight 9 ft single inflatable kayak. Packs into a backpack for travel.",
-      "description": "A 9 ft single-person inflatable kayak weighing 15 lbs. Drop-stitch PVC with 3 independent air chambers. Packs into a backpack for airline travel.",
-      "category": "inflatable",
-      "tags": ["kayak", "travel", "lightweight"],
-      "specs": [
-        {
-          "label": "Length",
-          "value": "9 ft"
-        },
-        {
-          "label": "Width",
-          "value": "34 in"
-        },
-        {
-          "label": "Material",
-          "value": "Drop-stitch PVC"
-        },
-        {
-          "label": "Chambers",
-          "value": "3 independent"
-        },
-        {
-          "label": "Max load",
-          "value": "250 lbs"
-        },
-        {
-          "label": "Weight",
-          "value": "15 lbs"
-        },
-        {
-          "label": "Packed size",
-          "value": "30 x 16 x 10 in"
-        },
-        {
-          "label": "Included",
-          "value": "Backpack, pump, skeg, repair kit"
-        }
-      ],
-      "price": "449",
-      "currency": "USD",
-      "inStock": true,
-      "featured": false,
-      "image": "/images/olagoon/products/rk-river.jpg"
-    },
-    {
-      "id": "AIR-360",
-      "name": "AirDeck 360",
-      "summary": "Versatile 12' (360 cm) inflatable SUP with drop-stitch construction. Ideal for family recreation and touring.",
-      "description": "The olagoon AirDeck 360 is a 12' (360 cm) inflatable stand-up paddle board with drop-stitch construction, designed for recreational paddling and touring. Inflates to 15–18 PSI for a rigid platform and rolls up for compact storage in the included backpack.",
-      "category": "inflatable",
-      "tags": ["inflatable", "family", "touring"],
-      "specs": [
-        {
-          "label": "Overall length",
-          "value": "360 cm (12')"
-        },
-        {
-          "label": "Width",
-          "value": "160 cm"
-        },
-        {
-          "label": "Construction",
-          "value": "Triple-layer PVC, drop-stitch, 15–18 PSI"
-        },
-        {
-          "label": "Capacity",
-          "value": "Up to 5 persons"
-        },
-        {
-          "label": "Inflation time",
-          "value": "5–8 minutes (dual-chamber pump)"
-        }
-      ],
-      "price": "849",
+      "price": "1,999",
       "currency": "USD",
       "inStock": true,
       "featured": true,
-      "image": "/images/olagoon/products/airdeck-360.jpg"
+      "image": "/images/olagoon/products/grand-lagoon.webp"
     },
     {
-      "id": "AIR-270",
-      "name": "AirDeck 270",
-      "summary": "Lightweight 9' (270 cm) compact inflatable SUP with drop-stitch construction. Stows in a car boot.",
-      "description": "The olagoon AirDeck 270 is a 9' (270 cm) inflatable stand-up paddle board with drop-stitch construction — the smallest and most portable SUP in olagoon's lineup. Packs down to a bag that fits in a small car boot and inflates in minutes.",
-      "category": "inflatable",
-      "tags": ["inflatable", "portable", "travel"],
+      "id": "sand-filter-pump",
+      "name": "Sand Filter Pump System",
+      "summary": "High-flow sand-filter pump kit that keeps OLagoon pool water clear all season with 6-way valve and hose fittings.",
+      "description": "A complete sand-filter circulation system for OLagoon drop-stitch pools, including a 6-way control valve, strainer basket, and matched hose fittings.",
+      "category": "accessory",
+      "tags": ["filtration", "circulation", "maintenance"],
       "specs": [
-        {
-          "label": "Overall length",
-          "value": "270 cm (9')"
-        },
-        {
-          "label": "Width",
-          "value": "140 cm"
-        },
-        {
-          "label": "Construction",
-          "value": "Drop-stitch, high-pressure inflation"
-        },
-        {
-          "label": "Capacity",
-          "value": "1–2 persons"
-        },
-        {
-          "label": "Packed size",
-          "value": "Fits in a car boot"
-        }
+        { "label": "Flow rate", "value": "2,400 L/h (634 GPH)" },
+        { "label": "Filter media", "value": "Silica sand #20 (about 17.5 kg)" },
+        { "label": "Valve", "value": "6-way multi-port" },
+        { "label": "Power", "value": "110-120V / 220-240V, 50 Hz" },
+        { "label": "Warranty", "value": "1-year warranty" }
       ],
-      "price": "549",
+      "price": "249",
       "currency": "USD",
       "inStock": true,
-      "featured": true,
-      "image": "/images/olagoon/products/airdeck-270.jpg"
+      "featured": false,
+      "image": "/images/olagoon/products/sand-filter-pump.webp"
+    },
+    {
+      "id": "thermal-cover",
+      "name": "Thermal Pool Cover",
+      "summary": "Custom-fit thermal cover that locks in heat overnight and keeps leaves and debris out of your OLagoon pool.",
+      "description": "A made-to-measure insulating thermal cover for OLagoon drop-stitch pools, cut to each model footprint with edge weights for a wind-resistant seal.",
+      "category": "accessory",
+      "tags": ["thermal", "heat retention", "debris protection"],
+      "specs": [
+        { "label": "Material", "value": "350-micron bubble thermal insulation" },
+        { "label": "Fit", "value": "Custom-cut per OLagoon model" },
+        { "label": "UV rating", "value": "UV-stabilized, full-season exposure" },
+        { "label": "Features", "value": "Perimeter weights, carry bag" },
+        { "label": "Warranty", "value": "1-year warranty" }
+      ],
+      "price": "129",
+      "currency": "USD",
+      "inStock": true,
+      "featured": false,
+      "image": "/images/olagoon/products/thermal-cover.webp"
+    },
+    {
+      "id": "ground-mat",
+      "name": "Protective Ground Mat",
+      "summary": "Puncture-resistant ground cloth sized to each OLagoon pool, protecting the base from stones, roots, and rough surfaces.",
+      "description": "A heavy-duty woven ground cloth cut to fit under each OLagoon pool model, providing puncture protection, thermal base insulation, and a clean surface for setup and pack-down.",
+      "category": "accessory",
+      "tags": ["protection", "ground cloth", "puncture prevention"],
+      "specs": [
+        { "label": "Material", "value": "Woven polyethylene, multi-layer" },
+        { "label": "Puncture rating", "value": "Heavy-duty" },
+        { "label": "Sizes", "value": "Custom-fit per OLagoon model" },
+        { "label": "Features", "value": "Eyelet corners, carry strap" },
+        { "label": "Warranty", "value": "1-year warranty" }
+      ],
+      "price": "89",
+      "currency": "USD",
+      "inStock": true,
+      "featured": false,
+      "image": "/images/olagoon/products/ground-mat.webp"
+    },
+    {
+      "id": "entry-steps",
+      "name": "Inflatable Entry Steps",
+      "summary": "Drop-stitch inflatable steps that lock against the pool wall — a stable staircase for kids and a poolside seat for adults.",
+      "description": "A drop-stitch inflatable entry-step system that docks against OLagoon pool walls, providing a rigid staircase with handrail loops for safe entry, plus a flat top that doubles as poolside seating.",
+      "category": "accessory",
+      "tags": ["steps", "safety", "seating", "entry"],
+      "specs": [
+        { "label": "Material", "value": "Drop-stitch PVC, 15 PSI rated" },
+        { "label": "Height", "value": "Two-tier, 64 cm top deck" },
+        { "label": "Features", "value": "Handrail loops, snap-on wall connectors" },
+        { "label": "Load rating", "value": "Static seating for 2 adults" },
+        { "label": "Warranty", "value": "2-year structural warranty" }
+      ],
+      "price": "199",
+      "currency": "USD",
+      "inStock": true,
+      "featured": false,
+      "image": "/images/olagoon/products/entry-steps.webp"
     }
   ],
   "technologies": [
     {
-      "id": "military-grade-pvc",
-      "title": "Military-Grade PVC Fabric",
-      "summary": "Multi-layer laminated PVC fabric rated for marine environments, fusion-welded to eliminate delamination.",
-      "description": "Military-grade PVC is the primary material used across olagoon inflatable products. Multi-layer lamination provides UV resistance, saltwater corrosion protection, and abrasion resistance.",
-      "category": "materials",
-      "tags": ["pvc", "material", "marine", "durability"]
-    },
-    {
       "id": "drop-stitch-core",
       "title": "Drop-Stitch Core Construction",
-      "summary": "Thousands of internal polyester threads connect top and bottom layers, creating a rigid inflatable structure at 12-15 PSI.",
-      "description": "Drop-stitch core is the foundational technology behind olagoon inflatable SUP boards and kayaks. It provides rigid-body performance from an inflatable platform.",
-      "category": "materials",
+      "summary": "Thousands of internal polyester threads connect top and bottom layers, creating a rigid inflatable structure at 10-15 PSI.",
+      "description": "Drop-stitch core is the foundational technology behind OLagoon inflatable pools. It provides rigid-body performance from an inflatable platform — straight, sit-on walls that hold pressure all season.",
+      "category": "construction",
       "tags": ["drop-stitch", "construction", "rigid", "pvc"]
+    },
+    {
+      "id": "military-grade-pvc",
+      "title": "Military-Grade PVC Fabric",
+      "summary": "Multi-layer laminated PVC fabric rated for full-season outdoor exposure, fusion-welded to eliminate delamination.",
+      "description": "Military-grade PVC is the primary material used across OLagoon inflatable products. Multi-layer lamination provides UV resistance, abrasion resistance, and long-season durability.",
+      "category": "materials",
+      "tags": ["pvc", "material", "durability", "uv"]
     },
     {
       "id": "air-deck-floor",
       "title": "Air Deck Floor System",
-      "summary": "High-pressure inflatable floor replacing traditional plywood or aluminum floors for reduced weight and setup time.",
-      "description": "The air deck floor is a high-pressure inflatable drop-stitch system that forms a rigid standing platform, reducing weight and setup time while providing excellent stiffness.",
+      "summary": "High-pressure inflatable drop-stitch floor providing a flat, rigid standing surface with reduced weight and setup time.",
+      "description": "The air deck floor is a high-pressure inflatable drop-stitch system that forms a rigid, flat platform, reducing weight and setup time while providing excellent stiffness.",
       "category": "construction",
       "tags": ["air-deck", "drop-stitch", "lightweight"]
     }
   ],
   "useCases": [
     {
-      "id": "marine-professional-operations",
-      "title": "Professional Marine Operations",
-      "summary": "Professional-grade SUP equipment and safety gear for lifeguard, rescue, and commercial marine use.",
-      "description": "Professional marine operators require rugged, high-performance equipment. olagoon SUP boards and safety gear serve lifeguard teams, water rescue programs, and commercial operators.",
-      "category": "professional",
-      "environment": "sea",
-      "skill": "professional",
-      "products": ["life-vest-pro"],
-      "tags": ["professional", "rescue", "commercial"]
-    },
-    {
-      "id": "family-water-recreation",
-      "title": "Family Water Recreation",
-      "summary": "Stable, spacious inflatables for family outings on lakes and sheltered coastal waters.",
-      "description": "Family water recreation requires stable, roomy inflatables that are easy to transport and store. The Kayak Tandem and AirDeck 360 are designed for family use.",
-      "category": "recreation",
-      "environment": "lake",
+      "id": "small-backyard",
+      "title": "Small Backyard Plunge",
+      "summary": "A compact rigid pool for tight spaces.",
+      "description": "A couple with a small townhouse yard wants a real swimming pool for cooling off and relaxing after work, without permanent construction. The Compact Plunge fits a 2 m × 1.5 m footprint, sets up on any level surface, and pairs with the ground mat and thermal cover.",
+      "category": "backyard",
+      "environment": "backyard",
       "skill": "beginner",
-      "products": ["kayak-tandem", "airdeck-360", "life-vest-classic"],
-      "tags": ["family", "recreation", "kids", "lakes"]
+      "products": ["compact-plunge", "ground-mat", "thermal-cover"],
+      "tags": ["plunge", "small yard", "relaxation"]
     },
     {
-      "id": "coastal-touring",
-      "title": "Coastal Touring & Exploration",
-      "summary": "Longer touring boards for covering distance on open water with efficiency and tracking.",
-      "description": "Coastal touring requires boards with good tracking, glide efficiency, and the ability to handle moderate chop. olagoon Tour 12 is designed for this use case.",
-      "category": "recreation",
-      "environment": "coastal",
-      "skill": "intermediate",
-      "products": ["sup-tour-12", "kayak-lite"],
-      "tags": ["touring", "coastal", "exploration", "distance"]
-    },
-    {
-      "id": "beginner-sup-training",
-      "title": "Beginner SUP Training",
-      "summary": "Stable inflatable SUP platforms for first-time paddlers learning on lakes and calm coastal waters.",
-      "description": "Beginner SUP training requires stable, forgiving boards that inspire confidence. olagoon Explorer 11 and similar boards provide the wide platform needed for successful first paddling experiences.",
-      "category": "training",
-      "environment": "lake",
+      "id": "family-fun",
+      "title": "Family Backyard Fun",
+      "summary": "A full-size pool for the whole family.",
+      "description": "A family of four wants a pool the kids can actually swim and play in all summer, with clean water and easy entry for little ones. The Family Oasis offers a 3 m × 2 m swim area with rigid 20 cm drop-stitch walls, sand-filtered water, and safe entry steps.",
+      "category": "backyard",
+      "environment": "backyard",
       "skill": "beginner",
-      "products": ["sup-explorer-11"],
-      "tags": ["beginner", "sup", "training", "education"]
+      "products": ["family-oasis", "sand-filter-pump", "entry-steps"],
+      "tags": ["family", "kids", "summer"]
+    },
+    {
+      "id": "entertaining",
+      "title": "Entertaining & Hosting",
+      "summary": "A statement lagoon for gatherings.",
+      "description": "A homeowner who loves weekend gatherings wants a showpiece pool big enough for guests of all ages, plus reliable water care with zero fuss. The Grand Lagoon delivers a 5 m × 2.5 m swim zone engineered like a yacht deck, with filtration and thermal cover keeping the water party-ready.",
+      "category": "backyard",
+      "environment": "backyard",
+      "skill": "beginner",
+      "products": ["grand-lagoon", "sand-filter-pump", "entry-steps", "thermal-cover"],
+      "tags": ["entertaining", "hosting", "party"]
     }
   ],
   "articles": [
     {
-      "id": "olagoon-supply-chain-2025",
-      "title": "Expand Your Business Horizons — Become a Dealer for Hifond's Leading Brands",
-      "excerpt": "Hifond is actively seeking ambitious dealers nationwide to partner with our portfolio of high-quality product brands including olagoon watersports products.",
-      "category": "Corporation News",
-      "tags": ["dealership", "hifond", "partnership"],
-      "publishDate": "2025-02-23T00:00:00.000Z"
-    },
-    {
-      "id": "olagoon-rd-center-innovation",
-      "title": "olagoon R&D Center — Forging the Future of Inflatable Water Sports",
-      "excerpt": "olagoon's state-of-the-art R&D center drives innovation in inflatable SUP and boat design, focusing on material science, structural engineering, and sustainability.",
-      "category": "Company",
-      "tags": ["innovation", "R&D", "quality"],
-      "publishDate": "2025-01-15T00:00:00.000Z"
-    },
-    {
-      "id": "sup-tour-12-launch",
-      "title": "olagoon Launches SUP Tour 12 — A New Standard for Touring Inflatable SUPs",
-      "excerpt": "The SUP Tour 12 brings displacement hull performance to inflatable SUP touring. Longer, faster, and built for distance paddlers.",
-      "category": "Product News",
-      "tags": ["product launch", "SUP", "touring"],
-      "publishDate": "2026-03-15T00:00:00.000Z"
-    },
-    {
-      "id": "spring-2026-gear-guide",
-      "title": "Spring 2026 Paddling Gear Guide — What to Check Before Your First Launch",
-      "excerpt": "Prepare your SUP or kayak for the new season. A complete checklist for inspecting, inflating, and equipping your watercraft for spring paddling.",
-      "category": "Guides & Tips",
-      "tags": ["seasonal", "gear guide", "spring"],
-      "publishDate": "2026-04-15T00:00:00.000Z"
-    },
-    {
-      "id": "seeking-dealers-for-olagoon",
-      "title": "We Are Seeking Dealers for olagoon",
-      "excerpt": "Ride the Wave of Success: Become a olagoon Dealer Across the USA! Hifond is actively seeking dynamic dealers to partner with our watersports brand.",
-      "category": "Corporation News",
-      "tags": ["dealership", "partners", "USA"],
-      "publishDate": "2025-03-03T00:00:00.000Z"
-    },
-    {
-      "id": "recycled-pvc-initiative",
-      "title": "olagoon Launches Recycled PVC Initiative for Sustainable Inflatable Manufacturing",
-      "excerpt": "A new closed-loop recycling program repurposes production PVC waste into new inflatable boards, reducing landfill impact by an estimated 40%.",
-      "category": "Company",
-      "tags": ["sustainability", "manufacturing", "environment"],
-      "publishDate": "2026-05-01T00:00:00.000Z"
-    },
-    {
-      "id": "preparing-sup-summer",
-      "title": "Preparing Your SUP for Summer 2026 — Maintenance Tips for Peak Season",
-      "excerpt": "Get your inflatable SUP ready for heavy summer use with this maintenance guide covering UV protection, valve care, pressure management, and storage.",
-      "category": "Guides & Tips",
-      "tags": ["seasonal", "maintenance", "summer", "SUP"],
-      "publishDate": "2026-06-15T00:00:00.000Z"
-    },
-    {
-      "id": "miami-boat-show-2026",
-      "title": "olagoon to Exhibit at Miami International Boat Show 2026",
-      "excerpt": "olagoon debuts at the Miami International Boat Show with the full product lineup including SUPs, kayaks, and safety equipment.",
-      "category": "Events",
-      "tags": ["event", "boat show", "Miami", "exhibition"],
-      "publishDate": "2026-06-20T00:00:00.000Z"
-    },
-    {
-      "id": "life-vest-pro-solas",
-      "title": "Life Vest Pro Receives Full SOLAS Certification for Commercial Marine Use",
-      "excerpt": "olagoon Life Vest Pro achieves SOLAS/MED certification, opening commercial shipping, fishing, and offshore markets to the automatic inflatable life vest.",
-      "category": "Product News",
-      "tags": ["product", "safety", "SOLAS"],
-      "publishDate": "2026-05-20T00:00:00.000Z"
-    },
-    {
-      "id": "lake-tahoe-paddle-club",
-      "title": "Lake Tahoe Paddle Club Chooses olagoon for Fleet Program",
-      "excerpt": "How a 200-member paddle club standardized on olagoon SUPs and kayaks for rental and instructional fleets across multiple Lake Tahoe locations.",
-      "category": "Customer Stories",
-      "tags": ["customer story", "fleet", "Lake Tahoe"],
-      "publishDate": "2026-04-02T00:00:00.000Z"
+      "id": "drop-stitch-2-0",
+      "title": "Drop-Stitch 2.0 — OLagoon Next Generation Core Material for Inflatable Pools",
+      "excerpt": "A new higher-density drop-stitch core increases pool wall rigidity by 25% while reducing weight by 10%, setting a new benchmark for inflatable pool performance.",
+      "category": "Technology",
+      "tags": ["technology", "drop-stitch", "innovation", "R&D"],
+      "publishDate": "2026-06-18T00:00:00Z"
     },
     {
       "id": "iso-14001-certification",
-      "title": "olagoon Manufacturing Facility Achieves ISO 14001 Environmental Management Certification",
-      "excerpt": "The olagoon production facility in China earns ISO 14001:2015 certification for its environmental management systems and sustainable manufacturing processes.",
+      "title": "OLagoon Manufacturing Facility Achieves ISO 14001 Environmental Management Certification",
+      "excerpt": "The OLagoon production facility in Qingdao earns ISO 14001 certification for its environmental management systems and sustainable manufacturing processes.",
       "category": "Company",
       "tags": ["certification", "ISO", "manufacturing", "sustainability"],
-      "publishDate": "2026-06-10T00:00:00.000Z"
+      "publishDate": "2026-06-10T00:00:00Z"
     },
     {
-      "id": "great-lake-sup-challenge",
-      "title": "olagoon Sponsors Great Lake SUP Challenge 2026 — Lake Michigan Crossing",
-      "excerpt": "The annual 22-mile Lake Michigan SUP crossing returns with olagoon as title sponsor, featuring a new recreational division for touring boards.",
-      "category": "Community",
-      "tags": ["event", "sponsorship", "SUP", "community"],
-      "publishDate": "2026-06-01T00:00:00.000Z"
+      "id": "miami-boat-show-2026",
+      "title": "OLagoon to Exhibit at Miami International Boat Show 2026",
+      "excerpt": "OLagoon heads to the Miami International Boat Show with its full drop-stitch pool lineup and live fill-and-float demonstrations.",
+      "category": "Events",
+      "tags": ["event", "boat show", "Miami", "exhibition"],
+      "publishDate": "2026-06-20T00:00:00Z"
     },
     {
-      "id": "drop-stitch-2-0",
-      "title": "Drop-Stitch 2.0 — Wavefella Next Generation Core Material for Inflatable Boards",
-      "excerpt": "A new higher-density drop-stitch core increases board rigidity by 25% while reducing weight by 10%, setting a new benchmark for inflatable performance.",
-      "category": "Technology",
-      "tags": ["technology", "drop-stitch", "innovation", "R&D"],
-      "publishDate": "2026-06-18T00:00:00.000Z"
+      "id": "olagoon-rd-center-innovation",
+      "title": "OLagoon R&D Center — Forging the Future of Drop-Stitch Pool Engineering",
+      "excerpt": "OLagoon's state-of-the-art R&D center drives innovation in drop-stitch pool design, focusing on material science, structural engineering, and sustainability.",
+      "category": "Company",
+      "tags": ["innovation", "R&D", "quality"],
+      "publishDate": "2025-01-15T00:00:00Z"
+    },
+    {
+      "id": "olagoon-supply-chain-2025",
+      "title": "OLagoon Strengthens Its Global Supply Chain for 2025",
+      "excerpt": "From German-made PVC formulations to vertically integrated production in Qingdao, OLagoon's 2025 supply chain upgrades cut lead times and secure capacity for 15,000 pools a year.",
+      "category": "Corporation News",
+      "tags": ["supply chain", "manufacturing", "partnership"],
+      "publishDate": "2025-02-23T00:00:00Z"
+    },
+    {
+      "id": "recycled-pvc-initiative",
+      "title": "OLagoon Launches Recycled PVC Initiative for Sustainable Pool Manufacturing",
+      "excerpt": "A new closed-loop recycling program repurposes production PVC waste into new drop-stitch pools, reducing landfill impact by an estimated 40%.",
+      "category": "Company",
+      "tags": ["sustainability", "manufacturing", "environment"],
+      "publishDate": "2026-05-01T00:00:00Z"
+    },
+    {
+      "id": "seeking-dealers-for-olagoon",
+      "title": "We Are Seeking Dealers for OLagoon",
+      "excerpt": "Turn Key Season Into Full-Year Business: Become an OLagoon Dealer Across the USA! We are actively seeking dynamic dealers to partner with our backyard pool brand.",
+      "category": "Corporation News",
+      "tags": ["dealership", "partners", "USA"],
+      "publishDate": "2025-03-03T00:00:00Z"
     }
   ]
 }

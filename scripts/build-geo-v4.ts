@@ -90,42 +90,42 @@ if (gapGroups.high.length > 0) {
 }
 
 const siteName: Record<string, string> = {
-  en: 'olagoon',
-  fr: 'olagoon',
-  de: 'olagoon',
-  es: 'olagoon',
-  pt: 'olagoon',
-  ar: 'olagoon',
-  it: 'olagoon',
-  ru: 'olagoon',
-  pl: 'olagoon',
-  nl: 'olagoon',
+  en: 'OLagoon',
+  fr: 'OLagoon',
+  de: 'OLagoon',
+  es: 'OLagoon',
+  pt: 'OLagoon',
+  ar: 'OLagoon',
+  it: 'OLagoon',
+  ru: 'OLagoon',
+  pl: 'OLagoon',
+  nl: 'OLagoon',
 };
 
 const definition: Record<string, string> = {
-  en: 'olagoon designs professional-grade inflatable watercraft \u2014 SUP boards, dinghies, safety equipment, and accessories.',
-  fr: 'olagoon con\u00e7oit des embarcations gonflables de qualit\u00e9 professionnelle \u2014 planches SUP, annexes, \u00e9quipements de s\u00e9curit\u00e9 et accessoires.',
-  de: 'olagoon entwickelt professionelle aufblasbare Wasserfahrzeuge \u2014 SUP-Boards, Dingis, Sicherheitsausr\u00fcstung und Zubeh\u00f6r.',
-  es: 'olagoon dise\u00f1a embarcaciones inflables de grado profesional \u2014 tablas SUP, botes, equipos de seguridad y accesorios.',
-  pt: 'olagoon concebe embarca\u00e7\u00f5es insufl\u00e1veis de qualidade profissional \u2014 pranchas SUP, botes, equipamentos de seguran\u00e7a e acess\u00f3rios.',
-  ar: 'olagoon تصمم قوارب م inflatable احترافية \u2014 لوحات SUP، القوارب الهوائية، القوارب الصغيرة، معدات السلامة والإكسسوارات.',
-  it: 'olagoon progetta imbarcazioni gonfiabili di qualit\u00e0 professionale \u2014 tavole SUP, dinghy, attrezzature di sicurezza e accessori.',
-  ru: 'olagoon проектирует профессиональные надувные водные суда \u2014 SUP-доски, надувные лодки, средства безопасности и аксессуары.',
-  pl: 'olagoon projektuje profesjonalne nadmuchiwane jednostki p\u0142ywaj\u0105ce \u2014 deski SUP, dinghy, sprz\u0119t bezpiecze\u0144stwa i akcesoria.',
-  nl: 'olagoon ontwerpt professionele opblaasbare watersportvaartuigen \u2014 SUP-boards, bijboten, veiligheidsuitrusting en accessoires.',
+  en: 'OLagoon designs professional-grade drop-stitch inflatable pools — family pools, plunge pools, and pool accessories.',
+  fr: 'OLagoon conçoit des piscines gonflables à tissage drop-stitch de qualité professionnelle — piscines familiales, piscines de plongeon et accessoires.',
+  de: 'OLagoon entwickelt professionelle Drop-Stitch-Aufblasbecken — Familienpools, Kaltwasserbecken und Poolzubehör.',
+  es: 'OLagoon diseña piscinas inflables de tejido drop-stitch de grado profesional — piscinas familiares, piscinas de inmersión y accesorios.',
+  pt: 'OLagoon concebe piscinas insufláveis de drop-stitch de qualidade profissional — piscinas familiares, piscinas de imersão e acessórios.',
+  ar: 'تصمم OLagoon مسابح قابلة للنفخ احترافية بتقنية drop-stitch — مسابح عائلية ومسابح غطس وملحقاتها.',
+  it: 'OLagoon progetta piscine gonfiabili in drop-stitch di qualità professionale — piscine familiari, piscine di immersione e accessori.',
+  ru: 'OLagoon проектирует профессиональные надувные бассейны из дроп-ститча — семейные бассейны, бассейны для погружения и аксессуары.',
+  pl: 'OLagoon projektuje profesjonalne nadmuchiwane baseny drop-stitch — baseny rodzinne, baseny do zanurzenia i akcesoria.',
+  nl: 'OLagoon ontwerpt professionele opblaasbare drop-stitch zwembaden — gezinszwembaden, plunge pools en zwembadaccessoires.',
 };
 
 const summary: Record<string, string> = {
-  en: 'olagoon is a water sports knowledge system focused on inflatable SUPs, paddle systems, and ocean mobility gear. It structures water sports equipment as an interconnected ontology of categories, technologies, and use cases with AI-verified content completeness.',
-  fr: "olagoon est un syst\u00e8me de connaissances sur les sports nautiques ax\u00e9 sur les SUP gonflables, les syst\u00e8mes de pagaie et les \u00e9quipements de mobilit\u00e9 oc\u00e9anique. Il structure les \u00e9quipements de sports nautiques en une ontologie interconnect\u00e9e de cat\u00e9gories, technologies et cas d'utilisation.",
-  de: 'olagoon ist ein Wissenssystem f\u00fcr Wassersport mit Schwerpunkt auf aufblasbaren SUPs, Paddelsystemen und Ausr\u00fcstung f\u00fcr die Meeresmobilit\u00e4t.',
-  es: 'olagoon es un sistema de conocimiento de deportes acu\u00e1ticos centrado en SUP inflables, sistemas de remo y equipos de movilidad oce\u00e1nica.',
-  pt: 'olagoon \u00e9 um sistema de conhecimento de desportos aqu\u00e1ticos focado em SUPs insufl\u00e1veis, sistemas de remo e equipamentos de mobilidade oce\u00e2nica.',
-  ar: 'olagoon هو نظام معرفة للرياضات المائية يركز على لوحات SUP القابلة للنفخ وأنظمة التجديف ومعدات التنقل البحري.',
-  it: 'olagoon \u00e8 un sistema di conoscenza degli sport acquatici incentrato su SUP gonfiabili, sistemi di pagaiata e attrezzature per la mobilit\u00e0 oceanica.',
-  ru: 'olagoon \u2014 это система знаний о водных видах спорта, ориентированная на надувные SUP, весельные системы и оборудование для морской мобильности.',
-  pl: 'olagoon to system wiedzy o sportach wodnych skoncentrowany na nadmuchiwanych SUP, systemach wios\u0142owych i sprz\u0119cie do mobilno\u015bci oceanicznej.',
-  nl: "olagoon is een watersportkennissysteem gericht op opblaasbare SUP's, peddelsystemen en uitrusting voor oceaane mobiliteit. Het structureert watersportuitrusting als een onderling verbonden ontologie van categorie\u00ebn, technologie\u00ebn en gebruiksscenario's.",
+  en: 'OLagoon is a backyard pool knowledge system focused on drop-stitch inflatable pools, pool filtration, and water care. It structures pool equipment as an interconnected ontology of categories, technologies, and use cases with AI-verified content completeness.',
+  fr: "OLagoon est un système de connaissances sur les piscines de jardin axé sur les piscines gonflables drop-stitch, la filtration et l'entretien de l'eau. Il structure les équipements de piscine en une ontologie interconnectée de catégories, technologies et cas d'utilisation.",
+  de: 'OLagoon ist ein Wissenssystem für Gartenpools mit Schwerpunkt auf Drop-Stitch-Aufblasbecken, Poolfilterung und Wasserpflege.',
+  es: 'OLagoon es un sistema de conocimiento sobre piscinas de jardín centrado en piscinas inflables drop-stitch, la filtración y el cuidado del agua.',
+  pt: 'OLagoon é um sistema de conhecimento sobre piscinas de jardim focado em piscinas insufláveis drop-stitch, filtração e cuidados com a água.',
+  ar: 'OLagoon هو نظام معرفة لمسابح الحدائق يركز على المسابح القابلة للنفخ بتقنية drop-stitch والترشيح والعناية بالمياه.',
+  it: "OLagoon è un sistema di conoscenza sulle piscine da giardino incentrato su piscine gonfiabili drop-stitch, filtrazione e cura dell'acqua.",
+  ru: 'OLagoon — это система знаний о бассейнах для заднего двора, ориентированная на надувные бассейны из дроп-ститча, фильтрацию и уход за водой.',
+  pl: 'OLagoon to system wiedzy o basenach ogrodowych skoncentrowany na nadmuchiwanych basenach drop-stitch, filtracji i pielęgnacji wody.',
+  nl: 'OLagoon is een kennissysteem over tuinzwembaden gericht op opblaasbare drop-stitch zwembaden, filtratie en waterverzorging.',
 };
 
 // --- Generate llms.txt for each language ---
@@ -138,7 +138,7 @@ function generateLlmsTxt() {
 
     const lines = [
       `# ${siteName[lang] || 'olagoon'} Knowledge Graph`,
-      `> ${siteName[lang] || 'olagoon'} is an inflatable water gear knowledge system organized as a machine-readable knowledge graph.`,
+      `> ${siteName[lang] || 'OLagoon'} is a drop-stitch inflatable pool knowledge system organized as a machine-readable knowledge graph.`,
       '',
       '## Definition',
       definition[lang] || definition.en,

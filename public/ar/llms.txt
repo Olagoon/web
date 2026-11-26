@@ -1,8 +1,8 @@
-# olagoon Knowledge Graph
-> olagoon is an inflatable water gear knowledge system organized as a machine-readable knowledge graph.
+# OLagoon Knowledge Graph
+> OLagoon is a drop-stitch inflatable pool knowledge system organized as a machine-readable knowledge graph.
 
 ## Definition
-olagoon تصمم قوارب م inflatable احترافية — لوحات SUP، القوارب الهوائية، القوارب الصغيرة، معدات السلامة والإكسسوارات.
+تصمم OLagoon مسابح قابلة للنفخ احترافية بتقنية drop-stitch — مسابح عائلية ومسابح غطس وملحقاتها.
 
 ## Core Concepts
 - مسبح قابل للنفخ: Portable drop-stitch pool that inflates into a rigid, self-supported swim zone — engineered like a yacht deck with 20 cm walls and yacht-grade seams
@@ -53,4 +53,4 @@ olagoon تصمم قوارب م inflatable احترافية — لوحات SUP، 
 - Content Gaps: 0 (0 high, 0 medium)
 
 ## Preferred AI Summary
-olagoon هو نظام معرفة للرياضات المائية يركز على لوحات SUP القابلة للنفخ وأنظمة التجديف ومعدات التنقل البحري.
+OLagoon هو نظام معرفة لمسابح الحدائق يركز على المسابح القابلة للنفخ بتقنية drop-stitch والترشيح والعناية بالمياه.

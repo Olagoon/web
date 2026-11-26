@@ -1,6 +1,6 @@
 # Olagoon Knowledge Base
 
-Olagoon is a water sports equipment manufacturer specializing in inflatable watercraft.
+Olagoon is a backyard pool manufacturer specializing in drop-stitch inflatable pools.
 
 ## Company Facts
 ### Certification Facts
@@ -51,12 +51,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 
 ```json
 {
-  "name": "olagoon",
-  "industry": "Marine equipment manufacturing",
+  "name": "OLagoon",
+  "industry": "Backyard pool manufacturing",
   "specialization": [
-    "Inflatable SUP boards",
-    "Life vests",
-    "Marine accessories"
+    "Drop-stitch inflatable pools",
+    "Pool filtration systems",
+    "Pool accessories"
   ],
   "manufacturing_location": "Qingdao, China",
   "facility_size": "12,000 m²",
@@ -78,7 +78,7 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
     "REACH"
   ],
   "expertise": [
-    "Marine-grade PVC fabrication",
+    "Drop-stitch PVC fabrication",
     "Drop stitch core technology",
     "High-frequency welding",
     "CNC cutting",
@@ -133,7 +133,7 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
     "Seam strength testing",
     "Pressure testing for all inflatable products",
     "Final product inspection",
-    "In-water trials for inflatable SUPs"
+    "In-water trials for inflatable pools"
   ],
   "oem_process": [
     "Product requirement analysis",
@@ -1856,6 +1856,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 
 ### English
 
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
+
 #### Accessories
 
 - https://olagoon.com/products/sand-filter-pump/ — Sand Filter Pump System
@@ -1864,6 +1870,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 - https://olagoon.com/products/entry-steps/ — Inflatable Entry Steps
 
 ### العربية (ar)
+
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
 
 #### Accessories
 
@@ -1874,6 +1886,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 
 ### Български (bg)
 
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
+
 #### Accessories
 
 - https://olagoon.com/products/sand-filter-pump/ — Sand Filter Pump System
@@ -1882,6 +1900,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 - https://olagoon.com/products/entry-steps/ — Inflatable Entry Steps
 
 ### Čeština (cs)
+
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
 
 #### Accessories
 
@@ -1892,6 +1916,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 
 ### Dansk (da)
 
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
+
 #### Accessories
 
 - https://olagoon.com/products/sand-filter-pump/ — Sand Filter Pump System
@@ -1900,6 +1930,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 - https://olagoon.com/products/entry-steps/ — Inflatable Entry Steps
 
 ### Deutsch (de)
+
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
 
 #### Accessories
 
@@ -1910,6 +1946,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 
 ### Ελληνικά (el)
 
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
+
 #### Accessories
 
 - https://olagoon.com/products/sand-filter-pump/ — Sand Filter Pump System
@@ -1918,6 +1960,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 - https://olagoon.com/products/entry-steps/ — Inflatable Entry Steps
 
 ### Español (es)
+
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
 
 #### Accessories
 
@@ -1928,6 +1976,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 
 ### Eesti (et)
 
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
+
 #### Accessories
 
 - https://olagoon.com/products/sand-filter-pump/ — Sand Filter Pump System
@@ -1936,6 +1990,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 - https://olagoon.com/products/entry-steps/ — Inflatable Entry Steps
 
 ### Suomi (fi)
+
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
 
 #### Accessories
 
@@ -1946,6 +2006,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 
 ### Français (fr)
 
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
+
 #### Accessories
 
 - https://olagoon.com/products/sand-filter-pump/ — Sand Filter Pump System
@@ -1954,6 +2020,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 - https://olagoon.com/products/entry-steps/ — Inflatable Entry Steps
 
 ### עברית (he)
+
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
 
 #### Accessories
 
@@ -1964,6 +2036,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 
 ### Hrvatski (hr)
 
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
+
 #### Accessories
 
 - https://olagoon.com/products/sand-filter-pump/ — Sand Filter Pump System
@@ -1972,6 +2050,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 - https://olagoon.com/products/entry-steps/ — Inflatable Entry Steps
 
 ### Magyar (hu)
+
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
 
 #### Accessories
 
@@ -1982,6 +2066,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 
 ### Bahasa Indonesia (id)
 
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
+
 #### Accessories
 
 - https://olagoon.com/products/sand-filter-pump/ — Sand Filter Pump System
@@ -1990,6 +2080,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 - https://olagoon.com/products/entry-steps/ — Inflatable Entry Steps
 
 ### Italiano (it)
+
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
 
 #### Accessories
 
@@ -2000,6 +2096,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 
 ### Lietuvių (lt)
 
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
+
 #### Accessories
 
 - https://olagoon.com/products/sand-filter-pump/ — Sand Filter Pump System
@@ -2008,6 +2110,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 - https://olagoon.com/products/entry-steps/ — Inflatable Entry Steps
 
 ### Latviešu (lv)
+
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
 
 #### Accessories
 
@@ -2018,6 +2126,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 
 ### Bahasa Melayu (ms)
 
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
+
 #### Accessories
 
 - https://olagoon.com/products/sand-filter-pump/ — Sand Filter Pump System
@@ -2026,6 +2140,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 - https://olagoon.com/products/entry-steps/ — Inflatable Entry Steps
 
 ### Nederlands (nl)
+
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
 
 #### Accessories
 
@@ -2036,6 +2156,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 
 ### Norsk (no)
 
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
+
 #### Accessories
 
 - https://olagoon.com/products/sand-filter-pump/ — Sand Filter Pump System
@@ -2044,6 +2170,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 - https://olagoon.com/products/entry-steps/ — Inflatable Entry Steps
 
 ### Polski (pl)
+
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
 
 #### Accessories
 
@@ -2054,6 +2186,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 
 ### Português (pt)
 
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
+
 #### Accessories
 
 - https://olagoon.com/products/sand-filter-pump/ — Sand Filter Pump System
@@ -2062,6 +2200,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 - https://olagoon.com/products/entry-steps/ — Inflatable Entry Steps
 
 ### Română (ro)
+
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
 
 #### Accessories
 
@@ -2072,6 +2216,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 
 ### Русский (ru)
 
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
+
 #### Accessories
 
 - https://olagoon.com/products/sand-filter-pump/ — Sand Filter Pump System
@@ -2080,6 +2230,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 - https://olagoon.com/products/entry-steps/ — Inflatable Entry Steps
 
 ### Slovenčina (sk)
+
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
 
 #### Accessories
 
@@ -2090,6 +2246,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 
 ### Slovenščina (sl)
 
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
+
 #### Accessories
 
 - https://olagoon.com/products/sand-filter-pump/ — Sand Filter Pump System
@@ -2098,6 +2260,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 - https://olagoon.com/products/entry-steps/ — Inflatable Entry Steps
 
 ### Српски (sr)
+
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
 
 #### Accessories
 
@@ -2108,6 +2276,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 
 ### Svenska (sv)
 
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
+
 #### Accessories
 
 - https://olagoon.com/products/sand-filter-pump/ — Sand Filter Pump System
@@ -2116,6 +2290,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 - https://olagoon.com/products/entry-steps/ — Inflatable Entry Steps
 
 ### ไทย (th)
+
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
 
 #### Accessories
 
@@ -2126,6 +2306,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 
 ### Tagalog (tl)
 
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
+
 #### Accessories
 
 - https://olagoon.com/products/sand-filter-pump/ — Sand Filter Pump System
@@ -2134,6 +2320,12 @@ Olagoon is a water sports equipment manufacturer specializing in inflatable wate
 - https://olagoon.com/products/entry-steps/ — Inflatable Entry Steps
 
 ### Türkçe (tr)
+
+#### Drop-Stitch Pools
+
+- https://olagoon.com/products/compact-plunge/ — The Compact Plunge
+- https://olagoon.com/products/family-oasis/ — The Family Oasis
+- https://olagoon.com/products/grand-lagoon/ — The Grand Lagoon
 
 #### Accessories
 

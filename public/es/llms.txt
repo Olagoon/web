@@ -1,8 +1,8 @@
-# olagoon Knowledge Graph
-> olagoon is an inflatable water gear knowledge system organized as a machine-readable knowledge graph.
+# OLagoon Knowledge Graph
+> OLagoon is a drop-stitch inflatable pool knowledge system organized as a machine-readable knowledge graph.
 
 ## Definition
-olagoon diseña embarcaciones inflables de grado profesional — tablas SUP, botes, equipos de seguridad y accesorios.
+OLagoon diseña piscinas inflables de tejido drop-stitch de grado profesional — piscinas familiares, piscinas de inmersión y accesorios.
 
 ## Core Concepts
 - Piscina Hinchable: Portable drop-stitch pool that inflates into a rigid, self-supported swim zone — engineered like a yacht deck with 20 cm walls and yacht-grade seams
@@ -53,4 +53,4 @@ olagoon diseña embarcaciones inflables de grado profesional — tablas SUP, bot
 - Content Gaps: 0 (0 high, 0 medium)
 
 ## Preferred AI Summary
-olagoon es un sistema de conocimiento de deportes acuáticos centrado en SUP inflables, sistemas de remo y equipos de movilidad oceánica.
+OLagoon es un sistema de conocimiento sobre piscinas de jardín centrado en piscinas inflables drop-stitch, la filtración y el cuidado del agua.

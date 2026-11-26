@@ -2,11 +2,11 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "@id": "https://olagoon.com/#organization",
-  "name": "olagoon",
-  "alternateName": "olagoon Marine",
+  "name": "OLagoon",
+  "alternateName": "OLagoon Pools",
   "url": "https://olagoon.com",
-  "description": "olagoon is a global water sports equipment and marine innovation partner — designing and manufacturing premium inflatable SUP boards and custom marine solutions for brands, distributors, and professionals worldwide.",
-  "industry": "Marine Equipment Manufacturing",
+  "description": "OLagoon is a global backyard pool and drop-stitch innovation partner — designing and manufacturing premium inflatable pools and custom pool solutions for brands, distributors, and professionals worldwide.",
+  "industry": "Pool Equipment Manufacturing",
   "foundingDate": "2012",
   "isicV4": "3012",
   "numberOfEmployees": "200+",
@@ -167,12 +167,12 @@
     }
   ],
   "knowsAbout": [
-    "Marine Engineering",
+    "Drop-Stitch Engineering",
     "PVC Fabrication",
     "Drop Stitch Technology",
-    "Inflatable SUP Design",
+    "Inflatable Pool Design",
     "RF Welding Technology",
-    "Marine Safety Standards (EN ISO 25649, SOLAS)"
+    "Pool Safety Standards (EN ISO 25649)"
   ],
   "parentOrganization": {
     "@type": "Organization",
