@@ -1,4 +1,1 @@
-import yamlData from './guides-he.yaml';
-import type { GuideRecord } from './guides';
-
-export const guidesHe = yamlData as GuideRecord[];
+export { guides as guidesHe } from './guides';

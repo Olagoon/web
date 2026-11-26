@@ -1,13 +1,13 @@
 cards:
   - badge: PVC
-    title: Vrstva PVC morskej triedy
-    description: Viacvrstvová laminovaná PVC tkanina certifikovaná pre morské prostredie. Testovaná na odolnosť voči UV, oderu a prepichnutiu.
-    image: https://assets.olagoon.com/images/olagoon/tech/tech-pvc-material.webp
+    title: Marine-Grade PVC Layer
+    description: Multi-layer laminated PVC fabric built for seasons of outdoor use. Tested for UV, abrasion, and puncture resistance.
+    image: /images/olagoon/tech/tech-pvc-material.webp
   - badge: DS
-    title: Drop-stitch jadro
-    description: 'Tisíce vnútorných vlákien spája hornú a spodnú vrstvu, čím vytvára tuhú konštrukciu s vysokým tlakom pri 12–15 PSI.'
-    image: https://assets.olagoon.com/images/olagoon/tech/tech-drop-stitch.webp
+    title: Drop-Stitch Core
+    description: Thousands of internal threads lock the floor and wall layers together, creating a rigid, high-pressure shell at 10-15 PSI.
+    image: /images/olagoon/tech/tech-drop-stitch.webp
   - badge: RR
-    title: Zosilnená hrana bočnice
-    description: 'Dvojvrstvová, fúzne zváraná bočnica chráni pred trením v prístavoch, pristátiami na pláži a bočnými nárazmi.'
-    image: https://assets.olagoon.com/images/olagoon/tech/tech-hypalon-tubes.webp
+    title: Fusion-Welded Seams
+    description: Double-layered fusion-welded rails and seams keep air locked in for weeks of continuous use with minimal top-ups.
+    image: /images/olagoon/tech/tech-hypalon-tubes.webp

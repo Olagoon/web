@@ -1,16 +1,16 @@
-tagline: Impara
-title: 'Nuovo al SUP?'
-subtitle: Tutto quello che devi sapere prima di andare in acqua.
+tagline: 'Learn'
+title: 'New to OLagoon?'
+subtitle: 'Everything you need to know before your first swim.'
 cards:
   - href: '/technology/'
-    image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-flowing-lotus-1-1200w.webp'
-    title: Come scegliere il tuo SUP
-  - href: '/technology/'
-    image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp'
-    title: Guida alla pagaiata per principianti
-  - href: '/technology/'
-    image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp'
-    title: Gonfiabile o rigido
-  - href: '/guides/safety-tips/'
-    image: 'https://assets.olagoon.com/images/olagoon/products/olagoon-life-vest-classic.webp'
-    title: Consigli di sicurezza in acqua
+    image: '/images/olagoon/hero/pool-lagoon-hero.webp'
+    title: 'How Drop Stitch Works'
+  - href: '/products/compare/'
+    image: '/images/olagoon/products/family-oasis.webp'
+    title: 'Compare the Pools'
+  - href: '/size-guide/'
+    image: '/images/olagoon/products/grand-lagoon.webp'
+    title: 'Find Your Size'
+  - href: '/learn/water-safety/'
+    image: '/images/olagoon/hero/kids-pool-fun.webp'
+    title: 'Water Safety Tips'

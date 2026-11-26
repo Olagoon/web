@@ -1,37 +1,49 @@
 cases:
-  - id: beginner
-    title: 'Водные виды спорта для новичков'
-    desc: 'Устойчивые SUP-доски для первого использования.'
+  - id: small-backyard
+    title: Small Backyard Plunge
+    desc: A compact rigid pool for tight spaces.
     scenario: >-
-      Семья проводит выходные на озере и хочет попробовать сапсёрфинг. Им нужно устойчивое, легко спускаемое на воду снаряжение с понятными инструкциями по безопасности.
+      A couple with a small townhouse yard wants a real swimming pool for
+      cooling off and relaxing after work, without permanent construction.
     solution: >-
-      SUP Explorer 11 обеспечивает устойчивость благодаря широкому корпусу – идеальна для новичков. Life Vest Classic гарантирует плавучесть с сертификацией CE. Насос Dual-Action надувает обе доски примерно за 15–20 минут.
+      The Compact Plunge Pool fits a 2m x 1.5m footprint and sets up on any
+      level surface. The Ground Mat protects the base, and the Thermal Pool
+      Cover keeps the water warm and clean between swims.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
-  - id: outdoor
-    title: 'Исследование природы'
-    desc: 'Портативные SUP-доски для рек, озёр и прибрежных походов.'
+      - Compact Plunge Pool
+      - Ground Mat
+      - Thermal Pool Cover
+    image: /images/olagoon/products/compact-plunge.webp
+
+  - id: family-fun
+    title: Family Backyard Fun
+    desc: A full-size pool for the whole family.
     scenario: >-
-      Любитель активного отдыха планирует недельный сплав по реке и нуждается в доске, которая компактно складывается, надувается в лагере и выдерживает переменные течения.
+      A family of four wants a pool the kids can actually swim and play in all
+      summer, with clean water and easy entry for little ones.
     solution: >-
-      SUP Explorer 11 помещается в рюкзак и надувается примерно за 8–12 минут прилагаемым насосом Dual-Action. Конструкция drop-stitch выдерживает озёра, спокойные реки и прибрежные воды.
+      The Family Oasis Pool offers a 3m x 2m swim area with rigid 20cm
+      drop-stitch walls. The Sand Filter Pump keeps the water clear, and the
+      Entry Steps give children a safe, stable way in and out.
     products:
-      - SUP Explorer 11
-      - Carbon Paddle
-      - Life Vest Classic
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
-  - id: family
-    title: 'Семейный отдых'
-    desc: 'Устойчивые SUP-доски для однодневных поездок и водных развлечений.'
+      - Family Oasis Pool
+      - Sand Filter Pump
+      - Entry Steps
+    image: /images/olagoon/products/family-oasis.webp
+
+  - id: entertaining
+    title: Entertaining & Hosting
+    desc: A statement lagoon for gatherings.
     scenario: >-
-      Семья из четырёх человек хочет устойчивые SUP-доски для выездов на озеро по выходным и совместной гребли.
+      A homeowner who loves weekend gatherings wants a showpiece pool big
+      enough for guests of all ages, plus reliable water care with zero fuss.
     solution: >-
-      SUP Explorer 11 предлагает устойчивые доски с широкой палубой для всех возрастов. Life Vest Classic держит всех в безопасности. Насос Dual-Action надувает все доски примерно за 15–20 минут.
+      The Grand Lagoon Pool delivers a 5m x 2.5m swim zone engineered like a
+      yacht deck. The Sand Filter Pump and Thermal Pool Cover keep the water
+      party-ready, and the Entry Steps complete the resort feel.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
+      - Grand Lagoon Pool
+      - Sand Filter Pump
+      - Entry Steps
+      - Thermal Pool Cover
+    image: /images/olagoon/products/grand-lagoon.webp

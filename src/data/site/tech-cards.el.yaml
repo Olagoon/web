@@ -1,13 +1,13 @@
 cards:
   - badge: PVC
-    title: 'Στρώση PVC ναυτιλιακής ποιότητας'
-    description: 'Πολυστρωματικό ελασματοποιημένο ύφασμα PVC για θαλάσσια περιβάλλοντα. Δοκιμασμένο για αντοχή σε UV, τριβή και διάτρηση.'
-    image: 'https://assets.olagoon.com/images/olagoon/tech/tech-pvc-material.webp'
+    title: Marine-Grade PVC Layer
+    description: Multi-layer laminated PVC fabric built for seasons of outdoor use. Tested for UV, abrasion, and puncture resistance.
+    image: /images/olagoon/tech/tech-pvc-material.webp
   - badge: DS
-    title: 'Πυρήνας drop-stitch'
-    description: 'Χιλιάδες εσωτερικές κλωστές συνδέουν το πάνω με το κάτω στρώμα, δημιουργώντας μια άκαμπτη δομή υψηλής πίεσης στα 12–15 PSI.'
-    image: 'https://assets.olagoon.com/images/olagoon/tech/tech-drop-stitch.webp'
+    title: Drop-Stitch Core
+    description: Thousands of internal threads lock the floor and wall layers together, creating a rigid, high-pressure shell at 10-15 PSI.
+    image: /images/olagoon/tech/tech-drop-stitch.webp
   - badge: RR
-    title: 'Ενισχυμένο άκρο κουπαστής'
-    description: 'Διπλή συγκολλημένη κουπαστή προστατεύει από γρατζουνιές σε αποβάθρες, προσαράξεις στην παραλία και πλευρικές προσκρούσεις.'
-    image: 'https://assets.olagoon.com/images/olagoon/tech/tech-hypalon-tubes.webp'
+    title: Fusion-Welded Seams
+    description: Double-layered fusion-welded rails and seams keep air locked in for weeks of continuous use with minimal top-ups.
+    image: /images/olagoon/tech/tech-hypalon-tubes.webp

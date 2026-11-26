@@ -1,37 +1,49 @@
 cases:
-  - id: beginner
-    title: Sport acquatici per principianti
-    desc: SUP stabili per chi li usa per la prima volta.
+  - id: small-backyard
+    title: Small Backyard Plunge
+    desc: A compact rigid pool for tight spaces.
     scenario: >-
-      Una famiglia in visita a un lago per il fine settimana vuole provare il paddleboarding. Serve un’attrezzatura stabile, facile da varare e con istruzioni di sicurezza chiare.
+      A couple with a small townhouse yard wants a real swimming pool for
+      cooling off and relaxing after work, without permanent construction.
     solution: >-
-      La SUP Explorer 11 offre stabilità grazie all’ampio corpo, ideale per i principianti. Il Life Vest Classic garantisce galleggiabilità certificata CE. La pompa Dual-Action gonfia entrambe le tavole in circa 15–20 minuti.
+      The Compact Plunge Pool fits a 2m x 1.5m footprint and sets up on any
+      level surface. The Ground Mat protects the base, and the Thermal Pool
+      Cover keeps the water warm and clean between swims.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
-  - id: outdoor
-    title: 'Esplorazione all’aperto'
-    desc: 'SUP portatili per fiumi, laghi e uscite in mare.'
+      - Compact Plunge Pool
+      - Ground Mat
+      - Thermal Pool Cover
+    image: /images/olagoon/products/compact-plunge.webp
+
+  - id: family-fun
+    title: Family Backyard Fun
+    desc: A full-size pool for the whole family.
     scenario: >-
-      Un appassionato di outdoor pianifica una settimana di discesa fluviale e cerca una tavola compatta, gonfiabile al campo e in grado di affrontare correnti variabili.
+      A family of four wants a pool the kids can actually swim and play in all
+      summer, with clean water and easy entry for little ones.
     solution: >-
-      La SUP Explorer 11 si ripone in uno zaino e si gonfia in circa 8–12 minuti con la pompa Dual-Action inclusa. La costruzione drop-stitch regge laghi, fiumi calmi e navigazione costiera.
+      The Family Oasis Pool offers a 3m x 2m swim area with rigid 20cm
+      drop-stitch walls. The Sand Filter Pump keeps the water clear, and the
+      Entry Steps give children a safe, stable way in and out.
     products:
-      - SUP Explorer 11
-      - Carbon Paddle
-      - Life Vest Classic
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
-  - id: family
-    title: Ricreazione in famiglia
-    desc: SUP stabili per gite di un giorno e sport acquatici.
+      - Family Oasis Pool
+      - Sand Filter Pump
+      - Entry Steps
+    image: /images/olagoon/products/family-oasis.webp
+
+  - id: entertaining
+    title: Entertaining & Hosting
+    desc: A statement lagoon for gatherings.
     scenario: >-
-      Una famiglia di quattro persone vuole SUP stabili per le uscite del fine settimana al lago e remare insieme.
+      A homeowner who loves weekend gatherings wants a showpiece pool big
+      enough for guests of all ages, plus reliable water care with zero fuss.
     solution: >-
-      La SUP Explorer 11 offre tavole stabili e larghe per tutte le età. Il Life Vest Classic tiene tutti al sicuro. La pompa Dual-Action gonfia tutte le tavole in circa 15–20 minuti.
+      The Grand Lagoon Pool delivers a 5m x 2.5m swim zone engineered like a
+      yacht deck. The Sand Filter Pump and Thermal Pool Cover keep the water
+      party-ready, and the Entry Steps complete the resort feel.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
+      - Grand Lagoon Pool
+      - Sand Filter Pump
+      - Entry Steps
+      - Thermal Pool Cover
+    image: /images/olagoon/products/grand-lagoon.webp

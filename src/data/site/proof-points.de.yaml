@@ -1,17 +1,17 @@
 points:
   - id: products
-    metric: '12'
-    label: 'Produkte in 2 Kategorien'
-    detail: 'SUP, Zubehör'
+    metric: '7'
+    label: products across 2 categories
+    detail: Pool, Accessory
   - id: countries
     metric: '50+'
-    label: 'belieferte Länder'
-    detail: 'Globales Vertriebsnetz in Europa, den USA und Asien'
+    label: countries served
+    detail: Global distribution network across EU, US, ASIA
   - id: founded
     metric: '2012'
-    label: 'gegründet'
-    detail: 'Über ein Jahrzehnt Fertigung von Wassersport-Equipment'
+    label: founded
+    detail: Over a decade of drop-stitch manufacturing
   - id: certified
     metric: ISO
-    label: 'CE-zertifiziert'
-    detail: 'Jedes Produkt erfüllt internationale Sicherheitsstandards'
+    label: CE certified
+    detail: Every pool meets international safety standards

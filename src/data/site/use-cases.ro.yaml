@@ -1,37 +1,49 @@
 cases:
-  - id: beginner
-    title: 'Sporturi acvatice pentru începători'
-    desc: 'Plăci SUP stabile pentru prima utilizare.'
+  - id: small-backyard
+    title: Small Backyard Plunge
+    desc: A compact rigid pool for tight spaces.
     scenario: >-
-      O familie care își petrece weekendul la un lac vrea să încerce paddleboardingul. Au nevoie de echipament stabil, ușor de lansat și cu instrucțiuni clare de siguranță.
+      A couple with a small townhouse yard wants a real swimming pool for
+      cooling off and relaxing after work, without permanent construction.
     solution: >-
-      Placa SUP Explorer 11 oferă stabilitate prin construcția lată – ideală pentru începători. Life Vest Classic asigură flotabilitate certificată CE. Pompa Dual-Action umflă ambele plăci în circa 15–20 de minute.
+      The Compact Plunge Pool fits a 2m x 1.5m footprint and sets up on any
+      level surface. The Ground Mat protects the base, and the Thermal Pool
+      Cover keeps the water warm and clean between swims.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
-  - id: outdoor
-    title: 'Explorare în natură'
-    desc: 'Plăci SUP portabile pentru râuri, lacuri și excursii pe coastă.'
+      - Compact Plunge Pool
+      - Ground Mat
+      - Thermal Pool Cover
+    image: /images/olagoon/products/compact-plunge.webp
+
+  - id: family-fun
+    title: Family Backyard Fun
+    desc: A full-size pool for the whole family.
     scenario: >-
-      Un pasionat de outdoor planifică o săptămână pe un râu și are nevoie de o placă compactă, gonflabilă în tabără, care să facă față curenților variabili.
+      A family of four wants a pool the kids can actually swim and play in all
+      summer, with clean water and easy entry for little ones.
     solution: >-
-      Placa SUP Explorer 11 încape într-un rucsac și se umflă în circa 8–12 minute cu pompa Dual-Action inclusă. Construcția drop-stitch face față lacurilor, râurilor liniștite și apelor de coastă.
+      The Family Oasis Pool offers a 3m x 2m swim area with rigid 20cm
+      drop-stitch walls. The Sand Filter Pump keeps the water clear, and the
+      Entry Steps give children a safe, stable way in and out.
     products:
-      - SUP Explorer 11
-      - Carbon Paddle
-      - Life Vest Classic
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
-  - id: family
-    title: 'Recreere în familie'
-    desc: 'Plăci SUP stabile pentru excursii de o zi și sporturi acvatice.'
+      - Family Oasis Pool
+      - Sand Filter Pump
+      - Entry Steps
+    image: /images/olagoon/products/family-oasis.webp
+
+  - id: entertaining
+    title: Entertaining & Hosting
+    desc: A statement lagoon for gatherings.
     scenario: >-
-      O familie de patru persoane vrea plăci SUP stabile pentru ieșirile de weekend la lac și pentru a vâsli împreună.
+      A homeowner who loves weekend gatherings wants a showpiece pool big
+      enough for guests of all ages, plus reliable water care with zero fuss.
     solution: >-
-      Placa SUP Explorer 11 oferă plăci stabile, cu punte lată, pentru toate vârstele. Life Vest Classic îi ține pe toți în siguranță. Pompa Dual-Action umflă toate plăcile în circa 15–20 de minute.
+      The Grand Lagoon Pool delivers a 5m x 2.5m swim zone engineered like a
+      yacht deck. The Sand Filter Pump and Thermal Pool Cover keep the water
+      party-ready, and the Entry Steps complete the resort feel.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
+      - Grand Lagoon Pool
+      - Sand Filter Pump
+      - Entry Steps
+      - Thermal Pool Cover
+    image: /images/olagoon/products/grand-lagoon.webp

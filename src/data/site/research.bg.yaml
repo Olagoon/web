@@ -1,46 +1,25 @@
-badge: Последни изследвания
-heading: Център за знания
-description: Задълбочени технически изследвания за материали, конструкции, стандарти за безопасност и производство на SUP и надуваеми плавателни съдове
+badge: Latest Research
+heading: Knowledge Center
+description: In-depth technical research on drop-stitch inflatable pool materials, construction, safety standards, and manufacturing
 topics:
   - slug: drop-stitch-technology
-    category: Технологии
-    readTime: 8 мин четене
+    category: Technology
+    readTime: 8 min read
   - slug: ce-certification-guide
-    category: Съответствие
-    readTime: 7 мин четене
-  - slug: sup-thickness-guide
-    category: Инженеринг
-    readTime: 6 мин четене
+    category: Compliance
+    readTime: 7 min read
   - slug: oem-buyer-guide
-    category: Снабдяване
-    readTime: 12 мин четене
-  - slug: sup-manufacturing-process
-    category: Производство
-    readTime: 10 мин четене
-  - slug: eva-foam-technology
-    category: Материали
-    readTime: 7 мин четене
-  - slug: uv-printing-vs-eva-block
-    category: Технологии
-    readTime: 6 мин четене
+    category: Sourcing
+    readTime: 12 min read
   - slug: fusion-lamination-vs-glue
-    category: Производство
-    readTime: 8 мин четене
-  - slug: sup-valve-types
-    category: Инженеринг
-    readTime: 6 мин четене
-  - slug: fin-systems-guide
-    category: Инженеринг
-    readTime: 7 мин четене
-  - slug: board-hull-design
-    category: Инженеринг
-    readTime: 9 мин четене
-  - slug: quality-testing-standards
-    category: Съответствие
-    readTime: 8 мин четене
-  - slug: sup-paddle-technology
-    category: Оборудване
-    readTime: 7 мин четене
+    category: Manufacturing
+    readTime: 8 min read
   - slug: military-grade-pvc-specs
-    category: Материали
-    readTime: 8 мин четене
+    category: Materials
+    readTime: 8 min read
+  - slug: quality-testing-standards
+    category: Compliance
+    readTime: 8 min read
+  - slug: uv-printing-vs-eva-block
+    category: Technology
+    readTime: 6 min read

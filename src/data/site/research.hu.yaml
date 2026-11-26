@@ -1,46 +1,25 @@
-badge: Legfrissebb kutatások
-heading: Tudásközpont
-description: Mélyreható műszaki kutatások a SUP és a felfújható vízi járművek anyagairól, felépítéséről, biztonsági szabványairól és gyártásáról
+badge: Latest Research
+heading: Knowledge Center
+description: In-depth technical research on drop-stitch inflatable pool materials, construction, safety standards, and manufacturing
 topics:
   - slug: drop-stitch-technology
-    category: Technológia
-    readTime: 8 perces olvasás
+    category: Technology
+    readTime: 8 min read
   - slug: ce-certification-guide
-    category: Megfelelés
-    readTime: 7 perces olvasás
-  - slug: sup-thickness-guide
-    category: Mérnökség
-    readTime: 6 perces olvasás
+    category: Compliance
+    readTime: 7 min read
   - slug: oem-buyer-guide
-    category: Beszerzés
-    readTime: 12 perces olvasás
-  - slug: sup-manufacturing-process
-    category: Gyártás
-    readTime: 10 perces olvasás
-  - slug: eva-foam-technology
-    category: Anyagok
-    readTime: 7 perces olvasás
-  - slug: uv-printing-vs-eva-block
-    category: Technológia
-    readTime: 6 perces olvasás
+    category: Sourcing
+    readTime: 12 min read
   - slug: fusion-lamination-vs-glue
-    category: Gyártás
-    readTime: 8 perces olvasás
-  - slug: sup-valve-types
-    category: Mérnökség
-    readTime: 6 perces olvasás
-  - slug: fin-systems-guide
-    category: Mérnökség
-    readTime: 7 perces olvasás
-  - slug: board-hull-design
-    category: Mérnökség
-    readTime: 9 perces olvasás
-  - slug: quality-testing-standards
-    category: Megfelelés
-    readTime: 8 perces olvasás
-  - slug: sup-paddle-technology
-    category: Felszerelés
-    readTime: 7 perces olvasás
+    category: Manufacturing
+    readTime: 8 min read
   - slug: military-grade-pvc-specs
-    category: Anyagok
-    readTime: 8 perces olvasás
+    category: Materials
+    readTime: 8 min read
+  - slug: quality-testing-standards
+    category: Compliance
+    readTime: 8 min read
+  - slug: uv-printing-vs-eva-block
+    category: Technology
+    readTime: 6 min read

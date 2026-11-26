@@ -1,46 +1,25 @@
-badge: 'Aktuelle Fachbeiträge'
-heading: 'Wissenscenter'
-description: 'Fundierte technische Recherchen zu Materialien, Konstruktion, Sicherheitsnormen und Fertigung von SUP Boards und aufblasbaren Wasserfahrzeugen'
+badge: Latest Research
+heading: Knowledge Center
+description: In-depth technical research on drop-stitch inflatable pool materials, construction, safety standards, and manufacturing
 topics:
   - slug: drop-stitch-technology
-    category: 'Technologie'
-    readTime: '8 Min. Lesezeit'
+    category: Technology
+    readTime: 8 min read
   - slug: ce-certification-guide
-    category: 'Konformität'
-    readTime: '7 Min. Lesezeit'
-  - slug: sup-thickness-guide
-    category: 'Konstruktion'
-    readTime: '6 Min. Lesezeit'
+    category: Compliance
+    readTime: 7 min read
   - slug: oem-buyer-guide
-    category: 'Beschaffung'
-    readTime: '12 Min. Lesezeit'
-  - slug: sup-manufacturing-process
-    category: 'Fertigung'
-    readTime: '10 Min. Lesezeit'
-  - slug: eva-foam-technology
-    category: 'Materialien'
-    readTime: '7 Min. Lesezeit'
-  - slug: uv-printing-vs-eva-block
-    category: 'Technologie'
-    readTime: '6 Min. Lesezeit'
+    category: Sourcing
+    readTime: 12 min read
   - slug: fusion-lamination-vs-glue
-    category: 'Fertigung'
-    readTime: '8 Min. Lesezeit'
-  - slug: sup-valve-types
-    category: 'Konstruktion'
-    readTime: '6 Min. Lesezeit'
-  - slug: fin-systems-guide
-    category: 'Konstruktion'
-    readTime: '7 Min. Lesezeit'
-  - slug: board-hull-design
-    category: 'Konstruktion'
-    readTime: '9 Min. Lesezeit'
-  - slug: quality-testing-standards
-    category: 'Konformität'
-    readTime: '8 Min. Lesezeit'
-  - slug: sup-paddle-technology
-    category: 'Ausrüstung'
-    readTime: '7 Min. Lesezeit'
+    category: Manufacturing
+    readTime: 8 min read
   - slug: military-grade-pvc-specs
-    category: 'Materialien'
-    readTime: '8 Min. Lesezeit'
+    category: Materials
+    readTime: 8 min read
+  - slug: quality-testing-standards
+    category: Compliance
+    readTime: 8 min read
+  - slug: uv-printing-vs-eva-block
+    category: Technology
+    readTime: 6 min read

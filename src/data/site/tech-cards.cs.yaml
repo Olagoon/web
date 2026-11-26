@@ -1,13 +1,13 @@
 cards:
   - badge: PVC
-    title: 'PVC vrstva námořní kvality'
-    description: 'Vícevrstvá laminovaná PVC tkanina určená pro vodní prostředí. Testována na odolnost vůči UV záření, oděru a proražení.'
-    image: 'https://assets.olagoon.com/images/olagoon/tech/tech-pvc-material.webp'
+    title: Marine-Grade PVC Layer
+    description: Multi-layer laminated PVC fabric built for seasons of outdoor use. Tested for UV, abrasion, and puncture resistance.
+    image: /images/olagoon/tech/tech-pvc-material.webp
   - badge: DS
-    title: 'Drop-stitch jádro'
-    description: 'Tisíce vnitřních vláken spojují horní a spodní vrstvu a vytvářejí tuhou strukturu s vysokým tlakem 12–15 PSI.'
-    image: 'https://assets.olagoon.com/images/olagoon/tech/tech-drop-stitch.webp'
+    title: Drop-Stitch Core
+    description: Thousands of internal threads lock the floor and wall layers together, creating a rigid, high-pressure shell at 10-15 PSI.
+    image: /images/olagoon/tech/tech-drop-stitch.webp
   - badge: RR
-    title: 'Zesílená hrana railu'
-    description: 'Dvojvrstvý, svarovaný rail chrání před odřením o molo, najetím na pláž a bočními nárazy.'
-    image: 'https://assets.olagoon.com/images/olagoon/tech/tech-hypalon-tubes.webp'
+    title: Fusion-Welded Seams
+    description: Double-layered fusion-welded rails and seams keep air locked in for weeks of continuous use with minimal top-ups.
+    image: /images/olagoon/tech/tech-hypalon-tubes.webp

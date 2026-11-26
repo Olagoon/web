@@ -1,37 +1,49 @@
 cases:
-  - id: beginner
-    title: Vesiliikuntaa aloittelijoille
-    desc: 'Vakaat SUP-laudat ensikäyttäjille.'
+  - id: small-backyard
+    title: Small Backyard Plunge
+    desc: A compact rigid pool for tight spaces.
     scenario: >-
-      Perhe viettää viikonlopun järvellä ja haluaa kokeilla melontaa seisomalla. He tarvitsevat vakaan, helposti vesille laskettavan varustuksen, jossa on selkeät turvallisuusohjeet.
+      A couple with a small townhouse yard wants a real swimming pool for
+      cooling off and relaxing after work, without permanent construction.
     solution: >-
-      SUP Explorer 11 tarjoaa vakautta leveällä rakenteellaan – ihanteellinen aloittelijoille. Life Vest Classic takaa CE-sertifioidun kelluvuuden. Dual-Action-pumppu täyttää molemmat laudat noin 15–20 minuutissa.
+      The Compact Plunge Pool fits a 2m x 1.5m footprint and sets up on any
+      level surface. The Ground Mat protects the base, and the Thermal Pool
+      Cover keeps the water warm and clean between swims.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
-  - id: outdoor
-    title: Ulkoilu ja tutkimusretket
-    desc: 'Kannettavat SUP-laudat joille, järville ja rannikkoretkille.'
+      - Compact Plunge Pool
+      - Ground Mat
+      - Thermal Pool Cover
+    image: /images/olagoon/products/compact-plunge.webp
+
+  - id: family-fun
+    title: Family Backyard Fun
+    desc: A full-size pool for the whole family.
     scenario: >-
-      Luontoharrastaja suunnittelee viikon pituista jokiretkä ja tarvitsee laudan, joka pakkaantuu pieneksi, täyttyy leirissä ja kestää vaihtelevia virtauksia.
+      A family of four wants a pool the kids can actually swim and play in all
+      summer, with clean water and easy entry for little ones.
     solution: >-
-      SUP Explorer 11 mahtuu reppuun ja täyttyy noin 8–12 minuutissa mukana tulevalla Dual-Action-pumpulla. Drop-stitch-rakenne kestää järvet, tyynet joet ja rannikkovedet.
+      The Family Oasis Pool offers a 3m x 2m swim area with rigid 20cm
+      drop-stitch walls. The Sand Filter Pump keeps the water clear, and the
+      Entry Steps give children a safe, stable way in and out.
     products:
-      - SUP Explorer 11
-      - Carbon Paddle
-      - Life Vest Classic
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
-  - id: family
-    title: Perheen vapaa-aika
-    desc: 'Vakaat SUP-laudat päiväretkille ja vesiliikuntaan.'
+      - Family Oasis Pool
+      - Sand Filter Pump
+      - Entry Steps
+    image: /images/olagoon/products/family-oasis.webp
+
+  - id: entertaining
+    title: Entertaining & Hosting
+    desc: A statement lagoon for gatherings.
     scenario: >-
-      Neljähenkinen perhe haluaa vakaat SUP-laudat viikonloppuretkiin järvelle ja yhteismelontaan.
+      A homeowner who loves weekend gatherings wants a showpiece pool big
+      enough for guests of all ages, plus reliable water care with zero fuss.
     solution: >-
-      SUP Explorer 11 tarjoaa vakaat, leveät laudat kaikenikäisille. Life Vest Classic pitää kaikki turvassa. Dual-Action-pumppu täyttää kaikki laudat noin 15–20 minuutissa.
+      The Grand Lagoon Pool delivers a 5m x 2.5m swim zone engineered like a
+      yacht deck. The Sand Filter Pump and Thermal Pool Cover keep the water
+      party-ready, and the Entry Steps complete the resort feel.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
+      - Grand Lagoon Pool
+      - Sand Filter Pump
+      - Entry Steps
+      - Thermal Pool Cover
+    image: /images/olagoon/products/grand-lagoon.webp

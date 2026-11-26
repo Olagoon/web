@@ -1,44 +1,42 @@
 origin:
-  tagline: Mūsų ištakos
-  heading: |-
-    Sukurta ant vandens,<br />
-    <span class="text-sky-600">vedami tikslo</span>
+  tagline: 'Our Origin'
+  heading: "Built for the backyard,<br />\n<span class=\"text-sky-600\">engineered like a yacht</span>"
   paragraphs:
-    - 'olagoon istorija prasidėjo pajūrio dirbtuvėse, turint vieną lentą ir atkaklų įsitikinimą: jūriniai gaminiai turi būti kuriami taip, tarsi jie iš tiesų būtų svarbūs — nes jie tokie ir yra.'
-    - Mūsų įkūrėjai, du jūrų inžinieriai, regėjo pramonę, kurioje buvo taupoma kuo pigiau, naudojamos prastesnės medžiagos, o saugumas laikytas paprasčiausia formalia varnele. Pirmąjį olagoon korpusą jie pastatė ne dėl pelno, o norėdami įrodyti, kad prieinama jūrinė įranga gali būti ir iš tiesų patikima.
-    - Tas pirmasis korpusas tebenaudojamas ir šiandien. Tas principas niekada nesikeitė.
-    - Mes nesame didžiausias gamintojas. Negaminame pačių pigiausių produktų. Tačiau kiekvienas korpusas, paliekantis mūsų dirbtuves, praeina pro tas pačias rankas, kurios įkūrė įmonę, ir atitinka tą patį standartą, kurį nustatė pirmasis korpusas.
-  image: https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
-  image_alt: olagoon pajūrio dirbtuvės
+    - 'OLagoon began in 2012 with a Qingdao manufacturing team and one stubborn belief: an inflatable pool should be engineered like it matters — because your family swims in it.'
+    - 'Our founders came from marine and drop-stitch manufacturing, where hulls are rated by pressure and safety is never a checkbox. They saw backyard pools that warped, sagged, and failed after a single season, and set out to build something better using the same drop-stitch technology trusted in yacht tenders and rescue boards.'
+    - 'That first pool is still holding air more than a decade later. That standard never changed.'
+    - 'We are not the biggest manufacturer. We do not make the cheapest pools. But every OLagoon pool leaves a 12,000 m² factory staffed by 200+ workers, passes CE and ISO 9001 quality control, and meets the same standard that first pool set.'
+  image: /images/olagoon/hero/production-dept.webp
+  image_alt: 'OLagoon drop-stitch pool production line'
+
 philosophy:
-  tagline: Mūsų filosofija
-  heading: Įsišakniję vandenyne
-  description: Vandynas mums — ne darbo vieta. Jis — mūsų mokytojas. Kiekvienas projektavimo sprendimas prasideda nuo supratimo, kaip elgiasi vanduo, kaip kinta sąlygos ir kaip į tai turi reaguoti įranga.
+  tagline: 'Our Philosophy'
+  heading: 'Rooted in drop-stitch engineering'
+  description: 'Water is unforgiving — even two feet of it in a backyard. Every design decision starts with understanding water pressure, structural load, and how a pool must hold its shape season after season.'
   cards:
-    - emoji: 🌊
-      title: Gerbkite vandenį
-      description: Vanduo yra nenuspėjamas. Mūsų produktai projektuoti pačioms blogiausioms sąlygoms, o ne pačioms geriausioms. Jeigu korpusas atlaiko pavojingą srovę, jis atlaikys ir ežerą. Jeigu gelbėjimo liemenė patikima atviroje jūroje, upėje ji veikia su didele atsarga — ir taip yra sąmoningai.
-    - emoji: 🔧
-      title: Sukurta, kad tarnautų, o ne kad būtų keičiama
-      description: Pats tvariausias produktas yra tas, kurio nereikia keisti. Jūrinės klasės PVC ir drop-stitch konstrukcija pasirinktos atsižvelgiant į ilgaamžiškumą. Atsargines dalis korpusams, kuriuos pagaminome prieš dešimtmetį, tebegabename ir šiandien.
-    - emoji: 🏆
-      title: Prieinamumas — dizaino principas
-      description: Vandens sportas neturėtų būti prabanga. Kuriame produktus, užtikrinančius profesionalų našumą už kainą, priimtiną šeimoms, gidams ir smulkiesiems operatoriams — o ne tik komerciniams laivynams.
+    - emoji: "\U0001F30A"
+      title: 'Respect the Water'
+      description: 'A pool is a pressure vessel. Our drop-stitch cores are rated for 15 PSI — well above the working pressure of a backyard pool — so walls stay rigid at 20 cm height without bulging or flexing.'
+    - emoji: "\U0001F527"
+      title: 'Built to Last, Not to Replace'
+      description: 'The most sustainable pool is the one that does not end up in a landfill after one summer. Reinforced PVC, welded seams, and a 2-year warranty are chosen for longevity, not for a price point.'
+    - emoji: "\U0001F3C6"
+      title: 'Accessible by Design'
+      description: 'Yacht-grade engineering should not require a yacht budget. We deliver 10–15 PSI drop-stitch pools at a price that makes sense for families, resorts, and community programs — not just luxury buyers.'
+
 design:
-  tagline: Projektavimo filosofija
-  heading: |-
-    Sukurta sąlygų<br />
-    <span class="text-sky-600">ribai</span>
+  tagline: 'Design Philosophy'
+  heading: "Engineered to a standard,<br />\n<span class=\"text-sky-600\">not to a price</span>"
   paragraphs:
-    - 'Kiekvienas olagoon produktas prasideda nuo vieno klausimo: <em>kokia blogiausia sąlyga, su kuria jam teks susidurti?</em> Projektuojame nuo ribos link vidaus, o ne nuo centro į išorę.'
-    - 'Mūsų drop-stitch branduoliai skirti 15 PSI — ne todėl, kad ežerui neužtektų 12 PSI, o todėl, kad 15 PSI lenta atlaiko staigų bangavimą nelenkdama. Mūsų denio audiniai specifikuoti komercinės klasės UV atsparumui — ne todėl, kad kiekvienas klientas irkluoja atogrąžose, o todėl, kad UV degradacija yra #1 ankstyvų gedimų priežastis.'
-    - Mes neprojektuojame pagal kainos tašką. Projektuojame iki gedimo ribos — o tada kuriame gerokai aukščiau jos.
-  image: https://assets.olagoon.com/images/olagoon/hero/hero-4.webp
-  image_alt: olagoon dizainas ir inžinerija
+    - 'Every OLagoon pool starts with one question: <em>what will this pool face after three summers of use?</em> We design from the failure point inward, then build well above it.'
+    - 'Our drop-stitch cores are rated for 15 PSI — not because a backyard pool needs it daily, but because a rigid wall does not flex when six kids cannonball in at once. Our PVC is specified for commercial UV resistance — not because every customer lives in Phoenix, but because UV degradation is the #1 cause of premature pool failure.'
+    - 'The result: a pool that holds its shape, holds its air, and holds its value. 15,000 units a year, shipped to 50+ countries, backed by a 2-year warranty.'
+  image: /images/olagoon/hero/lakeside-olagoon.webp
+  image_alt: 'OLagoon drop-stitch pool by the lake'
   stats:
     - value: '15'
-      label: PSI branduolio<br />reitingas
-    - value: 1,500+
-      label: UV valandų<br />išbandyta
-    - value: 10yr
-      label: korpuso<br />eksploatacijos trukmė
+      label: 'PSI core<br />rating'
+    - value: '20cm'
+      label: 'rigid wall<br />height'
+    - value: '2yr'
+      label: 'warranty<br />included'

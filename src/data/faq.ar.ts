@@ -1,4 +1,1 @@
-import yamlData from './faq-ar.yaml';
-import type { FaqRecord } from './faq';
-
-export const faqsAr = yamlData as FaqRecord[];
+export { faqs as faqsAr } from './faq';

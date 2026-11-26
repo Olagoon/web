@@ -1,46 +1,25 @@
-badge: Uusimad uuringud
-heading: Teadmiskeskus
-description: Põhjalik tehniline uuring SUP-i ja täispuhutavate veesõidukite materjalidest, konstruktsioonist, ohutusstandarditest ja tootmisest
+badge: Latest Research
+heading: Knowledge Center
+description: In-depth technical research on drop-stitch inflatable pool materials, construction, safety standards, and manufacturing
 topics:
   - slug: drop-stitch-technology
-    category: Tehnoloogia
-    readTime: 8 min lugemist
+    category: Technology
+    readTime: 8 min read
   - slug: ce-certification-guide
-    category: Nõuetele vastavus
-    readTime: 7 min lugemist
-  - slug: sup-thickness-guide
-    category: Inseneritöö
-    readTime: 6 min lugemist
+    category: Compliance
+    readTime: 7 min read
   - slug: oem-buyer-guide
-    category: Hankimine
-    readTime: 12 min lugemist
-  - slug: sup-manufacturing-process
-    category: Tootmine
-    readTime: 10 min lugemist
-  - slug: eva-foam-technology
-    category: Materjalid
-    readTime: 7 min lugemist
-  - slug: uv-printing-vs-eva-block
-    category: Tehnoloogia
-    readTime: 6 min lugemist
+    category: Sourcing
+    readTime: 12 min read
   - slug: fusion-lamination-vs-glue
-    category: Tootmine
-    readTime: 8 min lugemist
-  - slug: sup-valve-types
-    category: Inseneritöö
-    readTime: 6 min lugemist
-  - slug: fin-systems-guide
-    category: Inseneritöö
-    readTime: 7 min lugemist
-  - slug: board-hull-design
-    category: Inseneritöö
-    readTime: 9 min lugemist
-  - slug: quality-testing-standards
-    category: Nõuetele vastavus
-    readTime: 8 min lugemist
-  - slug: sup-paddle-technology
-    category: Varustus
-    readTime: 7 min lugemist
+    category: Manufacturing
+    readTime: 8 min read
   - slug: military-grade-pvc-specs
-    category: Materjalid
-    readTime: 8 min lugemist
+    category: Materials
+    readTime: 8 min read
+  - slug: quality-testing-standards
+    category: Compliance
+    readTime: 8 min read
+  - slug: uv-printing-vs-eva-block
+    category: Technology
+    readTime: 6 min read

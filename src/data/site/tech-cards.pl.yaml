@@ -1,13 +1,13 @@
 cards:
   - badge: PVC
-    title: Warstwa PVC klasy morskiej
-    description: 'Wielowarstwowa laminowana tkanina PVC przeznaczona do środowisk morskich. Testowana pod kątem odporności na UV, ścieranie i przebicia.'
-    image: 'https://assets.olagoon.com/images/olagoon/tech/tech-pvc-material.webp'
+    title: Marine-Grade PVC Layer
+    description: Multi-layer laminated PVC fabric built for seasons of outdoor use. Tested for UV, abrasion, and puncture resistance.
+    image: /images/olagoon/tech/tech-pvc-material.webp
   - badge: DS
-    title: 'Rdzeń drop-stitch'
-    description: 'Tysiące wewnętrznych nici łączy warstwę górną i dolną, tworząc sztywną strukturę o wysokim ciśnieniu 12–15 PSI.'
-    image: 'https://assets.olagoon.com/images/olagoon/tech/tech-drop-stitch.webp'
+    title: Drop-Stitch Core
+    description: Thousands of internal threads lock the floor and wall layers together, creating a rigid, high-pressure shell at 10-15 PSI.
+    image: /images/olagoon/tech/tech-drop-stitch.webp
   - badge: RR
-    title: 'Wzmocniona krawędź szyny'
-    description: 'Dwustronna, zgrzewana szyna chroni przed otarciami o pomost, osiadaniem na plaży i uderzeniami bocznymi.'
-    image: 'https://assets.olagoon.com/images/olagoon/tech/tech-hypalon-tubes.webp'
+    title: Fusion-Welded Seams
+    description: Double-layered fusion-welded rails and seams keep air locked in for weeks of continuous use with minimal top-ups.
+    image: /images/olagoon/tech/tech-hypalon-tubes.webp

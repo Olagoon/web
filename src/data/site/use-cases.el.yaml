@@ -1,37 +1,49 @@
 cases:
-  - id: beginner
-    title: 'Θαλάσσια σπορ για αρχάριους'
-    desc: 'Σταθερές σανίδες SUP για πρώτη χρήση.'
+  - id: small-backyard
+    title: Small Backyard Plunge
+    desc: A compact rigid pool for tight spaces.
     scenario: >-
-      Μια οικογένεια που περνά το σαββατοκύριακο σε μια λίμνη θέλει να δοκιμάσει το paddleboarding. Χρειάζεται σταθερό, εύκολο εξοπλισμό με σαφείς οδηγίες ασφαλείας.
+      A couple with a small townhouse yard wants a real swimming pool for
+      cooling off and relaxing after work, without permanent construction.
     solution: >-
-      Το SUP Explorer 11 προσφέρει ευστάθεια με το φαρδύ σχήμα του – ιδανικό για αρχάριους. Το Life Vest Classic εξασφαλίζει πλευστότητα με πιστοποίηση CE. Η αντλία Dual-Action γεμίζει και τις δύο σανίδες σε περίπου 15–20 λεπτά.
+      The Compact Plunge Pool fits a 2m x 1.5m footprint and sets up on any
+      level surface. The Ground Mat protects the base, and the Thermal Pool
+      Cover keeps the water warm and clean between swims.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
-  - id: outdoor
-    title: 'Εξερεύνηση στην ύπαιθρο'
-    desc: 'Φορητές σανίδες SUP για ποτάμια, λίμνες και παράκτιες διαδρομές.'
+      - Compact Plunge Pool
+      - Ground Mat
+      - Thermal Pool Cover
+    image: /images/olagoon/products/compact-plunge.webp
+
+  - id: family-fun
+    title: Family Backyard Fun
+    desc: A full-size pool for the whole family.
     scenario: >-
-      Ένας λάτρης της φύσης σχεδιάζει μια εβδομαδιαία πορεία σε ποτάμι και χρειάζεται μια σανίδα που μαζεύει σε μικρό μέγεθος, φουσκώνει στην κατασκήνωση και αντέχει τα μεταβαλλόμενα ρεύματα.
+      A family of four wants a pool the kids can actually swim and play in all
+      summer, with clean water and easy entry for little ones.
     solution: >-
-      Το SUP Explorer 11 χωράει σε σακίδιο και φουσκώνει σε περίπου 8–12 λεπτά με την παρεχόμενη αντλία Dual-Action. Η κατασκευή drop-stitch αντέχει σε λίμνες, ήρεμα ποτάμια και παράκτια ύδατα.
+      The Family Oasis Pool offers a 3m x 2m swim area with rigid 20cm
+      drop-stitch walls. The Sand Filter Pump keeps the water clear, and the
+      Entry Steps give children a safe, stable way in and out.
     products:
-      - SUP Explorer 11
-      - Carbon Paddle
-      - Life Vest Classic
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
-  - id: family
-    title: 'Οικογενειακή αναψυχή'
-    desc: 'Σταθερές σανίδες SUP για ημερήσιες εξορμήσεις και θαλάσσια σπορ.'
+      - Family Oasis Pool
+      - Sand Filter Pump
+      - Entry Steps
+    image: /images/olagoon/products/family-oasis.webp
+
+  - id: entertaining
+    title: Entertaining & Hosting
+    desc: A statement lagoon for gatherings.
     scenario: >-
-      Μια τετραμελής οικογένεια θέλει σταθερές σανίδες SUP για τις εξορμήσεις του σαββατοκύριακου στη λίμνη και για κοινή κωπηλασία.
+      A homeowner who loves weekend gatherings wants a showpiece pool big
+      enough for guests of all ages, plus reliable water care with zero fuss.
     solution: >-
-      Το SUP Explorer 11 προσφέρει σταθερές σανίδες με φαρδύ κατάστρωμα για όλες τις ηλικίες. Το Life Vest Classic κρατά όλους ασφαλείς. Η αντλία Dual-Action γεμίζει όλες τις σανίδες σε περίπου 15–20 λεπτά.
+      The Grand Lagoon Pool delivers a 5m x 2.5m swim zone engineered like a
+      yacht deck. The Sand Filter Pump and Thermal Pool Cover keep the water
+      party-ready, and the Entry Steps complete the resort feel.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
+      - Grand Lagoon Pool
+      - Sand Filter Pump
+      - Entry Steps
+      - Thermal Pool Cover
+    image: /images/olagoon/products/grand-lagoon.webp

@@ -1,54 +1,49 @@
 cases:
-  - id: beginner
-    title: Mga Water Sport para sa mga Baguhan
-    desc: Matatag na mga SUP board para sa mga first-time na gumagamit.
+  - id: small-backyard
+    title: Small Backyard Plunge
+    desc: A compact rigid pool for tight spaces.
     scenario: >-
-      Isang pamilyang bumibisita sa lawa para sa katapusan ng linggo ay
-      gustong subukan ang paddle boarding. Kailangan nila ng matatag at
-      madaling ilunsad na kagamitan na may malinaw na gabay sa kaligtasan.
+      A couple with a small townhouse yard wants a real swimming pool for
+      cooling off and relaxing after work, without permanent construction.
     solution: >-
-      Ang SUP Explorer 11 ay nagbibigay ng wide-body na katatagan para sa
-      mga baguhan. Ang Life Vest Classic ay nagsisiguro ng CE-certified na
-      flotation. Ang Dual-Action Pump ay nagpapaga sa parehong board sa loob
-      ng humigit-kumulang 15–20 minuto.
+      The Compact Plunge Pool fits a 2m x 1.5m footprint and sets up on any
+      level surface. The Ground Mat protects the base, and the Thermal Pool
+      Cover keeps the water warm and clean between swims.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
+      - Compact Plunge Pool
+      - Ground Mat
+      - Thermal Pool Cover
+    image: /images/olagoon/products/compact-plunge.webp
 
-  - id: outdoor
-    title: Pang-outdoor na Pagsisiyasat
-    desc: Mga portable na SUP board para sa mga biyahe sa ilog, lawa, at dalampasigan.
+  - id: family-fun
+    title: Family Backyard Fun
+    desc: A full-size pool for the whole family.
     scenario: >-
-      Isang mahilig sa outdoor ay nagpaplano ng isang linggong biyahe sa
-      ilog at nangangailangan ng board na maliit i-pack, napapaga sa camp,
-      at kayang humawak ng iba't ibang agos.
+      A family of four wants a pool the kids can actually swim and play in all
+      summer, with clean water and easy entry for little ones.
     solution: >-
-      Ang SUP Explorer 11 ay kasya sa isang backpack at napapaga sa loob ng
-      humigit-kumulang 8–12 minuto gamit ang kasamang Dual-Action Pump. Ang
-      drop-stitch nitong konstruksyon ay kayang humawak ng mga lawa,
-      mabagal na ilog, at coastal paddling.
+      The Family Oasis Pool offers a 3m x 2m swim area with rigid 20cm
+      drop-stitch walls. The Sand Filter Pump keeps the water clear, and the
+      Entry Steps give children a safe, stable way in and out.
     products:
-      - SUP Explorer 11
-      - Carbon Paddle
-      - Life Vest Classic
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
+      - Family Oasis Pool
+      - Sand Filter Pump
+      - Entry Steps
+    image: /images/olagoon/products/family-oasis.webp
 
-  - id: family
-    title: Rekreasyon ng Pamilya
-    desc: Matatag na mga SUP board para sa mga day trip at water sports.
+  - id: entertaining
+    title: Entertaining & Hosting
+    desc: A statement lagoon for gatherings.
     scenario: >-
-      Isang pamilyang may apat na miyembro ay nais ng matatag na mga SUP
-      board para sa mga katapusan-ng-linggong pagbisita sa lawa at
-      sabay-sabayang pag-paddle.
+      A homeowner who loves weekend gatherings wants a showpiece pool big
+      enough for guests of all ages, plus reliable water care with zero fuss.
     solution: >-
-      Ang SUP Explorer 11 ay nagbibigay ng matatag at wide-body na mga
-      board para sa lahat ng edad. Ang Life Vest Classic ay
-      nagpapanatiling ligtas sa lahat. Ang Dual-Action Pump ay nagpapaga sa
-      lahat ng board sa loob ng humigit-kumulang 15–20 minuto.
+      The Grand Lagoon Pool delivers a 5m x 2.5m swim zone engineered like a
+      yacht deck. The Sand Filter Pump and Thermal Pool Cover keep the water
+      party-ready, and the Entry Steps complete the resort feel.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
+      - Grand Lagoon Pool
+      - Sand Filter Pump
+      - Entry Steps
+      - Thermal Pool Cover
+    image: /images/olagoon/products/grand-lagoon.webp

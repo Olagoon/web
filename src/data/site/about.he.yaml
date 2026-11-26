@@ -1,44 +1,42 @@
 origin:
-  tagline: המקור שלנו
-  heading: |-
-    נבנה על המים,<br />
-    <span class="text-sky-600">מונע מתוך ייעוד</span>
+  tagline: 'Our Origin'
+  heading: "Built for the backyard,<br />\n<span class=\"text-sky-600\">engineered like a yacht</span>"
   paragraphs:
-    - 'olagoon החל את דרכו בסדנה חופית, עם לוח אחד ואמונה עיקשת: מוצרים ימיים צריכים להיות מהונדסים כאילו הם חשובים — כי הם אכן חשובים.'
-    - המייסדים שלנו, שני מהנדסי ים, ראו תעשייה שבה גוזרים פינות, מנמיכים את איכות החומרים ומתייחסים לבטיחות כאל סימון במשבצת. הם בנו את גוף הלוח הראשון של olagoon לא למען רווח, אלא כדי להוכיח שציוד ימי במחיר נגיש יכול להיות גם אמין באמת.
-    - אותו גוף ראשון עדיין משמש בפעילות עד היום. העיקרון הזה מעולם לא השתנה.
-    - אנחנו לא היצרן הגדול ביותר. אנחנו לא מייצרים את המוצרים הזולים ביותר. אבל כל גוף שיוצא מהסדנה שלנו עובר דרך אותן ידיים שהקימו את החברה — ועומד באותו סטנדרט שאותו גוף ראשון הציב.
-  image: https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
-  image_alt: הסדנה החופית של olagoon
+    - 'OLagoon began in 2012 with a Qingdao manufacturing team and one stubborn belief: an inflatable pool should be engineered like it matters — because your family swims in it.'
+    - 'Our founders came from marine and drop-stitch manufacturing, where hulls are rated by pressure and safety is never a checkbox. They saw backyard pools that warped, sagged, and failed after a single season, and set out to build something better using the same drop-stitch technology trusted in yacht tenders and rescue boards.'
+    - 'That first pool is still holding air more than a decade later. That standard never changed.'
+    - 'We are not the biggest manufacturer. We do not make the cheapest pools. But every OLagoon pool leaves a 12,000 m² factory staffed by 200+ workers, passes CE and ISO 9001 quality control, and meets the same standard that first pool set.'
+  image: /images/olagoon/hero/production-dept.webp
+  image_alt: 'OLagoon drop-stitch pool production line'
+
 philosophy:
-  tagline: הפילוסופיה שלנו
-  heading: שורשים באוקיינוס
-  description: האוקיינוס אינו מקום העבודה שלנו. הוא המורה שלנו. כל החלטת עיצוב מתחילה בהבנת האופן שבו מתנהגים המים, כיצד משתנים התנאים וכיצד הציוד חייב להגיב.
+  tagline: 'Our Philosophy'
+  heading: 'Rooted in drop-stitch engineering'
+  description: 'Water is unforgiving — even two feet of it in a backyard. Every design decision starts with understanding water pressure, structural load, and how a pool must hold its shape season after season.'
   cards:
-    - emoji: 🌊
-      title: לכבד את המים
-      description: המים אינם צפויים. המוצרים שלנו מהונדסים לתנאים הגרועים ביותר, לא לטובים ביותר. אם גוף לוח מסוגל להתמודד עם זרם סחף, הוא יתמודד גם עם אגם. אם אפודת הצלה עובדת בלב ים, הרי שהיא מהונדסת יתר על המידה עבור נהר — וזה מכוון מראש.
-    - emoji: 🔧
-      title: בנוי להחזיק מעמד, לא להחלפה
-      description: המוצר הבר-קיימא ביותר הוא זה שאינו דורש החלפה. PVC בדרגה ימית ומבנה דרופ-סטיץ' נבחרו למען אורך חיים. אנחנו עדיין מספקים חלקי חילוף לגופים שבנינו לפני עשור.
-    - emoji: 🏆
-      title: נגיש מעצם העיצוב
-      description: ספורט ימי לא צריך להיות מותרות. אנחנו מהנדסים מוצרים המספקים ביצועים ברמה מקצועית, במחיר שהגיוני עבור משפחות, מדריכים ועסקים קטנים — לא רק עבור ציים מסחריים.
+    - emoji: "\U0001F30A"
+      title: 'Respect the Water'
+      description: 'A pool is a pressure vessel. Our drop-stitch cores are rated for 15 PSI — well above the working pressure of a backyard pool — so walls stay rigid at 20 cm height without bulging or flexing.'
+    - emoji: "\U0001F527"
+      title: 'Built to Last, Not to Replace'
+      description: 'The most sustainable pool is the one that does not end up in a landfill after one summer. Reinforced PVC, welded seams, and a 2-year warranty are chosen for longevity, not for a price point.'
+    - emoji: "\U0001F3C6"
+      title: 'Accessible by Design'
+      description: 'Yacht-grade engineering should not require a yacht budget. We deliver 10–15 PSI drop-stitch pools at a price that makes sense for families, resorts, and community programs — not just luxury buyers.'
+
 design:
-  tagline: פילוסופיית עיצוב
-  heading: |-
-    מהונדס לתנאי<br />
-    <span class="text-sky-600">הקצה</span>
+  tagline: 'Design Philosophy'
+  heading: "Engineered to a standard,<br />\n<span class=\"text-sky-600\">not to a price</span>"
   paragraphs:
-    - 'כל מוצר של olagoon מתחיל בשאלה אחת: <em>מהו התנאי הגרוע ביותר שהוא צפוי להיתקל בו?</em> אנחנו מעצבים מהקצה פנימה, לא מהמרכז החוצה.'
-    - "ליבות הדרופ-סטיץ' שלנו מדורגות ללחץ עבודה של 15 PSI — לא מפני שלחץ 12 PSI אינו מספיק לאגם, אלא מפני שלוח בדירוג 15 PSI מתמודד עם גלים פתאומיים מבלי להתכופף. בדי הסיפון שלנו מפורטים לעמידות UV בדרגה מסחרית — לא מפני שכל לקוח חותר בטרופיקה, אלא מפני שפגיעת UV היא גורם #1 לכשל מוקדם."
-    - אנחנו לא מעצבים לפי נקודת מחיר. אנחנו מעצבים לפי נקודת כשל — ואז בונים הרבה מעליה.
-  image: https://assets.olagoon.com/images/olagoon/hero/hero-4.webp
-  image_alt: עיצוב והנדסה של olagoon
+    - 'Every OLagoon pool starts with one question: <em>what will this pool face after three summers of use?</em> We design from the failure point inward, then build well above it.'
+    - 'Our drop-stitch cores are rated for 15 PSI — not because a backyard pool needs it daily, but because a rigid wall does not flex when six kids cannonball in at once. Our PVC is specified for commercial UV resistance — not because every customer lives in Phoenix, but because UV degradation is the #1 cause of premature pool failure.'
+    - 'The result: a pool that holds its shape, holds its air, and holds its value. 15,000 units a year, shipped to 50+ countries, backed by a 2-year warranty.'
+  image: /images/olagoon/hero/lakeside-olagoon.webp
+  image_alt: 'OLagoon drop-stitch pool by the lake'
   stats:
     - value: '15'
-      label: דירוג ליבה<br />PSI
-    - value: 1,500+
-      label: שעות UV<br />בבדיקה
-    - value: 10yr
-      label: תוחלת חיים<br />של הגוף
+      label: 'PSI core<br />rating'
+    - value: '20cm'
+      label: 'rigid wall<br />height'
+    - value: '2yr'
+      label: 'warranty<br />included'

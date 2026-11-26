@@ -1,50 +1,49 @@
 cases:
-  - id: beginner
-    title: 'Vodni športi za začetnike'
-    desc: 'Stabilne SUP deske za vse, ki prvič stopajo na desko.'
+  - id: small-backyard
+    title: Small Backyard Plunge
+    desc: A compact rigid pool for tight spaces.
     scenario: >-
-      Družina, ki vikend preživlja ob jezeru, želi poskusiti veslanje na SUP
-      deski. Potrebujejo stabilno opremo, ki jo je enostavno spustiti na vodo,
-      ter jasna varnostna navodila.
+      A couple with a small townhouse yard wants a real swimming pool for
+      cooling off and relaxing after work, without permanent construction.
     solution: >-
-      SUP Explorer 11 začetnikom nudi stabilnost širokega telesa. Rešilni
-      jopič Life Vest Classic zagotavlja CE certificirano plovnost. Črpalka
-      Dual-Action Pump napihne obe deski v približno 15–20 minutah.
+      The Compact Plunge Pool fits a 2m x 1.5m footprint and sets up on any
+      level surface. The Ground Mat protects the base, and the Thermal Pool
+      Cover keeps the water warm and clean between swims.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
+      - Compact Plunge Pool
+      - Ground Mat
+      - Thermal Pool Cover
+    image: /images/olagoon/products/compact-plunge.webp
 
-  - id: outdoor
-    title: 'Raziskovanje na prostem'
-    desc: 'Prenosne SUP deske za reke, jezera in izlete ob obali.'
+  - id: family-fun
+    title: Family Backyard Fun
+    desc: A full-size pool for the whole family.
     scenario: >-
-      Navdušenec nad dejavnostmi na prostem načrtuje tedenski spust po reki in
-      potrebuje desko, ki se zloži v majhen paket, se napihne v taboru in
-      obvladuje spreminjajoče se tokove.
+      A family of four wants a pool the kids can actually swim and play in all
+      summer, with clean water and easy entry for little ones.
     solution: >-
-      SUP Explorer 11 se spravi v nahrbtnik in se s priloženo črpalko
-      Dual-Action Pump napihne v približno 8–12 minutah. Njena drop-stitch
-      konstrukcija obvladuje jezera, počasne reke in veslanje ob obali.
+      The Family Oasis Pool offers a 3m x 2m swim area with rigid 20cm
+      drop-stitch walls. The Sand Filter Pump keeps the water clear, and the
+      Entry Steps give children a safe, stable way in and out.
     products:
-      - SUP Explorer 11
-      - Carbon Paddle
-      - Life Vest Classic
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
+      - Family Oasis Pool
+      - Sand Filter Pump
+      - Entry Steps
+    image: /images/olagoon/products/family-oasis.webp
 
-  - id: family
-    title: 'Družinska rekreacija'
-    desc: 'Stabilne SUP deske za enodnevne izlete in vodne športe.'
+  - id: entertaining
+    title: Entertaining & Hosting
+    desc: A statement lagoon for gatherings.
     scenario: >-
-      Štiričlanska družina želi stabilne SUP deske za vikend izlete na jezero
-      in skupno veslanje.
+      A homeowner who loves weekend gatherings wants a showpiece pool big
+      enough for guests of all ages, plus reliable water care with zero fuss.
     solution: >-
-      SUP Explorer 11 ponuja stabilne deske s širokim telesom za vse starosti.
-      Rešilni jopič Life Vest Classic zagotavlja varnost vseh. Črpalka
-      Dual-Action Pump napihne vse deske v približno 15–20 minutah.
+      The Grand Lagoon Pool delivers a 5m x 2.5m swim zone engineered like a
+      yacht deck. The Sand Filter Pump and Thermal Pool Cover keep the water
+      party-ready, and the Entry Steps complete the resort feel.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
+      - Grand Lagoon Pool
+      - Sand Filter Pump
+      - Entry Steps
+      - Thermal Pool Cover
+    image: /images/olagoon/products/grand-lagoon.webp

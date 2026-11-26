@@ -1,13 +1,13 @@
 cards:
   - badge: PVC
-    title: Layer ng Marine-Grade PVC
-    description: Multi-layer na laminated PVC fabric na na-rate para sa marine environment. Nasubok para sa paglaban sa UV, abrasion, at puncture.
-    image: https://assets.olagoon.com/images/olagoon/tech/tech-pvc-material.webp
+    title: Marine-Grade PVC Layer
+    description: Multi-layer laminated PVC fabric built for seasons of outdoor use. Tested for UV, abrasion, and puncture resistance.
+    image: /images/olagoon/tech/tech-pvc-material.webp
   - badge: DS
     title: Drop-Stitch Core
-    description: Libu-libong panloob na thread ang nag-uugnay ng itaas at ibabang layer, na lumilikha ng matigas at high-pressure na estruktura sa 12–15 PSI.
-    image: https://assets.olagoon.com/images/olagoon/tech/tech-drop-stitch.webp
+    description: Thousands of internal threads lock the floor and wall layers together, creating a rigid, high-pressure shell at 10-15 PSI.
+    image: /images/olagoon/tech/tech-drop-stitch.webp
   - badge: RR
-    title: Pinalakas na Rail Edge
-    description: Ang double-layer na fusion-welded rail ay nagpoprotekta laban sa pagkiskis sa dock, paglapag sa dalampasigan, at mga side impact.
-    image: https://assets.olagoon.com/images/olagoon/tech/tech-hypalon-tubes.webp
+    title: Fusion-Welded Seams
+    description: Double-layered fusion-welded rails and seams keep air locked in for weeks of continuous use with minimal top-ups.
+    image: /images/olagoon/tech/tech-hypalon-tubes.webp

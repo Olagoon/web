@@ -1,50 +1,49 @@
 cases:
-  - id: beginner
-    title: Ūdens sports iesācējiem
-    desc: Stabili SUP dēļi tiem, kas pirmo reizi stāv uz dēļa.
+  - id: small-backyard
+    title: Small Backyard Plunge
+    desc: A compact rigid pool for tight spaces.
     scenario: >-
-      Ģimene, kas brīvdienās apmeklē ezeru, vēlas izmēģināt airēšanu ar SUP
-      dēli. Viņiem nepieciešama stabila, viegli ūdenim sagatavojama ekipējuma
-      daļa ar skaidriem drošības norādījumiem.
+      A couple with a small townhouse yard wants a real swimming pool for
+      cooling off and relaxing after work, without permanent construction.
     solution: >-
-      SUP Explorer 11 sniedz iesācējiem plata korpusa stabilitāti. Glābšanas
-      veste Life Vest Classic nodrošina CE sertificētu peldspēju. Sūknis
-      Dual-Action Pump aptuveni 15–20 minūtēs piepūš abus dēļus.
+      The Compact Plunge Pool fits a 2m x 1.5m footprint and sets up on any
+      level surface. The Ground Mat protects the base, and the Thermal Pool
+      Cover keeps the water warm and clean between swims.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
+      - Compact Plunge Pool
+      - Ground Mat
+      - Thermal Pool Cover
+    image: /images/olagoon/products/compact-plunge.webp
 
-  - id: outdoor
-    title: Izpēte dabā
-    desc: Pārvadājami SUP dēļi upēm, ezeriem un piekrastes izbraucieniem.
+  - id: family-fun
+    title: Family Backyard Fun
+    desc: A full-size pool for the whole family.
     scenario: >-
-      Aktīvās atpūtas entuziasts plāno nedēļas garumā upes ceļojumu un viņam
-      nepieciešams dēlis, kas salokās mazā iepakojumā, piepūšams apmetnē un
-      iztur mainīgas straumes.
+      A family of four wants a pool the kids can actually swim and play in all
+      summer, with clean water and easy entry for little ones.
     solution: >-
-      SUP Explorer 11 ietilpst mugursomā un ar komplektā iekļauto sūkni
-      Dual-Action Pump piepūšams aptuveni 8–12 minūtēs. Tā drop-stitch
-      konstrukcija iztur ezerus, lēnas upes un airēšanu pie krasta.
+      The Family Oasis Pool offers a 3m x 2m swim area with rigid 20cm
+      drop-stitch walls. The Sand Filter Pump keeps the water clear, and the
+      Entry Steps give children a safe, stable way in and out.
     products:
-      - SUP Explorer 11
-      - Carbon Paddle
-      - Life Vest Classic
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
+      - Family Oasis Pool
+      - Sand Filter Pump
+      - Entry Steps
+    image: /images/olagoon/products/family-oasis.webp
 
-  - id: family
-    title: Ģimenes atpūta
-    desc: Stabili SUP dēļi vienas dienas izbraucieniem un ūdens sportam.
+  - id: entertaining
+    title: Entertaining & Hosting
+    desc: A statement lagoon for gatherings.
     scenario: >-
-      Četru personu ģimene vēlas stabili SUP dēļus brīvdienu braucieniem uz
-      ezeru un kopīgai airēšanai.
+      A homeowner who loves weekend gatherings wants a showpiece pool big
+      enough for guests of all ages, plus reliable water care with zero fuss.
     solution: >-
-      SUP Explorer 11 piedāvā stabilus plata korpusa dēļus visām vecuma
-      grupām. Glābšanas veste Life Vest Classic sargā visu drošību. Sūknis
-      Dual-Action Pump aptuveni 15–20 minūtēs piepūš visus dēļus.
+      The Grand Lagoon Pool delivers a 5m x 2.5m swim zone engineered like a
+      yacht deck. The Sand Filter Pump and Thermal Pool Cover keep the water
+      party-ready, and the Entry Steps complete the resort feel.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
+      - Grand Lagoon Pool
+      - Sand Filter Pump
+      - Entry Steps
+      - Thermal Pool Cover
+    image: /images/olagoon/products/grand-lagoon.webp

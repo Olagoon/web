@@ -1,46 +1,25 @@
-badge: מחקר עדכני
-heading: מרכז הידע
-description: מחקר טכני מעמיק על חומרים, מבנה, תקני בטיחות וייצור של SUP וכלי שיט מתנפחים
+badge: Latest Research
+heading: Knowledge Center
+description: In-depth technical research on drop-stitch inflatable pool materials, construction, safety standards, and manufacturing
 topics:
   - slug: drop-stitch-technology
-    category: טכנולוגיה
-    readTime: קריאה של 8 דקות
+    category: Technology
+    readTime: 8 min read
   - slug: ce-certification-guide
-    category: רגולציה
-    readTime: קריאה של 7 דקות
-  - slug: sup-thickness-guide
-    category: הנדסה
-    readTime: קריאה של 6 דקות
+    category: Compliance
+    readTime: 7 min read
   - slug: oem-buyer-guide
-    category: רכש
-    readTime: קריאה של 12 דקות
-  - slug: sup-manufacturing-process
-    category: ייצור
-    readTime: קריאה של 10 דקות
-  - slug: eva-foam-technology
-    category: חומרים
-    readTime: קריאה של 7 דקות
-  - slug: uv-printing-vs-eva-block
-    category: טכנולוגיה
-    readTime: קריאה של 6 דקות
+    category: Sourcing
+    readTime: 12 min read
   - slug: fusion-lamination-vs-glue
-    category: ייצור
-    readTime: קריאה של 8 דקות
-  - slug: sup-valve-types
-    category: הנדסה
-    readTime: קריאה של 6 דקות
-  - slug: fin-systems-guide
-    category: הנדסה
-    readTime: קריאה של 7 דקות
-  - slug: board-hull-design
-    category: הנדסה
-    readTime: קריאה של 9 דקות
-  - slug: quality-testing-standards
-    category: רגולציה
-    readTime: קריאה של 8 דקות
-  - slug: sup-paddle-technology
-    category: ציוד
-    readTime: קריאה של 7 דקות
+    category: Manufacturing
+    readTime: 8 min read
   - slug: military-grade-pvc-specs
-    category: חומרים
-    readTime: קריאה של 8 דקות
+    category: Materials
+    readTime: 8 min read
+  - slug: quality-testing-standards
+    category: Compliance
+    readTime: 8 min read
+  - slug: uv-printing-vs-eva-block
+    category: Technology
+    readTime: 6 min read

@@ -1,44 +1,42 @@
 origin:
-  tagline: Ang Aming Pinagmulan
-  heading: |-
-    Itinayo sa tubig,<br />
-    <span class="text-sky-600">ginagabayan ng layunin</span>
+  tagline: 'Our Origin'
+  heading: "Built for the backyard,<br />\n<span class=\"text-sky-600\">engineered like a yacht</span>"
   paragraphs:
-    - 'Nagsimula ang olagoon sa isang workshop sa tabing-dagat na may iisang board at isang matibay na paniniwala: dapat idisenyo ang mga produktong pandagat na para bang mahalaga ang mga ito — dahil mahalaga nga sila.'
-    - Ang aming mga tagapagtatag, na dalawang marine engineer, ay nakakita ng industriya kung saan kinakaltasan ng proseso, binababa ang kalidad ng mga materyales, at itinuturing na simpleng checklist lamang ang kaligtasan. Hindi para sa kita ginawa ang unang hull ng olagoon, kundi upang patunayan na ang abot-kayang kagamitang pandagat ay maaari ring tunay na maaasahan.
-    - Ang unang hull na iyon ay nananatiling ginagamit hanggang ngayon. Hindi kailanman nagbago ang prinsipyong iyon.
-    - Hindi kami ang pinakamalaking manufacturer. Hindi kami gumagawa ng pinakamurang mga produkto. Ngunit ang bawat hull na lumalabas sa aming workshop ay dumadaan sa parehong mga kamay na nagtatag ng kumpanya — at tumutugon sa parehong pamantayang itinakda ng unang hull.
-  image: https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
-  image_alt: workshop ng olagoon sa tabing-dagat
+    - 'OLagoon began in 2012 with a Qingdao manufacturing team and one stubborn belief: an inflatable pool should be engineered like it matters — because your family swims in it.'
+    - 'Our founders came from marine and drop-stitch manufacturing, where hulls are rated by pressure and safety is never a checkbox. They saw backyard pools that warped, sagged, and failed after a single season, and set out to build something better using the same drop-stitch technology trusted in yacht tenders and rescue boards.'
+    - 'That first pool is still holding air more than a decade later. That standard never changed.'
+    - 'We are not the biggest manufacturer. We do not make the cheapest pools. But every OLagoon pool leaves a 12,000 m² factory staffed by 200+ workers, passes CE and ISO 9001 quality control, and meets the same standard that first pool set.'
+  image: /images/olagoon/hero/production-dept.webp
+  image_alt: 'OLagoon drop-stitch pool production line'
+
 philosophy:
-  tagline: Aming Pilosopiya
-  heading: Nakaugat sa karagatan
-  description: Ang karagatan ay hindi aming lugar ng trabaho. Ito ang aming guro. Ang bawat desisyon sa disenyo ay nagsisimula sa pag-unawa kung paano kumikilos ang tubig, kung paano nagbabago ang mga kondisyon, at kung paano dapat tumugon ang kagamitan.
+  tagline: 'Our Philosophy'
+  heading: 'Rooted in drop-stitch engineering'
+  description: 'Water is unforgiving — even two feet of it in a backyard. Every design decision starts with understanding water pressure, structural load, and how a pool must hold its shape season after season.'
   cards:
-    - emoji: 🌊
-      title: Igalang ang Tubig
-      description: Hindi nahuhulaan ang tubig. Ang aming mga produkto ay idinisenyo para sa pinakamahirap na mga kondisyon, hindi sa pinakamabuting kondisyon. Kung kaya ng isang hull na harapin ang riptide, kaya rin nitong harapin ang isang lawa. Kung gumagana ang isang life vest sa malayong dagat, sobra na itong kalakasan para sa ilog — at sadya iyon.
-    - emoji: 🔧
-      title: Ginawa para Tumagal, Hindi para Palitan
-      description: Ang pinaka-sustainable na produkto ay ang hindi na kailangang palitan. Pinili ang marine-grade na PVC at drop-stitch na konstruksiyon dahil sa tagal ng buhay. Nagpapadala pa rin kami ng mga piyesa para sa mga hull na ginawa namin sampung taon na ang nakalipas.
-    - emoji: 🏆
-      title: Abot-kaya dahil sa Disenyo
-      description: Ang mga water sports ay hindi dapat maging luho. Idinisenyo namin ang mga produktong nagbibigay ng performance na pangpropesyonal na grado sa presyong makatuwiran para sa mga pamilya, gabay, at maliliit na operator — hindi lamang para sa mga komersyal na fleet.
+    - emoji: "\U0001F30A"
+      title: 'Respect the Water'
+      description: 'A pool is a pressure vessel. Our drop-stitch cores are rated for 15 PSI — well above the working pressure of a backyard pool — so walls stay rigid at 20 cm height without bulging or flexing.'
+    - emoji: "\U0001F527"
+      title: 'Built to Last, Not to Replace'
+      description: 'The most sustainable pool is the one that does not end up in a landfill after one summer. Reinforced PVC, welded seams, and a 2-year warranty are chosen for longevity, not for a price point.'
+    - emoji: "\U0001F3C6"
+      title: 'Accessible by Design'
+      description: 'Yacht-grade engineering should not require a yacht budget. We deliver 10–15 PSI drop-stitch pools at a price that makes sense for families, resorts, and community programs — not just luxury buyers.'
+
 design:
-  tagline: Pilosopiya sa Disenyo
-  heading: |-
-    Iningineero para sa sukdulan<br />
-    <span class="text-sky-600">ng mga kondisyon</span>
+  tagline: 'Design Philosophy'
+  heading: "Engineered to a standard,<br />\n<span class=\"text-sky-600\">not to a price</span>"
   paragraphs:
-    - 'Ang bawat produkto ng olagoon ay nagsisimula sa isang tanong: <em>ano ang pinakamahirap na kondisyong haharapin nito?</em> Nagdidisenyo kami mula sa gilid papaloob, hindi mula sa gitna palabas.'
-    - 'Ang aming mga drop-stitch core ay may rating na 15 PSI — hindi dahil kulang ang 12 PSI para sa isang lawa, kundi dahil kayang harapin ng isang 15 PSI board ang biglaang alon nang hindi lumalambot. Ang aming mga tela ng deck ay tinukoy para sa komersyal na grado ng UV resistance — hindi dahil nagpa-paddle lahat ng customer sa tropiko, kundi dahil ang UV degradation ang #1 na sanhi ng maagang pagkasira.'
-    - Hindi kami nagdidisenyo ayon sa target na presyo. Nagdidisenyo kami ayon sa punto ng pagkabigo — pagkatapos ay gumagawa nang higit na mataas rito.
-  image: https://assets.olagoon.com/images/olagoon/hero/hero-4.webp
-  image_alt: disenyo at inhenyeriya ng olagoon
+    - 'Every OLagoon pool starts with one question: <em>what will this pool face after three summers of use?</em> We design from the failure point inward, then build well above it.'
+    - 'Our drop-stitch cores are rated for 15 PSI — not because a backyard pool needs it daily, but because a rigid wall does not flex when six kids cannonball in at once. Our PVC is specified for commercial UV resistance — not because every customer lives in Phoenix, but because UV degradation is the #1 cause of premature pool failure.'
+    - 'The result: a pool that holds its shape, holds its air, and holds its value. 15,000 units a year, shipped to 50+ countries, backed by a 2-year warranty.'
+  image: /images/olagoon/hero/lakeside-olagoon.webp
+  image_alt: 'OLagoon drop-stitch pool by the lake'
   stats:
     - value: '15'
-      label: rating ng<br />PSI core
-    - value: 1,500+
-      label: oras ng pagsubok<br />sa UV
-    - value: 10yr
-      label: tagal ng buhay<br />ng hull
+      label: 'PSI core<br />rating'
+    - value: '20cm'
+      label: 'rigid wall<br />height'
+    - value: '2yr'
+      label: 'warranty<br />included'

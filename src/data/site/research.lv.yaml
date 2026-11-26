@@ -1,46 +1,25 @@
-badge: Jaunākie pētījumi
-heading: Zināšanu centrs
-description: Padziļināti tehniski pētījumi par SUP un piepūšamo ūdens transportlīdzekļu materiāliem, konstrukcijām, drošības standartiem un ražošanu
+badge: Latest Research
+heading: Knowledge Center
+description: In-depth technical research on drop-stitch inflatable pool materials, construction, safety standards, and manufacturing
 topics:
   - slug: drop-stitch-technology
-    category: Tehnoloģijas
-    readTime: 8 min lasīšanas
+    category: Technology
+    readTime: 8 min read
   - slug: ce-certification-guide
-    category: Atbilstība
-    readTime: 7 min lasīšanas
-  - slug: sup-thickness-guide
-    category: Inženierija
-    readTime: 6 min lasīšanas
+    category: Compliance
+    readTime: 7 min read
   - slug: oem-buyer-guide
-    category: Iepirkums
-    readTime: 12 min lasīšanas
-  - slug: sup-manufacturing-process
-    category: Ražošana
-    readTime: 10 min lasīšanas
-  - slug: eva-foam-technology
-    category: Materiāli
-    readTime: 7 min lasīšanas
-  - slug: uv-printing-vs-eva-block
-    category: Tehnoloģijas
-    readTime: 6 min lasīšanas
+    category: Sourcing
+    readTime: 12 min read
   - slug: fusion-lamination-vs-glue
-    category: Ražošana
-    readTime: 8 min lasīšanas
-  - slug: sup-valve-types
-    category: Inženierija
-    readTime: 6 min lasīšanas
-  - slug: fin-systems-guide
-    category: Inženierija
-    readTime: 7 min lasīšanas
-  - slug: board-hull-design
-    category: Inženierija
-    readTime: 9 min lasīšanas
-  - slug: quality-testing-standards
-    category: Atbilstība
-    readTime: 8 min lasīšanas
-  - slug: sup-paddle-technology
-    category: Aprīkojums
-    readTime: 7 min lasīšanas
+    category: Manufacturing
+    readTime: 8 min read
   - slug: military-grade-pvc-specs
-    category: Materiāli
-    readTime: 8 min lasīšanas
+    category: Materials
+    readTime: 8 min read
+  - slug: quality-testing-standards
+    category: Compliance
+    readTime: 8 min read
+  - slug: uv-printing-vs-eva-block
+    category: Technology
+    readTime: 6 min read

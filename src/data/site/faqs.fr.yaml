@@ -1,37 +1,95 @@
 faqs:
-  - q: 'olagoon propose-t-il des services OEM/ODM pour les équipements nautiques gonflables ?'
-    a: "Oui. olagoon (exploité par Olagoon LLC, États-Unis, avec une production gérée par notre équipe opérationnelle de Qingdao) propose une personnalisation OEM et ODM complète — des plans 3D et de la sélection des matériaux drop-stitch à la production en série pour les marques internationales. Nous prenons en charge le marquage privé, l'emballage personnalisé et la documentation de conformité pour BSCI, CE et d'autres certifications."
-  - q: "Quelles certifications olagoon détient-il pour la fabrication d'équipements nautiques gonflables ?"
-    a: "L'usine d'olagoon est certifiée et tous nos produits sont conformes aux normes CE. Nous détenons également la certification de conformité sociale BSCI exigée par les grands distributeurs européens et nord-américains. La conformité REACH et RoHS est disponible sur demande."
-  - q: 'Quelle est la quantité minimale de commande (MOQ) pour les paddles gonflables en OEM ?'
-    a: "Les modèles SUP standards commencent à 50 unités. Personnalisation du logo : 50 unités. Emballage personnalisé : 100 unités et plus. Les moules personnalisés et les grands projets de marque privée nécessitent un minimum de 200 unités selon la complexité. Des commandes d'essai sont possibles pour évaluation avant tout engagement important."
-  - q: 'Quels matériaux olagoon utilise-t-il pour la production de SUP gonflables ?'
-    a: 'Nous utilisons du PVC de qualité marine (0,9 mm–1,2 mm) avec une âme drop-stitch double couche pour nos SUP. Les matériaux sont sourcés auprès de fournisseurs et testés pour leur résistance à la traction, leur résistance aux UV et leur flexibilité à basse température avant la production.'
-  - q: 'olagoon peut-il gérer des commandes de gros en grand volume pour des acheteurs internationaux ?'
-    a: 'Oui. Notre usine de 12 000 m² produit plus de 15 000 unités par an avec une équipe dédiée de plus de 200 ouvriers qualifiés. Nous expédions vers plus de 50 pays et gérons la logistique, notamment FOB Qingdao, CIF vers les grands ports et la livraison porte à porte via nos partenaires de fret.'
-  - q: 'Quel est le délai de production pour les SUP gonflables en OEM ?'
-    a: "Le délai standard de production OEM est de 30 à 45 jours après validation de l'échantillon. Les projets de moules personnalisés prennent généralement 60 à 90 jours, incluant le prototypage 3D, la fabrication du moule et la validation des échantillons. Des commandes urgentes sont possibles pour nos partenaires établis disposant d'un stock de matériaux confirmé."
-  - q: 'olagoon fournit-il du matériau drop-stitch de qualité militaire pour les planches de paddle ?'
-    a: "Oui. Notre âme drop-stitch utilise un tissu en PVC de spécification militaire avec une résistance à la traction supérieure à 2000 N/5cm. Le procédé de laminage double couche assure une rétention d'air à 15 PSI avec moins de 2 % de perte de pression sur 24 heures — dépassant les exigences en matière d'étanchéité à l'air."
-  - q: "Comment olagoon garantit-il l'étanchéité à l'air et la résistance aux UV de ses gonflables ?"
-    a: 'Chaque tube gonflable subit un test de maintien de pression de 24 à 48 heures à 1,25 fois le PSI nominal avant expédition. La résistance aux UV est validée par 1000 heures de vieillissement artificiel accéléré avec moins de 10 % de dégradation de la résistance à la traction. Notre composé PVC intègre des stabilisants UV et des additifs antioxydants pour une durabilité extérieure à long terme.'
-  - q: "olagoon peut-il aider à la conception de l'emballage et au développement d'une marque privée ?"
-    a: "Oui. Nous proposons un emballage de marque privée clé en main : boîtes de vente à design personnalisé, étiquettes suspendues, manuels d'instructions et cartons d'expédition à votre marque. Notre équipe de design interne peut développer une identité visuelle complète pour les nouveaux entrants sur le marché — de l'application du logo à l'expérience de déballage."
-  - q: "olagoon accepte-t-il les audits d'usine de la part d'acheteurs internationaux ?"
-    a: "Absolument. Nous accueillons favorablement les audits d'usine sur site et par des tiers, notamment BSCI, SMETA et les inspections de conformité sociale spécifiques à chaque client. Notre site de 12 000 m² est prêt pour les audits avec des processus QC documentés, la traçabilité des matériaux et les registres de santé et de sécurité des travailleurs. Des visites virtuelles d'usine sont disponibles pour la qualification initiale."
-  - q: "Qu'est-ce que la technologie drop-stitch utilisée dans les planches de paddle olagoon ?"
-    a: 'Le drop-stitch est une structure textile où des milliers de fils de polyester relient les couches supérieure et inférieure de PVC. Gonflé à 12–15 PSI, ces fils maintiennent les panneaux à une distance fixe, créant une plateforme rigide et plane. olagoon utilise un drop-stitch laminé par fusion — où les fils sont thermosoudés dans le PVC — pour une résistance supérieure au délaminage par rapport aux âmes collées traditionnelles.'
-  - q: 'Le paddle est-il difficile à apprendre ?'
-    a: "Pas du tout. La plupart des débutants arrivent à se tenir debout et à pagayer dès leur première session. Notre série SUP All-Around propose des plateformes extra-larges et stables, conçues spécialement pour les pagayeurs débutants. Commencez sur de l'eau calme et vous naviguerez en quelques minutes."
-  - q: "Puis-je l'utiliser dans l'océan ?"
-    a: "Oui. Les planches de paddle olagoon sont conçues pour un usage en océan, en lac et en rivière. Notre série Touring affronte les vagues côtières, et toutes nos planches utilisent un PVC de qualité marine qui résiste à la corrosion de l'eau salée. Rincez à l'eau douce après une utilisation en mer."
-  - q: 'Combien de temps faut-il pour le gonfler ?'
-    a: 'Avec la pompe double action incluse, la plupart des planches se gonflent à 12–15 PSI en moins de 5 minutes. Notre option de pompe électrique réduit ce temps à moins de 2 minutes. Le dégonflage et le rangement prennent environ 3 minutes.'
-  - q: 'Puis-je voyager avec un SUP gonflable ?'
-    a: 'Absolument. Chaque planche olagoon se range dans un sac de transport format sac à dos conforme aux exigences de bagages des compagnies aériennes. Avec seulement 18–22 lbs, elle est facile à transporter à la plage, au lac ou dans les aéroports.'
-  - q: 'Quelle est la limite de poids ?'
-    a: "Nos SUP All-Around supportent jusqu'à 220 lbs. Les séries Touring et Yoga supportent jusqu'à 250 lbs. Pour un usage en tandem ou des charges plus lourdes, nos grandes planches de paddle offrent des options à plus haute capacité."
-  - q: "Qu'y a-t-il dans la boîte ?"
-    a: 'Chaque SUP olagoon comprend la planche, un sac de transport, une pompe manuelle double action, un aileron amovible, un leash spirale et un kit de réparation. Certains modèles proposent également une option de pagaie en carbone en supplément.'
-  - q: 'Proposez-vous des offres groupées ?'
-    a: "Oui. Nous proposons des packs sélectionnés comme l'Explorer Starter Pack et le Family Fun Pack qui vous font économiser jusqu'à $198 par rapport à l'achat séparé des articles. Découvrez toutes nos offres sur la page Bundle Deals."
+  - q: Does OLagoon provide OEM/ODM services for inflatable pools?
+    a: >-
+      Yes. OLagoon (operated by Olagoon LLC, USA, with manufacturing managed by
+      our Qingdao Operation Team) offers full-scale OEM and ODM customization —
+      from 3D blueprints and drop-stitch material selection to bulk production
+      for global brands. We handle private labeling, custom packaging, and
+      compliance documentation for BSCI, CE, and other certifications.
+  - q: What certifications does OLagoon hold for inflatable pool manufacturing?
+    a: >-
+      OLagoon's factory is certified and all pools meet CE standards. We also
+      hold BSCI social compliance certification required by major European and
+      North American retailers. REACH and RoHS compliance available on request.
+  - q: What is the minimum order quantity (MOQ) for OEM inflatable pools?
+    a: >-
+      Samples and trial orders start at 5-10 units for evaluation. Standard
+      production runs start at 50 units. Logo customization: 50 units. Custom
+      packaging: 100+ units. Custom molds and deep private-label projects
+      require a minimum of 200 units depending on complexity.
+  - q: Which materials does OLagoon use for inflatable pool production?
+    a: >-
+      We use marine-grade laminated PVC (0.9 mm-1.2 mm) with a double-layer
+      drop-stitch core. Materials are tested for tensile strength, UV
+      resistance, and low-temperature flexibility before production.
+  - q: Can OLagoon handle large-volume wholesale orders for international buyers?
+    a: >-
+      Yes. Our 12,000 m² factory produces over 15,000 units annually with a
+      dedicated team of 200+ skilled workers. We ship to 50+ countries and
+      manage logistics including FOB Qingdao, CIF major ports, and door-to-door
+      delivery through our freight partners.
+  - q: What is the lead time for OEM inflatable pool production?
+    a: >-
+      Samples ship within 15-20 working days from approval. Production runs
+      take 12-16 weeks for 50-100 units, 10-14 weeks for 300-1,000 units, and
+      8-12 weeks above 1,000 units, from approval to FOB Qingdao. Custom mold
+      projects add 15-20 days for tooling. Rush orders available for
+      established partners with confirmed material stock.
+  - q: Does OLagoon supply military-grade drop-stitch material for pools?
+    a: >-
+      Yes. Our drop-stitch core uses military-spec PVC fabric with tensile
+      strength exceeding 2000 N/5cm. The double-layer lamination process
+      achieves air-holding retention at 15 PSI with less than 2% pressure loss
+      over 24 hours — exceeding requirements for air-holding integrity.
+  - q: How does OLagoon ensure the air-tightness and UV resistance of its pools?
+    a: >-
+      Every pool undergoes a 24-48 hour pressure-hold test at 1.25x rated PSI
+      before shipment. UV resistance is validated via 1000-hour accelerated
+      weathering with less than 10% tensile strength degradation. Our PVC
+      compound includes UV stabilizers and anti-oxidant additives for
+      long-term outdoor durability.
+  - q: What is the drop-stitch technology used in OLagoon pools?
+    a: >-
+      Drop-stitch is a fabric construction where thousands of polyester threads
+      connect the top and bottom PVC layers. When inflated to 10-15 PSI, these
+      threads pull the panels to a fixed distance, creating rigid, flat walls
+      and floors. OLagoon uses fusion-laminated drop-stitch — where threads are
+      thermally bonded into the PVC — for superior delamination resistance vs.
+      traditional glue-bonded cores.
+  - q: How long does it take to set up an OLagoon pool?
+    a: >-
+      Plan on 30-45 minutes: unbox, lay the Ground Mat, roll out the pool,
+      inflate with the included pump to 10-15 PSI, and fill with water. Two
+      people make it easiest, and no tools are required.
+  - q: How do I keep the water clean?
+    a: >-
+      The Sand Filter Pump circulates and clarifies the water automatically,
+      and the Thermal Pool Cover keeps out debris between swims. With regular
+      filtration and a fitted cover, one fill typically stays clean for weeks.
+  - q: Can I place the pool on grass, concrete, or a deck?
+    a: >-
+      Yes — any level, debris-free surface works. Always use the Ground Mat
+      underneath to protect the base. Remember that a filled pool is heavy
+      (the Grand Lagoon holds about 12,500 liters), so decks and balconies
+      must be verified for the load first.
+  - q: How do I store the pool for winter?
+    a: >-
+      Drain, clean, and fully dry the pool, then fold it and store it in the
+      included carry bag in a frost-free, dry place. Also drain and store the
+      Sand Filter Pump indoors. Properly stored, the pool will be ready for
+      next season.
+  - q: Are OLagoon pools safe for kids?
+    a: >-
+      Yes, with constant adult supervision. The rigid 20cm drop-stitch walls
+      and stable Entry Steps make getting in and out safe and easy. Never dive,
+      and always cover or supervise the pool when children are nearby.
+  - q: What warranty do OLagoon pools carry?
+    a: >-
+      Every OLagoon pool is backed by a 2-year warranty covering manufacturing
+      defects — seams, valves, and material integrity. A repair kit is included
+      for minor punctures, and replacement parts are available on request.
+  - q: Do you offer bundle deals?
+    a: >-
+      Yes. We offer curated bundles like the Family Fun Pack (Family Oasis
+      Pool + Sand Filter Pump + Entry Steps) that save you up to $198 compared
+      to buying items separately. Browse all bundles on the products page.

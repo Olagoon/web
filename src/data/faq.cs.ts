@@ -1,4 +1,1 @@
-import yamlData from './faq-cs.yaml';
-import type { FaqRecord } from './faq';
-
-export const faqsCs = yamlData as FaqRecord[];
+export { faqs as faqsCs } from './faq';

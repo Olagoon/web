@@ -1,13 +1,13 @@
 cards:
   - badge: PVC
-    title: 'Couche PVC qualité marine'
-    description: 'Tissu PVC laminé multicouche conçu pour les environnements marins. Testé contre les UV, l’abrasion et les perforations.'
-    image: 'https://assets.olagoon.com/images/olagoon/tech/tech-pvc-material.webp'
+    title: Marine-Grade PVC Layer
+    description: Multi-layer laminated PVC fabric built for seasons of outdoor use. Tested for UV, abrasion, and puncture resistance.
+    image: /images/olagoon/tech/tech-pvc-material.webp
   - badge: DS
-    title: Noyau drop-stitch
-    description: 'Des milliers de fils internes relient les couches supérieure et inférieure, créant une structure rigide à haute pression de 12–15 PSI.'
-    image: 'https://assets.olagoon.com/images/olagoon/tech/tech-drop-stitch.webp'
+    title: Drop-Stitch Core
+    description: Thousands of internal threads lock the floor and wall layers together, creating a rigid, high-pressure shell at 10-15 PSI.
+    image: /images/olagoon/tech/tech-drop-stitch.webp
   - badge: RR
-    title: 'Bord de rail renforcé'
-    description: 'Un rail fusionné en double couche protège contre les frottements de quai, les échouages sur la plage et les impacts latéraux.'
-    image: 'https://assets.olagoon.com/images/olagoon/tech/tech-hypalon-tubes.webp'
+    title: Fusion-Welded Seams
+    description: Double-layered fusion-welded rails and seams keep air locked in for weeks of continuous use with minimal top-ups.
+    image: /images/olagoon/tech/tech-hypalon-tubes.webp

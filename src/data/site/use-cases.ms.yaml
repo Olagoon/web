@@ -1,51 +1,49 @@
 cases:
-  - id: beginner
-    title: Sukan Air untuk Pemula
-    desc: Papan SUP stabil untuk pengguna kali pertama.
+  - id: small-backyard
+    title: Small Backyard Plunge
+    desc: A compact rigid pool for tight spaces.
     scenario: >-
-      Satu keluarga melawat tasik pada hujung minggu mahu mencuba paddle
-      boarding. Mereka memerlukan kelengkapan yang stabil dan mudah
-      dilancarkan dengan panduan keselamatan yang jelas.
+      A couple with a small townhouse yard wants a real swimming pool for
+      cooling off and relaxing after work, without permanent construction.
     solution: >-
-      SUP Explorer 11 menyediakan kestabilan badan lebar untuk pemula. Life
-      Vest Classic memastikan keapungan tersijil CE. Dual-Action Pump
-      mengepam kedua-dua papan dalam kira-kira 15–20 minit.
+      The Compact Plunge Pool fits a 2m x 1.5m footprint and sets up on any
+      level surface. The Ground Mat protects the base, and the Thermal Pool
+      Cover keeps the water warm and clean between swims.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
+      - Compact Plunge Pool
+      - Ground Mat
+      - Thermal Pool Cover
+    image: /images/olagoon/products/compact-plunge.webp
 
-  - id: outdoor
-    title: Penerokaan Luar
-    desc: Papan SUP mudah alih untuk perjalanan sungai, tasik dan pantai.
+  - id: family-fun
+    title: Family Backyard Fun
+    desc: A full-size pool for the whole family.
     scenario: >-
-      Seorang peminat aktiviti luar merancang perjalanan seminggu di sungai
-      dan memerlukan papan yang kecil apabila dikemas, boleh dipam di tapak
-      perkhemahan dan mampu mengharusi pelbagai arus.
+      A family of four wants a pool the kids can actually swim and play in all
+      summer, with clean water and easy entry for little ones.
     solution: >-
-      SUP Explorer 11 muat dalam satu beg galas dan dipam dalam kira-kira
-      8–12 minit menggunakan Dual-Action Pump yang disertakan. Binaan
-      drop-stitchnya mampu mengharusi tasik, sungai perlahan dan
-      pendayungan pesisir.
+      The Family Oasis Pool offers a 3m x 2m swim area with rigid 20cm
+      drop-stitch walls. The Sand Filter Pump keeps the water clear, and the
+      Entry Steps give children a safe, stable way in and out.
     products:
-      - SUP Explorer 11
-      - Carbon Paddle
-      - Life Vest Classic
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
+      - Family Oasis Pool
+      - Sand Filter Pump
+      - Entry Steps
+    image: /images/olagoon/products/family-oasis.webp
 
-  - id: family
-    title: Rekreasi Keluarga
-    desc: Papan SUP stabil untuk perjalanan sehari dan sukan air.
+  - id: entertaining
+    title: Entertaining & Hosting
+    desc: A statement lagoon for gatherings.
     scenario: >-
-      Satu keluarga berempat mahu papan SUP yang stabil untuk lawatan tasik
-      hujung minggu dan pendayungan serentak.
+      A homeowner who loves weekend gatherings wants a showpiece pool big
+      enough for guests of all ages, plus reliable water care with zero fuss.
     solution: >-
-      SUP Explorer 11 menyediakan papan stabil berbadan lebar untuk semua
-      peringkat umur. Life Vest Classic mengekalkan semua orang selamat.
-      Dual-Action Pump mengepam semua papan dalam kira-kira 15–20 minit.
+      The Grand Lagoon Pool delivers a 5m x 2.5m swim zone engineered like a
+      yacht deck. The Sand Filter Pump and Thermal Pool Cover keep the water
+      party-ready, and the Entry Steps complete the resort feel.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
+      - Grand Lagoon Pool
+      - Sand Filter Pump
+      - Entry Steps
+      - Thermal Pool Cover
+    image: /images/olagoon/products/grand-lagoon.webp

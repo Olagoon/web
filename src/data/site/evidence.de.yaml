@@ -1,413 +1,158 @@
-badge: 'Nachweise und Ergebnisse'
-heading: 'Belege'
-description: 'Echte Fallstudien, Zertifizierungen, Testdaten und Einsatzfotos, die unsere Fertigungskompetenz und Produktqualität belegen.'
+badge: Proof & Results
+heading: Evidence
+description: Real case studies, certifications, test data, and deployment photos that demonstrate our drop-stitch inflatable pool manufacturing capability and product quality.
 
 case_studies:
   - id: retail-private-label
-    client: 'Europäischer Outdoor-Einzelhändler'
-    product: 'Eigenmarken-SUP-Linie'
-    industry: 'Einzelhandel'
-    challenge: 'Ein europäischer Outdoor-Einzelhändler benötigte eine Eigenmarken-SUP-Linie mit individuellen Deck-Grafiken, umweltfreundlichem PVC und verkaufsfertiger Verpackung — alles geliefert in 60 Tagen.'
-    solution: 'Wir entwickelten individuelle Digitaldruckdaten, beschafften REACH-konformes PVC und verkürzten die Bemusterung von 3 Runden auf 1, indem wir das Designteam direkt in unserer Qingdao-Fabrik stationierten.'
-    result: '55 Tage vom unterschriebenen Auftrag bis zum Verladen FOB. 2.400 Einheiten über 4 SKUs. Folgebestellung aufgegeben, bevor der erste Container ankam.'
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
-    tags: [OEM, Retail, SUP]
+    client: European Home & Garden Retailer
+    product: Private-Label Drop-Stitch Pool Line
+    industry: Retail
+    challenge: A major European home and garden retailer needed a private-label inflatable pool line with distinctive sidewall graphics, REACH-compliant PVC, and retail-ready packaging across 4 SKUs.
+    solution: Developed custom sidewall print artwork, sourced REACH-compliant drop-stitch PVC, and compressed sampling from 3 rounds to 1 by co-locating the retailer's design team at our Qingdao manufacturing operation.
+    result: 55 days from signed PO to FOB. 2,400 units across 4 SKUs covering Compact Plunge and Family Oasis formats. Repeat order placed before the first container arrived.
+    image: /images/olagoon/products/family-oasis.webp
+    tags: [OEM, Retail, Pool]
     outcome_metrics:
-      - label: 'Lieferzeit'
-        value: '55 Tage'
-      - label: 'Einheiten'
+      - label: Lead Time
+        value: 55 days
+      - label: Units
         value: 2,400
-      - label: 'SKUs'
+      - label: SKUs
         value: '4'
 
-  - id: startup-custom-sup-line
-    client: 'US-Wassersport-Startup'
-    product: 'Individuelle SUP-Linie'
-    industry: 'Startup / Einzelhandel'
-    challenge: 'Ein US-Wassersport-Startup benötigte ein hochleistungsfähiges Drop-Stitch-SUP mit individuellem Deck-Design, Co-Branding-Verpackung und BSCI-Zertifizierung für die Listung im Einzelhandel.'
-    solution: 'Wir passten eine bestehende SUP-Form mit modifiziertem Rocker-Profil an, entwickelten die Co-Branding-Verpackungsgestaltung und stellten die vollständige BSCI-Audit-Dokumentation bereit.'
-    result: 'Erfolgreich in 3 großen US-Outdoorketten gelistet. Über 5.000 Einheiten im ersten Jahr mit 98% Abverkaufsquote.'
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
-    tags: [OEM, SUP, BSCI]
+  - id: resort-pool-fleet
+    client: Caribbean Luxury Resort Group
+    product: UV-Stabilized Pool Fleet + Filtration
+    industry: Hospitality / Tourism
+    challenge: A 5-property Caribbean luxury resort group needed a unified fleet of drop-stitch pools with consistent branding, UV-stabilized materials for tropical sun, integrated sand filter pump systems, and a multi-year replacement plan.
+    solution: Designed a custom Grand Lagoon and Family Oasis pool fleet package with UV-stabilized PVC, resort-branded sidewall graphics, and matched Sand Filter Pump and Thermal Pool Cover sets. Delivered a phased schedule across 5 properties with staff training and a dedicated spare parts kit per resort.
+    result: 180 units delivered across 5 properties. 40% reduction in per-unit cost versus previous pool vendors. Repeat order placed for 2 new properties.
+    image: /images/olagoon/hero/pool-lagoon-hero.webp
+    tags: [OEM, Hospitality]
     outcome_metrics:
-      - label: 'Einzelhandelsketten'
-        value: '3'
-      - label: 'Einheiten im ersten Jahr'
-        value: 5,000+
-      - label: 'Abverkauf'
-        value: 98%
-
-  - id: australian-sup-distributor
-    client: 'Australischer Distributor'
-    product: 'CE-zertifizierte SUP-Kollektion'
-    industry: 'Maritime / Einzelhandel'
-    challenge: 'Ein australischer Distributor benötigte eine CE-zertifizierte SUP-Kollektion mit individuellen Deck-Farben, aufgewerteter PVC-Option und Konformität mit der australischen Norm AS 1799.'
-    solution: 'Wir produzierten Vorserienmuster in 4 Farbvarianten, beschafften Militär-Grade-PVC und koordinierten die AS-1799-Konformitätsprüfung durch eine dritte Prüfstelle.'
-    result: 'SUP-Kollektion mit 3 Modellen im AU/NZ-Markt eingeführt. Danach folgte ein Vertrag mit einer Einzelhandelskette für 12 Geschäfte.'
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    tags: [OEM, SUP, Behörden]
-    outcome_metrics:
-      - label: 'Eingeführte Modelle'
-        value: '3'
-      - label: 'Geschäfte'
-        value: 12
-      - label: 'Konformität'
-        value: AS 1799
-
-  - id: caribbean-resort-fleet
-    client: 'Karibischer Luxusresort-Gruppe'
-    product: 'Resort-Flotte — SUPs'
-    industry: 'Gastronomie / Tourismus'
-    challenge: 'Eine Gruppe mit 5 Resorts benötigte eine einheitliche Flotte an Miet-Equipment für Wassersport — SUP Boards — mit konsistentem Branding, UV-beständigen Materialien für die tropische Sonne und einem 5-Jahres-Ersatzplan.'
-    solution: 'Wir entwickelten ein individuelles Flottenpaket mit 3 SUP-Modellen, UV-stabilisiertem PVC, Resort-gebrandeten Deck-Grafiken und einem gestaffelten Lieferplan. Schulung des Personals und ein dediziertes Ersatzteil-Kit pro Resort inklusive.'
-    result: '180 Einheiten in 5 Resorts geliefert. Folgebestellung für 2 neue Standorte. 40% Kostensenkung pro Einheit gegenüber früheren Lieferanten.'
-    image: https://assets.olagoon.com/images/olagoon/hero/hero-scenic.webp
-    tags: [OEM, SUP, Hotellerie]
-    outcome_metrics:
-      - label: 'Gelieferte Einheiten'
+      - label: Units Delivered
         value: 180
-      - label: 'Resorts'
+      - label: Properties
         value: '5'
-      - label: 'Kostensenkung'
+      - label: Cost Reduction
         value: 40%
     before_after:
-      - label: 'Jährliche Board-Ersatzkosten'
+      - label: Annual Pool Replacement Cost
         before: $28,000
         after: $12,000
-      - label: 'Flottenausfall (Tage/Jahr)'
+      - label: Pool Downtime (days/year)
         before: 45
         after: 8
-      - label: 'Gästezufriedenheit'
+      - label: Guest Satisfaction Score
         before: 3.8/5
         after: 4.6/5
-    video_url: ''
 
-  - id: search-rescue-sup-fleet
-    client: 'Maritime Behörde aus Südostasien'
-    product: 'Patrouillen- und Rettungs-SUP-Flotte'
-    industry: 'Behörden / Maritime Sicherheit'
-    challenge: 'Eine staatliche maritime Behörde benötigte 20 Patrouillen- und Rettungs-SUPs mit hochsichtbaren Decks, integrierten Halterungen für Kommunikationstechnik und CE-zertifizierter Konstruktion.'
-    solution: 'Wir fertigten 20 SUPs in Militär-PVC-Qualität, mit verstärkten D-Ringen und vorinstallierten Positionslicht-Sets. Das Werksinspektionsteam war bei den Seetests vor Ort. Vollständiges Konformitäts-Dokumentationspaket bereitgestellt.'
-    result: 'Auftrag in 4 Monaten geliefert. Flotte im Einsatz für Grenzpatrouillen, Suche und Rettung sowie Katastrophenhilfe an 3 regionalen Stützpunkten.'
-    image: https://assets.olagoon.com/images/olagoon/hero/hero-5.webp
-    tags: [OEM, SUP, Behörden]
+  - id: dtc-ecommerce-pool-brand
+    client: US DTC Pool Brand
+    product: 3-Model Drop-Stitch Pool Line
+    industry: E-commerce / Retail
+    challenge: A fast-growing US direct-to-consumer brand needed a complete inflatable pool package (pool, Sand Filter Pump, Thermal Pool Cover, Ground Mat) with premium packaging designed for e-commerce fulfilment direct to consumer doorsteps without transit damage.
+    solution: Developed a co-branded 3-model line spanning Compact Plunge, Family Oasis, and Grand Lagoon with proprietary drop-stitch cores rated for higher PSI, and retail-ready double-wall corrugated boxes with insert padding. Integrated QR-code-based authenticity and warranty registration.
+    result: 3-model pool line launched in 75 days. 15,000+ units sold in the first 12 months. 4.8/5 average rating on 2,000+ reviews. 0.3% transit damage rate.
+    image: /images/olagoon/products/compact-plunge.webp
+    tags: [OEM, DTC, E-commerce]
     outcome_metrics:
-      - label: 'Patrouillen-SUPs'
-        value: '20'
-      - label: 'Lieferung'
-        value: '4 Monate'
-      - label: 'Stützpunkte'
+      - label: Models
         value: '3'
-
-  - id: european-dtc-ecommerce
-    client: 'Europäische DTC-Wassersportmarke'
-    product: 'Gebrandete SUP- und Zubehör-Linie'
-    industry: 'E-Commerce / Einzelhandel'
-    challenge: 'Eine schnell wachsende DTC-Wassersportmarke benötigte ein komplettes SUP-Paket (Board, Pumpe, Paddel, Leash, Tasche) mit Premium-Verpackung, ausgelegt auf den E-Commerce-Versand — direkt an den Endkunden via DHL/FedEx ohne Transportschäden.'
-    solution: 'Wir entwickelten eine Co-Branding-Produktlinie mit individuell geformtem EPS-Kern, proprietärer Drop-Stitch-Technologie für höheren Luftdruck und verkaufsfertigen doppelwelligen Kartons mit Einlagen. Integration von QR-Code-basierter Echtheitsprüfung und Garantieregistrierung.'
-    result: 'SUP-Linie mit 3 Modellen in 75 Tagen eingeführt. Über 15.000 Einheiten in den ersten 12 Monaten. 4,8★ Durchschnittsbewertung bei über 2.000 Rezensionen. Schadensquote im Transport von 0,3%.'
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
-    tags: [OEM, SUP, DTC, E-Commerce]
-    outcome_metrics:
-      - label: 'Modelle'
-        value: '3'
-      - label: 'Einheiten'
+      - label: First Year Units
         value: 15,000+
-      - label: 'Durchschnittsbewertung'
-        value: 4,8★
-      - label: 'Schadensquote'
-        value: 0,3%
+      - label: Avg Rating
+        value: 4.8/5
+      - label: Transit Damage
+        value: 0.3%
 
-  - id: mediterranean-resort-fleet
-    client: 'Mediterrane Strandresort-Kette'
-    product: 'Resort-Flotte — SUPs + Zubehör'
-    industry: 'Gastronomie / Tourismus'
-    challenge: 'Eine mediterrane Resort-Kette mit 3 Anlagen wollte ein einheitliches Wasseraktivitätenprogramm in ihren Strandhotels starten und benötigte dazu 120 SUPs mit individuellem Branding, mehrsprachigen Sicherheitskarten und einem Rotationssystem für die Wartung.'
-    solution: 'Wir gestalteten ein resortspezifisches Flottenpaket mit UV-beständigem Marine-PVC, Hotel-gebrandeten Deck-Grafiken in 3 Farbschemata und einem farbcodierten Wartungsetikettiersystem. Schulung des Personals und vierteljährliche Ersatzteilnachlieferung inklusive.'
-    result: 'Flotte in 3 Resorts im Einsatz. Umsatz der Wasseraktivitäten stieg in der ersten Saison um 210%. Gästezufriedenheit bei den Annehmlichkeiten von 4,1 auf 4,7/5 gestiegen.'
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp
-    tags: [OEM, SUP, Hotellerie, Resort]
+  - id: distributor-ce-certified-range
+    client: Australian Pool Distributor
+    product: CE-Certified 3-Model Pool Range
+    industry: Distribution / Retail
+    challenge: An Australian distributor required a CE-certified 3-model drop-stitch pool range with AS 1926.1 safety compliance testing, custom sidewall colours, and pool fencing and safety documentation for the Australian retail market.
+    solution: Produced pre-production samples in 4 colour variants, coordinated third-party AS 1926.1 safety compliance testing alongside CE conformity assessment, and built a complete range spanning Compact Plunge, Family Oasis, and Grand Lagoon with Entry Steps and accessory bundles.
+    result: CE-certified 3-model pool range launched in the Australian market. Secured a 12-store retail chain contract in the first season.
+    image: /images/olagoon/products/grand-lagoon.webp
+    tags: [OEM, Pool, Compliance]
     outcome_metrics:
-      - label: 'Gelieferte SUPs'
-        value: '120'
-      - label: 'Resorts'
+      - label: Models Launched
         value: '3'
-      - label: 'Umsatzsteigerung'
-        value: 210%
-      - label: 'Gäste-Score'
-        value: '4,7/5'
-    before_after:
-      - label: 'Umsatz Wasseraktivitäten (jährlich)'
-        before: $45,000
-        after: $140,000
-      - label: 'Equipment-Ersatzquote'
-        before: 35%
-        after: 8%
-      - label: 'Gästezufriedenheit (Ausstattung)'
-        before: 4.1/5
-        after: 4.7/5
+      - label: Retail Stores
+        value: 12
+      - label: Compliance
+        value: AS 1926.1
 
-  - id: australian-paddle-club
-    client: 'Australischer Paddle-Club-Verband'
-    product: 'Club-Flotte — SUPs + Sicherheitsausrüstung'
-    industry: 'Freizeit / Bildung'
-    challenge: 'Ein Verband mit 15 Clubs musste das Equipment der Mitgliedsklubs vereinheitlichen — mit robusten, einsteigerfreundlichen SUP Boards, CE-zertifizierten Rettungswesten und einem zentralen Beschaffungsmodell zur Kostensenkung pro Club.'
-    solution: 'Wir standardisierten eine Club-Flotte mit 3 Stufen (Einsteiger, Fortgeschrittene, Trainer). Design von Deck-Grafiken in Clubfarben mit Club-Logos. Zentrallager mit vierteljährlicher Verteilung an die Clubs eingerichtet.'
-    result: '350 Einheiten über 15 Clubs. 28% Kostensenkung durch gebündelte Beschaffung. 92% der Mitglieder zufrieden mit der Equipment-Qualität.'
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
-    tags: [OEM, SUP, Club, Bildung]
+  - id: community-hoa-program
+    client: US HOA / Residential Community Program
+    product: Communal Pool Installations - Grand Lagoon
+    industry: Community / Real Estate
+    challenge: A US homeowners association wanted to bring communal swimming to a residential community without permanent in-ground construction, requiring durable shared-use pools, phased deliveries across neighborhoods, and a maintenance program residents could rely on.
+    solution: Deployed Grand Lagoon communal pool installations with Sand Filter Pump circulation, Thermal Pool Covers, and Ground Mats at each site. Delivered in phased waves aligned with neighborhood occupancy, with Entry Steps for safe access and a scheduled seasonal maintenance plan.
+    result: Multiple communal pool installations completed across the community on a phased delivery schedule. Resident satisfaction with the amenity reached 92% and the program became a model for neighboring HOAs.
+    image: /images/olagoon/hero/lakeside-olagoon.webp
+    tags: [Community, HOA]
     outcome_metrics:
-      - label: 'Ausgestattete Clubs'
-        value: '15'
-      - label: 'Gelieferte Einheiten'
-        value: '350'
-      - label: 'Kostensenkung'
-        value: 28%
-      - label: 'Mitgliederzufriedenheit'
+      - label: Installations
+        value: Phased
+      - label: Resident Satisfaction
         value: 92%
-
-  - id: european-lake-rental
-    client: 'Europäischer See-Resort- und Verleihbetreiber'
-    product: 'Verleih-Flotte — SUPs, Rettungswesten, Zubehör'
-    industry: 'Verleih / Tourismus'
-    challenge: 'Ein See-Resort-Betreiber mit 6 Verleihstationen benötigte eine besonders robuste Verleih-SUP-Flotte mit schnell trocknenden Systemen, beschädigungsresistenter Konstruktion und einem planbaren mehrjährigen Ersatzrhythmus.'
-    solution: 'Wir lieferten Verleih-SUPs in kommerzieller Qualität mit verstärkten Seitenbändern, schnell trocknenden EVA-Decks und UV-stabilisiertem PVC. Entwicklung eines farbcodierten Systems zur Verschleißverfolgung mit jährlichen Zustandsberichten.'
-    result: '200 SUPs an 6 Stationen im Einsatz. Jährliche Wartungskosten um 55% gesenkt. Lebensdauer des Equipments von 2 auf 4 Jahre verlängert.'
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-flowing-lotus-1-1200w.webp
-    tags: [OEM, SUP, Verleih, Hotellerie]
-    outcome_metrics:
-      - label: 'Verleihstationen'
-        value: '6'
-      - label: 'Eingesetzte SUPs'
-        value: '200'
-      - label: 'Wartungskosten'
-        value: '-55%'
-      - label: 'Lebensdauer'
-        value: '4 Jahre'
-    before_after:
-      - label: 'Durchschnittliche Board-Lebensdauer'
-        before: 2 Jahre
-        after: 4 Jahre
-      - label: 'Jährliche Wartung pro Board'
-        before: $85
-        after: $38
-      - label: 'Verleihumsatz pro Board/Saison'
-        before: $1,200
-        after: $1,850
-
-  - id: canadian-retail-chain
-    client: 'Kanadische Outdoor-Einzelhandelskette'
-    product: 'Eigenmarken-SUP- und Zubehör-Linie'
-    industry: 'Einzelhandel'
-    challenge: 'Ein kanadischer Outdoor-Einzelhändler mit 25 Geschäften benötigte eine exklusive Eigenmarken-SUP-Kollektion mit zweisprachiger Verpackung (Französisch/Englisch), Materialspezifikationen für Kälte und Konformität mit den kanadischen Bootsvorschriften.'
-    solution: 'Wir entwickelten 4 SUP-Modelle mit kälteflexiblem PVC-Compound bis -15°C. Produktion einer zweisprachigen Verkaufsverpackung mit kanadischen regulatorischen Kennzeichnungen. Bereitstellung von Displayständern und Schulungsmaterialien für das Personal.'
-    result: 'Exklusive Linie in 25 Geschäften gestartet. 3.800 Einheiten in der ersten Saison verkauft. Der Händler verlängerte den Vertrag um 3 Jahre mit erweiterter SKU-Anzahl.'
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    tags: [OEM, SUP, Retail, Eigenmarke]
-    outcome_metrics:
-      - label: 'Geschäfte'
-        value: '25'
-      - label: 'Einheiten erste Saison'
-        value: 3,800
-      - label: 'Vertrag'
-        value: '3-Jahres-Verlängerung'
-
-  - id: middle-east-distributor
-    client: 'Wassersport-Distributor aus dem Nahen Osten'
-    product: 'Komplette Produktlinie — SUPs & Zubehör'
-    industry: 'Vertrieb / Maritim'
-    challenge: 'Ein im GCC ansässiger Distributor wollte die exklusiven Rechte zur Vertretung der kompletten olagoon-Produktlinie in 6 Golfstaaten — mit individueller arabischer Verpackung, hitzebeständigen Materialspezifikationen und Scharia-konformen Garantiebedingungen.'
-    solution: 'Wir schlossen einen exklusiven Vertriebsvertrag. Entwicklung arabischer Verpackungen und Marketingmaterialien. Validierung der Materialspezifikationen bei 50°C Umgebungstemperatur. Anpassung der Garantiebedingungen an die regionalen Vorschriften.'
-    result: '12 Containeraufträge in den ersten 18 Monaten. Händler-/Sub-Distributor-Netz mit 15 Partnern aufgebaut. Marktanteil von geschätzt 18% im GCC-Segment der aufblasbaren SUPs.'
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-leviathan-wake-1-1200w.webp
-    tags: [OEM, SUP, Vertrieb, Naher-Osten]
-    outcome_metrics:
-      - label: 'Container'
-        value: '12'
-      - label: 'Händlernetz'
-        value: '15'
-      - label: 'Marktanteil'
-        value: 18%
-
-  - id: japanese-brand-launch
-    client: 'Japanische Lifestyle-Marke'
-    product: 'Co-Branding-SUP-Linie'
-    industry: 'OEM / Marke'
-    challenge: 'Eine gehobene japanische Lifestyle-Marke wollte mit einer Co-Branding-SUP-Linie in den Wassersportmarkt einsteigen — mit Fokus auf minimalistisches Design, umweltfreundliche Materialien und präzise Fertigung, passend für den anspruchsvollen japanischen Konsumenten.'
-    solution: 'Wir erstellten individuelle Formen mit schlankerer Kontur. Beschaffung von FSC-zertifizierten Bambus-Deck-Einlagen und Recycling-PVC-Optionen. Entwicklung eines Premium-Unboxing-Erlebnisses mit japanischsprachigen Pflegeanleitungen per QR-Code.'
-    result: 'Co-Branding-Linie mit 3 Modellen auf der Tokyo Marine Show vorgestellt. 2.800 Einheiten vor der öffentlichen Markteinführung vorverkauft. In 5 japanischen Lifestyle-Magazinen präsentiert.'
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
-    tags: [OEM, SUP, Co-Branding, Premium]
-    outcome_metrics:
-      - label: 'Modelle'
-        value: '3'
-      - label: 'Vorverkaufte Einheiten'
-        value: 2,800
-      - label: 'Medienbeiträge'
-        value: '5'
-
-  - id: us-custom-mold
-    client: 'US-Wassersport-Equipment-Marke'
-    product: 'Individuelle Form — Touring-SUP'
-    industry: 'OEM / Fertigung'
-    challenge: 'Eine US-Marke benötigte eine komplett neue SUP-Form mit 14-Fuß-Touring-Silhouette, integrierten Halterungskanälen für Echolote, verstärkter Standplattform und einer Tragfähigkeit von 400 lbs — entwickelt für den Angel-SUP-Markt.'
-    solution: 'Wir konstruierten eine neue 14-Fuß-Drop-Stitch-Form mit erhöhter Drop-Stitch-Kerndichte, eingesetzten Zubehör-Rail-Aufnahmen und PVC-Bodenschicht in Militär-Grade gegen Abrieb. 3 Prototyp-Iterationen vor der finalen Werkzeugfertigung produziert.'
-    result: 'Neue Form in 14 Wochen gefertigt. 3.500 Einheiten in der ersten Produktionsserie. Vom Outdoor Gear Lab als „Best Fishing SUP 2025“ ausgezeichnet.'
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    tags: [OEM, SUP, Individualform, Angeln]
-    outcome_metrics:
-      - label: 'Werkzeugbau-Zeit'
-        value: '14 Wochen'
-      - label: 'Erste Serie'
-        value: '3.500 Einheiten'
-      - label: 'Auszeichnung'
-        value: Best Fishing SUP 2025
-
-  - id: corporate-wellness-program
-    client: 'Globaler Technologiekonzern'
-    product: 'Betriebliches Gesundheitprogramm — SUP-Flotte'
-    industry: 'Unternehmen / Wellness'
-    challenge: 'Ein Fortune-500-Technologieunternehmen wollte ein wasserbasiertes Wellness-Programm für Mitarbeiter an 4 globalen Campusstandorten am See starten — mit 60 SUPs im Firmenbranding, Aufbewahrungslösungen und Trainerausbildung.'
-    solution: 'Wir lieferten eine Flotte stabiler Allround-SUPs mit Deck-Grafiken im Firmenlogo. Entwurf wetterfester Aufbewahrungsständer vor Ort. 12 hauseigene Trainer über das olagoon-Schulungsprogramm zertifiziert.'
-    result: 'Programm an 4 Standorten gestartet. Über 2.400 Mitarbeiterbeteiligungen im ersten Jahr. 94% Zufriedenheit unter den Mitarbeitenden. Vorgestellt im Nachhaltigkeitsbericht des Unternehmens.'
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp
-    tags: [OEM, SUP, Unternehmen, Wellness]
-    outcome_metrics:
-      - label: 'Standorte'
-        value: '4'
-      - label: 'Teilnehmende'
-        value: 2,400+
-      - label: 'Zufriedenheit'
-        value: 94%
-
-  - id: university-club-program
-    client: 'Sportunion einer britischen Universität'
-    product: 'Studentenclub-Flotte — SUPs + Sicherheit'
-    industry: 'Bildung'
-    challenge: 'Eine britische Universität mit aktivem Wassersportclub musste eine alternde Flotte durch moderne aufblasbare SUPs ersetzen — platzsparend auf dem begrenzten Campusgelände lagerbar, für Studierende aller Könnensstufen geeignet und konform mit den BUCS-Wettbewerbsstandards.'
-    solution: 'Wir lieferten 25 Allround-SUPs mit kompakten Aufbewahrungsrucksäcken, 10 Touring-SUPs für das Wettkampftraining und ein komplettes Sicherheitspaket. Schulung der Clubverantwortlichen und Wartungs-Workshops durchgeführt.'
-    result: 'Flotte auf der Erstsemestler-Messe vorgestellt. Clubmitgliedschaften wuchsen um 140%. Die Universität richtete zum ersten Mal seit 5 Jahren einen hochschulübergreifenden SUP-Wettkampf aus.'
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-flowing-lotus-1-1200w.webp
-    tags: [OEM, SUP, Bildung, Club]
-    outcome_metrics:
-      - label: 'Gelieferte SUPs'
-        value: '35'
-      - label: 'Mitgliederwachstum'
-        value: 140%
-      - label: 'Ausgerichtete Wettkämpfe'
-        value: '1'
-
-  - id: cruise-line-activity-program
-    client: 'Karibischer Kreuzfahrtbetreiber'
-    product: 'Bord-Aktivitätenflotte — SUPs'
-    industry: 'Gastronomie / Kreuzfahrt'
-    challenge: 'Ein großer Kreuzfahrtbetreiber wollte SUP als Landausflug-Aktivität auf 7 Schiffen anlaufen lassen, die in Privathäfen von Inseln festmachen. Erforderlich: kompakte Aufbewahrung an Bord, schnelles Auf- und Abpumpen und markenübergreifend einheitliches Branding der Flotte.'
-    solution: 'Wir entwickelten ein kreuzfahrt-spezifisches SUP-Paket mit Schnellaufblas-Ventilsystemen, kompakten Rucksack-Taschen und Deck-Grafiken im Schiff Branding. Dediziertes Training der Landteams und Ersatzteilschränke an 3 Inselhäfen bereitgestellt.'
-    result: 'Programm auf 7 Schiffen gestartet. Über 15.000 Gästebeteiligungen in der ersten Saison. 4,6★ Durchschnittsbewertung der Ausflüge. Ausweitung auf 3 weitere Schiffe in Jahr 2.'
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
-    tags: [OEM, SUP, Hotellerie, Kreuzfahrt]
-    outcome_metrics:
-      - label: 'Schiffe'
-        value: '7'
-      - label: 'Gästebeteiligungen'
-        value: 15,000+
-      - label: 'Bewertung'
-        value: 4,6★
-      - label: 'Erweiterung in Jahr 2'
-        value: '+3 Schiffe'
-
-  - id: fishing-charter-rebrand
-    client: 'Angelcharter-Unternehmen aus Florida'
-    product: 'Individuelle Angel-SUP-Flotte'
-    industry: 'Angeln / Charter'
-    challenge: 'Ein in Florida ansässiger Angelcharter-Betreiber wollte SUP-Angeltouren in sein Angebot aufnehmen — mit stabilen Plattformen, integrierten Kühlboxen-Halterungen, Rutenhalter-Schienen und Kompatibilität mit Echolot-Gebern.'
-    solution: 'Wir passten eine bestehende stabile SUP-Plattform individuell an: 4 eingebaute Rutenhalter, abnehmbares Kühlbox-Halterungssystem und wasserdichte Geber-Montage im Scupper. Flottenpreise und ein saisonales Ersatzprogramm bereitgestellt.'
-    result: 'SUP-Angeltouren als neue Erlösquelle gestartet. 45% der bestehenden Charterkunden buchten SUP-Touren. Flotte in 2 Saisons von 8 auf 20 Boards erweitert.'
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-leviathan-wake-1-1200w.webp
-    tags: [OEM, SUP, Angeln, Charter]
-    outcome_metrics:
-      - label: 'Anfangsflotte'
-        value: '8'
-      - label: 'Flotte in Jahr 2'
-        value: '20'
-      - label: 'Charter-Kreuzverkauf'
-        value: 45%
-
-  - id: lakeside-community-amenity
-    client: 'US-Wohnanlage am See'
-    product: 'Annehmlichkeit für Bewohner — SUP-Flotte'
-    industry: 'Immobilien / Wohnanlage'
-    challenge: 'Eine exklusive Wohnanlage am See wollte Bewohnern SUP Boards als Annehmlichkeit anbieten — mit einer pflegeleichten Flotte, gesicherten Aufbewahrungsmöglichkeiten am Ufer und einem Selbstbedienungs-Ausleihsystem für über 200 Haushalte.'
-    solution: 'Wir lieferten 15 SUPs in kommerzieller Qualität mit wetterfestem Schranksystem. Entwurf eines QR-Code-basierten Selbstausleihsystems mit digitaler Haftungsfreistellung. Saisonalen Wartungsservice bereitgestellt.'
-    result: '85% der Haushalte nutzten das SUP-Angebot in der ersten Saison. Immobilienwerte im Uferabschnitt stiegen um 7%. Die Wohnanlage gewann den Award „Best Lakeside Living“.'
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
-    tags: [OEM, SUP, Immobilien, Wohnanlage]
-    outcome_metrics:
-      - label: 'SUPs'
-        value: '15'
-      - label: 'Nutzung durch Haushalte'
-        value: 85%
-      - label: 'Einfluss auf Immobilienwert'
-        value: '+7%'
-      - label: 'Auszeichnung'
-        value: Best Lakeside Living
+      - label: Construction Required
+        value: None
 
 certifications:
   - name: CE
-    body: 'Europäische Union'
-    desc: 'Alle Produkte tragen die CE-Kennzeichnung gemäß den EU-Richtlinien für Freizeitwasserfahrzeuge und persönliche Schwimmhilfen.'
+    body: European Union
+    desc: All pools and pump systems carry CE certification in accordance with EU directives for recreational and pool-related equipment.
   - name: ISO 9001
     body: SGS / BSI
-    desc: 'Zertifiziertes Qualitätsmanagementsystem für Entwicklung, Fertigung und Vertrieb von aufblasbarem Wassersport-Equipment.'
+    desc: Quality management system certified for the design, manufacturing, and distribution of drop-stitch inflatable pools and accessories.
   - name: BSCI
     body: amfori
-    desc: 'Zertifizierung für soziale Verantwortung — Beleg für ethische Fertigung, faire Arbeitsbedingungen und Arbeitssicherheit.'
+    desc: Social compliance certification demonstrating ethical manufacturing, fair labour, and workplace safety across our Qingdao operation.
   - name: REACH
-    body: 'Europäische Chemikalienagentur'
-    desc: 'Alle Materialien erfüllen die REACH-Verordnung zur Chemikaliensicherheit. Dokumentation liegt jeder Lieferung bei.'
+    body: European Chemicals Agency
+    desc: All pool materials comply with REACH regulations for chemical safety. Documentation provided with every shipment.
   - name: RoHS
-    body: 'Europäische Union'
-    desc: 'Konformität mit der Beschränkung gefährlicher Stoffe für alle elektronischen und elektrischen Komponenten.'
-  - name: AS 1799
-    body: Standards Australia
-    desc: 'Australische Norm für aufblasbare Wasserfahrzeuge — geprüft und zertifiziert für die kommerzielle Nutzung in AU/NZ-Gewässern.'
+    body: European Union
+    desc: Restriction of hazardous substances compliance across all electronic components, including the Sand Filter Pump.
 
 test_results:
-  - metric: 'Druckgeprüfte Einheiten'
+  - metric: Units Pressure Tested
     value: 100%
-    detail: 'Jedes Board, jede Kammer, jede Charge'
-  - metric: 'Maximaler Druckverlust'
+    detail: Every pool, every chamber, every batch
+  - metric: Max Pressure Drop
     value: '<5%'
-    detail: 'Über 24–48 h bei 1,25-fachem Nenndruck'
-  - metric: 'Schwellenwert für schwere Mängel'
+    detail: Over 24-48h pressure-hold at 1.25x rated PSI
+  - metric: Major Defect Threshold
     value: AQL 2.5
-    detail: 'Nach der Stichprobennorm ISO 2859'
-  - metric: 'Druckhaltezeit'
-    value: 24–48h
-    detail: 'Je nach Produktkategorie'
-  - metric: 'Test-Druckreserve'
+    detail: Per ISO 2859 sampling standard
+  - metric: UV Weathering
+    value: 1000 hours
+    detail: Xenon-arc UV exposure with no material degradation
+  - metric: Test Pressure Margin
     value: 1.25x
-    detail: 'Sicherheitsreserve an jeder Kammer'
-  - metric: 'Toleranz bei Sicherheitsmängeln'
+    detail: Safety margin on every drop-stitch chamber
+  - metric: Safety Defect Tolerance
     value: 0%
-    detail: 'Ventile, D-Ringe, Nähte, Auftrieb'
+    detail: Seams, valves, welds, structural integrity
 
 spec_sheets:
-  - name: 'SUP-Serie'
+  - name: Pool Series
     href: /pools/
-  - name: 'Rettungswesten und Zubehör'
+  - name: Pool Accessories
     href: /accessory/
 
 deployment_photos:
-  - image: https://assets.olagoon.com/images/olagoon/hero/hero-5.webp
-    caption: 'SUP-Patrouillenboard im Einsatz für die maritime Suche und Rettung'
-    context: 'Suche und Rettung'
-  - image: https://assets.olagoon.com/images/olagoon/hero/hero-scenic.webp
-    caption: 'SUP-Touring entlang einer malerischen Küstenlinie'
-    context: 'Freizeit'
-  - image: https://assets.olagoon.com/images/olagoon/products/olagoon-inflatable-boat-factory.webp
-    caption: 'Produktion von aufblasbarem Wassersport-Equipment in unserem Qingdao-Fertigungswerk'
-    context: 'Fabrik'
-  - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-stock-boat-inventory.webp
-    caption: 'Versandfertiger Bestand in Erwartung der Containerverladung'
-    context: 'Logistik'
+  - image: /images/olagoon/hero/pool-lagoon-hero.webp
+    caption: Grand Lagoon pool installed at a Caribbean resort property
+    context: Hospitality
+  - image: /images/olagoon/hero/kids-pool-fun.webp
+    caption: Family Oasis pool in daily residential use
+    context: Residential
+  - image: /images/olagoon/factory/olagoon-production-department.webp
+    caption: Drop-stitch pool production at our Qingdao manufacturing facility
+    context: Factory
+  - image: /images/olagoon/hero/lakeside-olagoon.webp
+    caption: Communal OLagoon pool installation serving a lakeside community
+    context: Community

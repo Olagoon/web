@@ -1,13 +1,13 @@
 cards:
   - badge: PVC
-    title: PVC-laag van maritieme kwaliteit
-    description: 'Meerlaags gelamineerd PVC-doek voor maritieme omgevingen. Getest op UV-bestendigheid, slijtage en doorslagweerstand.'
-    image: 'https://assets.olagoon.com/images/olagoon/tech/tech-pvc-material.webp'
+    title: Marine-Grade PVC Layer
+    description: Multi-layer laminated PVC fabric built for seasons of outdoor use. Tested for UV, abrasion, and puncture resistance.
+    image: /images/olagoon/tech/tech-pvc-material.webp
   - badge: DS
-    title: Drop-stitch kern
-    description: 'Duizenden interne draden verbinden de boven- en onderlaag en vormen zo een stijve structuur onder hoge druk van 12–15 PSI.'
-    image: 'https://assets.olagoon.com/images/olagoon/tech/tech-drop-stitch.webp'
+    title: Drop-Stitch Core
+    description: Thousands of internal threads lock the floor and wall layers together, creating a rigid, high-pressure shell at 10-15 PSI.
+    image: /images/olagoon/tech/tech-drop-stitch.webp
   - badge: RR
-    title: Versterkte railrand
-    description: 'Een dubbellaagse, fusiegelaste rail beschermt tegen krassen aan de steiger, strandlandingen en zijdelingse stoten.'
-    image: 'https://assets.olagoon.com/images/olagoon/tech/tech-hypalon-tubes.webp'
+    title: Fusion-Welded Seams
+    description: Double-layered fusion-welded rails and seams keep air locked in for weeks of continuous use with minimal top-ups.
+    image: /images/olagoon/tech/tech-hypalon-tubes.webp

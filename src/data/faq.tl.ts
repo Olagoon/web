@@ -1,4 +1,1 @@
-import yamlData from './faq-tl.yaml';
-import type { FaqRecord } from './faq';
-
-export const faqsTl = yamlData as FaqRecord[];
+export { faqs as faqsTl } from './faq';

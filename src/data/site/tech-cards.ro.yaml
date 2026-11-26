@@ -1,13 +1,13 @@
 cards:
   - badge: PVC
-    title: 'Strat de PVC de calitate marină'
-    description: 'Țesătură PVC laminată multistratificată pentru medii marine. Testată pentru rezistență la UV, abraziune și perforare.'
-    image: 'https://assets.olagoon.com/images/olagoon/tech/tech-pvc-material.webp'
+    title: Marine-Grade PVC Layer
+    description: Multi-layer laminated PVC fabric built for seasons of outdoor use. Tested for UV, abrasion, and puncture resistance.
+    image: /images/olagoon/tech/tech-pvc-material.webp
   - badge: DS
-    title: Miez drop-stitch
-    description: 'Mii de fire interne leagă stratul superior de cel inferior, creând o structură rigidă la presiune înaltă de 12–15 PSI.'
-    image: 'https://assets.olagoon.com/images/olagoon/tech/tech-drop-stitch.webp'
+    title: Drop-Stitch Core
+    description: Thousands of internal threads lock the floor and wall layers together, creating a rigid, high-pressure shell at 10-15 PSI.
+    image: /images/olagoon/tech/tech-drop-stitch.webp
   - badge: RR
-    title: 'Margine de șină întărită'
-    description: 'O șină dublă, sudată prin fuziune, protejează împotriva zgârieturilor de la chei, eșuărilor pe plajă și impacturilor laterale.'
-    image: 'https://assets.olagoon.com/images/olagoon/tech/tech-hypalon-tubes.webp'
+    title: Fusion-Welded Seams
+    description: Double-layered fusion-welded rails and seams keep air locked in for weeks of continuous use with minimal top-ups.
+    image: /images/olagoon/tech/tech-hypalon-tubes.webp

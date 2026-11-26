@@ -1,37 +1,49 @@
 cases:
-  - id: beginner
-    title: 'Yeni başlayanlar için su sporları'
-    desc: 'İlk kez kullananlar için stabil SUP tahtaları.'
+  - id: small-backyard
+    title: Small Backyard Plunge
+    desc: A compact rigid pool for tight spaces.
     scenario: >-
-      Hafta sonunu göl kenarında geçiren bir aile paddleboarding denemek istiyor. Net güvenlik talimatlarıyla birlikte stabil, kolay indirilebilir ekipmana ihtiyaçları var.
+      A couple with a small townhouse yard wants a real swimming pool for
+      cooling off and relaxing after work, without permanent construction.
     solution: >-
-      SUP Explorer 11, geniş gövdesiyle yeni başlayanlar için mükemmel denge sağlar. Life Vest Classic CE sertifikalı yüzdürme gücü sağlar. Dual-Action pompa her iki tahtayı da yaklaşık 15–20 dakikada şişirir.
+      The Compact Plunge Pool fits a 2m x 1.5m footprint and sets up on any
+      level surface. The Ground Mat protects the base, and the Thermal Pool
+      Cover keeps the water warm and clean between swims.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
-  - id: outdoor
-    title: 'Doğa keşfi'
-    desc: 'Nehirler, göller ve kıyı gezileri için taşınabilir SUP tahtaları.'
+      - Compact Plunge Pool
+      - Ground Mat
+      - Thermal Pool Cover
+    image: /images/olagoon/products/compact-plunge.webp
+
+  - id: family-fun
+    title: Family Backyard Fun
+    desc: A full-size pool for the whole family.
     scenario: >-
-      Doğa tutkunu bir kişi bir haftalık nehir gezisi planlıyor ve küçük paketlenen, kampta şişirilen ve değişken akıntılara dayanan bir tahta arıyor.
+      A family of four wants a pool the kids can actually swim and play in all
+      summer, with clean water and easy entry for little ones.
     solution: >-
-      SUP Explorer 11 sırt çantasına sığar ve birlikte verilen Dual-Action pompayla yaklaşık 8–12 dakikada şişer. Drop-stitch yapı göllere, sakin nehirlere ve kıyı sularına dayanır.
+      The Family Oasis Pool offers a 3m x 2m swim area with rigid 20cm
+      drop-stitch walls. The Sand Filter Pump keeps the water clear, and the
+      Entry Steps give children a safe, stable way in and out.
     products:
-      - SUP Explorer 11
-      - Carbon Paddle
-      - Life Vest Classic
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
-  - id: family
-    title: 'Aile eğlencesi'
-    desc: 'Günlük geziler ve su sporları için stabil SUP tahtaları.'
+      - Family Oasis Pool
+      - Sand Filter Pump
+      - Entry Steps
+    image: /images/olagoon/products/family-oasis.webp
+
+  - id: entertaining
+    title: Entertaining & Hosting
+    desc: A statement lagoon for gatherings.
     scenario: >-
-      Dört kişilik bir aile, hafta sonu göl gezileri ve birlikte kürek çekmek için stabil SUP tahtaları istiyor.
+      A homeowner who loves weekend gatherings wants a showpiece pool big
+      enough for guests of all ages, plus reliable water care with zero fuss.
     solution: >-
-      SUP Explorer 11 her yaş için stabil, geniş güverteli tahtalar sunar. Life Vest Classic herkesi güvende tutar. Dual-Action pompa tüm tahtaları yaklaşık 15–20 dakikada şişirir.
+      The Grand Lagoon Pool delivers a 5m x 2.5m swim zone engineered like a
+      yacht deck. The Sand Filter Pump and Thermal Pool Cover keep the water
+      party-ready, and the Entry Steps complete the resort feel.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
+      - Grand Lagoon Pool
+      - Sand Filter Pump
+      - Entry Steps
+      - Thermal Pool Cover
+    image: /images/olagoon/products/grand-lagoon.webp

@@ -1,13 +1,13 @@
 cards:
   - badge: PVC
-    title: PVC-skikt i marin kvalitet
-    description: 'Flerlagigt laminerat PVC-tyg avsett för marina miljöer. Testat för UV-, nötnings- och punkteringsmotstånd.'
-    image: 'https://assets.olagoon.com/images/olagoon/tech/tech-pvc-material.webp'
+    title: Marine-Grade PVC Layer
+    description: Multi-layer laminated PVC fabric built for seasons of outdoor use. Tested for UV, abrasion, and puncture resistance.
+    image: /images/olagoon/tech/tech-pvc-material.webp
   - badge: DS
-    title: 'Drop-stitch-kärna'
-    description: 'Tusentals invändiga trådar förbinder topp- och bottenlager och skapar en styv, högtrycksstruktur vid 12–15 PSI.'
-    image: 'https://assets.olagoon.com/images/olagoon/tech/tech-drop-stitch.webp'
+    title: Drop-Stitch Core
+    description: Thousands of internal threads lock the floor and wall layers together, creating a rigid, high-pressure shell at 10-15 PSI.
+    image: /images/olagoon/tech/tech-drop-stitch.webp
   - badge: RR
-    title: 'Förstärkt listkant'
-    description: 'Dubbellagrad, fusion-svetsad list skyddar mot kajskrap, strandlandningar och sidokollisioner.'
-    image: 'https://assets.olagoon.com/images/olagoon/tech/tech-hypalon-tubes.webp'
+    title: Fusion-Welded Seams
+    description: Double-layered fusion-welded rails and seams keep air locked in for weeks of continuous use with minimal top-ups.
+    image: /images/olagoon/tech/tech-hypalon-tubes.webp

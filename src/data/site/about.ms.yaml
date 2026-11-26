@@ -1,44 +1,42 @@
 origin:
-  tagline: Asal Usul Kami
-  heading: |-
-    Dibina di atas air,<br />
-    <span class="text-sky-600">didorong oleh tujuan</span>
+  tagline: 'Our Origin'
+  heading: "Built for the backyard,<br />\n<span class=\"text-sky-600\">engineered like a yacht</span>"
   paragraphs:
-    - 'olagoon bermula di sebuah bengkel pesisir dengan sebuah papan dan keyakinan yang teguh: produk marin harus direkabentuk seolah-olah ia penting — kerana ia memang penting.'
-    - Pengasas kami, dua orang jurutera marin, menyaksikan industri yang kerap memangkas kos, menurunkan gred bahan, dan memperlakukan keselamatan sekadar sebagai formaliti. Mereka membina lambung olagoon yang pertama bukan demi keuntungan, tetapi untuk membuktikan bahawa peralatan marin yang mampu milik juga boleh benar-benar dipercayai.
-    - Lambung pertama itu masih digunakan sehingga hari ini. Prinsip itu tidak pernah berubah.
-    - Kami bukan pengeluar terbesar. Kami tidak menghasilkan produk termurah. Tetapi setiap lambung yang meninggalkan bengkel kami melalui tangan yang sama yang memulakan syarikat ini — dan memenuhi standard yang sama yang ditetapkan oleh lambung pertama tersebut.
-  image: https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
-  image_alt: bengkel pesisir olagoon
+    - 'OLagoon began in 2012 with a Qingdao manufacturing team and one stubborn belief: an inflatable pool should be engineered like it matters — because your family swims in it.'
+    - 'Our founders came from marine and drop-stitch manufacturing, where hulls are rated by pressure and safety is never a checkbox. They saw backyard pools that warped, sagged, and failed after a single season, and set out to build something better using the same drop-stitch technology trusted in yacht tenders and rescue boards.'
+    - 'That first pool is still holding air more than a decade later. That standard never changed.'
+    - 'We are not the biggest manufacturer. We do not make the cheapest pools. But every OLagoon pool leaves a 12,000 m² factory staffed by 200+ workers, passes CE and ISO 9001 quality control, and meets the same standard that first pool set.'
+  image: /images/olagoon/hero/production-dept.webp
+  image_alt: 'OLagoon drop-stitch pool production line'
+
 philosophy:
-  tagline: Falsafah Kami
-  heading: Berakar dalam lautan
-  description: Lautan bukan tempat kerja kami. Ia adalah guru kami. Setiap keputusan reka bentuk bermula dengan memahami tingkah laku air, perubahan keadaan, dan bagaimana peralatan harus bertindak balas.
+  tagline: 'Our Philosophy'
+  heading: 'Rooted in drop-stitch engineering'
+  description: 'Water is unforgiving — even two feet of it in a backyard. Every design decision starts with understanding water pressure, structural load, and how a pool must hold its shape season after season.'
   cards:
-    - emoji: 🌊
-      title: Hormati Air
-      description: Air tidak dapat diramalkan. Produk kami direkabentuk untuk keadaan paling buruk, bukan yang terbaik. Jika sebuah lambung mampu menempuh arus balik, ia pasti mampu menempuh tasik. Jika jaket keselamatan berfungsi di lepas pantai, ia lebih daripada mencukupi untuk sungai — dan itu memang disengajakan.
-    - emoji: 🔧
-      title: Dibina untuk Bertahan, Bukan untuk Diganti
-      description: Produk paling mampan ialah produk yang tidak perlu diganti. PVC gred marin dan binaan drop-stitch dipilih demi ketahanan. Kami masih menghantar alat gantian untuk lambung yang kami bina sepuluh tahun lalu.
-    - emoji: 🏆
-      title: Mampu Milik Melalui Reka Bentuk
-      description: Sukan air tidak sepatutnya menjadi kemewahan. Kami merekabentuk produk yang menawarkan prestasi gred profesional pada harga yang munasabah untuk keluarga, pemandu pelancong, dan pengendali kecil — bukan sekadar armada komersial.
+    - emoji: "\U0001F30A"
+      title: 'Respect the Water'
+      description: 'A pool is a pressure vessel. Our drop-stitch cores are rated for 15 PSI — well above the working pressure of a backyard pool — so walls stay rigid at 20 cm height without bulging or flexing.'
+    - emoji: "\U0001F527"
+      title: 'Built to Last, Not to Replace'
+      description: 'The most sustainable pool is the one that does not end up in a landfill after one summer. Reinforced PVC, welded seams, and a 2-year warranty are chosen for longevity, not for a price point.'
+    - emoji: "\U0001F3C6"
+      title: 'Accessible by Design'
+      description: 'Yacht-grade engineering should not require a yacht budget. We deliver 10–15 PSI drop-stitch pools at a price that makes sense for families, resorts, and community programs — not just luxury buyers.'
+
 design:
-  tagline: Falsafah Reka Bentuk
-  heading: |-
-    Direka bentuk untuk pinggiran<br />
-    <span class="text-sky-600">keadaan</span>
+  tagline: 'Design Philosophy'
+  heading: "Engineered to a standard,<br />\n<span class=\"text-sky-600\">not to a price</span>"
   paragraphs:
-    - 'Setiap produk olagoon bermula dengan satu soalan: <em>apakah keadaan paling buruk yang akan dihadapinya?</em> Kami merekabentuk dari pinggiran ke arah dalam, bukan dari pusat ke arah luar.'
-    - 'Teras drop-stitch kami dinilai untuk 15 PSI — bukan kerana 12 PSI tidak mencukupi untuk tasik, tetapi kerana papan 15 PSI mampu mengharungi riak mendadak tanpa melentur. Fabrik dek kami diperincikan dengan rintangan UV gred komersial — bukan kerana setiap pelanggan mendayung di kawasan tropika, tetapi kerana degradasi UV ialah punca #1 kegagalan pramatang.'
-    - Kami tidak merekabentuk berdasarkan titik harga. Kami merekabentuk berdasarkan titik kegagalan — kemudian membina jauh melebihi tahap itu.
-  image: https://assets.olagoon.com/images/olagoon/hero/hero-4.webp
-  image_alt: reka bentuk dan kejuruteraan olagoon
+    - 'Every OLagoon pool starts with one question: <em>what will this pool face after three summers of use?</em> We design from the failure point inward, then build well above it.'
+    - 'Our drop-stitch cores are rated for 15 PSI — not because a backyard pool needs it daily, but because a rigid wall does not flex when six kids cannonball in at once. Our PVC is specified for commercial UV resistance — not because every customer lives in Phoenix, but because UV degradation is the #1 cause of premature pool failure.'
+    - 'The result: a pool that holds its shape, holds its air, and holds its value. 15,000 units a year, shipped to 50+ countries, backed by a 2-year warranty.'
+  image: /images/olagoon/hero/lakeside-olagoon.webp
+  image_alt: 'OLagoon drop-stitch pool by the lake'
   stats:
     - value: '15'
-      label: penarafan teras<br />PSI
-    - value: 1,500+
-      label: jam UV<br />diuji
-    - value: 10yr
-      label: jangka hayat<br />lambung
+      label: 'PSI core<br />rating'
+    - value: '20cm'
+      label: 'rigid wall<br />height'
+    - value: '2yr'
+      label: 'warranty<br />included'

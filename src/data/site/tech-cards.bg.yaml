@@ -1,13 +1,13 @@
 cards:
   - badge: PVC
-    title: Пласт от PVC с морски клас
-    description: Многослойна ламинирана PVC тъкан с рейтинг за морски среди. Тествана за UV, абразивна и пробивна устойчивост.
-    image: https://assets.olagoon.com/images/olagoon/tech/tech-pvc-material.webp
+    title: Marine-Grade PVC Layer
+    description: Multi-layer laminated PVC fabric built for seasons of outdoor use. Tested for UV, abrasion, and puncture resistance.
+    image: /images/olagoon/tech/tech-pvc-material.webp
   - badge: DS
-    title: Drop-stitch сърцевина
-    description: Хиляди вътрешни нишки свързват горния и долния слой, създавайки твърда конструкция с високо налягане при 12-15 PSI.
-    image: https://assets.olagoon.com/images/olagoon/tech/tech-drop-stitch.webp
+    title: Drop-Stitch Core
+    description: Thousands of internal threads lock the floor and wall layers together, creating a rigid, high-pressure shell at 10-15 PSI.
+    image: /images/olagoon/tech/tech-drop-stitch.webp
   - badge: RR
-    title: Подсилен бордов ръб
-    description: Двупластов фузионно заварен борд предпазва от одрасквания на кейове, плажни пристигания и странични удари.
-    image: https://assets.olagoon.com/images/olagoon/tech/tech-hypalon-tubes.webp
+    title: Fusion-Welded Seams
+    description: Double-layered fusion-welded rails and seams keep air locked in for weeks of continuous use with minimal top-ups.
+    image: /images/olagoon/tech/tech-hypalon-tubes.webp

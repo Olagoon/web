@@ -1,48 +1,49 @@
 cases:
-  - id: beginner
-    title: 'ספורט מים למתחילים'
-    desc: 'גלשני SUP יציבים למשתמשים בפעם הראשונה.'
+  - id: small-backyard
+    title: Small Backyard Plunge
+    desc: A compact rigid pool for tight spaces.
     scenario: >-
-      משפחה שמבלה סוף שבוע באגם רוצה לנסות חתירה על גלשן.
-      הם צריכים ציוד יציב וקל להשקה עם הדרכת בטיחות ברורה.
+      A couple with a small townhouse yard wants a real swimming pool for
+      cooling off and relaxing after work, without permanent construction.
     solution: >-
-      גלשן SUP Explorer 11 מספק יציבות גוף רחב למתחילים. אפוד
-      Life Vest Classic מבטיח ציפה מוסמכת CE. משאבת
-      Dual-Action מנפחת את שני הגלשנים בערך ב-15-20 דקות.
+      The Compact Plunge Pool fits a 2m x 1.5m footprint and sets up on any
+      level surface. The Ground Mat protects the base, and the Thermal Pool
+      Cover keeps the water warm and clean between swims.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
+      - Compact Plunge Pool
+      - Ground Mat
+      - Thermal Pool Cover
+    image: /images/olagoon/products/compact-plunge.webp
 
-  - id: outdoor
-    title: 'חקר חוצות'
-    desc: 'גלשני SUP ניידים לנהרות, אגמים וטיולי חוף.'
+  - id: family-fun
+    title: Family Backyard Fun
+    desc: A full-size pool for the whole family.
     scenario: >-
-      חובב חוצות מתכנן טיול נהר של שבוע וצריך גלשן שנארז
-      קטן, מתנפח במחנה ומתמודד עם זרמים משתנים.
+      A family of four wants a pool the kids can actually swim and play in all
+      summer, with clean water and easy entry for little ones.
     solution: >-
-      גלשן SUP Explorer 11 נארז לתיק גב ומתנפח בערך ב-8-12 דקות עם משאבת
-      Dual-Action הכלולה. בניית
-      ה-drop-stitch שלו מתמודדת עם אגמים, נהרות איטיים וחתירה חופית.
+      The Family Oasis Pool offers a 3m x 2m swim area with rigid 20cm
+      drop-stitch walls. The Sand Filter Pump keeps the water clear, and the
+      Entry Steps give children a safe, stable way in and out.
     products:
-      - SUP Explorer 11
-      - Carbon Paddle
-      - Life Vest Classic
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
+      - Family Oasis Pool
+      - Sand Filter Pump
+      - Entry Steps
+    image: /images/olagoon/products/family-oasis.webp
 
-  - id: family
-    title: 'פנאי משפחתי'
-    desc: 'גלשני SUP יציבים לטיולי יום ולספורט מים.'
+  - id: entertaining
+    title: Entertaining & Hosting
+    desc: A statement lagoon for gatherings.
     scenario: >-
-      משפחה עם ארבע נפשות רוצה גלשני SUP יציבים לטיולי סוף שבוע
-      באגם ולחתירה משותפת.
+      A homeowner who loves weekend gatherings wants a showpiece pool big
+      enough for guests of all ages, plus reliable water care with zero fuss.
     solution: >-
-      גלשן SUP Explorer 11 מספק גלשנים יציבים בגוף רחב לכל הגילאים. אפוד
-      Life Vest Classic שומר על כולם. משאבת
-      Dual-Action מנפחת את כל הגלשנים בערך ב-15-20 דקות.
+      The Grand Lagoon Pool delivers a 5m x 2.5m swim zone engineered like a
+      yacht deck. The Sand Filter Pump and Thermal Pool Cover keep the water
+      party-ready, and the Entry Steps complete the resort feel.
     products:
-      - SUP Explorer 11
-      - Life Vest Classic
-      - Dual-Action Pump
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
+      - Grand Lagoon Pool
+      - Sand Filter Pump
+      - Entry Steps
+      - Thermal Pool Cover
+    image: /images/olagoon/products/grand-lagoon.webp
