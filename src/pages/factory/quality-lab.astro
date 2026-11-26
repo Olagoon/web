@@ -5,13 +5,13 @@ import { SITE } from 'astrowind:config';
 
 const metadata = {
   title: `Quality Lab — Testing & Quality Assurance | ${SITE.name}`,
-  description: `Independent quality lab with ISO 9001 processes at ${SITE.name}: every unit tested before shipment to guarantee inflatable SUP quality.`,
+  description: `Independent quality lab with ISO 9001 processes at ${SITE.name}: every unit tested before shipment to guarantee inflatable pool quality.`,
 };
 
 const crumbs = [{ name: 'Home', href: '/' }, { name: 'Factory', href: '/factory' }, { name: 'Quality Lab' }];
 
 const highlights = [
-  { value: '100%', label: 'Units pressure-tested', detail: 'Every chamber, every board' },
+  { value: '100%', label: 'Units pressure-tested', detail: 'Every chamber, every pool' },
   { value: '48 h', label: 'Air retention test duration', detail: 'At 1.25× rated pressure' },
   { value: '&lt;5%', label: 'Max allowed pressure drop', detail: 'Over 24-hour hold period' },
   { value: 'AQL 2.5', label: 'Major defect threshold', detail: 'Per ISO 2859 sampling' },
@@ -34,13 +34,13 @@ const procedures = [
     title: '48-Hour Air Retention Test',
     description:
       'Every tube chamber is inflated to 125% of rated pressure and held for 48 hours. Pressure sensors log continuously with temperature compensation. Any chamber exceeding 5% pressure drop triggers automatic batch re-inspection.',
-    standards: 'EN ISO 25649, CE 2013/53/EU',
+    standards: 'EN ISO 25649, CE documentation',
   },
   {
     title: 'Load & Balance Testing',
     description:
-      'Completed boards are tested at maximum rated capacity for stability, stiffness, and handling. Each board undergoes water testing before final inspection approval.',
-    standards: 'ISO 12217, CE 2013/53/EU',
+      'Completed pools are tested at maximum rated capacity for stability, stiffness, and wall rigidity. Each pool undergoes water testing before final inspection approval.',
+    standards: 'EN ISO 25649, CE documentation',
   },
 ];
 
@@ -58,7 +58,7 @@ const labEquipment = [
 <Layout metadata={metadata} breadcrumbs={crumbs}>
   <meta
     name="ai-intent"
-    content="inflatable-sup-quality-control,marine-product-testing,iso-9001-sup-factory,ce-certification-testing"
+    content="inflatable-pool-quality-control,pool-product-testing,iso-9001-pool-factory,ce-certification-testing"
   />
   <JsonLd
     type="BreadcrumbList"
@@ -76,8 +76,8 @@ const labEquipment = [
   <section class="px-6 sm:px-6 pb-16 mx-auto max-w-4xl">
     <p class="text-muted leading-relaxed">
       {SITE.name} operates a dedicated quality control laboratory that operates independently from production. Every batch
-      of raw material and every finished board passes through documented inspection protocols before release. Our QC team
-      reports directly to management, ensuring impartial quality decisions.
+      of raw material and every finished pool passes through documented inspection protocols before release. Our QC team reports
+      directly to management, ensuring impartial quality decisions.
     </p>
   </section>
 
@@ -100,7 +100,7 @@ const labEquipment = [
       <p class="text-sm font-semibold text-primary uppercase tracking-wider">Test Procedures</p>
       <h2 class="mt-2 text-3xl font-bold">Quality Testing Procedures</h2>
       <p class="mt-3 text-muted max-w-2xl mx-auto">
-        Every board passes through 4 stages of quality verification before it leaves our factory.
+        Every pool passes through 4 stages of quality verification before it leaves our factory.
       </p>
     </div>
     <div class="grid md:grid-cols-2 gap-6">
