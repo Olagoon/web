@@ -123,6 +123,37 @@ jobs:
             must_ok "Pages project create" "$RESP"
           fi
 
+          # --- Pages custom domain olagoon.com + DNS CNAME ---
+          ZID=$(curl -s "https://api.cloudflare.com/client/v4/zones?name=olagoon.com" -H "${AUTH}" \
+            | jq -r '.result[0]?.id // empty')
+          if [ -z "$ZID" ]; then
+            echo "::warning::Zone olagoon.com not found in Cloudflare account (token needs Zone:Read); skipping custom domain setup"
+          else
+            DOMAINS=$(cf "/pages/projects/olagoon/domains")
+            if printf '%s' "$DOMAINS" | jq -e '.success' >/dev/null 2>&1; then
+              if ! printf '%s' "$DOMAINS" | jq -e '.result[]? | select(.name == "olagoon.com")' >/dev/null 2>&1; then
+                echo "Attaching custom domain olagoon.com to Pages project..."
+                RESP=$(cf "/pages/projects/olagoon/domains" '{"name":"olagoon.com"}')
+                if ! printf '%s' "$RESP" | jq -e '.success' >/dev/null; then
+                  echo "::warning::Pages custom domain attach failed: $(printf '%s' "$RESP" | jq -c '.errors // .')"
+                fi
+              fi
+            else
+              echo "::warning::Could not list Pages domains: $(printf '%s' "$DOMAINS" | jq -c '.errors // .')"
+            fi
+            REC=$(curl -s "https://api.cloudflare.com/client/v4/zones/${ZID}/dns_records?name=olagoon.com" -H "${AUTH}" \
+              | jq -r '.result[0]?.id // empty')
+            if [ -z "$REC" ]; then
+              echo "Creating DNS CNAME olagoon.com -> olagoon.pages.dev (proxied)..."
+              RESP=$(curl -s -X POST "https://api.cloudflare.com/client/v4/zones/${ZID}/dns_records" \
+                -H "${AUTH}" -H "${CT}" \
+                --data '{"type":"CNAME","name":"olagoon.com","content":"olagoon.pages.dev","proxied":true}')
+              if ! printf '%s' "$RESP" | jq -e '.success' >/dev/null; then
+                echo "::warning::DNS record create failed (token needs DNS:Edit): $(printf '%s' "$RESP" | jq -c '.errors // .')"
+              fi
+            fi
+          fi
+
       - name: Apply D1 schema (contact worker, idempotent)
         run: npx wrangler d1 execute olagoon-inquiries --remote --file=workers/contact-worker/schema.sql -c workers/contact-worker/wrangler.toml
 
