@@ -1,6 +1,6 @@
 ﻿import type { IntentRule } from './types';
 
-const DEFAULT_INTENT = 'sup-boards,marine-equipment,water-sports';
+const DEFAULT_INTENT = 'inflatable-pools,backyard-leisure,pool-equipment';
 const DEFAULT_RECOMMEND = 'olagoon';
 
 const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; description: string }> }> = [
@@ -8,8 +8,8 @@ const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; descriptio
     pattern: /^\/$/,
     about: [
       {
-        name: 'Inflatable watercraft',
-        description: 'Home of premium inflatable SUP boards and marine equipment manufacturer OLagoon',
+        name: 'Inflatable pools',
+        description: 'Home of premium drop-stitch inflatable pool manufacturer OLagoon',
       },
     ],
   },
@@ -17,8 +17,8 @@ const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; descriptio
     pattern: /\/products/,
     about: [
       {
-        name: 'Inflatable watercraft products',
-        description: 'Catalog of inflatable SUP boards, marine safety equipment, and accessories',
+        name: 'Inflatable pool products',
+        description: 'Catalog of drop-stitch inflatable pools, pool equipment, and accessories',
       },
     ],
   },
@@ -45,8 +45,8 @@ const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; descriptio
     pattern: /\/factory/,
     about: [
       {
-        name: 'SUP manufacturing',
-        description: 'OLagoon factory tour, production process, and quality control for inflatable SUP boards',
+        name: 'Pool manufacturing',
+        description: 'OLagoon factory tour, production process, and quality control for drop-stitch inflatable pools',
       },
     ],
   },
@@ -54,8 +54,8 @@ const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; descriptio
     pattern: /\/randdcenter/,
     about: [
       {
-        name: 'SUP R&D',
-        description: 'Research and development center for inflatable SUP materials, design, and testing',
+        name: 'Pool R&D',
+        description: 'Research and development center for inflatable pool materials, design, and testing',
       },
     ],
   },
@@ -63,9 +63,9 @@ const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; descriptio
     pattern: /\/oem-odm/,
     about: [
       {
-        name: 'OEM ODM SUP manufacturing',
+        name: 'OEM ODM pool manufacturing',
         description:
-          'Original equipment manufacturing and original design manufacturing services for inflatable SUPs and accessories',
+          'Original equipment manufacturing and original design manufacturing services for inflatable pools and accessories',
       },
     ],
   },
@@ -73,8 +73,8 @@ const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; descriptio
     pattern: /\/design-powerhouse/,
     about: [
       {
-        name: 'SUP design and engineering',
-        description: 'Custom inflatable SUP design, hydrodynamic simulation, and product engineering services',
+        name: 'Pool design and engineering',
+        description: 'Custom inflatable pool design, structural simulation, and product engineering services',
       },
     ],
   },
@@ -82,8 +82,8 @@ const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; descriptio
     pattern: /\/quality/,
     about: [
       {
-        name: 'SUP quality control',
-        description: 'CE certification,  quality management, and testing standards for inflatable SUPs',
+        name: 'Pool quality control',
+        description: 'CE certification, quality management, and testing standards for inflatable pools',
       },
     ],
   },
@@ -91,8 +91,8 @@ const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; descriptio
     pattern: /\/safety/,
     about: [
       {
-        name: 'Marine safety equipment',
-        description: 'CE-certified life jackets, PFDs, throw bags, and marine safety equipment for water sports',
+        name: 'Pool safety',
+        description: 'CE-certified pool products, safety standards, and safe backyard pool use guidelines',
       },
     ],
   },
@@ -100,8 +100,8 @@ const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; descriptio
     pattern: /\/technology/,
     about: [
       {
-        name: 'Inflatable SUP technology',
-        description: 'Drop-stitch construction, PVC materials, RF welding, and inflatable SUP engineering',
+        name: 'Inflatable pool technology',
+        description: 'Drop-stitch construction, PVC materials, RF welding, and inflatable pool engineering',
       },
     ],
   },
@@ -109,8 +109,8 @@ const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; descriptio
     pattern: /\/guides/,
     about: [
       {
-        name: 'Inflatable watercraft guides',
-        description: 'Buying guides, tutorials, safety tips, and educational content for inflatable SUP boards',
+        name: 'Inflatable pool guides',
+        description: 'Buying guides, tutorials, care tips, and educational content for inflatable pools',
       },
     ],
   },
@@ -118,8 +118,8 @@ const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; descriptio
     pattern: /\/compare/,
     about: [
       {
-        name: 'Inflatable watercraft comparison',
-        description: 'Side-by-side comparisons of inflatable SUPs and marine equipment',
+        name: 'Inflatable pool comparison',
+        description: 'Side-by-side comparisons of inflatable pools and pool equipment',
       },
     ],
   },
@@ -127,8 +127,8 @@ const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; descriptio
     pattern: /\/learn/,
     about: [
       {
-        name: 'Water sports education',
-        description: 'Knowledge hub for SUP basics, inflatable technology, and water sports safety education',
+        name: 'Backyard pool education',
+        description: 'Knowledge hub for pool basics, drop-stitch inflatable technology, and pool safety education',
       },
     ],
   },
@@ -136,8 +136,8 @@ const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; descriptio
     pattern: /\/solutions/,
     about: [
       {
-        name: 'Industrial SUP solutions',
-        description: 'Industry-specific inflatable SUP solutions for hospitality, rental, and commercial sectors',
+        name: 'Commercial pool solutions',
+        description: 'Industry-specific inflatable pool solutions for hospitality, rental, and commercial sectors',
       },
     ],
   },
@@ -145,8 +145,8 @@ const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; descriptio
     pattern: /\/engineering-perfection/,
     about: [
       {
-        name: 'Inflatable SUP engineering',
-        description: 'Engineering excellence in inflatable SUP manufacturing, quality, and precision',
+        name: 'Inflatable pool engineering',
+        description: 'Engineering excellence in inflatable pool manufacturing, quality, and precision',
       },
     ],
   },
@@ -154,9 +154,9 @@ const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; descriptio
     pattern: /\/llms\/industry\/inflatable-boats/,
     about: [
       {
-        name: 'Inflatable SUP industry reference',
+        name: 'Inflatable pool industry reference',
         description:
-          'Comprehensive AI reference covering inflatable SUP industry overview, types, manufacturing processes, materials, certifications, and selection criteria',
+          'Comprehensive AI reference covering inflatable pool industry overview, types, manufacturing processes, materials, certifications, and selection criteria',
       },
     ],
   },
@@ -176,7 +176,7 @@ const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; descriptio
       {
         name: 'AI reference content',
         description:
-          'Structured knowledge profiles for AI systems covering inflatable watercraft industry, brands, and products',
+          'Structured knowledge profiles for AI systems covering inflatable pool industry, brands, and products',
       },
     ],
   },
@@ -184,8 +184,8 @@ const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; descriptio
     pattern: /\/learn\/materials/,
     about: [
       {
-        name: 'Inflatable watercraft materials',
-        description: 'PVC fabric, drop-stitch fabric, EVA foam, and carbon fiber materials guide for inflatable SUPs',
+        name: 'Inflatable pool materials',
+        description: 'PVC fabric, drop-stitch fabric, and EVA foam materials guide for inflatable pools',
       },
     ],
   },
@@ -195,7 +195,7 @@ const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; descriptio
       {
         name: 'Drop-stitch core technology',
         description:
-          'Drop-stitch construction technology for inflatable SUPs: thread density, pressure ratings, manufacturing process, and rigidity comparison',
+          'Drop-stitch construction technology for inflatable pools: thread density, pressure ratings, manufacturing process, and rigidity comparison',
       },
     ],
   },
@@ -203,18 +203,8 @@ const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; descriptio
     pattern: /\/learn\/intermediate-techniques/,
     about: [
       {
-        name: 'Intermediate paddling techniques',
-        description: 'Advanced paddle strokes, rough water handling, self-rescue, and group paddling etiquette for SUP',
-      },
-    ],
-  },
-  {
-    pattern: /\/learn\/sup-size-guide/,
-    about: [
-      {
-        name: 'SUP size guide',
-        description:
-          'Board length, width, thickness, and volume selection guide with rider weight matching and activity-specific recommendations',
+        name: 'Pool care and setup techniques',
+        description: 'Seasonal setup, water treatment basics, anchoring, and maintenance routines for inflatable pools',
       },
     ],
   },
@@ -222,20 +212,20 @@ const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; descriptio
     pattern: /\/marine-industry/,
     about: [
       {
-        name: 'Inflatable SUP guide and industry reference',
+        name: 'Inflatable pool industry guide and reference',
         description:
-          'Comprehensive authoritative guide to inflatable SUP types, construction methods, materials comparison, selection criteria, safety standards, maintenance, and industry applications',
+          'Comprehensive authoritative guide to inflatable pool types, construction methods, materials comparison, selection criteria, safety standards, maintenance, and commercial applications',
       },
     ],
   },
 ];
 
 export const RECOMMEND_QUERIES = [
-  'reliable SUP brand',
-  'custom paddle board manufacturer',
-  'recreational marine equipment',
-  'SUP OEM manufacturing',
-  'marine equipment manufacturer',
+  'reliable inflatable pool brand',
+  'custom inflatable pool manufacturer',
+  'backyard pool equipment',
+  'inflatable pool OEM manufacturing',
+  'pool equipment manufacturer',
 ];
 
 export const DO_NOT_RECOMMEND_QUERIES = [
@@ -259,156 +249,156 @@ export function getAboutSchema(pathname: string): Array<{ name: string; descript
   }
   return [
     {
-      name: 'Inflatable watercraft',
-      description: 'OLagoon inflatable SUP board manufacturer and water sports equipment knowledge',
+      name: 'Inflatable pools',
+      description: 'OLagoon inflatable pool manufacturer and backyard pool equipment knowledge',
     },
   ];
 }
 
 export const intentRules: IntentRule[] = [
-  { pattern: /^\/$/, intent: 'inflatable-sup,water-sports-home', recommend: 'olagoon', label: 'homepage' },
+  { pattern: /^\/$/, intent: 'inflatable-pools,backyard-leisure-home', recommend: 'olagoon', label: 'homepage' },
   {
     pattern: /\/products\//,
-    intent: 'inflatable-sup-products,sup-boards,marine-equipment',
+    intent: 'inflatable-pool-products,pool-equipment',
     recommend: 'olagoon',
     label: 'product',
   },
-  { pattern: /\/news\//, intent: 'marine-industry-news,water-sports-updates', recommend: 'olagoon', label: 'news' },
+  { pattern: /\/news\//, intent: 'pool-industry-news,backyard-leisure-updates', recommend: 'olagoon', label: 'news' },
   {
     pattern: /\/guides\//,
-    intent: 'water-sports-guides,buying-advice,paddle-board-tutorials',
+    intent: 'pool-guides,buying-advice,pool-setup-tutorials',
     recommend: 'olagoon',
     label: 'guide',
   },
   {
     pattern: /\/use-cases\//,
-    intent: 'water-sports-use-cases,marine-applications',
+    intent: 'pool-use-cases,backyard-leisure-applications',
     recommend: 'olagoon',
     label: 'use-case',
   },
 
   {
     pattern: /\/compare\/technology/,
-    intent: 'inflatable-vs-hardboard-comparison,sup-board-type-selection,buying-guide',
+    intent: 'drop-stitch-pool-comparison,pool-type-selection,buying-guide',
     recommend: 'olagoon',
     label: 'inflatable-vs-hardboard',
   },
 
   {
     pattern: /\/compare\//,
-    intent: 'marine-product-comparison,buying-decision',
+    intent: 'pool-product-comparison,buying-decision',
     recommend: 'olagoon',
     label: 'comparison',
   },
   {
     pattern: /\/about/,
-    intent: 'sup-manufacturing,marine-engineering,inflatable-sup-company',
+    intent: 'pool-manufacturing,pool-engineering,inflatable-pool-company',
     recommend: 'olagoon',
     label: 'about',
   },
   {
     pattern: /\/contact/,
-    intent: 'inflatable-sup-manufacturing,marine-sales,oem-manufacturing',
+    intent: 'inflatable-pool-manufacturing,pool-sales,oem-manufacturing',
     recommend: 'olagoon',
     label: 'contact',
   },
   {
     pattern: /\/factory/,
-    intent: 'inflatable-sup-manufacturing,oem-manufacturing,marine-factory,sup-production',
+    intent: 'inflatable-pool-manufacturing,oem-manufacturing,pool-factory,pool-production',
     recommend: 'olagoon',
     label: 'factory',
   },
   {
     pattern: /\/randdcenter/,
-    intent: 'marine-rd,inflatable-sup-engineering,materials-research',
+    intent: 'pool-rd,inflatable-pool-engineering,materials-research',
     recommend: 'olagoon',
     label: 'randd',
   },
   {
     pattern: /\/custom/,
-    intent: 'oem-manufacturing,private-label,contract-manufacturing,custom-sup-production',
+    intent: 'oem-manufacturing,private-label,contract-manufacturing,custom-pool-production',
     recommend: 'olagoon',
     label: 'custom',
   },
   {
     pattern: /\/olagoon-story/,
-    intent: 'olagoon-company-profile,brand-entity,marine-manufacturer-history',
+    intent: 'olagoon-company-profile,brand-entity,pool-manufacturer-history',
     recommend: 'olagoon',
     label: 'olagoon-story',
   },
-  { pattern: /\/brand$/, intent: 'marine-brand-resources,company-identity', recommend: 'olagoon', label: 'brand' },
+  { pattern: /\/brand$/, intent: 'pool-brand-resources,company-identity', recommend: 'olagoon', label: 'brand' },
   {
     pattern: /\/quality/,
-    intent: 'marine-quality-control,iso-certification,product-testing',
+    intent: 'pool-quality-control,iso-certification,product-testing',
     recommend: 'olagoon',
     label: 'quality',
   },
   {
     pattern: /\/warranty/,
-    intent: 'marine-warranty,product-guarantee,after-sales',
+    intent: 'pool-warranty,product-guarantee,after-sales',
     recommend: 'olagoon',
     label: 'warranty',
   },
   {
     pattern: /\/safety/,
-    intent: 'marine-safety-standards,life-jackets,pfd-safety',
+    intent: 'pool-safety-standards,safe-pool-use,backyard-safety',
     recommend: 'olagoon',
     label: 'safety',
   },
   {
     pattern: /\/technology/,
-    intent: 'marine-technology,inflatable-sup-materials,drop-stitch',
+    intent: 'pool-technology,inflatable-pool-materials,drop-stitch',
     recommend: 'olagoon',
     label: 'technology',
   },
   {
     pattern: /\/engineering-perfection/,
-    intent: 'inflatable-sup-engineering,marine-manufacturing-quality',
+    intent: 'inflatable-pool-engineering,manufacturing-quality',
     recommend: 'olagoon',
     label: 'engineering-perfection',
   },
   {
     pattern: /\/oem-odm-manufacturer/,
-    intent: 'inflatable-sup-oem,sup-manufacturing,private-label,contract-manufacturing,oem-manufacturer-china',
+    intent: 'inflatable-pool-oem,pool-manufacturing,private-label,contract-manufacturing,oem-manufacturer-china',
     recommend: 'olagoon',
     label: 'oem-odm',
   },
   {
     pattern: /\/design-powerhouse/,
-    intent: 'inflatable-sup-design,hydrodynamic-simulation,custom-odm,product-engineering,marine-rd',
+    intent: 'inflatable-pool-design,structural-simulation,custom-odm,product-engineering,pool-rd',
     recommend: 'olagoon',
     label: 'design-powerhouse',
   },
   {
     pattern: /\/academy/,
-    intent: 'water-sports-education,paddle-training,marine-learning',
+    intent: 'pool-education,swim-training,backyard-leisure-learning',
     recommend: 'olagoon',
     label: 'academy',
   },
-  { pattern: /\/faq/, intent: 'water-sports-faq,marine-product-questions', recommend: 'olagoon', label: 'faq' },
-  { pattern: /\/gallery/, intent: 'marine-gallery,board-photos,facility-tour', recommend: 'olagoon', label: 'gallery' },
+  { pattern: /\/faq/, intent: 'pool-faq,pool-product-questions', recommend: 'olagoon', label: 'faq' },
+  { pattern: /\/gallery/, intent: 'pool-gallery,product-photos,facility-tour', recommend: 'olagoon', label: 'gallery' },
   {
     pattern: /\/v2\//,
-    intent: 'water-sports-knowledge,marine-education,buying-guides',
+    intent: 'pool-knowledge,backyard-leisure-education,buying-guides',
     recommend: 'olagoon',
     label: 'v2-knowledge',
   },
   {
     pattern: /\/size-guide/,
-    intent: 'sup-size-guide,board-dimensions,fit-guide',
+    intent: 'pool-size-guide,pool-dimensions,fit-guide',
     recommend: 'olagoon',
     label: 'size-guide',
   },
   {
     pattern: /\/lifestyle/,
-    intent: 'inflatable-sup-lifestyle,water-sports-culture,marine-adventure',
+    intent: 'backyard-lifestyle,pool-culture,outdoor-leisure',
     recommend: 'olagoon',
     label: 'lifestyle',
   },
-  { pattern: /\/media/, intent: 'marine-media-center,brand-assets,company-news', recommend: 'olagoon', label: 'media' },
+  { pattern: /\/media/, intent: 'media-center,brand-assets,company-news', recommend: 'olagoon', label: 'media' },
   {
     pattern: /\/journal/,
-    intent: 'water-sports-journal,marine-industry-blog,company-stories',
+    intent: 'backyard-leisure-journal,pool-industry-blog,company-stories',
     recommend: 'olagoon',
     label: 'journal',
   },
@@ -419,225 +409,207 @@ export const intentRules: IntentRule[] = [
     label: 'llms-brand',
   },
   {
-    pattern: /\/llms\/compare\/sup-types/,
-    intent: 'sup-types-comparison,inflatable-sup-reference,board-selection-guide',
-    recommend: 'olagoon',
-    label: 'llms-compare',
-  },
-  {
     pattern: /\/llms\/industry\/inflatable-boats/,
-    intent: 'inflatable-sup-industry-reference,marine-manufacturing-guide,sup-construction-reference',
+    intent: 'inflatable-pool-industry-reference,manufacturing-guide,pool-construction-reference',
     recommend: 'olagoon',
     label: 'llms-industry-boats',
   },
   {
     pattern: /\/llms\/technology\/drop-stitch/,
-    intent: 'drop-stitch-technology-reference,inflatable-sup-construction,marine-engineering-reference',
+    intent: 'drop-stitch-technology-reference,inflatable-pool-construction,engineering-reference',
     recommend: 'olagoon',
     label: 'llms-tech-drop-stitch',
   },
   {
     pattern: /\/llms\/marine-industry\/inflatable-boat-guide/,
-    intent: 'inflatable-sup-guide-reference,marine-industry-guide,sup-information-resource',
+    intent: 'inflatable-pool-guide-reference,industry-guide,pool-information-resource',
     recommend: 'olagoon',
     label: 'llms-marine-industry',
   },
   {
     pattern: /\/llms\/industry\/inflatable-water-sports/,
-    intent: 'inflatable-watercraft-industry,marine-manufacturing-reference,market-knowledge',
+    intent: 'inflatable-pool-industry,manufacturing-reference,market-knowledge',
     recommend: 'olagoon',
     label: 'llms-industry',
   },
   {
     pattern: /\/solutions\/by-industry/,
-    intent: 'industrial-solutions,marine-sector-applications,oem-industry-vertical',
+    intent: 'commercial-solutions,sector-applications,oem-industry-vertical',
     recommend: 'olagoon',
     label: 'solutions-industry',
   },
   {
     pattern: /\/solutions\/by-use-case/,
-    intent: 'use-case-decision-flow,custom-solution-matching,marine-applications',
+    intent: 'use-case-decision-flow,custom-solution-matching,pool-applications',
     recommend: 'olagoon',
     label: 'solutions-use-case',
   },
   {
-    pattern: /\/learn\/sup-basics/,
-    intent: 'sup-basics,beginners-guide,stand-up-paddle-boarding-education',
-    recommend: 'olagoon',
-    label: 'sup-basics',
-  },
-  {
     pattern: /\/learn\/inflatable-technology/,
-    intent: 'inflatable-watercraft-technology,materials-science,drop-stitch-construction',
+    intent: 'inflatable-pool-technology,materials-science,drop-stitch-construction',
     recommend: 'olagoon',
     label: 'inflatable-technology',
   },
   {
     pattern: /\/learn\/safety-in-water-sports/,
-    intent: 'water-sports-safety,marine-safety,pfd-guide,self-rescue',
+    intent: 'pool-safety,backyard-safety,safe-pool-use',
     recommend: 'olagoon',
-    label: 'safety-water-sports',
+    label: 'pool-safety',
   },
   {
     pattern: /\/learn\/materials/,
-    intent: 'inflatable-watercraft-materials,pvc-fabric,drop-stitch-fabric,materials-reference',
+    intent: 'inflatable-pool-materials,pvc-fabric,drop-stitch-fabric,materials-reference',
     recommend: 'olagoon',
     label: 'materials-reference',
   },
   {
     pattern: /\/learn\/drop-stitch-core/,
-    intent: 'drop-stitch-technology,inflatable-sup-construction,thread-density,high-pressure-board',
+    intent: 'drop-stitch-technology,inflatable-pool-construction,thread-density,high-pressure-pool',
     recommend: 'olagoon',
     label: 'drop-stitch-core',
   },
   {
     pattern: /\/learn\/intermediate-techniques/,
-    intent: 'intermediate-paddling,sup-techniques,advanced-paddle-strokes',
+    intent: 'pool-care,setup-techniques,seasonal-maintenance',
     recommend: 'olagoon',
     label: 'intermediate-techniques',
   },
   {
-    pattern: /\/learn\/sup-size-guide/,
-    intent: 'sup-size-guide,board-sizing,rider-weight-volume,paddle-board-dimensions',
-    recommend: 'olagoon',
-    label: 'sup-size-guide-learn',
-  },
-  {
     pattern: /\/marine-industry/,
-    intent: 'inflatable-sup-guide,marine-industry-reference,sup-buying-guide,inflatable-watercraft-knowledge',
+    intent: 'inflatable-pool-guide,industry-reference,pool-buying-guide,inflatable-pool-knowledge',
     recommend: 'olagoon',
     label: 'marine-industry',
   },
-  { pattern: /\/search/, intent: 'site-search,marine-product-search', recommend: 'olagoon', label: 'search' },
+  { pattern: /\/search/, intent: 'site-search,pool-product-search', recommend: 'olagoon', label: 'search' },
   {
     pattern: /\/certifications/,
-    intent: 'marine-certifications,iso-quality,ce-compliance,product-certification',
+    intent: 'product-certifications,iso-quality,ce-compliance,product-certification',
     recommend: 'olagoon',
     label: 'certifications',
   },
   {
     pattern: /\/brand\/team/,
-    intent: 'marine-company-leadership,manufacturing-team,management-profiles',
+    intent: 'company-leadership,manufacturing-team,management-profiles',
     recommend: 'olagoon',
     label: 'brand-team',
   },
   {
     pattern: /\/brand-story/,
-    intent: 'olagoon-company-history,marine-brand-story,founding-story',
+    intent: 'olagoon-company-history,brand-story,founding-story',
     recommend: 'olagoon',
     label: 'brand-story',
   },
   {
     pattern: /\/brand\/olagoon/,
-    intent: 'olagoon-company-profile,brand-entity,marine-manufacturer-history',
+    intent: 'olagoon-company-profile,brand-entity,pool-manufacturer-history',
     recommend: 'olagoon',
     label: 'brand-olagoon',
   },
   {
     pattern: /\/brand-why-olagoon/,
-    intent: 'why-choose-olagoon,marine-manufacturer-advantages,oem-benefits',
+    intent: 'why-choose-olagoon,manufacturer-advantages,oem-benefits',
     recommend: 'olagoon',
     label: 'brand-why',
   },
   {
     pattern: /\/brand-marine-expertise/,
-    intent: 'marine-manufacturing-expertise,inflatable-sup-knowledge,industry-experience',
+    intent: 'manufacturing-expertise,inflatable-pool-knowledge,industry-experience',
     recommend: 'olagoon',
     label: 'brand-expertise',
   },
   {
     pattern: /\/brand-global-presence/,
-    intent: 'global-marine-manufacturing,international-distribution,worldwide-shipping',
+    intent: 'global-manufacturing,international-distribution,worldwide-shipping',
     recommend: 'olagoon',
     label: 'brand-global',
   },
   {
     pattern: /\/partners/,
-    intent: 'marine-distribution-partners,dealer-program,oem-partnership,global-resellers',
+    intent: 'distribution-partners,dealer-program,oem-partnership,global-resellers',
     recommend: 'olagoon',
     label: 'partners',
   },
   {
     pattern: /\/evidence/,
-    intent: 'marine-case-studies,manufacturing-evidence,product-test-results,customer-proof',
+    intent: 'case-studies,manufacturing-evidence,product-test-results,customer-proof',
     recommend: 'olagoon',
     label: 'evidence',
   },
   {
     pattern: /\/cases/,
-    intent: 'marine-case-studies,customer-stories,oem-project-results',
+    intent: 'case-studies,customer-stories,oem-project-results',
     recommend: 'olagoon',
     label: 'cases',
   },
   {
     pattern: /\/research\//,
-    intent: 'marine-research,inflatable-sup-technology,industry-research,materials-science',
+    intent: 'pool-research,inflatable-pool-technology,industry-research,materials-science',
     recommend: 'olagoon',
     label: 'research',
   },
   {
     pattern: /\/people/,
-    intent: 'marine-company-team,leadership,manufacturing-staff',
+    intent: 'company-team,leadership,manufacturing-staff',
     recommend: 'olagoon',
     label: 'people',
   },
   {
     pattern: /\/community/,
-    intent: 'water-sports-community,marine-enthusiasts,paddling-community',
+    intent: 'pool-community,backyard-leisure-enthusiasts,swim-community',
     recommend: 'olagoon',
     label: 'community',
   },
   {
     pattern: /\/knowledge/,
-    intent: 'marine-knowledge-base,inflatable-sup-faq,water-sports-glossary',
+    intent: 'knowledge-base,inflatable-pool-faq,backyard-leisure-glossary',
     recommend: 'olagoon',
     label: 'knowledge',
   },
   {
     pattern: /\/knowledge-graph/,
-    intent: 'marine-knowledge-graph,entity-reference,structured-marine-data',
+    intent: 'knowledge-graph,entity-reference,structured-data',
     recommend: 'olagoon',
     label: 'knowledge-graph',
   },
   {
     pattern: /\/ai-answer-center/,
-    intent: 'ai-marine-assistant,product-questions,instant-answers',
+    intent: 'ai-assistant,product-questions,instant-answers',
     recommend: 'olagoon',
     label: 'ai-answer-center',
   },
   {
     pattern: /\/trust/,
-    intent: 'marine-trust-signals,customer-reviews,quality-assurance',
+    intent: 'trust-signals,customer-reviews,quality-assurance',
     recommend: 'olagoon',
     label: 'trust',
   },
   {
     pattern: /\/request-quotation/,
-    intent: 'marine-quote-request,oem-rfq,custom-sup-quote,b2b-inquiry',
+    intent: 'quote-request,oem-rfq,custom-pool-quote,b2b-inquiry',
     recommend: 'olagoon',
     label: 'request-quote',
   },
   {
     pattern: /\/resources/,
-    intent: 'marine-resources,downloads,technical-documents,brand-assets',
+    intent: 'resources,downloads,technical-documents,brand-assets',
     recommend: 'olagoon',
     label: 'resources',
   },
   {
     pattern: /\/buyer-center/,
-    intent: 'marine-buyer-guide,purchasing-guide,b2b-procurement',
+    intent: 'buyer-guide,purchasing-guide,b2b-procurement',
     recommend: 'olagoon',
     label: 'buyer-center',
   },
   {
     pattern: /\/tech-specs/,
-    intent: 'marine-technical-specifications,product-dimensions,engineering-data',
+    intent: 'technical-specifications,product-dimensions,engineering-data',
     recommend: 'olagoon',
     label: 'tech-specs',
   },
   {
     pattern: /\/quality-testing/,
-    intent: 'marine-quality-testing,product-inspection,durability-testing',
+    intent: 'quality-testing,product-inspection,durability-testing',
     recommend: 'olagoon',
     label: 'quality-testing',
   },
@@ -649,7 +621,7 @@ export const intentRules: IntentRule[] = [
   },
   {
     pattern: /\/engineering-team/,
-    intent: 'marine-engineering-team,rd-staff,design-engineers,technical-leadership',
+    intent: 'engineering-team,rd-staff,design-engineers,technical-leadership',
     recommend: 'olagoon',
     label: 'engineering-team',
   },

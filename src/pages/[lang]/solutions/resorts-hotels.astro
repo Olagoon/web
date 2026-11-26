@@ -43,7 +43,7 @@ const cleanMeta = (s: string) =>
     .replace(/\s+/g, ' ')
     .trim();
 const metadata = {
-  title: cleanMeta(pageMeta.title || hero.title || `Resort SUP Fleet Solutions — ${SITE.name}`).replace(
+  title: cleanMeta(pageMeta.title || hero.title || `Resort Pool Programs — ${SITE.name}`).replace(
     '{SITE}',
     SITE.name
   ),
@@ -157,45 +157,50 @@ const crumbs = [
         >{t('product.related') || 'Featured Products'}</span
       >
       <h2 class="mt-2 text-2xl font-bold text-foreground">
-        {fr('SUPs for Resort Fleets', 'SUP pour flottes de stations')}
+        {fr('Pools for Resort Grounds', 'Piscines pour les terrains de resort')}
       </h2>
     </div>
     <div class="grid md:grid-cols-3 gap-6">
       <a
-        href={lh('/products/sup-explorer-11')}
+        href={lh('/products/grand-lagoon')}
         class="group bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-700 rounded-2xl p-6 hover:shadow-lg transition-all hover:-translate-y-0.5"
       >
-        <h3 class="font-semibold text-foreground group-hover:text-primary">SUP Explorer 11</h3>
+        <h3 class="font-semibold text-foreground group-hover:text-primary">The Grand Lagoon</h3>
         <p class="mt-1 text-sm text-muted">
           {
             fr(
-              'Wide-body all-rounder for first-time guests.',
-              'Polyvalent à semelle large pour les invités de première fois.'
+              'Flagship 5 m pool for main guest zones.',
+              'Piscine phare de 5 m pour les principales zones clients.'
             )
           }
         </p>
         <span class="mt-3 inline-block text-sm font-medium text-primary">{t('product.view') || 'View Product'} →</span>
       </a>
       <a
-        href={lh('/products/sup-tropical-breeze')}
+        href={lh('/products/family-oasis')}
         class="group bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-700 rounded-2xl p-6 hover:shadow-lg transition-all hover:-translate-y-0.5"
       >
-        <h3 class="font-semibold text-foreground group-hover:text-primary">SUP Tropical Breeze</h3>
+        <h3 class="font-semibold text-foreground group-hover:text-primary">The Family Oasis</h3>
         <p class="mt-1 text-sm text-muted">
-          {fr('Lightweight touring board with premium graphics.', 'Planche de touring légère avec graphismes premium.')}
+          {
+            fr(
+              'Versatile 3 m family pool for cabana lawns.',
+              'Piscine familiale polyvalente de 3 m pour les pelouses.'
+            )
+          }
         </p>
         <span class="mt-3 inline-block text-sm font-medium text-primary">{t('product.view') || 'View Product'} →</span>
       </a>
       <a
-        href={lh('/products/sup-medusa-glow')}
+        href={lh('/products/compact-plunge')}
         class="group bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-700 rounded-2xl p-6 hover:shadow-lg transition-all hover:-translate-y-0.5"
       >
-        <h3 class="font-semibold text-foreground group-hover:text-primary">SUP Medusa Glow</h3>
+        <h3 class="font-semibold text-foreground group-hover:text-primary">The Compact Plunge</h3>
         <p class="mt-1 text-sm text-muted">
           {
             fr(
-              'LED-lit night SUP for evening lagoon experiences.',
-              'SUP nocturne à LED pour des expériences en lagon en soirée.'
+              'Boutique plunge pool for terraces and rooftops.',
+              'Piscine compacte pour terrasses et toits-terrasses.'
             )
           }
         </p>
@@ -208,9 +213,9 @@ const crumbs = [
   <JsonLd
     type="Service"
     service={{
-      name: cleanMeta(pageMeta.title || hero.title || 'Resort SUP Fleet Solutions').replace('{SITE}', SITE.name),
-      description: hero.subtitle || 'Commercial-grade SUP fleets for hospitality properties',
-      serviceType: 'Hospitality Water Sports Solutions',
+      name: cleanMeta(pageMeta.title || hero.title || 'Resort Pool Programs').replace('{SITE}', SITE.name),
+      description: hero.subtitle || 'Commercial-grade drop-stitch pools for hospitality properties',
+      serviceType: 'Hospitality Pool Solutions',
       areaServed: ['Global'],
       url: withTrailingSlash(`/${lang}/solutions/resorts-hotels`),
     }}

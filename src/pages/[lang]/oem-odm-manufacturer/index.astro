@@ -15,10 +15,10 @@ const { lang } = Astro.params;
 const t = (key: string) => getUiForLang(lang || defaultLang)?.[key] || '';
 
 const metadata = {
-  title: `${t('oem.title') || 'Inflatable SUP OEM/ODM Manufacturer'} | ${SITE.name}`,
+  title: `${t('oem.title') || 'Inflatable Pool OEM/ODM Manufacturer'} | ${SITE.name}`,
   description:
     t('oem.desc') ||
-    `${SITE.name} — premier OEM/ODM manufacturer of inflatable SUP boards. CE-certified. Custom mold, private label, bulk wholesale. From idea to market in 16 weeks.`,
+    `${SITE.name} — premier OEM/ODM manufacturer of inflatable pools. CE-certified. Custom mold, private label, bulk wholesale. From idea to market in 16 weeks.`,
 };
 
 const steps = [
@@ -98,7 +98,7 @@ const packages = [
 <Layout metadata={metadata}>
   <meta
     name="ai-intent"
-    content="oem-odm-inflatable-sup-manufacturing,drop-stitch-sup-factory,custom-paddle-board-wholesale,china-sup-board-manufacturer,private-label-sup"
+    content="oem-odm-inflatable-pool-manufacturing,drop-stitch-pool-factory,custom-inflatable-pool-wholesale,china-pool-manufacturer,private-label-pool"
   />
 
   <!-- Hero -->
@@ -119,12 +119,12 @@ const packages = [
           {t('oem.badge') || 'OEM/ODM Manufacturing Partner'}
         </span>
         <h1 class="text-5xl sm:text-6xl md:text-7xl font-bold tracking-tight leading-[1.05] text-balance text-white">
-          {t('oem.heading') || 'Your SUP Brand.<br />Built By OLagoon.'}
+          {t('oem.heading') || 'Your Pool Brand.<br />Built By OLagoon.'}
         </h1>
         <p class="mt-6 text-lg md:text-xl text-white/70 max-w-2xl text-pretty leading-relaxed">
           {
             t('oem.subtitle') ||
-              'From idea to market in 16 weeks. We design, prototype, manufacture, and ship your custom inflatable SUP — private label, custom mold, or bulk wholesale.'
+              'From idea to market in 16 weeks. We design, prototype, manufacture, and ship your custom inflatable pool — private label, custom mold, or bulk wholesale.'
           }
         </p>
         <div class="mt-10 flex items-center gap-4 flex-wrap">
@@ -181,7 +181,7 @@ const packages = [
       <p class="mt-4 text-lg text-gray-500 max-w-2xl mx-auto">
         {
           t('oem.process.subtitle') ||
-            'A proven 5-phase process that takes your SUP brand from concept to global delivery.'
+            'A proven 5-phase process that takes your pool brand from concept to global delivery.'
         }
       </p>
     </div>
@@ -479,7 +479,7 @@ const packages = [
       numberOfEmployees: { '@type': 'QuantitativeValue', minValue: 200, maxValue: 300 },
       makesOffer: {
         '@type': 'Offer',
-        itemOffered: { '@type': 'Service', name: 'OEM/ODM Inflatable SUP Manufacturing' },
+        itemOffered: { '@type': 'Service', name: 'OEM/ODM Inflatable Pool Manufacturing' },
       },
     })}
   />

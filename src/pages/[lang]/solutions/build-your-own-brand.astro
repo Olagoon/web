@@ -42,7 +42,7 @@ const cleanMeta = (s: string) =>
     .replace(/\s+/g, ' ')
     .trim();
 const metadata = {
-  title: cleanMeta(pageMeta.title || hero.title || `Private Label SUP Manufacturing — ${SITE.name}`).replace(
+  title: cleanMeta(pageMeta.title || hero.title || `Private Label Pool Manufacturing — ${SITE.name}`).replace(
     '{SITE}',
     SITE.name
   ),
@@ -119,54 +119,59 @@ const crumbs = [
     </div>
     <div class="grid md:grid-cols-3 gap-6">
       <a
-        href={lh('/products/sup-explorer-11')}
+        href={lh('/products/grand-lagoon')}
         class="group bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-700 rounded-2xl p-6 hover:shadow-lg transition-all hover:-translate-y-0.5"
       >
         <h3
           class="font-semibold text-gray-900 dark:text-slate-100 group-hover:text-sky-700 dark:group-hover:text-sky-400"
         >
-          SUP Explorer 11
+          The Grand Lagoon
         </h3>
         <p class="mt-1 text-sm text-gray-500 dark:text-slate-400">
           {
             fr(
-              'Customizable white-label SUP for your brand.',
-              'SUP à marque blanche personnalisable pour votre marque.'
+              'White-label flagship ready for your brand.',
+              'Produit phare en marque blanche prêt pour votre marque.'
             )
           }
         </p>
         <span class="mt-3 inline-block text-sm font-medium text-sky-600">{t('product.view') || 'View Product'} →</span>
       </a>
       <a
-        href={lh('/products/sup-ocean-voyager')}
+        href={lh('/products/family-oasis')}
         class="group bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-700 rounded-2xl p-6 hover:shadow-lg transition-all hover:-translate-y-0.5"
       >
         <h3
           class="font-semibold text-gray-900 dark:text-slate-100 group-hover:text-sky-700 dark:group-hover:text-sky-400"
         >
-          SUP Ocean Voyager
+          The Family Oasis
         </h3>
         <p class="mt-1 text-sm text-gray-500 dark:text-slate-400">
           {
             fr(
-              'Premium touring SUP available for private label.',
-              'SUP de touring premium disponible en marque privée.'
+              'Customizable white-label family pool.',
+              'Piscine familiale personnalisable en marque blanche.'
             )
           }
         </p>
         <span class="mt-3 inline-block text-sm font-medium text-sky-600">{t('product.view') || 'View Product'} →</span>
       </a>
       <a
-        href={lh('/products/life-vest-classic')}
+        href={lh('/products/compact-plunge')}
         class="group bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-700 rounded-2xl p-6 hover:shadow-lg transition-all hover:-translate-y-0.5"
       >
         <h3
           class="font-semibold text-gray-900 dark:text-slate-100 group-hover:text-sky-700 dark:group-hover:text-sky-400"
         >
-          Life Vest Classic
+          The Compact Plunge
         </h3>
         <p class="mt-1 text-sm text-gray-500 dark:text-slate-400">
-          {fr('Custom-branded safety equipment option.', "Option d'équipement de sécurité personnalisé à la marque.")}
+          {
+            fr(
+              'Entry-level model for new brands.',
+              "Modèle d'entrée de gamme pour les nouvelles marques."
+            )
+          }
         </p>
         <span class="mt-3 inline-block text-sm font-medium text-sky-600">{t('product.view') || 'View Product'} →</span>
       </a>
@@ -177,9 +182,9 @@ const crumbs = [
   <JsonLd
     type="Service"
     service={{
-      name: cleanMeta(pageMeta.title || hero.title || 'Private Label SUP Manufacturing').replace('{SITE}', SITE.name),
+      name: cleanMeta(pageMeta.title || hero.title || 'Private Label Pool Manufacturing').replace('{SITE}', SITE.name),
       description:
-        hero.subtitle || 'End-to-end OEM/ODM SUP manufacturing — design, prototyping, production, and logistics',
+        hero.subtitle || 'End-to-end OEM/ODM pool manufacturing — design, prototyping, production, and logistics',
       serviceType: 'OEM/ODM Manufacturing',
       areaServed: ['Global'],
       url: withTrailingSlash(`/${lang}/solutions/build-your-own-brand`),

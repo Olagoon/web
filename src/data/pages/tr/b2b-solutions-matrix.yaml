@@ -1,10 +1,10 @@
 meta:
   title: 'B2B Client Solutions Matrix | {SITE}'
-  description: 'Complete OLagoon B2B client solutions matrix covering 24 customer types — from outdoor startups to marine conservation institutions.'
+  description: 'Complete OLagoon B2B client solutions matrix covering 12 customer types — from outdoor startup founders to summer camp operators.'
 
 hero:
   tagline: B2B Client Solutions
-  title: '24 B2B Solutions<br />Matched to Your Business'
+  title: '12 B2B Solutions<br />Matched to Your Business'
   subtitle: 'From startup founders to global distributors — find the exact OLagoon solution designed for your business model, industry, and goals.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
@@ -16,100 +16,52 @@ solutions:
   items:
     - clientType: Outdoor Startup Founder
       need: Brand Creation
-      solutionPage: Build Your pool Brand
+      solutionPage: Build Your Pool Brand
       link: /solutions/pool-brand-startup/
-    - clientType: Outdoor Brand Manager
-      need: Outdoor Brand Expansion Into Water Sports
-      solutionPage: Expand Outdoor Brand Into Water Sports
-      link: /solutions/expand-outdoor-brand-water-sports/
-    - clientType: Surf Shop Owner
-      need: Surf Business Upgrade
-      solutionPage: Bring Inflatable Technology Into Surf Business
-      link: /solutions/inflatable-technology-for-surf-business/
-    - clientType: Amazon Seller
-      need: E-commerce Growth
-      solutionPage: Product Differentiation & Fast Supply
+    - clientType: Existing Outdoor Brand Manager
+      need: Outdoor Brand Expansion
+      solutionPage: Expand an Outdoor Brand Portfolio
+      link: /solutions/expand-outdoor-brand-portfolio/
+    - clientType: Ecommerce Entrepreneur
+      need: Ecommerce Growth
+      solutionPage: Ecommerce Pool Brand Development
       link: /solutions/ecommerce-pool-brand-development/
-    - clientType: Fishing Gear Brand
-      need: Fishing pool
-      solutionPage: Create Your Fishing pool Brand
-      link: /solutions/create-fishing-pool-brand/
-    - clientType: Yoga & Wellness Brand
-      need: Wellness Water Products
-      solutionPage: pool Yoga Equipment Solutions
-      link: /solutions/pool-yoga-wellness-equipment/
-    - clientType: Creator Brand
-      need: Influencer Brand
-      solutionPage: Creator Edition pool Startup
-      link: /solutions/creator-influencer-pool-brand/
-    - clientType: Paddle Club Founder
-      need: Club Fleet
-      solutionPage: Commercial pool Fleet
-      link: /solutions/commercial-pool-fleet/
-    - clientType: Rental Business Owner
+    - clientType: Wellness & Spa Operator
+      need: Wellness Programming
+      solutionPage: Wellness & Spa Pool Program
+      link: /solutions/wellness-spa-pool-program/
+    - clientType: Rental & Events Operator
       need: Rental Operations
-      solutionPage: Durable Rental Fleet Solution
+      solutionPage: Durable Pool Rental Fleet
       link: /solutions/durable-pool-rental-fleet/
-    - clientType: Resort Activity Manager
-      need: Hotel Experience
-      solutionPage: Resort Water Activity Package
-      link: /solutions/resort-water-activity-package/
-    - clientType: Water Sports Academy
+    - clientType: Resort & Hotel Operator
+      need: Guest Amenities
+      solutionPage: Resort Pool Package
+      link: /solutions/resort-pool-package/
+    - clientType: Swim School & Aquatic Program
       need: Training & Education
-      solutionPage: pool Academy Equipment Program
-      link: /solutions/pool-academy-equipment-program/
-    - clientType: Cruise & Yacht Company
-      need: Yacht Experience
-      solutionPage: Luxury Portable pool Package
-      link: /solutions/luxury-portable-pool-package/
-    - clientType: Outdoor Retail Buyer
+      solutionPage: Swim School Pool Program
+      link: /solutions/swim-school-pool-program/
+    - clientType: Luxury Villa & Vacation Rental Operator
+      need: Premium Guest Experience
+      solutionPage: Luxury Villa Pool Package
+      link: /solutions/luxury-villa-pool-package/
+    - clientType: Retail Chain Buyer
       need: Retail Channel
       solutionPage: Retail Private Label Program
       link: /solutions/retail-private-label-program/
-    - clientType: Distributor & Importer
+    - clientType: Regional Distributor & Supply Chain Partner
       need: Regional Distribution
       solutionPage: Regional OEM & Supply Chain Partner
       link: /solutions/regional-oem-supply-chain-partner/
-    - clientType: Corporate Project Buyer
+    - clientType: Corporate Event & Activation Agency
       need: Corporate Events
-      solutionPage: Corporate pool Event Package
-      link: /solutions/corporate-pool-event-package/
-    - clientType: Water Sports Brand Manager
-      need: Water Sports Brand Expansion
-      solutionPage: Expand Your Water Sports Portfolio
-      link: /solutions/expand-your-water-sports-portfolio/
-    - clientType: Pet Adventure Brand Owner
-      need: Pet Outdoor
-      solutionPage: Pet-Friendly inflatable pool Program
-      link: /solutions/pet-friendly-paddle-board-program/
-    - clientType: Beach Recreation Operator
-      need: Beach Entertainment
-      solutionPage: Complete Beach Activity Equipment Solutions
-      link: /solutions/complete-beach-activity-equipment-solutions/
-    - clientType: Water Park Developer
-      need: Theme Entertainment
-      solutionPage: Commercial Water Park pool Fleet
-      link: /solutions/commercial-water-park-pool-fleet/
-    - clientType: Private Island & Luxury Club Owner
-      need: High-End Lifestyle
-      solutionPage: Premium Custom pool Collection
-      link: /solutions/premium-custom-pool-collection/
-    - clientType: Tourism Board & Public Park Operator
-      need: Public Tourism Projects
-      solutionPage: Destination Water Sports Package
-      link: /solutions/destination-water-sports-package/
-    - clientType: Kids Adventure & Summer Camp Operator
-      need: Youth Education
-      solutionPage: Kids Exploration pool Program
-      link: /solutions/kids-exploration-pool-program/
-    - clientType: Water Rescue & Safety Organization
-      need: Professional Rescue
-      solutionPage: Professional Water Rescue pool System
-      link: /solutions/professional-water-rescue-pool-system/
-    - clientType: Marine Conservation & Research Institution
-      need: Environmental Research
-      solutionPage: Eco Research & Monitoring pool Platform
-      link: /solutions/eco-research-monitoring-pool-platform/
+      solutionPage: Corporate Event Pool Package
+      link: /solutions/corporate-event-pool-package/
+    - clientType: Summer Camp & Youth Program Operator
+      need: Youth Programs
+      solutionPage: Summer Camp Pool Package
+      link: /solutions/summer-camp-pool-package/
 
 cta:
   title: 'Not sure which solution fits your business?'

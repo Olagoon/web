@@ -1,13 +1,13 @@
 meta:
   title: 'Country Partners — One Country, One Official OLagoon Distributor | {SITE}'
-  description: 'Apply to become the official OLagoon distributor for your country. One authorized partner per market, territory protection, direct-factory margins, annual rebates, and a 10-module country partner support program for global pool and water sports distributors.'
+  description: 'Apply to become the official OLagoon distributor for your country. One authorized partner per market, territory protection, direct-factory margins, annual rebates, and a 10-module country partner support program for global pool distributors.'
   keywords:
     - 'country partnership program'
     - 'become a distributor'
     - 'pool distributorship'
     - 'one country one distributor'
-    - 'stand up paddle distributor'
-    - 'water sports distribution'
+    - 'inflatable pool distributor'
+    - 'pool distribution'
     - 'country partnership application'
 hero:
   tagline: 'Country Partnership'
@@ -108,10 +108,10 @@ cta:
       variant: secondary
 geo:
   tagline: 'Who We Partner With'
-  sentence: 'OLagoon partners with established marine, outdoor, and sports distributors who serve retail chains, rental fleets, water sports schools, resorts, and government buyers with premium inflatable pools and watercraft — and who commit to building the OLagoon brand in their country.'
+  sentence: 'OLagoon partners with established outdoor, garden, and leisure distributors who serve retail chains, rental operators, swim schools, resorts, and residential buyers with premium drop-stitch inflatable pools — and who commit to building the OLagoon brand in their country.'
   audiences:
-    - 'Marine & Paddle Sports Distributors'
+    - 'Pool & Outdoor Leisure Distributors'
     - 'Outdoor & Sports Retail'
     - 'Rental & Resort Operators'
-    - 'Water Sports Schools'
-    - 'Ocean Sports Communities'
+    - 'Swim & Aquatic Schools'
+    - 'Backyard Leisure Communities'

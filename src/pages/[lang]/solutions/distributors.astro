@@ -40,7 +40,7 @@ const cleanMeta = (s: string) =>
     .replace(/\s+/g, ' ')
     .trim();
 const metadata = {
-  title: cleanMeta(pageMeta.title || hero.title || `SUP Distribution Partner Program — ${SITE.name}`).replace(
+  title: cleanMeta(pageMeta.title || hero.title || `Pool Distribution Partner Program — ${SITE.name}`).replace(
     '{SITE}',
     SITE.name
   ),
@@ -96,44 +96,59 @@ const crumbs = [
     </div>
     <div class="grid md:grid-cols-3 gap-6">
       <a
-        href={lh('/products/sup-explorer-11')}
+        href={lh('/products/grand-lagoon')}
         class="group bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-700 rounded-2xl p-6 hover:shadow-lg transition-all hover:-translate-y-0.5"
       >
         <h3
           class="font-semibold text-gray-900 dark:text-slate-100 group-hover:text-sky-700 dark:group-hover:text-sky-400"
         >
-          SUP Explorer 11
+          The Grand Lagoon
         </h3>
         <p class="mt-1 text-sm text-gray-500 dark:text-slate-400">
-          {fr('Best-selling inflatable SUP for all markets.', 'SUP gonflable best-seller pour tous les marchés.')}
+          {
+            fr(
+              'Flagship 5 m pool for premium positioning.',
+              'Piscine phare de 5 m pour un positionnement premium.'
+            )
+          }
         </p>
         <span class="mt-3 inline-block text-sm font-medium text-sky-600">{t('product.view') || 'View Product'} →</span>
       </a>
       <a
-        href={lh('/products/sup-ocean-voyager')}
+        href={lh('/products/family-oasis')}
         class="group bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-700 rounded-2xl p-6 hover:shadow-lg transition-all hover:-translate-y-0.5"
       >
         <h3
           class="font-semibold text-gray-900 dark:text-slate-100 group-hover:text-sky-700 dark:group-hover:text-sky-400"
         >
-          SUP Ocean Voyager
+          The Family Oasis
         </h3>
         <p class="mt-1 text-sm text-gray-500 dark:text-slate-400">
-          {fr('Premium touring SUP for advanced customers.', 'SUP de touring premium pour les clients avancés.')}
+          {
+            fr(
+              'Best-selling family pool for all markets.',
+              'Piscine familiale best-seller pour tous les marchés.'
+            )
+          }
         </p>
         <span class="mt-3 inline-block text-sm font-medium text-sky-600">{t('product.view') || 'View Product'} →</span>
       </a>
       <a
-        href={lh('/products/life-vest-pro')}
+        href={lh('/products/sand-filter-pump')}
         class="group bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-700 rounded-2xl p-6 hover:shadow-lg transition-all hover:-translate-y-0.5"
       >
         <h3
           class="font-semibold text-gray-900 dark:text-slate-100 group-hover:text-sky-700 dark:group-hover:text-sky-400"
         >
-          Life Vest Pro
+          Sand-Filter Pump
         </h3>
         <p class="mt-1 text-sm text-gray-500 dark:text-slate-400">
-          {fr('Professional SOLAS-compliant life vest.', 'Gilet de sauvetage professionnel conforme SOLAS.')}
+          {
+            fr(
+              'Repeat-order attachment with every pool sold.',
+              'Accessoire à réachat avec chaque piscine vendue.'
+            )
+          }
         </p>
         <span class="mt-3 inline-block text-sm font-medium text-sky-600">{t('product.view') || 'View Product'} →</span>
       </a>
@@ -144,14 +159,14 @@ const crumbs = [
   <JsonLd
     type="Service"
     service={{
-      name: cleanMeta(pageMeta.title || hero.title || 'SUP Distribution Partner Program').replace('{SITE}', SITE.name),
+      name: cleanMeta(pageMeta.title || hero.title || 'Pool Distribution Partner Program').replace('{SITE}', SITE.name),
       description: hero.subtitle || 'Exclusive territories, complete product portfolio, dedicated account management',
       serviceType: 'Distribution Partner Solutions',
       areaServed: ['Global'],
       url: withTrailingSlash(`/${lang}/solutions/distributors`),
       items: [
         { name: 'Exclusive Territories', description: 'Protected regional distribution rights' },
-        { name: 'Complete Portfolio', description: 'Full SUP product line with priority access to new releases' },
+        { name: 'Complete Portfolio', description: 'Full pool product line with priority access to new releases' },
         { name: 'Account Management', description: 'Dedicated support with marketing and logistics coordination' },
       ],
     }}

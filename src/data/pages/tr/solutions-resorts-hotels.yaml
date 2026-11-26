@@ -1,112 +1,111 @@
 meta:
-  title: 'Resort & Hotel pool Equipment Supplier | Resort Fleet Solutions | {SITE}'
-  description: 'Resort pool equipment supplier for hotels and resorts worldwide. Commercial-grade inflatable pools fleets, custom branding, staff training, and ROI-optimized packages from 20 to 100+ boards.'
+  title: 'Resort & Hotel Pool Supplier | Resort Pool Programs | {SITE}'
+  description: 'Resort pool supplier for hotels and resorts worldwide. Commercial-grade drop-stitch pool packages, custom branding, staff training, and guest-ready installation in a single day.'
 
 hero:
   tagline: Resorts & Hotels
-  title: 'Turn Your Waterfront Into a Revenue Centre<br />With Premium pool Fleets'
-  subtitle: 'OLagoon equips resorts worldwide with commercial-grade inflatable pools fleets — from 20-board starter packages to 100+ board flagship programs. Custom branding, staff training, and replacement parts included.'
+  title: 'Turn Your Lawn Into a Guest Magnet<br />With Premium Pool Programs'
+  subtitle: 'OLagoon equips resorts worldwide with commercial-grade drop-stitch pools — from 2-pool boutique packages to 6+ pool flagship programs. Custom branding, staff training, and replacement parts included.'
   image:
     src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
-    alt: Resort guests enjoying poolsing on a pristine beach
+    alt: Resort guests enjoying a drop-stitch pool on the lawn
 
 roi_section:
-  title: 'The Resort pool Revenue Model'
-  subtitle: 'How resorts generate $50,000 - $200,000+ annual pool rental income with a single investment.'
+  title: 'The Resort Pool Amenity Model'
+  subtitle: 'How resorts add guest-ready pool experiences in a single season — without permanent construction.'
   metrics:
-    - metric: '$50K–$200K+'
-      label: Annual pool Revenue
-      detail: Per resort, based on fleet size and occupancy
-    - metric: '4–6 Months'
-      label: Average Payback Period
-      detail: Recoup full fleet investment within one season
-    - metric: '40%'
-      label: Revenue Increase
-      detail: Average boost after switching to OLagoon fleets
-    - metric: '500+'
-      label: Rental Cycles Per Board
-      detail: Commercial-grade durability for daily use
+    - metric: '1 Day'
+      label: Installation Time
+      detail: A complete pool zone set up in a day — no permits, no construction
+    - metric: '90% Less'
+      label: vs In-Ground Construction
+      detail: Typical investment compared with a permanent pool build
+    - metric: '20 cm'
+      label: Sit-On Walls
+      detail: Shallow, supervision-friendly water depth for families
+    - metric: '48h'
+      label: Parts Dispatch
+      detail: Replacement parts shipped worldwide within 48 hours
 
 packages:
   title: Resort Package System
-  subtitle: 'Choose the package that fits your guest capacity and revenue goals. All packages include 12-month warranty and CE certification.'
+  subtitle: 'Choose the package that fits your guest capacity and season length. All packages include a 2-year warranty and CE certification.'
   items:
     - name: Starter Package
-      tagline: 'For boutique resorts, up to 20 guests/day'
+      tagline: 'For boutique resorts and cabin parks'
       features:
-        - '20 pools (3 sizes for adults/kids)'
-        - '20 paddles (adjustable) + 20 life vests'
-        - '4 dual-action pumps (electric optional)'
-        - '2 storage racks + repair kit'
-        - 'Custom logo print on boards'
-        - '12-month warranty + CE certified'
-      revenue: '$50K–$80K annual revenue potential'
+        - '2 pools (Family Oasis 3 m × 2 m)'
+        - '2 sand-filter pump systems'
+        - 'Thermal covers + ground mats'
+        - 'Entry steps for easy access'
+        - 'Custom logo print on every pool'
+        - '2-year warranty + CE certified'
+      revenue: 'Complete program from $30K–$45K per season'
       cta_text: 'Get Starter Package'
     - name: Premium Package
-      tagline: 'For large resorts, 50-100 guests/day'
+      tagline: 'For family resorts, 50-100 guests/day'
       features:
-        - '50 pools (5 sizes, mixed fleet)'
-        - '50 paddles + 50 life vests'
-        - '10 dual-action pumps + 2 electric pumps'
-        - '5 storage racks + 2 roller carts'
-        - 'Full custom branding (boards, paddles, bags)'
+        - '4 pools (Family Oasis + Grand Lagoon flagship)'
+        - '4 sand-filter pump systems'
+        - 'Complete accessory sets (covers, mats, steps)'
+        - 'Full custom branding on every pool'
         - 'Staff training session (online)'
         - '48-hour replacement parts dispatch'
-        - '12-month warranty + CE certified'
-      revenue: '$120K–$200K+ annual revenue potential'
+        - '2-year warranty + CE certified'
+      revenue: 'Complete program from $45K–$70K per season'
       popular: true
       cta_text: 'Get Premium Package'
     - name: Flagship Package
-      tagline: 'For ultra-premium resorts, 100+ guests/day'
+      tagline: 'For large resorts & resort groups'
       features:
-        - '100+ pools (full size range)'
-        - 'Complete accessory set (paddles, vests, pumps, carts)'
+        - '6+ pools including the Grand Lagoon flagship'
+        - 'Complete accessory sets (pumps, covers, mats, steps)'
         - 'On-site staff training (2 days)'
         - 'Dedicated account manager'
         - 'Priority replacement parts (24h dispatch)'
-        - 'Full custom branding (boards + accessories)'
-        - 'Marketing photo/video package'
-        - '24-month warranty + CE certified'
-      revenue: '$200K+ annual revenue potential'
+        - 'Full custom branding across the fleet'
+        - 'Marketing photo & video package'
+        - '2-year warranty + CE certified'
+      revenue: 'Custom programs from $70K per season'
       cta_text: 'Get Flagship Package'
 
 case_study:
-  quote: 'Since switching to OLagoon, our pool rental revenue increased 40%. Board replacement costs dropped 60%. We recouped our full fleet investment in 4 months.'
-  author: 'Water Activities Manager'
-  location: '5-star resort, Maldives'
+  quote: 'Two pools, one morning of setup, zero construction permits. By the first weekend our lawn had become the most photographed spot at the resort.'
+  author: 'General Manager'
+  location: 'Lakeside family resort, Minnesota, USA'
   results:
-    - label: 'Revenue Growth'
-      value: '+40%'
-    - label: 'Cost Reduction'
-      value: '-60%'
-    - label: 'Payback Period'
-      value: '4 Months'
+    - label: 'Setup Time'
+      value: '1 Morning'
+    - label: 'Investment vs In-Ground'
+      value: '-90%'
+    - label: 'Warranty'
+      value: '2 Years'
 
 features:
   title: Why Resorts Choose OLagoon
   subtitle: 'Commercial-grade durability, global logistics, and a partner who understands hospitality.'
   items:
     - title: '500+ Rental Cycles'
-      description: 'Every board is tested to survive 500+ rental cycles in saltwater, sun, and sand.'
+      description: 'Every pool is cycle-tested to survive season after season of daily guest use.'
       icon: 'tabler:shield-check'
     - title: '48h Parts Dispatch'
-      description: 'Replacement parts shipped within 48 hours — your rental revenue never stops.'
+      description: 'Replacement parts shipped within 48 hours — your guest experience never waits.'
       icon: 'tabler:truck-delivery'
     - title: 'Custom Branding'
-      description: 'Match your resort identity with custom colors and logo on every board.'
+      description: 'Match your resort identity with custom colors and logo on every pool.'
       icon: 'tabler:palette'
     - title: 'Staff Training'
-      description: 'Online and on-site training programs for your activities team.'
+      description: 'Online and on-site training on setup, water care, and supervision for your activities team.'
       icon: 'tabler:school'
     - title: 'Global Logistics'
       description: 'Shipping to 50+ countries with consolidated freight options.'
       icon: 'tabler:world'
     - title: 'CE Certified'
-      description: 'All equipment CE certified, ISO 9001:2015 — safety and quality guaranteed.'
+      description: 'Every pool CE-marked, REACH-compliant, and built in an ISO 9001:2015 factory.'
       icon: 'tabler:certificate'
 
 cta:
-  title: 'Ready to turn your waterfront into a revenue centre?'
+  title: 'Ready to turn your lawn into a guest magnet?'
   subtitle: 'Get your resort package quote or download our complete resort catalog.'
   actions:
     - text: 'Get Resort Package'

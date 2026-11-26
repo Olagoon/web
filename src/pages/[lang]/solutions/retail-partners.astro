@@ -42,7 +42,7 @@ const cleanMeta = (s: string) =>
     .replace(/\s+/g, ' ')
     .trim();
 const metadata = {
-  title: cleanMeta(pageMeta.title || hero.title || `SUP Retail Partner Program — ${SITE.name}`).replace(
+  title: cleanMeta(pageMeta.title || hero.title || `Pool Retail Partner Program — ${SITE.name}`).replace(
     '{SITE}',
     SITE.name
   ),
@@ -160,35 +160,45 @@ const crumbs = [
     </div>
     <div class="grid md:grid-cols-3 gap-6">
       <a
-        href={lh('/products/sup-explorer-11')}
+        href={lh('/products/family-oasis')}
         class="group bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-700 rounded-2xl p-6 hover:shadow-lg transition-all hover:-translate-y-0.5"
       >
-        <h3 class="font-semibold text-foreground group-hover:text-primary">SUP Explorer 11</h3>
-        <p class="mt-1 text-sm text-muted">
-          {fr('Best-selling all-round SUP for retail.', 'SUP polyvalent best-seller pour la vente au détail.')}
-        </p>
-        <span class="mt-3 inline-block text-sm font-medium text-primary">{t('product.view') || 'View Product'} →</span>
-      </a>
-      <a
-        href={lh('/products/life-vest-classic')}
-        class="group bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-700 rounded-2xl p-6 hover:shadow-lg transition-all hover:-translate-y-0.5"
-      >
-        <h3 class="font-semibold text-foreground group-hover:text-primary">Life Vest Classic</h3>
-        <p class="mt-1 text-sm text-muted">
-          {fr('CE-certified essential safety accessory.', 'Accessoire de sécurité essentiel certifié CE.')}
-        </p>
-        <span class="mt-3 inline-block text-sm font-medium text-primary">{t('product.view') || 'View Product'} →</span>
-      </a>
-      <a
-        href={lh('/products/oars-pump-set')}
-        class="group bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-700 rounded-2xl p-6 hover:shadow-lg transition-all hover:-translate-y-0.5"
-      >
-        <h3 class="font-semibold text-foreground group-hover:text-primary">Oars & Pump Set</h3>
+        <h3 class="font-semibold text-foreground group-hover:text-primary">The Family Oasis</h3>
         <p class="mt-1 text-sm text-muted">
           {
             fr(
-              'Complete paddle and inflation accessory set.',
-              "Ensemble complet d'accessoires de pagaie et de gonflage."
+              'Best-selling family pool for retail.',
+              'Piscine familiale best-seller pour la vente au détail.'
+            )
+          }
+        </p>
+        <span class="mt-3 inline-block text-sm font-medium text-primary">{t('product.view') || 'View Product'} →</span>
+      </a>
+      <a
+        href={lh('/products/grand-lagoon')}
+        class="group bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-700 rounded-2xl p-6 hover:shadow-lg transition-all hover:-translate-y-0.5"
+      >
+        <h3 class="font-semibold text-foreground group-hover:text-primary">The Grand Lagoon</h3>
+        <p class="mt-1 text-sm text-muted">
+          {
+            fr(
+              'Premium flagship with higher margins.',
+              'Produit phare premium avec de meilleures marges.'
+            )
+          }
+        </p>
+        <span class="mt-3 inline-block text-sm font-medium text-primary">{t('product.view') || 'View Product'} →</span>
+      </a>
+      <a
+        href={lh('/products/sand-filter-pump')}
+        class="group bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-700 rounded-2xl p-6 hover:shadow-lg transition-all hover:-translate-y-0.5"
+      >
+        <h3 class="font-semibold text-foreground group-hover:text-primary">Sand-Filter Pump</h3>
+        <p class="mt-1 text-sm text-muted">
+          {
+            fr(
+              'Essential attachment that bundles with every pool.',
+              'Accessoire essentiel qui accompagne chaque piscine.'
             )
           }
         </p>
@@ -201,13 +211,13 @@ const crumbs = [
   <JsonLd
     type="Service"
     service={{
-      name: cleanMeta(pageMeta.title || hero.title || 'SUP Retail Partner Program').replace('{SITE}', SITE.name),
+      name: cleanMeta(pageMeta.title || hero.title || 'Pool Retail Partner Program').replace('{SITE}', SITE.name),
       description: hero.subtitle || 'Full product line, marketing materials, dropshipping, and competitive margins',
       serviceType: 'Retail Partner Solutions',
       areaServed: ['Global'],
       url: withTrailingSlash(`/${lang}/solutions/retail-partners`),
       items: [
-        { name: 'Full Product Line', description: 'Complete SUP range with wholesale pricing' },
+        { name: 'Full Product Line', description: 'Complete pool range with wholesale pricing' },
         { name: 'Marketing Support', description: 'Branded materials, photography, and POS displays' },
         { name: 'Dropshipping', description: 'Zero-inventory fulfillment directly to your customers' },
       ],

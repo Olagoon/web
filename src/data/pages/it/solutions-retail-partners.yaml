@@ -1,11 +1,11 @@
 meta:
-  title: 'pool Wholesale & Retail Partner Program | {SITE}'
-  description: 'pool wholesale partner program for retailers and sporting goods stores. Full product line, dropshipping options, competitive wholesale margins from 20–35%, and low MOQ to start.'
+  title: 'Pool Wholesale & Retail Partner Program | {SITE}'
+  description: 'Pool wholesale partner program for retailers and garden centres. Full product line, dropshipping options, competitive wholesale margins from 20–35%, and low MOQ to start.'
 
 hero:
   tagline: Retail Partners
-  title: 'Sell Premium inflatable pools<br />With Margins That Work'
-  subtitle: 'Become an OLagoon retail partner — carry the fastest-growing pool brand in your market with full wholesale pricing, dropshipping, professional marketing materials, and dedicated support.'
+  title: 'Sell Premium Inflatable Pools<br />With Margins That Work'
+  subtitle: 'Become an OLagoon retail partner — carry the fastest-growing inflatable pool brand in your market with full wholesale pricing, dropshipping, professional marketing materials, and dedicated support.'
   image:
     src: https://assets.olagoon.com/images/olagoon/products/grand-lagoon.webp
     alt: OLagoon pools displayed in a retail store
@@ -17,7 +17,7 @@ margin_section:
     - tier: 'Basic Partner'
       discount: '20%'
       moq: '500 units/yr'
-      margin_note: '~$150–250 profit per board'
+      margin_note: '~$200–350 profit per pool'
       features:
         - 'Access to full product line'
         - 'Marketing materials package'
@@ -26,7 +26,7 @@ margin_section:
     - tier: 'Premium Partner'
       discount: '30%'
       moq: '2,000+ units/yr'
-      margin_note: '~$250–400 profit per board'
+      margin_note: '~$350–650 profit per pool'
       features:
         - 'Dedicated account manager'
         - 'Exclusive territory protection'
@@ -36,7 +36,7 @@ margin_section:
     - tier: 'Flagship Partner'
       discount: '35%+'
       moq: '5,000+ units/yr'
-      margin_note: '~$350–500+ profit per board'
+      margin_note: '~$650–1,200+ profit per pool'
       features:
         - 'Co-branded marketing campaigns'
         - 'In-store display support'
@@ -46,20 +46,20 @@ margin_section:
 
 product_line:
   title: Complete Product Line
-  subtitle: 'A pools for every customer who walks through your door.'
+  subtitle: 'A pool for every customer who walks through your door.'
   items:
-    - name: All-Round Series
-      description: 'Best seller — fits 80% of customers'
-    - name: Touring Series
-      description: 'Performance swimmers — higher margin'
-    - name: Yoga Series
-      description: 'Niche market — premium pricing'
-    - name: Kids Series
-      description: 'Family customers — repeat buyer'
-    - name: Racing Series
-      description: 'Enthusiast market — brand halo'
-    - name: Accessories
-      description: 'High margin add-ons (paddles, vests, pumps, bags)'
+    - name: The Compact Plunge
+      description: 'Entry price point — small patios and couples'
+    - name: The Family Oasis
+      description: 'Best seller — the volume driver for most stores'
+    - name: The Grand Lagoon
+      description: 'Premium statement piece — higher margin'
+    - name: Sand-Filter Pumps
+      description: 'Essential attachment — bundles with every pool'
+    - name: Covers & Ground Mats
+      description: 'Care add-ons with high attach rates'
+    - name: Entry Steps
+      description: 'Family safety upsell with strong margins'
 
 catalog:
   title: Retail Partner Resources
