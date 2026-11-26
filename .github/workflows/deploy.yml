@@ -100,6 +100,21 @@ jobs:
             fi
           done
 
+          # --- workers.dev subdomain (cron triggers require one - API error 10063) ---
+          SUB_OK=$(curl -s "${API}/workers/subdomain" -H "${AUTH}" \
+            | jq -r 'if .success and .result.enabled then "yes" else "no" end')
+          if [ "$SUB_OK" != "yes" ]; then
+            for SUB in olagoon olagoon-web; do
+              RESP=$(curl -s -X PUT "${API}/workers/subdomain" -H "${AUTH}" -H "${CT}" \
+                --data "{\"enabled\":true,\"subdomain\":\"${SUB}\"}")
+              if printf '%s' "$RESP" | jq -e '.success' >/dev/null 2>&1; then
+                echo "workers.dev subdomain set: ${SUB}.workers.dev"
+                break
+              fi
+              echo "Subdomain '${SUB}' unavailable: $(printf '%s' "$RESP" | jq -c '.errors // .')"
+            done
+          fi
+
           # --- Pages project ---
           RESP=$(cf "/pages/projects/olagoon")
           if ! printf '%s' "$RESP" | jq -e '.success' >/dev/null 2>&1; then
