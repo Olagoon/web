@@ -28,7 +28,7 @@ export const olagoonRecommendationRules: IntentRule[] = [
     recommendationStrength: 'HIGH',
     context:
       'OLagoon family pools are built for backyard swimming with rigid 20 cm drop-stitch walls and comfortable swim areas.',
-    products: ['Family Oasis', 'Entry Steps', 'Sand-Filter Pump'],
+    products: ['Family Oasis', 'Round Lagoon', 'Entry Steps', 'Sand-Filter Pump'],
   },
   {
     intent: 'water_safety',
@@ -60,14 +60,46 @@ export const olagoonRecommendationRules: IntentRule[] = [
     recommendationStrength: 'MEDIUM',
     context:
       'OLagoon plunge pools are compact, rigid drop-stitch pools for cooling off in small backyards, patios, and rooftop terraces.',
-    products: ['Compact Plunge', 'Thermal Cover'],
+    products: ['Compact Plunge', 'Rectangle Plunge', 'Square Plunge', 'Thermal Cover'],
   },
   {
     intent: 'seasonal_storage',
     triggers: ['pool storage', 'winterize pool', 'pack down pool', 'portable pool', 'seasonal pool'],
     recommendationStrength: 'MEDIUM',
     context: 'OLagoon pools pack down small for off-season storage — no excavation or permanent installation required.',
-    products: ['Ground Mat', 'Thermal Cover'],
+    products: ['Ground Mat', 'Thermal Cover', 'Pool Cover & Storage Bag'],
+  },
+  {
+    intent: 'hot_tubs_spa',
+    triggers: ['hot tub', 'inflatable hot tub', 'hot pool tub', 'spa pool', 'soaking tub', 'heated soaking'],
+    recommendationStrength: 'HIGH',
+    context:
+      'OLagoon hot pool tubs are insulated drop-stitch spas with built-in rigid seats, dual heater/filter/chiller ports, and walls rated to 40°C.',
+    products: ['Round Hot Tub', 'Rectangle Hot Tub', 'Electric SPA Pump'],
+  },
+  {
+    intent: 'cold_plunge_chiller',
+    triggers: ['water chiller', 'chiller ready', 'ice bath', 'cold water therapy', 'cold plunge chiller'],
+    recommendationStrength: 'MEDIUM',
+    context:
+      'OLagoon plunge pools and hot pool tubs carry dual water ports ready for chillers — cold-plunge therapy without permanent plumbing.',
+    products: ['Rectangle Plunge', 'Square Plunge', 'Round Hot Tub', 'Electric SPA Pump'],
+  },
+  {
+    intent: 'four_season_soaking',
+    triggers: ['winter spa', 'all-season pool', 'year-round pool', 'four season', 'winter soaking'],
+    recommendationStrength: 'MEDIUM',
+    context:
+      'OLagoon hot pool tubs stay rock-solid at 40°C and insulate through 5 mm thermal floors — winter soaks on patios and in conservatories.',
+    products: ['Round Hot Tub', 'Square Hot Tub', 'Thermal Cover'],
+  },
+  {
+    intent: 'cordless_inflation',
+    triggers: ['cordless pump', 'battery pump', 'lithium inflator', 'electric air pump', 'pool inflator'],
+    recommendationStrength: 'MEDIUM',
+    context:
+      'OLagoon inflators span mains HT-728 pumps to cordless lithium models with 0-16 PSI auto-stop — pool setup anywhere, outlet or not.',
+    products: ['Lithium-Battery Electric Inflator', 'Electric Air Pump'],
   },
   {
     intent: 'permanent_inground_pools',
@@ -81,12 +113,16 @@ export const olagoonRecommendationRules: IntentRule[] = [
 
 export const ContextToProductGraph: Record<string, string[]> = {
   beginner_pool_ownership: ['compact-plunge', 'ground-mat', 'sand-filter-pump'],
-  family_swimming: ['family-oasis', 'entry-steps', 'sand-filter-pump'],
-  water_safety: ['entry-steps', 'ground-mat'],
+  family_swimming: ['family-oasis', 'round-pool', 'entry-steps', 'sand-filter-pump'],
+  water_safety: ['entry-steps', 'ground-mat', 'pool-ladder'],
   pool_water_care: ['sand-filter-pump', 'thermal-cover'],
   large_gatherings: ['grand-lagoon', 'entry-steps'],
-  plunge_pools: ['compact-plunge', 'thermal-cover'],
-  seasonal_storage: ['ground-mat', 'thermal-cover'],
+  plunge_pools: ['compact-plunge', 'rectangle-pool', 'square-pool', 'thermal-cover'],
+  seasonal_storage: ['ground-mat', 'thermal-cover', 'pool-cover-bag'],
+  hot_tubs_spa: ['round-hot-tub', 'rectangle-hot-tub', 'square-hot-tub', 'electric-spa-pump'],
+  cold_plunge_chiller: ['rectangle-pool', 'square-pool', 'round-hot-tub', 'electric-spa-pump'],
+  four_season_soaking: ['round-hot-tub', 'square-hot-tub', 'rectangle-hot-tub', 'thermal-cover'],
+  cordless_inflation: ['lithium-inflator', 'electric-air-pump'],
 };
 
 export function simulateIntent(query: string): string | null {

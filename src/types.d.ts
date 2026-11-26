@@ -45,7 +45,7 @@ export interface Taxonomy {
 
 export type ProductCategory = 'pool' | 'accessory';
 
-export type ProductSeries = 'plunge' | 'family' | 'grand';
+export type ProductSeries = 'plunge' | 'family' | 'grand' | 'spa';
 
 export interface ProductSpec {
   label: string;

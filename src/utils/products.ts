@@ -13,6 +13,7 @@ const PRODUCT_SERIES_LABELS: Record<ProductSeries, string> = {
   plunge: 'Plunge Pools',
   family: 'Family Pools',
   grand: 'Grand Pools',
+  spa: 'Hot Tubs & Spas',
 };
 
 export const productCategoryLabels = PRODUCT_CATEGORY_LABELS;
@@ -205,7 +206,7 @@ export const getProductSeries = async (): Promise<Array<{ slug: ProductSeries; t
       map.set(p.series, (map.get(p.series) ?? 0) + 1);
     }
   });
-  const order: ProductSeries[] = ['plunge', 'family', 'grand'];
+  const order: ProductSeries[] = ['plunge', 'family', 'grand', 'spa'];
   return Array.from(map.entries())
     .sort((a, b) => order.indexOf(a[0]) - order.indexOf(b[0]))
     .map(([slug, count]) => ({

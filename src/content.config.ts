@@ -237,7 +237,7 @@ const productCollection = defineCollection({
     image: z.string().optional(),
     gallery: z.array(productImageSchema).optional(),
     category: z.enum(['accessory', 'service', 'pool']).optional(),
-    series: z.enum(['plunge', 'family', 'grand']).optional(),
+    series: z.enum(['plunge', 'family', 'grand', 'spa']).optional(),
     tags: z.array(z.string()).optional(),
     specs: z.array(productSpecSchema).optional(),
     price: productPriceSchema,
