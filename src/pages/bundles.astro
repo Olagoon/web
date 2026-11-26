@@ -4,9 +4,9 @@ import JsonLd from '~/components/common/JsonLd.astro';
 import { SITE } from 'astrowind:config';
 
 const metadata = {
-  title: `SUP & Watercraft Bundles – Complete Starter Kits | ${SITE.name}`,
+  title: `Pool Bundles – Complete Starter Kits | ${SITE.name}`,
   description:
-    'OLagoon SUP bundles — complete paddle board kits with board, pump, paddle, leash, and backpack. Factory-direct pricing on premium inflatable watercraft packages.',
+    'OLagoon pool bundles — complete drop-stitch pool kits with pool, sand-filter pump, thermal cover, ground mat, and entry steps. Factory-direct pricing on premium inflatable pool packages.',
   ignoreTitleTemplate: true,
 };
 ---
@@ -15,7 +15,7 @@ const metadata = {
   <JsonLd
     type="Article"
     data={{
-      headline: 'Complete SUP & Watercraft Bundles',
+      headline: 'Complete Pool Bundles',
       description: metadata.description,
       author: { '@type': 'Organization', name: SITE.name },
       datePublished: '2026-07-27',
@@ -37,10 +37,10 @@ const metadata = {
       mainEntity: [
         {
           '@type': 'Question',
-          name: 'What is included in an OLagoon SUP bundle?',
+          name: 'What is included in an OLagoon pool bundle?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'Every OLagoon inflatable SUP ships as a complete kit including the board, dual-action hand pump, adjustable aluminum paddle, coiled safety leash, removable fin set, travel backpack, and repair kit.',
+            text: 'Every OLagoon drop-stitch pool ships as a complete kit including the pool shell with rigid 20 cm walls, sand-filter pump, thermal cover, ground mat, entry steps, and repair kit.',
           },
         },
         {
@@ -53,7 +53,7 @@ const metadata = {
         },
         {
           '@type': 'Question',
-          name: 'Do you offer bundles without a pump or paddle?',
+          name: 'Do you offer bundles without a pump or cover?',
           acceptedAnswer: {
             '@type': 'Answer',
             text: 'Yes. We can create custom bundle configurations. Contact our OEM team to discuss a tailored bundle that matches your specific requirements.',
@@ -61,7 +61,7 @@ const metadata = {
         },
         {
           '@type': 'Question',
-          name: 'Are SUP bundles available for bulk orders?',
+          name: 'Are pool bundles available for bulk orders?',
           acceptedAnswer: {
             '@type': 'Answer',
             text: 'Yes. Bulk bundle orders are available for B2B partners including resorts, rental operators, retailers, and private label brands. Factory-direct pricing applies.',
@@ -72,7 +72,7 @@ const metadata = {
           name: 'What is the bundle warranty?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: "All bundle components carry OLagoon's standard warranty: 3 years for the SUP board, 1 year for accessories including pumps, paddles, and life vests.",
+            text: "All bundle components carry OLagoon's standard warranty: 2 years for the pool shell, 1 year for accessories including pumps, covers, and mats.",
           },
         },
       ],
@@ -83,48 +83,42 @@ const metadata = {
     <span class="text-xs font-semibold text-primary tracking-[0.25em] uppercase">Bundles</span>
     <h1 class="mt-4 text-4xl md:text-5xl font-bold text-secondary">Complete Starter Kits</h1>
     <p class="mt-4 text-lg text-gray-500">
-      All OLagoon inflatable SUPs ship as complete kits with everything you need to hit the water. Our bundles include:
+      All OLagoon drop-stitch pools ship as complete kits with everything you need for your first swim. Our bundles
+      include:
     </p>
     <ul class="mt-8 space-y-4">
       <li class="flex gap-3 items-start">
         <span class="text-primary mt-1">✓</span><div>
-          <strong class="text-gray-900">Inflatable SUP Board</strong><p class="text-sm text-gray-500">
-            Premium drop-stitch board with 15 PSI rigidity
+          <strong class="text-gray-900">Drop-Stitch Pool</strong><p class="text-sm text-gray-500">
+            Premium drop-stitch pool with rigid 20 cm walls at 10–15 PSI
           </p>
         </div>
       </li>
       <li class="flex gap-3 items-start">
         <span class="text-primary mt-1">✓</span><div>
-          <strong class="text-gray-900">Dual-Action Hand Pump</strong><p class="text-sm text-gray-500">
-            High-pressure pump for fast inflation
+          <strong class="text-gray-900">Sand-Filter Pump</strong><p class="text-sm text-gray-500">
+            Keeps water clean and circulating all season
           </p>
         </div>
       </li>
       <li class="flex gap-3 items-start">
         <span class="text-primary mt-1">✓</span><div>
-          <strong class="text-gray-900">Adjustable Paddle</strong><p class="text-sm text-gray-500">
-            Aluminum paddle with ergonomic handle
+          <strong class="text-gray-900">Thermal Cover</strong><p class="text-sm text-gray-500">
+            Insulates the water and keeps debris out
           </p>
         </div>
       </li>
       <li class="flex gap-3 items-start">
         <span class="text-primary mt-1">✓</span><div>
-          <strong class="text-gray-900">Coiled Safety Leash</strong><p class="text-sm text-gray-500">
-            Keep your board close at all times
+          <strong class="text-gray-900">Ground Mat</strong><p class="text-sm text-gray-500">
+            Protects the pool base and keeps it level
           </p>
         </div>
       </li>
       <li class="flex gap-3 items-start">
         <span class="text-primary mt-1">✓</span><div>
-          <strong class="text-gray-900">Removable Fin Set</strong><p class="text-sm text-gray-500">
-            Tracking fin for straight-line performance
-          </p>
-        </div>
-      </li>
-      <li class="flex gap-3 items-start">
-        <span class="text-primary mt-1">✓</span><div>
-          <strong class="text-gray-900">Travel Backpack</strong><p class="text-sm text-gray-500">
-            Wheeled backpack for easy transport and storage
+          <strong class="text-gray-900">Entry Steps</strong><p class="text-sm text-gray-500">
+            Safe, stable access in and out of the water
           </p>
         </div>
       </li>
@@ -155,20 +149,20 @@ const metadata = {
     <div class="text-center mb-10">
       <span class="text-sm font-semibold text-primary tracking-[0.25em] uppercase">FAQs</span>
       <h2 class="mt-2 text-3xl font-bold text-gray-900">Bundle Questions</h2>
-      <p class="mt-3 text-gray-500">Common questions about our SUP bundles and kits.</p>
+      <p class="mt-3 text-gray-500">Common questions about our pool bundles and kits.</p>
     </div>
     <div class="space-y-4">
       <details class="bg-white border border-gray-200 rounded-xl overflow-hidden group">
         <summary
           class="px-6 py-4 font-semibold text-gray-900 cursor-pointer hover:bg-gray-50 transition-colors list-none flex items-center justify-between"
         >
-          <span>What is included in an OLagoon SUP bundle?</span>
+          <span>What is included in an OLagoon pool bundle?</span>
           <span class="text-gray-400 group-open:rotate-180 transition-transform shrink-0">▼</span>
         </summary>
         <div class="px-6 pb-4">
           <p class="text-gray-600 leading-relaxed">
-            Every OLagoon inflatable SUP ships as a complete kit including the board, dual-action hand pump, adjustable
-            aluminum paddle, coiled safety leash, removable fin set, travel backpack, and repair kit.
+            Every OLagoon drop-stitch pool ships as a complete kit including the pool shell with rigid 20 cm walls,
+            sand-filter pump, thermal cover, ground mat, entry steps, and repair kit.
           </p>
         </div>
       </details>
@@ -190,7 +184,7 @@ const metadata = {
         <summary
           class="px-6 py-4 font-semibold text-gray-900 cursor-pointer hover:bg-gray-50 transition-colors list-none flex items-center justify-between"
         >
-          <span>Are SUP bundles available for bulk orders?</span>
+          <span>Are pool bundles available for bulk orders?</span>
           <span class="text-gray-400 group-open:rotate-180 transition-transform shrink-0">▼</span>
         </summary>
         <div class="px-6 pb-4">
@@ -209,8 +203,8 @@ const metadata = {
         </summary>
         <div class="px-6 pb-4">
           <p class="text-gray-600 leading-relaxed">
-            All bundle components carry OLagoon's standard warranty: 3 years for the SUP board, 1 year for accessories
-            including pumps, paddles, and life vests.
+            All bundle components carry OLagoon's standard warranty: 2 years for the pool shell, 1 year for accessories
+            including pumps, covers, and mats.
           </p>
         </div>
       </details>
