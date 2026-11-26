@@ -146,6 +146,17 @@ jobs:
             exit 1
           }
 
+      - name: Set automation cron schedule (0 2 * * *)
+        run: |
+          RESP=$(curl -s -X PUT "https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/workers/scripts/olagoon-automation/schedules" \
+            -H "Authorization: Bearer ${CLOUDFLARE_API_TOKEN}" -H "Content-Type: application/json" \
+            --data '[{"cron":"0 2 * * *"}]')
+          if ! printf '%s' "$RESP" | jq -e '.success' >/dev/null; then
+            echo "::error::cron schedule set failed: $(printf '%s' "$RESP" | jq -c '.errors // .')"
+            exit 1
+          fi
+          echo "Cron schedule set: $(printf '%s' "$RESP" | jq -c '.result')"
+
       - name: Sync Turnstile secret (contact worker)
         env:
           CONTACT_TURNSTILE_SECRET: ${{ secrets.CONTACT_TURNSTILE_SECRET }}

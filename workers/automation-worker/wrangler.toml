@@ -7,8 +7,9 @@ routes = [
   { pattern = "olagoon.com/api/automation/*", zone_name = "olagoon.com" },
 ]
 
-[triggers]
-crons = ["0 2 * * *"]
+# Cron trigger (0 2 * * *) is set via REST API by .github/workflows/deploy.yml
+# ("Set automation cron schedule" step). Keeping it out of [triggers] avoids
+# wrangler failing the whole deploy when the schedules endpoint errors.
 
 [[r2_buckets]]
 binding = "DATA_BUCKET"
