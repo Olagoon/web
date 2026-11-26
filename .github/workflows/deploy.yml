@@ -47,48 +47,65 @@ jobs:
 
       - name: Ensure Cloudflare resources (D1, Vectorize, R2, Pages project)
         run: |
+          set -euo pipefail
           AUTH="Authorization: Bearer ${CLOUDFLARE_API_TOKEN}"
           API="https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}"
+          CT="Content-Type: application/json"
+
+          cf() { # path [json_body] -> response
+            if [ $# -ge 2 ]; then curl -s -X POST "${API}$1" -H "${AUTH}" -H "${CT}" --data "$2"
+            else curl -s "${API}$1" -H "${AUTH}"; fi
+          }
+          must_ok() { # label response
+            if ! printf '%s' "$2" | jq -e '.success' >/dev/null; then
+              echo "::error::$1 failed: $(printf '%s' "$2" | jq -c '.errors // .')"
+              exit 1
+            fi
+          }
 
           # --- D1 database for contact worker ---
-          ID=$(curl -s "${API}/d1/database?per_page=100" -H "${AUTH}" \
-            | jq -r '.result[]? | select(.name == "olagoon-inquiries") | .uuid' | head -n 1)
+          RESP=$(cf "/d1/database?per_page=100")
+          must_ok "D1 list" "$RESP"
+          ID=$(printf '%s' "$RESP" | jq -r '.result[]? | select(.name == "olagoon-inquiries") | .uuid' | head -n 1)
           if [ -z "$ID" ]; then
             echo "Creating D1 database olagoon-inquiries..."
-            curl -s -X POST "${API}/d1/database" -H "${AUTH}" -H "Content-Type: application/json" \
-              --data '{"name":"olagoon-inquiries"}' | jq -e '.success'
-            ID=$(curl -s "${API}/d1/database?per_page=100" -H "${AUTH}" \
-              | jq -r '.result[]? | select(.name == "olagoon-inquiries") | .uuid' | head -n 1)
+            RESP=$(cf "/d1/database" '{"name":"olagoon-inquiries"}')
+            must_ok "D1 create" "$RESP"
+            ID=$(printf '%s' "$RESP" | jq -r '.result.uuid // empty')
+            if [ -z "$ID" ]; then echo "::error::D1 create returned no uuid"; exit 1; fi
           fi
-          if [ -z "$ID" ]; then echo "::error::Failed to create/resolve D1 database olagoon-inquiries"; exit 1; fi
           echo "D1 database olagoon-inquiries: ${ID}"
           sed -i "s/__D1_DATABASE_ID__/${ID}/" workers/contact-worker/wrangler.toml
 
           # --- Vectorize index for ai worker (bge-base-en-v1.5: 768 dims, cosine) ---
-          VID=$(curl -s "${API}/vectorize/v2/indexes" -H "${AUTH}" \
-            | jq -r '.result[]? | select(.name == "ai-index") | .name' | head -n 1)
+          RESP=$(cf "/vectorize/v2/indexes")
+          if printf '%s' "$RESP" | jq -e '.success' >/dev/null 2>&1; then
+            VID=$(printf '%s' "$RESP" | jq -r '.result[]? | select(.name == "ai-index") | .name' | head -n 1)
+          else
+            VID=""
+          fi
           if [ -z "$VID" ]; then
             echo "Creating Vectorize index ai-index (768 dims, cosine)..."
-            curl -s -X POST "${API}/vectorize/v2/indexes" -H "${AUTH}" -H "Content-Type: application/json" \
-              --data '{"name":"ai-index","dimensions":768,"metric":"cosine"}' | jq -e '.success'
+            RESP=$(cf "/vectorize/v2/indexes" '{"name":"ai-index","dimensions":768,"metric":"cosine"}')
+            must_ok "Vectorize create" "$RESP"
           fi
 
           # --- R2 buckets ---
           for BUCKET in olagoon-assets olagoon-data; do
-            CODE=$(curl -s -o /tmp/bucket.json -w "%{http_code}" "${API}/r2/buckets/${BUCKET}" -H "${AUTH}")
-            if [ "$CODE" != "200" ]; then
+            RESP=$(cf "/r2/buckets/${BUCKET}")
+            if ! printf '%s' "$RESP" | jq -e '.success' >/dev/null 2>&1; then
               echo "Creating R2 bucket ${BUCKET}..."
-              curl -s -X POST "${API}/r2/buckets" -H "${AUTH}" -H "Content-Type: application/json" \
-                --data "{\"name\":\"${BUCKET}\"}" | jq -e '.success'
+              RESP=$(cf "/r2/buckets" "{\"name\":\"${BUCKET}\"}")
+              must_ok "R2 create ${BUCKET}" "$RESP"
             fi
           done
 
           # --- Pages project ---
-          CODE=$(curl -s -o /tmp/pages.json -w "%{http_code}" "${API}/pages/projects/olagoon" -H "${AUTH}")
-          if [ "$CODE" != "200" ]; then
+          RESP=$(cf "/pages/projects/olagoon")
+          if ! printf '%s' "$RESP" | jq -e '.success' >/dev/null 2>&1; then
             echo "Creating Pages project olagoon (production branch: master)..."
-            curl -s -X POST "${API}/pages/projects" -H "${AUTH}" -H "Content-Type: application/json" \
-              --data '{"name":"olagoon","production_branch":"master"}' | jq -e '.success'
+            RESP=$(cf "/pages/projects" '{"name":"olagoon","production_branch":"master"}')
+            must_ok "Pages project create" "$RESP"
           fi
 
       - name: Apply D1 schema (contact worker, idempotent)
