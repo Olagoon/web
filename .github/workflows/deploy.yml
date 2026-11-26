@@ -149,7 +149,7 @@ jobs:
             ALLREC=$(curl -s "https://api.cloudflare.com/client/v4/zones/${ZID}/dns_records?per_page=100" -H "${AUTH}")
             if printf '%s' "$ALLREC" | jq -e '.success' >/dev/null 2>&1; then
               echo "::notice::Existing zone records: $(printf '%s' "$ALLREC" | jq -c '[.result[]? | {name, type}]')"
-              REC=$(printf '%s' "$ALLREC" | jq -r '[.result[]? | select(.name == "olagoon.com") | .id][0] // empty')
+              REC=$(printf '%s' "$ALLREC" | jq -r '[.result[]? | select(.name == "olagoon.com" and (.type == "A" or .type == "AAAA" or .type == "CNAME")) | .id][0] // empty')
             else
               echo "::warning::DNS records list failed (token needs DNS:Read): $(printf '%s' "$ALLREC" | jq -c '.errors // .')"
               REC=""
