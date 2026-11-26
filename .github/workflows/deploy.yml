@@ -100,6 +100,14 @@ jobs:
             fi
           done
 
+          # --- R2 custom domain assets.olagoon.com (site middleware 301s /images|/files here) ---
+          RESP=$(curl -s -X PUT "${API}/r2/buckets/olagoon-assets/domains/assets.olagoon.com" -H "${AUTH}")
+          if printf '%s' "$RESP" | jq -e '.success' >/dev/null 2>&1; then
+            echo "::notice::R2 custom domain assets.olagoon.com attached to olagoon-assets: $(printf '%s' "$RESP" | jq -c '.result // {}')"
+          else
+            echo "::warning::R2 custom domain attach failed (token needs R2:Edit incl. custom domains): $(printf '%s' "$RESP" | jq -c '.errors // .')"
+          fi
+
           # --- workers.dev subdomain (cron triggers require one - API error 10063) ---
           SUB_OK=$(curl -s "${API}/workers/subdomain" -H "${AUTH}" \
             | jq -r 'if .success and .result.enabled then "yes" else "no" end')
