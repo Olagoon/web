@@ -195,6 +195,10 @@ const LEGACY_REDIRECTS: Record<string, string> = {
   '/research/sup-manufacturing-process': '/research/oem-buyer-guide/',
   '/research/sup-paddle-technology': '/research/drop-stitch-technology/',
   '/research/sup-valve-types': '/research/drop-stitch-technology/',
+  // Deleted marine-industry SUP-guide series (removed in the OLagoon pool rebrand):
+  // root + 32 locale pages + llms data route all 301 to the pool guides hub.
+  '/marine-industry': '/guides/',
+  '/llms/marine-industry/inflatable-boat-guide': '/guides/',
 };
 
 function getLegacyRedirectTarget(pathname: string): string | null {

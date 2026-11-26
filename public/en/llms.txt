@@ -91,7 +91,6 @@ OLagoon is a backyard pool knowledge system focused on drop-stitch inflatable po
 - [Solutions by Use Case](https://olagoon.com/solutions/by-use-case)
 - [Materials Reference](https://olagoon.com/learn/materials)
 - [Drop-Stitch Core Technology](https://olagoon.com/en/learn/drop-stitch-core)
-- [Marine Industry Authority](https://olagoon.com/marine-industry)
 - [Trust Center](https://olagoon.com/trust)
 - [Certifications & Compliance](https://olagoon.com/en/certifications)
 - [Brand Marine Expertise](https://olagoon.com/brand-marine-expertise)

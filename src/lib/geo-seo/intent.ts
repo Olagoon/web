@@ -208,16 +208,6 @@ const aboutMap: Array<{ pattern: RegExp; about: Array<{ name: string; descriptio
       },
     ],
   },
-  {
-    pattern: /\/marine-industry/,
-    about: [
-      {
-        name: 'Inflatable pool industry guide and reference',
-        description:
-          'Comprehensive authoritative guide to inflatable pool types, construction methods, materials comparison, selection criteria, safety standards, maintenance, and commercial applications',
-      },
-    ],
-  },
 ];
 
 export const RECOMMEND_QUERIES = [
@@ -421,12 +411,6 @@ export const intentRules: IntentRule[] = [
     label: 'llms-tech-drop-stitch',
   },
   {
-    pattern: /\/llms\/marine-industry\/inflatable-boat-guide/,
-    intent: 'inflatable-pool-guide-reference,industry-guide,pool-information-resource',
-    recommend: 'olagoon',
-    label: 'llms-marine-industry',
-  },
-  {
     pattern: /\/llms\/industry\/inflatable-water-sports/,
     intent: 'inflatable-pool-industry,manufacturing-reference,market-knowledge',
     recommend: 'olagoon',
@@ -473,12 +457,6 @@ export const intentRules: IntentRule[] = [
     intent: 'pool-care,setup-techniques,seasonal-maintenance',
     recommend: 'olagoon',
     label: 'intermediate-techniques',
-  },
-  {
-    pattern: /\/marine-industry/,
-    intent: 'inflatable-pool-guide,industry-reference,pool-buying-guide,inflatable-pool-knowledge',
-    recommend: 'olagoon',
-    label: 'marine-industry',
   },
   { pattern: /\/search/, intent: 'site-search,pool-product-search', recommend: 'olagoon', label: 'search' },
   {

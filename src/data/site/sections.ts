@@ -105,11 +105,6 @@ export const SITE_SECTIONS: SiteSection[] = [
     sitemap: { entity: 'drop-stitch-core', type: 'guide', priority: '0.7' },
   },
   {
-    label: 'Marine Industry Authority',
-    path: '/marine-industry',
-    sitemap: { entity: 'marine-industry', type: 'industry', priority: '0.9' },
-  },
-  {
     label: 'Trust Center',
     path: '/trust',
     sitemap: { entity: 'trust', type: 'brand', priority: '0.6' },
