@@ -101,11 +101,21 @@ jobs:
           done
 
           # --- R2 custom domain assets.olagoon.com (site middleware 301s /images|/files here) ---
-          RESP=$(curl -s -X PUT "${API}/r2/buckets/olagoon-assets/domains/assets.olagoon.com" -H "${AUTH}")
+          RESP=$(cf "/r2/buckets/olagoon-assets/domains/custom")
           if printf '%s' "$RESP" | jq -e '.success' >/dev/null 2>&1; then
-            echo "::notice::R2 custom domain assets.olagoon.com attached to olagoon-assets: $(printf '%s' "$RESP" | jq -c '.result // {}')"
+            if ! printf '%s' "$RESP" | jq -e '.result.domains[]? | select(.domain == "assets.olagoon.com")' >/dev/null 2>&1; then
+              echo "Attaching R2 custom domain assets.olagoon.com to olagoon-assets..."
+              RESP=$(cf "/r2/buckets/olagoon-assets/domains/custom" '{"domain":"assets.olagoon.com"}')
+              if printf '%s' "$RESP" | jq -e '.success' >/dev/null; then
+                echo "::notice::R2 custom domain assets.olagoon.com attached to olagoon-assets: $(printf '%s' "$RESP" | jq -c '.result // {}')"
+              else
+                echo "::warning::R2 custom domain attach failed: $(printf '%s' "$RESP" | jq -c '.errors // .')"
+              fi
+            else
+              echo "R2 custom domain assets.olagoon.com already attached to olagoon-assets."
+            fi
           else
-            echo "::warning::R2 custom domain attach failed (token needs R2:Edit incl. custom domains): $(printf '%s' "$RESP" | jq -c '.errors // .')"
+            echo "::warning::R2 domains list failed: $(printf '%s' "$RESP" | jq -c '.errors // .')"
           fi
 
           # --- workers.dev subdomain (cron triggers require one - API error 10063) ---
