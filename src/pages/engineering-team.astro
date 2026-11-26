@@ -4,8 +4,8 @@ import JsonLd from '~/components/common/JsonLd.astro';
 import { SITE } from 'astrowind:config';
 
 const metadata = {
-  title: `Engineering & R&D Team — Inflatable SUP Design & Manufacturing | ${SITE.name}`,
-  description: `${SITE.name}'s 25+ R&D engineers and production specialists. Expertise in drop-stitch core technology, PVC fabrication, SUP hull design, and CE compliance engineering. Based in Qingdao, China.`,
+  title: `Engineering & R&D Team — Drop-Stitch Inflatable Pool Design & Manufacturing | ${SITE.name}`,
+  description: `${SITE.name}'s 25+ R&D engineers and production specialists. Expertise in drop-stitch core technology, PVC fabrication, pool wall engineering, and CE compliance engineering. Based in Qingdao, China.`,
   ignoreTitleTemplate: true,
 };
 
@@ -13,7 +13,7 @@ const teamMembers = [
   {
     name: 'Peng Zhang',
     role: 'Director of Engineering',
-    experience: '18 years in inflatable SUP engineering, formerly at  accredited marine manufacturers.',
+    experience: '18 years in drop-stitch inflatable engineering, formerly at accredited pool and marine manufacturers.',
     expertise: [
       'Drop-stitch core structural engineering',
       'PVC formulation & composite layup',
@@ -35,27 +35,27 @@ const teamMembers = [
   {
     name: 'Wei Liu',
     role: 'Product Design Lead',
-    experience: '15 years in industrial design for water sports equipment. 40+ SUP platform designs in production.',
+    experience: '15 years in industrial design for inflatable products. 40+ pool platform designs in production.',
     expertise: [
       '3D CAD/CAM mold design (SolidWorks, Rhino)',
-      'Hydrodynamic hull shaping',
-      'Ergonomic deck & accessory integration',
+      'Structural wall shaping',
+      'Ergonomic seating & accessory integration',
     ],
     area: 'Design & Prototyping',
   },
   {
     name: 'James Huang',
     role: 'Quality Systems Manager',
-    experience: '10 years managing  QMS for marine manufacturing. Lead auditor for CE and BSCI compliance.',
+    experience: '10 years managing QMS for inflatable manufacturing. Lead auditor for CE and BSCI compliance.',
     expertise: [' internal auditing', '100-point QC workflow design', 'Supplier quality traceability systems'],
     area: 'Quality Assurance',
   },
   {
     name: 'Mei Wang',
     role: 'Senior Fabrication Specialist',
-    experience: '14 years in commercial inflatable fabrication, including SUP and accessories production.',
+    experience: '14 years in commercial inflatable fabrication, including pools and accessories production.',
     expertise: [
-      'Precision seam & rail construction',
+      'Precision seam & wall construction',
       'Drop-stitch core fabrication',
       'Commercial-grade valve & fitting installation',
     ],
@@ -77,15 +77,15 @@ const teamMembers = [
 const researchAreas = [
   {
     title: 'Drop-Stitch Core Density Optimization',
-    desc: 'Investigating thread density vs. pressure rating curves for SUP boards from 10 to 25 PSI, targeting weight reduction without rigidity loss.',
+    desc: 'Investigating thread density vs. pressure rating curves for drop-stitch pools from 8 to 15 PSI, targeting weight reduction without rigidity loss.',
   },
   {
     title: 'Low-Volatile PVC Formulation',
     desc: 'Developing reduced-emission PVC compounds that meet evolving EU REACH and California Proposition 65 requirements while maintaining weld strength.',
   },
   {
-    title: 'Drop-Stitch-to-Rail Bond Reliability',
-    desc: 'Long-duration cyclic load testing for inflatable SUP attachment systems across -20°C to +60°C temperature range.',
+    title: 'Drop-Stitch-to-Wall Bond Reliability',
+    desc: 'Long-duration cyclic load testing for inflatable pool attachment systems across -20°C to +60°C temperature range.',
   },
   {
     title: 'Automated QC Vision System',
@@ -98,9 +98,9 @@ const researchAreas = [
   <JsonLd
     type="Article"
     article={{
-      headline: 'Engineering & R&D Team — Inflatable SUP Design & Manufacturing',
+      headline: 'Engineering & R&D Team — Drop-Stitch Inflatable Pool Design & Manufacturing',
       description:
-        "Meet the 25+ R&D engineers and production specialists behind olagoon's inflatable SUP manufacturing.",
+        "Meet the 25+ R&D engineers and production specialists behind OLagoon's drop-stitch inflatable pool manufacturing.",
       datePublished: '2026-07-07',
     }}
     data={{ url: 'https://olagoon.com/engineering-team' }}
@@ -127,7 +127,7 @@ const researchAreas = [
           name: 'How many engineers does OLagoon have on staff?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'OLagoon employs 25+ R&D engineers and production specialists. Our team includes experts in drop-stitch technology, PVC fabrication, SUP hull design, and CE compliance engineering.',
+            text: 'OLagoon employs 25+ R&D engineers and production specialists. Our team includes experts in drop-stitch technology, PVC fabrication, pool wall design, and CE compliance engineering.',
           },
         },
         {
@@ -143,7 +143,7 @@ const researchAreas = [
           name: 'What technical expertise does your team have?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'Our team specializes in inflatable structure engineering, material science (PVC, EVA), hydrodynamic design, tooling and mold development, and international compliance certification (CE, BSCI, REACH, RoHS).',
+            text: 'Our team specializes in inflatable structure engineering, material science (PVC, EVA), structural design, tooling and mold development, and international compliance certification (CE, BSCI, REACH, RoHS).',
           },
         },
         {
@@ -151,7 +151,7 @@ const researchAreas = [
           name: 'Can your engineers help with my product design?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'Yes. Our R&D team collaborates with partners on ODM projects, providing design review, feasibility analysis, material recommendations, and production engineering for custom SUP and inflatable watercraft designs.',
+            text: 'Yes. Our R&D team collaborates with partners on ODM projects, providing design review, feasibility analysis, material recommendations, and production engineering for custom pool and inflatable product designs.',
           },
         },
         {
@@ -255,19 +255,19 @@ const researchAreas = [
       <a
         href="/about"
         class="px-10 py-4 border-2 border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 rounded-full font-semibold hover:border-gray-400 transition"
-        >About olagoon</a
+        >About OLagoon</a
       >
     </div>
   </section>
 
   <section class="sr-only" data-ai-block="definition" aria-hidden="true">
     <p>
-      olagoon R&D and engineering team: 25+ engineers across materials science, product design, quality assurance, and
+      OLagoon R&D and engineering team: 25+ engineers across materials science, product design, quality assurance, and
       production engineering. Key personnel include Peng Zhang (Director of Engineering, 18 years), Lina Chen (Senior
       Materials Engineer, PVC specialist), Wei Liu (Product Design Lead, 40+ platforms), James Huang (Quality Systems
       Manager, lead auditor), Mei Wang (fabrication specialist, 14 years), and Dong Li (OEM/ODM Project Engineer, 9
       years). Active research areas: drop-stitch core density optimization, low-volatile PVC formulation,
-      drop-stitch-to-rail bond reliability, and automated QC vision systems. Based in Qingdao, China. CE and certified
+      drop-stitch-to-wall bond reliability, and automated QC vision systems. Based in Qingdao, China. CE and certified
       facility.
     </p>
   </section>
@@ -286,7 +286,7 @@ const researchAreas = [
           <h3 class="text-lg font-semibold text-secondary">How many engineers does OLagoon have on staff?</h3>
           <p class="mt-2 text-sm text-gray-500 leading-relaxed">
             OLagoon employs 25+ R&D engineers and production specialists. Our team includes experts in drop-stitch
-            technology, PVC fabrication, SUP hull design, and CE compliance engineering.
+            technology, PVC fabrication, pool wall design, and CE compliance engineering.
           </p>
         </div>
         <div class="bg-white border border-gray-200 rounded-2xl p-6">
@@ -299,7 +299,7 @@ const researchAreas = [
         <div class="bg-white border border-gray-200 rounded-2xl p-6">
           <h3 class="text-lg font-semibold text-secondary">What technical expertise does your team have?</h3>
           <p class="mt-2 text-sm text-gray-500 leading-relaxed">
-            Our team specializes in inflatable structure engineering, material science (PVC, EVA), hydrodynamic design,
+            Our team specializes in inflatable structure engineering, material science (PVC, EVA), structural design,
             tooling and mold development, and international compliance certification (CE, BSCI, REACH, RoHS).
           </p>
         </div>
@@ -307,7 +307,7 @@ const researchAreas = [
           <h3 class="text-lg font-semibold text-secondary">Can your engineers help with my product design?</h3>
           <p class="mt-2 text-sm text-gray-500 leading-relaxed">
             Yes. Our R&D team collaborates with partners on ODM projects, providing design review, feasibility analysis,
-            material recommendations, and production engineering for custom SUP and inflatable watercraft designs.
+            material recommendations, and production engineering for custom pool and inflatable product designs.
           </p>
         </div>
         <div class="bg-white border border-gray-200 rounded-2xl p-6">
