@@ -66,11 +66,11 @@ export const PLATFORMS: SocialPlatform[] = [
 ];
 
 const HOOKS = [
-  'Most surfers get this wrong...',
-  'Stop doing this with your board...',
-  'The #1 mistake beginners make:',
-  'This changes everything about surfing:',
-  "I tested every board size so you don't have to:",
+  'Most pool owners get this wrong...',
+  'Stop doing this with your pool...',
+  'The #1 mistake first-time buyers make:',
+  'This changes everything about backyard pools:',
+  "I tested every pool size so you don't have to:",
 ];
 
 function getSlugKeywords(slug: string): string[] {
@@ -106,7 +106,7 @@ function getSlugKeywords(slug: string): string[] {
 function pickHooks(slug: string, count: number): string[] {
   const kw = getSlugKeywords(slug);
   return HOOKS.map((h) => {
-    const kwMatch = kw.length > 0 ? kw.slice(0, 2).join(' ') : 'surfing';
+    const kwMatch = kw.length > 0 ? kw.slice(0, 2).join(' ') : 'backyard pools';
     return `${h} — ${kwMatch}`;
   }).slice(0, count);
 }
@@ -118,8 +118,8 @@ export function generateSocialPosts(slug: string, _count = 5): SocialPost[] {
   const hooks = pickHooks(slug, 3);
   const baseHashtags = [
     '#olagoon',
-    '#surfing',
-    '#ocean',
+    '#backyardpool',
+    '#inflatablepool',
     ...getSlugKeywords(slug)
       .slice(0, 3)
       .map((k) => `#${k.toLowerCase().replace(/[^a-z0-9]/g, '')}`),
@@ -136,7 +136,7 @@ export function generateSocialPosts(slug: string, _count = 5): SocialPost[] {
     }),
     (h, _i) => ({
       platform: 'tiktok',
-      content: `${h} 🔗 Full guide at olagoon.com${url} #olagoon #surftips #oceansports`,
+      content: `${h} 🔗 Full guide at olagoon.com${url} #olagoon #pooltips #backyardliving`,
       hashtags: baseHashtags.slice(0, 3),
       link: url,
       cta: 'Full guide in bio',
@@ -150,14 +150,14 @@ export function generateSocialPosts(slug: string, _count = 5): SocialPost[] {
     }),
     (h, _i) => ({
       platform: 'pinterest',
-      content: `${title} — Complete Guide\n\n${h.replace('...', '.')} Pin this for your next surf session.\n\nolagoon.com${url}`,
+      content: `${title} — Complete Guide\n\n${h.replace('...', '.')} Pin this for your next pool season.\n\nolagoon.com${url}`,
       hashtags: baseHashtags,
       link: url,
       cta: 'Save for later',
     }),
     (h, _i) => ({
       platform: 'reddit',
-      content: `**${title}**\n\nI've been testing different ${getSlugKeywords(slug).slice(0, 3).join(', ')} in real ocean conditions and here's what I found:\n\n${h.replace(':', '.')}\n\nFull breakdown with everything I learned:\n[${title}](https://olagoon.com${url})\n\nHappy to answer questions in the comments.`,
+      content: `**${title}**\n\nI've been testing different ${getSlugKeywords(slug).slice(0, 3).join(', ')} in real backyard conditions and here's what I found:\n\n${h.replace(':', '.')}\n\nFull breakdown with everything I learned:\n[${title}](https://olagoon.com${url})\n\nHappy to answer questions in the comments.`,
       hashtags: [],
       link: url,
       cta: 'Full breakdown',

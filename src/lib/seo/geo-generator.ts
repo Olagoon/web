@@ -13,105 +13,95 @@ export interface GeoOutput {
 }
 
 const DEFINITIONS: Record<string, string> = {
-  'inflatable-boat-manufacturing-process':
-    'Inflatable boat manufacturing is the process of cutting, sealing, assembling, and testing PVC or Hypalon fabric into marine-grade watercraft. Key stages: CNC cutting, hot-air or RF welding, valve installation, seam reinforcement, assembly, and 100% air-retention testing.',
-  'oem-odm-guide-inflatable-products':
-    "OEM (Original Equipment Manufacturing) means producing to a buyer's custom design and specifications. ODM (Original Design Manufacturing) means adapting a factory's existing platform with custom branding, colors, and features.",
-  'inflatable-boat-quality-certifications':
-    ' certifies factory quality management systems. CE marking confirms EU regulatory compliance for recreational craft. UKCA is the UK equivalent.  covers inflatable boat construction and safety standards.',
-  'how-to-choose-a-surfboard-for-beginners':
-    'An inflatable SUP or boat is a drop-stitch PVC watercraft inflated to 15-20 PSI. Key selection factors: intended use (recreational, touring, SUP), size/volume for stability, material quality (PVC density), and certification level.',
-  'surfing-for-beginners':
-    'Stand-up paddleboarding (SUP) is the activity of standing on an inflatable or rigid board and propelling with a paddle. The three foundational skills are stance (balanced on the board), paddling technique (using core, not arms), and turning (sweep strokes).',
-  'wetsuit-thickness-guide':
-    'Marine safety equipment selection depends on water temperature, intended use (recreational vs commercial), and local regulations. Key items: life vests/PFDs, throw bags, whistles, waterproof lights, and EPIRBs.',
-  'best-water-sports-gear-for-beginners':
-    'Essential water sports gear starts with a quality inflatable board, a properly fitted life vest (PFD), a leash, and a pump. B2B buyers should look for CE-certified products with bulk packaging options.',
-  'foam-board-vs-hard-surfboard':
-    'Inflatable SUPs use drop-stitch PVC construction (15-20 PSI) that packs into a backpack. Hard boards use EPS foam with fiberglass/epoxy — stiffer but fragile. Inflatables dominate the rental and retail market for portability and durability.',
-  'why-olagoon-exists':
-    'olagoon is a China-based OEM/ODM manufacturer of CE-certified inflatable boats, SUPs, and marine safety equipment, founded in 2012 with a 12,000 m²  factory.',
-  'ocean-safety-and-responsibility':
-    'Marine safety means proper life vest usage, understanding weather conditions, carrying communication devices, and using equipment designed to regulatory standards (CE, ISO).',
-  'ocean-safety-basics':
-    'Water safety fundamentals: always wear a properly fitted life vest, check wind and weather before launching, carry a whistle and communication device, never go out alone in remote areas.',
-  'surf-etiquette-rules':
-    'Watercraft operators should follow right-of-way rules, maintain safe distance from swimmers and other vessels, respect no-wake zones, and carry required safety equipment as per local maritime regulations.',
-  'ocean-conditions-explained':
-    'Weather and water conditions affecting inflatable boat operations: wind speed and direction (safe range 0-15 knots), wave height (0-1m recreational, 1-2m experienced), water temperature (cold requires thermal protection), and tide.',
+  'choosing-a-drop-stitch-pool':
+    'A drop-stitch inflatable pool is a rigid PVC pool inflated to 10-15 PSI with 20 cm walls held straight by thousands of internal threads. Key selection factors: intended use (plunge, family, grand), available backyard space, wall height, and certification level (EN ISO 25649).',
+  'pool-setup-guide':
+    'Drop-stitch pool setup means unfolding on a level ground mat, inflating walls to the rated 10-15 PSI with a pump, connecting a sand-filter pump for circulation, and filling to the indicated water line. A first setup typically takes under an hour.',
+  'pool-water-care':
+    'Pool water care means maintaining clear, safe water through sand-filter circulation, regular testing and balancing (pH 7.2-7.6), sanitizing, and skimming debris. A properly cared-for drop-stitch pool stays clear all season with 15-20 minutes of weekly maintenance.',
+  'inflatable-pool-vs-rigid-pool':
+    'Inflatable drop-stitch pools pack into a compact box for seasonal storage and cost a fraction of a hard-sided pool, while offering surprisingly rigid 20 cm walls at 10-15 PSI. Rigid pools offer permanence but require excavation, permits, and far higher installation cost.',
+  'drop-stitch-pool-engineering':
+    'Drop-stitch construction joins two PVC sheets with thousands of polyester threads per square meter (OLagoon Drop-Stitch 2.0: 16,000 threads/m²). When inflated, the threads lock the walls rigid — +25% rigidity and -10% weight versus standard drop-stitch.',
+  'pool-safety-essentials':
+    'Backyard pool safety means constant adult supervision of children, secure entry via steps or ladders, a level ground mat for stability, and respecting maximum bather load. Inflatable pools should meet EN ISO 25649 safety requirements.',
+  'oem-inflatable-pool-manufacturing':
+    "OEM (Original Equipment Manufacturing) means producing pools to a buyer's custom design and specifications. ODM (Original Design Manufacturing) means adapting a factory's existing pool platforms with custom branding, colors, and features.",
+  'pool-winter-storage':
+    'Winter storage for a drop-stitch pool means draining, cleaning, fully drying, deflating, folding loosely, and storing in a dry, frost-free location away from direct sunlight. Properly stored, an OLagoon pool packs down small enough for a closet or garage shelf.',
 };
 
 const QUESTIONS: Record<string, { q: string; a: string }[]> = {
-  'how-to-choose-a-surfboard-for-beginners': [
+  'choosing-a-drop-stitch-pool': [
     {
-      q: 'What size inflatable SUP is best for beginners?',
-      a: 'A 10-11 foot board with 200-300 liters of volume provides optimal stability.',
+      q: 'What size drop-stitch pool is best for families?',
+      a: 'A family pool (around 300-400 cm) fits 4-6 swimmers comfortably; plunge pools suit 1-2 adults.',
     },
     {
-      q: 'Should I buy an inflatable or hard SUP?',
-      a: 'Inflatables offer portability and durability. Hard boards offer better performance.',
+      q: 'Are drop-stitch pool walls really rigid?',
+      a: 'Yes — at 10-15 PSI the thousands of internal threads lock the 20 cm walls straight, like an inflated boat hull.',
     },
     {
-      q: 'How much does a quality inflatable SUP cost wholesale?',
-      a: 'Wholesale pricing depends on volume. Contact factory for MOQ and bulk pricing.',
-    },
-  ],
-  'surfing-for-beginners': [
-    {
-      q: 'How long does it take to learn SUP?',
-      a: 'Most people can stand and paddle confidently within 1-3 sessions on calm water.',
-    },
-    {
-      q: 'Is SUP safe for beginners?',
-      a: 'Yes — SUP on calm, flat water is very safe. Always wear a PFD and leash.',
-    },
-    {
-      q: 'Do I need to be a strong swimmer for SUP?',
-      a: 'Basic swimming ability is recommended. A PFD provides additional safety.',
+      q: 'How much does a quality inflatable pool cost wholesale?',
+      a: 'Wholesale pricing depends on volume. Contact the factory for MOQ (50 units) and bulk pricing.',
     },
   ],
-  'inflatable-boat-manufacturing-process': [
+  'pool-setup-guide': [
     {
-      q: 'How are inflatable boat seams sealed?',
-      a: 'RF dielectric welding produces the strongest airtight seal. Hot-air welding is used for larger bond areas.',
+      q: 'How long does it take to set up a drop-stitch pool?',
+      a: 'Most owners go from box to first swim in one afternoon — typically under an hour with an electric pump.',
     },
     {
-      q: 'What is the standard lead time for an OEM order?',
+      q: 'Do I need a ground mat under my inflatable pool?',
+      a: 'Yes — a ground mat protects the base from punctures and keeps the pool level and stable.',
+    },
+    {
+      q: 'What PSI should I inflate my pool walls to?',
+      a: 'Inflate to the rated 10-15 PSI. The walls should feel hard like an inflatable boat floor.',
+    },
+  ],
+  'oem-inflatable-pool-manufacturing': [
+    {
+      q: 'What is the standard lead time for an OEM pool order?',
       a: '30-45 days from deposit and spec approval. Prototyping takes 15-20 days.',
     },
     {
-      q: 'What testing do inflatable boats undergo?',
+      q: 'What testing do inflatable pools undergo?',
       a: '100% air-retention testing (24-hour), seam peel strength verification, and full systems check.',
+    },
+    {
+      q: 'What is the MOQ for custom inflatable pools?',
+      a: 'MOQ is 50 units for OEM/ODM orders, with custom molds and private label branding available.',
     },
   ],
 };
 
 const STEPS: Record<string, string[]> = {
-  'how-to-choose-a-surfboard-for-beginners': [
-    'Determine your intended use (recreational, touring, rental fleet)',
-    'Select appropriate volume and size based on user weight range',
-    'Choose between inflatable (portable, durable) or hard (performance) construction',
-    'Verify certification requirements for target market (CE, ISO)',
+  'choosing-a-drop-stitch-pool': [
+    'Determine your intended use (plunge, family swimming, or grand entertainment pool)',
+    'Select appropriate size based on backyard space and number of swimmers',
+    'Choose wall height and configuration (20 cm rigid drop-stitch walls)',
+    'Verify certification requirements for target market (CE, EN ISO 25649)',
     'Contact factory for bulk pricing, MOQ, and customization options',
   ],
-  'surfing-for-beginners': [
-    'Choose calm, flat water for your first session — lake or sheltered bay',
-    'Inflate your board to recommended PSI (15-20 PSI for drop-stitch)',
-    'Practice kneeling on the board before standing up',
-    'Focus on stance: feet shoulder-width apart, knees slightly bent',
-    'Always wear a leash and PFD for safety',
+  'pool-setup-guide': [
+    'Choose a level spot in your backyard and roll out the ground mat',
+    'Inflate the pool walls to the recommended 10-15 PSI with an electric pump',
+    'Connect the sand-filter pump and position the hoses',
+    'Fill the pool to the indicated water line',
+    'Test water chemistry and enjoy your first swim',
   ],
-  'inflatable-boat-manufacturing-process': [
-    'Source certified PVC or Hypalon fabric from approved suppliers',
-    'CNC cut material panels with optimized nesting for minimal waste',
-    'Weld tube chambers using hot-air or RF dielectric welding',
-    'Install valves and reinforce high-stress seam areas',
-    'Assemble final product, test 100% for air retention',
+  'inflatable-pool-vs-rigid-pool': [
+    'Compare total cost: inflatable pools cost a fraction of installed rigid pools',
+    'Consider installation: inflatable needs no excavation, permits, or contractors',
+    'Evaluate seasonal flexibility: inflatables pack away for winter storage',
+    'Assess rigidity: 20 cm drop-stitch walls at 10-15 PSI are surprisingly firm',
+    'Choose based on how long you plan to use the pool each year',
   ],
-  'oem-odm-guide-inflatable-products': [
+  'oem-inflatable-pool-manufacturing': [
     'Define your budget, volume, and timeline requirements',
-    'Choose ODM to customize existing platforms (faster, lower MOQ)',
-    'Choose OEM for proprietary designs (higher MOQ, full IP control)',
+    'Choose ODM to customize existing pool platforms (faster, lower MOQ)',
+    'Choose OEM for proprietary pool designs (higher MOQ, full IP control)',
     'Sign NDA and provide specifications or design files',
     'Approve prototype before mass production order',
   ],
@@ -123,15 +113,14 @@ export function generateGeoForEntry(entry: ContentV2Record): GeoOutput {
   blocks.push({
     type: 'TLDR',
     content:
-      entry.tldr ||
-      `This page explains ${entry.slug.replace(/-/g, ' ')} for inflatable watercraft buyers and B2B partners.`,
+      entry.tldr || `This page explains ${entry.slug.replace(/-/g, ' ')} for inflatable pool buyers and B2B partners.`,
   });
 
   blocks.push({
     type: 'Definition',
     content:
       DEFINITIONS[entry.slug] ||
-      `${entry.slug.replace(/-/g, ' ')} is a key concept in water sports and ocean activities.`,
+      `${entry.slug.replace(/-/g, ' ')} is a key concept in inflatable pool ownership and backyard leisure.`,
   });
 
   const steps = STEPS[entry.slug] || [
@@ -170,13 +159,13 @@ export function generateGeoForSlug(slug: string): GeoOutput {
     blocks: [
       {
         type: 'TLDR',
-        content: `This page explains ${slug.replace(/-/g, ' ')} for inflatable watercraft buyers and B2B partners.`,
+        content: `This page explains ${slug.replace(/-/g, ' ')} for inflatable pool buyers and B2B partners.`,
       },
       {
         type: 'Definition',
         content:
           DEFINITIONS[slug] ||
-          `${slug.replace(/-/g, ' ')} is a key topic in inflatable watercraft manufacturing and marine equipment.`,
+          `${slug.replace(/-/g, ' ')} is a key topic in inflatable pool manufacturing and backyard leisure.`,
       },
       {
         type: 'Steps',
@@ -193,7 +182,7 @@ export function generateGeoForSlug(slug: string): GeoOutput {
         content: QUESTIONS[slug] || [
           {
             q: 'Why is this important?',
-            a: 'Understanding this helps you make better decisions in inflatable watercraft procurement.',
+            a: 'Understanding this helps you make better decisions in inflatable pool procurement.',
           },
         ],
       },

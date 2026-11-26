@@ -28,68 +28,61 @@ const CTA_RULES: Array<{
   keywords: string[];
 }> = [
   {
-    match: (s) =>
-      ['surfing-for-beginners', 'beginner-guide', 'how-to-choose-a-surfboard-for-beginners'].some((k) => s.includes(k)),
+    match: (s) => ['choosing-a-drop-stitch-pool', 'pool-setup-guide', 'beginner-guide'].some((k) => s.includes(k)),
     cta: {
-      text: 'Find your first board',
-      link: '/products/sup-explorer-11',
+      text: 'Find your first pool',
+      link: '/products/compact-plunge',
       reason: 'Beginner content → entry-level product',
     },
-    products: ['sup-explorer-11', 'paddle-carbon', 'life-vest-classic'],
-    keywords: ['beginner', 'entry-level', 'starter', 'first board'],
+    products: ['compact-plunge', 'family-oasis', 'ground-mat'],
+    keywords: ['beginner', 'entry-level', 'starter', 'first pool'],
+  },
+  {
+    match: (s) =>
+      ['pool-water-care', 'pool-winter-storage', 'pool-maintenance-guide', 'sand-filter-setup'].some((k) =>
+        s.includes(k)
+      ),
+    cta: {
+      text: 'Shop pool care accessories',
+      link: '/products/sand-filter-pump',
+      reason: 'Care guide → accessory category',
+    },
+    products: ['sand-filter-pump', 'thermal-cover', 'ground-mat'],
+    keywords: ['water care', 'filtration', 'maintenance', 'storage'],
   },
   {
     match: (s) =>
       [
-        'wetsuit-thickness-guide',
-        'what-to-wear-for-surfing',
-        'cold-water-surfing-gear-guide',
-        '3mm-vs-5mm-wetsuit',
+        'inflatable-pool-vs-rigid-pool',
+        'pool-size-guide',
+        'drop-stitch-pool-engineering',
+        'plunge-vs-family-pool',
       ].some((k) => s.includes(k)),
-    cta: { text: 'Shop wetsuits', link: '/products', reason: 'Gear guide → product category' },
-    products: ['life-vest-pro', 'life-vest-classic'],
-    keywords: ['wetsuit', 'gear', 'protection', 'cold water'],
+    cta: { text: 'Compare pools', link: '/products/compare', reason: 'Comparison → product discovery' },
+    products: ['compact-plunge', 'family-oasis', 'grand-lagoon'],
+    keywords: ['drop-stitch pool', 'comparison', 'size guide', 'pool type'],
   },
   {
-    match: (s) =>
-      [
-        'surfboard-size-guide',
-        'types-of-surfboards-explained',
-        'foam-board-vs-hard-surfboard',
-        'longboard-vs-shortboard',
-        'best-surf-gear-brands-compared',
-      ].some((k) => s.includes(k)),
-    cta: { text: 'Compare surfboards', link: '/products', reason: 'Comparison → product discovery' },
-    products: ['sup-explorer-11', 'sup-tour-12'],
-    keywords: ['surfboard', 'comparison', 'size guide', 'board type'],
-  },
-  {
-    match: (s) =>
-      [
-        'surfing-safety-tips',
-        'ocean-safety-basics',
-        'ocean-conditions-explained',
-        'ocean-safety-and-responsibility',
-      ].some((k) => s.includes(k)),
+    match: (s) => ['pool-safety-essentials', 'backyard-safety-basics', 'water-safety-guide'].some((k) => s.includes(k)),
     cta: {
       text: 'View safety equipment',
-      link: '/products/life-vest-classic',
+      link: '/products/entry-steps',
       reason: 'Safety content → safety product',
     },
-    products: ['life-vest-classic', 'life-vest-pro'],
-    keywords: ['safety', 'protection', 'life vest', 'ocean safety'],
+    products: ['entry-steps', 'ground-mat'],
+    keywords: ['safety', 'protection', 'pool safety', 'backyard safety'],
   },
   {
     match: (s) =>
       [
-        'surf-etiquette-rules',
-        'best-water-sports-gear-for-beginners',
-        'olagoon-surfboard-pro',
-        'olagoon-wetsuit-pro',
-        'why-olagoon-exists',
+        'why-olagoon',
+        'olagoon-pool-pro',
+        'oem-inflatable-pool-manufacturing',
+        'drop-stitch-innovation',
+        'factory-tour',
       ].some((k) => s.includes(k)),
-    cta: { text: 'Explore olagoon', link: '/', reason: 'Brand content → brand homepage' },
-    products: ['sup-explorer-11', 'sup-tour-12', 'life-vest-pro', 'paddle-carbon', 'pump-dual'],
+    cta: { text: 'Explore OLagoon', link: '/', reason: 'Brand content → brand homepage' },
+    products: ['compact-plunge', 'family-oasis', 'grand-lagoon', 'sand-filter-pump', 'thermal-cover'],
     keywords: ['olagoon', 'brand', 'about', 'community'],
   },
 ];
@@ -124,8 +117,8 @@ export function getBrandEntry(slug: string): BrandPageEntry | null {
     title: record.title || slug,
     category: 'guide',
     cta: { text: 'Browse products', link: '/products', reason: 'Generic fallback CTA' },
-    productSlugs: ['sup-explorer-11'],
-    brandKeywords: ['water sports', 'ocean gear'],
+    productSlugs: ['family-oasis'],
+    brandKeywords: ['inflatable pools', 'backyard pools'],
   };
 }
 
@@ -147,11 +140,11 @@ export function getAllBrandPages(): BrandPageEntry[] {
 }
 
 export const BRAND_SUMMARY = {
-  name: 'olagoon',
-  tagline: 'Ocean Performance Gear for Modern Surfers',
-  description: 'Built for real ocean conditions, not laboratory assumptions.',
+  name: 'OLagoon',
+  tagline: 'Your Backyard Lagoon, Engineered Like a Yacht',
+  description: 'Rigid drop-stitch pools built for real backyards, not laboratory assumptions.',
   foundingYear: 2012,
-  categories: ['Surfboards', 'Wetsuits', 'Accessories'],
-  ethos: ['Ocean-tested design', 'Performance-focused', 'Minimalist engineering'],
-  cta: { text: 'Start your ocean journey', link: '/products' },
+  categories: ['Inflatable Pools', 'Pool Accessories'],
+  ethos: ['Backyard-tested design', 'Family-focused', 'Minimalist engineering'],
+  cta: { text: 'Find your pool', link: '/products' },
 };

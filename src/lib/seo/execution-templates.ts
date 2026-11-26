@@ -25,7 +25,7 @@ export interface LinkInjectionPlan {
 
 const TITLE_PATTERNS: Record<string, string> = {
   beginner: 'Keyword + Benefit + "Avoid These Common Mistakes"',
-  safety: 'Keyword + "What You MUST Know Before Paddling Out"',
+  safety: 'Keyword + "What You MUST Know Before Your First Swim"',
   guide: 'Keyword + "What Actually Works"',
   comparison: 'Keyword + "The Honest Answer Nobody Gives You"',
   default: 'Keyword + Benefit + Warning/Conflict',
@@ -42,7 +42,7 @@ export function getTitlePattern(entry: ContentV2Record): string {
 export function generateTitleRewrite(entry: ContentV2Record): string | null {
   const clean = entry.title.replace(/\(.*?\)/g, '').trim();
   if (entry.slug.includes('beginner')) return `${clean} (Avoid These Common Mistakes)`;
-  if (entry.slug.includes('safety')) return `${clean} (What You MUST Know Before Paddling Out)`;
+  if (entry.slug.includes('safety')) return `${clean} (What You MUST Know Before Your First Swim)`;
   if (entry.category === 'comparison' || entry.slug.includes('vs'))
     return `${clean} (The Honest Answer Nobody Gives You)`;
   if (entry.category === 'guide' || entry.type === 'buying-guide') return `${clean} (What Actually Works)`;
@@ -97,7 +97,7 @@ export function generateLinkInjectionPlans(
       plans.push({
         from: entry.slug,
         to: TIER_A_SLUGS[0],
-        anchorText: 'how to choose a surfboard for beginners',
+        anchorText: 'how to choose a drop-stitch pool',
         reason: 'Missing link to Tier A core guide — add authority flow',
       });
     }
@@ -134,7 +134,7 @@ export const EXECUTION_STEPS: Record<string, string[]> = {
     'Add 2-3 internal links to related guides and products',
   ],
   LINK_INJECT: [
-    'Add link to Tier A core guide (surfboard, wetsuit, or beginner surfing)',
+    'Add link to Tier A core guide (pool choosing, setup, or drop-stitch engineering)',
     'Use descriptive anchor text (not "click here")',
     'Place link in natural context within explanation or solution section',
     'Add product link for conversion path if missing',

@@ -14,7 +14,7 @@ export function filterOptimizableQueries(queries: GscQuery[]): GscQuery[] {
 
 function deterministicTrigger(slug: string): string {
   if (slug.includes('beginner')) return 'Avoid These Common Mistakes';
-  if (slug.includes('safety')) return 'What You MUST Know Before Paddling Out';
+  if (slug.includes('safety')) return 'What You MUST Know Before Your First Swim';
   if (slug.includes('guide') || slug.includes('size') || slug.includes('choose')) return 'What Actually Works';
   if (slug.includes('comparison') || slug.includes('vs')) return 'The Honest Answer Nobody Gives You';
   if (slug.includes('brand') || slug.includes('best')) return 'Spend Smart, Not Sorry';
