@@ -1,8 +1,8 @@
 # olagoon — Astro v6 Multilingual Platform
 
-Multilingual (22 languages) B2B water adventure equipment brand platform for **olagoon** (SUPs & Accessories only), built on [Astro v6](https://astro.build) with pure static generation (`output:'static'`), deployed to **Cloudflare Pages + 4 Workers**.
+Multilingual (32 languages) B2B drop-stitch inflatable pool manufacturer platform for **OLagoon** (Inflatable Pools, Hot Tubs & Accessories), built on [Astro v6](https://astro.build) with pure static generation (`output:'static'`), deployed to **Cloudflare Pages + 4 Workers**.
 
-**Scale:** 8,788 pages across 22 languages, 0 build errors
+**Scale:** 5,941 pages across 32 languages, 0 build errors
 **Domains:** `olagoon.com` (production), `assets.olagoon.com` (R2 asset storage)
 
 ---
@@ -585,6 +585,79 @@ Defined in `src/content.config.ts` using the **Astro v6 Content Layer API** (`gl
 | `case-use` | `src/data/case-use/*.md|mdx` | Use-case articles |
 
 Per-locale schema helper `createLocaleSchema()` wraps every section in all 22 locales. JSON index files (homepage/about/contact/navigation/global) are **edited via the Keystatic admin** (`/keystatic/*`) and committed to GitHub through the admin-worker API. `entityType` + `entityRelations` on every record feed the knowledge-graph layer.
+
+## 部署配置清单（GitHub + Cloudflare）
+
+> 依据：`scripts/fast-upload-r2.mjs`、根目录及 `workers/*/wrangler.toml`、`.github/workflows/diag-inquiry.yml`。本节为部署参数的权威清单。
+
+### 1. GitHub 仓库设置（Olagoon/web）
+
+| 设置项 | 位置 | 建议值 |
+| --- | --- | --- |
+| 默认分支 | Settings → General → Default branch | `master` |
+| 可见性 | Settings → General → Danger Zone | Private（推荐：仓库含部署配置与业务结构） |
+| Actions | Settings → Actions → General | Allow all actions（诊断 workflow 需要） |
+
+已有 workflow：`.github/workflows/diag-inquiry.yml`（询价管线诊断，支持手动 `workflow_dispatch` 触发）。
+注意：其 `push` 触发分支为 `main`，而本仓库默认分支为 `master`，因此 push 不会自动触发，只能手动运行；如需自动触发，把 `branches: [main]` 改为 `[master]`。
+
+### 2. GitHub Actions Secrets（Settings → Secrets and variables → Actions）
+
+| Secret | 必需性 | 说明 |
+| --- | --- | --- |
+| `CLOUDFLARE_API_TOKEN` | 必需 | 未设置时 diag workflow 所有步骤自动跳过 |
+| `CLOUDFLARE_ACCOUNT_ID` | 必需 | `2ac0f11c5362bbba3a7b34693dd56ba4` |
+| `CLOUDFLARE_ZONE_ID` | 可选 | 设置后 R2 上传完成会清理 olagoon.com 边缘缓存；未设置跳过 |
+
+当前没有自动部署 workflow（无 `deploy.yml`），部署均在本机执行。若日后添加 CI 部署，还需要 `CONTACT_TURNSTILE_SECRET`（同步 Turnstile 密钥到 contact worker）；D1 database id 由 CI 通过 API 动态解析，无需 Secret。
+
+### 3. Cloudflare API Token 权限（自定义令牌）
+
+账户级（Account）：
+
+| 权限 | 级别 | 用途 |
+| --- | --- | --- |
+| Workers R2 Storage | Edit | `deploy:r2` 上传 `olagoon-assets`；部署 ai/automation worker 的 `olagoon-data` 绑定 |
+| Workers Scripts | Edit | 部署 4 个 Worker（admin/ai/automation/contact）+ settings/日志 |
+| Workers Vectorize | Edit | ai-worker 绑定 `ai-index` |
+| D1 | Edit | contact-worker 数据库 `olagoon-inquiries` |
+| Cloudflare Pages | Edit | `npm run deploy`（Pages 生产部署） |
+| Workers AI | Edit | ai-worker 的 Workers AI 绑定 |
+| Account Settings | Read | wrangler 账户解析 |
+
+区域级（Zone：olagoon.com）：
+
+| 权限 | 级别 | 用途 |
+| --- | --- | --- |
+| Zone | Read | 区域解析、Routes 部署 |
+| Cache Purge | Purge | R2 上传后清边缘缓存 |
+| Workers Routes | Edit | 把各 worker 的 `routes` 挂到 olagoon.com |
+
+补充：`wrangler tail` 需 Workers Tail: Read；部分 wrangler 版本另需 User → User Details: Read。
+
+### 4. Cloudflare Worker Secrets（`wrangler secret put`，非 GitHub）
+
+- **contact-worker（`olagoon-contact`）**：`CONTACT_EMAIL_TO`（收件邮箱，var 默认 `info@olagoon.com`）、`CONTACT_RESEND_API_KEY`（Resend API key）、`CONTACT_FROM_EMAIL`、`CONTACT_FROM_NAME`、`TURNSTILE_SECRET`（Cloudflare Turnstile 密钥）
+- **admin-worker（`olagoon-admin`）**：`ADMIN_USERNAME`（var 默认 `admin`）、`ADMIN_PASSWORD_HASH`、`SESSION_SECRET`、`GITHUB_TOKEN`（读 `olagoon/official` 仓库的 PAT）、`GSC_CLIENT_ID`、`GSC_CLIENT_SECRET`、`GSC_REFRESH_TOKEN`（Google Search Console API）
+- **ai-worker / automation-worker**：无 Secret（仅 AI / VECTORIZE / DATA_BUCKET 绑定）
+
+### 5. 本机环境变量（部署机）
+
+| 变量 | 必需性 | 说明 |
+| --- | --- | --- |
+| `CLOUDFLARE_API_TOKEN` | 必需 | 上传/部署凭据 |
+| `CLOUDFLARE_ACCOUNT_ID` | 可选 | 脚本内置默认 `2ac0f11c5362bbba3a7b34693dd56ba4` |
+| `CLOUDFLARE_ZONE_ID` | 可选 | 未设置则跳过缓存清理 |
+| `ASSETS_BASE_URL` | 可选 | 资源基址，默认 `https://assets.olagoon.com` |
+
+### 6. 部署命令
+
+```bash
+npm run build        # 构建 dist/
+npm run deploy       # 部署 Cloudflare Pages（olagoon.com）
+npm run deploy:all   # Pages + 4 Workers
+npm run deploy:r2    # 静态资源上传 R2（assets.olagoon.com）
+```
 
 ---
 
