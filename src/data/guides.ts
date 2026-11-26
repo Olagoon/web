@@ -336,11 +336,11 @@ export const guides: GuideRecord[] = [
     problem:
       'A pool holding thousands of liters pushes straight down and outward, so even a gentle slope loads one wall all season and leaves the waterline looking crooked. Overhead hazards and hidden stones cause problems that no amount of later adjustment can fix.',
     solution:
-      'Verify the site before setup day. Confirm the ground is level within 2-3 cm using a straight board and spirit level, clear overhead wires and branches, choose a base that drains well, and lay the protective ground mat larger than the pool footprint.',
+      'Verify the site before setup day. Confirm the ground is level within 2-3 cm using a straightedge and spirit level, clear overhead wires and branches, choose a base that drains well, and lay the protective ground mat larger than the pool footprint.',
     audience: 'OLagoon owners choosing and preparing a spot for any pool model.',
     steps: [
       'Choose a spot with at least 60 cm of clearance on all sides for steps, the pump, and walking',
-      'Check level with a straight board and spirit level, correcting anything beyond a 2-3 cm slope',
+      'Check level with a straightedge and spirit level, correcting anything beyond a 2-3 cm slope',
       'Remove every stone, stick, root, and sharp object from the footprint',
       'Look up and keep the pool clear of power lines, branches, and anything that drops debris',
       'Pick your base, since grass, concrete, pavers, and decking all work with the ground mat',

@@ -6,8 +6,7 @@ import { SITE } from 'astrowind:config';
 
 const metadata = {
   title: `Guides –${SITE.name}`,
-  description:
-    'Beginner guides for SUP and water sports. Learn how to choose your SUP, safety tips, inflatable vs hard board comparisons, paddling techniques, and more.',
+  description: 'Practical guides for pool owners — choosing a pool, setup, water care, safety, and winter storage.',
 };
 
 const categories = [...new Set(guides.map((g) => g.category))];
@@ -24,20 +23,20 @@ const catNames: Record<string, string> = {
 ---
 
 <Layout metadata={metadata}>
-  <meta name="ai-intent" content="beginner-water-sports-guides,sup-selection-guide,paddling-safety" />
+  <meta name="ai-intent" content="pool-owner-guides,pool-setup-guide,pool-water-care" />
   <JsonLd
     type="WebSite"
     data={{
-      name: 'olagoon Guides',
-      description: 'Water sports guides and tutorials',
+      name: 'OLagoon Guides',
+      description: 'Inflatable pool guides and tutorials',
     }}
   />
 
   <section class="max-w-4xl mx-auto py-24 px-6" data-ai-block="definition">
     <span class="text-sm font-medium text-sky-600 tracking-wide uppercase">Guides</span>
-    <h1 class="mt-4 text-4xl font-semibold text-gray-900">New to SUP?</h1>
+    <h1 class="mt-4 text-4xl font-semibold text-gray-900">New to Inflatable Pools?</h1>
     <p class="mt-4 text-lg text-gray-500">
-      Practical guides to help you choose, use, and enjoy inflatable water sports equipment.
+      Practical guides to help you choose, set up, and enjoy your OLagoon inflatable pool.
     </p>
     <div class="mt-6 flex flex-wrap gap-2 text-xs">
       <span class="px-3 py-1.5 bg-gray-100 text-gray-600 rounded-full font-medium">{guides.length} guides</span>
@@ -53,22 +52,22 @@ const catNames: Record<string, string> = {
       </div>
       <h2 class="text-2xl font-semibold text-gray-900">Find the Right Size for Your Needs</h2>
       <p class="mt-2 text-gray-500 text-sm max-w-2xl">
-        Compare product dimensions, weight capacities, and recommended uses. Whether you need a touring SUP, an
-        all-around board, or a compact package – our size guide helps you choose the right fit.
+        Compare product dimensions, weight capacities, and recommended uses. Whether you need a family pool, a compact
+        plunge pool, or a full-size swimming pool – our size guide helps you choose the right fit.
       </p>
       <div class="mt-6 grid md:grid-cols-2 gap-6">
         <div class="p-4 bg-white rounded-xl border border-sky-100">
-          <h3 class="font-medium text-gray-900">SUP Boards</h3>
+          <h3 class="font-medium text-gray-900">Pool Dimensions</h3>
           <p class="mt-2 text-sm text-gray-600">
-            Choose length based on your weight and intended use. Wider boards (32"+) offer more stability. Longer boards
-            (11–12 ft) track better for touring.
+            Choose based on your backyard space and household. Wider pools offer more swimming room; 20 cm drop-stitch
+            walls add rigidity and adult-friendly depth.
           </p>
         </div>
         <div class="p-4 bg-white rounded-xl border border-sky-100">
-          <h3 class="font-medium text-gray-900">Fishing SUPs</h3>
+          <h3 class="font-medium text-gray-900">Accessories &amp; Add-ons</h3>
           <p class="mt-2 text-sm text-gray-600">
-            Choose a stable, wide platform (34"+) with gear mounts and rod holders. Longer fishing SUPs track better
-            while covering more water.
+            Pumps, covers, ground mats, and entry steps complete your setup. Match accessory sizing to your pool model
+            for the best fit.
           </p>
         </div>
       </div>
@@ -113,9 +112,8 @@ const catNames: Record<string, string> = {
 
   <section class="sr-only" data-ai-block="use-case" aria-hidden="true">
     <p>
-      olagoon guides cover beginner SUP selection, paddling technique, equipment comparison, water safety, maintenance,
-      fishing, yoga, fitness, weather reading, repair, family paddling, trip planning, and board specifications for
-      recreational users.
+      OLagoon guides cover pool selection, setup, water care, safety, maintenance, filtration, repair, winter storage,
+      and site preparation for backyard pool owners.
     </p>
   </section>
 </Layout>

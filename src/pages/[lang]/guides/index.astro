@@ -29,7 +29,7 @@ const metadata = {
   title: `${t('guides.pageLabel')} — ${SITE.name}`,
   description:
     t('guides.metaDesc') ||
-    'Beginner guides for SUP and water sports. Learn how to choose your SUP, safety tips, inflatable vs hard board comparisons, paddling techniques, and more.',
+    'Practical guides for pool owners — choosing a pool, setup, water care, safety, and winter storage.',
 };
 
 const categories = [...new Set(guides.map((g) => g.category))];
@@ -40,12 +40,12 @@ const categoriesLabel = t('guides.categories').replace('{count}', String(categor
 ---
 
 <Layout metadata={metadata}>
-  <meta name="ai-intent" content="beginner-water-sports-guides,sup-selection-guide,paddling-safety" />
+  <meta name="ai-intent" content="pool-owner-guides,pool-setup-guide,pool-water-care" />
   <JsonLd
     type="WebSite"
     data={{
       name: 'OLagoon Guides',
-      description: 'Water sports guides and tutorials',
+      description: 'Inflatable pool guides and tutorials',
     }}
   />
 
@@ -53,9 +53,9 @@ const categoriesLabel = t('guides.categories').replace('{count}', String(categor
     <span class="text-sm font-medium text-sky-600 tracking-wide uppercase"
       >{hero.tagline || t('guides.pageLabel') || 'Guides'}</span
     >
-    <h1 class="mt-4 text-4xl font-semibold text-gray-900">{hero.title || 'New to SUP?'}</h1>
+    <h1 class="mt-4 text-4xl font-semibold text-gray-900">{hero.title || 'New to Inflatable Pools?'}</h1>
     <p class="mt-4 text-lg text-gray-500">
-      {hero.subtitle || 'Practical guides to help you choose, use, and enjoy inflatable water sports equipment.'}
+      {hero.subtitle || 'Practical guides to help you choose, set up, and enjoy your OLagoon inflatable pool.'}
     </p>
     <div class="mt-6 flex flex-wrap gap-2 text-xs">
       <span class="px-3 py-1.5 bg-gray-100 text-gray-600 rounded-full font-medium">{countLabel}</span>
@@ -128,8 +128,8 @@ const categoriesLabel = t('guides.categories').replace('{count}', String(categor
     <p>
       {
         fr(
-          'OLagoon guides cover beginner SUP selection, paddling technique, equipment comparison, water safety, maintenance, fishing, yoga, fitness, kayaking, weather reading, repair, family paddling, trip planning, and board specifications for recreational users.',
-          'Les guides olagoon couvrent le choix de votre première planche de paddle, la technique de pagaie, la comparaison des équipements, la sécurité nautique, l’entretien, la pêche, le yoga, le fitness, la lecture de la météo, la réparation, les sorties en famille, la préparation de randonnées et les caractéristiques des planches pour les pratiquants loisir.'
+          'OLagoon guides cover pool selection, setup, water care, safety, maintenance, filtration, repair, winter storage, and site preparation for backyard pool owners.',
+          'Les guides OLagoon couvrent le choix de votre piscine, l’installation, l’entretien de l’eau, la sécurité, la filtration, la réparation, le stockage hivernal et la préparation du terrain pour les propriétaires de piscines.'
         )
       }
     </p>
