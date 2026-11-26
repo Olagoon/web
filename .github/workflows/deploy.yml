@@ -134,23 +134,38 @@ jobs:
               if ! printf '%s' "$DOMAINS" | jq -e '.result[]? | select(.name == "olagoon.com")' >/dev/null 2>&1; then
                 echo "Attaching custom domain olagoon.com to Pages project..."
                 RESP=$(cf "/pages/projects/olagoon/domains" '{"name":"olagoon.com"}')
-                if ! printf '%s' "$RESP" | jq -e '.success' >/dev/null; then
+                if printf '%s' "$RESP" | jq -e '.success' >/dev/null; then
+                  echo "::notice::Custom domain olagoon.com attached to Pages project."
+                else
                   echo "::warning::Pages custom domain attach failed: $(printf '%s' "$RESP" | jq -c '.errors // .')"
                 fi
+              else
+                echo "Custom domain olagoon.com already attached to Pages project."
               fi
             else
               echo "::warning::Could not list Pages domains: $(printf '%s' "$DOMAINS" | jq -c '.errors // .')"
             fi
-            REC=$(curl -s "https://api.cloudflare.com/client/v4/zones/${ZID}/dns_records?name=olagoon.com" -H "${AUTH}" \
-              | jq -r '.result[0]?.id // empty')
+            # list all records, filter client-side for the exact apex name
+            ALLREC=$(curl -s "https://api.cloudflare.com/client/v4/zones/${ZID}/dns_records?per_page=100" -H "${AUTH}")
+            if printf '%s' "$ALLREC" | jq -e '.success' >/dev/null 2>&1; then
+              echo "::notice::Existing zone records: $(printf '%s' "$ALLREC" | jq -c '[.result[]? | {name, type}]')"
+              REC=$(printf '%s' "$ALLREC" | jq -r '[.result[]? | select(.name == "olagoon.com") | .id][0] // empty')
+            else
+              echo "::warning::DNS records list failed (token needs DNS:Read): $(printf '%s' "$ALLREC" | jq -c '.errors // .')"
+              REC=""
+            fi
             if [ -z "$REC" ]; then
               echo "Creating DNS CNAME olagoon.com -> olagoon.pages.dev (proxied)..."
               RESP=$(curl -s -X POST "https://api.cloudflare.com/client/v4/zones/${ZID}/dns_records" \
                 -H "${AUTH}" -H "${CT}" \
                 --data '{"type":"CNAME","name":"olagoon.com","content":"olagoon.pages.dev","proxied":true}')
-              if ! printf '%s' "$RESP" | jq -e '.success' >/dev/null; then
+              if printf '%s' "$RESP" | jq -e '.success' >/dev/null; then
+                echo "::notice::DNS CNAME created: olagoon.com -> olagoon.pages.dev"
+              else
                 echo "::warning::DNS record create failed (token needs DNS:Edit): $(printf '%s' "$RESP" | jq -c '.errors // .')"
               fi
+            else
+              echo "Apex DNS record already exists (id: ${REC})."
             fi
           fi
 
