@@ -114,8 +114,37 @@ jobs:
       - name: Upload static assets to R2 (assets.olagoon.com)
         run: node scripts/fast-upload-r2.mjs
 
-      - name: Deploy Workers (contact, ai, admin, automation)
-        run: npm run deploy:workers
+      - name: Deploy Worker contact (olagoon-contact)
+        run: |
+          set -o pipefail
+          npm run deploy:worker-contact 2>&1 | tee /tmp/w.log || {
+            echo "::error::contact worker deploy failed: $(tail -n 6 /tmp/w.log | tr '\n' ' ')"
+            exit 1
+          }
+
+      - name: Deploy Worker ai (olagoon-ai)
+        run: |
+          set -o pipefail
+          npm run deploy:worker-ai 2>&1 | tee /tmp/w.log || {
+            echo "::error::ai worker deploy failed: $(tail -n 6 /tmp/w.log | tr '\n' ' ')"
+            exit 1
+          }
+
+      - name: Deploy Worker admin (olagoon-admin)
+        run: |
+          set -o pipefail
+          npm run deploy:worker-admin 2>&1 | tee /tmp/w.log || {
+            echo "::error::admin worker deploy failed: $(tail -n 6 /tmp/w.log | tr '\n' ' ')"
+            exit 1
+          }
+
+      - name: Deploy Worker automation (olagoon-automation)
+        run: |
+          set -o pipefail
+          npm run deploy:worker-automation 2>&1 | tee /tmp/w.log || {
+            echo "::error::automation worker deploy failed: $(tail -n 6 /tmp/w.log | tr '\n' ' ')"
+            exit 1
+          }
 
       - name: Sync Turnstile secret (contact worker)
         env:
