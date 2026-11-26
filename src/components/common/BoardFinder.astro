@@ -29,20 +29,20 @@ const expOptions = [
 ];
 
 const useOptions = [
-  { value: 'allaround', label: finder.use_allaround || 'All-Around & Recreation' },
-  { value: 'touring', label: finder.use_touring || 'Touring & Distance' },
-  { value: 'yoga', label: finder.use_yoga || 'Yoga & Fitness' },
-  { value: 'fishing', label: finder.use_fishing || 'Fishing' },
-  { value: 'performance', label: finder.use_performance || 'Surf, Race & Whitewater' },
+  { value: 'allaround', label: finder.use_allaround || 'Cold Plunge & Recovery' },
+  { value: 'touring', label: finder.use_touring || 'Family Fun & Kids Play' },
+  { value: 'yoga', label: finder.use_yoga || 'Soaking & Relaxation' },
+  { value: 'fishing', label: finder.use_fishing || 'Pool Parties' },
+  { value: 'performance', label: finder.use_performance || 'Fitness & Exercise' },
   { value: 'family', label: finder.use_family || 'Family & Multi-Person' },
   { value: 'kids', label: finder.use_kids || 'Kids & Teens' },
 ];
 
 const weightOptions = [
-  { value: 'lt140', label: finder.w_lt140 || 'Under 140 lbs (64 kg)' },
-  { value: '140_180', label: finder.w_140_180 || '140-180 lbs (64-82 kg)' },
-  { value: '180_230', label: finder.w_180_230 || '180-230 lbs (82-104 kg)' },
-  { value: 'gt230', label: finder.w_gt230 || 'Over 230 lbs (104 kg)' },
+  { value: 'lt140', label: finder.w_lt140 || 'Small patio or deck' },
+  { value: '140_180', label: finder.w_140_180 || 'Small to mid lawn' },
+  { value: '180_230', label: finder.w_180_230 || 'Mid to large lawn' },
+  { value: 'gt230', label: finder.w_gt230 || 'Large backyard' },
 ];
 
 const finderProductsJson = JSON.stringify(products);
@@ -58,19 +58,19 @@ const specLabelsJson = JSON.stringify({
 ---
 
 <section
-  id="board-finder"
+  id="pool-finder"
   class="mt-12 p-6 md:p-8 bg-white rounded-2xl border border-gray-200 shadow-sm"
   data-finder-count={products.length}
 >
-  <h2 class="text-2xl md:text-3xl font-semibold text-gray-900">{finder.title || 'Find Your Board'}</h2>
+  <h2 class="text-2xl md:text-3xl font-semibold text-gray-900">{finder.title || 'Find Your Pool'}</h2>
   <p class="mt-2 text-gray-500">
-    {finder.subtitle || 'Answer three quick questions and we will match you with the right board.'}
+    {finder.subtitle || 'Answer three quick questions and we will match you with the right pool.'}
   </p>
 
   <div class="mt-8 grid gap-8 lg:grid-cols-3">
     <div data-finder-group="experience">
       <h3 class="text-sm font-semibold uppercase tracking-wider text-gray-400">
-        {finder.q_experience || 'Your paddling experience'}
+        {finder.q_experience || 'Who will use it?'}
       </h3>
       <div class="mt-3 flex flex-wrap gap-2">
         {
@@ -91,7 +91,7 @@ const specLabelsJson = JSON.stringify({
 
     <div data-finder-group="use">
       <h3 class="text-sm font-semibold uppercase tracking-wider text-gray-400">
-        {finder.q_use || 'How will you use your board?'}
+        {finder.q_use || 'How will you use your pool?'}
       </h3>
       <div class="mt-3 flex flex-wrap gap-2">
         {
@@ -110,7 +110,7 @@ const specLabelsJson = JSON.stringify({
     </div>
 
     <div data-finder-group="weight">
-      <h3 class="text-sm font-semibold uppercase tracking-wider text-gray-400">{finder.q_weight || 'Rider weight'}</h3>
+      <h3 class="text-sm font-semibold uppercase tracking-wider text-gray-400">{finder.q_weight || 'Backyard size'}</h3>
       <div class="mt-3 flex flex-wrap gap-2">
         {
           weightOptions.map((o) => (
@@ -136,12 +136,12 @@ const specLabelsJson = JSON.stringify({
           {finder.start_over || 'Start over'}
         </button>
         <a href={compareUrl} class="font-medium text-sky-600 hover:text-sky-700 transition-colors">
-          {finder.compare_all || 'Compare all boards'}
+          {finder.compare_all || 'Compare all pools'}
         </a>
       </div>
     </div>
     <p id="finder-hint" class="mt-3 text-gray-500">
-      {finder.results_hint || 'Select your experience, planned use, and rider weight to see your board matches.'}
+      {finder.results_hint || 'Select your swimmers, planned use, and backyard size to see your pool matches.'}
     </p>
     <div id="finder-results" class="mt-6 grid gap-6 md:grid-cols-3"></div>
   </div>
@@ -162,24 +162,25 @@ const specLabelsJson = JSON.stringify({
 </style>
 <script is:inline define:vars={{ finderProductsJson, finderStringsJson, specLabelsJson }}>
   (function () {
-    const root = document.getElementById('board-finder');
+    const root = document.getElementById('pool-finder');
     if (!root) return;
     const P = JSON.parse(finderProductsJson);
     const S = JSON.parse(finderStringsJson);
     const L = JSON.parse(specLabelsJson);
     const state = { experience: null, use: null, weight: null };
     const USE_SERIES = {
-      allaround: ['all-around', 'mini', 'yoga'],
-      touring: ['touring', 'all-around'],
-      yoga: ['yoga', 'all-around'],
-      fishing: ['fishing', 'multi-purpose', 'all-around'],
-      performance: ['surf', 'race', 'whitewater'],
-      family: ['multi-person', 'all-around'],
-      kids: ['kids-teens', 'mini'],
+      allaround: ['plunge'],
+      touring: ['family'],
+      yoga: ['plunge', 'family'],
+      fishing: ['grand', 'family'],
+      performance: ['grand'],
+      family: ['family', 'grand'],
+      kids: ['family', 'plunge'],
     };
-    const RIDER = { lt140: 130, '140_180': 160, '180_230': 205, gt230: 255 };
-    const BEGINNER_OK = ['all-around', 'mini', 'kids-teens', 'yoga', 'multi-person'];
-    const ADV = ['race', 'surf', 'whitewater'];
+    const SPACE_RANK = { lt140: 0, '140_180': 1, '180_230': 2, gt230: 3 };
+    const SERIES_RANK = { plunge: 0, family: 1, grand: 2 };
+    const ADULTS_OK = ['plunge'];
+    const CROWDS = ['grand'];
 
     function scoreOf(p, strict) {
       const series = USE_SERIES[state.use] || [];
@@ -187,16 +188,16 @@ const specLabelsJson = JSON.stringify({
       if (series.indexOf(p.series) === 0) s += 4;
       else if (series.indexOf(p.series) > -1) s += 2;
       if (state.experience === 'beginner') {
-        if (BEGINNER_OK.indexOf(p.series) > -1) s += 2;
-        if (ADV.indexOf(p.series) > -1) s -= 4;
-      } else if (state.experience === 'advanced' && ADV.indexOf(p.series) > -1) {
+        if (ADULTS_OK.indexOf(p.series) > -1) s += 2;
+        if (CROWDS.indexOf(p.series) > -1) s -= 4;
+      } else if (state.experience === 'advanced' && CROWDS.indexOf(p.series) > -1) {
         s += 2;
       }
-      if (p.maxLoadLbs) {
-        if (p.maxLoadLbs >= RIDER[state.weight] + 25) s += 2;
-        else if (p.maxLoadLbs < RIDER[state.weight]) {
-          if (strict) return null;
-        }
+      const rank = SERIES_RANK[p.series];
+      if (rank !== undefined) {
+        const space = SPACE_RANK[state.weight];
+        if (rank === space) s += 2;
+        else if (strict && rank > space + 1) return null;
       }
       return s;
     }

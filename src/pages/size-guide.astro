@@ -2,6 +2,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 
 import Layout from '~/layouts/PageLayout.astro';
+import { SITE } from 'astrowind:config';
 import JsonLd from '~/components/common/JsonLd.astro';
 import BoardFinder from '~/components/common/BoardFinder.astro';
 import { getProducts } from '~/utils/products';
@@ -18,9 +19,9 @@ const tableHeaders = page.table?.headers || {};
 const howToChoose = page.how_to_choose || {};
 
 const metadata = {
-  title: `Size Guide –{SITE.name}`,
+  title: `Size Guide – ${SITE.name}`,
   description:
-    'Find the right size inflatable SUP for your needs. Compare dimensions, weight capacities, and recommended uses.',
+    'Find the right size inflatable pool for your backyard. Compare dimensions, water capacities, and recommended uses.',
 };
 
 const products = await getProducts();
@@ -86,42 +87,42 @@ const finderProducts = products
       mainEntity: [
         {
           '@type': 'Question',
-          name: 'How do I choose the right SUP board size?',
+          name: 'How do I choose the right pool size?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'Choose length based on your weight and intended use. Wider boards (32"+) offer more stability. Longer boards (11-12 ft) track better for touring. Heavier paddlers need higher volume boards.',
+            text: 'Choose based on your backyard space and household size. Wider pools offer more swimming room, while 20 cm drop-stitch walls add rigidity and comfortable depth. Larger families should consider pools from 400 cm in length.',
           },
         },
         {
           '@type': 'Question',
-          name: 'What is the weight capacity of olagoon SUPs?',
+          name: 'What is the water capacity of OLagoon pools?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'Weight capacities vary by model. Our inflatable SUPs typically support 220-350 lbs depending on length and volume. Check individual product specs for exact capacity.',
+            text: 'Water capacity varies by model. Our inflatable pools typically hold 2,000-8,000 L depending on dimensions and wall height. Check individual product specs for exact capacity.',
           },
         },
         {
           '@type': 'Question',
-          name: 'Are all olagoon SUPs the same width?',
+          name: 'Are all OLagoon pools the same wall height?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'No. Board widths range from 30" to 36". Narrower boards (30-32") are faster and better for touring. Wider boards (33-36") offer more stability for fishing, yoga, and beginners.',
+            text: 'No. Wall heights range from 20 cm to 33 cm. Taller walls add depth for adult swimming, while shallower walls fill faster and are easier to heat.',
           },
         },
         {
           '@type': 'Question',
-          name: 'What size SUP is best for beginners?',
+          name: 'What size pool is best for families?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'Beginners should choose a wider board (32-34") that is 10-11 ft long. The extra width provides stability while learning balance and paddle technique.',
+            text: 'Families should choose a pool of at least 300 x 200 cm with 20 cm walls or higher. The extra space provides comfortable swimming for several children or two adults.',
           },
         },
         {
           '@type': 'Question',
-          name: 'Do SUP accessories come in universal sizes?',
+          name: 'Do pool accessories come in universal sizes?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'Most olagoon accessories use universal sizing. Life vests come in S/M/L/XL, leashes in standard lengths, and paddles are adjustable from 68" to 86" to fit most paddlers.',
+            text: 'Most OLagoon accessories are sized to match specific pool models. Ground mats and thermal covers follow pool dimensions, while sand-filter pumps and entry steps fit all standard models.',
           },
         },
       ],
@@ -130,7 +131,7 @@ const finderProducts = products
   <section class="max-w-6xl mx-auto py-24 px-6">
     <h1 class="text-4xl font-semibold text-gray-900">{hero.title || 'Size & Specs Guide'}</h1>
     <p class="mt-4 text-lg text-gray-500">
-      {hero.subtitle || 'Dimensions, capacities, and recommended uses for every olagoon product.'}
+      {hero.subtitle || 'Dimensions, capacities, and recommended uses for every OLagoon product.'}
     </p>
 
     <BoardFinder
@@ -212,14 +213,14 @@ const finderProducts = products
             ? howToChoose.cards
             : [
                 {
-                  title: 'SUP Boards',
+                  title: 'Family Pools',
                   description:
-                    'Choose length based on your weight and intended use. Wider boards (32"+) offer more stability. Longer boards (11-12 ft) track better for touring. Heavier paddlers need higher volume boards.',
+                    'Choose based on your backyard space and household size. Wider pools offer more swimming room, while 20 cm drop-stitch walls add rigidity and comfortable depth for the whole family.',
                 },
                 {
-                  title: 'Fishing SUPs',
+                  title: 'Compact Plunge Pools',
                   description:
-                    'Wider and longer boards provide the stability needed for stand-up fishing. Look for high weight capacity and multiple attachment points for gear.',
+                    'Smaller pools fit urban yards and patios. Look for quick setup times and efficient heating — compact models fill faster and hold warmth better.',
                 },
               ]
           ).map((card: any) => (
