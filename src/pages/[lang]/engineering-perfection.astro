@@ -17,10 +17,10 @@ const { lang } = Astro.params;
 const t = (key: string) => getUiForLang(lang || defaultLang)?.[key] || '';
 
 const metadata = {
-  title: `${t('engineeringPerfection.title') || 'Engineering Perfection — Inflatable SUP Manufacturing Excellence'} | ${SITE.name}`,
+  title: `${t('engineeringPerfection.title') || 'Engineering Perfection — Drop-Stitch Inflatable Pool Manufacturing Excellence'} | ${SITE.name}`,
   description:
     t('engineeringPerfection.desc') ||
-    `${SITE.name}'s engineering philosophy: precision manufacturing, premium material selection, rigorous quality control, and segment-specific design for touring, fishing, yoga, and recreational inflatable SUP boards.`,
+    `${SITE.name}'s engineering philosophy: precision manufacturing, premium material selection, rigorous quality control, and segment-specific design for family, plunge, and large-capacity drop-stitch inflatable pools.`,
 };
 
 const crumbs = [
@@ -39,7 +39,7 @@ const pillars = [
     title: t('engineeringPerfection.p2') || 'Precision Engineering & Design',
     content:
       t('engineeringPerfection.p2desc') ||
-      'Our design team comprises experienced board designers who leverage advanced CAD software and real-world testing to create boards that are hydrodynamically efficient, exceptionally stable, and robust. Every curve, seam, and attachment point is meticulously planned and analyzed.',
+      'Our design team comprises experienced product designers who leverage advanced CAD software and real-world testing to create pools that are structurally rigid, exceptionally stable, and robust. Every curve, seam, and attachment point is meticulously planned and analyzed.',
   },
   {
     title: t('engineeringPerfection.p3') || 'Craftsmanship & Manufacturing Excellence',
@@ -57,28 +57,28 @@ const pillars = [
 
 const segments = [
   {
-    name: t('engineeringPerfection.s1') || 'Whitewater SUPs',
+    name: t('engineeringPerfection.s1') || 'Family Pools',
     desc:
       t('engineeringPerfection.s1desc') ||
-      'High-denier PVC with heavy reinforcements, high rocker, and continuous grab lines for maximum buoyancy and control.',
+      'High-denier PVC with heavily reinforced walls, wide stable bases, and continuous grab lines for maximum safety and comfort.',
   },
   {
-    name: t('engineeringPerfection.s2') || 'Fishing SUPs',
+    name: t('engineeringPerfection.s2') || 'Plunge Pools',
     desc:
       t('engineeringPerfection.s2desc') ||
-      'Exceptional stability and shallow draft. Features include rod holders, gear mounts, elevated seating, and quieter muted colors for stealth approach.',
+      'Exceptional stability and a compact footprint. Features include integrated seating, reinforced walls, and thermal-efficient materials for cold-water recovery.',
   },
   {
-    name: t('engineeringPerfection.s3') || 'Touring SUPs',
+    name: t('engineeringPerfection.s3') || 'Large-Capacity Pools',
     desc:
       t('engineeringPerfection.s3desc') ||
-      'Streamlined shapes and stiff drop-stitch cores for efficient glide, with cargo mounts and gear tracks for long-distance paddling.',
+      'Full-size swimming zones with stiff drop-stitch cores and 20 cm walls, with robust ladder mounts and filtration-ready fittings.',
   },
   {
-    name: t('engineeringPerfection.s4') || 'All-Around SUPs',
+    name: t('engineeringPerfection.s4') || 'All-Around Backyard Pools',
     desc:
       t('engineeringPerfection.s4desc') ||
-      'Versatile design for family paddling with high priority on stability, safety, comfort, and ease of inflation, deflation, and transport.',
+      'Versatile design for backyard swimming with high priority on stability, safety, comfort, and ease of inflation, deflation, and storage.',
   },
 ];
 ---
@@ -122,7 +122,7 @@ const segments = [
       <p class="text-sm font-semibold text-primary uppercase tracking-wider">
         {t('engineeringPerfection.segBadge') || 'Specialized Segments'}
       </p>
-      <h2 class="mt-2 text-3xl font-bold">{t('engineeringPerfection.segTitle') || 'Tailored for Adventure'}</h2>
+      <h2 class="mt-2 text-3xl font-bold">{t('engineeringPerfection.segTitle') || 'Tailored for Every Backyard'}</h2>
     </div>
     <div class="grid md:grid-cols-2 gap-6">
       {
@@ -144,7 +144,7 @@ const segments = [
       <p class="mt-4 text-muted leading-relaxed text-center max-w-3xl mx-auto">
         {
           t('engineeringPerfection.artDesc') ||
-            'From CNC-precision fabric cutting and advanced thermal welding to controlled-environment adhesive bonding and exhaustive multi-stage testing, every OLagoon board represents the pinnacle of inflatable craft manufacturing. Our production process is designed to prevent common defects — seam leaks, delamination, valve failures, dimensional inconsistencies — before they can occur.'
+            'From CNC-precision fabric cutting and advanced thermal welding to controlled-environment adhesive bonding and exhaustive multi-stage testing, every OLagoon pool represents the pinnacle of drop-stitch manufacturing. Our production process is designed to prevent common defects — seam leaks, delamination, valve failures, dimensional inconsistencies — before they can occur.'
         }
       </p>
       <div class="text-center mt-8">
@@ -164,17 +164,17 @@ const segments = [
     stories={[
       {
         quote:
-          "We tested five manufacturers' SUPs for our rental fleet. After 500 rentals, the OLagoon boards had the lowest failure rate — less than 2% vs 8-15% for competitors.",
+          "We tested five manufacturers' inflatable pools for our rental program. After 500 rentals, the OLagoon pools had the lowest failure rate — less than 2% vs 8-15% for competitors.",
         narrative:
-          'A European resort operator conducted a year-long comparative test of inflatable SUPs from five manufacturers for their 200-board rental fleet. After 500 rental cycles per board, the OLagoon boards showed the least valve wear, the fewest seam leaks, and the best pressure retention.',
+          'A European resort operator conducted a year-long comparative test of drop-stitch inflatable pools from five manufacturers for their 200-unit rental fleet. After 500 rental cycles per pool, the OLagoon pools showed the least valve wear, the fewest seam leaks, and the best pressure retention.',
         context: 'Resort rental fleet comparison, Mediterranean, 2024',
         source: 'Resort Operations Director',
       },
       {
         quote:
-          'When a customer reported a slow leak on a board after two years, we traced it to a valve core that had been cross-threaded during a field repair. The board itself was still structurally perfect.',
+          'When a customer reported a slow leak on a pool after two years, we traced it to a valve core that had been cross-threaded during a field repair. The pool itself was still structurally perfect.',
         narrative:
-          "OLagoon's quality team investigates every warranty claim thoroughly. In this case, a two-year-old board returned with a slow leak was found to have no manufacturing defects — the drop-stitch core, seams, and fabric were all within specification.",
+          "OLagoon's quality team investigates every warranty claim thoroughly. In this case, a two-year-old pool returned with a slow leak was found to have no manufacturing defects — the drop-stitch core, seams, and fabric were all within specification.",
         context: 'Warranty analysis, North America, 2024',
         source: 'Quality Assurance Team',
       },
