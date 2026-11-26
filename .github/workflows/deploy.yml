@@ -64,9 +64,14 @@ jobs:
         run: npm run deploy:workers
 
       - name: Sync Turnstile secret (contact worker)
-        if: ${{ secrets.CONTACT_TURNSTILE_SECRET != '' }}
+        env:
+          CONTACT_TURNSTILE_SECRET: ${{ secrets.CONTACT_TURNSTILE_SECRET }}
         run: |
-          printf '%s' "${{ secrets.CONTACT_TURNSTILE_SECRET }}" | npx wrangler secret put TURNSTILE_SECRET -c workers/contact-worker/wrangler.toml
+          if [ -n "$CONTACT_TURNSTILE_SECRET" ]; then
+            printf '%s' "$CONTACT_TURNSTILE_SECRET" | npx wrangler secret put TURNSTILE_SECRET -c workers/contact-worker/wrangler.toml
+          else
+            echo "CONTACT_TURNSTILE_SECRET not set; skipping Turnstile sync."
+          fi
 
       - name: Deploy Pages (olagoon.com)
         run: npx wrangler pages deploy dist/ --project-name olagoon
