@@ -605,11 +605,23 @@ Per-locale schema helper `createLocaleSchema()` wraps every section in all 22 lo
 
 | Secret | 必需性 | 说明 |
 | --- | --- | --- |
-| `CLOUDFLARE_API_TOKEN` | 必需 | 未设置时 diag workflow 所有步骤自动跳过 |
-| `CLOUDFLARE_ACCOUNT_ID` | 必需 | `2ac0f11c5362bbba3a7b34693dd56ba4` |
+| `CLOUDFLARE_API_TOKEN` | 必需 | 未设置时 deploy workflow 在凭据检查步骤直接失败 |
+| `CLOUDFLARE_ACCOUNT_ID` | 必需 | `2ac0f11c5362bbba3a7b34693dd56ba4`（workflow 内置同值回退） |
 | `CLOUDFLARE_ZONE_ID` | 可选 | 设置后 R2 上传完成会清理 olagoon.com 边缘缓存；未设置跳过 |
+| `CONTACT_TURNSTILE_SECRET` | 可选 | 设置后每次部署自动同步到 contact worker 的 `TURNSTILE_SECRET` |
 
-自动部署 workflow：`.github/workflows/deploy.yml`（push 到 master 或手动 `workflow_dispatch` 触发，执行顺序：build → 注入 D1 database id → R2 上传 → 4 Workers 部署 → Turnstile 密钥同步（需可选 Secret `CONTACT_TURNSTILE_SECRET`）→ Pages 部署）。D1 database id 由 CI 通过 API 动态解析，无需 Secret。
+**自动部署 workflow：`.github/workflows/deploy.yml`**（push 到 master（非 `**.md` 变更）或手动 `workflow_dispatch` 触发），步骤顺序：
+
+1. Build（5,941 页）
+2. 幂等资源开通（缺则建，全部走 Cloudflare API）：D1 `olagoon-inquiries`（id 自动注入 wrangler.toml）→ Vectorize `ai-index`（768 维 cosine）→ R2 `olagoon-assets`/`olagoon-data` → R2 自定义域名 `assets.olagoon.com`（挂到 `olagoon-assets`，站内 `/images|/files` 301 到此）→ workers.dev 子域名（cron 触发器前置要求，API 错误 10063）→ Pages 项目 `olagoon`（production branch `master`）→ Pages 自定义域名 `olagoon.com` + apex CNAME `→ olagoon.pages.dev`（DNS 记录，幂等）
+3. D1 schema 应用（`schema.sql`，幂等）
+4. R2 静态资源增量上传（`scripts/fast-upload-r2.mjs`）
+5. 4 个 Worker 部署（contact/ai/admin/automation，各独立步骤，失败带错误注解）
+6. automation cron `0 2 * * *`（REST `/workers/scripts/olagoon-automation/schedules`；wrangler `[triggers]` 在 CI 会报错，故不用）
+7. Turnstile 密钥同步（需 Secret `CONTACT_TURNSTILE_SECRET`，未设则跳过）
+8. Pages 部署（`wrangler pages deploy dist/`，连带 `functions/` 中间件）
+
+诊断通道：`::error::`/`::warning::`/`::notice::` 注解在 run 页面公开可见（匿名无法看日志，注解可读）；资源现状也可通过注解中的 zone 记录列表核对。
 
 ### 3. Cloudflare API Token 权限（自定义令牌）
 
@@ -630,6 +642,7 @@ Per-locale schema helper `createLocaleSchema()` wraps every section in all 22 lo
 | 权限 | 级别 | 用途 |
 | --- | --- | --- |
 | Zone | Read | 区域解析、Routes 部署 |
+| DNS | Edit | 创建 apex CNAME `olagoon.com → olagoon.pages.dev`、读取现有记录 |
 | Cache Purge | Purge | R2 上传后清边缘缓存 |
 | Workers Routes | Edit | 把各 worker 的 `routes` 挂到 olagoon.com |
 
@@ -651,6 +664,10 @@ Per-locale schema helper `createLocaleSchema()` wraps every section in all 22 lo
 | `ASSETS_BASE_URL` | 可选 | 资源基址，默认 `https://assets.olagoon.com` |
 
 ### 6. 部署命令
+
+主部署通道是 **GitHub Actions**（push 到 master 自动触发，见第 2 节）——资源开通、DNS、cron、secrets 同步全部在 CI 内完成，本机无需任何 Cloudflare 凭据。
+
+本机命令（需本机设置 `CLOUDFLARE_API_TOKEN` 等，仅用于调试或手动重部署）：
 
 ```bash
 npm run build        # 构建 dist/
