@@ -1,49 +1,52 @@
 meta:
-  title: Risorse e Download B2B | {SITE}
-  description: Scarica guide di produzione OEM, cataloghi di prodotti, rapporti sulla qualità e calcolatori ROI per attività di SUP gonfiabili.
+  title: 'B2B Resources & Downloads | {SITE}'
+  description: 'Download OEM manufacturing guides, product catalogs, quality reports, and planning tools for inflatable pool business partners.'
+
 hero:
-  tagline: Centro Risorse
-  title: Strumenti e Risorse<br />Per i Partner Commerciali SUP
-  subtitle: Scarica guide OEM, cataloghi di prodotti, rapporti di qualità e utilizza il nostro calcolatore ROI per pianificare il tuo investimento nella flotta di SUP.
+  tagline: Resource Center
+  title: 'Tools & Resources<br />For Pool Business Partners'
+  subtitle: 'Download OEM guides, product catalogs, and quality reports for your inflatable pool program.'
+
 resources:
-  - title: Catalogo Prodotti OEM/ODM 2026
-    description: Gamma completa di prodotti con specifiche, fasce di prezzo, MOQ e opzioni di personalizzazione per i partner B2B.
-    icon: tabler:file-text
-    type: catalog
-    link: /media/
-    cta: Scarica il catalogo
-  - title: Guida al Marchio SUP a Marchio Privato
-    description: Guida passo passo per lanciare il proprio marchio di SUP — dalla ricerca di mercato e progettazione alla produzione e distribuzione globale.
-    icon: tabler:book
-    type: guide
-    link: /news/private-label-sup-oem-guide/
-    cta: Leggi la guida
-  - title: Calcolatore ROI Flotta SUP
-    description: Stima l'investimento per la flotta di SUP del tuo resort o club, le entrate previste e il periodo di recupero con il nostro calcolatore interattivo.
-    icon: tabler:calculator
-    type: tool
+  - title: '2026 OEM/ODM Product Catalog'
+    description: 'Complete drop-stitch pool lineup with specifications, pricing tiers, MOQ, and customization options for B2B partners.'
+    icon: 'tabler:file-text'
+    type: 'catalog'
+    link: '/media/'
+    cta: 'Download Catalog'
+  - title: 'Drop-Stitch Pool Knowledge Base'
+    description: 'Structured guides on drop-stitch technology, water safety, materials engineering, and pool care for you and your customers.'
+    icon: 'tabler:book'
+    type: 'guide'
+    link: '/knowledge/'
+    cta: 'Open Knowledge Base'
+  - title: 'Pool Program Planning Tools'
+    description: 'Estimate your resort, community, or retail pool program investment, projected revenue, and payback period.'
+    icon: 'tabler:calculator'
+    type: 'tool'
     link: '#roi-calculator'
-    cta: Calcola il ROI
-  - title: Rapporto sulla Qualità e Certificazione
-    description: Documenti di certificazione CE, gestione della qualità ISO 9001, risultati dei test di invecchiamento UV e dati del test di tenuta alla pressione.
-    icon: tabler:certificate
-    type: report
-    link: /evidence/
-    cta: Visualizza rapporti
-  - title: Brochure delle Capacità della Fabbrica
-    description: Tour virtuale della nostra struttura produttiva di 12.000 m² con dettagli sulla linea di produzione e sui processi di controllo qualità.
-    icon: tabler:building-factory
-    type: brochure
-    link: /factory/
-    cta: Fabbrica di Tour
-  - title: Guida ai Ricavi della Flotta del Resort
-    description: Analisi del ROI della flotta commerciale di SUP con modelli di prezzo, tassi di utilizzo e risultati di casi reali provenienti da resort a 5 stelle.
-    icon: tabler:chart-bar
-    type: guide
-    link: /news/commercial-sup-fleet-roi-resorts/
-    cta: Leggi la guida
+    cta: 'Plan Your Program'
+  - title: 'Quality & Certification Report'
+    description: 'CE certification documents, ISO 9001 quality management, UV aging test results, and pressure hold test data.'
+    icon: 'tabler:certificate'
+    type: 'report'
+    link: '/evidence/'
+    cta: 'View Reports'
+  - title: 'Factory Capability Brochure'
+    description: 'Virtual tour of our 12,000 m² manufacturing facility with production line details and quality control processes.'
+    icon: 'tabler:building-factory'
+    type: 'brochure'
+    link: '/factory/'
+    cta: 'Tour Factory'
+  - title: 'Dealer & Retailer Program Guide'
+    description: 'Protected territories, wholesale margins, training, and marketing support for OLagoon dealers across the USA.'
+    icon: 'tabler:chart-bar'
+    type: 'guide'
+    link: '/news/seeking-dealers-for-olagoon/'
+    cta: 'Read Guide'
+
 cta:
-  title: Hai bisogno di aiuto per trovare la risorsa giusta?
-  subtitle: Contatta il nostro team per una consulenza personalizzata sulla selezione dei prodotti, le partnership OEM o le specifiche tecniche.
-  button: Contatta il team vendite
-  link: /contact/?source=resources
+  title: 'Need Custom Support?'
+  subtitle: 'Contact our B2B team for personalized guidance on your project.'
+  button: 'Contact Sales Team'
+  link: '/contact/?source=resources'
