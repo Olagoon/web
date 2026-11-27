@@ -19,7 +19,7 @@ const MAX_RETRY = 5;
 const resendKey = process.env.CONTACT_RESEND_API_KEY;
 const fromEmail = process.env.CONTACT_FROM_EMAIL;
 const toEmail = process.env.CONTACT_EMAIL_TO || 'info@olagoon.com';
-const fromName = process.env.CONTACT_FROM_NAME || 'olagoon Contact';
+const fromName = process.env.CONTACT_FROM_NAME || 'OLagoon Contact';
 
 if (!resendKey || !fromEmail) {
   console.error('Missing CONTACT_RESEND_API_KEY or CONTACT_FROM_EMAIL environment variables — cannot resend.');

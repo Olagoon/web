@@ -10,10 +10,10 @@ hero:
   tagline: About us
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: olagoon factory and workshop
+    alt: OLagoon factory and workshop
   title: |
     Marine engineering, <br />
-    built the <span class="text-accent dark:text-white">olagoon</span> way
+    built the <span class="text-accent dark:text-white">OLagoon</span> way
   subtitle: 'We started in a Qingdao workshop with one pool and a stubborn belief: backyard products should be engineered like they matter, because they do. Today we ship to over 50 countries, but every pool still passes through the same hands that started the company.'
 
 stats:
@@ -78,7 +78,7 @@ steps2_values:
 
 steps2_milestones:
   title: Milestones
-  subtitle: A short version of the olagoon story.
+  subtitle: A short version of the OLagoon story.
   isReversed: true
   items:
     - title: Founded in a coastal workshop
@@ -116,7 +116,7 @@ brand_hub_cards:
     desc: Shipping to 50+ countries from our Qingdao facility with authorized service partners across Europe, Asia-Pacific, and the Americas.
     link: /brand-global-presence/
     link_label: 'Learn more →'
-  - title: Why olagoon
+  - title: Why OLagoon
     desc: A brand built on verified quality — dual certification (ISO 9001 + BSCI), CE compliance, and exclusive country partnerships with limited co-branded collections for water-sports businesses.
     link: /brand-why-olagoon/
     link_label: 'Learn more →'

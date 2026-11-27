@@ -14,7 +14,7 @@ export const sampleTopQueries: GscQuery[] = [
   { query: 'compact vs family pool', impressions: 180, clicks: 3, ctr: 1.67, position: 6.1 },
   { query: 'how long do inflatable pools last', impressions: 160, clicks: 2, ctr: 1.25, position: 8.9 },
   { query: 'best inflatable pool brands', impressions: 140, clicks: 1, ctr: 0.71, position: 13.4 },
-  { query: 'olagoon grand lagoon pool', impressions: 120, clicks: 4, ctr: 3.33, position: 3.2 },
+  { query: 'OLagoon grand lagoon pool', impressions: 120, clicks: 4, ctr: 3.33, position: 3.2 },
   { query: 'inflatable pool safety tips', impressions: 110, clicks: 1, ctr: 0.91, position: 10.7 },
 ];
 
@@ -137,7 +137,7 @@ export const samplePositionChanges: PositionChange[] = [
   },
   {
     slug: 'olagoon-grand-lagoon-pool',
-    title: 'olagoon Grand Lagoon Pool',
+    title: 'OLagoon Grand Lagoon Pool',
     previousPosition: 4.0,
     currentPosition: 3.2,
     delta: -0.8,

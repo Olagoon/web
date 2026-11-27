@@ -34,7 +34,7 @@
     - { key: features2_locations, type: features2, label: 'Our locations' }
 
 - slug: about-olagoon
-  label: About olagoon
+  label: About OLagoon
   path: /about/olagoon
   permalink: /about/olagoon/
   file: src/data/pages/about-olagoon.yaml
@@ -68,7 +68,7 @@
     - { key: cta, type: cta, label: 'Bottom CTA' }
 
 - slug: olagoon-story
-  label: olagoon Story
+  label: OLagoon Story
   path: /olagoon-story
   permalink: /olagoon-story/
   file: src/data/pages/olagoon-story.yaml
@@ -98,7 +98,7 @@
     - { key: cta_section, type: cta, label: 'Bottom CTA' }
 
 - slug: brand-olagoon
-  label: Brand olagoon
+  label: Brand OLagoon
   path: /en/brand/olagoon
   permalink: /en/brand/olagoon/
   file: src/data/pages/brand-olagoon.yaml
@@ -159,7 +159,7 @@
     - { key: cta, type: cta, label: 'Bottom CTA' }
 
 - slug: brand-why-olagoon
-  label: Brand Why olagoon
+  label: Brand Why OLagoon
   path: /brand-why-olagoon
   permalink: /brand-why-olagoon/
   file: src/data/pages/brand-why-olagoon.yaml

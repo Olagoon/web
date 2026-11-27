@@ -1,22 +1,22 @@
 meta:
   title: 'Our Team — Marine Engineers & Builders | {SITE}'
-  description: 'Founded in 2012 in Qingdao, olagoon was built by marine engineers, material scientists, and water sports enthusiasts. Meet the team behind the factory.'
+  description: 'Founded in 2012 in Qingdao, OLagoon was built by marine engineers, material scientists, and water sports enthusiasts. Meet the team behind the factory.'
   keywords:
-    - 'olagoon team'
+    - 'OLagoon team'
     - 'marine engineers'
     - 'inflatable pools manufacturer'
     - 'pool factory team'
 hero:
   tagline: Our Team
-  title: 'The People Behind olagoon<br />— Engineering Freedom on Water'
-  subtitle: 'Founded in 2012 in Qingdao, China, olagoon was built by marine engineers, material scientists, and water sports enthusiasts who believed in making professional-grade inflatable watercraft accessible worldwide.'
+  title: 'The People Behind OLagoon<br />— Engineering Freedom on Water'
+  subtitle: 'Founded in 2012 in Qingdao, China, OLagoon was built by marine engineers, material scientists, and water sports enthusiasts who believed in making professional-grade inflatable watercraft accessible worldwide.'
   image:
     src: /images/team-all.webp
-    alt: olagoon full team photo — engineering, production, and leadership
+    alt: OLagoon full team photo — engineering, production, and leadership
 founding:
   tagline: Our Founding
   title: 'From a Coastal Workshop<br />to a 12,000 m² Facility'
-  subtitle: 'olagoon was founded by a team of marine engineers with decades of combined experience in inflatable pools design, PVC fabrication, and global marine equipment manufacturing.'
+  subtitle: 'OLagoon was founded by a team of marine engineers with decades of combined experience in inflatable pools design, PVC fabrication, and global marine equipment manufacturing.'
   items:
     - title: 'Founded: 2012'
       description: 'Established in Qingdao, China — a major maritime hub with deep shipbuilding heritage.'
@@ -71,7 +71,7 @@ philosophy:
   title: 'Engineering-Led Design<br />— Every Detail Matters'
   subtitle: 'Our engineering philosophy centers on three principles that guide every product we build.'
   list:
-    - 'Reliability First: Every olagoon product is tested to withstand real-world conditions — from cold-water rescue operations to tropical resort rentals. We over-engineer where it matters most.'
+    - 'Reliability First: Every OLagoon product is tested to withstand real-world conditions — from cold-water rescue operations to tropical resort rentals. We over-engineer where it matters most.'
     - 'Manufacturing Precision: Our facilities use CNC cutting, high-frequency welding, and automated pressure testing. Every seam, every valve, every fitting meets documented specifications.'
     - 'Continuous Innovation: Our R&D team evaluates new materials, production methods, and design improvements continuously. We do not wait for problems — we anticipate them.'
 cta:

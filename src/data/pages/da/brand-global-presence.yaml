@@ -1,6 +1,6 @@
 meta:
   title: 'Global Presence — pool Manufacturer Serving 50+ Countries | {SITE}'
-  description: 'olagoon exports inflatable pools to 50+ countries across every continent. Professional manufacturer and supplier for brands, distributors, and fleets.'
+  description: 'OLagoon exports inflatable pools to 50+ countries across every continent. Professional manufacturer and supplier for brands, distributors, and fleets.'
   keywords:
     - 'global pool manufacturer'
     - 'inflatable pool exporter'
@@ -12,7 +12,7 @@ hero:
   subtitle: 'From European resort operators to Australian outdoor retailers to Middle East hospitality groups — OLagoon pools are in backyards worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
-    alt: olagoon global marine manufacturing and distribution
+    alt: OLagoon global marine manufacturing and distribution
 stats:
   title: Global Reach
   stats:
@@ -70,7 +70,7 @@ steps2_logistics:
       description: 'Stock held in Montclair, CA for fast delivery across North America. West Coast: 2-3 days, Central: 3-4 days, East Coast: 4-5 days.'
       icon: tabler:building-warehouse
     - title: Spare Parts
-      description: 'Genuine olagoon spare parts and consumables stocked year-round. Common parts ship within 24 hours.'
+      description: 'Genuine OLagoon spare parts and consumables stocked year-round. Common parts ship within 24 hours.'
       icon: tabler:package
     - title: Technical Support
       description: 'Direct line to our engineering team for technical questions, repair advice, and replacement-part support. We support every pool generation we have built.'

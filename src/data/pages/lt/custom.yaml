@@ -8,7 +8,7 @@ meta:
     - 'private label inflatable pools'
     - 'inflatable pool manufacturing'
 hero:
-  tagline: olagoon Custom Lab
+  tagline: OLagoon Custom Lab
   title: Design Your Own<br />pools
   subtitle: Custom pool partner offering co-brand, private label, and bespoke inflatable pool production for businesses worldwide. From a single prototype to full production runs.
   cta: Start your project
@@ -69,7 +69,7 @@ capabilities_section:
       value: CE, UKCA, FCC (support for global compliance)
 
 why_section:
-  tagline: Why olagoon
+  tagline: Why OLagoon
   title: One factory. One standard. Zero compromises.
   points:
     - text: 12,000 m² integrated manufacturing facility

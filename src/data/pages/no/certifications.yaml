@@ -1,6 +1,6 @@
 meta:
   title: 'Certifications — CE, ISO 9001 & Compliance | {SITE}'
-  description: 'olagoon quality certifications: CE (EN ISO 25649), ISO 9001:2015, BSCI. Compliance and safety for an inflatable pool manufacturer.'
+  description: 'OLagoon quality certifications: CE (EN ISO 25649), ISO 9001:2015, BSCI. Compliance and safety for an inflatable pool manufacturer.'
   keywords:
     - 'ce certification pool'
     - 'iso 9001 pool'
@@ -9,17 +9,17 @@ meta:
 hero:
   tagline: Certifications & Standards
   title: 'Quality Certifications<br />& Compliance Standards'
-  subtitle: 'olagoon pool manufacturing is certified to international marine safety standards, quality management systems, and environmental regulations — CE, ISO 9001, UKCA, BSCI, and REACH.'
+  subtitle: 'OLagoon pool manufacturing is certified to international marine safety standards, quality management systems, and environmental regulations — CE, ISO 9001, UKCA, BSCI, and REACH.'
   image:
     src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
-    alt: olagoon quality certifications and compliance documentation
+    alt: OLagoon quality certifications and compliance documentation
 content_certifications:
   tagline: Our Certifications
   title: 'Certified Quality,<br />Globally Recognized'
-  subtitle: 'Every olagoon product is backed by certifications that demonstrate our commitment to quality, safety, and environmental responsibility.'
+  subtitle: 'Every OLagoon product is backed by certifications that demonstrate our commitment to quality, safety, and environmental responsibility.'
   items:
     - title: 'CE Certified'
-      description: 'All olagoon products comply with European CE marking requirements for recreational watercraft, ensuring safety, health, and environmental protection standards are met.'
+      description: 'All OLagoon products comply with European CE marking requirements for recreational watercraft, ensuring safety, health, and environmental protection standards are met.'
       icon: tabler:certificate
     - title: 'ISO 9001:2015'
       description: 'Our quality management system is ISO 9001:2015 certified, covering design, manufacturing, and distribution of inflatable watercraft and marine equipment.'
@@ -28,10 +28,10 @@ content_certifications:
       description: 'Products sold in the UK market carry UKCA marking, confirming compliance with UK regulations for marine equipment and personal watercraft.'
       icon: tabler:shield
     - title: 'BSCI Compliant'
-      description: 'olagoon is BSCI (Business Social Compliance Initiative) audited, demonstrating ethical manufacturing practices, fair labor conditions, and supply chain responsibility.'
+      description: 'OLagoon is BSCI (Business Social Compliance Initiative) audited, demonstrating ethical manufacturing practices, fair labor conditions, and supply chain responsibility.'
       icon: tabler:heart-handshake
     - title: 'REACH Compliant'
-      description: 'All materials used in olagoon products comply with EU REACH regulations for chemical safety, ensuring no restricted substances in our PVC, EVA, or components.'
+      description: 'All materials used in OLagoon products comply with EU REACH regulations for chemical safety, ensuring no restricted substances in our PVC, EVA, or components.'
       icon: tabler:flask
     - title: 'Material Testing'
       description: 'Fabrics are tested for tensile strength, tear resistance, UV degradation, and cold-crack performance. Every production batch is sampled and verified.'
@@ -49,7 +49,7 @@ content_factory:
 content_safety:
   tagline: Marine Safety Standards
   title: 'Safety First<br />— Designed for Reliable Operation'
-  subtitle: 'olagoon products are designed and tested to meet international marine safety standards for commercial and recreational use.'
+  subtitle: 'OLagoon products are designed and tested to meet international marine safety standards for commercial and recreational use.'
   items:
     - title: 'EN ISO 25649'
       description: 'inflatable pools comply with EN ISO 25649 standards for construction, stability, buoyancy, and load capacity.'

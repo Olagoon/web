@@ -1,18 +1,18 @@
 meta:
-  title: 'Why olagoon — 7 Reasons Global Brands Choose Us | {SITE}'
-  description: 'Why global brands choose olagoon: CE and ISO certifications, flexible MOQ, custom molds, and 30-day lead times from a professional inflatable pools factory.'
+  title: 'Why OLagoon — 7 Reasons Global Brands Choose Us | {SITE}'
+  description: 'Why global brands choose OLagoon: CE and ISO certifications, flexible MOQ, custom molds, and 30-day lead times from a professional inflatable pools factory.'
   keywords:
-    - 'why choose olagoon'
+    - 'why choose OLagoon'
     - 'inflatable pools manufacturer'
     - 'pool factory china'
     - 'inflatable pool supplier'
 hero:
-  tagline: Why olagoon
-  title: 'Seven Reasons Why Global Brands<br />Choose olagoon'
-  subtitle: 'Not all manufacturers are created equal. Here is what makes olagoon the preferred partner for distributors, brands, and operators worldwide.'
+  tagline: Why OLagoon
+  title: 'Seven Reasons Why Global Brands<br />Choose OLagoon'
+  subtitle: 'Not all manufacturers are created equal. Here is what makes OLagoon the preferred partner for distributors, brands, and operators worldwide.'
   image:
     src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
-    alt: olagoon manufacturing quality and expertise
+    alt: OLagoon manufacturing quality and expertise
 stats:
   title: Trust in Numbers
   stats:
@@ -25,13 +25,13 @@ stats:
     - title: Warranty Claims
       amount: '<2%'
 features3_reasons:
-  tagline: Why Choose olagoon
+  tagline: Why Choose OLagoon
   title: 'Seven Reasons to Partner With Us'
   isBeforeContent: false
   columns: 3
   items:
     - title: '1. Real Manufacturing, Not Trading'
-      description: 'We own and operate a 12,000 m² factory. When you partner with olagoon, you work directly with the people who design, engineer, and build your products — no middlemen.'
+      description: 'We own and operate a 12,000 m² factory. When you partner with OLagoon, you work directly with the people who design, engineer, and build your products — no middlemen.'
       icon: tabler:building-factory
     - title: '2. Engineering-Led Approach'
       description: 'Our design process starts with the use case, not the product category. We optimize wall structure, material selection, and configuration for how the pool will actually be used.'
@@ -55,11 +55,11 @@ testimonials:
   tagline: Trusted by Brands Worldwide
   title: What Our Partners Say
   items:
-    - content: 'We have worked with several manufacturers in China, but olagoon stands out for their engineering support and consistent quality. They treat our brand as their own.'
+    - content: 'We have worked with several manufacturers in China, but OLagoon stands out for their engineering support and consistent quality. They treat our brand as their own.'
       name: '— Co-Brand Partner, European Water Sports Brand'
     - content: 'Their pools have been in service with our fleet for over 5 years. Minimal maintenance, excellent UV resistance. The 5-year warranty gives us confidence.'
       name: '— Fleet Operator, Middle East Resort Group'
-    - content: 'The olagoon team helped us develop a custom pools design from concept to production in 90 days. The quality exceeded our expectations.'
+    - content: 'The OLagoon team helped us develop a custom pools design from concept to production in 90 days. The quality exceeded our expectations.'
       name: '— Distributor, Australian Watersports'
 cta:
   title: 'Ready to experience the difference?'

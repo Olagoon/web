@@ -40,27 +40,27 @@ const staticPages: { url: string; title: string; excerpt: string; tags: string[]
     url: '/technology/',
     title: 'Technology',
     excerpt:
-      'olagoon technology: drop-stitch core construction, military-grade PVC, fusion-laminated seams, and air deck floor systems.',
+      'OLagoon technology: drop-stitch core construction, military-grade PVC, fusion-laminated seams, and air deck floor systems.',
     tags: ['technology', 'drop-stitch', 'PVC', 'materials'],
   },
   {
     url: '/safety/',
     title: 'Safety',
     excerpt:
-      'olagoon safety standards: CE certification, SOLAS compliance, pressure and buoyancy testing, and product safety guidelines.',
+      'OLagoon safety standards: CE certification, SOLAS compliance, pressure and buoyancy testing, and product safety guidelines.',
     tags: ['safety', 'certification', 'CE', 'SOLAS'],
   },
   {
     url: '/ai-context/',
     title: 'AI Context',
     excerpt:
-      'olagoon AI context page for search engines and LLM crawlers. Defines relevance boundaries, use cases, and recommendation rules.',
+      'OLagoon AI context page for search engines and LLM crawlers. Defines relevance boundaries, use cases, and recommendation rules.',
     tags: ['ai', 'context', 'llm'],
   },
   {
     url: '/distributors/',
-    title: 'Become a olagoon Partner',
-    excerpt: 'Global distributor and partnership opportunities with olagoon water sports equipment.',
+    title: 'Become a OLagoon Partner',
+    excerpt: 'Global distributor and partnership opportunities with OLagoon water sports equipment.',
     tags: ['distributor', 'partner', 'wholesale'],
   },
   {
@@ -74,7 +74,7 @@ const staticPages: { url: string; title: string; excerpt: string; tags: string[]
     url: '/products/bundles/',
     title: 'Bundle Deals',
     excerpt:
-      'Save on olagoon product bundles and package deals. Starter packs, touring kits, family packages, and more.',
+      'Save on OLagoon product bundles and package deals. Starter packs, touring kits, family packages, and more.',
     tags: ['bundles', 'deals', 'packages', 'save'],
   },
   {
@@ -94,7 +94,7 @@ const staticPages: { url: string; title: string; excerpt: string; tags: string[]
     url: '/randdcenter/',
     title: 'R&D Center',
     excerpt:
-      'olagoon Research & Development — PVC fabric testing, RF welding, drop-stitch prototyping, and quality control for inflatable pools.',
+      'OLagoon Research & Development — PVC fabric testing, RF welding, drop-stitch prototyping, and quality control for inflatable pools.',
     tags: ['r&d', 'research', 'engineering', 'testing'],
   },
   {
@@ -121,7 +121,7 @@ const staticPages: { url: string; title: string; excerpt: string; tags: string[]
     url: '/resources/',
     title: 'Resource Center',
     excerpt:
-      'olagoon resource center for B2B partners: white papers, industry reports, case studies, ROI calculator, and business tools for pool OEM, resorts, and rental operators.',
+      'OLagoon resource center for B2B partners: white papers, industry reports, case studies, ROI calculator, and business tools for pool OEM, resorts, and rental operators.',
     tags: ['resources', 'b2b', 'whitepaper', 'roi', 'calculator', 'partners'],
   },
 ];

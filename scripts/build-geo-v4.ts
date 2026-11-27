@@ -137,7 +137,7 @@ function generateLlmsTxt() {
     const link = (t: string, s: string) => `- [${t}](${langBase}/${s})`;
 
     const lines = [
-      `# ${siteName[lang] || 'olagoon'} Knowledge Graph`,
+      `# ${siteName[lang] || 'OLagoon'} Knowledge Graph`,
       `> ${siteName[lang] || 'OLagoon'} is a drop-stitch inflatable pool knowledge system organized as a machine-readable knowledge graph.`,
       '',
       '## Definition',

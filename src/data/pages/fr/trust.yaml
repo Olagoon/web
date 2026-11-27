@@ -1,6 +1,6 @@
 meta:
   title: 'Trust — Quality, Standards & Reputation | {SITE}'
-  description: 'Why trust olagoon: CE and ISO certifications, integrated factory, global references, and warranty. A professional inflatable pools manufacturer.'
+  description: 'Why trust OLagoon: CE and ISO certifications, integrated factory, global references, and warranty. A professional inflatable pools manufacturer.'
   keywords:
     - 'trusted pool manufacturer'
     - 'certified inflatable pool factory'
@@ -8,16 +8,16 @@ meta:
     - 'certified pool factory'
 hero:
   tagline: 'Built to standards that matter'
-  title: 'Trust olagoon'
+  title: 'Trust OLagoon'
   subtitle: |
     Every product we build is CE certified — tested for safety,<br />
     durability, and performance. No shortcuts. No exceptions.
   taglineSection: 'Certified. Tested. Proven.'
   image: 'https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp'
-  imageAlt: 'olagoon product undergoing quality testing'
+  imageAlt: 'OLagoon product undergoing quality testing'
 
 stats:
-  title: 'olagoon by the numbers'
+  title: 'OLagoon by the numbers'
   stats:
     - title: 'CE Certified'
       description: 'All recreational products meet EU safety standards'
@@ -35,7 +35,7 @@ features3_certifications:
   isBeforeContent: true
   items:
     - title: 'CE Certification'
-      description: 'All olagoon pools meet the European CE safety standard for recreational use. Each product undergoes pressure, buoyancy, and load testing before leaving the factory.'
+      description: 'All OLagoon pools meet the European CE safety standard for recreational use. Each product undergoes pressure, buoyancy, and load testing before leaving the factory.'
       icon: 'tabler:certificate'
     - title: 'ISO 9001'
       description: 'Our 12,000 m² Qingdao facility operates under an ISO 9001 quality management system. Every production batch is traceable, documented, and inspected.'
@@ -56,7 +56,7 @@ features3_certifications:
 testimonials:
   tagline: 'Customer Trust'
   title: 'What our customers say'
-  subtitle: 'From first-time swimmers to professional fleet operators — see why they trust olagoon.'
+  subtitle: 'From first-time swimmers to professional fleet operators — see why they trust OLagoon.'
   items:
     - content: 'We run OLagoon pools across three holiday properties. Two seasons in, zero failures. The CE certification made our local approvals seamless.'
       name: 'Marco V.'

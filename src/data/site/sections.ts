@@ -5,7 +5,7 @@ export interface SiteSection {
 }
 
 export const SITE_SECTIONS: SiteSection[] = [
-  { label: 'Home', path: '/', sitemap: { entity: 'olagoon', type: 'brand', priority: '1.0' } },
+  { label: 'Home', path: '/', sitemap: { entity: 'OLagoon', type: 'brand', priority: '1.0' } },
   { label: 'Products', path: '/products', sitemap: { entity: 'products', type: 'product', priority: '0.9' } },
   {
     label: 'Engineering Perfection',
@@ -26,7 +26,7 @@ export const SITE_SECTIONS: SiteSection[] = [
   { label: 'Academy', path: '/academy', sitemap: { entity: 'academy', type: 'education', priority: '0.7' } },
   { label: 'Size Guide', path: '/size-guide', sitemap: { entity: 'size-guide', type: 'product', priority: '0.5' } },
   {
-    label: 'olagoon Story',
+    label: 'OLagoon Story',
     path: '/olagoon-story',
     sitemap: { entity: 'olagoon-story', type: 'brand', priority: '0.8' },
   },
@@ -55,7 +55,7 @@ export const SITE_SECTIONS: SiteSection[] = [
     sitemap: { entity: 'inflatable-vs-hardboard', type: 'compare', priority: '0.7' },
   },
   {
-    label: 'olagoon vs Traditional Manufacturers Comparison',
+    label: 'OLagoon vs Traditional Manufacturers Comparison',
     path: '/compare/olagoon-vs-traditional-manufacturers',
     sitemap: { entity: 'olagoon-vs-traditional', type: 'compare', priority: '0.7' },
   },
@@ -70,7 +70,7 @@ export const SITE_SECTIONS: SiteSection[] = [
     sitemap: { entity: 'safety-water-sports', type: 'guide', priority: '0.7' },
   },
   {
-    label: 'olagoon AI Brand Profile',
+    label: 'OLagoon AI Brand Profile',
     path: '/llms/brand/olagoon',
     sitemap: { entity: 'llms-brand', type: 'reference', priority: '0.3' },
   },

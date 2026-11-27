@@ -164,7 +164,7 @@ async function handleAdmin(request: Request, env: Env, path: string): Promise<Re
   const token = env.GITHUB_TOKEN;
   if (!token) return json({ error: 'GitHub token not configured' }, 500);
 
-  const owner = env.GITHUB_OWNER || 'olagoon';
+  const owner = env.GITHUB_OWNER || 'OLagoon';
   const repo = env.GITHUB_REPO || 'official';
   const api = `https://api.github.com/repos/${owner}/${repo}`;
 

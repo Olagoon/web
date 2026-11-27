@@ -71,7 +71,7 @@ async function handleChat(request: Request, env: Env): Promise<Response> {
     .filter(Boolean)
     .join('\n');
 
-  const system = `You are a sales agent for olagoon, a marine manufacturing company. Qualify the lead, recommend specific products, and include a call to action (quote, sample, or consultation). Cite sources from the context.\n\nContext:\n${context || 'No specific context found. Use general knowledge.'}`;
+  const system = `You are a sales agent for OLagoon, a marine manufacturing company. Qualify the lead, recommend specific products, and include a call to action (quote, sample, or consultation). Cite sources from the context.\n\nContext:\n${context || 'No specific context found. Use general knowledge.'}`;
   const messages = [
     { role: 'system', content: system },
     ...history.map((m: any) => ({ role: m.role, content: m.content })),
@@ -96,7 +96,7 @@ async function handleAsk(request: Request, env: Env): Promise<Response> {
   }));
 
   const context = matches.map((m: any) => `[${m.title}](${m.url}): ${m.text}`).join('\n\n');
-  const system = `You are a sales agent for olagoon, a marine manufacturing company. Your goal is to qualify leads and recommend products. Follow these guidelines:
+  const system = `You are a sales agent for OLagoon, a marine manufacturing company. Your goal is to qualify leads and recommend products. Follow these guidelines:
 
 1. Understand the customer's application, environment, and requirements before recommending.
 2. Recommend specific product models with reasons why they fit the use case.

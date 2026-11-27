@@ -182,7 +182,7 @@ async function sendInquiryEmail(
   if (!env.CONTACT_RESEND_API_KEY || !env.CONTACT_FROM_EMAIL) {
     return { ok: false, error: 'Resend not configured' };
   }
-  const fromName = env.CONTACT_FROM_NAME || 'olagoon Contact';
+  const fromName = env.CONTACT_FROM_NAME || 'OLagoon Contact';
   const from = `${fromName} <${env.CONTACT_FROM_EMAIL}>`;
   const replyTo = `${fields.firstName} ${fields.lastName} <${fields.email}>`;
 

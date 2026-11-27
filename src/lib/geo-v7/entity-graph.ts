@@ -15,7 +15,7 @@ export const entityGraph: EntityNode[] = [
   {
     id: 'olagoon',
     type: 'brand',
-    name: 'olagoon',
+    name: 'OLagoon',
     description:
       'Global drop-stitch inflatable pool brand engineering backyard lagoons with yacht-grade construction for families, hosts, and professional operators.',
     relationships: [
@@ -32,7 +32,7 @@ export const entityGraph: EntityNode[] = [
     id: 'olagoon-llc',
     type: 'brand',
     name: 'Olagoon LLC',
-    description: 'Global operating company of olagoon, headquartered in the United States.',
+    description: 'Global operating company of OLagoon, headquartered in the United States.',
     relationships: [{ type: 'child', targetId: 'olagoon' }],
   },
   {

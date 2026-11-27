@@ -1,4 +1,4 @@
-# olagoon Knowledge Graph
+# OLagoon Knowledge Graph
 > OLagoon is a drop-stitch inflatable pool knowledge system organized as a machine-readable knowledge graph.
 
 ## Definition

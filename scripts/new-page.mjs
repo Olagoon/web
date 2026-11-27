@@ -281,7 +281,7 @@ excerpt: '${excerpt}'
 image: /images/olagoon/news/${slug}.jpg
 tags: []
 category: ${category}
-author: olagoon Team
+author: OLagoon Team
 metadata:
   title: '${title}'
   description: '${excerpt}'

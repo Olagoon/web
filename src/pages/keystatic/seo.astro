@@ -39,7 +39,7 @@ interface ConfigData {
   siteSettings: SiteSettingsData;
 }
 let data: ConfigData = {
-  site: { name: 'olagoon', site: 'https://olagoon.com' },
+  site: { name: 'OLagoon', site: 'https://olagoon.com' },
   metadata: {
     keywords: [],
     robots: { index: true, follow: true },
@@ -203,7 +203,7 @@ const PLATFORM_ICONS: Record<string, string> = {
           type="text"
           name="keywords"
           value={Array.isArray(getData().metadata?.keywords) ? getData().metadata.keywords.join(', ') : ''}
-          placeholder="olagoon, inflatable SUP, marine, engineering"
+          placeholder="OLagoon, inflatable SUP, marine, engineering"
           class="w-full px-3 py-2 border border-gray-300 dark:border-gray-700 rounded-md bg-white dark:bg-gray-900 text-sm"
         />
         <p class="mt-1 text-xs text-gray-500">
@@ -331,7 +331,7 @@ const PLATFORM_ICONS: Record<string, string> = {
           type="text"
           name="org_name"
           value={getData().siteSettings.organization?.name ?? ''}
-          placeholder="olagoon"
+          placeholder="OLagoon"
           class="w-full px-3 py-2 border border-gray-300 dark:border-gray-700 rounded-md bg-white dark:bg-gray-900 text-sm"
         />
         <p class="mt-1 text-xs text-gray-500">
