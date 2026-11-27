@@ -252,7 +252,7 @@ const hasFileFields = fields.some((f) => (f.type ?? '').toLowerCase() === 'file'
   </div>
 </WidgetWrapper>
 
-<script is:inline>
+<script is:inline data-astro-rerun>
   (function () {
     const forms = document.querySelectorAll('form[data-quotation-form]');
     forms.forEach((formEl) => {

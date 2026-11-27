@@ -482,7 +482,7 @@ const rows = Object.keys(grouped)
   </div>
 </WidgetWrapper>
 
-<script is:inline>
+<script is:inline data-astro-rerun>
   (function () {
     const FORMS_KEY = 'olagoon_partial_form';
 
@@ -604,11 +604,13 @@ const rows = Object.keys(grouped)
       formEl.addEventListener('submit', function () {
         formSubmitted = true;
       });
-      window.addEventListener('beforeunload', function (e) {
+      if (window.__contactBeforeUnload) window.removeEventListener('beforeunload', window.__contactBeforeUnload);
+      window.__contactBeforeUnload = function (e) {
         if (!formSubmitted && hasUnsavedData(formEl)) {
           e.preventDefault();
         }
-      });
+      };
+      window.addEventListener('beforeunload', window.__contactBeforeUnload);
 
       formEl.addEventListener('submit', async (e) => {
         e.preventDefault();

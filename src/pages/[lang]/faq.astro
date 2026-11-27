@@ -130,7 +130,7 @@ const categories = [...new Set(faqs.map((f) => f.category))];
   }
 
   <JsonLd type="FAQPage" faqs={faqs.map((f) => ({ q: f.question, a: f.answer }))} />
-  <script is:inline>
+  <script is:inline data-astro-rerun>
     (function () {
       const input = document.querySelector('[data-faq-search]');
       if (!input) return;

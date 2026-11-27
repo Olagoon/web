@@ -205,7 +205,7 @@ const _contactEmail = getContactEmail();
   </div>
 </div>
 
-<script is:inline>
+<script is:inline data-astro-rerun>
   (function () {
     const toggle = document.getElementById('ai-chat-toggle');
     const panel = document.getElementById('ai-chat-panel');
@@ -249,9 +249,11 @@ const _contactEmail = getContactEmail();
       }
     });
     close.addEventListener('click', closePanel);
-    document.addEventListener('keydown', function (e) {
+    if (window.__aiChatKeydown) document.removeEventListener('keydown', window.__aiChatKeydown);
+    window.__aiChatKeydown = function (e) {
       if (e.key === 'Escape' && !panel.classList.contains('hidden')) closePanel();
-    });
+    };
+    document.addEventListener('keydown', window.__aiChatKeydown);
 
     function addMessage(text, isUser) {
       const div = document.createElement('div');

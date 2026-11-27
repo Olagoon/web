@@ -35,7 +35,7 @@ const q = Astro.url.searchParams.get('q') || '';
   </section>
 
   {q && (
-    <script is:inline>
+    <script is:inline data-astro-rerun>
       (async function () {
         const q = new URLSearchParams(location.search).get('q') || '';
         const lang = document.querySelector('meta[name="x-locale"]')?.getAttribute('content') || 'en';
