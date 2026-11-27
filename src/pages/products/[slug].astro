@@ -572,9 +572,13 @@ const specRows = product.specs ?? [];
     </div>
   </section>
 
-  {/* Image Gallery Script */}
-  <script>
-    const thumbnails = document.querySelectorAll<HTMLElement>('[data-gallery-thumb]');
+  {
+    /* Image Gallery Script: data-astro-rerun re-executes after ClientRouter view-transition
+      navigations (product -> product links). Without it the identical inline module script
+      is deduplicated by the router and thumbnails 2+ get no click listeners. */
+  }
+  <script data-astro-rerun>
+    const thumbnails = document.querySelectorAll('[data-gallery-thumb]');
     if (thumbnails.length > 1) {
       const mainImage = document.getElementById('gallery-main');
       if (thumbnails && mainImage) {
